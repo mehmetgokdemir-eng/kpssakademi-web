@@ -204,8 +204,44 @@ kılavuzunu kontrol etmek gerekir.</p>
 ${sssNedir.map(([s, c]) => `<h3>${esc(s)}</h3><p>${esc(c)}</p>`).join('\n')}
 `
 
+/* ── Konu anlatımı verisi ─────────────────────────────────────
+   Hem /kpss-konulari listesindeki bağlantılar hem de tek tek anlatım
+   sayfaları bu haritalardan üretilir; notlar dosyaları bir kez okunur.
+
+   DİKKAT: Türkçe harfler toLowerCase()'DEN ÖNCE çevrilmeli.
+   'İ'.toLowerCase() → 'i' + U+0307 (birleşik nokta) üretir; sonradan yapılan
+   replace('İ','i') eşleşecek karakter bulamaz ve nokta '-' olur:
+   "İlk Türk Devletleri" → "i-lk-turk-devletleri" gibi bozuk adresler çıkar. */
+const TR_HARF = { İ: 'i', I: 'i', Ş: 's', Ğ: 'g', Ü: 'u', Ö: 'o', Ç: 'c', ı: 'i', ş: 's', ğ: 'g', ü: 'u', ö: 'o', ç: 'c' }
+const slug = (x) =>
+  String(x)
+    .replace(/[İIŞĞÜÖÇışğüöç]/g, (c) => TR_HARF[c] || c)
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-|-$/g, '')
+
+const notlarByDers = new Map()
+/* Anahtar "dersId:konuId" — konuId'ler dersler arasında tekil DEĞİL
+   (ör. uluslararasi_orgutler hem vatandaslik hem uluslararasi-iliskiler'de var). */
+const anlatimYolu = new Map()
+for (const d of index.dersler) {
+  let notlar = []
+  try {
+    notlar = JSON.parse(await readFile(join(KOK, `public/data/notlar/${d.id}.json`), 'utf8'))
+  } catch {
+    continue
+  }
+  notlarByDers.set(d.id, notlar)
+  for (const n of notlar) {
+    if (n.konuId) anlatimYolu.set(`${d.id}:${n.konuId}`, `/konu/${slug(d.ad)}/${slug(n.baslik)}`)
+  }
+}
+
 /* ── Sayfa 2: Konular ─────────────────────────────────────── */
+/* Sınav sırasına göre: Genel Yetenek → Genel Kültür → Eğitim Bilimleri → Alan Bilgisi */
+const GRUP_SIRA = ['gy', 'gk', 'eb', 'ab']
 const gruplar = {}
+for (const g of GRUP_SIRA) if (index.dersler.some((d) => d.grup === g)) gruplar[g] = []
 for (const d of index.dersler) (gruplar[d.grup] ||= []).push(d)
 
 const konularIcerik = `
@@ -221,7 +257,12 @@ ${dersler
     const kl = konular.filter((k) => k.dersId === d.id)
     if (!kl.length) return ''
     return `<h3>${esc(d.ad)} <span style="color:var(--soluk);font-weight:400;font-size:13px">· ${kl.length} konu</span></h3>
-<ul class="konu-liste">${kl.map((k) => `<li>${esc(k.ad)}</li>`).join('')}</ul>`
+<ul class="konu-liste">${kl
+      .map((k) => {
+        const y = anlatimYolu.get(`${d.id}:${k.id}`)
+        return `<li>${y ? `<a href="${y}">${esc(k.ad)}</a>` : esc(k.ad)}</li>`
+      })
+      .join('')}</ul>`
   })
   .join('\n')}`
   )
@@ -325,26 +366,10 @@ const sayfalar = [
 ]
 
 /* ── Konu anlatımı sayfaları (her konu için ayrı statik HTML) ── */
-/* DİKKAT: Türkçe harfler toLowerCase()'DEN ÖNCE çevrilmeli.
-   'İ'.toLowerCase() → 'i' + U+0307 (birleşik nokta) üretir; sonradan yapılan
-   replace('İ','i') eşleşecek karakter bulamaz ve nokta '-' olur:
-   "İlk Türk Devletleri" → "i-lk-turk-devletleri" gibi bozuk adresler çıkar. */
-const TR_HARF = { İ: 'i', I: 'i', Ş: 's', Ğ: 'g', Ü: 'u', Ö: 'o', Ç: 'c', ı: 'i', ş: 's', ğ: 'g', ü: 'u', ö: 'o', ç: 'c' }
-const slug = (x) =>
-  String(x)
-    .replace(/[İIŞĞÜÖÇışğüöç]/g, (c) => TR_HARF[c] || c)
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-|-$/g, '')
-
 const anlatimSayfalari = []
 for (const d of index.dersler) {
-  let notlar = []
-  try {
-    notlar = JSON.parse(await readFile(join(KOK, `public/data/notlar/${d.id}.json`), 'utf8'))
-  } catch {
-    continue
-  }
+  const notlar = notlarByDers.get(d.id)
+  if (!notlar) continue
   for (const n of notlar) {
     const yol = `/konu/${slug(d.ad)}/${slug(n.baslik)}`
     const govde = (n.bolumler || [])
@@ -401,13 +426,77 @@ const uygulamaLd = {
   description:
     'KPSS soru bankası, bilgi kartları, deneme sınavları, coğrafya harita oyunları ve puan hesaplayıcı. Tarayıcıda çalışır, çevrimdışı kullanılabilir.',
 }
+/* Ana sayfa, JavaScript çalıştırmayan bir istemciye tek kelime metin
+   göstermiyordu (gövde yalnızca boş <div id="root">). Arama motorları ve
+   AdSense inceleme tarayıcısı ilk isteği böyle görüyor. Aşağıdaki blok #root
+   içine yazılır; React ilk render'da onun yerini alır, kullanıcı tarafında
+   hiçbir şey değişmez. Metin uygulamanın gerçekte sunduğunu anlatır ve tüm
+   bölümlere iç bağlantı verir. */
+const ist = index.istatistik || {}
+const toplamSoru = ist.soru ?? index.dersler.reduce((t, d) => t + (d.soruSayisi || 0), 0)
+const toplamKart = ist.kart ?? index.dersler.reduce((t, d) => t + (d.kartSayisi || 0), 0)
+const tr = (n) => Number(n).toLocaleString('tr-TR')
+
+const onIcerik = `<div id="on-icerik" style="max-width:820px;margin:0 auto;padding:24px 20px 48px;font:16px/1.65 Inter,system-ui,sans-serif">
+<h1 style="font-size:28px;letter-spacing:-.02em;margin:0 0 10px">KPSS Akademi — Ücretsiz KPSS Soru Bankası ve Çalışma Uygulaması</h1>
+<p>KPSS Akademi, Genel Yetenek, Genel Kültür, Eğitim Bilimleri ve Alan Bilgisi derslerine
+çalışmak için hazırlanmış ücretsiz bir çalışma uygulamasıdır. Tarayıcıda çalışır, telefona
+kurulabilir ve çevrimdışı kullanılabilir. Üyelik gerekmez; ilerlemen kendi cihazında saklanır.</p>
+<ul>
+  <li><b>${tr(toplamSoru)} soru</b> — çözüm açıklamalı, ders ve konu bazlı</li>
+  <li><b>${tr(toplamKart)} bilgi kartı</b> — çevir-öğren, sesli okuma destekli</li>
+  <li><b>${konular.length} konu anlatımı</b> — özet, bölümlü metin ve konudan soru çözme</li>
+  <li><b>Deneme sınavları</b> — süreli, net ve KPSS puanı hesaplı</li>
+  <li><b>Coğrafya ve tarih oyunları</b> — harita, eşleştirme, kronoloji (reklamsız)</li>
+  <li><b>Puan hesaplayıcı</b> — P1, P2, P3, P93, P10 ve P121 puan türleri</li>
+</ul>
+
+<h2 style="font-size:20px;margin:30px 0 8px">Dersler</h2>
+${Object.entries(gruplar)
+  .map(
+    ([g, dersler]) => `<p style="margin:12px 0 4px"><b>${esc(GRUP_ADI[g] || g)}</b></p>
+<p style="margin:0">${dersler
+      .map(
+        (d) =>
+          `<a href="/ders/${d.id}" style="display:inline-block;margin:0 10px 6px 0">${esc(d.ad)}</a>` +
+          `<span style="color:#667492;font-size:13px;margin-right:10px">${tr(d.soruSayisi || 0)} soru</span>`
+      )
+      .join('')}</p>`
+  )
+  .join('\n')}
+
+<h2 style="font-size:20px;margin:30px 0 8px">Rehberler</h2>
+<ul>
+  <li><a href="/kpss-nedir">KPSS Nedir? Sınav yapısı, soru dağılımı ve puanlama</a></li>
+  <li><a href="/kpss-konulari">KPSS Konuları — ${index.dersler.length} ders, ${konular.length} konu listesi</a></li>
+  <li><a href="/kpss-puan-hesaplama">KPSS Puan Hesaplama — net, standart puan ve ağırlıklar</a></li>
+</ul>
+
+<h2 style="font-size:20px;margin:30px 0 8px">Bölümler</h2>
+<p><a href="/dersler">Dersler</a> · <a href="/kartlar">Bilgi Kartları</a> ·
+<a href="/quiz">Quiz</a> · <a href="/denemeler">Denemeler</a> ·
+<a href="/oyunlar">Oyunlar</a> · <a href="/puan-hesapla">Puan Hesapla</a> ·
+<a href="/istatistik">İstatistik</a></p>
+
+<p style="color:#667492;font-size:13px;margin-top:34px">
+<a href="/hakkinda">Hakkında</a> · <a href="/gizlilik">Gizlilik</a> · <a href="/iletisim">İletişim</a> ·
+<a href="https://play.google.com/store/apps/details?id=com.nihangokdemir.kpss">Android uygulaması</a><br>
+KPSS Akademi bağımsız bir çalışma aracıdır; ÖSYM ile resmî bir bağlantısı yoktur.
+Sınav tarihleri ve resmî sonuçlar için osym.gov.tr esas alınmalıdır.</p>
+</div>`
+
 const anaSayfa = join(DIST, 'index.html')
 let html = await readFile(anaSayfa, 'utf8')
 if (!html.includes('WebApplication')) {
   html = html.replace('</head>', `<script type="application/ld+json">${JSON.stringify(uygulamaLd)}</script>\n</head>`)
-  await writeFile(anaSayfa, html, 'utf8')
-  console.log('  ✓ dist/index.html — WebApplication şeması eklendi')
 }
+if (html.includes('<div id="root"></div>')) {
+  html = html.replace('<div id="root"></div>', `<div id="root">${onIcerik}</div>`)
+  console.log('  ✓ dist/index.html — ön içerik + WebApplication şeması eklendi')
+} else {
+  console.log('  ! dist/index.html — <div id="root"></div> bulunamadı, ön içerik eklenmedi')
+}
+await writeFile(anaSayfa, html, 'utf8')
 
 const sitemapYollari = [
   ['/', '1.0', 'weekly'],
