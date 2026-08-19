@@ -12,7 +12,9 @@
     "build:app": "vite build",
     "seo": "node tools/seo-sayfa-uret.mjs",
     "veri:android": "node tools/android-veri-cikar.mjs",
-    "icerik:aktar": "node tools/android-assets-aktar.mjs"
+    "icerik:aktar": "node tools/android-assets-aktar.mjs",
+    "deneme:uret": "node tools/deneme-uret.mjs",
+    "oyun:uret": "node tools/oyun-veri-uret.mjs"
   },
   "dependencies": {
     "react": "^19.2.8",
