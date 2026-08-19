@@ -537,9 +537,16 @@ console.log(`  ✓ dist/sitemap.xml — ${sitemapYollari.length} adres`)
    özetiyle damgalanır: içerik değişmediyse damga da değişmez (gereksiz
    güncelleme bildirimi çıkmaz), değiştiyse otomatik yenilenir. */
 const varliklar = await readdir(join(DIST, 'assets')).catch(() => [])
-const damga = createHash('sha256').update(varliklar.sort().join('|')).digest('hex').slice(0, 8)
 const swYolu = join(DIST, 'sw.js')
 let sw = await readFile(swYolu, 'utf8')
+/* sw.js'in KENDİ içeriği de damgaya girer. Aksi hâlde yalnızca service worker
+   mantığı değiştiğinde damga sabit kalır; cache adları aynı kaldığı için
+   activate eski cache'leri silmez ve bayat app shell kullanılmaya devam eder
+   (ilk tıklamada boş ekran, yenileyince düzelme belirtisi tam olarak budur). */
+const damga = createHash('sha256')
+  .update(varliklar.sort().join('|') + ' ' + sw)
+  .digest('hex')
+  .slice(0, 8)
 const yeniSurum = `ka-${JSON.parse(await readFile(join(KOK, 'package.json'), 'utf8')).version}-${damga}`
 sw = sw.replace(/const VERSION = '[^']*'/, `const VERSION = '${yeniSurum}'`)
 await writeFile(swYolu, sw, 'utf8')
