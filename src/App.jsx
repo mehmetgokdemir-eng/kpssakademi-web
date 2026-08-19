@@ -34,7 +34,20 @@ const Bulunamadi = sayfa(() => import('./pages/Bulunamadi.jsx'))
 
 function BasaSar() {
   const { pathname } = useLocation()
-  useEffect(() => window.scrollTo({ top: 0 }), [pathname])
+  /* DİKKAT — gövde SÜSLÜ PARANTEZLİ olmalı.
+     Eskiden `useEffect(() => window.scrollTo({ top: 0 }), [pathname])` yazıyordu.
+     Kısa gövdeli ok fonksiyonu, çağrının DÖNÜŞ DEĞERİNİ döndürür; React da bir
+     efektten dönen her şeyi "temizleme fonksiyonu" sayıp bir sonraki çalıştırmada
+     ÇAĞIRIR. window.scrollTo normalde undefined döner, ama üçüncü taraf betikler
+     (reklam/analitik etiketleri) bu yöntemi sarmalayıp değer döndürebiliyor.
+     O zaman React fonksiyon olmayan bir şeyi çağırmaya çalışıyor:
+       Uncaught TypeError: l is not a function
+     ve hata temizleme aşamasında olduğu için TÜM AĞAÇ sökülüyor — ekran bomboş.
+     Efekt her yol değişiminde çalıştığı için belirti tam olarak şuydu: ilk
+     tıklamada boş, geri/ileri'de boş, sayfa yenilenince düzgün. */
+  useEffect(() => {
+    window.scrollTo({ top: 0 })
+  }, [pathname])
   return null
 }
 

@@ -30,7 +30,10 @@ export default function SoruKarti({
   const [notMetin, setNotMetin] = useState(not?.metin || '')
   const kartRef = useRef(null)
 
-  useEffect(() => setNotMetin(not?.metin || ''), [soru?.id]) // eslint-disable-line
+  // Kısa gövde kullanma: dönüş değeri React'e temizleme fonksiyonu gibi görünür.
+  useEffect(() => {
+    setNotMetin(not?.metin || '')
+  }, [soru?.id]) // eslint-disable-line
 
   useEffect(() => {
     kartRef.current?.scrollIntoView({ block: 'nearest' })

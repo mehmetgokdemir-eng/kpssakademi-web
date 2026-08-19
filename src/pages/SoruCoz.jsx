@@ -51,7 +51,9 @@ export default function SoruCoz() {
   )
 
   useEffect(() => () => clearTimeout(otoTimer.current), [])
-  useEffect(() => sifirla(), [i, sifirla])
+  useEffect(() => {
+    sifirla()
+  }, [i, sifirla])
 
   const sorular = veri?.sorular || []
   const soru = sorular[i]

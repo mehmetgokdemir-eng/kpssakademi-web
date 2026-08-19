@@ -36,7 +36,9 @@ export default function QuizOyna() {
     return { sorular: karistir(havuz).slice(0, adet), adlar }
   }, [sp.toString()])
 
-  useEffect(() => sifirla(), [i, sifirla])
+  useEffect(() => {
+    sifirla()
+  }, [i, sifirla])
 
   const sorular = veri?.sorular || []
   const soru = sorular[i]
