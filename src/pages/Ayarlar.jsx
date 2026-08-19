@@ -1,6 +1,6 @@
 import { useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
-import { useSettings, sinavTarihiniAl, varsayilanSinavTarihi } from '../lib/settings.jsx'
+import { useSettings, sinavBilgisi, SINAV_TURLERI } from '../lib/settings.jsx'
 import { disaAktar, iceAktar, hepsiniSifirla, genelIstatistik } from '../lib/storage.js'
 import { useProgress } from '../lib/hooks.js'
 import { cx, sayi } from '../lib/utils.js'
@@ -42,7 +42,7 @@ export default function Ayarlar() {
   const [sifirlaAcik, setSifirlaAcik] = useState(false)
   const [mesaj, setMesaj] = useState('')
 
-  const sinav = sinavTarihiniAl(settings)
+  const { tarih: sinav, kaynak: sinavKaynak } = sinavBilgisi(settings)
   const yerelISO = (d) => {
     const t = new Date(d.getTime() - d.getTimezoneOffset() * 60000)
     return t.toISOString().slice(0, 16)
@@ -83,14 +83,39 @@ export default function Ayarlar() {
         <Satir baslik="Adın" aciklama="Ana sayfada karşılama için kullanılır">
           <input className="input !w-36 !py-1.5 !text-sm" value={settings.ad} onChange={(e) => set({ ad: e.target.value })} placeholder="Adın" />
         </Satir>
-        <Satir baslik="Sınav tarihi" aciklama={`Geri sayım · varsayılan ${varsayilanSinavTarihi().toLocaleDateString('tr-TR')}`}>
-          <input
-            type="datetime-local"
+        <Satir baslik="Hangi sınava hazırlanıyorsun?" aciklama="Geri sayım bu sınavın ÖSYM tarihini gösterir">
+          <select
             className="input !w-52 !py-1.5 !text-sm"
-            value={yerelISO(sinav)}
-            onChange={(e) => set({ sinavTarihi: e.target.value })}
-          />
+            value={settings.sinavTarihi ? 'ozel' : settings.sinavTuru || 'lisans'}
+            onChange={(e) => {
+              if (e.target.value === 'ozel') set({ sinavTarihi: yerelISO(sinav) })
+              else set({ sinavTuru: e.target.value, sinavTarihi: '' })
+            }}
+          >
+            {Object.entries(SINAV_TURLERI).map(([id, t]) => (
+              <option key={id} value={id}>
+                {t.kisa}
+              </option>
+            ))}
+            <option value="ozel">Kendi tarihim</option>
+          </select>
         </Satir>
+        {settings.sinavTarihi ? (
+          <Satir baslik="Sınav tarihi" aciklama="Geri sayımda bu tarih kullanılır">
+            <input
+              type="datetime-local"
+              className="input !w-52 !py-1.5 !text-sm"
+              value={yerelISO(sinav)}
+              onChange={(e) => set({ sinavTarihi: e.target.value })}
+            />
+          </Satir>
+        ) : (
+          <Satir baslik="Sınav tarihi" aciklama={sinavKaynak === 'tahmin' ? 'ÖSYM henüz açıklamadı — tahmini tarih' : 'ÖSYM takvimine göre'}>
+            <span className="text-sm font-semibold tabular-nums">
+              {sinav.toLocaleDateString('tr-TR', { day: 'numeric', month: 'long', year: 'numeric' })}
+            </span>
+          </Satir>
+        )}
         <Satir baslik="Günlük hedef" aciklama="Gün içinde çözmeyi hedeflediğin soru sayısı">
           <input
             type="number"

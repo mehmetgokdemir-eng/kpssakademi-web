@@ -2,7 +2,7 @@ import { useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { getDersler, getBilgiler } from '../lib/data.js'
 import { useAsync, useProgress, useTicker } from '../lib/hooks.js'
-import { useSettings, sinavTarihiniAl } from '../lib/settings.jsx'
+import { useSettings, sinavBilgisi } from '../lib/settings.jsx'
 import { genelIstatistik, bugun } from '../lib/storage.js'
 import { geriSayim, sayi, yuzde, cx } from '../lib/utils.js'
 import { Halka, Yukleniyor, Hata, Rozet } from '../components/UI.jsx'
@@ -63,7 +63,7 @@ function Karsilama() {
 function GeriSayim() {
   const { settings } = useSettings()
   useTicker(true, 1000)
-  const hedef = sinavTarihiniAl(settings)
+  const { tarih: hedef, kaynak, ad: sinavAdi } = sinavBilgisi(settings)
   const { gun, saat, dakika, saniye, bitti } = geriSayim(hedef)
   const kutu = (v, e) => (
     <div className="flex flex-col items-center">
@@ -80,9 +80,12 @@ function GeriSayim() {
     >
       <div className="flex items-center justify-between">
         <div>
-          <p className="text-[11px] font-semibold uppercase tracking-wide opacity-80">KPSS'ye kalan süre</p>
+          <p className="text-[11px] font-semibold uppercase tracking-wide opacity-80">
+            {kaynak === 'kullanici' ? 'Sınavına kalan süre' : `${sinavAdi} sınavına kalan süre`}
+          </p>
           <p className="text-sm font-bold">
             {hedef.toLocaleDateString('tr-TR', { day: 'numeric', month: 'long', year: 'numeric' })}
+            {kaynak === 'tahmin' && <span className="ml-1.5 font-medium opacity-75">(tahmini)</span>}
           </p>
         </div>
         {bitti ? (
