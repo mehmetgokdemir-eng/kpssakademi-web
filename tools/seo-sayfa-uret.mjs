@@ -388,6 +388,13 @@ for (const d of index.dersler) {
 </p>
 ${n.ozet ? `<div class="kart"><b>Özet</b><p style="margin:6px 0 0">${esc(n.ozet)}</p></div>` : ''}
 ${govde}
+${
+  n.pufNoktalar?.length
+    ? `<h2>Püf Noktaları</h2><div class="kart"><ul style="margin:0;padding-left:18px">${n.pufNoktalar
+        .map((x) => `<li style="margin:6px 0">${esc(x)}</li>`)
+        .join('')}</ul></div>`
+    : ''
+}
 <div class="kart" style="text-align:center">
   <p style="margin:0 0 10px;font-weight:700">Bu konudan soru çöz</p>
   <a class="cta" href="/ders/${d.id}/konu/${n.konuId}">Soruları Aç</a>

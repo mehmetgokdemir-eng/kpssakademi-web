@@ -3,9 +3,12 @@
 Yayıncı hesabın zaten var: **pub-6166144150941943** (AdMob ile aynı hesap).
 Yeni başvuru yapmana gerek yok, siteyi mevcut hesaba eklemen yeterli.
 
+Model: **otomatik reklamlar + manuel birimler birlikte.**
+Oyun, soru çözme, sınav ve bilgi kartı ekranlarında reklam görünmez.
+
 ---
 
-## 1. Siteyi AdSense'e ekle
+## 1. Siteyi AdSense'e ekle (inceleme sürüyorsa atla)
 
 [adsense.google.com](https://adsense.google.com) → **Siteler** → **Site ekle** → `kpssakademi.tr`
 
@@ -19,12 +22,83 @@ Yeni başvuru yapmana gerek yok, siteyi mevcut hesaba eklemen yeterli.
 > yüklendiği için Google'ın robotu kaynakta göremedi), meta etiket geçmişti.
 > Burada da meta etiketle git.
 
-Site incelemesi genelde birkaç gün sürer. İnceleme sırasında site canlı ve
-içerik dolu olmalı — bu yüzden **önce yayına al, sonra ekle**.
+İnceleme genelde birkaç gün sürer. Bu sürede site canlı ve içerik dolu olmalı.
+**Onay gelmeden aşağıdaki adımlar reklam göstermez** — ayarları şimdiden
+yapabilirsin, onay gelince kendiliğinden çalışmaya başlar.
 
 ---
 
-## 2. Reklam birimlerini oluştur ve kimliklerini gir
+## 2. Otomatik reklamları aç
+
+AdSense → **Reklamlar → Sitelere göre** → `kpssakademi.tr` satırındaki
+**kalem (düzenle)** simgesi.
+
+Sağdaki panelde:
+
+| Ayar | Önerilen | Neden |
+|---|---|---|
+| **Otomatik reklamlar** | Açık | Ana model bu |
+| **Sayfa içi reklamlar** (in-page) | Açık | Metin arası yerleşimler |
+| **Yan çapa reklamı** (anchor) | Açık | Mobilde en çok kazandıran birim |
+| **Vinyet** (vignette / tam ekran geçiş) | **Kapalı** | Soru→sonuç geçişinde tam ekran açılırsa deneyim ve yanlış tıklama riski yüksek |
+| **Yan tarafta yer alan reklamlar** (side rail) | Açık | Yalnızca geniş masaüstünde çıkar, içeriği itmez |
+| **Reklam yükü** | ~%50–65 | Başlangıç için ölçülü; 2–3 hafta sonra RPM'e bakıp ayarla |
+| **Mevcut reklam birimlerini kullan** | Açık | Manuel birimlerle çakışmayı Google kendisi çözer |
+
+**Kaydet** dedikten sonra değişikliklerin yayılması ~1 saat sürebilir.
+
+> Vinyeti sonradan denemek istersen aç, ama önce birkaç gün oturum süresi ve
+> hemen çıkma oranını izle. Sınav uygulamasında en riskli format budur.
+
+---
+
+## 3. Reklamsız kalacak sayfaları hariç tut
+
+Aynı panelde **Sayfa hariç tutmaları → Hariç tutma ekle**. Kural türü olarak
+**"şununla başlar"** seç ve şu URL'leri gir:
+
+```
+kpssakademi.tr/oyun/
+kpssakademi.tr/quiz/oyna
+kpssakademi.tr/deneme/
+kpssakademi.tr/kartlar/
+```
+
+Soru çözme ekranı için (ara yol parçası olduğundan) **"şunu içerir"** kuralı:
+
+```
+/konu/
+```
+
+**Kodda ikinci bir güvenlik katmanı var.** `src/lib/otomatikReklam.js`, bu
+rotalarda Google'ın otomatik yerleştirdiği kapsayıcıları DOM'dan kaldırır.
+Neden gerekli: site bir SPA; kullanıcı ana sayfadan oyuna geçtiğinde tarayıcı
+yeni sayfa yüklemez, dolayısıyla panelin URL hariç tutması her geçişte
+devreye girmez (özellikle çapa reklamı sayfa geçişlerinde ekranda kalır).
+
+Kural listesini değiştirmek istersen tek yer:
+
+```js
+// src/lib/otomatikReklam.js
+export const YASAKLI_ROTALAR = [
+  /^\/oyun\//,
+  /^\/quiz\/oyna\/?$/,
+  /^\/deneme\//,
+  /^\/ders\/[^/]+\/konu\//,
+  /^\/kartlar\/[^/]+/,
+]
+```
+
+Katmanı tamamen kapatmak için aynı dosyada `OTOMATIK_REKLAM_ENGELI = false`.
+
+> Not: otomatik reklamların **sayfa içi** yerleşimleri SPA'da yalnızca ilk
+> yüklemede taranır; istemci tarafı rota geçişlerinde yeniden yerleştirme
+> yapılmaz. Bu yüzden ana sayfa / ders listesi / sonuç ekranı gibi kritik
+> yerlerde manuel birimler (§ 4) hâlâ gerekli — asıl geliri onlar taşıyacak.
+
+---
+
+## 4. Manuel reklam birimleri
 
 AdSense → **Reklamlar → Reklam birimine göre → Görüntülü reklam**
 
@@ -52,15 +126,6 @@ export const SLOTLAR = {
 Sonra `npm run build` + `git push`. Kimlik girilmeyen yerde **hiçbir şey render
 edilmez** — boşluk bile kalmaz, yani kimlikleri sırayla ekleyebilirsin.
 
----
-
-## 3. Neden otomatik reklam değil?
-
-mmcep.com'da otomatik reklamlar kullanıldı çünkü orada her sayfa aynı türde.
-Burada **oyunlarda reklam olmayacak** kuralı var ve otomatik reklamlarda
-yerleşimi Google belirlediği için bu garanti edilemez. Bu yüzden manuel
-yerleşim seçildi.
-
 Reklamın **konmadığı** yerler (bilinçli):
 
 - Tüm oyun ekranları (Harita Avcısı, Kronoloji, Eşleştirme, Doğru mu?, Maraton)
@@ -68,12 +133,9 @@ Reklamın **konmadığı** yerler (bilinçli):
 - Deneme sınavı sürerken (yalnızca sonuç ekranında)
 - Bilgi kartları çevrilirken
 
-Yine de otomatik reklamları denemek istersen AdSense panelinden açabilirsin;
-o durumda oyun sayfalarında da reklam çıkar.
-
 ---
 
-## 4. Çerez izni ve Consent Mode
+## 5. Çerez izni ve Consent Mode
 
 `index.html` içinde Google Consent Mode v2 **varsayılan olarak reddedilmiş**
 durumda başlatılıyor; kullanıcı seçim yapınca güncelleniyor.
@@ -84,6 +146,10 @@ kişiselleştirmeyi kapatır. Bu yüzden butonlar "Kabul et / Reddet" değil,
 
 Kullanıcı tercihini `/gizlilik` sayfasından değiştirebiliyor.
 
+> Manuel birimler kullanıcı seçim yapana kadar hiç yüklenmez. Otomatik
+> reklamlar Google'ın kendi akışıyla çalışır ve Consent Mode sinyaline uyar
+> (izin yoksa kişiselleştirilmemiş reklam gösterir).
+
 > **AB trafiği için not:** Avrupa Ekonomik Alanı ve Birleşik Krallık
 > kullanıcılarına reklam gösterecekseniz Google, **sertifikalı bir CMP**
 > kullanılmasını şart koşuyor. Buradaki bildirim kendi yazdığımız basit bir
@@ -93,7 +159,7 @@ Kullanıcı tercihini `/gizlilik` sayfasından değiştirebiliyor.
 
 ---
 
-## 5. ads.txt
+## 6. ads.txt
 
 `public/ads.txt` hazır:
 
@@ -101,16 +167,34 @@ Kullanıcı tercihini `/gizlilik` sayfasından değiştirebiliyor.
 google.com, pub-6166144150941943, DIRECT, f08c47fec0942fa0
 ```
 
-Yayına alındıktan sonra `https://kpssakademi.tr/ads.txt` adresinden erişilebilir
-olmalı. AdSense bunu kontrol eder; eksikse panelde uyarı çıkar.
+`https://kpssakademi.tr/ads.txt` adresinden erişilebilir olmalı. AdSense bunu
+kontrol eder; eksikse panelde uyarı çıkar.
 
 ---
 
-## 6. Yayın öncesi kontrol listesi
+## 7. Kontrol listesi
 
-- [ ] Site canlı ve içerik dolu (gerçek sorular aktarılmış)
-- [ ] `/gizlilik` sayfası reklam ve çerez maddelerini içeriyor ✔ (hazır)
-- [ ] `/iletisim` sayfası var ✔ (hazır) — AdSense incelemesinde aranır
-- [ ] `ads.txt` erişilebilir ✔ (hazır)
-- [ ] Sitede "reklamsız" iddiası kalmamış ✔ (temizlendi)
-- [ ] Reklam birimi kimlikleri `src/lib/reklam.js` içine girilmiş
+- [x] Site canlı ve içerik dolu
+- [x] `/gizlilik` sayfası reklam ve çerez maddelerini içeriyor
+- [x] `/iletisim` sayfası var — AdSense incelemesinde aranır
+- [x] `ads.txt` erişilebilir
+- [x] Sitede "reklamsız" iddiası yok
+- [x] Otomatik reklam engeli oyun/soru/sınav rotalarında kodda hazır
+- [ ] AdSense onayı geldi
+- [ ] Otomatik reklamlar panelden açıldı (vinyet kapalı)
+- [ ] Sayfa hariç tutmaları girildi (§ 3)
+- [ ] Reklam birimi kimlikleri `src/lib/reklam.js` içine girildi
+
+---
+
+## 8. Onay geldikten sonra test
+
+1. Ana sayfayı aç, çerez bildiriminde **İzin ver** de → sayfa içi / çapa
+   reklamı görünmeli.
+2. Alt menüden **Oyunlar → herhangi bir oyun** → hiçbir reklam kalmamalı,
+   çapa reklamı da kaybolmalı.
+3. Geri dön → ana sayfada reklam yeniden görünmeli.
+4. Bir quiz çöz → çözerken reklam yok, **sonuç ekranında** manuel birim var.
+
+Reklam görünmüyorsa sırayla bak: onay durumu → reklam engelleyici eklenti →
+tarayıcı konsolunda `adsbygoogle` hatası → panelde birim "etkin" mi.

@@ -65,7 +65,10 @@ export default function KonuAnlatimi() {
   }, [dersId, konuId])
 
   const tumMetin = useMemo(
-    () => (veri?.not ? [veri.not.ozet, ...(veri.not.bolumler || []).map((b) => `${b.baslik}. ${b.icerik}`)].join('. ') : ''),
+    () =>
+      veri?.not
+        ? [veri.not.ozet, ...(veri.not.bolumler || []).map((b) => `${b.baslik}. ${b.icerik}`), ...(veri.not.pufNoktalar || [])].join('. ')
+        : '',
     [veri]
   )
 
@@ -131,6 +134,24 @@ export default function KonuAnlatimi() {
           )
         })}
       </div>
+
+      {/* Püf noktaları — Android'de var olup ilk aktarımda düşen içerik.
+          Sınav öncesi hızlı hatırlatma listesi, bölümlerin altında durur. */}
+      {not.pufNoktalar?.length > 0 && (
+        <div className="card mt-4 border-l-4 !border-l-amber-400 p-4">
+          <p className="text-[13px] font-semibold uppercase tracking-wide text-amber-600 dark:text-amber-400">
+            Püf Noktaları
+          </p>
+          <ul className="mt-2 space-y-2">
+            {not.pufNoktalar.map((x, i) => (
+              <li key={i} className="flex gap-2.5 text-[14px] leading-relaxed">
+                <span className="mt-[7px] h-1.5 w-1.5 shrink-0 rounded-full bg-amber-400" />
+                <span className="text-ink-700 dark:text-ink-200">{x}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
 
       <div className="mt-5 grid grid-cols-2 gap-2.5">
         <Link className="btn-primary" to={`/ders/${dersId}/konu/${konuId}`} onClick={durdur}>

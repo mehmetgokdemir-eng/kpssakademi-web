@@ -1,12 +1,16 @@
 /* AdSense yapılandırması ve çerez izni durumu.
  *
- * Reklamlar MANUEL yerleşimlidir (otomatik reklamlar değil). Sebep: oyunlarda
- * ve sınav/soru çözme sırasında reklam görünmemesi kuralı — otomatik reklamlar
- * yerleşimi Google'a bıraktığı için bu kural garanti edilemez.
+ * KARMA MODEL:
+ *   - Otomatik reklamlar (Auto ads) AdSense panelinden AÇIK. Kod tarafında iş
+ *     yapılmaz; index.html'deki adsbygoogle betiği yeterlidir.
+ *   - Ek olarak, aşağıdaki slot kimlikleriyle MANUEL birimler de çalışır
+ *     (ana sayfa, ders listesi, sonuç ekranları, SEO sayfaları).
+ *   - Oyun / soru çözme / sınav / kart ekranlarında otomatik reklam
+ *     ENGELLENİR — bkz. lib/otomatikReklam.js ve ADSENSE.md § 3.
  *
  * Reklam birimi kimliklerini AdSense panelinden alıp aşağıya yapıştırın.
  * Kimlik boş bırakılan yerde hiçbir şey render edilmez (boşluk da kalmaz),
- * yani kimlikler girilene kadar site reklamsız çalışmaya devam eder.
+ * yani kimlikler girilene kadar yalnızca otomatik reklamlar görünür.
  */
 
 export const ADSENSE_ID = 'ca-pub-6166144150941943'

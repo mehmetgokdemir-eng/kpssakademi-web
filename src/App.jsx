@@ -3,6 +3,7 @@ import { Routes, Route, useLocation, Navigate } from 'react-router-dom'
 import Layout from './components/Layout.jsx'
 import HataSiniri, { sayfaYukleyici as sayfa } from './components/HataSiniri.jsx'
 import { Yukleniyor } from './components/UI.jsx'
+import OtomatikReklamKontrol from './lib/otomatikReklam.js'
 
 
 const Home = sayfa(() => import('./pages/Home.jsx'))
@@ -55,6 +56,8 @@ export default function App() {
   return (
     <Layout>
       <BasaSar />
+      {/* Otomatik reklamların oyun / soru / sınav ekranlarına düşmesini engeller */}
+      <OtomatikReklamKontrol />
       {/* HataSiniri, Suspense'in DIŞINDA olmalı: yakalanacak hata parçayı
           indirme hatası ve o hata Suspense'in içinden fırlıyor. */}
       <HataSiniri>

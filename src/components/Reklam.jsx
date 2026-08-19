@@ -9,6 +9,8 @@ import { cx } from '../lib/utils.js'
  * - İlgili slot kimliği tanımlı değilse hiçbir şey render edilmez.
  * - Oyun ekranlarında ve soru çözme / sınav akışında KULLANILMAZ
  *   (yanlışlıkla tıklama ve kullanıcı deneyimi nedeniyle).
+ * - `data-ka-manuel` işareti, otomatik reklam temizleyicisinin (lib/otomatikReklam.js)
+ *   bu birimi yanlışlıkla kaldırmasını önler — işareti KALDIRMAYIN.
  */
 export default function Reklam({ yer = 'anaSayfa', className }) {
   const slot = SLOTLAR[yer]
@@ -31,10 +33,11 @@ export default function Reklam({ yer = 'anaSayfa', className }) {
   if (!slot || !onayli) return null
 
   return (
-    <div className={cx('my-4', className)}>
+    <div className={cx('my-4', className)} data-ka-manuel="1">
       <p className="mb-1 text-center text-[10px] font-semibold uppercase tracking-wider text-ink-400">Reklam</p>
       <ins
         ref={insRef}
+        data-ka-manuel="1"
         className="adsbygoogle block"
         style={{ display: 'block' }}
         data-ad-client={ADSENSE_ID}

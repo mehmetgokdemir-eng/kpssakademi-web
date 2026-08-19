@@ -126,7 +126,11 @@ for (const ders of dersler) {
       secenekler,
       dogru,
       ...(d && DUZELT && d.aciklama ? { aciklama: d.aciklama } : s.aciklama ? { aciklama: s.aciklama } : {}),
-      ...(s.zorluk && s.zorluk !== 'orta' ? { zorluk: s.zorluk } : {}),
+      /* Zorluk HER ZAMAN yazılır. Eskiden yer kazanmak için 'orta' olanlar
+         atlanıyordu; sonuçta 5.575 soruda alan hiç yoktu ve Android'deki
+         zorluk filtresi web'e taşınırsa sessizce yanlış çalışırdı.
+         Maliyeti yaklaşık %1 dosya boyutu — saklamaya değmeyecek kadar az. */
+      ...(s.zorluk ? { zorluk: s.zorluk } : {}),
     })
   }
   await yaz(`sorular/${ders}.json`, sorular)
@@ -155,6 +159,9 @@ for (const ders of dersler) {
       baslik: n.baslik,
       ozet: n.ozet || '',
       bolumler: (n.bolumler || []).map((b) => ({ baslik: b.baslik, icerik: b.icerik })),
+      /* Püf noktaları ilk aktarımda düşmüştü — 670 madde. Sınav odaklı,
+         kısa hatırlatmalar; hem uygulamada hem SEO sayfalarında değerli. */
+      ...(n.puf_noktalar?.length ? { pufNoktalar: n.puf_noktalar } : {}),
     }))
   } catch {}
   if (notlar.length) await yaz(`notlar/${ders}.json`, notlar)

@@ -85,3 +85,16 @@
     perspective: 1400px;
   }
 }
+
+/* Otomatik reklam engeli — lib/otomatikReklam.js gövdeye bu sınıfı ekler.
+   Kaldırma işlemi bir kare gecikebildiği için görsel sızıntıyı CSS önler.
+   Manuel birimlerimiz [data-ka-manuel] taşır ve etkilenmez. */
+body.ka-oto-reklam-kapali .google-auto-placed,
+body.ka-oto-reklam-kapali ins.adsbygoogle[data-anchor-status],
+body.ka-oto-reklam-kapali ins.adsbygoogle[data-anchor-shown],
+body.ka-oto-reklam-kapali ins.adsbygoogle[data-vignette-loaded] {
+  display: none !important;
+}
+body.ka-oto-reklam-kapali [data-ka-manuel] {
+  display: block !important;
+}
