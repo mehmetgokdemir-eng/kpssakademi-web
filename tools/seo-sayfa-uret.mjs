@@ -256,7 +256,7 @@ ${dersler
   .map((d) => {
     const kl = konular.filter((k) => k.dersId === d.id)
     if (!kl.length) return ''
-    return `<h3>${esc(d.ad)} <span style="color:var(--soluk);font-weight:400;font-size:13px">· ${kl.length} konu</span></h3>
+    return `<h3><a href="/kpss-${slug(d.ad)}">${esc(d.ad)}</a> <span style="color:var(--soluk);font-weight:400;font-size:13px">· ${kl.length} konu</span></h3>
 <ul class="konu-liste">${kl
       .map((k) => {
         const y = anlatimYolu.get(`${d.id}:${k.id}`)
@@ -413,6 +413,99 @@ ${
 }
 sayfalar.push(...anlatimSayfalari)
 
+/* ── Ders sayfaları ────────────────────────────────────────────
+   "kpss tarih", "kpss matematik konuları" gibi aramalar konu sayfalarından
+   daha yüksek hacimli; site bunlara karşılık verecek bir sayfa sunmuyordu.
+
+   Adres /kpss-<ders> — /ders/<id> KULLANILAMAZ, çünkü o uygulamanın kendi
+   rotası; oraya statik dosya koymak dosya-sistemi-önce kuralı yüzünden
+   uygulamanın ders ekranını gölgeler.
+
+   Hiyerarşi böylece tamamlanıyor:  /kpss-konulari → /kpss-<ders> → /konu/<ders>/<konu> */
+const dersSayfalari = []
+for (const d of index.dersler) {
+  const dersKonulari = konular.filter((k) => k.dersId === d.id)
+  const notlar = notlarByDers.get(d.id) || []
+  const notHarita = new Map(notlar.map((n) => [n.konuId, n]))
+
+  const konuSatirlari = dersKonulari
+    .map((k) => {
+      const yol = anlatimYolu.get(`${d.id}:${k.id}`)
+      const n = notHarita.get(k.id)
+      const ad = yol ? `<a href="${yol}">${esc(k.ad)}</a>` : esc(k.ad)
+      return `<tr><td>${ad}</td><td>${n?.ozet ? esc(n.ozet.slice(0, 120)) : '—'}</td></tr>`
+    })
+    .join('')
+
+  /* Püf noktalarından bir demet — sayfaya özgün, işe yarar metin katıyor. */
+  const pufler = notlar.flatMap((n) => n.pufNoktalar || []).slice(0, 8)
+
+  const grupAdi = GRUP_ADI[d.grup] || d.grup
+  dersSayfalari.push({
+    yol: `/kpss-${slug(d.ad)}`,
+    baslik: `KPSS ${d.ad} — Konular, Soru Bankası ve Konu Anlatımı | KPSS Akademi`,
+    aciklama: `KPSS ${d.ad} dersi: ${dersKonulari.length} konu, ${d.soruSayisi.toLocaleString('tr-TR')} çözümlü soru, ${d.kartSayisi} bilgi kartı ve konu anlatımları. Ücretsiz.`,
+    h1: `KPSS ${d.ad}`,
+    jsonLd: {
+      '@context': 'https://schema.org',
+      '@type': 'ItemList',
+      name: `KPSS ${d.ad} Konuları`,
+      numberOfItems: dersKonulari.length,
+      itemListElement: dersKonulari.slice(0, 60).map((k, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: k.ad,
+        ...(anlatimYolu.get(`${d.id}:${k.id}`) ? { url: SITE + anlatimYolu.get(`${d.id}:${k.id}`) } : {}),
+      })),
+    },
+    icerik: `<p style="color:var(--soluk);font-size:14px;margin:-4px 0 18px">
+  <a href="/kpss-konulari">KPSS Konuları</a> › ${esc(d.ad)}
+</p>
+<p><b>${esc(d.ad)}</b>, KPSS'de <b>${esc(grupAdi)}</b> bölümünde yer alır. KPSS Akademi'de bu ders
+${dersKonulari.length} konu başlığına ayrılmıştır; her soru çözüm açıklamalıdır ve yanlışların otomatik
+olarak tekrar listene eklenir.</p>
+
+<div class="kart">
+  <table style="margin:0">
+    <tr><th>Soru</th><th>Bilgi kartı</th><th>Konu</th><th>Konu anlatımı</th></tr>
+    <tr>
+      <td><b>${d.soruSayisi.toLocaleString('tr-TR')}</b></td>
+      <td><b>${d.kartSayisi}</b></td>
+      <td><b>${dersKonulari.length}</b></td>
+      <td><b>${notlar.length}</b></td>
+    </tr>
+  </table>
+</div>
+
+<h2>KPSS ${esc(d.ad)} konuları</h2>
+<table>
+  <tr><th style="width:34%">Konu</th><th>Özet</th></tr>
+  ${konuSatirlari}
+</table>
+
+${
+  pufler.length
+    ? `<h2>${esc(d.ad)} için bilinmesi gerekenler</h2>
+<div class="kart"><ul style="margin:0;padding-left:18px">${pufler
+        .map((x) => `<li style="margin:6px 0">${esc(x)}</li>`)
+        .join('')}</ul></div>`
+    : ''
+}
+
+<h2>Nasıl çalışılır?</h2>
+<p>Konu anlatımını okuyup hemen o konudan soru çözmek, önce tüm dersi bitirip sonra soruya geçmekten
+daha hızlı sonuç verir. KPSS Akademi'de her konu anlatımının altında "Bu Konuyu Çöz" bağlantısı bulunur;
+yanlış yaptığın sorular <b>Yanlışlarım</b> listesine ve aralıklı tekrar kuyruğuna düşer.</p>
+
+<div class="kart" style="text-align:center">
+  <p style="margin:0 0 10px;font-weight:700">${esc(d.ad)} sorularını çözmeye başla</p>
+  <a class="cta" href="/ders/${d.id}">${esc(d.ad)} Soruları</a>
+  <a class="cta ikincil" href="/ders/${d.id}/anlatim">Konu Anlatımları</a>
+</div>`,
+  })
+}
+sayfalar.push(...dersSayfalari)
+
 for (const s of sayfalar) {
   const klasor = join(DIST, s.yol.slice(1))
   await mkdir(klasor, { recursive: true })
@@ -465,7 +558,7 @@ ${Object.entries(gruplar)
 <p style="margin:0">${dersler
       .map(
         (d) =>
-          `<a href="/ders/${d.id}" style="display:inline-block;margin:0 10px 6px 0">${esc(d.ad)}</a>` +
+          `<a href="/kpss-${slug(d.ad)}" style="display:inline-block;margin:0 10px 6px 0">${esc(d.ad)}</a>` +
           `<span style="color:#667492;font-size:13px;margin-right:10px">${tr(d.soruSayisi || 0)} soru</span>`
       )
       .join('')}</p>`
@@ -529,6 +622,7 @@ const sitemapYollari = [
   ['/gizlilik', '0.3', 'yearly'],
 ]
 const bugunISO = new Date().toISOString().slice(0, 10)
+for (const d of dersSayfalari) sitemapYollari.push([d.yol, '0.8', 'monthly'])
 for (const a of anlatimSayfalari) sitemapYollari.push([a.yol, '0.6', 'monthly'])
 await writeFile(
   join(DIST, 'sitemap.xml'),
