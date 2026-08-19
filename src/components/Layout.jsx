@@ -88,9 +88,16 @@ export function SideNav() {
         ))}
         <div className="my-2 h-px bg-ink-100 dark:bg-white/5" />
         {[
+          { to: '/arama', ad: 'Soru Arama' },
+          { to: '/tekrar', ad: 'Bugünün Tekrarı' },
+          { to: '/hizli', ad: 'Hızlı Çalışma' },
+          { to: '/analiz', ad: 'Analiz' },
+          { to: '/hedef', ad: 'Hedef Puan' },
+          { to: '/odak', ad: 'Odaklanma' },
           { to: '/oyunlar', ad: 'Oyunlar' },
           { to: '/quiz', ad: 'Quiz' },
           { to: '/puan-hesapla', ad: 'Puan Hesapla' },
+          { to: '/cikmis-sorular', ad: 'Çıkmış Sorular' },
           { to: '/yanlislarim', ad: 'Yanlışlarım' },
           { to: '/kayitlilar', ad: 'Kayıtlılar' },
           { to: '/notlarim', ad: 'Notlarım' },

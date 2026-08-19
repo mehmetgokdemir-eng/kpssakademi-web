@@ -59,6 +59,35 @@
         } catch (e) {}
       })();
     </script>
+    <!-- Vercel Web Analytics + Speed Insights.
+         Paket kurmaya gerek yok; Vercel bu iki yolu kendi sunuyor.
+
+         DİKKAT: Panelde Analytics KAPALIYSA /_vercel/... diye bir dosya olmaz,
+         istek SPA yeniden yazma kuralına düşer ve index.html döner. Tarayıcı
+         HTML'i JavaScript sanıp her sayfada
+         "Uncaught SyntaxError: Unexpected token '<'" basar. Bu yüzden betik
+         doğrudan eklenmiyor: önce içerik türü doğrulanıyor, gerçekten
+         JavaScript ise sayfaya konuyor. Panelde açılınca kendiliğinden
+         devreye girer, kapalıyken tek bir hata bile üretmez.
+
+         Çerez KULLANMAZ, kişisel veri toplamaz — çerez iznine bağlı değil. -->
+    <script>
+      (function () {
+        ;['insights', 'speed-insights'].forEach(function (ad) {
+          var yol = '/_vercel/' + ad + '/script.js'
+          fetch(yol, { cache: 'force-cache' })
+            .then(function (y) {
+              if (!y.ok) return
+              if ((y.headers.get('content-type') || '').indexOf('javascript') < 0) return
+              var e = document.createElement('script')
+              e.defer = true
+              e.src = yol
+              document.head.appendChild(e)
+            })
+            .catch(function () {})
+        })
+      })()
+    </script>
   </head>
   <body>
     <div id="root"></div>

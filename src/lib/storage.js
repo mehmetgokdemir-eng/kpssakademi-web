@@ -14,6 +14,7 @@ const emptyState = () => ({
   denemeler: [], // { denemeId, ad, tarih, dogru, yanlis, bos, net, puan, puanTuru, detay:{dersId:{d,y,b}} }
   oyun: {}, // oyunId -> { oynanan: n, enIyi: n, sonSkor: n }
   quiz: { puan: 0, oynanan: 0 },
+  tekrar: {}, // soruId -> { asama: 0..5, sonraki: timestamp, dersId, konuId }
   seri: { son: null, gun: 0 }, // çalışma serisi
 })
 
@@ -86,11 +87,55 @@ export function cevapKaydet({ soruId, dersId, konuId, dogruMu, sureSn = 0 }) {
   g.soru += 1
   if (dogruMu) g.dogru += 1
   g.sure += sureSn
+  tekrarPlanla(soruId, dogruMu, dersId, konuId)
   seriGuncelle()
   emit()
 }
 
+/* --- Aralıklı tekrar (Bugünün Tekrarı) ------------------------------------
+   Android'deki TekrarActivity'nin karşılığı. Leitner mantığı: doğru bilinen
+   soru bir üst kutuya çıkar ve daha uzun süre sonra sorulur; yanlış bilinen
+   en başa döner. Gün sayıları klasik aralıklı tekrar çalışmalarından. */
+const TEKRAR_GUN = [1, 3, 7, 16, 35, 90]
+
+function tekrarPlanla(soruId, dogruMu, dersId, konuId) {
+  const onceki = state.tekrar[soruId]
+  const asama = dogruMu ? Math.min((onceki?.asama ?? -1) + 1, TEKRAR_GUN.length - 1) : 0
+  state.tekrar[soruId] = {
+    asama,
+    sonraki: Date.now() + TEKRAR_GUN[asama] * 864e5,
+    dersId: dersId || onceki?.dersId,
+    konuId: konuId || onceki?.konuId,
+  }
+}
+
+/** Zamanı gelmiş tekrarlar — en gecikmişten başlayarak. */
+export function tekrarBekleyenler(limit = 40) {
+  const simdi = Date.now()
+  return Object.entries(state.tekrar)
+    .filter(([, v]) => v.sonraki <= simdi)
+    .sort((a, b) => a[1].sonraki - b[1].sonraki)
+    .slice(0, limit)
+    .map(([id, v]) => ({ id, dersId: v.dersId, konuId: v.konuId, asama: v.asama }))
+}
+
+/** Tekrar kuyruğunun özeti — ana sayfa ve /tekrar başlığı için. */
+export function tekrarOzet() {
+  const simdi = Date.now()
+  const yarin = simdi + 864e5
+  let bugun = 0
+  let yarinki = 0
+  let toplam = 0
+  for (const v of Object.values(state.tekrar)) {
+    toplam++
+    if (v.sonraki <= simdi) bugun++
+    else if (v.sonraki <= yarin) yarinki++
+  }
+  return { bugun, yarin: yarinki, toplam }
+}
+
 export function cozumTemizle(soruId) {
+  delete state.tekrar[soruId]
   delete state.cozulen[soruId]
   delete state.yanlislar[soruId]
   emit()

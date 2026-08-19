@@ -4,6 +4,7 @@ import Layout from './components/Layout.jsx'
 import HataSiniri, { sayfaYukleyici as sayfa } from './components/HataSiniri.jsx'
 import { Yukleniyor } from './components/UI.jsx'
 import OtomatikReklamKontrol from './lib/otomatikReklam.js'
+import Onboarding from './components/Onboarding.jsx'
 
 
 const Home = sayfa(() => import('./pages/Home.jsx'))
@@ -31,6 +32,13 @@ const Ayarlar = sayfa(() => import('./pages/Ayarlar.jsx'))
 const Gizlilik = sayfa(() => import('./pages/Gizlilik.jsx'))
 const Iletisim = sayfa(() => import('./pages/Iletisim.jsx'))
 const Hakkinda = sayfa(() => import('./pages/Hakkinda.jsx'))
+const Arama = sayfa(() => import('./pages/Arama.jsx'))
+const Tekrar = sayfa(() => import('./pages/Tekrar.jsx'))
+const HizliCalisma = sayfa(() => import('./pages/HizliCalisma.jsx'))
+const Analiz = sayfa(() => import('./pages/Analiz.jsx'))
+const HedefPuan = sayfa(() => import('./pages/HedefPuan.jsx'))
+const Odak = sayfa(() => import('./pages/Odak.jsx'))
+const CikmisSorular = sayfa(() => import('./pages/CikmisSorular.jsx'))
 const Bulunamadi = sayfa(() => import('./pages/Bulunamadi.jsx'))
 
 function BasaSar() {
@@ -58,6 +66,7 @@ export default function App() {
       <BasaSar />
       {/* Otomatik reklamların oyun / soru / sınav ekranlarına düşmesini engeller */}
       <OtomatikReklamKontrol />
+      <Onboarding />
       {/* HataSiniri, Suspense'in DIŞINDA olmalı: yakalanacak hata parçayı
           indirme hatası ve o hata Suspense'in içinden fırlıyor. */}
       <HataSiniri>
@@ -76,6 +85,13 @@ export default function App() {
             <Route path="/denemeler" element={<Denemeler />} />
             <Route path="/deneme/:denemeId" element={<DenemeCoz />} />
             <Route path="/istatistik" element={<Istatistik />} />
+            <Route path="/arama" element={<Arama />} />
+            <Route path="/tekrar" element={<Tekrar />} />
+            <Route path="/hizli" element={<HizliCalisma />} />
+            <Route path="/analiz" element={<Analiz />} />
+            <Route path="/hedef" element={<HedefPuan />} />
+            <Route path="/odak" element={<Odak />} />
+            <Route path="/cikmis-sorular" element={<CikmisSorular />} />
             <Route path="/oyunlar" element={<Oyunlar />} />
             <Route path="/oyun/:oyunId" element={<OyunOyna />} />
             <Route path="/puan-hesapla" element={<PuanHesapla />} />

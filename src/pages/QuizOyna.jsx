@@ -5,6 +5,7 @@ import { useAsync, useProgress, useSureOlcer } from '../lib/hooks.js'
 import { cevapKaydet, quizPuanEkle, kayitToggle, getState } from '../lib/storage.js'
 import { karistir, yuzde, cx } from '../lib/utils.js'
 import { Yukleniyor, Hata, Bos, Ilerleme, Istatistik } from '../components/UI.jsx'
+import SinavAraclari from '../components/SinavAraclari.jsx'
 import SoruKarti from '../components/SoruKarti.jsx'
 import { IconClose, IconTrophy, IconRefresh } from '../components/Icons.jsx'
 import Reklam from '../components/Reklam.jsx'
@@ -97,6 +98,7 @@ export default function QuizOyna() {
 
   return (
     <div className="mx-auto max-w-2xl">
+      <SinavAraclari />
       <div className="mb-4 flex items-center gap-3">
         <button onClick={() => nav('/quiz')} className="rounded-xl p-1.5 text-ink-400 hover:bg-ink-100 dark:hover:bg-white/10" aria-label="Çık">
           <IconClose size={22} />

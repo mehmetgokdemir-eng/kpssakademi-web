@@ -112,6 +112,15 @@ export default function Gizlilik() {
           </p>
         </section>
       </div>
+      <div className="card mt-3 p-4">
+        <p className="text-sm font-bold">Ziyaret istatistikleri</p>
+        <p className="mt-1.5 text-[13px] leading-relaxed text-ink-500 dark:text-ink-400">
+          Sitenin hangi sayfalarının ne kadar görüntülendiğini görmek için Vercel Web Analytics
+          kullanılıyor. Bu araç <b>çerez kullanmaz</b>, IP adresini saklamaz ve ziyaretçileri kişisel
+          olarak tanımlamaz; yalnızca sayfa görüntüleme sayısı, cihaz türü ve ülke düzeyinde toplu veri
+          üretir. Bu nedenle çerez iznine bağlı değildir.
+        </p>
+      </div>
     </>
   )
 }

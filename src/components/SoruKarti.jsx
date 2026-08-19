@@ -2,6 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import { cx, HARFLER, harf, karistir } from '../lib/utils.js'
 import { useSettings } from '../lib/settings.jsx'
 import { IconBookmark, IconNote, IconSpeaker, IconCheck, IconWrong } from './Icons.jsx'
+import SoruBildir from './SoruBildir.jsx'
 import { oku } from '../lib/tts.js'
 import { Modal } from './UI.jsx'
 
@@ -173,6 +174,9 @@ export default function SoruKarti({
             {isaretli ? '★ İşaretli — sonra dön' : '☆ Sonra dönmek için işaretle'}
           </button>
         )}
+
+        {/* Sınav sırasında dikkat dağıtmasın diye yalnızca çalışma modunda. */}
+        {mod !== 'sinav' && <SoruBildir soru={soru} className="mt-4" />}
       </div>
 
       <Modal acik={notAcik} kapat={() => setNotAcik(false)} baslik="Not">

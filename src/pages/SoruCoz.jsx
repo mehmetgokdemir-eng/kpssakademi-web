@@ -6,6 +6,7 @@ import { cevapKaydet, kayitToggle, notKaydet, getState } from '../lib/storage.js
 import { karistir, sayi, yuzde } from '../lib/utils.js'
 import { useSettings } from '../lib/settings.jsx'
 import { Yukleniyor, Hata, Bos, Ilerleme, Istatistik } from '../components/UI.jsx'
+import SinavAraclari from '../components/SinavAraclari.jsx'
 import { Baslik } from '../components/Layout.jsx'
 import SoruKarti from '../components/SoruKarti.jsx'
 import { IconRefresh, IconShuffle, IconBook } from '../components/Icons.jsx'
@@ -119,6 +120,7 @@ export default function SoruCoz() {
 
   return (
     <>
+      <SinavAraclari />
       <Baslik
         baslik={veri.baslik}
         altBaslik={`${veri.ders?.ad} · ${sayi(sorular.length)} soru`}

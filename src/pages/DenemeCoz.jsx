@@ -7,6 +7,7 @@ import { cx, sureFormat, yuzde, harf, ls } from '../lib/utils.js'
 import { useSettings } from '../lib/settings.jsx'
 import { net as netHesap, kpssPuan, DERS_REFERANS, PUAN_TURLERI, GRUPLAR } from '../lib/kpss.js'
 import { Yukleniyor, Hata, Bos, Ilerleme, Istatistik, Modal, Rozet } from '../components/UI.jsx'
+import SinavAraclari from '../components/SinavAraclari.jsx'
 import SoruKarti from '../components/SoruKarti.jsx'
 import Reklam from '../components/Reklam.jsx'
 import { IconClose, IconClock, IconCheck, IconChevron, IconBack, IconTrophy } from '../components/Icons.jsx'
@@ -288,6 +289,7 @@ export default function DenemeCoz() {
 
   return (
     <div className="mx-auto max-w-2xl">
+      <SinavAraclari />
       <div className="sticky top-0 z-20 -mx-4 mb-4 flex items-center gap-2.5 border-b border-ink-100 bg-ink-50/90 px-4 py-2.5 backdrop-blur dark:border-white/5 dark:bg-ink-950/90">
         <button onClick={() => setBitirAcik(true)} className="rounded-xl p-1.5 text-ink-400 hover:bg-ink-100 dark:hover:bg-white/10" aria-label="Bitir">
           <IconClose size={20} />
