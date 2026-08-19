@@ -33,6 +33,7 @@ function kuruluMu() {
 const ADIMLAR = {
   ios: {
     ad: 'iPhone / iPad',
+    kisa: 'iPhone',
     tarayici: 'Safari',
     not: 'iOS’ta kurulum yalnızca Safari’den yapılabilir. Chrome ile açtıysan önce adresi Safari’de aç.',
     adimlar: [
@@ -44,6 +45,7 @@ const ADIMLAR = {
   },
   android: {
     ad: 'Android',
+    kisa: 'Android',
     tarayici: 'Chrome',
     not: 'Samsung Internet’te de aynı adımlar geçerli; menüde “Sayfayı ekle → Ana ekran” yazar.',
     adimlar: [
@@ -55,6 +57,7 @@ const ADIMLAR = {
   },
   masaustu: {
     ad: 'Bilgisayar',
+    kisa: 'Bilgisayar',
     tarayici: 'Chrome / Edge',
     not: 'Safari ve Firefox’ta uygulama olarak kurulum yoktur; sayfayı yer imlerine ekleyebilirsin (Ctrl + D).',
     adimlar: [
@@ -98,9 +101,9 @@ export default function KurulumBolumu({ kompakt = false }) {
     ls.set(KAPATILDI, true)
   }
 
-  /* Kenar çubuğunun altındaki boşluğa oturan dar sürüm.
-     Sekme yok — 216 px'e sığmıyor; zaten kullanıcının kendi platformunun
-     adımları gösteriliyor. Geniş sürüm yalnızca mobilde, akışın sonunda. */
+  /* Yan şeride oturan dar sürüm. Geniş sürümdeki gibi üç platformun da
+     adımları var; sekmeler dar alana sığsın diye küçük ve satır atlayabilir
+     halde. Kullanıcının kendi platformu açılışta seçili gelir. */
   if (kompakt) {
     return (
       <div className="rounded-2xl border border-ink-100 bg-ink-50/70 p-3 dark:border-white/5 dark:bg-white/[0.03]">
@@ -117,9 +120,9 @@ export default function KurulumBolumu({ kompakt = false }) {
           Ana ekrana eklenir, çevrimdışı çalışır.
         </p>
 
-        {olay ? (
+        {olay && (
           <button
-            className="btn-primary w-full !py-1.5 !text-[11px]"
+            className="btn-primary mb-2.5 w-full !py-1.5 !text-[11px]"
             onClick={async () => {
               olay.prompt()
               const s = await olay.userChoice
@@ -129,16 +132,38 @@ export default function KurulumBolumu({ kompakt = false }) {
           >
             <IconInstall size={14} /> Şimdi Yükle
           </button>
-        ) : (
-          <ol className="space-y-1">
-            {p.adimlar.slice(0, 3).map((a, i) => (
-              <li key={i} className="flex gap-1.5 text-[11px] leading-snug text-ink-500 dark:text-ink-400">
-                <span className="font-bold text-brand-600 dark:text-brand-300">{i + 1}.</span>
-                <span>{a}</span>
-              </li>
-            ))}
-          </ol>
         )}
+
+        <div className="mb-2 flex flex-wrap gap-1">
+          {Object.entries(ADIMLAR).map(([id, v]) => (
+            <button
+              key={id}
+              onClick={() => setSekme(id)}
+              className={cx(
+                'rounded-lg px-2 py-1 text-[10px] font-bold transition',
+                sekme === id
+                  ? 'bg-brand-600 text-white'
+                  : 'bg-ink-100 text-ink-500 hover:bg-ink-200 dark:bg-white/5 dark:text-ink-400'
+              )}
+            >
+              {v.kisa}
+              {id === kendi && <span className="ml-0.5 opacity-70">•</span>}
+            </button>
+          ))}
+        </div>
+
+        <p className="mb-1.5 text-[9px] font-bold uppercase tracking-wider text-ink-400">{p.tarayici} ile</p>
+        <ol className="space-y-1">
+          {p.adimlar.map((a, i) => (
+            <li key={i} className="flex gap-1.5 text-[11px] leading-snug text-ink-500 dark:text-ink-400">
+              <span className="font-bold text-brand-600 dark:text-brand-300">{i + 1}.</span>
+              <span>{a}</span>
+            </li>
+          ))}
+        </ol>
+        <p className="mt-2 border-t border-ink-100 pt-2 text-[10px] leading-snug text-ink-400 dark:border-white/5">
+          {p.not}
+        </p>
       </div>
     )
   }

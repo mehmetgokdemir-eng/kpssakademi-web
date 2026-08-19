@@ -10,6 +10,7 @@ import { TemaButonu, AyarButonu } from '../components/Layout.jsx'
 import Reklam from '../components/Reklam.jsx'
 import DegerlendirmeIstegi from '../components/DegerlendirmeIstegi.jsx'
 import KurulumBolumu from '../components/KurulumBolumu.jsx'
+import AndroidYakinda from '../components/AndroidYakinda.jsx'
 import {
   DersIkon,
   IconWrong,
@@ -255,6 +256,9 @@ export default function Home() {
       {/* Geniş ekranda yan şeritte duruyor; burada dar ekranlar için. */}
       <div className="mt-4 min-[1400px]:hidden">
         <KurulumBolumu />
+        <div className="mt-3">
+          <AndroidYakinda />
+        </div>
       </div>
       <Reklam yer="anaSayfa" />
       <footer className="mt-8 flex flex-wrap items-center justify-center gap-x-4 gap-y-1 pb-2 text-[11px] text-ink-400">

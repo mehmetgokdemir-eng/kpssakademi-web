@@ -4,6 +4,7 @@ import { cx } from '../lib/utils.js'
 import MusicPlayer from './MusicPlayer.jsx'
 import InstallPrompt from './InstallPrompt.jsx'
 import KurulumBolumu from './KurulumBolumu.jsx'
+import AndroidYakinda from './AndroidYakinda.jsx'
 import CerezBildirimi from './CerezBildirimi.jsx'
 import GuncellemeBildirimi from './GuncellemeBildirimi.jsx'
 import {
@@ -180,6 +181,14 @@ export default function Layout({ children }) {
           <div className="pointer-events-none absolute inset-y-0 left-0 hidden w-48 px-2 min-[1400px]:block 2xl:w-60 2xl:px-4">
             <div className="pointer-events-auto sticky top-6">
               <KurulumBolumu kompakt />
+            </div>
+          </div>
+        )}
+        {/* Sağdaki simetrik şerit — Android uygulaması duyurusu. */}
+        {!tamEkran && (
+          <div className="pointer-events-none absolute inset-y-0 right-0 hidden w-48 px-2 min-[1400px]:block 2xl:w-60 2xl:px-4">
+            <div className="pointer-events-auto sticky top-6">
+              <AndroidYakinda />
             </div>
           </div>
         )}
