@@ -13,13 +13,21 @@
   "dir": "ltr",
   "categories": ["education"],
   "icons": [
+    { "src": "/icons/icon-96.png", "sizes": "96x96", "type": "image/png", "purpose": "any" },
     { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
     { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
     { "src": "/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ],
+  "screenshots": [
+    { "src": "/icons/ss-mobil-1.png", "sizes": "412x892", "type": "image/png", "form_factor": "narrow", "label": "Ana sayfa — sınav geri sayımı ve günlük hedef" },
+    { "src": "/icons/ss-mobil-2.png", "sizes": "412x892", "type": "image/png", "form_factor": "narrow", "label": "Dersler — 16.066 soruluk banka" },
+    { "src": "/icons/ss-mobil-3.png", "sizes": "412x892", "type": "image/png", "form_factor": "narrow", "label": "Oyunlar — harita, eşleştirme, kronoloji" },
+    { "src": "/icons/ss-genis-1.png", "sizes": "1280x800", "type": "image/png", "form_factor": "wide", "label": "Ana sayfa" },
+    { "src": "/icons/ss-genis-2.png", "sizes": "1280x800", "type": "image/png", "form_factor": "wide", "label": "Dersler" }
+  ],
   "shortcuts": [
-    { "name": "Quiz", "url": "/quiz" },
-    { "name": "Kartlar", "url": "/kartlar" },
-    { "name": "Denemeler", "url": "/denemeler" }
+    { "name": "Quiz", "url": "/quiz", "icons": [{ "src": "/icons/icon-96.png", "sizes": "96x96", "type": "image/png" }] },
+    { "name": "Kartlar", "url": "/kartlar", "icons": [{ "src": "/icons/icon-96.png", "sizes": "96x96", "type": "image/png" }] },
+    { "name": "Denemeler", "url": "/denemeler", "icons": [{ "src": "/icons/icon-96.png", "sizes": "96x96", "type": "image/png" }] }
   ]
 }
