@@ -251,8 +251,11 @@ export default function Home() {
       <BilgiKarti />
       <DegerlendirmeIstegi />
       <KisayolSatiri />
-      <KurulumBolumu />
       <DerslerGrid />
+      {/* Geniş ekranda kenar çubuğunda duruyor; burada yalnızca mobil için. */}
+      <div className="mt-4 lg:hidden">
+        <KurulumBolumu />
+      </div>
       <Reklam yer="anaSayfa" />
       <footer className="mt-8 flex flex-wrap items-center justify-center gap-x-4 gap-y-1 pb-2 text-[11px] text-ink-400">
         <Link to="/hakkinda" className="hover:text-brand-600">

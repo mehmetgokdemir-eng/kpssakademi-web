@@ -66,7 +66,7 @@ const ADIMLAR = {
   },
 }
 
-export default function KurulumBolumu() {
+export default function KurulumBolumu({ kompakt = false }) {
   const kendi = useMemo(platformBul, [])
   const [sekme, setSekme] = useState(kendi)
   const [olay, setOlay] = useState(null)
@@ -93,6 +93,55 @@ export default function KurulumBolumu() {
   if (kurulu || kapali) return null
 
   const p = ADIMLAR[sekme]
+  const kapat = () => {
+    setKapali(true)
+    ls.set(KAPATILDI, true)
+  }
+
+  /* Kenar çubuğunun altındaki boşluğa oturan dar sürüm.
+     Sekme yok — 216 px'e sığmıyor; zaten kullanıcının kendi platformunun
+     adımları gösteriliyor. Geniş sürüm yalnızca mobilde, akışın sonunda. */
+  if (kompakt) {
+    return (
+      <div className="mt-auto rounded-2xl border border-ink-100 bg-ink-50/70 p-3 dark:border-white/5 dark:bg-white/[0.03]">
+        <div className="mb-1.5 flex items-start gap-2">
+          <span className="grid h-7 w-7 shrink-0 place-items-center rounded-lg bg-brand-600 text-white">
+            <IconInstall size={15} />
+          </span>
+          <p className="flex-1 pt-0.5 text-[12px] font-bold leading-tight">Uygulama olarak kur</p>
+          <button onClick={kapat} className="-mr-1 -mt-0.5 rounded p-1 text-ink-300 hover:text-ink-500" aria-label="Kapat">
+            <IconClose size={13} />
+          </button>
+        </div>
+        <p className="mb-2 text-[11px] leading-relaxed text-ink-400">
+          Ana ekrana eklenir, çevrimdışı çalışır.
+        </p>
+
+        {olay ? (
+          <button
+            className="btn-primary w-full !py-1.5 !text-[11px]"
+            onClick={async () => {
+              olay.prompt()
+              const s = await olay.userChoice
+              if (s?.outcome === 'accepted') setKurulu(true)
+              setOlay(null)
+            }}
+          >
+            <IconInstall size={14} /> Şimdi Yükle
+          </button>
+        ) : (
+          <ol className="space-y-1">
+            {p.adimlar.slice(0, 3).map((a, i) => (
+              <li key={i} className="flex gap-1.5 text-[11px] leading-snug text-ink-500 dark:text-ink-400">
+                <span className="font-bold text-brand-600 dark:text-brand-300">{i + 1}.</span>
+                <span>{a}</span>
+              </li>
+            ))}
+          </ol>
+        )}
+      </div>
+    )
+  }
 
   return (
     <section className="card relative mb-4 overflow-hidden p-0">

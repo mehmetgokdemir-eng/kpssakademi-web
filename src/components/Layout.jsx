@@ -3,6 +3,7 @@ import { useSettings } from '../lib/settings.jsx'
 import { cx } from '../lib/utils.js'
 import MusicPlayer from './MusicPlayer.jsx'
 import InstallPrompt from './InstallPrompt.jsx'
+import KurulumBolumu from './KurulumBolumu.jsx'
 import CerezBildirimi from './CerezBildirimi.jsx'
 import GuncellemeBildirimi from './GuncellemeBildirimi.jsx'
 import {
@@ -108,6 +109,8 @@ export function SideNav() {
           </NavLink>
         ))}
       </div>
+      {/* Kenar çubuğunun altında kalan boşluğa oturur (mt-auto). */}
+      <KurulumBolumu kompakt />
     </aside>
   )
 }
