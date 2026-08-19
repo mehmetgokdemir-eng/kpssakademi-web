@@ -118,3 +118,38 @@ Vercel kullanmak istemezsen `npm run build` ile üretilen `dist/` klasörünün
 içeriğini (gizli `.htaccess` dosyası dahil) `public_html/` altına kopyalaman
 yeterli. `.htaccess`; HTTPS yönlendirmesi, www→apex yönlendirmesi, SPA
 yönlendirmesi ve cache başlıklarını zaten içeriyor.
+
+---
+
+## Bilinen tuzak — SPA yolları 404 dönerse
+
+`vercel.json` içindeki `rewrites.source` alanı **path-to-regexp** sözdizimi kullanır,
+ham düzenli ifade DEĞİL. Bir dönem burada şu desen vardı:
+
+```json
+{ "source": "/((?!.*\\.).*)", "destination": "/index.html" }
+```
+
+Negatif ileri bakış `(?!...)` desteklenmediği için kural hiç eşleşmedi. Sonuç:
+`/dersler`, `/quiz`, `/ders/matematik` gibi TÜM uygulama yolları doğrudan
+açıldığında 404 döndü. Uygulama içinde tıklamak çalışıyordu (yönlendirme
+tarayıcıda yapılıyor, sunucuya gitmiyor), bu yüzden hata gözden kaçtı.
+
+Doğrusu basit yakala-hepsini desenidir:
+
+```json
+{ "source": "/(.*)", "destination": "/index.html" }
+```
+
+Vercel yeniden yazma kurallarını **dosya sistemi kontrolünden sonra** uygular;
+gerçek dosyalar (`/assets/*`, `/data/*`, `/kpss-nedir`, `/konu/...`, `ads.txt`,
+`sitemap.xml`) önce servis edilir, yalnızca eşleşmeyen yollar `index.html`'e düşer.
+
+**Her yayından sonra kontrol edin** — tarayıcıda gezinmek yetmez, adresleri
+doğrudan açın:
+
+```
+/dersler   /quiz   /denemeler   /ders/matematik   /oyunlar   /puan-hesapla
+```
+
+Hepsi uygulamayı açmalı. Biri 404 dönerse yeniden yazma kuralı bozulmuştur.
