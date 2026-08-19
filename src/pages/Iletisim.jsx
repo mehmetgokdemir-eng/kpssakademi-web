@@ -1,7 +1,10 @@
 import { Baslik } from '../components/Layout.jsx'
 import { IconLink, IconNote, IconBulb } from '../components/Icons.jsx'
 
-const EPOSTA = 'iletisim@kpssakademi.tr'
+/* Alan adının MX kaydı yok (DNS yalnızca Vercel'e yönlendiriliyor), bu yüzden
+   @kpssakademi.tr adresine gelen postalar teslim edilemez. İletişim adresi
+   bilinçli olarak çalışan bir posta kutusudur. */
+const EPOSTA = 'mehmetgokdemir@gmail.com'
 
 export default function Iletisim() {
   return (
@@ -13,9 +16,10 @@ export default function Iletisim() {
           KPSS Akademi'yi tek kişilik bir ekip geliştiriyor. Yazdığın her mesaj okunuyor; özellikle hatalı soru
           bildirimleri hızla düzeltiliyor.
         </p>
-        <a href={`mailto:${EPOSTA}`} className="btn-primary mt-4 w-full">
-          {EPOSTA}
+        <a href={`mailto:${EPOSTA}?subject=KPSS%20Akademi`} className="btn-primary mt-4 w-full">
+          E-posta Gönder
         </a>
+        <p className="mt-2 break-all text-center text-xs text-ink-400">{EPOSTA}</p>
       </div>
 
       <div className="space-y-2.5">
