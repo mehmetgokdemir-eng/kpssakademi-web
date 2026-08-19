@@ -252,8 +252,8 @@ export default function Home() {
       <DegerlendirmeIstegi />
       <KisayolSatiri />
       <DerslerGrid />
-      {/* Geniş ekranda kenar çubuğunda duruyor; burada yalnızca mobil için. */}
-      <div className="mt-4 lg:hidden">
+      {/* Geniş ekranda yan şeritte duruyor; burada dar ekranlar için. */}
+      <div className="mt-4 min-[1400px]:hidden">
         <KurulumBolumu />
       </div>
       <Reklam yer="anaSayfa" />

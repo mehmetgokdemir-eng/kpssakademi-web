@@ -109,8 +109,6 @@ export function SideNav() {
           </NavLink>
         ))}
       </div>
-      {/* Kenar çubuğunun altında kalan boşluğa oturur (mt-auto). */}
-      <KurulumBolumu kompakt />
     </aside>
   )
 }
@@ -167,7 +165,24 @@ export default function Layout({ children }) {
   return (
     <div className="flex min-h-full">
       {!tamEkran && <SideNav />}
-      <div className="flex min-w-0 flex-1 flex-col">
+      <div className="relative flex min-w-0 flex-1 flex-col">
+        {/* İçerik max-w-3xl (768 px) ile ortalandığı için kenar çubuğu ile
+            içerik arasında boş bir şerit kalıyor; kurulum kartı oraya oturuyor.
+
+            Şeridin genişliği = (ekran − 240 kenar çubuğu − 768 içerik) / 2.
+            Kart ancak bu şeride SIĞDIĞINDA gösterilmeli, yoksa içeriğin
+            üstüne biner:
+              1400 px → şerit 196 px → 192 px'lik kart sığar
+              1536 px → şerit 264 px → 240 px'lik geniş kart sığar
+            Daha dar ekranlarda hiç gösterilmiyor; kart o ekranlarda mobil
+            sürümüyle ana sayfanın sonunda duruyor. */}
+        {!tamEkran && (
+          <div className="pointer-events-none absolute inset-y-0 left-0 hidden w-48 px-2 min-[1400px]:block 2xl:w-60 2xl:px-4">
+            <div className="pointer-events-auto sticky top-6">
+              <KurulumBolumu kompakt />
+            </div>
+          </div>
+        )}
         <main className={cx('mx-auto w-full max-w-3xl flex-1 px-4', tamEkran ? 'pb-6 pt-4' : 'pb-28 pt-4 lg:pb-10')}>{children}</main>
         {!tamEkran && <BottomNav />}
       </div>

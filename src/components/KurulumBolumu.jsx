@@ -103,7 +103,7 @@ export default function KurulumBolumu({ kompakt = false }) {
      adımları gösteriliyor. Geniş sürüm yalnızca mobilde, akışın sonunda. */
   if (kompakt) {
     return (
-      <div className="mt-auto rounded-2xl border border-ink-100 bg-ink-50/70 p-3 dark:border-white/5 dark:bg-white/[0.03]">
+      <div className="rounded-2xl border border-ink-100 bg-ink-50/70 p-3 dark:border-white/5 dark:bg-white/[0.03]">
         <div className="mb-1.5 flex items-start gap-2">
           <span className="grid h-7 w-7 shrink-0 place-items-center rounded-lg bg-brand-600 text-white">
             <IconInstall size={15} />
