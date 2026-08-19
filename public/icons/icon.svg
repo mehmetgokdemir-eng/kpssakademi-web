@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="KPSS Akademi">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3168fb"/>
+      <stop offset="1" stop-color="#1d2f8c"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#bcd3ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#g)"/>
+  <path d="M256 108 78 186l178 78 146-64v96h28v-110z" fill="url(#g2)"/>
+  <path d="M138 246v92c0 34 53 62 118 62s118-28 118-62v-92l-118 52z" fill="#ffffff" opacity=".92"/>
+  <circle cx="402" cy="330" r="20" fill="#ffffff"/>
+  <rect x="392" y="216" width="20" height="98" rx="10" fill="#ffffff"/>
+</svg>

@@ -1,0 +1,25 @@
+{
+  "name": "KPSS Akademi",
+  "short_name": "KPSS Akademi",
+  "description": "KPSS soru bankası, bilgi kartları, denemeler ve oyunlar.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#12141f",
+  "theme_color": "#1f49f0",
+  "lang": "tr",
+  "dir": "ltr",
+  "categories": ["education"],
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Quiz", "url": "/quiz" },
+    { "name": "Kartlar", "url": "/kartlar" },
+    { "name": "Denemeler", "url": "/denemeler" }
+  ]
+}

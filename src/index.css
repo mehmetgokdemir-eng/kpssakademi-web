@@ -1,0 +1,87 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --safe-b: env(safe-area-inset-bottom, 0px);
+  }
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+  body {
+    @apply bg-ink-50 text-ink-900 antialiased;
+    -webkit-tap-highlight-color: transparent;
+    overscroll-behavior-y: none;
+  }
+  .dark body {
+    @apply bg-ink-950 text-ink-100;
+  }
+  * {
+    -webkit-touch-callout: none;
+  }
+  ::selection {
+    @apply bg-brand-500/30;
+  }
+}
+
+@layer components {
+  .card {
+    @apply rounded-2xl bg-white shadow-card border border-ink-100 dark:bg-ink-900 dark:border-white/5;
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold
+           transition active:scale-[.97] disabled:opacity-50 disabled:pointer-events-none select-none;
+  }
+  .btn-primary {
+    @apply btn bg-brand-600 text-white shadow-lift hover:bg-brand-700;
+  }
+  .btn-ghost {
+    @apply btn bg-ink-100 text-ink-700 hover:bg-ink-200 dark:bg-white/5 dark:text-ink-200 dark:hover:bg-white/10;
+  }
+  .btn-outline {
+    @apply btn border border-ink-200 text-ink-700 hover:bg-ink-50 dark:border-white/10 dark:text-ink-200 dark:hover:bg-white/5;
+  }
+  .chip {
+    @apply inline-flex shrink-0 items-center gap-1 whitespace-nowrap rounded-full px-2.5 py-1 text-[11px] font-semibold;
+  }
+  .input {
+    @apply w-full rounded-xl border border-ink-200 bg-white px-3 py-2.5 text-sm outline-none
+           focus:border-brand-500 focus:ring-2 focus:ring-brand-500/20
+           dark:border-white/10 dark:bg-white/5 dark:text-white;
+  }
+  .section-title {
+    @apply text-[13px] font-bold uppercase tracking-wide text-ink-400 dark:text-ink-500;
+  }
+  .skeleton {
+    @apply animate-pulse rounded-lg bg-ink-100 dark:bg-white/5;
+  }
+}
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .pb-safe {
+    padding-bottom: calc(var(--safe-b) + 0.5rem);
+  }
+  .preserve-3d {
+    transform-style: preserve-3d;
+  }
+  .backface-hidden {
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+  }
+  .rotate-y-180 {
+    transform: rotateY(180deg);
+  }
+  .perspective {
+    perspective: 1400px;
+  }
+}

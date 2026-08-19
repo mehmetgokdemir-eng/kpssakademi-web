@@ -1,0 +1,8 @@
+Arka plan müziği dosyaları buraya konur.
+
+Android uygulamasındaki dosyaların karşılıkları:
+  app/src/main/res/raw/chopin_nocturne_op9.mp3  ->  public/media/chopin_nocturne_op9.mp3
+  app/src/main/res/raw/guitar_ambient.mp3       ->  public/media/guitar_ambient.mp3
+
+Dosyalar yoksa oynatıcı otomatik olarak gizlenir; site sorunsuz çalışmaya devam eder.
+Yeni parça eklemek için src/components/MusicPlayer.jsx içindeki PARCALAR dizisini güncelleyin.

@@ -1,0 +1,29 @@
+{
+  "name": "kpssakademi-web",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "KPSS Akademi — web (PWA) sürümü · kpssakademi.tr",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && node tools/seo-sayfa-uret.mjs",
+    "preview": "vite preview",
+    "import:assets": "node tools/import-android-assets.mjs",
+    "build:app": "vite build",
+    "seo": "node tools/seo-sayfa-uret.mjs",
+    "veri:android": "node tools/android-veri-cikar.mjs",
+    "icerik:aktar": "node tools/android-assets-aktar.mjs"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-router-dom": "^7.9.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.1",
+    "autoprefixer": "^10.4.23",
+    "postcss": "^8.5.7",
+    "tailwindcss": "^3.4.19",
+    "vite": "^8.2.1"
+  }
+}
