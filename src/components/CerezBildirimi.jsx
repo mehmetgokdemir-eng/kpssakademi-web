@@ -28,7 +28,13 @@ export default function CerezBildirimi() {
     <div
       role="dialog"
       aria-label="Çerez tercihi"
-      className="fixed inset-x-0 bottom-0 z-50 border-t border-ink-200 bg-white/95 p-4 backdrop-blur-lg animate-slideUp dark:border-white/10 dark:bg-ink-900/95"
+      /* DİKKAT — bottom-0 KULLANMA.
+         Mobil alt menü de `fixed bottom-0 z-40`. Bu bildirim z-50 olduğu için
+         tam onun ÜSTÜNE oturuyordu: Dersler / Kartlar / Denemeler / İstatistik
+         düğmelerine yapılan ilk dokunuş menüye değil bu bildirime gidiyordu,
+         yani "butonlar ilk tıklamada çalışmıyor" gibi görünüyordu.
+         Mobilde alt menünün üstüne, geniş ekranda dibe yerleşiyor. */
+      className="fixed inset-x-0 bottom-[4.75rem] z-50 mx-3 rounded-2xl border border-ink-200 bg-white/95 p-4 shadow-lift backdrop-blur-lg animate-slideUp dark:border-white/10 dark:bg-ink-900/95 lg:bottom-0 lg:mx-0 lg:rounded-none lg:border-x-0 lg:border-b-0"
     >
       <div className="mx-auto flex max-w-3xl flex-col gap-3 sm:flex-row sm:items-center">
         <p className="flex-1 text-[13px] leading-relaxed text-ink-600 dark:text-ink-300">

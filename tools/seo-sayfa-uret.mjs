@@ -483,7 +483,15 @@ ${Object.entries(gruplar)
 <a href="https://play.google.com/store/apps/details?id=com.nihangokdemir.kpss">Android uygulaması</a><br>
 KPSS Akademi bağımsız bir çalışma aracıdır; ÖSYM ile resmî bir bağlantısı yoktur.
 Sınav tarihleri ve resmî sonuçlar için osym.gov.tr esas alınmalıdır.</p>
-</div>`
+</div>
+<script>
+/* Bu blok ana sayfanın özetidir; arama motoru ve AdSense tarayıcısı içindir.
+   Ama sunucu /dersler, /quiz gibi TÜM yolları da aynı index.html ile
+   karşılıyor. O yollarda React yüklenene kadar ekranda ana sayfa metni
+   duruyordu — kullanıcı "tıkladım ama açılmadı" diye görüyordu.
+   Ana sayfa dışındaki yollarda anında kaldırılıyor. */
+if (location.pathname !== '/') { var _o = document.getElementById('on-icerik'); if (_o) _o.remove() }
+</script>`
 
 const anaSayfa = join(DIST, 'index.html')
 let html = await readFile(anaSayfa, 'utf8')
