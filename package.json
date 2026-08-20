@@ -1,32 +1,33 @@
 {
-  "name": "kpssakademi-web",
-  "private": true,
-  "version": "1.0.0",
-  "type": "module",
-  "description": "KPSS Akademi — web (PWA) sürümü · kpssakademi.tr",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build && node tools/seo-sayfa-uret.mjs",
-    "preview": "vite preview",
-    "import:assets": "node tools/import-android-assets.mjs",
-    "build:app": "vite build",
-    "seo": "node tools/seo-sayfa-uret.mjs",
-    "veri:android": "node tools/android-veri-cikar.mjs",
-    "icerik:aktar": "node tools/android-assets-aktar.mjs",
-    "deneme:uret": "node tools/deneme-uret.mjs",
-    "oyun:uret": "node tools/oyun-veri-uret.mjs"
-  },
-  "dependencies": {
-    "@vercel/analytics": "^2.0.1",
-    "react": "^19.2.8",
-    "react-dom": "^19.2.8",
-    "react-router-dom": "^7.9.6"
-  },
-  "devDependencies": {
-    "@vitejs/plugin-react": "^5.1.1",
-    "autoprefixer": "^10.4.23",
-    "postcss": "^8.5.7",
-    "tailwindcss": "^3.4.19",
-    "vite": "^8.2.1"
-  }
+    "name":  "kpssakademi-web",
+    "private":  true,
+    "version":  "1.0.0",
+    "type":  "module",
+    "description":  "KPSS Akademi â€” web (PWA) sÃ¼rÃ¼mÃ¼ Â· kpssakademi.tr",
+    "scripts":  {
+                    "dev":  "vite",
+                    "build":  "vite build \u0026\u0026 node tools/seo-sayfa-uret.mjs",
+                    "preview":  "vite preview",
+                    "import:assets":  "node tools/import-android-assets.mjs",
+                    "build:app":  "vite build",
+                    "seo":  "node tools/seo-sayfa-uret.mjs",
+                    "veri:android":  "node tools/android-veri-cikar.mjs",
+                    "icerik:aktar":  "node tools/android-assets-aktar.mjs",
+                    "deneme:uret":  "node tools/deneme-uret.mjs",
+                    "oyun:uret":  "node tools/oyun-veri-uret.mjs",
+                    "indexnow":  "node tools/indexnow.mjs"
+                },
+    "dependencies":  {
+                         "@vercel/analytics":  "^2.0.1",
+                         "react":  "^19.2.8",
+                         "react-dom":  "^19.2.8",
+                         "react-router-dom":  "^7.9.6"
+                     },
+    "devDependencies":  {
+                            "@vitejs/plugin-react":  "^5.1.1",
+                            "autoprefixer":  "^10.4.23",
+                            "postcss":  "^8.5.7",
+                            "tailwindcss":  "^3.4.19",
+                            "vite":  "^8.2.1"
+                        }
 }
