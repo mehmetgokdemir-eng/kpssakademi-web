@@ -110,6 +110,8 @@ footer a{color:var(--soluk)}
     <a href="/kpss-nedir">KPSS Nedir</a>
     <a href="/kpss-konulari">Konular</a>
     <a href="/kpss-puan-hesaplama">Puan Hesaplama</a>
+    <a href="/kpss-ne-zaman">Ne Zaman</a>
+    <a href="/kpss-deneme-sinavi">Denemeler</a>
   </nav>
 </div></header>
 <main class="kap">
@@ -506,6 +508,309 @@ yanlış yaptığın sorular <b>Yanlışlarım</b> listesine ve aralıklı tekra
 }
 sayfalar.push(...dersSayfalari)
 
+/* ── Uzun kuyruk rehber sayfaları ──────────────────────────────
+   "kpss" tek kelimesinde yarışmak anlamsız (osym.gov.tr, memurlar.net,
+   haber siteleri). Buradaki sayfalar NİYET belirten aramaları hedefliyor:
+   "kpss ne zaman", "kpss net hesaplama", "kpss soru dağılımı" gibi.
+   Hacim daha düşük ama rekabet ve dönüşüm çok daha iyi.
+
+   Tarihler ÖSYM 2026 sınav takviminden; her sayfada osym.gov.tr uyarısı var. */
+
+const SINAV_TAKVIMI = [
+  ['KPSS Lisans — Genel Yetenek / Genel Kültür', '6 Eylül 2026'],
+  ['KPSS Lisans — Alan Bilgisi 1. gün', '12 Eylül 2026'],
+  ['KPSS Lisans — Alan Bilgisi 2. gün', '13 Eylül 2026'],
+  ['KPSS Ön Lisans', '4 Ekim 2026'],
+  ['KPSS Ortaöğretim (Lise)', '25 Ekim 2026'],
+  ['DHBT', '1 Kasım 2026'],
+]
+
+const GYGK_DAGILIM = [
+  ['Türkçe', 30, 'Genel Yetenek'],
+  ['Matematik', 30, 'Genel Yetenek'],
+  ['Tarih', 27, 'Genel Kültür'],
+  ['Coğrafya', 18, 'Genel Kültür'],
+  ['Vatandaşlık', 9, 'Genel Kültür'],
+  ['Güncel Bilgiler', 6, 'Genel Kültür'],
+]
+
+const sss = (liste) => ({
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: liste.map(([soru, cevap]) => ({
+    '@type': 'Question',
+    name: soru,
+    acceptedAnswer: { '@type': 'Answer', text: cevap },
+  })),
+})
+
+const uyari = `<p class="tarih">Sınav tarihleri ve kılavuzlar için esas kaynak <b>osym.gov.tr</b>'dir. KPSS Akademi bağımsız bir çalışma aracıdır; ÖSYM ile resmî bir bağlantısı yoktur.</p>`
+
+const uzunKuyruk = [
+  {
+    yol: '/kpss-ne-zaman',
+    baslik: 'KPSS Ne Zaman? 2026 Sınav Tarihleri | KPSS Akademi',
+    aciklama: 'KPSS 2026 sınav takvimi: Lisans 6 Eylül, Alan Bilgisi 12-13 Eylül, Ön Lisans 4 Ekim, Ortaöğretim 25 Ekim, DHBT 1 Kasım 2026.',
+    h1: 'KPSS Ne Zaman? 2026 Sınav Tarihleri',
+    jsonLd: sss([
+      ['KPSS Lisans ne zaman?', 'KPSS Lisans Genel Yetenek–Genel Kültür oturumu 6 Eylül 2026 tarihinde yapılacaktır. Alan Bilgisi oturumları 12 ve 13 Eylül 2026 tarihlerindedir.'],
+      ['KPSS Ön Lisans ne zaman?', 'KPSS Ön Lisans sınavı 4 Ekim 2026 tarihinde yapılacaktır.'],
+      ['KPSS Ortaöğretim ne zaman?', 'KPSS Ortaöğretim (Lise) sınavı 25 Ekim 2026 tarihinde yapılacaktır.'],
+    ]),
+    icerik: `<p>2026 KPSS oturumlarının tarihleri aşağıdadır. Sınav saatleri ve giriş belgesi bilgileri
+sınavdan kısa süre önce ÖSYM tarafından duyurulur.</p>
+<table>
+  <tr><th>Oturum</th><th>Tarih</th></tr>
+  ${SINAV_TAKVIMI.map(([a, t]) => `<tr><td>${esc(a)}</td><td><b>${esc(t)}</b></td></tr>`).join('')}
+</table>
+<h2>Sınava kaç gün kaldı?</h2>
+<p>KPSS Akademi'nin ana sayfasında, seçtiğin sınav türüne göre canlı bir geri sayım bulunur.
+Ayarlar'dan hangi oturuma hazırlandığını seçebilir, günlük soru hedefini buna göre belirleyebilirsin.</p>
+<h2>Hangi oturuma girmelisin?</h2>
+<ul>
+  <li><b>Lisans</b> — 4 yıllık fakülte mezunları ve son sınıf öğrencileri.</li>
+  <li><b>Ön Lisans</b> — 2 yıllık meslek yüksekokulu mezunları.</li>
+  <li><b>Ortaöğretim</b> — lise ve dengi okul mezunları.</li>
+</ul>
+<p>Öğretmenlik için Eğitim Bilimleri, A grubu kadrolar için Alan Bilgisi oturumlarına ayrıca girilir.</p>
+${uyari}`,
+  },
+  {
+    yol: '/kpss-soru-dagilimi',
+    baslik: 'KPSS Soru Dağılımı 2026 — Hangi Dersten Kaç Soru? | KPSS Akademi',
+    aciklama: 'KPSS Genel Yetenek–Genel Kültür: 120 soru, 130 dakika. Türkçe 30, Matematik 30, Tarih 27, Coğrafya 18, Vatandaşlık 9, Güncel 6 soru.',
+    h1: 'KPSS Soru Dağılımı',
+    jsonLd: sss([
+      ['KPSS kaç soru?', 'Genel Yetenek–Genel Kültür oturumu 120 sorudan oluşur ve 130 dakika sürer. Lisans, Ön Lisans ve Ortaöğretim düzeylerinin üçünde de soru sayısı ve ders dağılımı aynıdır.'],
+      ['KPSS Tarih kaç soru?', 'Genel Kültür testinde Tarih 27 sorudur; toplam sınavın yaklaşık %22,5’ini oluşturur.'],
+    ]),
+    icerik: `<p>Genel Yetenek–Genel Kültür oturumu <b>120 soru</b> ve <b>130 dakikadır</b>. Soru başına ortalama
+65 saniye düşer. Lisans, Ön Lisans ve Ortaöğretim düzeylerinin üçünde de ders dağılımı aynıdır;
+fark soru sayısında değil, zorluk seviyesindedir.</p>
+<table>
+  <tr><th>Ders</th><th>Bölüm</th><th>Soru</th><th>Ağırlık</th></tr>
+  ${GYGK_DAGILIM.map(([ad, n, grup]) => `<tr><td><a href="/kpss-${slug(ad)}">${esc(ad)}</a></td><td>${esc(grup)}</td><td><b>${n}</b></td><td>%${((n / 120) * 100).toFixed(1)}</td></tr>`).join('')}
+  <tr><td colspan="2"><b>Toplam</b></td><td><b>120</b></td><td><b>%100</b></td></tr>
+</table>
+<h2>Diğer oturumlar</h2>
+<ul>
+  <li><b>Eğitim Bilimleri</b> — 80 soru, 100 dakika. Öğretmen adayları için.</li>
+  <li><b>Alan Bilgisi (A grubu)</b> — Hukuk, İktisat, Maliye, Muhasebe, İşletme, Kamu Yönetimi ve
+  Uluslararası İlişkiler testlerinden oluşur; iki güne yayılır.</li>
+</ul>
+<h2>Bu dağılım çalışma planını nasıl değiştirmeli?</h2>
+<p>Türkçe ve Matematik birlikte sınavın yarısını oluşturur (60 soru). Genel Kültür tarafında ise
+Tarih tek başına Coğrafya, Vatandaşlık ve Güncel Bilgiler'in toplamının yarısı kadardır. Zaman
+ayırırken bu ağırlıkları gözetmek, her derse eşit süre vermekten daha verimlidir.</p>
+${uyari}`,
+  },
+  {
+    yol: '/kpss-net-hesaplama',
+    baslik: 'KPSS Net Hesaplama — 4 Yanlış 1 Doğruyu Götürür | KPSS Akademi',
+    aciklama: 'KPSS net hesaplama formülü: Net = Doğru − (Yanlış ÷ 4). Örneklerle net hesabı, boş bırakma stratejisi ve ücretsiz hesaplayıcı.',
+    h1: 'KPSS Net Hesaplama',
+    jsonLd: sss([
+      ['KPSS net nasıl hesaplanır?', 'Net = Doğru − (Yanlış ÷ 4) formülüyle hesaplanır. Her test için ayrı ayrı yapılır; 4 yanlış 1 doğruyu götürür.'],
+      ['KPSS’de boş bırakmak mı yanlış yapmak mı iyi?', 'Hiçbir fikrin yoksa boş bırakmak matematiksel olarak nötrdür. En az bir şıkkı kesin eleyebiliyorsan işaretlemenin beklenen değeri pozitife döner.'],
+    ]),
+    icerik: `<div class="kart"><p style="margin:0;font-size:19px"><b>Net = Doğru − (Yanlış ÷ 4)</b></p></div>
+<p>Hesap her test için <b>ayrı ayrı</b> yapılır; testler arasında yanlış mahsuplaşması olmaz.</p>
+<h2>Örneklerle</h2>
+<table>
+  <tr><th>Doğru</th><th>Yanlış</th><th>Boş</th><th>Net</th></tr>
+  <tr><td>22</td><td>4</td><td>4</td><td><b>21,00</b></td></tr>
+  <tr><td>18</td><td>12</td><td>0</td><td><b>15,00</b></td></tr>
+  <tr><td>25</td><td>0</td><td>5</td><td><b>25,00</b></td></tr>
+  <tr><td>15</td><td>15</td><td>0</td><td><b>11,25</b></td></tr>
+</table>
+<h2>Boş bırakmalı mı?</h2>
+<p>Beş şıklı bir soruda tamamen rastgele işaretlersen beklenen kazancın sıfırdır: ortalama 5 sorudan
+1'ini doğru yapar, 4 yanlışla o 1 doğruyu geri verirsin. Ama <b>bir şıkkı bile kesin elediysen</b>
+oran 1/4'e çıkar ve işaretlemek matematiksel olarak kazançlı hale gelir. İki şık elediysen açık ara
+avantajlıdır.</p>
+<p>Yani "emin değilsem boş bırakayım" kuralı, çeldirici eleyebiliyorsan yanlıştır.</p>
+<h2>Netten puana</h2>
+<p>Net tek başına puan değildir. ÖSYM netleri o yılki ortalama ve standart sapmaya göre standart
+puana çevirir, sonra puan türünün ağırlıklarıyla birleştirir. Ayrıntı için
+<a href="/kpss-puan-turleri">puan türleri</a> ve <a href="/kpss-puan-hesaplama">puan hesaplama</a>
+sayfalarına bak.</p>
+<div class="kart" style="text-align:center">
+  <p style="margin:0 0 10px;font-weight:700">Netlerini gir, tahmini puanını gör</p>
+  <a class="cta" href="/puan-hesapla">Puan Hesaplayıcıyı Aç</a>
+</div>
+${uyari}`,
+  },
+  {
+    yol: '/kpss-puan-turleri',
+    baslik: 'KPSS Puan Türleri — P1, P2, P3, P10, P93, P121 | KPSS Akademi',
+    aciklama: 'KPSS puan türleri ve ağırlıkları: P1 (GY %70 GK %30), P2, P3 (%50-%50), P93 ön lisans, P10 öğretmenlik, P121 ÖABT.',
+    h1: 'KPSS Puan Türleri',
+    jsonLd: sss([
+      ['P3 puanı nedir?', 'P3, Genel Yetenek %50 ve Genel Kültür %50 ağırlıkla hesaplanan lisans düzeyi puan türüdür; en yaygın kullanılan puandır.'],
+      ['P1 ile P3 farkı nedir?', 'P1’de Genel Yetenek %70, Genel Kültür %30 ağırlıktadır; P3’te ikisi de %50’dir. Türkçe ve Matematiği güçlü adaylar P1’de daha yüksek puan alır.'],
+    ]),
+    icerik: `<p>KPSS'de tek bir puan yoktur; kadronun türüne göre farklı ağırlıklarla hesaplanan puan türleri
+kullanılır. Aynı netlerle farklı puan türlerinde farklı sonuçlar çıkar.</p>
+<table>
+  <tr><th>Puan</th><th>Düzey</th><th>Ağırlık</th></tr>
+  <tr><td><b>P1</b></td><td>Lisans</td><td>Genel Yetenek %70 · Genel Kültür %30</td></tr>
+  <tr><td><b>P2</b></td><td>Lisans</td><td>Genel Yetenek %60 · Genel Kültür %40</td></tr>
+  <tr><td><b>P3</b></td><td>Lisans</td><td>Genel Yetenek %50 · Genel Kültür %50</td></tr>
+  <tr><td><b>P93</b></td><td>Ön Lisans</td><td>Genel Yetenek %50 · Genel Kültür %50</td></tr>
+  <tr><td><b>P10</b></td><td>Öğretmenlik</td><td>GY %30 · GK %30 · Eğitim Bilimleri %40</td></tr>
+  <tr><td><b>P121</b></td><td>ÖABT'li</td><td>GY %15 · GK %15 · Eğitim Bilimleri %20 · ÖABT %50</td></tr>
+</table>
+<h2>Hangi puan türü senin için önemli?</h2>
+<p>Başvurmayı düşündüğün kadronun ilanında hangi puan türünün istendiği yazar. Genel idare
+hizmetlerinde çoğunlukla <b>P3</b>, bazı uzman kadrolarında <b>P1</b> veya <b>P2</b> kullanılır.
+Öğretmenlikte ÖABT'si olan branşlarda <b>P121</b>, olmayanlarda <b>P10</b> geçerlidir.</p>
+<h2>Ağırlıklar stratejini değiştirir</h2>
+<p>P1'de Genel Yetenek'in ağırlığı Genel Kültür'ün iki katından fazladır. Türkçe ve Matematiği güçlü
+bir aday P1'de, Tarih–Coğrafya'sı güçlü bir aday P3'te daha avantajlıdır. Hangi kadroyu hedeflediğini
+bilmek, hangi derse ağırlık vereceğini de belirler.</p>
+<p style="color:var(--soluk);font-size:14px">Ağırlıklar ÖSYM kılavuzlarında zaman zaman güncellenebilir; başvuru öncesi güncel kılavuzu kontrol et.</p>
+<div class="kart" style="text-align:center">
+  <p style="margin:0 0 10px;font-weight:700">Netlerini altı puan türünde birden hesapla</p>
+  <a class="cta" href="/puan-hesapla">Puan Hesaplayıcı</a>
+  <a class="cta ikincil" href="/hedef">Hedef Puan Planı</a>
+</div>
+${uyari}`,
+  },
+  {
+    yol: '/kpss-deneme-sinavi',
+    baslik: 'KPSS Deneme Sınavı Çöz — Ücretsiz, Süreli, Puan Hesaplı | KPSS Akademi',
+    aciklama: 'Gerçek ÖSYM formatında ücretsiz KPSS deneme sınavları: 120 soru 130 dakika, süreli, net ve puan hesaplı. Üyelik gerekmez.',
+    h1: 'KPSS Deneme Sınavı',
+    jsonLd: sss([
+      ['KPSS denemesi kaç soru olmalı?', 'Gerçek sınav düzeninde bir Genel Yetenek–Genel Kültür denemesi 120 soru ve 130 dakikadır. Daha kısa denemeler süre yönetimini ölçmez.'],
+      ['Deneme sınavı ne sıklıkla çözülmeli?', 'Konu çalışması sürerken haftada bir branş denemesi, sınava son bir ayda haftada bir tam deneme yaygın bir düzendir.'],
+    ]),
+    icerik: `<p>Deneme sınavının amacı bilgi ölçmek değil, <b>süre yönetimini ve dayanıklılığı</b> ölçmektir.
+20 soruluk kısa testler bunu yapamaz; 120 soruyu 130 dakikada bitirebilmek ayrı bir beceridir ve
+ancak gerçek düzende denenerek kazanılır.</p>
+<h2>Nasıl çözmeli?</h2>
+<ul>
+  <li>Süreyi başlat ve <b>durdurma</b>. Gerçek sınavda mola yok.</li>
+  <li>Telefonu uzağa koy, tek oturuşta bitir.</li>
+  <li>Emin olmadığın soruyu işaretle, geç; sonunda dön.</li>
+  <li>Bitince sadece puana bakma — <b>hangi konuda kaybettiğine</b> bak.</li>
+</ul>
+<h2>Sonrası daha önemli</h2>
+<p>Denemeyi çözmek işin kolay kısmı. Asıl kazanç, yanlışları tek tek incelemekte. KPSS Akademi'de
+yanlış yaptığın sorular otomatik olarak <b>Yanlışlarım</b> listesine ve aralıklı tekrar kuyruğuna
+düşer; birkaç gün sonra karşına tekrar çıkar.</p>
+<h2>Buradaki denemeler</h2>
+<ul>
+  <li><b>Genel Yetenek–Genel Kültür</b> — 120 soru / 130 dakika, gerçek ÖSYM dağılımıyla</li>
+  <li><b>Eğitim Bilimleri</b> — 80 soru / 100 dakika</li>
+  <li><b>Alan Bilgisi</b> — 40 soru / 50 dakika, yedi A grubu dersi için ayrı ayrı</li>
+  <li><b>Branş denemeleri</b> — tek ders, 30 soru / 35 dakika</li>
+</ul>
+<p>Denemeler süreli çalışır, net ve KPSS puanını otomatik hesaplar, sonuçta ders ders doğru–yanlış
+dağılımını gösterir. Tamamı ücretsizdir ve üyelik gerektirmez.</p>
+<div class="kart" style="text-align:center">
+  <p style="margin:0 0 10px;font-weight:700">Hemen bir deneme çöz</p>
+  <a class="cta" href="/denemeler">Denemeleri Aç</a>
+  <a class="cta ikincil" href="/kpss-net-hesaplama">Net Hesaplama</a>
+</div>
+${uyari}`,
+  },
+  {
+    yol: '/kpss-calisma-programi',
+    baslik: 'KPSS Çalışma Programı — Kaç Ay, Günde Kaç Soru? | KPSS Akademi',
+    aciklama: 'KPSS çalışma programı nasıl yapılır: ders ağırlıklarına göre süre dağılımı, günlük soru hedefi, tekrar düzeni ve sınava son ay planı.',
+    h1: 'KPSS Çalışma Programı',
+    icerik: `<p>Program yapmanın amacı çok çalışmak değil, <b>doğru yere çalışmak</b>. Aşağıdaki düzen
+ders ağırlıklarına ve unutma eğrisine göre kurulmuştur.</p>
+<h2>1. Süreyi ağırlığa göre böl</h2>
+<p>Türkçe ve Matematik sınavın yarısıdır (60/120). Her derse eşit süre vermek, 6 soruluk Güncel
+Bilgiler'e 30 soruluk Matematik kadar zaman ayırmak demektir. Süreyi
+<a href="/kpss-soru-dagilimi">soru dağılımına</a> göre paylaştır.</p>
+<h2>2. Konu anlatımı ve soru çözümünü ayırma</h2>
+<p>Bir konuyu okuyup hemen o konudan soru çözmek, önce tüm dersi bitirip sonra soruya geçmekten
+belirgin şekilde daha kalıcıdır. Konuyu bitirir bitirmez 15-20 soru çöz.</p>
+<h2>3. Yanlışları biriktir</h2>
+<p>Yeni soru çözmek, eski yanlışını tekrar etmekten daha az kazandırır. Yanlış yaptığın soru
+kaybedilmiş değil, henüz öğrenilmemiş bilgidir. Aralıklı tekrar bu yüzden çalışır: doğru bildiğin
+soru 3, 7, 16, 35 gün sonra; yanlış bildiğin yarın karşına çıkar.</p>
+<h2>4. Günlük hedefi somut tut</h2>
+<p>"Bugün Tarih çalışacağım" ölçülemez. "Bugün 60 soru" ölçülebilir. Hedefini soru sayısı olarak
+belirle; KPSS Akademi ana sayfada günlük hedef takibi ve çalışma serisi tutar.</p>
+<h2>5. Son ay</h2>
+<ul>
+  <li>Yeni konu <b>açma</b>. Bu aşamada eksik kapatmak yerine bilineni sağlamlaştırmak kazandırır.</li>
+  <li>Haftada bir <b>tam deneme</b>, gerçek saatte ve tek oturuşta.</li>
+  <li>Kalan günler yanlış tekrarı ve zayıf konular.</li>
+  <li>Son 3 gün sadece tekrar; yeni soru bile çözme.</li>
+</ul>
+<div class="kart" style="text-align:center">
+  <p style="margin:0 0 10px;font-weight:700">Hedef puanına göre günlük soru sayını hesapla</p>
+  <a class="cta" href="/hedef">Hedef Puan Planı</a>
+  <a class="cta ikincil" href="/analiz">Zayıf Konularım</a>
+</div>
+${uyari}`,
+  },
+  {
+    yol: '/kpss-on-lisans',
+    baslik: 'KPSS Ön Lisans 2026 — Tarih, Konular ve Soru Dağılımı | KPSS Akademi',
+    aciklama: 'KPSS Ön Lisans 2026: 4 Ekim 2026, 120 soru 130 dakika. Konular, soru dağılımı, P93 puan türü ve ücretsiz soru bankası.',
+    h1: 'KPSS Ön Lisans',
+    jsonLd: sss([
+      ['KPSS Ön Lisans ne zaman?', 'KPSS Ön Lisans sınavı 4 Ekim 2026 tarihinde yapılacaktır.'],
+      ['KPSS Ön Lisans kaç soru?', '120 soru, 130 dakikadır. Türkçe 30, Matematik 30, Tarih 27, Coğrafya 18, Vatandaşlık 9, Güncel Bilgiler 6 soru sorulur.'],
+    ]),
+    icerik: `<p>KPSS Ön Lisans, iki yıllık meslek yüksekokulu mezunlarının girdiği oturumdur.
+<b>4 Ekim 2026</b> tarihinde yapılacaktır.</p>
+<table>
+  <tr><th>Ders</th><th>Soru</th></tr>
+  ${GYGK_DAGILIM.map(([ad, n]) => `<tr><td><a href="/kpss-${slug(ad)}">${esc(ad)}</a></td><td><b>${n}</b></td></tr>`).join('')}
+  <tr><td><b>Toplam</b></td><td><b>120 soru / 130 dakika</b></td></tr>
+</table>
+<p>Ders dağılımı Lisans oturumuyla aynıdır; fark soru sayısında değil zorluk seviyesindedir.
+Puan türü <b>P93</b>'tür (Genel Yetenek %50, Genel Kültür %50).</p>
+<h2>Nasıl çalışmalı?</h2>
+<p>Soru dağılımı aynı olduğu için Lisans kaynaklarıyla çalışmak sorun değildir; hatta biraz daha
+zor sorularla çalışmak sınavda rahatlatır. KPSS Akademi'deki 16.000'den fazla soru, bilgi kartları
+ve deneme sınavlarının tamamı Ön Lisans için de geçerlidir.</p>
+<div class="kart" style="text-align:center">
+  <a class="cta" href="/denemeler">Deneme Çöz</a>
+  <a class="cta ikincil" href="/kpss-konulari">Konu Listesi</a>
+</div>
+${uyari}`,
+  },
+  {
+    yol: '/kpss-ortaogretim',
+    baslik: 'KPSS Ortaöğretim 2026 — Tarih, Konular ve Soru Dağılımı | KPSS Akademi',
+    aciklama: 'KPSS Ortaöğretim (Lise) 2026: 25 Ekim 2026, 120 soru 130 dakika. Konular, soru dağılımı ve ücretsiz soru bankası.',
+    h1: 'KPSS Ortaöğretim',
+    jsonLd: sss([
+      ['KPSS Ortaöğretim ne zaman?', 'KPSS Ortaöğretim (Lise) sınavı 25 Ekim 2026 tarihinde yapılacaktır.'],
+      ['KPSS Ortaöğretim kaç soru?', '120 soru, 130 dakikadır. Ders dağılımı Lisans ve Ön Lisans ile aynıdır.'],
+    ]),
+    icerik: `<p>KPSS Ortaöğretim, lise ve dengi okul mezunlarının girdiği oturumdur.
+<b>25 Ekim 2026</b> tarihinde yapılacaktır.</p>
+<table>
+  <tr><th>Ders</th><th>Soru</th></tr>
+  ${GYGK_DAGILIM.map(([ad, n]) => `<tr><td><a href="/kpss-${slug(ad)}">${esc(ad)}</a></td><td><b>${n}</b></td></tr>`).join('')}
+  <tr><td><b>Toplam</b></td><td><b>120 soru / 130 dakika</b></td></tr>
+</table>
+<p>Soru sayıları Lisans ve Ön Lisans ile birebir aynıdır. Ortaöğretim düzeyi üç oturum içinde en
+temel zorluk seviyesine sahiptir; sorular daha çok doğrudan bilgi ve temel yorum ölçer.</p>
+<h2>Nereden başlamalı?</h2>
+<p>Türkçe ve Matematik sınavın yarısını oluşturur ve bu iki derste ilerleme en hızlı görülen
+alandır. Temel işlemler, paragraf ve sözcükte anlam ile başlamak, Genel Kültür ezberine
+girmekten daha erken kazanç sağlar.</p>
+<div class="kart" style="text-align:center">
+  <a class="cta" href="/dersler">Soru Çözmeye Başla</a>
+  <a class="cta ikincil" href="/kpss-calisma-programi">Çalışma Programı</a>
+</div>
+${uyari}`,
+  },
+]
+sayfalar.push(...uzunKuyruk)
+
+
+
 for (const s of sayfalar) {
   const klasor = join(DIST, s.yol.slice(1))
   await mkdir(klasor, { recursive: true })
@@ -568,6 +873,13 @@ ${Object.entries(gruplar)
 <h2 style="font-size:20px;margin:30px 0 8px">Rehberler</h2>
 <ul>
   <li><a href="/kpss-nedir">KPSS Nedir? Sınav yapısı, soru dağılımı ve puanlama</a></li>
+  <li><a href="/kpss-ne-zaman">KPSS ne zaman? 2026 sınav tarihleri</a></li>
+  <li><a href="/kpss-soru-dagilimi">KPSS soru dağılımı — hangi dersten kaç soru</a></li>
+  <li><a href="/kpss-net-hesaplama">KPSS net hesaplama — 4 yanlış 1 doğruyu götürür</a></li>
+  <li><a href="/kpss-puan-turleri">KPSS puan türleri — P1, P2, P3, P10, P93, P121</a></li>
+  <li><a href="/kpss-deneme-sinavi">KPSS deneme sınavı nasıl çözülür</a></li>
+  <li><a href="/kpss-calisma-programi">KPSS çalışma programı</a></li>
+  <li><a href="/kpss-on-lisans">KPSS Ön Lisans</a> · <a href="/kpss-ortaogretim">KPSS Ortaöğretim</a></li>
   <li><a href="/kpss-konulari">KPSS Konuları — ${index.dersler.length} ders, ${konular.length} konu listesi</a></li>
   <li><a href="/kpss-puan-hesaplama">KPSS Puan Hesaplama — net, standart puan ve ağırlıklar</a></li>
 </ul>
@@ -623,6 +935,7 @@ const sitemapYollari = [
 ]
 const bugunISO = new Date().toISOString().slice(0, 10)
 for (const d of dersSayfalari) sitemapYollari.push([d.yol, '0.8', 'monthly'])
+for (const u of uzunKuyruk) sitemapYollari.push([u.yol, '0.9', 'monthly'])
 for (const a of anlatimSayfalari) sitemapYollari.push([a.yol, '0.6', 'monthly'])
 await writeFile(
   join(DIST, 'sitemap.xml'),
