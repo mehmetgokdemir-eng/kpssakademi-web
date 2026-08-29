@@ -2,7 +2,7 @@
  *
  * KARMA MODEL:
  *   - Otomatik reklamlar (Auto ads) AdSense panelinden AÇIK. Kod tarafında iş
- *     yapılmaz; index.html'deki adsbygoogle betiği yeterlidir.
+ *     yapılmaz; AdSense reklam kodu şu an kaldırıldı (onay/itiraz süreci).
  *   - Ek olarak, aşağıdaki slot kimlikleriyle MANUEL birimler de çalışır
  *     (ana sayfa, ders listesi, sonuç ekranları, SEO sayfaları).
  *   - Oyun / soru çözme / sınav / kart ekranlarında otomatik reklam

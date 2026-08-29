@@ -33,14 +33,8 @@ const ADSENSE_ID = 'ca-pub-6166144150941943'
 const REHBER_SLOT = (await readFile(join(KOK, 'src/lib/reklam.js'), 'utf8').catch(() => ''))
   .match(/rehber:\s*'([^']*)'/)?.[1] || ''
 
-// Slot tanımlı değilse hiç yazılmaz — sayfa reklamsız kalır, boşluk oluşmaz.
-const REKLAM_ALANI = REHBER_SLOT
-  ? `<div style="margin:22px 0">
-<p style="text-align:center;font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--soluk);margin:0 0 4px">Reklam</p>
-<ins class="adsbygoogle" style="display:block" data-ad-client="${ADSENSE_ID}" data-ad-slot="${REHBER_SLOT}" data-ad-format="auto" data-full-width-responsive="true"></ins>
-<script>try{(adsbygoogle=window.adsbygoogle||[]).push({})}catch(e){}</script>
-</div>`
-  : ''
+// AdSense reklam kodu kaldırıldı (onay/itiraz süreci için). Sayfalar reklamsız.
+const REKLAM_ALANI = ''
 
 /* ── Ortak şablon ─────────────────────────────────────────── */
 function sayfa({ yol, baslik, aciklama, h1, icerik, jsonLd, guncelleme }) {
@@ -63,13 +57,11 @@ function sayfa({ yol, baslik, aciklama, h1, icerik, jsonLd, guncelleme }) {
 <link rel="icon" type="image/svg+xml" href="/icons/icon.svg">
 <link rel="manifest" href="/manifest.webmanifest">
 ${jsonLd ? `<script type="application/ld+json">${JSON.stringify(jsonLd)}</script>` : ''}
-<meta name="google-adsense-account" content="${ADSENSE_ID}">
 <script>
 window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}
 gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:500});
 try{if(localStorage.getItem('ka:reklam-onayi')==='izin'){gtag('consent','update',{ad_storage:'granted',ad_user_data:'granted',ad_personalization:'granted'})}}catch(e){}
 </script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_ID}" crossorigin="anonymous"></script>
 <style>
 :root{--mavi:#1f49f0;--metin:#1c2030;--soluk:#667492;--cizgi:#eceef2;--yuzey:#fff;--zemin:#f6f7f9}
 @media(prefers-color-scheme:dark){:root{--metin:#eceef2;--soluk:#8593ac;--cizgi:#2a2f3d;--yuzey:#1c2030;--zemin:#12141f}}
