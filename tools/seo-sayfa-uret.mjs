@@ -92,6 +92,8 @@ h3{font-size:16px;margin:22px 0 6px}
 p,li{color:var(--metin)}
 .ozet{color:var(--soluk);font-size:17px;margin:0 0 4px}
 table{border-collapse:collapse;width:100%;margin:14px 0;font-size:14px}
+/* Geniş tablolar dar ekranda sayfayı yatay kaydırmasın: tablo kendi içinde kaysın. */
+@media(max-width:640px){table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch;white-space:nowrap}}
 th,td{border:1px solid var(--cizgi);padding:9px 11px;text-align:left}
 th{background:var(--yuzey);font-weight:700}
 .kart{background:var(--yuzey);border:1px solid var(--cizgi);border-radius:14px;padding:16px 18px;margin:14px 0}
@@ -555,6 +557,36 @@ sayfalar.push(...anlatimSayfalari)
    uygulamanın ders ekranını gölgeler.
 
    Hiyerarşi böylece tamamlanıyor:  /kpss-konulari → /kpss-<ders> → /konu/<ders>/<konu> */
+/* "Nasıl çalışılır?" bölümü — 14 ders sayfasında birebir aynı metin olmasın diye
+   o dersin GERÇEK verisinden (en çok/en az sorulu konu, zorluk dağılımı) üretiliyor. */
+function dersNasilCalisilir(d, dersKonulari) {
+  const ist = dersKonulari
+    .map((k) => ({ ad: k.ad, ...(konuIstatistik.get(`${d.id}:${k.id}`) || { toplam: 0, kolay: 0, orta: 0, zor: 0 }) }))
+    .filter((x) => x.toplam > 0)
+    .sort((a, b) => b.toplam - a.toplam)
+  if (!ist.length) return ''
+  const enBuyuk = ist[0]
+  const enKucuk = ist[ist.length - 1]
+  const toplam = ist.reduce((t, x) => t + x.toplam, 0)
+  const zor = ist.reduce((t, x) => t + x.zor, 0)
+  const zorYuzde = toplam ? Math.round((zor / toplam) * 100) : 0
+  const enZorlu = [...ist].sort((a, b) => b.zor / (b.toplam || 1) - a.zor / (a.toplam || 1))[0]
+  const pay = toplam ? Math.round((enBuyuk.toplam / toplam) * 100) : 0
+  return `<h2>${esc(d.ad)} nasıl çalışılır?</h2>
+<p>Konu anlatımını okuyup <b>hemen o konudan soru çözmek</b>, önce tüm dersi bitirip sonra soruya
+geçmekten daha hızlı sonuç verir. Yanlış yaptığın sorular <b>Yanlışlarım</b> listesine ve aralıklı
+tekrar kuyruğuna düşer; böylece unutmaya başladığın anda karşına yeniden çıkar.</p>
+<p>Bu derste soru bankasının en geniş başlığı <b>${esc(enBuyuk.ad)}</b> (${enBuyuk.toplam} soru,
+dersin yaklaşık %${pay}'i); en dar başlığı ise <b>${esc(enKucuk.ad)}</b> (${enKucuk.toplam} soru).
+Zamanın kısıtlıysa ağırlığı geniş başlıklara vermek net getirisi en yüksek yoldur.</p>
+<p>${esc(d.ad)} sorularının <b>%${zorYuzde}'i zor</b> seviyede işaretlidir${
+    enZorlu && enZorlu.toplam >= 10
+      ? `; en çok zorlayan başlık <b>${esc(enZorlu.ad)}</b>`
+      : ''
+  }. Zor soruları erken tanımak önemlidir: ÖSYM netleri standart puana çevirirken az kişinin yaptığı
+soruların ağırlığı yüksektir, yani asıl fark bu sorularda açılır.</p>`
+}
+
 const dersSayfalari = []
 for (const d of index.dersler) {
   const dersKonulari = konular.filter((k) => k.dersId === d.id)
@@ -631,10 +663,7 @@ ${
 
 ${dersOrnekBolumu(d.id, d.ad)}
 
-<h2>Nasıl çalışılır?</h2>
-<p>Konu anlatımını okuyup hemen o konudan soru çözmek, önce tüm dersi bitirip sonra soruya geçmekten
-daha hızlı sonuç verir. KPSS Akademi'de her konu anlatımının altında "Bu Konuyu Çöz" bağlantısı bulunur;
-yanlış yaptığın sorular <b>Yanlışlarım</b> listesine ve aralıklı tekrar kuyruğuna düşer.</p>
+${dersNasilCalisilir(d, dersKonulari)}
 
 <div class="kart" style="text-align:center">
   <p style="margin:0 0 10px;font-weight:700">${esc(d.ad)} sorularını çözmeye başla</p>
@@ -683,6 +712,264 @@ const sss = (liste) => ({
 
 const uyari = `<p class="tarih">Sınav tarihleri ve kılavuzlar için esas kaynak <b>osym.gov.tr</b>'dir. KPSS Akademi bağımsız bir çalışma aracıdır; ÖSYM ile resmî bir bağlantısı yoktur.</p>`
 
+/* ── Uzun kuyruk sayfaları için GERÇEK VERİDEN üretilen bölümler ──
+   Bu sayfalar en değerli arama hedefleri ama en ince olanlarıydı. Aşağıdaki
+   bölümler uydurma metin değil; uygulamanın kendi soru bankası, konu listesi
+   ve deneme dosyalarından hesaplanıyor. */
+
+/* Deneme sınavı dosyalarını oku (tur/süre/soru sayısı gerçek veriden). */
+const denemeler = []
+try {
+  const dosyalar = (await readdir(join(KOK, 'public/data/denemeler'))).filter((x) => x.endsWith('.json'))
+  for (const dosya of dosyalar) {
+    try {
+      const d = JSON.parse(await readFile(join(KOK, 'public/data/denemeler', dosya), 'utf8'))
+      if (d?.id) denemeler.push(d)
+    } catch {}
+  }
+} catch {}
+
+const TUR_ADI = { genel: 'Genel Deneme', brans: 'Branş Denemesi', alan: 'Alan Bilgisi Denemesi' }
+
+/* Deneme türlerine göre özet tablo + tam liste. */
+function denemeBolumu() {
+  if (!denemeler.length) return ''
+  const turler = new Map()
+  for (const d of denemeler) {
+    const t = d.tur || 'diger'
+    if (!turler.has(t)) turler.set(t, [])
+    turler.get(t).push(d)
+  }
+  const ozet = [...turler.entries()]
+    .map(([t, liste]) => {
+      const sure = [...new Set(liste.map((x) => x.sure))].sort((a, b) => a - b)
+      const soru = [...new Set(liste.map((x) => x.soruSayisi))].sort((a, b) => a - b)
+      return `<tr><td>${esc(TUR_ADI[t] || t)}</td><td><b>${liste.length}</b></td><td>${soru.join(' / ')}</td><td>${sure.join(' / ')} dk</td></tr>`
+    })
+    .join('')
+  const liste = denemeler
+    .slice()
+    .sort((a, b) => String(a.ad).localeCompare(String(b.ad), 'tr'))
+    .map(
+      (d) =>
+        `<tr><td>${esc(d.ad)}</td><td>${esc(TUR_ADI[d.tur] || d.tur || '—')}</td><td>${d.soruSayisi || '—'}</td><td>${d.sure || '—'} dk</td><td>${esc(d.puanTuru || '—')}</td></tr>`
+    )
+    .join('')
+  return `<h2>KPSS Akademi'deki denemeler</h2>
+<p>Uygulamada <b>${denemeler.length}</b> deneme sınavı var. Hepsi soru bankasından derlenmiştir; her
+denemede sorular tekrarsızdır ve bitirdiğinde ders/konu bazlı doğru-yanlış dökümü ile net ve tahmini
+puanını görürsün.</p>
+<table>
+  <tr><th>Tür</th><th>Adet</th><th>Soru</th><th>Süre</th></tr>
+  ${ozet}
+</table>
+<h3>Deneme listesi</h3>
+<table>
+  <tr><th>Deneme</th><th>Tür</th><th>Soru</th><th>Süre</th><th>Puan türü</th></tr>
+  ${liste}
+</table>`
+}
+
+/* Ders bazında konu sayısı + gerçek soru sayısı tablosu. */
+function dersKonuSoruTablosu(gruplarFiltre) {
+  const satir = index.dersler
+    .filter((d) => !gruplarFiltre || gruplarFiltre.includes(d.grup))
+    .map((d) => {
+      const kl = konular.filter((k) => k.dersId === d.id)
+      const soru = kl.reduce((t, k) => t + (konuIstatistik.get(`${d.id}:${k.id}`)?.toplam || 0), 0)
+      return `<tr><td><a href="/kpss-${slug(d.ad)}">${esc(d.ad)}</a></td><td>${esc(GRUP_ADI[d.grup] || d.grup)}</td><td>${kl.length}</td><td><b>${(soru || d.soruSayisi || 0).toLocaleString('tr-TR')}</b></td><td>${d.kartSayisi || 0}</td></tr>`
+    })
+    .join('')
+  return `<table>
+  <tr><th>Ders</th><th>Bölüm</th><th>Konu</th><th>Soru</th><th>Kart</th></tr>
+  ${satir}
+</table>`
+}
+
+/* En çok soru içeren konular — hangi konuya ağırlık verileceğini gösterir. */
+function enCokSoruluKonular(adet = 15) {
+  const dersAd = new Map(index.dersler.map((d) => [d.id, d.ad]))
+  const konuAd = new Map(konular.map((k) => [`${k.dersId}:${k.id}`, k.ad]))
+  const sirali = [...konuIstatistik.entries()]
+    .map(([anahtar, ist]) => ({ anahtar, ...ist }))
+    .sort((a, b) => b.toplam - a.toplam)
+    .slice(0, adet)
+  const satir = sirali
+    .map((x) => {
+      const [dersId] = x.anahtar.split(':')
+      const yol = anlatimYolu.get(x.anahtar)
+      const ad = konuAd.get(x.anahtar) || x.anahtar
+      return `<tr><td>${yol ? `<a href="${yol}">${esc(ad)}</a>` : esc(ad)}</td><td>${esc(dersAd.get(dersId) || dersId)}</td><td><b>${x.toplam}</b></td><td>${x.kolay}/${x.orta}/${x.zor}</td></tr>`
+    })
+    .join('')
+  return `<table>
+  <tr><th>Konu</th><th>Ders</th><th>Soru</th><th>Kolay/Orta/Zor</th></tr>
+  ${satir}
+</table>`
+}
+
+/* Net hesabı — sayılar burada HESAPLANIYOR, elle yazılmıyor ki hata olmasın. */
+function netOrnekleri() {
+  const ornek = [
+    ['Genel Yetenek', 60, 42, 12, 6],
+    ['Genel Kültür', 60, 38, 16, 6],
+    ['Türkçe', 30, 24, 4, 2],
+    ['Matematik', 30, 15, 10, 5],
+    ['Tarih', 27, 20, 5, 2],
+  ]
+  const satir = ornek
+    .map(([ad, toplam, dogru, yanlis, bos]) => {
+      const net = dogru - yanlis / 4
+      return `<tr><td>${esc(ad)} (${toplam} soru)</td><td>${dogru}</td><td>${yanlis}</td><td>${bos}</td><td><b>${net.toFixed(2).replace('.', ',')}</b></td></tr>`
+    })
+    .join('')
+  const kayip = [4, 8, 12, 20]
+    .map((y) => `<tr><td>${y} yanlış</td><td><b>${(y / 4).toFixed(0)} net</b> kaybı</td></tr>`)
+    .join('')
+  return `<h2>Örnek net hesapları</h2>
+<p>Net = <b>doğru − (yanlış ÷ 4)</b>. Boş bıraktığın sorular hesaba girmez; ne kazandırır ne kaybettirir.</p>
+<table>
+  <tr><th>Bölüm</th><th>Doğru</th><th>Yanlış</th><th>Boş</th><th>Net</th></tr>
+  ${satir}
+</table>
+<h3>Yanlışın maliyeti</h3>
+<table>
+  <tr><th>Yanlış sayısı</th><th>Etkisi</th></tr>
+  ${kayip}
+</table>
+<p>Tabloda dikkat çeken nokta: Matematik örneğinde 15 doğruya karşılık 10 yanlış yapıldığında net
+12,50'ye düşüyor — yani <b>yanlışlar kazanılan doğruların altıda birini siliyor</b>. Bölüm bölüm
+bakmak önemlidir, çünkü mahsuplaşma testler arasında değil, her testin kendi içinde yapılır.</p>`
+}
+
+/* Sınava kalan gün / konu sayısına göre gerçek çalışma temposu. */
+function calismaTemposu() {
+  const gyGk = index.dersler.filter((d) => d.grup === 'gy' || d.grup === 'gk')
+  const toplamKonu = konular.filter((k) => gyGk.some((d) => d.id === k.dersId)).length
+  const toplamSoru = gyGk.reduce((t, d) => {
+    const kl = konular.filter((k) => k.dersId === d.id)
+    return t + kl.reduce((a, k) => a + (konuIstatistik.get(`${d.id}:${k.id}`)?.toplam || 0), 0)
+  }, 0)
+  const hafta = [8, 12, 16, 24]
+    .map((h) => {
+      const konuHafta = Math.ceil(toplamKonu / h)
+      const soruGun = Math.ceil(toplamSoru / (h * 7))
+      return `<tr><td>${h} hafta</td><td><b>${konuHafta}</b> konu/hafta</td><td>yaklaşık <b>${soruGun}</b> soru/gün</td></tr>`
+    })
+    .join('')
+  return `<h2>Kalan süreye göre tempo</h2>
+<p>Genel Yetenek + Genel Kültür bölümünde toplam <b>${toplamKonu}</b> konu başlığı ve
+<b>${toplamSoru.toLocaleString('tr-TR')}</b> soru var. Sınava kalan süreye göre tempon şöyle olmalı:</p>
+<table>
+  <tr><th>Kalan süre</th><th>Konu temposu</th><th>Soru temposu</th></tr>
+  ${hafta}
+</table>
+<p>Bu sayılar bütün soruları bir kez görmek içindir. Gerçekte yanlışlarını tekrar edeceğin için
+günlük hedefini biraz üstte tutmak, hastalık/yoğunluk gibi aksamalara pay bırakır.</p>`
+}
+
+/* Puan türü ağırlıkları — ÖSYM'nin ilan ettiği katsayılar. */
+const PUAN_TURU_AGIRLIK = [
+  ['P1', 'Lisans', 'Genel Yetenek %70 · Genel Kültür %30'],
+  ['P2', 'Lisans', 'Genel Yetenek %60 · Genel Kültür %40'],
+  ['P3', 'Lisans', 'Genel Yetenek %50 · Genel Kültür %50'],
+  ['P10', 'Lisans (Eğitim Bilimleri)', 'Genel Yetenek %30 · Genel Kültür %30 · Eğitim Bilimleri %40'],
+  ['P121', 'Öğretmenlik (ÖABT)', 'Genel Yetenek %15 · Genel Kültür %15 · Eğitim Bilimleri %20 · ÖABT %50'],
+  ['P93', 'Ön Lisans', 'Genel Yetenek %50 · Genel Kültür %50'],
+]
+
+function puanTuruBolumu() {
+  const satir = PUAN_TURU_AGIRLIK.map(
+    ([kod, duzey, agirlik]) =>
+      `<tr><td><b>${esc(kod)}</b></td><td>${esc(duzey)}</td><td>${esc(agirlik)}</td></tr>`
+  ).join('')
+  return `<h2>Puan türü ağırlıkları</h2>
+<p>Aynı sınavdan birden fazla puan türü hesaplanır; fark, bölümlerin <b>ağırlığındadır</b>. Bu yüzden
+iki aday aynı neti yapsa bile, hangi puan türüne başvurduklarına göre sıralamaları değişebilir.</p>
+<table>
+  <tr><th>Puan türü</th><th>Düzey</th><th>Ağırlık</th></tr>
+  ${satir}
+</table>
+<h3>Puan nasıl oluşur?</h3>
+<p>Önce her bölüm için <b>net</b> bulunur (doğru − yanlış ÷ 4). Netler doğrudan puana çevrilmez;
+ÖSYM o yılki tüm adayların ortalaması ve standart sapmasını kullanarak <b>standart puana</b> dönüştürür.
+Pratik sonucu şudur: <b>az kişinin yaptığı zor soruların değeri yüksektir.</b> Herkesin yaptığı kolay
+soruyu doğru yapmak seni öne çıkarmaz; ayırt edici olan zor sorulardır. Matematik bu yüzden çoğu yıl
+puana en çok etki eden bölümdür.</p>
+<p>Bu nedenle net hesabı kesin, puan tahmini ise yaklaşıktır — gerçek puan ancak sonuçlar açıklanınca,
+o yılın istatistikleriyle netleşir.</p>`
+}
+
+/* Sınav yapısı ve süreleri — oturum bazında. */
+const OTURUM_YAPISI = [
+  ['Genel Yetenek – Genel Kültür', '120 soru', '130 dakika', 'Lisans, Ön Lisans ve Ortaöğretim düzeylerinin hepsinde aynı'],
+  ['Eğitim Bilimleri', '80 soru', '100 dakika', 'Öğretmenlik için; lisans düzeyinde ek oturum'],
+]
+
+function sinavYapisiBolumu() {
+  const satir = OTURUM_YAPISI.map(
+    ([ad, soru, sure, not]) =>
+      `<tr><td><b>${esc(ad)}</b></td><td>${esc(soru)}</td><td>${esc(sure)}</td><td>${esc(not)}</td></tr>`
+  ).join('')
+  return `<h2>Oturumların yapısı ve süreleri</h2>
+<table>
+  <tr><th>Oturum</th><th>Soru</th><th>Süre</th><th>Açıklama</th></tr>
+  ${satir}
+</table>
+<p>Genel Yetenek–Genel Kültür oturumunda <b>120 soru için 130 dakikan</b> var; soru başına ortalama
+<b>65 saniye</b> düşüyor. Bu, deneme çözerken süre tutmanın neden şart olduğunu gösterir: konuyu
+bilmek yetmiyor, o hızda uygulayabilmek gerekiyor.</p>
+<h3>Sınavdan önceki son hafta</h3>
+<ul>
+  <li>Yeni konuya başlama; bildiklerini pekiştir ve <b>yanlışlarını</b> tekrar et.</li>
+  <li>En az iki tam deneme çöz — gerçek süreyle, tek oturumda, telefonsuz.</li>
+  <li>Sınav saatinde zinde olmak için uyku düzenini birkaç gün önceden sınav saatine göre ayarla.</li>
+  <li>Giriş belgesi ve kimlik kontrolünü sınavdan bir gün önce yap; sınav yerini önceden gör.</li>
+</ul>`
+}
+
+/* Ön Lisans ve Ortaöğretim için AYRI metinler — bu sayfalar birbirinin ya da
+   /kpss-ne-zaman'ın kopyası olmasın diye ortak blok kullanılmıyor. */
+function onLisansBolumu() {
+  return `<h2>Ön Lisans sınavında ne var, ne yok?</h2>
+<p>Ön lisans düzeyinde tek oturum vardır: <b>Genel Yetenek – Genel Kültür</b>. Lisans adaylarının
+girdiği Eğitim Bilimleri ve Alan Bilgisi oturumları ön lisansta <b>yoktur</b>. Oturum
+<b>120 soru</b> ve <b>130 dakikadır</b>; soru dağılımı lisanstakiyle aynıdır.</p>
+<p>Bu, hazırlık açısından önemli bir avantaj: çalışman gereken alan daha dar. Buna karşılık herkes
+aynı dar alandan sınava girdiği için <b>rekabet netlerin üst bandında yoğunlaşır</b> — birkaç netlik
+fark sıralamada büyük yer değiştirmeye yol açabilir. Kolay soruları kaçırmamak, zor soruları
+avlamaktan daha belirleyicidir.</p>
+<p>Ön lisans puanı <b>P93</b> türünde hesaplanır: Genel Yetenek %50, Genel Kültür %50. İki bölüm eşit
+ağırlıkta olduğu için, güçlü olduğun tarafa yaslanıp diğerini ihmal etmek doğrudan puan kaybıdır.</p>
+<h3>Nereden başlamalı?</h3>
+<p>Genel Yetenek (Türkçe + Matematik) 60 soruyla toplamın yarısını oluşturur ve <b>öğrenilebilir</b>
+bir alandır: paragraf ve problem soruları ezber değil teknik ister, bol soru çözerek hızlı ilerlersin.
+Genel Kültür ise bilgi ağırlıklıdır; onu aralıklı tekrarla sindirmek gerekir. Kalan süren azsa
+önceliği Genel Yetenek'e vermek genelde daha hızlı net kazandırır.</p>`
+}
+
+function ortaogretimBolumu() {
+  return `<h2>Ortaöğretim (Lise) sınavının yapısı</h2>
+<p>Ortaöğretim düzeyinde de tek oturum vardır: <b>Genel Yetenek – Genel Kültür</b>, <b>120 soru</b>
+ve <b>130 dakika</b>. Eğitim Bilimleri ya da Alan Bilgisi oturumu bu düzeyde bulunmaz. Soruların
+konulara dağılımı lisans ve ön lisansla aynıdır; fark sınavın zorluk ayarındadır.</p>
+<p>Ortaöğretim sorularının ağırlığı <b>temel bilgi ve doğrudan yorum</b> üzerinedir. Lisans
+düzeyindeki kadar uzun ve katmanlı çeldiriciler daha seyrek görülür. Bu, "kolay" anlamına gelmez:
+sınavın ayırt ediciliği azaldığı için <b>tek bir yanlışın sıralamadaki karşılığı büyür</b>. Dolayısıyla
+burada strateji, zor soru avlamak değil, <b>dikkatsizlik kaynaklı kayıpları sıfıra yaklaştırmaktır</b>.</p>
+<h3>Zaman yönetimi</h3>
+<p>120 soru için 130 dakika, soru başına ortalama <b>65 saniye</b> demek. Türkçe paragraf ve matematik
+problemleri bu ortalamanın üstünde zaman yer; buna karşılık Tarih, Coğrafya ve Vatandaşlık soruları
+bilirsen saniyeler içinde biter. Pratik yöntem: önce bildiğin bilgi sorularını hızla toplayıp,
+kalan zamanı paragraf ve probleme ayırmaktır. Bunu ancak <b>süre tutarak deneme çözerek</b>
+oturtabilirsin.</p>
+<h3>Neye çalışmalı?</h3>
+<p>Genel Kültür'de Tarih 27 soruyla en yüksek paya sahiptir; Coğrafya 18, Vatandaşlık 9, Güncel
+Bilgiler 6 sorudur. Vatandaşlık soru sayısı az görünse de konusu dar ve nettir — birim çalışma başına
+en yüksek getiriyi genellikle burası verir. Güncel Bilgiler ise en son çalışılacak bölümdür; erken
+çalışmak, sınava kadar bilginin eskimesine yol açar.</p>`
+}
+
 const uzunKuyruk = [
   {
     yol: '/kpss-ne-zaman',
@@ -710,6 +997,7 @@ Ayarlar'dan hangi oturuma hazırlandığını seçebilir, günlük soru hedefini
   <li><b>Ortaöğretim</b> — lise ve dengi okul mezunları.</li>
 </ul>
 <p>Öğretmenlik için Eğitim Bilimleri, A grubu kadrolar için Alan Bilgisi oturumlarına ayrıca girilir.</p>
+${sinavYapisiBolumu()}
 ${uyari}`,
   },
   {
@@ -739,6 +1027,12 @@ fark soru sayısında değil, zorluk seviyesindedir.</p>
 <p>Türkçe ve Matematik birlikte sınavın yarısını oluşturur (60 soru). Genel Kültür tarafında ise
 Tarih tek başına Coğrafya, Vatandaşlık ve Güncel Bilgiler'in toplamının yarısı kadardır. Zaman
 ayırırken bu ağırlıkları gözetmek, her derse eşit süre vermekten daha verimlidir.</p>
+<h2>Derslere göre konu ve soru sayısı</h2>
+<p>Aşağıdaki tablo KPSS Akademi soru bankasındaki dağılımı gösterir (ÖSYM'nin sınavdaki soru sayıları yukarıdaki tablodadır).</p>
+${dersKonuSoruTablosu()}
+<h2>En çok soru içeren konular</h2>
+<p>Soru sayısı, o konunun sınavdaki ağırlığı hakkında güçlü bir ipucudur. Zaman kısıtlıysa çalışmaya buradan başlamak mantıklıdır.</p>
+${enCokSoruluKonular()}
 ${uyari}`,
   },
   {
@@ -775,6 +1069,7 @@ sayfalarına bak.</p>
   <p style="margin:0 0 10px;font-weight:700">Netlerini gir, tahmini puanını gör</p>
   <a class="cta" href="/puan-hesapla">Puan Hesaplayıcıyı Aç</a>
 </div>
+${netOrnekleri()}
 ${uyari}`,
   },
   {
@@ -811,6 +1106,7 @@ bilmek, hangi derse ağırlık vereceğini de belirler.</p>
   <a class="cta" href="/puan-hesapla">Puan Hesaplayıcı</a>
   <a class="cta ikincil" href="/hedef">Hedef Puan Planı</a>
 </div>
+${puanTuruBolumu()}
 ${uyari}`,
   },
   {
@@ -850,6 +1146,7 @@ dağılımını gösterir. Tamamı ücretsizdir ve üyelik gerektirmez.</p>
   <a class="cta" href="/denemeler">Denemeleri Aç</a>
   <a class="cta ikincil" href="/kpss-net-hesaplama">Net Hesaplama</a>
 </div>
+${denemeBolumu()}
 ${uyari}`,
   },
   {
@@ -885,6 +1182,7 @@ belirle; KPSS Akademi ana sayfada günlük hedef takibi ve çalışma serisi tut
   <a class="cta" href="/hedef">Hedef Puan Planı</a>
   <a class="cta ikincil" href="/analiz">Zayıf Konularım</a>
 </div>
+${calismaTemposu()}
 ${uyari}`,
   },
   {
@@ -913,6 +1211,9 @@ ve deneme sınavlarının tamamı Ön Lisans için de geçerlidir.</p>
   <a class="cta" href="/denemeler">Deneme Çöz</a>
   <a class="cta ikincil" href="/kpss-konulari">Konu Listesi</a>
 </div>
+<h2>Ön Lisans için ders, konu ve soru sayıları</h2>
+${dersKonuSoruTablosu(['gy', 'gk'])}
+${onLisansBolumu()}
 ${uyari}`,
   },
   {
@@ -941,6 +1242,9 @@ girmekten daha erken kazanç sağlar.</p>
   <a class="cta" href="/dersler">Soru Çözmeye Başla</a>
   <a class="cta ikincil" href="/kpss-calisma-programi">Çalışma Programı</a>
 </div>
+<h2>Ortaöğretim için ders, konu ve soru sayıları</h2>
+${dersKonuSoruTablosu(['gy', 'gk'])}
+${ortaogretimBolumu()}
 ${uyari}`,
   },
 ]
