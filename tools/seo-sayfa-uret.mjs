@@ -28,13 +28,23 @@ const esc = (s) =>
 
 const GRUP_ADI = { gy: 'Genel Yetenek', gk: 'Genel Kültür', eb: 'Eğitim Bilimleri', ab: 'Alan Bilgisi' }
 
-// Reklam birimi kimliği src/lib/reklam.js içindeki SLOTLAR.rehber ile aynı olmalı.
-const ADSENSE_ID = 'ca-pub-6166144150941943'
-const REHBER_SLOT = (await readFile(join(KOK, 'src/lib/reklam.js'), 'utf8').catch(() => ''))
+// Statik sayfalarda gösterilecek Yandex RTB blok kimliği (src/lib/reklam.js → rehber).
+const REHBER_BLOK = (await readFile(join(KOK, 'src/lib/reklam.js'), 'utf8').catch(() => ''))
   .match(/rehber:\s*'([^']*)'/)?.[1] || ''
 
-// AdSense reklam kodu kaldırıldı (onay/itiraz süreci için). Sayfalar reklamsız.
-const REKLAM_ALANI = ''
+// Blok tanımlıysa Yandex RTB alanı yazılır; değilse sayfa reklamsız kalır (boşluk da olmaz).
+const REKLAM_ALANI = REHBER_BLOK
+  ? `<div style="margin:22px 0" data-ka-manuel="1">
+<p style="text-align:center;font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--soluk);margin:0 0 4px">Reklam</p>
+<div id="yandex_rtb_${REHBER_BLOK}"></div>
+<script>window.yaContextCb=window.yaContextCb||[];window.yaContextCb.push(function(){try{Ya.Context.AdvManager.render({blockId:"${REHBER_BLOK}",renderTo:"yandex_rtb_${REHBER_BLOK}"})}catch(e){}})</script>
+</div>`
+  : ''
+
+// Yandex reklam sistemi yalnızca canlı alan adında yüklenir (geçersiz trafik koruması).
+const YANDEX_YUKLEYICI = REHBER_BLOK
+  ? `<script>window.yaContextCb=window.yaContextCb||[];try{if(location.hostname==='kpssakademi.tr'){var s=document.createElement('script');s.src='https://yandex.ru/ads/system/context.js';s.async=true;document.head.appendChild(s)}}catch(e){}</script>`
+  : ''
 
 /* ── Ortak şablon ─────────────────────────────────────────── */
 function sayfa({ yol, baslik, aciklama, h1, icerik, jsonLd, guncelleme }) {
@@ -62,6 +72,7 @@ window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}
 gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:500});
 try{if(localStorage.getItem('ka:reklam-onayi')==='izin'){gtag('consent','update',{ad_storage:'granted',ad_user_data:'granted',ad_personalization:'granted'})}}catch(e){}
 </script>
+${YANDEX_YUKLEYICI}
 <style>
 :root{--mavi:#1f49f0;--metin:#1c2030;--soluk:#667492;--cizgi:#eceef2;--yuzey:#fff;--zemin:#f6f7f9}
 @media(prefers-color-scheme:dark){:root{--metin:#eceef2;--soluk:#8593ac;--cizgi:#2a2f3d;--yuzey:#1c2030;--zemin:#12141f}}

@@ -1,27 +1,43 @@
-/* AdSense yapılandırması ve çerez izni durumu.
+/* Yandex RTB (Yandex Partner — partner.yandex.com) reklam yapılandırması
+ * + çerez izni durumu.
  *
- * KARMA MODEL:
- *   - Otomatik reklamlar (Auto ads) AdSense panelinden AÇIK. Kod tarafında iş
- *     yapılmaz; AdSense reklam kodu şu an kaldırıldı (onay/itiraz süreci).
- *   - Ek olarak, aşağıdaki slot kimlikleriyle MANUEL birimler de çalışır
- *     (ana sayfa, ders listesi, sonuç ekranları, SEO sayfaları).
- *   - Oyun / soru çözme / sınav / kart ekranlarında otomatik reklam
- *     ENGELLENİR — bkz. lib/otomatikReklam.js ve ADSENSE.md § 3.
+ * NEDEN GUARD VAR: AdSense hesabı "geçersiz trafik" gerekçesiyle kalıcı
+ * kapatıldı. Aynı hataya düşmemek için reklam kodu SADECE canlı alan adında
+ * ve production derlemesinde yüklenir; geliştirme (localhost) ve Vercel
+ * önizleme alan adları reklam saydırmaz.
  *
- * Reklam birimi kimliklerini AdSense panelinden alıp aşağıya yapıştırın.
- * Kimlik boş bırakılan yerde hiçbir şey render edilmez (boşluk da kalmaz),
- * yani kimlikler girilene kadar yalnızca otomatik reklamlar görünür.
+ * BLOK KİMLİKLERİ: Yandex Partner panelinden her yerleşim için ayrı reklam
+ * birimi oluşturup R-A-... kimliğini buraya yapıştır. Kimlik boşsa o
+ * yerleşimde hiçbir şey render edilmez (boşluk da kalmaz).
+ *
+ * Aynı blok kimliği farklı SAYFALARDA kullanılabilir (statik SEO sayfaları
+ * ayrı yüklemeler). Ancak AYNI sayfada iki kez render edilmemeli — bu yüzden
+ * her yerleşimin kendi kimliğini kullanması önerilir.
  */
 
-export const ADSENSE_ID = 'ca-pub-6166144150941943'
-
-/** AdSense → Reklamlar → Reklam birimine göre → Görüntülü reklam ile oluşturulan slot kimlikleri */
-export const SLOTLAR = {
-  anaSayfa: '', // ör. '1234567890'
-  dersListesi: '',
-  sonuc: '', // quiz / deneme sonuç ekranı
-  rehber: '', // statik SEO sayfaları
+export const REKLAM_BLOKLARI = {
+  anaSayfa: 'R-A-19980035-1', //   ana sayfa alt bölümü
+  dersListesi: '', //              /dersler — ayrı blok açılınca doldur
+  sonuc: '', //                    quiz / deneme sonuç ekranı — ayrı blok
+  rehber: 'R-A-19980035-1', //     statik SEO sayfaları (her sayfa ayrı yükleme)
 }
+
+/** Reklam kodu yalnızca canlı sitede + production'da çalışır. */
+export function reklamAktif() {
+  try {
+    return (
+      import.meta.env.PROD &&
+      typeof window !== 'undefined' &&
+      window.location.hostname === 'kpssakademi.tr'
+    )
+  } catch {
+    return false
+  }
+}
+
+/* ── Çerez izni durumu ──────────────────────────────────────
+ * Yandex RTB kişiselleştirilmiş reklam için çerez kullanabilir; kullanıcı
+ * onayını burada saklıyoruz. CerezBildirimi ve Gizlilik sayfası buna bağlı. */
 
 const ONAY_ANAHTARI = 'ka:reklam-onayi' // 'izin' | 'kisisellestirmesiz' | null
 
@@ -44,7 +60,7 @@ export function onayAbone(fn) {
   return () => dinleyiciler.delete(fn)
 }
 
-/** Google Consent Mode v2 güncellemesi */
+/** Google Consent Mode v2 güncellemesi (GA4 için hâlâ geçerli) */
 function gtagGuncelle(izinli) {
   if (typeof window === 'undefined' || typeof window.gtag !== 'function') return
   window.gtag('consent', 'update', {

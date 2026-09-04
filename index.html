@@ -43,6 +43,19 @@
         }
       } catch (e) {}
     </script>
+    <!-- Yandex RTB (ReklamStore) — reklam sistemi yalnızca canlı alan adında yüklenir.
+         Böylece geliştirme/önizleme trafiği reklam saydırmaz (geçersiz trafik koruması). -->
+    <script>
+      window.yaContextCb = window.yaContextCb || []
+      try {
+        if (location.hostname === 'kpssakademi.tr') {
+          var s = document.createElement('script')
+          s.src = 'https://yandex.ru/ads/system/context.js'
+          s.async = true
+          document.head.appendChild(s)
+        }
+      } catch (e) {}
+    </script>
     <script>
       // Tema flaşını önle
       (function () {
