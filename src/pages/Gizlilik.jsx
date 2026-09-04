@@ -18,7 +18,7 @@ export default function Gizlilik() {
           <p>
             Çalışma verileriniz <b>yalnızca kendi tarayıcınızda</b> saklanır. Hesap açmanız gerekmez; çözdüğünüz
             sorular, notlarınız ve deneme sonuçlarınız bize gönderilmez. Site, ücretsiz kalabilmek için
-            <b> Google reklamları</b> gösterir.
+            <b>Yandex reklam ağı</b> üzerinden reklam gösterebilir.
           </p>
         </section>
 
@@ -35,9 +35,10 @@ export default function Gizlilik() {
         <section>
           <h2 className="mb-1 text-base font-bold text-ink-900 dark:text-white">Reklamlar ve çerezler</h2>
           <p>
-            Reklamlar Google AdSense üzerinden yayınlanır. Google ve iş ortakları, size daha alakalı reklam
-            gösterebilmek için çerez ve benzeri teknolojiler kullanabilir; bu kapsamda IP adresiniz, tarayıcı
-            bilgileriniz ve site içindeki gezinme verileriniz Google tarafından işlenebilir.
+            Reklamlar <b>Yandex reklam ağı</b> (Yandex Advertising Network) üzerinden yayınlanır. Yandex ve iş
+            ortakları, size daha alakalı reklam gösterebilmek için çerez ve benzeri teknolojiler kullanabilir;
+            bu kapsamda IP adresiniz, tarayıcı bilgileriniz ve site içindeki gezinme verileriniz Yandex
+            tarafından işlenebilir.
           </p>
           <p className="mt-2">
             Siteye ilk girişinizde bir tercih sorulur. <b>Kişiselleştirmeye izin vermezseniz reklamlar yine
@@ -45,18 +46,18 @@ export default function Gizlilik() {
             kapatılması anlamına gelmez.
           </p>
           <p className="mt-2">
-            Google'ın veri kullanımı hakkında ayrıntılı bilgi için{' '}
+            Yandex'in veri kullanımı hakkında ayrıntılı bilgi için{' '}
             <a
-              href="https://policies.google.com/technologies/partner-sites"
+              href="https://yandex.com/legal/confidential/"
               target="_blank"
               rel="noreferrer"
               className="font-semibold text-brand-600"
             >
-              Google'ın iş ortağı siteler politikası
+              Yandex Gizlilik Politikası
             </a>
-            'na bakabilir, reklam ayarlarınızı{' '}
-            <a href="https://adssettings.google.com" target="_blank" rel="noreferrer" className="font-semibold text-brand-600">
-              Google Reklam Ayarları
+            'na bakabilir, reklam tercihlerinizi{' '}
+            <a href="https://yandex.ru/tune/adv" target="_blank" rel="noreferrer" className="font-semibold text-brand-600">
+              Yandex Reklam Ayarları
             </a>
             'ndan yönetebilirsiniz.
           </p>

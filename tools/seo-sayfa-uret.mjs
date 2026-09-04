@@ -1348,6 +1348,9 @@ if (location.pathname !== '/') { var _o = document.getElementById('on-icerik'); 
 
 const anaSayfa = join(DIST, 'index.html')
 let html = await readFile(anaSayfa, 'utf8')
+/* SPA kabuğunun DOKUNULMAMIŞ hâli — uygulama rotalarının ön-render'ı bundan
+   türetiliyor (ana sayfanın ön içeriği bulaşmasın diye önce kopyalanıyor). */
+const kabukHtml = html
 if (!html.includes('WebApplication')) {
   html = html.replace('</head>', `<script type="application/ld+json">${JSON.stringify(uygulamaLd)}</script>\n</head>`)
 }
@@ -1358,6 +1361,151 @@ if (html.includes('<div id="root"></div>')) {
   console.log('  ! dist/index.html — <div id="root"></div> bulunamadı, ön içerik eklenmedi')
 }
 await writeFile(anaSayfa, html, 'utf8')
+
+/* ── Uygulama rotaları için ön-render ─────────────────────────
+   /dersler, /denemeler gibi yollar sunucuda index.html'e yönleniyordu; o dosyanın
+   canonical'ı ana sayfayı gösterdiği için Google bu adresleri "ana sayfanın
+   kopyası" sayıp dizine almıyordu (Search Console: "Doğru standart etikete sahip
+   alternatif sayfa").
+
+   Çözüm: her rota için AYNI SPA kabuğundan, kendi title/description/canonical'ı
+   olan bir dosya yazılıyor. Betikler aynı kaldığı için React normal şekilde
+   yükleniyor ve uygulama hiç bozulmuyor; #root içindeki ön içerik ilk render'da
+   React tarafından değiştiriliyor. Ön içerik yalnızca kendi yolunda görünsün diye
+   küçük bir koruma betiği ekleniyor. */
+const dersOzet = index.dersler
+  .map((d) => {
+    const kl = konular.filter((k) => k.dersId === d.id)
+    return `<li><a href="/kpss-${slug(d.ad)}">${esc(d.ad)}</a> — ${kl.length} konu, ${(d.soruSayisi || 0).toLocaleString('tr-TR')} soru</li>`
+  })
+  .join('')
+
+const denemeOzetSatir = (() => {
+  const t = new Map()
+  for (const d of denemeler) t.set(d.tur, (t.get(d.tur) || 0) + 1)
+  return [...t.entries()].map(([k, v]) => `<li>${esc(TUR_ADI[k] || k)}: <b>${v}</b> deneme</li>`).join('')
+})()
+
+const UYGULAMA_ROTALARI = [
+  {
+    yol: '/dersler',
+    baslik: 'KPSS Dersleri — Konu Listesi ve Soru Bankası | KPSS Akademi',
+    aciklama: `KPSS dersleri: ${index.dersler.length} ders, ${konular.length} konu ve ${tr(toplamSoru)} çözümlü soru. Ders seç, konudan soru çöz.`,
+    h1: 'KPSS Dersleri',
+    govde: `<p>KPSS Akademi'de ${index.dersler.length} ders, ${konular.length} konu başlığı ve ${tr(toplamSoru)} çözüm açıklamalı soru bulunur. Ders seçip doğrudan konudan soru çözebilir, konu anlatımlarını okuyabilirsin.</p><ul>${dersOzet}</ul>`,
+  },
+  {
+    yol: '/denemeler',
+    baslik: 'KPSS Deneme Sınavları — Süreli ve Puan Hesaplı | KPSS Akademi',
+    aciklama: `${denemeler.length} ücretsiz KPSS deneme sınavı: süreli çözüm, net hesabı, ders bazlı analiz ve tahmini KPSS puanı.`,
+    h1: 'KPSS Deneme Sınavları',
+    govde: `<p>Uygulamada <b>${denemeler.length}</b> deneme sınavı var. Her deneme süreli çözülür; bitirdiğinde netini, ders bazlı doğru-yanlış dökümünü ve puan türüne göre tahmini KPSS puanını görürsün.</p><ul>${denemeOzetSatir}</ul><p>Ayrıntılı liste ve deneme çözme taktikleri için <a href="/kpss-deneme-sinavi">KPSS deneme sınavı</a> sayfasına bakabilirsin.</p>`,
+  },
+  {
+    yol: '/kartlar',
+    baslik: 'KPSS Bilgi Kartları — Çevir Öğren, Sesli Okuma | KPSS Akademi',
+    aciklama: `${tr(toplamKart)} KPSS bilgi kartı: çevir-öğren formatı, sesli okuma ve konu bazlı çalışma. Ücretsiz.`,
+    h1: 'KPSS Bilgi Kartları',
+    govde: `<p><b>${tr(toplamKart)} bilgi kartı</b> ile hızlı tekrar yapabilirsin. Kartlar çevir-öğren formatındadır: ön yüzde soru ya da kavram, arka yüzde kısa ve akılda kalıcı açıklama bulunur. Sesli okuma desteği vardır; yolda ya da yürürken dinleyerek tekrar edebilirsin.</p><p>Bilgi kartları özellikle Tarih, Coğrafya ve Vatandaşlık gibi bilgi ağırlıklı derslerde işe yarar — soru çözmeden önce kavramları oturtmak, çözüm hızını belirgin biçimde artırır.</p>`,
+  },
+  {
+    yol: '/quiz',
+    baslik: 'KPSS Quiz — Karışık Soru Çözme | KPSS Akademi',
+    aciklama: 'Seçtiğin derslerden karışık KPSS quizi oluştur, süre tut ve anında sonuç al. Ücretsiz, üyeliksiz.',
+    h1: 'KPSS Quiz',
+    govde: `<p>Quiz, seçtiğin derslerden <b>karışık soru</b> getiren hızlı çalışma modudur. Ders ve soru sayısını sen belirlersin; sorular ${tr(toplamSoru)} soruluk bankadan seçilir ve her sorunun çözüm açıklaması vardır.</p><p>Tek konuya çalışırken bilgi taze olduğu için sorular kolay gelir; karışık quiz ise gerçek sınav koşuluna daha yakındır çünkü hangi konudan geldiğini bilmezsin. Bu yüzden konu çalışmasının ardından karışık quiz çözmek, öğrendiğini gerçekten sınamanın en pratik yoludur.</p>`,
+  },
+  {
+    yol: '/oyunlar',
+    baslik: 'KPSS Oyunları — Harita, Kronoloji, Eşleştirme | KPSS Akademi',
+    aciklama: 'KPSS çalışmasını oyunlaştıran ücretsiz mini oyunlar: Harita Avcısı, Kronoloji, Eşleştirme, Doğru mu? ve Maraton.',
+    h1: 'KPSS Oyunları',
+    govde: `<p>Oyunlar, ezber gerektiren konuları tekrar etmenin yorucu olmayan yoludur. Hiçbir oyunda reklam gösterilmez.</p><ul>
+<li><b>Harita Avcısı</b> — Türkiye haritasında il, dağ, akarsu, ova ve göl bulma</li>
+<li><b>Kronoloji</b> — tarihsel olayları doğru sıraya dizme</li>
+<li><b>Eşleştirme</b> — kavram ve karşılıklarını hızlı eşleştirme</li>
+<li><b>Doğru mu?</b> — hızlı doğru-yanlış turu</li>
+<li><b>Maraton</b> — canın bitene kadar süren seri soru modu</li>
+</ul><p>Özellikle Coğrafya'da harita bilgisi ve Tarih'te olay sıralaması, düz metinden çalışıldığında zor kalıcı olur; görsel ve oyunlaştırılmış tekrar bu iki alanda belirgin fark yaratır.</p>`,
+  },
+  {
+    yol: '/puan-hesapla',
+    baslik: 'KPSS Puan Hesaplama Aracı | KPSS Akademi',
+    aciklama: 'Netlerini gir, KPSS puan türlerine göre tahmini puanını gör. P1, P2, P3, P10, P121 ve P93 destekli ücretsiz hesaplayıcı.',
+    h1: 'KPSS Puan Hesaplama',
+    govde: `<p>Bu araca netlerini girdiğinde P1, P2, P3, P10, P121 ve P93 puan türlerine göre <b>tahmini</b> KPSS puanını hesaplar. Net hesabı kesindir (doğru − yanlış ÷ 4); puan ise tahmindir, çünkü ÖSYM netleri o yılki ortalama ve standart sapmayla standart puana çevirir.</p><p>Formülün ayrıntısı ve örnek hesaplar için <a href="/kpss-net-hesaplama">net hesaplama</a>, ağırlıklar için <a href="/kpss-puan-turleri">puan türleri</a> sayfasına bakabilirsin.</p>`,
+  },
+  {
+    yol: '/hakkinda',
+    baslik: 'Hakkında — KPSS Akademi Nedir? | KPSS Akademi',
+    aciklama: 'KPSS Akademi; soru bankası, bilgi kartları, deneme sınavları, harita oyunları ve puan hesaplayıcıyı tek yerde toplayan ücretsiz bir çalışma aracıdır.',
+    h1: 'Hakkında',
+    govde: `<p>KPSS Akademi; soru bankası, bilgi kartları, deneme sınavları, coğrafya harita oyunları ve puan hesaplayıcıyı tek uygulamada toplayan <b>ücretsiz</b> bir KPSS çalışma aracıdır. Web sürümü tarayıcıda çalışır, kurulum gerektirmez ve çevrimdışı kullanılabilir; tarayıcının "Ana ekrana ekle" seçeneğiyle uygulama gibi kullanılabilir.</p>
+<ul>
+<li>Ders ve konu bazlı soru çözme, yanlış ve kayıtlı soru listeleri, kişisel notlar</li>
+<li>Çevir-öğren bilgi kartları ve sesli okuma</li>
+<li>Süreli deneme sınavları, KPSS puan türlerine göre tahmini puan ve ders bazlı analiz</li>
+<li>Hedef puan planlayıcı — hangi dersten kaç net gerektiğini gösterir</li>
+<li>Harita Avcısı, Kronoloji, Eşleştirme, Doğru mu?, Maraton oyunları</li>
+<li>Günlük/haftalık hedef takibi, çalışma serisi ve istatistikler</li>
+</ul>
+<p>Üyelik gerekmez; ilerlemen yalnızca kendi cihazında saklanır. Android sürümü Google Play'de yayındadır.</p>
+<p>Puan hesaplamaları geçmiş yıl istatistiklerinden türetilmiş tahminlerdir; ÖSYM'nin resmî sonucu farklılık gösterebilir.</p>`,
+  },
+  {
+    yol: '/iletisim',
+    baslik: 'İletişim — Soru Bildirimi ve Öneri | KPSS Akademi',
+    aciklama: 'KPSS Akademi ile iletişim: hatalı soru bildirimi, öneri ve sorularınız için e-posta adresi.',
+    h1: 'İletişim',
+    govde: `<p>KPSS Akademi'yi tek kişilik bir ekip geliştiriyor. Yazdığın her mesaj okunuyor; özellikle <b>hatalı soru bildirimleri</b> hızla düzeltiliyor.</p>
+<p>E-posta: <a href="mailto:mehmetgokdemir@gmail.com">mehmetgokdemir@gmail.com</a></p>
+<p>Bir soruda hata gördüysen, soruyu ve nerede olduğunu (ders ve konu adı) yazman düzeltmeyi çok hızlandırır.</p>
+<p>KPSS Akademi bağımsız bir çalışma aracıdır; ÖSYM ile resmî bir bağlantısı yoktur. Sınav tarihleri, kılavuzlar ve resmî sonuçlar için <b>osym.gov.tr</b> esas alınmalıdır.</p>`,
+  },
+  {
+    yol: '/gizlilik',
+    baslik: 'Gizlilik Politikası | KPSS Akademi',
+    aciklama: 'KPSS Akademi gizlilik politikası: çalışma verileri yalnızca kendi tarayıcınızda saklanır, hesap açmanız gerekmez.',
+    h1: 'Gizlilik Politikası',
+    govde: `<p>Çalışma verileriniz <b>yalnızca kendi tarayıcınızda</b> saklanır. Hesap açmanız gerekmez; çözdüğünüz sorular, notlarınız ve deneme sonuçlarınız bize gönderilmez.</p>
+<p><b>Cihazınızda saklananlar:</b> adınız, hedefleriniz, tema tercihiniz, çözüm geçmişiniz, yanlışlarınız, kayıtlı sorularınız, notlarınız, deneme sonuçlarınız ve oyun skorlarınız tarayıcının yerel depolamasında (localStorage) tutulur. Bu veriler cihazınızdan çıkmaz; Ayarlar &gt; Verilerim bölümünden dışa aktarabilir veya tamamen silebilirsiniz.</p>
+<p><b>Reklamlar ve çerezler:</b> site ücretsiz kalabilmek için Yandex reklam ağı üzerinden reklam gösterebilir. Yandex ve iş ortakları çerez ve benzeri teknolojiler kullanabilir; bu kapsamda IP adresiniz, tarayıcı bilgileriniz ve gezinme verileriniz Yandex tarafından işlenebilir. İlk girişte bir tercih sorulur.</p>
+<p><b>Diğer üçüncü taraflar:</b> yazı tipleri Google Fonts üzerinden yüklenir. Ziyaret istatistikleri için Vercel Web Analytics kullanılır; bu araç çerez kullanmaz ve ziyaretçileri kişisel olarak tanımlamaz.</p>
+<p>Hizmet, sınav hazırlığı yapan yetişkinlere yöneliktir ve çocuklardan bilerek kişisel veri toplamaz. KVKK kapsamındaki talepleriniz için <a href="/iletisim">iletişim</a> sayfasına bakabilirsiniz.</p>`,
+  },
+]
+
+for (const r of UYGULAMA_ROTALARI) {
+  let sayfaHtml = kabukHtml
+  const url = SITE + r.yol
+  sayfaHtml = sayfaHtml.replace(/<title>[\s\S]*?<\/title>/, `<title>${esc(r.baslik)}</title>`)
+  sayfaHtml = sayfaHtml.replace(
+    /<meta name="description" content="[^"]*"\s*\/?>/,
+    `<meta name="description" content="${esc(r.aciklama)}" />`
+  )
+  sayfaHtml = sayfaHtml.replace(
+    /<link rel="canonical" href="[^"]*"\s*\/?>/,
+    `<link rel="canonical" href="${url}" />`
+  )
+  sayfaHtml = sayfaHtml.replace(/<meta property="og:title" content="[^"]*"\s*\/?>/, `<meta property="og:title" content="${esc(r.baslik)}" />`)
+  sayfaHtml = sayfaHtml.replace(/<meta property="og:url" content="[^"]*"\s*\/?>/, `<meta property="og:url" content="${url}" />`)
+  sayfaHtml = sayfaHtml.replace(/<meta property="og:description" content="[^"]*"\s*\/?>/, `<meta property="og:description" content="${esc(r.aciklama)}" />`)
+
+  const koruma = `<script>if(location.pathname.replace(/\\/+$/,'')!=='${r.yol}'){var _o=document.getElementById('on-icerik');if(_o)_o.remove()}</script>`
+  const on = `<div id="on-icerik" style="max-width:820px;margin:0 auto;padding:24px 20px 48px;font:16px/1.65 Inter,system-ui,sans-serif">
+<h1 style="font-size:26px;letter-spacing:-.02em;margin:0 0 10px">${esc(r.h1)}</h1>
+${r.govde}
+<p style="margin-top:22px"><a href="/">KPSS Akademi ana sayfa</a> · <a href="/kpss-konulari">Konular</a> · <a href="/kpss-deneme-sinavi">Denemeler</a></p>
+</div>${koruma}`
+
+  if (sayfaHtml.includes('<div id="root"></div>')) {
+    sayfaHtml = sayfaHtml.replace('<div id="root"></div>', `<div id="root">${on}</div>`)
+  }
+  const klasor = join(DIST, r.yol.slice(1))
+  await mkdir(klasor, { recursive: true })
+  await writeFile(join(klasor, 'index.html'), sayfaHtml, 'utf8')
+}
+console.log(`  ✓ ${UYGULAMA_ROTALARI.length} uygulama rotası ön-render edildi (kendi canonical'ı ile)`)
 
 const sitemapYollari = [
   ['/', '1.0', 'weekly'],
