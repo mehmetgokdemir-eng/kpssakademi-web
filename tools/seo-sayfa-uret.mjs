@@ -242,6 +242,133 @@ for (const d of index.dersler) {
   }
 }
 
+/* ── Soru bankası: konu bazında örnek soru + çözüm ───────────
+   Statik sayfaların birbirinin şablonu gibi görünmemesi için her konu
+   sayfasına O KONUYA AİT gerçek sorular ve çözümleri basılıyor. Sorular
+   uygulamanın kendi bankasından geliyor; uydurma içerik yok.
+   Anahtar "dersId:konuId" — konuId'ler dersler arasında tekil değil. */
+const sorularByKonu = new Map()
+const konuIstatistik = new Map()
+for (const d of index.dersler) {
+  let sorular = []
+  try {
+    sorular = JSON.parse(await readFile(join(KOK, `public/data/sorular/${d.id}.json`), 'utf8'))
+  } catch {
+    continue
+  }
+  for (const q of sorular) {
+    if (!q?.konuId) continue
+    const anahtar = `${d.id}:${q.konuId}`
+    if (!sorularByKonu.has(anahtar)) sorularByKonu.set(anahtar, [])
+    sorularByKonu.get(anahtar).push(q)
+  }
+}
+for (const [anahtar, liste] of sorularByKonu) {
+  const say = { kolay: 0, orta: 0, zor: 0 }
+  for (const q of liste) if (say[q.zorluk] !== undefined) say[q.zorluk]++
+  konuIstatistik.set(anahtar, { toplam: liste.length, ...say })
+}
+
+/* Deterministik seçim: aynı derleme her seferinde aynı soruları seçsin diye
+   sabit tohumlu sıralama kullanılıyor (mulberry32). */
+function tohumlu(sayi) {
+  let a = sayi >>> 0
+  return () => {
+    a = (a + 0x6d2b79f5) >>> 0
+    let t = Math.imul(a ^ (a >>> 15), 1 | a)
+    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296
+  }
+}
+function metinTohumu(s) {
+  let h = 2166136261
+  for (let i = 0; i < s.length; i++) h = Math.imul(h ^ s.charCodeAt(i), 16777619)
+  return h >>> 0
+}
+
+/* Zorluk çeşitliliği olsun diye kolay/orta/zor havuzlarından sırayla seçiyoruz. */
+function ornekSorular(anahtar, adet = 3) {
+  const liste = sorularByKonu.get(anahtar)
+  if (!liste?.length) return []
+  const rnd = tohumlu(metinTohumu(anahtar))
+  const havuz = { kolay: [], orta: [], zor: [], diger: [] }
+  for (const q of liste) (havuz[q.zorluk] || havuz.diger).push(q)
+  for (const k of Object.keys(havuz)) havuz[k].sort(() => rnd() - 0.5)
+  const sira = ['kolay', 'orta', 'zor', 'diger']
+  const secilen = []
+  let tur = 0
+  while (secilen.length < adet && tur < 12) {
+    const grup = havuz[sira[tur % sira.length]]
+    if (grup.length) secilen.push(grup.shift())
+    tur++
+  }
+  return secilen
+}
+
+const SIK = ['A', 'B', 'C', 'D', 'E']
+
+function soruBlogu(q, i) {
+  const secenekler = (q.secenekler || [])
+    .map((s, j) => {
+      const dogru = j === q.dogru
+      return `<li style="margin:4px 0;${dogru ? 'font-weight:700' : ''}">${SIK[j] || j + 1}) ${esc(s)}${
+        dogru ? ' <span style="color:#0a7f43">✓</span>' : ''
+      }</li>`
+    })
+    .join('')
+  return `<div class="kart" style="margin:12px 0">
+<p style="margin:0 0 8px;font-weight:700">${i + 1}. ${esc(q.soru)}</p>
+<ol style="margin:0 0 10px;padding-left:20px;list-style:none">${secenekler}</ol>
+<p style="margin:0;font-size:14px;color:var(--soluk)"><b style="color:var(--metin)">Çözüm:</b> ${esc(
+    q.aciklama || 'Doğru cevap yukarıda işaretlenmiştir.'
+  )}</p>
+</div>`
+}
+
+/* Ders sayfası için: farklı konulardan örnek sorular seç (tek konuya yığılmasın). */
+function dersOrnekSorulari(dersId, adet = 3) {
+  const anahtarlar = [...sorularByKonu.keys()].filter((k) => k.startsWith(`${dersId}:`))
+  if (!anahtarlar.length) return []
+  const rnd = tohumlu(metinTohumu(dersId))
+  anahtarlar.sort(() => rnd() - 0.5)
+  const secilen = []
+  for (const a of anahtarlar) {
+    if (secilen.length >= adet) break
+    /* Konu sayfası o konudan İLK 3 soruyu basıyor; ders sayfası aynı soruları
+       tekrarlamasın diye 4.'yü alıyoruz (yoksa eldeki son soruya düşüyoruz). */
+    const havuz = ornekSorular(a, 4)
+    const q = havuz[3] || havuz[havuz.length - 1]
+    if (q) secilen.push(q)
+  }
+  return secilen
+}
+
+function dersOrnekBolumu(dersId, dersAdi) {
+  const secilen = dersOrnekSorulari(dersId)
+  if (!secilen.length) return ''
+  return `<h2>KPSS ${esc(dersAdi)} Örnek Soruları ve Çözümleri</h2>
+<p style="font-size:14px;color:var(--soluk);margin:0 0 10px">Aşağıdaki sorular ${esc(
+    dersAdi
+  )} dersinin farklı konularından seçilmiştir; her birinin çözümü açıklamalıdır.</p>
+${secilen.map(soruBlogu).join('\n')}`
+}
+
+function ornekSoruBolumu(anahtar, konuAdi) {
+  const secilen = ornekSorular(anahtar)
+  if (!secilen.length) return ''
+  const ist = konuIstatistik.get(anahtar)
+  const kunye = ist
+    ? `<p style="font-size:14px;color:var(--soluk);margin:0 0 10px">Bu konuda uygulamada <b>${ist.toplam}</b> soru var${
+        ist.kolay || ist.orta || ist.zor
+          ? ` — ${ist.kolay} kolay, ${ist.orta} orta, ${ist.zor} zor.`
+          : '.'
+      }</p>`
+    : ''
+  return `<h2>${esc(konuAdi)} Örnek Soruları ve Çözümleri</h2>
+${kunye}
+${secilen.map(soruBlogu).join('\n')}`
+}
+
 /* ── Sayfa 2: Konular ─────────────────────────────────────── */
 /* Sınav sırasına göre: Genel Yetenek → Genel Kültür → Eğitim Bilimleri → Alan Bilgisi */
 const GRUP_SIRA = ['gy', 'gk', 'eb', 'ab']
@@ -400,6 +527,7 @@ ${
         .join('')}</ul></div>`
     : ''
 }
+${ornekSoruBolumu(`${d.id}:${n.konuId}`, n.baslik)}
 <div class="kart" style="text-align:center">
   <p style="margin:0 0 10px;font-weight:700">Bu konudan soru çöz</p>
   <a class="cta" href="/ders/${d.id}/konu/${n.konuId}">Soruları Aç</a>
@@ -438,7 +566,11 @@ for (const d of index.dersler) {
       const yol = anlatimYolu.get(`${d.id}:${k.id}`)
       const n = notHarita.get(k.id)
       const ad = yol ? `<a href="${yol}">${esc(k.ad)}</a>` : esc(k.ad)
-      return `<tr><td>${ad}</td><td>${n?.ozet ? esc(n.ozet.slice(0, 120)) : '—'}</td></tr>`
+      /* Konu başına gerçek soru sayısı — sayfayı derse özgü kılan somut veri. */
+      const adet = konuIstatistik.get(`${d.id}:${k.id}`)?.toplam
+      return `<tr><td>${ad}</td><td style="white-space:nowrap">${adet ? `${adet} soru` : '—'}</td><td>${
+        n?.ozet ? esc(n.ozet.slice(0, 120)) : '—'
+      }</td></tr>`
     })
     .join('')
 
@@ -484,7 +616,7 @@ olarak tekrar listene eklenir.</p>
 
 <h2>KPSS ${esc(d.ad)} konuları</h2>
 <table>
-  <tr><th style="width:34%">Konu</th><th>Özet</th></tr>
+  <tr><th style="width:30%">Konu</th><th>Soru</th><th>Özet</th></tr>
   ${konuSatirlari}
 </table>
 
@@ -496,6 +628,8 @@ ${
         .join('')}</ul></div>`
     : ''
 }
+
+${dersOrnekBolumu(d.id, d.ad)}
 
 <h2>Nasıl çalışılır?</h2>
 <p>Konu anlatımını okuyup hemen o konudan soru çözmek, önce tüm dersi bitirip sonra soruya geçmekten
