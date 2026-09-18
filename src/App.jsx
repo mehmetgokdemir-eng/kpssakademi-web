@@ -34,6 +34,8 @@ const Iletisim = sayfa(() => import('./pages/Iletisim.jsx'))
 const Hakkinda = sayfa(() => import('./pages/Hakkinda.jsx'))
 const Arama = sayfa(() => import('./pages/Arama.jsx'))
 const Tekrar = sayfa(() => import('./pages/Tekrar.jsx'))
+const Plan = sayfa(() => import('./pages/Plan.jsx'))
+const Ilerleme = sayfa(() => import('./pages/Ilerleme.jsx'))
 const HizliCalisma = sayfa(() => import('./pages/HizliCalisma.jsx'))
 const Analiz = sayfa(() => import('./pages/Analiz.jsx'))
 const HedefPuan = sayfa(() => import('./pages/HedefPuan.jsx'))
@@ -87,6 +89,8 @@ export default function App() {
             <Route path="/istatistik" element={<Istatistik />} />
             <Route path="/arama" element={<Arama />} />
             <Route path="/tekrar" element={<Tekrar />} />
+            <Route path="/plan" element={<Plan />} />
+            <Route path="/ilerleme" element={<Ilerleme />} />
             <Route path="/hizli" element={<HizliCalisma />} />
             <Route path="/analiz" element={<Analiz />} />
             <Route path="/hedef" element={<HedefPuan />} />

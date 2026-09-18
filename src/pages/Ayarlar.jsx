@@ -172,6 +172,9 @@ export default function Ayarlar() {
         <Satir baslik="Otomatik sonraki soru" aciklama="Cevaptan kısa süre sonra otomatik geçer">
           <Anahtar acik={settings.otomatikSonraki} degis={(v) => set({ otomatikSonraki: v })} />
         </Satir>
+        <Satir baslik="Süre temposu" aciklama="KPSS'de soru başına 65 saniye düşer; sayaç bu tempoyu gösterir">
+          <Anahtar acik={settings.tempoModu !== false} degis={(v) => set({ tempoModu: v })} />
+        </Satir>
       </div>
 
       <h2 className="section-title mb-2">Ses</h2>

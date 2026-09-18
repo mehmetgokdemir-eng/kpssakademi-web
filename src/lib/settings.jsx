@@ -19,6 +19,7 @@ const defaults = {
   siklariKaristir: false,
   otomatikSonraki: false,
   aciklamaGoster: true,
+  tempoModu: true, // soru çözerken KPSS temposu (65 sn/soru) göstergesi
 }
 
 const Ctx = createContext(null)

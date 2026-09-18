@@ -9,6 +9,7 @@ import { net as netHesap, kpssPuan, DERS_REFERANS, PUAN_TURLERI, GRUPLAR } from 
 import { Yukleniyor, Hata, Bos, Ilerleme, Istatistik, Modal, Rozet } from '../components/UI.jsx'
 import SinavAraclari from '../components/SinavAraclari.jsx'
 import SoruKarti from '../components/SoruKarti.jsx'
+import KonuOnerisi from '../components/KonuOnerisi.jsx'
 import Reklam from '../components/Reklam.jsx'
 import { IconClose, IconClock, IconCheck, IconChevron, IconBack, IconTrophy } from '../components/Icons.jsx'
 
@@ -215,6 +216,8 @@ export default function DenemeCoz() {
           <Istatistik etiket="Yanlış" deger={sonuc.yanlis} renk="text-red-500" />
           <Istatistik etiket="Süre" deger={sureFormat(sonuc.sureKullanilan)} renk="text-ink-500" />
         </div>
+
+        <KonuOnerisi sorular={sorular} cevaplar={cevaplar} />
 
         <h2 className="section-title mb-2">Ders bazlı analiz</h2>
         <div className="mb-4 space-y-2">

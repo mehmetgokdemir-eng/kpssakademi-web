@@ -8,6 +8,7 @@ import { useSettings } from '../lib/settings.jsx'
 import { Yukleniyor, Hata, Bos, Ilerleme, Istatistik } from '../components/UI.jsx'
 import SinavAraclari from '../components/SinavAraclari.jsx'
 import { Baslik } from '../components/Layout.jsx'
+import Tempo from '../components/Tempo.jsx'
 import SoruKarti from '../components/SoruKarti.jsx'
 import { IconRefresh, IconShuffle, IconBook } from '../components/Icons.jsx'
 
@@ -147,6 +148,12 @@ export default function SoruCoz() {
           {i + 1}/{sorular.length}
         </span>
       </div>
+
+      {settings.tempoModu !== false && (
+        <div className="mb-3 flex justify-end">
+          <Tempo anahtar={soru?.id} durdu={cevaplar[soru?.id] != null} />
+        </div>
+      )}
 
       <SoruKarti
         soru={soru}

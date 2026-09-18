@@ -16,6 +16,8 @@ const emptyState = () => ({
   quiz: { puan: 0, oynanan: 0 },
   tekrar: {}, // soruId -> { asama: 0..5, sonraki: timestamp, dersId, konuId }
   seri: { son: null, gun: 0 }, // çalışma serisi
+  plan: { gun: null, hedef: {} }, // günlük plan — gün içinde SABİT kalsın diye saklanır
+  koc: { sonKarsilama: null }, // koç karşılamasının günde bir kez çıkması için
 })
 
 let state = load()
@@ -265,4 +267,47 @@ export function sonNGun(n = 7) {
     out.push({ gun: d, ...(state.gunluk[d] || { soru: 0, dogru: 0, sure: 0 }) })
   }
   return out
+}
+
+
+/* --- Koçluk yardımcıları -------------------------------------------------
+   Plan gün içinde sabit kalmalı: kullanıcı soru çözdükçe zayıflık oranları
+   değişir, plan her hesapta yeniden kurulursa hedefler gözünün önünde oynar.
+   Bu yüzden plan güne mühürlenip saklanıyor. */
+
+/** Bugün ders bazında kaç soru çözüldü — cozulen'deki zaman damgalarından. */
+export function bugunDersSayilari() {
+  const bas = new Date()
+  bas.setHours(0, 0, 0, 0)
+  const t0 = bas.getTime()
+  const out = {}
+  for (const v of Object.values(state.cozulen)) {
+    if (!v?.t || v.t < t0 || !v.dersId) continue
+    out[v.dersId] = (out[v.dersId] || 0) + 1
+  }
+  return out
+}
+
+/** Bugüne ait kayıtlı plan; gün değiştiyse null döner. */
+export function planOku() {
+  return state.plan?.gun === bugun() ? state.plan.hedef : null
+}
+
+/** Planı bugüne mühürle. */
+export function planYaz(hedef) {
+  state.plan = { gun: bugun(), hedef: hedef || {} }
+  emit()
+}
+
+/** Planı sil — kullanıcı "yeniden kur" derse. */
+export function planSifirla() {
+  state.plan = { gun: null, hedef: {} }
+  emit()
+}
+
+export const kocKarsilamaGorulduMu = () => state.koc?.sonKarsilama === bugun()
+
+export function kocKarsilamaIsaretle() {
+  state.koc = { ...(state.koc || {}), sonKarsilama: bugun() }
+  emit()
 }

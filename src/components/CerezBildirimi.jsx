@@ -38,7 +38,7 @@ export default function CerezBildirimi() {
     >
       <div className="mx-auto flex max-w-3xl flex-col gap-3 sm:flex-row sm:items-center">
         <p className="flex-1 text-[13px] leading-relaxed text-ink-600 dark:text-ink-300">
-          Bu sitede Google reklamları gösteriliyor. Reklamların ilgi alanlarına göre kişiselleştirilmesi için
+          Bu sitede Yandex reklam ağı üzerinden reklam gösterilebilir. Reklamların ilgi alanlarına göre kişiselleştirilmesi için
           çerez kullanımına izin verebilirsin. İzin vermezsen reklamlar yine gösterilir, yalnızca
           kişiselleştirilmez.{' '}
           <Link to="/gizlilik" className="font-semibold text-brand-600 underline dark:text-brand-400">

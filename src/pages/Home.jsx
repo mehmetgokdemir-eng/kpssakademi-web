@@ -9,6 +9,7 @@ import { Halka, Yukleniyor, Hata, Rozet } from '../components/UI.jsx'
 import { TemaButonu, AyarButonu } from '../components/Layout.jsx'
 import Reklam from '../components/Reklam.jsx'
 import DegerlendirmeIstegi from '../components/DegerlendirmeIstegi.jsx'
+import KocKarti from '../components/KocKarti.jsx'
 import KurulumBolumu from '../components/KurulumBolumu.jsx'
 import AndroidYakinda from '../components/AndroidYakinda.jsx'
 import {
@@ -247,6 +248,7 @@ export default function Home() {
     <div>
       <Karsilama />
       <GeriSayim />
+      <KocKarti />
       <HizliErisim />
       <GunlukHedef />
       <BilgiKarti />
