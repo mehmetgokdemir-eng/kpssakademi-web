@@ -1,0 +1,118 @@
+{
+  "sozcukte_anlam": {
+    "bolumler": [
+      { "baslik": "Ses Bilgisi — Ünlü ve Ünsüz Uyumu", "icerik": "• BÜYÜK ÜNLÜ UYUMU (kalınlık-incelik): İlk hece kalın (a, ı, o, u) ise diğerleri de kalın; ince (e, i, ö, ü) ise diğerleri de ince olur.\n  UYMAYANLAR: Alıntı sözcükler (kitap, insan, dünya), bazı Türkçe sözcükler (anne, kardeş, elma, hangi, hani, inanmak, şişman).\n  UYMAYAN EKLER: -yor, -ken, -leyin, -ki, -daş, -imtırak → geliyor, koşarken, sabahleyin.\n• KÜÇÜK ÜNLÜ UYUMU (düzlük-yuvarlaklık): Düz ünlüden (a, e, ı, i) sonra düz; yuvarlak ünlüden (o, ö, u, ü) sonra ya dar yuvarlak (u, ü) ya da düz geniş (a, e) gelir.\n  'o' ve 'ö' ilk heceden sonra Türkçe sözcüklerde BULUNMAZ.\n• ÜNSÜZ BENZEŞMESİ (sertleşme): Sert ünsüzle (f, s, t, k, ç, ş, h, p) biten sözcüğe 'c, d, g' ile başlayan ek gelirse ek sertleşir → kitap-çı, aş-tan, seç-kin.\n• ÜNSÜZ YUMUŞAMASI: Süreksiz sert ünsüzle (p, ç, t, k) biten sözcük ünlüyle başlayan ek alınca yumuşar (b, c, d, g/ğ) → kitabı, ağacı.\n  YUMUŞAMAYANLAR: Tek heceli birçok sözcük (at-ı, saç-ı, süt-ü), özel adlar, bazı alıntılar (hukuku).\n• EN SIK TUZAK: Özel adlarda yumuşama SÖYLEYİŞTE olur, YAZIMDA gösterilmez → 'Zonguldak'a'." },
+      { "baslik": "Ses Olayları", "icerik": "• ÜNLÜ DÜŞMESİ: İki heceli bazı sözcükler ünlüyle başlayan ek alınca ikinci hecedeki dar ünlü düşer → ağzı, burnu, oğlu, gönlü. Ayrıca sarı-ar-mak → sararmak.\n• ÜNLÜ TÜREMESİ: bir-cik → biricik, az-cık → azıcık, dar-cık → daracık, gül-cük → gülücük.\n• ÜNSÜZ DÜŞMESİ: küçük-cük → küçücük, yüksek-l-mek → yükselmek, ufak-cık → ufacık.\n• ÜNSÜZ TÜREMESİ: af-etmek → affetmek, his-etmek → hissetmek, zan-etmek → zannetmek. Genellikle alıntı sözcüklerin 'etmek/olmak' ile birleşmesinde görülür.\n• KAYNAŞTIRMA HARFLERİ: y, ş, s, n. İki ünlü yan yana gelmesin diye kullanılır → oku-y-an, iki-ş-er, kapı-s-ı, ora-n-da.\n• ULAMA: Ünsüzle biten sözcüğün son sesinin, ünlüyle başlayan sonraki sözcüğe bağlanarak okunmasıdır. ARADA NOKTALAMA VARSA ULAMA OLMAZ — en sık sorulan ayrıntı budur.\n• DARALMA: 'a, e' ünlüleri '-yor' ekinden önce daralır → bekliyor, anlıyor. Ayrıca de-, ye- fiillerinde: diyor, yiyen." }
+    ],
+    "puf": [
+      "Özel adlarda yumuşama söyleyişte olur, yazımda gösterilmez (Zonguldak'a).",
+      "-yor, -ken, -ki, -leyin ekleri büyük ünlü uyumunu bozar.",
+      "Kaynaştırma harfleri: y, ş, s, n.",
+      "Arada noktalama işareti varsa ulama yapılmaz."
+    ]
+  },
+  "cumlede_anlam": {
+    "bolumler": [
+      { "baslik": "Cümle Türleri — Yapısına Göre", "icerik": "• BASİT CÜMLE: Tek yüklemi olan ve içinde FİİLİMSİ BULUNMAYAN cümle → 'Çocuklar bahçede oynuyor.'\n• BİRLEŞİK CÜMLE: İçinde fiilimsi ya da yan cümlecik bulunan cümle.\n  GİRİŞİK BİRLEŞİK: Fiilimsiyle kurulur → 'Koşarak gelen çocuk yoruldu.'\n  Kİ'Lİ BİRLEŞİK: 'Biliyorum ki gelecek.'\n  ŞARTLI BİRLEŞİK: 'Çalışırsan kazanırsın.'\n  İÇ İÇE BİRLEŞİK: 'Öğretmen, \"Yarın sınav var,\" dedi.'\n• SIRALI CÜMLE: Virgül veya noktalı virgülle bağlanan bağımsız cümleler → 'Kapıyı açtı, içeri girdi.'\n  BAĞIMLI SIRALI ortak öge taşır; BAĞIMSIZ SIRALI taşımaz.\n• BAĞLI CÜMLE: 've, ama, fakat, ancak, çünkü' ile bağlanır → 'Çalıştı ama kazanamadı.'\n• YÜKLEMİNE GÖRE: Fiil cümlesi / isim cümlesi.\n• YÜKLEMİN YERİNE GÖRE: Kurallı (yüklem sonda) / devrik / eksiltili (yüklem yok, üç nokta ile biter).\n• AYIRT ETME: Cümlede fiilimsi varsa BASİT OLAMAZ. Fiilimsiler yüklem sayılmaz; yan cümlecik kurar." },
+      { "baslik": "Sık Sorulan Anlam Kavramları", "icerik": "• NESNEL YARGI: Kanıtlanabilir, kişiden kişiye değişmez → 'Roman 300 sayfadır.'\n• ÖZNEL YARGI: Kişisel görüş, kanıtlanamaz → 'Roman çok sürükleyiciydi.'\n• ÖN YARGI: Olay gerçekleşmeden peşin hüküm → 'Bu filmi beğenmeyeceğim.'\n• VARSAYIM: Gerçekleşmemiş durumu gerçekleşmiş kabul etme — 'diyelim ki, farz edelim, tut ki'.\n• TASARI: Gelecekte yapılması PLANLANAN iş.\n• ÖNERİ: Çözüm sunma → 'Bence bu konuyu tekrar etmelisin.'\n• ELEŞTİRİ: Olumlu ya da olumsuz değerlendirme. ÖZ ELEŞTİRİ kişinin kendini değerlendirmesidir.\n• TANIM: 'Bu nedir?' sorusuna cevap verir.\n• KARŞILAŞTIRMA: İki şeyin ortak veya farklı yönleri. Karşılaştırma varsa ÜSTÜNLÜK OLMAYABİLİR.\n• KOŞULA BAĞLILIK: '-se/-sa, ancak, yeter ki'.\n• NEDEN-SONUÇ: 'için, -dığından, -den dolayı' — iş OLMUŞTUR.\n  AMAÇ-SONUÇ: 'için, üzere, diye' — NİYET vardır, gerçekleşmiş olması gerekmez.\n• AŞAMALI DURUM: 'giderek, gitgide, yavaş yavaş, günden güne'." }
+    ],
+    "puf": [
+      "Fiilimsi varsa cümle basit olamaz.",
+      "Neden-sonuçta iş gerçekleşmiştir; amaç-sonuçta niyet vardır.",
+      "Karşılaştırma her zaman üstünlük bildirmez.",
+      "Eksiltili cümlede yüklem yoktur, üç nokta ile biter."
+    ]
+  },
+  "paragraf": {
+    "bolumler": [
+      { "baslik": "Anlatım Biçimleri ve Düşünceyi Geliştirme Yolları", "icerik": "• ANLATIM BİÇİMLERİ:\n  AÇIKLAYICI — bilgi verir, öğretir.\n  TARTIŞMACI — okuru ikna eder, karşı görüş çürütülür ('oysa, ne var ki').\n  ÖYKÜLEYİCİ — olay, kişi, zaman, yer; hareket vardır.\n  BETİMLEYİCİ — görüntü çizer, sıfat yoğundur, durağandır.\n• DÜŞÜNCEYİ GELİŞTİRME YOLLARI:\n  TANIMLAMA — 'Bu nedir?'\n  ÖRNEKLENDİRME — 'sözgelimi, örneğin' ya da somut örnek.\n  KARŞILAŞTIRMA — benzer/farklı yönler.\n  TANIK GÖSTERME — ünlü birinin SÖZÜ aktarılır; kişi adı anılır.\n  SAYISAL VERİ — istatistik, oran, rakam.\n  BENZETME — iki şey arasında ilgi kurma.\n• EN SIK KARIŞTIRILAN: Tanık gösterme ile örneklendirme. Tanık göstermede MUTLAKA bir kişinin sözü aktarılır; sadece ad geçmesi yetmez." },
+      { "baslik": "Paragrafta Soru Tipleri — Çözüm Stratejisi", "icerik": "• ANA DÜŞÜNCE paragrafın TAMAMINI kapsar. TUZAK: Paragrafta geçen ama tamamını kapsamayan ayrıntı şık olarak sunulur. Şık sadece bir kısmı anlatıyorsa yanlıştır.\n• YARDIMCI DÜŞÜNCE: 'Hangisine değinilmemiştir?' sorularında her şıkkı paragrafta ARAYARAK eleyin.\n• KONU 'Neden söz ediliyor?', ANA DÜŞÜNCE 'Bu konuda ne söyleniyor?' sorusudur.\n• PARAGRAF TAMAMLAMA: Boşluğun önü ve sonrasındaki anlam-bağlaç uyumuna bakılır. Boşluk sondaysa sonuç, baştaysa giriş cümlesi aranır.\n• PARAGRAF OLUŞTURMA: Giriş cümlesi BAĞLAÇ VE ZAMİR İÇERMEZ. 'bu, o, bunlar, ayrıca, ancak' ile başlayan cümle giriş olamaz.\n• CÜMLE ÇIKARMA: Anlam akışını bozan, konudan kopan cümle aranır.\n• İKİYE BÖLME: Konunun değiştiği, yeni düşünceye geçilen cümle bölünme noktasıdır.\n• PRATİK: Önce SORUYU, sonra paragrafı okuyun. Ne aradığını bilerek okumak 65 saniyelik tempoda ciddi fark yaratır." }
+    ],
+    "puf": [
+      "Tanık göstermede mutlaka bir kişinin sözü aktarılır; sadece ad geçmesi yetmez.",
+      "Ana düşünce paragrafın tamamını kapsamalı.",
+      "Giriş cümlesi bağlaç ve zamirle başlamaz.",
+      "Betimlemede sıfat yoğunluğu ve durağanlık, öykülemede hareket vardır."
+    ]
+  },
+  "deyim_ve_atasozleri": {
+    "bolumler": [
+      { "baslik": "İkileme, Pekiştirme ve Kalıplaşmış İfadeler", "icerik": "• İKİLEME: Anlamı güçlendirmek için sözcük tekrarı. Aralarına NOKTALAMA KONMAZ.\n  Aynı sözcük (yavaş yavaş), yakın anlamlı (doğru dürüst), zıt anlamlı (aşağı yukarı), biri anlamsız (eğri büğrü), ikisi de anlamsız (abur cubur), yansıma (şırıl şırıl).\n• PEKİŞTİRME: Sıfat ve zarfların ilk hecesine m, p, r, s getirilir → bembeyaz, sapsarı, tertemiz, masmavi.\n• ATASÖZÜ: Anonimdir, kalıplaşmıştır, genel kural/öğüt/deneyim bildirir, çoğunlukla geniş zaman veya emir kipiyle çekimlenir, YARGI BİLDİRİR (cümledir).\n• DEYİM: Anlatımı güzelleştirir, kalıplaşmıştır, genellikle MECAZ taşır, çoğunlukla YARGI BİLDİRMEZ (söz öbeğidir), öğüt vermez.\n• AYIRT ETME: Öğüt veriyor ve yargı bildiriyorsa ATASÖZÜ; durum anlatıyor ve mastar hâlinde söylenebiliyorsa DEYİM.\n  'Ayağını yorganına göre uzat' → atasözü. 'Ayağını denk almak' → deyim.\n• ÖZLÜ SÖZ (VECİZE): Söyleyeni BELLİDİR — atasözünden bu yönüyle ayrılır.\n• TERİM ANLAM: Bilim, sanat veya meslek dalına özgü anlam. 'Kök' hem dil bilgisinde hem matematikte terimdir." }
+    ],
+    "puf": [
+      "Atasözü yargı bildirir ve öğüt verir; deyim genellikle yargı bildirmez.",
+      "İkilemelerin arasına noktalama konmaz.",
+      "Özlü sözün söyleyeni bellidir, atasözünün değildir.",
+      "Pekiştirme m, p, r, s harfleriyle yapılır."
+    ]
+  },
+  "sozcuk_turleri": {
+    "bolumler": [
+      { "baslik": "Yapı Bilgisi — Kök ve Ekler", "icerik": "• KÖK: Anlamlı en küçük parça; parçalanamaz.\n  İSİM KÖKÜ (göz, ev), FİİL KÖKÜ (gel-, yaz-), ORTAK KÖK (boya/boya-, eski/eski-, ağrı/ağrı-) — hem isim hem fiil, ARALARINDA ANLAM İLİŞKİSİ VAR.\n  SESTEŞ KÖK: Yazılış aynı, anlam ilgisi YOK (yüz = sayı / surat / yüzmek).\n• YAPIM EKİ: Anlamı ve/veya türü değiştirir, yeni sözcük türetir. Çekim ekinden ÖNCE gelir.\n  İsimden isim (-lik, -ci, -li, -siz), isimden fiil (-le, -len), fiilden isim (-gi, -im, -ıcı, -gın), fiilden fiil (-dir, -il, -in, -iş).\n• ÇEKİM EKİ: Yeni sözcük türetmez, görev yükler.\n  İsim: çoğul (-ler), hâl (-i, -e, -de, -den), iyelik, ilgi (-in), eşitlik (-ce), vasıta (-le).\n  Fiil: kip ekleri, şahıs ekleri, olumsuzluk (-me), soru (mı).\n• YAPISINA GÖRE: BASİT (ek almamış ya da sadece çekim eki almış), TÜREMİŞ (yapım eki almış), BİRLEŞİK.\n• EN SIK TUZAK: Çekim eki almış sözcük TÜREMİŞ SAYILMAZ. 'evler' basit, 'evci' türemiştir. '-ler' çekim, '-lik' yapım ekidir." },
+      { "baslik": "Fiilimsiler (Eylemsiler)", "icerik": "• FİİLİMSİ: Fiilden türeyen ama fiil gibi çekimlenemeyen; isim, sıfat veya zarf görevinde kullanılan sözcük. Cümlede YAN CÜMLECİK kurar, cümleyi BİRLEŞİK yapar.\n• İSİM-FİİL: -ma, -mak, -ış → 'Yüzmek sağlıklıdır.', 'Onun gelişi sevindirdi.'\n  DİKKAT: '-ma' olumsuzluk ekiyle karıştırılmamalı. 'Gelme!' olumsuz emir, 'gelmesi' isim-fiildir.\n  Kalıplaşıp İSİM olanlar fiilimsi DEĞİLDİR: kaymak, dolma, dondurma, çakmak.\n• SIFAT-FİİL: -an, -ası, -mez, -ar, -dik, -ecek, -miş → 'gelen adam', 'okunacak kitap'.\n  Sıfat-fiiller isimleşebilir: 'Gelenler oturdu.'\n• ZARF-FİİL: -ip, -erek, -ince, -ken, -dikçe, -meden, -e...-e, -r...-maz, -meksizin, -cesine → 'Koşarak geldi.'\n• AYIRT ETME: Fiilden mi türemiş? Yüklem değil mi? İsim/sıfat/zarf görevinde mi? Üçü de evetse fiilimsidir.\n• Fiilimsi sayısı = yan cümlecik sayısı." }
+    ],
+    "puf": [
+      "Çekim eki almış sözcük türemiş sayılmaz; 'evler' basit, 'evci' türemiştir.",
+      "Sıfat-fiil ekleri: -an, -ası, -mez, -ar, -dik, -ecek, -miş.",
+      "Kaymak, dolma, dondurma kalıplaşmış isimdir, fiilimsi değildir.",
+      "Fiilimsi sayısı kadar yan cümlecik vardır."
+    ]
+  },
+  "cumle_ogeleri": {
+    "bolumler": [
+      { "baslik": "Öge Bulmada Sık Yapılan Hatalar", "icerik": "• YÜKLEM ÖNCE BULUNUR. Yüklem bulunmadan hiçbir öge doğru bulunamaz.\n• ÖZNE: 'Yapan/olan kim?' diye sorulur. Sadece 'kim, ne' sormak NESNEYİ de verebilir.\n  GİZLİ ÖZNE: Yüklemin şahıs ekinden anlaşılır → 'Geldim.' özne 'ben'.\n  SÖZDE ÖZNE: Edilgen fiilde işi yapan belli değildir → 'Camlar silindi.' 'camlar' sözde öznedir.\n• BELİRTİLİ NESNE '-i' hâl eki alır; BELİRTİSİZ NESNE ek almaz.\n  AYIRT ETME: Başına 'onu' getirilebiliyorsa nesnedir.\n• DOLAYLI TÜMLEÇ: '-e, -de, -den' alır; 'nereye, nerede, nereden, kime' sorularına cevap verir.\n  TUZAK: '-e, -de, -den' alan her sözcük dolaylı tümleç DEĞİLDİR. Zaman bildiriyorsa ZARF TÜMLECİDİR → 'Üç günde bitirdi.'\n• ZARF TÜMLECİ: 'nasıl, ne zaman, ne kadar, niçin'.\n• EDAT TÜMLECİ: 'ile, için, kadar, gibi, göre' ile kurulur.\n• TAMLAMALAR BÖLÜNMEZ. 'Okulun bahçesi' tek ögedir.\n• CÜMLE VURGUSU: Kurallı cümlede YÜKLEMDEN ÖNCEKİ öge vurguludur. Soru sözcüğü varsa vurgu ondadır." }
+    ],
+    "puf": [
+      "Yüklem bulunmadan öge bulunmaz.",
+      "Edilgen cümlede nesne yoktur; sözde özne vardır.",
+      "'-e, -de, -den' zaman bildiriyorsa zarf tümlecidir.",
+      "Tamlamalar öge ayırmada bölünmez.",
+      "Kurallı cümlede vurgu yüklemden önceki ögededir."
+    ]
+  },
+  "fiil_catisi": {
+    "bolumler": [
+      { "baslik": "Fiil Kipleri ve Zaman Kayması", "icerik": "• HABER KİPLERİ: Görülen geçmiş (-di), duyulan geçmiş (-miş), şimdiki (-yor), gelecek (-ecek), geniş (-r).\n• DİLEK KİPLERİ: Gereklilik (-meli), şart (-se), istek (-e), emir (eksiz).\n  Emir kipinin 1. TEKİL ve 1. ÇOĞUL şahsı YOKTUR.\n• BASİT ZAMANLI FİİL tek kip eki alır. BİLEŞİK ZAMANLI FİİL iki kip eki alır (ek-fiil ile).\n  HİKÂYE: -di (geliyordu), RİVAYET: -miş (geliyormuş), ŞART: -se (geliyorsa).\n  Emir kipinin bileşik çekimi YOKTUR.\n• ZAMAN (ANLAM) KAYMASI: Çekimlendiği kip ile bildirdiği zamanın farklı olması.\n  'Yarın gidiyorum.' → şimdiki zaman eki, gelecek anlamı.\n  'Fatih 1453'te İstanbul'u alır.' → geniş zaman eki, geçmiş anlamı.\n• EK-FİİL: İsim soylu sözcükleri yüklem yapar ya da basit zamanlıyı bileşik zamanlı yapar. Dört eki: -dir, -di, -miş, -se.\n• KURALLI BİRLEŞİK FİİLLER: Yeterlilik (-ebilmek), tezlik (-ivermek), süreklilik (-edurmak, -egelmek), yaklaşma (-eyazmak)." }
+    ],
+    "puf": [
+      "Emir kipinin 1. tekil ve 1. çoğul şahsı yoktur.",
+      "Emir kipinin bileşik çekimi yoktur.",
+      "Zaman kaymasında ek bir zamanı, anlam başka zamanı gösterir.",
+      "Ek-fiilin dört eki: -dir, -di, -miş, -se."
+    ]
+  },
+  "anlatim_bozukluklari": {
+    "bolumler": [
+      { "baslik": "Bozukluk Türünü Hızlı Teşhis — Kontrol Listesi", "icerik": "• SINAVDA BU SIRAYLA BAKIN:\n  1) GEREKSİZ SÖZCÜK: 'geri iade etmek', 'yaklaşık 5 civarında', 'karşılıklı anlaşmak', 'en optimum'.\n  2) ANLAM BELİRSİZLİĞİ: 'Genç kıza baktı.' — kim genç? Virgül veya iyelik eki çözer.\n  3) MANTIK HATASI: Çelişen yargılar ('Hem okumuş hem yarısında bırakmış'), sıralama hatası ('Hastaneye kaldırıldı ve ilk müdahale yapıldı').\n  4) SÖZCÜK/DEYİM YANLIŞI: Yanlış sözcük seçimi ya da deyimin yanlış kullanımı.\n  5) ÖZNE-YÜKLEM UYUMSUZLUĞU: Tekillik-çoğulluk (insan dışı çoğul özne yüklemi TEKİL ister: 'Kuşlar uçtu'), olumluluk-olumsuzluk ('Ne sen ne o geldi' doğrudur), kişi uyumu ('Sen ve ben gittik').\n  6) ÖGE EKSİKLİĞİ: Ortak öge her iki yükleme de uymuyorsa hata vardır → 'Onu sevdi ve yardım etti.' ('yardım etti' dolaylı tümleç ister: 'ona').\n  7) TAMLAMA YANLIŞI: 'siyasi ve ekonomi sorunları' yanlış — sıfat-isim karışıklığı.\n  8) EK YANLIŞI: Yanlış hâl eki, yanlış çatı eki, gereksiz iyelik eki.\n  9) NOKTALAMA EKSİKLİĞİ kaynaklı belirsizlik.\n• EN SIK ÇIKAN İKİ TÜR: Gereksiz sözcük ve özne-yüklem uyumsuzluğu.\n• PRATİK: Her yükleme ayrı ayrı 'kim, neyi, kime' sorun — öge eksikliği böyle yakalanır." }
+    ],
+    "puf": [
+      "İnsan dışı çoğul özneler yüklemi tekil ister: 'Kuşlar uçtu.'",
+      "'Ne ... ne ...' ile kurulan cümlede yüklem olumlu olur.",
+      "Ortak öge her iki yükleme de uymalı; uymuyorsa öge eksikliği vardır.",
+      "En sık çıkan iki tür: gereksiz sözcük ve özne-yüklem uyumsuzluğu."
+    ]
+  },
+  "yazim_kurallari": {
+    "bolumler": [
+      { "baslik": "de/da, ki, mi — ve Kesme İşareti", "icerik": "• 'DE/DA':\n  BAĞLAÇ ayrı yazılır; cümleden çıkarılınca anlam bozulmaz; 'ta/te' olmaz → 'Ben de geldim.'\n  BULUNMA HÂLİ EKİ bitişik yazılır; sert ünsüzden sonra '-te/-ta' olur → 'Evde', 'kitapta'.\n  Özel adlara gelen hâl eki KESME ile ayrılır → 'Ankara'da'.\n• 'Kİ':\n  BAĞLAÇ ayrı → 'Biliyorum ki gelecek.'\n  İLGİ ZAMİRİ ve SIFAT YAPAN '-ki' bitişik → 'benimki', 'yarınki'.\n  KALIPLAŞMIŞLAR bitişik: oysaki, mademki, halbuki, sanki, belki, çünkü.\n• SORU EKİ 'Mİ' her zaman AYRI yazılır; sonraki ek BİTİŞİK → 'Geliyor musun?'\n• KESME İŞARETİ: Özel adlara gelen ÇEKİM ekleri ayrılır. YAPIM EKLERİ ve sonrasındaki çekim ekleri AYRILMAZ → 'Türkçenin', 'Ankaralı', 'Avrupalılaşmak'.\n  Kurum, kuruluş ve kanun adlarına gelen ekler kesmeyle AYRILMAZ → 'Türkiye Büyük Millet Meclisine'.\n• SAYILAR: Metinde harfle yazılır. Sıra sayıları 'beşinci' veya '5.' şeklindedir — '5'inci' YANLIŞTIR.\n• KISALTMALAR: Büyük harfli kısaltmalara gelen ek OKUNUŞA göre → 'TBMM'ye', 'TDK'nin'.\n• BİRLEŞİK YAZILANLAR: Ses düşmesi olanlar (kaynana, kahvaltı, nasıl, niçin, pazartesi), anlam kayması olanlar (hanımeli, aslanağzı, denizaltı).\n• AYRI YAZILANLAR: Ses olayı OLMAYAN yardımcı fiilli birleşikler ('yardım etmek', 'not almak')." }
+    ],
+    "puf": [
+      "Bağlaç 'de/da' ve 'ki' ayrı, ek olanlar bitişik yazılır.",
+      "Özel ada gelen yapım eki kesmeyle ayrılmaz: Türkçenin, Ankaralı.",
+      "Kurum adlarına gelen ekler kesmeyle ayrılmaz.",
+      "'5'inci' yanlıştır; '5.' veya 'beşinci' doğrudur.",
+      "Soru eki 'mi' ayrı, ondan sonraki ek bitişik yazılır."
+    ]
+  },
+  "noktalama": {
+    "bolumler": [
+      { "baslik": "Virgülün Kritik Kullanımları ve Tuzaklar", "icerik": "• VİRGÜL KONULAN YERLER: Eş görevli sözcükler arasında; sıralı cümleler arasında; özneyi belirtmek için; hitaplardan sonra; ara sözlerin başında ve sonunda; tırnak içine alınmayan aktarma cümlelerden sonra; sayıların ondalık kısmında.\n• VİRGÜL KONULMAYAN YERLER — en çok soru buradan gelir:\n  'VE, VEYA, İLE, YA DA' bağlaçlarından ÖNCE ve SONRA konmaz.\n  Metin içinde 'de/da' bağlacından sonra konmaz.\n  ŞART EKİNDEN (-se/-sa) sonra konmaz.\n  Kısa cümlelerde ve tekrarlı bağlaçlardan önce konmaz.\n• NOKTALI VİRGÜL: Ögeleri arasında virgül bulunan sıralı cümleleri ayırır; farklı grupları ayırır; 'ama, fakat, ancak, çünkü' bağlaçlarından ÖNCE kullanılabilir.\n• İKİ NOKTA: Açıklama, örnek veya alıntı öncesinde. Sonrasında CÜMLE geliyorsa büyük, gelmiyorsa küçük harfle başlanır.\n• ÜÇ NOKTA: Tamamlanmamış cümle sonuna; alıntıda atlanan yere; kaba sayılan sözcük yerine.\n• KISA ÇİZGİ (-): Satır sonunda hece bölme; ara söz; dil bilgisinde ek ve kök gösterme.\n• UZUN ÇİZGİ (—): Konuşma çizgisi; karşılıklı konuşmalarda satır başında.\n• TIRNAK İÇİNDEKİ alıntı cümlenin noktalaması TIRNAK İÇİNDE kalır.\n• PARANTEZ: Anlama doğrudan katkısı olmayan açıklamalar; parantez içindeki tam cümlenin noktası parantez İÇİNDE olur." }
+    ],
+    "puf": [
+      "'ve, veya, ile, ya da' bağlaçlarından önce ve sonra virgül konmaz.",
+      "Şart ekinden sonra virgül konmaz.",
+      "İki noktadan sonra cümle geliyorsa büyük, gelmiyorsa küçük harf.",
+      "Kısa çizgi hece bölme ve ara söz, uzun çizgi konuşma çizgisidir."
+    ]
+  }
+}

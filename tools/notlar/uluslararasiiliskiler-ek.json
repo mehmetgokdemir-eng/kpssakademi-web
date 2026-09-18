@@ -1,26 +1,6 @@
-[
- {
-  "konuId": "ui_teoriler",
-  "dersId": "uluslararasiiliskiler",
-  "baslik": "Uluslararası İlişkiler Teorileri",
-  "ozet": "Realizm, liberalizm, konstruktivizm ve eleştirel yaklaşımlar.",
+{
+ "ui_teoriler": {
   "bolumler": [
-   {
-    "baslik": "Realizm ve Neorealizm",
-    "icerik": "KLASİK REALİZM (Morgenthau, Carr):\n• Devlet temel aktördür; uluslararası sistem ANARŞİKTİR (üstün otorite yok).\n• Devletler GÜÇ ve ULUSAL ÇIKAR peşindedir.\n• İnsan doğası bencildir; çatışma kaçınılmazdır.\n• GÜÇ DENGESİ barışın anahtarıdır.\n\nNEOREALİZM / YAPISAL REALİZM (Kenneth Waltz):\n• Devlet davranışını belirleyen insan doğası değil SİSTEMİN YAPISIDIR.\n• Güvenlik en temel amaçtır.\n• SAVUNMACI realizm (Waltz): Devletler yeterli güvenlik ister.\n• SALDIRGAN realizm (Mearsheimer): Devletler mümkün olan en fazla gücü ister.\n\nGÜVENLİK İKİLEMİ: Bir devletin güvenliğini artırma çabası diğerlerini tehdit altında hissettirir ve silahlanma sarmalı doğar."
-   },
-   {
-    "baslik": "Liberalizm ve Neoliberal Kurumsalcılık",
-    "icerik": "LİBERALİZM:\n• Devlet dışı aktörler (uluslararası örgütler, şirketler, STK'lar) da önemlidir.\n• İş birliği mümkündür ve rasyoneldir.\n• Karşılıklı ekonomik BAĞIMLILIK savaşı maliyetli kılar.\n• DEMOKRATİK BARIŞ TEORİSİ: Demokratik devletler birbirleriyle savaşmaz.\n\nNEOLİBERAL KURUMSALCILIK (Keohane, Nye):\n• Uluslararası REJİMLER ve KURUMLAR işlem maliyetlerini düşürür, bilgi sağlar, iş birliğini kolaylaştırır.\n• KARMAŞIK KARŞILIKLI BAĞIMLILIK: Çoklu kanallar, konu hiyerarşisinin olmaması, askerî gücün azalan rolü.\n• YUMUŞAK GÜÇ (Joseph Nye): Zorlama yerine çekicilikle etkileme (kültür, değerler, politikalar)."
-   },
-   {
-    "baslik": "Konstruktivizm ve Eleştirel Yaklaşımlar",
-    "icerik": "KONSTRUKTİVİZM (İnşacılık — Alexander Wendt):\n• Uluslararası yapı maddi değil SOSYAL olarak inşa edilir.\n• 'Anarşi devletlerin ondan ne anladığıdır.'\n• KİMLİK, NORM ve FİKİRLER çıkarları şekillendirir.\n• Değişim mümkündür.\n\nMARKSİST/ELEŞTİREL YAKLAŞIMLAR:\n• Sınıf çatışması ve ekonomik sömürü merkezdedir.\n• BAĞIMLILIK OKULU: Merkez ülkeler çevre ülkeleri sömürür; az gelişmişlik yapısaldır.\n• DÜNYA SİSTEMİ TEORİSİ (Wallerstein): Merkez – yarı çevre – çevre.\n• ELEŞTİREL TEORİ (Cox): 'Teori daima birileri ve bir amaç içindir.'\n\nDİĞER: İngiliz Okulu (uluslararası toplum), feminist teori, postmodernizm, yeşil teori."
-   },
-   {
-    "baslik": "Önemli Tezler ve Kavramlar",
-    "icerik": "• TARİHİN SONU (Fukuyama, 1992): Liberal demokrasi ideolojik evrimin son noktasıdır.\n• MEDENİYETLER ÇATIŞMASI (Huntington, 1996): Soğuk Savaş sonrası çatışmalar kültürel/medeniyet eksenli olacaktır.\n• HEGEMONİK İSTİKRAR TEORİSİ: Tek bir hegemon güç sisteme düzen sağlar.\n• GÜÇ DENGESİ ↔ BANDWAGONING: Zayıf devletler ya güçlüye karşı denge kurar ya da onun yanında saf tutar.\n• KAMU MALI ve BEDAVACILIK sorunu uluslararası iş birliğinde de görülür.\n• OYUN TEORİSİ: Mahkûm ikilemi, geyik avı, tavuk oyunu — iş birliği ve çatışma modelleri.\n• SIFIR TOPLAMLI ↔ POZİTİF TOPLAMLI OYUN: Realizm sıfır toplamlı, liberalizm pozitif toplamlı bakar."
-   },
    {
     "baslik": "İngiliz Okulu, Marksist ve Feminist Yaklaşımlar",
     "icerik": "İNGİLİZ OKULU (ULUSLARARASI TOPLUM YAKLAŞIMI): Devletler anarşik bir ortamda bulunsalar da ortak kurallar, kurumlar ve değerler etrafında bir 'uluslararası TOPLUM' oluşturur. Diplomasi, uluslararası hukuk, güç dengesi, savaş ve büyük güçler bu toplumun temel kurumlarıdır.\nHedley Bull'un 'Anarşik Toplum' eseri temel metindir. Realizm ile liberalizm arasında orta yol sayılır: Anarşiyi kabul eder ama düzenin mümkün olduğunu savunur.\n\nMARKSİST VE YAPISALCI YAKLAŞIMLAR: Uluslararası ilişkilerin belirleyicisi devletler değil KAPİTALİST ÜRETİM İLİŞKİLERİ ve sınıflardır.\n• BAĞIMLILIK OKULU: Az gelişmişlik bir geri kalmışlık değil, merkez ülkelerin çevre ülkeleri sömürmesinin ÜRÜNÜDÜR.\n• DÜNYA SİSTEMLERİ KURAMI (Wallerstein): Dünya ekonomisi MERKEZ, YARI ÇEVRE ve ÇEVRE olarak katmanlaşmıştır; eşitsizlik sistemin kendisinden kaynaklanır.\n• GRAMSCICI YAKLAŞIM: Hegemonya yalnız zorla değil RIZA üretimiyle kurulur.\n\nFEMİNİST YAKLAŞIMLAR: Uluslararası ilişkiler kuramının 'erkek' deneyimi üzerine kurulduğunu, güvenlik ve güç kavramlarının toplumsal cinsiyet körü olduğunu savunur. Savaşın ve göçün kadınlar üzerindeki farklı etkilerini görünür kılar.\n\nYEŞİL KURAM: Çevre ve iklim sorunlarını devlet merkezli analizin sınırlarını aşan küresel bir mesele olarak ele alır.\n\nPOSTKOLONYAL YAKLAŞIM: Sömürgecilik mirasının bugünkü uluslararası düzeni nasıl biçimlendirdiğini inceler.\n\nAYIRT EDİCİ ÖLÇÜT: Realizm devleti ve gücü, liberalizm kurumları ve iş birliğini, konstrüktivizm kimlik ve normları, eleştirel kuramlar ise EŞİTSİZLİĞİ ve iktidar yapılarını merkeze alır."
@@ -30,41 +10,15 @@
     "icerik": "GÜVENLİK İKİLEMİ: Bir devletin güvenliğini artırmak için aldığı önlemler (silahlanma, ittifak) diğer devletlerce tehdit olarak algılanır; onlar da önlem alır ve sonuçta HERKES daha az güvenli hâle gelir. Anarşinin yapısal sonucudur ve niyetlerin bilinememesinden doğar.\n\nGÜÇ DENGESİ: Hiçbir devletin hegemonya kuramayacak kadar güçlenmemesi durumudur. İki yolla kurulur: İÇ DENGELEME (kendi askerî ve ekonomik gücünü artırma) ve DIŞ DENGELEME (ittifak kurma).\nPEŞİNE TAKILMA (bandwagoning): Zayıf devletin, güçlüye karşı denge kurmak yerine onun yanında yer almasıdır.\n\nSAVUNMACI – SALDIRGAN REALİZM AYRIMI:\n• SAVUNMACI REALİZM (Waltz): Devletler güvenlik ararlar; aşırı güç birikimi karşı ittifak doğurduğu için akılcı değildir.\n• SALDIRGAN REALİZM (Mearsheimer): Devletler ellerinden geldiğince çok güç biriktirir; nihai hedef bölgesel hegemonyadır.\n\nHEGEMONİK İSTİKRAR KURAMI: Açık ve istikrarlı bir uluslararası ekonomik düzen, bu düzeni sürdürecek bir HEGEMON gücün varlığını gerektirir. Hegemonun gerilemesi istikrarsızlık üretir.\n\nGÜÇ GEÇİŞİ KURAMI ve THUCYDIDES TUZAĞI: Yükselen bir gücün mevcut hegemona yaklaştığı dönem, savaş riskinin en yüksek olduğu dönemdir.\n\nDEMOKRATİK BARIŞ TEZİ: Demokrasiler birbirleriyle savaşmaz. Kant'ın 'Ebedi Barış' fikrine dayanır; liberal kuramın en çok tartışılan ampirik iddiasıdır. Eleştirisi, demokrasilerin demokratik olmayan ülkelere karşı savaşmaktan geri durmadığıdır.\n\nKARMAŞIK KARŞILIKLI BAĞIMLILIK (Keohane-Nye): Devletler arasında çoklu kanallar vardır, konular arasında hiyerarşi yoktur ve askerî gücün rolü azalmıştır. Ekonomik bağımlılık çatışmanın maliyetini artırır."
    }
   ],
-  "pufNoktalar": [
-   "Realizm devleti ve gücü, liberalizm iş birliği ve kurumları merkeze alır.",
-   "Waltz'ın neorealizmi sistemin yapısını vurgular.",
-   "Konstruktivizme göre anarşi sosyal olarak inşa edilir (Wendt).",
-   "Yumuşak güç kavramı Joseph Nye'a aittir.",
-   "Fukuyama 'Tarihin Sonu', Huntington 'Medeniyetler Çatışması' tezini savundu.",
-   "Wallerstein'in dünya sistemi teorisi merkez-yarı çevre-çevre ayrımına dayanır.",
+  "puf": [
    "Güvenlik ikileminde savunma amaçlı önlemler karşılıklı güvensizliği büyütür.",
    "Savunmacı realizm güvenliği, saldırgan realizm azami gücü hedef alır.",
    "İngiliz Okulu anarşiyi kabul eder ama uluslararası toplumun varlığını savunur.",
    "Wallerstein dünya ekonomisini merkez, yarı çevre ve çevre olarak katmanlar."
   ]
  },
- {
-  "konuId": "ui_orgutler",
-  "dersId": "uluslararasiiliskiler",
-  "baslik": "Uluslararası Örgütler",
-  "ozet": "BM, NATO, AB ve diğer küresel-bölgesel örgütlerin yapısı.",
+ "ui_orgutler": {
   "bolumler": [
-   {
-    "baslik": "Birleşmiş Milletler",
-    "icerik": "• 24 EKİM 1945'te San Francisco Konferansı ile kuruldu. Merkezi NEW YORK. Türkiye KURUCU ÜYEDİR.\n• Öncülü MİLLETLER CEMİYETİ (1920) idi; II. Dünya Savaşı'nı önleyemeyerek başarısız oldu.\n\n6 TEMEL ORGAN:\n1) GENEL KURUL: Tüm üyeler, her üyenin 1 oyu vardır. Kararları TAVSİYE niteliğindedir.\n2) GÜVENLİK KONSEYİ: 15 üye — 5 DAİMİ (ABD, Rusya, Çin, İngiltere, Fransa) + 10 geçici (2 yıl). Daimi üyelerin VETO hakkı vardır. Kararları BAĞLAYICIDIR.\n3) EKONOMİK VE SOSYAL KONSEY (ECOSOC)\n4) VESAYET KONSEYİ (faaliyeti askıya alındı)\n5) ULUSLARARASI ADALET DİVANI — LAHEY (15 yargıç, 9 yıl)\n6) SEKRETERLİK — Genel Sekreter (5 yıl)\n\nUZMANLIK KURULUŞLARI: UNESCO, UNICEF, WHO (DSÖ), ILO, FAO, IMF, Dünya Bankası, UNHCR (mülteciler), UNDP."
-   },
-   {
-    "baslik": "NATO ve Güvenlik Örgütleri",
-    "icerik": "NATO (Kuzey Atlantik Antlaşması Örgütü):\n• 4 NİSAN 1949, Washington Antlaşması. Merkezi BRÜKSEL.\n• Türkiye 18 ŞUBAT 1952'de Yunanistan ile birlikte katıldı.\n• 5. MADDE: Bir üyeye saldırı tümüne saldırı sayılır. TEK KEZ işletildi: 11 Eylül 2001.\n• 4. MADDE: Bir üye tehdit altında hissederse istişare talep edebilir (Türkiye birkaç kez başvurmuştur).\n• Son katılanlar: Kuzey Makedonya (2020), Finlandiya (2023), İsveç (2024).\n\nDİĞER GÜVENLİK YAPILARI:\n• AGİT (OSCE): Avrupa Güvenlik ve İşbirliği Teşkilatı — 1975 Helsinki Nihai Senedi ile başlayan süreç.\n• ŞANGAY İŞBİRLİĞİ ÖRGÜTÜ (ŞİÖ): Çin, Rusya ve Orta Asya ülkeleri; Türkiye DİYALOG ORTAĞIDIR.\n• Varşova Paktı (1955-1991): SSCB liderliğinde, NATO'ya karşı kurulmuş, SSCB ile dağılmıştır."
-   },
-   {
-    "baslik": "Avrupa Bütünleşmesi",
-    "icerik": "AB'NİN KURULUŞ SÜRECİ:\n• 1951 Paris Antlaşması → AKÇT (Avrupa Kömür ve Çelik Topluluğu)\n• 1957 ROMA ANTLAŞMASI → AET ve EURATOM\n• 1987 Avrupa Tek Senedi\n• 1992 MAASTRICHT ANTLAŞMASI → AVRUPA BİRLİĞİ (üç sütunlu yapı)\n• 1997 Amsterdam, 2001 Nice, 2009 LİZBON ANTLAŞMASI\n\nAB KURUMLARI: Avrupa Komisyonu (yürütme), Avrupa Parlamentosu (yasama, doğrudan seçim), AB Konseyi (Bakanlar Konseyi), Avrupa Birliği Zirvesi, Avrupa Birliği Adalet Divanı (Lüksemburg), Avrupa Merkez Bankası (Frankfurt), Sayıştay.\n\nAVRUPA KONSEYİ (1949, Strazburg): AB'DEN FARKLIDIR. İnsan hakları odaklıdır; AİHS ve AİHM buraya bağlıdır. Türkiye KURUCU ÜYEDİR.\n\nTÜRKİYE-AB: 1959 başvuru, 1963 Ankara Anlaşması, 1970 Katma Protokol, 1987 tam üyelik başvurusu, 1996 GÜMRÜK BİRLİĞİ, 1999 Helsinki'de adaylık, 2005 müzakerelerin başlaması."
-   },
-   {
-    "baslik": "Ekonomik ve Bölgesel Örgütler",
-    "icerik": "• IMF (1944 Bretton Woods, Washington): Ödemeler dengesi sorunlarına kısa vadeli destek.\n• DÜNYA BANKASI (1944, Washington): Kalkınma finansmanı.\n• DTÖ / WTO (1995, Cenevre): GATT'ın yerini aldı; ticaret kurallarını belirler ve uyuşmazlıkları çözer.\n• OECD (1961, Paris): Türkiye KURUCU ÜYEDİR.\n• G-20: Dünyanın en büyük 20 ekonomisi; Türkiye üyedir (2015'te Antalya'da zirveye ev sahipliği yaptı).\n• BRICS: Brezilya, Rusya, Hindistan, Çin, Güney Afrika (sonradan genişledi).\n• OPEC: Petrol ihraç eden ülkeler.\n\nBÖLGESEL ÖRGÜTLER:\n• KEİ (Karadeniz Ekonomik İşbirliği, 1992): Merkezi İSTANBUL.\n• EİT (Ekonomik İşbirliği Teşkilatı): Türkiye, İran, Pakistan çekirdeğiyle.\n• TÜRK DEVLETLERİ TEŞKİLATI: Türkiye, Azerbaycan, Kazakistan, Kırgızistan, Özbekistan.\n• İİT (İslam İşbirliği Teşkilatı, 1969, Cidde)\n• ASEAN, Afrika Birliği, Arap Ligi, NAFTA/USMCA."
-   },
    {
     "baslik": "BM Organları ve Karar Alma Usulleri",
     "icerik": "BİRLEŞMİŞ MİLLETLER ANA ORGANLARI:\n• GENEL KURUL: Tüm üye devletler temsil edilir, her devletin BİR oyu vardır. Kararları TAVSİYE niteliğindedir. Önemli konularda üçte iki çoğunluk aranır.\n• GÜVENLİK KONSEYİ: 15 üye — 5 DAİMİ (ABD, Rusya, Çin, Birleşik Krallık, Fransa) ve 10 geçici üye (iki yıllığına seçilir). Usul dışı kararlar için 9 olumlu oy VE hiçbir daimi üyenin VETO kullanmaması gerekir. Kararları BAĞLAYICIDIR.\n• EKONOMİK VE SOSYAL KONSEY (ECOSOC): Ekonomik, sosyal ve insani iş birliğini koordine eder.\n• ULUSLARARASI ADALET DİVANI: Merkezi Lahey'dedir; 15 yargıçtan oluşur. Yalnız DEVLETLER taraf olabilir ve yargı yetkisi devletlerin RIZASINA dayanır. Ayrıca danışma görüşü verir.\n• VESAYET KONSEYİ: Faaliyetleri askıya alınmıştır.\n• SEKRETERLİK: Genel Sekreter, Güvenlik Konseyinin tavsiyesi üzerine Genel Kurul tarafından atanır.\n\nBM ŞARTININ TEMEL İLKELERİ: Egemen eşitlik, uyuşmazlıkların barışçıl çözümü, kuvvet kullanma ve kuvvet kullanma tehdidinde bulunma YASAĞI (m.2/4), iç işlerine karışmama.\nKUVVET KULLANMA YASAĞININ İSTİSNALARI: MEŞRU MÜDAFAA (m.51) ve GÜVENLİK KONSEYİ KARARIYLA yetkilendirilen zorlama tedbirleri (VII. Bölüm).\n\n'BARIŞ İÇİN BİRLİK' KARARI (1950): Güvenlik Konseyi veto nedeniyle kilitlenirse Genel Kurulun olağanüstü toplanıp tavsiye kararı alabilmesini öngörür.\n\nKORUMA SORUMLULUĞU (R2P): Devlet kendi halkını soykırım, savaş suçları, etnik temizlik ve insanlığa karşı suçlardan koruyamıyorsa bu sorumluluğun uluslararası topluma geçtiği ilkesidir. Egemenlik anlayışını 'kontrol' değil 'sorumluluk' olarak yeniden tanımlar.\n\nBM UZMANLIK KURULUŞLARI: DSÖ, UNESCO, ILO, FAO, UNICEF, UNHCR, IMF ve Dünya Bankası."
@@ -74,41 +28,15 @@
     "icerik": "AB KURUMLARI:\n• AVRUPA KOMİSYONU: Yürütme organıdır; mevzuat TEKLİF ETME yetkisi yalnız ondadır ve antlaşmaların uygulanmasını denetler.\n• AVRUPA BİRLİĞİ KONSEYİ (Bakanlar Konseyi): Üye devletlerin ilgili bakanlarından oluşur; asıl karar alma organıdır.\n• AVRUPA PARLAMENTOSU: Üye ülke halkları tarafından doğrudan seçilir; Konsey ile birlikte yasama ve bütçe yetkisini kullanır.\n• AVRUPA BİRLİĞİ ZİRVESİ (Avrupa Konseyi): Devlet ve hükûmet başkanlarından oluşur; genel siyasi yönü belirler.\n• AVRUPA BİRLİĞİ ADALET DİVANI: AB hukukunun yorumlanması ve uygulanmasını sağlar.\n• AVRUPA MERKEZ BANKASI: Avro Alanı'nın para politikasını yürütür.\nDİKKAT: AVRUPA KONSEYİ (Council of Europe) AB'den TAMAMEN AYRI bir örgüttür; 1949'da kurulmuştur, insan hakları ve demokrasi alanında çalışır ve Avrupa İnsan Hakları Mahkemesi ona bağlıdır. Türkiye kurucu üyelerindendir.\n\nBÜTÜNLEŞME SÜRECİNİN KİLOMETRE TAŞLARI: Avrupa Kömür ve Çelik Topluluğu (1951 Paris), Roma Antlaşmaları (1957 — AET ve EURATOM), Tek Senet (1986), Maastricht (1992 — Avrupa Birliği adı ve üç sütunlu yapı), Amsterdam (1997), Nice (2001), Lizbon (2007/2009 — kurumsal reform ve tek tüzel kişilik).\n\nKOPENHAG KRİTERLERİ (1993):\n• SİYASİ: Demokrasi, hukukun üstünlüğü, insan hakları, azınlıklara saygı.\n• EKONOMİK: İşleyen bir piyasa ekonomisi ve birlik içi rekabet baskısına dayanabilme.\n• UYUM (MÜKTESEBAT): AB hukukunu üstlenebilme ve uygulayabilme kapasitesi.\n\nTÜRKİYE-AB İLİŞKİLERİNİN AŞAMALARI: Ankara Anlaşması (1963), Katma Protokol (1970), tam üyelik başvurusu (1987), GÜMRÜK BİRLİĞİ (1995 kararı, 1996 yürürlük), Helsinki Zirvesi'nde ADAY ÜLKE statüsü (1999), müzakerelerin başlaması (2005).\n\nBREXIT: Birleşik Krallık 2016 referandumunun ardından 2020'de Birlik'ten ayrılmıştır; bir üyenin ayrılması ilk kez yaşanmıştır."
    }
   ],
-  "pufNoktalar": [
-   "BM Güvenlik Konseyi kararları bağlayıcı, Genel Kurul kararları tavsiye niteliğindedir.",
-   "NATO 5. maddesi yalnızca 11 Eylül sonrası işletilmiştir.",
-   "Avrupa Konseyi (1949) ile Avrupa Birliği (1992) farklı kurumlardır.",
-   "Türkiye BM, Avrupa Konseyi ve OECD kurucu üyesidir.",
-   "KEİ'nin merkezi İstanbul'dur.",
-   "Uluslararası Adalet Divanı Lahey'dedir.",
+  "puf": [
    "Güvenlik Konseyi kararları bağlayıcı, Genel Kurul kararları tavsiye niteliğindedir.",
    "Avrupa Konseyi ile Avrupa Birliği Zirvesi tamamen farklı kurumlardır.",
    "AB'de mevzuat teklif etme yetkisi yalnız Komisyondadır.",
    "Kopenhag kriterleri siyasi, ekonomik ve müktesebat uyumu olarak üç başlıktır."
   ]
  },
- {
-  "konuId": "ui_turk_dis_politika",
-  "dersId": "uluslararasiiliskiler",
-  "baslik": "Türk Dış Politikası",
-  "ozet": "Atatürk döneminden günümüze Türk dış politikasının temel çizgileri.",
+ "ui_turk_dis_politika": {
   "bolumler": [
-   {
-    "baslik": "Atatürk Dönemi (1923-1938)",
-    "icerik": "TEMEL İLKE: 'YURTTA SULH, CİHANDA SULH'\n• Gerçekçilik, tam bağımsızlık, barışçılık, ittifaklara denge içinde yaklaşım.\n\nÇÖZÜLEN SORUNLAR:\n• Nüfus mübadelesi ve etabli sorunu (Yunanistan, 1930'da çözüldü)\n• Musul: 1926 Ankara Antlaşması ile Irak'a (İngiltere'ye) bırakıldı.\n• Yabancı okullar, Osmanlı borçları, Bozkurt-Lotus davası.\n\nİTTİFAKLAR:\n• 1932: MİLLETLER CEMİYETİ'ne üyelik (davet üzerine).\n• 1934: BALKAN ANTANTI (Türkiye, Yunanistan, Romanya, Yugoslavya).\n• 1936: MONTRÖ BOĞAZLAR SÖZLEŞMESİ — Türkiye Boğazlar üzerinde TAM EGEMENLİK kazandı.\n• 1937: SADABAT PAKTI (Türkiye, İran, Irak, Afganistan).\n• 1939: HATAY'ın anavatana katılması (referandum ve TBMM kararı)."
-   },
-   {
-    "baslik": "İkinci Dünya Savaşı ve Soğuk Savaş Dönemi",
-    "icerik": "• II. DÜNYA SAVAŞI'nda Türkiye AKTİF TARAFSIZLIK politikası izledi; Şubat 1945'te Almanya ve Japonya'ya sembolik olarak savaş ilan ederek BM'ye kurucu üye oldu.\n\nSOĞUK SAVAŞ:\n• 1947 TRUMAN DOKTRİNİ ve MARSHALL YARDIMI: Türkiye Batı Bloku'na yöneldi.\n• 1949: Avrupa Konseyi kurucu üyeliği.\n• 1950-53 KORE SAVAŞI'na asker gönderildi.\n• 1952: NATO ÜYELİĞİ.\n• 1955: Bağdat Paktı (sonra CENTO).\n• 1959: AET'ye ortaklık başvurusu; 1963 ANKARA ANLAŞMASI.\n• 1964 JOHNSON MEKTUBU: Kıbrıs krizinde ABD'nin uyarısı; Türkiye'de dış politikada ÇOK YÖNLÜLÜK arayışını hızlandırdı.\n• 1974 KIBRIS BARIŞ HAREKÂTI ve ardından ABD AMBARGOSU (1975-1978).\n• 1980'ler: Turgut Özal döneminde dışa açılma ve ekonomik diplomasi."
-   },
-   {
-    "baslik": "Soğuk Savaş Sonrası (1991-2002)",
-    "icerik": "• SSCB'nin dağılmasıyla Kafkasya ve Orta Asya'da yeni Türk cumhuriyetleriyle ilişkiler kuruldu; TİKA (1992) ve Türk Devletleri zirveleri başladı.\n• KARADENİZ EKONOMİK İŞBİRLİĞİ (1992) Türkiye öncülüğünde kuruldu, merkezi İstanbul oldu.\n• 1990-91 Körfez Savaşı ve Kuzey Irak sorunu.\n• Balkan krizleri (Bosna, Kosova) ve Türkiye'nin insani-diplomatik rolü.\n• 1996: AB ile GÜMRÜK BİRLİĞİ yürürlüğe girdi.\n• 1999: HELSİNKİ ZİRVESİ'nde Türkiye'ye AB adaylık statüsü verildi.\n• 1999: Yunanistan ile 'deprem diplomasisi' ile ilişkilerde yumuşama."
-   },
-   {
-    "baslik": "2000 Sonrası ve Güncel Dış Politika",
-    "icerik": "• 2005: AB ile katılım müzakereleri başladı.\n• 'Komşularla sıfır sorun' yaklaşımı ve çok boyutlu dış politika söylemi; ARABULUCULUK girişimleri.\n• Arap Baharı (2010 sonrası) ve Suriye iç savaşı: Sınır güvenliği, göç ve sınır ötesi operasyonlar (Fırat Kalkanı, Zeytin Dalı, Barış Pınarı).\n• Türkiye dünyada en çok mülteci barındıran ülkelerdendir; 2016 Türkiye-AB Mutabakatı.\n• DOĞU AKDENİZ: Deniz yetki alanları ve hidrokarbon; 2019 TÜRKİYE-LİBYA Deniz Yetki Alanları Mutabakat Muhtırası.\n• 2020 II. KARABAĞ SAVAŞI'nda Azerbaycan'a destek; 2021 ŞUŞA BEYANNAMESİ.\n• 2022 Rusya-Ukrayna savaşında dengeli tutum ve TAHIL KORİDORU arabuluculuğu (İstanbul).\n• Afrika açılımı, savunma sanayii ihracatı ve insani diplomasi (AFAD, Kızılay, TİKA) öne çıkan araçlardır.\n• KKTC ile ilişkiler ve Kıbrıs'ta iki devletli çözüm tezi."
-   },
    {
     "baslik": "Atatürk Dönemi Dış Politika İlkeleri ve Antlaşmaları",
     "icerik": "TEMEL İLKELER: Tam bağımsızlık, gerçekçilik, barışçılık ('Yurtta sulh, cihanda sulh'), akılcılık, karşılıklılık, ittifaklara dayalı güvenlik ve uluslararası hukuka bağlılık. Toprak genişletme hedefi güdülmemiş, statükonun korunması esas alınmıştır.\n\nLOZAN'DAN KALAN SORUNLAR VE ÇÖZÜMLERİ:\n• NÜFUS MÜBADELESİ: Türkiye ile Yunanistan arasında karşılıklı nüfus değişimi; 'yerleşik (etabli)' tanımı sorunu 1930 Ankara Antlaşması ile çözülmüştür.\n• MUSUL SORUNU: İngiltere ile yaşanan anlaşmazlık, 1926 Ankara Antlaşması ile Musul'un Irak'a bırakılmasıyla sonuçlanmıştır.\n• OSMANLI BORÇLARI: Taksim edilerek ödeme planına bağlanmıştır.\n• YABANCI OKULLAR ve azınlık hakları konuları iç mevzuatla düzenlenmiştir.\n\n1930'LARIN İTTİFAK ARAYIŞLARI:\n• MİLLETLER CEMİYETİ'NE ÜYELİK (1932): Türkiye davetle üye olmuştur.\n• BALKAN ANTANTI (1934): Türkiye, Yunanistan, Romanya ve Yugoslavya. İtalya'nın yayılmacılığına karşı statükoyu korumayı amaçlar.\n• SADABAT PAKTI (1937): Türkiye, İran, Irak ve Afganistan. Doğu sınırlarında güvenliği hedefler.\n\nMONTRÖ BOĞAZLAR SÖZLEŞMESİ (1936): Lozan'la kurulan Boğazlar Komisyonu kaldırılmış, Boğazlar üzerindeki TÜRK EGEMENLİĞİ tam olarak yeniden kurulmuş ve bölgenin silahlandırılması sağlanmıştır. Ticaret gemilerine barış zamanında serbest geçiş tanınırken savaş gemilerinin geçişi tonaj, süre ve bildirim kurallarına bağlanmıştır. Türk diplomasisinin en büyük başarılarından biri sayılır.\n\nHATAY'IN ANAVATANA KATILMASI (1939): Fransa ile yürütülen diplomatik süreç sonunda bağımsız Hatay Devleti kurulmuş, ardından Hatay Meclisinin kararıyla Türkiye'ye katılmıştır."
@@ -118,41 +46,15 @@
     "icerik": "SOĞUK SAVAŞ SONRASI YÖNELİMLER: SSCB'nin dağılmasıyla Türkiye için Kafkasya, Orta Asya ve Balkanlar yeni bir etkileşim alanı açılmıştır. Türk Devletleri Teşkilatı (eski adıyla Türk Konseyi), TİKA ve Yunus Emre Enstitüsü bu alandaki kurumsal araçlardır.\n\nENERJİ DİPLOMASİSİ: Bakü-Tiflis-Ceyhan Boru Hattı, TANAP ve TürkAkım gibi projelerle Türkiye enerji transit ülkesi konumunu güçlendirmeyi hedeflemiştir.\n\nKOMŞULARLA İLİŞKİLER: 2000'li yıllarda 'komşularla sıfır sorun' söylemi öne çıkmış; ancak 2011 sonrası Suriye iç savaşı, Arap Ayaklanmaları ve bölgesel kutuplaşma bu yaklaşımın sınırlarını göstermiştir.\n\nGÖÇ VE İNSANİ DİPLOMASİ: Suriye krizi sonrası Türkiye dünyada en çok sığınmacıya ev sahipliği yapan ülkelerden biri hâline gelmiştir. 2016 Türkiye-AB Mutabakatı düzensiz göçün yönetimi konusunda temel çerçeveyi oluşturmuştur.\n\nARABULUCULUK VE İNSANİ YARDIM: Türkiye, BM içinde arabuluculuk girişimlerinde etkin rol üstlenmiş; AFAD ve Kızılay üzerinden yürütülen insani yardım faaliyetleri dış politikanın yumuşak güç unsurları arasında sayılmıştır.\n\nSAVUNMA SANAYİİ: Yerlileşme oranındaki artış ve insansız hava araçları, dış politikada yeni bir araç ve ihracat kalemi hâline gelmiştir.\n\nÇOK TARAFLI ÜYELİKLER: NATO (1952), Avrupa Konseyi kurucu üyeliği, OECD, G20, Karadeniz Ekonomik İş Birliği (KEİ), İslam İş Birliği Teşkilatı, Türk Devletleri Teşkilatı, D-8.\n\nDIŞ POLİTİKANIN SÜREKLİLİKLERİ: Coğrafi konumdan kaynaklanan jeopolitik öncelikler, Batı ile kurumsal bağlar, Kıbrıs ve Ege'deki tezlerin devamlılığı ve bölgesel istikrar arayışı, hükûmetler değişse de süreklilik gösteren temel eksenlerdir."
    }
   ],
-  "pufNoktalar": [
-   "'Yurtta sulh, cihanda sulh' Atatürk dönemi dış politikasının temel ilkesidir.",
-   "Montrö (1936) Boğazlar üzerinde Türk egemenliğini sağladı.",
-   "Türkiye NATO'ya 1952'de, Avrupa Konseyi'ne 1949'da katıldı.",
-   "Johnson Mektubu (1964) çok yönlü dış politika arayışını hızlandırdı.",
-   "1999 Helsinki Zirvesi'nde AB adaylık statüsü verildi.",
-   "2022'de tahıl koridoru anlaşmasında Türkiye arabuluculuk yaptı.",
+  "puf": [
    "Montrö ile Boğazlar Komisyonu kaldırılıp Türk egemenliği tam olarak kuruldu.",
    "Balkan Antantı 1934, Sadabat Paktı 1937'de imzalandı.",
    "Musul sorunu 1926 Ankara Antlaşması ile çözüldü.",
    "Türkiye Avrupa Konseyi'nin kurucu üyelerinden, NATO'ya ise 1952'de katıldı."
   ]
  },
- {
-  "konuId": "ui_soguk_savas",
-  "dersId": "uluslararasiiliskiler",
-  "baslik": "Soğuk Savaş",
-  "ozet": "İki kutuplu dünya düzeni, bloklar ve Soğuk Savaş'ın sona ermesi.",
+ "ui_soguk_savas": {
   "bolumler": [
-   {
-    "baslik": "Soğuk Savaş'ın Başlangıcı",
-    "icerik": "• II. Dünya Savaşı sonrası ABD ve SSCB süper güç olarak ortaya çıktı; iki kutuplu düzen doğdu.\n• YALTA (Şubat 1945) ve POTSDAM (Temmuz 1945) konferanslarında savaş sonrası düzen şekillendi.\n• 1946 CHURCHILL'in FULTON konuşması: 'DEMİR PERDE' kavramı.\n• 1947 TRUMAN DOKTRİNİ: Yunanistan ve Türkiye'ye yardım; komünizmin YAYILMASINI ÖNLEME (containment) politikası.\n• 1948 MARSHALL PLANI: Avrupa'nın ekonomik yeniden inşası.\n• 1948-49 BERLİN ABLUKASI ve hava köprüsü.\n• 1949 NATO kuruldu; 1955 VARŞOVA PAKTI kuruldu.\n• 1949: Çin Halk Cumhuriyeti ilan edildi; SSCB atom bombası denedi."
-   },
-   {
-    "baslik": "Kriz ve Çatışmalar",
-    "icerik": "• 1950-53 KORE SAVAŞI: Türkiye asker gönderdi; NATO üyeliğinin yolu açıldı. Kore 38. paralelde bölündü.\n• 1956 SÜVEYŞ KRİZİ: Mısır'ın kanalı millileştirmesi; İngiltere-Fransa-İsrail müdahalesi ABD ve SSCB baskısıyla sonuçsuz kaldı.\n• 1961 BERLİN DUVARI inşa edildi.\n• 1962 KÜBA FÜZE KRİZİ: Soğuk Savaş'ın nükleer savaşa EN ÇOK YAKLAŞTIĞI an. SSCB Küba'daki füzeleri çekti, ABD Türkiye'deki Jüpiter füzelerini kaldırdı.\n• 1955-1975 VİETNAM SAVAŞI: ABD'nin ağır yenilgisi ve prestij kaybı.\n• 1979 SSCB'nin AFGANİSTAN İŞGALİ: Yumuşama dönemi sona erdi.\n• 1980'ler: Reagan'ın Yıldız Savaşları (SDI) projesi ve silahlanma yarışının hızlanması."
-   },
-   {
-    "baslik": "Yumuşama (Détente) ve Bağlantısızlar",
-    "icerik": "YUMUŞAMA DÖNEMİ (1962-1979):\n• Küba krizinin şokuyla başlayan karşılıklı temkinli iş birliği.\n• 1963 Kısmi Nükleer Deneme Yasağı Antlaşması.\n• 1968 NPT (Nükleer Silahların Yayılmasının Önlenmesi Antlaşması) — 1970'te yürürlüğe girdi.\n• SALT I (1972) ve SALT II (1979) stratejik silah sınırlama antlaşmaları.\n• 1975 HELSİNKİ NİHAİ SENEDİ: Sınırların dokunulmazlığı, insan hakları; AGİT sürecinin temeli.\n\nBAĞLANTISIZLAR HAREKETİ:\n• 1955 BANDUNG KONFERANSI ile fikrî temeli atıldı; 1961 BELGRAD'da resmen kuruldu.\n• Öncüler: Nehru (Hindistan), Nasır (Mısır), Tito (Yugoslavya), Sukarno (Endonezya).\n• İki bloka da mesafeli duran ülkeler; sömürgecilik karşıtlığı ve kalkınma vurgusu."
-   },
-   {
-    "baslik": "Soğuk Savaş'ın Sonu",
-    "icerik": "• 1985: Mihail GORBAÇOV iktidara geldi; GLASNOST (açıklık) ve PERESTROYKA (yeniden yapılanma) politikaları.\n• 1987 INF Antlaşması: Orta menzilli nükleer füzelerin kaldırılması.\n• 1989: Doğu Avrupa'da komünist rejimlerin çöküşü; 9 KASIM 1989 BERLİN DUVARI YIKILDI.\n• 1990: Almanya'nın yeniden birleşmesi.\n• 1991: VARŞOVA PAKTI ve COMECON dağıldı; 25 ARALIK 1991'de SSCB resmen sona erdi.\n\nSONUÇLARI:\n• İki kutuplu düzen sona erdi; ABD tek süper güç olarak kaldı (tek kutupluluk tartışmaları).\n• Yeni bağımsız devletler ortaya çıktı (Orta Asya ve Kafkasya Türk cumhuriyetleri dahil).\n• Etnik ve bölgesel çatışmalar arttı (Balkanlar, Kafkasya).\n• Küreselleşme hızlandı; AB derinleşti ve genişledi.\n• NATO'nun rolü ve doğuya genişlemesi tartışma konusu oldu."
-   },
    {
     "baslik": "Bloklaşmanın Kurumsallaşması",
     "icerik": "TRUMAN DOKTRİNİ (1947): ABD'nin Yunanistan ve Türkiye'ye askerî ve ekonomik yardım sağlamasıdır. Sovyet yayılmasını durdurmayı amaçlayan ÇEVRELEME (containment) politikasının ilk somut adımıdır.\n\nMARSHALL PLANI (1947-1948): Savaş sonrası Batı Avrupa'nın ekonomik olarak yeniden inşası için ABD yardımı. Amacı, yoksulluğun komünizme zemin hazırlamasını önlemektir. Yardımın koordinasyonu için kurulan OEEC daha sonra OECD'ye dönüşmüştür.\n\nCOMINFORM (1947) ve COMECON (1949): Sovyetler Birliği'nin ideolojik ve ekonomik karşı hamleleridir.\n\nNATO (1949): Kolektif savunma örgütü. 5. MADDE, üyelerden birine yapılan saldırının tümüne yapılmış sayılacağını öngörür. Türkiye 1952'de üye olmuştur.\nVARŞOVA PAKTI (1955): Batı Almanya'nın NATO'ya alınmasına karşılık kurulan Doğu Bloku askerî örgütü. 1991'de dağılmıştır.\n\nBERLİN SORUNU: 1948-49 Berlin Ablukası'na karşı Batı, hava köprüsüyle şehri beslemiştir. 1961'de BERLİN DUVARI örülmüş, duvar 1989'da yıkılmıştır. Almanya 1990'da birleşmiştir.\n\nÇEKİRDEK KAVRAMLAR:\n• DEMİR PERDE: Churchill'in 1946 Fulton konuşmasıyla yaygınlaşan, Avrupa'nın ikiye bölünmüşlüğünü anlatan kavram.\n• DEHŞET DENGESİ: Karşılıklı kesin imha yeteneğinin (MAD) doğrudan savaşı caydırması.\n• VEKÂLET SAVAŞLARI: Süper güçlerin doğrudan çatışmak yerine üçüncü ülkelerdeki taraflar üzerinden mücadele etmesi (Kore, Vietnam, Afganistan).\n• DOMİNO TEORİSİ: Bir ülkenin komünizme geçmesinin komşularını da sürükleyeceği varsayımı."
@@ -162,41 +64,15 @@
     "icerik": "KORE SAVAŞI (1950-1953): BM kararıyla oluşturulan kuvvetler içinde Türkiye de asker göndermiş, bu katkı NATO üyeliğinin önünü açmıştır. Savaş ateşkesle sonuçlanmış, yarımada bölünmüş kalmıştır.\n\nSÜVEYŞ KRİZİ (1956): Mısır'ın kanalı millileştirmesi üzerine İngiltere, Fransa ve İsrail müdahale etmiş; ABD ve SSCB'nin ortak baskısıyla geri çekilmişlerdir. Kriz, eski sömürge güçlerinin gerilediğini ve iki süper gücün belirleyiciliğini göstermiştir.\n\nKÜBA FÜZE KRİZİ (1962): Soğuk Savaş'ın nükleer savaşa EN ÇOK YAKLAŞTIĞI an. SSCB'nin Küba'ya füze yerleştirmesiyle başlayan kriz, füzelerin geri çekilmesi karşılığında ABD'nin Küba'ya saldırmama ve Türkiye'deki Jüpiter füzelerini kaldırma taahhüdüyle çözülmüştür. Kriz sonrası Moskova-Washington arasında 'kırmızı hat' kurulmuştur.\n\nYUMUŞAMA (DÉTENTE) DÖNEMİ: 1960'ların sonundan 1979'a uzanan görece gerilimsiz dönem. Ürünleri: SALT I ve SALT II silah sınırlandırma görüşmeleri, Nükleer Silahların Yayılmasının Önlenmesi Antlaşması (NPT) ve 1975 HELSİNKİ NİHAİ SENEDİ (AGİK/AGİT süreci — sınırların dokunulmazlığı ve insan hakları boyutu).\nYumuşama, SSCB'nin 1979'da Afganistan'ı işgaliyle sona ermiştir.\n\nBAĞLANTISIZLAR HAREKETİ: 1955 Bandung Konferansı'yla temeli atılmış, 1961 Belgrad Zirvesi'nde kurumsallaşmıştır. İki bloktan da bağımsız kalmayı, sömürgeciliğe karşı çıkmayı ve kalkınma sorunlarını öne çıkarmayı hedefler.\n\nSOĞUK SAVAŞ'IN SONU: Gorbaçov'un GLASNOST (açıklık) ve PERESTROYKA (yeniden yapılanma) politikaları, 1989'da Doğu Avrupa'daki rejimlerin çöküşü, Berlin Duvarı'nın yıkılması, Varşova Paktı'nın dağılması ve 1991'de SSCB'nin resmen dağılmasıyla sona ermiştir.\n\nSONRASINA DAİR TARTIŞMA: Fukuyama 'Tarihin Sonu' teziyle liberal demokrasinin nihai zaferini ilan ederken, Huntington 'Medeniyetler Çatışması' teziyle yeni ayrışmanın kültürel kimlikler ekseninde olacağını öne sürmüştür."
    }
   ],
-  "pufNoktalar": [
-   "Truman Doktrini 1947'de Türkiye ve Yunanistan'a yardımı içeriyordu.",
-   "Küba Füze Krizi (1962) nükleer savaşa en çok yaklaşılan andır.",
-   "Helsinki Nihai Senedi 1975'te imzalandı, AGİT sürecinin temelidir.",
-   "Bağlantısızlar Bandung (1955) ile fikren, Belgrad (1961) ile resmen doğdu.",
-   "Berlin Duvarı 1989'da yıkıldı, SSCB 1991'de dağıldı.",
-   "Gorbaçov'un politikaları glasnost ve perestroykadır.",
+  "puf": [
    "Truman Doktrini çevreleme politikasının ilk somut adımıdır.",
    "Küba Füze Krizi Soğuk Savaş'ın nükleer savaşa en çok yaklaştığı andır.",
    "Yumuşama dönemi SSCB'nin Afganistan'ı işgaliyle sona erdi.",
    "Helsinki Nihai Senedi AGİK/AGİT sürecini başlattı."
   ]
  },
- {
-  "konuId": "ui_uluslararasi_hukuk",
-  "dersId": "uluslararasiiliskiler",
-  "baslik": "Uluslararası Hukuk",
-  "ozet": "Uluslararası hukukun kaynakları, devlet, antlaşmalar ve deniz hukuku.",
+ "ui_uluslararasi_hukuk": {
   "bolumler": [
-   {
-    "baslik": "Kaynaklar ve Temel İlkeler",
-    "icerik": "ULUSLARARASI HUKUKUN KAYNAKLARI (UAD Statüsü md.38):\n1) ANTLAŞMALAR (asli kaynak)\n2) ULUSLARARASI ÖRF VE ADET (teamül) — sürekli uygulama + hukuki zorunluluk inancı (opinio juris)\n3) HUKUKUN GENEL İLKELERİ\n4) YARGI KARARLARI ve DOKTRİN (yardımcı kaynak)\n\nTEMEL İLKELER:\n• DEVLET EGEMENLİĞİ ve egemen eşitlik\n• İÇ İŞLERİNE KARIŞMAMA\n• Kuvvet kullanma yasağı (BM Antlaşması md.2/4) — istisnalar: MEŞRU MÜDAFAA (md.51) ve Güvenlik Konseyi kararı\n• PACTA SUNT SERVANDA: Antlaşmalara uyma yükümlülüğü\n• JUS COGENS: Hiçbir antlaşmayla değiştirilemeyen üstün normlar (soykırım, kölelik, işkence yasağı)\n• Uyuşmazlıkların barışçıl çözümü"
-   },
-   {
-    "baslik": "Devlet ve Tanıma",
-    "icerik": "DEVLETİN UNSURLARI (Montevideo Sözleşmesi, 1933):\n1) Daimî nüfus\n2) Belirli ülke (toprak)\n3) Hükümet (etkin otorite)\n4) Diğer devletlerle ilişki kurma ehliyeti (egemenlik)\n\nTANIMA:\n• DE JURE (hukuki) tanıma: Tam ve kesin.\n• DE FACTO (fiilî) tanıma: Geçici ve sınırlı.\n• KURUCU teori ↔ AÇIKLAYICI teori: Tanımanın devlet olmayı kurup kurmadığı tartışması.\n\nDEVLETİN YETKİLERİ: Ülkesel (mülkilik), kişisel (şahsilik), koruma ve evrensellik ilkeleri.\n\nDİPLOMATİK İLİŞKİLER:\n• 1961 VİYANA DİPLOMATİK İLİŞKİLER SÖZLEŞMESİ: Diplomatik dokunulmazlık ve ayrıcalıklar.\n• PERSONA NON GRATA: İstenmeyen kişi ilan edilme.\n• Diplomatik misyon binaları ve arşivleri DOKUNULMAZDIR.\n• 1963 Viyana Konsolosluk İlişkileri Sözleşmesi."
-   },
-   {
-    "baslik": "Antlaşmalar Hukuku",
-    "icerik": "1969 VİYANA ANTLAŞMALAR HUKUKU SÖZLEŞMESİ esas alınır.\n\nANTLAŞMA SÜRECİ: Görüşme → Metnin kabulü → İmza → ONAY (tasdik) → Onay belgelerinin teatisi → Yürürlük → Tescil (BM'ye).\n\n• ÇEKİNCE (ihtirazi kayıt): Devletin bazı hükümleri kendisi bakımından hariç tutması. Antlaşmanın konu ve amacına aykırı olamaz.\n• YORUM: İyi niyet, olağan anlam, konu ve amaç ışığında.\n• SONA ERME: Süre bitimi, tarafların rızası, ihlal, imkânsızlık, KÖKLÜ DEĞİŞİKLİK (rebus sic stantibus).\n\nTÜRK HUKUKUNDA (Anayasa md.90):\n• Milletlerarası antlaşmaları onaylamak TBMM'nin uygun bulma kanunu ile Cumhurbaşkanına aittir.\n• Usulüne göre yürürlüğe konulmuş antlaşmalar KANUN HÜKMÜNDEDİR; Anayasaya aykırılığı iddiasıyla AYM'ye BAŞVURULAMAZ.\n• TEMEL HAK VE ÖZGÜRLÜKLERE ilişkin antlaşmalarla kanunlar çelişirse ANTLAŞMA hükümleri esas alınır."
-   },
-   {
-    "baslik": "Deniz Hukuku ve İnsancıl Hukuk",
-    "icerik": "1982 BM DENİZ HUKUKU SÖZLEŞMESİ (UNCLOS) — 1994'te yürürlüğe girdi. Türkiye TARAF DEĞİLDİR.\n\nDENİZ ALANLARI:\n• İÇ SULAR: Esas hattın kara tarafı; tam egemenlik.\n• KARASULARI: En fazla 12 deniz mili; zararsız geçiş hakkı vardır.\n• BİTİŞİK BÖLGE: 24 mile kadar; gümrük, maliye, göç, sağlık denetimi.\n• MÜNHASIR EKONOMİK BÖLGE (MEB): 200 deniz miline kadar; kaynaklar üzerinde egemen haklar.\n• KITA SAHANLIĞI: Doğal uzantı; deniz yatağı ve toprak altı kaynakları.\n• AÇIK DENİZLER: Serbestlik ilkesi (seyrüsefer, uçuş, balıkçılık, kablo döşeme).\n\nULUSLARARASI İNSANCIL HUKUK:\n• 1949 CENEVRE SÖZLEŞMELERİ (4 adet) ve Ek Protokoller: Yaralılar, savaş esirleri, siviller.\n• Ayrım gözetme, orantılılık ve zorunluluk ilkeleri.\n• ULUSLARARASI CEZA MAHKEMESİ (ICC): 1998 ROMA STATÜSÜ, Lahey. Soykırım, insanlığa karşı suçlar, savaş suçları, saldırı suçu.\n• KORUMA SORUMLULUĞU (R2P): 2005 BM Dünya Zirvesi'nde kabul edildi."
-   },
    {
     "baslik": "Uluslararası Sorumluluk ve Yargı Yolları",
     "icerik": "DEVLETİN ULUSLARARASI SORUMLULUĞU: Bir devletin uluslararası yükümlülüğünü ihlal eden ve kendisine ATFEDİLEBİLEN bir eylemi, uluslararası sorumluluğunu doğurur.\nİKİ UNSUR: (1) Eylemin devlete atfedilebilir olması, (2) Uluslararası bir yükümlülüğün ihlali.\nSORUMLULUĞUN SONUÇLARI: İhlalin sona erdirilmesi, tekrarlanmayacağına dair güvence ve TAM ONARIM — eski hâle iade (restitutio in integrum), tazminat veya tatmin (özür, ihlalin tespiti) biçiminde.\n\nSORUMLULUĞU KALDIRAN HÂLLER: Rıza, meşru müdafaa, karşı önlemler, mücbir sebep, zaruret hâli ve ıstırar hâli.\n\nUYUŞMAZLIKLARIN BARIŞÇIL ÇÖZÜM YOLLARI:\n• SİYASİ YOLLAR: Görüşme (müzakere), dostça girişim (iyi niyet görevi), arabuluculuk, soruşturma ve uzlaştırma. Sonuçları bağlayıcı DEĞİLDİR.\n• HUKUKİ YOLLAR: Tahkim (hakemlik) ve yargısal çözüm. Kararları BAĞLAYICIDIR.\nTAHKİM ile YARGI FARKI: Tahkimde taraflar hakemleri ve uygulanacak usulü kendileri belirler; yargıda mahkeme ve usul önceden bellidir.\n\nULUSLARARASI CEZA MAHKEMESİ (UCM/ICC): Roma Statüsü ile kurulmuştur; merkezi Lahey'dedir. DEVLETLERİ değil BİREYLERİ yargılar. Yetki alanı: Soykırım, insanlığa karşı suçlar, savaş suçları ve saldırı suçu.\nTAMAMLAYICILIK İLKESİ: UCM ancak ilgili devlet yargılama yapmak istemiyor ya da yapamıyorsa devreye girer.\nULUSLARARASI ADALET DİVANI'ndan farkı: UAD devletler arası uyuşmazlıklara bakar, UCM bireysel cezai sorumluluğu ele alır.\n\nAVRUPA İNSAN HAKLARI MAHKEMESİ: Avrupa Konseyi bünyesindedir (AB'ye ait DEĞİLDİR). Bireysel başvuruyu, iç hukuk yolları tüketildikten sonra kabul eder; kararları taraf devletler için bağlayıcıdır."
@@ -206,41 +82,15 @@
     "icerik": "1982 BM DENİZ HUKUKU SÖZLEŞMESİ'NE GÖRE YETKİ ALANLARI (esas hattan itibaren):\n• İÇ SULAR: Esas hattın kara tarafında kalan sular. Tam egemenlik vardır; zararsız geçiş hakkı YOKTUR.\n• KARASULARI: En çok 12 DENİZ MİLİ. Devletin egemenliği hava sahası ve deniz yatağını da kapsar; ancak yabancı gemilerin ZARARSIZ GEÇİŞ hakkı bulunur.\n• BİTİŞİK BÖLGE: 24 deniz miline kadar. Gümrük, maliye, sağlık ve göç mevzuatının uygulanması bakımından sınırlı yetki verir.\n• MÜNHASIR EKONOMİK BÖLGE (MEB): 200 deniz miline kadar. Canlı ve cansız doğal kaynakların araştırılması ve işletilmesinde egemen haklar tanır; ancak seyrüsefer ve uçuş serbestisi korunur.\n• KITA SAHANLIĞI: Kıyı devletinin kara ülkesinin denizin altındaki doğal uzantısıdır. 200 deniz miline kadar, jeolojik koşullar varsa daha ileriye uzanabilir. Deniz yatağı ve toprak altı kaynakları üzerinde egemen hak verir ve İLAN EDİLMESİNE GEREK YOKTUR — kendiliğinden vardır. (MEB ise ilan edilmelidir.)\n• AÇIK DENİZLER: Hiçbir devletin egemenliğine tabi değildir; seyrüsefer, uçuş, balıkçılık ve bilimsel araştırma serbestisi geçerlidir.\n\nADALARIN DURUMU: Sözleşmeye göre insan yaşamına elverişli olmayan kayalıklar MEB ve kıta sahanlığına sahip olamaz. Bu hüküm Ege ve Doğu Akdeniz tartışmalarının merkezindedir.\n\nHAKKANİYET İLKESİ: Sınırlandırmada tek bir yönteme (örneğin ortay hat) mekanik olarak bağlı kalınmaz; kıyı uzunlukları, coğrafi özellikler ve orantılılık gözetilerek HAKKANİYETE UYGUN sonuç aranır. Türkiye'nin Ege ve Doğu Akdeniz'deki temel tezi budur.\n\nHAVA SAHASI: Devletin kara ülkesi ve karasuları üzerindeki hava sahası üzerinde TAM ve MÜNHASIR egemenliği vardır; zararsız geçiş hakkı hava sahasında geçerli DEĞİLDİR. Uzay ise hiçbir devletin egemenliğine tabi olamaz (1967 Uzay Antlaşması)."
    }
   ],
-  "pufNoktalar": [
-   "Jus cogens hiçbir antlaşmayla değiştirilemeyen üstün normlardır.",
-   "Karasuları en fazla 12 mil, MEB 200 mile kadardır.",
-   "Türkiye UNCLOS'a taraf değildir.",
-   "Md.90'a göre temel haklara ilişkin antlaşma kanunla çelişirse antlaşma uygulanır.",
-   "ICC 1998 Roma Statüsü ile kuruldu, merkezi Lahey'dir.",
-   "Kuvvet kullanma yasağının istisnaları meşru müdafaa ve GK kararıdır.",
+  "puf": [
    "Kıta sahanlığı ilan gerektirmez, MEB ise ilan edilmelidir.",
    "Karasuları en çok 12, bitişik bölge 24, MEB 200 deniz milidir.",
    "UCM devletleri değil bireyleri yargılar ve tamamlayıcılık ilkesiyle çalışır.",
    "Hava sahasında zararsız geçiş hakkı yoktur; egemenlik tam ve münhasırdır."
   ]
  },
- {
-  "konuId": "ui_kavramlar",
-  "dersId": "uluslararasiiliskiler",
-  "baslik": "Dış Politika Kavramları",
-  "ozet": "Güç, diplomasi, caydırıcılık ve dış politika analizi kavramları.",
+ "ui_kavramlar": {
   "bolumler": [
-   {
-    "baslik": "Güç ve Türleri",
-    "icerik": "• GÜÇ: Bir aktörün başkalarını istediği yönde davranmaya yöneltebilme kapasitesi.\n• SERT GÜÇ (Hard Power): Askerî ve ekonomik zorlama, yaptırım, tehdit.\n• YUMUŞAK GÜÇ (Soft Power — Joseph Nye): Kültür, değerler ve politikaların çekiciliğiyle etkileme.\n• AKILLI GÜÇ (Smart Power): Sert ve yumuşak gücün dengeli kullanımı.\n• KEskin GÜÇ (Sharp Power): Dezenformasyon ve manipülasyonla etkileme.\n\nGÜÇ UNSURLARI: Coğrafya, nüfus, doğal kaynaklar, ekonomik kapasite, askerî güç, teknoloji, yönetim kalitesi, ulusal moral, diplomasi kalitesi.\n\nJEOPOLİTİK KURAMLAR: Mackinder (Kalpgâh/Heartland), Mahan (deniz hâkimiyeti), Spykman (Kenar Kuşak/Rimland)."
-   },
-   {
-    "baslik": "Diplomasi ve Dış Politika Araçları",
-    "icerik": "DİPLOMASİ TÜRLERİ: İkili, çok taraflı, zirve diplomasisi, kamu diplomasisi, ekonomik diplomasi, insani diplomasi, gizli diplomasi.\n\nDIŞ POLİTİKA ARAÇLARI:\n• DİPLOMATİK: Görüşme, arabuluculuk, protesto, nota, elçi çekme, diplomatik ilişkileri kesme.\n• EKONOMİK: Yardım, kredi, ticaret anlaşmaları, AMBARGO, YAPTIRIM, boykot.\n• PROPAGANDA ve kamu diplomasisi.\n• ASKERÎ: Caydırıcılık, güç gösterisi, ittifak, müdahale, savaş.\n\nBARIŞÇIL ÇÖZÜM YOLLARI:\n• Görüşme (müzakere), İYİ NİYET GİRİŞİMİ, ARABULUCULUK, UZLAŞTIRMA, soruşturma\n• HAKEMLİK (tahkim) ve YARGI (UAD)\n\nARABULUCULUK ile HAKEMLİK FARKI: Arabuluculukta üçüncü taraf öneri sunar (bağlayıcı değil); hakemlikte verilen karar BAĞLAYICIDIR."
-   },
-   {
-    "baslik": "Güvenlik Kavramları",
-    "icerik": "• CAYDIRICILIK (Deterrence): Saldırının maliyetini kabul edilemez kılarak saldırıyı önleme.\n  - Doğrudan / genişletilmiş caydırıcılık\n  - Cezalandırma yoluyla / engelleme yoluyla caydırıcılık\n• KARŞILIKLI GARANTİLİ YIKIM (MAD): Her iki tarafın da yok olacağı bilgisiyle nükleer savaşın önlenmesi.\n• GÜVENLİK İKİLEMİ: Savunma amaçlı silahlanmanın karşı tarafça tehdit algılanması.\n• GÜÇ DENGESİ ↔ HEGEMONYA\n• DENGELEME (balancing) ↔ BANDWAGONING (güçlünün yanında yer alma)\n• KOLEKTİF GÜVENLİK: Sisteme dahil tüm devletlerin saldırgana karşı birlikte hareket etmesi (BM modeli).\n• KOLEKTİF SAVUNMA: Belirli bir ittifakın dış saldırıya karşı birlikte savunması (NATO modeli).\n• GÜVENLİKLEŞTİRME (Kopenhag Okulu): Bir konunun söylemle güvenlik sorunu hâline getirilmesi."
-   },
-   {
-    "baslik": "Dış Politika Analizi",
-    "icerik": "KARAR VERME MODELLERİ (Graham Allison):\n• RASYONEL AKTÖR MODELİ: Devlet tek ve rasyonel aktör gibi davranır.\n• ÖRGÜTSEL SÜREÇ MODELİ: Kararlar bürokratik rutinlerin ürünüdür.\n• BÜROKRATİK SİYASET MODELİ: Kararlar kurumlar arası pazarlığın sonucudur.\n\nDİĞER KAVRAMLAR:\n• GRUP DÜŞÜNCESİ (Groupthink): Uyum baskısıyla eleştirel düşüncenin körelmesi.\n• İMAJ ve ALGI: Yanlış algılama (misperception) krizleri derinleştirebilir.\n• İKİ DÜZEYLİ OYUN (Putnam): Liderler hem uluslararası hem iç politika masasında pazarlık eder.\n• DİVERSİYONİST SAVAŞ TEZİ: İç sorunları örtmek için dış çatışma üretme.\n• ULUSAL ÇIKAR: Hayati, önemli ve ikincil çıkarlar biçiminde derecelendirilir.\n• STRATEJİK DERİNLİK: Türkiye'nin tarihî ve coğrafi konumundan kaynaklanan çok yönlü dış politika vizyonu (Ahmet Davutoğlu)."
-   },
    {
     "baslik": "Diplomatik Temsil ve Dokunulmazlıklar",
     "icerik": "DİPLOMATİK TEMSİLCİLİKLER: Büyükelçilikler karşılıklı rıza (agrément) ile kurulur. Konsolosluklar ticari, hukuki ve vatandaşlık işlerini yürütür.\n\nPERSONA NON GRATA: Kabul eden devlet, bir diplomatı gerekçe göstermeksizin 'istenmeyen kişi' ilan edebilir; bu durumda gönderen devlet o kişiyi geri çağırmak zorundadır.\n\nDİPLOMATİK DOKUNULMAZLIK (1961 Viyana Sözleşmesi): Diplomatik ajan, kabul eden devletin ceza yargısından tam bağışıktır. Temsilcilik binası, arşivi ve haberleşmesi dokunulmazdır; kabul eden devletin görevlileri izinsiz giremez. Dokunulmazlık gönderen devlet tarafından KALDIRILABİLİR.\nKONSOLOSLUK dokunulmazlığı daha sınırlıdır; yalnız görevle ilgili işlemleri kapsar.\n\nGÜÇ TÜRLERİ (Joseph Nye):\n• SERT GÜÇ: Askerî ve ekonomik zorlama, yaptırım ve teşvik.\n• YUMUŞAK GÜÇ: Kültür, değerler, eğitim ve dış politikanın çekiciliği yoluyla istediğini başkalarına isteterek elde etme.\n• AKILLI GÜÇ: İkisinin duruma göre dengeli birleşimi.\n\nDIŞ POLİTİKA ARAÇLARI: Diplomasi, propaganda ve kamu diplomasisi, ekonomik araçlar (yardım, ambargo, yaptırım, gümrük), kültürel araçlar, istihbarat ve son çare olarak askerî güç.\n\nYAPTIRIM TÜRLERİ: Kapsamlı ambargolar sivil halkı orantısız etkilediği için eleştirilmiş; yerini kişi ve kurum bazlı AKILLI (HEDEFLİ) YAPTIRIMLAR almıştır.\n\nZİRVE DİPLOMASİSİ: Devlet ve hükûmet başkanları düzeyinde doğrudan görüşme. Hızlı sonuç verir ama hazırlıksız yürütüldüğünde başarısızlık maliyeti yüksektir.\nÇOK TARAFLI DİPLOMASİ: Uluslararası örgütler ve konferanslar üzerinden yürütülür; küçük devletlere de ses verme olanağı tanır.\nGİZLİ – AÇIK DİPLOMASİ: Wilson'un ilkelerinden itibaren açık diplomasi savunulsa da müzakerelerin hazırlık aşaması pratikte gizli yürütülmektedir."
@@ -250,41 +100,15 @@
     "icerik": "GELENEKSEL (DAR) GÜVENLİK ANLAYIŞI: Referans nesne DEVLETTİR; tehdit askerîdir ve çözüm askerî güçtür.\n\nGENİŞLETİLMİŞ GÜVENLİK: Kopenhag Okulu güvenliği beş sektöre ayırır — ASKERÎ, SİYASİ, EKONOMİK, TOPLUMSAL ve ÇEVRESEL güvenlik.\n\nGÜVENLİKLEŞTİRME (securitization): Bir konunun söylem yoluyla 'varoluşsal tehdit' olarak sunulup olağan siyasetin dışına çıkarılması ve olağanüstü tedbirlerin meşrulaştırılmasıdır. Göç, salgın ve enerji gibi konular bu yolla güvenlik meselesine dönüştürülebilir.\n\nİNSANİ GÜVENLİK: Referans nesne devlet değil BİREYDİR. İki boyutu vardır — 'korkudan azade olma' (şiddet ve çatışmadan korunma) ve 'yoksunluktan azade olma' (açlık, hastalık ve yoksulluktan korunma).\n\nKOLEKTİF GÜVENLİK ile İTTİFAK FARKI:\n• KOLEKTİF GÜVENLİK: Sistem İÇİNDEKİ herhangi bir üyenin saldırganlığına karşı tüm üyelerin birleşmesi (BM modeli). Tehdit içeriden gelebilir.\n• İTTİFAK: Sistem DIŞINDAKİ ortak bir tehdide karşı kurulur (NATO'nun kuruluş mantığı).\n• GÜVENLİK TOPLULUĞU: Üyeleri arasında savaş ihtimalinin fiilen ortadan kalktığı bölgesel yapı.\n\nCAYDIRICILIK: Saldırının maliyetini kazancından yüksek göstererek eylemi önlemektir. İnandırıcı yetenek ve kararlılık algısı gerektirir.\n\nASİMETRİK TEHDİTLER: Terörizm, siber saldırılar, hibrit savaş, dezenformasyon, organize suç ve deniz haydutluğu. Devlet dışı aktörlerin küçük kaynaklarla büyük etki yaratabilmesi temel özelliktir.\n\nSİLAHSIZLANMA VE KONTROL REJİMLERİ: NPT (nükleer yayılmanın önlenmesi), Kimyasal Silahlar Sözleşmesi, Biyolojik Silahlar Sözleşmesi, Ottawa (mayın) ve Oslo (misket bombaları) sözleşmeleri, Nükleer Denemelerin Kapsamlı Yasaklanması Antlaşması."
    }
   ],
-  "pufNoktalar": [
-   "Yumuşak güç zorlama değil çekicilikle etkilemedir (Nye).",
-   "Kolektif güvenlik BM, kolektif savunma NATO modelidir.",
-   "Arabuluculuk bağlayıcı değildir, hakemlik kararı bağlayıcıdır.",
-   "Allison'ın üç modeli: rasyonel aktör, örgütsel süreç, bürokratik siyaset.",
-   "Mackinder Kalpgâh, Spykman Kenar Kuşak teorisiyle anılır.",
-   "MAD (karşılıklı garantili yıkım) nükleer caydırıcılığın temelidir.",
+  "puf": [
    "Persona non grata ilanında gerekçe gösterme zorunluluğu yoktur.",
    "Kolektif güvenlik içeriden, ittifak dışarıdan gelen tehdide karşıdır.",
    "İnsani güvenlikte referans nesne devlet değil bireydir.",
    "Yumuşak güç çekicilikle, sert güç zorlamayla sonuç alır."
   ]
  },
- {
-  "konuId": "ui_guncel_sorunlar",
-  "dersId": "uluslararasiiliskiler",
-  "baslik": "Güncel Uluslararası Sorunlar",
-  "ozet": "Küresel krizler, göç, iklim ve güvenlik sorunları.",
+ "ui_guncel_sorunlar": {
   "bolumler": [
-   {
-    "baslik": "Silahlı Çatışmalar ve Krizler",
-    "icerik": "• RUSYA-UKRAYNA SAVAŞI (Şubat 2022–): Avrupa'da II. Dünya Savaşı'ndan bu yana en büyük çatışma. Enerji ve gıda krizini tetikledi; NATO'nun genişlemesine (Finlandiya, İsveç) yol açtı. Türkiye tarafsız-dengeli tutum izleyip TAHIL KORİDORU arabuluculuğu yaptı.\n• SURİYE İÇ SAVAŞI (2011–): Kitlesel göç, terör örgütleri, bölgesel dengeler.\n• İSRAİL-FİLİSTİN SORUNU: İki devletli çözüm tartışmaları, Gazze krizleri, uluslararası hukuk tartışmaları.\n• AFGANİSTAN: 2021'de ABD'nin çekilmesi ve Taliban yönetimi.\n• AFRİKA'DA darbeler kuşağı (Sahel bölgesi), Sudan iç çatışması.\n• KAFKASYA: Karabağ sorununun 2020 ve 2023'teki gelişmelerle yeni aşamaya girmesi."
-   },
-   {
-    "baslik": "Göç ve İnsani Krizler",
-    "icerik": "• Dünyada zorla yerinden edilmiş kişi sayısı 100 milyonu aşmıştır (UNHCR verileri).\n• MÜLTECİ ile GÖÇMEN farkı: Mülteci zulüm veya çatışma nedeniyle ülkesini terk etmek ZORUNDA kalandır; göçmen ise ekonomik vb. nedenlerle isteğe bağlı hareket eder.\n• 1951 CENEVRE SÖZLEŞMESİ ve 1967 Protokolü mülteci hukukunun temelidir.\n  ⚠ Türkiye COĞRAFİ ÇEKİNCE koymuştur; Avrupa dışından gelenlere 'şartlı mülteci' veya 'geçici koruma' statüsü uygulanır.\n• NON-REFOULEMENT (geri göndermeme) ilkesi: Hayatı tehlikede olan kişi tehlikeli ülkeye geri gönderilemez.\n• Türkiye dünyada en çok mülteci barındıran ülkelerdendir.\n• 2016 TÜRKİYE-AB MUTABAKATI: Düzensiz göçün önlenmesi ve iş birliği.\n• İnsani yardım kuruluşları: UNHCR, IOM, Kızılay, AFAD, WFP."
-   },
-   {
-    "baslik": "Çevre, İklim ve Kaynak Sorunları",
-    "icerik": "• İKLİM DEĞİŞİKLİĞİ: Sera gazı salımı, küresel ısınma, deniz seviyesi yükselmesi, aşırı hava olayları.\n• Kilometre taşları: 1992 Rio Zirvesi ve BMİDÇS, 1997 KYOTO PROTOKOLÜ, 2015 PARİS ANLAŞMASI (küresel ısınmayı 1,5-2 °C ile sınırlama hedefi). Türkiye Paris Anlaşması'nı 2021'de onayladı ve 2053 NET SIFIR emisyon hedefi açıkladı.\n• COP zirveleri her yıl toplanır.\n• AB YEŞİL MUTABAKATI ve SINIRDA KARBON DÜZENLEMESİ ihracatçı ülkeleri doğrudan etkiler.\n• SU GÜVENLİĞİ: Sınır aşan sular (Fırat-Dicle, Nil, Ürdün) çatışma potansiyeli taşır.\n• GIDA GÜVENLİĞİ: Savaş, kuraklık ve tedarik zinciri kırılmaları.\n• BİYOÇEŞİTLİLİK KAYBI ve plastik kirliliği.\n• SÜRDÜRÜLEBİLİR KALKINMA AMAÇLARI (SKA): 17 hedef, 2030 gündemi."
-   },
-   {
-    "baslik": "Yeni Güvenlik Tehditleri",
-    "icerik": "• TERÖRİZM ve radikalleşme; yabancı terörist savaşçılar sorunu.\n• SİBER GÜVENLİK: Kritik altyapılara saldırılar, fidye yazılımları, siber casusluk.\n• DEZENFORMASYON ve bilgi savaşları; derin sahte (deepfake) içerikler.\n• KİTLE İMHA SİLAHLARI: Nükleer yayılma (İran, Kuzey Kore programları), kimyasal silah kullanımı iddiaları.\n• SALGIN HASTALIKLAR: COVID-19 sonrası küresel sağlık yönetişimi ve aşı eşitsizliği tartışmaları.\n• ENERJİ GÜVENLİĞİ: Boru hattı politikaları, LNG, arz çeşitlendirmesi. Türkiye'nin ENERJİ KORİDORU ve TİCARET MERKEZİ olma hedefi (TANAP, TürkAkım).\n• YAPAY ZEKÂ ve otonom silah sistemlerinin etik-hukuki boyutu.\n• ÇOK KUTUPLULUK TARTIŞMALARI: ABD-Çin rekabeti, BRICS'in genişlemesi, küresel yönetişim kurumlarının reform ihtiyacı (BM Güvenlik Konseyi reformu)."
-   },
    {
     "baslik": "Küresel Yönetişim ve Uluslararası Rejimler",
     "icerik": "ULUSLARARASI REJİM: Belirli bir konu alanında aktörlerin beklentilerinin üzerinde birleştiği ilkeler, normlar, kurallar ve karar alma usulleri bütünüdür (iklim rejimi, ticaret rejimi, nükleer silahsızlanma rejimi).\n\nKÜRESEL YÖNETİŞİM: Merkezî bir dünya hükûmeti olmaksızın devletler, uluslararası örgütler, sivil toplum kuruluşları ve şirketlerin ortak sorunları yönetme çabasıdır.\n\nKÜRESEL KAMUSAL MALLAR: İklim istikrarı, salgın hastalıkların kontrolü, finansal istikrar ve deniz yollarının güvenliği. Hiçbir devlet tek başına sağlayamaz; BEDAVACILIK sorunu nedeniyle yetersiz üretilir.\n\nSALGINLAR VE SAĞLIK DİPLOMASİSİ: COVID-19 salgını, sağlık güvenliğinin ulusal sınırları aşan bir mesele olduğunu ve tedarik zincirlerinin kırılganlığını göstermiştir. Aşı dağıtımındaki eşitsizlik küresel dayanışma tartışmasını derinleştirmiştir.\n\nDEZENFORMASYON VE BİLGİ GÜVENLİĞİ: Sosyal medya üzerinden yürütülen etki operasyonları, seçim güvenliği ve toplumsal kutuplaşma açısından yeni bir tehdit alanı oluşturmuştur.\n\nYAPAY ZEKÂ VE OTONOM SİLAHLAR: Karar verme yetkisinin insandan alınması, uluslararası insancıl hukuk açısından sorumluluk sorunları doğurmaktadır; bağlayıcı bir düzenleme arayışı sürmektedir.\n\nTİCARET VE TEDARİK ZİNCİRİ GÜVENLİĞİ: Yarı iletkenler, kritik mineraller ve enerji kaynaklarında bağımlılık, ekonomik karşılıklı bağımlılığın bir baskı aracına dönüşebildiğini göstermiştir.\n\nÇOK TARAFLILIĞIN KRİZİ: Büyük güç rekabetinin artması, uluslararası örgütlerin karar alma kapasitesini zayıflatmakta; BM Güvenlik Konseyi'nin veto nedeniyle kilitlenmesi reform tartışmalarını canlı tutmaktadır."
@@ -294,41 +118,15 @@
     "icerik": "İKLİM REJİMİNİN AŞAMALARI:\n• 1992 RİO ZİRVESİ: BM İklim Değişikliği Çerçeve Sözleşmesi kabul edildi. 'ORTAK FAKAT FARKLILAŞTIRILMIŞ SORUMLULUKLAR' ilkesi benimsendi — tüm ülkeler sorumludur ama tarihsel katkıları ve kapasiteleri farklıdır.\n• 1997 KYOTO PROTOKOLÜ: Yalnız gelişmiş ülkelere (Ek-1) sayısal azaltım yükümlülüğü getirdi. Esneklik mekanizmaları: Emisyon ticareti, ortak yürütme ve temiz kalkınma mekanizması.\n• 2015 PARİS ANLAŞMASI: Tüm ülkeleri kapsar. Küresel sıcaklık artışının sanayi öncesine göre 2 °C'nin ALTINDA tutulması, tercihen 1,5 °C ile sınırlanması hedeflenir. Ülkeler kendi katkılarını (ulusal katkı beyanları) belirler; yaklaşım yukarıdan dayatma değil ULUSAL BELİRLEME esasına dayanır.\n\nTEMEL KAVRAMLAR:\n• AZALTIM (mitigation): Sera gazı salımının düşürülmesi.\n• UYUM (adaptation): İklim değişikliğinin etkilerine karşı dayanıklılık geliştirme.\n• KARBON NÖTRLÜK / NET SIFIR: Salınan ve tutulan sera gazının dengelenmesi.\n• KARBON AYAK İZİ, KARBON PİYASALARI ve SINIRDA KARBON DÜZENLEMESİ.\n• KAYIP VE ZARAR (loss and damage): İklim etkilerine en çok maruz kalan ülkelerin telafisi için oluşturulan fon mekanizması.\n\nSÜRDÜRÜLEBİLİR KALKINMA: 'Bugünün ihtiyaçlarını, gelecek nesillerin kendi ihtiyaçlarını karşılama olanağını tehlikeye atmadan karşılamak' (Brundtland Raporu, 1987).\n2015'te kabul edilen 2030 Gündemi kapsamında 17 SÜRDÜRÜLEBİLİR KALKINMA AMACI belirlenmiştir: Yoksulluğa son, açlığa son, sağlık, nitelikli eğitim, toplumsal cinsiyet eşitliği, temiz su, erişilebilir enerji, insana yakışır iş, sanayi ve inovasyon, eşitsizliklerin azaltılması, sürdürülebilir şehirler, sorumlu tüketim, iklim eylemi, sudaki ve karasal yaşam, barış ve adalet, amaçlar için ortaklıklar.\n\nSU VE GIDA GÜVENLİĞİ: Sınır aşan sular, kuraklık ve gıda fiyatlarındaki dalgalanma, çatışma riskini artıran yapısal etkenler arasında sayılmaktadır."
    }
   ],
-  "pufNoktalar": [
-   "Türkiye 1951 Cenevre Sözleşmesi'ne coğrafi çekince koymuştur.",
-   "Non-refoulement ilkesi mülteci hukukunun temel güvencesidir.",
-   "Paris Anlaşması 2015'te kabul edildi; Türkiye 2021'de onayladı, 2053 net sıfır hedefi vardır.",
-   "Tahıl koridoru anlaşması 2022'de İstanbul'da imzalandı.",
-   "Rusya-Ukrayna savaşı Finlandiya ve İsveç'in NATO üyeliğine yol açtı.",
-   "AB Sınırda Karbon Düzenlemesi ihracatçı ülkeleri doğrudan etkiler.",
+  "puf": [
    "Kyoto yalnız gelişmiş ülkelere, Paris tüm ülkelere yükümlülük getirir.",
    "Paris hedefi 2 °C'nin altı, tercihen 1,5 °C ile sınırlamadır.",
    "Ortak fakat farklılaştırılmış sorumluluklar ilkesi Rio'da benimsendi.",
    "Sürdürülebilir Kalkınma Amaçları 17 başlıktan oluşur."
   ]
  },
- {
-  "konuId": "ui_bolgesel",
-  "dersId": "uluslararasiiliskiler",
-  "baslik": "Bölgesel Sorunlar",
-  "ozet": "Türkiye'yi ilgilendiren bölgesel anlaşmazlıklar ve çözüm süreçleri.",
+ "ui_bolgesel": {
   "bolumler": [
-   {
-    "baslik": "Kıbrıs Sorunu",
-    "icerik": "• 1878'de Osmanlı'dan İngiltere'ye yönetimi devredildi; 1925'te İngiliz sömürgesi oldu.\n• 1960 ZÜRİH VE LONDRA ANTLAŞMALARI ile Kıbrıs Cumhuriyeti kuruldu; Türkiye, Yunanistan ve İngiltere GARANTÖR devletlerdir.\n• 1963 'Kanlı Noel' olayları ve ortaklık devletinin fiilen sona ermesi.\n• 20 TEMMUZ 1974 KIBRIS BARIŞ HAREKÂTI: Garantörlük antlaşmasına dayanılarak gerçekleştirildi.\n• 1983: KUZEY KIBRIS TÜRK CUMHURİYETİ ilan edildi (yalnızca Türkiye tanır).\n• 2004 ANNAN PLANI: Referandumda Kıbrıs Türkleri EVET (%65), Kıbrıs Rumları HAYIR (%76) dedi; plan yürürlüğe girmedi. Buna rağmen Güney Kıbrıs AB'ye üye oldu.\n• Günümüzde Türkiye ve KKTC İKİ DEVLETLİ ÇÖZÜM tezini savunmaktadır.\n• Doğu Akdeniz'deki hidrokarbon arama faaliyetleri sorunu yeni bir boyuta taşımıştır."
-   },
-   {
-    "baslik": "Ege ve Doğu Akdeniz Sorunları",
-    "icerik": "TÜRKİYE-YUNANİSTAN EGE SORUNLARI:\n• KARASULARI genişliği (Türkiye 6 milin 12 mile çıkarılmasını CASUS BELLI sayar).\n• KITA SAHANLIĞI sınırlandırması.\n• HAVA SAHASI uyuşmazlığı (Yunanistan 10 mil hava sahası iddiası — karasuları 6 mil olmasına rağmen).\n• FIR HATTI sorumluluğu.\n• Adaların SİLAHSIZLANDIRILMIŞ statüsü (Lozan 1923 ve Paris 1947 antlaşmaları).\n• EGEMENLİĞİ TARTIŞMALI ADACIKLAR (Kardak krizi, 1996).\n\nDOĞU AKDENİZ:\n• Münhasır ekonomik bölge ve kıta sahanlığı sınırlandırması.\n• Hidrokarbon arama ve sondaj faaliyetleri.\n• 2019 TÜRKİYE-LİBYA DENİZ YETKİ ALANLARI MUTABAKAT MUHTIRASI.\n• Türkiye UNCLOS'a taraf değildir; hakkaniyet ilkesini savunur.\n• MAVİ VATAN kavramı Türkiye'nin deniz yetki alanlarına ilişkin yaklaşımını ifade eder."
-   },
-   {
-    "baslik": "Orta Doğu ve Kafkasya",
-    "icerik": "ORTA DOĞU:\n• SURİYE: İç savaş, sınır güvenliği, terör örgütleriyle mücadele, sınır ötesi operasyonlar, göç.\n• IRAK: Toprak bütünlüğü, Musul-Kerkük, PKK varlığı, su sorunu.\n• İSRAİL-FİLİSTİN: İki devletli çözüm, Kudüs'ün statüsü, Gazze.\n• İRAN: Nükleer program, bölgesel rekabet, enerji ilişkileri.\n• SINIR AŞAN SULAR: Fırat ve Dicle üzerinde Türkiye-Suriye-Irak arasında paylaşım tartışmaları.\n\nKAFKASYA:\n• DAĞLIK KARABAĞ: 1991-94 I. Karabağ Savaşı'nda Ermenistan işgali; 2020 II. KARABAĞ SAVAŞI'nda Azerbaycan toprakların büyük bölümünü geri aldı; 2023'te bölge tamamen Azerbaycan denetimine geçti.\n• 2021 ŞUŞA BEYANNAMESİ: Türkiye-Azerbaycan müttefiklik ilişkileri.\n• ZENGEZUR KORİDORU projesi.\n• Türkiye-Ermenistan normalleşme görüşmeleri sürmektedir."
-   },
-   {
-    "baslik": "Balkanlar, Orta Asya ve Diğer Alanlar",
-    "icerik": "BALKANLAR:\n• 1990'lar: Yugoslavya'nın dağılması, Bosna Savaşı (Srebrenitsa soykırımı), Kosova müdahalesi.\n• Türkiye'nin bölgeye yönelik istikrar, yatırım ve kültürel diplomasi politikaları.\n• Bosna-Hersek'in karmaşık yönetim yapısı ve AB süreci.\n\nORTA ASYA ve TÜRK DÜNYASI:\n• SSCB sonrası bağımsızlaşan Türk cumhuriyetleriyle ilişkiler.\n• TÜRK DEVLETLERİ TEŞKİLATI (eski adıyla Türk Konseyi): Türkiye, Azerbaycan, Kazakistan, Kırgızistan, Özbekistan; Türkmenistan ve Macaristan gözlemci.\n• TİKA, Yunus Emre Enstitüsü, Türk Akademisi gibi kurumlar aracılığıyla iş birliği.\n\nDİĞER:\n• Karadeniz güvenliği ve MONTRÖ SÖZLEŞMESİ'nin uygulanması.\n• Afrika açılımı: Diplomatik temsilcilik ağının genişletilmesi, ticaret ve savunma iş birliği.\n• Kutuplar ve uzay gibi yeni alanlarda uluslararası rejim tartışmaları."
-   },
    {
     "baslik": "Kıbrıs Sorununun Hukuki Çerçevesi",
     "icerik": "KURULUŞ ANTLAŞMALARI (1959-1960):\n• ZÜRİH VE LONDRA ANTLAŞMALARI ile Kıbrıs Cumhuriyeti kurulmuştur.\n• GARANTİ ANTLAŞMASI: Türkiye, Yunanistan ve Birleşik Krallık garantör devletlerdir. Antlaşma, adanın bağımsızlığını, toprak bütünlüğünü ve anayasal düzenini güvence altına alır; ihlal hâlinde garantörlere ortak, mümkün olmazsa TEK BAŞINA hareket etme hakkı tanır. Türkiye'nin 1974'teki müdahalesinin hukuki dayanağı bu maddedir.\n• İTTİFAK ANTLAŞMASI: Türk ve Yunan askerî birliklerinin adada bulunmasını düzenler.\n• Anayasa, iki toplumun ORTAKLIĞINA dayalı bir yapı öngörmüştür; Cumhurbaşkanı Rum, Yardımcısı Türk toplumundandır ve karşılıklı veto hakları vardır.\n\nSÜRECİN KIRILMA NOKTALARI: 1963 sonunda anayasal düzenin çöküşü ve toplumlar arası çatışmalar, 1964'te BM Barış Gücü'nün (UNFICYP) konuşlanması, 1974'te Yunanistan destekli darbe ve ardından Türkiye'nin müdahalesi.\n1983'te Kuzey Kıbrıs Türk Cumhuriyeti ilan edilmiş, Türkiye tarafından tanınmıştır.\n\nÇÖZÜM GİRİŞİMLERİ: BM gözetiminde yürütülen görüşmeler uzun süre İKİ BÖLGELİ, İKİ TOPLUMLU FEDERASYON parametresi üzerinden yürütülmüştür. 2004 ANNAN PLANI referandumda Kıbrıs Türk tarafınca kabul, Rum tarafınca reddedilmiştir. 2017 Crans-Montana görüşmeleri sonuçsuz kalmıştır.\n\nAB BOYUTU: Kıbrıs Cumhuriyeti 2004'te AB üyesi olmuş; AB müktesebatının uygulanması ada üzerindeki fiilî bölünme nedeniyle kuzeyde askıya alınmıştır. Bu durum Türkiye-AB ilişkilerinde de ayrı bir başlık oluşturmaktadır.\n\nDOĞAL GAZ BOYUTU: Ada çevresindeki hidrokarbon arama faaliyetleri, Kıbrıs Türklerinin doğal kaynaklar üzerindeki eşit hakları tartışmasını gündeme getirmiş ve sorunu Doğu Akdeniz denklemine bağlamıştır."
@@ -338,17 +136,11 @@
     "icerik": "DOĞU AKDENİZ'DE TEMEL TARTIŞMA: Deniz yetki alanlarının sınırlandırılmasıdır.\n• TÜRKİYE'NİN TEZİ: Sınırlandırma HAKKANİYET ilkesine göre yapılmalı; kıyı uzunlukları ve coğrafi özellikler gözetilmelidir. Adaların, özellikle anakaraya yakın ve küçük olanların, tam etki doğurması kabul edilmemektedir. Türkiye 1982 BM Deniz Hukuku Sözleşmesi'ne taraf DEĞİLDİR.\n• KARŞI TEZ: Ortay hat ve adaların tam deniz yetki alanı üretmesi savunulmaktadır.\nTürkiye 2019'da Libya ile deniz yetki alanları mutabakatı imzalamış; bölgede Doğu Akdeniz Gaz Forumu gibi Türkiye'nin dışında kaldığı oluşumlar kurulmuştur.\n\nEGE SORUNLARI (başlıklar):\n• Karasularının genişliği (Türkiye 6 mil ötesine genişletmeyi 'casus belli' saymaktadır)\n• Kıta sahanlığı sınırlandırması\n• Hava sahası genişliği uyuşmazlığı (10 mil iddiası)\n• Adaların silahsızlandırılmış statüsü (Lozan ve Paris antlaşmalarından doğan yükümlülükler)\n• Egemenliği antlaşmalarla devredilmemiş ada, adacık ve kayalıklar\n• FIR hattı ve arama-kurtarma sorumluluk alanları\n\nKAFKASYA:\n• DAĞLIK KARABAĞ: Azerbaycan ile Ermenistan arasındaki uzun süreli ihtilaf, 2020 ve sonrasındaki gelişmelerle Azerbaycan'ın toprak bütünlüğünü sağlaması yönünde dönüşmüştür. Bölgesel ulaşım koridorları yeni gündem maddesidir.\n• GÜRCİSTAN'da Abhazya ve Güney Osetya, DONMUŞ İHTİLAF niteliğindeki ayrılıkçı bölgelerdir.\n\nORTA DOĞU: Suriye iç savaşı, Irak'ın istikrarsızlığı, İsrail-Filistin sorunu, İran'ın nükleer programı ve bölgesel güç rekabeti temel başlıklardır. Suriye'deki savaş, Türkiye açısından sınır güvenliği ve göç boyutlarıyla doğrudan sonuçlar doğurmuştur.\n\nDONMUŞ İHTİLAF KAVRAMI: Aktif çatışmanın durduğu ama siyasi çözümün sağlanamadığı, statükonun belirsiz biçimde sürdüğü ihtilaflardır (Kıbrıs, Abhazya, Transdinyester). Her an yeniden alevlenme potansiyeli taşırlar."
    }
   ],
-  "pufNoktalar": [
-   "KKTC 1983'te ilan edildi ve yalnızca Türkiye tarafından tanınır.",
-   "Annan Planı'nı Kıbrıs Türkleri kabul, Rumlar reddetti (2004).",
-   "Türkiye karasularının 12 mile çıkarılmasını casus belli saymaktadır.",
-   "2019 Türkiye-Libya mutabakatı deniz yetki alanlarını düzenler.",
-   "2020 II. Karabağ Savaşı Azerbaycan'ın zaferiyle sonuçlandı.",
-   "Türk Devletleri Teşkilatı beş üye devletten oluşur.",
+  "puf": [
    "Kıbrıs'ta garantör devletler Türkiye, Yunanistan ve Birleşik Krallık'tır.",
    "Türkiye 1982 BM Deniz Hukuku Sözleşmesi'ne taraf değildir.",
    "Türkiye'nin Ege ve Doğu Akdeniz tezi hakkaniyet ilkesine dayanır.",
    "Donmuş ihtilafta çatışma durmuş ama siyasi çözüm sağlanamamıştır."
   ]
  }
-]
+}

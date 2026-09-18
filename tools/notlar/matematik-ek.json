@@ -1,26 +1,6 @@
-[
- {
-  "konuId": "sayilar",
-  "dersId": "matematik",
-  "baslik": "Sayılar",
-  "ozet": "Doğal, tam, rasyonel sayılar; asal sayılar, tek-çift kuralları ve basamak analizi.",
+{
+ "sayilar": {
   "bolumler": [
-   {
-    "baslik": "Sayı Kümeleri",
-    "icerik": "• DOĞAL SAYILAR (N): 0, 1, 2, 3, …\n• SAYMA SAYILARI (N⁺): 1, 2, 3, …\n• TAM SAYILAR (Z): …, -2, -1, 0, 1, 2, …\n• RASYONEL SAYILAR (Q): a/b biçiminde yazılabilen (b≠0). Devirli ondalıklar dahil.\n• İRRASYONEL: √2, π gibi a/b yazılamayanlar.\n• GERÇEK (REEL) SAYILAR (R): Rasyonel + irrasyonel.\n\nKAPSAMA: N ⊂ Z ⊂ Q ⊂ R"
-   },
-   {
-    "baslik": "Tek-Çift Kuralları",
-    "icerik": "TOPLAMA/ÇIKARMA:\n• Ç + Ç = Ç      • T + T = Ç      • T + Ç = T\n\nÇARPMA:\n• Ç × Ç = Ç      • T × Ç = Ç      • T × T = T\n(Çarpımın tek olması için TÜM çarpanlar tek olmalıdır.)\n\nÖNEMLİ:\n• Ardışık iki sayının çarpımı daima ÇİFTTİR.\n• n tek ise n² tektir; n çift ise n² çifttir.\n• Tek sayıların toplamı: tek sayıda terim varsa TEK, çift sayıda terim varsa ÇİFT."
-   },
-   {
-    "baslik": "Asal Sayılar ve Çarpanlara Ayırma",
-    "icerik": "• ASAL SAYI: 1 ve kendisinden başka böleni olmayan, 1'den büyük sayı. 2, 3, 5, 7, 11, 13, 17, 19, 23…\n• 2 EN KÜÇÜK ve TEK ÇİFT asal sayıdır.\n• 1 asal DEĞİLDİR.\n• ARALARINDA ASAL: EBOB'u 1 olan sayılar (ör. 8 ve 15).\n\nASAL ÇARPANLARA AYIRMA: 360 = 2³ · 3² · 5\n\nPOZİTİF BÖLEN SAYISI:\nN = aˣ · bʸ · cᶻ ise bölen sayısı = (x+1)(y+1)(z+1)\nÖrnek: 360 = 2³·3²·5¹ → (3+1)(2+1)(1+1) = 4·3·2 = 24 bölen\n\n• ASAL BÖLEN SAYISI: farklı asal çarpan adedi (360 için 3: 2,3,5)\n• TEK BÖLEN SAYISI: 2'nin üssü hariç hesaplanır\n• BÖLENLERİN TOPLAMI = (2⁰+2¹+2²+2³)(3⁰+3¹+3²)(5⁰+5¹)"
-   },
-   {
-    "baslik": "Basamak Kavramı",
-    "icerik": "• İki basamaklı sayı: 10a + b  (a onlar, b birler basamağı, a≠0)\n• Üç basamaklı sayı: 100a + 10b + c\n\nBASAMAK SAYISI:\n• 1 basamaklı: 1–9 → 9 tane\n• 2 basamaklı: 10–99 → 90 tane\n• 3 basamaklı: 100–999 → 900 tane\n\nRAKAMLARI TOPLAMI: ab sayısının rakamları toplamı a+b\n\nSAYI TERSİ: ab sayısının tersi ba'dır.\n• ab − ba = 9(a−b)\n• ab + ba = 11(a+b)\n\nARDIŞIK SAYILAR:\n• n ardışık sayının toplamı = n × (ilk + son)/2\n• 1'den n'e kadar: n(n+1)/2\n• 1'den n'e kadar tek sayılar toplamı = n²\n• 1'den n'e kadar çift sayılar toplamı = n(n+1)"
-   },
    {
     "baslik": "Ardışık Sayılar ve Toplam Formülleri",
     "icerik": "ARDIŞIK SAYI DİZİLERİ:\n• Ardışık n doğal sayı: n, n+1, n+2, …\n• Ardışık tek sayılar: 2n+1, 2n+3, … (aralarındaki fark 2)\n• Ardışık çift sayılar: 2n, 2n+2, … (aralarındaki fark 2)\n\nTOPLAM FORMÜLLERİ:\n• 1 + 2 + 3 + … + n = n(n+1)/2\n• 1 + 3 + 5 + … (ilk n tek sayı) = n²\n• 2 + 4 + 6 + … (ilk n çift sayı) = n(n+1)\n• 1² + 2² + … + n² = n(n+1)(2n+1)/6\n\nGENEL DİZİ TOPLAMI:\nToplam = (İlk terim + Son terim) × Terim sayısı / 2\nTerim sayısı = (Son − İlk)/Artış + 1\n\nÖRNEK: 7 + 10 + 13 + … + 40 toplamı?\nTerim sayısı = (40−7)/3 + 1 = 12\nToplam = (7+40)·12/2 = 47·6 = 282\n\nORTANCA KISAYOLU: Ardışık sayılarda aritmetik ortalama = ortadaki terim = (ilk+son)/2. Terim sayısı tek ise tam ortadaki sayıdır."
@@ -34,41 +14,15 @@
     "icerik": "ÇEVİRİ TABLOSU (sözü denkleme dönüştürme):\n• 'Bir sayının 3 fazlası'        → x + 3\n• 'Bir sayının 3 katının 2 eksiği' → 3x − 2\n• 'Bir sayının yarısının 4 katı'  → 4·(x/2) = 2x\n• 'İki sayının farkı 5'           → x − y = 5\n• 'Sayının karesi ile kendisinin toplamı' → x² + x\n\nARDIŞIK SAYI KURULUMU:\nÜç ardışık sayının toplamı 48 ise → (x−1) + x + (x+1) = 3x = 48 → x = 16.\nORTADAKİNE x DEMEK işlemi kısaltır; ardışık sayı toplamı daima terim sayısı × ortanca'dır.\n\nİKİ BİLİNMEYENLİ KURULUM:\nToplamı 30, farkı 8 olan iki sayı: büyük = (30+8)/2 = 19, küçük = (30−8)/2 = 11.\nKISAYOL: Büyük = (Toplam+Fark)/2, Küçük = (Toplam−Fark)/2\n\nTUZAK: 'Bir sayının 2 fazlasının yarısı' ile 'bir sayının yarısının 2 fazlası' aynı DEĞİLDİR: (x+2)/2 ≠ x/2 + 2. Parantezi cümledeki sıraya göre kur."
    }
   ],
-  "pufNoktalar": [
-   "2 tek olan tek asal sayıdır; 1 asal değildir.",
-   "Bölen sayısı formülü: üsleri 1 artırıp çarp.",
-   "1'den n'e kadar toplam = n(n+1)/2 (Gauss).",
-   "İlk n tek sayının toplamı n² eder.",
-   "ab − ba = 9(a−b) formülü basamak sorularında kısayoldur.",
-   "Ardışık iki sayının çarpımı her zaman çifttir.",
+  "puf": [
    "Ardışık sayılarda ortalama = ortanca; toplam = ortanca × terim sayısı.",
    "Parantezsiz −2⁴ ile (−2)⁴ farklıdır: ilki −16, ikincisi 16.",
    "Toplamı ve farkı bilinen iki sayı: büyük = (T+F)/2, küçük = (T−F)/2.",
    "Birler basamağı sorularında üsler 4'lük periyotla tekrar eder."
   ]
  },
- {
-  "konuId": "bolunebilme",
-  "dersId": "matematik",
-  "baslik": "Bölünebilme",
-  "ozet": "Bölünebilme kuralları, kalan bulma ve bölme algoritması.",
+ "bolunebilme": {
   "bolumler": [
-   {
-    "baslik": "Temel Bölünebilme Kuralları",
-    "icerik": "• 2 ile: Son rakam ÇİFT (0,2,4,6,8)\n• 3 ile: RAKAMLAR TOPLAMI 3'ün katı\n• 4 ile: SON İKİ basamak 4'ün katı (veya 00)\n• 5 ile: Son rakam 0 veya 5\n• 6 ile: Hem 2 hem 3 ile bölünüyorsa\n• 8 ile: SON ÜÇ basamak 8'in katı\n• 9 ile: RAKAMLAR TOPLAMI 9'un katı\n• 10 ile: Son rakam 0\n• 11 ile: Rakamların BİRER ATLAYARAK farkı 0 veya 11'in katı\n  (sağdan başlayarak +,−,+,− …)\n• 25 ile: Son iki basamak 00, 25, 50, 75"
-   },
-   {
-    "baslik": "Bölme Algoritması",
-    "icerik": "A = B · C + K   (A: bölünen, B: bölen, C: bölüm, K: kalan)\n\nKURAL: 0 ≤ K < B  (kalan daima bölenden KÜÇÜKTÜR)\n\n• TAM BÖLÜNME: K = 0\n• EN BÜYÜK KALAN = B − 1\n\nÖRNEK: Bir sayı 7'ye bölündüğünde kalan en fazla 6 olabilir.\n\nBÖLÜNEN EN AZ/EN ÇOK:\nBölüm ve kalan verildiğinde A = B·C + K formülüyle hesaplanır."
-   },
-   {
-    "baslik": "Kalan Bulma Teknikleri",
-    "icerik": "• TOPLAMIN KALANI = kalanların toplamının o sayıya bölümünden kalan\n• ÇARPIMIN KALANI = kalanların çarpımının kalanı\n\nÖRNEK: 17 ve 23 sayılarının 5'e bölümünden kalanlar 2 ve 3.\n17·23 çarpımının 5'e bölümünden kalan = (2·3) mod 5 = 6 mod 5 = 1\n\nÜSLÜ SAYILARDA KALAN (DEVİRLİLİK):\n3¹=3, 3²=9, 3³=27, 3⁴=81 → son rakamlar 3,9,7,1 ve tekrar eder (4'lük devir)\nÜssü 4'e böl, kalana göre son rakamı bul.\n\n• 2'nin kuvvetlerinde son rakam devri: 2,4,8,6 (4'lük)\n• 7'nin kuvvetlerinde: 7,9,3,1 (4'lük)"
-   },
-   {
-    "baslik": "Faktöriyel ve Bölünebilme",
-    "icerik": "n! = 1·2·3·…·n\n• 0! = 1 (tanım gereği)\n\nn! İÇİNDEKİ ASAL ÇARPAN SAYISI (Legendre):\np asalının n! içindeki kuvveti = [n/p] + [n/p²] + [n/p³] + …\n(köşeli parantez: tam kısım)\n\nÖRNEK: 20! içinde kaç tane 5 çarpanı var?\n[20/5] + [20/25] = 4 + 0 = 4\n\nSONDAKİ SIFIR SAYISI: 10 = 2·5 olduğundan, sondaki sıfır sayısı 5'lerin sayısına eşittir (2 daima fazladır).\n20! sonunda 4 sıfır vardır."
-   },
    {
     "baslik": "7, 11 ve 13 ile Bölünebilme",
     "icerik": "7 İLE BÖLÜNEBİLME:\nSağdan başlayarak basamakları 1, 3, 2, −1, −3, −2 katsayılarıyla çarpıp topla; sonuç 7'nin katıysa sayı 7'ye bölünür.\nPRATİK YÖNTEM: Birler basamağını at, kalan sayıdan atılanın 2 katını çıkar; sonuç 7'nin katıysa bölünür.\nÖRNEK: 343 → 34 − (3·2) = 28 → 28 = 7·4 ✓\n\n11 İLE BÖLÜNEBİLME:\nBasamaklar sağdan sola +, −, +, − diye toplanır; sonuç 0 veya 11'in katı ise bölünür.\nÖRNEK: 8195 → 5 − 9 + 1 − 8 = −11 ✓\n\n13 İLE BÖLÜNEBİLME:\nBirler basamağını at, kalan sayıya atılanın 4 katını EKLE.\nÖRNEK: 611 → 61 + (1·4) = 65 = 13·5 ✓\n\nHATIRLATMA: 7 · 11 · 13 = 1001. Bu yüzden abcabc biçimindeki altı basamaklı sayılar 7, 11 ve 13'ün hepsine bölünür (abcabc = abc · 1001)."
@@ -82,41 +36,15 @@
     "icerik": "TEMEL MANTIK: a sayısı m'ye bölündüğünde k kalıyorsa a = m·t + k yazılır (0 ≤ k < m).\n\nTOPLAM/FARK KALANI: Sayıların kalanları toplanır, sonuç bölenden büyükse tekrar bölünür.\nÖrnek: 5'e bölündüğünde 3 ve 4 kalan iki sayının toplamının kalanı → 3+4 = 7 → 7'nin 5'e bölümünden kalan 2.\n\nÇARPIM KALANI: Kalanlar çarpılır, sonra bölenle tekrar bölünür.\nÖrnek: 7'ye bölündüğünde 5 ve 6 kalanlı iki sayının çarpımı → 5·6 = 30 → 30/7 kalan 2.\n\nÜSLÜ SAYILARIN KALANI (periyot yakalama):\n3^n sayısının 5'e bölümünden kalanlar: 3, 4, 2, 1, 3, 4, 2, 1 … (4'lük periyot)\n3^50 için 50/4 = 12 kalan 2 → periyodun 2. terimi → kalan 4.\n\nORTAK KALAN KISAYOLU: Bir sayı 4, 6 ve 9'a bölündüğünde hep 3 kalıyorsa, sayı EKOK(4,6,9) + 3 = 36k + 3 biçimindedir.\n\nBÖLEN AYNI EKSİKLE KALIYORSA: 5'e bölününce 4, 7'ye bölününce 6 kalıyorsa (hepsi 1 eksik) sayı EKOK(5,7)·k − 1 = 35k − 1 biçimindedir."
    }
   ],
-  "pufNoktalar": [
-   "11 kuralı: sağdan başlayıp birer atlayarak topla, farkı al.",
-   "Kalan daima bölenden küçüktür; en büyük kalan = bölen − 1.",
-   "Üslü sayılarda son rakam 4'lük devirlerle tekrar eder.",
-   "n! sonundaki sıfır sayısı = içindeki 5 çarpanı sayısı.",
-   "6 ile bölünme = 2 VE 3 ile bölünme.",
-   "4 ile bölünmede son iki, 8 ile bölünmede son üç basamağa bakılır.",
+  "puf": [
    "7 · 11 · 13 = 1001; abcabc biçimli sayılar üçüne de bölünür.",
    "Tam kare sayıların pozitif bölen sayısı daima tektir.",
    "Tek bölen sayısı için 2'nin üssünü yok say, kalan üsleri 1 artırıp çarp.",
    "Bölenler aynı kalanı veriyorsa sayı EKOK·k + kalan biçimindedir."
   ]
  },
- {
-  "konuId": "ebob_ekok",
-  "dersId": "matematik",
-  "baslik": "EBOB - EKOK",
-  "ozet": "En büyük ortak bölen, en küçük ortak kat ve uygulama problemleri.",
+ "ebob_ekok": {
   "bolumler": [
-   {
-    "baslik": "Tanımlar ve Bulma",
-    "icerik": "• EBOB (En Büyük Ortak Bölen / OBEB): İki veya daha fazla sayıyı tam bölen en büyük sayı.\n• EKOK (En Küçük Ortak Kat / OKEK): Sayıların tümüne bölünebilen en küçük pozitif sayı.\n\nASAL ÇARPANLARLA BULMA:\n• EBOB: ORTAK asal çarpanların EN KÜÇÜK üsleri çarpılır.\n• EKOK: TÜM asal çarpanların EN BÜYÜK üsleri çarpılır.\n\nÖRNEK: a = 2³·3·5² , b = 2²·3²·7\n• EBOB(a,b) = 2² · 3 = 12\n• EKOK(a,b) = 2³ · 3² · 5² · 7 = 12600"
-   },
-   {
-    "baslik": "Temel Özellikler",
-    "icerik": "• EBOB(a,b) × EKOK(a,b) = a × b   ← EN ÇOK SORULAN FORMÜL\n\n• Aralarında asal sayılarda: EBOB = 1, EKOK = a·b\n• a, b'yi tam bölüyorsa: EBOB(a,b) = a, EKOK(a,b) = b\n• EBOB daima sayılardan KÜÇÜK veya EŞİT, EKOK daima BÜYÜK veya EŞİTTİR.\n• EBOB, EKOK'u tam böler.\n\nÖRNEK SORU: İki sayının EBOB'u 15, EKOK'u 315. Sayıların farkı en az kaçtır?\nÇÖZÜM: Sayılar 15a ve 15b (a,b aralarında asal). EKOK = 15ab = 315 → ab = 21\n(a,b) = (1,21) → sayılar 15, 315 → fark 300\n(a,b) = (3,7) → sayılar 45, 105 → fark 60  ← EN AZ"
-   },
-   {
-    "baslik": "EBOB Problemleri (Bölme mantığı)",
-    "icerik": "EBOB kullanılan tipik ifadeler:\n• 'En büyük eşit parçalara ayırma'\n• 'Artansız/tam olarak paylaştırma'\n• 'En az sayıda kutu/paket'\n• 'En büyük kare/küp yapma'\n\nÖRNEK: 48 ve 72 cm'lik iki çubuk eşit ve en uzun parçalara bölünecek.\nEBOB(48,72) = 24 cm. Parça sayısı = 48/24 + 72/24 = 2 + 3 = 5\n\nKALANLI DURUM:\n'a sayısını böldüğünde k kalıyorsa' → (a−k) üzerinden EBOB alınır."
-   },
-   {
-    "baslik": "EKOK Problemleri (Kat mantığı)",
-    "icerik": "EKOK kullanılan tipik ifadeler:\n• 'Aynı anda tekrar buluşma/başlama'\n• 'En az sayıda … gerekir'\n• 'Tam sayı olacak şekilde en küçük'\n\nÖRNEK: Üç zil 12, 18 ve 24 dakikada bir çalıyor. Kaç dakika sonra birlikte çalar?\nEKOK(12,18,24) = 72 dakika\n\nDAİRESEL PİST: A 4 dk, B 6 dk'da tur atıyor. İlk kez aynı noktada buluşma: EKOK(4,6) = 12 dk\n\nKALANLI EKOK:\n'x sayısı 4, 6, 8'e bölündüğünde 3 kalıyor' → x = EKOK(4,6,8)·k + 3 = 24k + 3"
-   },
    {
     "baslik": "Asal Çarpan Yöntemi ve Öklid Algoritması",
     "icerik": "ASAL ÇARPAN YÖNTEMİ:\n• EBOB: ORTAK asal çarpanların EN KÜÇÜK üsleri çarpılır.\n• EKOK: TÜM asal çarpanların EN BÜYÜK üsleri çarpılır.\n\nÖRNEK: 72 = 2³·3²,  120 = 2³·3·5\n• EBOB = 2³·3 = 24\n• EKOK = 2³·3²·5 = 360\n• Kontrol: 24 · 360 = 8640 = 72 · 120 ✓\n\nÖKLİD ALGORİTMASI (büyük sayılar için):\nBüyüğü küçüğe böl, kalanı al; kalan 0 olana kadar tekrarla. Son sıfırdan önceki bölen EBOB'tur.\nÖRNEK: EBOB(1071, 462)\n1071 = 462·2 + 147\n462 = 147·3 + 21\n147 = 21·7 + 0 → EBOB = 21\n\nKESİRLERDE:\n• EBOB(a/b, c/d) = EBOB(a,c) / EKOK(b,d)\n• EKOK(a/b, c/d) = EKOK(a,c) / EBOB(b,d)"
@@ -130,41 +58,15 @@
     "icerik": "ARALARINDA ASAL: EBOB'u 1 olan sayılar. Ardışık iki tam sayı DAİMA aralarında asaldır.\n\nTEMEL ÖZELLİKLER:\n• EBOB(a,b) · EKOK(a,b) = a · b  (yalnız İKİ sayı için geçerlidir, üç sayıda çalışmaz!)\n• a | b ise EBOB(a,b) = a ve EKOK(a,b) = b\n• Aralarında asal iki sayıda EBOB = 1, EKOK = a·b\n• EBOB(a,b) her zaman a ve b'yi böler; EKOK(a,b) her zaman a ve b'ye bölünür.\n• EBOB ≤ min(a,b) ≤ maks(a,b) ≤ EKOK\n\nORANLI KURULUM:\nEBOB'u d olan iki sayı a = d·m, b = d·n biçiminde yazılır (m ve n aralarında asal).\nÖRNEK: EBOB'u 6, EKOK'u 90 olan iki sayı?\n6·m · 6·n = 6 · 90 → m·n = 15 → (m,n) = (1,15) veya (3,5)\nSayılar: (6, 90) veya (18, 30).\n\nİKİ SAYI VERİLDİĞİNDE: EKOK daima EBOB'un KATIDIR. 'EBOB'u 8, EKOK'u 60' gibi bir soru tutarsızdır (60, 8'in katı değil)."
    }
   ],
-  "pufNoktalar": [
-   "EBOB × EKOK = a × b (en çok çıkan formül).",
-   "EBOB'da ortak çarpanların küçük üssü, EKOK'ta tüm çarpanların büyük üssü.",
-   "'Eşit parçalara bölme' → EBOB; 'aynı anda buluşma' → EKOK.",
-   "Aralarında asalsa EBOB=1, EKOK=çarpımları.",
-   "Kalanlı EBOB'da kalan çıkarılır, kalanlı EKOK'ta eklenir.",
-   "İki sayı 15a ve 15b ise (a,b aralarında asal) EBOB=15.",
+  "puf": [
    "EBOB × EKOK = a × b yalnızca iki sayı için geçerlidir.",
    "Ardışık iki tam sayı her zaman aralarında asaldır.",
    "EKOK daima EBOB'un katıdır; değilse soru tutarsızdır.",
    "Bölüp küçültüyorsan EBOB, katlarını arayıp büyütüyorsan EKOK."
   ]
  },
- {
-  "konuId": "kesir_ondalik",
-  "dersId": "matematik",
-  "baslik": "Kesirler ve Ondalıklar",
-  "ozet": "Kesir işlemleri, sıralama, ondalık gösterim ve devirli ondalıklar.",
+ "kesir_ondalik": {
   "bolumler": [
-   {
-    "baslik": "Kesir Türleri ve İşlemler",
-    "icerik": "• BASİT KESİR: Pay < Payda (3/5)\n• BİLEŞİK KESİR: Pay ≥ Payda (7/5)\n• TAM SAYILI KESİR: 2⅓ = 7/3\n\nİŞLEMLER:\n• TOPLAMA/ÇIKARMA: Paydalar eşitlenir. a/b + c/d = (ad + bc)/bd\n• ÇARPMA: Pay payla, payda paydayla. (a/b)·(c/d) = ac/bd\n• BÖLME: İkinci kesir ters çevrilip çarpılır. (a/b)÷(c/d) = (a/b)·(d/c)\n\nSADELEŞTİRME: Pay ve payda EBOB'larına bölünür."
-   },
-   {
-    "baslik": "Kesir Sıralama",
-    "icerik": "• PAYDALARI EŞİT ise: Payı büyük olan büyüktür.\n• PAYLARI EŞİT ise: Paydası küçük olan büyüktür.\n• İkisi de farklıysa: ÇAPRAZ ÇARPIM veya ondalığa çevirme.\n\nÇAPRAZ ÇARPIM: a/b ile c/d karşılaştırılırken a·d ile b·c kıyaslanır.\n3/7 ile 4/9 → 3·9 = 27, 7·4 = 28 → 27 < 28 → 3/7 < 4/9\n\nPRATİK: Pay ve paydaya AYNI SAYI EKLENİRSE:\n• Basit kesir BÜYÜR (1'e yaklaşır)\n• Bileşik kesir KÜÇÜLÜR (1'e yaklaşır)"
-   },
-   {
-    "baslik": "Ondalık Sayılar",
-    "icerik": "• Ondalık gösterim: 0,25 = 25/100 = 1/4\n\nÇEVİRME:\n• Kesir → ondalık: pay ÷ payda\n• Ondalık → kesir: virgülden sonraki basamak sayısı kadar 10'un kuvveti\n  0,375 = 375/1000 = 3/8\n\nİŞLEMLERDE VİRGÜL:\n• Toplama/çıkarma: virgüller alt alta\n• Çarpma: virgülden sonraki basamak sayıları TOPLANIR\n  0,3 × 0,02 = 0,006 (1+2 = 3 basamak)\n• Bölme: bölen tam sayı olacak şekilde her ikisi 10'un kuvvetiyle genişletilir"
-   },
-   {
-    "baslik": "Devirli Ondalıklar",
-    "icerik": "DEVİRLİ ONDALIĞI KESRE ÇEVİRME:\n\n1) Tümü devirli: 0,abc̄ = abc / 999\n   Örnek: 0,27̄ = 27/99 = 3/11\n\n2) Kısmen devirli: 0,ab̄c = (abc − ab) / 990\n   Örnek: 0,23̄ (3 devirli) = (23 − 2)/90 = 21/90 = 7/30\n\nGENEL KURAL:\nPay = (Tüm sayı) − (Devretmeyen kısım)\nPayda = Devreden basamak sayısı kadar 9, devretmeyen basamak sayısı kadar 0\n\nÖRNEK: 1,234̄ → pay = 1234 − 123 = 1111, payda = 900 → 1111/900"
-   },
    {
     "baslik": "Bileşik Kesirler ve Sürekli Kesirler",
     "icerik": "KESİR İÇİNDE KESİR: En içteki işlemden başlanır, aşağıdan yukarı sadeleştirilir.\nÖRNEK: 1 / (2 + 1/(3 + 1/2))\n= 1 / (2 + 1/(7/2))\n= 1 / (2 + 2/7)\n= 1 / (16/7) = 7/16\n\nKESİRLERDE DÖRT İŞLEM:\n• Toplama/çıkarma: paydalar eşitlenir (EKOK)\n• Çarpma: pay×pay, payda×payda (önce çapraz sadeleştir)\n• Bölme: ikinciyi ters çevir, çarp\n\nKESİR ZİNCİRİ (teleskopik sadeleşme):\n(1/2)·(2/3)·(3/4)·…·(99/100) = 1/100\nArdışık paylar ve paydalar birbirini götürür — çarpım sorularında önce zinciri kontrol et.\n\nİÇLER-DIŞLAR: a/b = c/d ⇔ a·d = b·c\n\nBİRİM KESRE AYIRMA: 1/(n·(n+1)) = 1/n − 1/(n+1)\nÖRNEK: 1/(1·2) + 1/(2·3) + 1/(3·4) = (1 − 1/2) + (1/2 − 1/3) + (1/3 − 1/4) = 1 − 1/4 = 3/4"
@@ -178,41 +80,15 @@
     "icerik": "TÜM BASAMAKLAR DEVİRLİ:\n0,abc̄ = abc / 999  (devreden basamak sayısı kadar 9)\nÖRNEK: 0,3̄ = 3/9 = 1/3;  0,27̄ = 27/99 = 3/11\n\nKISMEN DEVİRLİ:\nPay = (Tüm sayı) − (Devretmeyen kısım)\nPayda = Devreden basamak sayısı kadar 9, devretmeyen basamak sayısı kadar 0\nÖRNEK: 0,16̄ (yalnız 6 devrediyor) = (16 − 1)/90 = 15/90 = 1/6\nÖRNEK: 2,13̄5̄ = (2135 − 21)/990 = 2114/990\n\nTAM KISIM VARSA: Tam kısmı ayır, kesir kısmını çevir, sonra topla.\n\nHANGİ KESİRLER DEVREDER?\nPaydanın asal çarpanlarında 2 ve 5 DIŞINDA çarpan varsa ondalık açılım devirlidir.\n• 1/8 = 0,125 (8 = 2³ → devretmez)\n• 1/6 = 0,166… (6 = 2·3 → 3 var, devreder)\n\nSIRALAMA HIZLANDIRMASI: Payları eşitle — payları eşit kesirlerde PAYDASI BÜYÜK olan KÜÇÜKTÜR. Paydaları eşitlemek yerine payları eşitlemek çoğu soruda daha hızlıdır."
    }
   ],
-  "pufNoktalar": [
-   "Çarpmada virgülden sonraki basamaklar toplanır.",
-   "Basit kesirde pay-paydaya aynı sayı eklenirse kesir büyür.",
-   "Devirli ondalıkta payda: devreden kadar 9, devretmeyen kadar 0.",
-   "Kesir sıralamada çapraz çarpım en hızlı yöntemdir.",
-   "Bölmede ikinci kesir ters çevrilip çarpılır.",
-   "Paylar eşitse paydası küçük olan kesir büyüktür.",
+  "puf": [
    "'Kalanın 1/4'ü' ile 'bütünün 1/4'ü' farklıdır — en sık düşülen tuzak.",
    "Paydaları EKOK'una eşit bütün seçmek kesirli soruları tamsayıya çevirir.",
    "0,ab̄ = ab/99; kısmen devirlide pay = tüm sayı − devretmeyen kısım.",
    "Payları eşit kesirlerde paydası büyük olan küçüktür."
   ]
  },
- {
-  "konuId": "oran_oranti",
-  "dersId": "matematik",
-  "baslik": "Oran - Orantı",
-  "ozet": "Oran kavramı, doğru-ters orantı ve orantı problemleri.",
+ "oran_oranti": {
   "bolumler": [
-   {
-    "baslik": "Temel Kavramlar",
-    "icerik": "• ORAN: İki çokluğun bölme yoluyla karşılaştırılması. a/b veya a:b\n• ORANTI: İki oranın eşitliği. a/b = c/d\n• İÇLER-DIŞLAR ÇARPIMI: a/b = c/d ise a·d = b·c\n\nORAN BİRİMSİZDİR (aynı birimden çoklukların oranı).\n\nORANTI ÖZELLİKLERİ:\na/b = c/d = k ise:\n• (a+c)/(b+d) = k\n• (a−c)/(b−d) = k\n• a/b = c/d = (a+c)/(b+d) = (ma+nc)/(mb+nd)"
-   },
-   {
-    "baslik": "Doğru ve Ters Orantı",
-    "icerik": "DOĞRU ORANTI: Biri artarken diğeri AYNI ORANDA artar.\n• a/b = k (sabit)\n• Örnek: İşçi sayısı ↑ → yapılan iş ↑\n\nTERS ORANTI: Biri artarken diğeri AYNI ORANDA azalır.\n• a · b = k (sabit)\n• Örnek: İşçi sayısı ↑ → süre ↓\n\nÖRNEK: 6 işçi bir işi 12 günde bitiriyor. 9 işçi kaç günde bitirir?\nTers orantı: 6·12 = 9·x → x = 8 gün\n\nBİLEŞİK ORANTI: Birden fazla değişken varsa.\nİşçi sayısı, gün, saat gibi çoklu değişkenlerde her biri ayrı değerlendirilir."
-   },
-   {
-    "baslik": "Orantı Problemleri",
-    "icerik": "PAYLAŞTIRMA:\n• DOĞRU ORANTILI paylaştırma: Pay sayılarıyla doğru orantılı.\n  120 TL'yi 2:3 oranında paylaştır → 120 · 2/5 = 48 ve 120 · 3/5 = 72\n\n• TERS ORANTILI paylaştırma: Sayıların ÇARPMAYA GÖRE TERSLERİ ile doğru orantılı.\n  120 TL'yi 2 ve 3 ile ters orantılı paylaştır → 1/2 : 1/3 = 3:2 → 72 ve 48\n\nORTALAMA:\n• Aritmetik ortalama = terimler toplamı / terim sayısı\n• Ağırlıklı ortalama = Σ(değer × ağırlık) / Σağırlık\n\nÖRNEK: 3 kişinin ortalaması 40, 5 kişinin ortalaması 48 ise 8 kişinin ortalaması:\n(3·40 + 5·48)/8 = (120+240)/8 = 45"
-   },
-   {
-    "baslik": "Karışım ve Yüzde Bağlantısı",
-    "icerik": "KARIŞIM PROBLEMLERİ:\n• Alkol/tuz oranı = (saf madde) / (toplam karışım)\n\nÖRNEK: %20'lik 50 litre alkol karışımına 10 litre su eklenirse yeni oran?\nSaf alkol = 50 · 0,20 = 10 litre\nYeni toplam = 60 litre → yeni oran = 10/60 ≈ %16,67\n\nİKİ KARIŞIMIN BİRLEŞTİRİLMESİ:\nYeni oran = (a·x + b·y) / (a + b)\na, b: miktarlar; x, y: oranlar\n\nÖRNEK: %30'luk 40 lt ile %50'lik 60 lt karıştırılırsa:\n(40·0,30 + 60·0,50)/100 = (12+30)/100 = %42"
-   },
    {
     "baslik": "Bileşik Orantı ve Çoklu Değişken",
     "icerik": "BİLEŞİK ORANTI: Bir büyüklük birden çok büyüklüğe aynı anda bağlıysa kullanılır.\n\nTEMEL KALIP (işçi-gün-iş):\n(İşçi₁ · Gün₁ · Saat₁) / İş₁ = (İşçi₂ · Gün₂ · Saat₂) / İş₂\n\nÖRNEK: 6 işçi günde 8 saat çalışarak bir işi 10 günde bitiriyor. 8 işçi günde 6 saat çalışarak aynı işi kaç günde bitirir?\n6·8·10 = 8·6·x → 480 = 48x → x = 10 gün\n\nDOĞRU MU TERS Mİ? Her değişkeni tek tek sorgula:\n• İşçi artarsa süre AZALIR → ters orantı\n• İş miktarı artarsa süre ARTAR → doğru orantı\n• Günlük saat artarsa süre AZALIR → ters orantı\n\nORANTI ÖZELLİKLERİ:\n• a/b = c/d = k ise (a+c)/(b+d) = k\n• a/b = c/d ⇔ (a+b)/b = (c+d)/d\n• a/b = c/d = e/f = k ise (a+c+e)/(b+d+f) = k\nBu 'oranların toplamı' özelliği paylaşım sorularında en hızlı yoldur."
@@ -226,41 +102,15 @@
     "icerik": "ARİTMETİK ORTALAMA = Toplam / Adet\nTOPLAM = Ortalama × Adet (soru çözümünde asıl kullanılan biçim budur)\n\nGRUP BİRLEŞTİRME (ağırlıklı ortalama):\nOrtalama = (n₁·x₁ + n₂·x₂) / (n₁ + n₂)\nÖRNEK: 20 kişilik sınıf ortalaması 60, 30 kişilik sınıf ortalaması 70 ise birleşik ortalama = (20·60 + 30·70)/50 = (1200+2100)/50 = 66.\nDİKKAT: (60+70)/2 = 65 YANLIŞTIR — grup büyüklükleri farklıysa basit ortalama alınamaz.\n\nKARIŞIM YÜZDESİ:\nSaf madde miktarı korunur. İki karışım birleşince:\n(m₁·y₁ + m₂·y₂) / (m₁ + m₂) = yeni yüzde\nÖRNEK: %20'lik 300 g ile %40'lık 200 g tuzlu su karışırsa:\nTuz = 60 + 80 = 140 g, toplam = 500 g → %28\n\nSU EKLEME/BUHARLAŞMA: Su eklendiğinde/buharlaştığında ÇÖZÜNEN MİKTARI SABİT kalır; yalnız toplam değişir.\nÖRNEK: %25'lik 400 g karışıma 100 g su eklenirse tuz 100 g sabit, toplam 500 g → yeni oran %20.\n\nORTALAMAYA ETKİ: Ortalamaya eşit bir değer eklenirse ortalama DEĞİŞMEZ; büyük değer artırır, küçük değer azaltır."
    }
   ],
-  "pufNoktalar": [
-   "İçler-dışlar çarpımı orantının temelidir.",
-   "Doğru orantıda bölüm, ters orantıda çarpım sabittir.",
-   "Ters orantılı paylaştırmada sayıların tersleri alınır.",
-   "Karışımda saf madde miktarı korunur, toplam değişir.",
-   "Ağırlıklı ortalamada her değer kendi ağırlığıyla çarpılır.",
-   "a/b=c/d=k ise (a+c)/(b+d) de k'ya eşittir.",
+  "puf": [
    "İki sayıyla ters orantılı paylaşım = sayıları yer değiştirip doğru orantılı paylaşmak.",
    "Farklı büyüklükteki grupların ortalaması basit ortalamayla bulunmaz.",
    "Su eklemede çözünen miktar sabit kalır, yalnız toplam değişir.",
    "a/b = c/d = k ise (a+c)/(b+d) = k — paylaşımda en hızlı yol."
   ]
  },
- {
-  "konuId": "yuzde",
-  "dersId": "matematik",
-  "baslik": "Yüzde Problemleri",
-  "ozet": "Yüzde hesaplama, artış-azalış ve ardışık yüzde değişimleri.",
+ "yuzde": {
   "bolumler": [
-   {
-    "baslik": "Temel Yüzde Hesabı",
-    "icerik": "• x'in %a'sı = x · a/100\n• 'Bir sayının %20'si 40 ise sayı kaçtır?' → x · 0,20 = 40 → x = 200\n\nYÜZDE ORANI BULMA:\n• a sayısı b'nin yüzde kaçıdır? → (a/b) · 100\n\nÖRNEK: 30, 120'nin yüzde kaçıdır? → (30/120)·100 = %25"
-   },
-   {
-    "baslik": "Artış ve Azalış",
-    "icerik": "• %a ARTIŞ: Yeni değer = Eski · (1 + a/100)\n  %20 artış → ×1,20\n• %a AZALIŞ: Yeni değer = Eski · (1 − a/100)\n  %20 azalış → ×0,80\n\nYÜZDE DEĞİŞİM ORANI:\n(Yeni − Eski) / Eski × 100\n\nÖRNEK: 200'den 250'ye çıkarsa artış oranı:\n(250−200)/200 × 100 = %25"
-   },
-   {
-    "baslik": "Ardışık Yüzde Değişimleri — DİKKAT",
-    "icerik": "ÖNEMLİ: Ardışık yüzdeler TOPLANMAZ, ÇARPILIR.\n\n%20 artış + %20 azalış:\n1,20 × 0,80 = 0,96 → net %4 AZALIŞ (sıfır değil!)\n\n%10 artış + %10 artış:\n1,10 × 1,10 = 1,21 → net %21 artış (%20 değil!)\n\nGENEL FORMÜL (iki ardışık değişim):\nNet değişim = a + b + (a·b)/100\nÖrnek: %20 artış, %20 azalış → 20 + (−20) + (20·(−20))/100 = −4 → %4 azalış\n\nÖRNEK SORU: Bir malın fiyatı önce %25 artıyor, sonra %20 azalıyor. Net değişim?\n1,25 × 0,80 = 1,00 → DEĞİŞMEZ"
-   },
-   {
-    "baslik": "Yüzde Uygulamaları",
-    "icerik": "İNDİRİM VE ZAM:\n• Etiket fiyatı üzerinden indirim hesaplanır.\n• 'Yüzde kaç indirim yapılmalı ki eski fiyata dönsün?' → ters hesap gerekir.\n  %25 zam sonrası eski fiyata dönmek için: 1/1,25 = 0,80 → %20 indirim\n\nKDV:\n• KDV dahil fiyat = Fiyat × (1 + KDV oranı)\n• KDV hariç fiyat = KDV dahil / (1 + KDV oranı)\n\nFAİZ (BASİT):\n• Faiz = Anapara × Faiz oranı × Süre / 100\n• Yıllık %12 faizle 5000 TL, 6 ayda: 5000 · 12 · 6 / (100·12) = 300 TL\n\nNÜFUS/DEĞER ARTIŞI (BİLEŞİK):\nSon değer = İlk × (1 + r)ⁿ"
-   },
    {
     "baslik": "Çarpan Yöntemi — Yüzdeyi Hızlı Çözme",
     "icerik": "TEMEL FİKİR: Yüzde değişimini toplama/çıkarma yerine ÇARPAN olarak yaz. Zincirli değişimlerde hata payını sıfıra indirir.\n\nÇARPAN TABLOSU:\n• %20 artış → ×1,20      • %20 azalış → ×0,80\n• %25 artış → ×1,25      • %25 azalış → ×0,75\n• %50 artış → ×1,50      • %50 azalış → ×0,50\n• %10 artış → ×1,10      • %10 azalış → ×0,90\n\nZİNCİRLİ DEĞİŞİM: Çarpanları çarp.\nÖRNEK: Önce %20 artan, sonra %20 azalan fiyat:\n×1,20 × 0,80 = 0,96 → net %4 AZALIŞ.\nSIK HATA: '+20 − 20 = 0, değişmedi' demek. Yüzdeler farklı tabanlardan alındığı için birbirini götürmez.\n\nGERİ DÖNÜŞ ORANI:\n%25 artan bir fiyatın eski hâline dönmesi için %20 indirim gerekir (1,25 × 0,80 = 1).\nFORMÜL: %x artışı geri almak için gereken indirim = x/(100+x) · 100\n\nESKİ DEĞERİ BULMA: %20 zamdan sonra fiyat 360 TL ise eski fiyat = 360/1,20 = 300 TL.\nDİKKAT: 360'ın %20'sini çıkarmak (288) YANLIŞTIR — yüzde ESKİ fiyat üzerinden alınmıştır."
@@ -274,41 +124,15 @@
     "icerik": "BASİT FAİZ:\nFaiz = (Anapara × Faiz oranı × Süre) / 100\nSüre yıl cinsindendir; ay verilmişse ay/12, gün verilmişse gün/360 kullanılır.\n\nÖRNEK: 5.000 TL, yıllık %12 faizle 8 ay için:\nFaiz = 5000 · 12 · (8/12) / 100 = 400 TL. Toplam = 5.400 TL.\n\nBİLEŞİK FAİZ:\nSon değer = Anapara × (1 + r/100)ⁿ\nÖRNEK: 10.000 TL yıllık %10 bileşik faizle 2 yıl → 10000 · 1,1² = 12.100 TL.\nBasit faizde 2 yıl sonunda 12.000 TL olurdu; aradaki 100 TL faizin faizidir.\n\nANAPARAYI BULMA: Faiz ve oran biliniyorsa Anapara = (Faiz × 100) / (Oran × Süre)\n\nSÜREYİ BULMA: Süre = (Faiz × 100) / (Anapara × Oran)\n\nPRATİK: 'Kaç yılda ikiye katlar?' → Basit faizde %r için 100/r yıl. %20 faizle 5 yılda ikiye katlar.\n\nDİKKAT: Faiz oranı 'aylık' verilmişse süreyi ay olarak al, 12'ye bölme. Sorunun birimini eşitlemek en sık atlanan adımdır."
    }
   ],
-  "pufNoktalar": [
-   "Ardışık yüzdeler toplanmaz, çarpılır.",
-   "%20 artış sonrası %20 azalış net %4 KAYIPTIR.",
-   "%a zam sonrası eski fiyata dönmek için indirim oranı a/(100+a)×100'dür.",
-   "Artış için ×(1+a/100), azalış için ×(1−a/100).",
-   "Yüzde değişim daima ESKİ değere göre hesaplanır.",
-   "Basit faizde süre ile doğru orantı vardır.",
+  "puf": [
    "%20 artış sonrası %20 azalış net %4 kayıptır — yüzdeler birbirini götürmez.",
    "Zamlı fiyattan eski fiyata dönmek için bölme yapılır, çıkarma değil.",
    "%25 artışı geri almak için %20 indirim gerekir: x/(100+x).",
    "Faiz oranının birimi (yıllık/aylık) ile sürenin birimi mutlaka eşitlenmeli."
   ]
  },
- {
-  "konuId": "k_r_zarar",
-  "dersId": "matematik",
-  "baslik": "Kâr - Zarar",
-  "ozet": "Maliyet, satış fiyatı, kâr-zarar oranı ve iskonto hesapları.",
+ "k_r_zarar": {
   "bolumler": [
-   {
-    "baslik": "Temel Kavramlar",
-    "icerik": "• MALİYET (Alış Fiyatı): Ürünün alındığı fiyat.\n• SATIŞ FİYATI: Ürünün satıldığı fiyat.\n• KÂR = Satış − Maliyet (satış > maliyet)\n• ZARAR = Maliyet − Satış (satış < maliyet)\n\nDİKKAT — HANGİSİNE GÖRE?\n• MALİYETE GÖRE kâr oranı = Kâr / Maliyet × 100  ← genelde bu kastedilir\n• SATIŞA GÖRE kâr oranı = Kâr / Satış × 100\n\nSoruda belirtilmemişse MALİYET esas alınır."
-   },
-   {
-    "baslik": "Kâr ve Zarar Hesapları",
-    "icerik": "• %k kârla satış: Satış = Maliyet × (1 + k/100)\n• %z zararla satış: Satış = Maliyet × (1 − z/100)\n\nÖRNEK: 400 TL'ye alınan mal %25 kârla satılırsa:\nSatış = 400 × 1,25 = 500 TL, Kâr = 100 TL\n\nMALİYET BULMA:\n• Satış ve kâr oranı biliniyorsa: Maliyet = Satış / (1 + k/100)\n• 600 TL'ye %20 kârla satıldıysa maliyet = 600/1,20 = 500 TL\n\nZARARI TELAFİ:\n%20 zararla satan biri, eski duruma dönmek için kalan üzerinden %25 kâr etmelidir (0,80 × 1,25 = 1)."
-   },
-   {
-    "baslik": "İskonto (İndirim) ve Etiket Fiyatı",
-    "icerik": "• ETİKET FİYATI: Üzerinde yazan, indirimden önceki fiyat.\n• İSKONTO: Etiket fiyatı üzerinden yapılan indirim.\n\nSatış = Etiket × (1 − i/100)\n\nÖRNEK: Etiket 800 TL, %15 iskonto → Satış = 800 × 0,85 = 680 TL\n\nBİLEŞİK PROBLEM:\nMaliyet üzerine %40 kâr koyup etiketleyen, sonra %20 iskonto yapan satıcının net kârı:\n1,40 × 0,80 = 1,12 → %12 kâr\n\nÖRNEK SORU: Bir tüccar malı %25 kârla etiketliyor, sonra %20 indirim yapıyor. Kâr/zarar durumu?\n1,25 × 0,80 = 1,00 → NE KÂR NE ZARAR"
-   },
-   {
-    "baslik": "Karma Problemler",
-    "icerik": "BİRDEN FAZLA ÜRÜN:\nToplam kâr/zarar = Σ(her ürünün kâr veya zararı)\n\nÖRNEK: Biri %20 kârla, diğeri %20 zararla aynı fiyata (600 TL) satılan iki ürün:\n• 1. maliyeti = 600/1,20 = 500 → kâr 100\n• 2. maliyeti = 600/0,80 = 750 → zarar 150\n• NET: 100 − 150 = 50 TL ZARAR\n(Aynı oranda kâr ve zarar daima NET ZARAR getirir.)\n\nORTAK/HİSSE PROBLEMLERİ:\nKâr, sermaye ve süre çarpımıyla doğru orantılı paylaştırılır.\nPay oranı = Sermaye × Süre"
-   },
    {
     "baslik": "Maliyet, Etiket ve Satış Zinciri",
     "icerik": "ÜÇ FİYAT AYRI TUTULUR:\n• ALIŞ (maliyet)\n• ETİKET (liste fiyatı)\n• SATIŞ (indirim sonrası fiyat)\n\nZİNCİR: Etiket = Alış × (1 + kâr oranı) → Satış = Etiket × (1 − indirim oranı)\n\nÖRNEK: Alış 400 TL, %50 kârla etiketleniyor, %20 indirimle satılıyor.\nEtiket = 600, Satış = 480 → Kâr = 80 TL → Gerçek kâr oranı = 80/400 = %20.\n\nKRİTİK AYRIM: Kâr oranı ALIŞ üzerinden, indirim oranı ETİKET üzerinden hesaplanır. Aynı tabandan işlem yapmak en sık yapılan hatadır.\n\nZARARSIZ SATIŞ ŞARTI: Satış = Alış olmalı.\n%25 kârla etiketlenen bir mal en fazla yüzde kaç indirimle zararsız satılır?\n1,25 × (1−i) = 1 → i = 0,20 → %20.\n\nBAŞABAŞ NOKTASI: Toplam gelir = toplam maliyet olduğu satış adedi.\nSabit maliyet 3000 TL, birim maliyet 20 TL, satış 50 TL ise: 30x = 3000 → x = 100 adet."
@@ -322,41 +146,15 @@
     "icerik": "TOPLAM KÂR ORANI: Ayrı ayrı kâr oranları verilse bile toplam oran, oranların ortalaması DEĞİLDİR; toplam kâr / toplam maliyet olarak hesaplanır.\n\nÖRNEK: 300 TL'lik mala %10, 700 TL'lik mala %30 kâr.\nKâr = 30 + 210 = 240 → Toplam maliyet 1000 → %24.\n(Ortalama 20 demek yanlış olurdu; ağırlıklar farklı.)\n\nBİR KISMI SATILMIŞSA:\n'100 kg malın 60 kg'ı %20 kârla satıldı, kalanı hangi oranla satılmalı ki toplamda %30 kâr olsun?'\nToplam hedef kâr = 100·birim·0,30. 60 kg'dan gelen 60·0,20 = 12 birim. Kalan 40 kg'dan gereken 30 − 12 = 18 birim → 18/40 = %45.\n\nADET-FİYAT KURULUMU: 'x TL'ye 4 adet alıp 3 adedini x TL'ye satmak' → alış birim x/4, satış birim x/3 → kâr oranı = (x/3 − x/4)/(x/4) = %33,3.\n\nİNDİRİM ZİNCİRİ: Art arda %20 ve %10 indirim → 0,8 × 0,9 = 0,72 → toplam %28 indirim, %30 değil.\n\nKDV: Fiyata eklenirse satış = fiyat × 1,20; fiyat KDV dahil verilmişse KDV hariç fiyat = fiyat/1,20."
    }
   ],
-  "pufNoktalar": [
-   "Kâr oranı belirtilmemişse MALİYETE göre hesaplanır.",
-   "Aynı fiyata biri kârlı biri zararlı satış NET ZARAR getirir.",
-   "%25 kâr + %20 indirim = başa baş (1,25 × 0,80 = 1).",
-   "Maliyet = Satış / (1 + kâr oranı).",
-   "Ortaklıkta pay = sermaye × süre ile orantılıdır.",
-   "%20 zararı telafi için kalan üzerinden %25 kâr gerekir.",
+  "puf": [
    "Kâr oranı alış, indirim oranı etiket üzerinden hesaplanır.",
    "Eşit yüzdeyle biri kârla biri zararla satılırsa sonuç daima zarardır.",
    "%x kârla etiketlenen mal en fazla x/(100+x) oranında indirilebilir.",
    "Toplam kâr oranı, ayrı oranların ortalaması değildir."
   ]
  },
- {
-  "konuId": "denklem",
-  "dersId": "matematik",
-  "baslik": "Denklemler",
-  "ozet": "Birinci dereceden denklemler, eşitsizlikler ve mutlak değer.",
+ "denklem": {
   "bolumler": [
-   {
-    "baslik": "Birinci Derece Denklemler",
-    "icerik": "ax + b = 0 → x = −b/a  (a ≠ 0)\n\nÇÖZÜM ADIMLARI:\n1) Parantezler açılır.\n2) Paydalar varsa EKOK ile genişletilir.\n3) Bilinmeyenler bir tarafa, sayılar diğer tarafa toplanır.\n4) Katsayıya bölünür.\n\nÖZEL DURUMLAR:\n• 0·x = 0 → SONSUZ çözüm (her x)\n• 0·x = 5 → ÇÖZÜM YOK\n\nÖRNEK: 3(x−2) = 2x + 4 → 3x − 6 = 2x + 4 → x = 10"
-   },
-   {
-    "baslik": "Denklem Sistemleri",
-    "icerik": "İKİ BİLİNMEYENLİ:\nax + by = c\ndx + ey = f\n\nÇÖZÜM YÖNTEMLERİ:\n• YOK ETME: Denklemler uygun sayılarla çarpılıp toplanır/çıkarılır.\n• YERİNE KOYMA: Bir bilinmeyen diğeri cinsinden yazılır.\n\nÇÖZÜM DURUMLARI:\n• a/d ≠ b/e → TEK çözüm\n• a/d = b/e = c/f → SONSUZ çözüm (aynı doğru)\n• a/d = b/e ≠ c/f → ÇÖZÜM YOK (paralel doğrular)"
-   },
-   {
-    "baslik": "Eşitsizlikler",
-    "icerik": "TEMEL KURALLAR:\n• Her iki tarafa aynı sayı eklenir/çıkarılır: yön DEĞİŞMEZ.\n• Her iki taraf POZİTİF sayıyla çarpılır/bölünür: yön DEĞİŞMEZ.\n• Her iki taraf NEGATİF sayıyla çarpılır/bölünür: YÖN DEĞİŞİR!\n\n−2x > 6 → x < −3  (yön değişti)\n\nARALIK GÖSTERİMİ:\n• x > 3 → (3, ∞)\n• x ≥ 3 → [3, ∞)\n• 2 < x ≤ 5 → (2, 5]\n\nÇİFT EŞİTSİZLİK: a < x < b biçiminde işlem her iki tarafa uygulanır."
-   },
-   {
-    "baslik": "Mutlak Değer",
-    "icerik": "|x| = x (x ≥ 0),  |x| = −x (x < 0)\n\nÖZELLİKLER:\n• |x| ≥ 0 daima\n• |x·y| = |x|·|y|\n• |x/y| = |x|/|y|\n• |x + y| ≤ |x| + |y|  (üçgen eşitsizliği)\n• |x|² = x²\n\nDENKLEM ÇÖZÜMÜ:\n|x| = a (a > 0) → x = a veya x = −a\n|x − 3| = 5 → x = 8 veya x = −2\n\nEŞİTSİZLİK:\n• |x| < a → −a < x < a\n• |x| > a → x < −a veya x > a"
-   },
    {
     "baslik": "İkinci Derece Denklemler",
     "icerik": "GENEL BİÇİM: ax² + bx + c = 0 (a ≠ 0)\n\nDİSKRİMİNANT: Δ = b² − 4ac\n• Δ > 0 → iki farklı gerçek kök\n• Δ = 0 → çakışık (bir) kök\n• Δ < 0 → gerçek kök yok\n\nKÖK FORMÜLÜ: x = (−b ± √Δ) / (2a)\n\nKÖKLER TOPLAMI VE ÇARPIMI (çoğu soruda kök bulmaya gerek bırakmaz):\n• x₁ + x₂ = −b/a\n• x₁ · x₂ = c/a\n\nÖRNEK: x² − 5x + 6 = 0 için kökler toplamı 5, çarpımı 6 → kökler 2 ve 3.\n\nKÖKLERDEN DENKLEM KURMA:\nx² − (toplam)·x + (çarpım) = 0\n\nÇARPANLARA AYIRMA KISAYOLU: c'yi çarpanlarına ayırıp toplamı −b veren ikiliyi ara. Tamsayı köklü sorularda formülden hızlıdır.\n\nÖZDEŞLİKLER:\n• a² − b² = (a−b)(a+b)\n• (a±b)² = a² ± 2ab + b²\n• a³ ± b³ = (a±b)(a² ∓ ab + b²)\n• a² + b² = (a+b)² − 2ab  (simetrik ifade sorularının anahtarı)"
@@ -370,41 +168,15 @@
     "icerik": "EŞİTSİZLİK KURALLARI:\n• Her iki tarafa aynı sayı eklenir/çıkarılır, yön değişmez.\n• POZİTİF sayıyla çarpma/bölme: yön değişmez.\n• NEGATİF sayıyla çarpma/bölme: YÖN DEĞİŞİR. (−2x > 6 → x < −3)\n• Ters çevirmede: 0 < a < b ise 1/a > 1/b\n\nÇARPANLARIN İŞARET TABLOSU:\n(x−2)(x+3) > 0 → kökler −3 ve 2. Sayı doğrusunda işaretler: (+) −3 (−) 2 (+)\nÇözüm: x < −3 veya x > 2\nKURAL: En büyük dereceli terimin katsayısı pozitifse en sağ bölge (+)'dir, sağdan sola işaretler değişir (çift katlı kökte değişmez).\n\nMUTLAK DEĞERLİ DENKLEM:\n|x − 3| = 5 → x − 3 = 5 veya x − 3 = −5 → x = 8 veya x = −2\n\nMUTLAK DEĞERLİ EŞİTSİZLİK:\n• |x| < a ⇔ −a < x < a  (içeri, aralık)\n• |x| > a ⇔ x < −a veya x > a  (dışarı, iki kol)\nÖRNEK: |2x − 1| ≤ 7 → −7 ≤ 2x−1 ≤ 7 → −3 ≤ x ≤ 4\n\nDİKKAT: |x| = a denkleminde a < 0 ise ÇÖZÜM YOKTUR; mutlak değer negatif olamaz."
    }
   ],
-  "pufNoktalar": [
-   "Negatif sayıyla çarparken eşitsizliğin yönü değişir.",
-   "|x| < a → −a < x < a; |x| > a → dışa doğru iki aralık.",
-   "0·x = 0 sonsuz çözüm, 0·x = k (k≠0) çözümsüz.",
-   "Denklem sisteminde katsayı oranları çözüm sayısını belirler.",
-   "|x|² = x² her zaman doğrudur.",
-   "Mutlak değer daima negatif olmayan sonuç verir.",
+  "puf": [
    "Kökler toplamı −b/a, çarpımı c/a — çoğu soruda kök bulmaya gerek kalmaz.",
    "Negatif sayıyla çarpıp bölerken eşitsizliğin yönü değişir.",
    "|x| < a aralık verir, |x| > a iki ayrı kol verir.",
    "a² + b² = (a+b)² − 2ab özdeşliği simetrik ifade sorularının anahtarıdır."
   ]
  },
- {
-  "konuId": "kumeler",
-  "dersId": "matematik",
-  "baslik": "Kümeler",
-  "ozet": "Küme işlemleri, Venn şemaları ve eleman sayısı problemleri.",
+ "kumeler": {
   "bolumler": [
-   {
-    "baslik": "Temel Kavramlar",
-    "icerik": "• KÜME: İyi tanımlanmış nesneler topluluğu.\n• s(A) veya |A|: A kümesinin eleman sayısı.\n• BOŞ KÜME: ∅ veya { } — eleman sayısı 0.\n• EVRENSEL KÜME (E): Tüm elemanları içeren küme.\n• ALT KÜME: A ⊆ B (A'nın her elemanı B'de)\n\nALT KÜME SAYISI:\n• n elemanlı kümenin alt küme sayısı = 2ⁿ\n• ÖZ alt küme sayısı = 2ⁿ − 1 (kendisi hariç)\n• r elemanlı alt küme sayısı = C(n,r)\n\nÖRNEK: 4 elemanlı kümenin 16 alt kümesi, 15 öz alt kümesi vardır."
-   },
-   {
-    "baslik": "Küme İşlemleri",
-    "icerik": "• BİRLEŞİM (A ∪ B): A veya B'de olanlar.\n• KESİŞİM (A ∩ B): Hem A hem B'de olanlar.\n• FARK (A \\ B veya A−B): A'da olup B'de olmayanlar.\n• TÜMLEYEN (A'): Evrensel kümede olup A'da olmayanlar.\n\nAYRIK KÜMELER: A ∩ B = ∅\n\nÖZELLİKLER:\n• A ∪ ∅ = A,  A ∩ ∅ = ∅\n• A ∪ A' = E,  A ∩ A' = ∅\n• (A ∪ B)' = A' ∩ B'   (De Morgan)\n• (A ∩ B)' = A' ∪ B'   (De Morgan)"
-   },
-   {
-    "baslik": "Eleman Sayısı Formülleri",
-    "icerik": "İKİ KÜME:\ns(A ∪ B) = s(A) + s(B) − s(A ∩ B)\n\nÜÇ KÜME:\ns(A∪B∪C) = s(A)+s(B)+s(C) − s(A∩B) − s(A∩C) − s(B∩C) + s(A∩B∩C)\n\nDİĞER:\n• s(A \\ B) = s(A) − s(A ∩ B)\n• s(A') = s(E) − s(A)\n• YALNIZCA A'da olanlar = s(A) − s(A∩B) − s(A∩C) + s(A∩B∩C)\n\nÖRNEK: 30 kişilik sınıfta 18 kişi matematik, 15 kişi fizik seviyor, 8 kişi ikisini de seviyor. Hiçbirini sevmeyen?\ns(M∪F) = 18 + 15 − 8 = 25 → sevmeyen = 30 − 25 = 5"
-   },
-   {
-    "baslik": "Venn Şeması Problem Çözümü",
-    "icerik": "YÖNTEM: EN İÇTEN DIŞA doğru doldur.\n1) Üç kümenin ortak bölgesi (A∩B∩C) yazılır.\n2) İkili kesişimlerden ortak bölge çıkarılır.\n3) Tekil bölgeler en son hesaplanır.\n\nDİKKAT EDİLECEK İFADELER:\n• 'Yalnızca A' → sadece A bölgesi\n• 'A ve B' → A∩B (C dahil olabilir)\n• 'Yalnızca A ve B' → A∩B ama C hariç\n• 'En az biri' → birleşim\n• 'En fazla biri' → tümü hariç + tekiller\n• 'Hiçbiri' → evrensel − birleşim\n\nÖRNEK YAKLAŞIM: 'İki dersi alan 15 kişi' ifadesi TAM OLARAK iki ders anlamına gelir; üç ders alanlar buna dahil değildir."
-   },
    {
     "baslik": "Üç Kümeli Problemler",
     "icerik": "ÜÇ KÜME ELEMAN SAYISI (içerme-dışlama):\ns(A∪B∪C) = s(A) + s(B) + s(C) − s(A∩B) − s(A∩C) − s(B∩C) + s(A∩B∩C)\n\nVENN ŞEMASI DOLDURMA SIRASI — daima ORTADAN DIŞA:\n1. Üçünün ortak bölgesi (A∩B∩C) yazılır.\n2. İkili kesişimlerden ortak bölge ÇIKARILIR.\n3. Tek başına bölgeler, toplamdan diğerleri çıkarılarak bulunur.\n4. Hiçbirine ait olmayanlar dışarıya yazılır.\n\nÖRNEK: 40 kişilik grupta 22 kişi A, 18 kişi B, 15 kişi C dilini biliyor. A∩B = 8, A∩C = 6, B∩C = 5, üçünü bilen 3, hiçbirini bilmeyen kaç kişidir?\ns(A∪B∪C) = 22+18+15−8−6−5+3 = 39\nHiçbirini bilmeyen = 40 − 39 = 1\n\nTAM OLARAK BİRİNİ BİLENLER:\ns(A) + s(B) + s(C) − 2·(ikili kesişimler toplamı) + 3·(üçlü kesişim)\n\nTAM OLARAK İKİSİNİ BİLENLER:\n(ikili kesişimler toplamı) − 3·(üçlü kesişim)\n\nDİKKAT: 'A ve B'yi bilen 8 kişi' ifadesi genelde üçünü bilenleri DE içerir. 'Yalnız A ve B' denirse içermez — bu ayrım soruların çoğunu belirler."
@@ -418,41 +190,15 @@
     "icerik": "KARTEZYEN ÇARPIM: A × B = {(a,b) | a ∈ A, b ∈ B}\n• s(A × B) = s(A) · s(B)\n• A × B ≠ B × A (eleman sayıları eşittir ama sıralı ikililer farklıdır)\n• (a, b) = (c, d) ⇔ a = c ve b = d\n\nÖZELLİKLER:\n• A × (B ∪ C) = (A×B) ∪ (A×C)\n• A × (B ∩ C) = (A×B) ∩ (A×C)\n• s(A×B) = s(B×A)\n\nBAĞINTI: A × B'nin herhangi bir alt kümesi A'dan B'ye bir bağıntıdır.\n• A'dan B'ye bağıntı sayısı = 2^(s(A)·s(B))\n• A'dan A'ya bağıntı sayısı = 2^(n²)\n\nÖRNEK: s(A) = 3, s(B) = 2 ise A'dan B'ye kaç bağıntı tanımlanır?\n2^(3·2) = 2⁶ = 64\n\nFONKSİYON SAYISI: A'dan B'ye fonksiyon sayısı = s(B)^s(A)\ns(A) = 3, s(B) = 2 → 2³ = 8 fonksiyon\n\nBİRE BİR FONKSİYON: s(A) ≤ s(B) olmalıdır; sayısı = s(B)·(s(B)−1)·…·(s(B)−s(A)+1)\n\nDİKKAT: Bağıntı sayısı ile fonksiyon sayısı karıştırılır. Bağıntıda üs çarpımdır (2^(m·n)), fonksiyonda taban görüntü kümesidir (nᵐ)."
    }
   ],
-  "pufNoktalar": [
-   "n elemanlı kümenin 2ⁿ alt kümesi vardır.",
-   "s(A∪B) = s(A)+s(B)−s(A∩B) en temel formüldür.",
-   "'Yalnızca' ifadesi ortak bölgeleri dışlar.",
-   "De Morgan: birleşimin tümleyeni = tümleyenlerin kesişimi.",
-   "Venn şemasında en içten dışa doldurulur.",
-   "'En az biri' birleşimi, 'hiçbiri' tümleyeni ifade eder.",
+  "puf": [
    "Venn şeması daima ortadan dışa doğru doldurulur.",
    "'A ve B'yi bilen' üçünü bilenleri içerir; 'yalnız A ve B' içermez.",
    "Belirli bir elemanı içeren alt küme sayısı 2ⁿ⁻¹'dir.",
    "Bağıntı sayısı 2^(m·n), fonksiyon sayısı ise s(B)^s(A)'dır."
   ]
  },
- {
-  "konuId": "olasilik",
-  "dersId": "matematik",
-  "baslik": "Olasılık",
-  "ozet": "Permütasyon, kombinasyon ve olasılık hesaplamaları.",
+ "olasilik": {
   "bolumler": [
-   {
-    "baslik": "Sayma Yöntemleri",
-    "icerik": "• ÇARPMA KURALI: A işi m, B işi n yolla yapılıyorsa; ARDIŞIK yapılması m·n yolla.\n• TOPLAMA KURALI: A VEYA B seçilecekse m + n yol.\n\nFAKTÖRİYEL: n! = n·(n−1)·…·2·1,  0! = 1\n\nPERMÜTASYON (SIRALAMA ÖNEMLİ):\nP(n,r) = n! / (n−r)!\n• n elemanın tamamının sıralanması = n!\n• TEKRARLI permütasyon: n!/(a!·b!·c!)  (a,b,c: tekrar eden eleman sayıları)\n  'MATEMATİK' kelimesinin harfleri: 9 harf, M=2, A=2, T=2 → 9!/(2!·2!·2!)\n• DAİRESEL permütasyon: (n−1)!\n\nKOMBİNASYON (SIRALAMA ÖNEMSİZ):\nC(n,r) = n! / [r!·(n−r)!]\n• C(n,0) = C(n,n) = 1\n• C(n,r) = C(n, n−r)"
-   },
-   {
-    "baslik": "Permütasyon mu Kombinasyon mu?",
-    "icerik": "AYIRT ETME SORUSU: Sıra/düzen önemli mi?\n\nPERMÜTASYON (sıra ÖNEMLİ):\n• Başkan, başkan yardımcısı seçimi\n• Sıraya dizilme, fotoğraf çekilme\n• Şifre oluşturma\n• Yarışta derece\n\nKOMBİNASYON (sıra ÖNEMSİZ):\n• Komite/takım seçimi\n• Karışım, grup oluşturma\n• El (kart) seçimi\n• 'Kaç farklı grup' ifadesi\n\nÖRNEK: 8 kişiden 3 kişilik komite → C(8,3) = 56\n8 kişiden başkan, sekreter, sayman → P(8,3) = 336"
-   },
-   {
-    "baslik": "Olasılık Temel Kavramları",
-    "icerik": "P(A) = İstenen durum sayısı / Tüm durum sayısı\n\n• 0 ≤ P(A) ≤ 1\n• İmkânsız olay: P = 0,  Kesin olay: P = 1\n• P(A') = 1 − P(A)   ← 'en az bir' sorularında çok kullanılır\n\nÖRNEK: Bir zar atıldığında çift gelme olasılığı = 3/6 = 1/2\n\nİKİ ZAR: Toplam durum 36\n• Toplamı 7 gelme: 6 durum → 6/36 = 1/6 (en yüksek olasılık)\n• Çift atma (aynı sayı): 6 durum → 1/6"
-   },
-   {
-    "baslik": "Bileşik Olasılık",
-    "icerik": "• AYRIK (Birbirini engelleyen) OLAYLAR: P(A veya B) = P(A) + P(B)\n• GENEL: P(A ∪ B) = P(A) + P(B) − P(A ∩ B)\n• BAĞIMSIZ OLAYLAR: P(A ve B) = P(A) · P(B)\n• KOŞULLU OLASILIK: P(A|B) = P(A ∩ B) / P(B)\n\nİADELİ / İADESİZ SEÇİM:\n• İADELİ: Her seferinde toplam sayı aynı kalır.\n• İADESİZ: Her seçimde toplam ve ilgili grup azalır.\n\nÖRNEK: 4 kırmızı, 6 mavi top. İADESİZ iki top çekiliyor, ikisi de kırmızı olma olasılığı:\n(4/10) × (3/9) = 12/90 = 2/15\n\n'EN AZ BİR' STRATEJİSİ:\nP(en az bir) = 1 − P(hiçbiri)"
-   },
    {
     "baslik": "Tekrarlı ve Dairesel Permütasyon",
     "icerik": "TEKRARLI PERMÜTASYON: n harfin r₁, r₂, … tanesi aynıysa\nDizilim sayısı = n! / (r₁! · r₂! · …)\n\nÖRNEK: 'KİTAP' → 5 harf hepsi farklı → 5! = 120\nÖRNEK: 'ANANAS' → 6 harf, A üç kez, N iki kez → 6!/(3!·2!) = 720/12 = 60\n\nDAİRESEL PERMÜTASYON: n kişinin yuvarlak masaya dizilişi = (n−1)!\nSebep: Dönme ile elde edilen dizilişler aynı sayılır.\n• Kolye/bilezik gibi ters çevrilebilen durumlarda = (n−1)!/2\n\nÖRNEK: 6 kişi yuvarlak masaya kaç farklı biçimde oturur? (6−1)! = 120\n\nBİRLİKTE/AYRI OTURMA:\n• Birlikte: İkiliyi tek blok say, blok içinde de sırala. 5 kişiden 2'si yan yana → 4! · 2! = 48\n• Ayrı: Toplam − birlikte = 120 − 48 = 72\n\nGRUPLAMA: n nesneyi r'li gruplara ayırma, gruplar ayırt edilemiyorsa sonuç grup sayısının faktöriyeline bölünür.\n\nYOLLAR SAYISI: A'dan B'ye sağa m, yukarı n adım varsa yol sayısı = (m+n)!/(m!·n!)"
@@ -466,41 +212,15 @@
     "icerik": "TOPLAMA KURALI:\nP(A ∪ B) = P(A) + P(B) − P(A ∩ B)\nAyrık (ortak sonucu olmayan) olaylarda P(A ∩ B) = 0 → P(A ∪ B) = P(A) + P(B)\n\nÖRNEK: Bir zarda 'çift gelme' ile '3 gelme' AYRIKTIR (3 tek). P = 3/6 + 1/6 = 4/6.\nAma 'çift gelme' ile '4'ten büyük gelme' ayrık DEĞİLDİR (6 ikisinde de var):\nP = 3/6 + 2/6 − 1/6 = 4/6.\n\nTÜMLEYEN: P(A') = 1 − P(A). Soruda 'en az', 'en fazla', 'hiç değil' geçiyorsa önce tümleyeni dene.\n\nİKİ ZAR TOPLAMI: 36 eşit olasılıklı sonuç vardır.\n• Toplam 7 gelme: 6 durum → 6/36 = 1/6 (en yüksek olasılık)\n• Toplam 2 veya 12: 1'er durum → 1/36\n\nİSKAMBİL DESTESİ: 52 kart, 4 takım × 13 kart, 12 resimli kart (J, Q, K), 26 kırmızı 26 siyah.\n\nGEOMETRİK OLASILIK: Uzunluk, alan veya hacim oranıdır.\n'Yarıçapı 2 olan dairenin içine atılan noktanın yarıçapı 1 olan iç dairede olma olasılığı' = π·1²/π·2² = 1/4.\n\nSIRALAMA: Olasılık daima 0 ≤ P ≤ 1 aralığındadır; 1'den büyük çıkan sonuç hata işaretidir."
    }
   ],
-  "pufNoktalar": [
-   "Sıra önemliyse permütasyon, değilse kombinasyon.",
-   "'En az bir' sorularında tümleyen kullanılır: 1 − P(hiçbiri).",
-   "Dairesel permütasyon (n−1)! ile hesaplanır.",
-   "İki zarda toplam 36 durum vardır; en olası toplam 7'dir.",
-   "İadesiz seçimde her adımda toplam azalır.",
-   "C(n,r) = C(n,n−r) eşitliği hesabı kısaltır.",
+  "puf": [
    "'En az bir' ifadesi görünce önce 1 − P(hiçbiri) kısayolunu dene.",
    "Yuvarlak masa dizilişi n! değil (n−1)!'dir.",
    "İadesiz çekilişte ikinci adımda hem pay hem payda azalır.",
    "Koşullu olasılıkta örnek uzay daralır; payda tüm durumlar değildir."
   ]
  },
- {
-  "konuId": "hiz_yol",
-  "dersId": "matematik",
-  "baslik": "Hız - Yol Problemleri",
-  "ozet": "Hareket problemleri: yol-hız-zaman ilişkisi, karşılaşma ve yetişme.",
+ "hiz_yol": {
   "bolumler": [
-   {
-    "baslik": "Temel Formül",
-    "icerik": "YOL = HIZ × ZAMAN     (x = v · t)\n• Hız = Yol / Zaman\n• Zaman = Yol / Hız\n\nBİRİM DÖNÜŞÜMÜ:\n• 1 km/sa = 1000/3600 m/s = 5/18 m/s\n• 1 m/s = 18/5 km/sa = 3,6 km/sa\n• 1 saat = 60 dakika = 3600 saniye\n\nDİKKAT: Birimler MUTLAKA aynı sisteme çevrilmelidir."
-   },
-   {
-    "baslik": "Karşılaşma ve Yetişme",
-    "icerik": "ZIT YÖNDE (Karşılıklı hareket — karşılaşma):\n• Aradaki mesafe = (v₁ + v₂) × t\n• Karşılaşma süresi = Mesafe / (v₁ + v₂)\n\nAYNI YÖNDE (Yetişme):\n• Aradaki mesafe = (v₁ − v₂) × t\n• Yetişme süresi = Mesafe / (v₁ − v₂)   [v₁ > v₂]\n\nÖRNEK: Arası 300 km olan iki şehirden 60 ve 90 km/sa hızla karşılıklı çıkan araçlar kaç saatte karşılaşır?\nt = 300 / (60+90) = 2 saat\n\nÖRNEK: 40 km/sa ile giden aracın 60 km önünde... 100 km/sa ile giden araç ne zaman yetişir?\nt = 60 / (100−40) = 1 saat"
-   },
-   {
-    "baslik": "Ortalama Hız",
-    "icerik": "ÖNEMLİ: Ortalama hız, hızların aritmetik ortalaması DEĞİLDİR.\n\nORTALAMA HIZ = TOPLAM YOL / TOPLAM ZAMAN\n\nEŞİT MESAFELERDE (gidiş-dönüş):\nV_ort = 2·v₁·v₂ / (v₁ + v₂)   ← HARMONİK ORTALAMA\n\nÖRNEK: Gidiş 60 km/sa, dönüş 40 km/sa. Ortalama hız?\nV = 2·60·40/(60+40) = 4800/100 = 48 km/sa  (50 DEĞİL!)\n\nEŞİT SÜRELERDE:\nV_ort = (v₁ + v₂)/2   (aritmetik ortalama)"
-   },
-   {
-    "baslik": "Özel Hareket Problemleri",
-    "icerik": "TREN PROBLEMLERİ:\n• Tren bir DİREĞİ geçerken: alınan yol = trenin boyu\n• Tren bir KÖPRÜYÜ/TÜNELİ geçerken: yol = tren boyu + köprü boyu\n\nÖRNEK: 200 m'lik tren, 300 m'lik köprüyü 25 saniyede geçiyor. Hızı?\nYol = 200+300 = 500 m, v = 500/25 = 20 m/s = 72 km/sa\n\nAKINTI PROBLEMLERİ (nehir/uçak):\n• Akıntı YÖNÜNDE hız = v_araç + v_akıntı\n• Akıntıya KARŞI hız = v_araç − v_akıntı\n\nÖRNEK: Sürati 20 km/sa olan tekne, akıntısı 5 km/sa olan nehirde:\nakıntı yönünde 25 km/sa, karşı yönde 15 km/sa\n\nDAİRESEL PİST:\n• Aynı yönde: fark hızı ile buluşma\n• Zıt yönde: toplam hız ile buluşma"
-   },
    {
     "baslik": "Birim Dönüşümleri ve Tuzakları",
     "icerik": "TEMEL DÖNÜŞÜM:\n• 1 m/s = 3,6 km/sa\n• 1 km/sa = 1/3,6 m/s ≈ 0,278 m/s\n• 72 km/sa = 20 m/s (72 ÷ 3,6)\n\nSÜRE DÖNÜŞÜMÜ:\n• 1 saat 20 dakika = 4/3 saat (80/60), 1,20 saat DEĞİL\n• 45 dakika = 3/4 saat\n• 2 saat 30 dakika = 2,5 saat\nEN SIK HATA: '1 saat 15 dakika'yı 1,15 saat yazmak. Doğrusu 1,25 saattir.\n\nHIZ-YOL-ZAMAN ÜÇGENİ:\nYol = Hız × Zaman,  Hız = Yol / Zaman,  Zaman = Yol / Hız\nÜç büyüklüğün BİRİMLERİ tutarlı olmalıdır: hız km/sa ise zaman saat, yol km olmalı.\n\nORANTI MANTIGI:\n• Yol sabitse hız ile zaman TERS orantılıdır.\n• Zaman sabitse yol ile hız DOĞRU orantılıdır.\n• Hız sabitse yol ile zaman DOĞRU orantılıdır.\n\nÖRNEK: Aynı yolu 60 km/sa ile 3 saatte giden araç, 90 km/sa ile kaç saatte gider?\n60·3 = 90·x → x = 2 saat."
@@ -514,41 +234,15 @@
     "icerik": "ORTALAMA HIZ = Toplam Yol / Toplam Zaman\nBU TANIM DIŞINDA HİÇBİR KISAYOL YOKTUR — hızların aritmetik ortalaması ortalama hız DEĞİLDİR.\n\nEŞİT YOL DURUMU (harmonik ortalama):\nAynı yolu v₁ ile gidip v₂ ile dönen aracın ortalama hızı:\nV = 2·v₁·v₂ / (v₁ + v₂)\nÖRNEK: 60 km/sa gidiş, 40 km/sa dönüş → V = 2·60·40/100 = 48 km/sa\nDİKKAT: (60+40)/2 = 50 YANLIŞTIR. Yavaş hızda daha çok zaman geçtiği için ortalama daima küçük hıza yakındır.\n\nEŞİT ZAMAN DURUMU (aritmetik ortalama):\nEşit SÜRE boyunca v₁ ve v₂ ile giderse ortalama = (v₁ + v₂)/2. Bu durumda aritmetik ortalama doğrudur.\nAYIRT EDİCİ SORU: Eşit olan yol mu, süre mi?\n\nÜÇ FARKLI HIZLA EŞİT YOL:\nV = 3 / (1/v₁ + 1/v₂ + 1/v₃)\n\nDURAKLAMA VARSA: Bekleme süresi toplam zamana EKLENİR ama yola bir şey eklemez; ortalama hız düşer.\n\nÖRNEK: 120 km yolu 60 km/sa ile gidip 30 dakika mola verip dönüşü 60 km/sa yapan aracın ortalama hızı = 240 / (2 + 0,5 + 2) = 240/4,5 ≈ 53,3 km/sa."
    }
   ],
-  "pufNoktalar": [
-   "Ortalama hız = toplam yol / toplam zaman (asla hızların ortalaması değil).",
-   "Gidiş-dönüşte harmonik ortalama: 2v₁v₂/(v₁+v₂).",
-   "Karşılaşmada hızlar toplanır, yetişmede çıkarılır.",
-   "Köprü geçerken yol = tren boyu + köprü boyu.",
-   "km/sa → m/s dönüşümü için 5/18 ile çarpılır.",
-   "Akıntı yönünde hızlar toplanır, karşı yönde çıkarılır.",
+  "puf": [
    "Ortalama hız = toplam yol / toplam zaman; hızların ortalaması değildir.",
    "Eşit yolda ortalama hız 2v₁v₂/(v₁+v₂); eşit sürede (v₁+v₂)/2.",
    "Tren problemlerinde trenin kendi boyu da alınan yola dahildir.",
    "'1 saat 15 dakika' 1,25 saattir — 1,15 değil."
   ]
  },
- {
-  "konuId": "i_sci_havuz",
-  "dersId": "matematik",
-  "baslik": "İşçi - Havuz Problemleri",
-  "ozet": "Birim zamanda yapılan iş mantığı, ortak çalışma ve havuz doldurma.",
+ "i_sci_havuz": {
   "bolumler": [
-   {
-    "baslik": "Temel Mantık",
-    "icerik": "ANAHTAR FİKİR: Bir işi t sürede bitiren, BİRİM ZAMANDA işin 1/t'sini yapar.\n\n• A işi 6 günde bitiriyorsa → günde 1/6'sını yapar\n• B işi 12 günde bitiriyorsa → günde 1/12'sini yapar\n\nBİRLİKTE:\n1/t = 1/t₁ + 1/t₂  →  t = (t₁ · t₂)/(t₁ + t₂)\n\nÖRNEK: A 6, B 12 günde bitiriyor. Birlikte?\n1/6 + 1/12 = 3/12 = 1/4 → 4 GÜN"
-   },
-   {
-    "baslik": "Ortak Çalışma Varyasyonları",
-    "icerik": "ÜÇ KİŞİ: 1/t = 1/a + 1/b + 1/c\n\nBİRİ AYRILIRSA / SONRADAN KATILIRSA:\nYapılan işi kesirlerle takip et; kalan iş üzerinden devam et.\n\nÖRNEK: A tek başına 3 gün çalışıp bırakıyor (A: 12 günlük iş). Kalan işi B (6 günlük) kaç günde bitirir?\n• A'nın yaptığı = 3 × 1/12 = 1/4\n• Kalan = 3/4\n• B'nin süresi = (3/4) ÷ (1/6) = 4,5 gün\n\nİŞÇİ SAYISI - SÜRE (TERS ORANTI):\nİşçi × Gün = sabit\n6 işçi 12 günde → 9 işçi: 6·12 = 9·x → x = 8 gün\n\nÜÇLÜ ORANTI (işçi, gün, iş):\n(İşçi₁ × Gün₁) / İş₁ = (İşçi₂ × Gün₂) / İş₂"
-   },
-   {
-    "baslik": "Havuz Problemleri",
-    "icerik": "• DOLDURAN musluk POZİTİF, BOŞALTAN musluk NEGATİF alınır.\n\nÖRNEK: A musluğu 4 saatte doldurur, B musluğu 6 saatte boşaltır. İkisi birlikte açıksa?\n1/4 − 1/6 = 3/12 − 2/12 = 1/12 → 12 SAATTE dolar\n\nDİKKAT: Boşaltan daha hızlıysa havuz HİÇ DOLMAZ.\n1/6 − 1/4 < 0 → dolmaz\n\nHAVUZUN BİR KISMI DOLUYSA:\nKalan hacim üzerinden hesap yapılır.\nHavuzun 1/3'ü doluysa, kalan 2/3'ü doldurma süresi = (2/3) ÷ (birim hız)"
-   },
-   {
-    "baslik": "Kalıp Sorular ve Kısayollar",
-    "icerik": "'A, B'den n kat hızlı' → A'nın süresi B'nin süresinin 1/n'i\n\nÖRNEK: A, B'den 2 kat hızlıysa ve birlikte 8 günde bitiriyorlarsa:\nA'nın hızı 2x, B'nin x → 3x = 1/8 → x = 1/24\nB tek başına 24 gün, A tek başına 12 gün.\n\nSIRAYLA ÇALIŞMA (dönüşümlü):\nA ve B birer gün dönüşümlü çalışıyorsa, 2 günde yapılan işi bulup döngü sayısını hesapla.\n\nEŞİT VERİM: n kişi t günde bitiriyorsa, 1 kişi n·t günde bitirir.\n\nİŞ = İŞÇİ × SÜRE × VERİM formülü karma sorularda kullanılır."
-   },
    {
     "baslik": "Birim İş Yöntemi — Genel Çözüm Şablonu",
     "icerik": "YÖNTEM: Toplam işi, verilen sürelerin EKOK'u kadar birim seç. Kesirli işlem tamsayıya döner.\n\nÖRNEK: A bir işi 12 günde, B 18 günde bitiriyor. Birlikte kaç günde biter?\nToplam iş = EKOK(12,18) = 36 birim\n• A'nın günlük hızı = 36/12 = 3 birim\n• B'nin günlük hızı = 36/18 = 2 birim\n• Birlikte = 5 birim/gün → 36/5 = 7,2 gün\n\nFORMÜL KARŞILIĞI: 1/x + 1/y = 1/t → t = xy/(x+y) = 12·18/30 = 7,2 ✓\n\nÜÇ KİŞİ: t = 1/(1/a + 1/b + 1/c)\n\nBİRİ ÇIKARSA (negatif hız):\nA dolduruyor, B boşaltıyorsa net hız = A − B. B daha hızlıysa havuz hiç dolmaz.\n\nEKSİK BİLGİ KURULUMU: 'A ve B birlikte 6 günde, A tek başına 10 günde bitiriyorsa B kaç günde bitirir?'\n1/B = 1/6 − 1/10 = (5−3)/30 = 2/30 → B = 15 gün.\n\nEN SIK HATA: Süreleri toplamak veya ortalamasını almak. Süreler değil HIZLAR toplanır."
@@ -562,41 +256,15 @@
     "icerik": "MUSLUK HIZI: Litre/dakika veya havuzun kesri/dakika olarak verilir.\n\nDOLDURMA + BOŞALTMA:\nNet hız = Dolduran − Boşaltan\nÖRNEK: A musluğu 6 saatte doldurur, B musluğu 9 saatte boşaltır. İkisi açıkken?\nEKOK(6,9) = 18 birim → A: 3 birim/sa, B: −2 birim/sa → net 1 birim/sa → 18 saat.\n\nHAVUZ KISMEN DOLUYSA: Kalan hacmi hesapla, net hıza böl.\n1/3'ü dolu havuz için kalan = 2/3 → süre = (2/3 · toplam) / net hız.\n\nTUZAK — BOŞALTMA MUSLUĞU SONRADAN AÇILIYOR:\nA 4 saat tek başına çalışıp sonra B açılıyorsa, ilk 4 saatteki dolum ayrı hesaplanır.\n\nİKİ MUSLUK FARKLI SÜRELERDE AÇIK:\nToplam dolum = (hız₁ × süre₁) + (hız₂ × süre₂) = toplam kapasite denklemi kurulur.\n\nKAPASİTE BULMA: 'A musluğu dakikada 8 L, B musluğu 12 L akıtıyor. İkisi birlikte havuzu 40 dakikada dolduruyorsa kapasite kaç litredir?'\n(8+12)·40 = 800 litre.\n\nTAŞMA KONTROLÜ: Dolduranın hızı boşaltanınkinden büyük değilse havuz DOLMAZ; soruda bu durum çıkarsa cevap 'dolmaz' olabilir."
    }
   ],
-  "pufNoktalar": [
-   "Birim zamanda yapılan iş = 1/süre.",
-   "İkili birlikte çalışma: t = t₁·t₂/(t₁+t₂).",
-   "Boşaltan musluk negatif alınır.",
-   "İşçi sayısı ile süre ters orantılıdır.",
-   "'n kat hızlı' ifadesi süreyi 1/n'e düşürür.",
-   "Yarım kalan işlerde kalan kesir üzerinden devam edilir.",
+  "puf": [
    "Süreler değil hızlar toplanır — 1/a + 1/b = 1/t.",
    "Toplam işi sürelerin EKOK'u seçmek kesirleri tamsayıya çevirir.",
    "Ücret çalışılan gün sayısına değil yapılan iş miktarına göre paylaşılır.",
    "Boşaltma hızı doldurma hızından büyükse havuz hiç dolmaz."
   ]
  },
- {
-  "konuId": "yas_problemleri",
-  "dersId": "matematik",
-  "baslik": "Yaş Problemleri",
-  "ozet": "Yaş farkı sabitliği, yıl ekleme-çıkarma ve yaş oranları.",
+ "yas_problemleri": {
   "bolumler": [
-   {
-    "baslik": "Temel Kurallar",
-    "icerik": "KURAL 1: İki kişi arasındaki YAŞ FARKI DAİMA SABİTTİR, hiç değişmez.\n\nKURAL 2: n yıl SONRA herkesin yaşına n eklenir.\nKURAL 3: n yıl ÖNCE herkesin yaşından n çıkarılır.\n\nKURAL 4: k kişinin yaş toplamı, n yıl sonra (k·n) kadar ARTAR.\n• 3 kardeşin yaş toplamı 5 yıl sonra 15 artar.\n\nDEĞİŞKEN SEÇİMİ: Genelde küçük olanın yaşına x denir."
-   },
-   {
-    "baslik": "Klasik Kurulumlar",
-    "icerik": "ÖRNEK 1: 'Ali'nin yaşı Bora'nın yaşının 3 katıdır. 4 yıl sonra 2 katı olacaktır.'\nA = 3B\nA + 4 = 2(B + 4)\n3B + 4 = 2B + 8 → B = 4, A = 12\n\nÖRNEK 2: 'Baba ve oğulun yaşları toplamı 50. Baba oğuldan 26 yaş büyük.'\nB + O = 50,  B − O = 26 → B = 38, O = 12\n\nÖRNEK 3 (fark sabitliği): 'Bir baba oğlundan 30 yaş büyüktür. Kaç yıl sonra babanın yaşı oğlunun yaşının 3 katı olur?'\n(O + 30 + x) = 3(O + x) → bu tip sorularda O da bilinmiyorsa ek bilgi gerekir."
-   },
-   {
-    "baslik": "Yaş Ortalaması ve Toplamı",
-    "icerik": "• k kişinin yaş ortalaması m ise toplam yaş = k · m\n• Gruba yeni biri katılırsa ortalama değişimi hesaplanır.\n\nÖRNEK: 4 kişinin yaş ortalaması 20. 5. kişi katılınca ortalama 22 oluyor. Yeni kişinin yaşı?\n• Eski toplam = 80\n• Yeni toplam = 5 × 22 = 110\n• Yeni kişi = 110 − 80 = 30\n\nGRUPTAN AYRILMA:\nÖRNEK: 6 kişinin ortalaması 25, biri ayrılınca 24 oluyor. Ayrılanın yaşı?\n6·25 − 5·24 = 150 − 120 = 30"
-   },
-   {
-    "baslik": "Sık Karşılaşılan Tuzaklar",
-    "icerik": "⚠ TUZAK 1: 'Yaş farkı değişir' sanmak. FARK ASLA DEĞİŞMEZ.\n\n⚠ TUZAK 2: Yaş toplamı sorularında kişi sayısını unutmak.\n'3 kişinin yaş toplamı 5 yıl sonra kaç artar?' → 15 (5 değil)\n\n⚠ TUZAK 3: 'x yıl önce' ifadesinde işareti karıştırmak.\n\n⚠ TUZAK 4: Kat ilişkisi zamanla değişir — 'şu an 3 katı' ile '5 yıl sonra 2 katı' aynı denklemde farklı zamanlardır.\n\nHIZLI KONTROL: Bulduğun cevabı soruya geri koy; hem şimdiki hem gelecekteki koşulu sağlamalı.\n\nÖZEL DURUM: 'Yaşları oranı a:b' verildiğinde yaşlar ak ve bk şeklinde yazılır."
-   },
    {
     "baslik": "Zaman Çizgisi Kurulumu",
     "icerik": "TEMEL İLKE: Tüm yaşlar AYNI ANDA aynı miktarda değişir. Bir kişi 5 yaş büyürken diğeri de 5 yaş büyür.\n\nZAMAN ÇİZGİSİ TABLOSU (en güvenli yöntem):\n           t yıl önce | Bugün | t yıl sonra\nA:         a − t      |   a   |   a + t\nB:         b − t      |   b   |   b + t\n\nÖRNEK: Bir baba ile oğlunun bugünkü yaşları toplamı 50. 5 yıl sonra babanın yaşı oğlunun yaşının 3 katı olacaksa bugünkü yaşları?\nBugün: b + o = 50\n5 yıl sonra: (b+5) = 3(o+5)\nb = 50 − o → 55 − o = 3o + 15 → 40 = 4o → o = 10, b = 40\nKONTROL: 5 yıl sonra 45 ve 15 → 45 = 3·15 ✓\n\n'YAŞINDA İKEN' KURULUMU (en zor kalıp):\n'A, B'nin bugünkü yaşında iken' → geçen süre = a_bugün − b_bugün yıl ÖNCE değil; A'nın o yaşa gelmesi için B'nin yaşına ulaşması gerekir.\nDoğru kurulum: A'nın B'nin yaşında olduğu an, bugünden (a − b) yıl ÖNCEDİR.\n\nHER ZAMAN ÖNCE ŞUNU YAZ: Bugünkü yaşlara harf ver, sonra tüm ifadeleri bugüne göre kaydır."
@@ -610,41 +278,15 @@
     "icerik": "TOPLAM YAŞ = Ortalama × Kişi Sayısı\n\nZAMANLA DEĞİŞİM: n kişilik bir grubun t yıl sonraki YAŞ TOPLAMI, bugünküne n·t eklenerek bulunur; ORTALAMA ise sadece t artar.\nÖRNEK: 5 kişilik grubun yaş ortalaması 20 ise 3 yıl sonra ortalama 23, toplam 100 + 15 = 115.\n\nGRUBA KATILMA:\nÖRNEK: Yaş ortalaması 24 olan 6 kişilik gruba bir kişi katılınca ortalama 25 oluyor. Katılanın yaşı?\nEski toplam = 144, yeni toplam = 7·25 = 175 → katılan 31 yaşında.\nKISAYOL: Katılanın yaşı = yeni ortalama + (kişi sayısı × ortalama artışı) = 25 + 6·1 = 31\n\nGRUPTAN AYRILMA:\nÖRNEK: Ortalaması 30 olan 8 kişilik gruptan biri ayrılınca ortalama 28 oluyor.\nEski toplam = 240, yeni toplam = 7·28 = 196 → ayrılan 44 yaşında.\n\nİKİ GRUBUN BİRLEŞMESİ (ağırlıklı ortalama):\n(n₁·x₁ + n₂·x₂)/(n₁+n₂). Grup büyüklükleri farklıysa basit ortalama alınamaz.\n\nTUZAK: 'Grubun yaş ortalaması 5 yıl sonra kaç olur?' sorusuna kişi sayısıyla çarpım eklemek. Ortalamaya yalnız 5 eklenir; kişi sayısıyla çarpım TOPLAM için geçerlidir."
    }
   ],
-  "pufNoktalar": [
-   "Yaş farkı hiçbir zaman değişmez.",
-   "k kişinin toplam yaşı n yıl sonra k·n artar.",
-   "Ortalama sorularında toplam = kişi sayısı × ortalama.",
-   "Kat ilişkileri farklı zamanlarda farklı denklemler verir.",
-   "Bulunan cevabı iki koşula da yerleştirip doğrula.",
-   "Oran verilmişse yaşlar ak, bk biçiminde yazılır.",
+  "puf": [
    "İki kişinin yaş farkı hiçbir zaman değişmez — en güçlü araç budur.",
    "Yaşlar büyüdükçe aralarındaki oran daima 1'e yaklaşır.",
    "Grubun ortalaması t yıl sonra sadece t artar; toplam ise n·t artar.",
    "Gruba katılanın yaşı = yeni ortalama + kişi sayısı × ortalama artışı."
   ]
  },
- {
-  "konuId": "veri_yorumlama",
-  "dersId": "matematik",
-  "baslik": "Tablo ve Grafik Yorumlama",
-  "ozet": "Tablo, sütun-çizgi-daire grafiği okuma ve veri analizi.",
+ "veri_yorumlama": {
   "bolumler": [
-   {
-    "baslik": "Grafik Türleri",
-    "icerik": "• SÜTUN (ÇUBUK) GRAFİĞİ: Kategorileri karşılaştırmak için. Yükseklik = değer.\n• ÇİZGİ GRAFİĞİ: Zaman içindeki DEĞİŞİMİ gösterir. Eğim = artış/azalış hızı.\n• DAİRE (PASTA) GRAFİĞİ: Bütün içindeki PAYLARI gösterir. Toplam 360° = %100.\n• HİSTOGRAM: Aralıklı verilerin sıklığı.\n• SERPİLME (NOKTA) GRAFİĞİ: İki değişken arası ilişki.\n\nDAİRE GRAFİĞİ HESABI:\n• Merkez açı = (Değer / Toplam) × 360°\n• Yüzde = (Merkez açı / 360°) × 100\n• %25 → 90°,  %50 → 180°,  %10 → 36°"
-   },
-   {
-    "baslik": "Tablo Okuma Teknikleri",
-    "icerik": "1) ÖNCE BAŞLIK ve BİRİMLERİ oku (bin TL mi, milyon mu?).\n2) Satır ve sütun başlıklarını netleştir.\n3) Soruda hangi hücre/hücrelerin istendiğini işaretle.\n4) 'Toplam' satır/sütunu varsa kontrol amaçlı kullan.\n\nSIK SORU TİPLERİ:\n• En yüksek/en düşük değer\n• İki dönem arası ARTIŞ MİKTARI (fark) ve ARTIŞ ORANI (yüzde)\n• Toplam içindeki pay (yüzde)\n• Ortalama hesabı\n• Karşılaştırma ve sıralama\n\nDİKKAT: 'Artış miktarı' ile 'artış oranı' FARKLIDIR.\n100→150: miktar 50, oran %50\n400→450: miktar 50, oran %12,5"
-   },
-   {
-    "baslik": "Yüzde ve Değişim Hesapları",
-    "icerik": "• Değişim oranı = (Yeni − Eski) / Eski × 100\n• Pay = (Parça / Bütün) × 100\n\nÖRNEK: 2020'de 250, 2021'de 300 birim üretim.\n• Artış miktarı = 50\n• Artış oranı = 50/250 × 100 = %20\n\nÇOKLU YIL ANALİZİ:\nHer yıl için ayrı ayrı oran hesapla; 'en çok artış oranı' ile 'en çok artış miktarı' farklı yıllar olabilir.\n\nORTALAMA:\n• Basit ortalama = toplam / adet\n• Ağırlıklı ortalama = Σ(değer × ağırlık) / Σağırlık"
-   },
-   {
-    "baslik": "Yorumlama Soruları ve Tuzaklar",
-    "icerik": "'AŞAĞIDAKİLERDEN HANGİSİ SÖYLENEBİLİR/SÖYLENEMEZ?'\n• Grafikte OLMAYAN bir bilgi çıkarılamaz.\n• Neden-sonuç ilişkisi grafikte yoksa varsayılamaz.\n\n⚠ TUZAKLAR:\n• Yüzde artışı ile mutlak artışı karıştırmak.\n• Farklı ölçekli iki grafiği doğrudan karşılaştırmak.\n• Grafiğin ekseninin sıfırdan başlamaması (görsel yanıltma).\n• 'Toplam arttı' ≠ 'her kalem arttı'\n• Oran arttı ≠ miktar arttı (bütün küçüldüyse oran artabilir)\n\nÖRNEK TUZAK: Bir şirketin pazar payı %20'den %25'e çıkmış olabilir ama toplam pazar küçüldüyse SATIŞ MİKTARI azalmış olabilir."
-   },
    {
     "baslik": "Daire Grafiği ve Merkez Açı",
     "icerik": "TEMEL DÖNÜŞÜM: Tüm daire 360° ve %100'dür.\n• Merkez açı = (Değer / Toplam) × 360°\n• Yüzde = (Merkez açı / 360) × 100\n• 1% = 3,6°  |  90° = %25  |  60° = %16,67  |  36° = %10\n\nÖRNEK: 720 kişilik ankette bir seçeneğin merkez açısı 45° ise kaç kişi seçmiştir?\n720 · 45/360 = 90 kişi\n\nDİLİM ORANI: İki dilimin açıları oranı, temsil ettikleri değerlerin oranına EŞİTTİR. Toplamı bilmeden de oran sorusu çözülebilir.\n\nAÇILAR TOPLAMI KONTROLÜ: Verilen açıların toplamı 360'ı aşıyorsa veya eksikse, eksik dilim 360'tan çıkarılarak bulunur.\n\nYÜZDE TOPLAMI: Tüm dilimlerin yüzdeleri toplamı 100 olmalıdır; 'diğer' dilimi 100'den çıkarılarak bulunur.\n\nİKİ DAİRE KARŞILAŞTIRMASI — EN BÜYÜK TUZAK:\nİki farklı daire grafiğinde aynı yüzdeye sahip iki dilim, TOPLAMLARI farklıysa farklı sayıda kişiyi temsil eder.\n'A okulunun %30'u ile B okulunun %30'u eşittir' demek ancak iki okulun mevcudu eşitse doğrudur. Soruda toplam verilmemişse bu karşılaştırma YAPILAMAZ — cevap çoğu zaman 'kesin olarak bilinemez'dir."
@@ -658,17 +300,11 @@
     "icerik": "ÖNCE SORUYU OKU: Tabloyu baştan sona incelemek zaman kaybıdır. Sorunun hangi satır/sütunu istediğini belirle, yalnız o hücrelere bak.\n\nHESAPLAMADAN ELEME:\n• Kabaca yuvarlayarak karşılaştır: 487/1963 ≈ 500/2000 = %25.\n• Şıklar birbirinden uzaksa tam hesap gerekmez.\n\nSATIR/SÜTUN TOPLAMI: Tabloda bir hücre boş bırakılmışsa satır veya sütun toplamından çıkarılarak bulunur. Boşluk gördüğünde ilk yapılacak budur.\n\n'EN AZ / EN ÇOK' SORULARI: Tüm hücreleri hesaplamak yerine aday 2-3 hücreyi seç. Payı büyük, paydası küçük olanlar adaydır.\n\nORAN SORULARINDA ORTAK ÇARPAN: Tüm değerler binde veya milyonda verilmişse birim sadeleşir; sıfırlarla uğraşma.\n\nKESİN BİLİNEMEZ ŞIKKI: Şu durumlarda doğru cevaptır:\n• İki farklı tablonun toplamları verilmemişse\n• Yalnız yüzde verilip mutlak sayı sorulmuşsa\n• Ara yıllar için veri yoksa ('2019'da kaç olmuştur' — tabloda 2018 ve 2020 varsa bilinemez)\n\nBİRİM KONTROLÜ: Tablo başlığındaki '(bin TL)' veya '(milyon adet)' ibaresini atlamak en sık yapılan hatadır; şıklar genelde bu hatayı yakalamak için tasarlanır."
    }
   ],
-  "pufNoktalar": [
-   "Daire grafiğinde merkez açı = (değer/toplam)×360.",
-   "Artış miktarı ile artış oranı farklı şeylerdir.",
-   "Oranın artması miktarın arttığı anlamına gelmez.",
-   "Grafikte olmayan bilgi 'söylenemez'.",
-   "Birimlere dikkat: bin TL / milyon TL karışıklığı sık tuzaktır.",
-   "%25 = 90°, %50 = 180°, %10 = 36° akılda tutulmalı.",
+  "puf": [
    "1 yüzde = 3,6 derece; merkez açı = (değer/toplam) × 360.",
    "En çok artan ile en yüksek artış oranına sahip olan farklı olabilir.",
    "İki farklı grafikte aynı yüzde, toplamlar farklıysa aynı sayıyı göstermez.",
    "Tablo başlığındaki birim ibaresini (bin TL, milyon adet) mutlaka oku."
   ]
  }
-]
+}

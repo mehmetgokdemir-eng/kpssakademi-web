@@ -1,0 +1,74 @@
+{
+ "genel_muhasebe": {
+  "bolumler": [
+   {
+    "baslik": "Yevmiye Kaydı Mantığı ve Örnek Kayıtlar",
+    "icerik": "TEMEL KURAL: Her işlemde BORÇ TOPLAMI = ALACAK TOPLAMI olmalıdır (çift taraflı kayıt).\n\nHESAP İŞLEYİŞİ:\n• VARLIK (aktif) hesapları artışta BORÇLU, azalışta ALACAKLI çalışır.\n• KAYNAK (pasif) hesapları artışta ALACAKLI, azalışta BORÇLU çalışır.\n• GİDER hesapları artışta BORÇLU, GELİR hesapları artışta ALACAKLI çalışır.\nEZBER KISAYOLU: 'Varlık ve gider artarsa borç; kaynak ve gelir artarsa alacak.'\n\nÖRNEK 1 — Peşin mal alımı (10.000 TL + %20 KDV):\n153 TİCARİ MALLAR       10.000 (Borç)\n191 İNDİRİLECEK KDV      2.000 (Borç)\n        100 KASA                12.000 (Alacak)\n\nÖRNEK 2 — Veresiye satış (15.000 TL + %20 KDV):\n120 ALICILAR            18.000 (Borç)\n        600 YURT İÇİ SATIŞLAR   15.000 (Alacak)\n        391 HESAPLANAN KDV       3.000 (Alacak)\n\nÖRNEK 3 — Banka kredisi alınması:\n102 BANKALAR            50.000 (Borç)\n        300 BANKA KREDİLERİ     50.000 (Alacak)\n\nÖRNEK 4 — Kira gideri ödenmesi:\n770 GENEL YÖNETİM GİDERLERİ  8.000 (Borç)\n        100 KASA                     8.000 (Alacak)\n\nMUHASEBE SÜRECİ: Belge → Yevmiye defteri (günlük kayıt) → Büyük defter (hesap bazında toplama) → Mizan (kontrol) → Envanter → Mali tablolar → Kapanış.\n\nMİZAN KONTROLÜ: Borç kalanları toplamı = Alacak kalanları toplamı olmalıdır. Eşitlik sağlansa bile tutar aynı ama hesap yanlış seçilmişse hata mizanda YAKALANMAZ."
+   },
+   {
+    "baslik": "Ticari Mal Hareketleri ve Satış Maliyeti",
+    "icerik": "İKİ STOK YÖNTEMİ:\n• ARALIKSIZ (DEVAMLI) ENVANTER: Her satışta hem satış hem maliyet kaydı yapılır. Stok miktarı her an bilinir. Kayıt yükü fazladır.\n• ARALIKLI (DÖNEMSEL) ENVANTER: Satış anında yalnız satış kaydı yapılır; maliyet DÖNEM SONUNDA hesaplanır. KPSS sorularında ağırlıklı olarak bu yöntem sorulur.\n\nSATILAN TİCARİ MALIN MALİYETİ (STMM):\nSTMM = Dönem Başı Stok + Dönem İçi Alışlar (+ alış giderleri − alış iadeleri ve iskontoları) − Dönem Sonu Stok\n\nÖRNEK: Dönem başı 20.000, alışlar 80.000, dönem sonu 25.000 TL ise\nSTMM = 20.000 + 80.000 − 25.000 = 75.000 TL\nSatışlar 110.000 TL ise BRÜT SATIŞ KÂRI = 110.000 − 75.000 = 35.000 TL\n\nSTOK DEĞERLEME YÖNTEMLERİ:\n• FİFO (İlk giren ilk çıkar): Fiyatlar yükselirken maliyet DÜŞÜK, kâr ve dönem sonu stok değeri YÜKSEK çıkar.\n• LIFO (Son giren ilk çıkar): Fiyatlar yükselirken maliyet YÜKSEK, kâr DÜŞÜK çıkar. (Türkiye'de vergi mevzuatında kabul edilmez.)\n• ORTALAMA MALİYET: İki yöntem arasında bir sonuç verir.\n\nİLGİLİ HESAPLAR:\n• 153 TİCARİ MALLAR: Stok hesabı.\n• 600 YURT İÇİ SATIŞLAR / 601 YURT DIŞI SATIŞLAR\n• 610 SATIŞTAN İADELER (−), 611 SATIŞ İSKONTOLARI (−) → Bunlar AKTİF DÜZENLEYİCİ nitelikte, gelir tablosunda indirim kalemi olarak yer alır.\n• 621 SATILAN TİCARİ MALLAR MALİYETİ: Gelir tablosunda brüt kârı bulmak için satışlardan düşülür.\n\nKDV MANTIĞI: 191 İNDİRİLECEK KDV (alışlarda, aktif) ile 391 HESAPLANAN KDV (satışlarda, pasif) dönem sonunda karşılaştırılır. Hesaplanan büyükse fark 360 ÖDENECEK VERGİ VE FONLAR'a, indirilecek büyükse 190 DEVREDEN KDV'ye aktarılır."
+   }
+  ],
+  "puf": [
+   "Varlık ve gider artarsa borç, kaynak ve gelir artarsa alacak kaydedilir.",
+   "STMM = dönem başı stok + alışlar − dönem sonu stok.",
+   "Fiyatlar yükselirken FIFO kârı yüksek, LIFO kârı düşük gösterir.",
+   "Mizan eşitliği sağlansa bile yanlış hesap seçimi hatası yakalanmaz."
+  ]
+ },
+ "hesap_plani": {
+  "bolumler": [
+   {
+    "baslik": "Hesap Sınıflarının Mantığı ve Kodlama",
+    "icerik": "TEKDÜZEN HESAP PLANI SINIFLARI:\n1 — DÖNEN VARLIKLAR (bir yıl içinde paraya çevrilebilenler)\n2 — DURAN VARLIKLAR (bir yıldan uzun süre kullanılanlar)\n3 — KISA VADELİ YABANCI KAYNAKLAR (bir yıl içinde ödenecek borçlar)\n4 — UZUN VADELİ YABANCI KAYNAKLAR\n5 — ÖZ KAYNAKLAR\n6 — GELİR TABLOSU HESAPLARI\n7 — MALİYET HESAPLARI\n8 — (Serbest)\n9 — NAZIM HESAPLAR (bilanço dışı izlenen; teminat mektupları, kefaletler)\n\nKODLAMA MANTIĞI: İlk rakam sınıfı, ikinci rakam grubu, üçüncü rakam hesabı gösterir.\nÖRNEK: 121 → 1 (dönen varlık), 12 (ticari alacaklar grubu), 121 (alacak senetleri)\n\nDÖNEN VARLIK GRUPLARI: 10 Hazır Değerler, 11 Menkul Kıymetler, 12 Ticari Alacaklar, 13 Diğer Alacaklar, 15 Stoklar, 17 Yıllara Yaygın İnşaat, 18 Gelecek Aylara Ait Giderler, 19 Diğer Dönen Varlıklar.\n\nDURAN VARLIK GRUPLARI: 22 Ticari Alacaklar (uzun vadeli), 24 Mali Duran Varlıklar, 25 Maddi Duran Varlıklar, 26 Maddi Olmayan Duran Varlıklar, 27 Özel Tükenmeye Tabi Varlıklar, 28 Gelecek Yıllara Ait Giderler.\n\nAKTİF DÜZENLEYİCİ HESAPLAR (varlıkları azaltıcı, ALACAK kalanı verir):\n• 103 Verilen Çekler ve Ödeme Emirleri (−)\n• 122 Alacak Senetleri Reeskontu (−)\n• 128/129 Şüpheli Ticari Alacaklar Karşılığı (−)\n• 257 Birikmiş Amortismanlar (−)\n• 268 Birikmiş Amortismanlar (maddi olmayan) (−)\n\nPASİF DÜZENLEYİCİ HESAPLAR (kaynakları azaltıcı, BORÇ kalanı verir):\n• 322 Borç Senetleri Reeskontu (−)\n• 501 Ödenmemiş Sermaye (−)\n• 580 Geçmiş Yıllar Zararları (−), 591 Dönem Net Zararı (−)\n\nBU AYRIM SINAVDA SIK SORULUR: Düzenleyici hesaplar, ait oldukları grubun TERSİ yönde çalışır ve bilançoda eksi işaretle gösterilir."
+   },
+   {
+    "baslik": "Maliyet Hesapları ve Gider Dağıtımı",
+    "icerik": "7/A SEÇENEĞİ (fonksiyon esaslı — büyük işletmeler için zorunlu):\n• 710 Direkt İlk Madde ve Malzeme Giderleri\n• 720 Direkt İşçilik Giderleri\n• 730 Genel Üretim Giderleri\n• 740 Hizmet Üretim Maliyeti\n• 750 Araştırma ve Geliştirme Giderleri\n• 760 Pazarlama, Satış ve Dağıtım Giderleri\n• 770 Genel Yönetim Giderleri\n• 780 Finansman Giderleri\nHer birinin yanında YANSITMA hesabı (711, 721, 731…) bulunur; dönem sonunda maliyet hesapları yansıtma hesaplarıyla karşılaştırılarak kapatılır.\n\n7/B SEÇENEĞİ (gider çeşidi esaslı — küçük işletmeler): 790 İlk Madde ve Malzeme Giderleri, 791 İşçi Ücret ve Giderleri, 792 Memur Ücret ve Giderleri, 793 Dışarıdan Sağlanan Fayda ve Hizmetler, 794 Çeşitli Giderler, 795 Vergi, Resim ve Harçlar, 796 Amortismanlar, 797 Finansman Giderleri.\n\nÜRETİM MALİYETİ UNSURLARI:\nDirekt ilk madde + Direkt işçilik + Genel üretim giderleri = ÜRETİM MALİYETİ\n• DÖNÜŞÜM (İŞÇİLİK+GÜG) MALİYETİ = Direkt işçilik + Genel üretim giderleri\n• TEMEL (BİRİNCİL) MALİYET = Direkt ilk madde + Direkt işçilik\n\nDİREKT – ENDİREKT AYRIMI: Ürüne doğrudan ve ekonomik biçimde izlenebilen giderler DİREKT, izlenemeyenler ENDİREKTTİR. Fabrika kirası, bakım-onarım ve ustabaşı ücreti endirekt (genel üretim) giderdir.\n\nSABİT – DEĞİŞKEN AYRIMI: Üretim hacmiyle değişenler değişken, değişmeyenler sabit giderdir. Yarı değişken giderler her iki bileşeni de içerir.\n\nGELİR TABLOSU HESAPLARI (6 grubu): 60 Brüt Satışlar, 61 Satış İndirimleri (−), 62 Satışların Maliyeti (−), 63 Faaliyet Giderleri (−), 64 Diğer Faaliyetlerden Olağan Gelir ve Kârlar, 65 Diğer Faaliyetlerden Olağan Gider ve Zararlar (−), 66 Finansman Giderleri (−), 67 Olağan Dışı Gelir ve Kârlar, 68 Olağan Dışı Gider ve Zararlar (−), 69 Dönem Net Kârı veya Zararı."
+   }
+  ],
+  "puf": [
+   "Düzenleyici hesaplar ait oldukları grubun ters yönünde çalışır.",
+   "Hesap kodunda ilk rakam sınıfı, ikinci grubu, üçüncü hesabı gösterir.",
+   "Üretim maliyeti = direkt ilk madde + direkt işçilik + genel üretim giderleri.",
+   "7/A fonksiyon esaslı, 7/B gider çeşidi esaslı sınıflandırmadır."
+  ]
+ },
+ "mali_tablolar": {
+  "bolumler": [
+   {
+    "baslik": "Oran Analizi — Hesaplama ve Yorum",
+    "icerik": "LİKİDİTE ORANLARI (kısa vadeli borç ödeme gücü):\n• CARİ ORAN = Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar. Genel kabul gören değer 2 civarıdır.\n• ASİT-TEST (LİKİDİTE) ORANI = (Dönen Varlıklar − Stoklar) / KVYK. Beklenen değer 1 civarıdır. Stokların satılamama riskini dışlar.\n• NAKİT ORANI = (Hazır Değerler + Menkul Kıymetler) / KVYK. Beklenen değer 0,20 civarıdır.\n\nMALİ YAPI ORANLARI:\n• BORÇLANMA (KALDIRAÇ) ORANI = Toplam Yabancı Kaynak / Toplam Aktif. Yükselmesi finansal riski artırır.\n• ÖZ KAYNAK / TOPLAM AKTİF: Varlıkların ne kadarının öz kaynakla finanse edildiğini gösterir.\n• FAİZ KARŞILAMA ORANI = Faiz ve Vergi Öncesi Kâr / Faiz Gideri.\n\nFAALİYET (DEVİR HIZI) ORANLARI:\n• STOK DEVİR HIZI = Satılan Malın Maliyeti / Ortalama Stok. Yüksek olması stokların hızla nakde döndüğünü gösterir.\n• ALACAK DEVİR HIZI = Kredili Satışlar / Ortalama Ticari Alacaklar.\n• ALACAK TAHSİL SÜRESİ = 365 / Alacak devir hızı.\n• AKTİF DEVİR HIZI = Net Satışlar / Toplam Aktif. Varlıkların satış yaratma etkinliğidir.\n\nKÂRLILIK ORANLARI:\n• BRÜT KÂR MARJI = Brüt Satış Kârı / Net Satışlar\n• NET KÂR MARJI = Net Kâr / Net Satışlar\n• AKTİF KÂRLILIĞI (ROA) = Net Kâr / Toplam Aktif\n• ÖZ KAYNAK KÂRLILIĞI (ROE) = Net Kâr / Öz Kaynak\n\nYORUM KURALI: Tek bir oran tek başına anlam taşımaz. Sektör ortalamasıyla ve işletmenin geçmiş yıl verileriyle karşılaştırılmalıdır. Cari oranın çok yüksek olması da olumlu değildir — atıl kaynak tutulduğunu gösterebilir."
+   },
+   {
+    "baslik": "Karşılaştırmalı ve Dikey Analiz Teknikleri",
+    "icerik": "KARŞILAŞTIRMALI TABLOLAR ANALİZİ (YATAY ANALİZ): İki veya daha fazla döneme ait tablolar yan yana konur; kalemlerdeki TUTAR ve YÜZDE değişimler hesaplanır.\nDeğişim oranı = (Cari yıl − Baz yıl) / Baz yıl × 100\nEn büyük yararı EĞİLİMİ görmektir; dinamik bir analizdir.\nSINIRLILIĞI: Baz yılın olağan dışı olması tüm analizi yanıltır.\n\nDİKEY (YÜZDE) ANALİZ: Her kalemin, ait olduğu grup toplamına veya genel toplama oranı bulunur.\n• Bilançoda: Her kalem / Aktif (veya pasif) toplamı\n• Gelir tablosunda: Her kalem / Net satışlar\nTek bir döneme de uygulanabilir; farklı büyüklükteki işletmelerin karşılaştırılmasına olanak verir. Yapısal bozuklukları (örneğin stokların aktif içindeki payının aşırı büyümesini) görünür kılar.\n\nEĞİLİM YÜZDELERİ (TREND) ANALİZİ: Bir yıl baz (100) kabul edilir, sonraki yıllar buna göre endekslenir. En az 5–10 yıllık seri gerektirir; uzun dönemli gidişi gösterir.\n\nORAN ANALİZİ: Kalemler arası ilişkileri tek bir sayıya indirger.\n\nNAKİT AKIŞ TABLOSU: Nakit giriş ve çıkışlarını üç faaliyet başlığında gösterir:\n• İŞLETME FAALİYETLERİ: Esas faaliyetten doğan nakit. Sürekli POZİTİF olması sağlıklı işletmenin göstergesidir.\n• YATIRIM FAALİYETLERİ: Duran varlık alım-satımı. Büyüyen işletmede genellikle negatiftir.\n• FİNANSMAN FAALİYETLERİ: Borçlanma, kredi ödemesi, sermaye artırımı, temettü.\nKÂR İLE NAKİT AYNI ŞEY DEĞİLDİR: Bir işletme kâr açıklarken nakit sıkıntısı yaşayabilir; bu yüzden nakit akış tablosu bağımsız bir sağlık göstergesidir.\n\nÖZ KAYNAK DEĞİŞİM TABLOSU: Sermaye, yedekler ve geçmiş yıl kârlarındaki hareketleri gösterir.\nFON AKIM TABLOSU: Kaynakların hangi alanlarda kullanıldığını ortaya koyar."
+   }
+  ],
+  "puf": [
+   "Cari oranın genel kabul gören değeri 2, asit-test oranının 1 civarıdır.",
+   "Dikey analiz farklı büyüklükteki işletmelerin karşılaştırılmasını sağlar.",
+   "İşletme faaliyetlerinden nakdin sürekli pozitif olması sağlık göstergesidir.",
+   "Kâr etmek ile nakit yaratmak aynı şey değildir."
+  ]
+ },
+ "donem_sonu": {
+  "bolumler": [
+   {
+    "baslik": "Amortisman Yöntemleri — Hesaplama Örnekleri",
+    "icerik": "NORMAL (EŞİT TUTARLI) AMORTİSMAN:\nYıllık amortisman = Maliyet Bedeli × Amortisman Oranı\nOran = 1 / Faydalı ömür\nÖRNEK: 120.000 TL'lik makine, 5 yıl faydalı ömür → oran %20 → her yıl 24.000 TL.\n\nAZALAN BAKİYELER (HIZLANDIRILMIŞ) YÖNTEMİ:\n• Oran, normal oranın İKİ KATIDIR ve %50'yi geçemez.\n• Her yıl NET DEFTER DEĞERİ (maliyet − birikmiş amortisman) üzerinden hesaplanır.\n• SON YIL kalan bakiyenin TAMAMI amortismana tabi tutulur.\nÖRNEK: Aynı makine, oran %40:\n1. yıl: 120.000 × 0,40 = 48.000 (kalan 72.000)\n2. yıl: 72.000 × 0,40 = 28.800 (kalan 43.200)\n3. yıl: 43.200 × 0,40 = 17.280 (kalan 25.920)\n4. yıl: 25.920 × 0,40 = 10.368 (kalan 15.552)\n5. yıl: 15.552'nin tamamı yazılır.\nETKİSİ: İlk yıllarda gider yüksek, kâr düşük olur; vergi ertelemesi sağlar.\n\nKIST AMORTİSMAN: Binek otomobillerde, satın alınan yılda AY kesri tam ay sayılarak kullanım süresiyle orantılı amortisman ayrılır. Ayrılamayan kısım son yıla eklenir.\n\nKAYIT:\n770/730 AMORTİSMAN GİDERİ    24.000 (Borç)\n        257 BİRİKMİŞ AMORTİSMANLAR   24.000 (Alacak)\nBirikmiş amortisman AKTİF DÜZENLEYİCİ bir hesaptır; varlığın maliyetinden düşülerek net defter değeri bulunur.\n\nARSA VE ARAZİ amortismana tabi DEĞİLDİR (tükenmeyen varlıklardır). Boş arazi üzerindeki bina ise amortismana tabidir.\n\nDURAN VARLIK SATIŞI: Satış bedeli net defter değerinden yüksekse 649 DİĞER OLAĞAN GELİR VE KÂRLAR, düşükse 659 DİĞER OLAĞAN GİDER VE ZARARLAR kullanılır."
+   },
+   {
+    "baslik": "Şüpheli Alacaklar ve Reeskont İşlemleri",
+    "icerik": "ŞÜPHELİ ALACAK: Dava veya icra safhasına gelmiş ya da yapılan protestoya rağmen tahsil edilememiş alacaktır.\n\nŞÜPHELİ HÂLE GELDİĞİNDE:\n128 ŞÜPHELİ TİCARİ ALACAKLAR    10.000 (Borç)\n        120 ALICILAR                    10.000 (Alacak)\n\nKARŞILIK AYRILMASI:\n654 KARŞILIK GİDERLERİ          10.000 (Borç)\n        129 ŞÜPHELİ TİCARİ ALACAKLAR KARŞILIĞI  10.000 (Alacak)\n129 hesap AKTİF DÜZENLEYİCİDİR ve bilançoda alacaklardan düşülür.\n\nSONRADAN TAHSİL EDİLİRSE: Karşılık iptal edilir ve 644 KONUSU KALMAYAN KARŞILIKLAR hesabına alınır.\nTAHSİL EDİLEMEYECEĞİ KESİNLEŞİRSE: Alacak 689 DİĞER OLAĞAN DIŞI GİDER VE ZARARLAR ile kayıttan silinir.\n\nREESKONT: Vadesi gelmemiş senetli alacak ve borçların DÖNEM SONUNDA bugünkü değerine indirgenmesidir. Dönemsellik ve ihtiyatlılık kavramlarının gereğidir.\nİÇ İSKONTO FORMÜLÜ: Reeskont tutarı = (Nominal Değer × Faiz Oranı × Gün) / (36.000 + Faiz Oranı × Gün)\n\nALACAK SENEDİ REESKONTU (gider yazılır):\n657 REESKONT FAİZ GİDERLERİ (Borç) / 122 ALACAK SENETLERİ REESKONTU (Alacak)\nBORÇ SENEDİ REESKONTU (gelir yazılır):\n322 BORÇ SENETLERİ REESKONTU (Borç) / 647 REESKONT FAİZ GELİRLERİ (Alacak)\nİzleyen dönem başında bu kayıtlar TERS KAYITLA iptal edilir.\n\nDÖNEM AYIRICI HESAPLAR (tahakkuk esasının gereği):\n• 180 GELECEK AYLARA AİT GİDERLER: Peşin ödenmiş ama gelecek döneme ait giderler (peşin ödenen kira, sigorta).\n• 380 GELECEK AYLARA AİT GELİRLER: Peşin tahsil edilmiş ama gelecek döneme ait gelirler.\n• 181 GELİR TAHAKKUKLARI: Hak edilmiş ama henüz tahsil edilmemiş gelirler.\n• 381 GİDER TAHAKKUKLARI: Doğmuş ama henüz ödenmemiş giderler.\n\nDÖNEM SONU SIRASI: Genel geçici mizan → Envanter işlemleri → Kesin mizan → Mali tablolar → Kapanış kaydı."
+   }
+  ],
+  "puf": [
+   "Azalan bakiyelerde oran normalin iki katıdır ve %50'yi geçemez.",
+   "Arsa ve arazi amortismana tabi değildir.",
+   "Birikmiş amortisman ve şüpheli alacak karşılığı aktif düzenleyici hesaplardır.",
+   "Reeskont kayıtları izleyen dönem başında ters kayıtla iptal edilir."
+  ]
+ }
+}

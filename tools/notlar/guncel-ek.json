@@ -1,26 +1,6 @@
-[
- {
-  "konuId": "turkiye_guncel",
-  "dersId": "guncel",
-  "baslik": "Türkiye Gündemi",
-  "ozet": "Türkiye'nin yönetim yapısı, kurumları ve güncel gelişme alanları.",
+{
+ "turkiye_guncel": {
   "bolumler": [
-   {
-    "baslik": "Yönetim Yapısı",
-    "icerik": "• Türkiye 2018'den itibaren CUMHURBAŞKANLIĞI HÜKÜMET SİSTEMİ ile yönetilmektedir (16 Nisan 2017 referandumu).\n• Cumhurbaşkanı hem devletin hem yürütmenin başıdır; 5 yıl için seçilir, en fazla 2 dönem görev yapar.\n• TBMM 600 milletvekilinden oluşur, seçimler 5 yılda bir yapılır.\n• Seçim barajı 2022 değişikliğiyle %10'dan %7'YE düşürülmüştür.\n• Cumhurbaşkanı yardımcıları ve bakanlar Cumhurbaşkanınca atanır; TBMM dışından da atanabilir.\n• Cumhurbaşkanlığı Kararnamesi (CBK) yürütmeye ilişkin konularda çıkarılır; kanunla çelişirse KANUN üstündür.\n• GENSORU kaldırılmıştır; denetim yolları: yazılı soru, genel görüşme, meclis araştırması, meclis soruşturması."
-   },
-   {
-    "baslik": "Önemli Kurumlar",
-    "icerik": "• TÜİK: Türkiye İstatistik Kurumu — enflasyon (TÜFE/ÜFE), işsizlik, büyüme verileri.\n• TCMB: Merkez Bankası — para politikası, fiyat istikrarı, politika faizi kararları (Para Politikası Kurulu).\n• BDDK: Bankacılık düzenleme ve denetleme. SPK: Sermaye piyasası. TMSF: Mevduat sigortası.\n• AFAD: Afet ve Acil Durum Yönetimi Başkanlığı.\n• TÜBİTAK: Bilimsel ve teknolojik araştırma desteği.\n• KOSGEB: KOBİ destekleri. TİKA: Kalkınma ve iş birliği ajansı.\n• YÖK ve ÖSYM: Yükseköğretim ve merkezi sınavlar.\n• RTÜK: Radyo, televizyon ve isteğe bağlı yayın denetimi.\n• Rekabet Kurumu, EPDK, BTK: Düzenleyici ve denetleyici kurumlar.\n• Kamu Denetçiliği Kurumu (Ombudsman): TBMM'ye bağlı, tavsiye kararı verir.\n• Anayasa Mahkemesi: Bireysel başvuru, norm denetimi, Yüce Divan."
-   },
-   {
-    "baslik": "Ekonomi ve Kalkınma Gündemi",
-    "icerik": "• Kalkınma planları Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı tarafından hazırlanır (DPT'nin devamı).\n• ORTA VADELİ PROGRAM (OVP): Üç yıllık makroekonomik hedefler.\n• Türkiye'nin başlıca ihracat kalemleri: otomotiv, hazır giyim-tekstil, demir-çelik, makine, kimya.\n• Kronik CARİ AÇIK: Enerji ve ara malı ithalatına dayalı yapısal sorun.\n• Yenilenebilir enerji yatırımları (rüzgâr, güneş, jeotermal) artmakta; Akkuyu Nükleer Santrali inşa hâlindedir.\n• Karadeniz'de doğal gaz keşfi (Sakarya Gaz Sahası).\n• Savunma sanayii: ASELSAN, TUSAŞ, ROKETSAN, BAYKAR; İHA/SİHA üretimi ve KAAN millî muharip uçak projesi.\n• Büyük altyapı projeleri: Osmangazi ve 1915 Çanakkale köprüleri, Marmaray, İstanbul Havalimanı, YHT hatları."
-   },
-   {
-    "baslik": "Sosyal ve Kültürel Gündem",
-    "icerik": "• Nüfus 85 milyonun üzerindedir; genç nüfus oranı azalmakta, YAŞLANMA eğilimi başlamıştır.\n• Kentleşme oranı %90'a yaklaşmıştır.\n• 6 Şubat 2023 Kahramanmaraş merkezli depremler 11 ili etkilemiştir; afet yönetimi ve yapı denetimi gündemin merkezine oturmuştur.\n• Eğitimde 12 yıllık zorunlu eğitim (4+4+4), LGS ve YKS merkezi sınavları.\n• Sağlıkta şehir hastaneleri modeli (kamu-özel iş birliği), e-Nabız ve MHRS uygulamaları.\n• UNESCO Dünya Mirası Listesi'nde Türkiye'den çok sayıda varlık bulunur: Göbeklitepe, Efes, Truva, Safranbolu, Divriği Ulu Camii, Nemrut Dağı, Kapadokya, Pamukkale-Hierapolis, İstanbul'un tarihî alanları, Çatalhöyük, Bergama, Ani, Arslantepe.\n• 2023 Cumhuriyet'in 100. yılı olarak kutlanmıştır."
-   },
    {
     "baslik": "Cumhurbaşkanlığı Hükûmet Sistemi — İşleyiş",
     "icerik": "SİSTEMİN TEMEL ÖZELLİKLERİ: 2017 Anayasa değişikliği ve 2018 seçimleriyle yürürlüğe girmiştir. Yürütme yetkisi tek başına Cumhurbaşkanına aittir; Başbakanlık ve Bakanlar Kurulu kaldırılmıştır.\n\nCUMHURBAŞKANI:\n• Hem devletin hem yürütmenin başıdır.\n• Beş yıl için seçilir, en fazla İKİ dönem görev yapabilir.\n• Bakanları ve bakan yardımcılarını atar ve görevden alır.\n• Üst düzey kamu yöneticilerini atar.\n• CUMHURBAŞKANLIĞI KARARNAMESİ çıkarabilir. Kararname ile temel haklar, kişi hakları ve ödevleri ile siyasi hak ve ödevler DÜZENLENEMEZ; Anayasada münhasıran kanunla düzenlenmesi öngörülen konularda ve kanunda açıkça düzenlenen konularda kararname çıkarılamaz. Kanun ile kararname çatışırsa KANUN hükümleri uygulanır.\n• Bütçe teklifini hazırlayıp TBMM'ye sunar.\n• Kanunları bir kez daha görüşülmek üzere TBMM'ye geri gönderebilir; TBMM aynen kabul ederse yayımlar (ancak Anayasa Mahkemesine iptal davası açabilir).\n\nTBMM: 600 milletvekilinden oluşur, beş yılda bir seçilir. Denetim araçları YAZILI SORU (bakanlara, 15 gün içinde yanıtlanır), genel görüşme, meclis araştırması ve MECLİS SORUŞTURMASIDIR. Gensoru ve sözlü soru kaldırılmıştır.\n\nCUMHURBAŞKANININ CEZAİ SORUMLULUĞU: Meclis soruşturması açılması üye tam sayısının salt çoğunluğunun önergesiyle istenir; soruşturma açılması beşte üç (360), Yüce Divana sevk ise üçte iki (400) çoğunlukla karara bağlanır.\n\nCUMHURBAŞKANLIĞI TEŞKİLATI: Politika Kurulları (eğitim ve öğretim, ekonomi, güvenlik ve dış politikalar, hukuk politikaları, kültür ve sanat, sağlık ve gıda, sosyal politikalar, yerel yönetim politikaları, bilim-teknoloji ve yenilik), Cumhurbaşkanlığı ofisleri ve bağlı kurumlar."
@@ -30,41 +10,15 @@
     "icerik": "KALKINMA PLANLARI: 1963'ten itibaren beş yıllık planlar hazırlanmaktadır. Planlar TBMM'de onaylanır ve kamu kesimi için EMREDİCİ, özel kesim için YOL GÖSTERİCİDİR. On İkinci Kalkınma Planı 2024-2028 dönemini kapsar.\n\nORTA VADELİ PROGRAM (OVP): Üç yıllık makroekonomik hedefleri, politika öncelikleri ve gelir-gider tahminlerini içerir. Bütçe hazırlığının başlangıç belgesidir.\n\nTEMEL EKONOMİK GÖSTERGELER VE TANIMLARI:\n• GSYH (Gayrisafi Yurt İçi Hasıla): Bir ülke sınırları içinde bir yılda üretilen nihai mal ve hizmetlerin parasal değeri.\n• REEL – NOMİNAL AYRIMI: Reel büyüme, fiyat artışlarından arındırılmış büyümedir; asıl refah ölçüsüdür.\n• TÜFE ve ÜFE: Tüketici ve üretici fiyat endeksleri; TÜİK tarafından aylık yayımlanır. ÇEKİRDEK ENFLASYON, enerji ve gıda gibi oynak kalemler dışlanarak hesaplanır.\n• İŞSİZLİK ORANI = İşsiz sayısı / İş gücü. İş gücüne katılma oranı ve ATIL İŞ GÜCÜ (geniş tanımlı işsizlik) tamamlayıcı göstergelerdir.\n• CARİ İŞLEMLER DENGESİ: Dış ticaret, hizmetler, birincil ve ikincil gelir dengelerinin toplamı.\n• BÜTÇE DENGESİ ve FAİZ DIŞI DENGE.\n• GİNİ KATSAYISI: Gelir dağılımı eşitsizliğinin ölçüsü; 0 tam eşitlik, 1 tam eşitsizlik.\n\nKURUMLAR VE İŞLEVLERİ: TÜİK (resmî istatistik), TCMB (para politikası ve fiyat istikrarı), Hazine ve Maliye Bakanlığı (bütçe ve borç yönetimi), Strateji ve Bütçe Başkanlığı (plan ve bütçe hazırlığı), BDDK, SPK, TMSF, Rekabet Kurumu, KOSGEB, TÜBİTAK, Türk Eximbank, TOKİ, AFAD.\n\nSINAV İPUCU: Güncel bilgi soruları genellikle SAYISAL DEĞERDEN çok kurumun görevi, kavramın tanımı ve hangi kurumun neyi yayımladığı üzerinden sorulur. Değişken rakamları ezberlemek yerine kurum-görev eşleştirmelerine ve kavram tanımlarına çalışmak daha verimlidir."
    }
   ],
-  "pufNoktalar": [
-   "2017 referandumu ile Cumhurbaşkanlığı Hükümet Sistemi'ne geçildi, 2018'de uygulandı.",
-   "Seçim barajı 2022'de %10'dan %7'ye indirildi.",
-   "CBK ile kanun çelişirse kanun üstündür.",
-   "Göbeklitepe, Çatalhöyük ve Arslantepe UNESCO listesindedir.",
-   "Cari açığın temel nedeni enerji ve ara malı ithalatıdır.",
-   "Kamu Denetçiliği Kurumu TBMM'ye bağlıdır ve tavsiye kararı verir.",
+  "puf": [
    "Kanun ile Cumhurbaşkanlığı kararnamesi çatışırsa kanun uygulanır.",
    "Gensoru ve sözlü soru kaldırılmış, yazılı soru korunmuştur.",
    "Kalkınma planları kamu için emredici, özel sektör için yol göstericidir.",
    "Çekirdek enflasyon enerji ve gıda gibi oynak kalemler dışlanarak hesaplanır."
   ]
  },
- {
-  "konuId": "uluslararasi_guncel",
-  "dersId": "guncel",
-  "baslik": "Dünya Gündemi",
-  "ozet": "Uluslararası örgütler, küresel sorunlar ve Türkiye'nin dış politikası.",
+ "uluslararasi_guncel": {
   "bolumler": [
-   {
-    "baslik": "Uluslararası Örgütler",
-    "icerik": "• BİRLEŞMİŞ MİLLETLER (1945, New York): Türkiye KURUCU ÜYEDİR.\n  Güvenlik Konseyi 15 üye; 5 DAİMİ üye (ABD, Rusya, Çin, İngiltere, Fransa) VETO hakkına sahiptir.\n  Uluslararası Adalet Divanı LAHEY'dedir.\n• NATO (1949, Brüksel): Türkiye 1952'de üye oldu. 5. madde ortak savunmayı düzenler; sadece 11 Eylül 2001 sonrası işletilmiştir. Finlandiya (2023) ve İsveç (2024) son katılan üyelerdir.\n• AVRUPA BİRLİĞİ: 1992 Maastricht ile kuruldu. Türkiye 1987'de tam üyelik başvurusu yaptı, 1996'da GÜMRÜK BİRLİĞİ'ne girdi, 1999 Helsinki'de adaylık statüsü aldı, 2005'te müzakerelere başladı.\n• AVRUPA KONSEYİ (1949, Strazburg): Türkiye KURUCU ÜYEDİR. AİHM buraya bağlıdır. (AB'den farklıdır.)\n• DİĞER: IMF, Dünya Bankası, DTÖ, OECD (Türkiye kurucu üye), G-20, İİT, KEİ (merkezi İSTANBUL), EİT, Türk Devletleri Teşkilatı."
-   },
-   {
-    "baslik": "Küresel Sorunlar",
-    "icerik": "• İKLİM DEĞİŞİKLİĞİ: 1997 Kyoto Protokolü, 2015 PARİS ANLAŞMASI (Türkiye 2021'de onayladı). Net sıfır emisyon hedefleri, COP zirveleri.\n• SÜRDÜRÜLEBİLİR KALKINMA AMAÇLARI (SKA): BM'nin 2015'te kabul ettiği 17 hedef, 2030 vizyonu.\n• GÖÇ VE MÜLTECİ KRİZİ: Türkiye dünyada en çok mülteci barındıran ülkelerdendir. Geri göndermeme (non-refoulement) ilkesi.\n• TERÖRİZM ve radikalleşme.\n• GIDA VE SU GÜVENLİĞİ.\n• SALGIN HASTALIKLAR: COVID-19 sonrası küresel sağlık yönetişimi tartışmaları (DSÖ).\n• YAPAY ZEKÂ ve dijital dönüşümün etik-hukuki boyutları.\n• NÜKLEER SİLAHSIZLANMA: NPT (1970), nükleer denetim (UAEA)."
-   },
-   {
-    "baslik": "Bölgesel Gelişmeler",
-    "icerik": "• RUSYA-UKRAYNA SAVAŞI (Şubat 2022'den itibaren): Enerji ve gıda arz güvenliğini küresel ölçekte etkilemiştir. Türkiye TAHIL KORİDORU anlaşmasında arabuluculuk yapmıştır (Temmuz 2022, İstanbul).\n• ORTA DOĞU: İsrail-Filistin sorunu, Suriye iç savaşı ve göç etkileri, Irak'ın istikrarı.\n• DOĞU AKDENİZ: Deniz yetki alanları, hidrokarbon kaynakları, Türkiye-Libya Deniz Yetki Alanları Mutabakatı (2019).\n• EGE: Kıta sahanlığı, karasuları, adaların silahlandırılması sorunları.\n• KAFKASYA: 2020 II. Karabağ Savaşı Azerbaycan'ın zaferiyle sonuçlandı; Türkiye-Azerbaycan Şuşa Beyannamesi (2021).\n• KIBRIS: 1974 Barış Harekâtı, 1983'te KKTC ilan edildi. Çözüm görüşmeleri sürmektedir.\n• BALKANLAR ve Türk Devletleri Teşkilatı (Türkiye, Azerbaycan, Kazakistan, Kırgızistan, Özbekistan)."
-   },
-   {
-    "baslik": "Bilim, Teknoloji ve Kültür",
-    "icerik": "• UZAY: Türkiye Uzay Ajansı (2018) kuruldu; Millî Uzay Programı açıklandı. İlk Türk astronot Alper Gezeravcı 2024'te Uluslararası Uzay İstasyonu'na gitti.\n• YAPAY ZEKÂ: Üretken yapay zekâ uygulamalarının yaygınlaşması; Ulusal Yapay Zekâ Stratejisi.\n• DİJİTALLEŞME: e-Devlet, dijital kimlik, siber güvenlik.\n• ENERJİ: Yenilenebilir kaynakların payındaki artış, nükleer enerjiye geçiş, elektrikli araç (TOGG).\n• SPOR: Olimpiyat oyunları, dünya ve Avrupa şampiyonalarında Türkiye'nin dereceleri; UEFA ve FIFA organizasyonları.\n• KÜLTÜR: Nobel Edebiyat Ödülü sahibi Orhan Pamuk (2006); UNESCO Somut Olmayan Kültürel Miras listesinde Türkiye'den çok sayıda unsur (Karagöz, Mevlevi Sema Töreni, Nevruz, Âşıklık geleneği, Türk kahvesi, ebru, dede korkut mirası)."
-   },
    {
     "baslik": "Uluslararası Kuruluşlar — Görev Eşleştirmeleri",
     "icerik": "SINAVDA EN ÇOK SORULAN EŞLEŞTİRMELER:\n• DSÖ (WHO): Küresel sağlık, salgın yönetimi, aşı ve ilaç standartları.\n• UNESCO: Eğitim, bilim ve kültür; DÜNYA MİRASI listesi bu kuruluşa aittir.\n• UNICEF: Çocuk hakları ve çocukların sağlık, eğitim ve korunması.\n• ILO: Çalışma standartları, işçi hakları, sosyal adalet.\n• FAO: Gıda ve tarım, açlıkla mücadele.\n• UNHCR: Mülteciler ve sığınmacılar.\n• WFP: Dünya Gıda Programı; acil gıda yardımı.\n• IMF: Ödemeler dengesi sorunlarına kısa vadeli finansman ve makroekonomik gözetim.\n• DÜNYA BANKASI: Kalkınma projelerinin uzun vadeli finansmanı.\n• DTÖ (WTO): Uluslararası ticaret kuralları ve ticari uyuşmazlıkların çözümü.\n• OECD: Gelişmiş ekonomiler arasında politika koordinasyonu; PISA araştırmasını yürütür.\n• IAEA: Uluslararası Atom Enerjisi Ajansı; nükleer denetim ve güvenlik.\n• WIPO: Fikrî mülkiyet.\n• INTERPOL: Uluslararası polis iş birliği.\n• IOM: Uluslararası Göç Örgütü.\n• OPEC: Petrol ihraç eden ülkelerin üretim ve fiyat koordinasyonu.\n\nBÖLGESEL VE EKONOMİK YAPILAR: G7, G20, BRICS, ASEAN, Afrika Birliği, Arap Ligi, Şanghay İş Birliği Örgütü, Karadeniz Ekonomik İş Birliği (KEİ), Türk Devletleri Teşkilatı, D-8, İslam İş Birliği Teşkilatı.\n\nÖNEMLİ ENDEKSLER VE YAYINLAYAN KURUMLAR: İnsani Gelişme Endeksi (UNDP), Yolsuzluk Algı Endeksi (Uluslararası Şeffaflık Örgütü), Küresel Rekabet Endeksi (Dünya Ekonomik Forumu), Basın Özgürlüğü Endeksi (Sınır Tanımayan Gazeteciler), PISA (OECD).\n\nÇALIŞMA TAVSİYESİ: Bu tür sorular 'hangi kurum neyi yapar' mantığıyla çözülür; kısaltma-görev eşleştirmesini tablo hâlinde çalışmak en verimli yöntemdir."
@@ -74,41 +28,15 @@
     "icerik": "GÖÇ VE İNSANİ KRİZLER: Zorunlu yerinden edilme rakamları tarihsel olarak en yüksek düzeylere ulaşmıştır. Temel kavramlar:\n• MÜLTECİ: Zulüm korkusuyla ülkesini terk eden ve uluslararası koruma altına alınan kişi.\n• SIĞINMACI: Başvurusu henüz sonuçlanmamış kişi.\n• ÜLKE İÇİNDE YERİNDEN EDİLMİŞ KİŞİ: Sınır geçmeden kendi ülkesi içinde yer değiştiren kişi.\n• GERİ GÖNDERMEME (non-refoulement) İLKESİ: Kişinin işkence veya zulüm göreceği ülkeye gönderilmemesi; uluslararası koruma hukukunun temel ilkesidir.\n\nENERJİ GÜVENLİĞİ: Arz güvenliği, kaynak çeşitlendirmesi, boru hatları ve LNG ticareti, yenilenebilir enerjiye geçiş ve kritik mineral tedariki başlıkları öne çıkmaktadır.\n\nGIDA GÜVENLİĞİ: Çatışmalar, kuraklık ve tedarik zinciri aksamaları gıda fiyatlarını doğrudan etkilemekte; tahıl ticareti jeopolitik bir mesele hâline gelmektedir.\n\nSİBER GÜVENLİK: Kritik altyapılara yönelik saldırılar, fidye yazılımları ve veri ihlalleri ulusal güvenlik meselesi kabul edilmektedir.\n\nDEMOGRAFİK DÖNÜŞÜM: Gelişmiş ülkelerde yaşlanan nüfus ve iş gücü açığı, gelişmekte olan ülkelerde ise genç nüfusa istihdam yaratma baskısı temel yapısal sorunlardır.\n\nKENTLEŞME: Dünya nüfusunun yarısından fazlası kentlerde yaşamaktadır; altyapı, konut, ulaşım ve afet dayanıklılığı öncelikli politika alanlarıdır.\n\nAFETLER VE DAYANIKLILIK: Deprem, sel ve orman yangınları karşısında önleyici planlama, yapı denetimi ve erken uyarı sistemleri uluslararası gündemde giderek daha çok yer tutmaktadır.\n\nSINAV MANTIĞI: Güncel sorular çoğunlukla bir olayın tarihini değil, KAVRAMIN TANIMINI, olayın hangi bölgede geçtiğini veya hangi kuruluşun ilgili olduğunu sorar."
    }
   ],
-  "pufNoktalar": [
-   "Türkiye BM, Avrupa Konseyi ve OECD'nin kurucu üyesidir.",
-   "NATO 5. maddesi yalnızca 11 Eylül sonrası işletilmiştir.",
-   "Paris İklim Anlaşması 2015'te kabul edildi, Türkiye 2021'de onayladı.",
-   "KEİ'nin merkezi İstanbul'dadır.",
-   "Tahıl koridoru anlaşması 2022'de İstanbul'da imzalandı.",
-   "Avrupa Konseyi ile Avrupa Birliği farklı kurumlardır.",
+  "puf": [
    "Dünya Mirası listesi UNESCO'ya, PISA araştırması OECD'ye aittir.",
    "IMF kısa vadeli ödemeler dengesi, Dünya Bankası uzun vadeli kalkınma finansmanı sağlar.",
    "Geri göndermeme ilkesi uluslararası koruma hukukunun temelidir.",
    "Mülteci ile sığınmacı arasındaki fark başvurunun sonuçlanmış olmasıdır."
   ]
  },
- {
-  "konuId": "kultur_sanat_spor",
-  "dersId": "guncel",
-  "baslik": "Kültür, Sanat ve Spor",
-  "ozet": "Türk kültür mirası, sanat akımları, edebiyat ve spor organizasyonları.",
+ "kultur_sanat_spor": {
   "bolumler": [
-   {
-    "baslik": "Kültürel Miras",
-    "icerik": "UNESCO DÜNYA MİRASI LİSTESİ'NDE TÜRKİYE:\nGöbeklitepe (Şanlıurfa), Çatalhöyük (Konya), Truva (Çanakkale), Efes (İzmir), Bergama (İzmir), Hierapolis-Pamukkale (Denizli), Nemrut Dağı (Adıyaman), Safranbolu (Karabük), Divriği Ulu Camii (Sivas), Hattuşa (Çorum), Ksantos-Letoon (Antalya-Muğla), İstanbul'un Tarihî Alanları, Selimiye Camii (Edirne), Bursa ve Cumalıkızık, Diyarbakır Kalesi ve Hevsel Bahçeleri, Ani (Kars), Afrodisias (Aydın), Göreme ve Kapadokya (Nevşehir), Arslantepe Höyüğü (Malatya), Gordion (Ankara).\n\nSOMUT OLMAYAN KÜLTÜREL MİRAS: Mevlevi Sema Töreni, Karagöz, Âşıklık geleneği, Nevruz, Kırkpınar yağlı güreşi, Türk kahvesi kültürü, ebru, Dede Korkut mirası, geleneksel okçuluk, minyatür, hüsn-i hat, Ahilik, Nasreddin Hoca anlatım geleneği."
-   },
-   {
-    "baslik": "Türk Edebiyatı",
-    "icerik": "DÖNEMLER:\n• İSLAMİYET ÖNCESİ: Orhun Yazıtları, Göktürk ve Uygur metinleri, destanlar (Alp Er Tunga, Oğuz Kağan, Ergenekon, Manas).\n• İLK İSLAMİ ESERLER: Kutadgu Bilig (Yusuf Has Hacib), Divan-ı Lügati't Türk (Kaşgarlı Mahmud), Atabetü'l Hakayık, Divan-ı Hikmet (Ahmet Yesevi).\n• DİVAN EDEBİYATI: Fuzuli, Baki, Nef'i, Nedim, Şeyh Galip, Evliya Çelebi (Seyahatname).\n• HALK EDEBİYATI: Yunus Emre, Karacaoğlan, Köroğlu, Pir Sultan Abdal, Âşık Veysel.\n• TANZİMAT: Şinasi, Namık Kemal, Ziya Paşa, Ahmet Mithat Efendi, Recaizade Mahmut Ekrem.\n• SERVET-İ FÜNUN: Tevfik Fikret, Halit Ziya Uşaklıgil (Aşk-ı Memnu), Cenap Şahabettin.\n• MİLLÎ EDEBİYAT: Mehmet Emin Yurdakul, Ziya Gökalp, Ömer Seyfettin, Halide Edip Adıvar, Yakup Kadri Karaosmanoğlu (Yaban), Reşat Nuri Güntekin (Çalıkuşu).\n• CUMHURİYET DÖNEMİ: Nazım Hikmet, Sait Faik, Orhan Veli (Garip akımı), Sabahattin Ali, Yaşar Kemal (İnce Memed), Ahmet Hamdi Tanpınar (Huzur), Aziz Nesin, ORHAN PAMUK (2006 Nobel Edebiyat Ödülü)."
-   },
-   {
-    "baslik": "Sanat ve Mimari",
-    "icerik": "TÜRK-İSLAM MİMARİSİ:\n• Selçuklu: Kervansaraylar (Sultanhanı), medreseler (Çifte Minareli), taç kapı süslemeleri, Divriği Ulu Camii.\n• Osmanlı: MİMAR SİNAN — Şehzade Camii ('çıraklık'), Süleymaniye Camii ('kalfalık'), SELİMİYE CAMİİ ('ustalık eserim').\n• Barok ve rokoko etkisi (Lale Devri sonrası), Balyan ailesi (Dolmabahçe Sarayı).\n\nGELENEKSEL SANATLAR: Hat (hüsn-i hat), tezhip, minyatür (Levni, Matrakçı Nasuh), ebru, çini (İznik, Kütahya), halı-kilim dokuma, cam işçiliği (çeşm-i bülbül).\n\nBATI SANAT AKIMLARI: Rönesans, Barok, Klasisizm, Romantizm, Realizm, Empresyonizm (İzlenimcilik), Ekspresyonizm, Kübizm (Picasso), Sürrealizm (Dalí), Soyut sanat.\n\nTÜRK RESMİ: Osman Hamdi Bey (Kaplumbağa Terbiyecisi), Şeker Ahmet Paşa, Bedri Rahmi Eyüboğlu, Fikret Mualla.\n\nTÜRK MÜZİĞİ: Klasik Türk müziği (Itri, Dede Efendi, Hacı Arif Bey), halk müziği, çok sesli müzik (Türk Beşleri: Cemal Reşit Rey, Ulvi Cemal Erkin, Hasan Ferit Alnar, Ahmet Adnan Saygun, Necil Kâzım Akses)."
-   },
-   {
-    "baslik": "Spor",
-    "icerik": "OLİMPİYATLAR: İlk modern olimpiyat 1896 Atina. Türkiye'nin olimpiyat başarıları özellikle GÜREŞ ve HALTER'de yoğunlaşır.\n• Ünlü sporcular: Yaşar Doğu, Hamit Kaplan, Naim Süleymanoğlu ('Cep Herkülü', 3 olimpiyat altını), Halil Mutlu, Ruhi Sarıalp, Nurcan Taylan, Şaziye Erdoğan.\n• Milli Takım başarıları: 2002 FIFA Dünya Kupası ÜÇÜNCÜLÜĞÜ, 2008 UEFA Avrupa Şampiyonası yarı finali, A Milli Basketbol Takımı 2010 Dünya Şampiyonası ikinciliği, 2001 Avrupa Basketbol ikinciliği.\n• KADIN VOLEYBOL MİLLİ TAKIMI ('Filenin Sultanları'): 2023 Avrupa Şampiyonası birinciliği ve Milletler Ligi şampiyonluğu.\n• Kulüp başarıları: Galatasaray 2000 UEFA Kupası ve Süper Kupa; Beşiktaş, Fenerbahçe, Trabzonspor Avrupa'da çeşitli dereceler; Anadolu Efes 2021 ve 2022 THY EuroLeague şampiyonluğu.\n• GELENEKSEL SPORLAR: Yağlı güreş (Kırkpınar — dünyanın en eski spor organizasyonlarından), cirit, atlı okçuluk, mangala.\n• Türkiye'de spordan sorumlu kurum: Gençlik ve Spor Bakanlığı."
-   },
    {
     "baslik": "Türkiye'de UNESCO Listeleri ve Somut Olmayan Miras",
     "icerik": "UNESCO DÜNYA MİRASI LİSTESİ — TÜRKİYE'DEN ÖNE ÇIKANLAR:\nGöbeklitepe (Şanlıurfa), Çatalhöyük Neolitik Kenti (Konya), Truva Antik Kenti (Çanakkale), Efes (İzmir), Afrodisias (Aydın), Hierapolis-Pamukkale (Denizli), Ksantos-Letoon (Muğla-Antalya), Bergama Çok Katmanlı Kültürel Peyzaj Alanı (İzmir), Hattuşa-Hitit Başkenti (Çorum), Nemrut Dağı (Adıyaman), Safranbolu Şehri (Karabük), Divriği Ulu Camii ve Darüşşifası (Sivas), İstanbul'un Tarihî Alanları, Selimiye Camii ve Külliyesi (Edirne), Bursa ve Cumalıkızık, Diyarbakır Kalesi ve Hevsel Bahçeleri, Ani Arkeolojik Alanı (Kars), Aslantepe Höyüğü (Malatya), Arslantepe ve Gordion (Ankara) ile Göreme Millî Parkı ve Kapadokya.\n\nSOMUT OLMAYAN KÜLTÜREL MİRAS LİSTESİ — TÜRKİYE'DEN:\nMevlevi Sema Töreni, Meddahlık, Karagöz (gölge oyunu), Âşıklık geleneği, Nevruz, Geleneksel sohbet toplantıları (yaren, barana, sıra gecesi), Kırkpınar Yağlı Güreş Festivali, Alevi-Bektaşi Semah, Tören keşkeği geleneği, Mesir Macunu Festivali, Türk kahvesi kültürü ve geleneği, Ebru sanatı, İnce ekmek yapımı ve paylaşımı geleneği (lavaş, yufka), Nevruz, Islık dili, Dede Korkut mirası, Geleneksel Türk okçuluğu, Hüsn-i hat sanatı, Minyatür sanatı, Çini sanatı, Ahilik ve Nasreddin Hoca anlatı geleneği.\n\nGELENEKSEL SANATLAR VE KAVRAMLARI:\n• HAT: Güzel yazı sanatı. Başlıca yazı türleri sülüs, nesih, talik, divani, kufi ve rika.\n• TEZHİP: El yazması eserlerin altın ve boya ile bezenmesi.\n• EBRU: Yoğunlaştırılmış su üzerine boya serpilerek yapılan kâğıt süsleme sanatı.\n• MİNYATÜR: Kitap resmi; perspektif ve gölge kullanılmaz, ayrıntı önem sırasına göre boyutlandırılır.\n• ÇİNİ ve İZNİK SERAMİKLERİ, KAT'I (kâğıt oyma), KÜNDEKÂRİ (geçmeli ahşap işçiliği), SEDEF KAKMA."
@@ -118,41 +46,15 @@
     "icerik": "TÜRK EDEBİYATI DÖNEMLERİ VE TEMSİLCİLERİ:\n• İSLAMİYET ÖNCESİ: Göktürk Yazıtları (Orhun Abideleri — Türk adının geçtiği ilk Türkçe yazılı belge), destanlar (Alp Er Tunga, Oğuz Kağan, Göç, Türeyiş).\n• İLK İSLAMİ ESERLER: Kutadgu Bilig (Yusuf Has Hacip), Divanü Lugati't-Türk (Kaşgarlı Mahmut), Atabetü'l-Hakayık (Edip Ahmet), Divan-ı Hikmet (Ahmet Yesevi).\n• DİVAN EDEBİYATI: Fuzuli, Baki, Nefî, Nedim, Şeyh Galip, Nabi.\n• HALK EDEBİYATI: Yunus Emre, Karacaoğlan, Köroğlu, Pir Sultan Abdal, Âşık Veysel, Dadaloğlu.\n• TANZİMAT: Şinasi, Namık Kemal, Ziya Paşa, Ahmet Mithat Efendi, Recaizade Mahmut Ekrem.\n• SERVET-İ FÜNUN: Tevfik Fikret, Halit Ziya Uşaklıgil, Cenap Şahabettin.\n• MİLLÎ EDEBİYAT: Ziya Gökalp, Ömer Seyfettin, Mehmet Emin Yurdakul, Halide Edip Adıvar, Yakup Kadri Karaosmanoğlu, Reşat Nuri Güntekin.\n• CUMHURİYET DÖNEMİ: Nâzım Hikmet, Sait Faik Abasıyanık, Ahmet Hamdi Tanpınar, Yaşar Kemal, Orhan Kemal, Necip Fazıl Kısakürek, Cahit Sıtkı Tarancı, Orhan Veli (Garip akımı), Attila İlhan, Sabahattin Ali, Aziz Nesin, Cemal Süreya (İkinci Yeni), Orhan Pamuk.\nORHAN PAMUK 2006'da Nobel Edebiyat Ödülü'nü, AZİZ SANCAR 2015'te Nobel Kimya Ödülü'nü almıştır.\n\nÖNEMLİ ULUSAL ÖDÜLLER: Cumhurbaşkanlığı Kültür ve Sanat Büyük Ödülleri, Orhan Kemal Roman Armağanı, Sait Faik Hikâye Armağanı, Yunus Nadi Ödülleri, Altın Portakal Film Festivali, Antalya ve İstanbul film festivalleri.\n\nSPOR:\n• OLİMPİYAT OYUNLARI dört yılda bir düzenlenir; kış ve yaz oyunları iki yıl arayla yapılır.\n• PARALİMPİK OYUNLARI olimpiyatların hemen ardından aynı şehirde düzenlenir.\n• FIFA DÜNYA KUPASI ve UEFA AVRUPA ŞAMPİYONASI dört yılda birdir.\n• AKDENİZ OYUNLARI, ÜNİVERSİADE ve İSLAMİ DAYANIŞMA OYUNLARI Türkiye'nin ev sahipliği yaptığı organizasyonlar arasındadır.\n• GELENEKSEL TÜRK SPORLARI: Yağlı güreş (Kırkpınar), cirit, atlı okçuluk, kıyak ve mas güreşi.\nKurumsal yapı: Gençlik ve Spor Bakanlığı, Türkiye Millî Olimpiyat Komitesi ve federasyonlar."
    }
   ],
-  "pufNoktalar": [
-   "Göbeklitepe, Çatalhöyük, Arslantepe ve Gordion UNESCO Dünya Mirası listesindedir.",
-   "Mimar Sinan ustalık eserim dediği yapı Selimiye Camii'dir.",
-   "Orhan Pamuk 2006 Nobel Edebiyat Ödülü'nü almıştır.",
-   "Naim Süleymanoğlu üç olimpiyat altın madalyası kazanmıştır.",
-   "2002 Dünya Kupası'nda A Milli Futbol Takımı üçüncü olmuştur.",
-   "Kırkpınar dünyanın en eski spor organizasyonlarındandır.",
+  "puf": [
    "Göbeklitepe, Çatalhöyük, Hattuşa ve Nemrut Dünya Mirası listesindedir.",
    "Orhan Pamuk 2006 Nobel Edebiyat, Aziz Sancar 2015 Nobel Kimya ödülünü aldı.",
    "Minyatürde perspektif ve gölge kullanılmaz; boyut önem sırasına göredir.",
    "Orhun Abideleri Türk adının geçtiği ilk Türkçe yazılı belgedir."
   ]
  },
- {
-  "konuId": "bilim_teknoloji",
-  "dersId": "guncel",
-  "baslik": "Bilim ve Teknoloji",
-  "ozet": "Bilimsel gelişmeler, uzay çalışmaları, dijital teknolojiler ve Türkiye'nin projeleri.",
+ "bilim_teknoloji": {
   "bolumler": [
-   {
-    "baslik": "Temel Bilimsel Kavramlar",
-    "icerik": "• BİLİMSEL YÖNTEM: Gözlem → problem → hipotez → deney → veri analizi → sonuç → teori/yasa.\n• TEORİ ile YASA farkı: Yasa 'ne olduğunu' tanımlar, teori 'niçin olduğunu' açıklar. Teori kanıtlanınca yasaya dönüşmez; ikisi farklı bilgi türleridir.\n• Önemli bilim insanları: Newton (hareket yasaları), Einstein (görelilik), Darwin (evrim), Mendel (kalıtım), Marie Curie (radyoaktivite), Aziz Sancar (2015 NOBEL KİMYA — DNA onarımı).\n• Türk-İslam bilginleri: İbn Sina (Tıp Kanunu), Farabi, Biruni, Harezmi (algoritma), Ali Kuşçu, Uluğ Bey (astronomi), Piri Reis (haritalar), Katip Çelebi, Cahit Arf (Arf değişmezi)."
-   },
-   {
-    "baslik": "Uzay ve Havacılık",
-    "icerik": "• 1957 Sputnik ilk yapay uydu (SSCB), 1961 Yuri Gagarin ilk insanlı uzay uçuşu, 1969 Apollo 11 ile Ay'a iniş (Neil Armstrong).\n• ULUSLARARASI UZAY İSTASYONU (ISS): Çok uluslu araştırma platformu.\n• James Webb Uzay Teleskobu (2021): Hubble'ın halefi, derin uzay gözlemleri.\n• Mars görevleri: Perseverance, Curiosity gezginleri; Artemis programı Ay'a dönüş hedefi.\n• Özel şirketler: SpaceX (yeniden kullanılabilir roket), Blue Origin.\n\nTÜRKİYE:\n• TÜRKİYE UZAY AJANSI (2018) kuruldu; MİLLÎ UZAY PROGRAMI açıklandı (Ay görevi hedefi dahil).\n• TÜRKSAT haberleşme uyduları, GÖKTÜRK gözlem uyduları, RASAT ve BİLSAT.\n• ALPER GEZERAVCI 2024'te ISS'ye giden ilk Türk astronot oldu.\n• Havacılık: TUSAŞ (TAI), HÜRJET, KAAN millî muharip uçak, ANKA ve AKSUNGUR İHA'ları, BAYKAR TB2 ve AKINCI SİHA'ları."
-   },
-   {
-    "baslik": "Dijital Teknolojiler",
-    "icerik": "• YAPAY ZEKÂ (AI): Makine öğrenmesi, derin öğrenme, üretken yapay zekâ (metin, görsel, ses üretimi). Ulusal Yapay Zekâ Stratejisi (2021-2025).\n• BÜYÜK VERİ (Big Data) ve veri madenciliği.\n• NESNELERİN İNTERNETİ (IoT): Cihazların birbirine bağlanması.\n• BLOK ZİNCİRİ (Blockchain) ve kripto varlıklar; dijital Türk lirası çalışmaları.\n• BULUT BİLİŞİM (Cloud computing).\n• 5G ve yeni nesil iletişim teknolojileri.\n• SİBER GÜVENLİK: USOM, SOME yapıları; kişisel verilerin korunması (6698 sayılı KVKK, 2016 — KVKK Kurumu).\n• ENDÜSTRİ 4.0: Siber-fiziksel sistemler, akıllı fabrikalar, otomasyon.\n• e-DEVLET uygulamaları: e-Devlet Kapısı, UYAP, MERNİS, e-Nabız, MHRS, EBA."
-   },
-   {
-    "baslik": "Enerji, Sağlık ve Çevre Teknolojileri",
-    "icerik": "ENERJİ:\n• Yenilenebilir kaynaklar: Güneş (GES), rüzgâr (RES), jeotermal, hidroelektrik, biyokütle.\n• Türkiye jeotermal kapasitesinde Avrupa'da önde gelen ülkelerdendir.\n• AKKUYU NÜKLEER GÜÇ SANTRALİ (Mersin) inşa hâlindedir; Türkiye'nin ilk nükleer santralidir.\n• Karadeniz Sakarya Gaz Sahası keşfi.\n• TOGG: Türkiye'nin yerli elektrikli otomobili.\n\nSAĞLIK VE BİYOTEKNOLOJİ:\n• mRNA aşı teknolojisi (COVID-19 sürecinde yaygınlaştı); Türkiye'de TURKOVAC yerli aşı çalışması.\n• CRISPR gen düzenleme teknolojisi.\n• Kişiselleştirilmiş tıp, telesağlık uygulamaları.\n\nÇEVRE:\n• Karbon ayak izi, net sıfır emisyon hedefleri, karbon salımı azaltma.\n• Sıfır Atık Projesi (Türkiye).\n• Yeşil mutabakat (AB Green Deal) ve sınırda karbon düzenlemesi Türkiye'nin ihracatını etkileyen bir gündem maddesidir."
-   },
    {
     "baslik": "Yapay Zekâ, Veri ve Dijital Dönüşüm Kavramları",
     "icerik": "TEMEL KAVRAMLAR:\n• YAPAY ZEKÂ: İnsan zekâsı gerektiren görevleri yerine getirebilen sistemler.\n• MAKİNE ÖĞRENMESİ: Sistemin açıkça programlanmadan, VERİDEN örüntü öğrenmesi.\n• DERİN ÖĞRENME: Çok katmanlı yapay sinir ağlarına dayanan makine öğrenmesi alt dalı.\n• ÜRETKEN YAPAY ZEKÂ: Metin, görsel, ses veya kod üretebilen modeller.\n• BÜYÜK VERİ: Hacim, hız ve çeşitlilik bakımından geleneksel yöntemlerle işlenemeyen veri kümeleri.\n• ALGORİTMA: Bir problemi çözmek için izlenen adım adım işlem dizisi.\n\nDİĞER TEKNOLOJİ BAŞLIKLARI:\n• NESNELERİN İNTERNETİ (IoT): Cihazların internet üzerinden veri toplayıp paylaşması.\n• BULUT BİLİŞİM: Depolama ve işlem gücünün internet üzerinden hizmet olarak sunulması.\n• BLOK ZİNCİRİ: Dağıtık, değiştirilemez kayıt defteri teknolojisi. Kripto varlıkların altyapısıdır.\n• KUANTUM BİLGİSAYAR: Kübit kullanarak belirli problem sınıflarında klasik bilgisayarları aşmayı hedefleyen teknoloji.\n• SANAL VE ARTIRILMIŞ GERÇEKLİK, DİJİTAL İKİZ, 5G.\n• SİBER GÜVENLİK KAVRAMLARI: Kimlik avı (phishing), fidye yazılımı, veri ihlali, iki aşamalı doğrulama, uçtan uca şifreleme.\n\nKİŞİSEL VERİLERİN KORUNMASI: Türkiye'de 6698 sayılı Kanun ile düzenlenmiştir; Kişisel Verileri Koruma Kurumu (KVKK) denetim yapar. Temel ilkeler: Hukuka uygunluk, belirli ve meşru amaç, veri minimizasyonu, doğruluk ve güncellik, sınırlı süre saklama.\n\nDİJİTAL OKURYAZARLIK: Bilgiyi bulma, doğrulama, kaynak güvenilirliğini sorgulama ve etik kullanma becerisidir. Dezenformasyonla mücadelede en temel savunma hattı sayılır.\n\nTÜRKİYE'DEKİ KURUMLAR: TÜBİTAK (araştırma destekleri ve enstitüler), TÜBA, TÜRKSAT, Sanayi ve Teknoloji Bakanlığı, teknoparklar, KOSGEB, TÜRKPATENT."
@@ -162,17 +64,11 @@
     "icerik": "UZAY VE HAVACILIK:\n• TÜRKİYE UZAY AJANSI 2018'de kurulmuştur; Millî Uzay Programı hedefleri arasında Ay'a gitme, uydu geliştirme ve uzayda insanlı görev yer almaktadır.\n• TÜRKSAT haberleşme uydularının yanı sıra RASAT, GÖKTÜRK ve İMECE gözlem uyduları geliştirilmiştir.\n• UYDU TÜRLERİ: Haberleşme, gözlem (uzaktan algılama), meteoroloji ve konum belirleme (GPS, GLONASS, Galileo, BeiDou) uyduları.\n• YÖRÜNGE TÜRLERİ: Alçak yer yörüngesi (LEO), orta yer yörüngesi (MEO) ve yer sabit (GEO) yörünge. Haberleşme uyduları genellikle yer sabit yörüngededir.\n• JAMES WEBB UZAY TELESKOBU kızılötesi gözlemle erken evren araştırmalarında kullanılmaktadır.\n\nENERJİ TEKNOLOJİLERİ:\n• YENİLENEBİLİR KAYNAKLAR: Güneş, rüzgâr, hidroelektrik, jeotermal ve biyokütle. Türkiye jeotermal ve hidroelektrik potansiyeli bakımından öne çıkar.\n• NÜKLEER ENERJİ: Akkuyu Nükleer Güç Santrali Türkiye'nin ilk nükleer santral projesidir.\n• ENERJİ DEPOLAMA: Batarya teknolojileri ve pompaj depolamalı santraller, kesintili kaynakların şebekeye entegrasyonu için kritiktir.\n• HİDROJEN: Üretim yöntemine göre yeşil (yenilenebilir elektrikle), mavi (doğal gazdan, karbon yakalamayla) ve gri hidrojen olarak ayrılır.\n• ENERJİ VERİMLİLİĞİ ve akıllı şebekeler.\n\nSAĞLIK VE BİYOTEKNOLOJİ:\n• mRNA AŞI TEKNOLOJİSİ, gen terapisi ve CRISPR gen düzenleme yöntemi.\n• KİŞİSELLEŞTİRİLMİŞ TIP: Bireyin genetik profiline göre tedavi.\n• TELETIP ve giyilebilir sağlık teknolojileri.\n• ANTİBİYOTİK DİRENCİ: Gereksiz antibiyotik kullanımı nedeniyle DSÖ'nün öncelikli küresel sağlık tehditleri arasında saydığı sorundur.\n\nÇEVRE TEKNOLOJİLERİ: Karbon yakalama ve depolama, atık su geri kazanımı, döngüsel ekonomi ve geri dönüşüm, sıfır atık uygulamaları."
    }
   ],
-  "pufNoktalar": [
-   "Aziz Sancar 2015 Nobel Kimya Ödülü'nü DNA onarımı çalışmalarıyla aldı.",
-   "Türkiye Uzay Ajansı 2018'de kuruldu; Alper Gezeravcı 2024'te ISS'ye gitti.",
-   "Akkuyu Türkiye'nin ilk nükleer güç santralidir.",
-   "KVKK 6698 sayılı Kanun ile 2016'da düzenlendi.",
-   "Yasa 'ne olduğunu', teori 'niçin olduğunu' açıklar.",
-   "Harezmi'nin adı 'algoritma' kavramının kökenidir.",
+  "puf": [
    "Haberleşme uyduları genellikle yer sabit (GEO) yörüngede bulunur.",
    "Yeşil hidrojen yenilenebilir elektrikle üretilen hidrojendir.",
    "Kişisel verilerin korunması 6698 sayılı Kanun ile düzenlenmiştir.",
    "Makine öğrenmesi açıkça programlanmadan veriden örüntü öğrenmedir."
   ]
  }
-]
+}

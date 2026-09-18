@@ -1,26 +1,6 @@
-[
- {
-  "konuId": "kamu_maliyesi",
-  "dersId": "maliye",
-  "baslik": "Kamu Maliyesi",
-  "ozet": "Devletin ekonomideki rolü, kamu ekonomisi ve maliye politikası.",
+{
+ "kamu_maliyesi": {
   "bolumler": [
-   {
-    "baslik": "Kamu Maliyesinin Konusu",
-    "icerik": "KAMU MALİYESİ: Devletin gelir elde etme, harcama yapma ve borçlanma faaliyetlerini inceleyen bilim dalı.\n\nDEVLETİN EKONOMİK FONKSİYONLARI (Musgrave):\n1) KAYNAK TAHSİSİ (Allocation): Piyasa başarısızlıklarını gidermek, kamusal mal sunmak.\n2) GELİR DAĞILIMI (Distribution): Adaletli bölüşüm sağlamak.\n3) İSTİKRAR (Stabilization): Enflasyon ve işsizlikle mücadele, büyüme.\n\nKAMUSAL MALLAR:\n• TAM KAMUSAL MAL: Tüketimde RAKİP DEĞİL + DIŞLANAMAZ (savunma, adalet, diplomasi)\n• YARI KAMUSAL (Karma) MAL: Dışsallığı olan mallar (eğitim, sağlık)\n• KULÜP MALI: Dışlanabilir ama rakip değil\n• ÖZEL MAL: Rakip + dışlanabilir\n\nBEDAVACILIK (Free-rider) SORUNU: Kamusal mallardan bedel ödemeden yararlanma; bu nedenle devlet vergiyle finanse eder."
-   },
-   {
-    "baslik": "Piyasa Başarısızlıkları ve Dışsallıklar",
-    "icerik": "PİYASA BAŞARISIZLIĞI NEDENLERİ:\n• Tam kamusal mallar\n• DIŞSALLIKLAR\n• Doğal tekeller\n• Eksik bilgi ve asimetrik bilgi\n• Gelir dağılımı adaletsizliği\n\nDIŞSALLIK: Bir ekonomik faaliyetin, fiyat mekanizması dışında üçüncü kişilere etki etmesi.\n• NEGATİF (Dışsal maliyet): Çevre kirliliği, gürültü → aşırı üretim olur, VERGİ (Pigou vergisi) ile düzeltilir.\n• POZİTİF (Dışsal fayda): Eğitim, aşılama → yetersiz üretim olur, SÜBVANSİYON ile teşvik edilir.\n\nCOASE TEOREMİ: Mülkiyet hakları net ve işlem maliyetleri düşükse taraflar pazarlıkla dışsallığı çözebilir."
-   },
-   {
-    "baslik": "Maliye Politikası",
-    "icerik": "AMAÇLAR: Ekonomik istikrar, tam istihdam, büyüme, adil gelir dağılımı, fiyat istikrarı.\n\nARAÇLAR: Kamu harcamaları, vergiler, borçlanma, bütçe.\n\n• GENİŞLETİCİ (Expansionary) MALİYE POLİTİKASI:\n  Kamu harcamaları ↑, vergiler ↓ → toplam talep ↑\n  DURGUNLUK ve İŞSİZLİK dönemlerinde uygulanır. Bütçe açığı oluşur.\n\n• DARALTICI (Contractionary) MALİYE POLİTİKASI:\n  Kamu harcamaları ↓, vergiler ↑ → toplam talep ↓\n  ENFLASYON dönemlerinde uygulanır.\n\nOTOMATİK STABİLİZATÖRLER: Artan oranlı gelir vergisi, işsizlik sigortası, tarımsal destekleme. Kendiliğinden dengeleyici etki yapar.\n\nDIŞLAMA (CROWDING-OUT) ETKİSİ: Kamunun borçlanması faizleri yükseltip özel yatırımları azaltabilir."
-   },
-   {
-    "baslik": "Kamu Ekonomisi Yaklaşımları",
-    "icerik": "• KLASİK YAKLAŞIM: 'En iyi devlet en az müdahale eden devlettir.' DENK BÜTÇE ilkesi, tarafsız maliye.\n• KEYNESYEN YAKLAŞIM: 1929 Buhranı sonrası; devlet müdahalesi şart, açık bütçe kabul edilebilir, FONKSİYONEL MALİYE.\n• MONETARİST YAKLAŞIM (Friedman): Para politikası öncelikli, maliye politikası etkisiz.\n• ARZ YANLI İKTİSAT: Vergi indirimleri üretimi artırır. LAFFER EĞRİSİ: Vergi oranı belli bir noktadan sonra artarsa vergi geliri AZALIR.\n• KAMU TERCİHİ TEORİSİ (Buchanan): Politikacı ve bürokratlar da kendi çıkarlarını gözetir; devlet başarısızlığı kavramı.\n\nWAGNER YASASI: Ekonomik gelişmeyle birlikte kamu harcamaları ORANTIDAN FAZLA artar.\nPEACOCK-WISEMAN (Sıçrama Tezi): Kamu harcamaları savaş, kriz gibi olağanüstü dönemlerde sıçrama yapar ve eski düzeyine dönmez."
-   },
    {
     "baslik": "Kamusal Mal Türleri ve Devletin Fonksiyonları",
     "icerik": "MAL TÜRLERİ (iki ölçüt: rakip olma ve dışlanabilirlik):\n• TAM KAMUSAL MAL: Tüketimde rakip DEĞİL, dışlanamaz. (Millî savunma, adalet, diplomasi) Bedavacılık sorunu nedeniyle piyasa üretmez; devlet vergiyle finanse eder.\n• YARI KAMUSAL (ERDEMLİ) MAL: Hem bireysel hem toplumsal fayda üretir, POZİTİF DIŞSALLIĞI vardır. (Eğitim, sağlık) Piyasa üretebilir ama toplumsal optimumun altında kalır; devlet destekler.\n• KULÜP MALI: Rakip değil ama DIŞLANABİLİR. (Kablolu yayın, otoyol, özel havuz) Fiyatlandırılabilir.\n• ORTAK HAVUZ MALI: Rakip ama dışlanamaz. (Balık stokları, mera, yer altı suyu) 'Ortak malların trajedisi' — aşırı kullanım ve tükenme riski taşır.\n• ÖZEL MAL: Hem rakip hem dışlanabilir. Piyasa etkin üretir.\n\nMUSGRAVE'İN ÜÇ FONKSİYONU:\n• KAYNAK TAHSİSİ: Piyasanın üretemediği veya eksik ürettiği mal ve hizmetlerin sağlanması.\n• GELİR DAĞILIMI: Artan oranlı vergiler ve transfer harcamalarıyla dağılımın düzeltilmesi.\n• İSTİKRAR: Enflasyon, işsizlik ve konjonktür dalgalanmalarıyla mücadele.\n\nPİYASA BAŞARISIZLIĞI NEDENLERİ: Kamusal mallar, dışsallıklar, doğal tekeller, eksik ve asimetrik bilgi, ölçek ekonomileri ve gelir dağılımı adaletsizliği.\n\nASİMETRİK BİLGİ: Taraflardan birinin daha çok bilgiye sahip olması. İki sonucu vardır — TERS SEÇİM (sözleşme öncesi, kötü riskin piyasaya hâkim olması) ve AHLAKİ TEHLİKE (sözleşme sonrası, sigortalının daha dikkatsiz davranması).\n\nDEVLETİN BAŞARISIZLIĞI: Kamu tercihi teorisine göre devlet de her zaman etkin değildir — bürokratik genişleme, rant kollama, oy maksimizasyonu ve baskı gruplarının etkisi kaynakları saptırır."
@@ -30,40 +10,15 @@
     "icerik": "GENİŞLETİCİ MALİYE POLİTİKASI: Kamu harcamaları artırılır ve/veya vergiler indirilir. Durgunluk ve işsizlik dönemlerinde toplam talebi canlandırmak için uygulanır. Bütçe açığını büyütür.\n\nDARALTICI MALİYE POLİTİKASI: Kamu harcamaları kısılır ve/veya vergiler artırılır. Enflasyonla mücadelede kullanılır.\n\nOTOMATİK İSTİKRARLANDIRICILAR: Hükûmet kararına gerek olmadan devreye girer — artan oranlı gelir vergisi, işsizlik sigortası ödemeleri, tarımsal destekleme alımları. Konjonktürü kendiliğinden yumuşatır ama tek başına yetersizdir.\n\nİRADİ (DİSKRESYONER) POLİTİKA: Bilinçli karar gerektirir. GECİKMELER en büyük sorunudur:\n• TANIMA GECİKMESİ: Sorunun fark edilmesi\n• KARAR GECİKMESİ: Yasal sürecin tamamlanması\n• UYGULAMA GECİKMESİ: Tedbirin hayata geçmesi\n• ETKİ GECİKMESİ: Sonucun ekonomiye yansıması\nGecikmeler nedeniyle politika, ihtiyaç ortadan kalktıktan sonra etki gösterip dalgalanmayı ARTIRABİLİR.\n\nDIŞLAMA (CROWDING OUT) ETKİSİ: Kamunun borçlanarak harcama yapması faizleri yükseltir ve özel yatırımları azaltır. Maliye politikasının etkinliğini sınırlayan temel eleştiridir.\n\nRICARDO DENKLİĞİ: Bireyler bugünkü bütçe açığının yarın vergi artışı olarak döneceğini öngörür ve tasarrufa yönelir; bu nedenle vergi indirimi tüketimi artırmaz.\n\nMALİ KURALLAR: Bütçe açığının ve kamu borcunun GSYH'ye oranına üst sınır getiren kurallardır. Mali disiplini kalıcı kılmayı amaçlar.\n\nLAFFER EĞRİSİ: Vergi oranı belirli bir noktadan sonra artırıldıkça vergi GELİRİ azalır; çünkü kayıt dışılık, vergiden kaçınma ve üretim kaybı artar. Arz yönlü iktisadın temel argümanıdır."
    }
   ],
-  "pufNoktalar": [
-   "Tam kamusal mal tüketimde rakip değildir ve dışlanamaz.",
-   "Negatif dışsallık vergiyle, pozitif dışsallık sübvansiyonla düzeltilir.",
-   "Laffer eğrisi vergi oranı ile vergi geliri ilişkisini gösterir.",
-   "Wagner yasası kamu harcamalarının orantıdan fazla artışıdır.",
-   "Otomatik stabilizatörler kendiliğinden dengeleyici etki yapar.",
-   "Dışlama etkisi kamu borçlanmasının özel yatırımı azaltmasıdır.",
+  "puf": [
    "Tam kamusal mal ne rakiptir ne dışlanabilir; bedavacılık sorunu doğurur.",
    "Musgrave'in üç fonksiyonu: kaynak tahsisi, gelir dağılımı, istikrar.",
+   "Dışlama etkisi kamu borçlanmasının özel yatırımı azaltmasıdır.",
    "Laffer eğrisine göre belirli bir orandan sonra vergi geliri azalır."
   ]
  },
- {
-  "konuId": "vergi_teorisi",
-  "dersId": "maliye",
-  "baslik": "Vergi Teorisi",
-  "ozet": "Verginin tanımı, ilkeleri, tarifeleri ve vergileme teknikleri.",
+ "vergi_teorisi": {
   "bolumler": [
-   {
-    "baslik": "Verginin Tanımı ve İlkeleri",
-    "icerik": "VERGİ: Devletin, kamu harcamalarını finanse etmek amacıyla, EGEMENLİK GÜCÜNE dayanarak, KARŞILIKSIZ, ZORLA ve KANUNLA aldığı ekonomik değer.\n\nANAYASAL DAYANAK (md.73):\n• Herkes MALİ GÜCÜNE göre vergi ödemekle yükümlüdür.\n• Vergi yükünün adaletli ve dengeli dağılımı MALİYE POLİTİKASININ SOSYAL AMACIDIR.\n• Vergi, resim, harç ve benzeri yükümlülükler KANUNLA konulur, değiştirilir, kaldırılır (VERGİLERİN KANUNİLİĞİ).\n• Cumhurbaşkanı, kanunun belirttiği ALT VE ÜST SINIRLAR içinde oranlarda değişiklik yapabilir.\n\nADAM SMITH'İN VERGİLEME İLKELERİ: Adalet, kesinlik (belirlilik), uygunluk, iktisadilik (tasarruf)."
-   },
-   {
-    "baslik": "Vergi ile İlgili Kavramlar",
-    "icerik": "• VERGİNİN KONUSU: Üzerine vergi konulan şey (gelir, servet, harcama)\n• VERGİYİ DOĞURAN OLAY: Vergi borcunun doğmasına yol açan hukuki durum\n• MÜKELLEF (Yükümlü): Vergi borcunu ödemek zorunda olan kişi\n• VERGİ SORUMLUSU: Verginin kesilip ödenmesinden sorumlu kişi (örn. işveren)\n• MATRAH: Verginin hesaplanacağı değer/miktar\n• TARH: Vergi borcunun HESAPLANMASI\n• TEBLİĞ: Mükellefe BİLDİRİLMESİ\n• TAHAKKUK: Verginin ÖDENECEK AŞAMAYA GELMESİ\n• TAHSİL: Verginin TOPLANMASI\n\nSIRALAMA: TARH → TEBLİĞ → TAHAKKUK → TAHSİL\n\n• MUAFİYET: Kişiye tanınan istisna\n• İSTİSNA: Konuya tanınan ayrıcalık\n• VERGİ HARCAMASI: Muafiyet ve istisnalar nedeniyle vazgeçilen vergi geliri"
-   },
-   {
-    "baslik": "Vergi Tarifeleri ve Yansıma",
-    "icerik": "TARİFE TÜRLERİ:\n• DÜZ (SABİT) ORANLI: Matrah artsa da oran değişmez (KDV, kurumlar vergisi %25)\n• ARTAN ORANLI (Müterakki): Matrah arttıkça oran artar (gelir vergisi). Adalet sağlar.\n• AZALAN ORANLI (Mütedenni): Matrah arttıkça oran azalır. Nadiren uygulanır.\n• SPESİFİK: Miktar üzerinden (litre, kilo, adet)\n• AD VALOREM: Değer üzerinden (yüzde)\n\nVERGİNİN YANSIMASI: Vergi yükünün başkasına aktarılması.\n• İLERİYE YANSIMA: Üreticiden tüketiciye (fiyat artırarak)\n• GERİYE YANSIMA: Üreticiden üretim faktörlerine (hammadde fiyatını düşürerek)\n• KANUNİ MÜKELLEF ↔ FİİLİ (Gerçek) MÜKELLEF ayrımı\n\nYansıma, talebin ESNEK OLMADIĞI mallarda kolaydır (tüketici yükü daha çok taşır)."
-   },
-   {
-    "baslik": "Vergiye Karşı Tepkiler ve Sınıflandırma",
-    "icerik": "VERGİYE KARŞI TEPKİLER:\n• VERGİDEN KAÇINMA: YASAL yollarla vergi yükünü azaltma (vergisiz alana yönelme)\n• VERGİ KAÇAKÇILIĞI: YASA DIŞI yollarla vergi ödememe (suç)\n• VERGİ EROZYONU, verginin reddi, aksi ikame etkisi\n\nVERGİLERİN SINIFLANDIRILMASI:\n• DOLAYSIZ (VASITASIZ) VERGİLER: Gelir ve servet üzerinden; yansıtılması zordur.\n  Gelir vergisi, kurumlar vergisi, emlak vergisi, MTV, veraset ve intikal vergisi.\n• DOLAYLI (VASITALI) VERGİLER: Harcamalar üzerinden; kolayca yansıtılır.\n  KDV, ÖTV, gümrük vergisi, damga vergisi, BSMV.\n\n⚠ Dolaylı vergiler ADALETSİZDİR (düşük gelirli daha çok yük taşır — regresif etki).\n⚠ Türkiye'de vergi gelirleri içinde DOLAYLI vergilerin payı yüksektir.\n\nVERGİNİN AMAÇLARI: Mali (gelir sağlama), ekonomik (yönlendirme), sosyal (gelir dağılımı)."
-   },
    {
     "baslik": "Vergilendirme Süreci ve Taraflar",
     "icerik": "VERGİLENDİRME SÜRECİNİN AŞAMALARI (sırası önemlidir):\n1. TARH: Vergi alacağının kanunda gösterilen matrah ve oranlar üzerinden idarece HESAPLANMASIDIR. Bir idari işlemdir.\n2. TEBLİĞ: Vergilendirmeyi ilgilendiren belgelerin mükellefe yazıyla bildirilmesidir.\n3. TAHAKKUK: Verginin ödenmesi gereken aşamaya gelmesidir.\n4. TAHSİL: Verginin kanuna uygun olarak ödenmesidir.\n\nTARH TÜRLERİ: Beyana dayanan tarh (asıl yöntem), ikmalen tarh (ek matrah bulunduğunda), re'sen tarh (matrah defter ve belgelerden saptanamıyorsa), idarece tarh (mükellef ödevlerini yerine getirmezse), düzeltme yoluyla tarh.\n\nMÜKELLEF (YÜKÜMLÜ): Vergi kanunlarına göre kendisine vergi borcu düşen gerçek veya tüzel kişidir.\nVERGİ SORUMLUSU: Verginin ödenmesi bakımından alacaklı vergi dairesine karşı muhatap olan kişidir; vergiyi keserek yatırır (işverenin ücretten gelir vergisi kesmesi gibi).\nVERGİYİ DOĞURAN OLAY: Vergi alacağının kanunlarla bağlandığı olayın meydana gelmesi veya hukuki durumun tamamlanmasıdır.\n\nMATRAH: Verginin hesaplanmasına esas olan değer veya miktar.\n• ADVALOREM MATRAH: Değer üzerinden (para birimiyle).\n• SPESİFİK MATRAH: Miktar, adet, ağırlık, hacim üzerinden.\n\nMUAFİYET: Vergi KİŞİ bakımından dışında bırakılır (esnaf muaflığı).\nİSTİSNA: Vergi KONUSU bakımından dışında bırakılır (ihracat istisnası, konut kira istisnası).\n\nZAMANAŞIMI:\n• TARH ZAMANAŞIMI: Vergiyi doğuran olayın izlediği takvim yılından itibaren 5 YIL içinde tarh ve tebliğ edilmeyen vergi zamanaşımına uğrar.\n• TAHSİL ZAMANAŞIMI: Vadesini izleyen takvim yılından itibaren 5 YIL.\nZamanaşımı mükellefin başvurusuna bakılmaksızın RE'SEN hüküm ifade eder — bu yönüyle özel hukuktan ayrılır."
@@ -73,40 +28,15 @@
     "icerik": "YANSIMA AŞAMALARI: Ödeme (verginin kanuni mükelleften alınması) → Vurgu → Aktarma → Yerleşme (verginin nihai olarak kimin üzerinde kaldığı).\n\nYANSIMA TÜRLERİ:\n• İLERİYE YANSIMA: Vergi, fiyat artışıyla TÜKETİCİYE aktarılır.\n• GERİYE YANSIMA: Vergi, girdi fiyatlarını düşürerek ÜRETİM FAKTÖRLERİNE (tedarikçi, işçi) aktarılır.\n• ÇAPRAZ YANSIMA: Vergi, başka bir malın fiyatı üzerinden aktarılır.\n• KANUNİ YANSIMA: Kanun koyucunun bilerek öngördüğü yansıma (KDV).\n• FİİLÎ YANSIMA: Piyasa koşullarında kendiliğinden gerçekleşen yansıma.\n\nYANSIMAYI BELİRLEYEN ETKEN: ESNEKLİK. Talebi katı (esnekliği düşük) mallarda vergi büyük ölçüde tüketiciye yansır. Piyasa tekelciyse yansıtma gücü artar; rekabetçi piyasada ve durgunluk dönemlerinde yansıtma zorlaşır.\n\nVERGİYE KARŞI TEPKİLER:\n• VERGİDEN KAÇINMA: Vergiyi doğuran olaya hiç sebebiyet vermemek. YASALDIR (vergili malı tüketmemek).\n• VERGİ KAÇAKÇILIĞI: Vergi borcunu kanuna aykırı biçimde ödememek. YASA DIŞIDIR ve suçtur.\n• VERGİ YANSIMASI: Yükü başkasına aktarmak.\n• VERGİ GREVİ ve VERGİ REDDİ: Toplu tepki biçimleri.\n• ÜRETİMİ AZALTMA / KAYIT DIŞINA ÇIKMA.\n\nVERGİLEME İLKELERİ:\n• ADAM SMITH'İN DÖRT İLKESİ: Adalet, kesinlik (belirlilik), uygunluk (ödeme zamanının elverişliliği), iktisadilik (tahsil maliyetinin düşüklüğü).\n• MODERN İLKELER: Etkinlik, tarafsızlık, basitlik, esneklik, verimlilik ve istikrar.\n\nADALET YAKLAŞIMLARI:\n• FAYDA İLKESİ: Kamu hizmetinden fayda sağlayan oranında vergi öder.\n• ÖDEME GÜCÜ İLKESİ: Mali gücü yüksek olan daha çok öder. Araçları: Artan oranlılık, en az geçim indirimi ve ayırma ilkesi (emek gelirinin sermaye gelirine göre daha az vergilendirilmesi).\nANAYASAL DAYANAK: 'Herkes, kamu giderlerini karşılamak üzere MALİ GÜCÜNE GÖRE vergi ödemekle yükümlüdür.' (Anayasa m.73)"
    }
   ],
-  "pufNoktalar": [
-   "Vergiler kanunla konulur, değiştirilir ve kaldırılır (md.73).",
-   "Sıralama: tarh → tebliğ → tahakkuk → tahsil.",
-   "Muafiyet kişiye, istisna konuya tanınır.",
-   "Vergiden kaçınma yasal, vergi kaçakçılığı yasa dışıdır.",
-   "Dolaylı vergiler regresif etki yaratır ve kolay yansıtılır.",
-   "Artan oranlı tarife vergi adaletini destekler.",
+  "puf": [
    "Vergilendirme süreci: tarh, tebliğ, tahakkuk, tahsil.",
    "Muafiyet kişiye, istisna konuya ilişkindir.",
+   "Vergiden kaçınma yasal, vergi kaçakçılığı yasa dışıdır.",
    "Ödeme gücünün araçları artan oranlılık, en az geçim indirimi ve ayırma ilkesidir."
   ]
  },
- {
-  "konuId": "turk_vergi_sistemi",
-  "dersId": "maliye",
-  "baslik": "Türk Vergi Sistemi",
-  "ozet": "Gelir, kurumlar, KDV ve diğer vergilerin temel özellikleri.",
+ "turk_vergi_sistemi": {
   "bolumler": [
-   {
-    "baslik": "Gelir Vergisi",
-    "icerik": "GELİR VERGİSİ: GERÇEK KİŞİLERİN bir takvim yılında elde ettiği kazanç ve iratların safi tutarı üzerinden alınır. ARTAN ORANLIDIR.\n\nGELİR UNSURLARI (7 adet):\n1) TİCARİ KAZANÇ\n2) ZİRAİ KAZANÇ\n3) ÜCRET\n4) SERBEST MESLEK KAZANCI\n5) GAYRİMENKUL SERMAYE İRADI (kira)\n6) MENKUL SERMAYE İRADI (faiz, kâr payı)\n7) DİĞER KAZANÇ VE İRATLAR (değer artış kazançları, arızi kazançlar)\n\nMÜKELLEFİYET:\n• TAM MÜKELLEF: Türkiye'de yerleşmiş olanlar → yurt içi ve YURT DIŞI tüm kazançları üzerinden\n• DAR MÜKELLEF: Türkiye'de yerleşmemiş olanlar → SADECE Türkiye'de elde ettikleri kazançlar üzerinden\n\nBEYAN: Yıllık beyanname MART ayında verilir (basit usulde Şubat)."
-   },
-   {
-    "baslik": "Kurumlar Vergisi",
-    "icerik": "KURUMLAR VERGİSİ: TÜZEL KİŞİLERİN (kurumların) kazançları üzerinden alınır. DÜZ (SABİT) ORANLIDIR.\n\nMÜKELLEFLERİ:\n• Sermaye şirketleri (anonim, limited, sermayesi paylara bölünmüş komandit)\n• Kooperatifler\n• İktisadi kamu kuruluşları\n• Dernek ve vakıflara ait iktisadi işletmeler\n• İş ortaklıkları\n\n• Beyanname: Hesap dönemini izleyen NİSAN ayında verilir.\n• GEÇİCİ VERGİ: Üçer aylık dönemler hâlinde peşin ödenir.\n• Kâr dağıtımında ayrıca STOPAJ (kâr payı üzerinden gelir vergisi kesintisi) yapılır."
-   },
-   {
-    "baslik": "Katma Değer Vergisi (KDV) ve ÖTV",
-    "icerik": "KDV:\n• Mal teslimi ve hizmet ifası üzerinden alınan bir HARCAMA (dolaylı) vergisidir.\n• Her aşamada YARATILAN KATMA DEĞER vergilendirilir.\n• İNDİRİM MEKANİZMASI: Ödenecek KDV = Hesaplanan KDV − İndirilecek KDV\n• Nihai yükü TÜKETİCİ üstlenir.\n• Beyan ve ödeme: İzleyen ayın 28'ine kadar (aylık dönemler).\n• Oranlar: %1, %10, %20 (temel oran).\n\nÖTV (Özel Tüketim Vergisi):\n• Belirli mal gruplarından TEK AŞAMADA alınır.\n• 4 liste: (I) Petrol ürünleri, (II) Motorlu taşıtlar, (III) Alkollü içecek ve tütün, (IV) Lüks tüketim malları.\n• Amaç: Gelir sağlama + tüketimi yönlendirme (negatif dışsallıklar)."
-   },
-   {
-    "baslik": "Diğer Vergiler ve Vergi Yargısı",
-    "icerik": "SERVET ÜZERİNDEN ALINAN VERGİLER:\n• EMLAK VERGİSİ: Bina ve arazi; BELEDİYELERE ödenir. Mayıs ve Kasım'da iki taksit.\n• MOTORLU TAŞITLAR VERGİSİ (MTV): Ocak ve Temmuz'da iki taksit.\n• VERASET VE İNTİKAL VERGİSİ: Miras ve bağışlar üzerinden; artan oranlı.\n\nDİĞER: Damga vergisi, harçlar, gümrük vergisi, BSMV, dijital hizmet vergisi, konaklama vergisi.\n\nVERGİ USUL VE YARGI:\n• 213 sayılı VERGİ USUL KANUNU (VUK): Vergilendirme süreci, defter-belge, ceza hükümleri.\n• 6183 sayılı AATUHK: Kamu alacaklarının tahsili.\n• VERGİ CEZALARI: Vergi ziyaı cezası, usulsüzlük cezası, özel usulsüzlük; kaçakçılık suçları (hapis).\n• UZLAŞMA: Tarhiyat öncesi ve sonrası uzlaşma imkânı.\n• VERGİ DAVALARI: VERGİ MAHKEMELERİNDE, 30 GÜN içinde açılır. Dava açılması tahsilatı DURDURUR."
-   },
    {
     "baslik": "Gelir Unsurları ve Beyan Esasları",
     "icerik": "GELİR VERGİSİNE TABİ YEDİ GELİR UNSURU:\n1. TİCARİ KAZANÇ\n2. ZİRAİ KAZANÇ\n3. ÜCRET\n4. SERBEST MESLEK KAZANCI\n5. GAYRİMENKUL SERMAYE İRADI (kira)\n6. MENKUL SERMAYE İRADI (faiz, kâr payı)\n7. DİĞER KAZANÇ VE İRATLAR (değer artışı kazançları ve arızi kazançlar)\n\nTAM MÜKELLEFİYET: Türkiye'de yerleşmiş olanlar ile resmî daire ve müesseselere bağlı olarak yurt dışında bulunan Türk vatandaşları. Türkiye içinde ve dışında elde ettikleri kazançların TAMAMI üzerinden vergilendirilirler.\nDAR MÜKELLEFİYET: Türkiye'de yerleşmiş olmayanlar; yalnız Türkiye'de elde ettikleri kazançlar üzerinden vergilendirilirler.\nYERLEŞME ÖLÇÜTÜ: İkametgâhın Türkiye'de olması veya bir takvim yılı içinde Türkiye'de devamlı olarak ALTI AYDAN FAZLA oturulması.\n\nTİCARİ KAZANCIN TESPİT USULLERİ: Bilanço esası ve işletme hesabı esası; ayrıca basit usul ve esnaf muaflığı uygulamaları bulunur.\n\nSERBEST MESLEK KAZANCI: Sermayeden çok KİŞİSEL ÇALIŞMAYA, ilmi veya mesleki bilgiye dayanan ve ticari nitelikte olmayan işlerden elde edilen kazançtır (avukat, doktor, muhasebeci). Tahsil esasına göre tespit edilir.\n\nÜCRET: İşverene tabi ve belirli bir iş yerine bağlı olarak çalışanlara hizmet karşılığı verilen para ve menfaatlerdir. Genellikle STOPAJ (kaynakta kesinti) yoluyla vergilendirilir.\n\nGELİR VERGİSİ ARTAN ORANLI bir tarifeye göre alınır; dilimler ve tutarlar her yıl yeniden değerleme oranıyla güncellenir.\n\nBEYANNAME TÜRLERİ: Yıllık beyanname, muhtasar beyanname (kesintilerin bildirimi) ve münferit beyanname (dar mükellefler için)."
@@ -116,41 +46,15 @@
     "icerik": "KATMA DEĞER VERGİSİ (KDV): Her aşamada yaratılan katma değer üzerinden alınan, GENEL bir harcama vergisidir.\nİNDİRİM MEKANİZMASI: Mükellef hesapladığı KDV'den yüklendiği KDV'yi indirir, aradaki farkı öder. Bu sayede vergi YANSITILARAK nihai tüketici üzerinde kalır ve kümülatif (vergiden vergi alma) etkisi önlenir.\nBeyan dönemi kural olarak aylıktır.\nİSTİSNALARI: İhracat istisnası (tam istisna — yüklenilen KDV iade edilir), araçlar ve petrol aramaları, diplomatik istisna, sosyal ve kültürel amaçlı istisnalar.\n\nÖZEL TÜKETİM VERGİSİ (ÖTV): Belirli mal gruplarından, kural olarak TEK AŞAMADA alınır. Dört listesi vardır: (I) petrol ürünleri, (II) motorlu taşıtlar, (III) alkollü içecekler ve tütün mamulleri, (IV) lüks ve dayanıklı tüketim malları.\nÖTV hem mali amaçlı hem de tüketimi yönlendirme amaçlıdır.\n\nDİĞER VERGİLER: Motorlu Taşıtlar Vergisi, Emlak Vergisi (belediyelere ait), Veraset ve İntikal Vergisi, Damga Vergisi, Banka ve Sigorta Muameleleri Vergisi, harçlar, Değerli Konut Vergisi, Dijital Hizmet Vergisi, Konaklama Vergisi.\n\nVERGİ UYUŞMAZLIKLARININ İDARİ ÇÖZÜM YOLLARI:\n• UZLAŞMA: Tarhiyat öncesi veya sonrası uzlaşma ile vergi ve ceza tutarında anlaşma sağlanır; uzlaşılan konu YARGIYA TAŞINAMAZ.\n• CEZALARDA İNDİRİM: Dava açılmaması ve sürede ödenmesi koşuluyla ceza indirimi.\n• PİŞMANLIK VE ISLAH: Mükellef, idare öğrenmeden önce kendiliğinden bildirirse vergi ziyaı cezası kesilmez; yalnız pişmanlık zammı alınır.\n• HATA DÜZELTME: Vergi hataları (hesap hataları ve vergilendirme hataları) düzeltme yoluyla giderilir.\n\nYARGISAL ÇÖZÜM: Vergi mahkemesinde 30 GÜN içinde dava açılır; bölge idare mahkemesine istinaf ve Danıştaya temyiz yolu işletilir.\n\nVERGİ SUÇ VE CEZALARI: Vergi ziyaı cezası, usulsüzlük ve özel usulsüzlük cezaları idari nitelikteyken; sahte belge düzenleme ve kullanma gibi KAÇAKÇILIK suçları hapis cezasını gerektirir ve ceza mahkemesinde yargılanır."
    }
   ],
-  "pufNoktalar": [
-   "Gelir vergisi gerçek kişilerden ve artan oranlı, kurumlar vergisi tüzel kişilerden ve sabit oranlıdır.",
-   "7 gelir unsuru vardır; tam mükellef dünya gelirinden vergilendirilir.",
-   "KDV'de ödenecek vergi = hesaplanan − indirilecek KDV.",
-   "ÖTV dört listeden oluşur ve tek aşamada alınır.",
-   "Emlak vergisi belediyelere ödenir.",
-   "Vergi davaları vergi mahkemesinde 30 gün içinde açılır.",
+  "puf": [
    "Gelir vergisinde yedi gelir unsuru vardır ve tarife artan oranlıdır.",
    "Türkiye'de altı aydan fazla oturan tam mükellef sayılır.",
    "KDV indirim mekanizmasıyla nihai tüketici üzerinde kalır.",
    "Uzlaşılan bir vergi uyuşmazlığı yargıya taşınamaz."
   ]
  },
- {
-  "konuId": "kamu_harcamalari",
-  "dersId": "maliye",
-  "baslik": "Kamu Harcamaları",
-  "ozet": "Kamu harcamalarının sınıflandırılması, artış nedenleri ve etkileri.",
+ "kamu_harcamalari": {
   "bolumler": [
-   {
-    "baslik": "Kamu Harcamalarının Tanımı ve Sınıflandırılması",
-    "icerik": "KAMU HARCAMASI: Devlet ve diğer kamu tüzel kişilerinin, kamu hizmetlerini yerine getirmek için yaptığı harcamalar.\n\nEKONOMİK SINIFLANDIRMA:\n• CARİ HARCAMALAR: Personel giderleri, mal ve hizmet alımları (tüketime yönelik, aynı yıl tüketilir).\n• YATIRIM (Sermaye) HARCAMALARI: Sermaye birikimi sağlayan, gelecek yıllara yayılan (yol, okul, hastane).\n• TRANSFER HARCAMALARI: Karşılıksız aktarımlar (sosyal yardım, emekli aylığı, faiz ödemeleri, sübvansiyon).\n  ⚠ Transfer harcamaları MİLLÎ GELİRE DOĞRUDAN KATKI SAĞLAMAZ; satın alma gücü aktarımıdır.\n\nİDARİ (KURUMSAL) SINIFLANDIRMA: Harcamayı yapan kuruma göre.\nFONKSİYONEL SINIFLANDIRMA: Hizmet türüne göre (savunma, eğitim, sağlık).\nFİNANSMAN TİPİ SINIFLANDIRMA: Kaynağına göre."
-   },
-   {
-    "baslik": "Kamu Harcamalarının Artış Nedenleri",
-    "icerik": "GERÇEK ARTIŞ NEDENLERİ:\n• Nüfus artışı ve kentleşme\n• Savunma ve güvenlik ihtiyaçları\n• Sosyal devlet anlayışının gelişmesi (eğitim, sağlık, sosyal güvenlik)\n• Teknolojik gelişme ve altyapı yatırımları\n• Ekonomik kalkınma çabaları\n• Devletin ekonomik fonksiyonlarının artması\n\nGÖRÜNÜŞTE (Nominal) ARTIŞ NEDENLERİ:\n• ENFLASYON (paranın değer kaybı)\n• Bütçe tekniğindeki değişiklikler (gayrisafi usule geçiş)\n• Ülke sınırlarının genişlemesi\n\nTEORİLER:\n• WAGNER YASASI: Kamu harcamaları millî gelirden DAHA HIZLI artar.\n• PEACOCK-WISEMAN SIÇRAMA TEZİ: Olağanüstü dönemlerde (savaş, kriz) sıçrar, sonra eski düzeye dönmez (yer değiştirme etkisi).\n• BAUMOL HASTALIĞI: Kamu hizmetlerinde verimlilik artışı sınırlıdır, maliyetler artar."
-   },
-   {
-    "baslik": "Kamu Harcamalarının Etkileri",
-    "icerik": "EKONOMİK ETKİLER:\n• ÜRETİM ve İSTİHDAM: Yatırım harcamaları üretimi ve istihdamı artırır.\n• GELİR DAĞILIMI: Transfer harcamaları gelir dağılımını iyileştirir.\n• FİYATLAR: Aşırı kamu harcaması talep enflasyonuna yol açabilir.\n• ÇARPAN ETKİSİ: Kamu harcamasındaki artış millî geliri katlayarak artırır.\n  Çarpan = 1/(1−MPC)\n• HIZLANDIRAN ETKİSİ: Gelir artışının yatırımları uyarması.\n\nKAMU HARCAMALARINDA VERİMLİLİK:\n• FAYDA-MALİYET ANALİZİ\n• MALİYET-ETKİNLİK ANALİZİ\n• PERFORMANS ESASLI BÜTÇELEME\n• 5018 sayılı Kanun ile stratejik plan-performans programı-faaliyet raporu zinciri kuruldu."
-   },
-   {
-    "baslik": "Kamu Gelirleri ve Borçlanma",
-    "icerik": "KAMU GELİRLERİ:\n• VERGİLER (en büyük pay)\n• HARÇ: Kamu hizmetinden yararlananlardan alınır (yargı harcı, noter harcı)\n• RESİM: İzin karşılığı alınan (damga resmi)\n• ŞERAFİYE (Katılma payı): Kamu yatırımı sonucu değeri artan taşınmazlardan\n• PARAFİSKAL GELİRLER: Sosyal güvenlik primleri, meslek odası aidatları\n• MÜLK VE TEŞEBBÜS GELİRLERİ: KİT kârları, kira gelirleri\n• BORÇLANMA, para basma, bağış ve yardımlar, para cezaları\n\nDEVLET BORÇLARI:\n• Vadesine göre: KISA (dalgalı) / UZUN (konsolide) vadeli\n• Kaynağına göre: İÇ BORÇ / DIŞ BORÇ\n• İç borç gelir dağılımını etkiler; dış borç döviz yükü getirir.\n• KONSOLİDASYON: Kısa vadeli borcun uzun vadeliye dönüştürülmesi\n• KONVERSİYON: Yüksek faizli borcun düşük faizli borçla değiştirilmesi\n• MORATORYUM: Borç ödemelerinin ertelenmesi"
-   },
    {
     "baslik": "Kamu Borçlanmasının Türleri ve Yönetimi",
     "icerik": "BORÇLANMANIN SINIFLANDIRILMASI:\n• VADEYE GÖRE: Kısa vadeli (bir yıla kadar — dalgalı borç, hazine bonosu), orta ve uzun vadeli (konsolide borç, devlet tahvili).\n• KAYNAĞA GÖRE: İÇ BORÇ (ülke içinden; satın alma gücünün el değiştirmesidir, milli gelirde doğrudan azalma yaratmaz) ve DIŞ BORÇ (yurt dışından; alındığında kaynak girişi, ödendiğinde kaynak çıkışı yaratır).\n• İSTEĞE GÖRE: Gönüllü borçlanma ve zorunlu borçlanma.\n\nBORÇ YÖNETİMİ İŞLEMLERİ:\n• KONSOLİDASYON (TAHKİM): Kısa vadeli borçların uzun vadeli hâle getirilmesidir. Vade uzar.\n• KONVERSİYON: Yüksek faizli borcun daha düşük faizli borçla değiştirilmesidir. Faiz yükü azalır.\n• MONETİZASYON: Borcun para basılarak (emisyonla) karşılanmasıdır; enflasyonist etki yaratır.\n• MORATORYUM: Borç ödemelerinin tek taraflı olarak ertelenmesidir.\n• REPÜDİASYON: Borcun tek taraflı olarak REDDEDİLMESİ, tanınmaması. En ağır ve en itibar kaybettirici işlemdir.\n\nBORÇ SÜRDÜRÜLEBİLİRLİĞİ: Borç/GSYH oranının artmaması için faiz oranının büyüme oranını aşmaması ve faiz dışı fazla verilmesi gerekir.\n\nFAİZ DIŞI FAZLA: Bütçe gelirlerinden faiz ödemeleri hariç harcamaların çıkarılmasıyla bulunur. Pozitif olması borç stokunun kontrolü açısından kritiktir.\n\nBORÇ ÖDEME KAYNAKLARI: Vergi gelirleri, yeni borçlanma (borcun borçla çevrilmesi), özelleştirme gelirleri ve emisyon.\n\nBORÇLANMANIN NESİLLERARASI ETKİSİ: Uzun vadeli borçla finanse edilen altyapı yatırımlarının yükü gelecek nesillere yayılır. Bu, faydayı da onların paylaşması nedeniyle savunulabilir; ancak cari harcamaların borçla finansmanı gelecek nesle haksız yük bindirir."
@@ -160,41 +64,15 @@
     "icerik": "KAMU GELİRLERİ TÜRLERİ:\n• VERGİ: Devletin egemenlik gücüne dayanarak, KARŞILIKSIZ ve ZORLA aldığı ekonomik değerdir. En büyük gelir kalemidir.\n• HARÇ: Kamu kurumlarının sunduğu belirli bir hizmetten YARARLANANLARDAN alınır; kısmi karşılığı vardır (yargı harcı, noter harcı, pasaport harcı).\n• RESİM: Bir işin yapılmasına izin verilmesi karşılığında alınır (damga resmi, trafik resmi).\n• ŞEREFİYE (KATILMA PAYI): Belediyenin yaptığı yol, kanalizasyon, su gibi işler nedeniyle DEĞERİ ARTAN gayrimenkul sahiplerinden alınır.\n• PARAFİSKAL GELİR: Kamu kurumu niteliğindeki meslek kuruluşlarının ve sosyal güvenlik kurumlarının topladığı aidat ve primler (SGK primi, baro aidatı). Bütçe içinde yer almaz.\n• PARA VE VERGİ CEZALARI: Cezalandırıcı niteliktedir; mali amaç ikincildir.\n• MÜLK VE TEŞEBBÜS GELİRLERİ: Devletin sahip olduğu taşınmazlardan ve KİT'lerden elde ettiği gelirler.\n• BORÇLANMA: Olağan bir gelir değil, gelecekteki gelirin bugüne çekilmesidir.\n• PARA BASMA (EMİSYON) ve SENYORAJ.\n• ÖZELLEŞTİRME GELİRLERİ: Bir defaya mahsustur, sürekli gelir kaynağı sayılmaz.\n• BAĞIŞ VE YARDIMLAR.\n\nVERGİ – HARÇ FARKI (en çok sorulan ayrım): Vergide KARŞILIK YOKTUR; harçta belirli bir hizmetten kişisel yararlanma söz konusudur.\n\nVERGİ YÜKÜ = Ödenen vergi / Gelir. Toplam vergi yükü, ülkedeki toplam vergi gelirlerinin GSYH'ye oranıdır.\n\nVERGİ HARCAMASI: Muafiyet, istisna ve indirimler nedeniyle devletin VAZGEÇTİĞİ vergi gelirleridir. Örtülü bir kamu harcaması gibi çalışır ve bütçe belgelerinde ayrıca raporlanır."
    }
   ],
-  "pufNoktalar": [
-   "Transfer harcamaları millî gelire doğrudan katkı sağlamaz.",
-   "Wagner yasası kamu harcamalarının millî gelirden hızlı artışını ifade eder.",
-   "Peacock-Wiseman sıçrama tezinde harcamalar eski düzeyine dönmez.",
-   "Harç hizmet karşılığı, vergi karşılıksızdır.",
-   "Konsolidasyon vadeyi, konversiyon faizi değiştirir.",
-   "Enflasyon kamu harcamalarında görünüşte artış nedenidir.",
+  "puf": [
    "Konsolidasyon vadeyi uzatır, konversiyon faizi düşürür.",
    "Repüdiasyon borcun tek taraflı reddidir; en ağır işlemdir.",
    "Vergide karşılık yoktur; harçta kişisel hizmet karşılığı vardır.",
    "Vergi harcaması muafiyet ve istisnalar nedeniyle vazgeçilen gelirdir."
   ]
  },
- {
-  "konuId": "butce",
-  "dersId": "maliye",
-  "baslik": "Bütçe",
-  "ozet": "Bütçe ilkeleri, türleri, süreci ve 5018 sayılı Kanun.",
+ "butce": {
   "bolumler": [
-   {
-    "baslik": "Bütçenin Tanımı ve İlkeleri",
-    "icerik": "BÜTÇE: Devletin belirli bir dönemdeki gelir ve gider tahminlerini gösteren, uygulanmasına izin veren KANUNDUR.\n\nKLASİK BÜTÇE İLKELERİ:\n• GENELLİK: Tüm gelir ve giderler bütçede gösterilir (gayrisafi usul).\n• BİRLİK (Teklik): Tüm gelir ve giderler TEK bütçede toplanır.\n• YILLIK OLMA: Bütçe bir yıl için hazırlanır.\n• ÖNCEDEN İZİN: Harcama öncesi yasama izni alınır.\n• AÇIKLIK ve DOĞRULUK\n• ALENİYET (Kamuoyuna açıklık)\n• SAMİMİYET, DENKLİK, TAHSİS (ödeneklerin amacına uygun kullanımı)\n• ADEM-İ TAHSİS: Belirli gelir belirli gidere tahsis edilmez (istisnaları vardır)."
-   },
-   {
-    "baslik": "Bütçe Türleri",
-    "icerik": "• TORBA BÜTÇE: Ödenekler ayrıntısız, toplu verilir.\n• PROGRAM BÜTÇE: Hizmet programlarına göre; amaç-hedef ilişkisi kurulur.\n• PERFORMANS ESASLI BÜTÇELEME: Çıktı ve sonuç odaklı. TÜRKİYE'DE 5018 ile benimsenmiştir.\n• SIFIR TABANLI BÜTÇE: Her yıl sıfırdan gerekçelendirme.\n• PLANLAMA-PROGRAMLAMA-BÜTÇELEME SİSTEMİ (PPBS)\n• DENK BÜTÇE / AÇIK BÜTÇE / DEVRİ (Telafi Edici) BÜTÇE\n\n5018 SAYILI KANUNA GÖRE BÜTÇE TÜRLERİ:\n1) MERKEZİ YÖNETİM BÜTÇESİ:\n   • Genel bütçe (I sayılı cetvel — bakanlıklar)\n   • Özel bütçe (II sayılı cetvel — üniversiteler, TÜBİTAK)\n   • Düzenleyici ve denetleyici kurum bütçeleri (III sayılı cetvel — BDDK, SPK, RTÜK)\n2) SOSYAL GÜVENLİK KURUMLARI BÜTÇESİ\n3) MAHALLİ İDARELER BÜTÇESİ"
-   },
-   {
-    "baslik": "Bütçe Süreci",
-    "icerik": "1) HAZIRLIK: Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı koordinesinde; Orta Vadeli Program (OVP) ve Orta Vadeli Mali Plan yayımlanır. Bütçe çağrısı yapılır.\n\n2) GÖRÜŞME VE ONAY:\n   • Bütçe teklifi malî yılbaşından EN AZ 75 GÜN ÖNCE TBMM'ye sunulur (Anayasa md.161).\n   • PLAN VE BÜTÇE KOMİSYONU'nda 55 gün görüşülür (40 üye: 25 iktidar+15 diğer).\n   • Genel Kurul'da görüşülüp malî yılbaşından önce KABUL edilir.\n   • Milletvekilleri Genel Kurul'da GİDER ARTIRICI veya GELİR AZALTICI önerilerde BULUNAMAZ.\n\n3) UYGULAMA: Ödeneklerin kullanımı; tahakkuk, ödeme emri, tahsilat.\n\n4) DENETİM:\n   • İDARİ DENETİM: İç kontrol, iç denetim\n   • YARGISAL DENETİM: SAYIŞTAY\n   • YASAMA DENETİMİ: TBMM — KESİN HESAP KANUNU ile (izleyen yılın Haziran ayı sonuna kadar sunulur)"
-   },
-   {
-    "baslik": "5018 Sayılı Kanun ve Malî Yönetim",
-    "icerik": "5018 SAYILI KAMU MALÎ YÖNETİMİ VE KONTROL KANUNU (2003):\n\nGETİRDİKLERİ:\n• STRATEJİK PLANLAMA ve performans esaslı bütçeleme\n• Çok yıllı bütçeleme (3 yıllık)\n• Malî saydamlık ve HESAP VERİLEBİLİRLİK\n• İÇ KONTROL ve İÇ DENETİM sistemi\n• Analitik bütçe sınıflandırması\n• Faaliyet raporları\n\nSORUMLULAR:\n• ÜST YÖNETİCİ: Bakanlıklarda bakan yardımcısı/müsteşar, diğer idarelerde en üst yönetici. Kaynakların etkili kullanımından sorumludur.\n• HARCAMA YETKİLİSİ: Bütçeyle ödenek tahsis edilen birim yöneticisi.\n• GERÇEKLEŞTİRME GÖREVLİSİ: İşin yapıldığını belgeleyen.\n• MALÎ HİZMETLER BİRİMİ ve MUHASEBE YETKİLİSİ.\n\nSAYIŞTAY: TBMM adına kamu idarelerinin gelir, gider ve mallarını denetler; dış denetim organıdır."
-   },
    {
     "baslik": "Merkezî Yönetim Bütçesinin Hazırlık Takvimi",
     "icerik": "BÜTÇE TÜRLERİ (5018 sayılı Kanun'a göre merkezî yönetim bütçesi üçe ayrılır):\n• GENEL BÜTÇE: Devlet tüzel kişiliğine dâhil kamu idareleri (bakanlıklar, TBMM, Cumhurbaşkanlığı, Danıştay, Sayıştay).\n• ÖZEL BÜTÇE: Belirli bir hizmeti yürütmek üzere kurulan, kendine gelir tahsis edilen kamu idareleri (üniversiteler, TÜBİTAK, Karayolları).\n• DÜZENLEYİCİ VE DENETLEYİCİ KURUM BÜTÇELERİ: BDDK, SPK, RTÜK, Rekabet Kurumu gibi kurumlar.\nAyrıca SOSYAL GÜVENLİK KURUMU bütçeleri ve MAHALLÎ İDARE bütçeleri genel yönetim kapsamındadır.\n\nHAZIRLIK SÜRECİ (takvim sorularda sık çıkar):\n• Orta Vadeli Program, Cumhurbaşkanı tarafından EYLÜL ayının ilk haftası sonuna kadar kabul edilir ve Resmî Gazete'de yayımlanır.\n• Orta Vadeli Mali Plan ve Bütçe Çağrısı ile Bütçe Hazırlama Rehberi yayımlanır.\n• Kamu idareleri bütçe tekliflerini hazırlar.\n• Cumhurbaşkanı, merkezî yönetim bütçe kanun teklifini mali yılbaşından EN AZ 75 GÜN ÖNCE (17 Ekim) TBMM'ye sunar.\n• PLAN VE BÜTÇE KOMİSYONU teklifi 55 GÜN içinde görüşür. Komisyon 40 üyeden oluşur.\n• Genel Kurul, mali yılbaşına kadar görüşmeleri tamamlar ve bütçe 1 OCAK'ta yürürlüğe girer.\n\nÖNEMLİ SINIR: TBMM Genel Kurulunda milletvekilleri gider artırıcı veya gelir azaltıcı önerilerde BULUNAMAZ.\n\nGEÇİCİ BÜTÇE: Bütçe kanunu zamanında yürürlüğe konulamazsa geçici bütçe kanunu çıkarılır.\n\nKESİN HESAP KANUNU: Uygulama sonuçlarını gösterir; Cumhurbaşkanı tarafından izleyen mali yılın HAZİRAN ayı sonuna kadar TBMM'ye sunulur. Sayıştay'ın GENEL UYGUNLUK BİLDİRİMİ ile birlikte görüşülür."
@@ -204,17 +82,11 @@
     "icerik": "KLASİK BÜTÇE İLKELERİ:\n• GENELLİK: Tüm gelir ve giderler bütçede GAYRİSAFİ olarak yer alır; mahsup edilerek net gösterilmez.\n• BİRLİK (TEKLİK): Tüm gelir ve giderler tek bir belgede toplanır.\n• ANLAŞILABİLİRLİK (AÇIKLIK): Bütçe herkesin anlayabileceği açıklıkta olmalıdır.\n• DOĞRULUK ve SAMİMİYET: Tahminler gerçekçi olmalı, bilinçli olarak yüksek veya düşük gösterilmemelidir.\n• ÖNCEDEN İZİN: Harcama yapılmadan önce yasama organının izni alınmalıdır.\n• YILLIK OLMA: Bütçe bir yıllık dönemi kapsar.\n• DENKLİK: Gelir ve giderlerin denk olması.\n• ALENİYET: Bütçe süreci kamuya açık yürütülür.\n• TAHSİS (AYRILIK): Ödenekler ancak tahsis edildikleri amaç için kullanılır.\n• ADEM-İ TAHSİS: Belirli bir gelir belirli bir gidere bağlanmaz.\n\nBÜTÇE SİSTEMLERİ:\n• KLASİK (GELENEKSEL) BÜTÇE: Girdi ve harcama kalemi odaklıdır; ne alındığını gösterir, ne başarıldığını değil.\n• PERFORMANS BÜTÇE: Yapılan iş ve hizmet miktarına odaklanır.\n• PROGRAM BÜTÇE: Amaç ve programlara göre düzenlenir.\n• PLANLAMA-PROGRAMLAMA-BÜTÇELEME SİSTEMİ (PPBS): Uzun vadeli planla bütçeyi bağlar; fayda-maliyet analizini kullanır.\n• SIFIR TABANLI BÜTÇE: Her yıl tüm harcamalar sıfırdan gerekçelendirilir; geçmiş yıl rakamı veri kabul edilmez.\n• ANALİTİK BÜTÇE SINIFLANDIRMASI: Türkiye'de kullanılan; kurumsal, fonksiyonel, finansman tipi ve ekonomik sınıflandırmadan oluşur.\n\nMALİ YÖNETİM AKTÖRLERİ (5018): Üst yönetici (bakanlıklarda bakan yardımcısı/müsteşar yerine bakanlıkça belirlenen üst düzey yönetici, üniversitede rektör, belediyede belediye başkanı), harcama yetkilisi, gerçekleştirme görevlisi ve muhasebe yetkilisi.\n\nDENETİM TÜRLERİ: İç kontrol ve iç denetim (kurum içi), dış denetim (SAYIŞTAY tarafından TBMM adına — düzenlilik ve performans denetimi), siyasi denetim (TBMM)."
    }
   ],
-  "pufNoktalar": [
-   "Bütçe malî yılbaşından en az 75 gün önce TBMM'ye sunulur.",
-   "Milletvekilleri Genel Kurul'da gider artırıcı öneri yapamaz.",
-   "5018 sayılı Kanun performans esaslı bütçelemeyi getirdi.",
-   "Sayıştay TBMM adına dış denetim yapar.",
-   "Genel bütçe I, özel bütçe II, düzenleyici kurumlar III sayılı cetveldedir.",
-   "Adem-i tahsis ilkesi belirli gelirin belirli gidere bağlanmamasıdır.",
+  "puf": [
    "Bütçe teklifi mali yılbaşından en az 75 gün önce TBMM'ye sunulur.",
    "Genel Kurulda gider artırıcı veya gelir azaltıcı öneri yapılamaz.",
    "Genellik ilkesi gelir ve giderlerin gayrisafi gösterilmesini gerektirir.",
    "Sıfır tabanlı bütçede geçmiş yıl rakamı veri kabul edilmez."
   ]
  }
-]
+}

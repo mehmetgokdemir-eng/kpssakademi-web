@@ -1,26 +1,6 @@
-[
- {
-  "konuId": "yonetim_organizasyon",
-  "dersId": "isletme",
-  "baslik": "Yönetim ve Organizasyon",
-  "ozet": "Yönetim fonksiyonları, örgüt yapıları ve yönetim yaklaşımları.",
+{
+ "yonetim_organizasyon": {
   "bolumler": [
-   {
-    "baslik": "Yönetimin Fonksiyonları",
-    "icerik": "1) PLANLAMA: Amaçların ve bunlara ulaşma yollarının belirlenmesi. İlk ve temel fonksiyondur.\n   • Stratejik plan (uzun vadeli, üst yönetim)\n   • Taktik plan (orta vadeli)\n   • Operasyonel plan (kısa vadeli)\n2) ÖRGÜTLEME: Yapı, görev, yetki ve sorumlulukların düzenlenmesi.\n3) YÖNELTME (Yürütme/Emir-Komuta): Çalışanların harekete geçirilmesi.\n4) KOORDİNASYON (Eşgüdüm): Uyum sağlama.\n5) DENETİM (Kontrol): Sonuçların planla karşılaştırılması, sapmaların düzeltilmesi.\n\nYÖNETİM KADEMELERİ: Üst yönetim (stratejik), orta yönetim (taktik), alt yönetim (operasyonel).\nYÖNETİCİ BECERİLERİ (Katz): Teknik (alt kademede önemli), beşerî (her kademede), kavramsal (üst kademede önemli)."
-   },
-   {
-    "baslik": "Örgüt Yapıları",
-    "icerik": "• DİKEY (HİYERARŞİK) ÖRGÜT: Emir-komuta zinciri nettir; basit ama esnek değildir.\n• FONKSİYONEL ÖRGÜT: Uzmanlığa göre bölümlendirme (pazarlama, üretim, finans). Uzmanlaşma yüksek, koordinasyon zor.\n• KURMAY (LINE-STAFF) ÖRGÜT: Emir-komuta + danışman birimler.\n• MATRİS ÖRGÜT: Fonksiyonel + proje bazlı ikili yapı. ÇİFT AMİRLİK sorunu doğurabilir.\n• DİVİZYONEL ÖRGÜT: Ürün, bölge veya müşteri temelli bölümlendirme.\n• ŞEBEKE (NETWORK) ÖRGÜT: Dış kaynak kullanımı yoğun, esnek yapı.\n\nTEMEL KAVRAMLAR:\n• YETKİ DEVRİ: Sorumluluk devredilmez, yetki devredilir.\n• KONTROL ALANI: Bir yöneticiye bağlı ast sayısı. Dar alan → dikey/uzun örgüt; geniş alan → yatay/basık örgüt.\n• MERKEZİLEŞME ↔ ÂDEMİ MERKEZİLEŞME\n• KOMUTA BİRLİĞİ: Her ast tek amirden emir almalıdır (Fayol)."
-   },
-   {
-    "baslik": "Yönetim Yaklaşımları",
-    "icerik": "KLASİK YÖNETİM:\n• TAYLOR (Bilimsel Yönetim): İş analizi, zaman-hareket etüdü, verimlilik.\n• FAYOL (Yönetim Süreci): 14 yönetim ilkesi, 5 fonksiyon.\n• WEBER (Bürokrasi): Yasal otorite, hiyerarşi, kurallar, gayrişahsilik.\n\nNEO-KLASİK (İnsan İlişkileri):\n• HAWTHORNE araştırmaları (Mayo): Sosyal faktörler verimliliği artırır.\n• McGREGOR: X ve Y kuramı.\n• MASLOW, HERZBERG (çift faktör: hijyen ve motive edici faktörler).\n\nMODERN:\n• SİSTEM YAKLAŞIMI: Girdi-süreç-çıktı-dönüt.\n• DURUMSALLIK: Tek en iyi yol yoktur.\n\nÇAĞDAŞ TEKNİKLER: Toplam Kalite Yönetimi (TKY), Altı Sigma, Yalın Üretim, Kıyaslama (benchmarking), Değişim Mühendisliği (reengineering), Dış Kaynak Kullanımı (outsourcing), Öğrenen Örgüt, Balanced Scorecard."
-   },
-   {
-    "baslik": "Karar Verme ve Stratejik Yönetim",
-    "icerik": "KARAR TÜRLERİ: Programlanmış / programlanmamış; stratejik / taktik / operasyonel.\nKARAR ORTAMLARI: Belirlilik, risk, belirsizlik.\n\nSTRATEJİK YÖNETİM SÜRECİ:\n1) Misyon ve vizyon belirleme\n2) DIŞ ÇEVRE analizi (fırsat-tehdit)\n3) İÇ ÇEVRE analizi (güçlü-zayıf yön)\n4) Strateji belirleme\n5) Uygulama ve kontrol\n\nSWOT ANALİZİ: Strengths (güçlü), Weaknesses (zayıf) — İÇ; Opportunities (fırsat), Threats (tehdit) — DIŞ.\n\nPORTER'IN 5 GÜÇ MODELİ: Sektöre yeni girenler, ikame ürünler, alıcıların pazarlık gücü, tedarikçilerin pazarlık gücü, mevcut rakipler arası rekabet.\n\nPORTER'IN JENERİK STRATEJİLERİ: Maliyet liderliği, farklılaştırma, odaklanma.\n\nBÜYÜME STRATEJİLERİ: Yatay/dikey büyüme, çeşitlendirme, birleşme-satın alma."
-   },
    {
     "baslik": "Yetki, Sorumluluk ve Örgütleme İlkeleri",
     "icerik": "TEMEL ÖRGÜTLEME İLKELERİ:\n• KOMUTA BİRLİĞİ: Her ast YALNIZ BİR üstten emir almalıdır. Matriks yapıda bu ilke bilinçli olarak ihlal edilir.\n• YÖNETİM (KONTROL) ALANI: Bir yöneticinin doğrudan denetleyebileceği ast sayısı. Dar kontrol alanı DİKEY (basık olmayan) örgüt, geniş kontrol alanı YATAY (basık) örgüt doğurur.\n• HİYERARŞİ (SKALER İLKE): Yetkinin tepeden aşağıya kesintisiz bir zincir hâlinde akması.\n• YETKİ VE SORUMLULUK DENKLİĞİ: Sorumluluk verilen kişiye o işi yapabilecek yetki de verilmelidir.\n• İŞ BÖLÜMÜ VE UZMANLAŞMA: Verimi artırır, ancak aşırısı monotonluk ve yabancılaşma doğurur.\n• AMAÇ BİRLİĞİ ve EŞGÜDÜM.\n\nYETKİ TÜRLERİ:\n• KOMUTA (HAT) YETKİSİ: Doğrudan emir verme yetkisi.\n• KURMAY (DANIŞMA) YETKİSİ: Öneri ve uzman görüşü verir, emir veremez.\n• FONKSİYONEL YETKİ: Uzmanın kendi alanıyla sınırlı olarak diğer birimlere de talimat verebilmesi.\n\nSORUMLULUK DEVREDİLEMEZ: Yetki devredilebilir ancak nihai sorumluluk devredende kalır. Bu, sorularda en çok test edilen ilkedir.\n\nMERKEZÎLEŞME – ADEM-İ MERKEZÎLEŞME: Kararların üstte toplanması hız ve tutarlılık, alta yayılması esneklik ve motivasyon sağlar. Çevre belirsizse ve hız gerekiyorsa yetki devri artırılır.\n\nFORMALLEŞME: Kural, prosedür ve yazılı düzenlemelerin yoğunluğu. Yüksek formalleşme öngörülebilirliği artırır, yeniliği zorlaştırır."
@@ -30,41 +10,15 @@
     "icerik": "ÖZELLİKLER KURAMI: Liderin doğuştan gelen kişilik özelliklerine odaklanır. Tutarlı bir özellik listesi bulunamadığı için yetersiz kalmıştır.\n\nDAVRANIŞSAL KURAMLAR:\n• OHIO ARAŞTIRMALARI: 'Kişiyi dikkate alma' ve 'yapıyı harekete geçirme' boyutları.\n• MICHIGAN ARAŞTIRMALARI: İşe yönelik ve kişiye yönelik liderlik.\n• BLAKE-MOUTON YÖNETİM TARZI MATRİSİ: Üretime ve insana ilgi eksenlerinde 9,9 (takım yönetimi) en etkili tarz sayılır.\n\nDURUMSAL KURAMLAR:\n• FIEDLER: Etkili liderlik tarzı duruma bağlıdır; lider-üye ilişkisi, görevin yapısı ve konum gücü belirleyicidir. Çok olumlu ya da çok olumsuz durumlarda göreve yönelik lider, orta durumlarda ilişkiye yönelik lider daha başarılıdır.\n• HERSEY-BLANCHARD: Astların OLGUNLUK düzeyine göre emretme → ikna etme → katılım → devretme sırası izlenir.\n• YOL-AMAÇ KURAMI (House): Lider, astların amaca giden yolunu açar; destekleyici, yönlendirici, katılımcı veya başarı odaklı davranır.\n\nÇAĞDAŞ LİDERLİK:\n• DÖNÜŞÜMCÜ LİDER: Vizyon verir, ilham eder, bireysel ilgi gösterir, entelektüel uyarım sağlar. İzleyenleri kendi çıkarlarının ötesine taşır.\n• ETKİLEŞİMCİ (TRANSAKSİYONEL) LİDER: Ödül-ceza ve karşılıklı alışverişe dayanır; mevcut düzeni sürdürür.\n• KARİZMATİK, HİZMETKÂR ve OTANTİK LİDERLİK diğer çağdaş yaklaşımlardır.\n\nMOTİVASYON KURAMLARI:\n• HERZBERG ÇİFT FAKTÖR: HİJYEN faktörleri (ücret, çalışma koşulları, yönetim politikası, güvenlik) yokluğunda tatminsizlik yaratır ama varlığı motive ETMEZ. MOTİVE EDİCİ faktörler (başarı, tanınma, işin kendisi, sorumluluk, gelişme) asıl doyumu sağlar.\n• ALDERFER ERG: Var olma, ilişki, gelişme. Maslow'dan farkı, üst düzey ihtiyaç engellenince alt düzeye DÖNÜŞ (regresyon) öngörmesidir.\n• McCLELLAND: Başarı, güç ve ilişki ihtiyacı — öğrenilmiş ihtiyaçlardır.\n• VROOM BEKLENTİ KURAMI: Motivasyon = Beklenti × Araçsallık × Değerlik. Biri sıfırsa sonuç sıfırdır.\n• ADAMS EŞİTLİK KURAMI: Kişi kendi girdi/çıktı oranını başkalarınınkiyle karşılaştırır; eşitsizlik algısı çabayı azaltır.\n• LOCKE AMAÇ KURAMI: Belirgin, ZORLAYICI ama ulaşılabilir ve kabul edilmiş amaçlar performansı artırır; geri bildirim şarttır."
    }
   ],
-  "pufNoktalar": [
-   "Planlama yönetimin ilk ve temel fonksiyonudur.",
-   "Yetki devredilir, sorumluluk devredilmez.",
-   "Matris örgütün en büyük sorunu çift amirliktir.",
-   "SWOT'ta güçlü-zayıf iç, fırsat-tehdit dış çevre analizidir.",
-   "Kavramsal beceri üst yönetimde, teknik beceri alt kademede önemlidir.",
-   "Porter'ın 5 gücü sektör çekiciliğini analiz eder.",
+  "puf": [
    "Yetki devredilebilir ama sorumluluk devredilemez.",
    "Herzberg'de hijyen faktörleri tatminsizliği önler, motive etmez.",
    "Vroom'da motivasyonun üç ögesinden biri sıfırsa sonuç sıfırdır.",
    "Dönüşümcü lider vizyon verir, etkileşimci lider ödül-ceza ile yönetir."
   ]
  },
- {
-  "konuId": "pazarlama",
-  "dersId": "isletme",
-  "baslik": "Pazarlama",
-  "ozet": "Pazarlama karması, tüketici davranışı, pazar bölümleme ve ürün yaşam eğrisi.",
+ "pazarlama": {
   "bolumler": [
-   {
-    "baslik": "Pazarlama Anlayışının Gelişimi",
-    "icerik": "1) ÜRETİM ANLAYIŞI: Çok üret, ucuza sat. Talep arzdan fazla.\n2) ÜRÜN ANLAYIŞI: Kaliteli ürün kendini satar. (Pazarlama miyopluğu riski)\n3) SATIŞ ANLAYIŞI: Yoğun satış çabası ve tutundurma. Ürün odaklı.\n4) PAZARLAMA ANLAYIŞI: MÜŞTERİ İHTİYACI merkeze alınır. Müşteri memnuniyeti ve kârlılık.\n5) TOPLUMSAL PAZARLAMA ANLAYIŞI: Müşteri + işletme + TOPLUM yararı birlikte gözetilir.\n\nSATIŞ ↔ PAZARLAMA FARKI: Satış mevcut ürünü satmaya, pazarlama müşterinin istediği ürünü üretmeye odaklanır."
-   },
-   {
-    "baslik": "Pazarlama Karması (4P)",
-    "icerik": "1) ÜRÜN (Product): Fiziksel mal, hizmet, marka, ambalaj, garanti, ürün karması.\n2) FİYAT (Price): Maliyete dayalı, talebe dayalı, rekabete dayalı fiyatlama; psikolojik fiyatlama (9,99), pazarın kaymağını alma (skimming), pazara nüfuz etme (penetration).\n3) DAĞITIM (Place): Doğrudan / dolaylı dağıtım kanalları; yoğun, seçimli, tekelci dağıtım.\n4) TUTUNDURMA (Promotion): Reklam, kişisel satış, satış tutundurma (promosyon), halkla ilişkiler, doğrudan pazarlama.\n\nHİZMET PAZARLAMASINDA 7P: 4P + Katılımcılar (People), Fiziksel Kanıt (Physical evidence), Süreç (Process).\n\nHİZMETİN ÖZELLİKLERİ: Soyutluk, ayrılmazlık, değişkenlik (heterojenlik), dayanıksızlık (stoklanamama)."
-   },
-   {
-    "baslik": "Tüketici Davranışı ve Pazar Bölümleme",
-    "icerik": "TÜKETİCİ SATIN ALMA SÜRECİ:\n1) İhtiyacın fark edilmesi → 2) Bilgi arama → 3) Alternatiflerin değerlendirilmesi → 4) Satın alma kararı → 5) SATIN ALMA SONRASI davranış (bilişsel çelişki/pişmanlık)\n\nETKİLEYEN FAKTÖRLER:\n• Kültürel (kültür, alt kültür, sosyal sınıf)\n• Sosyal (referans grupları, aile, rol ve statü)\n• Kişisel (yaş, meslek, gelir, yaşam tarzı)\n• Psikolojik (güdülenme, algı, öğrenme, tutum)\n\nPAZAR BÖLÜMLEME (Segmentasyon) KRİTERLERİ:\n• Demografik (yaş, cinsiyet, gelir, meslek)\n• Coğrafi (bölge, iklim, şehir büyüklüğü)\n• Psikografik (yaşam tarzı, kişilik)\n• Davranışsal (kullanım sıklığı, marka bağlılığı, fayda)\n\nSTP SÜRECİ: Segmentation (bölümleme) → Targeting (hedefleme) → Positioning (konumlandırma)"
-   },
-   {
-    "baslik": "Ürün Yaşam Eğrisi ve Marka",
-    "icerik": "ÜRÜN YAŞAM EĞRİSİ (PLC):\n1) GİRİŞ: Satışlar düşük, maliyet yüksek, kâr yok/negatif. Yoğun tanıtım.\n2) BÜYÜME: Satışlar hızla artar, kâr yükselir, rakipler girer.\n3) OLGUNLUK: Satış artışı yavaşlar, rekabet en yoğun, kâr azalmaya başlar. EN UZUN evredir.\n4) GERİLEME (Düşüş): Satış ve kâr düşer. Ürün yenilenir veya pazardan çekilir.\n\nBCG MATRİSİ (Pazar payı × Pazar büyümesi):\n• YILDIZLAR: Yüksek pay, yüksek büyüme\n• NAKİT İNEKLERİ: Yüksek pay, düşük büyüme (nakit kaynağı)\n• SORU İŞARETLERİ: Düşük pay, yüksek büyüme\n• KÖPEKLER: Düşük pay, düşük büyüme (elden çıkarılır)\n\nMARKA: Marka değeri, marka bağlılığı, marka konumlandırma, marka genişletme."
-   },
    {
     "baslik": "Fiyatlandırma Yöntemleri ve Dağıtım Kanalları",
     "icerik": "FİYATLANDIRMA YAKLAŞIMLARI:\n• MALİYETE DAYALI: Maliyet artı kâr marjı (cost-plus). Uygulaması kolaydır ama talebi ve rakipleri göz ardı eder.\n• TALEBE (DEĞERE) DAYALI: Tüketicinin algıladığı değer esas alınır.\n• REKABETE DAYALI: Rakip fiyatları referans alınır; cari fiyat veya kapalı zarf usulü.\n\nYENİ ÜRÜN FİYATLAMA STRATEJİLERİ:\n• PAZARIN KAYMAĞINI ALMA (skimming): Yüksek fiyatla başlanır, zamanla düşürülür. Yenilikçi ve fiyata duyarsız segmenti hedefler; Ar-Ge maliyetini hızla geri kazandırır.\n• PAZARA NÜFUZ ETME (penetration): Düşük fiyatla hızla pazar payı alınır; ölçek ekonomisi ve fiyata duyarlı pazarlar için uygundur.\n\nPSİKOLOJİK FİYATLANDIRMA: 99,90 gibi küsuratlı fiyatlar (küsuratlı fiyatlandırma), prestij fiyatlandırması, referans fiyat kullanımı.\nDİĞER YÖNTEMLER: Paket (bundle) fiyatlama, farklılaştırılmış fiyatlama, promosyon fiyatlaması, coğrafi fiyatlandırma.\n\nDAĞITIM KANALI DÜZEYLERİ:\n• Sıfır düzey (doğrudan): Üretici → Tüketici\n• Bir düzey: Üretici → Perakendeci → Tüketici\n• İki düzey: Üretici → Toptancı → Perakendeci → Tüketici\n\nDAĞITIM YOĞUNLUĞU:\n• YOĞUN DAĞITIM: Mümkün olan her satış noktasında bulundurma. Kolayda mallar (sakız, gazete) için.\n• SEÇİMLİ DAĞITIM: Sınırlı sayıda uygun aracı. Beğenmeli mallar (giyim, mobilya) için.\n• MÜNHASIR (TEKELCİ) DAĞITIM: Bir bölgede tek yetkili satıcı. Lüks ve özellikli mallar (otomobil, saat) için.\n\nKANAL ÇATIŞMASI: Dikey çatışma farklı düzeyler arasında (üretici-bayi), yatay çatışma aynı düzeydekiler arasında (iki bayi) yaşanır."
@@ -74,41 +28,15 @@
     "icerik": "PAZARLAMA ARAŞTIRMASI SÜRECİ: Problem tanımlama → Araştırma tasarımı → Veri toplama → Analiz → Raporlama ve karar.\n\nVERİ TÜRLERİ:\n• BİRİNCİL VERİ: Araştırma için özel olarak toplanır (anket, gözlem, deney, odak grup). Maliyetli ve zaman alıcıdır ama amaca tam uygundur.\n• İKİNCİL VERİ: Başka amaçla daha önce toplanmış veriler (TÜİK verileri, sektör raporları, işletme kayıtları). Ucuz ve hızlıdır ama güncelliği ve uygunluğu sorgulanmalıdır.\nKURAL: Önce ikincil veriye bakılır, yetersizse birincil veri toplanır.\n\nARAŞTIRMA TÜRLERİ: Keşfedici (problem netleştirme), tanımlayıcı (kim, ne, ne kadar), nedensel (deneyle sebep-sonuç).\n\nPAZAR BÖLÜMLEME ÖLÇÜTLERİ: Coğrafi, demografik (yaş, gelir, meslek), psikografik (yaşam tarzı, kişilik, değerler) ve davranışsal (kullanım sıklığı, marka bağlılığı, aranan fayda).\nETKİLİ BÖLÜMLEMENİN KOŞULLARI: Ölçülebilirlik, erişilebilirlik, yeterli büyüklük, ayırt edilebilirlik ve eyleme dönüştürülebilirlik.\n\nHEDEF PAZAR STRATEJİLERİ: Farklılaştırılmamış (tüm pazara tek karma), farklılaştırılmış (her bölüme ayrı karma), yoğunlaştırılmış (tek bölüme odaklanma) ve mikro pazarlama.\n\nKONUMLANDIRMA: Ürünün tüketici zihninde rakiplere göre işgal ettiği yerdir. Konumlandırma haritasıyla görselleştirilir.\n\nDİJİTAL PAZARLAMA ARAÇLARI: Arama motoru optimizasyonu, arama ağı reklamları, sosyal medya pazarlaması, içerik pazarlaması, e-posta pazarlaması, etkileyici (influencer) iş birlikleri, yeniden hedefleme.\nTEMEL ÖLÇÜTLER: Dönüşüm oranı, müşteri edinme maliyeti, müşteri yaşam boyu değeri, tıklama oranı, sepet terk oranı.\n\nMÜŞTERİ İLİŞKİLERİ YÖNETİMİ (CRM): Yeni müşteri kazanmak, mevcut müşteriyi elde tutmaktan çok daha maliyetlidir; bu nedenle sadakat programları ve kişiselleştirme öne çıkar."
    }
   ],
-  "pufNoktalar": [
-   "Pazarlama anlayışı müşteri ihtiyacını, satış anlayışı ürünü merkeze alır.",
-   "Hizmetin 4 temel özelliği: soyutluk, ayrılmazlık, değişkenlik, dayanıksızlık.",
-   "Ürün yaşam eğrisinde en uzun evre olgunluktur.",
-   "BCG'de nakit inekleri işletmenin nakit kaynağıdır.",
-   "STP: bölümleme, hedefleme, konumlandırma.",
-   "Hizmet pazarlamasında 7P kullanılır.",
+  "puf": [
    "Kaymağını alma yüksek fiyatla, nüfuz etme düşük fiyatla başlar.",
    "Kolayda mallarda yoğun, lüks mallarda münhasır dağıtım kullanılır.",
    "Önce ikincil veriye bakılır, yetersizse birincil veri toplanır.",
    "Yeni müşteri kazanmak mevcut müşteriyi elde tutmaktan daha maliyetlidir."
   ]
  },
- {
-  "konuId": "i_nsan_kaynaklari",
-  "dersId": "isletme",
-  "baslik": "İnsan Kaynakları Yönetimi",
-  "ozet": "İK planlaması, seçme-yerleştirme, eğitim, performans ve ücret yönetimi.",
+ "i_nsan_kaynaklari": {
   "bolumler": [
-   {
-    "baslik": "İK Yönetiminin Fonksiyonları",
-    "icerik": "1) İK PLANLAMASI: Gelecekteki iş gücü ihtiyacının belirlenmesi.\n2) İŞ ANALİZİ: İşin gerekleri ve içeriğinin incelenmesi.\n   • İŞ TANIMI: İşin ne olduğu, görevler, sorumluluklar\n   • İŞ GEREKLERİ (iş şartnamesi): İşi yapacak kişide aranan nitelikler\n3) TEDARİK VE SEÇME: İç kaynaklar (terfi, nakil) / dış kaynaklar (ilan, İŞKUR, kariyer siteleri)\n4) EĞİTİM VE GELİŞTİRME\n5) PERFORMANS DEĞERLENDİRME\n6) KARİYER YÖNETİMİ\n7) ÜCRET VE ÖDÜL YÖNETİMİ\n8) ÇALIŞMA İLİŞKİLERİ ve iş güvenliği\n\nPERSONEL YÖNETİMİ ↔ İKY FARKI: Personel yönetimi operasyonel ve kayıt odaklı; İKY stratejik ve insan odaklıdır."
-   },
-   {
-    "baslik": "Seçme ve Yerleştirme",
-    "icerik": "SÜREÇ: Başvuru → Ön eleme → Testler → Mülakat → Referans kontrolü → Sağlık kontrolü → İşe alım → ORYANTASYON (işe alıştırma)\n\nSEÇME ARAÇLARI:\n• Başvuru formu ve özgeçmiş\n• TESTLER: Yetenek, bilgi, kişilik, ilgi testleri\n• MÜLAKAT TÜRLERİ: Yapılandırılmış, yapılandırılmamış, yarı yapılandırılmış, panel (komisyon), stres mülakatı, davranışsal mülakat\n• DEĞERLENDİRME MERKEZİ: Çoklu yöntemle (grup çalışması, vaka analizi, sunum) değerlendirme\n\nSEÇMEDE HATALAR: Hâle etkisi (bir olumlu özelliğin tümünü etkilemesi), boynuz etkisi, önyargı, benzerlik yanılgısı, kontrast etkisi.\n\nİŞE ALIŞTIRMA (Oryantasyon): İşe yeni başlayanın uyumunu hızlandırır, iş gücü devrini azaltır."
-   },
-   {
-    "baslik": "Performans Değerlendirme",
-    "icerik": "AMAÇLARI: Ücret ve terfi kararları, eğitim ihtiyacının belirlenmesi, geri bildirim, kariyer planlama.\n\nYÖNTEMLER:\n• GRAFİK DERECELEME ÖLÇEĞİ: En yaygın, basit yöntem\n• SIRALAMA yöntemi (basit, ikili karşılaştırma)\n• ZORUNLU DAĞILIM: Belirli yüzdelere göre dağıtma (çan eğrisi)\n• KRİTİK OLAY yöntemi\n• DAVRANIŞSAL DEĞERLENDİRME ÖLÇEKLERİ (BARS)\n• AMAÇLARA GÖRE YÖNETİM (MBO): Hedef belirleme ve sonuca göre değerlendirme (Drucker)\n• 360 DERECE DEĞERLENDİRME: Üst, ast, iş arkadaşı, müşteri ve kendi değerlendirmesi\n\nDEĞERLENDİRME HATALARI: Hâle etkisi, merkezi eğilim (herkese orta puan), müsamaha/katılık, yakın geçmiş etkisi, kişisel önyargı, zıtlık etkisi."
-   },
-   {
-    "baslik": "Ücret ve Kariyer Yönetimi",
-    "icerik": "ÜCRET SİSTEMLERİ:\n• ZAMANA GÖRE ücret (saat, gün, ay)\n• PARÇA BAŞI (akort) ücret\n• PRİMLİ ücret, komisyon\n• Kâra katılma, hisse senedi opsiyonu\n\nİŞ DEĞERLEMESİ YÖNTEMLERİ: Sıralama, sınıflama, puan, faktör karşılaştırma.\n\nÜCRETİ ETKİLEYEN FAKTÖRLER: İşin değeri, piyasa ücretleri, yasal düzenlemeler (asgari ücret), toplu sözleşme, işletmenin ödeme gücü, performans.\n\nKARİYER YÖNETİMİ:\n• Kariyer planlama (birey) ve kariyer geliştirme (örgüt)\n• KARİYER PLATOSU: Yükselmenin durduğu nokta\n• CAM TAVAN: Görünmez engeller (özellikle kadınlar için)\n• MENTORLUK ve KOÇLUK\n\nİŞ GÜCÜ DEVİR ORANI: Ayrılan personel / ortalama personel × 100. Yüksekse maliyet ve verimsizlik göstergesidir."
-   },
    {
     "baslik": "İş Analizi, İnsan Kaynakları Planlaması ve Eğitim",
     "icerik": "İŞ ANALİZİ: Bir işin içeriğinin, gereklerinin ve koşullarının sistemli olarak incelenmesidir. İK'nın hemen tüm fonksiyonlarının TEMELİDİR.\nİki çıktısı vardır:\n• İŞ TANIMI: İşin ne olduğunu anlatır — görevler, sorumluluklar, çalışma koşulları, raporlama ilişkileri.\n• İŞ GEREKLERİ (İŞ ŞARTNAMESİ): İşi yapacak KİŞİDE aranan nitelikler — eğitim, deneyim, beceri, yetkinlik.\nVERİ TOPLAMA YÖNTEMLERİ: Gözlem, görüşme, anket, kritik olay tekniği, iş günlüğü.\n\nİK PLANLAMASI: Gelecekte hangi nitelikte ve sayıda personele ihtiyaç duyulacağının tahmin edilmesidir.\nTALEP TAHMİN YÖNTEMLERİ: Yönetici görüşü, Delphi tekniği, trend analizi, oran analizi, regresyon.\nARZ TAHMİNİ: İç kaynak (beceri envanteri, yedekleme planları, personel devir oranı) ve dış kaynak analizi.\n\nİŞ GÜCÜ DEVİR ORANI = (Dönem içinde ayrılan personel / Ortalama personel sayısı) × 100. Yüksek olması işe alım ve eğitim maliyetlerini artırır, kurumsal bilgi kaybına yol açar.\n\nİŞ DEĞERLEMESİ: İşlerin göreli değerinin belirlenerek adil bir ücret yapısı kurulmasıdır. Yöntemleri: Sıralama, sınıflandırma, puan (faktör) yöntemi ve faktör karşılaştırma.\n\nEĞİTİM VE GELİŞTİRME:\n• İHTİYAÇ ANALİZİ: Örgüt, görev ve birey düzeyinde yapılır.\n• İŞ BAŞINDA EĞİTİM: Yaparak öğrenme, iş rotasyonu, koçluk, mentorluk, staj.\n• İŞ DIŞINDA EĞİTİM: Ders, örnek olay, rol oynama, benzetim, duyarlılık eğitimi, e-öğrenme.\n• KIRKPATRICK DEĞERLENDİRME DÜZEYLERİ: Tepki → Öğrenme → Davranış → Sonuçlar. Üst düzeylere çıkıldıkça ölçüm zorlaşır ama değeri artar.\n\nORYANTASYON (İŞE ALIŞTIRMA): Yeni çalışanın işe, ekibe ve kurum kültürüne uyumunu hızlandırır; erken dönem işten ayrılmalarını azaltır."
@@ -118,41 +46,15 @@
     "icerik": "DEĞERLENDİRME YÖNTEMLERİ:\n• GRAFİK DERECELEME ÖLÇEĞİ: En yaygın ve en basit yöntem.\n• SIRALAMA ve İKİLİ KARŞILAŞTIRMA: Çalışanlar birbirine göre sıralanır.\n• ZORUNLU DAĞILIM: Belirli yüzdelerle notlandırma zorunluluğu; küçük ve homojen gruplarda adaletsizlik yaratır.\n• KRİTİK OLAY YÖNTEMİ: Olağanüstü olumlu ve olumsuz davranışların kaydedilmesi.\n• DAVRANIŞSAL BEKLENTİ ÖLÇEKLERİ: Her puan düzeyi somut davranış örneğiyle tanımlanır; öznelliği azaltır.\n• AMAÇLARA GÖRE YÖNETİM: Yönetici ve çalışan hedefleri birlikte belirler, sonuçlar bu hedeflere göre ölçülür.\n• 360 DERECE DEĞERLENDİRME: Üst, ast, akran, müşteri ve öz değerlendirmeyi birleştirir. Çok yönlü dönüt sağlar ama uygulaması zaman alır ve güven ortamı gerektirir.\n\nDEĞERLENDİRME HATALARI (sınavda en çok sorulan başlık):\n• HÂLE ETKİSİ: Tek bir olumlu özelliğin tüm değerlendirmeyi yükseltmesi. (Boynuz etkisi bunun olumsuz karşılığıdır.)\n• MERKEZE YÖNELME (ORTALAMA) EĞİLİMİ: Herkese ortalama puan verme.\n• MÜSAMAHA (CÖMERTLİK) ve KATILIK: Sürekli yüksek ya da sürekli düşük puanlama.\n• YAKIN GEÇMİŞ ETKİSİ: Yalnız son dönemdeki olayların dikkate alınması.\n• KONTRAST ETKİSİ: Çalışanın standarda göre değil, bir önceki değerlendirilene göre kıyaslanması.\n• BENZERLİK (KENDİNE BENZETME) ETKİSİ: Kendine benzeyen çalışana yüksek puan verme.\n• ÖNYARGI ve KALIPLAŞMIŞ YARGILAR.\nÖNLEMLER: Değerlendirici eğitimi, davranışa dayalı somut ölçütler, birden çok değerlendirici, dönem boyunca kayıt tutma.\n\nKARİYER YÖNETİMİ:\n• KARİYER PLATOSU: Yükselme olanağının fiilen sona erdiği nokta; yatay geçiş ve zenginleştirmeyle aşılır.\n• CAM TAVAN: Görünmez engeller nedeniyle belirli grupların üst kademelere yükselememesi.\n• KARİYER ÇAPALARI (Schein): Kişinin vazgeçemediği temel kariyer yönelimi — teknik yetkinlik, yönetsel yetkinlik, özerklik, güvenlik, girişimcilik, hizmet, meydan okuma, yaşam dengesi."
    }
   ],
-  "pufNoktalar": [
-   "İş tanımı işi, iş gerekleri kişide aranan nitelikleri tanımlar.",
-   "Hâle etkisi bir olumlu özelliğin tüm değerlendirmeyi etkilemesidir.",
-   "360 derece değerlendirme çok kaynaklı geri bildirim sağlar.",
-   "MBO (amaçlara göre yönetim) Drucker'a aittir.",
-   "Cam tavan yükselmenin önündeki görünmez engellerdir.",
-   "Oryantasyon iş gücü devir oranını azaltır.",
+  "puf": [
    "İş tanımı işi, iş gerekleri kişide aranan nitelikleri anlatır.",
    "Hâle etkisi tek bir özelliğin tüm değerlendirmeyi etkilemesidir.",
    "360 derece değerlendirme üst, ast, akran, müşteri ve öz değerlendirmeyi birleştirir.",
    "Kirkpatrick düzeyleri: tepki, öğrenme, davranış, sonuçlar."
   ]
  },
- {
-  "konuId": "finans",
-  "dersId": "isletme",
-  "baslik": "Finansal Yönetim",
-  "ozet": "Finansal tablolar, oran analizi, sermaye maliyeti ve yatırım kararları.",
+ "finans": {
   "bolumler": [
-   {
-    "baslik": "Finansal Yönetimin Amacı ve Tablolar",
-    "icerik": "AMAÇ: İşletmenin PİYASA DEĞERİNİ (ortakların servetini) MAKSİMİZE ETMEK.\n(Kâr maksimizasyonu tek başına yeterli değildir: zamanı ve riski dikkate almaz.)\n\nTEMEL FİNANSAL TABLOLAR:\n• BİLANÇO: Belirli bir ANDAKİ varlık, borç ve öz kaynak durumu.\n  AKTİF (Varlıklar) = PASİF (Borçlar + Öz kaynaklar)\n  Aktif: Dönen varlıklar + Duran varlıklar\n  Pasif: Kısa vadeli yabancı kaynak + Uzun vadeli yabancı kaynak + Öz kaynaklar\n• GELİR TABLOSU: Belirli bir DÖNEMDEKİ gelir, gider ve kâr/zarar.\n• NAKİT AKIŞ TABLOSU: İşletme, yatırım ve finansman faaliyetlerinden nakit akışları."
-   },
-   {
-    "baslik": "Oran (Rasyo) Analizi",
-    "icerik": "LİKİDİTE ORANLARI (kısa vadeli borç ödeme gücü):\n• CARİ ORAN = Dönen Varlıklar / KVYK (ideal ≈ 2)\n• ASİT-TEST (Likidite) ORANI = (Dönen Varlıklar − Stoklar) / KVYK (ideal ≈ 1)\n• NAKİT ORANI = (Hazır Değerler + Menkul Kıymetler) / KVYK\n\nMALİ YAPI (Kaldıraç) ORANLARI:\n• BORÇLANMA (Kaldıraç) ORANI = Toplam Borç / Toplam Aktif\n• Öz kaynak / Toplam aktif\n\nFAALİYET (Devir Hızı) ORANLARI:\n• Stok devir hızı = SMM / Ortalama stok\n• Alacak devir hızı = Net satışlar / Ortalama ticari alacaklar\n• Aktif devir hızı = Net satışlar / Toplam aktif\n\nKÂRLILIK ORANLARI:\n• Net kâr marjı = Net kâr / Net satışlar\n• ROA (Aktif kârlılığı) = Net kâr / Toplam aktif\n• ROE (Öz sermaye kârlılığı) = Net kâr / Öz kaynak"
-   },
-   {
-    "baslik": "Paranın Zaman Değeri ve Yatırım Kararları",
-    "icerik": "PARANIN ZAMAN DEĞERİ: Bugünkü 1 TL, gelecekteki 1 TL'den değerlidir.\n• GELECEK DEĞER: GD = BD × (1+i)ⁿ\n• BUGÜNKÜ DEĞER: BD = GD / (1+i)ⁿ\n\nYATIRIM PROJESİ DEĞERLENDİRME YÖNTEMLERİ:\n• NET BUGÜNKÜ DEĞER (NBD/NPV): Nakit girişlerinin bugünkü değeri − yatırım tutarı.\n  NBD > 0 ise proje KABUL edilir. EN GÜVENİLİR yöntemdir.\n• İÇ KÂRLILIK ORANI (İKO/IRR): NBD'yi sıfır yapan iskonto oranı. İKO > sermaye maliyeti ise kabul.\n• GERİ ÖDEME SÜRESİ: Yatırımın kendini amorti etme süresi. Basittir ama paranın zaman değerini ve sonraki nakit akışlarını göz ardı eder.\n• KÂRLILIK ENDEKSİ\n\nBAŞABAŞ NOKTASI = Sabit Maliyet / (Birim satış fiyatı − Birim değişken maliyet)"
-   },
-   {
-    "baslik": "Sermaye Yapısı ve Maliyeti",
-    "icerik": "FİNANSMAN KAYNAKLARI:\n• ÖZ KAYNAK: Sermaye, yedekler, dağıtılmamış kârlar, hisse senedi ihracı\n• YABANCI KAYNAK: Banka kredisi, tahvil, ticari krediler, finansal kiralama (leasing), factoring, forfaiting\n\nSERMAYE MALİYETİ:\n• AOSM (Ağırlıklı Ortalama Sermaye Maliyeti / WACC): Kaynakların ağırlıklı ortalama maliyeti.\n• Borcun maliyeti vergi kalkanı nedeniyle öz kaynaktan genelde DAHA DÜŞÜKTÜR.\n\nKALDIRAÇLAR:\n• FAALİYET KALDIRACI: Sabit maliyetlerin satışlardaki değişimi FVÖK'e yansıtma etkisi.\n• FİNANSAL KALDIRAÇ: Borç kullanımının hisse başına kâra etkisi.\n• BİRLEŞİK KALDIRAÇ = Faaliyet × Finansal kaldıraç\n\nÇALIŞMA (İŞLETME) SERMAYESİ = Dönen varlıklar − Kısa vadeli yabancı kaynaklar"
-   },
    {
     "baslik": "Başabaş Analizi ve Kaldıraçlar",
     "icerik": "BAŞABAŞ NOKTASI (MİKTAR) = Toplam Sabit Maliyet / (Birim Satış Fiyatı − Birim Değişken Maliyet)\nPaydadaki fark KATKI PAYIDIR — her bir birimin sabit maliyetleri karşılamaya kattığı tutar.\n\nÖRNEK: Sabit maliyet 60.000 TL, birim fiyat 50 TL, birim değişken maliyet 30 TL.\nKatkı payı = 20 TL → Başabaş = 60.000/20 = 3.000 adet.\nHedef kâr 20.000 TL ise: (60.000+20.000)/20 = 4.000 adet.\n\nBAŞABAŞ CİRO = Sabit Maliyet / Katkı Payı Oranı (katkı payı / satış fiyatı)\nYukarıdaki örnekte katkı payı oranı 20/50 = 0,40 → başabaş ciro = 60.000/0,40 = 150.000 TL.\n\nGÜVENLİK PAYI = (Mevcut satış − Başabaş satış) / Mevcut satış. Satışların ne kadar düşebileceğini gösterir.\n\nFAALİYET KALDIRACI: Sabit maliyetlerin toplam maliyet içindeki ağırlığıdır. Sabit maliyeti yüksek işletmelerde satışlardaki küçük bir değişim faaliyet kârında BÜYÜK değişim yaratır. Riski artırır.\nFinansal Kaldıraç: Yabancı kaynak (borç) kullanım oranıdır. Borçlanma, öz sermaye kârlılığını artırabilir ancak iflas riskini de yükseltir.\nBİLEŞİK KALDIRAÇ = Faaliyet kaldıracı × Finansal kaldıraç.\n\nÇALIŞMA (NET İŞLETME) SERMAYESİ = Dönen Varlıklar − Kısa Vadeli Yabancı Kaynaklar. Negatif olması kısa vadeli ödeme güçlüğü işaretidir.\n\nNAKİT DÖNÜŞÜM SÜRESİ = Stok devir süresi + Alacak tahsil süresi − Borç ödeme süresi. Kısalması işletme sermayesi ihtiyacını azaltır."
@@ -162,41 +64,15 @@
     "icerik": "PARANIN ZAMAN DEĞERİ:\n• Gelecek değer: GD = BD · (1 + i)ⁿ\n• Bugünkü değer: BD = GD / (1 + i)ⁿ\nİskonto oranı yükseldikçe bugünkü değer DÜŞER.\n\nNET BUGÜNKÜ DEĞER (NBD): Nakit girişlerinin bugünkü değerinden yatırım tutarı çıkarılır.\n• NBD > 0 → Proje KABUL edilir\n• NBD < 0 → Reddedilir\n• Birbirini dışlayan projelerde NBD'si EN YÜKSEK olan seçilir.\nEn güvenilir yöntem kabul edilir; paranın zaman değerini ve tüm nakit akışlarını dikkate alır.\n\nİÇ KÂRLILIK ORANI (İKO): NBD'yi SIFIR yapan iskonto oranıdır. İKO, sermaye maliyetinden büyükse proje kabul edilir. Nakit akışlarının işaret değiştirdiği projelerde birden çok İKO çıkabilmesi zayıf yönüdür.\n\nGERİ ÖDEME SÜRESİ: Yatırımın kendini kaç yılda geri ödediğidir. Basit ve anlaşılırdır ama paranın zaman değerini ve geri ödemeden SONRAKİ nakit akışlarını dikkate ALMAZ.\n\nKÂRLILIK ENDEKSİ = Nakit girişlerinin bugünkü değeri / Yatırım tutarı. 1'den büyükse kabul edilir; sınırlı bütçede projeleri sıralamada kullanışlıdır.\n\nAĞIRLIKLI ORTALAMA SERMAYE MALİYETİ (AOSM): Öz kaynak ve yabancı kaynak maliyetlerinin, kaynak yapısındaki ağırlıklarına göre ortalamasıdır. Borcun faizi vergi matrahından düşüldüğü için borç maliyeti VERGİ SONRASI hesaplanır — buna 'vergi kalkanı' denir.\n\nRİSK–GETİRİ İLİŞKİSİ: Beklenen getiri arttıkça üstlenilen risk de artar. SİSTEMATİK RİSK (piyasa riski) çeşitlendirmeyle giderilemez; SİSTEMATİK OLMAYAN RİSK portföy çeşitlendirmesiyle azaltılabilir. Beta katsayısı sistematik riskin ölçüsüdür."
    }
   ],
-  "pufNoktalar": [
-   "Finansal yönetimin amacı piyasa değerini maksimize etmektir.",
-   "Cari oranın ideali ~2, asit-test oranının ideali ~1'dir.",
-   "NBD > 0 ise proje kabul edilir; en güvenilir yöntemdir.",
-   "Bilanço bir anı, gelir tablosu bir dönemi gösterir.",
-   "Borcun maliyeti vergi kalkanı nedeniyle öz kaynaktan düşüktür.",
-   "Başabaş noktası = sabit maliyet / birim katkı payı.",
+  "puf": [
    "Başabaş noktası = sabit maliyet / katkı payı.",
    "NBD sıfırdan büyükse proje kabul edilir; en güvenilir yöntemdir.",
    "İç kârlılık oranı NBD'yi sıfır yapan iskonto oranıdır.",
    "Sistematik risk çeşitlendirmeyle giderilemez; ölçüsü betadır."
   ]
  },
- {
-  "konuId": "uretim",
-  "dersId": "isletme",
-  "baslik": "Üretim Yönetimi",
-  "ozet": "Üretim sistemleri, kapasite, stok yönetimi ve kalite.",
+ "uretim": {
   "bolumler": [
-   {
-    "baslik": "Üretim Sistemleri",
-    "icerik": "ÜRETİM AKIŞINA GÖRE:\n• KESİKLİ (Siparişe göre) ÜRETİM: Farklı ürünler, düşük hacim, esnek makineler, nitelikli iş gücü.\n• SÜREKLİ (Kitle) ÜRETİM: Standart ürün, yüksek hacim, özel amaçlı makineler, montaj hattı.\n• PROJE TİPİ ÜRETİM: Tek ve büyük ürün (gemi, bina, köprü).\n• PARTİ (Yığın) ÜRETİM: Belirli miktarlarda gruplar hâlinde.\n\nÜRETİM MİKTARINA GÖRE: Tek ürün, seri üretim, kitle üretimi.\n\nİŞ YERİ DÜZENLEME (YERLEŞİM):\n• ÜRÜNE GÖRE (hat tipi): Sürekli üretimde, montaj hattı.\n• SÜRECE GÖRE (fonksiyonel): Kesikli üretimde, benzer makineler bir arada.\n• SABİT POZİSYONLU: Ürün sabit, kaynaklar ona gider (gemi inşası).\n• HÜCRESEL YERLEŞİM: Grup teknolojisi."
-   },
-   {
-    "baslik": "Kapasite ve Planlama",
-    "icerik": "KAPASİTE TÜRLERİ:\n• TEORİK (Maksimum) KAPASİTE: İdeal koşullarda ulaşılabilecek en yüksek üretim.\n• PRATİK (Normal) KAPASİTE: Gerçekçi koşullarda ulaşılabilir kapasite.\n• FİİLİ (Gerçek) KAPASİTE: Gerçekleşen üretim.\n• ATIL KAPASİTE: Kullanılmayan kapasite.\n\nKAPASİTE KULLANIM ORANI = (Fiili üretim / Kapasite) × 100\n\nÜRETİM PLANLAMA HİYERARŞİSİ:\n• Uzun dönem: Kapasite planlama, tesis yeri seçimi\n• Orta dönem: Ana üretim planı (MPS), toplam üretim planlama\n• Kısa dönem: Malzeme ihtiyaç planlaması (MRP), çizelgeleme\n\nMRP (Malzeme İhtiyaç Planlaması): Ürün ağacı ve stok bilgilerinden hareketle malzeme siparişlerini planlar.\nERP (Kurumsal Kaynak Planlaması): Tüm işletme fonksiyonlarını bütünleştiren bilgi sistemi."
-   },
-   {
-    "baslik": "Stok Yönetimi",
-    "icerik": "STOK TUTMA NEDENLERİ: Talep dalgalanmaları, tedarik süresi belirsizliği, ölçek ekonomisi, fiyat artışı beklentisi.\n\nSTOK MALİYETLERİ:\n• Sipariş (hazırlık) maliyeti\n• Elde bulundurma (depolama) maliyeti\n• Elde bulundurmama (stoksuzluk) maliyeti\n\nEKONOMİK SİPARİŞ MİKTARI (ESM/EOQ):\nESM = √(2 × D × S / H)\nD: yıllık talep, S: sipariş maliyeti, H: birim elde bulundurma maliyeti\n• ESM, toplam stok maliyetini MİNİMİZE eden sipariş miktarıdır.\n• Bu noktada sipariş maliyeti = elde bulundurma maliyeti\n\nABC ANALİZİ: Stoklar değerine göre sınıflandırılır.\n• A: Az sayıda ama yüksek değerli (sıkı kontrol)\n• B: Orta\n• C: Çok sayıda ama düşük değerli (basit kontrol)\n\nTAM ZAMANINDA ÜRETİM (JIT): Stoksuz üretim, israfın önlenmesi, KANBAN sistemi. Toyota üretim sistemi."
-   },
-   {
-    "baslik": "Kalite Yönetimi",
-    "icerik": "KALİTE KAVRAMI: Müşteri beklentilerini karşılama derecesi.\n\nTOPLAM KALİTE YÖNETİMİ (TKY) İLKELERİ:\n• Müşteri odaklılık\n• Üst yönetimin liderliği\n• Tam katılım ve takım çalışması\n• SÜREKLİ İYİLEŞTİRME (KAİZEN)\n• Süreç yönetimi\n• Önlemeye dönük yaklaşım (hatayı ayıklamak yerine önlemek)\n• Verilerle yönetim\n\nKALİTE ÖNCÜLERİ:\n• DEMING: PUKÖ (Planla-Uygula-Kontrol Et-Önlem Al) döngüsü, 14 ilke\n• JURAN: Kalite üçlemesi (planlama, kontrol, iyileştirme)\n• CROSBY: 'Sıfır hata', 'kalite bedavadır'\n• ISHIKAWA: Balık kılçığı (sebep-sonuç) diyagramı, kalite çemberleri\n• TAGUCHI: Kayıp fonksiyonu\n\nARAÇLAR: Pareto analizi (80/20), histogram, kontrol grafikleri, serpilme diyagramı, akış şeması.\nALTI SİGMA: Milyonda 3,4 hata hedefi; DMAIC (Tanımla-Ölç-Analiz Et-İyileştir-Kontrol Et).\nISO 9000: Kalite yönetim sistemi standartları."
-   },
    {
     "baslik": "Yalın Üretim ve Tam Zamanında Üretim",
     "icerik": "YALIN ÜRETİM (Toyota Üretim Sistemi): Amaç, müşteri için değer yaratmayan her şeyi (İSRAF) ortadan kaldırmaktır.\n\nYEDİ İSRAF TÜRÜ: Fazla üretim, bekleme, gereksiz taşıma, gereksiz işlem, fazla stok, gereksiz hareket, hatalı ürün. (Fazla üretim en temel israf sayılır çünkü diğerlerini de doğurur.)\n\nTAM ZAMANINDA ÜRETİM (JIT): Gereken malzemeyi, gereken miktarda, gerektiği anda üretmek ve tedarik etmek. Stoku minimuma indirir.\nŞARTLARI: Güvenilir tedarikçiler, kısa hazırlık süreleri, kaliteli üretim, dengelenmiş üretim akışı.\nRİSKİ: Tedarik zincirindeki bir aksama tüm üretimi durdurabilir.\n\nKANBAN: Üretimi ÇEKME (pull) sistemine göre tetikleyen kart/sinyal düzenidir. Bir sonraki istasyon talep etmedikçe üretim yapılmaz. İtme (push) sisteminin tersidir.\n\nKAIZEN: Küçük adımlarla sürekli iyileştirme. Tüm çalışanların katılımını gerektirir.\n\n5S: Sınıflandırma (Seiri), düzenleme (Seiton), temizlik (Seiso), standartlaştırma (Seiketsu), disiplin (Shitsuke). İş yeri düzeninin temelidir.\n\nJIDOKA (OTONOMASYON): Hata görüldüğünde hattı durdurma yetkisi; hatanın kaynağında yakalanmasını sağlar.\nPOKA-YOKE: Hata önleyici tasarım — yanlış takılması fiziksel olarak imkânsız parçalar gibi.\nSMED: Kalıp değiştirme sürelerinin kısaltılması; küçük partilerle üretimi ekonomik kılar.\n\nTOPLAM VERİMLİ BAKIM (TPM): Arıza oluşmadan önce planlı bakımla duruşların önlenmesidir. Kestirimci bakım, sensör verisiyle arızayı önceden tahmin eder."
@@ -206,17 +82,11 @@
     "icerik": "TEDARİK ZİNCİRİ YÖNETİMİ: Hammaddeden son müşteriye kadar malzeme, bilgi ve para akışının bütünsel yönetimidir.\n\nKAMÇI (BULLWHIP) ETKİSİ: Son tüketici talebindeki küçük dalgalanmaların zincirin yukarısına doğru giderek BÜYÜMESİDİR. Nedenleri: Talep tahminlerinin güncellenmesi, parti büyüklüğü, fiyat dalgalanmaları, kıtlık kaygısıyla abartılı sipariş.\nÇÖZÜM: Bilgi paylaşımı, tedarikçi yönetimli stok, teslim sürelerinin kısaltılması.\n\nMALZEME İHTİYAÇ PLANLAMASI (MRP): Ana üretim çizelgesi, ürün ağacı ve stok kayıtlarından hareketle hangi malzemeden ne zaman ve ne kadar sipariş edileceğini hesaplar.\nMRP II: Kapasite, finans ve iş gücünü de kapsar.\nKURUMSAL KAYNAK PLANLAMASI (ERP): Üretim, finans, satış, İK ve satın alma süreçlerini tek veri tabanında bütünleştirir.\n\nPROJE PLANLAMA:\n• GANTT ŞEMASI: Faaliyetlerin zaman çizelgesinde görselleştirilmesi.\n• CPM (KRİTİK YOL YÖNTEMİ): Proje süresini belirleyen, bolluğu SIFIR olan faaliyetler zinciridir. Kritik yoldaki bir gecikme tüm projeyi geciktirir.\n• PERT: Süreler belirsizse iyimser, olası ve kötümser tahminlerle beklenen süre hesaplanır: (İ + 4·O + K)/6\n\nTALEP TAHMİN YÖNTEMLERİ: Hareketli ortalama, ağırlıklı hareketli ortalama, üstel düzeltme, trend analizi, mevsimsel endeks; nitel yöntemler olarak Delphi ve uzman görüşü.\n\nTESİS YERLEŞİM TÜRLERİ:\n• ÜRÜNE GÖRE (hat tipi): Yüksek hacimli standart üretim; montaj hattı.\n• SÜRECE GÖRE (fonksiyonel): Benzer makineler bir arada; siparişe göre ve çeşitli üretim.\n• SABİT KONUMLU: Ürün sabit, kaynaklar ona gelir (gemi, bina).\n• HÜCRESEL: Benzer parça ailelerine göre gruplanmış hücreler; iki tipin avantajlarını birleştirir.\n\nHAT DENGELEME: İstasyon süreleri arasındaki farkları azaltarak darboğazı gidermektir; hattın hızını EN YAVAŞ istasyon (darboğaz) belirler."
    }
   ],
-  "pufNoktalar": [
-   "Sürekli üretimde ürüne göre, kesikli üretimde sürece göre yerleşim kullanılır.",
-   "ESM noktasında sipariş maliyeti = elde bulundurma maliyeti.",
-   "ABC analizinde A grubu az sayıda ama yüksek değerlidir.",
-   "JIT stoksuz üretimi ve israfın önlenmesini hedefler (Kanban).",
-   "Deming PUKÖ döngüsü, Ishikawa balık kılçığı ile anılır.",
-   "TKY'de hata ayıklamak yerine önlemek esastır.",
+  "puf": [
    "Kanban çekme sistemidir; sonraki istasyon talep etmedikçe üretim yapılmaz.",
    "Kamçı etkisi talep dalgalanmasının zincirin yukarısına doğru büyümesidir.",
    "Kritik yol bolluğu sıfır olan faaliyetler zinciridir.",
    "Üretim hattının hızını en yavaş istasyon (darboğaz) belirler."
   ]
  }
-]
+}

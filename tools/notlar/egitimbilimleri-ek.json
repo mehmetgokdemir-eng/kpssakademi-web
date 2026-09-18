@@ -1,0 +1,380 @@
+{
+ "gelisim_psikolojisi": {
+  "bolumler": [
+   {
+    "baslik": "Vygotsky — Sosyokültürel Gelişim",
+    "icerik": "TEMEL TEZ: Bilişsel gelişim önce SOSYAL, sonra bireyseldir. Çocuk, kültürün araçlarını (dil, sayı sistemi, semboller) yetişkinle etkileşerek içselleştirir.\n\nYAKINSAL GELİŞİM ALANI (YGA / ZPD):\nÇocuğun TEK BAŞINA yapabildikleri ile YARDIMLA yapabildikleri arasındaki alandır. Öğretim bu alanda yapılmalıdır; zaten bildiği şey öğretilemez, çok uzak olan da öğrenilemez.\n\nDESTEKLEME (Scaffolding / yapı iskelesi):\nBaşta yoğun destek verilir, çocuk yetkinleştikçe destek AZALTILIR ve sonunda kaldırılır. Öğretmenin rolü rehberliktir.\n\nÖZEL (BENMERKEZCİ) KONUŞMA:\nPiaget bunu olgunlaşmamışlığın işareti sayar ve kaybolacağını söyler. Vygotsky'de ise problem çözmenin aracıdır; kaybolmaz, İÇ KONUŞMAYA dönüşerek düşünmeye dönüşür.\n\nPIAGET–VYGOTSKY FARKI (sınavda en çok sorulan karşılaştırma):\n• Piaget: Gelişim öğrenmeyi önceler; çocuk yalnız keşfeder.\n• Vygotsky: Öğrenme gelişimi önceler; çocuk sosyal etkileşimle öğrenir.\n• Piaget: Dil düşünceyi izler. Vygotsky: Dil düşünceyi biçimlendirir."
+   },
+   {
+    "baslik": "Bronfenbrenner ve Gelişim Dönemleri",
+    "icerik": "BRONFENBRENNER — BİYOEKOLOJİK MODEL (iç içe halkalar):\n• MİKROSİSTEM: Çocuğun doğrudan içinde bulunduğu ortam — aile, sınıf, akran grubu.\n• MEZOSİSTEM: Mikrosistemler ARASI ilişki — veli toplantısı, öğretmen-aile iletişimi.\n• EKZOSİSTEM: Çocuğun içinde olmadığı ama etkilendiği ortam — annenin iş yeri, belediye kararları.\n• MAKROSİSTEM: Kültür, ideoloji, yasalar, toplumsal değerler.\n• KRONOSİSTEM: Zaman içindeki değişimler — boşanma, göç, teknolojik dönüşüm.\nSORU İPUCU: 'Babanın vardiyasının değişmesi' ekzosistem, 'öğretmenin veliyle görüşmesi' mezosistemdir.\n\nGELİŞİM DÖNEMLERİ VE YAŞLARI:\n• Bebeklik: 0–2  • İlk çocukluk: 2–6  • Son çocukluk: 6–12\n• Ergenlik: 12–18  • Genç yetişkinlik: 18–40\n\nKRİTİK DÖNEM: Belirli bir gelişimin en kolay gerçekleştiği, kaçırılırsa telafisi zor olan dönemdir (dil edinimi gibi).\n\nOLGUNLAŞMA / HAZIRBULUNUŞLUK / ÖĞRENME:\n• Olgunlaşma: Biyolojik yeterliliğe ulaşma (kalem tutacak kas gelişimi).\n• Hazırbulunuşluk: Olgunlaşma + önceki öğrenmeler + güdülenme (en kapsamlı kavramdır).\n• Öğrenme: Yaşantı ürünü kalıcı davranış değişikliği."
+   }
+  ],
+  "puf": [
+   "Yakınsal gelişim alanı, yardımla yapılabilenler ile tek başına yapılabilenler arasındaki farktır.",
+   "Piaget'de gelişim öğrenmeyi, Vygotsky'de öğrenme gelişimi önceler.",
+   "Hazırbulunuşluk olgunlaşmayı da kapsar; en geniş kavram hazırbulunuşluktur.",
+   "Annenin iş yeri ekzosistem, öğretmen-veli görüşmesi mezosistemdir."
+  ]
+ },
+ "ogrenme_kuramlari": {
+  "bolumler": [
+   {
+    "baslik": "Pekiştirme ve Ceza Ayrımı",
+    "icerik": "DÖRTLÜ TABLO (Skinner) — 'olumlu/olumsuz' iyi/kötü demek DEĞİLDİR; VERME/ALMA demektir:\n\n• OLUMLU PEKİŞTİRME: Hoşa giden bir şey VERİLİR → davranış ARTAR. (Ödev yapana aferin denmesi)\n• OLUMSUZ PEKİŞTİRME: Rahatsız edici bir şey KALDIRILIR → davranış ARTAR. (Ödevini yapana temizlik nöbetinin kaldırılması)\n• I. TİP CEZA: Rahatsız edici bir şey VERİLİR → davranış AZALIR. (Azarlama)\n• II. TİP CEZA: Hoşa giden bir şey KALDIRILIR → davranış AZALIR. (Teneffüs hakkının alınması)\n\nEN SIK KARIŞTIRILAN: Olumsuz pekiştirme ile ceza. Pekiştirmenin sonucu DAİMA davranışın artmasıdır; ceza azaltır.\n\nPREMACK İLKESİ: Sık yapılan bir davranış, az yapılanın pekiştireci olarak kullanılır. 'Ödevini bitirirsen oyun oynayabilirsin.'\n\nSÖNME: Pekiştireç kesilince davranışın azalması. Sönmeden hemen önce davranışta geçici bir ARTIŞ (sönme patlaması) görülür.\n\nCEZANIN SAKINCALARI: Ne yapılmayacağını öğretir ama doğrusunu öğretmez; kaçma-kaçınma ve saldırganlık doğurur; cezayı verene karşı olumsuz tutum oluşturur."
+   },
+   {
+    "baslik": "Pekiştirme Tarifeleri ve Kuram Karşılaştırması",
+    "icerik": "SÜREKLİ PEKİŞTİRME: Her doğru davranış pekiştirilir. Yeni davranış KAZANDIRMADA en etkilidir ama sönmesi en hızlısıdır.\n\nARALIKLI PEKİŞTİRME TARİFELERİ:\n• SABİT ORANLI: Her n davranışta bir. (Her 10 soruda bir ödül) → Yüksek ve düzenli hız, pekiştireçten sonra kısa mola.\n• DEĞİŞKEN ORANLI: Ortalama n davranışta bir, düzensiz. (Kumar makinesi) → EN YÜKSEK yanıt hızı, SÖNMEYE EN DİRENÇLİ tarifedir.\n• SABİT ARALIKLI: Her n dakikada/haftada bir. (Ayda bir maaş, haftalık sınav) → Pekiştirme zamanı yaklaşınca hız artar.\n• DEĞİŞKEN ARALIKLI: Düzensiz zaman aralıkları. (Habersiz yoklama) → Düzenli ve istikrarlı yanıt.\n\nKALICILIK SIRALAMASI: Değişken oranlı > Değişken aralıklı > Sabit oranlı > Sabit aralıklı > Sürekli\n\nKURAM KARŞILAŞTIRMASI:\n• PAVLOV (klasik): Tepki OTOMATİKTİR, uyarıcı öncedir. Refleksif, duygusal öğrenmeler.\n• SKINNER (edimsel): Tepki İSTEMLİDİR, sonuç davranışı belirler.\n• THORNDIKE: Deneme-yanılma; Etki, Tekrar ve Hazırbulunuşluk yasaları.\n• KÖHLER: Kavrama (insight) — ani ve bütüncül çözüm.\n• TOLMAN: Gizil öğrenme, bilişsel harita — öğrenme performansa dönüşmeden de gerçekleşebilir."
+   }
+  ],
+  "puf": [
+   "Olumlu/olumsuz iyi-kötü değil, verme-alma demektir; pekiştirme daima artırır.",
+   "Değişken oranlı tarife sönmeye en dirençli, sürekli pekiştirme en hızlı sönendir.",
+   "Sönmeden hemen önce davranışta geçici bir artış (sönme patlaması) görülür.",
+   "Gizil öğrenmede öğrenme gerçekleşir ama performansa hemen yansımaz."
+  ]
+ },
+ "bilissel_ogrenme": {
+  "bolumler": [
+   {
+    "baslik": "Bellek Türleri ve Kapasiteleri",
+    "icerik": "DUYUSAL KAYIT: Tüm uyarıcılar buraya gelir. Kapasite sınırsız, süre çok kısadır (görsel ~0,5 sn, işitsel ~4 sn). DİKKAT edilen bilgi kısa süreli belleğe geçer; edilmeyen kaybolur.\n\nKISA SÜRELİ (İŞLEYEN) BELLEK:\n• Kapasite: 7 ± 2 birim (Miller sayısı)\n• Süre: 15–20 saniye\n• Kapasiteyi artırmanın yolu GRUPLAMA (chunking) — 11 rakamlı telefon numarasını 3-3-2-3 diye ayırmak.\n• Süreyi uzatmanın yolu ZİHİNDEN TEKRAR (sürekli tekrar).\n\nUZUN SÜRELİ BELLEK: Kapasite ve süre sınırsızdır. Üçe ayrılır:\n• ANLAMSAL: Genel bilgiler, kavramlar, kurallar. (Ankara'nın başkent olması)\n• ANISAL (EPİZODİK): Kişisel yaşantılar, zaman-mekân bağlantılı. (İlk okul günü)\n• İŞLEMSEL (PROSEDÜREL): Nasıl yapılacağı bilgisi. (Bisiklet sürme) Unutulması en zor bellek türüdür.\n\nGERİ GETİRME SORUNU: Bilgi uzun süreli bellekte kaybolmaz; erişilemez hâle gelir. 'Dilimin ucunda' olgusu bunun kanıtıdır — kodlama sırasındaki ipuçlarıyla erişim yeniden kurulabilir."
+   },
+   {
+    "baslik": "Öğrenme Stratejileri ve Öğrenmeyi Öğrenme",
+    "icerik": "YİNELEME (TEKRAR) STRATEJİLERİ: Aynen tekrar etme, altını çizme, defalarca okuma. En yüzeysel işlemedir; basit ve sıralı bilgide işe yarar.\n\nANLAMLANDIRMA (ELABORASYON) STRATEJİLERİ:\n• Kendi cümleleriyle özetleme, başkasına anlatma\n• Benzetim kurma, örnek üretme\n• Bellek destekleyiciler: Akrostiş (baş harflerden sözcük), anahtar sözcük yöntemi, zincirleme öykü\nDerin işlemeyi sağlar, kalıcılığı en çok artıran gruptur.\n\nÖRGÜTLEME STRATEJİLERİ: Kavram haritası, şema, çizelge, ana hat çıkarma, sınıflandırma. Bilgiler arasındaki İLİŞKİYİ görünür kılar.\n\nİZLEME (ÜSTBİLİŞSEL) STRATEJİLER: Kendi kendine soru sorma, anlamadığını fark edip geri dönme, hız ayarlama, plan yapma. 'Öğrendiğimi biliyor muyum?' sorusudur.\n\nDUYUŞSAL STRATEJİLER: Kaygıyı yönetme, dikkat dağıtıcıları kaldırma, çalışma ortamını düzenleme, kendini ödüllendirme.\n\nSORU AYRIMI: 'Altını çizme' yineleme, 'kavram haritası' örgütleme, 'kendi örneğini bulma' anlamlandırma, 'sınav öncesi plan yapma' üstbilişseldir."
+   }
+  ],
+  "puf": [
+   "Kısa süreli bellek 7±2 birim; kapasite gruplamayla, süre tekrarla artırılır.",
+   "İşlemsel bellek (nasıl yapılacağı) unutulması en zor bellek türüdür.",
+   "Kavram haritası örgütleme, kendi örneğini üretme anlamlandırma stratejisidir.",
+   "Uzun süreli bellekte bilgi silinmez; erişilemez hâle gelir."
+  ]
+ },
+ "gudulenme": {
+  "bolumler": [
+   {
+    "baslik": "Atıf Kuramı ve Öğrenilmiş Çaresizlik",
+    "icerik": "WEINER — ATIF (YÜKLEME) KURAMI: Kişinin başarı/başarısızlığını neye bağladığı, sonraki güdülenmesini belirler. Üç boyutta incelenir:\n\n• ODAK (İÇSEL / DIŞSAL): Yetenek ve çaba içsel; şans ve görev zorluğu dışsaldır.\n• KARARLILIK (DEĞİŞMEZ / DEĞİŞİR): Yetenek ve görev zorluğu değişmez; çaba ve şans değişir.\n• KONTROL (KONTROL EDİLEBİLİR / EDİLEMEZ): Yalnız ÇABA kontrol edilebilirdir.\n\nEN İŞLEVSEL ATIF: Başarısızlığı ÇABAYA bağlamak. Çünkü çaba içsel, değişebilir ve kontrol edilebilirdir — 'daha çok çalışırsam başarırım' inancı doğar.\nEN YIKICI ATIF: Başarısızlığı YETENEK EKSİKLİĞİNE bağlamak. Değişmez ve kontrol edilemez olduğu için umutsuzluk üretir.\n\nÖĞRENİLMİŞ ÇARESİZLİK (Seligman): Tekrarlanan başarısızlık sonucu 'ne yaparsam yapayım değişmez' inancının yerleşmesi. Öğrenci denemeyi bırakır.\nÇÖZÜM: Küçük ve ulaşılabilir hedefler vermek, başarıyı çabaya bağlayan dönütler sunmak, süreç odaklı övgü kullanmak.\n\nÖVGÜ FARKI: 'Çok zekisin' (yeteneğe övgü) risk almayı azaltır; 'Çok emek vermişsin' (çabaya övgü) güdülenmeyi artırır."
+   },
+   {
+    "baslik": "Hedef Yönelimi ve İçsel Güdüyü Koruma",
+    "icerik": "HEDEF YÖNELİMİ KURAMI:\n• ÖĞRENME (USTALIK) YÖNELİMİ: Amaç öğrenmek, yetkinleşmektir. Zor görevleri seçer, hatayı öğrenme fırsatı sayar, kalıcılığı yüksektir.\n• PERFORMANS YAKLAŞMA: Amaç başkalarına üstünlüğünü göstermektir. Kolay görevleri seçer, not odaklıdır.\n• PERFORMANS KAÇINMA: Amaç aptal görünmemektir. Soru sormaktan kaçınır, en zararlı yönelimdir.\nÖĞRETMEN NE YAPMALI: Karşılaştırmalı sıralama yerine bireysel ilerleme dönütü vermek öğrenme yönelimini güçlendirir.\n\nBEKLENTİ-DEĞER KURAMI: Güdülenme = Başarma beklentisi × Görevin değeri. İkisinden biri sıfırsa güdülenme sıfırdır. Öğrenci başarabileceğine inanmıyorsa ya da konuyu değersiz buluyorsa çabalamaz.\n\nÖZ YETERLİK (Bandura): Kişinin belirli bir işi yapabileceğine dair inancıdır; genel özgüvenden farklı olarak GÖREVE ÖZGÜDÜR.\nKaynakları: 1) Geçmiş başarı yaşantıları (en güçlü), 2) Model alma, 3) Sözel ikna, 4) Fizyolojik durum.\n\nAŞIRI HAKLILAŞTIRMA ETKİSİ: Zaten severek yapılan bir işe dışsal ödül verilirse içsel güdü ZAYIFLAR. Kitap okumayı seven öğrenciye her kitap için para vermek, ödül kesildiğinde okumayı bitirir.\nKURAL: Dışsal ödül, içsel güdü zayıfken başlangıç için kullanılır; sonra kademeli olarak azaltılır."
+   }
+  ],
+  "puf": [
+   "En işlevsel atıf başarısızlığı çabaya bağlamaktır; çaba kontrol edilebilir tek etkendir.",
+   "Yeteneğe övgü risk almayı azaltır; çabaya övgü güdülenmeyi artırır.",
+   "Öz yeterlik göreve özgüdür ve en güçlü kaynağı geçmiş başarı yaşantısıdır.",
+   "Sevilerek yapılan işe dışsal ödül vermek içsel güdüyü zayıflatır."
+  ]
+ },
+ "aktif_ogrenme": {
+  "bolumler": [
+   {
+    "baslik": "Probleme ve Projeye Dayalı Öğrenme",
+    "icerik": "PROBLEME DAYALI ÖĞRENME (PDÖ):\nÖğrenme, YAPILANDIRILMAMIŞ gerçek yaşam problemiyle BAŞLAR. Önce konu anlatılıp sonra problem verilmez; problem öğrenmeyi tetikler.\nAdımlar: Problemi tanıma → Bilinenleri/bilinmeyenleri listeleme → Araştırma → Çözüm önerisi → Değerlendirme\nÖğretmenin rolü: Bilgi kaynağı değil KOLAYLAŞTIRICIDIR.\n\nPROJEYE DAYALI ÖĞRENME:\nUzun süreli, somut bir ÜRÜNLE sonuçlanır. Disiplinler arasıdır, süreç ve ürün birlikte değerlendirilir.\nPDÖ'den farkı: PDÖ'de odak problemin çözümü ve öğrenme süreci, projede somut çıktıdır.\n\nBULUŞ YOLUYLA ÖĞRENME (Bruner): Öğretmen örnekleri sunar, öğrenci kuralı KENDİ bulur. Tümevarımdır. Kalıcılığı yüksek, süresi uzundur.\n\nSUNUŞ YOLUYLA ÖĞRENME (Ausubel): Öğretmen önce genel/kapsayıcı bilgiyi (ön örgütleyici) verir, sonra ayrıntıya iner. Tümdengelimdir. Kısa sürede çok bilgi aktarır.\n\nARAŞTIRMA-İNCELEME (Dewey): Bilimsel problem çözme basamakları izlenir: problem, hipotez, veri toplama, test, sonuç.\n\nSEÇİM ÖLÇÜTÜ: Kavram öğretilecekse buluş, bilgi aktarılacaksa sunuş, beceri geliştirilecekse araştırma-inceleme uygundur."
+   },
+   {
+    "baslik": "Beyin Temelli ve Basamaklı Öğretim",
+    "icerik": "BEYİN TEMELLİ ÖĞRENME: Öğrenmenin beynin doğal çalışma biçimine uydurulmasıdır.\nİlkeleri: Beyin paralel işlemcidir; öğrenme fizyolojiktir; anlam arayışı doğuştandır; duygular öğrenmeyi belirler; beyin bütünü ve parçaları aynı anda algılar; rahatlatılmış uyanıklık (düşük tehdit, yüksek meydan okuma) ideal ortamdır.\n\nBASAMAKLI ÖĞRETİM: Görevler C (bilgi/kavrama), B (uygulama/analiz), A (sentez/değerlendirme) düzeyinde hazırlanır. Öğrenci kendi düzeyinden başlar, ilerledikçe üst basamağa geçer. Bireysel farklılıkları esas alır.\n\nTAM ÖĞRENME (Bloom): Yeterli zaman ve uygun öğretim verilirse öğrencilerin %90'ı öğrenebilir.\n• Bilişsel giriş davranışları (ön öğrenmeler) — başarının yaklaşık yarısını açıklar\n• Duyuşsal giriş özellikleri (ilgi, tutum, öz güven)\n• Öğretim hizmetinin niteliği: İPUCU – KATILIM – PEKİŞTİREÇ – DÖNÜT/DÜZELTME\nİZLEME TESTİ ve TAMAMLAYICI ÖĞRETİM bu modelin ayırt edici ögeleridir; eksiği olan öğrenci ek öğretim alır.\n\nİŞ BİRLİKLİ ÖĞRENME TEKNİKLERİ:\n• AYRILIP BİRLEŞME (Jigsaw): Her üye bir alt konunun uzmanı olur, uzman gruplarda çalışır, sonra kendi grubuna öğretir.\n• BİRLİKTE ÖĞRENME: Grup tek ürün üretir, ortak not alır.\n• ÖĞRENCİ TAKIMLARI-BAŞARI BÖLÜMLERİ (ÖTBB): Bireysel sınav, grup puanı bireysel gelişime göre hesaplanır.\n• TAKIM-OYUN-TURNUVA: Yarışma temellidir.\nORTAK ŞART: Olumlu bağımlılık, bireysel sorumluluk, yüz yüze etkileşim, sosyal beceri, grup değerlendirmesi."
+   }
+  ],
+  "puf": [
+   "Buluş yolu tümevarım (Bruner), sunuş yolu tümdengelimdir (Ausubel).",
+   "Tam öğrenmede öğretim hizmetinin ögeleri: ipucu, katılım, pekiştireç, dönüt-düzeltme.",
+   "Jigsaw'ın ayırt edici ögesi uzman gruplarıdır.",
+   "Probleme dayalı öğrenmede ders problemle başlar, konu anlatımıyla değil."
+  ]
+ },
+ "ogretim_yontemleri": {
+  "bolumler": [
+   {
+    "baslik": "Tartışma ve Örnek Olay Teknikleri",
+    "icerik": "BÜYÜK GRUP TARTIŞMASI: Tüm sınıf katılır, öğretmen yönlendirir. Zaman alır, bazı öğrenciler sessiz kalabilir.\n\nKÜÇÜK GRUP TEKNİKLERİ:\n• VIZILTI GRUPLARI: 2–6 kişilik gruplar kısa sürede (genelde 6 dakika) bir konuyu tartışır. 'Vızıltı 22' = 2 kişi 2 dakika.\n• BEYİN FIRTINASI: Nicelik hedeflenir, ELEŞTİRİ YASAKTIR, en uçuk fikirler bile kaydedilir; değerlendirme SONRADAN yapılır. Yaratıcı düşünmeyi geliştirir.\n• ALTI ŞAPKALI DÜŞÜNME: Beyaz (veri), kırmızı (duygu), siyah (riskler), sarı (yararlar), yeşil (yaratıcılık), mavi (süreç yönetimi). Konuya farklı açılardan bakmayı öğretir.\n• AKVARYUM (içi boş çember): İç çember tartışır, dış çember gözlemler, sonra yer değiştirir.\n• FİKİR TARAMASI, İSTASYON, KONUŞMA HALKASI: Tüm öğrencilerin katılımını garanti eden tekniklerdir.\n\nBÜYÜK ORGANİZASYONLAR:\n• PANEL: Uzmanlar dinleyici önünde SOHBET havasında konuşur.\n• FORUM: Dinleyicilerin soru sorduğu bölüm; genelde panelden sonra yapılır.\n• SEMPOZYUM: Aynı konunun farklı yönleri ciddi ve akademik biçimde sunulur.\n• MÜNAZARA: İki karşıt grup savunur, jüri karar verir.\n• ZIT PANEL: Bir grup soru sorar, diğer grup yanıtlar; tekrar amaçlı kullanılır.\n\nÖRNEK OLAY: Gerçek bir durum incelenir, analiz ve çözüm üretilir. Yüksek düzey düşünme becerilerini geliştirir; uygulama-analiz basamakları için uygundur."
+   },
+   {
+    "baslik": "Gösterip Yaptırma ve Bireysel Öğretim",
+    "icerik": "GÖSTERİP YAPTIRMA: Önce öğretmen yapar (gösteri), sonra öğrenci yapar (uygulama). PSİKOMOTOR beceri öğretiminde en etkili yöntemdir — laboratuvar deneyi, enstrüman çalma, ilk yardım.\nMaliyeti ve zamanı yüksektir, kalabalık sınıflarda zordur.\n\nGÖSTERİ (DEMONSTRASYON) İLE FARKI: Gösteride yalnız öğretmen yapar, öğrenci izler. Gösterip yaptırmada öğrenci de UYGULAR. Soruda 'öğrenciler de denedi' ifadesi varsa gösterip yaptırmadır.\n\nROL OYNAMA: Öğrenci başka birinin rolüne girer, duygularını yaşar. DUYUŞSAL hedefler ve empati için kullanılır. Senaryo önceden bellidir.\n\nDRAMA: Doğaçlamaya dayanır, önceden yazılı senaryo yoktur; süreç odaklıdır.\n\nBENZETİM (SİMÜLASYON): Gerçeği yansıtan yapay ortam. Gerçeği tehlikeli, pahalı veya ulaşılamaz olduğunda kullanılır — uçuş simülatörü, deprem tatbikatı, temsili Meclis.\n\nMİKRO ÖĞRETİM: Küçük grup, kısa süre (5–10 dk), tek beceri. Kaydedilip izlenir ve tekrar denenir. Öğretmen yetiştirmede kullanılır.\n\nBİREYSELLEŞTİRİLMİŞ ÖĞRETİM:\n• PROGRAMLI ÖĞRETİM (Skinner): Küçük adımlar, etkin katılım, ANINDA DÖNÜT, bireysel hız, başarı.\n• DENEYSEL/BİLGİSAYAR DESTEKLİ ÖĞRETİM: Öğrenciye kendi hızında ilerleme olanağı verir.\nSEÇİM ÖLÇÜTÜ: Hedef bilişselse anlatım/tartışma, psikomotorsa gösterip yaptırma, duyuşsalsa rol oynama ve drama uygundur."
+   }
+  ],
+  "puf": [
+   "Beyin fırtınasında eleştiri yasaktır; değerlendirme süreç bittikten sonra yapılır.",
+   "Panelde uzmanlar sohbet eder, forumda dinleyici soru sorar.",
+   "Öğrenci de uyguluyorsa gösterip yaptırma, yalnız izliyorsa gösteridir.",
+   "Rol oynamanın senaryosu bellidir; dramada doğaçlama esastır."
+  ]
+ },
+ "ogretim_i_lkeleri": {
+  "bolumler": [
+   {
+    "baslik": "Ekonomiklik, Bütünlük ve Açıklık İlkeleri",
+    "icerik": "EKONOMİKLİK (TASARRUF) İLKESİ: En az zaman, emek ve masrafla en çok öğrenmeyi sağlamak. Bir etkinlikle birden çok hedefe ulaşmak bu ilkenin göstergesidir.\nÖRNEK: Bir gezide hem tarih hem coğrafya kazanımlarını gerçekleştirmek.\n\nBÜTÜNLÜK İLKESİ: Öğrenciyi bilişsel, duyuşsal ve psikomotor yönleriyle BİR BÜTÜN olarak ele almak; yalnız zihinsel gelişime odaklanmamak.\n\nAÇIKLIK (AYANİLİK) İLKESİ: Konunun mümkün olduğunca çok duyu organına hitap edecek biçimde somutlaştırılması. Anlatımın anlaşılır olması ve görsel-işitsel araç kullanımı bu ilkeye girer.\n\nAKTİVİTE (ETKİNLİK) İLKESİ: Öğrenci sürecin merkezindedir, yaparak-yaşayarak öğrenir. 'Öğrenci pasif dinleyici olmamalı' ifadesi bu ilkedir.\n\nYAŞAMA YAKINLIK İLKESİ: Öğretilenlerin gerçek yaşamda kullanılabilir olması, günlük yaşamdan örnek verilmesi.\n\nGÜNCELLİK İLKESİ: Ders içeriğinin güncel olaylarla ilişkilendirilmesi ve bilginin çağa uygun tutulması.\n\nSOSYALLİK İLKESİ: Öğrencinin toplumsallaşması; hem özgürlük hem disiplin dengesinin kurulması.\n\nBİLGİ VE BECERİNİN GÜVENCE ALTINA ALINMASI: Öğrenilenlerin unutulmaması için tekrar, alıştırma ve uygulama yapılması.\n\nİLGİ İLKESİ: Öğretimin öğrencinin ilgi ve ihtiyaçlarına göre düzenlenmesi."
+   },
+   {
+    "baslik": "Öğretimi Düzenleme Sıraları — Karıştırılanlar",
+    "icerik": "SIRALAMA İLKELERİ (soruda en çok karşılaştırılan dört başlık):\n\n• SOMUTTAN SOYUTA: Önce elle tutulur nesne/model, sonra kavram. (Önce küp maketi, sonra hacim formülü)\n• BASİTTEN KARMAŞIĞA: Az ögeli olandan çok ögeliye. (Önce tek işlem, sonra çok işlemli problem)\n• KOLAYDAN ZORA: Öğrencinin yapabileceğinden zorlanacağına doğru. Zorluk ÖĞRENCİYE göredir; karmaşıklık ise konunun kendi özelliğidir — bu ikisi aynı şey değildir.\n• YAKINDAN UZAĞA: Öğrencinin çevresinden başlayarak genişlemek. Hem MEKÂN hem ZAMAN için geçerlidir. (Önce kendi ili, sonra bölge, sonra ülke; önce yakın tarih, sonra eski dönemler)\n• BİLİNENDEN BİLİNMEYENE: Yeni bilgiyi önceki öğrenmelere bağlamak. Ön koşul ilişkisi bu ilkeye dayanır.\n\nÖĞRENCİYE GÖRELİK (ÇOCUĞA GÖRELİK) İLKESİ:\nBireysel farklılıkların, yaş ve gelişim düzeyinin dikkate alınması. EN KAPSAYICI ilke budur; diğer birçok ilke bunun uygulamasıdır. Bireyselleştirme, düzeye uygun materyal ve farklılaştırılmış görev örnekleri buraya girer.\n\nAYIRT EDİCİ SORU KALIPLARI:\n• 'Öğrencinin seviyesine indi' → öğrenciye görelik\n• 'Kendi mahallesinden başladı' → yakından uzağa\n• 'Maket kullandı' → somuttan soyuta (aynı zamanda açıklık)\n• 'Bir etkinlikte iki kazanım' → ekonomiklik\n• 'Önceki dersi hatırlattı' → bilinenden bilinmeyene"
+   }
+  ],
+  "puf": [
+   "Zorluk öğrenciye, karmaşıklık konuya göredir; iki ilke aynı değildir.",
+   "Yakından uzağa ilkesi hem mekân hem zaman için geçerlidir.",
+   "Bir etkinlikle birden çok hedefe ulaşmak ekonomiklik ilkesidir.",
+   "Öğrenciye görelik en kapsayıcı ilkedir; çoğu ilke onun uygulamasıdır."
+  ]
+ },
+ "ogretim_teknolojileri": {
+  "bolumler": [
+   {
+    "baslik": "Materyal Seçimi ve Değerlendirme Ölçütleri",
+    "icerik": "MATERYAL SEÇİM ÖLÇÜTLERİ:\n• HEDEFE UYGUNLUK: Materyal kazanıma hizmet etmelidir; gösterişli olması yetmez.\n• ÖĞRENCİ DÜZEYİNE UYGUNLUK: Yaş, hazırbulunuşluk ve ilgi.\n• BASİTLİK: Gereksiz ayrıntı dikkat dağıtır; mesaj sade olmalıdır.\n• GÜNCELLİK VE DOĞRULUK: Bilgi hatalı veya eskimiş olmamalıdır.\n• EKONOMİKLİK: Maliyet, dayanıklılık, yeniden kullanılabilirlik.\n• ERİŞİLEBİLİRLİK: Sınıfın tümü tarafından görülüp duyulabilmesi.\n\nASSURE MODELİ (materyal planlama):\nA — Analyze (öğrenci özelliklerini çözümle)\nS — State objectives (hedefleri belirle)\nS — Select methods/media (yöntem ve materyali seç)\nU — Utilize (materyali kullan)\nR — Require participation (katılımı sağla)\nE — Evaluate (değerlendir ve düzelt)\n\nGÖRSEL TASARIM İLKELERİ: Bütünlük, denge, vurgu, hizalama, yakınlık, boşluk kullanımı, renk uyumu. Bir sayfada en çok 2–3 yazı tipi kullanılmalı, büyük harfle uzun metin yazılmamalıdır.\n\nÇOKLU ORTAM İLKESİ: Söz ve görsel birlikte sunulduğunda öğrenme artar; ancak aynı bilgiyi hem yazıyla hem sesle aynı anda vermek (gereksiz yineleme) bilişsel yükü artırıp öğrenmeyi DÜŞÜRÜR."
+   },
+   {
+    "baslik": "Uzaktan Eğitim ve Dijital Araçlar",
+    "icerik": "UZAKTAN EĞİTİM TÜRLERİ:\n• EŞ ZAMANLI (senkron): Canlı ders, anlık etkileşim vardır.\n• EŞ ZAMANSIZ (asenkron): Kayıtlı içerik, öğrenci kendi hızında ilerler.\n• HARMANLANMIŞ (blended) ÖĞRENME: Yüz yüze ile çevrim içi öğretimin birlikte kullanılması.\n\nTERS YÜZ (FLIPPED) SINIF: Konu anlatımı evde videoyla izlenir, sınıf zamanı uygulama, tartışma ve problem çözmeye ayrılır. Sınıfın rolü tersine döner.\n\nARTIRILMIŞ GERÇEKLİK: Gerçek görüntünün üzerine dijital katman eklenir.\nSANAL GERÇEKLİK: Tamamen yapay bir ortama daldırma sağlar.\n\nÖĞRENME YÖNETİM SİSTEMİ (LMS): İçerik dağıtımı, ödev toplama, değerlendirme ve izlemenin tek platformda toplanmasıdır.\n\nDİJİTAL OKURYAZARLIK VE ETİK:\n• Kaynak gösterme, telif haklarına uyma, intihalden kaçınma\n• Bilgi kirliliğini ayırt etme, kaynak güvenilirliğini sorgulama\n• Kişisel veri güvenliği ve dijital ayak izi bilinci\n\nTEKNOLOJİ KULLANIMININ TEMEL KURALI: Teknoloji amaç değil ARAÇTIR. Kazanıma hizmet etmeyen, dikkat dağıtan ya da öğretmenin rolünü gereksiz kılan kullanım öğretimsel açıdan değersizdir. Soruda 'teknoloji kullanıldığı için etkilidir' türü genellemeler yanlış seçenektir."
+   }
+  ],
+  "puf": [
+   "Aynı bilgiyi eş zamanlı hem yazıyla hem sesle vermek bilişsel yükü artırır.",
+   "ASSURE: analiz, hedef, seçim, kullanım, katılım, değerlendirme.",
+   "Ters yüz sınıfta anlatım evde, uygulama sınıfta yapılır.",
+   "Teknoloji amaç değil araçtır; kazanıma hizmet etmeyen kullanım değersizdir."
+  ]
+ },
+ "program_temelleri": {
+  "bolumler": [
+   {
+    "baslik": "Eğitim Programı Türleri",
+    "icerik": "EĞİTİM PROGRAMI: Okul içinde ve dışında planlanan tüm etkinlikleri kapsayan EN GENİŞ kavramdır.\n\nİÇ İÇE HALKALAR (geniş → dar):\nEğitim programı > Öğretim programı > Ders programı > Ders planı\n\n• ÖĞRETİM PROGRAMI: Belli bir öğretim kademesinde, çeşitli derslerdeki öğretme-öğrenme süreçlerinin tümü.\n• DERS PROGRAMI: Tek bir dersle ilgili etkinliklerin tümü.\n• DERS PLANI: Bir ders saatinde yapılacakların ayrıntılı yazımı.\n\nÖRTÜK (GİZİL) PROGRAM: Yazılı olmayan ama okulda öğrenilen her şey — okul kültürü, öğretmen tutumları, değerler, kurallar, akran ilişkileri. Resmî programdan çoğu zaman DAHA ETKİLİDİR.\n\nİHMAL EDİLEN (EKSİK) PROGRAM: Programda yer aldığı hâlde çeşitli nedenlerle öğretilmeyen konular — zaman yetmemesi, öğretmenin alan dışı olması gibi.\n\nEKSTRA (DESTEK) PROGRAM: Ders dışı etkinlikler — kulüpler, geziler, sportif ve sanatsal faaliyetler.\n\nSIK SORULAN AYRIM: 'Öğretmenin adil davranışıyla öğrencilerin adaleti öğrenmesi' örtük programdır. 'Müfredatta olduğu hâlde zaman yetmediği için işlenmeyen ünite' ihmal edilen programdır."
+   },
+   {
+    "baslik": "Bloom Taksonomisi ve Hedef Yazımı",
+    "icerik": "BİLİŞSEL ALAN (Bloom, klasik sıralama — basitten karmaşığa):\n1. BİLGİ: Hatırlama, tanıma. (sayar, listeler, tanımlar)\n2. KAVRAMA: Kendi cümleleriyle açıklama, özetleme, yorumlama.\n3. UYGULAMA: Bilgiyi yeni bir durumda kullanma, problem çözme.\n4. ANALİZ: Parçalara ayırma, ilişki kurma, neden-sonuç bulma.\n5. SENTEZ: Yeni bir bütün oluşturma, tasarlama, üretme.\n6. DEĞERLENDİRME: Ölçüt kullanarak yargıda bulunma, eleştirme.\n\nYENİLENMİŞ TAKSONOMİ (Anderson): Fiil hâline getirildi ve son iki basamak yer değiştirdi:\nHatırlama – Anlama – Uygulama – Çözümleme – DEĞERLENDİRME – YARATMA\nEn üst basamak artık YARATMADIR.\n\nDUYUŞSAL ALAN (Krathwohl): Alma → Tepkide bulunma → Değer verme → Örgütleme → Kişilik hâline getirme (en üst düzey)\n\nPSİKOMOTOR ALAN (Simpson): Uyarılma → Kurulma → Kılavuzla yapma → Mekanikleşme → Karmaşık davranış → Uyum → Yaratma\n\nHEDEF YAZIM KURALLARI:\n• Öğrenci davranışını ifade etmeli, öğretmen davranışını değil ('kavratmak' yanlış, 'açıklayabilme' doğru)\n• Tek bir davranış içermeli (birleşik hedef yazılmaz)\n• Gözlenebilir ve ölçülebilir olmalı ('anlama, bilme, kavrama' belirsizdir)\n• '-ebilme' eki ile bitmelidir\n• Konu başlığı hedef değildir ('Osmanlı Devleti'nin Kuruluşu' bir hedef değil, içeriktir)"
+   }
+  ],
+  "puf": [
+   "Örtük program yazılı değildir ama çoğu zaman resmî programdan etkilidir.",
+   "Yenilenmiş taksonomide en üst basamak yaratmadır, değerlendirme değil.",
+   "Hedef öğrenci davranışını anlatır ve '-ebilme' ile biter.",
+   "Programda olup da işlenmeyen konular ihmal edilen programdır."
+  ]
+ },
+ "program_modelleri": {
+  "bolumler": [
+   {
+    "baslik": "Türkiye'de Program Geliştirme ve MEB Süreci",
+    "icerik": "TÜRKİYE'DE PROGRAM GELİŞTİRME ÇALIŞMALARININ TEMEL ÖZELLİĞİ: 2004'ten itibaren davranışçı yaklaşımdan YAPILANDIRMACI yaklaşıma geçilmiş; 'hedef-davranış' yerine KAZANIM kavramı kullanılmaya başlanmıştır.\n\nKAZANIM: Öğrencinin öğrenme süreci sonunda edinmesi beklenen bilgi, beceri, tutum ve değerlerin bütünüdür. Davranıştan daha kapsamlı bir kavramdır.\n\nPROGRAM GELİŞTİRME KOMİSYONLARI:\n• KARAR VE KOORDİNASYON KURULU: Politika belirler, onay verir.\n• ÇALIŞMA GRUPLARI: Alan uzmanı, program uzmanı, ölçme uzmanı, öğretmen, psikolog ve gerektiğinde veli temsilcisi bulunur.\nProgram geliştirme EKİP İŞİDİR ve SÜREKLİDİR — bir kez yapılıp bitmez.\n\nİHTİYAÇ BELİRLEME YAKLAŞIMLARI:\n• FARKLAR YAKLAŞIMI: Olması gereken ile olan arasındaki fark.\n• DEMOKRATİK YAKLAŞIM: Çoğunluğun isteği esas alınır.\n• ANALİTİK YAKLAŞIM: Gelecekteki gelişmeler kestirilir.\n• BETİMSEL YAKLAŞIM: Bir şeyin yokluğunda doğacak zarar incelenir.\n\nİHTİYAÇ BELİRLEME TEKNİKLERİ: Delphi tekniği (uzman görüşünün birkaç turda uzlaştırılması), meslek analizi, ölçüt alma, kaynak tarama, gözlem ve anket.\n\nPROGRAMIN DENENMESİ: Geliştirilen program önce PİLOT okullarda uygulanır, veri toplanır, düzeltilir ve ancak sonra yaygınlaştırılır."
+   },
+   {
+    "baslik": "Program Değerlendirme Modelleri",
+    "icerik": "CIPP MODELİ (Stufflebeam) — en çok sorulan modeldir:\n• CONTEXT (Bağlam): İhtiyaçlar ve hedefler uygun mu?\n• INPUT (Girdi): Kaynaklar, strateji ve plan yeterli mi?\n• PROCESS (Süreç): Uygulama planlandığı gibi mi yürüyor?\n• PRODUCT (Ürün): Hedeflere ulaşıldı mı?\nKarar verme odaklıdır; sürecin her aşamasında düzeltme sağlar.\n\nMETFESSEL-MICHAEL MODELİ: Sekiz aşamalı, hedeflere ulaşma düzeyini ölçmeye dayanan geniş katılımlı modeldir.\n\nPROVUS FARKLAR MODELİ: Standart ile performans arasındaki FARKA bakar; fark varsa program ya düzeltilir ya sonlandırılır.\n\nSTAKE UYGUNLUK-OLASILIK MODELİ: Ön koşullar, süreç ve sonuçlar; gözlenen ile beklenen karşılaştırılır.\n\nEISNER EĞİTSEL ELEŞTİRİ MODELİ: Uzmanın nitel değerlendirmesine dayanır; sanat eleştirisi mantığıyla betimleme, yorumlama ve değerlendirme yapılır.\n\nTYLER HEDEFE DAYALI MODEL: Yalnızca hedeflere ulaşılıp ulaşılmadığına bakar. En eski ve en dar kapsamlı modeldir; sürece bakmadığı için eleştirilir.\n\nSCRIVEN AMAÇTAN BAĞIMSIZ DEĞERLENDİRME: Değerlendirici programın hedeflerini BİLMEDEN sonuçlara bakar; böylece beklenmedik yan etkiler de görülebilir.\n\nAYIRT EDİCİ SORU: 'Uygulama sırasında da düzeltme yapılıyorsa' CIPP; 'yalnız sonuca bakılıyorsa' Tyler; 'hedefleri bilmeden değerlendiriliyorsa' Scriven."
+   }
+  ],
+  "puf": [
+   "CIPP'in dört boyutu: bağlam, girdi, süreç, ürün.",
+   "Tyler modeli yalnız hedeflere ulaşmaya bakar; süreci değerlendirmez.",
+   "Scriven modelinde değerlendirici programın hedeflerini bilmez.",
+   "2004 sonrası programlarda davranış yerine kazanım kavramı kullanılır."
+  ]
+ },
+ "hedef_i_cerik_surec": {
+  "bolumler": [
+   {
+    "baslik": "Dikey ve Yatay Program İlişkileri",
+    "icerik": "DİKEY İLİŞKİ (ARDIŞIKLIK): Aynı dersin farklı sınıf düzeyleri arasındaki sıralamadır. Konular birbirinin ön koşuludur ve derinleşerek ilerler.\nÖRNEK: 5. sınıfta kesirler, 6. sınıfta kesirlerle işlem.\n\nYATAY İLİŞKİ (KAYNAŞIKLIK / KORELASYON): Aynı sınıf düzeyindeki FARKLI derslerin birbiriyle ilişkilendirilmesidir.\nÖRNEK: Tarih dersinde işlenen dönemin coğrafya dersinde de ele alınması.\n\nSÜREKLİLİK: Önemli bir becerinin farklı düzeylerde TEKRAR ele alınmasıdır (okuma, yazma, problem çözme gibi).\n\nKAYNAŞIKLIK VE SÜREKLİLİK FARKI: Süreklilik aynı öğenin tekrarı, kaynaşıklık farklı öğelerin ilişkilendirilmesidir.\n\nSARMAL (SPİRAL) YAKLAŞIM (Bruner): Aynı konu her düzeyde yeniden ele alınır ve her seferinde derinleştirilir. Bruner'in 'her konu her yaştaki çocuğa dürüst biçimde öğretilebilir' savına dayanır.\n\nDOĞRUSAL (LİNEER) YAKLAŞIM: Konular birbirinin ön koşuludur, geri dönüş yoktur. Matematik gibi hiyerarşik derslerde uygundur.\n\nMODÜLER YAKLAŞIM: Bağımsız birimler hâlinde düzenlenir; sıra değiştirilebilir, istenen modül seçilebilir. Mesleki eğitimde yaygındır.\n\nPİRAMİTSEL YAKLAŞIM: Geniş tabandan dar uzmanlığa doğru daralır.\nÇEKİRDEK YAKLAŞIM: Ortak bir çekirdek programın üzerine seçmeli alanlar eklenir."
+   },
+   {
+    "baslik": "Eğitim Durumlarında Öğretmenin Rolü",
+    "icerik": "EĞİTİM DURUMU = Öğrencide istendik davranışı oluşturmak için düzenlenen öğrenme yaşantıları bütünü. Programın 'nasıl' sorusunun karşılığıdır.\n\nÖĞRENME YAŞANTISI: Öğrencinin çevresiyle etkileşiminden geçen ve İZ BIRAKAN etkinliktir. Öğretmenin planladığı her etkinlik yaşantıya dönüşmeyebilir; yaşantıyı belirleyen öğrencinin etkin katılımıdır.\n\nİPUCU: Öğrenciye ne yapacağını gösteren, davranışı başlatan uyarıcılar. Soru sorma, açıklama, örnek verme, yönerge verme.\nKATILIM: Öğrencinin açık veya örtük biçimde etkinliğe dâhil olması. Dinlemek de zihinsel katılımdır ama etkin katılım daha güçlüdür.\nPEKİŞTİREÇ: Doğru davranışın tekrarını sağlayan uyarıcı.\nDÖNÜT: Öğrenciye davranışının doğruluğu hakkında bilgi verme. DÜZELTME ise yanlışın nasıl düzeltileceğini göstermedir. Dönüt tek başına yetmez; düzeltmeyle birlikte verilmelidir.\n\nDERS PLANI ÖGELERİ: Kazanımlar, süre, yöntem-teknik, araç-gereç, öğretme-öğrenme etkinlikleri, ölçme-değerlendirme.\n\nGİRİŞ – GELİŞME – SONUÇ:\n• GİRİŞ: Dikkat çekme, güdüleme, gözden geçirme (hedeften haberdar etme), derse geçiş.\n• GELİŞME: Yeni içeriğin sunumu, uygulama, dönüt-düzeltme.\n• SONUÇ: Özetleme, pekiştirme, değerlendirme ve bir sonraki derse hazırlık.\nDİKKAT ÇEKME ile GÜDÜLEME karıştırılır: Dikkat çekme ilgiyi konuya çevirir; güdüleme konunun NEDEN öğrenileceğini, yaşamdaki yararını açıklar."
+   }
+  ],
+  "puf": [
+   "Dikey ilişki aynı dersin sınıflar arası sıralaması, yatay ilişki aynı sınıftaki dersler arasıdır.",
+   "Sarmal yaklaşımda konu her düzeyde derinleştirilerek yeniden ele alınır.",
+   "Dönüt doğruluğu bildirir, düzeltme nasıl düzeltileceğini gösterir.",
+   "Dikkat çekme ilgiyi konuya çeker; güdüleme konunun yararını açıklar."
+  ]
+ },
+ "olcme_turleri": {
+  "bolumler": [
+   {
+    "baslik": "Ölçme Hataları ve Kaynakları",
+    "icerik": "HATA TÜRLERİ:\n• SABİT HATA: Her ölçmede AYNI miktarda ve aynı yönde yapılan hata. (Sürekli 2 kg fazla gösteren terazi; her kâğıda 5 puan fazla veren öğretmen) Güvenirliği bozmaz ama GEÇERLİĞİ bozar.\n• SİSTEMATİK HATA: Ölçülen özelliğe ya da kişiye göre DEĞİŞEN, belirli bir kurala bağlı hata. (El yazısı güzel olanlara sürekli daha yüksek puan vermek; tanıdığı öğrencilere cömert davranmak)\n• RASTGELE (TESADÜFİ) HATA: Nedeni bilinmeyen, yönü ve miktarı değişken hata. (Öğrencinin o gün hasta olması, sınav salonundaki gürültü, dikkatsizlik) GÜVENİRLİĞİ düşüren asıl hata türüdür.\n\nAYIRT EDİCİ SORU: 'Herkese aynı miktarda' → sabit; 'belirli bir gruba/özelliğe göre' → sistematik; 'öngörülemeyen, değişken' → rastgele.\n\nHATA KAYNAKLARI:\n• Ölçme aracından: Belirsiz sorular, baskı hataları, yetersiz soru sayısı.\n• Ölçmeciden: Puanlayıcı yanlılığı, hâle etkisi, cömertlik/cimrilik.\n• Ölçülen bireyden: Kaygı, yorgunluk, hastalık, motivasyon.\n• Ortamdan: Gürültü, ısı, ışık, süre yetersizliği.\n\nHÂLE ETKİSİ: Öğrenci hakkındaki genel olumlu/olumsuz izlenimin puanlamayı etkilemesi. Önlemi: kâğıtların isimsiz okunması ve tüm kâğıtlarda aynı sorunun arka arkaya puanlanması."
+   },
+   {
+    "baslik": "Soru Türlerinin Karşılaştırılması",
+    "icerik": "ÇOKTAN SEÇMELİ:\n+ Kapsam geçerliği yüksek, puanlama objektif ve hızlı, güvenirliği yüksek\n− Hazırlaması zor ve uzun sürer, ŞANS BAŞARISI vardır, üst düzey beceri (sentez, yaratma) ölçmede sınırlıdır\nŞANS DÜZELTME: Düzeltilmiş puan = Doğru − Yanlış/(seçenek sayısı − 1). Beş seçenekli testte Doğru − Yanlış/4.\n\nDOĞRU-YANLIŞ:\n+ Kolay hazırlanır, kısa sürede çok soru sorulur\n− Şans başarısı %50, ezberi teşvik eder, kısmi bilgiyi ölçemez\n\nKISA YANIT / BOŞLUK DOLDURMA:\n+ Şans başarısı yok, hazırlaması kolay\n− Yalnız bilgi ve kavrama düzeyini ölçer, birden çok doğru cevap sorunu doğabilir\n\nEŞLEŞTİRME:\n+ Kısa sürede çok sayıda ilişkili bilgiyi ölçer\n− Yalnız bilgi düzeyi, öncül ve yanıt sayısı eşit olursa son eşleştirme zorunlu hâle gelir (sayılar eşit OLMAMALIDIR)\n\nAÇIK UÇLU (YAZILI) SINAV:\n+ Üst düzey düşünme, yaratıcılık ve ifade becerisini ölçer, şans başarısı yoktur\n− Kapsam geçerliği DÜŞÜK (az soru sorulur), puanlama öznel, okuması uzun sürer\nPuanlamayı iyileştirme: Cevap anahtarı hazırlamak, analitik rubrik kullanmak, birden çok puanlayıcı, isimsiz okuma.\n\nSÖZLÜ SINAV: Anında dönüt verilir, ifade becerisi ölçülür; ancak güvenirliği düşüktür ve kaygı yaratır."
+   }
+  ],
+  "puf": [
+   "Sabit hata güvenirliği bozmaz, geçerliği bozar; rastgele hata güvenirliği düşürür.",
+   "Eşleştirme sorularında öncül ve yanıt sayısı eşit olmamalıdır.",
+   "Açık uçlu sınavların kapsam geçerliği düşük, çoktan seçmelinin yüksektir.",
+   "Hâle etkisinin önlemi isimsiz okuma ve soru soru puanlamadır."
+  ]
+ },
+ "guvenirlik_gecerlik": {
+  "bolumler": [
+   {
+    "baslik": "Güvenirlik Hesaplama Yöntemleri",
+    "icerik": "TEST-TEKRAR TEST: Aynı test aynı gruba iki kez uygulanır, puanlar arasındaki korelasyona bakılır. DEĞİŞMEZLİK katsayısı verir.\nSakıncası: Hatırlama etkisi (aralık kısaysa) veya gerçek değişim (aralık uzunsa).\n\nEŞDEĞER (PARALEL) FORMLAR: İki eşdeğer test aynı gruba uygulanır. EŞDEĞERLİK katsayısı verir. En büyük güçlüğü gerçekten eşdeğer iki form hazırlamaktır.\n\nİKİ YARIYA BÖLME: Test tek-çift maddelere ayrılır, iki yarı arasındaki korelasyon bulunur, Spearman-Brown formülüyle tüm teste genellenir. Tek uygulama yeterlidir.\n\nKR-20 ve KR-21: İç tutarlılık ölçütüdür; maddeler 1-0 (doğru-yanlış) puanlanıyorsa kullanılır. KR-21 daha kısadır ama maddelerin güçlüğü eşitse doğru sonuç verir.\n\nCRONBACH ALFA: Maddeler çok değerli puanlanıyorsa (likert tipi tutum ölçekleri) kullanılır. 0,70 ve üzeri genelde kabul edilir.\n\nGÜVENİRLİĞİ ARTIRAN ETKENLER:\n• Soru sayısını artırmak (en etkili yol)\n• Soruların açık ve anlaşılır olması\n• Puanlamanın objektifleştirilmesi\n• Sınav süresinin yeterli olması\n• Grubun heterojen (puan dağılımının geniş) olması\n• Testin orta güçlükte olması\n\nGÜVENİRLİĞİ DÜŞÜREN: Çok kolay veya çok zor sorular, belirsiz ifadeler, kopya, öznel puanlama, homojen grup."
+   },
+   {
+    "baslik": "Madde Güçlüğü ve Ayırt Edicilik",
+    "icerik": "MADDE GÜÇLÜK İNDEKSİ (p): Maddeyi doğru yanıtlayanların oranı.\np = Doğru yanıtlayan sayısı / Toplam kişi sayısı\n• p → 1'e yakınsa madde KOLAY, 0'a yakınsa ZORDUR.\n• İdeal aralık 0,40 – 0,60; ortalama güçlük 0,50 civarında olmalıdır.\nDİKKAT: p büyüdükçe madde KOLAYLAŞIR — isim 'güçlük' olsa da yön terstir.\n\nMADDE AYIRT EDİCİLİK İNDEKSİ (r veya d):\nd = (Üst grup doğru sayısı − Alt grup doğru sayısı) / Grup kişi sayısı\nÜst ve alt %27'lik dilimler kullanılır.\n\nDEĞERLENDİRME ÖLÇÜTLERİ:\n• d ≥ 0,40 → Çok iyi madde, doğrudan kullanılır\n• 0,30 ≤ d < 0,40 → İyi, küçük düzeltmeyle kullanılır\n• 0,20 ≤ d < 0,30 → Düzeltilmesi gerekir\n• d < 0,20 → Testten çıkarılmalıdır\n• d NEGATİF → Alt grup üst gruptan daha başarılı demektir; cevap anahtarı yanlış olabilir ya da madde yanıltıcıdır. MUTLAKA çıkarılır.\n\nİLİŞKİ: Ayırt ediciliği en yüksek maddeler orta güçlükteki maddelerdir. Herkesin doğru yaptığı (p=1) veya herkesin yanlış yaptığı (p=0) maddenin ayırt ediciliği SIFIRDIR.\n\nVARYANS VE GÜVENİRLİK: Madde ayırt ediciliği arttıkça testin varyansı ve güvenirliği artar."
+   }
+  ],
+  "puf": [
+   "p büyüdükçe madde kolaylaşır; ideal güçlük 0,50 civarıdır.",
+   "Ayırt edicilik 0,20'nin altındaysa madde düzeltilir, negatifse çıkarılır.",
+   "Güvenirliği artırmanın en etkili yolu soru sayısını artırmaktır.",
+   "Herkesin doğru ya da herkesin yanlış yaptığı maddenin ayırt ediciliği sıfırdır."
+  ]
+ },
+ "degerlendirme_turleri": {
+  "bolumler": [
+   {
+    "baslik": "Rubrik ve Dereceleme Ölçekleri",
+    "icerik": "DERECELİ PUANLAMA ANAHTARI (RUBRİK): Performansın hangi ölçütlere göre, hangi düzeyde değerlendirileceğini önceden belirten araçtır. Öznelliği azaltır, öğrenciye ne beklendiğini gösterir.\n\n• BÜTÜNCÜL (HOLİSTİK) RUBRİK: Ürüne bir bütün olarak tek puan verilir. Hızlıdır ama ayrıntılı dönüt vermez. Genel izlenim yeterliyse kullanılır.\n• ANALİTİK RUBRİK: Her ölçüt ayrı ayrı puanlanır (içerik, dil, düzen, kaynak kullanımı…). Ayrıntılı dönüt sağlar, öğrencinin hangi boyutta zayıf olduğunu gösterir. Hazırlaması ve uygulaması daha uzun sürer.\nSEÇİM: Öğrenciye gelişim dönütü verilecekse ANALİTİK, çok sayıda ürün hızla değerlendirilecekse BÜTÜNCÜL.\n\nDERECELEME ÖLÇEĞİ: Bir özelliğin ne düzeyde gözlendiğini işaretler (her zaman – bazen – hiçbir zaman).\n\nKONTROL LİSTESİ: Davranışın var/yok biçiminde işaretlenmesidir. Derecelendirme yapmaz; basamaklı becerilerin sırayla yapılıp yapılmadığını izlemede kullanışlıdır.\n\nRUBRİK HAZIRLAMA İLKELERİ: Ölçütler gözlenebilir olmalı, düzeyler birbirinden açıkça ayrılmalı, ölçütler birbirinden bağımsız olmalı, öğrenciyle ÖNCEDEN paylaşılmalıdır.\n\nSIK SORULAN AYRIM: 'Var/yok işaretlendi' → kontrol listesi; 'sıklık derecesi işaretlendi' → dereceleme ölçeği; 'her ölçüte ayrı puan verildi' → analitik rubrik."
+   },
+   {
+    "baslik": "Portfolyo ve Performans Değerlendirme",
+    "icerik": "ÖĞRENCİ ÜRÜN DOSYASI (PORTFOLYO): Öğrencinin belirli bir sürede ürettiği çalışmaların, öğrencinin KENDİ seçimiyle ve gerekçesiyle bir araya getirildiği dosyadır.\nAmacı ürünü değil GELİŞİMİ göstermektir; ilk ve son çalışmaların karşılaştırılması esastır.\nİçermesi gerekenler: Öğrencinin seçim gerekçeleri, öz değerlendirme yazıları, öğretmen ve veli dönütleri, tarih sırasıyla düzenlenmiş çalışmalar.\nAvantajı: Süreç odaklıdır, öz değerlendirme becerisi geliştirir, sınav kaygısı yaratmaz.\nSınırlılığı: Zaman alır, puanlaması öznel olabilir, saklama ve düzenleme yükü getirir.\n\nPERFORMANS GÖREVİ: Gerçek yaşam durumunu yansıtan, üst düzey becerileri kullanmayı gerektiren, birden çok doğru çözümü olabilen görevdir. Rubrikle değerlendirilir.\n\nPROJE: Daha uzun sürelidir, araştırma gerektirir, hem süreç hem ürün değerlendirilir.\n\nTANILAYICI DALLANMIŞ AĞAÇ: Ardışık doğru-yanlış ifadelerle ilerlenir; hatanın NEREDE başladığı görülebilir. Kavram yanılgılarını saptamada güçlüdür.\n\nYAPILANDIRILMIŞ GRİD: Kutulardaki bilgiler sorulara göre seçilip sıralanır; eksik ve yanlış bağlantılar ortaya çıkar.\n\nKAVRAM HARİTASI: Kavramlar arası ilişkilerin şemalaştırılmasıdır; hem öğretim hem değerlendirme aracıdır.\n\nKELİME İLİŞKİLENDİRME: Anahtar kavramın çağrıştırdıkları yazdırılır; bilişsel yapının haritası çıkarılır."
+   }
+  ],
+  "puf": [
+   "Analitik rubrik ayrıntılı dönüt verir, bütüncül rubrik hızlıdır.",
+   "Portfolyonun amacı ürünü değil gelişimi göstermektir.",
+   "Kontrol listesi var/yok, dereceleme ölçeği sıklık düzeyi belirtir.",
+   "Tanılayıcı dallanmış ağaç hatanın nerede başladığını ortaya çıkarır."
+  ]
+ },
+ "i_statistik": {
+  "bolumler": [
+   {
+    "baslik": "Standart Puanlar ve Norm Karşılaştırma",
+    "icerik": "NEDEN STANDART PUAN? Farklı derslerin ham puanları doğrudan karşılaştırılamaz; ortalamaları ve standart sapmaları farklıdır. Standart puan, bireyin GRUP İÇİNDEKİ yerini gösterir.\n\nz PUANI: z = (Ham puan − Ortalama) / Standart sapma\n• z = 0 → Tam ortalama\n• z pozitif → ortalamanın üstünde, negatif → altında\n• Ortalaması 0, standart sapması 1'dir.\nÖRNEK: Ortalaması 60, ss 10 olan bir sınavda 75 alan öğrencinin z puanı = (75−60)/10 = 1,5\n\nT PUANI: T = 50 + 10·z\nOrtalaması 50, standart sapması 10'dur. Negatif ve ondalıklı değerlerden kurtulmak için kullanılır.\nz = 1,5 → T = 65\n\nNORMAL DAĞILIMDA YÜZDELER:\n• Ortalama ± 1 ss arasında → %68\n• Ortalama ± 2 ss arasında → %95\n• Ortalama ± 3 ss arasında → %99,7\nz = 1 olan öğrenci yaklaşık %84'lük dilimde yer alır.\n\nKARŞILAŞTIRMA MANTIĞI: Matematikten 70 (ort 60, ss 5 → z = 2) alan öğrenci, Türkçeden 80 (ort 70, ss 10 → z = 1) alandan grup içinde DAHA BAŞARILIDIR. Ham puan yanıltır.\n\nYÜZDELİK (PERSENTİL): Bireyin altında kalanların yüzdesidir. 80. persentil, kişinin grubun %80'inden yüksek olduğunu gösterir."
+   },
+   {
+    "baslik": "Grafikler ve Dağılımın Yorumlanması",
+    "icerik": "STANDART SAPMANIN ANLAMI: Puanların ortalamadan ne kadar uzağa yayıldığını gösterir.\n• Küçük ss → Grup HOMOJEN, puanlar birbirine yakın\n• Büyük ss → Grup HETEROJEN, puanlar dağınık\n• ss = 0 → Herkes aynı puanı almış\nGüvenirlik açısından heterojen grup avantajlıdır; homojen grupta ayırt etme zorlaşır.\n\nRANJ (DİZİ GENİŞLİĞİ) = En büyük puan − En küçük puan. Yalnız iki uç değere baktığı için aşırı değerlerden çok etkilenir; kaba bir ölçüttür.\n\nMERKEZİ EĞİLİM ÖLÇÜTLERİNİN SEÇİMİ:\n• Dağılım simetrikse → üçü de birbirine eşittir, ortalama kullanılır.\n• AŞIRI (uç) DEĞER varsa → ORTANCA daha güvenilirdir; ortalama uç değerden etkilenir.\n• Veri sözel/kategorikse → yalnız TEPE DEĞER (mod) kullanılabilir.\n\nÇARPIKLIK:\n• SAĞA ÇARPIK (pozitif): Kuyruk sağdadır, çoğu öğrenci DÜŞÜK puan almıştır → sınav ZORDUR.\n  Sıralama: Mod < Ortanca < Ortalama\n• SOLA ÇARPIK (negatif): Kuyruk soldadır, çoğu öğrenci YÜKSEK puan almıştır → sınav KOLAYDIR.\n  Sıralama: Ortalama < Ortanca < Mod\nEZBER KISAYOLU: Ortalama daima kuyruğun olduğu yöndedir.\n\nKORELASYON YORUMU: r = +1 tam pozitif, r = −1 tam negatif, r = 0 ilişki yok. Korelasyon NEDENSELLİK göstermez; iki değişkenin birlikte değişmesi birinin diğerine yol açtığı anlamına gelmez."
+   }
+  ],
+  "puf": [
+   "z = (ham puan − ortalama)/ss; T = 50 + 10z.",
+   "Sağa çarpık dağılımda sınav zordur: mod < ortanca < ortalama.",
+   "Uç değer varsa ortalama yerine ortanca kullanılır.",
+   "Korelasyon nedensellik göstermez, yalnız birlikte değişimi gösterir."
+  ]
+ },
+ "davranis_yonetimi": {
+  "bolumler": [
+   {
+    "baslik": "Sınıf Kuralları ve Önleyici Yönetim",
+    "icerik": "KURAL BELİRLEME İLKELERİ:\n• Kurallar öğrencilerle BİRLİKTE belirlenmelidir; katılım benimsemeyi artırır.\n• OLUMLU dille yazılmalıdır ('Koşmayınız' yerine 'Sınıfta yürüyerek dolaşırız').\n• Az sayıda (5–7) ve açık olmalıdır.\n• Dönem başında belirlenip görünür yere asılmalıdır.\n• Tutarlı biçimde uygulanmalıdır; bir kez esneyen kural etkisini yitirir.\n\nKUNIN'İN ÖNLEYİCİ KAVRAMLARI (en çok sorulan başlıklar):\n• ULUORTALIK (withitness): Öğretmenin sınıfta olup biten her şeyden haberdar olması; öğrenciler 'arkamdaki gözü var' hissiyle sorun çıkarmaz.\n• AYNI ANDA İKİ İŞ YAPABİLME (overlapping): Bir öğrenciyle ilgilenirken sınıfın geri kalanını da yönetebilme.\n• DALGA ETKİSİ (ripple effect): Bir öğrenciye yapılan uyarının diğerlerini de etkilemesi.\n• GRUP CANLILIĞI ve HESAP SORULABİLİRLİK: Tüm öğrencilerin her an katılabileceğini bilmesi.\n• DERSİN AKICILIĞI: Gereksiz kesintilerin, konudan sapmaların ve 'aşırı ayrıntıya boğma'nın önlenmesi.\n\nGEÇİŞLERİ YÖNETME: İstenmeyen davranışların çoğu etkinlik geçişlerinde doğar. Önceden yönerge vermek, materyali hazır bulundurmak ve rutin oluşturmak sorunları kaynağında keser.\n\nÖNLEYİCİ YAKLAŞIMIN İLKESİ: Sınıf yönetiminin en etkili biçimi sorun çıktıktan sonra müdahale değil, sorunun çıkmasını ENGELLEYEN düzenlemedir. İyi planlanmış ve akıcı bir ders, disiplin sorunlarının en güçlü panzehiridir."
+   },
+   {
+    "baslik": "İstenmeyen Davranışa Müdahale Sırası",
+    "icerik": "KADEMELİ MÜDAHALE (hafiften şiddetliye — sırası sorularda önemlidir):\n1. GÖRMEZDEN GELME: Dikkat çekmek için yapılan ve yayılmayan küçük davranışlarda ilk seçenektir.\n2. SÖZSÜZ UYARI: Göz teması, jest, öğrencinin yanına yaklaşma (fiziksel yakınlık). Ders akışını bozmaz.\n3. DOLAYLI SÖZEL UYARI: Öğrencinin adını ders içinde anmak, soru sormak.\n4. DOĞRUDAN SÖZEL UYARI: Davranışı açıkça belirtip durdurmasını istemek.\n5. KURAL HATIRLATMA ve SONUÇ BİLDİRME: 'Kuralımız neydi?'\n6. BİREYSEL GÖRÜŞME: Ders dışında, öğrenciyle baş başa, davranışın nedenini anlamaya yönelik.\n7. VELİ ve REHBERLİK SERVİSİ İŞ BİRLİĞİ.\n8. İDARİ İŞLEM: En son başvurulacak yoldur.\n\nTEMEL KURAL: Müdahale, davranışı durdurmak için YETERLİ OLAN EN HAFİF düzeyde olmalıdır. Küçük bir davranışa ağır tepki vermek dersi bozar ve öğretmen-öğrenci ilişkisini zedeler.\n\nDAVRANIŞ DEĞİŞTİRME TEKNİKLERİ:\n• OLUMSUZ DAVRANIŞIN ALTERNATİFİNİ PEKİŞTİRME: İstenmeyenin yerine geçen olumlu davranışı ödüllendirme.\n• MOLA (TIME-OUT): Öğrencinin pekiştireçten kısa süreli uzaklaştırılması.\n• TELAFİ (ONARIM): Verilen zararın öğrenci tarafından giderilmesi.\n• SİMGESEL ÖDÜL (jeton biriktirme): Puan/jeton toplayıp ayrıcalıkla değiştirme.\n• DAVRANIŞ SÖZLEŞMESİ: Öğrenciyle yazılı, ölçülebilir hedefler üzerinde anlaşma.\n\nDİKKAT EDİLECEK: Öğrencinin KİŞİLİĞİ değil DAVRANIŞI eleştirilmelidir ('Tembelsin' değil, 'Bu ödevi teslim etmedin'). Ceza asla toplu (tüm sınıfa) verilmemeli, alay ve aşağılama kullanılmamalıdır."
+   }
+  ],
+  "puf": [
+   "Kurallar olumlu dille, öğrencilerle birlikte ve az sayıda belirlenmelidir.",
+   "Müdahale davranışı durduracak en hafif düzeyde olmalıdır.",
+   "Uluortalık öğretmenin sınıfta olan biten her şeyden haberdar olmasıdır.",
+   "Kişilik değil davranış eleştirilir; ceza toplu verilmez."
+  ]
+ },
+ "yonetim_modelleri": {
+  "bolumler": [
+   {
+    "baslik": "Örgüt Kuramları — Klasik, Neoklasik, Modern",
+    "icerik": "KLASİK (GELENEKSEL) KURAM: İnsanı makinenin uzantısı sayar, verimliliğe odaklanır. Biçimsel (formal) yapı esastır.\n• BİLİMSEL YÖNETİM (Taylor): İş analizi, zaman-hareket etüdü, parça başı ücret, en iyi tek yol.\n• YÖNETİM SÜRECİ (Fayol): Yönetimin işlevleri — planlama, örgütleme, emir verme, koordinasyon, denetim. On dört yönetim ilkesi.\n• BÜROKRASİ (Weber): Yasal-akılcı otorite, hiyerarşi, yazılı kurallar, liyakate dayalı atama, kişisellikten uzaklık, kariyer.\nELEŞTİRİ: İnsanın duygusal ve sosyal yönünü yok sayar.\n\nNEOKLASİK (İNSAN İLİŞKİLERİ) KURAMI:\n• HAWTHORNE ARAŞTIRMALARI (Mayo): Fiziksel koşullardan çok İLGİ ve sosyal ilişkiler verimi artırır. 'Hawthorne etkisi' gözlendiğini bilmenin performansı yükseltmesidir.\n• DOĞAL (İNFORMAL) ÖRGÜT keşfedildi: Yazılı olmayan gruplar, normlar ve liderler.\n• McGREGOR X-Y KURAMI: X insanı tembeldir, denetlenmeli; Y insanı çalışmayı sever, sorumluluk alır.\n• ARGYRIS OLGUNLAŞMA KURAMI: Katı örgüt yapısı bireyin olgunlaşmasını engeller.\n\nMODERN KURAMLAR:\n• SİSTEM YAKLAŞIMI: Girdi – süreç – çıktı – DÖNÜT. Örgüt çevresiyle etkileşen AÇIK bir sistemdir; parçalar birbirine bağlıdır.\n• DURUMSALLIK (KOŞUL BAĞIMLILIK) YAKLAŞIMI: 'En iyi tek yol yoktur'; en uygun yapı duruma, çevreye ve teknolojiye göre değişir.\n• Z KURAMI (Ouchi): Japon yönetim anlayışı — uzun süreli istihdam, ortak karar, güven ve bütüncül ilgi."
+   },
+   {
+    "baslik": "Türk Eğitim Sisteminin Yapısı",
+    "icerik": "MERKEZÎ YAPI: Türk eğitim sistemi merkezden yönetilir; program, atama ve denetim yetkisi büyük ölçüde Millî Eğitim Bakanlığındadır.\n\nTEMEL İLKELER (1739 sayılı Millî Eğitim Temel Kanunu):\n• Genellik ve eşitlik  • Ferdin ve toplumun ihtiyaçları  • Yöneltme\n• Eğitim hakkı  • Fırsat ve imkân eşitliği  • Süreklilik\n• Atatürk İlke ve İnkılapları  • Demokrasi eğitimi  • Laiklik\n• Bilimsellik  • Planlılık  • Karma eğitim  • Okul ile ailenin iş birliği\n• Her yerde eğitim\n\nÖRGÜN VE YAYGIN EĞİTİM:\n• ÖRGÜN EĞİTİM: Okul öncesi, ilkokul, ortaokul, ortaöğretim ve yükseköğretim. Belirli yaş grubuna, okulda, program bütünlüğü içinde verilir.\n• YAYGIN EĞİTİM: Örgün eğitim yanında veya dışında; halk eğitim merkezleri, kurslar, çıraklık eğitimi.\n\nMERKEZÎ YAPININ ELEŞTİRİLERİ: Yerel ihtiyaçlara duyarsızlık, karar sürecinin yavaşlığı, öğretmenin sınırlı özerkliği. Çözüm önerisi olarak YETKİ DEVRİ ve okul temelli yönetim tartışılır.\n\nOKUL YÖNETİMİNDE GÜNCEL KAVRAMLAR:\n• ÖĞRENEN ÖRGÜT (Senge): Sürekli öğrenen, kendini yenileyen okul. Beş disiplin: kişisel ustalık, zihnî modeller, paylaşılan vizyon, takım hâlinde öğrenme, sistem düşüncesi.\n• TOPLAM KALİTE YÖNETİMİ: Sürekli iyileştirme, müşteri (öğrenci-veli) odaklılık, süreç yönetimi, tüm çalışanların katılımı.\n• ÖRGÜT KÜLTÜRÜ VE İKLİMİ: Kültür paylaşılan değer ve varsayımlar; iklim ise bunların çalışanlarca ALGILANMA biçimidir."
+   }
+  ],
+  "puf": [
+   "Hawthorne araştırmaları informal örgütü ve ilginin verime etkisini ortaya çıkardı.",
+   "Durumsallık yaklaşımına göre en iyi tek bir yönetim biçimi yoktur.",
+   "Weber'in bürokrasisinde otorite yasal-akılcıdır, atama liyakate dayanır.",
+   "Örgüt kültürü paylaşılan değerler, iklim ise bunların algılanış biçimidir."
+  ]
+ },
+ "i_letisim": {
+  "bolumler": [
+   {
+    "baslik": "Ben Dili, Sen Dili ve Etkin Dinleme",
+    "icerik": "SEN DİLİ: Karşıdakini suçlar, yargılar, etiketler. Savunmaya iter ve iletişimi kapatır.\n'Hiç dinlemiyorsun', 'Çok tembelsin', 'Yine geç kaldın'\n\nBEN DİLİ: Davranışın kendisini, bendeki etkisini ve duygumu anlatır; kişiliği hedef almaz.\nÜÇ ÖGESİ: 1) Davranışın nesnel betimlemesi, 2) Davranışın somut etkisi, 3) Duyulan duygu.\nÖRNEK: 'Derste konuşulduğunda (davranış) anlatımı sürdüremiyorum (etki) ve bu beni kaygılandırıyor (duygu).'\nDİKKAT: 'Senin yüzünden üzülüyorum' ben diliyle BAŞLAMAZ; içinde suçlama olduğu için sen dilidir. Cümlenin 'ben' ile başlaması yetmez, suçlama içermemesi gerekir.\n\nETKİN (EMPATİK) DİNLEME: Konuşanın hem içeriğini hem duygusunu anlamaya çalışmak, anladığını göstermek.\nGÖSTERGELERİ: Göz teması, söz kesmeme, başını sallama, açık uçlu soru sorma.\n• YANSITMA: Duyguyu adlandırıp geri verme ('Bu durum seni üzmüş görünüyor').\n• ÖZETLEME: Söylenenleri kendi sözcükleriyle toparlama.\n• AÇIMLAMA: Ayrıntı isteyerek konuşanı sürdürmeye davet etme.\n\nSEMPATİ – EMPATİ FARKI: Empati karşıdakinin yerine geçip onun dünyasından bakmak ve ANLAMAKTIR; sempati ise ona hak vermek ve taraf olmaktır. Empatide öğretmen kendi kimliğini yitirmez."
+   },
+   {
+    "baslik": "Sözsüz İletişim ve Öğretmen Davranışları",
+    "icerik": "SÖZSÜZ İLETİŞİMİN AĞIRLIĞI: İletişimde mesajın anlamının büyük bölümü sözcüklerden değil ses tonu, vurgu, mimik ve beden dilinden gelir. Söz ile beden dili çeliştiğinde karşı taraf BEDEN DİLİNE inanır.\n\nÖGELERİ:\n• MİMİKLER VE YÜZ İFADESİ: Duygunun en hızlı okunduğu kanaldır.\n• GÖZ TEMASI: İlgi ve içtenlik gösterir; sınıfın tümüyle dönüşümlü kurulmalıdır.\n• BEDEN DURUŞU: Kollarını kavuşturmak kapalılık, öne eğilmek ilgi işaretidir.\n• MEKÂN KULLANIMI (proksemik): Öğretmenin sınıfta dolaşması dikkati canlı tutar ve istenmeyen davranışı önler.\n• ZAMAN KULLANIMI (kronemik): Derse zamanında başlamak saygı iletisidir.\n• PARADİL: Ses tonu, hızı, şiddeti, duraklamalar. Aynı cümle farklı tonla farklı anlam taşır.\n\nİLETİŞİM ENGELLERİ (Gordon'un 12 engeli):\nEmir verme, uyarma-tehdit, ahlak dersi verme, öğüt verme-çözüm önerme, nutuk çekme, yargılama-eleştirme, ad takma-alay etme, tanı koyma-yorumlama, övme, güven verme-avutma, soru sorma-sınama, konuyu değiştirme-şakaya vurma.\nDİKKAT: ÖVME de bir iletişim engelidir — abartılı ve kişiliğe yönelik övgü baskı yaratır ve içtenliği azaltır.\n\nGERİ BİLDİRİM İLKELERİ: Zamanında, betimleyici (yargılayıcı değil), davranışa yönelik, değiştirilebilir bir konuda ve karşı taraf istediğinde verilmelidir.\n\nGÜRÜLTÜ (ENGEL) TÜRLERİ: Fiziksel (ses, ışık), fizyolojik (yorgunluk, işitme güçlüğü), psikolojik (önyargı, kaygı) ve semantik (sözcüğün farklı anlaşılması)."
+   }
+  ],
+  "puf": [
+   "Ben dili davranışı, etkisini ve duyguyu anlatır; suçlama içeriyorsa sen dilidir.",
+   "Söz ile beden dili çelişirse karşı taraf beden diline inanır.",
+   "Empati anlamak, sempati taraf olmaktır.",
+   "Gordon'a göre abartılı övme de bir iletişim engelidir."
+  ]
+ },
+ "psikolojik_danisma": {
+  "bolumler": [
+   {
+    "baslik": "Rehberlikte Temel İlkeler ve Yanlış Anlamalar",
+    "icerik": "TEMEL İLKELER:\n• İnsan onuruna ve HAKLARINA saygı esastır.\n• Rehberlik TÜM öğrencilere yöneliktir; yalnız sorunlu öğrencilere değil.\n• Gönüllülük esastır; zorlayarak danışma yapılmaz.\n• GİZLİLİK esastır. İstisnası: Kişinin kendine ya da başkasına zarar verme riski varsa ve yasal zorunluluk hâllerinde gizlilik sınırlanır.\n• Bireysel farklılıklara saygı gösterilir.\n• Süreklilik ve gelişimsellik esastır; bir seferlik etkinlik değildir.\n• İş birliği gerektirir: Yönetici, öğretmen, veli ve danışman birlikte çalışır.\n• Öğrencinin KENDİ kararını vermesi esastır; danışman karar vermez, seçenekleri görünür kılar.\n\nSIK SORULAN YANLIŞ ANLAMALAR (soruda 'yanlıştır' diye sorulanlar):\n• Rehberlik öğüt vermek DEĞİLDİR.\n• Rehberlik yargılamak, suçlamak veya cezalandırmak DEĞİLDİR.\n• Rehberlik öğrenci adına karar vermek DEĞİLDİR.\n• Rehberlik acil ve tek seferlik bir yardım DEĞİLDİR.\n• Rehberlik yalnızca akademik başarıyı artırma çabası DEĞİLDİR.\n• Rehberlik bir ayrıcalık ya da ödül DEĞİLDİR.\n\nREHBERLİK – PSİKOLOJİK DANIŞMA – PSİKOTERAPİ FARKI:\n• REHBERLİK: Bilgi verme ve gelişimsel destek; geniş kitleye açık.\n• PSİKOLOJİK DANIŞMA: Bireyin kendini anlaması ve karar vermesi; normal gelişim sorunları.\n• PSİKOTERAPİ: Ciddi ruhsal bozukluklarda uzman hekim/klinik psikolog alanı. Okul rehber öğretmeninin görev alanı DIŞINDADIR — böyle bir durumda YÖNLENDİRME (sevk) yapılır."
+   },
+   {
+    "baslik": "Danışma Kuramlarının Odakları",
+    "icerik": "BİREY MERKEZLİ (Rogers): Danışan kendi çözümünü bulabilecek kapasitededir. Danışmanın üç temel tutumu:\n• KOŞULSUZ KABUL (şartsız olumlu saygı)\n• EMPATİK ANLAYIŞ\n• SAYDAMLIK (içtenlik / kendi olma)\nDanışman yönlendirmez; güvenli ortam sağlar. YÖNLENDİRİCİ OLMAYAN yaklaşımdır.\n\nDAVRANIŞÇI YAKLAŞIM: Sorun öğrenilmiş davranıştır, yeniden öğrenilerek değiştirilir. Teknikleri: Sistematik duyarsızlaştırma (kaygı hiyerarşisi), model alma, pekiştirme, davranış sözleşmesi, jeton ekonomisi.\n\nBİLİŞSEL-DAVRANIŞÇI (Ellis — Akılcı Duygusal Davranışçı Terapi):\nA-B-C MODELİ: A = olay, B = kişinin İNANCI, C = duygusal sonuç. Sorunu doğuran olayın kendisi değil, ona yüklenen AKILCI OLMAYAN inançtır ('Herkes beni sevmeli', 'Asla hata yapmamalıyım'). Bu inançlar tartışılarak (D) değiştirilir.\n\nBECK — BİLİŞSEL TERAPİ: Otomatik olumsuz düşünceler ve bilişsel çarpıtmalar (aşırı genelleme, felaketleştirme, ya hep ya hiç düşüncesi) belirlenip sınanır.\n\nGERÇEKLİK TERAPİSİ (Glasser): Odak SORUMLULUKTUR. Geçmiş ve bahaneler konuşulmaz; 'Şu an ne yapıyorsun, bu davranış istediğini veriyor mu?' sorusu esastır. Okul ortamına en uygun kuramlardan biridir.\n\nPSİKANALİTİK (Freud): Bilinçdışı çatışmalar ve çocukluk yaşantıları; serbest çağrışım, rüya analizi, direnç ve aktarımın çözümlenmesi.\n\nAYIRT EDİCİ SORU: 'İnancı sorgulanıyorsa' Ellis; 'sorumluluk ve şimdi vurgusu varsa' Glasser; 'koşulsuz kabul varsa' Rogers; 'kaygı hiyerarşisi varsa' davranışçıdır."
+   }
+  ],
+  "puf": [
+   "Rehberlik tüm öğrencilere yöneliktir ve öğüt vermek değildir.",
+   "Gizlilik esastır; kendine ya da başkasına zarar riski varsa sınırlanır.",
+   "Rogers'ın üç koşulu: koşulsuz kabul, empati, saydamlık.",
+   "Ellis'te sorunu doğuran olay değil, ona yüklenen akılcı olmayan inançtır."
+  ]
+ },
+ "rehberlik_turleri": {
+  "bolumler": [
+   {
+    "baslik": "Bireyi Tanıma Teknikleri",
+    "icerik": "TEST DIŞI TEKNİKLER (okul rehberliğinde en çok kullanılanlar):\n• GÖZLEM: Doğal ortamda davranışın izlenmesi. Anekdot kaydı, davranışın yorum katılmadan olduğu gibi yazılmasıdır.\n• GÖRÜŞME: Yapılandırılmış, yarı yapılandırılmış veya serbest olabilir.\n• OTOBİYOGRAFİ: Öğrencinin kendi yaşamını yazması; iç dünyasına erişim sağlar.\n• PROBLEM TARAMA LİSTESİ: Öğrencinin yaşadığı güçlükleri işaretlediği liste; sınıfın genel sorun haritasını çıkarır.\n• KİMDİR BU: Bir özelliği tanımlayan ifadeye uyan arkadaşın adının yazılması. Akran algısını ölçer.\n• SOSYOMETRİ: 'Kiminle çalışmak istersin?' sorusuyla grup içi ilişkilerin haritası çıkarılır. Sonuç SOSYOGRAM ile gösterilir.\n  – YILDIZ: En çok seçilen öğrenci\n  – TERK EDİLMİŞ (ihmal edilen): Hiç seçilmeyen\n  – REDDEDİLEN: Olumsuz seçim alan\n  – KÜME/KLİK: Birbirini karşılıklı seçen kapalı grup\n• SOSYAL UZAKLIK ÖLÇEĞİ: Kişilere karşı hissedilen yakınlık derecesi ölçülür.\n• ZAMAN ÇİZELGESİ: Öğrencinin gününü nasıl geçirdiği; çalışma alışkanlığı sorunlarında kullanılır.\n• VAK'A (OLAY) İNCELEMESİ: Bir öğrenci hakkında tüm bilgilerin bir araya getirilip bütüncül değerlendirilmesi. EN KAPSAMLI tekniktir.\n• VAK'A KONFERANSI: İlgili kişilerin (öğretmen, danışman, yönetici) bir araya gelip öğrenciyi görüşmesi.\n\nTEST TEKNİKLERİ: Yetenek testleri, ilgi envanterleri, kişilik testleri, başarı testleri. Uygulanması ve yorumlanması UZMANLIK gerektirir."
+   },
+   {
+    "baslik": "Gelişimsel Rehberlik ve Program Anlayışı",
+    "icerik": "KAPSAMLI GELİŞİMSEL REHBERLİK PROGRAMI: Günümüzde benimsenen anlayıştır. Sorun çıkmadan önce, tüm öğrencilere, planlı ve programlı biçimde sunulur.\n\nDÖRT HİZMET BOYUTU:\n• REHBERLİK MÜFREDATI: Tüm öğrencilere sınıf etkinlikleriyle verilen gelişimsel kazanımlar.\n• BİREYSEL PLANLAMA: Öğrencinin eğitsel ve mesleki geleceğini planlaması.\n• MÜDAHALE HİZMETLERİ: Sorun yaşayan öğrenciye bireysel veya grupla danışma.\n• SİSTEM DESTEĞİ: Program yönetimi, veli ve öğretmen eğitimi, iş birliği.\n\nİŞLEVİNE GÖRE REHBERLİK:\n• GELİŞİMSEL: Tüm öğrencilerin sağlıklı gelişimi (esas anlayış budur).\n• ÖNLEYİCİ: Riskli durumlar oluşmadan tedbir alma (bağımlılıktan korunma, akran zorbalığı semineri).\n• İYİLEŞTİRİCİ (ÇARE BULUCU): Var olan sorunun giderilmesi.\n• UYUM SAĞLAYICI: Yeni ortama alışma (okula yeni başlayanlar, nakil gelen öğrenci).\n• YÖNELTİCİ: Uygun alan, dal veya mesleğe yönlendirme.\n• TAMAMLAYICI: Eğitimin diğer hizmetlerini bütünleme.\n\nBİREY SAYISINA GÖRE: Bireysel rehberlik ve grup rehberliği.\nÖĞRETİM KADEMESİNE GÖRE: Okul öncesi (uyum ve temel beceriler), ilkokul (alışkanlık ve öz bakım), ortaokul (kendini tanıma, ergenlik), ortaöğretim (alan-meslek seçimi, sınav kaygısı), yükseköğretim (kariyer ve iş yaşamı).\n\nDİKKAT: Okul öncesi ve ilkokulda rehberliğin ağırlığı UYUM ve GELİŞİMSEL desteğe; ortaöğretimde MESLEKİ yöneltmeye kayar."
+   }
+  ],
+  "puf": [
+   "Sosyometride hiç seçilmeyen 'terk edilmiş', olumsuz seçilen 'reddedilen'dir.",
+   "Vak'a incelemesi bireyi tanımada en kapsamlı tekniktir.",
+   "Günümüzün esas anlayışı kapsamlı gelişimsel rehberliktir.",
+   "Anekdot kaydında yorum yapılmaz; davranış olduğu gibi yazılır."
+  ]
+ },
+ "ozel_egitim": {
+  "bolumler": [
+   {
+    "baslik": "Öğrenme Güçlükleri ve Dikkat Eksikliği",
+    "icerik": "ÖZEL ÖĞRENME GÜÇLÜĞÜ: Zekâsı normal ya da üstü olduğu hâlde okuma, yazma veya matematikte beklenenin belirgin biçimde altında kalma durumudur. Zihinsel yetersizlikten farklıdır — genel zekâ normaldir, belirli bir alanda güçlük vardır.\n• DİSLEKSİ: Okuma güçlüğü. Harf ve hece atlama, ters okuma (b-d, 6-9 karıştırma), yavaş ve hatalı okuma.\n• DİSGRAFİ: Yazma güçlüğü. Okunaksız yazı, satır takip edememe, harf boyutlarında düzensizlik.\n• DİSKALKULİ: Matematik güçlüğü. Sayı kavramı, işlem sırası ve ritmik sayma güçlüğü.\n\nÖĞRETİMSEL UYARLAMALAR: Çok duyulu öğretim, süre uzatımı, sözlü sınav seçeneği, yönergeleri parçalama, okunaklı ve seyrek dizgili materyal, sesli kitap kullanımı.\n\nDİKKAT EKSİKLİĞİ VE HAREKETLİLİK: Dikkati sürdürememe, ayrıntıları atlama, yerinde duramama, sırasını bekleyememe, düşünmeden davranma.\nSINIF DÜZENLEMESİ: Öğretmene yakın ve pencereden uzak oturtma, görevleri kısa parçalara bölme, sık ve anında dönüt verme, hareket içeren görevler verme (tahtayı silme, kâğıt dağıtma), yönergeleri göz teması kurarak tek tek verme.\n\nÜSTÜN YETENEKLİLER: Yaşıtlarına göre üst düzey performans gösteren öğrencilerdir.\n• ZENGİNLEŞTİRME: Aynı sınıfta daha derin ve geniş içerik sunma (yaygın olarak tercih edilir).\n• HIZLANDIRMA: Üst sınıfa atlama veya bazı dersleri erken alma.\n• GRUPLAMA: Benzer düzeydeki öğrencilerin belirli etkinliklerde bir araya getirilmesi.\nDİKKAT: Üstün yetenekli öğrenciye yalnız 'daha çok soru' vermek zenginleştirme DEĞİLDİR; içeriğin derinleşmesi ve karmaşıklaşması gerekir."
+   },
+   {
+    "baslik": "Kaynaştırma Uygulamaları ve BEP Süreci",
+    "icerik": "EN AZ KISITLAYICI ORTAM İLKESİ: Özel gereksinimli öğrenci, gereksinimlerinin karşılanabildiği ölçüde akranlarıyla AYNI ortamda eğitim almalıdır. Ayrıştırma en son seçenektir.\n\nORTAM SIRALAMASI (en az kısıtlayıcıdan en çoğa):\nTam zamanlı genel eğitim sınıfı → Destek eğitim odasıyla birlikte genel sınıf → Yarı zamanlı özel sınıf → Tam zamanlı özel sınıf → Özel eğitim okulu → Yatılı özel eğitim kurumu → Evde/hastanede eğitim\n\nDESTEK EĞİTİM ODASI: Kaynaştırma öğrencisinin ihtiyaç duyduğu derslerde, günün belirli saatlerinde birebir ya da küçük grupla ek eğitim aldığı odadır.\n\nBEP (BİREYSELLEŞTİRİLMİŞ EĞİTİM PROGRAMI):\nİçeriği: Öğrencinin mevcut performans düzeyi, uzun ve kısa dönemli amaçlar, sunulacak hizmetler ve süreleri, başlama-bitiş tarihleri, değerlendirme ölçütleri ve zamanı.\nBEP GELİŞTİRME BİRİMİ: Okul yöneticisi (başkan), rehber öğretmen, sınıf/branş öğretmeni, özel eğitim öğretmeni, VELİ ve gerektiğinde ÖĞRENCİNİN KENDİSİ. Velinin katılımı zorunludur.\nBEP en az yılda bir kez GÖZDEN GEÇİRİLİR ve gerekirse güncellenir.\n\nBÜTÜNLEŞTİRME (INCLUSION) ANLAYIŞI: Öğrencinin ortama uyum sağlaması değil, ORTAMIN öğrenciye göre düzenlenmesi esastır. Fiziksel erişilebilirlik, materyal uyarlaması ve akran kabulünü sağlayıcı sınıf iklimi bu anlayışın gereğidir.\n\nÖNEMLİ AYRIM: Kaynaştırmada program AYNI kalır, uyarlama yapılır; özel eğitim sınıfında program da farklılaşabilir."
+   }
+  ],
+  "puf": [
+   "Özel öğrenme güçlüğünde genel zekâ normaldir; zihinsel yetersizlikten farklıdır.",
+   "En az kısıtlayıcı ortam ilkesi kaynaştırmanın temelidir.",
+   "BEP geliştirme birimine velinin katılımı zorunludur.",
+   "Üstün yetenekliye çok soru vermek zenginleştirme değildir; içerik derinleşmelidir."
+  ]
+ }
+}

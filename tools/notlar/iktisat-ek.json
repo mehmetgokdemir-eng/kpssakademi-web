@@ -1,26 +1,6 @@
-[
- {
-  "konuId": "mikro_i_ktisat",
-  "dersId": "iktisat",
-  "baslik": "Mikro İktisat",
-  "ozet": "Arz-talep, esneklik, tüketici ve üretici dengesi, piyasa türleri.",
+{
+ "mikro_i_ktisat": {
   "bolumler": [
-   {
-    "baslik": "Arz ve Talep",
-    "icerik": "TALEP KANUNU: Fiyat ↑ → talep miktarı ↓ (ters yönlü). Talep eğrisi NEGATİF eğimlidir.\nARZ KANUNU: Fiyat ↑ → arz miktarı ↑ (aynı yönlü). Arz eğrisi POZİTİF eğimlidir.\n\n⚠ TEMEL AYRIM:\n• TALEP MİKTARINDA DEĞİŞME: Sadece FİYAT değişirse — eğri ÜZERİNDE hareket.\n• TALEPTE DEĞİŞME: Fiyat DIŞI faktör değişirse — eğri KAYAR.\n\nTALEBİ ETKİLEYEN FİYAT DIŞI FAKTÖRLER: Gelir, zevk-tercih, ilgili mal fiyatları, nüfus, beklentiler.\n\nMAL TÜRLERİ:\n• NORMAL MAL: Gelir ↑ → talep ↑\n• DÜŞÜK (FAKİR) MAL: Gelir ↑ → talep ↓\n• İKAME MAL: Birinin fiyatı ↑ → diğerinin talebi ↑ (çay-kahve)\n• TAMAMLAYICI MAL: Birinin fiyatı ↑ → diğerinin talebi ↓ (araba-benzin)\n• GIFFEN MALI: Fiyat ↑ → talep ↑ (talep kanununa istisna)"
-   },
-   {
-    "baslik": "Esneklik",
-    "icerik": "TALEBİN FİYAT ESNEKLİĞİ = (%Δ talep miktarı) / (%Δ fiyat)\n\n• |E| > 1 → ESNEK talep (lüks mallar). Fiyat ↓ → TOPLAM HASILAT ↑\n• |E| < 1 → ESNEK OLMAYAN (katı) talep (zorunlu mallar: ekmek, ilaç). Fiyat ↑ → TOPLAM HASILAT ↑\n• |E| = 1 → BİRİM esnek. Hasılat değişmez.\n• E = 0 → TAM ESNEK OLMAYAN (dikey eğri)\n• E = ∞ → TAM ESNEK (yatay eğri)\n\nESNEKLİĞİ ETKİLEYEN FAKTÖRLER: İkame malların varlığı (çoksa esneklik artar), malın zorunlu/lüks olması, gelirdeki payı, zaman (uzun dönemde esneklik artar).\n\nDİĞER ESNEKLİKLER:\n• GELİR ESNEKLİĞİ: Pozitifse normal mal, negatifse düşük mal.\n• ÇAPRAZ ESNEKLİK: Pozitifse ikame, negatifse tamamlayıcı mal."
-   },
-   {
-    "baslik": "Tüketici ve Üretici Dengesi",
-    "icerik": "TÜKETİCİ DENGESİ:\n• FAYDA: Toplam fayda (TU) ve marjinal fayda (MU)\n• AZALAN MARJİNAL FAYDA YASASI (Gossen I): Tüketim arttıkça her ek birimin faydası azalır.\n• Toplam fayda maksimumken MARJİNAL FAYDA SIFIRDIR.\n• DENGE KOŞULU: MUx/Px = MUy/Py (harcanan son liranın faydası eşitlenir)\n• KAYITSIZLIK (FARKSIZLIK) EĞRİSİ: Aynı faydayı veren mal bileşimleri. Orijine dışbükeydir, kesişmez.\n• BÜTÇE DOĞRUSU: Gelir kısıtı. Denge, bütçe doğrusunun kayıtsızlık eğrisine TEĞET olduğu noktadır.\n\nÜRETİCİ DENGESİ:\n• AZALAN VERİMLER YASASI: Sabit girdiye değişken girdi eklendikçe marjinal ürün azalır.\n• MALİYETLER: TC = TFC + TVC; AC = TC/Q; MC = ΔTC/ΔQ\n• MC eğrisi, AC ve AVC eğrilerini EN DÜŞÜK noktalarından keser.\n• KÂR MAKSİMİZASYONU: MR = MC"
-   },
-   {
-    "baslik": "Piyasa Türleri",
-    "icerik": "• TAM REKABET PİYASASI:\n  Çok sayıda alıcı-satıcı, HOMOJEN mal, serbest giriş-çıkış, tam bilgi.\n  Firma FİYAT ALICIDIR (price taker). Talep eğrisi YATAY.\n  P = MR = AR. Uzun dönemde firma NORMAL KÂR eder (aşırı kâr sıfır).\n\n• MONOPOL (Tekel):\n  Tek satıcı, yakın ikamesi olmayan mal, girişte engeller.\n  Firma FİYAT BELİRLEYİCİDİR. P > MR.\n  Uzun dönemde de AŞIRI KÂR elde edebilir. Fiyat farklılaştırması yapabilir.\n\n• MONOPOLCÜ (TEKELCİ) REKABET:\n  Çok sayıda firma, FARKLILAŞTIRILMIŞ ürün, reklam önemli.\n  Uzun dönemde normal kâr.\n\n• OLİGOPOL:\n  Az sayıda büyük firma, karşılıklı bağımlılık.\n  Dirsekli talep eğrisi, kartel, fiyat liderliği, oyun teorisi.\n\n• MONOPSON: Tek alıcı. DUOPOL: İki satıcı."
-   },
    {
     "baslik": "Maliyet Analizi ve Üretim Fonksiyonu",
     "icerik": "KISA DÖNEM MALİYETLER:\n• TOPLAM SABİT MALİYET (TSM): Üretim miktarından bağımsızdır (kira, sigorta).\n• TOPLAM DEĞİŞKEN MALİYET (TDM): Üretimle birlikte artar (hammadde, işçilik).\n• TOPLAM MALİYET: TM = TSM + TDM\n• ORTALAMA MALİYET: OM = TM / Q\n• MARJİNAL MALİYET: MM = ΔTM / ΔQ — bir birim daha üretmenin ek maliyetidir.\n\nKRİTİK İLİŞKİ: Marjinal maliyet eğrisi, ortalama maliyet ve ortalama değişken maliyet eğrilerini EN DÜŞÜK NOKTALARINDAN keser. MM < OM iken OM düşer, MM > OM iken OM yükselir.\n\nAZALAN VERİMLER YASASI: Diğer üretim faktörleri sabitken bir faktör artırıldıkça, bir noktadan sonra MARJİNAL ÜRÜN azalmaya başlar. Kısa dönem maliyet eğrilerinin U biçimli olmasının nedeni budur.\n\nÖLÇEĞE GÖRE GETİRİ (uzun dönem):\n• Artan getiri: Tüm girdiler %10 artarken üretim %10'dan FAZLA artar\n• Sabit getiri: Üretim de %10 artar\n• Azalan getiri: Üretim %10'dan AZ artar\n\nKÂR MAKSİMİZASYONU KOŞULU: Tüm piyasa yapılarında MR = MC (marjinal hasılat = marjinal maliyet).\n\nKAPATMA NOKTASI: Fiyat, ortalama DEĞİŞKEN maliyetin altına düşerse firma kısa dönemde üretimi durdurur. Fiyat ortalama değişken maliyetin üzerindeyse zarar etse bile sabit maliyetin bir kısmını karşıladığı için üretime devam eder.\n\nBAŞABAŞ NOKTASI: Fiyatın ortalama TOPLAM maliyete eşit olduğu noktadır; firma normal kâr elde eder."
@@ -30,41 +10,15 @@
     "icerik": "TÜKETİCİ RANTI (ARTIĞI): Tüketicinin ödemeye razı olduğu en yüksek fiyat ile fiilen ödediği fiyat arasındaki farktır. Talep eğrisinin altında, fiyat çizgisinin üstünde kalan alandır.\n\nÜRETİCİ RANTI: Üreticinin satmaya razı olduğu en düşük fiyat ile aldığı fiyat arasındaki farktır. Arz eğrisinin üstünde, fiyat çizgisinin altında kalan alandır.\n\nTOPLAM REFAH = Tüketici rantı + Üretici rantı. Rekabetçi denge, toplam refahı MAKSİMUM yapar.\n\nREFAH KAYBI (ÖLÜ YÜK): Piyasa dengesinden sapıldığında kaybolan refahtır. Vergi, tavan fiyat, taban fiyat ve tekel gücü ölü yük yaratır.\n\nTAVAN FİYAT: Denge fiyatının ALTINDA belirlenirse bağlayıcıdır ve TALEP FAZLASI (kıtlık) doğurur. Karaborsa ve kuyruk oluşur. (Kira kontrolü)\n\nTABAN FİYAT: Denge fiyatının ÜSTÜNDE belirlenirse bağlayıcıdır ve ARZ FAZLASI doğurur. (Asgari ücret → işsizlik; tarımsal destekleme → stok fazlası)\n\nVERGİNİN YANSIMASI: Verginin yükü esnekliği DÜŞÜK olan tarafa daha çok yansır. Talebi katı bir malda (sigara, akaryakıt) vergiyi büyük ölçüde TÜKETİCİ üstlenir. Verginin kimden tahsil edildiği yükün paylaşımını değiştirmez.\n\nDIŞSALLIKLAR:\n• NEGATİF DIŞSALLIK (çevre kirliliği): Piyasa toplumsal optimumdan FAZLA üretir. Çözüm: Pigou vergisi, emisyon izni ticareti.\n• POZİTİF DIŞSALLIK (eğitim, aşı): Piyasa toplumsal optimumdan AZ üretir. Çözüm: Sübvansiyon.\nCOASE TEOREMİ: Mülkiyet hakları açıkça tanımlanmış ve pazarlık maliyetleri düşükse, taraflar dışsallığı devlet müdahalesi olmadan pazarlıkla çözebilir.\n\nKAMUSAL MAL: Tüketimde rakip olmayan ve dışlanamayan maldır (millî savunma). BEDAVACILIK sorunu nedeniyle piyasa üretmez, devlet üretir."
    }
   ],
-  "pufNoktalar": [
-   "Talep miktarında değişme eğri üzerinde, talepte değişme eğrinin kaymasıdır.",
-   "Esnek talepte fiyat düşünce toplam hasılat artar.",
-   "Toplam fayda maksimumken marjinal fayda sıfırdır.",
-   "Kâr maksimizasyonu MR = MC noktasındadır.",
-   "Tam rekabette firma fiyat alıcıdır ve uzun dönemde normal kâr eder.",
-   "Giffen malı talep kanununun istisnasıdır.",
+  "puf": [
    "Marjinal maliyet, ortalama maliyeti en düşük noktasından keser.",
    "Fiyat ortalama değişken maliyetin altına düşerse firma üretimi durdurur.",
    "Verginin yükü esnekliği düşük olan tarafa daha çok yansır.",
    "Negatif dışsallıkta piyasa fazla, pozitif dışsallıkta az üretir."
   ]
  },
- {
-  "konuId": "makro_i_ktisat",
-  "dersId": "iktisat",
-  "baslik": "Makro İktisat",
-  "ozet": "Millî gelir, enflasyon, işsizlik, para ve maliye politikaları.",
+ "makro_i_ktisat": {
   "bolumler": [
-   {
-    "baslik": "Millî Gelir Hesapları",
-    "icerik": "• GSYH (Gayrisafi Yurt İçi Hasıla): Bir ülke SINIRLARI İÇİNDE, belirli dönemde üretilen nihai mal ve hizmetlerin piyasa değeri.\n• GSMH (Gayrisafi Millî Hasıla): Bir ülke VATANDAŞLARI tarafından üretilen değer.\n  GSMH = GSYH + Net dış âlem faktör gelirleri\n\nHESAPLAMA YÖNTEMLERİ:\n• ÜRETİM (katma değer) YÖNTEMİ\n• GELİR YÖNTEMİ: Ücret + faiz + rant + kâr\n• HARCAMA YÖNTEMİ: GSYH = C + I + G + (X − M)\n  C: Tüketim, I: Yatırım, G: Kamu harcamaları, X−M: Net ihracat\n\n• NOMİNAL GSYH: Cari fiyatlarla\n• REEL GSYH: Sabit fiyatlarla (enflasyondan arındırılmış)\n• GSYH DEFLATÖRÜ = (Nominal / Reel) × 100\n\nDİKKAT: Ara mallar, ikinci el satışlar, transfer harcamaları ve kayıt dışı ekonomi GSYH'ye DAHİL EDİLMEZ."
-   },
-   {
-    "baslik": "Enflasyon",
-    "icerik": "• ENFLASYON: Fiyatlar genel düzeyinin SÜREKLİ artışı.\n• DEFLASYON: Genel fiyat düşüşü.\n• DEZENFLASYON: Enflasyon oranının azalması (fiyatlar hâlâ artıyor ama daha yavaş).\n• STAGFLASYON: Enflasyon + durgunluk (işsizlik) birlikte.\n• HİPERENFLASYON: Çok yüksek ve kontrolsüz enflasyon.\n\nTÜRLERİ:\n• TALEP ENFLASYONU: Toplam talep, toplam arzı aşarsa.\n• MALİYET ENFLASYONU: Üretim maliyetleri artarsa (petrol, ücret).\n• YAPISAL ENFLASYON\n\nÖLÇÜMÜ: TÜFE (tüketici), ÜFE (üretici), GSYH deflatörü.\n\nETKİLERİ: Sabit gelirliler ve alacaklılar KAYBEDER; borçlular ve reel varlık sahipleri KAZANIR. Gelir dağılımı bozulur."
-   },
-   {
-    "baslik": "İşsizlik",
-    "icerik": "TÜRLERİ:\n• FRİKSİYONEL (Geçici/Arama): İş değiştirme sürecinde. Kaçınılmazdır.\n• YAPISAL: Beceri-talep uyumsuzluğu, teknolojik değişim. En zor çözülen türdür.\n• KONJONKTÜREL (Devrevi): Ekonomik durgunluk dönemlerinde.\n• MEVSİMLİK: Turizm, tarım.\n• GİZLİ İŞSİZLİK: Çalışıyor görünüp verimliliğe katkısı olmayanlar.\n\nDOĞAL İŞSİZLİK ORANI = Friksiyonel + Yapısal\nTAM İSTİHDAM: Konjonktürel işsizliğin sıfır olduğu durum (işsizlik sıfır demek DEĞİLDİR).\n\nİŞSİZLİK ORANI = (İşsiz / İş gücü) × 100\nİŞ GÜCÜ = İstihdam + İşsizler (çalışma çağındaki ama iş aramayanlar iş gücüne DAHİL DEĞİLDİR)\n\nOKUN YASASI: İşsizlik oranı ile GSYH arasında ters ilişki vardır.\nPHILLIPS EĞRİSİ: Kısa dönemde enflasyon ile işsizlik arasında TERS ilişki."
-   },
-   {
-    "baslik": "Para ve Maliye Politikaları",
-    "icerik": "PARA POLİTİKASI (Merkez Bankası):\n• Araçlar: Açık piyasa işlemleri (APİ), zorunlu karşılık oranı, reeskont (politika) faizi.\n• GENİŞLETİCİ: Faiz ↓, karşılık oranı ↓, tahvil ALIMI → para arzı ↑\n• DARALTICI: Faiz ↑, karşılık oranı ↑, tahvil SATIŞI → para arzı ↓\n• PARA ÇARPANI = 1 / zorunlu karşılık oranı\n• TCMB'nin temel amacı FİYAT İSTİKRARIDIR.\n\nMALİYE POLİTİKASI (Hükümet):\n• Araçlar: Kamu harcamaları, vergiler, borçlanma.\n• GENİŞLETİCİ: Harcama ↑, vergi ↓ → toplam talep ↑ (durgunlukta)\n• DARALTICI: Harcama ↓, vergi ↑ → toplam talep ↓ (enflasyonda)\n• OTOMATİK STABİLİZATÖRLER: Artan oranlı vergi, işsizlik sigortası.\n\nKEYNESYEN ÇARPAN = 1 / (1 − MPC)  (MPC: marjinal tüketim eğilimi)"
-   },
    {
     "baslik": "Çarpan Mekanizması ve Toplam Talep",
     "icerik": "MARJİNAL TÜKETİM EĞİLİMİ (MTE): Gelirdeki bir birim artışın tüketime giden kısmıdır.\nMARJİNAL TASARRUF EĞİLİMİ (MTaE) = 1 − MTE\n\nKAPALI EKONOMİ HARCAMA ÇARPANI:\nk = 1 / (1 − MTE) = 1 / MTaE\nÖRNEK: MTE = 0,8 ise çarpan = 1/0,2 = 5. Yatırımlarda 10 milyarlık artış millî geliri 50 milyar artırır.\n\nVERGİ ÇARPANI: −MTE / (1 − MTE). Mutlak değerce harcama çarpanından KÜÇÜKTÜR, çünkü verginin bir kısmı tasarruftan karşılanır.\nÖRNEK: MTE = 0,8 → vergi çarpanı = −4 (harcama çarpanı 5 idi).\n\nDENK BÜTÇE ÇARPANI: Kamu harcamaları ve vergiler AYNI miktarda artırılırsa millî gelir yine ARTAR; denk bütçe çarpanı 1'dir (Haavelmo teoremi).\n\nDIŞA AÇIK EKONOMİDE: Marjinal ithalat eğilimi çarpanı KÜÇÜLTÜR, çünkü gelirin bir kısmı yurt dışına sızar.\n\nTASARRUF PARADOKSU: Herkes aynı anda daha çok tasarruf etmeye çalışırsa toplam talep düşer, gelir azalır ve sonuçta toplam tasarruf da artmayabilir.\n\nTOPLAM TALEP EĞRİSİNİ KAYDIRAN ETKENLER: Tüketim, yatırım, kamu harcamaları, net ihracat, para arzı, beklentiler.\nTOPLAM ARZ: Kısa dönemde pozitif eğimli; uzun dönemde DOĞAL ÜRETİM DÜZEYİNDE DİKEYDİR. Uzun dönemde talep artışı yalnız fiyatları yükseltir, üretimi artırmaz."
@@ -74,41 +28,15 @@
     "icerik": "BÜYÜME – KALKINMA FARKI: Büyüme NİCEL bir artıştır (reel GSYH'nin artması). Kalkınma NİTEL dönüşümü de içerir — sanayileşme, gelir dağılımı, eğitim, sağlık ve kurumsal yapıdaki iyileşme.\n\nBÜYÜMENİN KAYNAKLARI: İş gücü artışı, sermaye birikimi, doğal kaynaklar, TEKNOLOJİK İLERLEME ve beşerî sermaye. Uzun dönemde kişi başına gelirdeki sürdürülebilir artışın asıl kaynağı teknoloji ve verimliliktir.\n\nSOLOW BÜYÜME MODELİ: Sermaye birikiminde azalan verimler geçerlidir; bu nedenle uzun dönemde büyüme yalnız DIŞSAL teknolojik ilerlemeyle sürdürülebilir. Model yakınsama (convergence) öngörür: Yoksul ülkeler zengin ülkelerden hızlı büyür.\nİÇSEL BÜYÜME MODELLERİ (Romer, Lucas): Teknoloji ve beşerî sermayeyi modelin içine alır; Ar-Ge ve eğitim yatırımları kalıcı büyüme sağlayabilir.\n\nKONJONKTÜR (İŞ ÇEVRİMİ) EVRELERİ: Genişleme → Zirve (doruk) → Daralma (resesyon) → Dip → Yeniden genişleme.\nRESESYON: Genellikle arka arkaya iki çeyrek reel GSYH daralması olarak tanımlanır.\nDEPRESYON: Derin ve uzun süren daralma.\nSTAGFLASYON: Durgunluk ve enflasyonun BİR ARADA görülmesi. Phillips eğrisinin öngörüsünü bozduğu için 1970'lerde Keynesyen yaklaşımın en büyük eleştirisi olmuştur.\n\nPHILLIPS EĞRİSİ: Kısa dönemde enflasyon ile işsizlik arasında ters yönlü ilişki vardır. UZUN DÖNEMDE bu ilişki ortadan kalkar; eğri doğal işsizlik oranında DİKEYDİR.\n\nOKUN YASASI: İşsizlik oranındaki artışla üretim kaybı arasındaki ampirik ilişkidir.\n\nOTOMATİK İSTİKRARLANDIRICILAR: Artan oranlı gelir vergisi ve işsizlik sigortası, konjonktür dalgalanmalarını hükûmet kararı gerekmeden yumuşatır."
    }
   ],
-  "pufNoktalar": [
-   "GSYH sınırlara, GSMH vatandaşlığa göre hesaplanır.",
-   "Stagflasyon = enflasyon + işsizlik birlikte.",
-   "Doğal işsizlik = friksiyonel + yapısal işsizlik.",
-   "Para çarpanı = 1/zorunlu karşılık oranı.",
-   "Keynesyen çarpan = 1/(1−MPC).",
-   "TCMB'nin temel amacı fiyat istikrarıdır.",
+  "puf": [
    "Harcama çarpanı 1/(1−MTE); vergi çarpanı mutlak değerce daha küçüktür.",
    "Denk bütçe çarpanı 1'dir; eşit artışta gelir yine artar.",
    "Uzun dönemde Phillips eğrisi doğal işsizlik oranında dikeydir.",
    "Büyüme nicel, kalkınma nitel dönüşümü de içerir."
   ]
  },
- {
-  "konuId": "para_banka",
-  "dersId": "iktisat",
-  "baslik": "Para ve Banka",
-  "ozet": "Paranın işlevleri, para arzı, bankacılık sistemi ve merkez bankacılığı.",
+ "para_banka": {
   "bolumler": [
-   {
-    "baslik": "Paranın İşlevleri ve Türleri",
-    "icerik": "İŞLEVLERİ:\n1) DEĞİŞİM (mübadele) ARACI — en temel işlev\n2) HESAP BİRİMİ (değer ölçüsü)\n3) DEĞER SAKLAMA aracı\n4) Vadeli ödeme aracı\n\nTÜRLERİ: Mal para, temsili para, itibari (kâğıt) para, kaydi (banka) para, elektronik para.\n\nPARA ARZI TANIMLARI:\n• M1 = Dolaşımdaki nakit + vadesiz mevduat (EN LİKİT)\n• M2 = M1 + vadeli mevduat\n• M3 = M2 + repo + para piyasası fonları\n\nPARANIN MİKTAR TEORİSİ (Fisher): M·V = P·Q\nM: para arzı, V: dolanım hızı, P: fiyat, Q: üretim miktarı"
-   },
-   {
-    "baslik": "Para Talebi Kuramları",
-    "icerik": "KLASİK YAKLAŞIM: Para sadece işlem amaçlıdır; para arzı artışı yalnızca fiyatları artırır (paranın yansızlığı).\n\nKEYNESYEN PARA TALEBİ — 3 GÜDÜ:\n1) İŞLEM güdüsü: Gelire bağlı\n2) İHTİYAT güdüsü: Gelire bağlı\n3) SPEKÜLASYON güdüsü: FAİZE bağlı (faiz ↑ → para talebi ↓)\n\nLİKİDİTE TUZAĞI: Faiz çok düşükken para talebi sonsuz esnek hâle gelir; para politikası ETKİSİZ kalır, maliye politikası etkilidir.\n\nMONETARİST YAKLAŞIM (Friedman): 'Enflasyon her zaman ve her yerde parasal bir olgudur.' Para arzı istikrarlı büyümelidir (k-yüzde kuralı)."
-   },
-   {
-    "baslik": "Bankacılık Sistemi",
-    "icerik": "BANKALARIN İŞLEVLERİ: Mevduat toplama, kredi verme, ödeme aracılığı, KAYDİ PARA YARATMA.\n\nKAYDİ PARA YARATMA:\n• Bankalar mevduatın bir kısmını zorunlu karşılık olarak ayırır, kalanını kredi verir.\n• Toplam mevduat = İlk mevduat × (1/zorunlu karşılık oranı)\n• Örnek: %10 karşılık oranıyla 1000 TL mevduat → 10.000 TL'ye kadar mevduat yaratılabilir.\n\nBANKA TÜRLERİ: Mevduat bankaları, kalkınma ve yatırım bankaları, katılım bankaları.\n\nDÜZENLEYİCİ KURUMLAR:\n• BDDK: Bankacılık düzenleme ve denetleme\n• TMSF: Tasarruf mevduatı sigorta fonu\n• SPK: Sermaye piyasası düzenlemesi"
-   },
-   {
-    "baslik": "Merkez Bankası",
-    "icerik": "TCMB'NİN GÖREVLERİ:\n• Para politikasını belirlemek ve uygulamak\n• BANKNOT İHRACI (emisyon) — tek yetkili\n• Fiyat istikrarını sağlamak (TEMEL AMAÇ)\n• Bankaların bankası ve son ödeme mercii (lender of last resort)\n• Döviz rezervlerini yönetmek\n• Ödeme sistemlerini düzenlemek\n\nPARA POLİTİKASI ARAÇLARI:\n• AÇIK PİYASA İŞLEMLERİ (APİ): En sık kullanılan, en esnek araç.\n• ZORUNLU KARŞILIK ORANI: En güçlü ama en katı araç.\n• REESKONT/POLİTİKA FAİZİ\n• Faiz koridoru, döviz müdahaleleri\n\nENFLASYON HEDEFLEMESİ: TCMB 2006'dan itibaren açık enflasyon hedeflemesi uygulamaktadır.\n\nMERKEZ BANKASI BAĞIMSIZLIĞI: Araç bağımsızlığı ve amaç bağımsızlığı olarak ikiye ayrılır."
-   },
    {
     "baslik": "Para Arzı, Emisyon ve Kaydi Para Yaratma",
     "icerik": "PARA ARZI TANIMLARI:\n• M1 = Dolaşımdaki nakit + Vadesiz mevduat (en dar, en likit tanım)\n• M2 = M1 + Vadeli mevduat\n• M3 = M2 + Repo, para piyasası fonları ve ihraç edilen menkul kıymetler\n\nPARASAL TABAN (BAZ PARA) = Dolaşımdaki nakit + Bankaların merkez bankasındaki rezervleri. Merkez bankasının doğrudan kontrol ettiği büyüklüktür.\n\nKAYDİ PARA YARATMA: Bankalar mevduatın bir kısmını zorunlu karşılık olarak ayırıp kalanını kredi olarak verir; bu kredi tekrar mevduata dönüşür ve süreç tekrarlanır.\n\nBASİT MEVDUAT ÇARPANI = 1 / Zorunlu karşılık oranı\nÖRNEK: Zorunlu karşılık oranı %10 ise çarpan 10'dur. 1.000 TL'lik ilk mevduat, sistemde toplam 10.000 TL mevduat yaratabilir.\nÇARPANI KÜÇÜLTEN ETKENLER: Halkın nakit tutma eğilimi ve bankaların atıl (fazla) rezerv tutması.\n\nPARA ÇARPANI = Para arzı / Parasal taban\n\nMERKEZ BANKASININ PARA POLİTİKASI ARAÇLARI:\n• AÇIK PİYASA İŞLEMLERİ: En sık kullanılan ve en esnek araçtır. Tahvil ALIMI para arzını ARTIRIR, SATIMI azaltır.\n• ZORUNLU KARŞILIK ORANI: En güçlü ama en sert araçtır; küçük değişiklikler büyük etki yaratır.\n• REESKONT (POLİTİKA) FAİZİ: Bankalara açılan kredinin faizi; yükseltilmesi para arzını daraltır.\n• FAİZ KORİDORU ve ZORUNLU KARŞILIKLARA FAİZ ÖDEMESİ gibi modern araçlar.\n\nTCMB'NİN TEMEL AMACI: Fiyat istikrarını sağlamaktır. Bağımsızlığı, kısa vadeli siyasi baskılardan korunarak bu amaca odaklanabilmesi içindir. Emisyon (banknot ihracı) yetkisi münhasıran TCMB'ye aittir."
@@ -118,41 +46,15 @@
     "icerik": "FISHER DENKLEMİ: Nominal faiz ≈ Reel faiz + Beklenen enflasyon\nÖRNEK: Nominal faiz %30, enflasyon %25 ise reel faiz yaklaşık %5'tir. Enflasyon nominal faizden yüksekse REEL FAİZ NEGATİFTİR; bu durumda tasarruf sahibi satın alma gücü kaybeder.\n\nMİKTAR TEORİSİ (Fisher): M · V = P · Y\nParanın dolaşım hızı (V) ve üretim (Y) sabitken, para arzındaki artış doğrudan FİYATLARA yansır. Monetarist görüşün ('enflasyon her zaman ve her yerde parasal bir olgudur' — Friedman) temelidir.\n\nCAMBRIDGE (NAKİT DENGE) YAKLAŞIMI: M = k · P · Y. Paranın bir DEĞER SAKLAMA aracı olarak talep edilmesini vurgular.\n\nKEYNES'İN LİKİDİTE TERCİHİ: Para talebinin üç güdüsü vardır — İŞLEM, İHTİYAT ve SPEKÜLASYON. İlk ikisi gelire, spekülasyon güdüsü FAİZE bağlıdır ve faizle TERS yönlü hareket eder.\n\nLİKİDİTE TUZAĞI: Faizler çok düşükken para talebi sonsuz esnek hâle gelir; para arzı artırılsa bile faiz düşmez ve genişletici para politikası ETKİSİZ kalır. Bu durumda maliye politikası öne çıkar.\n\nPARASAL AKTARIM KANALLARI: Faiz kanalı, kredi kanalı, varlık fiyatları kanalı, döviz kuru kanalı ve beklentiler kanalı.\n\nENFLASYON TÜRLERİ:\n• TALEP ENFLASYONU: Toplam talebin toplam arzı aşması.\n• MALİYET ENFLASYONU: Girdi maliyetlerinin (petrol, kur, ücret) yükselmesi. Üretimi de düşürdüğü için stagflasyona yol açabilir.\n• YAPISAL ENFLASYON: Üretim ve dağıtım yapısındaki darboğazlar.\n\nENFLASYON HEDEFLEMESİ: Merkez bankasının sayısal bir enflasyon hedefi açıklayıp politikalarını buna göre yürütmesidir; şeffaflık, hesap verebilirlik ve beklenti yönetimi esastır."
    }
   ],
-  "pufNoktalar": [
-   "M1 en likit para arzı tanımıdır.",
-   "Keynes'te spekülasyon güdüsü faize, işlem-ihtiyat güdüsü gelire bağlıdır.",
-   "Likidite tuzağında para politikası etkisizdir.",
-   "Kaydi para çarpanı = 1/zorunlu karşılık oranı.",
-   "APİ en esnek, zorunlu karşılık en güçlü para politikası aracıdır.",
-   "Emisyon (banknot basma) yetkisi sadece Merkez Bankasındadır.",
+  "puf": [
    "Basit mevduat çarpanı 1/zorunlu karşılık oranıdır.",
    "Açık piyasa işlemleri en esnek, zorunlu karşılık en sert araçtır.",
    "Reel faiz nominal faizden enflasyon çıkarılarak bulunur.",
    "Likidite tuzağında para politikası etkisizleşir, maliye politikası öne çıkar."
   ]
  },
- {
-  "konuId": "uluslararasi_i_ktisat",
-  "dersId": "iktisat",
-  "baslik": "Uluslararası İktisat",
-  "ozet": "Dış ticaret teorileri, ödemeler dengesi ve döviz kuru sistemleri.",
+ "uluslararasi_i_ktisat": {
   "bolumler": [
-   {
-    "baslik": "Dış Ticaret Teorileri",
-    "icerik": "• MERKANTİLİZM: Değerli maden biriktirme, ihracat teşviki, ithalat kısıtlaması.\n\n• MUTLAK ÜSTÜNLÜK (Adam Smith): Her ülke daha ucuza ürettiği malda uzmanlaşmalı.\n\n• KARŞILAŞTIRMALI (NİSPİ) ÜSTÜNLÜK (David Ricardo):\n  Bir ülke tüm mallarda mutlak üstünlüğe sahip olsa bile, FIRSAT MALİYETİ düşük olan malda uzmanlaşırsa iki taraf da kazanır.\n  ← EN ÇOK SORULAN TEORİ\n\n• HECKSCHER-OHLIN (Faktör Donatımı): Ülkeler BOL olan üretim faktörünü yoğun kullanan malda uzmanlaşır.\n\n• LEONTIEF PARADOKSU: ABD'nin sermaye bol olmasına rağmen emek yoğun mal ihraç etmesi — H-O teorisiyle çelişir.\n\n• YENİ DIŞ TİCARET TEORİLERİ: Ölçek ekonomileri, ürün farklılaştırması, endüstri içi ticaret."
-   },
-   {
-    "baslik": "Dış Ticaret Politikaları",
-    "icerik": "SERBEST TİCARET ↔ KORUMACILIK\n\nKORUMACILIK ARAÇLARI:\n• GÜMRÜK TARİFESİ (vergi): İthal malın fiyatını yükseltir; devlete gelir sağlar.\n• KOTA (miktar kısıtlaması): İthal edilecek miktarı sınırlar.\n• İHRACAT SÜBVANSİYONU: Yerli üreticiye destek.\n• ANTİ-DAMPİNG önlemleri\n• Teknik engeller, standartlar\n\nKORUMACILIK GEREKÇELERİ: Yeni doğan (bebek) endüstri tezi, istihdam, ulusal güvenlik, ödemeler dengesi.\n\nEKONOMİK BİRLEŞME AŞAMALARI (artan bütünleşme):\n1) Serbest Ticaret Bölgesi\n2) GÜMRÜK BİRLİĞİ (ortak dış tarife)\n3) Ortak Pazar (faktör serbestisi)\n4) Ekonomik Birlik (politika uyumu)\n5) Tam Ekonomik Bütünleşme (ortak para)\n\nTürkiye-AB: 1996'dan beri GÜMRÜK BİRLİĞİ aşamasındadır."
-   },
-   {
-    "baslik": "Ödemeler Dengesi",
-    "icerik": "ÖDEMELER BİLANÇOSU HESAPLARI:\n\n1) CARİ İŞLEMLER HESABI:\n   • Mal ticareti (dış ticaret dengesi)\n   • Hizmetler (turizm, taşımacılık)\n   • Birincil gelir (ücret, yatırım geliri)\n   • İkincil gelir (karşılıksız transferler, işçi dövizleri)\n\n2) SERMAYE HESABI\n\n3) FİNANS HESABI:\n   • DOĞRUDAN YATIRIMLAR\n   • PORTFÖY YATIRIMLARI (sıcak para)\n   • Diğer yatırımlar, rezerv varlıklar\n\n4) NET HATA VE NOKSAN\n\n• CARİ AÇIK: Cari işlemler hesabının açık vermesi. Türkiye'nin kronik sorunlarından biridir.\n• Ödemeler bilançosu MUHASEBE OLARAK DAİMA DENKTİR (denkleştirici işlemlerle)."
-   },
-   {
-    "baslik": "Döviz Kuru Sistemleri",
-    "icerik": "• SABİT KUR: Merkez bankası kuru belirli düzeyde tutar. Müdahale gerekir.\n• SERBEST (DALGALI) KUR: Kur piyasada arz-talebe göre belirlenir.\n• YÖNETİMLİ DALGALANMA: Serbest ama gerektiğinde müdahale.\n\nKAVRAMLAR:\n• DEVALÜASYON: Sabit kur sisteminde ULUSAL PARANIN değerinin RESMEN düşürülmesi.\n• REVALÜASYON: Resmen değer artırılması.\n• DEPRESİASYON / APRESİASYON: Dalgalı kurda piyasa kaynaklı değer kaybı/kazancı.\n\nDEVALÜASYONUN ETKİLERİ: İhracat ↑ (ucuzlar), ithalat ↓ (pahalanır). Etkili olması için MARSHALL-LERNER koşulu (esnekliklerin toplamı > 1) sağlanmalıdır.\nJ EĞRİSİ: Devalüasyon sonrası cari denge önce kötüleşir, sonra düzelir.\n\nSATIN ALMA GÜCÜ PARİTESİ (SGP): Uzun dönemde kurlar, ülkelerin fiyat düzeyleri oranına yaklaşır."
-   },
    {
     "baslik": "Karşılaştırmalı Üstünlükler ve Modern Teoriler",
     "icerik": "MUTLAK ÜSTÜNLÜKLER (Adam Smith): Her ülke, bir malı diğerinden DAHA AZ maliyetle üretiyorsa onda uzmanlaşmalı ve ticaret yapmalıdır. Eksikliği: Bir ülke her malda üstünse ticaret olmaz sonucunu verir.\n\nKARŞILAŞTIRMALI ÜSTÜNLÜKLER (David Ricardo): Bir ülke her malda mutlak üstün olsa bile, GÖRECE daha üstün olduğu malda uzmanlaşırsa iki taraf da kazanır. Belirleyici olan FIRSAT MALİYETİDİR. Uluslararası ticaret teorisinin temel taşıdır.\n\nHECKSCHER-OHLIN (FAKTÖR DONATIMI) TEOREMİ: Her ülke, BOL ve UCUZ sahip olduğu üretim faktörünü yoğun kullanan malı ihraç eder. Emek bol ülke emek yoğun mal, sermaye bol ülke sermaye yoğun mal ihraç eder.\n\nFAKTÖR FİYATLARI EŞİTLİĞİ TEOREMİ: Serbest ticaret, ülkeler arasında üretim faktörlerinin fiyatlarını eşitleme eğilimi gösterir.\n\nLEONTİEF PARADOKSU: Sermaye bakımından zengin olan ABD'nin, beklenenin aksine emek yoğun mal ihraç ettiğinin saptanmasıdır. Heckscher-Ohlin modeliyle çelişir ve beşerî sermaye ile nitelikli emek ayrımının önemine dikkat çeker.\n\nMODERN TEORİLER:\n• ÖLÇEK EKONOMİLERİ ve ENDÜSTRİ İÇİ TİCARET: Benzer ülkeler arasında aynı sektörde karşılıklı ticaret (Almanya ile Fransa'nın birbirine otomobil satması).\n• ÜRÜN YAŞAM DEVRELERİ (Vernon): Yeni ürün önce gelişmiş ülkede üretilir, olgunlaştıkça üretim düşük maliyetli ülkelere kayar.\n• TERCİHLERDE BENZERLİK (Linder): Benzer gelir düzeyindeki ülkeler birbirleriyle daha çok ticaret yapar.\n\nTİCARET HADDİ = (İhraç fiyat endeksi / İthal fiyat endeksi) × 100. Yükselmesi ülke lehinedir; aynı miktar ihracatla daha çok ithalat yapılabilir."
@@ -162,41 +64,15 @@
     "icerik": "EKONOMİK BÜTÜNLEŞME AŞAMALARI (yüzeyselden derine):\n1. TERCİHLİ TİCARET ANLAŞMASI: Belirli mallarda indirimli gümrük.\n2. SERBEST TİCARET BÖLGESİ: Üyeler arası gümrükler kaldırılır, her ülke üçüncü ülkelere KENDİ tarifesini uygular.\n3. GÜMRÜK BİRLİĞİ: Üyeler arası gümrükler kaldırılır ve üçüncü ülkelere ORTAK tarife uygulanır. (Türkiye-AB ilişkisi 1996'dan beri bu aşamadadır.)\n4. ORTAK PAZAR: Malların yanı sıra EMEK ve SERMAYE de serbest dolaşır.\n5. EKONOMİK BİRLİK: Ekonomi politikaları uyumlaştırılır.\n6. SİYASİ BİRLİK: Ortak siyasi otorite.\n\nTİCARET YARATICI ETKİ: Birlik içinde yüksek maliyetli yerli üretimin yerini daha ucuz üye ülke üretimi alır — refahı ARTIRIR.\nTİCARET SAPTIRICI ETKİ: Birlik dışındaki daha ucuz üreticinin yerini, tarife avantajı sayesinde daha pahalı üye ülke üretimi alır — refahı AZALTIR.\n\nDÖVİZ KURU REJİMLERİ:\n• SABİT KUR: Merkez bankası kuru belirli düzeyde tutar. Belirsizliği azaltır ama bağımsız para politikasını sınırlar ve rezerv gerektirir.\n• SERBEST (DALGALI) KUR: Kur piyasada belirlenir; para politikası bağımsızdır ancak kur oynaklığı yüksektir.\n• YÖNETİMLİ DALGALANMA: Kur serbesttir ama merkez bankası aşırı oynaklıkta müdahale eder.\n• PARA KURULU ve DOLARİZASYON: En katı biçimlerdir.\n\nİMKÂNSIZ ÜÇLEME (TRILEMMA): Sabit döviz kuru, serbest sermaye hareketi ve bağımsız para politikasının ÜÇÜ BİRDEN aynı anda sağlanamaz; en fazla ikisi seçilebilir.\n\nDEVALÜASYON: Sabit kur rejiminde ulusal paranın değerinin resmî kararla düşürülmesidir. İhracatı ucuzlatır, ithalatı pahalılaştırır.\nMARSHALL-LERNER KOŞULU: Devalüasyonun dış ticaret dengesini iyileştirmesi için ihracat ve ithalat talep esnekliklerinin toplamının 1'DEN BÜYÜK olması gerekir.\nJ EĞRİSİ: Devalüasyondan sonra dış ticaret dengesi önce KÖTÜLEŞİR, zaman içinde miktarlar uyum sağladıkça düzelir."
    }
   ],
-  "pufNoktalar": [
-   "Ricardo'nun karşılaştırmalı üstünlük teorisi fırsat maliyetine dayanır.",
-   "Leontief paradoksu Heckscher-Ohlin teorisiyle çelişir.",
-   "Gümrük birliği ortak dış tarife içerir; Türkiye AB ile bu aşamadadır.",
-   "Devalüasyon sabit kurda, depresiasyon dalgalı kurda değer kaybıdır.",
-   "J eğrisi devalüasyonun gecikmeli etkisini gösterir.",
-   "Ödemeler bilançosu muhasebe olarak daima denktir.",
+  "puf": [
    "Ricardo'ya göre belirleyici olan mutlak değil fırsat maliyetidir.",
    "Gümrük birliğinde üçüncü ülkelere ortak tarife uygulanır.",
    "İmkânsız üçlemede üç hedeften en fazla ikisi aynı anda sağlanabilir.",
    "J eğrisi devalüasyon sonrası dengenin önce bozulup sonra düzelmesidir."
   ]
  },
- {
-  "konuId": "turkiye_ekonomisi",
-  "dersId": "iktisat",
-  "baslik": "Türkiye Ekonomisi",
-  "ozet": "Cumhuriyet'ten günümüze ekonomi politikaları ve yapısal özellikler.",
+ "turkiye_ekonomisi": {
   "bolumler": [
-   {
-    "baslik": "Cumhuriyet Dönemi Ekonomi Politikaları",
-    "icerik": "• 1923 İZMİR İKTİSAT KONGRESİ: Misak-ı İktisadi kabul edildi; özel girişim desteklendi, millî ekonomi hedeflendi.\n• 1923-1929 LİBERAL DÖNEM: Özel sektör öncülüğü; Teşvik-i Sanayi Kanunu (1927); İş Bankası (1924).\n• 1929 BÜYÜK BUHRAN sonrası → DEVLETÇİLİK.\n• 1930-1939 DEVLETÇİLİK DÖNEMİ: I. Beş Yıllık Sanayi Planı (1934), Sümerbank (1933), Etibank (1935), Merkez Bankası (1930).\n• 1950-1960 LİBERALLEŞME: Tarımda makineleşme, Marshall yardımı, karayolu yatırımları.\n• 1960-1980 PLANLI DÖNEM: DPT kuruldu (1960), Beş Yıllık Kalkınma Planları, İTHAL İKAMECİ sanayileşme.\n• 24 OCAK 1980 KARARLARI: İhracata dayalı büyüme, dışa açılma, serbest piyasa, KİT'lerin özelleştirilmesi, faiz ve kur serbestisi. Turgut Özal dönemi.\n• 1989: Sermaye hareketleri serbestleştirildi (32 sayılı Karar).\n• 2001 KRİZİ ve Güçlü Ekonomiye Geçiş Programı: Bankacılık reformu, TCMB bağımsızlığı, dalgalı kur."
-   },
-   {
-    "baslik": "Ekonomik Krizler",
-    "icerik": "• 1994 KRİZİ: 5 Nisan Kararları, yüksek enflasyon ve devalüasyon.\n• 1999 Marmara Depremi ve durgunluk.\n• KASIM 2000 ve ŞUBAT 2001 KRİZLERİ: Bankacılık sistemi çöküşü, sabit kur (crawling peg) terk edildi, DALGALI KURA geçildi.\n• 2008 KÜRESEL KRİZ: Dış talep daralması.\n• 2018 KUR ATAĞI.\n\nKRİZ SONRASI YAPISAL REFORMLAR:\n• BDDK (1999) ve TMSF güçlendirildi\n• TCMB bağımsızlığı (2001)\n• Mali disiplin ve enflasyon hedeflemesi\n• Kamu Mali Yönetimi ve Kontrol Kanunu (5018 sayılı, 2003)"
-   },
-   {
-    "baslik": "Sektörel Yapı",
-    "icerik": "• TARIM: GSYH içindeki payı azalmakta ancak istihdamdaki payı hâlâ yüksektir. Küçük ve parçalı işletmeler sorunu.\n• SANAYİ: Tekstil-hazır giyim, otomotiv, beyaz eşya, demir-çelik, gıda öne çıkar. OSB'ler ve KOBİ'ler önemlidir.\n• HİZMETLER: GSYH'de en büyük pay. Turizm, ticaret, ulaştırma, finans.\n\nDIŞ TİCARET:\n• İhracat: Otomotiv, hazır giyim, demir-çelik, makine, kimya\n• İthalat: Ham petrol, doğal gaz, ara malı, makine\n• KRONİK CARİ AÇIK: Enerji ithalatı ve ara malı bağımlılığı temel nedendir.\n• En büyük ticaret ortağı: AB ülkeleri (Almanya başta)"
-   },
-   {
-    "baslik": "Güncel Yapısal Sorunlar ve Kurumlar",
-    "icerik": "TEMEL SORUNLAR:\n• Cari açık ve dış finansman ihtiyacı\n• Enflasyon\n• İşsizlik (özellikle genç işsizliği)\n• Kayıt dışı ekonomi\n• Gelir dağılımı adaletsizliği (Gini katsayısı)\n• Tasarruf oranının düşüklüğü\n• Enerjide dışa bağımlılık\n• Bölgesel gelişmişlik farkları\n\nÖNEMLİ KURUMLAR:\n• TCMB, Hazine ve Maliye Bakanlığı, TÜİK\n• BDDK, SPK, TMSF, Rekabet Kurumu\n• KOSGEB, TÜBİTAK, Eximbank\n• Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı (DPT'nin yerine)\n\nBÖLGESEL PROJELER: GAP, DAP, DOKAP, KOP"
-   },
    {
     "baslik": "Dönemsel Kalkınma Politikaları",
     "icerik": "1923–1929 — LİBERAL DÖNEM: İzmir İktisat Kongresi (1923) özel girişimciliği teşvik eden kararlar aldı. Lozan'ın gümrük kısıtı 1929'a kadar sürdü. Teşvik-i Sanayi Kanunu (1927) çıkarıldı. Türkiye İş Bankası (1924) ve Sanayi ve Maadin Bankası (1925) kuruldu.\n\n1930–1939 — DEVLETÇİLİK: 1929 Büyük Buhran'ın ardından devlet doğrudan üretime girdi. BİRİNCİ BEŞ YILLIK SANAYİ PLANI (1934) uygulandı; Sümerbank (1933) ve Etibank (1935) kuruldu. Merkez Bankası 1930'da kuruldu. Dış ticarette korumacılık ve denk bütçe esas alındı.\n\n1950–1960: Tarımda makineleşme, karayolu yatırımları ve dışa açılma. Dönem sonunda dış açık ve enflasyon nedeniyle 1958 İstikrar Kararları alındı.\n\n1960–1980 — PLANLI DÖNEM: Devlet Planlama Teşkilatı (1960) kuruldu; beş yıllık kalkınma planları uygulandı. İTHAL İKAMECİ SANAYİLEŞME modeli benimsendi — yurt içinde üretilebilen malların ithalatı kısıtlandı. 1970'lerde petrol şokları ve döviz darboğazı modeli tıkadı.\n\n24 OCAK 1980 KARARLARI — DÖNÜM NOKTASI: İhracata dayalı büyüme modeline geçildi. Başlıca unsurları: Devalüasyon ve gerçekçi kur politikası, faiz serbestisi, fiyat kontrollerinin kaldırılması, KİT ürünlerine zam, ihracat teşvikleri, yabancı sermayenin özendirilmesi ve dış ticaretin serbestleştirilmesi.\n\n1989 — SERMAYE HAREKETLERİNİN SERBESTLEŞTİRİLMESİ (32 sayılı Karar): Türk Lirası konvertibl hâle geldi; kısa vadeli sermaye girişleri ekonomiyi dış şoklara açık hâle getirdi."
@@ -206,17 +82,11 @@
     "icerik": "1994 KRİZİ: Kamu açıklarının merkez bankası kaynaklarıyla finanse edilmesi, kredi notunun düşürülmesi ve döviz talebinin patlaması sonucu yaşandı. 5 Nisan Kararları ile TL büyük oranda değer kaybetti.\n\n2000 KASIM ve 2001 ŞUBAT KRİZLERİ: Kur çıpasına dayalı enflasyonu düşürme programı, bankacılık sektörünün kırılganlığı ve siyasi gerilimle çöktü. Dalgalı kura geçildi.\nKRİZ SONRASI YAPISAL REFORMLAR: 'Güçlü Ekonomiye Geçiş Programı' uygulandı; TCMB'ye araç bağımsızlığı verildi ve Hazine'ye kısa vadeli avans uygulaması kaldırıldı; BDDK ve TMSF ile bankacılık denetimi güçlendirildi; enflasyon hedeflemesine geçildi; 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu ile mali disiplin ve saydamlık kurallara bağlandı.\n\n2008 KÜRESEL KRİZ: Türkiye'ye esas olarak DIŞ TALEP ve SERMAYE AKIMI kanalıyla yansıdı; bankacılık sektörü 2001 sonrası düzenlemeler sayesinde görece dayanıklı kaldı.\n\nYAPISAL SORUNLAR:\n• CARİ AÇIK: Üretimin ara malı ve enerji ithalatına bağımlı olması nedeniyle büyüme hızlandıkça cari açık büyür. Bu yapıya 'büyüme-cari açık ikilemi' denir.\n• ENERJİDE DIŞA BAĞIMLILIK: Petrol ve doğal gaz ithalatı, ithalat faturasının büyük kalemidir.\n• DÜŞÜK KATMA DEĞERLİ ÜRETİM ve ORTA GELİR TUZAĞI riski.\n• KAYIT DIŞI İSTİHDAM, düşük tasarruf oranı ve nitelikli iş gücü açığı.\n• GELİR DAĞILIMI EŞİTSİZLİĞİ: Gini katsayısı ve bölgeler arası gelişmişlik farkları.\n\nTEMEL KURUMLAR: TCMB (para politikası ve fiyat istikrarı), Hazine ve Maliye Bakanlığı (bütçe ve borç yönetimi), TÜİK (istatistik), BDDK (bankacılık denetimi), SPK (sermaye piyasası), TMSF (mevduat sigortası ve fona devredilen bankalar), Rekabet Kurumu, KOSGEB (KOBİ destekleri), TÜBİTAK (Ar-Ge), Türk Eximbank (ihracat finansmanı)."
    }
   ],
-  "pufNoktalar": [
-   "24 Ocak 1980 Kararları ithal ikameciliği bırakıp ihracata dayalı büyümeye geçişi ifade eder.",
-   "2001 krizi sonrası dalgalı kura geçildi ve TCMB bağımsızlaştı.",
-   "İzmir İktisat Kongresi 1923'te Misak-ı İktisadi'yi kabul etti.",
-   "Devletçilik 1929 Buhranı sonrası benimsendi.",
-   "Cari açığın temel nedeni enerji ve ara malı ithalatıdır.",
-   "DPT 1960'ta kuruldu; yerini Strateji ve Bütçe Başkanlığı aldı.",
+  "puf": [
    "24 Ocak 1980 Kararları ithal ikamesinden ihracata dayalı büyümeye geçişi ifade eder.",
    "1989'daki 32 sayılı Karar sermaye hareketlerini serbestleştirdi.",
    "2001 sonrası TCMB'ye araç bağımsızlığı verildi, BDDK ve 5018 ile denetim güçlendirildi.",
    "Türkiye'de büyüme hızlandıkça ara malı ithalatı nedeniyle cari açık büyür."
   ]
  }
-]
+}
