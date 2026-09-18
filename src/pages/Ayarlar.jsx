@@ -1,4 +1,4 @@
-import { useRef, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { useSettings, sinavBilgisi, SINAV_TURLERI } from '../lib/settings.jsx'
 import { disaAktar, iceAktar, hepsiniSifirla, genelIstatistik } from '../lib/storage.js'
@@ -6,7 +6,7 @@ import { useProgress } from '../lib/hooks.js'
 import { cx, sayi } from '../lib/utils.js'
 import { Baslik } from '../components/Layout.jsx'
 import { Modal, Rozet } from '../components/UI.jsx'
-import { PARCALAR } from '../components/MusicPlayer.jsx'
+import { PARCALAR, muzikDurumu, muzikDurumuAbone } from '../components/MusicPlayer.jsx'
 import { IconMoon, IconSun, IconRefresh, IconLink } from '../components/Icons.jsx'
 
 function Satir({ baslik, aciklama, children }) {
@@ -19,6 +19,14 @@ function Satir({ baslik, aciklama, children }) {
       <div className="shrink-0">{children}</div>
     </div>
   )
+}
+
+/* Ses dosyaları sunucuda yoksa müzik anahtarı hiçbir şey yapmıyor gibi görünür.
+   MusicPlayer erişilebilirliği bildirir; burada okuyup kullanıcıya açıkça söylüyoruz. */
+function useMuzikDurumu() {
+  const [d, setD] = useState(muzikDurumu())
+  useEffect(() => muzikDurumuAbone(setD), [])
+  return d
 }
 
 function Anahtar({ acik, degis }) {
@@ -36,6 +44,7 @@ function Anahtar({ acik, degis }) {
 
 export default function Ayarlar() {
   const { settings, set, theme, setTheme } = useSettings()
+  const muzikDurum = useMuzikDurumu()
   const p = useProgress()
   const ist = genelIstatistik()
   const dosyaRef = useRef(null)
@@ -198,6 +207,15 @@ export default function Ayarlar() {
         <Satir baslik="Arka plan müziği" aciklama="Çalışırken dingin müzik">
           <Anahtar acik={settings.muzikAcik} degis={(v) => set({ muzikAcik: v })} />
         </Satir>
+        {settings.muzikAcik && muzikDurum === 'yok' && (
+          <div className="card border-l-4 !border-l-amber-500 p-3.5">
+            <p className="text-[13px] font-bold">Müzik dosyaları yüklenemedi</p>
+            <p className="mt-1 text-[12px] leading-relaxed text-ink-500 dark:text-ink-400">
+              Ses dosyaları sunucuda bulunamadı, bu yüzden müzik çalmıyor. Sorun senin cihazında değil;
+              site yöneticisinin dosyaları eklemesi gerekiyor.
+            </p>
+          </div>
+        )}
         {settings.muzikAcik && (
           <>
             <Satir baslik="Parça">

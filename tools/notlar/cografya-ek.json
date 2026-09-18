@@ -1,0 +1,111 @@
+{
+  "dunya_sekli_hareketleri": {
+    "bolumler": [
+      { "baslik": "Güneş Işınlarının Geliş Açısı ve Sonuçları", "icerik": "• GELİŞ AÇISINI ETKİLEYEN FAKTÖRLER: Enlem, mevsim (eksen eğikliği), günün saati, bakı, yer şekilleri (eğim).\n• Işınlar DİK geldiğinde birim alana düşen enerji artar → sıcaklık yükselir. Eğik geldiğinde ışınlar daha geniş alana yayılır ve atmosferde daha uzun yol alır → enerji azalır.\n• DÖNENCELER (23°27' K ve G): Güneş ışınlarının yılda BİR KEZ dik düştüğü en uç paralellerdir.\n  Ekvator'da yılda İKİ KEZ dik düşer (21 Mart ve 23 Eylül).\n• ÖZEL TARİHLER:\n  21 MART ve 23 EYLÜL — EKİNOKS. Gece-gündüz her yerde eşit; ışınlar Ekvator'a dik; aydınlanma çemberi kutuplardan geçer.\n  21 HAZİRAN — ışınlar YENGEÇ dönencesine dik. Kuzey Yarım Küre'de en uzun gündüz, yaz başlangıcı.\n  21 ARALIK — ışınlar OĞLAK dönencesine dik. Kuzey Yarım Küre'de en uzun gece, kış başlangıcı.\n• AYDINLANMA ÇEMBERİ: Yalnızca ekinokslarda kutup noktalarından teğet geçer; diğer zamanlarda kutup dairelerine kayar.\n• Eksen eğikliği OLMASAYDI: Mevsimler oluşmaz, gece-gündüz süreleri yıl boyu eşit olur, dönence ve kutup daireleri bulunmazdı — matematik iklim kuşakları da ortadan kalkardı." },
+      { "baslik": "Yerel Saat ve Tarih Değişim Çizgisi", "icerik": "• Dünya 24 saatte 360° döner → 1 saatte 15°, 4 dakikada 1° döner.\n• YEREL SAAT FARKI = boylam farkı × 4 dakika. DOĞUDAKİ yer her zaman İLERİDİR (güneşi önce görür).\n• Aynı boylam üzerindeki tüm noktaların yerel saati AYNIDIR.\n• ORTAK (ULUSAL) SAAT: Yerel saat kargaşasını önlemek için ülkeler bir boylamın saatini benimser. Türkiye 30° DOĞU boylamının saatini kullanır.\n• SAAT DİLİMİ: 15°'lik dilimler; toplam 24 dilim. Başlangıç GREENWICH (0°).\n• ULUSLARARASI TARİH DEĞİŞTİRME ÇİZGİSİ: 180° boylamı.\n  Batıdan doğuya geçilirse bir gün GERİ alınır; doğudan batıya geçilirse bir gün İLERİ alınır.\n• Türkiye'nin 26°-45° doğu boylamları arasında olması → doğusu ile batısı arasında yaklaşık 76 DAKİKA yerel saat farkı vardır." }
+    ],
+    "puf": [
+      "Ekinokslarda (21 Mart, 23 Eylül) gece-gündüz her yerde eşittir ve aydınlanma çemberi kutuplara teğettir.",
+      "Ekvator'da ışınlar yılda iki kez, dönencelerde bir kez dik gelir.",
+      "Yerel saat farkı = boylam farkı × 4 dakika; doğudaki ileridir.",
+      "Eksen eğikliği olmasaydı mevsimler ve dönenceler oluşmazdı."
+    ]
+  },
+  "harita_koordinat": {
+    "bolumler": [
+      { "baslik": "Harita Çeşitleri ve Projeksiyonlar", "icerik": "• ÖLÇEĞİNE GÖRE: Büyük ölçekli (1/200.000'den büyük — ayrıntı ÇOK, alan AZ, hata payı DÜŞÜK) ve küçük ölçekli (1/500.000'den küçük — ayrıntı AZ, geniş alan).\n• KONULARINA GÖRE: Fiziki, siyasi, beşerî-ekonomik, özel amaçlı (jeoloji, iklim, toprak) haritalar.\n• PROJEKSİYONLAR (küre yüzeyini düzleme aktarma yöntemleri):\n  SİLİNDİR — Ekvator ve çevresi için en uygun; kutuplara gidildikçe bozulma artar.\n  KONİ — Orta kuşak için uygun.\n  DÜZLEM (AZİMUTAL) — Kutup bölgeleri için uygun.\n• Hiçbir projeksiyon şekil, alan, uzaklık ve yönü AYNI ANDA hatasız veremez — bu, küre yüzeyinin düzleme tam açılamamasından kaynaklanır.\n• PROFİL ÇIKARMA: İzohips haritasında iki nokta arasındaki kesit; yer şekillerinin yükselti-eğim ilişkisini gösterir." },
+      { "baslik": "Hesaplamalar — Ölçek, Alan, Eğim", "icerik": "• GERÇEK UZUNLUK = Harita uzunluğu × Ölçek paydası.\n  Örnek: 1/500.000 ölçekli haritada 4 cm → 4 × 500.000 = 2.000.000 cm = 20 km.\n• ÖLÇEK PAYDASI = Gerçek uzunluk ÷ Harita uzunluğu (aynı birimde).\n• ALAN HESABI: Gerçek alan = Harita alanı × (Ölçek paydası)². Ölçek paydası KARESİ alınır — en sık yapılan hata budur.\n  Örnek: 1/100.000 ölçekli haritada 5 cm² → 5 × (100.000)² cm² = 5 × 10¹⁰ cm² = 5.000 hektar = 50 km².\n• EĞİM (%) = (Yükselti farkı ÷ Yatay uzaklık) × 100. İkisi de aynı birime çevrilmelidir.\n• İZOHİPS KURALLARI: Eğriler iç içedir, kesişmez; sık geçen yerde eğim FAZLA, seyrek geçen yerde AZ; içe doğru küçülen kapalı eğriler TEPE, içte 'taralı/ok' varsa ÇUKUR.\n  Vadilerde eğriler yüksek kotlara doğru V veya U şeklinde girinti yapar.\n• İki nokta arasındaki yükselti farkı, aradaki eğri sayısı × eşyükselti aralığıdır." }
+    ],
+    "puf": [
+      "Alan hesabında ölçek paydasının KARESİ alınır — en sık yapılan hata.",
+      "Büyük ölçekli harita = küçük alan, çok ayrıntı, az hata.",
+      "İzohipsler sıksa eğim fazla, seyrekse azdır; eğriler asla kesişmez.",
+      "Silindir Ekvator, koni orta kuşak, düzlem kutuplar için uygundur."
+    ]
+  },
+  "i_klim_bilgisi": {
+    "bolumler": [
+      { "baslik": "Atmosfer ve Nem Kavramları", "icerik": "• ATMOSFER KATMANLARI: Troposfer (hava olayları burada, yükseldikçe sıcaklık düşer), Stratosfer (OZON tabakası), Mezosfer, Termosfer (İYONOSFER — radyo dalgaları yansır), Ekzosfer.\n• Troposferde her 100 metrede sıcaklık ortalama 0,5 °C düşer — YÜKSELTİ etkisi.\n• MUTLAK NEM: 1 m³ havadaki su buharı miktarı (gram). Sıcaklıkla doğrudan ilgilidir.\n• MAKSİMUM NEM: Havanın o sıcaklıkta taşıyabileceği EN FAZLA nem. Sıcaklık arttıkça maksimum nem artar.\n• BAĞIL (NİSPİ) NEM = (Mutlak nem ÷ Maksimum nem) × 100. Havanın doyma oranıdır.\n  Sıcaklık artarsa bağıl nem DÜŞER; sıcaklık düşerse bağıl nem YÜKSELİR.\n• YOĞUNLAŞMA: Bağıl nem %100'e ulaştığında başlar. Ürünleri: çiy, kırağı, sis, bulut, yağış.\n• GÜNLÜK SICAKLIK FARKI bağıl nemi düşük olan yerlerde (çöller) YÜKSEK, nemli yerlerde (kıyılar) DÜŞÜKTÜR — su buharı ısıyı tutar." },
+      { "baslik": "Yağış Tipleri ve İklim Grafiği Okuma", "icerik": "• YAĞIŞ TİPLERİ:\n  YAMAÇ (OROGRAFİK) — nemli hava kütlesinin dağ yamacında yükselip soğuması. Türkiye'de Karadeniz kıyıları tipik örnektir.\n  KONVEKSİYON (YÜKSELİM) — ısınan havanın yükselmesi. İç Anadolu'da İLKBAHAR (kırkikindi) yağışları.\n  CEPHE (FRONTAL) — sıcak ve soğuk hava kütlelerinin karşılaşması. Türkiye'de KIŞ yağışlarının çoğu.\n• İKLİM GRAFİĞİ OKUMA ADIMLARI:\n  1) Sıcaklık eğrisinin en yüksek olduğu ay TEMMUZ-AĞUSTOS ise KUZEY, OCAK-ŞUBAT ise GÜNEY yarım küre.\n  2) Yıllık sıcaklık farkı KÜÇÜKSE deniz etkisi/Ekvator, BÜYÜKSE karasallık.\n  3) Yağış rejimi düzenli ve bol ise Ekvatoral veya Okyanusal; yazı kurak, kışı yağışlı ise AKDENİZ.\n  4) Toplam yağış 250 mm'nin altındaysa ÇÖL, 400 mm civarı ve yaz kurak ise KARASAL/STEP.\n• KURAKLIK: Sıcaklık eğrisi yağış sütunlarının ÜSTÜNDE kaldığı aylar kurak kabul edilir." }
+    ],
+    "puf": [
+      "Bağıl nem = mutlak nem ÷ maksimum nem; sıcaklık artarsa bağıl nem düşer.",
+      "Kırkikindi yağışları konveksiyon, Karadeniz yağışları yamaç tipidir.",
+      "Grafikte en sıcak ay temmuz-ağustos ise kuzey yarım küredir.",
+      "Ozon stratosferde, hava olayları troposferdedir."
+    ]
+  },
+  "turkiye_i_klimi": {
+    "bolumler": [
+      { "baslik": "Konumun Sonuçları — Madde Madde", "icerik": "• MATEMATİK KONUM (36°-42° K, 26°-45° D) SONUÇLARI:\n  Orta kuşakta yer alır → DÖRT MEVSİM belirgin yaşanır.\n  Güneş ışınları hiçbir zaman DİK GELMEZ; en büyük açı 21 Haziran'da güneyde oluşur.\n  Kuzeye gidildikçe sıcaklık azalır, gölge boyu uzar.\n  Doğu-batı yönünde 76 dakikalık yerel saat farkı vardır; tek saat dilimi kullanılır.\n  Cisimlerin gölgesi yıl boyu KUZEYE düşer.\n• ÖZEL KONUM SONUÇLARI:\n  Üç tarafı denizlerle çevrili → kıyı ile iç kesim arasında iklim farkı.\n  Ortalama YÜKSELTİ fazla (yaklaşık 1.132 m) → sıcaklık beklenenden düşük, tarım üst sınırı ve ulaşım etkilenir.\n  Dağların UZANIŞ DOĞRULTUSU: Kuzey ve güneyde kıyıya PARALEL (deniz etkisi içeri giremez), batıda DİK (deniz etkisi içeri sokulur) → Ege'de karasallık daha az.\n  Asya-Avrupa-Afrika arasında köprü → jeopolitik önem, göç yolları, boğazlar.\n  Petrol ve doğal gaz kaynaklarına yakınlık; boru hatları geçiş ülkesi." },
+      { "baslik": "Dağılışlar ve Doğal Bitki Örtüsü", "icerik": "• EN FAZLA YAĞIŞ: Doğu Karadeniz (Rize çevresi) — yamaç yağışları.\n• EN AZ YAĞIŞ: Tuz Gölü çevresi ve Iğdır — çanak konum, çevresi dağlarla çevrili.\n• EN YÜKSEK SICAKLIK: Güneydoğu Anadolu (enlem + karasallık + çanak).\n• EN DÜŞÜK SICAKLIK: Doğu Anadolu (yükselti + karasallık) — Erzurum-Kars bölümü.\n• KAR YAĞIŞLI GÜN ve DON OLAYI en fazla Doğu Anadolu'da.\n• BİTKİ ÖRTÜSÜ:\n  MAKİ — Akdeniz iklimi; kızılçam, mersin, zeytin, defne, keçiboynuzu. Kuraklığa dayanıklı, sert ve cilalı yapraklı.\n  GARİG — makinin tahrip edildiği yerlerde gelişen bodur çalılar.\n  ORMAN — yeterli yağışın olduğu yerlerde; Karadeniz'de nemcil ormanlar (kayın, ladin, göknar).\n  BOZKIR (STEP) — İç Anadolu ve Güneydoğu; ilkbaharda yeşerip yazın kuruyan otsu bitkiler.\n  ÇAYIR — Doğu Anadolu'nun yüksek platoları; yaz yağışıyla yeşil kalır, hayvancılığın temelidir.\n• ANTROPOJEN BOZKIR: Ormanın insan eliyle tahrip edilmesiyle oluşan bozkır — İç Anadolu'nun çevresinde yaygındır." }
+    ],
+    "puf": [
+      "Türkiye'de güneş ışınları hiçbir zaman dik gelmez; gölge yıl boyu kuzeye düşer.",
+      "Kuzey ve güneyde dağlar kıyıya paralel, batıda diktir — Ege'de karasallık daha azdır.",
+      "En az yağış Tuz Gölü ve Iğdır; en düşük sıcaklık Doğu Anadolu.",
+      "Antropojen bozkır insan kaynaklıdır, doğal değildir."
+    ]
+  },
+  "yeryuzu_sekilleri": {
+    "bolumler": [
+      { "baslik": "Jeolojik Zamanlar ve Türkiye", "icerik": "• I. ZAMAN (Paleozoik): En uzun zaman. Taş kömürü yatakları oluştu (Zonguldak). Kıtaların temeli atıldı; Hersinyen ve Kaledoniyen kıvrımları.\n• II. ZAMAN (Mezozoik): Alp-Himalaya ve Pasifik kuşaklarında tortullanma. Dinozorlar. Türkiye'de Toroslar'ın kalker tabakaları bu dönemde birikti.\n• III. ZAMAN (Neozoik-Tersiyer): TÜRKİYE İÇİN EN ÖNEMLİ ZAMAN.\n  ALP-HİMALAYA kıvrım dağları oluştu (Kuzey Anadolu ve Toros dağları).\n  Linyit, petrol, tuz ve bor yatakları; İç Anadolu'nun çanak yapısı; Ege'de kırıklı yapı (horst-graben).\n  Anadolu toptan yükseldi; volkanizma yoğunlaştı.\n• IV. ZAMAN (Kuaterner): Buzul çağları ve buzul arası dönemler.\n  Boğazlar oluştu (İstanbul ve Çanakkale); Ege Denizi son şeklini aldı; Van Gölü volkanik set ile oluştu.\n  İnsan ortaya çıktı. Bugünkü iklim ve kıyı çizgisi belirginleşti.\n• TÜRKİYE genç ve hareketli bir arazidir — DEPREM kuşağında olmasının, sıcak su kaynaklarının ve engebeli yapının sebebi budur." },
+      { "baslik": "Karst ve Buzul Şekilleri", "icerik": "• KARSTİK ŞEKİLLER: Kalker (kireç taşı), jips ve kaya tuzu gibi ERİYEBİLEN taşların bulunduğu yerlerde suyun çözmesiyle oluşur. Türkiye'de en yaygın Akdeniz Bölgesi (Toroslar) ve Sivas çevresindedir.\n  ERİME ŞEKİLLERİ: Lapya (en küçük), dolin, uvala, polye (en büyük), obruk, düden, mağara, yer altı nehirleri.\n  BİRİKİM ŞEKİLLERİ: Sarkıt, dikit, sütun, traverten (Pamukkale), damlataş.\n• BUZUL ŞEKİLLERİ: Yüksek dağlarda ve kutuplara yakın alanlarda.\n  SİRK (buzul yalağı), buzul vadisi (U ŞEKİLLİ — akarsu vadisi V şeklindedir), hörgüç kaya, moren (buzul taşı), drumlin.\n  Türkiye'de Ağrı, Cilo-Sat, Kaçkar ve Erciyes gibi yüksek dağlarda görülür.\n• DALGA (KIYI) ŞEKİLLERİ: Falez (yalıyar), kıyı oku, lagün (kıyı set gölü — Büyükçekmece, Küçükçekmece), tombolo, kumsal, delta.\n• RÜZGÂR ŞEKİLLERİ: Kurak-yarı kurak alanlarda; mantar kaya, şahit kaya, barkan (hilal kumul), peri bacası (Kapadokya — volkanik tüflerin aşınmasıyla)." }
+    ],
+    "puf": [
+      "Türkiye'nin bugünkü görünümü ağırlıklı olarak III. Zaman'da şekillendi.",
+      "Boğazlar ve Van Gölü IV. Zaman ürünüdür.",
+      "Buzul vadisi U, akarsu vadisi V şeklindedir.",
+      "Karstik erime sırası: lapya < dolin < uvala < polye.",
+      "Peri bacaları rüzgâr ve su aşındırmasıyla volkanik tüflerde oluşur."
+    ]
+  },
+  "nufus_yerlesme": {
+    "bolumler": [
+      { "baslik": "Nüfus Sayımları ve Göstergeler", "icerik": "• Türkiye'de ilk nüfus sayımı CUMHURİYET döneminde 1927'de yapıldı; 1935-1990 arası her 5 yılda bir; 2007'den itibaren ADRESE DAYALI NÜFUS KAYIT SİSTEMİ (ADNKS) ile her yıl.\n• ARİTMETİK NÜFUS YOĞUNLUĞU = Toplam nüfus ÷ Yüzölçümü. En kaba göstergedir.\n• TARIMSAL NÜFUS YOĞUNLUĞU = Tarımla uğraşan nüfus ÷ Tarım alanı. YÜKSEK olması tarımda makineleşmenin az, gizli işsizliğin fazla olduğunu gösterir (Doğu Karadeniz, Doğu Anadolu).\n• FİZYOLOJİK NÜFUS YOĞUNLUĞU = Toplam nüfus ÷ Tarım alanı.\n• NÜFUS ARTIŞININ OLUMLU yanları: İş gücü ve üretim artar, iç pazar genişler, vergi gelirleri ve askerî güç artar.\n• OLUMSUZ yanları: İşsizlik, konut ve altyapı sorunu, çevre baskısı, kişi başına düşen gelirin azalması, tasarrufun düşmesi.\n• BAĞIMLI NÜFUS: 0-14 ve 65+ yaş. Türkiye'de genç bağımlı nüfus azalmakta, YAŞLI nüfus artmaktadır — nüfus piramidi tabanı daralıyor." },
+      { "baslik": "Göç Türleri ve Şehirleşme", "icerik": "• İÇ GÖÇ: Ülke sınırları içinde; ülke nüfusunu DEĞİŞTİRMEZ, sadece dağılışı değiştirir.\n  SÜREKLİ İÇ GÖÇ: Kırdan kente kalıcı taşınma.\n  MEVSİMLİK İÇ GÖÇ: Yaylacılık, tarım işçiliği, turizm — nüfusun geçici yer değiştirmesi.\n• İÇ GÖÇÜN SEBEPLERİ: Tarımda makineleşme ve miras yoluyla toprakların bölünmesi (İTİCİ), sanayi ve hizmet sektöründe iş imkânı, eğitim-sağlık hizmetleri (ÇEKİCİ), doğal afetler, terör.\n• SONUÇLARI: Çarpık kentleşme ve gecekondulaşma, kentte işsizlik, altyapı yetersizliği, kırsalda nüfusun yaşlanması ve üretimin düşmesi, kültürel çatışma.\n• DIŞ GÖÇ: Ülke nüfusunu DEĞİŞTİRİR. Örnek: 1923 mübadele, 1960'lardan itibaren Almanya'ya işçi göçü, Bulgaristan'dan gelen Türkler (1989), Suriye'den kitlesel sığınma.\n• BEYİN GÖÇÜ: Nitelikli iş gücünün yurt dışına gitmesi — gönderen ülke için ciddi kayıp.\n• YERLEŞMELERİ ETKİLEYEN FAKTÖRLER: İklim, yer şekilleri, su kaynakları, toprak verimliliği, ulaşım, yer altı kaynakları, sanayi, turizm.\n• Türkiye'de yerleşmenin ÜST SINIRI genelde 2.000-2.200 metredir; yükseklerde ancak yaylalar mevsimlik kullanılır." }
+    ],
+    "puf": [
+      "İç göç ülke nüfusunu değiştirmez, dağılışı değiştirir; dış göç nüfusu değiştirir.",
+      "Tarımsal nüfus yoğunluğu yüksekse makineleşme az, gizli işsizlik fazladır.",
+      "İlk nüfus sayımı 1927; 2007'den beri ADNKS ile her yıl.",
+      "Bağımlı nüfus 0-14 ve 65 üstüdür."
+    ]
+  },
+  "tarim_hayvancilik": {
+    "bolumler": [
+      { "baslik": "Ürün — Yetişme Koşulu Eşleştirmesi", "icerik": "• BUĞDAY: Kışı ılık-yağışlı, yazı sıcak-kurak ister. En fazla İÇ ANADOLU. Türkiye'de en fazla ekim alanına sahip üründür.\n• ÇAY: Bol yağış, yüksek nem, asitli toprak, kışın don olmaması. Yalnızca DOĞU KARADENİZ kıyısı (Rize).\n• FINDIK: Nemli ve ılıman; Karadeniz kıyıları (Giresun-Ordu). Dünya üretiminde Türkiye ilk sırada.\n• ZEYTİN: Akdeniz iklimi; kışın don olmamalı. En fazla EGE (Ayvalık-Edremit).\n• PAMUK: Yüksek sıcaklık ve sulama; Çukurova, GAP bölgesi, Ege (Söke).\n• TÜTÜN: Fazla su istemez, kıraç toprakta kaliteli olur; Ege (Akhisar), Karadeniz (Samsun/Bafra).\n• ŞEKER PANCARI: Ilıman ve sulanabilir; İç Anadolu ve Doğu Anadolu. Fabrikaya yakın yetiştirilir (çabuk bozulur).\n• MUZ ve SERA ÜRÜNLERİ: Kışı çok ılık Akdeniz kıyısı (Anamur, Antalya).\n• ANTEP FISTIĞI: Sıcak ve kurak; Güneydoğu Anadolu.\n• ÇELTİK (pirinç): Bol su ve sıcaklık; Edirne (Meriç), Samsun, Çorum.\n• Bir ürünün ekonomik değer kazanması için yalnızca yetişmesi değil, VERİM ve PAZAR koşulları da gerekir." },
+      { "baslik": "Hayvancılık — Tür ve Bölge İlişkisi", "icerik": "• KÜÇÜKBAŞ (koyun-keçi): Bozkır alanları; İç Anadolu, Doğu ve Güneydoğu Anadolu. Kıraç otlaklarda beslenebilir.\n  KIL KEÇİSİ: Akdeniz ve Güneydoğu — makilik ve çalılık alanlar.\n  TİFTİK (ANKARA) KEÇİSİ: İç Anadolu, özellikle Ankara çevresi.\n• BÜYÜKBAŞ (sığır): Gür ve sulak çayır ister; Doğu Anadolu (yaz yağışlı yüksek platolar), Karadeniz, Trakya.\n  AHIR (BESİ) HAYVANCILIĞI: Büyük şehir çevrelerinde ve yem bitkisi üretilen yerlerde — Trakya ve Ege'de gelişmiştir.\n• ARICILIK: Çiçek çeşitliliği olan yerler; Muğla (çam balı), Ordu, Ardahan, Erzurum.\n• İPEK BÖCEKÇİLİĞİ: Dut ağacına bağlı; Bursa çevresi.\n• BALIKÇILIK: Avlanan balığın yaklaşık dörtte üçü KARADENİZ'den elde edilir — kıta sahanlığının geniş, suyun az tuzlu ve planktonca zengin olması sebebiyle. Hamsi en çok avlanan türdür.\n• KÜLTÜR BALIKÇILIĞI (yetiştiricilik) son yıllarda hızla artmıştır (alabalık, levrek, çipura).\n• Hayvancılıkta verimi düşüren etkenler: Mera yetersizliği ve aşırı otlatma, yem bitkisi azlığı, ırkların verim düşüklüğü, mevsimlik göçler." }
+    ],
+    "puf": [
+      "Çay yalnızca Doğu Karadeniz'de; şeker pancarı fabrikaya yakın yetiştirilir.",
+      "Tütün fazla su istemez, kıraçta kaliteli olur.",
+      "Balığın çoğu Karadeniz'den avlanır; sebebi geniş kıta sahanlığı ve plankton zenginliğidir.",
+      "Kıl keçisi Akdeniz makiliklerinde, tiftik keçisi İç Anadolu'da."
+    ]
+  },
+  "sanayi_enerji": {
+    "bolumler": [
+      { "baslik": "Maden — Çıkarıldığı Yer Eşleştirmesi", "icerik": "• TAŞ KÖMÜRÜ: ZONGULDAK (Ereğli-Karadeniz havzası). I. Zaman'da oluştu; demir-çelikte kok kömürü olarak kullanılır.\n• LİNYİT: Yurt genelinde yaygın — Afşin-Elbistan, Soma, Tunçbilek, Yatağan. Termik santrallerin ana kaynağı.\n• DEMİR: Divriği (Sivas), Hekimhan (Malatya), Kırıkkale. Karabük ve Ereğli demir-çelik fabrikalarını besler.\n• BAKIR: Murgul (Artvin), Küre (Kastamonu), Ergani (Elazığ).\n• KROM: Guleman (Elazığ), Fethiye-Köyceğiz, Bursa. Paslanmaz çelikte kullanılır.\n• BOKSİT (alüminyum): Seydişehir (Konya).\n• BOR: Emet (Kütahya), Bigadiç (Balıkesir), Kırka (Eskişehir), Bandırma. Dünya rezervinin BÜYÜK ÇOĞUNLUĞU Türkiye'dedir — stratejik madendir.\n• TUZ: Tuz Gölü (kaya-göl tuzu), Çamaltı (deniz tuzu).\n• MERMER: Afyon, Muğla, Bilecik — ihracatta önemli yer tutar.\n• PETROL: Batman, Adıyaman, Diyarbakır (Güneydoğu). Üretim iç tüketimi karşılamaz; en büyük ithalat kalemlerindendir." },
+      { "baslik": "Enerji Kaynakları ve Sanayinin Dağılışı", "icerik": "• YENİLENEBİLİR: Hidroelektrik (barajlar — Atatürk, Keban, Karakaya), rüzgâr (Çeşme, Bandırma, Bozcaada), jeotermal (Denizli-Kızıldere, Aydın, Manisa — Türkiye jeotermalde Avrupa'da ön sıralarda), güneş (Güneydoğu ve Akdeniz), biyokütle, dalga.\n• YENİLENEMEYEN: Taş kömürü, linyit, petrol, doğal gaz, nükleer (Akkuyu).\n• Türkiye enerji ithalatına BAĞIMLIDIR — cari açığın en büyük kalemi enerjidir. Yenilenebilir yatırımların stratejik önemi buradan gelir.\n• SANAYİNİN DAĞILIŞINI ETKİLEYEN FAKTÖRLER: Ham madde, enerji, sermaye, iş gücü, pazar, ulaşım, su, devlet teşvikleri.\n• EN GELİŞMİŞ SANAYİ BÖLGESİ: MARMARA (İstanbul-Kocaeli-Bursa ekseni) — pazar, ulaşım, liman ve iş gücü avantajı.\n• Diğer odaklar: İzmir-Manisa (Ege), Adana-Mersin (Akdeniz), Ankara-Kırıkkale-Eskişehir (İç Anadolu), Karabük-Zonguldak-Samsun (Karadeniz), Gaziantep (Güneydoğu — son yıllarda hızlı gelişme).\n• ORGANİZE SANAYİ BÖLGELERİ (OSB): Sanayiyi planlı toplamak, altyapı maliyetini düşürmek ve çevre kirliliğini denetlemek için kurulur; geri kalmış bölgelerde teşvik aracıdır." }
+    ],
+    "puf": [
+      "Taş kömürü sadece Zonguldak havzasında; linyit yurt geneline yayılmıştır.",
+      "Bor rezervinin büyük çoğunluğu Türkiye'dedir — stratejik madendir.",
+      "Türkiye enerjide dışa bağımlıdır; cari açığın en büyük kalemi enerjidir.",
+      "En gelişmiş sanayi bölgesi Marmara'dır; sebebi pazar, ulaşım ve iş gücüdür."
+    ]
+  },
+  "bolgeler_cografyasi": {
+    "bolumler": [
+      { "baslik": "Bölüm ve Yöreler — Ayrıntı", "icerik": "• Türkiye 1941 Coğrafya Kongresi'nde 7 COĞRAFİ BÖLGEYE ayrıldı. Bölge sınırları İDARİ değil, coğrafi benzerliklere dayanır — bir il birden fazla bölgeye girebilir.\n• MARMARA: Yıldız Dağları, Ergene, Çatalca-Kocaeli, Güney Marmara bölümleri. Yüzölçümü küçük ama nüfus ve sanayide ilk sırada. Her iklim tipinin geçiş özelliği görülür.\n• EGE: Asıl Ege ve İç Batı Anadolu bölümleri. Dağların denize dik uzanması nedeniyle deniz etkisi iç kesimlere sokulur; graben ovaları (Bakırçay, Gediz, Küçük ve Büyük Menderes) çok verimlidir.\n• AKDENİZ: Adana ve Antalya bölümleri. Toroslar kıyıya paralel — karstik şekiller yaygın; seracılık ve turizm öne çıkar.\n• İÇ ANADOLU: Konya, Yukarı Sakarya, Orta Kızılırmak, Yukarı Kızılırmak bölümleri. En az yağış alan bölge; tahıl ambarı.\n• KARADENİZ: Batı, Orta ve Doğu Karadeniz bölümleri. Dağlar kıyıya paralel; en fazla yağış alan bölge; ormanlık oranı en yüksek.\n• DOĞU ANADOLU: Yukarı Fırat, Erzurum-Kars, Yukarı Murat-Van, Hakkâri bölümleri. En yüksek ve en engebeli bölge; en düşük sıcaklıklar burada.\n• GÜNEYDOĞU ANADOLU: Orta Fırat ve Dicle bölümleri. En küçük ikinci bölge; yaz sıcaklıkları en yüksek; GAP ile tarımda dönüşüm." },
+      { "baslik": "Bölgelerde 'En'ler", "icerik": "• NÜFUS ve NÜFUS YOĞUNLUĞU en fazla: MARMARA. En az: Doğu Anadolu.\n• YÜZÖLÇÜMÜ en büyük: DOĞU ANADOLU. En küçük: Güneydoğu Anadolu.\n• YAĞIŞ en fazla: Karadeniz (Doğu Karadeniz kıyısı). En az: İç Anadolu.\n• ORTALAMA YÜKSELTİ en fazla: Doğu Anadolu. En az: Marmara.\n• ORMAN ORANI en yüksek: Karadeniz.\n• TARIM ALANI oranı en yüksek: Marmara; tarımsal üretim çeşitliliği en fazla Akdeniz ve Ege.\n• SANAYİ ve TİCARET: Marmara ilk sırada.\n• KIŞ TURİZMİ: Doğu Anadolu (Palandöken, Sarıkamış) ve Uludağ. YAZ-KIYI TURİZMİ: Akdeniz ve Ege. KÜLTÜR TURİZMİ: İç Anadolu (Kapadokya) ve Ege (antik kentler).\n• GÖÇ VEREN bölgeler: Doğu Anadolu, Güneydoğu Anadolu, Karadeniz. GÖÇ ALAN: Marmara, Ege, Akdeniz.\n• Bölgeler arası gelişmişlik farkı, iç göçün ve dengesiz nüfus dağılışının temel sebebidir." }
+    ],
+    "puf": [
+      "Bölge sınırları idari değil coğrafidir; bir il iki bölgeye girebilir.",
+      "Yüzölçümü en büyük Doğu Anadolu, en küçük Güneydoğu Anadolu.",
+      "Ege'de dağlar denize dik uzandığı için deniz etkisi içeri girer.",
+      "Göç veren: Doğu, Güneydoğu, Karadeniz; göç alan: Marmara, Ege, Akdeniz."
+    ]
+  }
+}

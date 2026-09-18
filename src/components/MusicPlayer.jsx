@@ -4,11 +4,35 @@ import { IconMusic } from './Icons.jsx'
 import { cx } from '../lib/utils.js'
 
 /* Arka plan müziği — Android sürümündeki res/raw dosyalarının web karşılığı.
-   Dosyalar public/media/ altına konur. Dosya yoksa oynatıcı sessizce gizlenir. */
+   Dosyalar public/media/ altına konur.
+
+   DİKKAT: Dosyalar yoksa Vercel yönlendirmesi nedeniyle .mp3 isteği 404 değil,
+   SPA'nın index.html'ini döndürür. <audio> bunu çalamaz ve onError tetiklenir.
+   Eskiden bu durumda oynatıcı sessizce gizleniyordu; ayarlardaki müzik anahtarı
+   ise duruyordu — kullanıcı açıyor, hiçbir şey olmuyor, "bozuk" sanıyordu.
+   Artık durum aşağıdaki küçük depoda tutuluyor ve Ayarlar sayfası bunu okuyup
+   açıkça "dosya bulunamadı" diyor. */
 export const PARCALAR = [
   { id: 'chopin', ad: 'Chopin — Nocturne Op.9 No.2', src: '/media/chopin_nocturne_op9.mp3' },
   { id: 'gitar', ad: 'Dingin Gitar', src: '/media/guitar_ambient.mp3' },
 ]
+
+/* 'bilinmiyor' | 'var' | 'yok' — ses dosyalarına erişilebiliyor mu. */
+let muzikDurum = 'bilinmiyor'
+const muzikDinleyici = new Set()
+
+export const muzikDurumu = () => muzikDurum
+
+export function muzikDurumuAbone(fn) {
+  muzikDinleyici.add(fn)
+  return () => muzikDinleyici.delete(fn)
+}
+
+function muzikDurumAyarla(d) {
+  if (muzikDurum === d) return
+  muzikDurum = d
+  muzikDinleyici.forEach((fn) => fn(d))
+}
 
 export default function MusicPlayer() {
   const { settings, set } = useSettings()
@@ -34,7 +58,17 @@ export default function MusicPlayer() {
 
   return (
     <>
-      <audio ref={ref} src={parca.src} loop preload="none" onError={() => setHata(true)} />
+      <audio
+        ref={ref}
+        src={parca.src}
+        loop
+        preload="none"
+        onError={() => {
+          setHata(true)
+          muzikDurumAyarla('yok')
+        }}
+        onCanPlay={() => muzikDurumAyarla('var')}
+      />
       {settings.muzikAcik && (
         <button
           onClick={() => set({ muzikAcik: false })}
