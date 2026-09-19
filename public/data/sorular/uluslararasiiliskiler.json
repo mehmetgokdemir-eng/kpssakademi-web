@@ -37,11 +37,11 @@
   "konuId": "ui_teoriler",
   "soru": "Liberal kuramda uluslararası barışın sağlanmasında aşağıdakilerden hangisi ön plana çıkar?",
   "secenekler": [
-   "Güç dengesi politikası",
-   "Askeri güç dengesi",
+   "Büyük güçler arasında kurulan askerî güç dengesi politikası",
+   "Devletlerin savunma harcamalarını sürekli artırması",
    "Ekonomik karşılıklı bağımlılık ve uluslararası kurumlar",
-   "Nükleer caydırıcılık",
-   "Hegemonik istikrar"
+   "Nükleer silahların yarattığı karşılıklı caydırıcılık dengesi",
+   "Tek bir hegemon gücün sistemi tek başına istikrara kavuşturması"
   ],
   "dogru": 2,
   "aciklama": "Liberalizm, ekonomik bağımlılık, demokratik yönetim ve uluslararası kurumları barışın temeli sayar.",
@@ -53,11 +53,11 @@
   "konuId": "ui_teoriler",
   "soru": "Konstruktivizm (İnşacılık) yaklaşımının temel argümanı aşağıdakilerden hangisidir?",
   "secenekler": [
-   "Ekonomik çıkarlar belirleyicidir",
-   "Devletler rasyonel aktörlerdir",
+   "Devlet davranışını nihai olarak ekonomik çıkarlar belirler",
+   "Devletler çıkarlarını azamileştiren rasyonel aktörlerdir",
    "Uluslararası yapı sosyal olarak inşa edilir",
-   "Güç dengesi barışı sağlar",
-   "Anarşi kaçınılmazdır"
+   "Barış ancak güç dengesi kurulduğunda sağlanabilir",
+   "Anarşi değişmez ve kaçınılmaz bir veridir"
   ],
   "dogru": 2,
   "aciklama": "Konstruktivizm, uluslararası ilişkilerin maddi değil sosyal ve fikirsel yapılarla şekillendiğini savunur.",
@@ -69,11 +69,11 @@
   "konuId": "ui_teoriler",
   "soru": "'Demokratik Barış Teorisi'ne göre aşağıdakilerden hangisi doğrudur?",
   "secenekler": [
-   "Demokrasi savaşı önler",
+   "Demokratik yönetim biçimi her türlü savaşı tümüyle önler",
    "Demokratik devletler birbirleriyle savaşma eğiliminde değildir",
-   "Demokratik devletler daha güçlüdür",
-   "Demokratik devletler hiç savaşmaz",
-   "Otoriter rejimler daha barışçıldır"
+   "Demokratik devletler askerî bakımdan otoriter rejimlerden güçlüdür",
+   "Demokratik devletler hiçbir koşulda savaşa başvurmaz",
+   "Otoriter rejimler demokrasilere göre daha barışçıl davranır"
   ],
   "dogru": 1,
   "aciklama": "Demokratik Barış Teorisi, demokratik devletlerin birbirleriyle savaşma olasılığının çok düşük olduğunu öne sürer.",
@@ -117,11 +117,11 @@
   "konuId": "ui_teoriler",
   "soru": "Hegemonic istikrar teorisine göre uluslararası sistemde istikrar nasıl sağlanır?",
   "secenekler": [
-   "Güç dengesiyle",
-   "Uluslararası örgütlerle",
+   "Büyük güçler arasındaki güç dengesiyle",
+   "Uluslararası örgütlerin denetimiyle",
    "Tek bir hegemon devletin varlığıyla",
-   "Ekonomik yaptırımlarla",
-   "Nükleer silahlarla"
+   "Ekonomik yaptırımların caydırıcılığıyla",
+   "Nükleer silahların yarattığı dengeyle"
   ],
   "dogru": 2,
   "aciklama": "Hegemonik istikrar teorisi, tek bir güçlü devletin sisteme düzen getirdiğini savunur (ör. ABD, İngiltere).",
@@ -198,10 +198,10 @@
   "soru": "Bağımlılık Okulu'na göre az gelişmişliğin temel nedeni nedir?",
   "secenekler": [
    "Merkez ülkelerin çevre ülkeleri sömürmesi",
-   "Nüfus artışı",
-   "Doğal kaynak yetersizliği",
-   "Kültürel gerilik",
-   "Coğrafi koşullar"
+   "Denetimsiz nüfus artışının yarattığı baskı",
+   "Doğal kaynakların yetersiz ve verimsiz olması",
+   "Toplumsal ve kültürel yapının geri kalmışlığı",
+   "Elverişsiz coğrafi koşullar ve iklim yapısı"
   ],
   "dogru": 0,
   "aciklama": "Bağımlılık Okulu, gelişmekte olan ülkelerin az gelişmişliğini merkez-çevre ilişkisindeki sömürüye bağlar.",
@@ -213,11 +213,11 @@
   "konuId": "ui_teoriler",
   "soru": "Neoliberal kurumsalcılık hangi unsuru uluslararası işbirliğinin anahtarı olarak görür?",
   "secenekler": [
-   "Güç dengesi",
+   "Büyük güçler arasındaki güç dengesi",
    "Uluslararası rejimler ve kurumlar",
-   "Hegemonik devlet",
-   "Askeri ittifaklar",
-   "Nükleer caydırıcılık"
+   "Sistemi yöneten hegemon devletin gücü",
+   "Karşılıklı askerî ittifak taahhütleri",
+   "Nükleer silahların caydırıcı etkisi"
   ],
   "dogru": 1,
   "aciklama": "Neoliberal kurumsalcılık, uluslararası kurumların devletler arası işbirliğini kolaylaştırdığını savunur.",
@@ -358,10 +358,10 @@
   "soru": "G-20 aşağıdakilerden hangisini ifade eder?",
   "secenekler": [
    "Dünyanın en büyük 20 ekonomisi",
-   "20 BM daimi üyesi",
-   "20 AB üyesi",
-   "20 nükleer güç",
-   "20 NATO üyesi"
+   "Güvenlik Konseyi'nin 20 üyesi",
+   "Avrupa Birliği'nin 20 kurucu üyesi",
+   "Nükleer silaha sahip 20 devlet",
+   "NATO'ya üye olan 20 Avrupa devleti"
   ],
   "dogru": 0,
   "aciklama": "G-20, dünyanın en büyük 20 ekonomisinin liderlerini bir araya getiren ekonomik forum platformudur.",
@@ -709,10 +709,10 @@
   "konuId": "ui_soguk_savas",
   "soru": "Marshall Planı'nın temel amacı nedir?",
   "secenekler": [
-   "Sömürgelerin bağımsızlığı",
-   "Nükleer silahlanma",
-   "BM'yi güçlendirmek",
-   "Askeri ittifak kurmak",
+   "Sömürge halklarının bağımsızlığını desteklemek",
+   "Nükleer silahlanma yarışını hızlandırmak",
+   "Birleşmiş Milletler'i mali olarak güçlendirmek",
+   "Batı Avrupa'da ortak bir askerî ittifak kurmak",
    "Avrupa'nın ekonomik olarak yeniden inşası"
   ],
   "dogru": 4,
@@ -885,10 +885,10 @@
   "konuId": "ui_uluslararasi_hukuk",
   "soru": "'Jus cogens' (buyurucu kural) kavramı neyi ifade eder?",
   "secenekler": [
-   "Ticari anlaşma kuralları",
-   "BM kararları",
-   "İsteğe bağlı kurallar",
-   "Diplomatik teamüller",
+   "Devletlerarası ticari anlaşmaları düzenleyen kurallar",
+   "Güvenlik Konseyi'nin aldığı bağlayıcı kararlar",
+   "Devletlerin uymakta serbest olduğu isteğe bağlı kurallar",
+   "Diplomatik ilişkilerde yerleşmiş teamül kuralları",
    "Hiçbir devletin ihlal edemeyeceği üstün normlar"
   ],
   "dogru": 4,
@@ -934,10 +934,10 @@
   "soru": "Westphalia Barışı (1648) uluslararası hukuka en önemli katkısı nedir?",
   "secenekler": [
    "Egemen ulus-devlet sisteminin temeli",
-   "Diplomatik dokunulmazlık",
-   "Savaş hukuku",
-   "Deniz hukuku",
-   "İnsan hakları ilanı"
+   "Diplomatik dokunulmazlığın tanınması",
+   "Savaş hukukunun ilk kez kurallaşması",
+   "Deniz hukukunun temel ilkelerinin konması",
+   "Temel insan haklarının ilan edilmesi"
   ],
   "dogru": 0,
   "aciklama": "1648 Westphalia Barışı, modern devlet egemenliği ve ulus-devlet sisteminin başlangıcı kabul edilir.",
@@ -1077,11 +1077,11 @@
   "konuId": "ui_guncel_sorunlar",
   "soru": "Kyoto Protokolü hangi konuyla ilgilidir?",
   "secenekler": [
-   "Deniz hukuku",
+   "Deniz yetki alanlarının sınırlandırılması",
    "İklim değişikliği ve sera gazı emisyonları",
-   "Ticaret",
-   "İnsan hakları",
-   "Nükleer silahlar"
+   "Uluslararası ticaretin serbestleştirilmesi",
+   "Temel insan haklarının korunması ve denetimi",
+   "Nükleer silahların yayılmasının önlenmesi"
   ],
   "dogru": 1,
   "aciklama": "Kyoto Protokolü 1997'de kabul edilmiş, gelişmiş ülkelere sera gazı emisyon azaltma yükümlülüğü getirmiştir.",
@@ -1109,11 +1109,11 @@
   "konuId": "ui_guncel_sorunlar",
   "soru": "'İnsani müdahale' kavramı aşağıdakilerden hangisini ifade eder?",
   "secenekler": [
-   "Mülteci yerleştirme",
+   "Mültecilerin üçüncü ülkelere yerleştirilmesi",
    "İnsan hakları ihlallerine karşı askeri müdahale",
-   "Diplomatik arabuluculuk",
-   "Ekonomik yardım",
-   "Kalkınma yardımı"
+   "Taraflar arasında diplomatik arabuluculuk yapılması",
+   "Kriz bölgelerine acil ekonomik yardım ulaştırılması",
+   "Az gelişmiş ülkelere kalkınma yardımı sağlanması"
   ],
   "dogru": 1,
   "aciklama": "İnsani müdahale, bir devletin kendi halkına yönelik ağır ihlallerinde dış askeri müdahaleyi ifade eder.",
@@ -1173,11 +1173,11 @@
   "konuId": "ui_kavramlar",
   "soru": "'Caydırıcılık' (deterrence) stratejisi neyi amaçlar?",
   "secenekler": [
-   "İttifak kurma",
-   "Barış görüşmeleri başlatma",
-   "Saldırıyı cezalandırma",
+   "Bölgesel askerî ittifaklar kurup genişletme",
+   "Taraflar arasında barış görüşmeleri başlatma",
+   "Saldırı gerçekleştikten sonra cezalandırma",
    "Potansiyel saldırganı saldırıdan vazgeçirme",
-   "Ekonomik yaptırım uygulama"
+   "Hedef ülkeye kapsamlı ekonomik yaptırım uygulama"
   ],
   "dogru": 3,
   "aciklama": "Caydırıcılık, karşı tarafın saldırı maliyetini kabul edilemez kılarak saldırıdan vazgeçirmektir.",
@@ -1189,10 +1189,10 @@
   "konuId": "ui_kavramlar",
   "soru": "'Güç dengesi' (balance of power) kavramı neyi ifade eder?",
   "secenekler": [
-   "Uluslararası hukuk üstünlüğü",
-   "Askeri ittifak",
-   "Tek bir devletin üstünlüğü",
-   "Ekonomik eşitlik",
+   "Uluslararası hukukun güç politikasına üstünlüğü",
+   "Devletler arasında kurulan askerî ittifak",
+   "Tek bir devletin sistemde üstünlük kurması",
+   "Devletler arasında ekonomik eşitliğin sağlanması",
    "Devletlerin birbirlerinin gücünü dengelemesi"
   ],
   "dogru": 4,
@@ -1205,11 +1205,11 @@
   "konuId": "ui_kavramlar",
   "soru": "'Çok kutuplu düzen' ne demektir?",
   "secenekler": [
-   "Tek devlet egemen",
-   "Küresel hükümet",
-   "Anarşi",
+   "Tek bir devletin sistemde egemen olduğu düzen",
+   "Devletler üstü bir küresel hükümetin kurulması",
+   "Hiçbir kuralın işlemediği tam anarşi ortamı",
    "Birden fazla büyük gücün var olduğu sistem",
-   "İki bloklu sistem"
+   "Birbirine karşıt iki bloktan oluşan sistem"
   ],
   "dogru": 3,
   "aciklama": "Çok kutuplu düzen, birden fazla büyük gücün (kutbun) eş zamanlı var olduğu uluslararası sistemdir.",
@@ -1253,11 +1253,11 @@
   "konuId": "ui_kavramlar",
   "soru": "'Güvenlik ikilemi' (security dilemma) nedir?",
   "secenekler": [
-   "Ekonomik rekabet",
+   "Devletler arasındaki ekonomik rekabetin çatışmaya dönüşmesi",
    "Bir devletin güvenliğini artırmasının diğerinin güvenliğini azaltması",
-   "İki ülke arası sınır anlaşmazlığı",
-   "İttifak çatışması",
-   "Nükleer silah yarışı"
+   "İki komşu ülke arasında yaşanan sınır anlaşmazlığı sorunu",
+   "İttifak üyelerinin kendi aralarında çıkar çatışmasına düşmesi",
+   "Büyük güçler arasındaki nükleer silahlanma yarışının denetimden çıkması"
   ],
   "dogru": 1,
   "aciklama": "Güvenlik ikilemi, bir devletin silahlanmasının diğer devleti tehdit altında hissettirip karşılıklı silahlanma başlatmasıdır.",
@@ -1269,10 +1269,10 @@
   "konuId": "ui_kavramlar",
   "soru": "'Sıfır toplamlı oyun' kavramı neyi anlatır?",
   "secenekler": [
-   "Herkesin kazandığı durum",
-   "Ekonomik büyüme",
-   "İşbirliği",
-   "Karşılıklı bağımlılık",
+   "Tarafların tümünün birlikte kazandığı durum",
+   "Ekonomik büyümenin sürekli olarak artması",
+   "Taraflar arasında iş birliğinin kurulması",
+   "Tarafların birbirine karşılıklı bağımlı olması",
    "Bir tarafın kazancının diğerinin kaybı olması"
   ],
   "dogru": 4,
@@ -1318,10 +1318,10 @@
   "soru": "İsrail-Filistin meselesinde 'iki devletli çözüm' neyi öngörür?",
   "secenekler": [
    "İsrail ve bağımsız Filistin devletinin yan yana yaşaması",
-   "Tek devlet çözümü",
-   "İsrail'in tamamının Filistin olması",
-   "BM yönetimi",
-   "Ürdün federasyonu"
+   "Tek bir devlet çatısı altında birlikte yaşanması",
+   "İsrail topraklarının tamamının Filistin devletine devredilmesi",
+   "Bölgenin Birleşmiş Milletler yönetimine bırakılması",
+   "Filistin'in Ürdün ile federasyon kurması"
   ],
   "dogru": 0,
   "aciklama": "İki devletli çözüm, 1967 sınırlarında bağımsız bir Filistin devleti ile İsrail'in yan yana var olmasını öngörür.",
@@ -1430,10 +1430,10 @@
   "soru": "Uluslararası ilişkilerde 'anarşi' kavramı aşağıdakilerden hangisini ifade eder?",
   "secenekler": [
    "Devletler üzerinde bağlayıcı bir üst otoritenin bulunmaması",
-   "Uluslararası örgütlerin dağılması",
-   "Devletler arasında sürekli savaş hâli",
-   "Uluslararası hukukun tümüyle geçersiz olması",
-   "Devletlerin iç düzeninin bozulması"
+   "Uluslararası örgütlerin işlevsiz kalıp dağılması",
+   "Devletler arasında kesintisiz bir savaş hâlinin sürüp gitmesi",
+   "Uluslararası hukukun tümüyle geçersiz hâle gelmesi",
+   "Devletlerin kendi iç düzenlerinin bozulup çökmesi"
   ],
   "dogru": 0,
   "aciklama": "Anarşi, sistemde devletlerin üzerinde emir verebilecek merkezî bir otoritenin olmamasıdır; kaos veya sürekli savaş anlamına gelmez.",
@@ -1446,10 +1446,10 @@
   "soru": "Kenneth Waltz'ın neorealizmi, klasik realizmden temel olarak hangi noktada ayrılır?",
   "secenekler": [
    "Çatışmanın kaynağını insan doğası yerine sistemin yapısında görmesi",
-   "Uluslararası hukuku öncelemesi",
-   "Ekonomik bağımlılığı vurgulaması",
-   "Kimlik ve normları merkeze alması",
-   "Devleti temel aktör kabul etmemesi"
+   "Uluslararası hukuku devlet çıkarının önüne koyması",
+   "Ekonomik karşılıklı bağımlılığı sistemin tek belirleyici ögesi sayması",
+   "Kimlik ve normları çözümlemenin merkezine alması",
+   "Devleti artık temel aktör olarak kabul etmemesi"
   ],
   "dogru": 0,
   "aciklama": "Morgenthau insan doğasının bencilliğini vurgularken Waltz, devlet davranışını sistemin anarşik yapısının belirlediğini savunur.",
@@ -1461,11 +1461,11 @@
   "konuId": "ui_teoriler",
   "soru": "Joseph Nye'ın 'yumuşak güç' kavramı aşağıdakilerden hangisiyle ilişkilidir?",
   "secenekler": [
-   "Ekonomik yaptırım uygulanması",
-   "Gizli istihbarat faaliyetleri",
-   "Nükleer caydırıcılık",
+   "Hedef ülkeye kapsamlı ekonomik yaptırım uygulanması",
+   "Gizli istihbarat faaliyetleriyle yönlendirme yapılması",
+   "Nükleer silahların sağladığı caydırıcılık üstünlüğü",
    "Kültür, değer ve politikaların çekiciliğiyle etkileme",
-   "Askerî kapasitenin artırılması"
+   "Askerî kapasitenin sürekli olarak artırılması"
   ],
   "dogru": 3,
   "aciklama": "Yumuşak güç, zorlama ya da ödül yerine çekicilik yoluyla başkalarının tercihlerini şekillendirme kapasitesidir.",
@@ -1493,11 +1493,11 @@
   "konuId": "ui_teoriler",
   "soru": "Demokratik Barış Teorisi'nin temel iddiası aşağıdakilerden hangisidir?",
   "secenekler": [
-   "Demokrasiler hiçbir savaşa girmez",
+   "Demokrasiler hiçbir koşulda savaşa taraf olmaz",
    "Demokratik devletler birbirleriyle savaşma eğiliminde değildir",
-   "Otoriter rejimler daha barışçıldır",
-   "Demokrasi ekonomik büyümeyi hızlandırır",
-   "Demokrasiler uluslararası örgütlere üye olmaz"
+   "Otoriter rejimler demokrasilere kıyasla çok daha barışçıl davranır",
+   "Demokratik yönetim ekonomik büyümeyi hızlandırır",
+   "Demokrasiler uluslararası örgütlere üye olmaktan kaçınır"
   ],
   "dogru": 1,
   "aciklama": "Teori, demokrasilerin genel olarak savaşmadığını değil, kendi aralarında savaşma olasılıklarının çok düşük olduğunu ileri sürer.",
@@ -1525,10 +1525,10 @@
   "konuId": "ui_teoriler",
   "soru": "'Güvenlik ikilemi' kavramı aşağıdaki durumlardan hangisini anlatır?",
   "secenekler": [
-   "İttifak seçiminde yaşanan tereddüt",
-   "Uluslararası hukuk ile ulusal çıkar çatışması",
-   "Ekonomik ve askerî öncelikler arasındaki çatışma",
-   "Bir devletin iç ve dış tehditler arasında kalması",
+   "Bir devletin hangi ittifaka katılacağı konusunda yaşadığı uzun süreli tereddüt ve kararsızlık",
+   "Uluslararası hukuk kuralları ile ulusal çıkarların çatışması",
+   "Ekonomik öncelikler ile askerî öncelikler arasındaki gerilim",
+   "Bir devletin iç tehditler ile dış tehditler arasında sıkışması",
    "Bir devletin savunma amaçlı silahlanmasının diğerlerini tehdit altında hissettirmesi"
   ],
   "dogru": 4,
@@ -1573,11 +1573,11 @@
   "konuId": "ui_teoriler",
   "soru": "Aşağıdakilerden hangisi neoliberal kurumsalcılığın uluslararası kurumlara atfettiği işlevlerden biri DEĞİLDİR?",
   "secenekler": [
-   "Bilgi akışını artırmak",
-   "İş birliğini kolaylaştırmak",
+   "Taraflar arasındaki bilgi akışını artırmak",
+   "Devletler arasında iş birliğini kolaylaştırmak",
    "Devletlerin egemenliğini ortadan kaldırmak",
-   "Aldatma davranışını caydırmak",
-   "İşlem maliyetlerini düşürmek"
+   "Aldatma ve sözünden dönme davranışını caydırmak",
+   "Müzakerelerin işlem maliyetlerini düşürmek"
   ],
   "dogru": 2,
   "aciklama": "Kurumlar devletlerin egemenliğini kaldırmaz; iş birliğini kolaylaştıran araçlar olarak görülür.",
@@ -1590,10 +1590,10 @@
   "soru": "Huntington'ın 'Medeniyetler Çatışması' tezine göre Soğuk Savaş sonrası çatışmaların temel ekseni ne olacaktır?",
   "secenekler": [
    "Kültürel ve medeniyet farklılıkları",
-   "Askerî ittifaklar",
-   "Sömürgecilik mirası",
-   "Ekonomik rekabet",
-   "İdeolojik farklılıklar"
+   "Askerî ittifaklar arasındaki rekabet",
+   "Sömürgecilik döneminden kalan miras",
+   "Devletler arası ekonomik rekabet",
+   "İdeolojik kamplaşma ve farklılıklar"
   ],
   "dogru": 0,
   "aciklama": "Huntington, çatışma hatlarının ideolojiden kültürel ve medeniyet kimliklerine kaydığını savunmuştur.",
@@ -1637,11 +1637,11 @@
   "konuId": "ui_teoriler",
   "soru": "Kopenhag Okulu'nun 'güvenlikleştirme' kavramı neyi anlatır?",
   "secenekler": [
-   "Nükleer silahların denetimini",
-   "İttifak kurma sürecini",
+   "Nükleer silahların uluslararası denetim altına alınmasını",
+   "Devletler arasında askerî ittifak kurma sürecinin aşama aşama işleyişini",
    "Bir konunun söylem yoluyla varoluşsal tehdit hâline getirilmesini",
-   "Askerî harcamaların artırılmasını",
-   "Sınır güvenliğinin sağlanmasını"
+   "Savunma bütçelerinin ve askerî harcamaların artırılmasını",
+   "Sınır güvenliğinin teknolojik araçlarla sağlanmasını"
   ],
   "dogru": 2,
   "aciklama": "Güvenlikleştirme, bir meselenin siyasi alandan çıkarılıp olağanüstü tedbirleri meşrulaştıran bir güvenlik sorunu olarak sunulmasıdır.",
@@ -1717,10 +1717,10 @@
   "konuId": "ui_orgutler",
   "soru": "Avrupa Konseyi ile Avrupa Birliği arasındaki temel fark aşağıdakilerden hangisidir?",
   "secenekler": [
-   "Avrupa Konseyi AB'nin yürütme organıdır",
-   "İkisi aynı kurumun farklı organlarıdır",
-   "Avrupa Konseyi ekonomik, AB siyasi bütünleşme örgütüdür",
-   "Avrupa Konseyi yalnızca AB üyelerinden oluşur",
+   "Avrupa Konseyi, Avrupa Birliği'nin yürütme organı olarak görev yapmaktadır",
+   "İkisi aynı kurumun birbirini tamamlayan farklı organlarıdır",
+   "Avrupa Konseyi ekonomik, AB ise siyasi bütünleşme örgütüdür",
+   "Avrupa Konseyi yalnızca AB üyesi devletlerden oluşmaktadır",
    "Avrupa Konseyi insan hakları odaklıdır ve AB'den ayrı bir kurumdur"
   ],
   "dogru": 4,
@@ -1845,11 +1845,11 @@
   "konuId": "ui_orgutler",
   "soru": "Aşağıdakilerden hangisi BM'nin temel organlarından biri DEĞİLDİR?",
   "secenekler": [
-   "Genel Kurul",
-   "Sekreterlik",
-   "Vesayet Konseyi",
-   "Uluslararası Çalışma Örgütü",
-   "Güvenlik Konseyi"
+   "Birleşmiş Milletler Genel Kurulu",
+   "Birleşmiş Milletler Sekreterliği",
+   "Birleşmiş Milletler Vesayet Konseyi",
+   "Uluslararası Çalışma Örgütü (ILO)",
+   "Birleşmiş Milletler Güvenlik Konseyi"
   ],
   "dogru": 3,
   "aciklama": "ILO bir uzmanlık kuruluşudur; BM'nin altı temel organından biri değildir.",
@@ -1861,11 +1861,11 @@
   "konuId": "ui_orgutler",
   "soru": "NATO'nun 4. maddesi hangi durumda işletilir?",
   "secenekler": [
-   "Yeni üye kabul edilirken",
+   "İttifaka yeni bir üye devlet kabul edilmesi gündeme geldiğinde",
    "Bir üye toprak bütünlüğü veya güvenliğinin tehdit altında olduğunu düşünüp istişare talep ettiğinde",
-   "Genel Sekreter seçilirken",
-   "Bir üyeye silahlı saldırı olduğunda",
-   "Bütçe artırımı gerektiğinde"
+   "İttifakın Genel Sekreteri seçilirken ve göreve başlarken",
+   "Üyelerden birine doğrudan silahlı saldırı gerçekleştiğinde ve ortak savunma yükümlülüğü devreye girdiğinde",
+   "Ortak savunma bütçesinin artırılması gerektiğinde"
   ],
   "dogru": 1,
   "aciklama": "4. madde, tehdit algılayan üyenin ittifak içinde istişare talep etmesine imkân tanır; Türkiye bu maddeye birkaç kez başvurmuştur.",
@@ -2038,10 +2038,10 @@
   "soru": "2019 tarihli Türkiye-Libya Mutabakat Muhtırası hangi konuyla ilgilidir?",
   "secenekler": [
    "Deniz yetki alanlarının sınırlandırılması",
-   "Enerji nakil hatları",
-   "Ticaret serbestisi",
-   "Askerî eğitim iş birliği",
-   "Göç yönetimi"
+   "Enerji nakil hatlarının güzergâhının belirlenmesi",
+   "İki ülke arasında ticaret serbestisi sağlanması",
+   "Askerî eğitim ve danışmanlık iş birliği kurulması",
+   "Düzensiz göçün ortak yönetimi ve denetimi"
   ],
   "dogru": 0,
   "aciklama": "Kasım 2019'da imzalanan mutabakat, Doğu Akdeniz'de deniz yetki alanlarının sınırlandırılmasını düzenler.",
@@ -2117,11 +2117,11 @@
   "konuId": "ui_soguk_savas",
   "soru": "Küba Füze Krizi'nin sonuçlarından biri aşağıdakilerden hangisidir?",
   "secenekler": [
-   "Varşova Paktı'nın dağılması",
-   "NATO'nun kurulması",
+   "Varşova Paktı'nın kısa süre içinde dağılması",
+   "Kuzey Atlantik İttifakı'nın (NATO) kurulması",
    "ABD'nin Türkiye'deki Jüpiter füzelerini kaldırması",
-   "SSCB'nin dağılması",
-   "Berlin Duvarı'nın inşası"
+   "Sovyetler Birliği'nin dağılma sürecine girmesi",
+   "Berlin Duvarı'nın inşa edilerek şehrin ikiye bölünmesi"
   ],
   "dogru": 2,
   "aciklama": "Krizin çözümünde SSCB Küba'daki füzeleri geri çekmiş, ABD de Türkiye'deki Jüpiter füzelerini kaldırmıştır.",
@@ -2149,11 +2149,11 @@
   "konuId": "ui_soguk_savas",
   "soru": "Helsinki Nihai Senedi'nin (1975) temel ilkelerinden biri aşağıdakilerden hangisidir?",
   "secenekler": [
-   "Serbest ticaretin zorunlu kılınması",
+   "Üye ülkeler arasında serbest ticaretin zorunlu kılınması",
    "Sınırların dokunulmazlığı ve insan haklarına saygı",
-   "Sömürgelerin bağımsızlığı",
-   "Askerî ittifakların dağıtılması",
-   "Nükleer silahların tamamen yasaklanması"
+   "Sömürge halklarının bağımsızlığının desteklenmesi",
+   "Mevcut askerî ittifakların tümüyle dağıtılması",
+   "Nükleer silahların bütünüyle yasaklanması"
   ],
   "dogru": 1,
   "aciklama": "Helsinki Nihai Senedi, mevcut sınırların dokunulmazlığını ve insan haklarına saygıyı esas alarak AGİT sürecinin temelini oluşturmuştur.",
@@ -2214,10 +2214,10 @@
   "soru": "SALT antlaşmaları hangi konuyu düzenlemiştir?",
   "secenekler": [
    "Stratejik nükleer silahların sınırlandırılması",
-   "Ticaret serbestisi",
-   "Deniz yetki alanları",
-   "Uzay araştırmaları",
-   "İnsan hakları"
+   "Taraflar arasında ticaret serbestisinin sağlanması",
+   "Deniz yetki alanlarının sınırlandırılması",
+   "Uzay araştırmalarında iş birliği yapılması",
+   "Temel insan haklarının korunması ve denetimi"
   ],
   "dogru": 0,
   "aciklama": "SALT I (1972) ve SALT II (1979), ABD ile SSCB arasında stratejik silahların sınırlandırılmasını amaçlamıştır.",
@@ -2389,11 +2389,11 @@
   "konuId": "ui_uluslararasi_hukuk",
   "soru": "BM Antlaşması'na göre kuvvet kullanma yasağının istisnaları hangileridir?",
   "secenekler": [
-   "Diplomatik ilişkileri kesme",
-   "Ekonomik yaptırım ve ambargo",
-   "Uluslararası tahkim kararı",
+   "Diplomatik ilişkilerin tümüyle kesilmesi",
+   "Ekonomik yaptırım ve ambargo uygulanması",
+   "Uluslararası tahkim kararının bulunması",
    "Meşru müdafaa ve Güvenlik Konseyi kararı",
-   "İnsani müdahale ve misilleme"
+   "İnsani müdahale ve karşılıklı misilleme hakkı"
   ],
   "dogru": 3,
   "aciklama": "Kuvvet kullanma yasağının tanınan iki istisnası md.51 meşru müdafaa ve Güvenlik Konseyi'nin yetkilendirmesidir.",
@@ -2421,11 +2421,11 @@
   "konuId": "ui_uluslararasi_hukuk",
   "soru": "'Non-refoulement' ilkesi neyi yasaklar?",
   "secenekler": [
-   "Mültecilerin çalışmasını",
-   "Sınır kapılarının kapatılmasını",
+   "Mültecilerin bulundukları ülkede çalışıp gelir elde etmesini",
+   "Sınır kapılarının güvenlik gerekçesiyle kapatılmasını",
    "Kişinin hayatının tehlikede olduğu ülkeye geri gönderilmesini",
-   "Vatandaşlıktan çıkarmayı",
-   "Sınır dışı etme kararlarına itirazı"
+   "Kişinin vatandaşlıktan çıkarılarak haklarından yoksun bırakılmasını",
+   "Sınır dışı etme kararlarına karşı yargı yoluna gidilmesini"
   ],
   "dogru": 2,
   "aciklama": "Geri göndermeme ilkesi, kişinin zulüm veya ciddi zarar göreceği ülkeye iadesini yasaklar.",
@@ -2533,11 +2533,11 @@
   "konuId": "ui_guncel_sorunlar",
   "soru": "AB Yeşil Mutabakatı kapsamındaki Sınırda Karbon Düzenlemesi Türkiye'yi hangi yönüyle etkiler?",
   "secenekler": [
-   "Turizm gelirlerini artırır",
-   "Tarımsal sübvansiyonları yükseltir",
-   "Enerji ithalatını ucuzlatır",
+   "Türkiye'nin turizm gelirlerini önemli ölçüde artırır",
+   "Tarımsal sübvansiyon oranlarının kalıcı olarak yükseltilmesini zorunlu kılar",
+   "Enerji ithalatının maliyetini düşürerek ucuzlatır",
    "Karbon yoğun ürünlerin AB'ye ihracatını maliyetli hâle getirir",
-   "Vize serbestisi sağlar"
+   "Türk vatandaşlarına vize serbestisi sağlanmasının önünü açar"
   ],
   "dogru": 3,
   "aciklama": "Düzenleme, karbon yoğunluğu yüksek ithal ürünlere ek maliyet getirdiği için Türkiye'nin AB'ye ihracatını doğrudan etkiler.",
@@ -2581,11 +2581,11 @@
   "konuId": "ui_kavramlar",
   "soru": "'Akıllı güç' (smart power) kavramı neyi ifade eder?",
   "secenekler": [
-   "Sadece askerî gücün kullanılmasını",
-   "İstihbarat faaliyetlerini",
+   "Yalnızca askerî gücün etkin biçimde kullanılmasını",
+   "Gizli istihbarat faaliyetlerinin yoğunlaştırılmasını",
    "Sert ve yumuşak gücün dengeli biçimde birlikte kullanılmasını",
-   "Siber saldırı kapasitesini",
-   "Yalnızca ekonomik yaptırımları"
+   "Siber saldırı kapasitesinin geliştirilip etkin biçimde kullanılmasını",
+   "Yalnızca ekonomik yaptırımlara başvurulmasını"
   ],
   "dogru": 2,
   "aciklama": "Akıllı güç, sert ve yumuşak güç araçlarının duruma göre dengeli bir bileşimini ifade eder.",
@@ -2598,10 +2598,10 @@
   "soru": "Kolektif güvenlik ile kolektif savunma arasındaki fark nedir?",
   "secenekler": [
    "Kolektif güvenlik sistem içi saldırgana karşı, kolektif savunma dış saldırıya karşı örgütlenir",
-   "İkisi de aynı kavramdır",
-   "Kolektif savunma ekonomik bir mekanizmadır",
-   "Kolektif güvenlik yalnızca bölgesel örgütlerde olur",
-   "Kolektif savunma yalnızca BM'de vardır"
+   "İki kavram tümüyle aynı anlama gelir, uygulamada birbirinin yerine kullanılabilir ve aynı örgütlerde görülür",
+   "Kolektif savunma askerî değil ekonomik bir dayanışma mekanizmasıdır",
+   "Kolektif güvenlik yalnızca bölgesel örgütler bünyesinde kurulabilir",
+   "Kolektif savunma yalnızca Birleşmiş Milletler çatısı altında uygulanır"
   ],
   "dogru": 0,
   "aciklama": "BM kolektif güvenlik, NATO ise kolektif savunma modelinin örneğidir.",
@@ -2613,11 +2613,11 @@
   "konuId": "ui_kavramlar",
   "soru": "Arabuluculuk ile hakemlik arasındaki temel fark nedir?",
   "secenekler": [
-   "Arabuluculukta karar bağlayıcı, hakemlikte değildir",
-   "İkisi de bağlayıcıdır",
+   "Arabuluculuk kararı bağlayıcı, hakemlik kararı ise taraflar için bağlayıcı değildir",
+   "Her iki yol da taraflar bakımından bağlayıcı sonuç doğurur",
    "Hakemlik kararı bağlayıcı, arabuluculuk önerisi bağlayıcı değildir",
-   "Hakemlik yalnızca BM tarafından yürütülür",
-   "İkisi de bağlayıcı değildir"
+   "Hakemlik yalnızca Birleşmiş Milletler tarafından yürütülebilir",
+   "Her iki yol da taraflar için bağlayıcı sonuç doğurmaz"
   ],
   "dogru": 2,
   "aciklama": "Hakemlikte taraflar verilen kararla bağlıdır; arabuluculukta üçüncü taraf yalnızca öneri sunar.",
@@ -2661,11 +2661,11 @@
   "konuId": "ui_kavramlar",
   "soru": "'İki düzeyli oyun' yaklaşımı kime aittir ve neyi anlatır?",
   "secenekler": [
-   "Nye - yumuşak güç",
-   "Allison - bürokratik siyaset",
+   "Nye - devletlerin kültürel çekicilikle etki kurması",
+   "Allison - kararların bürokratik pazarlıkla alınması",
    "Putnam - liderlerin hem uluslararası hem iç politika masasında pazarlık etmesi",
-   "Waltz - sistem yapısı",
-   "Wendt - kimlik inşası"
+   "Waltz - uluslararası sistemin yapısının devlet davranışını belirleyici biçimde şekillendirmesi",
+   "Wendt - kimliklerin toplumsal etkileşimle inşa edilmesi"
   ],
   "dogru": 2,
   "aciklama": "Robert Putnam'a göre müzakereciler eş zamanlı olarak uluslararası masada ve iç siyaset masasında pazarlık eder.",
@@ -2678,10 +2678,10 @@
   "soru": "'Karşılıklı garantili yıkım' (MAD) kavramı hangi dönemin güvenlik anlayışını yansıtır?",
   "secenekler": [
    "Soğuk Savaş nükleer caydırıcılığı",
-   "Vestfalya düzeni",
-   "Küreselleşme sonrası",
-   "I. Dünya Savaşı",
-   "Sömürgecilik dönemi"
+   "Vestfalya sonrası Avrupa düzeni",
+   "Küreselleşme sonrası güvenlik düzeni",
+   "I. Dünya Savaşı öncesi dönem",
+   "Klasik sömürgecilik dönemi anlayışı"
   ],
   "dogru": 0,
   "aciklama": "MAD, iki tarafın da karşılıklı yok olacağı bilgisiyle nükleer savaşın önlenmesi mantığına dayanır.",
@@ -2693,10 +2693,10 @@
   "konuId": "ui_kavramlar",
   "soru": "'Diversiyonist savaş' tezi neyi anlatır?",
   "secenekler": [
-   "Nükleer silahların barışı sağladığını",
-   "İttifakların savaşı önlediğini",
-   "Savaşların ekonomik nedenlerle çıktığını",
-   "Savaşların kaçınılmaz olduğunu",
+   "Nükleer silahların uluslararası barışı sağladığını",
+   "Askerî ittifakların savaşları büyük ölçüde önlediğini",
+   "Savaşların temelde ekonomik çıkar çatışmalarından ve kaynak rekabetinden kaynaklandığını",
+   "Devletler arası savaşların kaçınılmaz olduğunu",
    "Liderlerin iç sorunlardan dikkati kaydırmak için dış çatışma üretebileceğini"
   ],
   "dogru": 4,
@@ -2773,10 +2773,10 @@
   "konuId": "ui_bolgesel",
   "soru": "2020 II. Karabağ Savaşı nasıl sonuçlanmıştır?",
   "secenekler": [
-   "BM yönetimi kurulmasıyla",
-   "Statükonun korunmasıyla",
-   "Ermenistan'ın zaferiyle",
-   "Rusya'nın bölgeyi ilhak etmesiyle",
+   "Bölgede Birleşmiş Milletler geçici yönetiminin kurulup referanduma gidilmesiyle",
+   "Savaş öncesi statükonun aynen korunmasıyla",
+   "Ermenistan'ın kesin askerî zaferiyle",
+   "Rusya'nın bölgeyi doğrudan ilhak etmesiyle",
    "Azerbaycan'ın işgal edilen toprakların büyük bölümünü geri almasıyla"
   ],
   "dogru": 4,
@@ -2918,10 +2918,10 @@
   "soru": "Eleştirel teorinin 'problem çözücü teori' eleştirisi neye dayanır?",
   "secenekler": [
    "Mevcut düzeni veri kabul edip sorgulamamasına",
-   "Tarihsel veri kullanmamasına",
-   "Normatif olmamasına",
-   "Devletleri dışlamasına",
-   "Yeterince matematiksel olmamasına"
+   "Çözümlemede tarihsel veri kullanmamasına",
+   "Hiçbir normatif boyut taşımamasına",
+   "Devletleri çözümleme dışında bırakmasına",
+   "Yöntem olarak yeterince matematiksel olmamasına"
   ],
   "dogru": 0,
   "aciklama": "Robert Cox'a göre problem çözücü teoriler mevcut yapıyı sorgulamadan onun içinde çözüm arar ve böylece statükoyu meşrulaştırır.",
@@ -2934,10 +2934,10 @@
   "soru": "Feminist uluslararası ilişkiler teorisinin temel eleştirisi nedir?",
   "secenekler": [
    "Geleneksel kuramların toplumsal cinsiyet körlüğü",
-   "Ekonomik faktörlerin ihmali",
-   "Devlet merkezli analizin yetersizliği",
-   "Nükleer silahların önemsenmemesi",
-   "Bölgesel örgütlerin göz ardı edilmesi"
+   "Ekonomik etkenlerin bütünüyle ihmal edilmesi",
+   "Devlet merkezli çözümlemenin yetersiz kalması",
+   "Nükleer silahlanmanın yeterince önemsenmemesi",
+   "Bölgesel örgütlerin tümüyle göz ardı edilerek dışlanması"
   ],
   "dogru": 0,
   "aciklama": "Feminist yaklaşım, güvenlik ve güç kavramlarının erkek egemen bir bakışla kurulduğunu ve toplumsal cinsiyetin ihmal edildiğini savunur.",
@@ -2965,11 +2965,11 @@
   "konuId": "ui_teoriler",
   "soru": "Uluslararası rejimler aşağıdakilerden hangisiyle tanımlanır?",
   "secenekler": [
-   "Askerî ittifaklar",
-   "Bölgesel pazarlar",
+   "Devletler arasında kurulan resmî askerî ittifak yapıları ve karşılıklı savunma taahhütleri",
+   "Belirli coğrafyalarda oluşturulan bölgesel ortak pazar düzenlemeleri",
    "Belirli bir alanda beklentilerin buluştuğu ilke, norm, kural ve karar alma usulleri",
-   "İkili antlaşmalar",
-   "Yalnızca resmî örgütler"
+   "İki devlet arasında imzalanan ikili antlaşmaların tümü",
+   "Yalnızca resmî statüye sahip uluslararası örgütlerin kendisi"
   ],
   "dogru": 2,
   "aciklama": "Krasner'ın tanımına göre rejimler, aktörlerin beklentilerinin buluştuğu ilke, norm, kural ve karar alma prosedürleri bütünüdür.",
@@ -2982,10 +2982,10 @@
   "soru": "'Mahkûm ikilemi' oyunu uluslararası ilişkilerde neyi göstermek için kullanılır?",
   "secenekler": [
    "Bireysel rasyonelliğin ortak kayba yol açabileceğini",
-   "İttifakların istikrarını",
-   "Ekonomik büyümenin barışı getirdiğini",
-   "Hegemonyanın gerekliliğini",
-   "Savaşın kaçınılmazlığını"
+   "Askerî ittifakların uzun vadeli istikrarını",
+   "Ekonomik büyümenin devletler arasında barışı beraberinde getirdiğini",
+   "Sistemde hegemonyanın gerekli olduğunu",
+   "Devletler arası savaşın kaçınılmazlığını"
   ],
   "dogru": 0,
   "aciklama": "Her aktörün kendi açısından rasyonel davranması, iş birliğine göre daha kötü bir ortak sonuç doğurabilir.",
@@ -3013,11 +3013,11 @@
   "konuId": "ui_teoriler",
   "soru": "Spykman'ın 'Kenar Kuşak' (Rimland) tezi neyi vurgular?",
   "secenekler": [
-   "Avrasya'nın iç bölgesini",
-   "Kutup bölgelerini",
+   "Avrasya'nın iç bölgesinin denetlenmesinin belirleyici olduğunu",
+   "Kutup bölgelerinin artan stratejik değerini",
    "Avrasya'yı çevreleyen kıyı kuşağının stratejik önemini",
-   "Afrika kıtasını",
-   "Okyanus adalarını"
+   "Afrika kıtasının kaynak bakımından önemini",
+   "Okyanuslardaki ada zincirlerinin önemini"
   ],
   "dogru": 2,
   "aciklama": "Spykman, Mackinder'in Kalpgâh tezine karşı, Avrasya'yı çevreleyen kıyı kuşağının belirleyici olduğunu ileri sürmüştür.",
@@ -3029,11 +3029,11 @@
   "konuId": "ui_teoriler",
   "soru": "Uluslararası ilişkilerde 'analiz düzeyi' tartışması neyi ifade eder?",
   "secenekler": [
-   "Teorilerin karmaşıklığını",
-   "Bölgesel kapsamı",
+   "Kuramların kavramsal karmaşıklık derecesini",
+   "Çözümlemenin coğrafi kapsam genişliğini",
    "Açıklamanın birey, devlet veya sistem düzeyinde yapılmasını",
-   "Verilerin niceliğini",
-   "Örgüt sayısını"
+   "Kullanılan nicel verilerin miktarını ve istatistiksel güvenilirliğini",
+   "İncelenen uluslararası örgütlerin sayısını"
   ],
   "dogru": 2,
   "aciklama": "Waltz'ın üç imgesi olarak da bilinen bu ayrım, olayların birey, devlet ya da sistem düzeyinde açıklanmasını konu alır.",
@@ -3046,10 +3046,10 @@
   "soru": "'Yumuşak dengeleme' (soft balancing) kavramı neyi anlatır?",
   "secenekler": [
    "Diplomatik ve kurumsal araçlarla baskın gücü sınırlamayı",
-   "Askerî ittifak kurmayı",
-   "Silahlanma yarışını",
-   "Ekonomik yaptırım uygulamayı",
-   "Tarafsız kalmayı"
+   "Baskın güce karşı doğrudan askerî ittifak kurup silahlanmayı",
+   "Silahlanma yarışına girerek denge kurmayı",
+   "Ekonomik yaptırımlarla baskı uygulamayı",
+   "Çatışmalarda tarafsız kalmayı tercih etmeyi"
   ],
   "dogru": 0,
   "aciklama": "Yumuşak dengeleme, doğrudan askerî karşı koyma yerine diplomasi, uluslararası kurumlar ve hukuk yoluyla baskın gücü kısıtlamayı ifade eder.",
@@ -3078,10 +3078,10 @@
   "soru": "'Emperyalizm' kuramında Lenin'in temel iddiası nedir?",
   "secenekler": [
    "Emperyalizmin kapitalizmin en yüksek aşaması olduğu",
-   "Uluslararası hukukun yeterli olduğu",
-   "Devletlerin doğal olarak barışçıl olduğu",
-   "Savaşların kültürel nedenleri olduğu",
-   "Hegemonyanın istikrar getirdiği"
+   "Uluslararası hukukun çatışmaları önlemekte tek başına yeterli olduğu",
+   "Devletlerin doğaları gereği barışçıl olduğu",
+   "Savaşların temelde kültürel nedenleri olduğu",
+   "Hegemonyanın sisteme istikrar kazandırdığı"
   ],
   "dogru": 0,
   "aciklama": "Lenin, sermaye ihracı ve tekelleşmenin emperyalizmi kapitalizmin en yüksek aşaması hâline getirdiğini savunmuştur.",
@@ -3158,10 +3158,10 @@
   "soru": "IMF'nin temel işlevi nedir?",
   "secenekler": [
    "Ödemeler dengesi sorunlarına kısa vadeli destek sağlamak",
-   "Ticaret uyuşmazlıklarını çözmek",
-   "Uzun vadeli kalkınma kredisi vermek",
-   "Gıda yardımı yapmak",
-   "Mültecilere destek olmak"
+   "Devletler arası ticaret uyuşmazlıklarını inceleyip çözüme bağlamak",
+   "Kalkınma projelerine uzun vadeli kredi sağlamak",
+   "Kriz bölgelerine acil gıda yardımı ulaştırmak",
+   "Mültecilere barınma ve koruma desteği sunmak"
   ],
   "dogru": 0,
   "aciklama": "IMF ödemeler dengesi güçlüğü çeken ülkelere kısa vadeli finansman sağlar; uzun vadeli kalkınma finansmanı Dünya Bankası'nın işidir.",
@@ -3254,10 +3254,10 @@
   "soru": "OPEC'in kuruluş amacı nedir?",
   "secenekler": [
    "Petrol politikalarının eşgüdümü ve fiyat istikrarı",
-   "Göç yönetimi",
-   "Nükleer denetim",
-   "Tarım ürünlerinde fiyat istikrarı",
-   "Ticaret serbestisi"
+   "Uluslararası göç hareketlerinin ortak yönetimi",
+   "Nükleer faaliyetlerin uluslararası denetimi",
+   "Tarım ürünlerinde üretim ve fiyat istikrarının sağlanması",
+   "Üyeler arasında ticaret serbestisinin sağlanması"
   ],
   "dogru": 0,
   "aciklama": "OPEC, üye ülkelerin petrol politikalarını eşgüdümleyerek piyasada istikrar sağlamayı amaçlar.",
@@ -3317,10 +3317,10 @@
   "konuId": "ui_orgutler",
   "soru": "Uluslararası Çalışma Örgütü'nün (ILO) ayırt edici özelliği nedir?",
   "secenekler": [
-   "Yalnızca AB üyelerini kapsaması",
-   "Yalnızca devletlerden oluşması",
-   "Yargı yetkisine sahip olması",
-   "Askerî nitelikte olması",
+   "Yalnızca Avrupa Birliği üyesi devletleri kapsaması ve bölgesel olması",
+   "Üyeliğin yalnızca devletlere açık olması",
+   "Bağlayıcı yargı yetkisine sahip olması",
+   "Askerî nitelikte bir örgüt olması",
    "Üçlü yapısı (hükümet, işveren, işçi temsilcileri)"
   ],
   "dogru": 4,
@@ -3493,11 +3493,11 @@
   "konuId": "ui_turk_dis_politika",
   "soru": "TİKA'nın temel işlevi nedir?",
   "secenekler": [
-   "Ticaret düzenlemesi",
+   "Dış ticaret düzenlemelerinin yapılması",
    "Kalkınma iş birliği ve teknik yardım",
-   "Vize işlemleri",
-   "İstihbarat",
-   "Askerî iş birliği"
+   "Vize ve pasaport işlemlerinin yürütülmesi",
+   "Dış istihbarat faaliyetlerinin yürütülmesi",
+   "Askerî iş birliği ve eğitim desteği"
   ],
   "dogru": 1,
   "aciklama": "Türk İşbirliği ve Koordinasyon Ajansı, kalkınma yardımı ve teknik iş birliği projeleri yürütür.",
@@ -3701,11 +3701,11 @@
   "konuId": "ui_soguk_savas",
   "soru": "Soğuk Savaş'ın sona ermesiyle ortaya çıkan sistem tartışması hangisidir?",
   "secenekler": [
-   "Federalizm",
+   "Federalizm ve konfederalizm tartışması",
    "Tek kutupluluk ve çok kutupluluk",
-   "Bölgeselleşme",
-   "Kutupsuzluk",
-   "Çift kutupluluk"
+   "Bölgeselleşme ve yerelleşme eğilimi",
+   "Kutupsuzluk ve güç dağınıklığı",
+   "Çift kutuplu yapının sürmesi"
   ],
   "dogru": 1,
   "aciklama": "SSCB'nin dağılmasıyla ABD'nin tek süper güç konumu ve ardından çok kutupluluk tartışmaları başlamıştır.",
@@ -3749,11 +3749,11 @@
   "konuId": "ui_uluslararasi_hukuk",
   "soru": "Uluslararası örf ve adet hukukunun oluşması için gereken iki unsur nedir?",
   "secenekler": [
-   "İmza ve tasdik",
-   "Yazılı metin ve onay",
-   "Çoğunluk oyu ve tescil",
+   "Antlaşma metninin imzalanması ve usulüne uygun tasdik edilmesi",
+   "Yazılı metnin bulunması ve onaylanması",
+   "Çoğunluk oyu alınması ve tescil edilmesi",
    "Sürekli uygulama ve hukuki zorunluluk inancı",
-   "Mahkeme kararı ve doktrin"
+   "Mahkeme kararlarının ve doktrinin varlığı"
   ],
   "dogru": 3,
   "aciklama": "Örf ve adet için istikrarlı uygulama (usus) ve bunun hukuken zorunlu sayılması inancı (opinio juris) gerekir.",
@@ -3781,11 +3781,11 @@
   "konuId": "ui_uluslararasi_hukuk",
   "soru": "'Rebus sic stantibus' ilkesi neyi ifade eder?",
   "secenekler": [
-   "Onayın gereksizliğini",
+   "Antlaşmaların yürürlüğü için onayın gerekli olmadığını",
    "Koşullarda köklü değişiklik hâlinde antlaşmanın sona erebileceğini",
-   "Antlaşmaların sonsuza dek geçerli olduğunu",
-   "Antlaşmaların geriye yürüdüğünü",
-   "Çekince konulamayacağını"
+   "Antlaşmaların hiçbir koşulda değiştirilemeyeceğini ve sonsuza dek geçerli kalacağını",
+   "Antlaşmaların geriye yürüyerek uygulanacağını",
+   "Antlaşmalara çekince konulamayacağını"
   ],
   "dogru": 1,
   "aciklama": "Koşullarda esaslı ve öngörülemeyen bir değişiklik antlaşmanın sona ermesi için gerekçe olabilir.",
@@ -3845,11 +3845,11 @@
   "konuId": "ui_uluslararasi_hukuk",
   "soru": "1949 Cenevre Sözleşmeleri hangi alanı düzenler?",
   "secenekler": [
-   "Çevre hukuku",
-   "Deniz hukuku",
-   "Diplomatik ilişkiler",
+   "Uluslararası çevre hukuku kuralları",
+   "Deniz yetki alanları ve seyrüsefer hukuku",
+   "Diplomatik ilişkiler ve dokunulmazlıklar",
    "Silahlı çatışmalarda insancıl hukuk",
-   "Ticaret hukuku"
+   "Uluslararası ticaret hukuku kuralları"
   ],
   "dogru": 3,
   "aciklama": "Dört Cenevre Sözleşmesi yaralı, hasta, savaş esiri ve sivillerin korunmasını düzenler.",
@@ -3957,11 +3957,11 @@
   "konuId": "ui_guncel_sorunlar",
   "soru": "Sınır aşan sular konusunda Türkiye'nin savunduğu temel yaklaşım nedir?",
   "secenekler": [
-   "Serbest kullanım",
+   "Sınırsız ve serbest kullanım hakkı",
    "Hakkaniyete dayalı ve akılcı kullanım",
-   "Eşit paylaşım",
-   "Uluslararası yönetim",
-   "Tam egemenlik"
+   "Kıyıdaş ülkeler arasında eşit paylaşım",
+   "Suların uluslararası yönetime bırakılması",
+   "Kaynak ülkenin tam egemenlik hakkı"
   ],
   "dogru": 1,
   "aciklama": "Türkiye, su kaynaklarının hakkaniyet ve akılcı kullanım ilkeleri çerçevesinde değerlendirilmesini savunur.",
@@ -3989,11 +3989,11 @@
   "konuId": "ui_guncel_sorunlar",
   "soru": "Dijital alanda devletler arası en önemli yeni tehdit alanı hangisidir?",
   "secenekler": [
-   "Kaçak avlanma",
+   "Kaçak avlanma ve deniz canlıları ticareti",
    "Siber saldırılar ve dezenformasyon",
-   "Turizm rekabeti",
-   "Tarımsal sübvansiyon",
-   "Vergi kaçakçılığı"
+   "Ülkeler arası turizm rekabeti",
+   "Tarımsal sübvansiyon uyuşmazlıkları",
+   "Sınır ötesi vergi kaçakçılığı"
   ],
   "dogru": 1,
   "aciklama": "Kritik altyapılara siber saldırılar ve bilgi operasyonları yeni güvenlik gündeminin merkezindedir.",
@@ -4037,11 +4037,11 @@
   "konuId": "ui_guncel_sorunlar",
   "soru": "Enerji güvenliğinde 'arz çeşitlendirmesi' neyi ifade eder?",
   "secenekler": [
-   "Yalnızca yenilenebilir kullanmayı",
+   "Yalnızca yenilenebilir kaynaklara yönelerek fosil yakıtları terk etmeyi",
    "Kaynak ve güzergâh çeşitliliğiyle bağımlılığı azaltmayı",
-   "Tek kaynağa bağlılığı artırmayı",
-   "Enerji fiyatlarını sabitlemeyi",
-   "Tüketimi kısıtlamayı"
+   "Tek bir tedarikçiye bağlılığı artırmayı",
+   "Enerji fiyatlarını uzun süre sabitlemeyi",
+   "Toplam enerji tüketimini kısıtlamayı"
   ],
   "dogru": 1,
   "aciklama": "Arz çeşitlendirmesi, farklı tedarikçi ve güzergâhlarla tek bir kaynağa bağımlılığın azaltılmasıdır.",
@@ -4085,10 +4085,10 @@
   "konuId": "ui_kavramlar",
   "soru": "'Revizyonist devlet' ne demektir?",
   "secenekler": [
-   "Küçük devlet",
-   "Mevcut düzeni korumak isteyen devlet",
-   "Tarafsız devlet",
-   "Federal devlet",
+   "Nüfusu ve yüzölçümü küçük olan devlet",
+   "Mevcut uluslararası düzeni olduğu gibi korumak isteyen devlet",
+   "Çatışmalarda tarafsız kalmayı seçen devlet",
+   "Federal yapıya sahip olan devlet",
    "Mevcut düzeni kendi lehine değiştirmek isteyen devlet"
   ],
   "dogru": 4,
@@ -4101,11 +4101,11 @@
   "konuId": "ui_kavramlar",
   "soru": "Diplomaside 'nota' nedir?",
   "secenekler": [
-   "Askerî tehdit",
-   "Ateşkes çağrısı",
-   "Ortak bildiri",
+   "Bir devletin diğerine yönelttiği askerî tehdit",
+   "Çatışan taraflara yapılan ateşkes çağrısı",
+   "İki devletin görüşme sonunda birlikte yayımladığı ortak bildiri",
    "Bir devletin diğerine ilettiği resmî yazılı bildirim",
-   "Ticaret anlaşması"
+   "İki ülke arasında imzalanan ticaret anlaşması"
   ],
   "dogru": 3,
   "aciklama": "Nota, devletler arasında resmî görüş veya protesto bildiren yazılı diplomatik belgedir.",
@@ -4117,11 +4117,11 @@
   "konuId": "ui_kavramlar",
   "soru": "'Ambargo' ile 'boykot' arasındaki fark nedir?",
   "secenekler": [
-   "Boykot yalnızca savaşta uygulanır",
-   "Boykot askerî bir tedbirdir",
+   "Boykot yalnızca savaş hâlinde uygulanabilen bir tedbirdir",
+   "Boykot askerî nitelikte bir zorlama tedbiridir",
    "Ambargo devlet kararıyla ticaretin kısıtlanması, boykot ise alımdan kaçınmadır",
-   "Ambargo yalnızca BM tarafından uygulanır",
-   "İkisi aynıdır"
+   "Ambargo yalnızca Birleşmiş Milletler Güvenlik Konseyi kararıyla uygulanabilen bir tedbirdir",
+   "İki kavram tümüyle aynı anlama gelir"
   ],
   "dogru": 2,
   "aciklama": "Ambargo genellikle devlet kararıyla ticaretin yasaklanmasıdır; boykot ise belirli mal veya hizmetlerin alınmamasıdır.",
@@ -4133,11 +4133,11 @@
   "konuId": "ui_kavramlar",
   "soru": "'Ad hoc' terimi diplomaside neyi ifade eder?",
   "secenekler": [
-   "Karşılıklılık",
-   "Sürekli görev",
-   "Vekâleten temsil",
+   "Devletler arasında karşılıklılık esası",
+   "Sürekli nitelikte bir görevlendirme",
+   "Başka bir temsilci adına vekâleten yürütülen temsil görevi",
    "Belirli bir amaç için geçici olarak oluşturulan",
-   "Gizli antlaşma"
+   "Taraflarca gizli tutulan antlaşma"
   ],
   "dogru": 3,
   "aciklama": "Ad hoc, belirli bir iş için geçici olarak kurulan komite veya görevi ifade eder.",
@@ -4149,10 +4149,10 @@
   "konuId": "ui_kavramlar",
   "soru": "Kamu diplomasisi neyi hedefler?",
   "secenekler": [
-   "Yabancı hükümetlerle gizli pazarlık",
-   "Sınır güvenliği",
-   "Askerî ittifak kurma",
-   "Ticaret anlaşması imzalama",
+   "Yabancı hükümetlerle kapalı kapılar ardında gizli pazarlık yürütme",
+   "Sınır güvenliğini teknolojiyle sağlama",
+   "Bölgesel askerî ittifak kurma ve genişletme",
+   "İkili ticaret anlaşmaları imzalama",
    "Yabancı kamuoyunu etkileme ve ülke imajını güçlendirme"
   ],
   "dogru": 4,
@@ -4165,11 +4165,11 @@
   "konuId": "ui_kavramlar",
   "soru": "'Ulusal güç' unsurları arasında aşağıdakilerden hangisi 'somut olmayan' unsurlardandır?",
   "secenekler": [
-   "Coğrafya",
-   "Askerî teçhizat",
-   "Doğal kaynaklar",
+   "Coğrafi konum ve yüzölçümü",
+   "Askerî teçhizat ve silah stoku düzeyi",
+   "Doğal kaynak varlığı ve rezervler",
    "Ulusal moral ve liderlik kalitesi",
-   "Nüfus"
+   "Nüfus büyüklüğü ve yapısı"
   ],
   "dogru": 3,
   "aciklama": "Ulusal moral, liderlik ve diplomasi kalitesi soyut güç unsurları arasında sayılır.",
@@ -4181,11 +4181,11 @@
   "konuId": "ui_kavramlar",
   "soru": "'Tampon devlet' kavramı neyi anlatır?",
   "secenekler": [
-   "Denize kıyısı olmayan devleti",
-   "Tarafsız devleti",
-   "Küçük ada devletini",
+   "Denize kıyısı bulunmayan ve ulaşımda komşularına bağımlı kara devletini",
+   "Çatışmalarda tarafsız kalan devleti",
+   "Okyanusta yer alan küçük ada devletini",
    "İki büyük güç arasında yer alan ve çatışmayı yumuşatan devleti",
-   "Federal devleti"
+   "Federal yapıya sahip devleti"
   ],
   "dogru": 3,
   "aciklama": "Tampon devlet, rakip büyük güçler arasında konumlanarak doğrudan teması azaltan devlettir.",
@@ -4245,10 +4245,10 @@
   "konuId": "ui_bolgesel",
   "soru": "'Mavi Vatan' kavramı neyi ifade eder?",
   "secenekler": [
-   "Sınır güvenliğini",
-   "Hava sahasını",
-   "Türkiye'nin orman alanlarını",
-   "Su havzalarını",
+   "Kara sınırlarının güvenliğini sağlamaya yönelik savunma politikasını",
+   "Ülkenin hava sahası üzerindeki egemenliğini",
+   "Türkiye'nin orman alanlarının korunmasını",
+   "Sınır aşan su havzalarının yönetimini",
    "Türkiye'nin deniz yetki alanlarına ilişkin yaklaşımını"
   ],
   "dogru": 4,
@@ -4277,11 +4277,11 @@
   "konuId": "ui_bolgesel",
   "soru": "Zengezur Koridoru projesi hangi bağlantıyı hedefler?",
   "secenekler": [
-   "Rusya - İran",
-   "Türkiye - Gürcistan",
-   "Türkiye - Irak",
+   "Rusya ile İran arasında demir yolu bağlantısı",
+   "Türkiye ile Gürcistan arasında enerji nakil bağlantısı",
+   "Türkiye ile Irak arasında ticaret bağlantısı",
    "Azerbaycan ile Nahçıvan arasında kara bağlantısı",
-   "Kazakistan - Çin"
+   "Kazakistan ile Çin arasında lojistik bağlantısı"
   ],
   "dogru": 3,
   "aciklama": "Zengezur Koridoru, Azerbaycan'ın Nahçıvan Özerk Cumhuriyeti ile kara bağlantısını hedefler.",
@@ -4326,10 +4326,10 @@
   "soru": "Realizmin uluslararası kurumlara bakışı nasıldır?",
   "secenekler": [
    "Kurumlar büyük güçlerin çıkarlarını yansıtan araçlardır",
-   "Kurumlar bağımsız etkiye sahiptir",
-   "Kurumlar anarşiyi sona erdirir",
-   "Kurumlar devletlerin yerini alır",
-   "Kurumlar ekonomiyi belirler"
+   "Kurumlar devletlerden bağımsız ve onları bağlayan bir etkiye sahiptir",
+   "Kurumlar uluslararası anarşiyi sona erdirir",
+   "Kurumlar zamanla devletlerin yerini alacaktır",
+   "Kurumlar ekonomik ilişkileri belirleyen ögedir"
   ],
   "dogru": 0,
   "aciklama": "Realistlere göre kurumlar bağımsız aktör değil, güçlü devletlerin çıkarlarını yansıtan araçlardır.",
@@ -4389,11 +4389,11 @@
   "konuId": "ui_teoriler",
   "soru": "Gramsci'den esinlenen eleştirel yaklaşımda 'hegemonya' neyi ifade eder?",
   "secenekler": [
-   "Nükleer caydırıcılık",
-   "Bölgesel liderlik",
-   "Sadece askerî üstünlük",
+   "Nükleer silahlara dayalı karşılıklı caydırıcılık üstünlüğü",
+   "Bölgesel ölçekte kurulan siyasi liderlik",
+   "Yalnızca askerî güce dayanan üstünlük",
    "Rıza üretimi yoluyla kurulan fikrî ve kültürel üstünlük",
-   "Ekonomik ambargo"
+   "Hedef ülkeye uygulanan ekonomik ambargo"
   ],
   "dogru": 3,
   "aciklama": "Gramscici anlamda hegemonya, zor kadar rıza üretimine dayanan fikrî ve kültürel önderliktir.",
@@ -4437,10 +4437,10 @@
   "konuId": "ui_teoriler",
   "soru": "Realizmde 'kendi kendine yardım' (self-help) ilkesi neye dayanır?",
   "secenekler": [
-   "BM güvencesine",
-   "Ekonomik bağımsızlığa",
-   "İttifakların güvenilirliğine",
-   "Uluslararası hukukun gücüne",
+   "Birleşmiş Milletler Güvenlik Konseyi'nin sağladığı ortak güvenceye",
+   "Devletlerin ekonomik bağımsızlığına",
+   "İttifak taahhütlerinin güvenilirliğine",
+   "Uluslararası hukukun bağlayıcı gücüne",
    "Anarşide devletin güvenliğini kendi sağlamak zorunda olmasına"
   ],
   "dogru": 4,
@@ -4453,11 +4453,11 @@
   "konuId": "ui_teoriler",
   "soru": "Uluslararası ilişkilerde 'agent-structure' (aktör-yapı) tartışması neyi konu alır?",
   "secenekler": [
-   "Ticaret hacmini",
+   "Devletler arası ticaret hacminin ölçülmesini",
    "Aktörlerin mi yapıyı, yapının mı aktörleri belirlediğini",
-   "Bütçe dağılımını",
-   "Savaş türlerini",
-   "Örgüt sayısını"
+   "Uluslararası örgütlerde bütçe dağılımını",
+   "Savaşların türlerine ve şiddet düzeylerine göre sınıflandırılmasını",
+   "Uluslararası örgütlerin sayısındaki artışı"
   ],
   "dogru": 1,
   "aciklama": "Tartışma, davranışların aktör tercihleriyle mi yoksa yapısal koşullarla mı açıklanacağı üzerinedir.",
@@ -4469,10 +4469,10 @@
   "konuId": "ui_teoriler",
   "soru": "Konstruktivizme göre 'norm yayılması' nasıl gerçekleşir?",
   "secenekler": [
-   "Askerî işgalle",
-   "Zorla dayatmayla",
-   "Ekonomik yaptırımla",
-   "Rastgele",
+   "Askerî işgal ve zorla yerleştirme yoluyla",
+   "Büyük güçlerin baskı kurarak doğrudan dayatmasıyla",
+   "Ekonomik yaptırım tehdidi kullanılarak",
+   "Hiçbir düzene bağlı olmadan rastgele",
    "Norm girişimcileri ve sosyalleşme süreçleriyle"
   ],
   "dogru": 4,
@@ -4533,11 +4533,11 @@
   "konuId": "ui_orgutler",
   "soru": "UNDP'nin temel işlevi nedir?",
   "secenekler": [
-   "Askerî barış gücü",
-   "Kültürel miras",
-   "Mülteci koruması",
+   "Askerî barış gücü operasyonlarının yürütülmesi",
+   "Kültürel mirasın korunması ve tescili",
+   "Mültecilerin korunması ve barındırılması",
    "Kalkınma programlarının yürütülmesi",
-   "Ticaret düzenlemesi"
+   "Uluslararası ticaretin düzenlenmesi"
   ],
   "dogru": 3,
   "aciklama": "UNDP, BM Kalkınma Programı olarak kalkınma projelerini yürütür.",
@@ -4565,11 +4565,11 @@
   "konuId": "ui_orgutler",
   "soru": "Schengen Anlaşması neyi düzenler?",
   "secenekler": [
-   "Ortak savunmayı",
-   "Ortak para birimini",
-   "Tarım politikasını",
+   "Üye ülkeler arasında ortak savunma politikasının kurulmasını ve askerî iş birliğini",
+   "Ortak para biriminin kabul edilip tedavüle çıkarılmasını",
+   "Ortak tarım politikasının belirlenmesi ve uygulanmasını",
    "Kişilerin serbest dolaşımı ve iç sınır kontrollerinin kaldırılmasını",
-   "Vergi uyumunu"
+   "Üye ülkelerde vergi oranlarının uyumlaştırılmasını"
   ],
   "dogru": 3,
   "aciklama": "Schengen düzeni, taraf ülkeler arasında iç sınır kontrollerini kaldırır.",
@@ -4629,11 +4629,11 @@
   "konuId": "ui_orgutler",
   "soru": "Uluslararası Atom Enerjisi Ajansı'nın (UAEA) temel görevi nedir?",
   "secenekler": [
-   "Elektrik dağıtmak",
-   "Enerji fiyatlarını belirlemek",
-   "Maden aramak",
+   "Üye ülkelere elektrik enerjisi dağıtımı ve altyapı desteği sağlamak",
+   "Uluslararası enerji fiyatlarını belirlemek",
+   "Uranyum ve nadir toprak madenleri aramak",
    "Nükleer faaliyetlerin barışçıl amaçlı olduğunu denetlemek",
-   "Nükleer silah üretmek"
+   "Üye ülkeler adına nükleer silah üretmek"
   ],
   "dogru": 3,
   "aciklama": "UAEA, nükleer teknolojinin barışçıl kullanımını teşvik eder ve denetim yapar.",
@@ -4773,11 +4773,11 @@
   "konuId": "ui_turk_dis_politika",
   "soru": "Türkiye'nin Montrö Sözleşmesi'ne verdiği önemin temel nedeni nedir?",
   "secenekler": [
-   "Turizm",
-   "Ada egemenliği",
+   "Turizm gelirlerinin artırılmasına katkı sağlaması",
+   "Ege'deki ada egemenliği sorununu Türkiye lehine kesin biçimde çözüme bağlaması",
    "Boğazlar üzerindeki egemenliğini ve Karadeniz güvenliğini düzenlemesi",
-   "Ticaret gelirleri",
-   "Balıkçılık"
+   "Deniz ticareti gelirlerini doğrudan artırması",
+   "Balıkçılık haklarını güvence altına alması"
   ],
   "dogru": 2,
   "aciklama": "Montrö, geçiş rejimini düzenleyerek Türkiye'nin Boğazlar üzerindeki egemenliğini ve bölgesel dengeyi güvence altına alır.",
@@ -4822,10 +4822,10 @@
   "soru": "Türkiye'nin enerji politikasındaki 'terminal ülke' hedefi neyi ifade eder?",
   "secenekler": [
    "Enerji kaynaklarının transit geçiş ve ticaret merkezi olmayı",
-   "Nükleer silah üretmeyi",
-   "Fiyat belirlemeyi",
-   "Enerji ithalatını durdurmayı",
-   "Enerji ihracatını yasaklamayı"
+   "Ulusal nükleer silah kapasitesi geliştirmeyi",
+   "Küresel enerji fiyatlarını tek başına belirlemeyi",
+   "Enerji ithalatını tümüyle durdurup kendi kaynaklarıyla yetinmeyi",
+   "Enerji ihracatını yasaklayarak kaynakları saklamayı"
   ],
   "dogru": 0,
   "aciklama": "Türkiye, boru hatları ve LNG altyapısıyla enerji ticaretinde transit ve merkez konumu hedeflemektedir.",
@@ -4869,10 +4869,10 @@
   "konuId": "ui_soguk_savas",
   "soru": "Soğuk Savaş'ta 'vekâlet savaşı' ne demektir?",
   "secenekler": [
-   "İki süper gücün doğrudan savaşması",
-   "BM barış gücü operasyonu",
-   "Silahsızlanma görüşmesi",
-   "Ekonomik rekabet",
+   "İki süper gücün doğrudan karşı karşıya savaşması",
+   "Birleşmiş Milletler barış gücü operasyonlarının düzenlenip yürütülmesi",
+   "Taraflar arasında silahsızlanma görüşmeleri yapılması",
+   "İki blok arasındaki ekonomik rekabetin sürmesi",
    "Süper güçlerin üçüncü ülkeler üzerinden dolaylı çatışması"
   ],
   "dogru": 4,
@@ -4917,11 +4917,11 @@
   "konuId": "ui_soguk_savas",
   "soru": "Brejnev Doktrini neyi savunmuştur?",
   "secenekler": [
-   "Kolektif güvenliği",
-   "Silahsızlanmayı",
+   "Bölgesel kolektif güvenlik sisteminin kurulması gerektiğini",
+   "Karşılıklı silahsızlanmaya gidilmesi gerektiğini",
    "Sosyalist ülkelerin egemenliğinin sınırlı olduğunu",
-   "Bağlantısızlığı",
-   "Serbest ticareti"
+   "Bloklara karşı bağlantısız kalınması gerektiğini",
+   "Uluslararası serbest ticaretin geliştirilmesini"
   ],
   "dogru": 2,
   "aciklama": "Doktrin, sosyalist bloktaki bir ülkede rejimin tehlikeye girmesi hâlinde müdahaleyi meşru saymıştır.",
@@ -4981,11 +4981,11 @@
   "konuId": "ui_uluslararasi_hukuk",
   "soru": "Uluslararası hukukta 'erga omnes' yükümlülük ne demektir?",
   "secenekler": [
-   "Yalnızca BM'ye karşı",
-   "Geçici yükümlülük",
+   "Yalnızca Birleşmiş Milletler örgütüne karşı",
+   "Geçici nitelikte olan yükümlülük",
    "Uluslararası topluluğun tümüne karşı",
-   "Sadece komşulara karşı",
-   "Yalnızca taraflara karşı"
+   "Yalnızca komşu devletlere karşı",
+   "Yalnızca antlaşma taraflarına karşı"
   ],
   "dogru": 2,
   "aciklama": "Erga omnes yükümlülükler, uluslararası topluluğun bütününe karşı doğan yükümlülüklerdir.",
@@ -5014,10 +5014,10 @@
   "soru": "Devletlerin uluslararası sorumluluğunun doğması için gereken unsurlar nelerdir?",
   "secenekler": [
    "Devlete atfedilebilir uluslararası hukuka aykırı fiil",
-   "Sadece kast",
-   "Zarar ve kusur",
-   "Sadece zarar",
-   "Mahkeme kararı"
+   "Fiilin kasten işlenmiş olması tek başına yeterli sayılır",
+   "Zararın ve kusurun birlikte gerçekleşmiş olması",
+   "Yalnızca maddi zararın doğmuş olması",
+   "Uluslararası bir mahkeme kararının bulunması"
   ],
   "dogru": 0,
   "aciklama": "Uluslararası sorumluluk, devlete atfedilebilen ve uluslararası yükümlülüğü ihlal eden bir fiille doğar.",
@@ -5046,10 +5046,10 @@
   "soru": "'Uti possidetis juris' ilkesi ne zaman uygulanır?",
   "secenekler": [
    "Yeni bağımsızlaşan devletlerin sınırlarının belirlenmesinde",
-   "Savaş sonrası tazminatta",
-   "Diplomatik dokunulmazlıkta",
-   "Vatandaşlıkta",
-   "Deniz yetki alanlarında"
+   "Savaş sonrası tazminatların hesaplanmasında",
+   "Diplomatik dokunulmazlığın kapsamının ve sınırlarının saptanmasında",
+   "Vatandaşlığın kazanılması ve kaybedilmesinde",
+   "Deniz yetki alanlarının sınırlandırılmasında"
   ],
   "dogru": 0,
   "aciklama": "İlke, bağımsızlık anındaki idari sınırların devlet sınırı olarak kabul edilmesini ifade eder.",
@@ -5109,10 +5109,10 @@
   "konuId": "ui_guncel_sorunlar",
   "soru": "İklim finansmanı tartışmasının temel konusu nedir?",
   "secenekler": [
-   "Vergi oranları",
-   "Tarım sübvansiyonu",
-   "Turizm gelirleri",
-   "Askerî harcamalar",
+   "Karbon vergisi oranlarının nasıl belirleneceği",
+   "Tarımsal sübvansiyonların kademeli kaldırılması",
+   "Turizm gelirlerinin çevre yatırımlarına aktarılması ve denetlenmesi",
+   "Askerî harcamaların çevresel etkilerinin ölçülmesi",
    "Gelişmiş ülkelerin gelişmekte olanlara sağlayacağı iklim desteği"
   ],
   "dogru": 4,
@@ -5126,10 +5126,10 @@
   "soru": "'Kayıp ve zarar' fonu hangi alanla ilgilidir?",
   "secenekler": [
    "İklim değişikliğinin yol açtığı zararların telafisi",
-   "Göç yönetimi",
-   "Sağlık harcamaları",
-   "Ticaret anlaşmazlıkları",
-   "Savaş tazminatları"
+   "Düzensiz göç hareketlerinin ortak yönetimi",
+   "Küresel sağlık harcamalarının ortak finansmanı ve paylaşımı",
+   "Uluslararası ticaret anlaşmazlıklarının çözümü",
+   "Savaş sonrası tazminat ödemelerinin düzenlenmesi"
   ],
   "dogru": 0,
   "aciklama": "COP süreçlerinde kurulan fon, iklim kaynaklı kayıp ve zararların telafisini hedefler.",
@@ -5157,11 +5157,11 @@
   "konuId": "ui_guncel_sorunlar",
   "soru": "Enerji geçişi (energy transition) kavramı neyi ifade eder?",
   "secenekler": [
-   "Nükleer silahlanmayı",
-   "Enerji ithalatını",
-   "Enerji tüketiminin durdurulmasını",
+   "Nükleer silahlanma yarışının hızlanmasını",
+   "Enerji ithalatının kademeli artırılmasını",
+   "Enerji tüketiminin tümüyle durdurulmasını",
    "Fosil yakıtlardan yenilenebilir kaynaklara geçişi",
-   "Petrol fiyatlarının düşmesini"
+   "Petrol fiyatlarının küresel ölçekte kalıcı biçimde düşmesini"
   ],
   "dogru": 3,
   "aciklama": "Enerji geçişi, karbon yoğun kaynaklardan düşük karbonlu ve yenilenebilir sistemlere dönüşümü anlatır.",
@@ -5173,10 +5173,10 @@
   "konuId": "ui_guncel_sorunlar",
   "soru": "Su stresi kavramı neyi ifade eder?",
   "secenekler": [
-   "Yağış rejiminin düzenliliğini",
-   "Deniz seviyesinin yükselmesini",
-   "Su kalitesinin yüksekliğini",
-   "Baraj sayısını",
+   "Yağış rejiminin düzenli ve öngörülebilir olmasını",
+   "Deniz seviyesinin iklim değişikliği etkisiyle sürekli yükselmesini",
+   "Su kalitesinin yüksek düzeyde tutulmasını",
+   "Havzadaki baraj ve gölet sayısının artmasını",
    "Mevcut su kaynaklarının talebi karşılamada yetersiz kalmasını"
   ],
   "dogru": 4,
@@ -5189,11 +5189,11 @@
   "konuId": "ui_guncel_sorunlar",
   "soru": "Yapay zekâ alanında uluslararası düzenleme ihtiyacının temel gerekçesi nedir?",
   "secenekler": [
-   "İstihdam artışı",
-   "Maliyet",
-   "Enerji tüketimi",
+   "Teknolojinin istihdamı artırıcı etkisi",
+   "Geliştirme maliyetlerinin yüksekliği",
+   "Veri merkezlerinin yüksek enerji tüketimi ve çevresel etkisi",
    "Etik, güvenlik ve hesap verebilirlik sorunları",
-   "Patent sayısı"
+   "Alınan patent sayısındaki hızlı artış"
   ],
   "dogru": 3,
   "aciklama": "Otonom sistemler, mahremiyet ve dezenformasyon riskleri uluslararası düzenleme tartışmasını doğurmuştur.",
@@ -5221,10 +5221,10 @@
   "konuId": "ui_kavramlar",
   "soru": "'Konsolosluk' ile 'büyükelçilik' arasındaki temel fark nedir?",
   "secenekler": [
-   "Fark yoktur",
-   "Büyükelçilik vize vermez",
-   "Konsolosluk askerî görev yapar",
-   "Konsolosluk üst düzeydir",
+   "İki temsilcilik arasında işlev farkı bulunmaz",
+   "Büyükelçilikler vize işlemlerini hiç yürütmez",
+   "Konsolosluklar askerî nitelikte görev yapar",
+   "Konsolosluk, büyükelçilikten daha üst düzey bir temsilcilik konumundadır",
    "Konsolosluk daha çok vatandaşlık ve ticari işlerle ilgilenir"
   ],
   "dogru": 4,
@@ -5237,11 +5237,11 @@
   "konuId": "ui_kavramlar",
   "soru": "'İyi niyet girişimi' (good offices) nedir?",
   "secenekler": [
-   "Askerî müdahale",
-   "Ekonomik yaptırım",
-   "Bağlayıcı hakem kararı",
+   "Üçüncü bir devletin askerî müdahalesi",
+   "Hedef ülkeye ekonomik yaptırım uygulanması",
+   "Taraflar için bağlayıcı hakem kararı verilmesi",
    "Üçüncü tarafın tarafları bir araya getirmesi",
-   "Tarafsızlık ilanı"
+   "Çatışmada tarafsızlık ilan edilmesi"
   ],
   "dogru": 3,
   "aciklama": "İyi niyet girişiminde üçüncü taraf esasa karışmadan tarafların iletişim kurmasını sağlar.",
@@ -5253,10 +5253,10 @@
   "konuId": "ui_kavramlar",
   "soru": "Uluslararası ilişkilerde 'misilleme' (retorsiyon) nedir?",
   "secenekler": [
-   "Tarafsızlık",
-   "İttifak kurma",
-   "Hukuka aykırı karşı önlem",
-   "Savaş ilanı",
+   "Çatışmada tarafsız kalma kararının açıklanması",
+   "Üçüncü devletlerle ittifak kurma",
+   "Hukuka aykırı nitelikteki karşı önlem",
+   "Karşı tarafa resmen savaş ilan etme",
    "Hukuka uygun ama dostane olmayan karşı önlem"
   ],
   "dogru": 4,
@@ -5285,10 +5285,10 @@
   "konuId": "ui_kavramlar",
   "soru": "'Ulusal güvenlik stratejisi' belgesi ne işe yarar?",
   "secenekler": [
-   "Bütçe dağıtımı",
-   "Eğitim reformu",
-   "Vize politikası",
-   "Turizm planlaması",
+   "Kamu bütçesinin bakanlıklar arasında dağıtılması ve denetimi",
+   "Eğitim sisteminde reform yapılması",
+   "Ülkenin vize politikasının belirlenmesi",
+   "Turizm sektörünün uzun vadeli planlanması",
    "Tehdit algısı ve güvenlik önceliklerinin tanımlanması"
   ],
   "dogru": 4,
@@ -5301,11 +5301,11 @@
   "konuId": "ui_bolgesel",
   "soru": "Doğu Akdeniz'de deniz yetki alanı uyuşmazlığının temel nedeni nedir?",
   "secenekler": [
-   "Gemi trafiği",
+   "Bölgedeki yoğun gemi trafiğinin düzenlenmesi ve seyir güvenliğinin sağlanması",
    "Adaların deniz alanı üretme kapasitesi ve hidrokarbon kaynakları",
-   "Turizm gelirleri",
-   "Balıkçılık kotaları",
-   "Askerî üsler"
+   "Kıyı turizmi gelirlerinin paylaşılması",
+   "Balıkçılık kotalarının belirlenmesi",
+   "Bölgedeki askerî üslerin konumlandırılması"
   ],
   "dogru": 1,
   "aciklama": "Uyuşmazlık, adaların kıta sahanlığı ve MEB üretip üretmediği ile enerji kaynakları etrafında yoğunlaşır.",
@@ -5333,10 +5333,10 @@
   "konuId": "ui_bolgesel",
   "soru": "Suriye iç savaşının Türkiye üzerindeki en belirgin etkisi nedir?",
   "secenekler": [
-   "Turizm artışı",
-   "Ticaret fazlası",
-   "Enerji ihracatı",
-   "Tarım gelirleri",
+   "Turizm gelirlerinde belirgin artış",
+   "Dış ticaret dengesinde kalıcı fazla verilmesi",
+   "Enerji ihracatının hızla artması",
+   "Tarımsal üretim gelirlerinin yükselmesi",
    "Kitlesel göç ve sınır güvenliği sorunları"
   ],
   "dogru": 4,
@@ -5398,10 +5398,10 @@
   "soru": "Türkiye-Ermenistan ilişkilerinde normalleşme çabalarının önündeki temel engellerden biri nedir?",
   "secenekler": [
    "Karabağ sorunu ve tarihsel anlaşmazlıklar",
-   "Turizm",
-   "Enerji fiyatları",
-   "Ticaret hacmi",
-   "Vize rejimi"
+   "Turizm alanında rekabetin artması",
+   "Enerji fiyatlarındaki dalgalanmalar ve arz sorunları",
+   "İki ülke arasındaki ticaret hacmi",
+   "Karşılıklı vize rejiminin katılığı"
   ],
   "dogru": 0,
   "aciklama": "Karabağ meselesi ve tarihsel anlaşmazlıklar normalleşme sürecini doğrudan etkilemektedir.",
