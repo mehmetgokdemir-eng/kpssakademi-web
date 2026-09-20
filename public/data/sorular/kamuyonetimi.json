@@ -8078,5 +8078,197 @@
   "dogru": 0,
   "aciklama": "Klasik bütçeleme ödenekleri personel, mal-hizmet alımı gibi girdi kalemlerine göre tahsis eder ve uygunluk denetimine odaklanır. Performans esaslı bütçeleme ise kaynakları stratejik plan ve performans programındaki hedeflerle ilişkilendirir; başarı, harcamanın usule uygunluğundan çok ulaşılan sonuçla ölçülür.",
   "zorluk": "zor"
+ },
+ {
+  "id": "54509",
+  "dersId": "kamuyonetimi",
+  "konuId": "turk_kamu_yonetimi",
+  "soru": "Türkiye'de kamu tüzel kişiliği bakımından 'hizmet yerinden yönetim' kuruluşlarının ortak özelliği aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Belirli bir kamu hizmetini yürütmek üzere kurulmaları ve karar organlarının seçimle gelmemesi",
+   "Belirli bir coğrafi alanda yaşayanların ortak ihtiyaçlarını karşılamak üzere seçimle oluşturulmaları",
+   "Merkezi idarenin taşra teşkilatı içinde yer almaları ve ayrı bir tüzel kişiliklerinin bulunmaması",
+   "Yalnızca özel hukuk hükümlerine tabi olmaları ve kamu gücü ayrıcalıklarından yararlanamamaları",
+   "Bütçelerinin tümüyle kendi gelirlerinden oluşması ve merkezi bütçeden hiç kaynak almamaları"
+  ],
+  "dogru": 0,
+  "aciklama": "Hizmet yerinden yönetim kuruluşları (üniversiteler, TRT, KİT'ler, meslek kuruluşları gibi) teknik bilgi ve uzmanlık gerektiren belirli bir kamu hizmetini yürütmek üzere kurulur. Yer yönünden yerinden yönetimden farkı, örgütlenmenin coğrafi alana değil hizmete göre yapılması ve karar organlarının kural olarak seçimle gelmemesidir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54510",
+  "dersId": "kamuyonetimi",
+  "konuId": "turk_kamu_yonetimi",
+  "soru": "Türkiye'de düzenleyici ve denetleyici kurumların klasik kamu kurumlarından ayrıldığı temel özellik aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Karar organlarının görev güvencesine sahip olması ve siyasi iktidardan görece bağımsız çalışması",
+   "Yürüttükleri hizmetin tümüyle özel hukuka tabi olması ve idari yargı denetiminin dışında kalması",
+   "Yalnızca danışma niteliğinde görüş bildirmeleri ve bağlayıcı karar alma yetkilerinin bulunmaması",
+   "Bütçelerinin doğrudan TBMM tarafından onaylanması ve harcamalarının denetime tabi olmaması",
+   "Personelinin tamamının seçimle göreve gelmesi ve belirli aralıklarla yeniden seçilmesi gerekmesi"
+  ],
+  "dogru": 0,
+  "aciklama": "Düzenleyici ve denetleyici kurumlar (BDDK, SPK, EPDK, RTÜK gibi) piyasaları düzenlemek üzere kurulmuş, kurul üyeleri belirli süre için atanan ve görev süresi dolmadan görevden alınamayan yapılardır. Bu görev güvencesi, siyasi etkiden korunmalarını sağlar; kararları bağlayıcıdır ve yargı denetimine tabidir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54511",
+  "dersId": "kamuyonetimi",
+  "konuId": "turk_kamu_yonetimi",
+  "soru": "Türkiye'de valinin hukuki konumu bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Hem devletin hem hükümetin hem de bakanlıkların ilde temsilcisi konumunda bulunmaktadır",
+   "Yalnızca İçişleri Bakanlığı'nın ildeki temsilcisi olup diğer bakanlıkları temsil etme yetkisi yoktur",
+   "İl genel meclisi tarafından seçilerek göreve gelmekte ve bu meclise karşı sorumlu bulunmaktadır",
+   "İl özel idaresinin tüzel kişiliğini temsil etmemekte, yalnızca merkezi idare adına görev yapmaktadır",
+   "Belediye başkanı üzerinde hiyerarşik denetim yetkisine sahip olup ona doğrudan emir verebilmektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Vali, ilde devletin, hükümetin ve ayrı ayrı her bakanlığın temsilcisi ve bunların idari-siyasi yürütme aracıdır. Cumhurbaşkanı kararıyla atanır. Ayrıca il özel idaresinin başı ve tüzel kişiliğinin temsilcisidir. Belediye üzerindeki denetimi ise hiyerarşi değil idari vesayettir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54512",
+  "dersId": "kamuyonetimi",
+  "konuId": "yonetim_teorileri",
+  "soru": "Hawthorne araştırmalarının yönetim düşüncesine katkısı bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Fiziksel koşullardan çok sosyal ilişkilerin ve gruba ait olma duygusunun verimliliği etkilediğini göstermesi",
+   "Ücret artışının verimlilik üzerindeki tek ve mutlak belirleyici etken olduğunu deneysel yoldan ortaya koyması",
+   "İş bölümü ve uzmanlaşmanın artırılmasının verimliliği sınırsız bir biçimde yükselttiğini ortaya koyması",
+   "Bürokratik yapının rasyonelliğini doğrulayarak Weber'in modelini ampirik olarak desteklemesi",
+   "Örgütlerin çevresel değişime göre yapılarını uyarlaması gerektiğini ilk kez ortaya atması"
+  ],
+  "dogru": 0,
+  "aciklama": "Elton Mayo ve ekibinin çalışmaları, aydınlatma gibi fiziksel koşullardaki değişimlerden bağımsız olarak verimliliğin arttığını gösterdi. Belirleyici olanın çalışanların izlendiklerini hissetmesi, grup normları ve sosyal ilişkiler olduğu anlaşıldı; bu bulgular neo-klasik (insan ilişkileri) yaklaşımın temelini oluşturdu.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54513",
+  "dersId": "kamuyonetimi",
+  "konuId": "yonetim_teorileri",
+  "soru": "Weber'in ideal bürokrasi modelinde 'gayrişahsilik' (impersonality) ilkesinin işlevi aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "İşlemlerin kişisel ilişki ve duygulardan bağımsız, önceden belirlenmiş kurallara göre yürütülmesi",
+   "Yöneticinin astlarıyla kişisel yakınlık kurmak suretiyle örgüt içi uyumu ve bağlılığı güçlendirmesi",
+   "Kuralların her olayda yöneticinin takdirine göre esnetilmesi ve duruma uyarlanabilmesi",
+   "Memurların göreve akrabalık ve tanışıklık ölçütlerine göre alınmasının kolaylaştırılması",
+   "Örgütte yazılı kayıt tutulmaması ve işlemlerin sözlü talimatlarla yürütülmesinin sağlanması"
+  ],
+  "dogru": 0,
+  "aciklama": "Gayrişahsilik, bürokratik işleyişin kişilerin duygu, tercih ve ilişkilerinden arındırılmasını ifade eder. Herkese aynı kural aynı biçimde uygulanır; bu da öngörülebilirlik ve eşit muamele sağlar. Weber'e göre bürokrasinin rasyonelliği tam da bu kişisellikten arındırılmış işleyişten doğar.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54514",
+  "dersId": "kamuyonetimi",
+  "konuId": "yonetim_teorileri",
+  "soru": "Örgüt kuramında 'kurumsalcı yaklaşım' (institutional theory) örgütlerin birbirine benzemesini nasıl açıklar?",
+  "secenekler": [
+   "Meşruiyet arayışının zorlayıcı, taklitçi ve normatif eşbiçimlilik yoluyla benzeşme doğurmasıyla",
+   "Örgütlerin ayrıntılı verimlilik hesabı yaparak en düşük maliyetli yapıyı bağımsız biçimde seçmesiyle",
+   "Çevresel belirsizliğin her örgütü farklı ve özgün bir yapı geliştirmeye zorlamasıyla",
+   "Teknolojik altyapının örgüt yapısını tek yönlü ve zorunlu biçimde belirlemesiyle",
+   "Örgüt kurucularının kişilik özelliklerinin yapıyı doğrudan şekillendirmesiyle"
+  ],
+  "dogru": 0,
+  "aciklama": "DiMaggio ve Powell'a göre örgütler verimlilikten çok meşruiyet arar ve bu arayış eşbiçimlilik doğurur: zorlayıcı (hukuki baskı), taklitçi (belirsizlikte başarılı örneği kopyalama) ve normatif (meslek standartları) mekanizmalar örgütleri birbirine benzetir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54515",
+  "dersId": "kamuyonetimi",
+  "konuId": "personel_rejimi",
+  "soru": "Devlet memurları için öngörülen 'sınıflandırma' sisteminin amacı aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Benzer nitelik ve öğrenim gerektiren görevlerin aynı grupta toplanarak özlük haklarının belirlenmesi",
+   "Memurların siyasi görüşlerine göre ayrıştırılarak farklı kurumlarda istihdam edilmelerinin sağlanması",
+   "Kadro sayısının sınırlandırılarak kamu personel giderlerinin doğrudan azaltılmasının sağlanması",
+   "Memurların görev yerlerinin coğrafi bölgelere göre önceden ve kesin biçimde belirlenmesi",
+   "Disiplin cezalarının ağırlık derecesine göre sıralanarak uygulama birliğinin sağlanması"
+  ],
+  "dogru": 0,
+  "aciklama": "657 sayılı Kanun'da hizmet sınıfları (genel idare, teknik, sağlık, eğitim-öğretim gibi) benzer öğrenim ve nitelik gerektiren görevleri bir araya getirir. Sınıflandırma, aynı işi yapanların aynı haklardan yararlanmasını sağlayarak ücret ve kariyer sisteminin nesnel temelini oluşturur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54516",
+  "dersId": "kamuyonetimi",
+  "konuId": "personel_rejimi",
+  "soru": "Devlet memurluğunda 'istisnai memurluk' kadrolarının özelliği aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Sınav, öğrenim ve yaş gibi bazı genel koşullara bağlı olmaksızın atama yapılabilmesi",
+   "Yalnızca yazılı sınav yoluyla atanabilmeleri ve hiçbir koşulda doğrudan atama yapılamaması",
+   "Memurluk güvencesinden yararlanamamaları ve işçi statüsünde değerlendirilmeleri",
+   "Yalnızca mahalli idarelerde bulunmaları ve merkezi idarede uygulanmamaları",
+   "Görev sürelerinin kanunla beş yılla sınırlandırılmış olması ve uzatılamaması"
+  ],
+  "dogru": 0,
+  "aciklama": "657 sayılı Kanun'un 59. maddesinde sayılan istisnai memurluklara (Cumhurbaşkanlığı üst kademe yöneticileri, büyükelçiler, valiler gibi) atanmada, kanunun genel atama koşullarının bir kısmı aranmaz. Ancak atananlar memur statüsündedir ve memurlara ilişkin diğer hükümlere tabidir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54517",
+  "dersId": "kamuyonetimi",
+  "konuId": "personel_rejimi",
+  "soru": "Kamu görevlilerinin sendikal hakları bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Sendika kurma ve üye olma hakkı tanınmış, toplu sözleşme yapılabilmekte, grev hakkı ise verilmemiştir",
+   "Sendika kurma hakkı tanınmamış, yalnızca dernek biçiminde örgütlenmeye izin verilmiş bulunmaktadır",
+   "Hem toplu sözleşme hem de grev hakkı işçilerle aynı kapsamda tanınmış ve güvence altına alınmıştır",
+   "Sendika üyeliği zorunlu tutulmuş olup memurların üyelikten çekilmeleri mümkün görünmemektedir",
+   "Toplu sözleşme yetkisi yalnızca kamu işverenine ait olup sendikaların sürece katılımı öngörülmemiştir"
+  ],
+  "dogru": 0,
+  "aciklama": "Anayasa'nın 53. maddesi ve 4688 sayılı Kanun uyarınca kamu görevlileri sendika kurabilir ve üye olabilir; mali ve sosyal haklara ilişkin toplu sözleşme yapılır, uyuşmazlıkta Kamu Görevlileri Hakem Kurulu karar verir. Ancak memurlara grev hakkı tanınmamıştır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54518",
+  "dersId": "kamuyonetimi",
+  "konuId": "yeni_kamu_yonetimi",
+  "soru": "Kamu yönetiminde 'hesap verebilirlik' türleri bakımından 'siyasi hesap verebilirlik' ile 'idari hesap verebilirlik' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Siyasi hesap verebilirlik seçmene ve yasama organına, idari hesap verebilirlik ise hiyerarşik üste karşıdır",
+   "Siyasi hesap verebilirlik hiyerarşik üste karşı işlerken idari hesap verebilirlik seçmene karşı doğmaktadır",
+   "İki tür de yalnızca yargı organına karşı işlemekte olup aralarında muhatap farkı bulunmamaktadır",
+   "İdari hesap verebilirlik yalnızca mali işlemleri, siyasi hesap verebilirlik ise yalnızca personel işlemlerini kapsar",
+   "Siyasi hesap verebilirlik yalnızca yerel yönetimlerde, idari hesap verebilirlik ise merkezi idarede geçerlidir"
+  ],
+  "dogru": 0,
+  "aciklama": "Siyasi hesap verebilirlik, seçilmişlerin seçmene ve yasama organına karşı sorumluluğunu ifade eder; gensoru, seçim ve bütçe denetimi araçlarıyla işler. İdari hesap verebilirlik ise kamu görevlisinin hiyerarşik amirine ve denetim organlarına karşı sorumluluğudur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54519",
+  "dersId": "kamuyonetimi",
+  "konuId": "yeni_kamu_yonetimi",
+  "soru": "Kamu hizmetlerinin sunumunda 'yerelleşme' (desantralizasyon) ile 'yetki genişliği' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Yerelleşmede yetki ayrı tüzel kişiliğe devredilir, yetki genişliğinde ise merkezin taşra temsilcisine tanınır",
+   "Yetki genişliğinde yetki ayrı bir kamu tüzel kişiliğine aktarılırken yerelleşmede bu yetki merkezde toplanmaktadır",
+   "İki kavram da aynı uygulamayı anlatmakta olup ayrım yalnızca mevzuattaki adlandırmadan doğmaktadır",
+   "Yerelleşme yalnızca mali konularda, yetki genişliği ise yalnızca personel konularında uygulanabilmektedir",
+   "Yetki genişliği mahalli idarelere tanınan bir yetki olup merkezi idare bu usulü kullanamamaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Yetki genişliği, merkezi idarenin taşradaki temsilcisine (valiye) merkeze danışmadan karar alma yetkisi tanımasıdır; yetki merkezi idarede kalır, yalnızca kullanımı taşraya bırakılır. Yerinden yönetimde ise yetki, ayrı kamu tüzel kişiliğine sahip kuruluşa devredilir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54520",
+  "dersId": "kamuyonetimi",
+  "konuId": "turk_kamu_yonetimi",
+  "soru": "Türkiye'de Sayıştay'ın anayasal konumu ve denetim yetkisi bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "TBMM adına denetim yapar ve kesin hükme bağlama yetkisine sahip bir hesap mahkemesidir",
+   "Cumhurbaşkanlığı'na bağlı olarak çalışır ve yalnızca danışma niteliğinde rapor düzenler",
+   "Yalnızca mahalli idareleri denetler, merkezi yönetim kuruluşları denetim kapsamı dışındadır",
+   "Denetim sonuçlarını yalnızca ilgili kuruma bildirir, TBMM'ye herhangi bir rapor sunmaz",
+   "Yargısal yetkisi bulunmayıp raporları hakkında son kararı idari yargı mercileri verir"
+  ],
+  "dogru": 0,
+  "aciklama": "Anayasa'nın 160. maddesine göre Sayıştay, merkezi yönetim bütçesi kapsamındaki kamu idareleri ile sosyal güvenlik kurumlarının gelir, gider ve mallarını TBMM adına denetler, sorumluların hesap ve işlemlerini kesin hükme bağlar. Mahalli idarelerin hesapları da Sayıştay denetimine tabidir.",
+  "zorluk": "zor"
  }
 ]

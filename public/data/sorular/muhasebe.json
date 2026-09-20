@@ -6494,5 +6494,197 @@
   "dogru": 0,
   "aciklama": "Tekdüzen Muhasebe Sisteminde maliyet hesapları, işletmenin büyüklüğüne göre iki seçenekten biriyle izlenir. Belirlenen hadleri aşan işletmeler fonksiyon esasına dayalı 7/A seçeneğini, küçük işletmeler ise çeşit esasına dayalı 7/B seçeneğini uygular.",
   "zorluk": "zor"
+ },
+ {
+  "id": "50412",
+  "dersId": "muhasebe",
+  "konuId": "genel_muhasebe",
+  "soru": "Muhasebenin temel kavramlarından 'ihtiyatlılık' ile 'tam açıklama' kavramları arasındaki ilişkiyi doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "İhtiyatlılık olası gideri kaydetmeyi gerektirir, tam açıklama ise bu tahminin dipnotlarda gerekçelendirilmesini ister",
+   "İhtiyatlılık kavramı olası gelirlerin de kaydedilmesini gerektirmekte, tam açıklama ise bunların gizlenmesini istemektedir",
+   "İki kavram birbiriyle çelişmekte olup uygulamada ancak birinin tercih edilmesi mümkün bulunmaktadır",
+   "Tam açıklama yalnızca bilançoya ilişkin bir kavram olup gelir tablosu bu kapsamın tümüyle dışındadır",
+   "İhtiyatlılık kavramı işletmenin ömrünün sınırsız kabul edilmesini gerektiren bir varsayım niteliğindedir"
+  ],
+  "dogru": 0,
+  "aciklama": "İhtiyatlılık, olası giderlerin ve zararların karşılık ayrılarak dikkate alınmasını, olası gelirlerin ise gerçekleşmeden kaydedilmemesini gerektirir. Tam açıklama ise bu tahminlerin dayanaklarının ve mali tabloları etkileyen diğer bilgilerin dipnotlarda açıklanmasını ister; ikisi birbirini tamamlar.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50413",
+  "dersId": "muhasebe",
+  "konuId": "genel_muhasebe",
+  "soru": "Bir işletme, şüpheli hâle gelen ticari alacağı için karşılık ayırmış, sonraki dönemde alacağın tamamını tahsil etmiştir. Bu tahsilatın muhasebeleştirilmesi bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Ayrılan karşılık konusuz kalır ve iptal edilerek gelir hesaplarına aktarılır",
+   "Ayrılan karşılık bilançoda bırakılır ve izleyen dönemlerde de aynı biçimde izlenmeye devam edilir",
+   "Tahsil edilen tutar doğrudan sermaye yedekleri altında özkaynaklara aktarılarak muhasebeleştirilir",
+   "Tahsilat gelecek yıllara ait gelirler hesabına alınarak birkaç döneme yayılmak suretiyle gelir yazılır",
+   "Karşılık tutarı satışların maliyeti içinde gösterilerek brüt satış kârı buna göre düzeltilir"
+  ],
+  "dogru": 0,
+  "aciklama": "Şüpheli alacak tahsil edildiğinde ayrılan karşılığın dayanağı ortadan kalkar. Karşılık iptal edilerek 644 Konusu Kalmayan Karşılıklar hesabına alınır ve dönem geliri olarak sonuç hesaplarına yansıtılır; böylece önceki dönemde gider yazılan tutar düzeltilmiş olur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50414",
+  "dersId": "muhasebe",
+  "konuId": "genel_muhasebe",
+  "soru": "Tekdüzen Muhasebe Sisteminde 'nazım hesaplar' grubunun işlevi aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Bilanço ve gelir tablosunu etkilemeyen ancak izlenmesi gereken işlemlerin kayda alınmasını sağlamak",
+   "İşletmenin dönem kârını hesaplamak amacıyla gelir ve gider hesaplarını karşılaştırmalı olarak izlemek",
+   "Maliyet hesaplarının fonksiyon esasına göre ayrıştırılmasını ve dönem sonunda aktarılmasını sağlamak",
+   "Ortaklara dağıtılacak kâr paylarının hesaplanmasında kullanılan geçici tutarları ayrıca takip etmek",
+   "Yabancı para cinsinden işlemlerin dönem sonu kur değerlemesini yapmak ve farkları kayda almak"
+  ],
+  "dogru": 0,
+  "aciklama": "Nazım hesaplar; alınan-verilen teminatlar, kefaletler, emanet mallar gibi işletmenin varlık ve kaynak yapısını değiştirmeyen fakat izlenmesi gereken işlemleri takip eder. Bilanço toplamını ve dönem sonucunu etkilemez; karşılıklı borç-alacak kaydıyla çalışır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50415",
+  "dersId": "muhasebe",
+  "konuId": "hesap_plani",
+  "soru": "Bir işletmenin ortaklarından olan alacakları ile ortaklarına olan borçlarının hesap planındaki yeri bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Ortaklardan alacaklar diğer alacaklar grubunda, ortaklara borçlar ise diğer borçlar grubunda izlenir",
+   "İki kalem de özkaynaklar sınıfında izlenmekte olup varlık ve yabancı kaynak gruplarına dâhil edilmez",
+   "Ortaklardan alacaklar ticari alacaklar, ortaklara borçlar ise ticari borçlar grubunda takip edilmektedir",
+   "Her iki kalem de nazım hesaplarda izlenmekte ve bilanço toplamına hiçbir biçimde dâhil edilmemektedir",
+   "Ortaklardan alacaklar maddi duran varlıklar içinde, ortaklara borçlar ise uzun vadeli karşılıklarda gösterilir"
+  ],
+  "dogru": 0,
+  "aciklama": "Ortaklarla olan ilişkiler ticari nitelikte olmadığından ticari alacak veya borç sayılmaz. Ortaklardan alacaklar 131/231 numaralı hesaplarla diğer alacaklar grubunda; ortaklara borçlar ise 331/431 numaralı hesaplarla diğer borçlar grubunda izlenir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50416",
+  "dersId": "muhasebe",
+  "konuId": "hesap_plani",
+  "soru": "Maddi duran varlıklarda 'yenileme fonu' uygulamasının amacı aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Satılan iktisadi kıymetin kârını vergilemeyi erteleyerek yeni varlığın amortismanına mahsup etmek",
+   "Satılan varlığın kârını doğrudan ortaklara dağıtmak ve işletmenin kısa vadeli nakit ihtiyacını karşılamak",
+   "Amortisman ayırma yükümlülüğünü tümüyle ortadan kaldırarak dönem giderlerini azaltmak",
+   "Maddi duran varlıkların bilançoda gerçeğe uygun değerle gösterilmesini zorunlu kılmak",
+   "İşletmenin sermayesini artırmak amacıyla fon hesabını doğrudan sermayeye eklemek"
+  ],
+  "dogru": 0,
+  "aciklama": "Vergi Usul Kanunu'nun 328. maddesine göre yenilenmesi zorunlu görülen bir iktisadi kıymetin satışından doğan kâr, yenileme fonuna alınarak vergilendirilmesi ertelenebilir. Bu fon, yeni alınan varlığın amortismanlarına mahsup edilir; üç yıl içinde kullanılmazsa kâra eklenir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50417",
+  "dersId": "muhasebe",
+  "konuId": "donem_sonu",
+  "soru": "Dönem sonunda kasa sayımında fiili tutarın kayıtlı tutardan fazla çıkması ve nedeninin bulunamaması hâlinde yapılacak işlem aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Fark tutarı olağandışı gelir ve kârlar içinde sonuçlandırılarak dönem geliri yazılır",
+   "Fark tutarı doğrudan ortaklara borçlar hesabına alacak kaydedilerek izlenmeye devam edilir",
+   "Fark tutarı sermaye yedekleri altında değerleme farkı olarak özkaynaklara aktarılır",
+   "Kasa kaydı fiili sayım sonucuna uydurulmayarak kayıtlı tutar esas alınmaya devam edilir",
+   "Fark tutarı gelecek aylara ait gelirler hesabında bekletilerek izleyen dönemde çözülür"
+  ],
+  "dogru": 0,
+  "aciklama": "Sayım sonucu ortaya çıkan fazlalık önce 397 Sayım ve Tesellüm Fazlaları hesabında izlenir. Nedeni bulunamazsa dönem sonunda 679 Diğer Olağandışı Gelir ve Kârlar hesabına aktarılarak kapatılır. Nedeni bulunursa ilgili borç hesabına alınır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50418",
+  "dersId": "muhasebe",
+  "konuId": "donem_sonu",
+  "soru": "Dönem sonunda kıdem tazminatı karşılığı ayrılmasının muhasebe kavramları açısından dayanağı aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Dönemsellik ve ihtiyatlılık; yükümlülük doğduğu dönemde gidere dönüştürülmelidir",
+   "Parayla ölçülme ve sosyal sorumluluk; tutarın ortaklara bildirilmesi yeterli sayılmaktadır",
+   "Maliyet esası ve özün önceliği; karşılık yalnızca ödeme yapıldığında kayda alınmalıdır",
+   "Tutarlılık ve kişilik; karşılık yalnızca işletme sahibinin kararına bağlı olarak ayrılır",
+   "Tam açıklama ve süreklilik; karşılık yalnızca dipnotlarda gösterilmekle yetinilmelidir"
+  ],
+  "dogru": 0,
+  "aciklama": "Kıdem tazminatı yükümlülüğü çalışanın hizmet süresi boyunca doğar. Dönemsellik gereği bu yük ilgili dönemlere dağıtılmalı, ihtiyatlılık gereği de olası gider bugünden karşılık ayrılarak kayda alınmalıdır. Ödeme anında gider yazmak her iki kavrama da aykırı düşer.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50419",
+  "dersId": "muhasebe",
+  "konuId": "mali_tablolar",
+  "soru": "Gelir tablosunda 'brüt satış kârı' ile 'faaliyet kârı' arasındaki farkı oluşturan kalemler aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Pazarlama satış dağıtım giderleri, genel yönetim giderleri ve araştırma geliştirme giderleri",
+   "Finansman giderleri ile olağandışı gider ve zararların toplamından oluşan bütün gider kalemleri",
+   "Satışların maliyeti ile satış indirimlerinin toplamından oluşan düzeltme kalemleri",
+   "Ödenecek vergi ve yasal yükümlülükler ile ortaklara dağıtılan kâr payları toplamı",
+   "İştiraklerden elde edilen temettü gelirleri ile menkul kıymet satış kârlarının toplamı"
+  ],
+  "dogru": 0,
+  "aciklama": "Net satışlardan satışların maliyeti düşülerek brüt satış kârına ulaşılır. Bu tutardan faaliyet giderleri (pazarlama-satış-dağıtım, genel yönetim, araştırma-geliştirme) indirildiğinde faaliyet kârı bulunur. Finansman giderleri ise daha alt satırlarda yer alır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50420",
+  "dersId": "muhasebe",
+  "konuId": "mali_tablolar",
+  "soru": "Bir işletmenin stok devir hızının sektör ortalamasının belirgin biçimde altında kalması aşağıdakilerden hangisine işaret eder?",
+  "secenekler": [
+   "Stokların uzun süre elde tutulduğuna ve işletme sermayesinin stoklara bağlandığına",
+   "İşletmenin satış hacminin sektöre kıyasla oldukça hızlı büyüdüğüne ve talebin arttığına",
+   "Alacak tahsil süresinin kısaldığına ve nakit dönüşüm süresinin belirgin biçimde iyileştiğine",
+   "Özkaynak kârlılığının yükseldiğine ve borçlanma ihtiyacının tümüyle ortadan kalktığına",
+   "Sabit varlık yatırımlarının azaldığına ve amortisman giderlerinin gerilediğine"
+  ],
+  "dogru": 0,
+  "aciklama": "Stok devir hızı, satışların maliyetinin ortalama stoka bölünmesiyle bulunur ve stokun yıl içinde kaç kez tüketildiğini gösterir. Düşük devir hızı, stokların uzun süre elde kaldığını; dolayısıyla depolama maliyeti, bozulma riski ve bağlanmış işletme sermayesi anlamına gelir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50421",
+  "dersId": "muhasebe",
+  "konuId": "mali_tablolar",
+  "soru": "Nakit akış tablosunda bir işletmenin işletme faaliyetlerinden nakit akışı negatif, yatırım faaliyetlerinden nakit akışı pozitif çıkmışsa bu tablo aşağıdakilerden hangisine işaret edebilir?",
+  "secenekler": [
+   "İşletmenin esas faaliyetinden nakit üretemediğine ve varlık satarak nakit sağladığına",
+   "İşletmenin esas faaliyetlerinden güçlü bir nakit ürettiğine ve yeni yatırımlar yaptığına",
+   "İşletmenin borçlarını tümüyle kapatarak finansman ihtiyacını ortadan kaldırdığına",
+   "İşletmenin kâr dağıtımını durdurarak özkaynaklarını belirgin biçimde güçlendirdiğine",
+   "İşletmenin stok düzeyini artırarak gelecek dönem satışlarına hazırlık yaptığına"
+  ],
+  "dogru": 0,
+  "aciklama": "İşletme faaliyetlerinden negatif nakit akışı, esas faaliyetin nakit yakması anlamına gelir. Yatırım faaliyetlerinden pozitif akış ise genellikle duran varlık satışından doğar. Bu bileşim, işletmenin faaliyet açığını varlık satarak kapattığına işaret eder ve sürdürülebilir değildir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50422",
+  "dersId": "muhasebe",
+  "konuId": "genel_muhasebe",
+  "soru": "Amortisman yöntemlerinden 'normal amortisman' ile 'azalan bakiyeler' yöntemi karşılaştırıldığında aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Azalan bakiyelerde ilk yıllarda daha yüksek gider yazılır; toplam amortisman tutarı ise değişmez",
+   "Azalan bakiyeler yönteminde toplam amortisman tutarı normal yönteme göre belirgin biçimde artar",
+   "Normal amortismanda ilk yıllarda daha yüksek gider yazılırken azalan bakiyelerde eşit dağıtım yapılır",
+   "İki yöntem de her yıl eşit tutarda gider yazılmasını gerektirmekte olup aralarında fark bulunmamaktadır",
+   "Azalan bakiyeler yöntemi yalnızca maddi olmayan duran varlıklar için uygulanabilir nitelik taşımaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Normal (eşit tutarlı) yöntemde her yıl aynı tutar gider yazılır. Azalan bakiyelerde ise oran net defter değerine uygulandığından ilk yıllarda yüksek, sonraki yıllarda düşük gider oluşur. Varlığın toplam amortismana tabi tutarı iki yöntemde de aynıdır; yalnızca zamana dağılımı farklıdır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50423",
+  "dersId": "muhasebe",
+  "konuId": "hesap_plani",
+  "soru": "Bir işletmenin aldığı çekler ile verdiği çeklerin hesap planındaki izlenme biçimi bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Alınan çekler hazır değerler içinde, verilen çekler ise hazır değerlerde eksi bakiyeli hesapta izlenir",
+   "Alınan çekler ticari alacaklar grubunda, verilen çekler ise ticari borçlar grubunda takip edilmektedir",
+   "İki kalem de menkul kıymetler grubunda izlenmekte olup hazır değerler sınıfına dâhil edilmemektedir",
+   "Alınan çekler nazım hesaplarda, verilen çekler ise diğer borçlar grubunda izlenmek zorundadır",
+   "Alınan ve verilen çekler yalnızca vadeleri geldiğinde kayda alınır, öncesinde izlenmeleri gerekmez"
+  ],
+  "dogru": 0,
+  "aciklama": "Tekdüzen Hesap Planı'nda 101 Alınan Çekler hazır değerler grubunda yer alır. 103 Verilen Çekler ve Ödeme Emirleri hesabı da aynı grupta bulunur ancak alacak bakiyesi verir ve bilançoda hazır değerlerden indirim olarak gösterilir; bu yönüyle düzenleyici bir hesaptır.",
+  "zorluk": "zor"
  }
 ]
