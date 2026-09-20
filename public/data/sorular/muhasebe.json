@@ -6686,5 +6686,197 @@
   "dogru": 0,
   "aciklama": "Tekdüzen Hesap Planı'nda 101 Alınan Çekler hazır değerler grubunda yer alır. 103 Verilen Çekler ve Ödeme Emirleri hesabı da aynı grupta bulunur ancak alacak bakiyesi verir ve bilançoda hazır değerlerden indirim olarak gösterilir; bu yönüyle düzenleyici bir hesaptır.",
   "zorluk": "zor"
+ },
+ {
+  "id": "50424",
+  "dersId": "muhasebe",
+  "konuId": "genel_muhasebe",
+  "soru": "Muhasebede 'özün önceliği' kavramının anlamı aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "İşlemlerin hukuki biçiminden çok ekonomik özüne göre kaydedilmesi gerektiği",
+   "İşlemlerin yalnızca hukuki belgesine göre kayda alınması zorunluluğu bulunduğu",
+   "Kayıtların yalnızca nakit hareketi gerçekleştiğinde yapılabileceği kuralı",
+   "İşletmenin ömrünün sınırlı kabul edilmesi ve tasfiye değeriyle ölçülmesi gerektiği",
+   "Varlıkların her dönem sonunda piyasa değeriyle yeniden değerlenmesi zorunluluğu"
+  ],
+  "dogru": 0,
+  "aciklama": "Özün önceliği kavramı, muhasebe kayıtlarının işlemlerin hukuki görünümünden çok ekonomik gerçekliğine dayanmasını gerektirir. Finansal kiralamada mülkiyet kiralayanda kalsa da varlığın kiracının bilançosunda izlenmesi bu kavramın tipik uygulamasıdır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50425",
+  "dersId": "muhasebe",
+  "konuId": "genel_muhasebe",
+  "soru": "Bir işletmenin bağış olarak aldığı maddi duran varlığın muhasebeleştirilmesi bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Varlık gerçeğe uygun değeriyle aktifleştirilir ve karşılığında bir fon veya gelir kaydı yapılır",
+   "Varlık hiçbir biçimde kayda alınmaz, yalnızca dipnotlarda ayrıntılı açıklama yapılmakla yetinilir",
+   "Varlık yalnızca nazım hesaplarda izlenir ve bilanço toplamına dâhil edilmez",
+   "Varlık sıfır değerle aktifleştirilir ve amortisman ayrılmasına gerek duyulmaz",
+   "Varlık doğrudan ortaklara borçlar hesabına alacak kaydedilerek izlenmeye başlanır"
+  ],
+  "dogru": 0,
+  "aciklama": "Bedelsiz edinilen varlık da işletmenin ekonomik kaynağıdır ve bilançoda yer almalıdır. Gerçeğe uygun değeriyle aktifleştirilir; karşılığında ilgili fon hesabı veya gelir kaydı yapılır. Varlık ayrıca amortismana tabi tutulur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50426",
+  "dersId": "muhasebe",
+  "konuId": "genel_muhasebe",
+  "soru": "Ticari mal hareketlerinin izlenmesinde 'aralıklı envanter' ile 'sürekli envanter' yöntemleri karşılaştırıldığında aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Sürekli envanterde satışların maliyeti her satışta kaydedilir; aralıklı envanterde ise dönem sonunda sayımla hesaplanır ve bu fark stok kontrolü ile maliyet takibi açısından belirleyici olmaktadır",
+   "Aralıklı envanterde satışların maliyeti her satış anında ayrı ayrı kaydedilmektedir",
+   "İki yöntem de dönem sonunda fiili sayım yapılmasını gereksiz kılan yöntemlerdir",
+   "Sürekli envanter yalnızca hizmet işletmelerinde uygulanabilen bir yöntem niteliğindedir",
+   "Aralıklı envanter yönteminde stok hesabı yıl boyunca sürekli biçimde güncellenmektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Sürekli envanterde her alış ve satışta stok hesabı güncellenir ve satılan malın maliyeti anında kaydedilir; stok bilgisi her an günceldir. Aralıklı envanterde ise satışların maliyeti dönem sonunda 'dönem başı stok + alışlar − dönem sonu stok' formülüyle bulunur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50427",
+  "dersId": "muhasebe",
+  "konuId": "hesap_plani",
+  "soru": "Tekdüzen Hesap Planı'nda 'gelecek aylara ait giderler' ile 'gider tahakkukları' hesapları arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "İlkinde ödeme yapılmış gider henüz doğmamıştır, ikincisinde gider doğmuş ödeme yapılmamıştır",
+   "İlkinde gider doğmuş ancak ödeme yapılmamış, ikincisinde ise ödeme yapılmış gider doğmamıştır",
+   "İki hesap da aynı içeriği taşımakta olup ayrım yalnızca hesap numarasından kaynaklanmaktadır",
+   "Gelecek aylara ait giderler bir yılı aşan dönemleri kapsayan giderleri izlemek için kullanılır",
+   "Gider tahakkukları yalnızca personel ücretlerinin izlenmesinde kullanılabilen bir hesaptır"
+  ],
+  "dogru": 0,
+  "aciklama": "Gelecek aylara ait giderler (180), peşin ödenmiş ancak henüz gerçekleşmemiş giderleri izleyen bir aktif hesabıdır. Gider tahakkukları (381) ise dönemde gerçekleşmiş fakat henüz ödenmemiş giderleri izleyen pasif hesaptır; ikisi dönemsellik gereği zıt yönlü düzeltme sağlar.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50428",
+  "dersId": "muhasebe",
+  "konuId": "hesap_plani",
+  "soru": "Bir işletmenin edindiği hisse senetlerinin hesap planındaki sınıflandırması bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Kısa vadede satılmak üzere alınanlar menkul kıymetler, uzun vadeli tutulanlar mali duran varlıklardır",
+   "Bütün hisse senetleri edinilme amacına bakılmaksızın menkul kıymetler grubunda izlenmek zorundadır",
+   "Hisse senetleri yalnızca nazım hesaplarda izlenmekte, bilançoda gösterilmemektedir",
+   "Uzun vadeli olarak elde tutulan hisse senetleri maddi duran varlıklar grubunda sınıflandırılmakta ve orada izlenmektedir",
+   "Hisse senetleri yalnızca satıldıklarında kayda alınmakta, elde tutulurken izlenmemektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Sınıflandırmada belirleyici olan edinme amacıdır. Kısa vadeli kâr amacıyla alınanlar 11 Menkul Kıymetler grubunda; iştirak veya bağlı ortaklık ilişkisi kurmak ya da uzun süre elde tutmak amacıyla alınanlar ise 24 Mali Duran Varlıklar grubunda izlenir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50429",
+  "dersId": "muhasebe",
+  "konuId": "hesap_plani",
+  "soru": "Katma değer vergisinin hesap planındaki izlenişi bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "İndirilecek KDV dönen varlıklarda, hesaplanan KDV ise kısa vadeli yabancı kaynaklarda izlenir",
+   "Hesaplanan KDV dönen varlıklarda, indirilecek KDV ise kısa vadeli yabancı kaynaklarda takip edilir",
+   "İki hesap da gelir tablosunda gösterilmekte olup bilançoda yer almamaktadır",
+   "KDV yalnızca ödeme yapıldığında kayda alınmakta, tahakkuk aşamasında izlenmemektedir",
+   "İndirilecek KDV doğrudan gider yazılmakta, hesaplanan KDV ise gelir olarak kaydedilmektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "191 İndirilecek KDV, işletmenin alışlarında yüklendiği ve devletten mahsup edeceği tutarı gösterdiğinden dönen varlıklarda yer alır. 391 Hesaplanan KDV ise satışlarda tahsil edilen ve devlete ödenecek tutarı gösterdiğinden kısa vadeli yabancı kaynaklarda izlenir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50430",
+  "dersId": "muhasebe",
+  "konuId": "donem_sonu",
+  "soru": "Dönem sonunda yabancı para cinsinden alacak ve borçların değerlemesi bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Değerleme Maliye Bakanlığı'nca ilan edilen kurla yapılır; oluşan fark kambiyo kârı veya zararı olarak sonuç hesaplarına aktarılır",
+   "Yabancı para cinsinden kalemler dönem sonunda değerlemeye tabi tutulmaz ve kayıtlı değerle bırakılır",
+   "Oluşan kur farkları doğrudan özkaynaklar altında değerleme farkı olarak muhasebeleştirilir",
+   "Yalnızca borçlar değerlemeye tabi tutulur, alacaklar ise değerleme dışında bırakılmaktadır",
+   "Kur farkları ilgili varlığın maliyetine eklenerek amortisman yoluyla itfa edilmek zorundadır"
+  ],
+  "dogru": 0,
+  "aciklama": "VUK gereği yabancı para cinsinden alacak ve borçlar dönem sonunda ilan edilen değerleme kurundan değerlenir. Ortaya çıkan olumlu fark 646 Kambiyo Kârları, olumsuz fark 656 Kambiyo Zararları hesabına alınarak dönem sonucuna yansıtılır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50431",
+  "dersId": "muhasebe",
+  "konuId": "donem_sonu",
+  "soru": "Dönem sonu envanter işlemlerinde 'şüpheli ticari alacak' ile 'değersiz alacak' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Şüpheli alacakta tahsil kuşkulu hâle gelmiştir, değersiz alacakta ise tahsil olanağı kalmamıştır",
+   "Değersiz alacakta tahsil yalnızca kuşkulu hâle gelmiş, şüpheli alacakta ise tahsil tamamlanmıştır",
+   "İki kavram da aynı durumu ifade etmekte olup muhasebe işlemleri bakımından fark bulunmamaktadır",
+   "Şüpheli alacaklar için karşılık ayrılmaz, doğrudan zarar yazılması gerekli görülmektedir",
+   "Değersiz alacaklar bilançoda varlık olarak gösterilmeye devam edilmek zorundadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Şüpheli alacak, dava veya icra safhasında olup tahsili kuşkulu hâle gelmiş alacaktır; karşılık ayrılarak gider yazılır ve alacak bilançoda izlenmeye devam eder. Değersiz alacak ise kazai bir hükme göre tahsil olanağı kalmamış alacaktır; doğrudan zarar yazılarak kayıtlardan çıkarılır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50432",
+  "dersId": "muhasebe",
+  "konuId": "donem_sonu",
+  "soru": "Dönem sonunda amortisman ayırma işleminin unutulmasının mali tablolar üzerindeki etkisi aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Dönem kârı olduğundan yüksek, duran varlıklar ise olduğundan yüksek görünür",
+   "Dönem kârı olduğundan düşük, duran varlıklar ise olduğundan düşük görünmektedir",
+   "Dönem kârı etkilenmez, yalnızca bilanço toplamı olduğundan düşük hesaplanır",
+   "Dönem kârı olduğundan düşük görünürken duran varlıklar gerçek değerinde kalır",
+   "Yalnızca nakit akış tablosu etkilenir, bilanço ve gelir tablosu değişmeden kalır"
+  ],
+  "dogru": 0,
+  "aciklama": "Amortisman bir giderdir; ayrılmadığında dönem gideri eksik kalır ve kâr olduğundan yüksek görünür. Aynı zamanda birikmiş amortisman kaydedilmediğinden duran varlıklar net defter değerinden yüksek gösterilir; her iki tablo da yanıltıcı hâle gelir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50433",
+  "dersId": "muhasebe",
+  "konuId": "mali_tablolar",
+  "soru": "Finansal tablo analizinde 'dikey analiz' (yüzde yöntemi) ile 'yatay analiz' (karşılaştırmalı analiz) arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Dikey analiz tek dönemde kalemlerin toplam içindeki payını, yatay analiz ise dönemler arası değişimi gösterir",
+   "Yatay analiz tek bir dönemdeki kalem paylarını, dikey analiz ise dönemler arasındaki değişimi ölçmektedir",
+   "İki analiz de yalnızca gelir tablosunda uygulanabilmekte, bilançoda kullanılamamaktadır",
+   "Dikey analiz yalnızca oran hesaplamalarına dayanmakta, mutlak tutarları ise hiçbir biçimde dikkate almamaktadır",
+   "Yatay analiz için en az beş dönem verisi bulunması zorunlu tutulmuş bir yöntemdir"
+  ],
+  "dogru": 0,
+  "aciklama": "Dikey analizde bilançoda aktif toplamı, gelir tablosunda net satışlar yüz kabul edilir ve her kalemin payı hesaplanır; yapı analizi sağlar. Yatay analizde ise seçilen baz döneme göre kalemlerdeki artış ve azalışlar incelenir; eğilim analizini mümkün kılar.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50434",
+  "dersId": "muhasebe",
+  "konuId": "mali_tablolar",
+  "soru": "Bir işletmenin 'finansal kaldıraç oranı' (toplam borç / toplam varlık) yükselirken 'faiz karşılama oranı' düşüyorsa bu durum aşağıdakilerden hangisine işaret eder?",
+  "secenekler": [
+   "Borçlanmanın arttığına ve faiz yükünü karşılama gücünün zayıfladığına",
+   "Borçlanmanın azaldığına ve işletmenin özkaynak ağırlıklı finanse edildiğine",
+   "İşletmenin nakit dönüşüm süresini kısaltarak likiditesini güçlendirdiğine",
+   "Faaliyet kârlılığının yükselerek borç ödeme gücünün belirgin biçimde arttığına",
+   "Stok devir hızının artarak işletme sermayesi ihtiyacının azaldığına"
+  ],
+  "dogru": 0,
+  "aciklama": "Kaldıraç oranının yükselmesi varlıkların giderek daha fazla yabancı kaynakla finanse edildiğini gösterir. Faiz karşılama oranının (FVÖK/faiz gideri) düşmesi ise faaliyet kârının faiz yükünü karşılama gücünün azaldığına işaret eder; ikisi birlikte artan finansal risk anlamına gelir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50435",
+  "dersId": "muhasebe",
+  "konuId": "mali_tablolar",
+  "soru": "Özkaynak kârlılığının (ROE) Du Pont analiziyle ayrıştırılması bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Net kâr marjı, aktif devir hızı ve finansal kaldıraç çarpanının çarpımından oluşur",
+   "Yalnızca net kâr marjı ile toplam satış hacminin toplanmasıyla hesaplanmaktadır",
+   "Aktif devir hızı ile stok devir hızının birbirine bölünmesi yoluyla hesaplanmaktadır",
+   "Faiz karşılama oranı ile cari oranın çarpımı yoluyla elde edilmektedir",
+   "Brüt satış kârı ile özkaynak tutarının farkı alınarak hesaplanmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Du Pont ayrıştırmasında ROE = (Net kâr/Satışlar) × (Satışlar/Aktif) × (Aktif/Özkaynak) biçiminde yazılır. Böylece kârlılığın kâr marjından mı, varlık kullanım etkinliğinden mi yoksa borçlanma düzeyinden mi kaynaklandığı ayırt edilebilir.",
+  "zorluk": "zor"
  }
 ]

@@ -37358,5 +37358,213 @@
   "dogru": 0,
   "aciklama": "Gizlilik danışma ilişkisinin temelidir ancak mutlak değildir. Danışanın kendine ya da başkasına yönelik ciddi ve öngörülebilir tehlike oluşturması, çocuk istismarı şüphesi ve yasal bildirim yükümlülüğü gibi hâllerde sınırlanır. Bu sınırlar sürecin başında danışana bildirilmelidir.",
   "zorluk": "zor"
+ },
+ {
+  "id": "202336",
+  "dersId": "egitimbilimleri",
+  "konuId": "bilissel_ogrenme",
+  "soru": "Bilgi işleme kuramında 'işleyen bellek' ile 'uzun süreli bellek' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "İşleyen belleğin kapasitesi ve süresi sınırlıdır; uzun süreli bellek ise sınırsız ve kalıcı kabul edilir; bilginin kalıcı hâle gelmesi için işleyen bellekte anlamlandırılarak kodlanması gerekir",
+   "İşleyen bellek sınırsız kapasiteye sahipken uzun süreli bellek sınırlı bilgi tutabilmektedir",
+   "İki bellek türü de aynı kapasiteye sahip olup aralarında işlevsel fark bulunmamaktadır",
+   "Uzun süreli bellek yalnızca görsel bilgileri, işleyen bellek ise yalnızca sözel bilgileri saklar",
+   "İşleyen bellekteki bilgi tekrar edilmeden de kendiliğinden uzun süreli belleğe aktarılır"
+  ],
+  "dogru": 0,
+  "aciklama": "İşleyen bellek yaklaşık yedi birim bilgiyi ve kısa süre tutar; uzun süreli bellek ise kapasite ve süre bakımından sınırsız sayılır. Bilginin kalıcılaşması, işleyen bellekte örgütleme ve anlamlandırma gibi süreçlerle kodlanmasına bağlıdır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "202337",
+  "dersId": "egitimbilimleri",
+  "konuId": "bilissel_ogrenme",
+  "soru": "Öğrenmede 'üstbiliş' (metabiliş) kavramının işlevi aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Bireyin kendi öğrenme sürecini izlemesi, düzenlemesi ve değerlendirmesi",
+   "Bireyin yalnızca olgusal bilgileri ezberleyerek uzun süre saklayabilmesi",
+   "Öğretmenin öğrenciye doğrudan aktardığı bilgilerin miktarının artırılması",
+   "Öğrencinin sınav kaygısının ölçülerek not ortalamasının yükseltilmesi",
+   "Ders içeriğinin zorluk düzeyinin sınıf ortalamasına göre düşürülmesi"
+  ],
+  "dogru": 0,
+  "aciklama": "Üstbiliş, bireyin kendi bilişsel süreçleri hakkındaki bilgisi ve bu süreçleri düzenleme becerisidir. Planlama, izleme ve değerlendirme bileşenlerinden oluşur; öğrencinin hangi stratejiyi ne zaman kullanacağını bilmesi üstbilişsel becerinin göstergesidir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "202338",
+  "dersId": "egitimbilimleri",
+  "konuId": "gudulenme",
+  "soru": "Öz belirleme kuramına göre 'içselleştirilmiş dışsal güdülenme' ile 'içsel güdülenme' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "İçsel güdülenmede etkinliğin kendisi doyum verir, içselleştirilmişte ise değeri benimsenmiş bir sonuç için yapılır",
+   "İçselleştirilmiş dışsal güdülenmede birey yalnızca ceza korkusuyla ve zorunluluk hissiyle davranışı sürdürmektedir",
+   "İki güdülenme türü de tümüyle dışsal ödüllere bağlı olup aralarında fark bulunmamaktadır",
+   "İçsel güdülenme yalnızca küçük yaş gruplarında, dışsal güdülenme ise yetişkinlerde görülür",
+   "İçselleştirilmiş güdülenme özerklik ihtiyacını tümüyle ortadan kaldıran bir süreçtir"
+  ],
+  "dogru": 0,
+  "aciklama": "Deci ve Ryan'a göre dışsal güdülenme bir süreklilik üzerinde yer alır. En dışsal uçta dışsal düzenleme (ödül-ceza), en içsel uçta ise bütünleşmiş düzenleme bulunur. İçsel güdülenmede etkinlik kendi başına doyum verir; içselleştirilmiş dışsalda ise sonucun değeri benimsenmiştir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "202339",
+  "dersId": "egitimbilimleri",
+  "konuId": "gudulenme",
+  "soru": "Weiner'in atıf kuramına göre başarısızlığını 'yeteneksizliğe' atfeden bir öğrencinin durumu bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "İçsel, durağan ve kontrol edilemez bir atıf yaptığından umutsuzluk ve çaba azalması beklenir",
+   "Dışsal ve değişken bir atıf yaptığından gelecekteki başarı beklentisi kendiliğinden yükselir",
+   "Kontrol edilebilir bir atıf yaptığından davranışını kolaylıkla değiştirmesi beklenmektedir",
+   "İçsel ve değişken bir atıf yaptığından çabasını artırma eğilimi göstermesi beklenir",
+   "Dışsal ve durağan bir atıf yaptığından öğretmene karşı öfke duyması beklenmektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Weiner atıfları üç boyutta inceler: odak (içsel-dışsal), durağanlık ve kontrol edilebilirlik. Yetenek içsel, durağan ve kontrol edilemez bir atıftır; bu atıf öğrenciyi 'değiştiremem' inancına götürür, öğrenilmiş çaresizlik riskini artırır. Çaba ise içsel, değişken ve kontrol edilebilirdir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "202340",
+  "dersId": "egitimbilimleri",
+  "konuId": "olcme_turleri",
+  "soru": "Ölçme ve değerlendirmede 'tanıma-yerleştirme', 'biçimlendirme-izleme' ve 'değer biçme' amaçlı değerlendirmelerin zamanlaması bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Tanıma öğretim öncesinde, biçimlendirme süreç içinde, değer biçme ise öğretim sonunda yapılır",
+   "Değer biçme öğretim öncesinde, tanıma ise süreç sonunda yapılan bir değerlendirme türü olarak tanımlanır",
+   "Üç tür de yalnızca öğretim sonunda uygulanmakta olup zamanlama farkı bulunmamaktadır",
+   "Biçimlendirme amaçlı değerlendirme yalnızca not vermek amacıyla kullanılan bir türdür",
+   "Tanıma amaçlı değerlendirme öğrencinin dönem sonu başarısını belirleyen ölçüt niteliğindedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Tanıma-yerleştirme değerlendirmesi öğretim öncesinde hazırbulunuşluğu belirler. Biçimlendirme-izleme süreç içinde eksikleri saptayıp geri bildirim verir, not amacı taşımaz. Değer biçme ise öğretim sonunda ulaşılan düzeyi belirler ve genellikle not verme amaçlıdır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "202341",
+  "dersId": "egitimbilimleri",
+  "konuId": "guvenirlik_gecerlik",
+  "soru": "Bir başarı testinin 'kapsam geçerliği'ni artırmak için yapılması gereken işlem aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Belirtke tablosu hazırlanarak maddelerin kazanım ve bilişsel düzeylere dengeli dağıtılması",
+   "Test süresinin uzatılarak öğrencilerin bütün maddeleri eksiksiz biçimde yanıtlamasının sağlanması",
+   "Madde sayısının azaltılarak yalnızca en kolay maddelerin testte bırakılması",
+   "Testin aynı gruba iki kez uygulanarak puanlar arasındaki korelasyonun hesaplanması",
+   "Puanlamanın birden fazla kişi tarafından yapılarak tutarlılığın sağlanması"
+  ],
+  "dogru": 0,
+  "aciklama": "Kapsam geçerliği, testin ölçmek istediği içerik ve kazanımları temsil etme derecesidir. Belirtke tablosu, konuları ve bilişsel düzeyleri çaprazlayarak madde dağılımını dengeler; bu da testin öğretim programını temsil etmesini sağlar. Test-tekrar test ise güvenirlik ölçütüdür.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "202342",
+  "dersId": "egitimbilimleri",
+  "konuId": "i_statistik",
+  "soru": "Bir sınavda puanların dağılımı sağa çarpık ise merkezi eğilim ölçüleri arasındaki ilişki aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Aritmetik ortalama medyandan, medyan ise moddan büyüktür",
+   "Mod medyandan, medyan ise aritmetik ortalamadan büyüktür",
+   "Üç ölçü de birbirine eşit olup dağılım simetrik sayılmaktadır",
+   "Aritmetik ortalama moda eşit olup medyan bu ikisinden küçüktür",
+   "Medyan aritmetik ortalamadan büyük, mod ise medyandan büyüktür"
+  ],
+  "dogru": 0,
+  "aciklama": "Sağa çarpık (pozitif çarpık) dağılımda uç yüksek puanlar ortalamayı yukarı çeker. Bu nedenle ortalama > medyan > mod sıralaması oluşur. Sola çarpık dağılımda sıralama tersine döner; simetrik dağılımda ise üçü birbirine eşittir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "202343",
+  "dersId": "egitimbilimleri",
+  "konuId": "davranis_yonetimi",
+  "soru": "Sınıf yönetiminde 'önleyici' yaklaşımın 'tepkisel' yaklaşıma üstünlüğünü en doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "İstenmeyen davranış ortaya çıkmadan ortam ve süreç düzenlemesiyle olasılığını azaltması; böylece öğretim zamanının müdahaleye harcanmaması ve sınıf ikliminin olumlu kalması",
+   "İstenmeyen davranış ortaya çıktıktan sonra daha ağır yaptırım uygulanmasını sağlaması",
+   "Öğrencilerin sınıf kurallarını öğrenmesini gereksiz kılarak süreci basitleştirmesi",
+   "Öğretmenin sınıfta hiçbir müdahalede bulunmamasını ilke hâline getirmesi",
+   "Disiplin sorunlarının yalnızca rehberlik servisine devredilmesini öngörmesi"
+  ],
+  "dogru": 0,
+  "aciklama": "Önleyici sınıf yönetimi; açık kural ve rutinler, akıcı geçişler, etkili ders tasarımı ve öğretmenin yerindeliğiyle istenmeyen davranışın ortaya çıkma olasılığını düşürür. Tepkisel yaklaşım ise davranış gerçekleştikten sonra devreye girer ve öğretim zamanından çalar.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "202344",
+  "dersId": "egitimbilimleri",
+  "konuId": "ogretim_teknolojileri",
+  "soru": "Mayer'in çoklu ortam öğrenme kuramında 'gereksiz yük' (extraneous load) ilkesi bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Konuyla ilgisiz görsel ve ses öğelerinin çıkarılması öğrenmeyi artırır",
+   "Sunuma eklenen her görsel öğe öğrenmeyi her koşulda artırmaktadır",
+   "Metnin hem ekranda yazılı hem de seslendirilerek sunulması öğrenmeyi güçlendirir",
+   "Bilişsel yükün artırılması öğrencinin dikkatini toplamasına yardımcı olmaktadır",
+   "Çoklu ortam materyallerinde ses kullanımından tümüyle kaçınılması gerekmektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Mayer'e göre çalışma belleği sınırlıdır; öğrenmeye katkısı olmayan süsleme görselleri, arka plan müziği ve gereksiz ayrıntılar bu kapasiteyi tüketir. Tutarlılık ilkesi bunların çıkarılmasını önerir. Aynı metnin hem yazılı hem sesli sunulması ise gereksiz yük doğurur (fazlalık etkisi).",
+  "zorluk": "zor"
+ },
+ {
+  "id": "202345",
+  "dersId": "egitimbilimleri",
+  "konuId": "program_temelleri",
+  "soru": "Eğitim programının 'dikey kaynaşıklık' ile 'yatay kaynaşıklık' özellikleri arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Dikey kaynaşıklık sınıflar arası sürekliliği, yatay kaynaşıklık ise aynı düzeydeki dersler arası ilişkiyi anlatır",
+   "Yatay kaynaşıklık sınıflar arasındaki sürekliliği, dikey kaynaşıklık ise ders içindeki bütünlüğü ifade etmektedir",
+   "İki kavram da aynı içeriği taşımakta olup ayrım yalnızca kullanılan terminolojiden doğmaktadır",
+   "Dikey kaynaşıklık yalnızca ilkokul programlarında aranan bir özellik olarak tanımlanmaktadır",
+   "Yatay kaynaşıklık programın değerlendirme boyutunu düzenleyen bir ölçüt niteliğindedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Dikey kaynaşıklık, bir konunun sınıf düzeyleri arasında tutarlı ve birikimli biçimde ilerlemesidir. Yatay kaynaşıklık ise aynı sınıf düzeyindeki farklı derslerin birbiriyle ilişkilendirilmesini ifade eder; disiplinler arası bağ kurmayı sağlar.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "202346",
+  "dersId": "egitimbilimleri",
+  "konuId": "rehberlik_turleri",
+  "soru": "Rehberlik hizmetlerinin 'gelişimsel', 'önleyici' ve 'iyileştirici' işlevleri bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Gelişimsel işlev tüm öğrencilere, önleyici risk gruplarına, iyileştirici ise sorun yaşayanlara yöneliktir",
+   "İyileştirici işlev bütün öğrencilere yönelikken gelişimsel işlev yalnızca sorun yaşayan öğrencileri kapsar",
+   "Üç işlev de yalnızca sorun ortaya çıktıktan sonra devreye giren müdahaleleri ifade etmektedir",
+   "Önleyici işlev yalnızca akademik konularda, gelişimsel işlev ise yalnızca mesleki alanda uygulanır",
+   "Gelişimsel işlev rehber öğretmenin değil yalnızca sınıf öğretmeninin sorumluluğunda bulunmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Çağdaş rehberlik anlayışında gelişimsel işlev bütün öğrencilerin gelişim görevlerini desteklemeyi hedefler ve programın omurgasını oluşturur. Önleyici işlev risk altındaki gruplara yöneliktir; iyileştirici işlev ise sorun yaşayan öğrencilere sunulan doğrudan yardımı kapsar.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "202347",
+  "dersId": "egitimbilimleri",
+  "konuId": "ogretim_yontemleri",
+  "soru": "Öğretimde 'buluş yoluyla öğrenme' ile 'sunuş yoluyla öğrenme' stratejilerinin karşılaştırılması bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Buluş yolunda öğrenci örneklerden kurala ulaşır; sunuş yolunda ise önce genel kural verilip örneklerle desteklenir ve iki strateji farklı bilişsel süreçleri harekete geçirmektedir",
+   "Buluş yolunda önce genel ilke verilir, sunuş yolunda ise öğrenci ilkeyi kendisi keşfeder",
+   "İki strateji de tümüyle aynı süreci izlemekte olup adlandırma dışında fark bulunmamaktadır",
+   "Sunuş yoluyla öğrenme yalnızca okul öncesi dönemde uygulanabilen bir strateji sayılmaktadır",
+   "Buluş yoluyla öğrenmede öğretmenin hiçbir yönlendirme yapmaması zorunlu tutulmuştur"
+  ],
+  "dogru": 0,
+  "aciklama": "Bruner'in buluş yolu tümevarımcıdır: öğrenci örnek ve verilerden hareketle genellemeye kendisi ulaşır, öğretmen rehberlik eder. Ausubel'in sunuş yolu ise tümdengelimcidir; önce kapsayıcı genel kavram (ön örgütleyici) verilir, ardından ayrıntılara inilir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "202348",
+  "dersId": "egitimbilimleri",
+  "konuId": "ozel_egitim",
+  "soru": "Kaynaştırma uygulamalarında 'destek eğitim odası' hizmetinin amacı aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Öğrencinin genel eğitim sınıfında kalmayı sürdürürken belirli derslerde bireysel destek alması",
+   "Öğrencinin genel eğitim sınıfından tümüyle çıkarılarak ayrı bir özel eğitim sınıfına yerleştirilmesi",
+   "Öğrencinin akranlarıyla hiçbir etkinlikte bir araya gelmemesinin sağlanması ve ayrılması",
+   "Öğrencinin değerlendirme süreçlerinin tümüyle dışında tutularak sınavlardan muaf sayılması",
+   "Velinin talebi üzerine öğrencinin eğitim kademesinin bir üst sınıfa yükseltilmesi"
+  ],
+  "dogru": 0,
+  "aciklama": "Destek eğitim odası, kaynaştırma yoluyla eğitimine devam eden öğrencilere ihtiyaç duydukları derslerde, özel eğitim öğretmeni tarafından bireysel veya küçük grup hâlinde destek verilen ortamdır. Öğrenci genel eğitim sınıfındaki yerini korur; bu, en az kısıtlayıcı ortam ilkesinin uygulamasıdır.",
+  "zorluk": "zor"
  }
 ]

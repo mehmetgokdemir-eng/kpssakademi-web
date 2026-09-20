@@ -8270,5 +8270,197 @@
   "dogru": 0,
   "aciklama": "Anayasa'nın 160. maddesine göre Sayıştay, merkezi yönetim bütçesi kapsamındaki kamu idareleri ile sosyal güvenlik kurumlarının gelir, gider ve mallarını TBMM adına denetler, sorumluların hesap ve işlemlerini kesin hükme bağlar. Mahalli idarelerin hesapları da Sayıştay denetimine tabidir.",
   "zorluk": "zor"
+ },
+ {
+  "id": "54521",
+  "dersId": "kamuyonetimi",
+  "konuId": "yonetim_teorileri",
+  "soru": "Sistem yaklaşımının örgüt kuramına katkısı bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Örgütün çevresiyle girdi-çıktı ilişkisi içinde bulunan açık bir sistem olarak ele alınması",
+   "Örgütün çevreden yalıtılmış kapalı bir yapı sayılarak yalnızca iç süreçlerinin incelenmesi",
+   "Örgütteki biçimsel olmayan grupların analiz dışında bırakılması gerektiğinin savunulması",
+   "Verimliliğin yalnızca zaman ve hareket etütleriyle ölçülebileceğinin ileri sürülmesi",
+   "Yönetim ilkelerinin bütün örgütlerde değişmez biçimde uygulanabileceğinin kabul edilmesi"
+  ],
+  "dogru": 0,
+  "aciklama": "Sistem yaklaşımı örgütü; çevresinden girdi alan, bunu dönüştüren ve çıktı veren, geri bildirimle kendini düzenleyen açık bir sistem olarak görür. Alt sistemler arasındaki karşılıklı bağımlılığı vurgular ve klasik kuramın kapalı sistem varsayımını aşar.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54522",
+  "dersId": "kamuyonetimi",
+  "konuId": "yonetim_teorileri",
+  "soru": "Örgütlerde 'vekâlet (asil-vekil) sorunu'nun kamu yönetimindeki karşılığı aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Seçmen ile siyasetçi ve siyasetçi ile bürokrat arasındaki bilgi asimetrisinden doğan denetim güçlüğü",
+   "Kamu kurumlarının bütçelerini zamanında hazırlayamamasından kaynaklanan gecikme sorunu",
+   "Kamu personelinin görev yerlerinin coğrafi olarak dengesiz dağılmasından doğan eşitsizlik",
+   "Kamu hizmetlerinin bedelinin kullanıcılardan tahsil edilememesinden kaynaklanan gelir kaybı",
+   "Merkezi idare ile mahalli idareler arasındaki görev bölüşümünün belirsiz kalması durumu"
+  ],
+  "dogru": 0,
+  "aciklama": "Asil-vekil ilişkisinde vekil, asilin sahip olmadığı bilgiye sahiptir ve kendi çıkarını gözetebilir. Kamuda seçmen asil, siyasetçi vekildir; bir sonraki halkada siyasetçi asil, bürokrat vekildir. Bilgi asimetrisi denetimi zorlaştırır; performans ölçümü ve şeffaflık bu sorunu hafifletmeye yöneliktir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54523",
+  "dersId": "kamuyonetimi",
+  "konuId": "yonetim_teorileri",
+  "soru": "Örgütlerde 'öğrenen örgüt' kavramını Senge'nin çerçevesinde en doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Sistem düşüncesi, kişisel ustalık, zihinsel modeller, paylaşılan vizyon ve takım hâlinde öğrenme disiplinlerini birlikte geliştiren; deneyiminden ders çıkararak kendini sürekli yenileyen örgüt",
+   "Çalışanlarına yılda belirli saat zorunlu eğitim verdiği belgelenen örgüt",
+   "Hiyerarşik kademelerini artırarak denetimi güçlendiren örgüt yapısı",
+   "Kararların yalnızca üst yönetim tarafından alındığı merkeziyetçi yapı",
+   "Dış danışmanlık hizmeti almaktan kaçınan ve içe kapalı kalan örgüt"
+  ],
+  "dogru": 0,
+  "aciklama": "Senge'nin beş disiplini birlikte işlediğinde örgüt, bireysel öğrenmeyi kurumsal belleğe dönüştürebilir. Belirleyici olan verilen eğitim saati değil, örgütün varsayımlarını sorgulayıp davranışını değiştirebilmesidir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54524",
+  "dersId": "kamuyonetimi",
+  "konuId": "turk_kamu_yonetimi",
+  "soru": "Türkiye'de kamu görevlilerinin yargılanmasına ilişkin 4483 sayılı Kanun'un getirdiği usul aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Görevden doğan suçlarda soruşturma açılabilmesi için yetkili merciden izin alınması",
+   "Kamu görevlilerinin hiçbir koşul altında ceza soruşturmasına tabi tutulamayacağı yolundaki kural",
+   "Soruşturmanın yalnızca Danıştay tarafından ve doğrudan yürütülmesi zorunluluğu",
+   "Kamu görevlilerinin yalnızca disiplin cezasıyla cezalandırılabilmesi ilkesi",
+   "Görevden doğan suçlarda dava açma yetkisinin ilgili bakana bırakılmış olması"
+  ],
+  "dogru": 0,
+  "aciklama": "4483 sayılı Kanun, memurların görevleri sebebiyle işledikleri suçlarda soruşturma açılabilmesini yetkili merciin iznine bağlar. Bu izin, kamu hizmetinin aksamaması amacını taşır; izin kararına karşı itiraz yolu açıktır. Görevle ilgisiz kişisel suçlar genel hükümlere tabidir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54525",
+  "dersId": "kamuyonetimi",
+  "konuId": "turk_kamu_yonetimi",
+  "soru": "Türkiye'de 'büyükşehir belediyesi' modelinin 6360 sayılı Kanun'la geçirdiği dönüşüm bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Büyükşehirlerde belediye sınırı il mülki sınırına genişletilmiş, köy ve belde tüzel kişilikleri kaldırılmıştır",
+   "Büyükşehir belediyelerinin sınırları daraltılarak yalnızca merkez ilçelerle sınırlandırılmıştır",
+   "Büyükşehirlerde il özel idareleri güçlendirilerek yetkileri belirgin biçimde genişletilmiştir",
+   "Köy tüzel kişilikleri korunarak bunlara yeni mali kaynaklar tahsis edilmiş bulunmaktadır",
+   "Büyükşehir belediye başkanlarının atama ile göreve gelmesi usulü benimsenmiştir"
+  ],
+  "dogru": 0,
+  "aciklama": "6360 sayılı Kanun'la büyükşehir belediyelerinin görev alanı il mülki sınırına genişletilmiş; bu illerde il özel idareleri ile köy ve belde belediyelerinin tüzel kişiliği kaldırılarak mahalleye dönüştürülmüştür. Böylece bütünşehir modeli benimsenmiştir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54526",
+  "dersId": "kamuyonetimi",
+  "konuId": "turk_kamu_yonetimi",
+  "soru": "Türkiye'de kamu denetçiliği (ombudsmanlık) kurumunun işlevi bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "İdarenin işleyişine ilişkin şikâyetleri inceleyip tavsiye niteliğinde karar vermesi",
+   "İdari işlemleri doğrudan iptal etmek suretiyle yargısal nitelikte kesin karar alabilmesi",
+   "Kamu görevlilerine disiplin cezası verme yetkisini doğrudan kullanabilmesi",
+   "Yalnızca merkezi idareyi denetlemesi ve mahalli idareleri kapsam dışı bırakması",
+   "Cumhurbaşkanlığına bağlı olarak çalışması ve TBMM ile ilişkisinin bulunmaması"
+  ],
+  "dogru": 0,
+  "aciklama": "Kamu Denetçiliği Kurumu, TBMM'ye bağlı olarak idarenin her türlü eylem ve işlemini insan hakları ve hukuka uygunluk ile hakkaniyet açısından inceler. Kararları bağlayıcı değil tavsiye niteliğindedir; idarenin gerekçeli yanıt verme yükümlülüğü bulunur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54527",
+  "dersId": "kamuyonetimi",
+  "konuId": "personel_rejimi",
+  "soru": "Devlet memurları hakkında uygulanan disiplin cezaları bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Uyarma ve kınama cezalarına karşı da yargı yolu açık bulunmaktadır",
+   "Uyarma ve kınama cezaları hiçbir biçimde yargı denetimine tabi tutulamaz",
+   "Bütün disiplin cezaları yalnızca yüksek disiplin kurulunca verilebilmektedir",
+   "Devlet memurluğundan çıkarma cezası amirler tarafından doğrudan verilebilir",
+   "Disiplin cezalarında zamanaşımı süresi bulunmamakta, süresiz uygulanabilmektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "2010 Anayasa değişikliğiyle uyarma ve kınama cezalarının yargı denetimi dışında bırakılmasına ilişkin hüküm kaldırılmıştır; artık tüm disiplin cezalarına karşı yargı yolu açıktır. Devlet memurluğundan çıkarma ise yalnızca yüksek disiplin kurulu kararıyla verilir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54528",
+  "dersId": "kamuyonetimi",
+  "konuId": "personel_rejimi",
+  "soru": "Kamu personel sisteminde 'kariyer sistemi' ile 'kadro sistemi'nin birlikte uygulanmasının sonucu aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Memurun belirli bir sınıf içinde ilerlemesi ancak boş kadro bulunmasına bağlı kalması",
+   "Memurun hizmet süresine hiç bakılmaksızın istediği hizmet sınıfına serbestçe geçebilmesi",
+   "Memurun ücretinin işveren ile yaptığı bireysel sözleşmeyle belirlenebilmesi",
+   "Memurun görev yerinin hiçbir koşulda değiştirilememesi ve güvence altında olması",
+   "Memurun performansına göre kadro derecesinin kendiliğinden yükselmesi"
+  ],
+  "dogru": 0,
+  "aciklama": "Kariyer sistemi memurun mesleğinde yükselmesini öngörür; kadro sistemi ise her görevin önceden belirlenmiş bir kadroya bağlanmasını gerektirir. İkisi birlikte uygulandığında memur ancak sınıfı içinde ve boş kadro bulunması koşuluyla ilerleyebilir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54529",
+  "dersId": "kamuyonetimi",
+  "konuId": "yeni_kamu_yonetimi",
+  "soru": "Kamu yönetiminde 'şeffaflık' ilkesinin bilgi edinme hakkıyla ilişkisi bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Bilgi edinme hakkı şeffaflığın hukuki güvencesidir; istisnalar kanunla sınırlı olarak belirlenir",
+   "Bilgi edinme hakkı mutlak nitelikte olup hiçbir istisna öngörülmemiş bulunmaktadır",
+   "Şeffaflık ilkesi yalnızca mali işlemleri kapsamakta, idari kararları kapsam dışı bırakmaktadır",
+   "Bilgi edinme başvuruları yalnızca ilgili kişinin kendisiyle ilgili belgelerle sınırlı tutulmuştur",
+   "Şeffaflık yalnızca merkezi idare için geçerli olup mahalli idareleri bağlamamaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "4982 sayılı Bilgi Edinme Hakkı Kanunu, şeffaflığın hukuki aracıdır. Herkes kamu kurumlarından bilgi isteyebilir; ancak devlet sırrı, ticari sır, özel hayatın gizliliği ve adli soruşturma gibi kanunda sayılan istisnalar saklıdır. Kanun mahalli idareleri de kapsar.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54530",
+  "dersId": "kamuyonetimi",
+  "konuId": "yeni_kamu_yonetimi",
+  "soru": "Kamu hizmetlerinin özelleştirilmesinde 'düzenleyici devlet' anlayışının anlamı aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Devletin hizmeti doğrudan üretmek yerine kural koyup denetleyen bir konuma geçmesi",
+   "Devletin bütün ekonomik faaliyetleri doğrudan kendi eliyle ve tekel biçiminde üretmeye başlaması",
+   "Devletin piyasadan tümüyle çekilerek hiçbir denetim işlevi üstlenmemesi durumu",
+   "Kamu hizmetlerinin bedelsiz sunulmasının anayasal güvence altına alınması",
+   "Kamu iktisadi teşebbüslerinin sayısının artırılarak üretimin genişletilmesi"
+  ],
+  "dogru": 0,
+  "aciklama": "Düzenleyici devlet anlayışında devlet 'kürek çekmek' yerine 'dümen tutar': hizmeti kendisi üretmez, ancak standartları belirler, fiyatlandırmayı denetler ve rekabeti gözetir. Bağımsız düzenleyici kurumlar bu işlevin kurumsal karşılığıdır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54531",
+  "dersId": "kamuyonetimi",
+  "konuId": "yeni_kamu_yonetimi",
+  "soru": "Kamu yönetiminde 'e-devlet' uygulamalarının yönetsel etkileri bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Hizmete erişimi kolaylaştırmakla birlikte dijital uçurum nedeniyle yeni eşitsizlikler doğurabilmesi",
+   "Bütün vatandaşların hizmete eşit biçimde erişimini kendiliğinden güvence altına alması",
+   "Bürokratik işlemleri artırarak kamu hizmetlerinin süresini belirgin biçimde uzatması",
+   "Kamu kurumları arasındaki veri paylaşımını tümüyle olanaksız hâle getirmesi",
+   "Kamu personeli ihtiyacını tümüyle ortadan kaldırarak istihdamı gereksiz kılması"
+  ],
+  "dogru": 0,
+  "aciklama": "E-devlet, işlem sürelerini kısaltır ve şeffaflığı artırır. Ancak internet erişimi, cihaz sahipliği ve dijital okuryazarlık bakımından dezavantajlı gruplar hizmetten daha az yararlanabilir; bu olgu dijital uçurum olarak adlandırılır ve yeni bir eşitsizlik kaynağı oluşturur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54532",
+  "dersId": "kamuyonetimi",
+  "konuId": "yonetim_teorileri",
+  "soru": "Yönetimde 'Z Teorisi'nin (Ouchi) temel savı aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Japon yönetim uygulamalarıyla Amerikan modelinin bireşiminin verimliliği artıracağı",
+   "Çalışanların doğası gereği tembel olduğu ve sürekli sıkı denetim gerektirdiği yolundaki görüş",
+   "Örgüt yapısının yalnızca teknolojiye göre belirlenmesi gerektiği yaklaşımı",
+   "Kararların tümüyle tepe yönetimde toplanmasının verimliliği yükselteceği savı",
+   "Çalışanların yalnızca parasal ödüllerle güdülenebileceği yolundaki varsayım"
+  ],
+  "dogru": 0,
+  "aciklama": "Ouchi'nin Z Teorisi; uzun dönemli istihdam, ortak karar alma, bireysel sorumluluk ve çalışana bütüncül ilgi gibi Japon uygulamalarını Amerikan örgüt kültürüyle birleştirmeyi önerir. McGregor'un X teorisi ise çalışanı tembel ve denetime muhtaç sayar.",
+  "zorluk": "zor"
  }
 ]

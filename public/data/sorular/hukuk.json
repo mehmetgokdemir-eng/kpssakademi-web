@@ -6473,8 +6473,7 @@
    "Miras sözleşmesi her iki tarafın iradesiyle kurulur ve karşılıklı bağlayıcılık taşır.",
    "Miras sözleşmesi, vasiyetname şeklinde tek taraflı olarak geri alınabilir.",
    "El yazılı vasiyetname, başından sonuna kadar mirasbırakanın el yazısıyla yazılmalı ve imzalanmalıdır.",
-   "Vasiyetname ehliyeti için kısıtlı olmamak ve 15 yaşını doldurmuş olmak yeterlidir.",
-   "Sözlü vasiyetname yoluna ancak olağanüstü hal koşullarında başvurulabilir."
+   "Vasiyetname ehliyeti için kısıtlı olmamak ve 15 yaşını doldurmuş olmak yeterlidir."
   ],
   "dogru": 2,
   "aciklama": "TMK m. 545 uyarınca miras sözleşmesi, resmi şekilde yapılmış karşılıklı bir sözleşmedir. Tek taraflı irade beyanıyla vasiyetname gibi geri alınamaz; ancak tarafların karşılıklı anlaşmasıyla sona erdirilebilir ya da sonraki bir resmi sözleşmeyle ortadan kaldırılabilir. Bu durum vasiyetname serbestisinden temel farkıdır. E seçeneğindeki iki ifade farklı doğruluk değeri taşımakla birlikte, D şıkkındaki geri alınabilirlik iddiası açıkça yanlış olan yanıttır.",
@@ -10951,13 +10950,12 @@
   "soru": "Bir işçi, 12 yıldır çalıştığı tekstil fabrikasında sendika üyeliği nedeniyle iş sözleşmesi feshedilen işçilerden biridir. İşçi, hem sendikal tazminat hem de işe iade davası açmaktadır. Bu iki talep arasındaki ilişki bakımından aşağıdaki ifadelerden hangisi hukuki açıdan doğrudur?",
   "secenekler": [
    "Sendikal tazminat, işe iade tazminatıyla birlikte talep edilemez; işçi yalnızca birini seçmek zorundadır.",
-   "İşçinin kıdemi 10 yılın üzerinde olduğundan yalnızca sendikal tazminat talep edilebilir, işe iade davası açılamaz.",
    "İşçi her iki davayı aynı anda açabilir ve her ikisinden birden yararlanabilir.",
    "İşe iade davası kazanılırsa sendikal tazminat talebi kendiliğinden düşer.",
    "Sendikal tazminat, yalnızca kıdem tazminatı ödenmemişse talep edilebilir.",
    "İşe iade davası kazanılıp boşta geçen süre ücreti alınsa bile sendikal tazminat ayrıca talep edilebilir."
   ],
-  "dogru": 5,
+  "dogru": 4,
   "aciklama": "6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanunu'nun 25. maddesi uyarınca sendikal nedenle yapılan fesihlerde işçi hem işe iade davası açabilir hem de sendikal tazminat talep edebilir. Yargıtay içtihadına göre bu iki talep birbiriyle çelişmez; işe iade kararının ardından işçi işe başlatılmasa dahi sendikal tazminat ayrıca hükmolunabilir. Sendikal tazminatın alt sınırı işçinin bir yıllık ücreti tutarındadır. İşe iade tazminatı ile sendikal tazminat farklı hukuki temellere dayandığından birlikte hükmedilebilmesi mümkündür.",
   "zorluk": "zor"
  },

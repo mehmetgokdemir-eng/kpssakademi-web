@@ -8958,5 +8958,197 @@
   "dogru": 0,
   "aciklama": "Buchanan ve Tullock'un öncülük ettiği kamu tercihi teorisi, piyasa aktörlerine uygulanan rasyonel çıkar analizini siyasal sürece taşır. Seçmen, siyasetçi ve bürokrat kendi faydasını gözetir; bu yaklaşım oy ticareti, rant kollama ve bütçe maksimizasyonu gibi olguları açıklar.",
   "zorluk": "zor"
+ },
+ {
+  "id": "48565",
+  "dersId": "maliye",
+  "konuId": "kamu_maliyesi",
+  "soru": "Kamu ekonomisinde 'bedavacılık' (free rider) sorununun ortaya çıkma nedeni aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Kamusal maldan yararlanmanın engellenememesi nedeniyle bireylerin gerçek tercihlerini açıklamaması",
+   "Kamusal malların üretim maliyetinin özel mallara göre belirgin biçimde düşük olması",
+   "Bireylerin kamusal mallara olan talebini gereğinden yüksek beyan etme eğilimi göstermesi",
+   "Devletin kamusal malları piyasa fiyatının üzerinde bir bedelle satışa sunması",
+   "Kamusal malların tüketiminde rekabetin bulunması ve kıtlık yaşanması durumu"
+  ],
+  "dogru": 0,
+  "aciklama": "Saf kamusal malda dışlama mümkün olmadığından birey, bedel ödemese de maldan yararlanabilir. Bu nedenle gerçek tercihini gizler ve finansmana katılmaktan kaçınır. Sonuçta mal piyasa tarafından yeterince üretilemez; finansmanın zorunlu vergilerle sağlanmasının gerekçesi budur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48566",
+  "dersId": "maliye",
+  "konuId": "kamu_maliyesi",
+  "soru": "Kamu ekonomisinde 'kulüp malı' kavramını en doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Tüketimde rakip olmayan ancak belirli bir bedel karşılığında dışlanabilen mal türü",
+   "Tüketimde rakip olan ve hiç kimsenin dışlanamadığı ortak havuz kaynağı niteliğindeki mal türü",
+   "Hem tüketimde rakip hem de dışlanabilir nitelik taşıyan tam özel mal türü",
+   "Devlet tarafından bedelsiz sunulan ve hiçbir biçimde dışlanamayan saf kamusal mal",
+   "Yalnızca yerel yönetimlerce üretilebilen ve merkezi idarece sunulamayan hizmet"
+  ],
+  "dogru": 0,
+  "aciklama": "Buchanan'ın tanımladığı kulüp malı, belirli bir kapasiteye kadar tüketimde rakip olmayan fakat abonelik veya üyelik yoluyla dışlanabilen maldır; kablolu yayın, özel spor tesisi ve ücretli otoyol tipik örneklerdir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48567",
+  "dersId": "maliye",
+  "konuId": "kamu_maliyesi",
+  "soru": "Maliye politikasının 'otomatik stabilizatörler' aracılığıyla işleyişi bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Artan oranlı vergiler ve işsizlik ödemeleri, ayrı bir karar alınmaksızın konjonktürü dengeler",
+   "Otomatik stabilizatörler ancak hükümetin her yıl ayrı bir kanun çıkarmasıyla işleyebilmektedir",
+   "Durgunluk dönemlerinde vergi gelirleri artarak toplam talebi daha da daraltmaktadır",
+   "Genişleme dönemlerinde transfer harcamaları artarak enflasyonist baskıyı güçlendirmektedir",
+   "Otomatik stabilizatörler yalnızca sabit kur rejimlerinde işleyebilen mekanizmalardır"
+  ],
+  "dogru": 0,
+  "aciklama": "Otomatik stabilizatörler, ek bir politika kararı gerektirmeden konjonktüre ters yönde çalışır. Durgunlukta gelirler düştüğü için vergi tahsilatı azalır ve işsizlik ödemeleri artar; böylece talepteki daralma hafifler. Genişlemede ise bunun tersi işler.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48568",
+  "dersId": "maliye",
+  "konuId": "butce",
+  "soru": "Bütçe uygulamasında 'ödenek aktarması' ile 'ek ödenek' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Aktarmada mevcut ödenekler arasında kaydırma yapılır, ek ödenekte ise bütçeye yeni kaynak eklenir",
+   "Ek ödenekte mevcut ödenekler arasında kaydırma yapılırken aktarma işleminde bütçeye yeni kaynak eklenmektedir",
+   "İki işlem de aynı anlama gelmekte olup aralarında usul farkı bulunmamaktadır",
+   "Aktarma yalnızca yıl sonunda, ek ödenek ise yalnızca yıl başında yapılabilen işlemlerdir",
+   "Ek ödenek işlemi için yasama organının onayı hiçbir koşulda aranmamaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Ödenek aktarmasında bütçenin toplam büyüklüğü değişmez; tertipler arasında kaydırma yapılır ve bu yetki belirli sınırlar içinde idareye tanınır. Ek ödenekte ise bütçeye yeni kaynak eklendiğinden kanunla düzenleme gerekir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48569",
+  "dersId": "maliye",
+  "konuId": "butce",
+  "soru": "Bütçe sistemlerinden 'sıfır tabanlı bütçeleme'nin klasik bütçelemeden ayrıldığı temel nokta aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Her harcamanın geçmiş yıl ödeneği esas alınmadan sıfırdan gerekçelendirilmesinin istenmesi",
+   "Geçmiş yıl ödeneklerine belirli bir artış oranı uygulanmak suretiyle yeni yıl bütçesinin oluşturulması",
+   "Bütçenin yalnızca gelir tahminleri üzerinden hazırlanarak giderlerin serbest bırakılması",
+   "Harcamaların denetiminin tümüyle kaldırılarak idareye sınırsız takdir yetkisi tanınması",
+   "Bütçe döneminin bir yıldan üç yıla çıkarılarak yıllık ödenek uygulamasının terk edilmesi"
+  ],
+  "dogru": 0,
+  "aciklama": "Sıfır tabanlı bütçelemede kurumlar, geçmiş yılın ödeneğini kazanılmış hak saymaz; her faaliyet ve ödenek talebi baştan gerekçelendirilir ve öncelik sırasına konur. Klasik (artımsal) bütçelemede ise geçen yılın rakamı başlangıç noktasıdır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48570",
+  "dersId": "maliye",
+  "konuId": "turk_vergi_sistemi",
+  "soru": "Vergi hukukunda 'uzlaşma' kurumunun işlevi aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "İdare ile mükellefin vergi ve ceza tutarında anlaşarak uyuşmazlığı yargıya taşımadan çözmesi",
+   "Mükellefin vergi borcunu hiçbir koşul altında ödememesini sağlayan kalıcı bir muafiyet düzenlemesi",
+   "Vergi oranlarının mükellef ile idare arasında serbestçe belirlenmesine imkân tanıyan usul",
+   "Vergi incelemesinin tümüyle kaldırılarak beyanın kesin kabul edilmesini öngören uygulama",
+   "Vergi alacağının zamanaşımına uğramasını engelleyen ve süreyi durduran bir işlem"
+  ],
+  "dogru": 0,
+  "aciklama": "Uzlaşma, tarhiyat öncesi veya sonrası aşamada idare ile mükellefin vergi aslı ve cezası üzerinde anlaşmasıdır. Uyuşmazlığın yargıya taşınmadan çözülmesini sağlar; uzlaşma sağlandığında konu hakkında dava açılamaz ve tutar kesinleşir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48571",
+  "dersId": "maliye",
+  "konuId": "turk_vergi_sistemi",
+  "soru": "Türk vergi sisteminde 'vergi sorumlusu' ile 'vergi mükellefi' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Mükellef vergi borcunu kendi malvarlığından öder, sorumlu ise başkasının vergisini kesip yatırır",
+   "Sorumlu vergi borcunu kendi malvarlığından öderken mükellef yalnızca beyanname vermektedir",
+   "İki kavram da aynı kişiyi ifade etmekte olup ayrım yalnızca mevzuattaki adlandırmadan doğar",
+   "Vergi sorumlusunun idareye karşı herhangi bir hukuki yükümlülüğü bulunmamaktadır",
+   "Mükellef yalnızca tüzel kişiler, sorumlu ise yalnızca gerçek kişiler olabilmektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "VUK'a göre mükellef, vergi kanunlarına göre kendisine vergi borcu düşen kişidir. Vergi sorumlusu ise verginin ödenmesi bakımından alacaklı idareye karşı muhatap olan; kesinti yaparak beyan ve ödeme yükümlülüğü bulunan kişidir. İşverenin ücret stopajı tipik örnektir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48572",
+  "dersId": "maliye",
+  "konuId": "vergi_teorisi",
+  "soru": "Vergi yükünün ölçülmesinde 'objektif vergi yükü' ile 'subjektif vergi yükü' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Objektif yük ödenen verginin gelire oranını, subjektif yük ise mükellefin hissettiği baskıyı ifade eder",
+   "Subjektif yük ödenen verginin gelire oranını, objektif yük ise mükellefin algısını ölçmektedir",
+   "İki kavram da aynı ölçümü ifade etmekte olup aralarında yöntem farkı bulunmamaktadır",
+   "Objektif vergi yükü yalnızca dolaylı vergilerde hesaplanabilen bir gösterge niteliğindedir",
+   "Subjektif vergi yükü yalnızca kurumlar vergisi mükellefleri için tanımlanan bir ölçüttür"
+  ],
+  "dogru": 0,
+  "aciklama": "Objektif vergi yükü, ödenen verginin gelire oranı gibi sayısal bir ölçüttür. Subjektif yük ise mükellefin bu ödeme karşısında hissettiği fedakârlığı anlatır ve kişiden kişiye değişir; aynı objektif yük farklı bireylerde farklı subjektif yük doğurabilir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48573",
+  "dersId": "maliye",
+  "konuId": "vergi_teorisi",
+  "soru": "Vergi kaçakçılığı ile vergiden kaçınma arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Kaçakçılık kanuna aykırı ve cezayı gerektirir; kaçınma ise kanunun boşluklarından yararlanmaktır",
+   "Vergiden kaçınma kanuna aykırı olup ağır cezai yaptırıma bağlanmış bir davranış biçimi sayılmaktadır",
+   "İki davranış da hukuka uygun sayılmakta olup aralarında herhangi bir fark bulunmamaktadır",
+   "Kaçakçılık yalnızca dolaylı vergilerde, kaçınma ise yalnızca dolaysız vergilerde görülmektedir",
+   "Vergiden kaçınma yalnızca kurumlar tarafından, kaçakçılık ise yalnızca bireylerce yapılabilir"
+  ],
+  "dogru": 0,
+  "aciklama": "Vergi kaçakçılığı; belge sahteciliği, gelir gizleme gibi kanuna aykırı fiillerle vergi ödememektir ve cezai yaptırıma tabidir. Vergiden kaçınma ise vergiyi doğuran olaya hiç sebebiyet vermemek ya da yasal boşluklardan yararlanmaktır; hukuka aykırı değildir ancak yasal düzenlemeyle daraltılır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48574",
+  "dersId": "maliye",
+  "konuId": "kamu_harcamalari",
+  "soru": "Kamu harcamalarının ekonomik sınıflandırmasında 'cari harcama', 'yatırım harcaması' ve 'transfer harcaması' ayrımı bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Cari harcama yıl içinde tüketilen mal ve hizmetleri, yatırım harcaması sermaye birikimini, transfer ise karşılıksız aktarımı ifade eder; üçü de kamu kesiminin ekonomiye farklı biçimlerde etki etmesini sağlar",
+   "Yatırım harcamaları yıl içinde tüketilen mal ve hizmet alımlarını kapsamaktadır",
+   "Transfer harcamaları karşılığında doğrudan mal ve hizmet satın alınmaktadır",
+   "Cari harcamalar sermaye stokunu artıran uzun ömürlü yatırımları ifade etmektedir",
+   "Üç harcama türü de milli gelir üzerinde birebir aynı etkiyi doğurmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Cari harcamalar personel gideri ve tüketim malı alımı gibi yıl içinde tükenen harcamalardır. Yatırım harcamaları sermaye stokunu artırır ve etkisi yıllara yayılır. Transfer harcamalarında ise karşılığında mal veya hizmet alınmaz; satın alma gücü aktarılır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48575",
+  "dersId": "maliye",
+  "konuId": "kamu_harcamalari",
+  "soru": "Kamu harcamalarının artışını açıklayan 'rant kollama' (rent seeking) yaklaşımının temel savı aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Çıkar gruplarının devlet eliyle yaratılan ayrıcalıklardan pay almak için kaynak harcaması",
+   "Kamu harcamalarının yalnızca nüfus artışına bağlı olarak kendiliğinden ve sürekli biçimde yükselmesi",
+   "Devletin savunma harcamalarını azaltarak sosyal harcamaları artırma eğilimi göstermesi",
+   "Bürokrasinin bütçe büyüklüğünü sürekli olarak küçültmeye çalışması ve tasarruf etmesi",
+   "Kamu harcamalarının yalnızca teknolojik gelişmeye bağlı olarak değişkenlik göstermesi"
+  ],
+  "dogru": 0,
+  "aciklama": "Tullock ve Krueger'in geliştirdiği rant kollama yaklaşımına göre çıkar grupları; teşvik, imtiyaz ve koruma gibi devlet eliyle yaratılan rantlardan pay almak için lobi faaliyetine kaynak ayırır. Bu kaynaklar üretken kullanımdan çekildiğinden toplumsal refah kaybı doğar.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48576",
+  "dersId": "maliye",
+  "konuId": "kamu_maliyesi",
+  "soru": "Mali federalizm yaklaşımında 'yerindenlik (subsidiarite) ilkesi'nin anlamı aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Hizmetin, etkisinin sınırlı kaldığı en yakın yönetim kademesince sunulması gerektiği",
+   "Bütün kamu hizmetlerinin merkezi idare tarafından tek elden ve aynı standartta sunulması gerektiği",
+   "Yerel yönetimlerin hiçbir koşulda vergi toplama yetkisine sahip olamayacağı kuralı",
+   "Kamu hizmetlerinin bedelinin yalnızca merkezi bütçeden karşılanması zorunluluğu",
+   "Hizmetin etkisinin ülke geneline yayıldığı durumlarda yerel yönetimlere bırakılması"
+  ],
+  "dogru": 0,
+  "aciklama": "Yerindenlik ilkesine göre bir hizmet, faydası hangi coğrafi alanla sınırlıysa o alanı yöneten en yakın kademe tarafından sunulmalıdır. Sokak aydınlatması yerel, milli savunma ise merkezi düzeyde etkili olduğundan farklı kademelere bırakılır.",
+  "zorluk": "zor"
  }
 ]

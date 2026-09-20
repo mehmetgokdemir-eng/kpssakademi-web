@@ -5822,5 +5822,229 @@
   "dogru": 0,
   "aciklama": "Kutupluluk, sistemde kaç büyük güç merkezi bulunduğunu betimleyen yapısal bir kavramdır (tek, iki, çok kutuplu). Güç dengesi ise hem gücün dağılımını hem de devletlerin yükselen güce karşı dengeleme (balancing) ya da yanına katılma (bandwagoning) davranışlarını anlatan bir süreç kavramıdır.",
   "zorluk": "zor"
+ },
+ {
+  "id": "56368",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_teoriler",
+  "soru": "Saldırgan realizm (Mearsheimer) ile savunmacı realizm (Waltz) arasındaki temel ayrım aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Saldırgan realizm devletlerin bölgesel hegemonya peşinde koştuğunu, savunmacı realizm ise makul güvenlikle yetindiğini savunur; iki yaklaşım anarşiden farklı sonuçlar türetmekte ve devletin güç iştahını farklı ölçekte tanımlamaktadır",
+   "Saldırgan realizm uluslararası kurumların çatışmayı önlediğini kabul eder",
+   "Savunmacı realizm devletlerin sınırsız güç biriktirdiğini ileri sürmektedir",
+   "İki yaklaşım da anarşi kavramını reddederek hiyerarşiyi esas almaktadır",
+   "Saldırgan realizm iç politikayı, savunmacı realizm ise yalnızca ekonomiyi inceler"
+  ],
+  "dogru": 0,
+  "aciklama": "Waltz'a göre devletler güvenliklerini sağlayacak kadar güç arar; aşırı güç biriktirme dengeleme tepkisi doğurduğundan verimsizdir. Mearsheimer ise anarşide hiçbir güç düzeyinin güvenliği garanti etmediğini, bu nedenle devletlerin bölgesel hegemonya hedeflediğini savunur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56369",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_teoriler",
+  "soru": "Eleştirel kuramın (Frankfurt Okulu kökenli) uluslararası ilişkilerdeki 'problem çözücü kuram' eleştirisi neye dayanır?",
+  "secenekler": [
+   "Mevcut düzeni veri sayan kuramların o düzenin eşitsizliklerini yeniden ürettiği savına",
+   "Devletlerin rasyonel aktör olmadığı ve yalnızca duygusal saiklerle hareket ettiği görüşüne",
+   "Uluslararası kurumların çatışmayı her koşulda önlediği yolundaki ampirik bulguya",
+   "Askerî kapasitenin ölçülemeyeceği ve güç kavramının tanımsız kaldığı iddiasına",
+   "Devlet dışı aktörlerin uluslararası sistemde hiçbir rol oynamadığı varsayımına"
+  ],
+  "dogru": 0,
+  "aciklama": "Cox'un ayrımına göre problem çözücü kuram mevcut düzeni veri alır ve içindeki aksaklıkları gidermeye çalışır; böylece düzenin kendisini meşrulaştırır. Eleştirel kuram ise 'kuram daima birileri ve bir amaç içindir' diyerek düzenin tarihsel olarak nasıl kurulduğunu sorgular.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56370",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_teoriler",
+  "soru": "Feminist uluslararası ilişkiler kuramının disipline getirdiği temel eleştiri aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Güvenlik ve güç kavramlarının erkek deneyimi üzerinden kurulduğu ve toplumsal cinsiyetin görünmez kılındığı savı",
+   "Devletlerin uluslararası kurumlara üye olmaktan kaçındığı yolundaki gözlem",
+   "Anarşinin devletler arası iş birliğini tümüyle olanaksız kıldığı varsayımı",
+   "Ekonomik bağımlılığın savaş olasılığını artırdığı yolundaki ampirik bulgu",
+   "Uluslararası hukukun yalnızca büyük güçleri bağladığı yönündeki saptama"
+  ],
+  "dogru": 0,
+  "aciklama": "Enloe ve Tickner gibi kuramcılar, disiplinin merkezindeki güvenlik, güç ve rasyonellik kavramlarının erkek deneyimi üzerinden tanımlandığını; kadınların savaş, göç ve küresel üretimdeki konumunun analiz dışı bırakıldığını ileri sürer.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56371",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_kavramlar",
+  "soru": "Uluslararası ilişkilerde 'caydırıcılık' ile 'zorlayıcı diplomasi' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Caydırıcılık bir eylemi başlatmaktan vazgeçirmeyi, zorlayıcı diplomasi başlanmış eylemi durdurmayı hedefler",
+   "Zorlayıcı diplomasi eylemin önlenmesini, caydırıcılık ise başlamış olan eylemin geri döndürülmesini amaçlamaktadır",
+   "İki kavram da yalnızca nükleer silahlara sahip devletler arasında geçerli sayılan kavramlardır",
+   "Caydırıcılık yalnızca ekonomik yaptırımlarla, zorlayıcı diplomasi ise askerî güçle uygulanmaktadır",
+   "İki strateji de karşı tarafın niyetini değil yalnızca kapasitesini hedef almakta ve onu sınırlamaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Caydırıcılık statükoyu korumaya yöneliktir: karşı tarafı henüz başlamadığı bir eylemden vazgeçirir. Zorlayıcı diplomasi ise statükoyu değiştirmeye yöneliktir; başlamış bir eylemi durdurmayı veya geri almayı hedefler ve daha zor sayılır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56372",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_kavramlar",
+  "soru": "'Güvenlikleştirme' (securitization) kavramı Kopenhag Okulu çerçevesinde neyi ifade eder?",
+  "secenekler": [
+   "Bir konunun söylem yoluyla varoluşsal tehdit olarak sunulup olağanüstü tedbirlerin meşrulaştırılmasını",
+   "Bir devletin askerî harcamalarını belirli bir oranın üzerine çıkarmasını ve hızla silahlanmaya yönelmesini",
+   "Uluslararası örgütlerin güvenlik konularında karar alma yetkisini genişletmesini",
+   "Devletlerin savunma sanayiini yerlileştirerek dışa bağımlılığını azaltmasını",
+   "Sınır güvenliğinin teknolojik sistemlerle takviye edilmesini ve denetimin artırılmasını"
+  ],
+  "dogru": 0,
+  "aciklama": "Wæver'e göre güvenlik, nesnel bir durum değil bir söz edimidir. Yetkili bir aktör bir konuyu varoluşsal tehdit olarak sunar, izleyici kitle bunu kabul ederse konu normal siyasetin dışına taşınır ve olağanüstü tedbirler meşrulaşır. Göç ve salgın bu yolla güvenlikleştirilebilir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56373",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_orgutler",
+  "soru": "Birleşmiş Milletler barışı koruma operasyonlarında 'geleneksel barışı koruma' ile 'barışı zorlama' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Geleneksel operasyon tarafların rızasına ve meşru müdafaa dışında güç kullanmamaya dayanır; barışı zorlama ise Antlaşma'nın VII. Bölümü uyarınca rıza aranmaksızın güç kullanımına imkân tanımaktadır",
+   "Barışı zorlama tarafların rızasıyla yürütülmekte ve hiçbir koşulda güç kullanılmamaktadır",
+   "İki operasyon türü de yalnızca Genel Kurul kararıyla başlatılabilmekte ve yürütülmektedir",
+   "Geleneksel barışı koruma yalnızca iç savaşlarda, barışı zorlama ise devletlerarası savaşlarda uygulanır",
+   "Barışı zorlama operasyonlarında askerî personel yerine yalnızca sivil gözlemciler görevlendirilir"
+  ],
+  "dogru": 0,
+  "aciklama": "Geleneksel barışı koruma; tarafların rızası, tarafsızlık ve meşru müdafaa dışında güç kullanmama ilkelerine dayanır. Barışı zorlama ise BM Antlaşması'nın VII. Bölümü kapsamında, Güvenlik Konseyi kararıyla ve taraf rızası aranmaksızın güç kullanımına izin verir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56374",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_orgutler",
+  "soru": "Avrupa İnsan Hakları Mahkemesi'ne başvuru koşulları bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "İç hukuk yollarının tüketilmesi ve kesin karardan itibaren dört ay içinde başvurulması gerekir",
+   "Başvuru için iç hukuk yollarının tüketilmesi aranmamakta olup doğrudan başvuru yapılabilmektedir",
+   "Yalnızca devletler başvurabilmekte olup bireylerin başvuru hakkı bulunmamaktadır",
+   "Mahkeme yalnızca tavsiye kararı vermekte, kararları taraf devletleri bağlamamaktadır",
+   "Başvuru yalnızca Avrupa Birliği üyesi devletlerin vatandaşlarınca yapılabilmektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "AİHM'e bireysel başvuru için iç hukuk yollarının tüketilmiş olması ve nihai iç karardan itibaren belirlenen süre içinde (16 No'lu Protokol sonrası dört ay) başvurulması gerekir. Kararlar taraf devletler için bağlayıcıdır ve Bakanlar Komitesi infazı denetler.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56375",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_uluslararasi_hukuk",
+  "soru": "Uluslararası hukukta antlaşmalara konulan 'çekince' (reservation) kurumunun sınırı aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Çekincenin antlaşmanın konu ve amacıyla bağdaşmaz nitelikte olmaması gerekmesi",
+   "Çekince konulmasının bütün çok taraflı antlaşmalarda tümüyle yasaklanmış olması",
+   "Çekincenin ancak antlaşma yürürlüğe girdikten on yıl sonra konulabilmesi kuralı",
+   "Çekincenin yalnızca Birleşmiş Milletler Güvenlik Konseyi onayıyla geçerlilik kazanması",
+   "Çekincenin diğer taraf devletlerin tamamının açık kabulüne bağlı tutulmuş olması"
+  ],
+  "dogru": 0,
+  "aciklama": "1969 Viyana Antlaşmalar Hukuku Sözleşmesi'nin 19. maddesine göre antlaşma çekinceyi yasaklamıyorsa veya yalnızca belirli çekincelere izin vermiyorsa çekince konulabilir; ancak çekince antlaşmanın konu ve amacıyla bağdaşmaz nitelikte olamaz.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56376",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_uluslararasi_hukuk",
+  "soru": "Uluslararası Adalet Divanı'nın yargı yetkisi bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Divan'ın çekişmeli davalardaki yetkisi devletlerin rızasına dayanır ve yalnızca devletler taraf olabilir",
+   "Divan, bireylerin açtığı davalarda da yargı yetkisine sahip olup ceza sorumluluğuna da hükmedebilmektedir",
+   "Divan'ın yetkisi bütün Birleşmiş Milletler üyeleri bakımından zorunlu ve otomatik niteliktedir",
+   "Divan yalnızca danışma görüşü verebilmekte, bağlayıcı karar alma yetkisi bulunmamaktadır",
+   "Divan kararlarına karşı Güvenlik Konseyi nezdinde temyiz yolu açık tutulmuş bulunmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "UAD'nin çekişmeli yargı yetkisi devletlerin rızasına dayanır; bu rıza özel anlaşma, antlaşma hükmü veya ihtiyari kayıtla verilebilir. Yalnızca devletler taraf olabilir. Divan ayrıca BM organlarının talebiyle bağlayıcı olmayan danışma görüşü verir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56377",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_turk_dis_politika",
+  "soru": "Türkiye'nin 1964'teki Johnson Mektubu sonrasında dış politikasında ortaya çıkan eğilim aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Batı ittifakı içinde kalmakla birlikte ilişkileri çeşitlendirme ve çok yönlülük arayışına girilmesi",
+   "NATO üyeliğinden çekilerek Bağlantısızlar Hareketi'ne katılma kararının alınması",
+   "Varşova Paktı ile askerî ittifak anlaşması imzalanarak blok değiştirilmesi",
+   "Bütün dış ilişkilerin askıya alınarak kapalı ekonomi modeline geçilmesi",
+   "Avrupa Ekonomik Topluluğu ile ilişkilerin tümüyle sonlandırılması kararı"
+  ],
+  "dogru": 0,
+  "aciklama": "Johnson Mektubu, Kıbrıs'a olası bir müdahalede ABD silahlarının kullanılamayacağını ve NATO güvencesinin işlemeyebileceğini bildirmiştir. Bu, Türkiye'de ittifakın sınırları konusunda derin bir sorgulama başlatmış; Sovyetler Birliği ve üçüncü dünya ülkeleriyle ilişkilerin geliştirildiği çok yönlü bir arayışa yol açmıştır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56378",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_turk_dis_politika",
+  "soru": "Türkiye'nin Avrupa Birliği ile ilişkilerinde 1963 Ankara Anlaşması'nın öngördüğü aşamalar aşağıdakilerden hangisinde doğru sıralanmıştır?",
+  "secenekler": [
+   "Hazırlık dönemi – geçiş dönemi – son dönem",
+   "Geçiş dönemi – hazırlık dönemi – ortaklık dönemi ve tam üyelik aşaması",
+   "Son dönem – hazırlık dönemi – gümrük birliği aşaması ve müzakere süreci",
+   "Müzakere dönemi – uyum dönemi – katılım dönemi ve bütünleşme aşaması",
+   "Ortaklık dönemi – serbest ticaret dönemi – ekonomik birlik aşaması"
+  ],
+  "dogru": 0,
+  "aciklama": "1963 Ankara Anlaşması, Türkiye ile AET arasındaki ortaklığı hazırlık, geçiş ve son dönem olmak üzere üç aşamada öngörmüştür. 1970 Katma Protokol geçiş dönemini düzenlemiş, son dönem ise 1996'da yürürlüğe giren Gümrük Birliği ile başlamıştır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56379",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_soguk_savas",
+  "soru": "Soğuk Savaş döneminde 'çevreleme' (containment) stratejisinin kuramsal temelini oluşturan yaklaşım aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Sovyet yayılmacılığının askerî ve siyasi baskıyla sınırlandırılabileceği görüşü",
+   "Sovyetler Birliği ile doğrudan askerî bir çatışmaya girilmesi gerektiği yolundaki sav",
+   "İki blok arasında tam ekonomik bütünleşme sağlanması yönündeki öneri",
+   "Nükleer silahların tek taraflı olarak tasfiye edilmesi gerektiği yaklaşımı",
+   "Üçüncü dünya ülkelerinin bloklar dışında tutulması gerektiği yolundaki tez"
+  ],
+  "dogru": 0,
+  "aciklama": "George Kennan'ın 'Uzun Telgraf' ve X makalesinde geliştirdiği çevreleme, Sovyet yayılmacılığının sabırlı ve kararlı bir karşı baskıyla sınırlandırılmasını öngörür. Doğrudan çatışma değil, yayılmanın önlenmesi esastır; Truman Doktrini ve Marshall Planı bu stratejinin uygulamalarıdır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56380",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_bolgesel",
+  "soru": "Ortadoğu'da Sykes-Picot Anlaşması'nın (1916) bölgesel yapı üzerindeki kalıcı etkisi aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Toplumsal yapılar gözetilmeden çizilen sınırların etnik ve mezhepsel bölünmeleri kalıcılaştırması",
+   "Bölgede güçlü ve istikrarlı ulus devletlerin hızla kurulmasını sağlaması ve kalıcı istikrar getirmesi",
+   "Osmanlı yönetim yapısının olduğu gibi korunarak idari sürekliliğin sağlanması",
+   "Petrol kaynaklarının bölge halklarının ortak mülkiyetine devredilmesinin güvence altına alınması",
+   "Bölgede tarafsız bir güvenlik mimarisinin kurulması ve dış müdahalelerin önlenmesi"
+  ],
+  "dogru": 0,
+  "aciklama": "İngiltere ve Fransa'nın Osmanlı topraklarını paylaştığı gizli anlaşma, yerel toplumsal ve aşiret yapıları dikkate alınmadan cetvelle çizilmiş sınırlar doğurmuştur. Bu yapay sınırlar, günümüze uzanan etnik ve mezhepsel gerilimlerin ve devlet meşruiyeti sorunlarının kaynaklarından sayılır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56381",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_guncel_sorunlar",
+  "soru": "Küresel yönetişimde 'meşruiyet açığı' (legitimacy deficit) tartışmasının odaklandığı sorun aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Karar alan uluslararası kurumların kararlarından etkilenenlere karşı hesap verebilir olmaması",
+   "Uluslararası kurumların yeterli mali kaynağa sahip bulunmaması ve sürekli bütçe açığı vermesi durumu",
+   "Devletlerin uluslararası kurumlara üye olmaktan sistematik biçimde kaçınması eğilimi",
+   "Uluslararası hukukun yazılı kaynaklarının bulunmaması ve teamüle dayanması",
+   "Küresel sorunların yalnızca ulusal düzeyde çözülebileceğinin kabul edilmesi"
+  ],
+  "dogru": 0,
+  "aciklama": "Meşruiyet açığı, IMF, Dünya Bankası ve Güvenlik Konseyi gibi kurumların küresel etkiye sahip kararlar alırken bu kararlardan etkilenen halklara karşı demokratik hesap verebilirlik mekanizmalarından yoksun olmasını anlatır; oy ağırlıklarının eşitsizliği bu tartışmanın merkezindedir.",
+  "zorluk": "zor"
  }
 ]

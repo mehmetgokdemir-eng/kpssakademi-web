@@ -9214,5 +9214,197 @@
   "dogru": 0,
   "aciklama": "32 sayılı Karar, 24 Ocak Kararları'yla başlayan dışa açılma sürecinin finansal ayağını tamamlamış; sermaye hareketleri serbestleştirilmiş ve Türk lirası konvertibl hâle getirilmiştir. Bu adım, sonraki yıllarda kısa vadeli sermaye akımlarına dayalı kırılganlığın da zeminini oluşturmuştur.",
   "zorluk": "zor"
+ },
+ {
+  "id": "46579",
+  "dersId": "iktisat",
+  "konuId": "mikro_i_ktisat",
+  "soru": "Üretim teorisinde 'azalan verimler yasası'nın geçerli olduğu dönem ve koşul aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Kısa dönemde, en az bir üretim faktörünün sabit tutulduğu koşullarda geçerlidir ve değişken faktör artırıldıkça marjinal ürünün bir noktadan sonra azalmasını ifade eder",
+   "Uzun dönemde bütün faktörlerin birlikte artırıldığı koşullarda geçerli olmaktadır",
+   "Yalnızca tam rekabet piyasasında faaliyet gösteren firmalar bakımından geçerlidir",
+   "Yalnızca tarım sektöründe gözlenen ve sanayide görülmeyen bir olgu niteliğindedir",
+   "Üretim faktörlerinin tamamının sabit tutulduğu durumlarda ortaya çıkan bir kuraldır"
+  ],
+  "dogru": 0,
+  "aciklama": "Azalan verimler yasası kısa dönem olgusudur: sermaye gibi en az bir faktör sabitken değişken faktör (emek) artırıldıkça marjinal ürün önce artar, sonra azalmaya başlar. Uzun dönemde tüm faktörler değişken olduğundan ölçeğe göre getiri kavramı devreye girer.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46580",
+  "dersId": "iktisat",
+  "konuId": "mikro_i_ktisat",
+  "soru": "Piyasa başarısızlığı nedenlerinden 'asimetrik bilgi'nin ikinci el otomobil piyasasındaki sonucu Akerlof'un analizine göre aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Kaliteli araçların piyasadan çekilmesi ve ortalama kalitenin düşmesi",
+   "Kaliteli araçların fiyatının yükselerek piyasada çoğalmaya başlaması",
+   "Alıcı ve satıcıların tam bilgiye ulaşarak etkin dengeye ulaşması",
+   "Devletin fiyat tavanı koymasıyla arz fazlasının ortaya çıkması",
+   "Piyasada tekelci rekabet yapısının kendiliğinden oluşması durumu"
+  ],
+  "dogru": 0,
+  "aciklama": "Alıcı aracın gerçek kalitesini bilemediğinden ortalama kaliteye göre fiyat öder. Bu fiyat kaliteli araç sahipleri için düşüktür; onlar piyasadan çekilir. Ortalama kalite daha da düşer ve süreç kendini besler. Akerlof bunu 'limon piyasası' olarak adlandırır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46581",
+  "dersId": "iktisat",
+  "konuId": "mikro_i_ktisat",
+  "soru": "Oyun teorisinde 'mahkûm ikilemi'nin iktisadi anlamı aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Bireysel rasyonel tercihlerin toplumsal açıdan daha kötü bir sonuca yol açabilmesi",
+   "Bireysel rasyonel tercihlerin her koşulda toplumsal optimuma ulaşılmasını sağlaması",
+   "Oyuncuların iş birliği yaptığında her zaman daha düşük kazanç elde etmesi",
+   "Baskın stratejinin hiçbir oyunda bulunmadığının matematiksel olarak gösterilmesi",
+   "Piyasaların denge fiyatına kendiliğinden ve hızla ulaştığının kanıtlanması"
+  ],
+  "dogru": 0,
+  "aciklama": "Mahkûm ikileminde her oyuncu için itiraf etmek baskın stratejidir; ancak ikisi de itiraf ettiğinde ulaşılan sonuç, ikisinin de sustuğu duruma göre her ikisi için daha kötüdür. Bu, bireysel rasyonelliğin toplu irrasyonelliğe yol açabileceğini gösterir; kartellerin çözülmesi de böyle açıklanır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46582",
+  "dersId": "iktisat",
+  "konuId": "makro_i_ktisat",
+  "soru": "Toplam arz eğrisinin kısa dönemde pozitif eğimli, uzun dönemde dikey olmasının nedeni aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Kısa dönemde nominal katılıkların bulunması, uzun dönemde ise fiyat ve ücretlerin tam uyarlanması",
+   "Kısa dönemde bütün fiyat ve ücretlerin esnek olması, uzun dönemde ise bunların yapışkan hâle gelmesi",
+   "Kısa dönemde sermaye stokunun değişken, uzun dönemde sabit kabul edilmesi",
+   "Kısa dönemde para arzının sabit, uzun dönemde ise sürekli artıyor olması",
+   "Kısa dönemde işsizliğin sıfır, uzun dönemde ise doğal düzeyin üzerinde kalması"
+  ],
+  "dogru": 0,
+  "aciklama": "Kısa dönemde ücret ve fiyatların yapışkanlığı nedeniyle toplam talep artışı üretimi yükseltir; eğri pozitif eğimlidir. Uzun dönemde ise beklentiler ve sözleşmeler uyarlandığından üretim potansiyel düzeye döner ve toplam arz eğrisi doğal çıktı düzeyinde dikeydir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46583",
+  "dersId": "iktisat",
+  "konuId": "makro_i_ktisat",
+  "soru": "Enflasyon hedeflemesi rejiminde 'esnek enflasyon hedeflemesi' ile 'katı enflasyon hedeflemesi' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Esnek rejimde çıktı istikrarı da gözetilirken katı rejimde yalnızca enflasyon hedefi esas alınır",
+   "Katı rejimde çıktı açığına ağırlık verilirken esnek rejimde yalnızca fiyat istikrarı gözetilmektedir",
+   "İki rejim de yalnızca döviz kuru hedefine dayanmakta olup aralarında fark bulunmamaktadır",
+   "Esnek rejim yalnızca gelişmiş ülkelerde, katı rejim ise yalnızca gelişmekte olan ülkelerde uygulanır",
+   "Katı rejimde merkez bankası hedefi yıl içinde serbestçe değiştirebilmekte ve esneklik sağlamaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Katı enflasyon hedeflemesinde merkez bankası yalnızca enflasyon sapmasını dikkate alır. Esnek hedeflemede ise kayıp fonksiyonuna çıktı açığı da girer; şoklar karşısında enflasyonun hedefe dönüş süresi uzatılarak üretim ve istihdamdaki dalgalanma sınırlandırılır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46584",
+  "dersId": "iktisat",
+  "konuId": "makro_i_ktisat",
+  "soru": "Kamu borcunun sürdürülebilirliği bakımından faiz oranı (r) ile büyüme oranı (g) arasındaki ilişkinin önemi aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "r büyüme oranından küçükse borç/GSYH oranı birincil denge sıfır olsa bile gerileyebilir",
+   "r büyüme oranından büyükse borç/GSYH oranı kendiliğinden azalmaya başlamaktadır",
+   "İki değişken arasındaki ilişki borç dinamiği bakımından herhangi bir önem taşımamaktadır",
+   "Borç/GSYH oranı yalnızca birincil dengeye bağlı olup faiz ve büyümeden etkilenmemektedir",
+   "r ile g eşit olduğunda borç/GSYH oranı her koşulda hızla yükselmeye devam etmektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Borç dinamiği denkleminde borç/GSYH oranındaki değişim, (r − g) farkı ile mevcut borç stokunun çarpımından birincil fazlanın düşülmesiyle bulunur. r < g olduğunda büyüme borcu eritir; bu durumda birincil denge sıfır olsa bile oran gerileyebilir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46585",
+  "dersId": "iktisat",
+  "konuId": "para_banka",
+  "soru": "Para arzı tanımlarından M1, M2 ve M3 arasındaki ilişki bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "M1 en dar tanım olup likidite azaldıkça kapsam genişler ve M3 en geniş tanımı oluşturur",
+   "M3 en dar tanım olup likidite arttıkça kapsam genişlemekte ve sonunda M1 tanımına ulaşılmaktadır",
+   "Üç tanım da aynı kalemleri kapsamakta olup aralarında kapsam farkı bulunmamaktadır",
+   "M2 yalnızca dolaşımdaki nakdi kapsamakta, vadesiz mevduatı içermemektedir",
+   "M1 repo işlemleri ile para piyasası fonlarını da kapsayan en geniş tanımdır"
+  ],
+  "dogru": 0,
+  "aciklama": "M1; dolaşımdaki para ile vadesiz mevduattan oluşan en dar ve en likit tanımdır. M2, M1'e vadeli mevduatı ekler. M3 ise M2'ye repo işlemleri, para piyasası fonları ve ihraç edilen menkul kıymetleri ekleyerek en geniş tanımı verir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46586",
+  "dersId": "iktisat",
+  "konuId": "para_banka",
+  "soru": "Merkez bankasının 'son ödünç mercii' (lender of last resort) işlevinin temel gerekçesi aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Ödeme gücü olan ancak geçici likidite sıkışıklığı yaşayan bankaların sistemik paniğe yol açmasını önlemek",
+   "Zarar eden ve ödeme gücünü yitirmiş bankaların her koşulda ayakta tutulmasını sağlamak",
+   "Bankaların kredi faiz oranlarını idari kararla belirleyerek piyasayı yönlendirmek",
+   "Ticari bankaların kâr paylarını artırarak sermaye yapılarını güçlendirmelerini sağlamak",
+   "Bankacılık sektöründeki rekabeti azaltarak birleşmelerin önünü açmak ve yoğunlaşmayı artırmak"
+  ],
+  "dogru": 0,
+  "aciklama": "Bagehot ilkesine göre merkez bankası, ödeme gücü yerinde olan ancak geçici likidite sıkıntısı çeken bankalara, sağlam teminat karşılığında ve ceza faiziyle borç vermelidir. Amaç tek bir bankayı kurtarmak değil, mevduat hücumunun sisteme yayılmasını önlemektir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46587",
+  "dersId": "iktisat",
+  "konuId": "uluslararasi_i_ktisat",
+  "soru": "Döviz kuru rejimlerinden 'sürünen parite' (crawling peg) uygulamasının amacı aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Kurun önceden ilan edilen küçük adımlarla ayarlanarak ani devalüasyon ihtiyacının önlenmesi",
+   "Kurun tümüyle piyasa güçlerine bırakılarak merkez bankasının her türlü müdahaleden çekilmesi",
+   "Kurun kalıcı biçimde sabitlenerek hiçbir koşulda değiştirilmemesinin taahhüt edilmesi",
+   "Ulusal paranın yabancı bir para birimiyle tümüyle değiştirilerek dolarizasyona geçilmesi",
+   "Döviz alım satımının yasaklanarak çoklu kur sisteminin uygulamaya konulması"
+  ],
+  "dogru": 0,
+  "aciklama": "Sürünen paritede kur, enflasyon farkı gibi ölçütlere göre önceden açıklanan küçük ve düzenli adımlarla ayarlanır. Böylece sabit kurun yarattığı aşırı değerlenme birikmez ve ani, sarsıcı devalüasyon gereği ortadan kalkar; aynı zamanda belirsizlik sınırlı tutulur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46588",
+  "dersId": "iktisat",
+  "konuId": "uluslararasi_i_ktisat",
+  "soru": "Doğrudan yabancı yatırım ile portföy yatırımı arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Doğrudan yatırımda yönetim denetimi amaçlanır ve uzun vadelidir; portföy yatırımı ise getiri amaçlı ve daha oynaktır",
+   "Portföy yatırımında yönetim denetimi amaçlanırken doğrudan yatırımda yalnızca getiri gözetilmektedir",
+   "İki yatırım türü de ödemeler bilançosunun cari işlemler hesabında izlenmektedir",
+   "Doğrudan yatırım kısa vadeli ve oynak, portföy yatırımı ise uzun vadeli ve istikrarlı sayılır",
+   "İki yatırım türü arasında ekonomik sonuçları bakımından herhangi bir fark bulunmamaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Doğrudan yabancı yatırımda yatırımcı işletmenin yönetiminde kalıcı bir söz hakkı edinir; sermaye uzun vadelidir ve teknoloji ile istihdam etkisi taşır. Portföy yatırımı ise yönetim denetimi amaçlamaz, getiri odaklıdır ve küresel risk iştahına bağlı olarak hızla çıkabilir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46589",
+  "dersId": "iktisat",
+  "konuId": "turkiye_ekonomisi",
+  "soru": "Türkiye'de 2001 krizi sonrasında benimsenen 'güçlü ekonomiye geçiş' yaklaşımının para politikası ayağı bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Dalgalı kur rejimine geçilmiş ve Merkez Bankası'na araç bağımsızlığı tanınmıştır",
+   "Sabit kur rejimi güçlendirilerek döviz çıpası uygulaması sürdürülmüştür",
+   "Merkez Bankası'nın Hazine'ye avans açma yetkisi genişletilerek kaynak sağlanmıştır",
+   "Para politikası kararları doğrudan Hazine'ye devredilerek merkezileştirilmiştir",
+   "Enflasyon hedeflemesi terk edilerek parasal büyüklük hedeflemesine dönülmüştür"
+  ],
+  "dogru": 0,
+  "aciklama": "Şubat 2001'de döviz çıpası terk edilerek dalgalı kura geçilmiş; 4651 sayılı Kanun'la Merkez Bankası'nın temel amacı fiyat istikrarı olarak tanımlanmış, araç bağımsızlığı tanınmış ve Hazine'ye avans açma uygulamasına son verilmiştir. Enflasyon hedeflemesi ise önce örtük, 2006'dan itibaren açık biçimde uygulanmıştır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46590",
+  "dersId": "iktisat",
+  "konuId": "turkiye_ekonomisi",
+  "soru": "Türkiye ekonomisinde 'orta gelir tuzağı' tartışmasının temel dayanağı aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Büyümenin ucuz işgücü ve düşük teknoloji avantajına dayanması nedeniyle üst gelir grubuna geçilememesi",
+   "Kişi başına gelirin düşük gelir grubunun altında kalarak yoksulluğun derinleşmesi",
+   "İhracatın tümüyle yüksek teknolojili ürünlerden oluşması ve rekabetin zorlaşması",
+   "Tasarruf oranının aşırı yüksek olması nedeniyle iç talebin daralması durumu",
+   "Nüfus artış hızının sıfıra inerek işgücü arzının tümüyle ortadan kalkması"
+  ],
+  "dogru": 0,
+  "aciklama": "Orta gelir tuzağı, ucuz emek avantajını yitiren ancak henüz yüksek teknoloji ve verimlilik temelli rekabete geçememiş ülkelerin orta gelir düzeyinde sıkışmasını anlatır. Türkiye açısından düşük Ar-Ge yoğunluğu, ara malı ithalatına bağımlılık ve beşerî sermaye açığı bu tartışmanın dayanaklarıdır.",
+  "zorluk": "zor"
  }
 ]
