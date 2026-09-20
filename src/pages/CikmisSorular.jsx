@@ -46,7 +46,7 @@ export default function CikmisSorular() {
             <p className="mt-1 text-[13px] leading-relaxed text-ink-500 dark:text-ink-400">
               ÖSYM'nin çıkmış soruları telif hakkıyla korunuyor; başka bir uygulamaya kopyalanamaz. Bu yüzden
               buradan resmî arşive yönlendiriyoruz. KPSS Akademi'nin kendi{' '}
-              <b>16.066 soruluk bankası</b> ise aynı konu dağılımıyla hazırlandı ve tamamı açıklamalı.
+              <b>16.365 soruluk bankası</b> ise aynı konu dağılımıyla hazırlandı ve tamamı açıklamalı.
             </p>
           </div>
         </div>
