@@ -9022,5 +9022,197 @@
   "dogru": 0,
   "aciklama": "Esneklik mutlak değerce birden küçükse talep inelastiktir: fiyat yüzde olarak arttığında miktar daha küçük oranda azalır. Fiyat ve miktarın çarpımı olan toplam hasılat bu durumda artar. Esneklik birden büyükse tersi geçerlidir; birim esneklikte hasılat değişmez.",
   "zorluk": "zor"
+ },
+ {
+  "id": "46567",
+  "dersId": "iktisat",
+  "konuId": "mikro_i_ktisat",
+  "soru": "Bir tüketicinin kayıtsızlık eğrisi ile bütçe doğrusunun teğet olduğu noktada sağlanan koşul aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Marjinal ikame oranının iki malın fiyat oranına eşitlenmesi",
+   "İki malın marjinal faydalarının birbirine mutlak olarak eşitlenmesi ve aynı düzeye gelmesi",
+   "Tüketicinin gelirinin tamamını yalnızca tek bir mala harcamayı tercih etmesi durumu",
+   "Kayıtsızlık eğrisinin eğiminin sıfıra eşitlenmesi ve doğrunun yatay konuma gelmesi",
+   "Bütçe doğrusunun eğiminin tüketicinin gelir düzeyinden bağımsız hâle gelmiş olması"
+  ],
+  "dogru": 0,
+  "aciklama": "Tüketici dengesi, kayıtsızlık eğrisinin eğimi olan marjinal ikame oranının bütçe doğrusunun eğimi olan fiyat oranına eşitlendiği noktada sağlanır. Bu koşul MUx/MUy = Px/Py biçiminde de yazılır; marjinal faydaların kendisinin eşitlenmesi gerekmez.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46568",
+  "dersId": "iktisat",
+  "konuId": "mikro_i_ktisat",
+  "soru": "Monopolcü bir firmanın kâr maksimizasyonu yaptığı noktada fiyat ile marjinal maliyet arasındaki ilişki bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Fiyat marjinal maliyetin üzerindedir; bu fark kaynak dağılımında etkinsizlik doğurur",
+   "Fiyat marjinal maliyete tam olarak eşitlenir ve kaynak dağılımında herhangi bir kayıp oluşmaz",
+   "Fiyat marjinal maliyetin altında kalır; firma bu nedenle uzun dönemde zarar etmeye devam eder",
+   "Fiyat ortalama toplam maliyetin en düşük noktasına eşitlenerek ekonomik kâr sıfıra iner",
+   "Fiyat ile marjinal maliyet arasındaki ilişki belirsizdir ve talep esnekliğinden bağımsız kalır"
+  ],
+  "dogru": 0,
+  "aciklama": "Monopolcü MR = MC noktasında üretim yapar; talep eğrisi negatif eğimli olduğundan MR < P olur. Dolayısıyla dengede P > MC'dir. Bu fark, toplumsal açıdan optimal üretim düzeyine ulaşılamaması anlamına gelir ve ölü yük kaybı (deadweight loss) doğurur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46569",
+  "dersId": "iktisat",
+  "konuId": "mikro_i_ktisat",
+  "soru": "Oligopol piyasasında 'dirsekli talep eğrisi' modelinin açıklamaya çalıştığı olgu aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Fiyatların maliyet değişimlerine rağmen katı kalması ve kolay değişmemesi",
+   "Firmaların üretim miktarını sürekli biçimde artırarak pazar payı kazanmaya çalışması",
+   "Piyasaya giriş engellerinin tümüyle ortadan kalkması ve rekabetin yoğunlaşması",
+   "Firmaların açık anlaşma yaparak fiyatı kartel düzeyinde belirlemesi ve koruması",
+   "Talebin fiyat esnekliğinin bütün fiyat düzeylerinde sabit ve birim değerde kalması"
+  ],
+  "dogru": 0,
+  "aciklama": "Sweezy'nin modeline göre bir oligopolcü fiyatı düşürürse rakipler izler, yükseltirse izlemez. Bu asimetri talep eğrisinde bir dirsek ve marjinal hasılat eğrisinde kopukluk yaratır. Marjinal maliyet bu kopukluk aralığında değişse bile denge fiyatı değişmez; fiyat katılığı böyle açıklanır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46570",
+  "dersId": "iktisat",
+  "konuId": "makro_i_ktisat",
+  "soru": "Reel iş çevrimleri (RBC) kuramının Keynesyen yaklaşımdan ayrıldığı temel nokta aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Dalgalanmaların teknoloji şoklarından doğan etkin uyarlamalar olarak görülmesi",
+   "Dalgalanmaların toplam talep yetersizliğinden kaynaklandığının kabul edilmesi ve müdahale önerilmesi",
+   "Fiyat ve ücret yapışkanlıklarının çevrimin birincil açıklayıcısı olarak ele alınması",
+   "Para politikasının çıktı üzerinde kalıcı ve güçlü etkiler doğurduğunun savunulması",
+   "İşsizliğin tümüyle istem dışı nitelikte olduğunun ve dengesizlik yarattığının kabul edilmesi"
+  ],
+  "dogru": 0,
+  "aciklama": "RBC modellerinde dalgalanmalar, rasyonel bireylerin verimlilik (teknoloji) şoklarına verdiği etkin tepkilerdir; piyasalar sürekli temizlenir, işsizlik gönüllüdür ve para yansızdır. Keynesyen yaklaşım ise talep yetersizliğini ve nominal katılıkları esas alır, istikrar politikası önerir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46571",
+  "dersId": "iktisat",
+  "konuId": "makro_i_ktisat",
+  "soru": "Solow büyüme modelinde 'yakınsama' (convergence) hipotezinin öngörüsü aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Sermaye başına gelir düşük olan ülkelerin daha hızlı büyüyerek aradaki farkı kapatması",
+   "Bütün ülkelerin uzun dönemde aynı büyüme hızında kalarak gelir farkını sürekli koruması",
+   "Zengin ülkelerin sermayenin artan verimi sayesinde büyüme hızını sürekli yükseltmesi",
+   "Nüfus artış hızı yüksek ülkelerin durağan durumda daha yüksek kişi başına gelire ulaşması",
+   "Tasarruf oranındaki artışın uzun dönem büyüme hızını kalıcı biçimde yükseltmesi"
+  ],
+  "dogru": 0,
+  "aciklama": "Sermayenin azalan marjinal verimliliği nedeniyle, durağan durumdan uzak ve sermayesi düşük ülkelerde yatırımın getirisi daha yüksektir; bu ülkeler daha hızlı büyür. Koşullu yakınsama, aynı tasarruf oranı ve teknolojiye sahip ülkeler için geçerlidir. Tasarruf artışı düzeyi yükseltir, kalıcı büyüme hızını değil.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46572",
+  "dersId": "iktisat",
+  "konuId": "makro_i_ktisat",
+  "soru": "Okun Yasası'nın makroekonomik politika açısından anlamı aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "İşsizlikteki değişim ile çıktı açığı arasında istikrarlı ters yönlü bir ilişki bulunması",
+   "Enflasyon ile işsizlik arasında uzun dönemde kalıcı nitelikte bir ödünleşim ilişkisinin bulunması",
+   "Para arzındaki artışın uzun dönemde yalnızca fiyat düzeyini yükseltmesi ve nötr kalması",
+   "Bütçe açığı ile cari açık arasında birebir ve değişmez bir bağın kurulmuş olması",
+   "Faiz oranı ile yatırım harcamaları arasında pozitif yönlü bir ilişki bulunması"
+  ],
+  "dogru": 0,
+  "aciklama": "Okun Yasası, işsizlik oranındaki bir puanlık artışın reel GSYH'yi belirli bir oranda (tipik olarak yaklaşık iki puan) azalttığını ifade eden ampirik bir ilişkidir. Politika açısından önemi, istihdam hedefiyle büyüme hedefi arasında niceliksel bir köprü kurmasıdır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46573",
+  "dersId": "iktisat",
+  "konuId": "para_banka",
+  "soru": "Para politikasının aktarım mekanizmalarından 'bilanço kanalı' ile 'banka kredi kanalı' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Bilanço kanalı borçlunun net değerini, kredi kanalı ise bankanın kredi arzını etkiler",
+   "Bilanço kanalı bankaların mevduat hacmini, kredi kanalı ise firmaların teminat değerini değiştirir",
+   "İki kanal da yalnızca döviz kuru üzerinden işlemekte olup aralarında fark bulunmamaktadır",
+   "Kredi kanalı yalnızca kamu bankalarında, bilanço kanalı ise yalnızca özel bankalarda işlemektedir",
+   "Bilanço kanalı uzun vadeli faizleri, kredi kanalı ise yalnızca kısa vadeli faizleri belirlemektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Bilanço kanalında faiz artışı firmaların nakit akışını ve varlık değerini düşürerek net değerini azaltır; teminat zayıflar, dış finansman primi yükselir. Banka kredi kanalında ise sıkılaşma bankaların kredi verebilme kapasitesini daraltır. İkisi birlikte 'kredi görüşü' başlığı altında ele alınır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46574",
+  "dersId": "iktisat",
+  "konuId": "para_banka",
+  "soru": "Merkez bankası bağımsızlığının 'araç bağımsızlığı' ile 'amaç bağımsızlığı' biçimindeki ayrımı bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Araç bağımsızlığında hedef siyasi otoriteyle birlikte belirlenir, araç seçimi bankaya bırakılır",
+   "Amaç bağımsızlığında banka yalnızca araçları seçer, hedefi ise tümüyle hükümet belirlemektedir",
+   "İki kavram da aynı içeriği taşımakta olup ayrım yalnızca akademik yazında kullanılmaktadır",
+   "Araç bağımsızlığı bankanın hedefi tek başına belirlemesini ifade etmekte ve hesap verme gerektirmez",
+   "Amaç bağımsızlığı yalnızca sabit kur rejimlerinde geçerli olup dalgalı kurda söz konusu olmaz"
+  ],
+  "dogru": 0,
+  "aciklama": "Amaç bağımsızlığında merkez bankası hedefini kendisi belirler; araç bağımsızlığında ise hedef (örneğin enflasyon hedefi) hükümetle birlikte belirlenir, fakat bu hedefe hangi araçlarla ulaşılacağına banka karar verir. Türkiye dâhil çoğu ülkede benimsenen model araç bağımsızlığıdır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46575",
+  "dersId": "iktisat",
+  "konuId": "para_banka",
+  "soru": "Bankacılıkta 'mevduat sigortası'nın yarattığı ahlaki tehlike sorunu aşağıdakilerden hangisiyle açıklanır?",
+  "secenekler": [
+   "Mevduat sahibinin bankayı izleme güdüsünün zayıflaması ve bankanın risk iştahının artması",
+   "Bankaların kredi faizlerini düşürerek kârlılıklarını azaltması ve sermaye yeterliliğini güçlendirmesi",
+   "Mevduat sahiplerinin paniğe kapılarak toplu para çekme eğilimine girmesi ve hücum başlatması",
+   "Merkez bankasının son ödünç mercii işlevini yerine getirmekten tümüyle kaçınması durumu",
+   "Bankaların döviz açık pozisyonlarını kapatarak kur riskini ortadan kaldırma eğilimi göstermesi"
+  ],
+  "dogru": 0,
+  "aciklama": "Mevduatı güvence altında olan tasarruf sahibi, bankanın risk profilini izleme güdüsünü yitirir; piyasa disiplini zayıflar. Banka da zararı sigortaya devredebileceğini bildiğinden daha riskli varlıklara yönelebilir. Bu nedenle mevduat sigortası düzenleme ve denetimle birlikte uygulanır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46576",
+  "dersId": "iktisat",
+  "konuId": "uluslararasi_i_ktisat",
+  "soru": "Satın alma gücü paritesinin kısa dönemde sapma göstermesinin başlıca nedeni aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Ticarete konu olmayan mal ve hizmetlerin fiyat düzeyine dâhil edilmesi",
+   "Bütün malların uluslararası piyasada aynı anda ve aynı fiyattan işlem görmesi",
+   "Döviz kurlarının yalnızca merkez bankası müdahaleleriyle belirlenmesi durumu",
+   "Ülkeler arasındaki enflasyon oranlarının tümüyle birbirine eşitlenmiş olması",
+   "Sermaye hareketlerinin tümüyle yasaklanması ve arbitrajın ortadan kalkması"
+  ],
+  "dogru": 0,
+  "aciklama": "SGP, tek fiyat kanununun genel fiyat düzeyine uygulanmasıdır. Ancak fiyat endeksleri kira, sağlık, eğitim gibi ticarete konu olmayan kalemleri de içerir; bunlar arbitrajla eşitlenemez. Ulaştırma maliyetleri ve ticaret engelleri de eklenince kısa dönemde belirgin sapmalar ortaya çıkar.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46577",
+  "dersId": "iktisat",
+  "konuId": "uluslararasi_i_ktisat",
+  "soru": "Ödemeler bilançosunda 'J eğrisi' etkisi aşağıdakilerden hangisini ifade eder?",
+  "secenekler": [
+   "Devalüasyon sonrası cari dengenin önce bozulup daha sonra düzelmeye başlaması",
+   "Devalüasyon sonrası cari dengenin hemen ve kalıcı biçimde iyileşme göstermesi",
+   "Devalüasyonun cari denge üzerinde hiçbir dönemde etki doğurmaması durumu",
+   "Revalüasyon sonrası ihracatın artarak dış ticaret fazlası oluşturması süreci",
+   "Sermaye hesabındaki fazlanın cari açığı otomatik olarak kapatması mekanizması"
+  ],
+  "dogru": 0,
+  "aciklama": "Devalüasyonun hemen ardından ithalat ve ihracat miktarları sözleşmeler nedeniyle değişmezken ithalatın yerli para cinsinden değeri artar; cari denge kötüleşir. Miktarlar zamanla uyarlandığında ve Marshall-Lerner koşulu sağlandığında denge düzelir. Bu seyir grafikte J harfine benzer.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46578",
+  "dersId": "iktisat",
+  "konuId": "turkiye_ekonomisi",
+  "soru": "Türkiye'de 1989'da yürürlüğe giren 32 sayılı Karar'ın ekonomi politikası bakımından önemi aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Sermaye hareketlerinin serbestleştirilerek TL'nin konvertibl hâle getirilmesi",
+   "İthal ikameci sanayileşme modeline geri dönülerek gümrük korumalarının artırılması",
+   "Merkez Bankası'nın Hazine'ye kısa vadeli avans açma yetkisinin genişletilmesi",
+   "Tarımsal destekleme alımlarının kaldırılarak doğrudan gelir desteğine geçilmesi",
+   "Bankacılık sektöründe mevduat sigortası kapsamının tümüyle daraltılması"
+  ],
+  "dogru": 0,
+  "aciklama": "32 sayılı Karar, 24 Ocak Kararları'yla başlayan dışa açılma sürecinin finansal ayağını tamamlamış; sermaye hareketleri serbestleştirilmiş ve Türk lirası konvertibl hâle getirilmiştir. Bu adım, sonraki yıllarda kısa vadeli sermaye akımlarına dayalı kırılganlığın da zeminini oluşturmuştur.",
+  "zorluk": "zor"
  }
 ]

@@ -8766,5 +8766,197 @@
   "dogru": 0,
   "aciklama": "Mali aldanma, özellikle dolaylı vergilerde olduğu gibi verginin fiyata gizlenmesi nedeniyle yükümlülerin gerçek vergi yükünü olduğundan düşük algılamasıdır. Bu durum kamu harcamalarına yönelik talebi artırabilir. Nominal gelir artışıyla üst dilime geçme ise 'soğuk ilerleme' olarak adlandırılır.",
   "zorluk": "zor"
+ },
+ {
+  "id": "48553",
+  "dersId": "maliye",
+  "konuId": "butce",
+  "soru": "Bütçe sürecinde 'kesin hesap kanunu'nun işlevi aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Uygulanan bütçenin sonuçlarını göstererek yasama organının denetimini tamamlamak",
+   "Gelecek yılın gelir ve gider tahminlerini belirleyerek harcama yetkisini vermek",
+   "Yıl içinde ortaya çıkan ek ödenek ihtiyacını karşılamak ve aktarma yapılmasını sağlamak",
+   "Kamu kurumlarının stratejik planlarını onaylayarak performans hedeflerini belirlemek",
+   "Merkez Bankası'nın yıllık para programını yasama organının onayına sunmak"
+  ],
+  "dogru": 0,
+  "aciklama": "Kesin hesap kanunu, uygulanmış bütçenin gerçekleşen gelir ve giderlerini gösterir. TBMM bu kanunla, verdiği harcama yetkisinin nasıl kullanıldığını denetler; Sayıştay'ın genel uygunluk bildirimi de bu sürecin parçasıdır. Harcama yetkisi ise bütçe kanunuyla verilir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48554",
+  "dersId": "maliye",
+  "konuId": "butce",
+  "soru": "Bütçe ilkelerinden 'alenilik' ile 'doğruluk' ilkelerinin birlikte değerlendirilmesi bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Alenilik bütçenin kamuoyuna açıklanmasını, doğruluk ise tahminlerin gerçekçi olmasını gerektirir",
+   "Alenilik ilkesi tahminlerin gerçeğe uygun olmasını, doğruluk ise belgenin yayımlanmasını zorunlu kılar",
+   "İki ilke de yalnızca bütçenin hazırlık aşamasında geçerli olup uygulama aşamasında aranmaz",
+   "Alenilik yalnızca gizli ödenekler için, doğruluk ise yalnızca vergi gelirleri için uygulanır",
+   "Doğruluk ilkesi bütçenin tek belgede toplanmasını gerektiren bir düzenleme niteliğindedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Alenilik, bütçenin hazırlanmasından uygulanmasına kadar her aşamada kamuoyunun bilgisine açık olmasını gerektirir. Doğruluk ise gelir ve gider tahminlerinin gerçeğe olabildiğince yakın yapılmasını ister; abartılı tahminler bütçe hakkını zedeler.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48555",
+  "dersId": "maliye",
+  "konuId": "butce",
+  "soru": "Bütçe türlerinden 'denk bütçe' ile 'telafi edici bütçe' anlayışları arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Klasik anlayış her yıl denkliği ararken telafi edici anlayış konjonktüre göre açık verilmesini kabul eder",
+   "Telafi edici anlayış her yıl denkliği zorunlu tutarken klasik maliye anlayışı açık verilmesini teşvik etmektedir",
+   "İki anlayış da bütçe açığını her koşulda yasaklamakta olup aralarında fark bulunmamaktadır",
+   "Denk bütçe anlayışı yalnızca savaş dönemlerinde, telafi edici anlayış ise barış döneminde uygulanır",
+   "Telafi edici bütçe yalnızca yerel yönetimlerde uygulanabilen bir bütçeleme tekniği niteliğindedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Klasik maliye anlayışı bütçenin her yıl denk olmasını ve devletin tarafsız kalmasını savunur. Keynesyen telafi edici bütçe anlayışında ise bütçe, konjonktürü dengelemek için kullanılır: durgunlukta açık verilerek talep desteklenir, genişleme döneminde fazla verilir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48556",
+  "dersId": "maliye",
+  "konuId": "turk_vergi_sistemi",
+  "soru": "Vergi hukukunda 'zamanaşımı' ile 'tarh zamanaşımı' kavramları bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Tarh zamanaşımı vergi alacağının doğduğu yılı izleyen yılbaşından itibaren beş yıldır",
+   "Tarh zamanaşımı süresi on yıl olup bu süre vergiyi doğuran olay tarihinden itibaren işlemeye başlar",
+   "Zamanaşımı yalnızca mükellefin başvurusu hâlinde dikkate alınır ve idarece resen uygulanmaz",
+   "Tahsil zamanaşımı bulunmamakta olup kesinleşen vergi alacağı süresiz olarak takip edilebilmektedir",
+   "Zamanaşımı süresi dolduktan sonra idare yeniden tarh işlemi yaparak alacağı canlandırabilmektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "VUK'a göre tarh zamanaşımı, vergi alacağının doğduğu takvim yılını izleyen yılın başından başlayarak beş yıl içinde tarh ve tebliğ edilmeyen verginin zamanaşımına uğramasıdır. Zamanaşımı mükellefin başvurusuna bağlı olmaksızın hüküm ifade eder; tahsil zamanaşımı ise 6183 sayılı Kanun'da beş yıl olarak düzenlenmiştir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48557",
+  "dersId": "maliye",
+  "konuId": "turk_vergi_sistemi",
+  "soru": "Türk vergi sisteminde 'stopaj' (kaynakta kesinti) usulünün temel işlevi aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Verginin gelir sahibine ulaşmadan ödeyici tarafından kesilerek idareye yatırılması",
+   "Mükellefin yıllık beyanname vermesini her koşulda zorunlu kılması ve beyanı artırması",
+   "Vergi oranlarının artan oranlı tarifeye göre yeniden belirlenmesini sağlaması",
+   "Vergi alacağının doğumunu vergiyi doğuran olaydan sonraki yıla ertelemesi",
+   "Mükelleflerin defter tutma yükümlülüğünü tümüyle ortadan kaldırması"
+  ],
+  "dogru": 0,
+  "aciklama": "Stopajda vergi, gelir sahibine ödeme yapan kişi veya kurum tarafından kaynağında kesilip vergi dairesine yatırılır. Bu usul tahsilatı güvence altına alır, kayıt dışılığı azaltır ve vergi gelirinin zamana yayılmasını sağlar. Ücret gelirlerinde çoğunlukla nihai vergilendirme işlevi görür.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48558",
+  "dersId": "maliye",
+  "konuId": "turk_vergi_sistemi",
+  "soru": "Kurumlar vergisi bakımından 'iştirak kazançları istisnası'nın temel gerekçesi aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Aynı kazancın kurumlar düzeyinde mükerrer vergilendirilmesinin önlenmesi",
+   "Kurumların yurt dışı yatırımlarının sınırlandırılması ve sermaye çıkışının azaltılması",
+   "Küçük ölçekli işletmelerin vergi yükünün büyük kurumlara aktarılmasının sağlanması",
+   "Kâr dağıtımının engellenerek kurumların sermayelerini artırmaya zorlanması",
+   "Vergi oranının sektörlere göre farklılaştırılarak teşvik sisteminin kurulması"
+  ],
+  "dogru": 0,
+  "aciklama": "Bir kurumun başka bir tam mükellef kurumdan elde ettiği kâr payı, dağıtan kurum düzeyinde zaten kurumlar vergisine tabi tutulmuştur. İştirak kazançları istisnası, aynı kazancın ikinci kez vergilendirilmesini önleyerek ekonomik çifte vergilendirmeyi ortadan kaldırır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48559",
+  "dersId": "maliye",
+  "konuId": "vergi_teorisi",
+  "soru": "Vergilemede 'gelir etkisi' ile 'ikame etkisi' arasındaki ilişkiyi çalışma arzı bakımından doğru açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Gelir etkisi daha çok çalışmaya, ikame etkisi ise boş zamanı tercih etmeye yöneltebilir",
+   "İki etki de her koşulda aynı yönde işlemekte olup çalışma arzını birlikte artırmaktadır",
+   "İkame etkisi bireyi daha fazla çalışmaya, gelir etkisi ise yalnızca tasarrufa yöneltmektedir",
+   "Gelir etkisi yalnızca dolaylı vergilerde, ikame etkisi ise yalnızca servet vergilerinde görülür",
+   "İki etki de yalnızca kurumlar vergisinde ortaya çıkmakta, gelir vergisinde ise söz konusu olmaz"
+  ],
+  "dogru": 0,
+  "aciklama": "Gelir vergisi kişinin harcanabilir gelirini azaltır; eski yaşam düzeyini korumak için daha çok çalışma eğilimi doğar (gelir etkisi). Aynı zamanda çalışmanın net getirisini düşürdüğünden boş zaman görece ucuzlar ve çalışma azalabilir (ikame etkisi). Net sonuç, iki etkinin göreli gücüne bağlıdır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48560",
+  "dersId": "maliye",
+  "konuId": "vergi_teorisi",
+  "soru": "Vergilemede 'dikey adalet' ile 'yatay adalet' ilkeleri arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Yatay adalet aynı durumdakilere aynı, dikey adalet farklı durumdakilere farklı muameleyi gerektirir",
+   "Dikey adalet aynı gelir düzeyindekilerin eşit vergilendirilmesini, yatay adalet ise artan oranlılığı ifade eder",
+   "İki ilke de yalnızca dolaylı vergilerde uygulanabilmekte, dolaysız vergilerde ise aranmamaktadır",
+   "Yatay adalet yalnızca ücretliler için, dikey adalet ise yalnızca serbest meslek erbabı için geçerlidir",
+   "Dikey adalet vergi oranının bütün mükellefler için eşitlenmesini zorunlu kılan bir ilkedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Yatay adalet, ödeme gücü aynı olanların aynı vergiyi ödemesini gerektirir. Dikey adalet ise ödeme gücü farklı olanların farklı vergilendirilmesini, yani daha yüksek gelirden daha fazla vergi alınmasını ifade eder; artan oranlı tarife bu ilkenin uygulama aracıdır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48561",
+  "dersId": "maliye",
+  "konuId": "kamu_harcamalari",
+  "soru": "Kamu harcamalarında 'görünürde artış' ile 'gerçek artış' ayrımını doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Görünürde artış parasal büyüklükten, gerçek artış ise hizmet hacmindeki genişlemeden doğar",
+   "Görünürde artış hizmet miktarındaki genişlemeyi, gerçek artış ise yalnızca enflasyonu yansıtır",
+   "İki kavram da aynı olguyu anlatmakta olup aralarında ölçüm farkı bulunmamaktadır",
+   "Görünürde artış yalnızca transfer harcamalarında, gerçek artış ise yalnızca yatırımlarda görülür",
+   "Gerçek artış yalnızca savaş dönemlerinde, görünürde artış ise yalnızca barış döneminde ortaya çıkar"
+  ],
+  "dogru": 0,
+  "aciklama": "Görünürde artış; para değerindeki düşüş, bütçe kapsamının genişlemesi veya para ekonomisinin yaygınlaşması gibi nedenlerle harcamaların rakamsal olarak büyümesidir. Gerçek artış ise sunulan kamu hizmetinin miktar ve niteliğindeki fiili genişlemeyi ifade eder.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48562",
+  "dersId": "maliye",
+  "konuId": "kamu_harcamalari",
+  "soru": "Kamu yatırımlarının değerlendirilmesinde kullanılan 'fayda-maliyet analizi'nde sosyal iskonto oranının düşük belirlenmesinin sonucu aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Uzun vadede fayda sağlayan projelerin bugünkü değerinin yükselmesi ve tercih edilmesi",
+   "Kısa vadede fayda sağlayan projelerin bugünkü değerinin belirgin bir biçimde yükselmesi",
+   "Bütün projelerin net bugünkü değerinin sıfıra inerek karşılaştırılamaz hâle gelmesi",
+   "Projelerin maliyetlerinin olduğundan yüksek hesaplanarak yatırımların ertelenmesi",
+   "Gelecek kuşakların çıkarlarının analiz dışında bırakılarak göz ardı edilmesi"
+  ],
+  "dogru": 0,
+  "aciklama": "İskonto oranı düştükçe uzak gelecekteki faydaların bugünkü değeri artar. Bu nedenle düşük sosyal iskonto oranı, faydası uzun yıllara yayılan altyapı ve çevre projelerini daha kârlı gösterir ve gelecek kuşakların çıkarına daha fazla ağırlık verilmesi anlamına gelir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48563",
+  "dersId": "maliye",
+  "konuId": "kamu_maliyesi",
+  "soru": "Kamu maliyesinde 'dışsallık' kavramı çerçevesinde Pigoucu vergi ile Coase teoremi arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Pigoucu çözüm devlet müdahalesine, Coase çözümü ise tarafların pazarlığına dayanır",
+   "Coase teoremi devletin vergi koymasını zorunlu kılarken Pigou piyasa pazarlığını önermektedir",
+   "İki yaklaşım da yalnızca pozitif dışsallıklarda uygulanabilmekte, negatiflerde işlememektedir",
+   "Pigoucu vergi mülkiyet haklarının tanımlanmasını gerektirirken Coase buna gerek görmemektedir",
+   "Coase teoremi işlem maliyetlerinin yüksek olduğu durumlarda en etkin çözümü sunmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Pigou, negatif dışsallığın marjinal sosyal maliyete eşit bir vergiyle içselleştirilmesini önerir; çözüm devlet müdahalesidir. Coase ise mülkiyet hakları açıkça tanımlanmış ve işlem maliyetleri düşükse tarafların pazarlıkla etkin sonuca ulaşacağını savunur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48564",
+  "dersId": "maliye",
+  "konuId": "kamu_maliyesi",
+  "soru": "Kamu tercihi teorisinin kamu maliyesine getirdiği temel bakış açısı aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Siyasetçi ve bürokratların da kendi çıkarlarını gözeten rasyonel aktörler sayılması",
+   "Devletin her koşulda kamu yararını gözeten tarafsız bir aktör olarak kabul edilmesi",
+   "Kamu harcamalarının yalnızca teknik ölçütlerle ve siyasetten bağımsız belirlenmesi",
+   "Seçmenlerin oy verirken kendi çıkarlarını hiçbir biçimde dikkate almadığının varsayılması",
+   "Bürokrasinin bütçe büyüklüğünü sürekli küçültmeye çalıştığının ampirik olarak gösterilmesi"
+  ],
+  "dogru": 0,
+  "aciklama": "Buchanan ve Tullock'un öncülük ettiği kamu tercihi teorisi, piyasa aktörlerine uygulanan rasyonel çıkar analizini siyasal sürece taşır. Seçmen, siyasetçi ve bürokrat kendi faydasını gözetir; bu yaklaşım oy ticareti, rant kollama ve bütçe maksimizasyonu gibi olguları açıklar.",
+  "zorluk": "zor"
  }
 ]
