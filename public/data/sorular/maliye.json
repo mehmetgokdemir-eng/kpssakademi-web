@@ -8558,5 +8558,213 @@
   "dogru": 1,
   "aciklama": "VUK'un 10. maddesi uyarınca kanuni temsilciler, tüzel kişi adına ödenmeyen vergi ve cezalardan şahsen sorumludur; ancak bu sorumluluk kendi görev dönemleriyle sınırlıdır. Kanuni temsilcinin göreve başlamasından önce doğan vergi borçları için -bu borçlar o dönemdeki yetkili temsilciler tarafından oluşturulduğundan- yeni temsilciye birincil ve doğrudan sorumluluk yükletilemez; söz konusu borçlar için öncelikle o dönemin temsilcisi sorumlu tutulur. Diğer şıklardaki durumlarda ise kanuni temsilcinin sorumluluğuna gidilebilecek yasal dayanaklar mevcuttur. Doğru cevap C'dir.",
   "zorluk": "zor"
+ },
+ {
+  "id": "48540",
+  "dersId": "maliye",
+  "konuId": "butce",
+  "soru": "Bütçe hakkının tarihsel gelişimi bakımından 'verginin yasallığı' ilkesi ile 'harcamaların onaylanması' yetkisi arasındaki ilişkiyi doğru biçimde açıklayan ifade aşağıdakidir?",
+  "secenekler": [
+   "Önce verginin parlamento onayına bağlanması kabul edilmiş, harcamaların denetimi yetkisi buna sonradan eklenmiştir",
+   "Önce harcamaların parlamentoca onaylanması benimsenmiş, verginin yasallığı ilkesi ise ancak yirminci yüzyılda kabul görmüştür",
+   "İki yetki de aynı anda ve tek bir belgeyle tanınmış olup aralarında tarihsel bir öncelik sırası hiçbir biçimde bulunmamaktadır",
+   "Verginin yasallığı ilkesi yalnızca federal devletlerde geçerli olup üniter devletlerde harcama onayı yeterli sayılmaktadır",
+   "Bütçe hakkı yürütme organına tanınan bir yetki olup yasama organının bu süreçte herhangi bir rolü bulunmamaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Bütçe hakkı önce verginin temsilcilerin onayı olmadan alınamaması biçiminde doğmuştur (Magna Carta, 1215). Harcamaların parlamentoca onaylanması ve denetlenmesi yetkisi ise daha sonra, özellikle 17.-18. yüzyıllarda kazanılmıştır. Bu nedenle gelir yönü tarihsel olarak önceliklidir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48541",
+  "dersId": "maliye",
+  "konuId": "butce",
+  "soru": "Bütçe ilkelerinden 'genellik' ile 'birlik' ilkeleri arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Genellik gelir ve giderlerin brüt gösterilmesini, birlik ise tümünün tek bir belgede toplanmasını gerektirir",
+   "Genellik bütçenin tek belgede toplanmasını, birlik ise gelir ve giderlerin net tutarlarla gösterilmesini zorunlu kılmaktadır",
+   "İki ilke de yalnızca bütçenin hazırlanma takvimine ilişkin olup içeriğe yönelik herhangi bir kural getirmemektedir",
+   "Genellik yalnızca merkezi yönetim bütçesinde, birlik ise yalnızca mahalli idare bütçelerinde uygulanabilen bir ilkedir",
+   "Birlik ilkesi belirli gelirlerin belirli giderlere tahsis edilmesini zorunlu kılarken genellik bunu yasaklamaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Genellik ilkesi, tüm gelir ve giderlerin birbirinden mahsup edilmeden brüt tutarlarıyla bütçede yer almasını ve belirli bir gelirin belirli bir gidere tahsis edilmemesini (ademi tahsis) gerektirir. Birlik ilkesi ise bütün gelir ve giderlerin tek bir bütçe belgesinde toplanmasını ifade eder.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48542",
+  "dersId": "maliye",
+  "konuId": "butce",
+  "soru": "5018 sayılı Kanun'la getirilen 'stratejik plan - performans programı - faaliyet raporu' zincirinin bütçe sürecindeki işlevi aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Ödeneklerin kurumsal hedeflerle ilişkilendirilmesini ve sonuçların hesap verme yoluyla denetlenmesini sağlamak",
+   "Harcama öncesi vize ve tescil usulünü yeniden yürürlüğe koymak ve ön denetim yetkisini tümüyle Sayıştay'a devretmek",
+   "Bütçe hazırlama yetkisini yasama organından alarak doğrudan harcamacı kuruluşlara bırakmak",
+   "Kamu kurumlarının yıllık gelir tahminlerini serbestçe belirlemesine ve gelir toplamasına imkân tanımak",
+   "Merkezi yönetim bütçesinin kapsamını daraltarak mahalli idareleri bütçe disiplininin dışına çıkarmak"
+  ],
+  "dogru": 0,
+  "aciklama": "5018 sayılı Kanun performans esaslı bütçelemeyi benimser: kurum stratejik planında amaç ve hedeflerini belirler, performans programında yılın hedeflerini ve kaynak ihtiyacını gösterir, faaliyet raporunda ise sonuçları açıklayarak hesap verir. Böylece ödenek-hedef-sonuç bağı kurulur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48543",
+  "dersId": "maliye",
+  "konuId": "turk_vergi_sistemi",
+  "soru": "Gelir Vergisi Kanunu bakımından 'tam mükellef' ile 'dar mükellef' ayrımının dayandığı ölçüt ve sonucu aşağıdakilerden hangisinde doğru verilmiştir?",
+  "secenekler": [
+   "Yerleşme ölçütüne dayanır; tam mükellef yurt içi ve yurt dışı kazançlarının tümü üzerinden vergilendirilir",
+   "Uyrukluk ölçütüne dayanır; Türk vatandaşları her koşulda tam mükellef sayılarak dünya geliri üzerinden vergilendirilir",
+   "Kazancın türüne dayanır; ticari kazanç elde edenler tam, serbest meslek kazancı elde edenler dar mükellef olur",
+   "Gelirin tutarına dayanır; belirlenen haddi aşanlar tam, altında kalanlar ise dar mükellef kabul edilmektedir",
+   "İşyerinin bulunduğu ile dayanır; büyükşehirlerde faaliyet gösterenler tam mükellef statüsünde değerlendirilir"
+  ],
+  "dogru": 0,
+  "aciklama": "GVK'ya göre Türkiye'de yerleşmiş olanlar (ikametgâhı Türkiye'de bulunanlar veya bir takvim yılında altı aydan fazla oturanlar) tam mükelleftir ve yurt içi ile yurt dışı kazançlarının tamamı üzerinden vergilendirilir. Dar mükellefler ise yalnızca Türkiye'de elde ettikleri kazançlar üzerinden vergilendirilir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48544",
+  "dersId": "maliye",
+  "konuId": "turk_vergi_sistemi",
+  "soru": "Vergi Usul Kanunu bakımından 'vergiyi doğuran olay', 'tarh' ve 'tahakkuk' kavramlarının sıralaması ve içeriği aşağıdakilerden hangisinde doğru verilmiştir?",
+  "secenekler": [
+   "Vergiyi doğuran olay yükümlülüğü başlatır, tarh vergiyi hesaplar, tahakkuk ise ödenecek aşamaya getirir",
+   "Tarh yükümlülüğü başlatır, vergiyi doğuran olay vergiyi hesaplar, tahakkuk ise ödemeyi fiilen gerçekleştirir",
+   "Tahakkuk yükümlülüğü başlatır, tarh vergiyi kesinleştirir, vergiyi doğuran olay ise tahsilatı tamamlar",
+   "Üç kavram da aynı anda gerçekleşen tek bir işlemi ifade etmekte olup aralarında sıra farkı bulunmamaktadır",
+   "Vergiyi doğuran olay yalnızca gelir vergisinde, tarh ve tahakkuk ise yalnızca katma değer vergisinde kullanılır"
+  ],
+  "dogru": 0,
+  "aciklama": "Vergiyi doğuran olay, kanunun vergiyi bağladığı olayın meydana gelmesidir ve yükümlülüğü başlatır. Tarh, matrah üzerinden vergi borcunun idarece hesaplanmasıdır. Tahakkuk ise verginin ödenmesi gereken aşamaya gelmesidir. Tahsil, bu üçünden sonra gelen son aşamadır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48545",
+  "dersId": "maliye",
+  "konuId": "turk_vergi_sistemi",
+  "soru": "Katma değer vergisinde 'tam istisna' ile 'kısmi istisna' arasındaki temel fark aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Tam istisnada yüklenilen KDV indirim ve iade konusu yapılabilirken kısmi istisnada bu imkân bulunmaz",
+   "Kısmi istisnada yüklenilen KDV iade edilirken tam istisnada yalnızca indirim hakkı tanınmaktadır",
+   "Tam istisna yalnızca yurt içi teslimlerde, kısmi istisna ise yalnızca ihracat işlemlerinde uygulanmaktadır",
+   "İki istisna türü arasında uygulama farkı bulunmamakta olup ayrım yalnızca mevzuattaki adlandırmadan doğar",
+   "Tam istisnada vergi oranı sıfıra indirilirken kısmi istisnada oran yarı yarıya azaltılarak uygulanır"
+  ],
+  "dogru": 0,
+  "aciklama": "Tam istisnada (örneğin ihracat) işlem vergiden istisna tutulur ve bu işlem için yüklenilen KDV indirilebilir, indirilemeyen kısım iade alınabilir. Kısmi istisnada ise işlem istisnadır ancak yüklenilen KDV indirim konusu yapılamaz; gider veya maliyet unsuru olarak dikkate alınır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48546",
+  "dersId": "maliye",
+  "konuId": "vergi_teorisi",
+  "soru": "Verginin 'yansıması' sürecinde talep esnekliği ile vergi yükünün dağılımı arasındaki ilişkiyi doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Talebin esnekliği düştükçe verginin daha büyük kısmı tüketicinin üzerinde kalmaya başlar",
+   "Talebin esnekliği arttıkça verginin daha büyük kısmı tüketiciye yansıtılabilir duruma gelir",
+   "Vergi yükünün dağılımı esnekliklerden bağımsız olup her koşulda taraflar arasında eşit bölünür",
+   "Arz tümüyle esnek olduğunda verginin tamamını üretici üstlenir ve tüketiciye hiç yansıma olmaz",
+   "Yansıma yalnızca dolaysız vergilerde görülen bir olgu olup dolaylı vergilerde söz konusu olmaz"
+  ],
+  "dogru": 0,
+  "aciklama": "Vergi yükü, esnekliği düşük olan tarafın üzerinde kalır. Talep inelastikse tüketici fiyat artışına rağmen alımını fazla azaltmaz ve yükün büyük kısmını üstlenir. Arz tümüyle esnek olduğunda ise yük tümüyle tüketiciye geçer; yansıma özellikle dolaylı vergilerde belirgindir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48547",
+  "dersId": "maliye",
+  "konuId": "vergi_teorisi",
+  "soru": "Vergilemede 'fayda ilkesi' ile 'ödeme gücü ilkesi' karşılaştırıldığında aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Fayda ilkesi kamu hizmetinden yararlanma ölçüsünü, ödeme gücü ilkesi ise mali kapasiteyi esas alır",
+   "Fayda ilkesi artan oranlı tarifeyi zorunlu kılarken ödeme gücü ilkesi düz oranlı vergilemeyi gerektirir",
+   "İki ilke de gelirin yeniden dağıtılmasını amaçlamakta olup aralarında uygulama farkı bulunmamaktadır",
+   "Ödeme gücü ilkesi yalnızca dolaylı vergilerde, fayda ilkesi ise yalnızca dolaysız vergilerde uygulanır",
+   "Fayda ilkesi vergiyi bir zorunluluk, ödeme gücü ilkesi ise gönüllü bir katkı olarak tanımlamaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Fayda ilkesi, kişilerin kamu hizmetlerinden sağladıkları yarar ölçüsünde vergilendirilmesini savunur; köprü geçiş ücreti ve akaryakıt vergisi bu mantığa yakındır. Ödeme gücü ilkesi ise kişinin gelir, servet ve harcama düzeyiyle ölçülen mali kapasitesini esas alır; artan oranlı tarife bu ilkeye dayanır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48548",
+  "dersId": "maliye",
+  "konuId": "vergi_teorisi",
+  "soru": "Laffer eğrisinin politika çıkarımı bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Vergi oranı belirli bir eşiği aştıktan sonra artırılırsa toplam vergi geliri azalmaya başlar",
+   "Vergi oranı ile vergi geliri arasında her koşulda doğrusal ve artan bir ilişki bulunmaktadır",
+   "Vergi oranının sıfır olması durumunda dahi devletin belirli bir vergi geliri elde etmesi mümkündür",
+   "Vergi oranındaki her artış kayıt dışı ekonomiyi küçülterek vergi tabanını genişletmektedir",
+   "Vergi geliri yalnızca matrahın büyüklüğüne bağlı olup oranın bunda herhangi bir etkisi yoktur"
+  ],
+  "dogru": 0,
+  "aciklama": "Laffer eğrisi, vergi oranı ile vergi geliri arasında ters U biçiminde bir ilişki öngörür. Oran sıfırken de yüzde yüzken de gelir sıfırdır; belirli bir eşikten sonra oran artışı çalışma ve beyan isteğini azaltarak, kayıt dışılığı artırarak toplam geliri düşürür.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48549",
+  "dersId": "maliye",
+  "konuId": "kamu_harcamalari",
+  "soru": "Kamu harcamalarındaki artışı açıklayan Wagner Yasası ile Peacock-Wiseman'ın sıçrama tezi arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Wagner artışı sanayileşmeyle birlikte kademeli sayarken Peacock-Wiseman bunu olağanüstü olaylara bağlar",
+   "Wagner artışı savaş gibi kriz dönemlerine bağlarken Peacock-Wiseman bunu nüfus artışıyla açıklamaktadır",
+   "İki yaklaşım da kamu harcamalarının uzun dönemde azalacağını öngörmekte ve bunu ampirik olarak göstermektedir",
+   "Wagner yalnızca yerel yönetim harcamalarını, Peacock-Wiseman ise yalnızca merkezi harcamaları incelemektedir",
+   "Peacock-Wiseman kamu harcamalarının milli gelire oranının sabit kaldığını savunarak Wagner'i doğrulamaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Wagner Yasası, sanayileşme ve kentleşmeyle birlikte kamu harcamalarının milli gelire oranının sürekli ve kademeli biçimde arttığını ileri sürer. Peacock-Wiseman ise artışın savaş gibi olağanüstü dönemlerde sıçrama yaptığını, kriz geçtikten sonra da eski düzeye dönmediğini (yer değiştirme etkisi) savunur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48550",
+  "dersId": "maliye",
+  "konuId": "kamu_harcamalari",
+  "soru": "Kamu harcamalarının sınıflandırılmasında 'gerçek harcama' ile 'transfer harcaması' ayrımının milli gelir üzerindeki etkisi bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Gerçek harcamalar doğrudan üretim faktörü talebi yaratırken transferler yalnızca satın alma gücünü aktarır",
+   "Transfer harcamaları doğrudan mal ve hizmet talebi yaratırken gerçek harcamalar yalnızca gelir dağıtımını değiştirir",
+   "İki harcama türü de milli gelir üzerinde birebir aynı etkiyi doğurmakta olup aralarında fark bulunmamaktadır",
+   "Gerçek harcamalar yalnızca cari, transfer harcamaları ise yalnızca yatırım niteliği taşıyan harcamalardır",
+   "Transfer harcamaları bütçe dışında izlendiğinden milli gelir hesaplamalarına hiçbir biçimde dâhil edilmez"
+  ],
+  "dogru": 0,
+  "aciklama": "Gerçek (reel) harcamalar karşılığında mal ve hizmet alındığı için doğrudan üretim faktörlerine talep yaratır ve milli geliri doğrudan artırır. Transfer harcamalarında ise karşılıksız bir satın alma gücü aktarımı vardır; milli geliri ancak alıcıların harcama kararları üzerinden dolaylı biçimde etkiler.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48551",
+  "dersId": "maliye",
+  "konuId": "kamu_maliyesi",
+  "soru": "Kamusal mal kavramı bakımından 'tüketimde rakip olmama' ile 'dışlanamazlık' özelliklerinin bir arada bulunmadığı durumlar için aşağıdaki eşleştirmelerden hangisi doğrudur?",
+  "secenekler": [
+   "Kablolu yayın rakip değildir ancak dışlanabilir; okyanustaki balık stoku rakiptir ancak dışlanamaz",
+   "Kablolu yayın hem rakip hem dışlanabilir; okyanustaki balık stoku ise saf kamusal mal niteliği taşır",
+   "Okyanustaki balık stoku rakip değildir ve dışlanabilir; kablolu yayın ise ortak havuz kaynağı sayılır",
+   "İki örnek de saf kamusal mal olup piyasa tarafından üretilmeleri hiçbir koşulda mümkün değildir",
+   "Kablolu yayın ortak havuz kaynağı, okyanustaki balık stoku ise kulüp malı olarak sınıflandırılmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Kablolu yayın, bir kişinin izlemesi diğerinin izlemesini engellemediği için rakip değildir; ancak abonelik yoluyla dışlanabilir, bu nedenle kulüp malıdır. Okyanustaki balık stoku ise tüketimde rakiptir fakat kimse dışlanamaz; bu da ortak havuz kaynağıdır ve 'ortakların trajedisi' riskini taşır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "48552",
+  "dersId": "maliye",
+  "konuId": "kamu_maliyesi",
+  "soru": "Mali aldanma (mali illüzyon) kavramının kamu maliyesindeki anlamı aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Yükümlülerin ödedikleri verginin gerçek yükünü olduğundan düşük algılamaları durumu",
+   "Devletin bütçe gelirlerini olduğundan yüksek tahmin ederek açık vermesine yol açan durum",
+   "Enflasyon nedeniyle nominal gelirin artmasıyla üst vergi dilimine geçilmesi ve yükün artması",
+   "Kamu harcamalarının milli gelir içindeki payının zaman içinde kendiliğinden azalması eğilimi",
+   "Vergi gelirlerinin belirli kamu hizmetlerine önceden tahsis edilmesi uygulaması ve sonuçları"
+  ],
+  "dogru": 0,
+  "aciklama": "Mali aldanma, özellikle dolaylı vergilerde olduğu gibi verginin fiyata gizlenmesi nedeniyle yükümlülerin gerçek vergi yükünü olduğundan düşük algılamasıdır. Bu durum kamu harcamalarına yönelik talebi artırabilir. Nominal gelir artışıyla üst dilime geçme ise 'soğuk ilerleme' olarak adlandırılır.",
+  "zorluk": "zor"
  }
 ]

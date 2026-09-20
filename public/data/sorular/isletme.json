@@ -8766,5 +8766,213 @@
   "dogru": 3,
   "aciklama": "Collings ve Mellahi (2009) başta olmak üzere stratejik yetenek yönetimi yazını bu iki yaklaşımı net biçimde ayırt eder. Anahtar pozisyon planlaması (succession planning), belirli ve kritik organizasyonel rollerin boşalması durumunda yerine geçecek halefleri hazırlamayı hedefler; odak noktası pozisyondur. Yetenek havuzu yaklaşımı ise belirli bir role bağlı kalmaksızın yüksek potansiyelli bireyleri geliştirir ve bu kişileri çeşitli kritik rollere esnek biçimde yerleştirmeye hazırlar; odak noktası bireydir. Modern örgütler her iki yaklaşımı hibrit olarak kullanmaktadır. Diğer şıklar bu iki kavramın özünü yanlış tanımlamaktadır.",
   "zorluk": "zor"
+ },
+ {
+  "id": "52551",
+  "dersId": "isletme",
+  "konuId": "pazarlama",
+  "soru": "Pazarlama anlayışının gelişiminde 'satış anlayışı' ile 'pazarlama anlayışı' arasındaki temel farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Satış anlayışı mevcut ürünü satmaya, pazarlama anlayışı ise tüketici ihtiyacına uygun ürün geliştirmeye odaklanır",
+   "Satış anlayışı tüketici ihtiyacını başlangıç noktası alırken pazarlama anlayışı üretim kapasitesini esas almaktadır",
+   "İki anlayış da üretim maliyetlerini düşürmeyi amaçlamakta olup aralarında yaklaşım farkı bulunmamaktadır",
+   "Pazarlama anlayışı yalnızca endüstriyel ürünlerde, satış anlayışı ise yalnızca tüketim ürünlerinde uygulanabilir",
+   "Satış anlayışı uzun dönemli müşteri ilişkisini, pazarlama anlayışı ise kısa dönemli işlem hacmini önceler"
+  ],
+  "dogru": 0,
+  "aciklama": "Satış anlayışında çıkış noktası üretilmiş üründür; yoğun satış çabası ve tutundurmayla stok eritilir. Pazarlama anlayışında ise çıkış noktası hedef pazarın ihtiyacıdır; işletme bu ihtiyacı karşılayan ürünü geliştirerek uzun dönemli müşteri memnuniyeti ve kârlılık hedefler.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "52552",
+  "dersId": "isletme",
+  "konuId": "pazarlama",
+  "soru": "Ürün yaşam eğrisinin 'olgunluk' aşamasında işletmenin izlemesi beklenen pazarlama stratejisi aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Pazar ve ürün farklılaştırmasıyla mevcut payı korumak ve rekabete karşı marka bağlılığını güçlendirmek",
+   "Ürünü pazardan çekerek üretimi durdurmak ve eldeki bütün kaynakları yeni ürün geliştirmeye tümüyle aktarmak",
+   "Yoğun tanıtım harcamalarıyla ürünü tüketiciye ilk kez tanıtmak ve deneme satın almasını sağlamak",
+   "Fiyatı mümkün olan en yüksek düzeyde tutarak kaymağını alma stratejisini ilk kez devreye sokmak",
+   "Dağıtım kanallarını daraltarak ürünü yalnızca seçilmiş bir bayi ağıyla sınırlı biçimde sunmak"
+  ],
+  "dogru": 0,
+  "aciklama": "Olgunluk aşamasında satışlar zirveye ulaşmış, büyüme yavaşlamış ve rekabet yoğunlaşmıştır. İşletme pazar payını korumak için pazar farklılaştırması (yeni kullanıcı grupları), ürün farklılaştırması (yeni özellik, ambalaj) ve pazarlama karması değişiklikleriyle marka bağlılığını güçlendirmeye çalışır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "52553",
+  "dersId": "isletme",
+  "konuId": "pazarlama",
+  "soru": "Pazar bölümlendirmede kullanılan 'davranışsal' değişkenler ile 'psikografik' değişkenler arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Davranışsal değişkenler kullanım sıklığı ve fayda beklentisini, psikografik değişkenler yaşam tarzı ve değerleri ölçer",
+   "Psikografik değişkenler satın alma sıklığını, davranışsal değişkenler ise kişilik özelliklerini temel almaktadır",
+   "İki değişken grubu da demografik özelliklerin alt kategorileri olup bağımsız birer ölçüt oluşturmamaktadır",
+   "Davranışsal değişkenler yalnızca coğrafi dağılımı, psikografik değişkenler ise yalnızca gelir düzeyini kapsar",
+   "Psikografik bölümlendirme yalnızca endüstriyel pazarlarda, davranışsal bölümlendirme ise tüketici pazarlarında geçerlidir"
+  ],
+  "dogru": 0,
+  "aciklama": "Davranışsal bölümlendirme tüketicinin ürünle kurduğu ilişkiyi esas alır: kullanım sıklığı, marka bağlılığı, aranan fayda, kullanım durumu. Psikografik bölümlendirme ise yaşam tarzı, kişilik ve değerler gibi içsel özelliklere dayanır. İkisi de demografik değişkenlerden ayrı birer ölçüt grubudur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "52554",
+  "dersId": "isletme",
+  "konuId": "uretim",
+  "soru": "Tam zamanında üretim (JIT) sisteminin klasik yığın üretimden ayrıldığı temel nokta aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Üretimin talep tarafından çekilmesi ve stokun israf sayılarak en aza indirilmesi",
+   "Üretimin tahmine dayalı olarak itilmesi ve güvenlik stoklarının yüksek tutulması",
+   "Tedarikçi sayısının artırılarak her parça için çok sayıda alternatif kaynak bulundurulması",
+   "Parti büyüklüklerinin artırılarak hazırlık sürelerinin daha uzun aralıklara yayılması",
+   "Kalite denetiminin yalnızca üretim sonunda ve nihai ürün üzerinde yapılması"
+  ],
+  "dogru": 0,
+  "aciklama": "JIT, üretimi talebin çektiği (pull) bir sistem kurar: her istasyon yalnızca bir sonrakinin ihtiyacı kadar üretir. Stok, sorunları gizleyen bir israf sayılır ve en aza indirilir. Klasik yığın üretim ise tahmine dayalı itme (push) mantığıyla çalışır ve yüksek güvenlik stoğu tutar.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "52555",
+  "dersId": "isletme",
+  "konuId": "uretim",
+  "soru": "Üretim planlamasında 'kapasite kullanım oranı' yüksek olmasına rağmen teslim sürelerinin uzaması durumu aşağıdakilerden hangisiyle açıklanır?",
+  "secenekler": [
+   "Darboğaz istasyonun akışı sınırlaması nedeniyle ara stokların ve bekleme sürelerinin artması",
+   "Toplam kapasitenin talebin çok üzerinde olması nedeniyle atıl kaynakların ortaya çıkması",
+   "Hammadde maliyetlerinin düşmesi sonucunda üretim partilerinin küçültülmesi gereği",
+   "İşgücü devir hızının azalması nedeniyle öğrenme eğrisi etkisinin ortadan kalkması",
+   "Ürün çeşitliliğinin azaltılması sonucunda hazırlık sürelerinin kısalması ve akışın hızlanması"
+  ],
+  "dogru": 0,
+  "aciklama": "Kısıtlar teorisine göre bir sistemin çıktısını darboğaz istasyon belirler. Diğer istasyonlar yüksek kapasiteyle çalışsa bile darboğaz önünde kuyruk oluşur; ara stok ve bekleme süresi artar, teslim süresi uzar. Çözüm, toplam kapasiteyi değil darboğazın kapasitesini artırmaktır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "52556",
+  "dersId": "isletme",
+  "konuId": "uretim",
+  "soru": "Toplam Kalite Yönetimi anlayışında 'kalite maliyetleri' sınıflandırması bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Önleme maliyetlerine yapılan yatırım arttıkça başarısızlık maliyetlerinin belirgin biçimde azalması beklenir",
+   "Ölçme ve değerlendirme maliyetleri arttıkça önleme maliyetlerinin de tam olarak aynı oranda artması gerekmektedir",
+   "İç başarısızlık maliyetleri ürün müşteriye ulaştıktan sonra ortaya çıkan maliyetleri ifade etmektedir",
+   "Kalite maliyetleri yalnızca hurda ve yeniden işleme giderlerinden oluşmakta, önleme gideri kapsam dışıdır",
+   "Dış başarısızlık maliyetleri işletme içinde tespit edilen kusurların düzeltilmesinden kaynaklanmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Kalite maliyetleri önleme, ölçme-değerlendirme, iç başarısızlık ve dış başarısızlık olarak dörde ayrılır. TKY'nin temel savı, önlemeye yapılan yatırımın iç ve dış başarısızlık maliyetlerini azaltarak toplam kalite maliyetini düşürdüğüdür. İç başarısızlık işletme içinde, dış başarısızlık müşteriye ulaştıktan sonra ortaya çıkar.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "52557",
+  "dersId": "isletme",
+  "konuId": "yonetim_organizasyon",
+  "soru": "Örgüt yapılarından 'matris yapı'nın temel avantajı ve buna eşlik eden başlıca sorunu aşağıdakilerden hangisinde doğru verilmiştir?",
+  "secenekler": [
+   "Uzmanlık ile proje odağını birleştirir; buna karşılık çift amirlik nedeniyle yetki karmaşası doğabilir",
+   "Karar alma süresini kısaltır; buna karşılık işletmede uzmanlaşma düzeyinin belirgin biçimde azalmasına yol açar",
+   "Hiyerarşiyi güçlendirerek denetimi kolaylaştırır; buna karşılık proje ekiplerinin kurulmasını olanaksız kılar",
+   "Maliyetleri düşürür; buna karşılık işletmenin çevresel değişime uyum kapasitesini tümüyle ortadan kaldırır",
+   "Bölümler arası iletişimi azaltır; buna karşılık çalışanların iş doyumunu belirgin biçimde yükseltmektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Matris yapıda çalışan hem fonksiyonel bölümüne hem de projeye bağlıdır. Bu, uzmanlık derinliğiyle proje odağını birleştirir ve kaynak kullanımını esnekleştirir. Ancak çift amirlik, yetki çatışması, rol belirsizliği ve raporlama karmaşası gibi sorunlar doğurur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "52558",
+  "dersId": "isletme",
+  "konuId": "yonetim_organizasyon",
+  "soru": "Mintzberg'in yönetsel roller sınıflandırmasında 'bilgi sağlama' rolleri grubunda yer alan rol aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Sözcü rolü",
+   "Girişimci rolü",
+   "Kaynak dağıtıcı rolü",
+   "Lider rolü",
+   "Arabulucu rolü"
+  ],
+  "dogru": 0,
+  "aciklama": "Mintzberg yönetsel rolleri üçe ayırır: kişilerarası roller (temsilci, lider, bağlantı kurucu), bilgi sağlama rolleri (izleyici, yayıcı, sözcü) ve karar verme rolleri (girişimci, sorun çözücü, kaynak dağıtıcı, müzakereci). Sözcü, örgüt bilgisini dışarıya aktaran bilgi rolüdür.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "52559",
+  "dersId": "isletme",
+  "konuId": "yonetim_organizasyon",
+  "soru": "Örgütlerde 'kontrol alanı' (denetim alanı) daraldığında ortaya çıkan yapısal sonuç aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Hiyerarşik kademe sayısı artar ve örgüt dikey biçimde uzayan bir görünüm kazanır",
+   "Hiyerarşik kademe sayısı azalır ve örgüt yatay biçimde yayılan bir yapıya dönüşür",
+   "Yetki devri zorunlu hâle gelir ve karar alma süreci alt kademelere doğru kayar",
+   "Bölümlendirme ölçütü işlevsel olmaktan çıkarak coğrafi temele göre yeniden düzenlenir",
+   "Biçimselleşme derecesi düşer ve yazılı kural ile prosedürlere duyulan ihtiyaç ortadan kalkar"
+  ],
+  "dogru": 0,
+  "aciklama": "Kontrol alanı, bir yöneticiye doğrudan bağlı ast sayısıdır. Alan daraldığında aynı sayıda çalışan için daha fazla yönetici gerekir; kademe sayısı artar ve örgüt dikey (sivri) bir yapıya dönüşür. Geniş kontrol alanı ise basık, yatay örgütler doğurur ve yetki devrini zorunlu kılar.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "52560",
+  "dersId": "isletme",
+  "konuId": "finans",
+  "soru": "Bir yatırım projesinin değerlendirilmesinde net bugünkü değer (NBD) ile iç verim oranı (İVO) yöntemlerinin çelişkili sonuç verdiği durumlarda hangi ölçütün esas alınması gerekir ve neden?",
+  "secenekler": [
+   "NBD esas alınmalıdır; çünkü yeniden yatırım varsayımı daha gerçekçi olup mutlak değer artışını gösterir",
+   "İVO esas alınmalıdır; çünkü yüzde olarak ifade edildiğinden projeler arasında karşılaştırma yapmayı kolaylaştırır",
+   "Geri ödeme süresi esas alınmalıdır; çünkü likidite riskini doğrudan ölçen tek yöntem konumundadır",
+   "İki yöntem de terk edilmeli ve karar yalnızca muhasebe kârlılık oranına göre verilmelidir",
+   "Projelerin tümü reddedilmeli ve yeni bir fizibilite çalışması yapılana kadar yatırım ertelenmelidir"
+  ],
+  "dogru": 0,
+  "aciklama": "Çelişki, projelerin ölçek veya nakit akışı zamanlaması farklılığından doğar. İVO, ara nakit akışlarının İVO oranından yeniden yatırılacağını varsayar; bu gerçekçi değildir. NBD ise sermaye maliyetinden yeniden yatırımı varsayar ve ortakların servetindeki mutlak artışı gösterdiğinden tercih edilir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "52561",
+  "dersId": "isletme",
+  "konuId": "finans",
+  "soru": "Finansal kaldıraç derecesinin yüksek olması bir işletme için ne anlama gelir?",
+  "secenekler": [
+   "Faiz ve vergi öncesi kârdaki değişimin hisse başına kârda daha büyük dalgalanma yaratması",
+   "İşletmenin satış hacmindeki değişimin faaliyet kârını hiçbir biçimde etkilememesi",
+   "İşletmenin özkaynak ağırlıklı finanse edildiğini ve borç yükünün oldukça düşük olduğunu göstermesi",
+   "Sabit üretim maliyetlerinin toplam maliyet içindeki payının belirgin biçimde azalmış olması",
+   "İşletmenin nakit dönüşüm süresinin kısalarak işletme sermayesi ihtiyacının düşmesi"
+  ],
+  "dogru": 0,
+  "aciklama": "Finansal kaldıraç, sabit finansman giderlerinin (faiz) varlığından doğar. Kaldıraç yüksekse FVÖK'teki küçük bir değişim hisse başına kârda çok daha büyük değişim yaratır; bu hem kazanç hem risk potansiyelini büyütür. Sabit üretim maliyetlerinden doğan etki ise faaliyet kaldıracıdır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "52562",
+  "dersId": "isletme",
+  "konuId": "i_nsan_kaynaklari",
+  "soru": "İş analizinin çıktıları olan 'iş tanımı' ile 'iş gerekleri' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "İş tanımı görev ve sorumlulukları, iş gerekleri ise o işi yapacak kişide aranan nitelikleri belirtir",
+   "İş gerekleri işin yapılacağı fiziksel ortamı, iş tanımı ise çalışanın alacağı ücret düzeyini göstermektedir",
+   "İki belge de aynı içeriğe sahip olup aralarındaki fark yalnızca hazırlayan birimden kaynaklanmaktadır",
+   "İş tanımı çalışanın performans puanını, iş gerekleri ise terfi sırasını belirleyen bir araç konumundadır",
+   "İş gerekleri yalnızca yöneticiler için, iş tanımı ise yalnızca mavi yakalı çalışanlar için düzenlenir"
+  ],
+  "dogru": 0,
+  "aciklama": "İş analizi sonucunda iki temel belge üretilir. İş tanımı işin ne olduğunu anlatır: görevler, sorumluluklar, çalışma koşulları. İş gerekleri ise o işi başarıyla yapabilmek için kişide aranan eğitim, deneyim, bilgi ve beceri gibi nitelikleri belirler; personel seçiminin temelini oluşturur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "52563",
+  "dersId": "isletme",
+  "konuId": "i_nsan_kaynaklari",
+  "soru": "Performans değerlendirmede ortaya çıkan 'hale etkisi' ile 'merkezi eğilim' hataları arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Hale etkisinde tek bir özellik tüm değerlendirmeye yayılır, merkezi eğilimde herkes ortalama puanla değerlendirilir",
+   "Merkezi eğilimde değerlendirici tek bir olumlu özellikten etkilenirken hale etkisinde bütün puanlar ortada toplanmaktadır",
+   "İki hata da değerlendiricinin astlarıyla kurduğu kişisel yakınlıktan kaynaklanan aynı sorunu ifade etmektedir",
+   "Hale etkisi yalnızca sayısal ölçeklerde, merkezi eğilim ise yalnızca sözel değerlendirmelerde ortaya çıkar",
+   "Merkezi eğilim değerlendiricinin çok yüksek puan vermesini, hale etkisi ise çok düşük puan vermesini anlatır"
+  ],
+  "dogru": 0,
+  "aciklama": "Hale etkisinde değerlendirici, çalışanın tek bir belirgin özelliğinden (olumlu ya da olumsuz) etkilenerek tüm boyutları aynı yönde puanlar. Merkezi eğilimde ise değerlendirici uç puanlardan kaçınarak herkesi ölçeğin ortasında toplar; bu da çalışanlar arasındaki gerçek farkları görünmez kılar.",
+  "zorluk": "zor"
  }
 ]
