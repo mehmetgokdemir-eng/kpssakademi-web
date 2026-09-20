@@ -37166,5 +37166,197 @@
   "dogru": 4,
   "aciklama": "BEP hedefleri SMART kriterleri (Specific, Measurable, Achievable, Relevant, Time-bound) ya da davranışsal hedef yazımı çerçevesinde koşul, gözlemlenebilir davranış ve ölçüt olmak üzere üç temel bileşen içermelidir. 'Yapabilecektir' ifadesi gözlemlenebilir bir davranıştır ancak hangi koşulda (materyal, ortam) ve hangi ölçütle (başarı yüzdesi, deneme sayısı, süre) belirtilmemiştir. Bu eksiklik, ilerlemenin nesnel olarak değerlendirilmesini imkânsız kılar. Seçenek B bu üç bileşeni de içeren bir yeniden yazım örneği sunmaktadır ve eksikliği doğru tanımlamaktadır. Diğer seçenekler olgusal hatalar içermektedir.",
   "zorluk": "zor"
+ },
+ {
+  "id": "202324",
+  "dersId": "egitimbilimleri",
+  "konuId": "gelisim_psikolojisi",
+  "soru": "Piaget'nin bilişsel gelişim kuramında 'özümseme' (asimilasyon) ile 'uyumsama' (akomodasyon) süreçleri arasındaki ilişkiyi doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Özümsemede yeni bilgi mevcut şemaya yerleştirilir, uyumsamada ise şemanın kendisi yeni bilgiye göre değiştirilir",
+   "Uyumsamada yeni bilgi var olan şemaya yerleştirilirken özümsemede şemanın yapısı tümüyle yeniden kurulmaktadır",
+   "İki süreç de aynı anlama gelmekte olup ayrım yalnızca Piaget'nin farklı dönemlerdeki adlandırmasından doğmaktadır",
+   "Özümseme yalnızca somut işlemler döneminde, uyumsama ise yalnızca soyut işlemler döneminde ortaya çıkmaktadır",
+   "Uyumsama bilişsel dengenin korunmasını, özümseme ise dengenin bozulmasını sağlayan bir süreç olarak işlemektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Özümsemede birey yeni yaşantıyı var olan şemasına uydurur; şema değişmez. Uyumsamada ise yeni yaşantı mevcut şemaya sığmadığında şema değiştirilir ya da yenisi oluşturulur. İkisi birlikte dengeleme sürecini oluşturur ve bilişsel gelişimi ilerletir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "202325",
+  "dersId": "egitimbilimleri",
+  "konuId": "gelisim_psikolojisi",
+  "soru": "Erikson'un psikososyal gelişim kuramında ergenlik dönemine karşılık gelen kriz ve bu krizin olumlu çözümü aşağıdakilerden hangisinde doğru verilmiştir?",
+  "secenekler": [
+   "Kimlik kazanma – rol karmaşası; olumlu çözümde birey tutarlı bir benlik duygusu geliştirir",
+   "Yakınlık – yalıtılmışlık; olumlu çözümde birey başkalarıyla derin ilişkiler kurabilme becerisi kazanır",
+   "Girişkenlik – suçluluk; olumlu çözümde birey amaç belirleme ve sorumluluk alma yetisi geliştirmektedir",
+   "Üretkenlik – durgunluk; olumlu çözümde birey gelecek kuşaklara katkı sunma isteği kazanmaktadır",
+   "Özerklik – utanç ve kuşku; olumlu çözümde birey kendi kararlarını verebilme güvenini kazanmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Erikson'a göre ergenlik (12-18 yaş) dönemi krizi kimlik kazanmaya karşı rol karmaşasıdır. Birey 'ben kimim' sorusuna yanıt arar; olumlu çözümde tutarlı ve sürekli bir benlik duygusu geliştirir. Yakınlık-yalıtılmışlık genç yetişkinliğe, üretkenlik-durgunluk ise orta yetişkinliğe aittir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "202326",
+  "dersId": "egitimbilimleri",
+  "konuId": "gelisim_psikolojisi",
+  "soru": "Kohlberg'in ahlak gelişimi kuramında 'gelenek öncesi' düzeyle 'gelenek sonrası' düzey arasındaki temel fark aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Gelenek öncesinde ölçüt ceza ve çıkar iken gelenek sonrasında evrensel ilkeler ve içselleştirilmiş vicdandır",
+   "Gelenek öncesinde toplumsal kurallara uyum, gelenek sonrasında ise cezadan kaçınma belirleyici olmaktadır",
+   "İki düzeyde de ölçüt yasaların lafzına harfiyen uymaktır; aradaki fark yalnızca yaş aralığından kaynaklanır",
+   "Gelenek sonrası düzey yalnızca çocuklukta görülmekte, gelenek öncesi düzey ise yetişkinlikte ortaya çıkmaktadır",
+   "Gelenek öncesinde akran onayı, gelenek sonrasında ise otorite figürünün onayı belirleyici ölçüt sayılmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Gelenek öncesi düzeyde ahlaki yargı, cezadan kaçınma ve kişisel çıkar üzerine kuruludur. Gelenek sonrası düzeyde ise birey toplumsal sözleşmeyi sorgular ve adalet, insan onuru gibi evrensel ilkelere dayanarak yargıda bulunur. Akran onayı ve yasalara uyum ise geleneksel düzeye aittir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "202327",
+  "dersId": "egitimbilimleri",
+  "konuId": "ogrenme_kuramlari",
+  "soru": "Klasik koşullanmada 'sönme' ile 'kendiliğinden geri gelme' olgularının birlikte gözlenmesi aşağıdakilerden hangisine işaret eder?",
+  "secenekler": [
+   "Koşullu tepkinin tümüyle silinmediğine, yalnızca bastırıldığına ve bağın korunduğuna",
+   "Koşullu uyarıcı ile koşulsuz uyarıcı arasındaki bağın kalıcı olarak ortadan kalktığına",
+   "Organizmanın yeni bir koşulsuz tepki geliştirerek eski tepkinin yerine koyduğuna",
+   "Pekiştirme tarifesinin sürekliden aralıklıya dönüştürülmüş olduğuna ve bunun etkisine",
+   "Genelleme sürecinin ayırt etme sürecinin yerini almış olduğuna ve tepkinin yayıldığına"
+  ],
+  "dogru": 0,
+  "aciklama": "Sönmede koşullu uyarıcı koşulsuz uyarıcı olmadan sunulur ve koşullu tepki azalır. Ancak bir dinlenme aralığından sonra tepkinin kendiliğinden yeniden ortaya çıkması, öğrenilen bağın silinmediğini yalnızca bastırıldığını gösterir. Bu, sönmenin unutma olmadığının kanıtıdır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "202328",
+  "dersId": "egitimbilimleri",
+  "konuId": "ogrenme_kuramlari",
+  "soru": "Edimsel koşullanmada 'olumsuz pekiştirme' ile 'ceza' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Olumsuz pekiştirmede itici uyarıcı kaldırılarak davranış artırılır, cezada ise davranış azaltılmak istenir",
+   "Olumsuz pekiştirmede davranışın sıklığı azaltılırken cezada davranışın sıklığı artırılmaya çalışılmaktadır",
+   "İki işlem de davranışı azaltmayı amaçlamakta olup aralarında uygulama bakımından fark bulunmamaktadır",
+   "Olumsuz pekiştirme yalnızca hayvan deneylerinde, ceza ise yalnızca insan davranışlarında kullanılabilmektedir",
+   "Cezada hoşa giden bir uyarıcı verilirken olumsuz pekiştirmede itici bir uyarıcı ortama eklenmektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Pekiştirme davranışı artırır, ceza azaltır. Olumsuz pekiştirmede itici bir uyarıcının ortadan kaldırılmasıyla davranış artar (kemer sesi kesilsin diye kemer takmak). Cezada ise ya itici uyarıcı eklenir ya da hoşa giden uyarıcı geri çekilir; amaç davranışın azaltılmasıdır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "202329",
+  "dersId": "egitimbilimleri",
+  "konuId": "ogrenme_kuramlari",
+  "soru": "Bandura'nın sosyal öğrenme kuramında 'öğrenme' ile 'performans' ayrımının pedagojik anlamı aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Gözlem yoluyla öğrenilen davranışın hemen sergilenmeyebileceği, uygun koşul oluşunca ortaya çıkabileceği",
+   "Öğrenmenin ancak davranış gözlenebilir bir biçimde sergilendiği anda gerçekleşmiş sayılabileceği",
+   "Pekiştirme olmadan hiçbir biçimde öğrenmenin gerçekleşemeyeceği ve model alınamayacağı",
+   "Modelin sergilediği davranışın yalnızca doğrudan pekiştirildiği durumda öğrenilebileceği ve aktarılabileceği",
+   "Bilişsel süreçlerin öğrenmede rol oynamadığı, yalnızca uyarıcı-tepki bağının belirleyici olduğu"
+  ],
+  "dogru": 0,
+  "aciklama": "Bandura, öğrenmenin performanstan ayrıldığını gösterir: birey modeli gözleyerek davranışı öğrenebilir ancak güdü ya da uygun koşul yoksa sergilemez. Bobo bebek deneyinde ödül vaat edildiğinde çocukların daha önce gözledikleri davranışı sergilemesi bu ayrımın kanıtıdır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "202330",
+  "dersId": "egitimbilimleri",
+  "konuId": "i_letisim",
+  "soru": "Sınıf içi iletişimde 'empatik dinleme' ile 'savunucu iletişim' iklimini karşılaştıran aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Empatik dinleme öğrencinin duygusunu yargılamadan anlamayı, savunucu iklim ise değerlendirmeyi öne çıkarır",
+   "Savunucu iletişim ikliminde öğretmen öğrencinin duygularını yargısız biçimde yansıtmayı temel almaktadır",
+   "İki yaklaşım da aynı iletişim biçimini tanımlamakta olup ayrım yalnızca kullanılan terminolojiden doğmaktadır",
+   "Empatik dinleme yalnızca akademik konularda, savunucu iletişim ise yalnızca disiplin konularında kullanılır",
+   "Savunucu iklim öğrencinin katılımını artırırken empatik dinleme sınıfta pasifliğe yol açmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Gibb'in ayrımına göre savunucu iklim değerlendirme, denetim ve üstünlük mesajlarıyla kurulur ve karşı tarafı kapanmaya iter. Empatik dinleme ise öğrencinin duygusunu yargılamadan anlamayı ve yansıtmayı içerir; destekleyici iklimin temel bileşenidir ve katılımı artırır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "202331",
+  "dersId": "egitimbilimleri",
+  "konuId": "i_letisim",
+  "soru": "Öğretmenin 'ben dili' kullanmasının 'sen dili'ne göre üstünlüğünü en doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Davranışı ve onun yarattığı etkiyi tanımlayarak öğrencinin kişiliğini yargılamaktan kaçınması",
+   "Öğrencinin davranışını doğrudan eleştirerek kuralın ihlal edildiğini açık biçimde bildirmesi",
+   "Sorumluluğu öğrenciye yükleyerek öğretmenin duygusal tepkisini gizlemesini sağlaması",
+   "Sınıf içindeki otorite ilişkisini pekiştirerek öğretmenin konumunu belirgin biçimde güçlendirmesi",
+   "Öğrencinin savunmaya geçmesini sağlayarak tartışma ortamının canlı tutulmasına katkı sunması"
+  ],
+  "dogru": 0,
+  "aciklama": "Gordon'un modelinde ben dili üç öğe içerir: davranışın yargısız betimlenmesi, bu davranışın somut etkisi ve öğretmenin duygusu. Kişiliğe değil davranışa odaklandığı için öğrencinin savunmaya geçmesini azaltır. Sen dili ise etiketleyici olduğundan direnç doğurur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "202332",
+  "dersId": "egitimbilimleri",
+  "konuId": "ozel_egitim",
+  "soru": "Özel eğitimde 'en az kısıtlayıcı ortam' ilkesinin uygulanması bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Öğrencinin gereksinimleri elverdiği ölçüde akranlarıyla aynı ortamda eğitim görmesinin esas alınması",
+   "Bütün özel gereksinimli öğrencilerin istisnasız biçimde ayrı özel eğitim okullarına yönlendirilmesi",
+   "Öğrencinin yerleştirileceği ortamın yalnızca ailenin tercihine göre ve değerlendirme yapılmadan belirlenmesi",
+   "Destek eğitim odası uygulamasının kaldırılarak tüm hizmetlerin yalnızca genel sınıfta sunulması",
+   "Öğrencinin bir kez yerleştirildiği ortamın eğitim süreci boyunca hiçbir biçimde değiştirilmemesi"
+  ],
+  "dogru": 0,
+  "aciklama": "En az kısıtlayıcı ortam ilkesi, özel gereksinimli öğrencinin bireysel gereksinimleri elverdiği ölçüde akranlarıyla birlikte eğitim görmesini gerektirir. Yerleştirme, kaynaştırmadan özel okula uzanan bir hizmet sürekliliği içinde ve değerlendirmeye dayalı olarak yapılır; gerektiğinde yeniden gözden geçirilir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "202333",
+  "dersId": "egitimbilimleri",
+  "konuId": "ozel_egitim",
+  "soru": "Bireyselleştirilmiş Eğitim Programı (BEP) ile Bireyselleştirilmiş Öğretim Programı (BÖP) arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "BEP tüm hizmetleri kapsayan yasal bir belge, BÖP ise belirli bir dersteki öğretimi planlayan araçtır",
+   "BÖP tüm eğitsel hizmetleri kapsayan yasal belge iken BEP yalnızca tek bir dersin planlanmasına ilişkindir",
+   "İki belge de aynı içeriğe sahip olup aralarındaki fark yalnızca hazırlayan kurumdan kaynaklanmaktadır",
+   "BEP yalnızca okul öncesi dönemde, BÖP ise yalnızca ortaöğretim düzeyinde hazırlanabilen belgelerdir",
+   "BÖP velinin onayını gerektirirken BEP'in yalnızca öğretmen tarafından hazırlanması yeterli sayılmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "BEP; öğrencinin performans düzeyini, uzun ve kısa dönemli amaçlarını, sunulacak destek hizmetlerini ve değerlendirme ölçütlerini içeren, BEP geliştirme birimince hazırlanan yasal bir belgedir. BÖP ise BEP'te belirlenen amaçların belirli bir derste nasıl öğretileceğini planlayan öğretimsel araçtır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "202334",
+  "dersId": "egitimbilimleri",
+  "konuId": "ozel_egitim",
+  "soru": "Öğrenme güçlüğü ile zihinsel yetersizlik ayrımı bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Öğrenme güçlüğünde zekâ düzeyi normal ya da üstüdür, zihinsel yetersizlikte ise belirgin biçimde düşüktür",
+   "Öğrenme güçlüğünde zekâ düzeyi düşükken zihinsel yetersizlikte normal sınırlar içinde yer almaktadır",
+   "İki durum da aynı tanı kategorisinde yer almakta olup aralarında ölçüt farkı bulunmamaktadır",
+   "Öğrenme güçlüğü yalnızca matematik alanında, zihinsel yetersizlik ise yalnızca okuma becerisi alanında görülür",
+   "Zihinsel yetersizlik geçici bir durumken öğrenme güçlüğü yaşam boyu süren kalıcı bir tanıdır"
+  ],
+  "dogru": 0,
+  "aciklama": "Özel öğrenme güçlüğünde zekâ düzeyi normal veya üstündedir; güçlük okuma, yazma ya da matematik gibi belirli akademik alanlarla sınırlıdır. Zihinsel yetersizlikte ise hem zihinsel işlevlerde hem de uyumsal davranışlarda belirgin sınırlılık bulunur ve etkilenme geneldir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "202335",
+  "dersId": "egitimbilimleri",
+  "konuId": "psikolojik_danisma",
+  "soru": "Psikolojik danışmada 'gizlilik' ilkesinin sınırları bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Danışanın kendisi ya da başkası için ciddi tehlike oluşturduğu hâllerde gizlilik sınırlandırılabilir",
+   "Gizlilik mutlak nitelikte olup hiçbir koşul altında sınırlandırılması mümkün görünmemektedir",
+   "Gizliliğin sınırları, danışma süreci tamamlandıktan sonra danışana ayrıntılı biçimde bildirilmek zorundadır",
+   "Danışan reşit olmadığında gizlilik ilkesi hiçbir biçimde uygulanmamakta ve bilgi paylaşılmaktadır",
+   "Gizlilik yalnızca yazılı kayıtlar için geçerli olup sözlü paylaşımlar bu kapsamın dışında tutulur"
+  ],
+  "dogru": 0,
+  "aciklama": "Gizlilik danışma ilişkisinin temelidir ancak mutlak değildir. Danışanın kendine ya da başkasına yönelik ciddi ve öngörülebilir tehlike oluşturması, çocuk istismarı şüphesi ve yasal bildirim yükümlülüğü gibi hâllerde sınırlanır. Bu sınırlar sürecin başında danışana bildirilmelidir.",
+  "zorluk": "zor"
  }
 ]

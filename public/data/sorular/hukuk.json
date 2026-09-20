@@ -11648,5 +11648,213 @@
   "dogru": 2,
   "aciklama": "4857 sayılı İş Kanunu'nun 5. maddesi eşit davranma ilkesini düzenlemektedir. Maddeye göre işveren, biyolojik nedenler veya işin niteliği ile koşullarına ilişkin nedenler olmadıkça dil, ırk, cinsiyet, siyasal düşünce, felsefî inanç, din, mezhep ve benzeri sebeplere dayalı farklı muamele yapamaz; özellikle cinsiyet veya gebelik nedeniyle ücret ve diğer koşullarda ayrım yapamaz. Aykırılık halinde işçi dört aya kadar ücreti ve yoksun kaldığı haklarını talep edebilir. İspat yükü konusunda ise işçinin ihlali muhtemel kılacak olguları ortaya koyması halinde bunun geçerli bir nedene dayandığını ispat yükü işverene geçer (E yanlıştır). Sözleşme kendiliğinden geçersiz olmaz (C yanlıştır). B şıkkı doğru ifadeyi yansıtmaktadır.",
   "zorluk": "zor"
+ },
+ {
+  "id": "44732",
+  "dersId": "hukuk",
+  "konuId": "anayasa",
+  "soru": "Anayasa'nın 13. maddesinde yer alan temel hak ve özgürlüklerin sınırlandırılması rejimi bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Sınırlama yalnızca kanunla ve ilgili maddesindeki sebeplere bağlı olarak, ölçülülük ilkesine uygun yapılabilir",
+   "Sınırlama Cumhurbaşkanlığı kararnamesiyle de yapılabilir; ancak bu kararnamenin yasama organınca onaylanması gerekir",
+   "Sınırlama sebepleri Anayasa'da tek tek sayılmamış olup idareye bu konuda geniş takdir yetkisi tanınmış bulunmaktadır",
+   "Ölçülülük ilkesi yalnızca olağanüstü hâl dönemlerinde uygulanmakta, olağan dönemlerde ise aranmamaktadır",
+   "Hakkın özüne dokunulması, kamu yararının bulunduğu hâllerde mümkün kılınarak istisnai biçimde kabul edilmiştir"
+  ],
+  "dogru": 0,
+  "aciklama": "Anayasa'nın 13. maddesine göre temel hak ve hürriyetler, özlerine dokunulmaksızın yalnızca Anayasa'nın ilgili maddelerinde belirtilen sebeplere bağlı olarak ve ancak kanunla sınırlanabilir. Sınırlamalar Anayasa'nın sözüne ve ruhuna, demokratik toplum düzeninin gereklerine ve ölçülülük ilkesine aykırı olamaz.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "44733",
+  "dersId": "hukuk",
+  "konuId": "anayasa",
+  "soru": "Anayasa Mahkemesi'ne bireysel başvuru yolu bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Başvuru, hem Anayasa'da hem de Avrupa İnsan Hakları Sözleşmesi'nde güvence altına alınan haklarla sınırlıdır",
+   "Başvuru için olağan kanun yollarının tüketilmesi aranmaz; doğrudan Mahkeme'ye başvurulması mümkündür",
+   "Yasama işlemleri ile düzenleyici idari işlemler de doğrudan bireysel başvurunun konusunu oluşturabilmektedir",
+   "Başvuru yalnızca Türk vatandaşları tarafından yapılabilir; yabancıların başvuru hakkı bulunmamaktadır",
+   "Mahkeme ihlal kararı verdiğinde yeniden yargılama yapılmasına hükmedemez, yalnızca tazminata karar verebilir"
+  ],
+  "dogru": 0,
+  "aciklama": "Bireysel başvuru, Anayasa'da güvence altına alınmış temel hak ve özgürlüklerden AİHS ve Türkiye'nin taraf olduğu ek protokoller kapsamındaki ortak koruma alanıyla sınırlıdır. Olağan kanun yollarının tüketilmesi zorunludur; yasama işlemleri ile düzenleyici idari işlemler doğrudan başvuru konusu yapılamaz.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "44734",
+  "dersId": "hukuk",
+  "konuId": "anayasa",
+  "soru": "Anayasa'da düzenlenen 'kanun önünde eşitlik' ilkesi ile 'pozitif ayrımcılık' uygulamaları arasındaki ilişkiyi doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Belirli gruplar için alınan koruyucu tedbirler eşitlik ilkesine aykırı sayılmaz ve ilkenin ihlali olarak görülmez",
+   "Pozitif ayrımcılık her koşulda eşitlik ilkesinin ihlali sayılmakta ve Anayasa'ya aykırı kabul edilmektedir",
+   "Eşitlik ilkesi yalnızca mutlak eşitliği öngörmekte olup hiçbir farklı muameleye izin vermemektedir",
+   "Pozitif ayrımcılık yalnızca kanunla değil idari kararlarla da sınırsız ve denetimsiz bir biçimde uygulanabilmektedir",
+   "Eşitlik ilkesi yalnızca siyasi hakları kapsamakta, sosyal ve ekonomik hakları ise kapsam dışında bırakmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Anayasa'nın 10. maddesine göre kadınlar, çocuklar, yaşlılar, engelliler, harp ve vazife şehitlerinin yakınları ile gaziler için alınacak tedbirler eşitlik ilkesine aykırı yorumlanamaz. Eşitlik, aynı durumda olanlara aynı, farklı durumda olanlara farklı muameleyi gerektiren maddi eşitlik anlayışına dayanır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "44735",
+  "dersId": "hukuk",
+  "konuId": "i_dare",
+  "soru": "İdari işlemin unsurlarından 'sebep' ile 'amaç' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Sebep işlemi yapmaya iten hukuki ya da fiili durum, amaç ise işlemle ulaşılmak istenen sonuçtur",
+   "Sebep işlemi yapan makamın yetkisini, amaç ise işlemin tabi olduğu şekil kurallarını ifade etmektedir",
+   "Amaç idari işlemin doğurduğu hukuki sonucu, sebep ise işlemin yazılı biçimde düzenlenmesini anlatmaktadır",
+   "İki unsur da aynı anlamı taşımakta olup ayrım yalnızca öğretide kullanılan terminolojiden kaynaklanmaktadır",
+   "Sebep unsuru yalnızca bireysel işlemlerde, amaç unsuru ise yalnızca düzenleyici işlemlerde aranmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Sebep, idareyi işlem yapmaya sevk eden ve işlemden önce var olan hukuki veya fiili durumdur. Amaç ise işlemle ulaşılmak istenen nihai sonuçtur ve her idari işlemde kamu yararı olmak zorundadır. Amaç unsurundaki sakatlık 'yetki saptırması' olarak adlandırılır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "44736",
+  "dersId": "hukuk",
+  "konuId": "i_dare",
+  "soru": "İdari yargıda 'iptal davası' ile 'tam yargı davası' karşılaştırıldığında aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "İptal davasında menfaat ihlali, tam yargı davasında ise hakkın doğrudan ihlali koşulu aranmaktadır",
+   "İptal davasında hakkın ihlali, tam yargı davasında ise yalnızca menfaat ihlali bulunması yeterli sayılır",
+   "İki dava türünde de aynı koşullar aranmakta olup aralarındaki fark yalnızca görevli mahkemeden doğar",
+   "Tam yargı davası yalnızca düzenleyici işlemlere, iptal davası ise yalnızca bireysel işlemlere karşı açılır",
+   "İptal davası sonucunda tazminata hükmedilebilirken tam yargı davasında işlemin iptaline karar verilir"
+  ],
+  "dogru": 0,
+  "aciklama": "İptal davası objektif nitelikte bir dava olduğundan menfaat ihlali yeterlidir ve sonucunda işlem iptal edilir. Tam yargı davası ise sübjektif niteliktedir; kişisel bir hakkın doğrudan ihlali aranır ve sonucunda idarenin tazminat ödemesine hükmedilir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "44737",
+  "dersId": "hukuk",
+  "konuId": "i_dare",
+  "soru": "İdarenin sorumluluğu bakımından 'hizmet kusuru' ile 'kusursuz sorumluluk' ayrımını doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Hizmet kusurunda hizmetin kötü işlemesi aranırken kusursuz sorumlulukta kusur aranmadan zarar yeterlidir",
+   "Kusursuz sorumlulukta idarenin ağır kusuru aranırken hizmet kusurunda hafif bir kusurun bulunması yeterli görülmektedir",
+   "İki sorumluluk türünde de idarenin kastının ispatlanması zorunlu tutulmakta ve bu koşul aranmaktadır",
+   "Hizmet kusuru yalnızca kamu görevlisinin kişisel kusurundan doğmakta olup idareye izafe edilememektedir",
+   "Kusursuz sorumluluk yalnızca sözleşmeden doğan uyuşmazlıklarda uygulanan bir sorumluluk türüdür"
+  ],
+  "dogru": 0,
+  "aciklama": "Hizmet kusuru; hizmetin hiç işlememesi, geç işlemesi veya kötü işlemesi hâllerinde doğar ve idarenin sorumluluğunun asıl dayanağıdır. Kusursuz sorumlulukta ise kusur aranmaz; risk ilkesi veya kamu külfetleri karşısında eşitliğin bozulması ilkesine dayanılarak zarar tazmin edilir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "44738",
+  "dersId": "hukuk",
+  "konuId": "ceza",
+  "soru": "Türk Ceza Kanunu bakımından 'teşebbüs' ile 'gönüllü vazgeçme' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Teşebbüste icra hareketleri elde olmayan nedenle tamamlanamaz, gönüllü vazgeçmede fail kendi iradesiyle durur",
+   "Gönüllü vazgeçmede icra hareketleri elde olmayan nedenlerle yarıda kalmakta, teşebbüste ise fail kendi isteğiyle vazgeçmektedir",
+   "İki kurum da aynı hukuki sonucu doğurmakta olup failin cezalandırılması bakımından fark bulunmamaktadır",
+   "Teşebbüs yalnızca taksirli suçlarda, gönüllü vazgeçme ise yalnızca kasten işlenen suçlarda söz konusu olur",
+   "Gönüllü vazgeçme hâlinde fail hiçbir biçimde cezalandırılmaz; tamamlanan kısım da cezasız bırakılmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Teşebbüste fail suçu işlemeye elverişli hareketlerle icraya başlar ancak elinde olmayan nedenlerle tamamlayamaz ve indirimli cezalandırılır. Gönüllü vazgeçmede ise fail kendi iradesiyle icradan vazgeçer; teşebbüsten sorumlu tutulmaz, ancak o ana kadar tamamlanan kısım başlı başına suç oluşturuyorsa ondan sorumlu olur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "44739",
+  "dersId": "hukuk",
+  "konuId": "ceza",
+  "soru": "Ceza hukukunda 'hukuka uygunluk nedenleri' ile 'kusurluluğu kaldıran nedenler' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Hukuka uygunluk nedenleri fiili hukuka uygun kılar, kusurluluğu kaldıran nedenler faile ceza verilmesini engeller",
+   "Kusurluluğu kaldıran nedenler fiili baştan hukuka uygun hâle getirirken hukuka uygunluk nedenleri yalnızca cezayı azaltır",
+   "İki kurum da fiili suç olmaktan çıkarmakta olup aralarında hukuki sonuç bakımından fark bulunmamaktadır",
+   "Hukuka uygunluk nedenleri yalnızca taksirli suçlarda, kusurluluğu kaldıran nedenler ise kasıtlı suçlarda uygulanır",
+   "Meşru savunma kusurluluğu kaldıran bir neden olup zorunluluk hâli hukuka uygunluk nedeni sayılmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Meşru savunma ve hakkın kullanılması gibi hukuka uygunluk nedenleri fiili başından itibaren hukuka uygun kılar; dolayısıyla suç oluşmaz. Yaş küçüklüğü, akıl hastalığı ve cebir gibi kusurluluğu kaldıran nedenlerde ise fiil hukuka aykırı kalır, ancak fail kınanamadığı için cezalandırılmaz.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "44740",
+  "dersId": "hukuk",
+  "konuId": "medeni",
+  "soru": "Türk Medeni Kanunu bakımından 'hak ehliyeti' ile 'fiil ehliyeti' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Hak ehliyeti herkeste eşit biçimde bulunur, fiil ehliyeti ise ayırt etme gücü ve erginlik koşullarına bağlıdır",
+   "Fiil ehliyeti sağ doğmak koşuluyla herkeste bulunurken hak ehliyeti yalnızca ergin olan kişilere tanınmaktadır",
+   "İki ehliyet türü de aynı anlama gelmekte olup ayrım yalnızca öğretideki terminolojiden kaynaklanmaktadır",
+   "Hak ehliyeti yalnızca gerçek kişilere tanınmakta olup tüzel kişiler bu ehliyetten yoksun bulunmaktadır",
+   "Fiil ehliyeti yalnızca malvarlığı işlemlerinde aranmakta, kişiye sıkı bağlı haklarda ise aranmamaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Hak ehliyeti, haklara ve borçlara sahip olabilme yeteneğidir; kişiliğin başlamasıyla kazanılır ve herkeste eşittir. Fiil ehliyeti ise kendi fiilleriyle hak edinip borç altına girebilme yeteneğidir; ayırt etme gücüne sahip, ergin ve kısıtlı olmayan kişilerde bulunur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "44741",
+  "dersId": "hukuk",
+  "konuId": "borclar",
+  "soru": "Borçlar hukukunda 'müteselsil borçluluk' ile 'kısmi borçluluk' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Müteselsil borçlulukta alacaklı borcun tamamını herhangi bir borçludan isteyebilir, kısmi borçlulukta ise yalnızca payını",
+   "Kısmi borçlulukta alacaklı borcun tamamını dilediği borçludan talep edebilirken müteselsil borçlulukta payla sınırlı kalır",
+   "İki kurumda da alacaklı yalnızca tüm borçlulara birlikte başvurabilmekte, tek tek talepte bulunamamaktadır",
+   "Müteselsil borçluluk yalnızca sözleşmeden, kısmi borçluluk ise yalnızca haksız fiilden doğan borçlarda görülür",
+   "Müteselsil borçlulukta borçlulardan biri ödeme yaptığında diğerlerine rücu etme imkânı bulunmamaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Müteselsil borçlulukta alacaklı, borcun tamamını borçlulardan herhangi birinden isteyebilir; ödeyen borçlu diğerlerine kendi payları oranında rücu eder. Kısmi borçlulukta ise her borçlu yalnızca kendi payından sorumludur ve alacaklı her birinden ancak payı kadar talepte bulunabilir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "44742",
+  "dersId": "hukuk",
+  "konuId": "borclar",
+  "soru": "Sözleşmenin kurulmasında 'öneri' (icap) ile 'öneriye davet' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Öneri kabulle birlikte sözleşmeyi kurar, öneriye davet ise yalnızca karşı taraftan öneri gelmesini amaçlar",
+   "Öneriye davet kabul edildiğinde sözleşme kurulurken öneri yalnızca görüşme başlatma niyetini göstermektedir",
+   "İki kavram da aynı hukuki sonucu doğurmakta olup aralarında bağlayıcılık bakımından fark bulunmamaktadır",
+   "Öneri yalnızca yazılı biçimde yapılabilirken öneriye davetin sözlü olarak yapılması zorunlu tutulmuştur",
+   "Vitrine fiyat etiketiyle konulan mal öneriye davet sayılmakta, katalog gönderimi ise öneri kabul edilmektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Öneri, karşı tarafın kabulüyle sözleşmeyi kuracak kesinlikte ve bağlayıcı bir irade açıklamasıdır. Öneriye davet ise karşı tarafı öneride bulunmaya çağırır, bağlayıcı değildir. TBK'ya göre fiyatı gösterilerek sergilenen mal kural olarak öneri sayılır; ilan ve katalog gönderimi ise öneriye davettir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "44743",
+  "dersId": "hukuk",
+  "konuId": "i_s_hukuku",
+  "soru": "İş hukukunda 'haklı nedenle fesih' ile 'geçerli nedenle fesih' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Haklı nedenle fesihte ihbar süresi beklenmeden derhal fesih mümkündür, geçerli nedende ise süreye uyulur",
+   "Geçerli nedenle fesihte sözleşme derhal sona ererken haklı nedenle fesihte ihbar süresine uyulması zorunludur",
+   "İki fesih türünde de kıdem tazminatı hiçbir koşulda ödenmemekte ve işçi bu haktan yoksun kalmaktadır",
+   "Haklı nedenle fesih yalnızca işveren tarafından, geçerli nedenle fesih ise yalnızca işçi tarafından yapılabilir",
+   "Geçerli nedenle fesih yalnızca otuzdan az işçi çalıştıran işyerlerinde uygulanabilen bir fesih türüdür"
+  ],
+  "dogru": 0,
+  "aciklama": "Haklı nedenle fesih (İş K. m.24-25), ahlak ve iyi niyet kurallarına uymayan hâller gibi ilişkinin sürdürülmesini çekilmez kılan durumlarda bildirim süresi beklenmeden derhal yapılır. Geçerli nedenle fesih (m.18) ise iş güvencesi kapsamındaki işçiler için, yetersizlik veya işletme gereklerine dayanarak bildirim sürelerine uyularak yapılır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "44744",
+  "dersId": "hukuk",
+  "konuId": "i_s_hukuku",
+  "soru": "İş sözleşmesinin askıya alınması sonucunu doğuran durumlar bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Askı döneminde işçinin iş görme, işverenin ücret ödeme borcu durur; sözleşme ise varlığını korur",
+   "Askı döneminde sözleşme kendiliğinden sona ermekte ve tarafların tüm borçları ortadan kalkmaktadır",
+   "Askı süresince işçinin iş görme borcu devam etmekte, yalnızca ücret ödeme borcu durdurulmaktadır",
+   "Askı hâli yalnızca belirli süreli iş sözleşmelerinde uygulanabilmekte, belirsiz sürelilerde söz konusu olmamaktadır",
+   "Askı döneminde geçen süre hiçbir koşulda kıdem süresinin hesabında dikkate alınmamaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Askı hâlinde (hastalık, askerlik, doğum izni, zorlayıcı nedenler gibi) sözleşme sona ermez; taraflar arasındaki bağ sürer ancak iş görme ve buna bağlı ücret ödeme borçları geçici olarak durur. Askı süresinin kıdeme etkisi ise duruma göre kanunla ayrıca düzenlenmiştir.",
+  "zorluk": "zor"
  }
 ]
