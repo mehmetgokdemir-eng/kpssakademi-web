@@ -6286,5 +6286,213 @@
   "dogru": 0,
   "aciklama": "FVOCI sınıfındaki A hissesinin değer artışı (95.000 - 80.000 = 15.000 TL) gelir tablosuna değil, doğrudan öz kaynaklar altında 'diğer kapsamlı gelir' olarak raporlanır. Dolayısıyla net kârı etkilemez. FVTPL sınıfındaki B hissesinin değer düşüklüğü (43.000 - 50.000 = -7.000 TL) doğrudan gelir tablosunda 'gerçeğe uygun değer zararı' olarak raporlanır ve net kârı 7.000 TL azaltır. Toplam öz kaynaklar değişimi: Diğer kapsamlı gelirden +15.000 TL, net kâr etkisinden -7.000 TL → Net öz kaynak artışı = +8.000 TL. Ancak soru 'öz kaynaklar' derken yalnızca FVOCI etkisini (diğer kapsamlı gelir) soruyor olabilir: +15.000 TL. Buna göre B şıkkı: gelir tablosu -7.000, net kâr -7.000, öz kaynaklar (sadece DKG olarak) +15.000 TL doğrudur. Cevap B şıkkıdır.",
   "zorluk": "zor"
+ },
+ {
+  "id": "50399",
+  "dersId": "muhasebe",
+  "konuId": "hesap_plani",
+  "soru": "Tekdüzen Hesap Planı'nda 1 ve 2 numaralı hesap sınıfları arasındaki ayrımın dayandığı ölçüt aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Varlığın paraya dönüşme ya da tüketilme süresinin bir yılı aşıp aşmaması",
+   "Varlığın işletmeye ortaklar tarafından mı yoksa dışarıdan mı sağlandığı",
+   "Varlığın maddi nitelikte olup olmadığı ve amortismana tabi tutulup tutulmadığı",
+   "Varlığın bilançoda maliyet bedeliyle mi yoksa gerçeğe uygun değerle mi izlendiği",
+   "Varlığın üretimde mi yoksa satış faaliyetlerinde mi kullanıldığı ve hangi bölüme ait olduğu"
+  ],
+  "dogru": 0,
+  "aciklama": "Tekdüzen Hesap Planı'nda 1 numaralı sınıf dönen varlıkları, 2 numaralı sınıf duran varlıkları kapsar. Ayrım, varlığın bir yıl ya da normal faaliyet dönemi içinde paraya çevrilip çevrilemeyeceğine dayanır; maddi olup olmaması ya da amortisman durumu sınıf içindeki grubu belirler.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50400",
+  "dersId": "muhasebe",
+  "konuId": "hesap_plani",
+  "soru": "Bir işletme, üç yıl vadeli aldığı banka kredisinin bir yıl içinde ödenecek taksitlerini dönem sonunda hangi işleme tabi tutmalıdır?",
+  "secenekler": [
+   "400 Banka Kredileri hesabından 300 Banka Kredileri hesabına aktarmalıdır",
+   "300 Banka Kredileri hesabından 400 Banka Kredileri hesabına aktarım yapmalıdır",
+   "Herhangi bir aktarım yapmaksızın kredinin tamamını uzun vadeli olarak izlemeye devam etmelidir",
+   "Tutarın tamamını 381 Gider Tahakkukları hesabına aktararak dönem gideri olarak kaydetmelidir",
+   "Krediyi bilanço dışına çıkarıp yalnızca dipnotlarda açıklama yaparak izlemeyi sürdürmelidir"
+  ],
+  "dogru": 0,
+  "aciklama": "Uzun vadeli yabancı kaynakların bir yıl içinde ödenecek kısmı, dönem sonunda kısa vadeli yabancı kaynaklara aktarılır. Bu nedenle 400 Banka Kredileri hesabından ilgili tutar 300 Banka Kredileri hesabına alınır; böylece bilançonun vade yapısı doğru gösterilir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50401",
+  "dersId": "muhasebe",
+  "konuId": "hesap_plani",
+  "soru": "Tekdüzen Hesap Planı'nda 'düzenleyici hesap' niteliği taşıyan bir hesap için aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "İlgili olduğu ana hesabın kalanını azaltmak üzere ters bakiye veren ve bilançoda indirim olarak gösterilen hesaptır",
+   "Yalnızca gelir tablosunda yer alan ve dönem sonunda kâr zarar hesabına devredilerek kapatılan geçici nitelikli bir hesaptır",
+   "İşletmenin nazım hesaplar sınıfında izlediği ve bilanço toplamını doğrudan etkileyen bir hesap türüdür",
+   "Ortaklara dağıtılacak kâr payının hesaplanmasında kullanılan ve özkaynaklar içinde raporlanan hesaptır",
+   "Yabancı para cinsinden işlemlerin dönem sonunda değerlemesinde kullanılan geçici bir izleme hesabıdır"
+  ],
+  "dogru": 0,
+  "aciklama": "Birikmiş Amortismanlar, Alacak Senetleri Reeskontu, Şüpheli Ticari Alacaklar Karşılığı gibi düzenleyici hesaplar, ilgili ana hesabın tersine bakiye verir ve bilançoda o hesaptan indirim olarak sunulur. Böylece varlık net değeriyle raporlanırken brüt tutar ve indirim ayrı ayrı görülebilir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50402",
+  "dersId": "muhasebe",
+  "konuId": "donem_sonu",
+  "soru": "Dönem sonunda stok değerlemesinde 'net gerçekleşebilir değer' maliyet bedelinin altına düştüğünde yapılması gereken muhasebe işlemi aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Aradaki fark kadar stok değer düşüklüğü karşılığı ayrılarak gider yazılmalıdır",
+   "Stokun kayıtlı değeri değiştirilmeden yalnızca dipnotlarda açıklama yapılmalıdır",
+   "Aradaki fark doğrudan özkaynaklar altında değerleme farkı olarak muhasebeleştirilmelidir",
+   "Stok bilanço dışına çıkarılarak izleyen dönemde yeniden kayda alınmak üzere beklemeye alınmalıdır",
+   "Fark tutarı gelecek dönemlere ait giderler hesabına aktarılarak zamana yayılmak suretiyle giderleştirilmelidir"
+  ],
+  "dogru": 0,
+  "aciklama": "İhtiyatlılık kavramı gereği stoklar maliyet ile net gerçekleşebilir değerin düşük olanıyla değerlenir. Net gerçekleşebilir değer maliyetin altındaysa aradaki fark kadar 158 Stok Değer Düşüklüğü Karşılığı ayrılır ve karşılık gideri olarak sonuç hesaplarına yansıtılır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50403",
+  "dersId": "muhasebe",
+  "konuId": "donem_sonu",
+  "soru": "Bir işletmenin dönem sonunda alacak senetleri için reeskont ayırmasının temel gerekçesi aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Senedin nominal değeri içindeki vade farkının cari döneme ait olmayan kısmını ayırmak",
+   "Senedin tahsil edilememe riskine karşılık ayırarak olası zararı bugünden gidere dönüştürmek",
+   "Senedin yabancı para cinsinden olması hâlinde kur farkını dönem sonunda değerlemeye tabi tutmak",
+   "Senedi bankaya teminat olarak verildiğinde bilanço dışına çıkararak izlemeyi kolaylaştırmak",
+   "Senedin ciro edilmesi durumunda devreden işletmenin sorumluluğunu kayıtlarda göstermek"
+  ],
+  "dogru": 0,
+  "aciklama": "Reeskont, vadeli senedin nominal değeri içinde yer alan ve henüz gerçekleşmemiş faiz (vade farkı) tutarının cari dönem gelirinden arındırılmasıdır. Tahsil edilememe riski ise şüpheli alacak karşılığının konusudur; iki işlem farklı gerekçelere dayanır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50404",
+  "dersId": "muhasebe",
+  "konuId": "donem_sonu",
+  "soru": "Dönem sonu envanter işlemlerinde 'kayıtlı stok' ile 'fiili stok' arasında negatif fark bulunması hâlinde bu farkın nedeni belirlenemiyorsa yapılması gereken işlem aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Fark tutarı olağandışı gider ve zararlar içinde sayım ve tesellüm noksanı olarak sonuçlandırılır",
+   "Fark tutarı doğrudan ortaklardan alacaklar hesabına borç kaydedilerek takip edilmeye devam edilir",
+   "Fark tutarı gelecek yıllara ait giderler hesabında bekletilerek izleyen dönemlerde itfa edilir",
+   "Kayıtlı stok tutarı esas alınarak fiili sayım sonucu iptal edilir ve envanter yeniden düzenlenir",
+   "Fark tutarı sermaye yedekleri altında değerleme farkı olarak özkaynaklara doğrudan aktarılır"
+  ],
+  "dogru": 0,
+  "aciklama": "Sayım sonucu ortaya çıkan noksanlık önce 197 Sayım ve Tesellüm Noksanları hesabında izlenir. Nedeni belirlenemezse, ilgili dönemde 689 Diğer Olağandışı Gider ve Zararlar hesabına aktarılarak kapatılır. Farkın sorumlusu belirlenebilirse personelden veya ilgiliden alacak olarak kaydedilir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50405",
+  "dersId": "muhasebe",
+  "konuId": "genel_muhasebe",
+  "soru": "Muhasebenin temel kavramlarından 'dönemsellik' ile 'tahakkuk esası' arasındaki ilişkiyi doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Dönemsellik faaliyetlerin dönemlere bölünmesini, tahakkuk esası ise gelir ve giderin nakit hareketinden bağımsız kaydını gerektirir",
+   "Dönemsellik yalnızca giderlerin, tahakkuk esası ise yalnızca gelirlerin hangi dönemde kaydedileceğini düzenleyen bir kavram olarak tanımlanmaktadır",
+   "İki kavram da nakit akışının gerçekleştiği anı esas almakta olup aralarında uygulama farkı bulunmamaktadır",
+   "Tahakkuk esası yalnızca kamu muhasebesinde, dönemsellik ise yalnızca ticari muhasebede geçerli sayılmaktadır",
+   "Dönemsellik işletmenin süresiz kabul edilmesini, tahakkuk esası ise faaliyetin sona erdirilmesini varsaymaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Dönemsellik, sınırsız sayılan faaliyet süresinin belirli dönemlere bölünmesini ve her dönemin sonucunun ayrı ölçülmesini gerektirir. Tahakkuk esası ise gelir ve giderlerin tahsil ya da ödeme anından bağımsız olarak, doğdukları dönemde kaydedilmesini ifade eder; ikisi birlikte dönem sonucunun doğru ölçülmesini sağlar.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50406",
+  "dersId": "muhasebe",
+  "konuId": "genel_muhasebe",
+  "soru": "Bir işletme, peşin bedelle üç yıllık sigorta poliçesi satın almıştır. Bu işlemin ilk kayıt anındaki doğru muhasebeleştirilmesi aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Bir yıllık kısım gelecek aylara ait giderlere, kalan kısım gelecek yıllara ait giderlere kaydedilir",
+   "Ödenen tutarın tamamı ödeme yapıldığı dönemde doğrudan genel yönetim gideri olarak kaydedilir",
+   "Ödenen tutarın tamamı maddi olmayan duran varlık olarak aktifleştirilip itfa payı ayrılarak izlenir",
+   "Ödenen tutar peşin ödenen vergiler ve fonlar hesabında izlenerek dönem sonunda mahsup edilir",
+   "Ödenen tutarın tamamı gelecek yıllara ait giderler hesabına alınır ve son yıl toptan gider yazılır"
+  ],
+  "dogru": 0,
+  "aciklama": "Peşin ödenen giderlerde dönemsellik gereği ayrım yapılır: içinde bulunulan dönemi izleyen bir yıllık kısım 180 Gelecek Aylara Ait Giderler, bir yılı aşan kısım ise 280 Gelecek Yıllara Ait Giderler hesabında izlenir ve her dönem ilgili tutar gidere dönüştürülür.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50407",
+  "dersId": "muhasebe",
+  "konuId": "mali_tablolar",
+  "soru": "Nakit akış tablosunda bir işletmenin amortisman tutarının işletme faaliyetlerinden nakit akışına eklenmesinin nedeni aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Amortismanın nakit çıkışı gerektirmeyen bir gider olması ve net kârı azaltmış bulunması",
+   "Amortismanın duran varlık satışından doğan nakit girişini doğrudan temsil etmesi",
+   "Amortismanın yatırım faaliyetlerinden kaynaklanan nakit çıkışını dengelemek üzere kullanılması",
+   "Amortismanın ortaklara dağıtılacak kâr payının hesaplanmasında indirim kalemi olması",
+   "Amortismanın vergi matrahını artırarak ödenecek vergi tutarını yükseltmiş olması"
+  ],
+  "dogru": 0,
+  "aciklama": "Dolaylı yöntemde nakit akışı net kârdan hareketle hesaplanır. Amortisman kârı azaltan ancak nakit çıkışı doğurmayan bir giderdir; bu nedenle nakit esasına dönüş için net kâra geri eklenir. Duran varlık satışından doğan nakit ise yatırım faaliyetleri bölümünde gösterilir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50408",
+  "dersId": "muhasebe",
+  "konuId": "mali_tablolar",
+  "soru": "Bir işletmenin cari oranı yüksek, asit-test oranı ise düşük çıkmışsa bu durum aşağıdakilerden hangisine işaret eder?",
+  "secenekler": [
+   "Dönen varlıklar içinde stokların payının yüksek olduğuna ve likiditenin stoklara bağlandığına",
+   "İşletmenin kısa vadeli borçlarının tamamını elindeki nakit ile karşılayabilecek durumda olduğuna",
+   "İşletmenin özkaynak yapısının güçlü ve borçlanma düzeyinin oldukça düşük olduğuna",
+   "Duran varlıkların uzun vadeli kaynaklarla finanse edilmiş ve yapının dengeli olduğuna",
+   "İşletmenin faaliyet kârlılığının sektöre kıyasla belirgin biçimde yüksek seyrettiğine"
+  ],
+  "dogru": 0,
+  "aciklama": "Asit-test oranı, cari orandan farklı olarak stokları dışlar. İki oran arasındaki belirgin fark, dönen varlıkların büyük bölümünün stoklardan oluştuğunu gösterir. Bu durum, stoklar satılamadığında işletmenin kısa vadeli borçlarını ödemekte zorlanabileceği anlamına gelir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50409",
+  "dersId": "muhasebe",
+  "konuId": "mali_tablolar",
+  "soru": "Bilançoda 'net işletme sermayesi' kavramı aşağıdakilerden hangisini ifade eder?",
+  "secenekler": [
+   "Dönen varlıklar ile kısa vadeli yabancı kaynaklar arasındaki farkı",
+   "Toplam varlıklar ile toplam yabancı kaynaklar arasındaki olumlu farkı",
+   "Özkaynaklar ile duran varlıklar toplamı arasındaki oransal ilişkiyi",
+   "Satışlardan elde edilen hasılat ile satışların maliyeti arasındaki farkı",
+   "Uzun vadeli yabancı kaynaklar ile maddi duran varlıklar arasındaki farkı"
+  ],
+  "dogru": 0,
+  "aciklama": "Net işletme sermayesi, dönen varlıklardan kısa vadeli yabancı kaynakların çıkarılmasıyla bulunur ve işletmenin kısa vadeli yükümlülüklerini karşıladıktan sonra faaliyetlerini sürdürmek için elinde kalan kaynağı gösterir. Toplam varlık ile yabancı kaynak farkı ise özkaynakları verir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50410",
+  "dersId": "muhasebe",
+  "konuId": "genel_muhasebe",
+  "soru": "Bir işletme kredili olarak sattığı maldan iade almış ve alıcıya fiyat indirimi uygulamıştır. Bu iki işlemin muhasebeleştirilmesi bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "İade 610, indirim ise 611 numaralı hesapta izlenir; her ikisi de brüt satışlardan indirim kalemidir",
+   "İade ve indirim aynı hesapta izlenir; Tekdüzen Hesap Planı bu ikisi için ayrı hesap öngörmemektedir",
+   "İade doğrudan 600 Yurtiçi Satışlar hesabının borcuna, indirim ise gider hesabına kaydedilir",
+   "İade satışların maliyeti içinde, indirim ise pazarlama satış dağıtım giderleri içinde raporlanır",
+   "İki işlem de dönem sonunda doğrudan dönem kârı hesabına aktarılarak ayrıca izlenmez"
+  ],
+  "dogru": 0,
+  "aciklama": "610 Satıştan İadeler ve 611 Satış İskontoları hesapları, 612 Diğer İndirimler ile birlikte 'Satış İndirimleri' grubunu oluşturur. Bu hesaplar brüt satışlardan indirilerek net satışlara ulaşılır; doğrudan satış hesabına ters kayıt yapılmaz, böylece brüt satış bilgisi korunur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "50411",
+  "dersId": "muhasebe",
+  "konuId": "hesap_plani",
+  "soru": "Maliyet hesapları grubunda 7/A ve 7/B seçeneklerinin kullanımını belirleyen temel ölçüt aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "İşletmenin yıllık satış hasılatı ve aktif toplamına göre belirlenen büyüklük sınırı",
+   "İşletmenin üretim yapıp yapmadığı ve sanayi siciline kayıtlı olup olmadığı",
+   "İşletmenin hukuki yapısının sermaye şirketi mi şahıs işletmesi mi olduğu",
+   "İşletmenin bağımsız denetime tabi tutulup tutulmadığı ve denetim raporu düzenlenip düzenlenmediği",
+   "İşletmenin yabancı sermayeli olup olmadığı ve uluslararası standartları uygulayıp uygulamadığı"
+  ],
+  "dogru": 0,
+  "aciklama": "Tekdüzen Muhasebe Sisteminde maliyet hesapları, işletmenin büyüklüğüne göre iki seçenekten biriyle izlenir. Belirlenen hadleri aşan işletmeler fonksiyon esasına dayalı 7/A seçeneğini, küçük işletmeler ise çeşit esasına dayalı 7/B seçeneğini uygular.",
+  "zorluk": "zor"
  }
 ]

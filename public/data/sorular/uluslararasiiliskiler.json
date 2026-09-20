@@ -5406,5 +5406,421 @@
   "dogru": 0,
   "aciklama": "Karabağ meselesi ve tarihsel anlaşmazlıklar normalleşme sürecini doğrudan etkilemektedir.",
   "zorluk": "orta"
+ },
+ {
+  "id": "56342",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_teoriler",
+  "soru": "Klasik realizm ile neorealizm (yapısal realizm) arasındaki temel ayrım, devletlerin güç arayışının kaynağına ilişkindir. Bu ayrımı en doğru biçimde ortaya koyan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Klasik realizm güç arayışını insan doğasının değişmez özelliklerine bağlarken neorealizm bunu uluslararası sistemin anarşik yapısından türetir",
+   "Klasik realizm devletleri tek aktör sayarken neorealizm uluslararası örgütleri de temel aktör olarak kabul etmekte ve analize dâhil etmektedir",
+   "Klasik realizm ekonomik çıkarları önceleyip askerî gücü ikincil görürken neorealizm yalnızca askerî kapasiteyi ölçüt almakta ve ekonomiyi dışlamaktadır",
+   "Klasik realizm uluslararası hukukun bağlayıcılığını kabul ederken neorealizm hukuku tümüyle işlevsiz sayarak analiz dışında bırakmaktadır",
+   "Klasik realizm iç politika ile dış politikayı birbirinden ayırırken neorealizm bu ikisini aynı süreç olarak ele almakta ve birlikte incelemektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Morgenthau'nun temsil ettiği klasik realizm, güç arayışını 'animus dominandi' yani insanın tahakküm arzusuna dayandırır. Waltz'ın neorealizmi ise bireysel ya da devlet düzeyindeki açıklamaları reddederek gücü sistemin anarşik yapısının dayattığı bir hayatta kalma zorunluluğu olarak açıklar.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56343",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_teoriler",
+  "soru": "Güvenlik ikilemi (security dilemma) kavramı çerçevesinde bir devletin savunma amaçlı silahlanmasının bölgesel istikrarsızlığa yol açması aşağıdakilerden hangisiyle açıklanır?",
+  "secenekler": [
+   "Devletlerin niyetleri konusunda kesin bilgiye ulaşılamaması, savunma amaçlı yeteneklerin karşı tarafça saldırı hazırlığı biçiminde okunmasına yol açar",
+   "Devletler arasındaki ticari bağımlılığın artması, askerî harcamaların da orantılı biçimde artmasını zorunlu kılmakta ve gerilim üretmektedir",
+   "Uluslararası örgütlerin denetim yetkisinin genişlemesi, devletleri gizli silahlanma programları yürütmeye yöneltmekte ve güvensizlik doğurmaktadır",
+   "Nükleer caydırıcılığın yaygınlaşması, konvansiyonel silahlanmayı anlamsız kıldığından bölgesel dengeleri kendiliğinden bozmaktadır",
+   "Devletlerin iç kamuoyu baskısıyla hareket etmesi, dış politikada rasyonel hesap yapmalarını olanaksız hâle getirmekte ve çatışmayı kaçınılmaz kılmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Güvenlik ikileminin çekirdeği niyet belirsizliğidir: anarşik ortamda savunma ile saldırı yetenekleri ayırt edilemediğinden, A devletinin savunma amaçlı adımı B tarafından tehdit olarak algılanır ve karşı silahlanmayı tetikler. Ticari bağımlılık ise liberal kuramda çatışmayı azaltıcı sayılır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56344",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_teoriler",
+  "soru": "Konstrüktivist (inşacı) kuramın realizm ve liberalizmden ayrıldığı en temel nokta aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Anarşinin sabit bir veri değil, devletlerin etkileşimiyle kurulan toplumsal bir anlam olduğunu savunması",
+   "Uluslararası sistemde devletlerin dışındaki aktörlerin de varlığını kabul edip bunları analizin merkezine yerleştirmesi",
+   "Devletlerin çıkar tanımlarının ekonomik üretim biçimi tarafından belirlendiğini ileri sürerek sınıfsal analizi öne çıkarması",
+   "Uluslararası kurumların işbirliğini kolaylaştırdığını savunarak mutlak kazanç kavramını analizin temeline yerleştirmesi",
+   "Güç dengesinin yalnızca askerî kapasiteyle değil ekonomik göstergelerle de ölçülmesi gerektiğini ortaya koyması"
+  ],
+  "dogru": 0,
+  "aciklama": "Wendt'in 'anarşi devletlerin ondan ne anladığıdır' formülü inşacılığın özüdür: anarşi verili bir yapı değil, kimlikler ve normlar aracılığıyla kurulan bir toplumsal ilişkidir. Çok aktörlülük liberalizmin, üretim biçimi vurgusu Marksist yaklaşımların, mutlak kazanç ise neoliberal kurumsalcılığın özelliğidir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56345",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_kavramlar",
+  "soru": "Uluslararası ilişkilerde 'yumuşak güç' (soft power) kavramı ile 'kamu diplomasisi' arasındaki ilişkiyi doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Yumuşak güç bir kaynak ya da kapasite iken kamu diplomasisi bu kapasiteyi harekete geçirmeye yarayan araçlardan biridir",
+   "Kamu diplomasisi yalnızca kriz dönemlerinde başvurulan bir yöntem olup yumuşak gücün barış zamanındaki karşılığını oluşturmaktadır",
+   "İki kavram birbirinin yerine kullanılabilir; aralarındaki fark yalnızca akademik yazında tercih edilen terminolojiden kaynaklanmaktadır",
+   "Yumuşak güç devletlerin, kamu diplomasisi ise yalnızca sivil toplum kuruluşlarının başvurabildiği bir etkileme biçimini ifade etmektedir",
+   "Kamu diplomasisi askerî kapasiteyi tamamlayıcı nitelikteyken yumuşak güç askerî araçların tümüyle dışlanmasını gerektirmektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Nye'ın ayrımına göre yumuşak güç; kültür, siyasal değerler ve dış politikanın çekiciliğinden doğan bir kaynaktır. Kamu diplomasisi ise bu kaynağı hedef ülkelerin kamuoylarına ulaştırmak için kullanılan araçsal bir faaliyettir; dolayısıyla biri kapasite, diğeri onu kullanma yöntemidir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56346",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_kavramlar",
+  "soru": "Bir devletin egemenliğine ilişkin 'Westphalyan egemenlik' ile 'içsel egemenlik' ayrımı düşünüldüğünde, başarısız devlet (failed state) olgusu aşağıdakilerden hangisiyle en doğru biçimde tanımlanır?",
+  "secenekler": [
+   "Dış aktörlerin müdahalesine kapalı olmakla birlikte ülke içinde meşru şiddet tekelini ve kamu düzenini sağlayamayan devlet",
+   "Uluslararası toplum tarafından tanınmadığı için diplomatik ilişki kuramayan ancak içeride etkin biçimde yönetilen siyasal yapı",
+   "Ekonomik göstergeleri düşük olmakla birlikte kurumsal işleyişini sürdüren ve dış yardıma bağımlı hâle gelmiş gelişmekte olan ülke",
+   "Askerî darbe sonucunda anayasal düzeni askıya alınmış, ancak bürokratik yapısı bozulmamış biçimde işlemeye devam eden devlet",
+   "Uluslararası örgüt üyeliklerinden çıkarılmış olmakla birlikte sınırları ve nüfusu üzerinde denetimini koruyan siyasal birim"
+  ],
+  "dogru": 0,
+  "aciklama": "Başarısız devlet kavramı, dışarıya karşı hukuki egemenliğin (Westphalyan) sürmesine karşın içeride meşru şiddet tekelinin, kamu hizmetlerinin ve düzenin sağlanamamasıyla tanımlanır. Tanınmama sorunu 'de facto devlet', dış yardıma bağımlılık ise ayrı bir kalkınma sorunudur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56347",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_uluslararasi_hukuk",
+  "soru": "Uluslararası hukukta 'jus cogens' (emredici normlar) ile 'erga omnes' yükümlülükler arasındaki ilişkiyi doğru biçimde ortaya koyan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Jus cogens normun hiyerarşik üstünlüğünü, erga omnes ise yükümlülüğün kime karşı doğduğunu anlatır; her jus cogens norm erga omnes'tir",
+   "İki kavram da normun kaynağını göstermekte olup jus cogens antlaşmalardan, erga omnes ise örf ve âdet hukukundan doğan kuralları ifade eder",
+   "Erga omnes yükümlülükler yalnızca antlaşmaya taraf devletleri bağlarken jus cogens normlar üçüncü devletlere karşı da ileri sürülebilmektedir",
+   "Jus cogens normlar devletlerin rızasıyla değiştirilebilirken erga omnes yükümlülükler hiçbir koşulda değiştirilemez nitelik taşımaktadır",
+   "İki kavram arasında hukuki bir bağ bulunmamakta olup biri iç hukuka, diğeri ise uluslararası yargı usulüne ilişkin kavramlardır"
+  ],
+  "dogru": 0,
+  "aciklama": "Jus cogens, aksi kararlaştırılamayan üstün nitelikli normları (soykırım, işkence, köle ticareti yasağı) ifade eder ve normun hiyerarşideki yerini gösterir. Erga omnes ise yükümlülüğün bütün uluslararası topluma karşı doğduğunu, dolayısıyla doğrudan zarar görmeyen devletlerin de ihlali ileri sürebileceğini anlatır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56348",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_uluslararasi_hukuk",
+  "soru": "Deniz hukukunda 'karasuları', 'bitişik bölge' ve 'münhasır ekonomik bölge' rejimleri karşılaştırıldığında aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Kıyı devleti karasularında tam egemenliğe, münhasır ekonomik bölgede ise yalnızca kaynaklara yönelik egemen haklara sahiptir",
+   "Kıyı devleti münhasır ekonomik bölgede karasularındakiyle aynı düzeyde egemenlik yetkisi kullanmakta ve geçişi denetleyebilmektedir",
+   "Bitişik bölge, kıyı devletine bölgedeki doğal kaynakları işletme konusunda münhasır yetki tanıyan bir deniz alanı olarak tanımlanmaktadır",
+   "Karasularında zararsız geçiş hakkı bulunmadığından yabancı gemilerin kıyı devletinden önceden izin alması zorunlu tutulmaktadır",
+   "Münhasır ekonomik bölge ilan edilmesi hâlinde kıta sahanlığına ilişkin haklar kendiliğinden sona ermekte ve yeni rejim uygulanmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "BMDHS'ye göre karasularında kıyı devletinin egemenliği tamdır (zararsız geçiş hakkıyla sınırlı olarak). MEB'de ise egemenlik değil, canlı ve cansız kaynakların araştırılması ve işletilmesine yönelik 'egemen haklar' söz konusudur. Bitişik bölge ise gümrük, maliye, sağlık ve göç konularında denetim yetkisi verir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56349",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_orgutler",
+  "soru": "Birleşmiş Milletler Güvenlik Konseyi'nin karar alma usulü çerçevesinde 'Barış İçin Birlik' (Uniting for Peace) kararının işlevi aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Daimî üyelerin vetosu nedeniyle Konsey'in karar alamadığı durumlarda Genel Kurul'un tavsiye kararı alabilmesine imkân tanımak",
+   "Güvenlik Konseyi'nin daimî üye sayısını artırarak karar alma sürecindeki tıkanıklığı kalıcı biçimde ortadan kaldırmayı sağlamak",
+   "Veto yetkisinin insani müdahale gerektiren durumlarda kullanılmasını hukuken yasaklayarak Konsey'i karar almaya zorlamak",
+   "Genel Kurul kararlarına Güvenlik Konseyi kararlarıyla aynı bağlayıcılığı kazandırarak iki organ arasında eşitlik kurmak",
+   "Bölgesel örgütlere Güvenlik Konseyi onayı olmaksızın askerî güç kullanma yetkisi tanıyarak müdahale sürecini hızlandırmak"
+  ],
+  "dogru": 0,
+  "aciklama": "1950 tarihli 377 sayılı 'Barış İçin Birlik' kararı, veto nedeniyle Güvenlik Konseyi'nin görevini yerine getiremediği hâllerde Genel Kurul'un olağanüstü toplanarak tavsiye niteliğinde karar almasına imkân tanır. Kararlar tavsiye niteliğindedir; Genel Kurul'a bağlayıcı yetki kazandırmaz.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56350",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_orgutler",
+  "soru": "NATO'nun kuruluş antlaşmasındaki 4. madde ile 5. madde arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "4. madde tehdit algılanması hâlinde danışma mekanizmasını işletirken 5. madde silahlı saldırı durumunda ortak savunmayı düzenler",
+   "4. madde üyelerin savunma harcamalarına ilişkin asgari oranı belirlerken 5. madde bu orana uymayan üyelere yaptırım öngörmektedir",
+   "4. madde yeni üyelerin ittifaka kabul usulünü düzenlerken 5. madde üyelikten çıkarma koşullarını ayrıntılı biçimde belirlemektedir",
+   "4. madde yalnızca Avrupa'daki saldırılar için, 5. madde ise Kuzey Amerika'daki saldırılar için uygulanabilir nitelik taşımaktadır",
+   "4. madde nükleer silahların konuşlandırılmasını, 5. madde ise konvansiyonel kuvvetlerin sevkini düzenleyen hükümler içermektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "4. madde, bir üyenin toprak bütünlüğü ya da güvenliğinin tehdit altında olduğunu düşünmesi hâlinde müttefikleri danışmaya çağırmasına imkân tanır. 5. madde ise bir üyeye yönelik silahlı saldırıyı tümüne yapılmış sayan ortak savunma hükmüdür ve tarihte yalnızca bir kez, 11 Eylül sonrasında işletilmiştir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56351",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_turk_dis_politika",
+  "soru": "Türk dış politikasında Montrö Boğazlar Sözleşmesi'nin (1936) Lozan'daki Boğazlar rejiminden ayrıldığı temel nokta aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Boğazlar Komisyonu kaldırılarak bölgedeki yetkiler Türkiye'ye devredilmiş ve askerden arındırma kaldırılmıştır",
+   "Ticaret gemilerinin barış zamanındaki geçiş serbestisi sona erdirilerek geçişler Türkiye'nin iznine bağlanmıştır",
+   "Karadeniz'e kıyısı olmayan devletlerin savaş gemilerine süresiz konuşlanma hakkı tanınarak bölge açık hâle getirilmiştir",
+   "Boğazlar üzerindeki egemenlik uluslararası bir vesayet rejimine bırakılarak Milletler Cemiyeti denetimi getirilmiştir",
+   "Türkiye'nin savaş hâlinde Boğazları kapatma yetkisi kaldırılarak geçiş tüm koşullarda serbest bırakılmıştır"
+  ],
+  "dogru": 0,
+  "aciklama": "Lozan'da Boğazlar, başkanı Türk olan uluslararası bir komisyonun denetimine bırakılmış ve iki yaka askerden arındırılmıştı. Montrö ile komisyon kaldırılmış, yetkiler Türkiye'ye geçmiş ve bölgenin yeniden askerîleştirilmesi mümkün olmuştur. Ticaret gemilerinin barış zamanı geçiş serbestisi ise korunmuştur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56352",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_soguk_savas",
+  "soru": "Soğuk Savaş döneminde 'yumuşama' (détente) sürecinin 1970'lerin sonunda sona ermesinde belirleyici olan gelişme aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Sovyetler Birliği'nin Afganistan'ı işgali ve buna karşılık ABD'nin SALT II'yi onaylamaktan vazgeçmesi",
+   "Berlin Duvarı'nın inşa edilmesiyle Almanya sorununun yeniden çatışma konusu hâline gelmesi ve blokların sertleşmesi",
+   "Küba Füze Krizi'nin ardından iki süper güç arasındaki doğrudan iletişim hattının kaldırılması ve diyalogun kesilmesi",
+   "Varşova Paktı'nın dağıtılarak Doğu Bloku ülkelerinin NATO ile ayrı ayrı güvenlik anlaşmaları imzalaması",
+   "Çin Halk Cumhuriyeti'nin Birleşmiş Milletler'deki temsil hakkını yitirmesi ve uluslararası sistemden dışlanması"
+  ],
+  "dogru": 0,
+  "aciklama": "1979'daki Afganistan işgali, détente'in simgesi sayılan SALT II'nin ABD Senatosu'nda onaylanmasının önünü kesmiş ve 'İkinci Soğuk Savaş' olarak anılan gerginlik dönemini başlatmıştır. Berlin Duvarı (1961) ve Küba Krizi (1962) détente öncesine aittir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56353",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_guncel_sorunlar",
+  "soru": "Uluslararası ilişkilerde 'Koruma Sorumluluğu' (R2P) ilkesi ile klasik insani müdahale anlayışı karşılaştırıldığında aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "R2P, müdahaleyi Güvenlik Konseyi yetkisine bağlayarak tek taraflı müdahale iddialarını sınırlandırmayı amaçlar",
+   "R2P, devletlerin egemenlik haklarını tümüyle ortadan kaldırarak uluslararası toplumun doğrudan yönetimini öngörmektedir",
+   "Klasik insani müdahale anlayışı Birleşmiş Milletler Antlaşması'nda açıkça düzenlenmiş olup R2P bu düzenlemeyi yürürlükten kaldırmıştır",
+   "R2P yalnızca doğal afet durumlarında uygulanabilen, silahlı çatışmaları kapsam dışında bırakan bir ilke olarak benimsenmiştir",
+   "İki yaklaşım arasında usul farkı bulunmamakta olup ayrım yalnızca kullanılan terminolojiden kaynaklanmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "2005 Dünya Zirvesi'nde benimsenen R2P, egemenliği bir ayrıcalık değil sorumluluk olarak tanımlar ve devlet bu sorumluluğu yerine getiremediğinde müdahaleyi Güvenlik Konseyi kararına bağlar. Böylece tek taraflı 'insani müdahale' iddialarını usule bağlayarak sınırlandırmayı hedefler.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56354",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_bolgesel",
+  "soru": "Avrupa Birliği'nin karar alma organları bakımından Avrupa Birliği Konseyi (Bakanlar Konseyi) ile Avrupa Konseyi arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Avrupa Birliği Konseyi üye devletlerin ilgili bakanlarından oluşan yasama organı iken Avrupa Konseyi AB dışında ayrı bir örgüttür",
+   "Avrupa Konseyi Birliğin yürütme organı olup Komisyon üyelerini atarken Avrupa Birliği Konseyi yalnızca danışma işlevi görmektedir",
+   "İki organ da aynı yapının farklı adlandırmaları olup aralarındaki ayrım yalnızca toplantı düzeyinden kaynaklanmaktadır",
+   "Avrupa Birliği Konseyi devlet ve hükümet başkanlarından oluşurken Avrupa Konseyi uzman bürokratlardan meydana gelmektedir",
+   "Avrupa Konseyi Birliğin yargı organı olarak görev yaparken Avrupa Birliği Konseyi bütçe denetimini yürütmektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Avrupa Birliği Konseyi (Bakanlar Konseyi) üye devletlerin konuya göre değişen bakanlarından oluşur ve Parlamento ile birlikte yasama yetkisini kullanır. Avrupa Konseyi ise 1949'da kurulmuş, insan hakları alanında çalışan ve AİHM'i bünyesinde barındıran, AB'den bütünüyle ayrı bir uluslararası örgüttür.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56355",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_soguk_savas",
+  "soru": "Truman Doktrini ile Marshall Planı arasındaki ilişkiyi doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Truman Doktrini çevrelemenin siyasi-askerî, Marshall Planı ise ekonomik ayağını oluşturmuştur",
+   "Truman Doktrini yalnızca Asya ülkelerini, Marshall Planı ise yalnızca Latin Amerika ülkelerini kapsamıştır",
+   "Marshall Planı Truman Doktrini'nin yürürlükten kaldırılmasının ardından bütünüyle yeni bir çerçeve olarak geliştirilmiştir",
+   "Truman Doktrini Sovyetler Birliği'nin de yararlanabileceği bir yardım programı olarak tasarlanmış ve kabul edilmiştir",
+   "Marshall Planı askerî yardımı, Truman Doktrini ise altyapı yatırımlarını finanse eden bir program niteliği taşımıştır"
+  ],
+  "dogru": 0,
+  "aciklama": "1947 Truman Doktrini, Yunanistan ve Türkiye'ye yönelik askerî-siyasi destekle komünizmin yayılmasını durdurmayı amaçlamıştır. 1948'de yürürlüğe giren Marshall Planı ise Batı Avrupa'nın ekonomik olarak ayağa kaldırılmasını hedefleyerek aynı çevreleme stratejisinin ekonomik boyutunu oluşturmuştur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56356",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_soguk_savas",
+  "soru": "Küba Füze Krizi'nin (1962) uluslararası sisteme en kalıcı etkisi aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "İki süper güç arasında kriz yönetimi mekanizmalarının ve doğrudan iletişim hattının kurulması",
+   "Sovyetler Birliği'nin Latin Amerika'daki bütün müttefiklerini kaybederek bölgeden tümüyle çekilmesi",
+   "Nükleer silahların uluslararası antlaşmayla tamamen yasaklanması ve mevcut stokların imha edilmesi",
+   "Amerika Birleşik Devletleri'nin NATO'dan çekilerek tek taraflı savunma politikasına yönelmesi",
+   "Birleşmiş Milletler Güvenlik Konseyi'nde veto hakkının geçici olarak askıya alınması kararının alınması"
+  ],
+  "dogru": 0,
+  "aciklama": "Kriz sonrasında Washington ile Moskova arasında 'kırmızı hat' kurulmuş, 1963 Kısmi Nükleer Deneme Yasağı Antlaşması imzalanmıştır. Kriz, nükleer eşiğe yaklaşmanın yarattığı korkuyla kriz yönetimi ve silah kontrolü mekanizmalarının kurumsallaşmasını sağlamıştır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56357",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_soguk_savas",
+  "soru": "Soğuk Savaş'ın sona ermesini açıklayan yaklaşımlar karşılaştırıldığında, realist ve inşacı açıklamalar arasındaki temel fark aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Realizm Sovyet ekonomisinin göreli güç kaybını öne çıkarırken inşacılık Gorbaçov'un fikirsel dönüşümünü belirleyici sayar",
+   "Realizm Doğu Avrupa'daki halk hareketlerini, inşacılık ise askerî harcamaların artışını temel neden olarak ele almaktadır",
+   "Realizm sürecin barışçıl sonlanmasını önceden doğru biçimde öngörmüş, inşacılık ise bu konuda herhangi bir açıklama üretmemiştir",
+   "İki yaklaşım da yalnızca Amerika Birleşik Devletleri'nin askerî üstünlüğünü belirleyici görmekte ve iç etkenleri dışlamaktadır",
+   "Realizm uluslararası kurumların rolünü vurgularken inşacılık yalnızca maddi kapasite dağılımını hesaba katmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Realist açıklamalar SSCB'nin ekonomik çöküşünü ve göreli güç kaybını öne çıkarır. İnşacı yazın ise 'yeni düşünce' söylemiyle Gorbaçov'un güvenlik anlayışındaki normatif dönüşümü belirleyici sayar. Soğuk Savaş'ın barışçıl sonlanmasını öngörememek realizme yöneltilen başlıca eleştirilerdendir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56358",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_bolgesel",
+  "soru": "Avrupa bütünleşme kuramlarından neo-fonksiyonalizm ile hükümetlerarasıcılık (intergovernmentalism) arasındaki temel ayrım aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Neo-fonksiyonalizm bütünleşmeyi yayılma etkisiyle kendi kendini besleyen bir süreç sayarken hükümetlerarasıcılık üye devletlerin tercihlerini belirleyici görür",
+   "Neo-fonksiyonalizm bütünleşmenin yalnızca savunma ve güvenlik alanlarında mümkün olduğunu savunurken hükümetlerarasıcılık ekonomik bütünleşmeyi önceleyerek ele almaktadır",
+   "Hükümetlerarasıcılık ulusüstü kurumların üye devletlerden bağımsızlaştığını ileri sürerken neo-fonksiyonalizm bunu reddetmektedir",
+   "Neo-fonksiyonalizm bütünleşmenin geri döndürülemez olduğunu kanıtlamış, hükümetlerarasıcılık ise bu bulguyu doğrulamıştır",
+   "İki kuram da bütünleşmeyi yalnızca dışsal güvenlik tehditlerine verilen bir tepki olarak açıklamakta ve iç dinamikleri dışlamaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Haas'ın neo-fonksiyonalizmi, bir alandaki bütünleşmenin 'spillover' (yayılma) etkisiyle başka alanlara taşındığını ve ulusüstü kurumların süreci kendiliğinden ilerlettiğini savunur. Moravcsik'in liberal hükümetlerarasıcılığı ise bütünleşmenin hızını ve sınırlarını üye devletlerin iç çıkar hesaplarının ve pazarlıklarının belirlediğini ileri sürer.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56359",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_bolgesel",
+  "soru": "Türkiye ile Avrupa Birliği arasındaki Gümrük Birliği'nin (1996) Türkiye açısından yarattığı yapısal asimetri aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "AB'nin üçüncü ülkelerle yaptığı serbest ticaret anlaşmalarına Türkiye taraf olmadan bu ülkelerin Türkiye pazarına erişebilmesi",
+   "Türkiye'nin AB ile yürüttüğü ticarette gümrük vergilerini korumayı sürdürürken AB'nin Türkiye'ye karşı bu vergileri tümüyle kaldırmış olması",
+   "Gümrük Birliği'nin tarım ürünlerini kapsaması buna karşılık sanayi ürünlerini kapsam dışında bırakmış olması",
+   "Türkiye'nin ortak dış tarifeyi uygulama yükümlülüğünden muaf tutulmuş olması ancak AB'nin bu muafiyeti tanımaması",
+   "Karar alma süreçlerinde Türkiye'ye oy hakkı tanınmış olmasına karşın bu hakkın uygulamada hiç kullanılmamış olması"
+  ],
+  "dogru": 0,
+  "aciklama": "Türkiye ortak dış tarifeyi uygulamakla yükümlüdür; ancak AB'nin üçüncü ülkelerle imzaladığı STA'lara otomatik olarak taraf olmaz. Bu ülkelerin ürünleri AB üzerinden Türkiye pazarına gümrüksüz girerken Türkiye aynı pazarlara karşılıklı erişim sağlayamamakta, bu da asimetrik bir yapı doğurmaktadır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56360",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_orgutler",
+  "soru": "Uluslararası Para Fonu (IMF) ile Dünya Bankası'nın kuruluş amaçları karşılaştırıldığında aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "IMF ödemeler dengesi sorunlarına kısa vadeli destek sağlarken Dünya Bankası uzun vadeli kalkınma projelerini finanse eder",
+   "IMF yalnızca gelişmekte olan ülkelere, Dünya Bankası ise yalnızca gelişmiş ülkelere kaynak aktarmakla görevlendirilmiştir",
+   "Dünya Bankası döviz kuru rejimlerini denetlerken IMF altyapı yatırımlarına proje kredisi vermekle yükümlü kılınmıştır",
+   "İki kuruluş da Birleşmiş Milletler Güvenlik Konseyi'ne bağlı olarak çalışmakta ve kararlarını Konsey onayına sunmaktadır",
+   "IMF üyelik için Dünya Bankası üyeliğini şart koşmazken Dünya Bankası üyeliği için IMF'den çıkmak gerekmektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Bretton Woods sisteminde IMF, ödemeler dengesi güçlüğü çeken ülkelere kısa vadeli likidite sağlamak ve kur istikrarını gözetmekle görevlendirilmiştir. Dünya Bankası (IBRD) ise önce savaş sonrası imar, ardından kalkınma projelerinin uzun vadeli finansmanına odaklanmıştır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56361",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_orgutler",
+  "soru": "Dünya Ticaret Örgütü'nün uyuşmazlık çözüm mekanizmasının GATT dönemindeki usulden ayrıldığı temel nokta aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Panel raporlarının kabulünde ters konsensüs kuralının benimsenmesiyle tek bir üyenin süreci engellemesinin önlenmesi",
+   "Uyuşmazlıkların çözümüne ilişkin yetkinin Uluslararası Adalet Divanı'na devredilerek örgüt bünyesinden çıkarılmış olması",
+   "Panel kararlarına karşı itiraz yolunun tümüyle kapatılarak ilk derece kararlarının kesin hâle getirilmesi",
+   "Yalnızca gelişmiş ülkelerin uyuşmazlık başvurusunda bulunabilmesi ve diğer üyelerin bu haktan yoksun bırakılması",
+   "Kararların uygulanmasında misilleme yetkisinin kaldırılarak yaptırımın tümüyle gönüllülüğe bırakılmış olması"
+  ],
+  "dogru": 0,
+  "aciklama": "GATT döneminde panel raporunun kabulü için oybirliği arandığından kaybeden taraf raporu engelleyebiliyordu. DTÖ'de benimsenen ters konsensüs kuralına göre rapor, ancak tüm üyelerin oybirliğiyle reddi hâlinde kabul edilmez; bu da kararların otomatik olarak yürürlüğe girmesini sağlar.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56362",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_guncel_sorunlar",
+  "soru": "Uluslararası göç yönetiminde 'mülteci' ile 'sığınmacı' statüleri arasındaki hukuki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Sığınmacı başvurusu henüz sonuçlanmamış kişiyi, mülteci ise statüsü tanınmış kişiyi ifade etmektedir",
+   "Mülteci ekonomik nedenlerle ülkesinden ayrılan, sığınmacı ise zulüm nedeniyle kaçan kişi olarak tanımlanmaktadır",
+   "Sığınmacı kendi ülkesi içinde yer değiştiren, mülteci ise uluslararası sınırı geçen kişiyi karşılayan bir kavramdır",
+   "İki kavram arasında hukuki bir fark bulunmamakta olup ayrım yalnızca ulusal mevzuatların tercihinden kaynaklanmaktadır",
+   "Mülteci statüsü geçici koruma kapsamında verilirken sığınmacı statüsü süresiz oturma hakkını doğrudan sağlamaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "1951 Cenevre Sözleşmesi'ne göre mülteci, zulüm korkusu nedeniyle ülkesi dışında bulunan ve statüsü tanınmış kişidir. Sığınmacı ise koruma talebinde bulunmuş ancak başvurusu henüz karara bağlanmamış kişidir. Ülke içinde yer değiştirenler ise 'ülke içinde yerinden edilmiş kişi' olarak adlandırılır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56363",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_guncel_sorunlar",
+  "soru": "İklim rejimi bağlamında Kyoto Protokolü ile Paris Anlaşması arasındaki temel yapısal fark aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Kyoto yalnızca gelişmiş ülkelere bağlayıcı hedef koyarken Paris tüm taraflardan ulusal katkı beyanı istemektedir",
+   "Kyoto Protokolü sıcaklık artışına sayısal bir sınır koyarken Paris Anlaşması herhangi bir sıcaklık hedefi belirlemekten kaçınmıştır",
+   "Paris Anlaşması yaptırım mekanizması içerirken Kyoto Protokolü hiçbir uyum mekanizması öngörmemiştir",
+   "Kyoto karbon piyasası araçlarını yasaklarken Paris bu araçların kullanımını tümüyle serbest bırakmıştır",
+   "Paris Anlaşması yalnızca gelişmekte olan ülkeleri bağlarken Kyoto tüm ülkeler için eşit yükümlülük getirmiştir"
+  ],
+  "dogru": 0,
+  "aciklama": "Kyoto, 'ortak fakat farklılaştırılmış sorumluluk' ilkesi gereği yalnızca Ek-I ülkelerine sayısal indirim yükümlülüğü getirmiştir. Paris Anlaşması ise tüm taraflardan ulusal katkı beyanı (NDC) isteyen, aşağıdan yukarıya işleyen bir yapı kurar ve sıcaklık artışını 2°C'nin altında tutmayı hedefler.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56364",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_turk_dis_politika",
+  "soru": "Türkiye'nin 1952'de NATO'ya üye olmasının dış politikasında yarattığı temel dönüşüm aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Çok taraflı bir güvenlik şemsiyesine girerek İkinci Dünya Savaşı'ndaki denge siyasetini terk etmesi",
+   "Bağlantısızlar Hareketi'nin kurucu üyeleri arasında yer alarak blok siyasetinin bütünüyle dışında kalması",
+   "Sovyetler Birliği ile karşılıklı saldırmazlık antlaşması imzalayarak güvenlik kaygısını gidermesi",
+   "Avrupa Ekonomik Topluluğu'na tam üye olarak ekonomik bütünleşme sürecini tamamlamış olması",
+   "Ortadoğu'daki bütün ittifak girişimlerinden çekilerek bölgesel yalnızlık politikasını benimsemesi"
+  ],
+  "dogru": 0,
+  "aciklama": "İkinci Dünya Savaşı boyunca Türkiye, taraflar arasında denge gözeten bir tarafsızlık izlemişti. Sovyet talepleri sonrası güvenlik arayışı, Kore'ye asker gönderilmesi ve 1952'de NATO üyeliğiyle sonuçlanmış; Türkiye böylece Batı bloğunun kurumsal bir parçası hâline gelmiştir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56365",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_turk_dis_politika",
+  "soru": "Türkiye'nin Kıbrıs politikası bakımından 1960 Garanti Antlaşması'nın hukuki önemi aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Anayasal düzenin bozulması hâlinde garantör devletlere durumu yeniden kurmaya yönelik müdahale dayanağı sağlaması",
+   "Adanın Yunanistan'a bağlanmasını (enosis) hukuken mümkün kılan hükümler içermesi ve bu durumu güvence altına alması",
+   "Adadaki İngiliz üslerinin tasfiyesini öngörerek İngiltere'nin garantörlük sıfatını sona erdirmesi",
+   "Kıbrıs Cumhuriyeti'nin Birleşmiş Milletler üyeliğini engelleyerek adanın statüsünü belirsiz bırakması",
+   "İki toplumun ayrı devletler kurmasını öngören federatif yapıyı doğrudan düzenleyerek taksimi hukukileştirmesi"
+  ],
+  "dogru": 0,
+  "aciklama": "1960 Garanti Antlaşması, Kıbrıs Cumhuriyeti'nin bağımsızlığını, toprak bütünlüğünü ve anayasal düzenini Türkiye, Yunanistan ve İngiltere'nin garantisine bağlar. Antlaşmanın 4. maddesi, ortak hareket mümkün olmadığında garantör devletlere durumu yeniden kurmak üzere tek taraflı hareket hakkı tanır; Türkiye 1974 müdahalesini bu maddeye dayandırmıştır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56366",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_uluslararasi_hukuk",
+  "soru": "Uluslararası hukukta 'tanıma'nın kurucu (konstitütif) ve açıklayıcı (deklaratif) teorileri karşılaştırıldığında aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Kurucu teoriye göre devlet niteliği tanımayla doğarken açıklayıcı teoriye göre tanıma mevcut durumu saptamaktan ibarettir",
+   "Açıklayıcı teoriye göre tanıma olmadan devletin varlığından söz edilemez; kurucu teori ise tanımayı gereksiz saymaktadır",
+   "İki teori de tanımayı Birleşmiş Milletler üyeliğiyle özdeş saymakta ve üyeliği devlet olmanın koşulu olarak görmektedir",
+   "Kurucu teori yalnızca hükümet tanımasına, açıklayıcı teori ise yalnızca devlet tanımasına ilişkin bir ayrım ortaya koymaktadır",
+   "Açıklayıcı teori tanımanın geri alınmasını mümkün kılarken kurucu teori tanımanın geri alınamayacağını savunmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Kurucu teoriye göre bir siyasal birim ancak diğer devletlerce tanındığında uluslararası hukuk kişiliği kazanır. Açıklayıcı (deklaratif) teoriye göre ise Montevideo ölçütlerini (nüfus, ülke, hükümet, ilişki kurma ehliyeti) taşıyan birim zaten devlettir; tanıma yalnızca var olan durumu saptayan siyasi bir işlemdir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "56367",
+  "dersId": "uluslararasiiliskiler",
+  "konuId": "ui_kavramlar",
+  "soru": "Uluslararası ilişkilerde 'kutupluluk' (polarity) ile 'güç dengesi' kavramları arasındaki ilişkiyi doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Kutupluluk sistemdeki büyük güç sayısını betimlerken güç dengesi bu güçler arasındaki dağılımı ve dengeleme davranışını anlatır",
+   "İki kavram da yalnızca askerî kapasitenin ölçülmesine ilişkin olup aralarındaki fark kullanılan ölçü biriminden kaynaklanmaktadır",
+   "Güç dengesi sistemdeki devlet sayısını, kutupluluk ise bu devletlerin ittifak tercihlerini ifade eden bir kavramdır",
+   "Kutupluluk yalnızca iki kutuplu sistemler için kullanılabilirken güç dengesi tek kutuplu sistemlerde geçerli olmaktadır",
+   "Güç dengesi normatif bir ideal iken kutupluluk devletlerin izlemesi gereken bir dış politika stratejisini tanımlamaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Kutupluluk, sistemde kaç büyük güç merkezi bulunduğunu betimleyen yapısal bir kavramdır (tek, iki, çok kutuplu). Güç dengesi ise hem gücün dağılımını hem de devletlerin yükselen güce karşı dengeleme (balancing) ya da yanına katılma (bandwagoning) davranışlarını anlatan bir süreç kavramıdır.",
+  "zorluk": "zor"
  }
 ]
