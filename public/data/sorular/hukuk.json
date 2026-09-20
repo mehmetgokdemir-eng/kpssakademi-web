@@ -2054,7 +2054,7 @@
   "soru": "Türk idare hukukunda 'idari sözleşmeler' ile 'özel hukuk sözleşmeleri' arasındaki en temel fark aşağıdakilerden hangisidir?",
   "secenekler": [
    "İdari sözleşmelerde taraflar tamamen eşit konumdadır.",
-   "İdari sözleşmeler yalnızca para borcu doğuran konularda düzenlenebilir. ve süreli olarak akdedilir.",
+   "İdari sözleşmeler yalnızca para borcu doğuran konularda ve süreli olarak düzenlenebilir.",
    "İdari sözleşmelerde uyuşmazlıklar adli yargıda çözülür.",
    "İdari sözleşmeler her zaman yazılı olmak zorundadır.",
    "İdari sözleşmelerde idarenin tek taraflı değişiklik ve fesih yetkileri vardır."
@@ -4438,7 +4438,7 @@
   "soru": "TCK m. 31'de düzenlenen yaş küçüklüğü bakımından aşağıdaki eşleştirmelerden hangisi doğrudur?",
   "secenekler": [
    "12 yaşından küçükler — ceza sorumluluğu yoktur; 12-15 yaş arası — ceza sorumluluğu yoktur, güvenlik tedbiri uygulanabilir; 15-18 yaş arası — indirimli ceza uygulanır.",
-   "12 yaşından küçükler — ceza sorumluluğu yoktur; 12-15 yaş arası — cezası indirilmiş biçimde yargılanır ve güvenlik tedbiri uygulanmaz. ve bu yaş grubuna güvenlik tedbiri hiçbir koşulda uygulanmaz.",
+   "12 yaşından küçükler — ceza sorumluluğu yoktur; 12-15 yaş arası — cezası indirilmiş biçimde yargılanır, bu yaş grubuna güvenlik tedbiri hiçbir koşulda uygulanmaz.",
    "12-18 yaş arası tüm küçükler için aynı indirim oranı uygulanır.",
    "15 yaşından küçükler — ceza sorumluluğu yoktur; 15-18 yaş arası — indirimli ceza uygulanır.",
    "12 yaşından küçükler — ceza sorumluluğu yoktur; 12-18 yaş arası — tam ceza sorumluluğu vardır."
@@ -5319,7 +5319,7 @@
   "secenekler": [
    "Fail, 'kişide sapma (error in persona)' hükümleri gereğince sanki X'i öldürmüş gibi sorumlu tutulur.",
    "Fail, 'hedefte sapma (aberratio ictus)' hükümleri gereğince Y'yi kasten öldürmekten ve X'e yönelik kasten öldürmeye teşebbüsten gerçek içtima hükümlerine göre cezalandırılır.",
-   "Fail; X'e yönelik kasten öldürmeye teşebbüs ile Y'nin taksirle öldürülmesinden ötürü fikri içtima hükümlerine göre sorumlu tutulur ve tek ceza verilir. ve tek bir ceza ile yetinilir; ayrıca artırım yapılmaz.",
+   "Fail; X'e yönelik kasten öldürmeye teşebbüs ile Y'nin taksirle öldürülmesinden ötürü fikri içtima hükümlerine göre sorumlu tutulur, tek bir ceza ile yetinilir ve ayrıca artırım yapılmaz.",
    "Fail yalnızca Y'yi kasten öldürmekten sorumludur; X'e yönelik eylem bu suçun içinde erir.",
    "Fail yalnızca X'e yönelik kasten öldürmeye teşebbüsten sorumludur; Y'nin ölümünden herhangi bir cezai sorumluluğu doğmaz."
   ],
@@ -5993,7 +5993,7 @@
    "Aile konutu haczedilemez.",
    "Aile konutu hiçbir koşulda üçüncü kişilere devredilemez.",
    "Aile konutu üzerindeki ipotek sona erer.",
-   "Aile konutunun mülkiyeti kendiliğinden her iki eşe birden ait olur. ve tapu kaydı buna göre resen düzeltilir."
+   "Aile konutunun mülkiyeti kendiliğinden her iki eşe birden ait olur ve tapu kaydı buna göre resen düzeltilir."
   ],
   "dogru": 0,
   "aciklama": "TMK m.194'e göre eşlerden biri, diğer eşin açık rızası bulunmadıkça aile konutuyla ilgili kira sözleşmesini feshedemez, aile konutunu devredemez veya aile konutu üzerindeki hakları kısıtlayamaz. Bu koruma tapuya şerh edilebilir; şerh, üçüncü kişilere karşı da hüküm ifade eder. Aile konutu hacizden muaf değildir ve mülkiyetin her iki eşe geçmesi söz konusu olmaz.",
@@ -7704,7 +7704,7 @@
   "secenekler": [
    "Mahkeme kararıyla mülkiyetin kazanılması.",
    "Geçerli bir sözleşmeye dayalı olarak noterde yapılan taşınmaz satışında mülkiyetin devri.",
-   "Kamulaştırma kararının kesinleşmesiyle taşınmaz mülkiyetinin idareye geçmesi. ve tapuya tescil edilmesi.",
+   "Kamulaştırma kararının kesinleşmesiyle taşınmaz mülkiyetinin idareye geçmesi ve tapuya tescil edilmesi.",
    "Cebri icra yoluyla taşınmazın ihaleyle satın alınması.",
    "Miras yoluyla taşınmaz üzerinde mülkiyet hakkının mirasçılara geçmesi."
   ],
@@ -7815,7 +7815,7 @@
   "soru": "Saklı pay mirasçıları ve saklı pay oranlarına ilişkin olarak aşağıdakilerden hangisi TMK'nın mevcut düzenlemesiyle tam uyumludur?",
   "secenekler": [
    "Kardeşlerin saklı payı, yasal miras payının dörtte biridir.",
-   "Ana ve babanın her birinin saklı payı, yasal miras payının yarısı olarak belirlenmiştir. ve bu oran değiştirilemez.",
+   "Ana ve babanın her birinin saklı payı, yasal miras payının yarısı olarak belirlenmiştir ve bu oran değiştirilemez.",
    "Eşin saklı payı her durumda yasal miras payının dörtte biridir.",
    "Altsoy için saklı pay, yasal miras payının dörtte üçüdür.",
    "Altsoy için saklı pay, yasal miras payının yarısıdır; ana ve baba için ise saklı pay dörtte birdir."

@@ -1429,7 +1429,7 @@
   "konuId": "turkiye_guncel",
   "soru": "Türkiye'nin Suriyeli mültecilere yönelik 'Gönüllü Geri Dönüş' politikası ile AB-Türkiye Mutabakatı (2016) hükümleri arasındaki temel gerilim noktası aşağıdakilerden hangisidir?",
   "secenekler": [
-   "Türkiye, mutabakat kapsamında almayı taahhüt ettiği 6 milyar Euro'nun tamamını mülteci altyapısına harcamak zorunda olduğunu reddederek kaynağı genel sosyal hizmetlere aktarmıştır. ve harcama kalemlerini AB denetimine kapatmıştır",
+   "Türkiye, mutabakat kapsamında almayı taahhüt ettiği 6 milyar Euro'nun tamamını mülteci altyapısına harcamak zorunda olduğunu reddederek kaynağı genel sosyal hizmetlere aktarmış ve harcama kalemlerini AB denetimine kapatmıştır.",
    "Mutabakat, yalnızca Suriyelileri değil tüm düzensiz göçmenleri kapsamakta olup Türkiye bu kapsamı dar yorumlamaktadır.",
    "Mutabakat Yunanistan'dan Türkiye'ye iade edilen her Suriyeli için AB'nin Türkiye'den yasal yollarla bir Suriyeli kabul etmesini öngörmekte; ancak bu mekanizma tam işletilememektedir.",
    "Mutabakat, Türkiye'nin Suriyelileri Suriye'ye iade etmesini öngörürken Türkiye bunu reddetmektedir.",
@@ -2471,7 +2471,7 @@
   "secenekler": [
    "İran'ın bu gruplarla ilişkisi yalnızca ideolojik dayanışmaya dayanmakta, maddi destek ve operasyonel koordinasyon içermemektedir.",
    "Söz konusu strateji, SSCB'nin Soğuk Savaş döneminde kullandığı vekâlet savaşı yöntemlerinin özdeş bir kopyası olup herhangi bir özgün boyut taşımamaktadır.",
-   "İran, söz konusu grupları doğrudan kendi askerî komuta zincirine bağlayan resmî bir ittifak sistemi kurmuş olup bu yapı klasik ittifak teorisi kapsamında değerlendirilmekte ve devletlerarası ittifak sayılmaktadır. ve ortak karargâh kurulmuştur",
+   "İran, söz konusu grupları doğrudan kendi askerî komuta zincirine bağlayan resmî bir ittifak sistemi kurmuş olup bu yapı klasik ittifak teorisi kapsamında değerlendirilmekte, devletlerarası ittifak sayılmakta ve ortak karargâh üzerinden yürütülmektedir.",
    "Bu yapı, İran'ın asimetrik güç projeksiyonu için devlet-dışı aktörleri araçsallaştırdığı bir 'vekalet ağı' olarak tanımlanmakta ve strateji küresel güç dengeleri açısından 'asimetrik caydırıcılık' işlevi görmektedir.",
    "Bu yapı, BM Şartı'nın 51. maddesi çerçevesinde tanınan kolektif meşru müdafaa hakkının İran tarafından uygulamaya konulması biçiminde yorumlanmaktadır."
   ],
@@ -4201,7 +4201,7 @@
    "DNA'yı belirli bir noktadan kesmek ve düzenlemek amacıyla kullanılan bir gen düzenleme teknolojisidir.",
    "Yalnızca tarımsal uygulamalar için geliştirilmiştir.",
    "Bu teknoloji yalnızca tek hücreli organizmalarda işlev gösterir.",
-   "Kimyasal ilaçların hücre içinde gen ekspresyonunu baskılaması ilkesine dayanan bir yöntemdir. ve doğrudan DNA dizisini değiştirir"
+   "Kimyasal ilaçların hücre içinde gen ekspresyonunu baskılaması ilkesine dayanan ve doğrudan DNA dizisini değiştiren bir yöntemdir."
   ],
   "dogru": 1,
   "aciklama": "CRISPR-Cas9, kılavuz RNA (guide RNA) aracılığıyla genomun belirli bir bölgesine yönlendirilen Cas9 enzimiyle DNA'yı keserek gen düzenlenmesine olanak tanıyan bir biyoteknoloji aracıdır. Bakteri, bitki, hayvan ve insan hücrelerinde uygulanabilir. Kanser, genetik hastalıklar ve tarımsal geliştirme gibi geniş bir yelpazede kullanılmaktadır. 2020 Nobel Kimya Ödülü bu teknolojiyi geliştiren Jennifer Doudna ve Emmanuelle Charpentier'e verilmiştir.",
@@ -4327,7 +4327,7 @@
   "secenekler": [
    "Ultrasonik ses dalgalarıyla yakın çevredeki nesnelerin mesafesini hesaplar.",
    "GPS sinyallerini kullanarak aracın mutlak konumunu belirler.",
-   "Kamera görüntülerini derin öğrenme algoritmasıyla işleyerek çevreye ilişkin derinlik bilgisi üretir. ve bu bilgiden harita oluşturur.",
+   "Kamera görüntülerini derin öğrenme algoritmasıyla işleyerek çevreye ilişkin derinlik bilgisi üretir ve bu bilgiden harita oluşturur.",
    "Lazer ışını göndererek geri dönen ışığın süresini ölçmek suretiyle çevrenin üç boyutlu haritasını çıkarır.",
    "Radar dalgaları yayarak nesnelerin elektromanyetik geri yansımasını ölçer."
   ],
@@ -4438,7 +4438,7 @@
   "soru": "Nesnelerin İnterneti (IoT) teknolojisiyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
   "secenekler": [
    "IoT cihazları yalnızca Wi-Fi protokolüyle birbirine bağlanabilir.",
-   "IoT teknolojisinin yalnızca tüketici elektroniği sektöründe kullanılabildiğini ifade eder. ve endüstriyel alanlarda kullanılamaz.",
+   "IoT teknolojisinin yalnızca tüketici elektroniği sektöründe kullanılabildiğini, endüstriyel alanlarda ise kullanılamadığını ifade eder.",
    "Fiziksel nesnelerin sensörler ve ağ bağlantısı aracılığıyla veri toplayıp paylaşmasını ifade eder.",
    "IoT'de uçtan uca şifreleme teknik olarak mümkün değildir.",
    "IoT sistemleri büyük veri analitiğiyle birlikte çalışamaz."
@@ -4473,7 +4473,7 @@
    "Bu teknolojiyi geliştiren bilim insanları Nobel Fizik Ödülü'nü almıştır.",
    "CRISPR-Cas9 yalnızca bitki genomlarını düzenlemek için kullanılabilir.",
    "CRISPR-Cas9, RNA değil yalnızca protein dizilerini hedef alır.",
-   "CRISPR-Cas9 kullanılarak yapılan gen düzenlemeleri hiçbir koşulda kalıtsal özellik taşımaz. ve sonraki nesillere hiçbir biçimde aktarılmaz."
+   "CRISPR-Cas9 kullanılarak yapılan gen düzenlemeleri hiçbir koşulda kalıtsal özellik taşımaz ve sonraki nesillere hiçbir biçimde aktarılmaz."
   ],
   "dogru": 0,
   "aciklama": "CRISPR-Cas9, belirli bir kılavuz RNA (guide RNA) yardımıyla DNA'nın istenilen bölgesini bulan ve Cas9 proteini sayesinde bu bölgeyi kesen bir gen düzenleme sistemidir; 'moleküler makas' olarak da anılır. Hem bitki hem hayvan hem de insan hücrelerinde kullanılabilmektedir. Bu teknolojiyi geliştiren Jennifer Doudna ve Emmanuelle Charpentier, 2020 yılında Nobel Kimya Ödülü'ne layık görülmüştür (Fizik değil). Üreme hücrelerinde yapılan düzenlemeler kalıtsal özellik taşıyabilmektedir.",
@@ -4568,7 +4568,7 @@
    "Türkiye, Ay'ın yüzeyine sert iniş (hard landing) yapacak yerli bir uzay aracı geliştirmeyi hedeflemiştir.",
    "Türk astronotlar bu misyon için NASA tarafından eğitilmiştir.",
    "Misyon, Türkiye ile Rusya'nın ortak uzay programının bir parçasıdır.",
-   "Misyon kapsamında Ay'ın yörüngesine kalıcı bir uzay istasyonu inşa edilmesi hedeflenmiştir. ve buradan düzenli olarak yüzey görevleri yürütülmesi",
+   "Misyon kapsamında Ay'ın yörüngesine kalıcı bir uzay istasyonu inşa edilmesi ve buradan düzenli olarak yüzey görevleri yürütülmesi hedeflenmiştir.",
    "Türkiye bu misyonla Ay'a insanlı araç göndermeyi planlamıştır."
   ],
   "dogru": 0,

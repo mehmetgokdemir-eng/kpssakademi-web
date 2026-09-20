@@ -885,7 +885,7 @@
   "konuId": "anayasa_hukuku",
   "soru": "Temel hak ve özgürlüklerin sınırlandırılmasına ilişkin Anayasa'nın 13. maddesi çerçevesinde aşağıdaki ifadelerden hangisi yanlıştır?",
   "secenekler": [
-   "Temel hak ve özgürlüklere getirilen sınırlamalar demokratik toplum düzeninin gereklerine aykırı olamaz. ve ölçüsüz olamaz.",
+   "Temel hak ve özgürlüklere getirilen sınırlamalar demokratik toplum düzeninin gereklerine aykırı ve ölçüsüz olamaz.",
    "Sınırlamalar Anayasa'nın sözüne ve ruhuna uygun olmalıdır.",
    "Temel hak ve özgürlükler, kamu yararı gerekçesiyle Cumhurbaşkanlığı kararnamesiyle de sınırlandırılabilir.",
    "Sınırlamalar ölçülülük ilkesine uygun olmak zorundadır.",
@@ -1271,7 +1271,7 @@
   "secenekler": [
    "Özel hayatın gizliliği mutlak nitelikte bir hak olmayıp kanunla sınırlandırılabilir.",
    "Sınırlama, ölçülülük ilkesine uygun olmalıdır.",
-   "Bu hakka getirilen sınırlamalar hiçbir biçimde demokratik toplum düzeninin gereklerine aykırı olamaz. ve ölçüsüz sayılamaz.",
+   "Bu hakka getirilen sınırlamalar hiçbir biçimde demokratik toplum düzeninin gereklerine aykırı olamaz ve ölçüsüz sayılamaz.",
    "Hakka yapılan müdahale, hakkın özüne dokunamaz.",
    "Millî güvenlik ve kamu düzeni gerekçesiyle bu hak, kanun aranmaksızın yürütme kararıyla sınırlandırılabilir."
   ],
@@ -1303,7 +1303,7 @@
   "secenekler": [
    "Meclis araştırması yalnızca muhalefet partileri tarafından açılabilirken; meclis soruşturması iktidar partisinin talebiyle başlatılır.",
    "Meclis soruşturması Cumhurbaşkanı hakkında açılabilir ve Yüce Divan'a sevk kararı basit çoğunlukla alınır.",
-   "Meclis araştırması Cumhurbaşkanlığı makamını da kapsayan çok geniş bir denetime imkân tanırken; meclis soruşturması yalnızca bakanlara yönelik olarak işletilebilen dar kapsamlı bir yoldur. ve sınırlıdır.",
+   "Meclis araştırması Cumhurbaşkanlığı makamını da kapsayan çok geniş bir denetime imkân tanırken; meclis soruşturması yalnızca bakanlara yönelik olarak işletilebilen, dar kapsamlı ve sınırlı bir yoldur.",
    "Her iki mekanizma da Anayasa Mahkemesi'nin denetimine tabi tutulabilir.",
    "Meclis soruşturması Cumhurbaşkanı ve bakanlar hakkında cezai sorumluluk doğurabilecek nitelikte; meclis araştırması ise belirli bir konuyu incelemek amacıyla açılan bir denetim mekanizmasıdır."
   ],
@@ -1625,7 +1625,7 @@
    "1982 Anayasası'nda pozitif statü hakları negatif statü haklarına kıyasla daha güçlü bir anayasal güvenceye kavuşturulmuştur.",
    "Pozitif statü haklarının hayata geçirilmesi için devletin aktif edim yükümlülüğü doğarken negatif statü hakları devletin müdahalesine katlanma yükümlülüğünü ifade eder.",
    "Negatif statü hakları kanunla kısıtlanamaz; yalnızca olağanüstü hal kararnameleriyle sınırlandırılabilir.",
-   "Negatif statü hakları yalnızca devlete karşı ileri sürülebilirken pozitif statü hakları özel kişilere karşı da doğrudan ve aracısız biçimde kullanılabilir. ve yargı yoluyla talep edilebilir."
+   "Negatif statü hakları yalnızca devlete karşı ileri sürülebilirken pozitif statü hakları özel kişilere karşı da doğrudan, aracısız biçimde kullanılabilir ve yargı yoluyla talep edilebilir."
   ],
   "dogru": 2,
   "aciklama": "Temel haklar teorisinde negatif statü hakları (özgürlük hakları), devletin bireyin özgürlük alanına müdahale etmemesini (müdahaleden kaçınma) gerektirir. Pozitif statü hakları (sosyal ve ekonomik haklar) ise devletten aktif bir edim, bir hizmet veya kaynak sağlanmasını talep etme hakkı verir. B şıkkı bu ayrımı doğru biçimde özetlemektedir. A şıkkı: Negatif statü haklarının yatay etkisi (özel kişilere karşı) tartışmalıdır ancak doğrudan uygulanabilirlik kural değildir — yanıltıcı ve yanlıştır. C, D ve E şıkları da yanlış önermeler içermektedir. Doğru yanıt B'dir.",
@@ -1864,7 +1864,7 @@
    "Bu hak yalnızca Türk vatandaşlarına tanınmıştır.",
    "Dilekçeler yalnızca TBMM'ye verilebilir.",
    "Dilekçe hakkı Anayasa'da düzenlenmemiştir.",
-   "Dilekçe hakkı yalnızca bireysel olarak kullanılabilir; topluca kullanılamaz. ve topluca kullanılamaz.",
+   "Dilekçe hakkı yalnızca bireysel olarak kullanılabilir; hiçbir biçimde topluca kullanılamaz.",
    "Türkiye'de ikamet eden yabancılar da karşılıklılık şartıyla bu haktan yararlanabilir."
   ],
   "dogru": 4,
@@ -2310,7 +2310,7 @@
   "soru": "Anayasa'ya göre toplantı ve gösteri yürüyüşü hakkı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
   "secenekler": [
    "Yabancılar da bu haktan Türk vatandaşlarıyla eşit biçimde yararlanır.",
-   "Toplantı ve gösteri yürüyüşleri için yetkili makamdan önceden izin alınması zorunludur. ve valilikten onay alınması gerekir.",
+   "Toplantı ve gösteri yürüyüşleri için yetkili makamdan önceden izin ve valilikten onay alınması zorunludur.",
    "Gösteri yürüyüşleri yalnızca kapalı alanlarda yapılabilir.",
    "Bu hak hiçbir şekilde kısıtlanamaz.",
    "Silahsız ve saldırısız toplantı ve gösteri yürüyüşü düzenleme hakkı Anayasa'da güvence altındadır."
@@ -2374,7 +2374,7 @@
   "soru": "Anayasa'ya göre temel hak ve özgürlüklerin kullanımı olağanüstü hallerde nasıl etkilenebilir?",
   "secenekler": [
    "Olağanüstü hallerde yalnızca ekonomik haklar askıya alınabilir.",
-   "Olağanüstü hâllerde Cumhurbaşkanı, kanuni bir dayanak aranmaksızın bütün hakları doğrudan kısıtlayabilir. ve bu kısıtlamalar süresiz olarak uygulanabilir.",
+   "Olağanüstü hâllerde Cumhurbaşkanı, kanuni bir dayanak aranmaksızın bütün hakları doğrudan kısıtlayabilir ve bu kısıtlamalar süresiz olarak uygulanabilir.",
    "Olağanüstü hallerde Anayasa'nın 15. maddesi uyarınca temel hak ve özgürlükler durdurulabilir; ancak çekirdek haklara dokunulamaz.",
    "Olağanüstü hâllerde hiçbir hak kısıtlanamaz; Anayasa aynen uygulanmaya devam eder.",
    "Olağanüstü hallerde temel haklar tamamen ortadan kaldırılabilir."
@@ -4216,7 +4216,7 @@
    "Meclis soruşturması sonuçlarının uygulanması Danıştay'ın onayına bağlıdır.",
    "Her iki yol da yalnızca siyasi parti gruplarına tanınmıştır.",
    "Meclis araştırması belirli bir konuyu incelemek amacıyla açılırken Meclis soruşturması Cumhurbaşkanı yardımcıları ve bakanlar hakkında cezai soruşturma başlatılmasını sağlayabilir.",
-   "Meclis soruşturması belirli bir konuyu incelemek amacıyla açılırken Meclis araştırması bakanlar hakkında cezai soruşturma başlatılmasını sağlayabilir ve yargılamaya yol açabilir. ve dokunulmazlık kaldırılır.",
+   "Meclis soruşturması belirli bir konuyu incelemek amacıyla açılırken Meclis araştırması bakanlar hakkında cezai soruşturma başlatılmasını sağlayabilir, yargılamaya yol açabilir ve dokunulmazlığın kaldırılmasıyla sonuçlanır.",
    "Meclis araştırması yalnızca iktidar partisi tarafından açılabilirken Meclis soruşturması muhalefet tarafından açılabilir."
   ],
   "dogru": 2,
@@ -7670,7 +7670,7 @@
   "soru": "Anayasa Mahkemesi'nin çalışma usulüne ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
   "secenekler": [
    "İptal davalarına Genel Kurul bakar.",
-   "Anayasa Mahkemesi, üye tam sayısının salt çoğunluğuyla toplanır. ve kararlarını salt çoğunlukla alır.",
+   "Anayasa Mahkemesi, üye tam sayısının salt çoğunluğuyla toplanır ve kararlarını salt çoğunlukla alır.",
    "Anayasa Mahkemesi, Genel Kurul ve bölümler hâlinde çalışır.",
    "Siyasi parti kapatma davalarında karar yeter sayısı üye tam sayısının salt çoğunluğudur.",
    "Bireysel başvurular öncelikle komisyonlarca incelenir."

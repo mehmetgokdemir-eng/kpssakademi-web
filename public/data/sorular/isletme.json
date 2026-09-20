@@ -632,7 +632,7 @@
    "Karar alma esnekliği artar.",
    "Davranışlar standart yöntemler ve yazılı kurallarla daha fazla belirlenir.",
    "Örgüt organik bir nitelik kazanır.",
-   "Çalışanların inisiyatif kullanma ve takdir yetkisi alanı genişler. ile takdir yetkisi belirgin biçimde genişler.",
+   "Çalışanların inisiyatif kullanma alanı ile takdir yetkisi belirgin biçimde genişler ve sorumlulukları artar.",
    "Üst yönetimin denetim ihtiyacı belirgin biçimde azalır."
   ],
   "dogru": 1,
@@ -2473,7 +2473,7 @@
    "Hangi malzemeden, ne zaman, ne kadar sipariş verilmelidir?",
    "Yeni fabrika nereye kurulmalıdır?",
    "Hangi pazarlama kanalı daha etkili sonuç verir?",
-   "Çalışanlara hangi dönemde ne kadar ücret ödenmelidir? ve hangi ölçüte göre?"
+   "Çalışanlara hangi dönemde, ne kadar ve hangi ölçüte göre ücret ödenmelidir?"
   ],
   "dogru": 1,
   "aciklama": "MRP (Material Requirements Planning – Malzeme İhtiyaç Planlaması), üretim planına dayanarak hangi hammadde ve bileşenin, ne zaman ve ne kadar sipariş edilmesi gerektiğini belirleyen bir sistemdir. Ana Üretim Programı (MPS) ve Ürün Ağacı (BOM) verilerini kullanır.",
@@ -5238,7 +5238,7 @@
   "soru": "Paranın zaman değeri kavramına göre bugün elde edilen 1.000 TL ile gelecekte elde edilecek 1.000 TL arasındaki ilişki aşağıdakilerden hangisiyle açıklanır?",
   "secenekler": [
    "İkisi eşit değerdedir çünkü nominal değerleri aynıdır.",
-   "Gelecekteki para daha değerlidir; çünkü enflasyon nedeniyle satın alma gücü zamanla artar. ve nominal değer korunur.",
+   "Gelecekteki para daha değerlidir; çünkü enflasyon nedeniyle satın alma gücü zamanla artar ve nominal değer korunur.",
    "Bugünkü para daha değerlidir çünkü yatırıma yönlendirilerek gelecekte daha büyük bir değere ulaşabilir.",
    "Gelecekteki para daha değerlidir çünkü belirsizlik primi içerir.",
    "Bugünkü para daha değersizdir; çünkü henüz yatırıma yönlendirilmemiştir."
@@ -5799,7 +5799,7 @@
   "secenekler": [
    "Birbirini dışlayan projeler arasında seçimde her zaman iç verim oranı (İVO) yöntemi NBD yönteminden üstündür.",
    "NBD yöntemi paranın zaman değerini dikkate alır.",
-   "İskonto oranı olarak genellikle işletmenin ağırlıklı ortalama sermaye maliyeti (AOSM) kullanılır. ve bu oran projeye göre düzeltilir.",
+   "İskonto oranı olarak genellikle işletmenin ağırlıklı ortalama sermaye maliyeti (AOSM) kullanılır ve bu oran projeye göre düzeltilir.",
    "NBD pozitif olan projeler işletmenin piyasa değerini artırır.",
    "NBD=0 olan bir projede yatırımın getirisi tam olarak sermaye maliyetine eşittir."
   ],
@@ -6024,7 +6024,7 @@
    "Öz sermayeyle finansman her zaman daha ucuzdur.",
    "Borçlanmanın faiz vergi kalkanı nedeniyle işletme değeri borç miktarıyla birlikte artar.",
    "Borçlanma işletme değerini azaltır.",
-   "İşletme değeri sermaye yapısından tamamen bağımsızdır ve borçlanmadan etkilenmez. ve borç oranından etkilenmez.",
+   "İşletme değeri sermaye yapısından tamamen bağımsızdır, borçlanmadan ve borç oranından etkilenmez.",
    "Optimal borç oranı sıfırdır."
   ],
   "dogru": 1,
@@ -6121,7 +6121,7 @@
    "Seçenek A, çünkü toplam faiz gideri daha düşük olup vergi sonrası net kâr daha yüksektir.",
    "Seçenek A, çünkü faiz oranı daha düşüktür.",
    "Her iki seçenek de aynı kârlılığı sağlar.",
-   "Seçenek B, çünkü faiz oranı daha yüksek olsa da toplamda daha az borç kullanılmaktadır. ve özkaynak payı korunmaktadır."
+   "Seçenek B, çünkü faiz oranı daha yüksek olsa da toplamda daha az borç kullanılmakta ve özkaynak payı korunmaktadır."
   ],
   "dogru": 1,
   "aciklama": "Seçenek A: Faiz = 500.000 × %12 = 60.000 TL. VÖK = 120.000 - 60.000 = 60.000 TL. Net Kâr = 60.000 × 0,80 = 48.000 TL. Seçenek B: Faiz = 300.000 × %14 = 42.000 TL. VÖK = 120.000 - 42.000 = 78.000 TL. Net Kâr = 78.000 × 0,80 = 62.400 TL. Seçenek B'de net kâr daha yüksektir; ancak hisse sayısı eşit kabul edilmediğinde değişebilir. Soru hisse sayısını eşit kabul ettiğinden Seçenek B üstündür... Bekle: 500.000 TL'nin tamamı A'da borçla, B'de 300.000 TL borçla finanse ediliyor. A'da faiz daha yüksek (60.000 > 42.000), dolayısıyla A'da net kâr daha düşük. Doğru cevap C değil, net kâr A'da düşük, B'de yüksek → seçenek C yanlış formüle edilmiş. Seçenek A faiz gideri 60.000 > B'nin 42.000 TL'si, yani A'da net kâr düşük, B'de yüksek. Doğru cevap: Seçenek B (index 1). Ancak seçeneklere göre cevap B'ye karşılık gelen index 1'dir.",
@@ -7317,7 +7317,7 @@
   "konuId": "i_nsan_kaynaklari",
   "soru": "McGregor'un X ve Y Teorisi'ne göre, Y teorisinin çalışanlara ilişkin temel varsayımı aşağıdakilerden hangisidir?",
   "secenekler": [
-   "Çalışanlar sorumluluktan kaçar ve sürekli yönlendirilmeyi tercih eder. ve denetim altında çalışır.",
+   "Çalışanlar sorumluluktan kaçar, sürekli yönlendirilmeyi tercih eder ve denetim altında çalışır.",
    "Çalışanlar değişime direnir ve yenilikten kaçınır.",
    "Çalışanlar yalnızca ekonomik ödüllerle motive olur.",
    "Çalışanlar işi doğal bulur, sorumluluk üstlenir ve yaratıcı potansiyele sahiptir.",

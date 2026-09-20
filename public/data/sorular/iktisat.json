@@ -455,7 +455,7 @@
   "secenekler": [
    "Üreticiler piyasaya daha fazla mal arz etmeye başlar.",
    "Talep edilen miktar arz edilen miktardan fazla olur ve kıtlık oluşur.",
-   "Fiyatlar tümüyle serbest piyasa koşullarında belirlenir. ve dengeye ulaşır",
+   "Fiyatlar tümüyle serbest piyasa koşullarında belirlenir ve piyasa kendiliğinden dengeye ulaşır.",
    "Piyasa dengesi bozulmaz.",
    "Piyasada fazla arz oluşur."
   ],
@@ -741,7 +741,7 @@
   "konuId": "mikro_i_ktisat",
   "soru": "Tam rekabetçi bir piyasada faaliyet gösteren bir firma kısa dönemde aşağıdaki verilere sahiptir: Fiyat = 50 TL, Ortalama Değişken Maliyet = 45 TL, Ortalama Toplam Maliyet = 60 TL. Bu firma için en doğru karar aşağıdakilerden hangisidir?",
   "secenekler": [
-   "Üretime devam etmeli; çünkü hem sabit hem de değişken maliyetlerini eksiksiz karşılamaktadır. ve kâr etmektedir",
+   "Üretime devam etmeli; çünkü hem sabit hem de değişken maliyetlerini eksiksiz karşılamakta ve ayrıca kâr elde etmektedir.",
    "Üretime devam etmeli; değişken maliyetlerini karşılayıp sabit maliyetlerin bir kısmını da finanse edebilir.",
    "Hemen üretimi durdurmalı; toplam maliyetleri karşılayamıyor.",
    "Hemen üretimi durdurmalı; çünkü değişken maliyetlerini bile karşılayamamaktadır.",
@@ -776,7 +776,7 @@
    "İkinci piyasada; çünkü esneklik negatif olduğundan bu piyasada daha yüksek kâr sağlanır.",
    "Birinci piyasada; çünkü talebin esnekliği daha düşük (daha az esnek) olduğundan yüksek fiyatı tolere eder.",
    "İkinci piyasada; çünkü esneklik mutlak değer olarak daha yüksektir.",
-   "Birinci piyasada; çünkü esnekliğin negatif olmadığı piyasada yapılan fiyat artışı ek kâr getirir. ve payı artırır",
+   "Birinci piyasada; çünkü esnekliğin negatif olmadığı piyasada yapılan fiyat artışı ek kâr getirir ve firmanın payını artırır.",
    "Her iki piyasada aynı fiyatı uygulamalıdır; aksi hâlde kâr azalır."
   ],
   "dogru": 1,
@@ -917,7 +917,7 @@
   "konuId": "mikro_i_ktisat",
   "soru": "Tekelci rekabet piyasasında uzun dönemde denge ile tam rekabet piyasasında uzun dönemde denge karşılaştırıldığında tekelci rekabet piyasasına özgü olan durum hangisidir?",
   "secenekler": [
-   "Firmaların piyasaya serbest giriş ve çıkışı söz konusudur. ve engel yoktur",
+   "Firmaların piyasaya serbest giriş ve çıkışı söz konusudur; herhangi bir engel bulunmaz.",
    "Ekonomik kâr sıfırdır.",
    "Fiyat, uzun dönem ortalama maliyete tam olarak eşittir.",
    "Fiyat marjinal maliyetin üzerindedir ve kapasite fazlası oluşur.",
@@ -1225,7 +1225,7 @@
    "Fiyat AVC'nin altında olduğundan üretimi durdurmak, üretime devam etmekten daha az kayıpla sonuçlanır.",
    "Üretimi derhal durdurmalı çünkü tüm maliyetlerini karşılayamamaktadır.",
    "Üretime devam etmeli çünkü sabit maliyetler zaten batık maliyettir.",
-   "Firma, fiyat AVC minimum düzeyine çıkana kadar üretim miktarını artırmayı sürdürmelidir. ve zararını azaltmalıdır"
+   "Firma, fiyat AVC minimum düzeyine çıkana kadar üretim miktarını artırmayı sürdürmeli ve böylece zararını azaltmalıdır."
   ],
   "dogru": 1,
   "aciklama": "Kısa dönemde firmanın üretim kararı için kritik eşik, AVC minimumudur. Eğer piyasa fiyatı AVC'nin minimumunun altına düşerse, firma üretime devam ettiğinde değişken maliyetlerini dahi karşılayamamaktadır. Bu durumda üretime devam etmek, sabit maliyetlerin yanı sıra karşılanamayan değişken maliyet kadar ek kayba neden olur. Üretimi durdurduğunda ise firma yalnızca sabit maliyetler kadar zarar eder. Bu nedenle P < AVC(min) koşulunda üretimi durdurmak rasyoneldir. A şıkkı yanıltıcıdır: sabit maliyetlerin batık maliyet olması doğrudur, ancak bu durum AVC bile karşılanamadığında üretime devam etmeyi haklı kılmaz.",
@@ -1337,7 +1337,7 @@
    "Dışsallığın boyutu küçük ve etkilenen taraf sayısı çok olmalıdır.",
    "Mülkiyet hakları net biçimde tanımlanmış ve işlem maliyetleri ihmal edilebilir düzeyde olmalıdır.",
    "Devletin vergi ya da sübvansiyon yoluyla piyasaya müdahale etmesi zorunludur.",
-   "Ortaya çıkan dışsallık pozitif olmalıdır; negatif dışsallıklarda Coase müzakeresi işlememektedir. ve sonuçsuz kalmaktadır"
+   "Ortaya çıkan dışsallık pozitif olmalıdır; negatif dışsallıklarda Coase müzakeresi işlememekte ve sonuçsuz kalmaktadır."
   ],
   "dogru": 2,
   "aciklama": "Coase Teoremi'ne göre, mülkiyet hakları açıkça tanımlanmış ve işlem maliyetleri sıfır (ya da ihmal edilebilir) olduğunda, taraflar müzakere yoluyla dışsallık sorununu etkin biçimde çözebilir ve devlet müdahalesi gerekmez. Teoreme göre önemli olan, mülkiyet hakkının kime verildiği değil, hakkın net olarak tanımlanmış olmasıdır; çünkü Pareto etkin sonuç her durumda müzakere ile sağlanır. A şıkkı yanlıştır çünkü Coase'a göre devlet müdahalesi şart değildir. C ve D'de sayılan koşullar Coase'un temel koşulları değildir. E şıkkı tamamen yanlıştır; teorem hem pozitif hem negatif dışsallıklar için geçerlidir.",
@@ -1382,7 +1382,7 @@
   "soru": "Bir firmada ahlaki tehlike (moral hazard) sorunuyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
   "secenekler": [
    "Ahlaki tehlike, sözleşme sonrası ortaya çıkan bilgi asimetrisinden kaynaklanır ve asil-vekil sorunuyla ilgilidir.",
-   "Sigorta piyasalarında ahlaki tehlike, sigortalıların riski azaltma yönündeki teşvikinin zayıflamasına yol açmaktadır. ve maliyeti artırmaktadır",
+   "Sigorta piyasalarında ahlaki tehlike, sigortalıların riski azaltma yönündeki teşvikinin zayıflamasına yol açmakta ve sistemin maliyetini artırmaktadır.",
    "Ters seçim (adverse selection) ile ahlaki tehlike aynı kavramdır; her ikisi de sözleşme öncesi bilgi asimetrisinden kaynaklanır.",
    "İzleme ve denetim mekanizmaları, ahlaki tehlikeyi azaltmanın yollarından biridir.",
    "Performansa dayalı ücret sistemleri ahlaki tehlikeyi azaltabilir ancak tamamen ortadan kaldıramaz."
@@ -1848,7 +1848,7 @@
    "Samuelson koşuluna göre kamusal mallar için marjinal maliyet sıfır olmalıdır.",
    "Kamusal malın optimal miktarında, bireylerin marjinal ikame oranlarının toplamı marjinal dönüşüm oranına eşit olmalıdır.",
    "Kamusal malların bölünemez nitelikte olması, bireysel talep eğrilerinin yatay biçimde toplanmasını zorunlu kılar.",
-   "Kamusal malın optimal miktarında, her bir bireyin marjinal faydasının marjinal maliyete eşit olması gerekmektedir. ve sağlanmalıdır",
+   "Kamusal malın optimal miktarında, her bir bireyin marjinal faydasının marjinal maliyete eşit olması gerekmekte ve bu koşul sağlanmalıdır.",
    "Piyasa mekanizması, bedavacılık problemi olmadığı sürece kamusal malları etkin sunar."
   ],
   "dogru": 1,
@@ -3256,7 +3256,7 @@
    "Altın kural düzeyinde sermayenin marjinal ürünü tasarruf oranına eşit olur.",
    "Tasarruf oranı sıfır olduğunda kişi başına tüketim maksimum olur.",
    "Altın kural düzeyinde ekonomi her zaman dengededir ve herhangi bir politika müdahalesine gerek duyulmaz.",
-   "Kişi başına yatırım miktarı kişi başına tasarruf miktarından büyük olduğunda altın kural koşulu sağlanmış olur. ve süreklilik kazanır",
+   "Kişi başına yatırım miktarı kişi başına tasarruf miktarından büyük olduğunda altın kural koşulu sağlanmış olur ve süreklilik kazanır.",
    "Kişi başına tüketimi maksimize eden sermaye yoğunluğu düzeyinde sermayenin marjinal ürünü nüfus büyüme oranına eşittir."
   ],
   "dogru": 4,
@@ -3561,7 +3561,7 @@
    "Para arzı otomatik olarak düşer ve LM eğrisi sola doğru kayar.",
    "İhracat düşer çünkü döviz kuru değer kazanır.",
    "Kamu harcaması artışı faiz oranlarını yükselterek özel yatırımları kısmen azaltır.",
-   "Merkez bankası zorunlu karşılık oranlarını belirgin biçimde artırır. ve krediyi daraltır"
+   "Merkez bankası zorunlu karşılık oranlarını belirgin biçimde artırır ve kredi hacmini daraltır."
   ],
   "dogru": 3,
   "aciklama": "Genişleyici maliye politikasında kamu harcamaları artar ve IS eğrisi sağa kayar. Bu durum para talebini artırarak faiz oranlarını yükseltir. Yükselen faiz oranları özel yatırım talebini baskılar; buna 'dışlama etkisi' (crowding out) denir. LM eğrisi sabit kalır, dolayısıyla milli gelir artışı maliye politikasının beklendiğinden daha az etkili olmasına yol açar.",
@@ -3640,7 +3640,7 @@
    "RBC modelleri para politikasını birincil politika aracı olarak önerirken Yeni Keynesyen modeller maliye politikasını ön plana çıkarmaktadır.",
    "Yeni Keynesyen modeller genel denge analizini reddederek kısmi denge yaklaşımını benimser.",
    "RBC modelleri rasional beklentiler kullanırken Yeni Keynesyen modeller uyarlamalı beklentiler kullanır.",
-   "RBC modelleri nominal katılıkları (fiyat ve ücret yapışkanlığı) iş çevriminin birincil açıklayıcısı olarak görürken Yeni Keynesyen modeller bu görüşü tümüyle reddetmektedir. ve dışlamaktadır ve kabul etmemektedir",
+   "RBC modelleri nominal katılıkları (fiyat ve ücret yapışkanlığı) iş çevriminin birincil açıklayıcısı olarak görürken Yeni Keynesyen modeller bu görüşü tümüyle reddetmekte, dışlamakta ve hiçbir biçimde kabul etmemektedir.",
    "RBC modelleri iş çevrimlerini teknoloji şoklarına verilen optimal tepkiler olarak açıklarken Yeni Keynesyan modeller nominal katılıklar nedeniyle ortaya çıkan piyasa aksaklıklarını vurgular."
   ],
   "dogru": 4,
@@ -3673,7 +3673,7 @@
    "Ülkeler arasındaki büyüme hızı farkı kalıcı olmayıp zaman içinde yavaş yavaş kapanır ve iki ülke aynı büyüme hızına ulaşır.",
    "Tasarruf oranı yükseldikçe uzun dönem büyüme hızı da orantılı biçimde yükselir.",
    "Her iki ülke de durağan hale ulaştıktan sonra nüfus artış hızı artı teknoloji büyüme hızı kadar büyürler; kişi başına büyüme hızı teknoloji büyüme hızına eşitlenir.",
-   "Daha düşük tasarruf oranına sahip olan ülke, sermayenin marjinal verimliliği daha yüksek olduğundan uzun dönemde çok daha hızlı büyümeye devam eder. ve öne geçer ve önde kalır"
+   "Daha düşük tasarruf oranına sahip olan ülke, sermayenin marjinal verimliliği daha yüksek olduğundan uzun dönemde çok daha hızlı büyümeye devam eder, diğerinin önüne geçer ve önde kalır."
   ],
   "dogru": 3,
   "aciklama": "Solow modelinin temel sonucu, uzun dönem kişi başına büyüme hızının yalnızca dışsal teknoloji büyüme hızına (g) eşit olmasıdır. Tasarruf oranı kişi başına çıktı ve sermayenin düzeyini (durağan hal değerini) etkiler fakat uzun dönem büyüme hızını değiştirmez. Durağan hale ulaşan her iki ülkenin kişi başına büyüme hızı da 'g' olur. B şıkkı bunu doğru ifade etmektedir. E şıkkındaki yakınsama ifadesi kısmen doğru görünse de aynı parametrelere sahip iki ülke aynı durağan hale ulaşacaksa E doğru olurdu; ancak burada farklı tasarruf oranları nedeniyle ülkeler farklı steady-state düzeylerine sahiptir ve uzun dönemde aynı büyüme hızına ulaşırlar ama aynı gelir düzeyine ulaşmazlar. Bununla birlikte B, uzun dönem büyüme hızını en kesin ve doğru biçimde açıklamaktadır.",
@@ -3686,7 +3686,7 @@
   "soru": "Merkez bankasının enflasyonu düşürmek amacıyla enflasyon beklentilerini çıpalaması bağlamında 'güvenilirlik' kavramı ile 'zaman tutarsızlığı problemi' (time inconsistency) arasındaki ilişkiyi en doğru biçimde açıklayan ifade hangisidir?",
   "secenekler": [
    "Zaman tutarsızlığı problemi, merkez bankasının optimal politika taahhüdünden sonradan sapma güdüsü taşımasından kaynaklanır; güvenilirlik eksikliği beklentileri bozarak enflasyon eğilimini artırır.",
-   "Merkez bankası her zaman sabit bir para büyüme kuralı uygularsa zaman tutarsızlığı problemi tümüyle ortadan kalkar çünkü kural, takdire bırakılan politikanın önüne geçer. ve belirsizlik kalkar ve belirsizliği yok eder",
+   "Merkez bankası her zaman sabit bir para büyüme kuralı uygularsa zaman tutarsızlığı problemi tümüyle ortadan kalkar; çünkü kural, takdire bırakılan politikanın önüne geçmekte ve belirsizliği bütünüyle yok etmektedir.",
    "Merkez bankası bağımsızlığı zaman tutarsızlığı problemini tamamen çözer çünkü bağımsız merkez bankası her zaman enflasyonu tercih etmez.",
    "Zaman tutarsızlığı yalnızca kısa dönemli bir sorun olup ekonomi uzun dönemli dengeye ulaştığında kendiliğinden ortadan kalkar.",
    "Enflasyon hedeflemesi rejimi benimsendikten sonra merkez bankasının taahhüdünden sapması ekonomik açıdan faydalı olabilir çünkü bu durum politikaya esneklik sağlar."
@@ -3752,7 +3752,7 @@
    "LM eğrisi yatay (yatay kesim), para arzı artışı LM'yi aşağı kaydırır ancak faiz zaten alt sınırda olduğundan LM kayamaz ve milli gelir değişmez.",
    "IS eğrisi diktir, para arzı artışı LM'yi sağa kaydırır ve milli gelir önemli ölçüde artar.",
    "IS ve LM eğrileri aynı eğime sahip olduğundan denge noktası belirsizleşmekte ve uygulanan politikanın etkisi ölçülememektedir.",
-   "LM eğrisi diktir; bu durumda maliye politikası tam dışlama yaratırken para politikası LM'yi sağa kaydırarak geliri artırmaktadır. ve çarpanı güçlendirir",
+   "LM eğrisi diktir; bu durumda maliye politikası tam dışlama yaratırken para politikası LM'yi sağa kaydırarak geliri artırmakta ve çarpanı güçlendirmektedir.",
    "IS eğrisi yatay, LM eğrisi diktir; para arzı artışı IS'i sağa kaydırır fakat faiz değişmez."
   ],
   "dogru": 0,
@@ -3768,7 +3768,7 @@
    "Para kurulu sistemi (currency board) bu hedefe ulaşmanın en etkin yöntemidir çünkü hem sabit kuru hem de para politikası esnekliğini aynı anda garanti eder.",
    "Sabit döviz kuru benimsemek zorundadır; sabit kur ihracatçılara kur riski ortadan kalkacağından avantaj sağlar.",
    "Esnek (serbest dalgalı) döviz kurunu benimsemek zorundadır; bu durumda döviz kuru dalgalanmaları dış ticarette belirsizlik yaratabilir ve bu belirsizlik ticaret hacmini olumsuz etkileyebilir.",
-   "Tam sermaye hareketliliği ile para politikası bağımsızlığı hiçbir kur rejiminde birlikte sağlanamamaktadır, bu nedenle ülke mutlaka bunlardan birinden vazgeçmek zorunda kalır. ve seçim yapmalıdır",
+   "Tam sermaye hareketliliği ile para politikası bağımsızlığı hiçbir kur rejiminde birlikte sağlanamamaktadır; bu nedenle ülke mutlaka bunlardan birinden vazgeçmek ve bir seçim yapmak zorunda kalır.",
    "Sabit kur + kısmi sermaye kontrolü uygulamalıdır; bu tercih hem para politikası bağımsızlığını hem de tam sermaye hareketliliğini korur."
   ],
   "dogru": 2,
@@ -3815,7 +3815,7 @@
   "secenekler": [
    "Bütçe açığı cari açıkla her zaman aynı yönde hareket eder çünkü kamu harcamaları enflasyona yol açmakta ve reel döviz kurunun değerlenmesiyle rekabet gücü kalıcı olarak azalmaktadır.",
    "Bütçe açığı artışı özel tasarrufları düşürdüğünde cari açık artar; bu ilişkiye itiraz olarak özel sektörün Ricardian davranış sergilemesi gösterilebilir: bireyler ilerideki vergi artışını öngörerek tasarruflarını artırırsa net tasarruf değişmez ve cari denge etkilenmez.",
-   "Bütçe açığındaki artış daima iç faizleri yükseltir, sermaye girişi yoluyla döviz kuru değer kazanır ve ihracat azalırken ithalat artar; bu nedenle ikiz açıklar hipotezi Mundell-Fleming mekanizmasıyla her koşulda geçerli sayılmaktadır ve istisnası yoktur. ve istisnası bulunmamaktadır",
+   "Bütçe açığındaki artış daima iç faizleri yükseltir, sermaye girişi yoluyla döviz kuru değer kazanır ve ihracat azalırken ithalat artar; bu nedenle ikiz açıklar hipotezi Mundell-Fleming mekanizmasıyla her koşulda geçerli sayılmakta olup herhangi bir istisnası bulunmamaktadır.",
    "İkiz açıklar hipotezi her zaman geçerlidir; bütçe açığı mutlaka cari açığa yol açar ve bu ilişki ampirik olarak evrensel biçimde kanıtlanmıştır.",
    "İkiz açıklar hipotezi yalnızca sabit kur rejimlerinde geçerlidir; esnek kur altında döviz kuru otomatik olarak dengeyi sağlar ve cari açık oluşmaz."
   ],
@@ -3893,7 +3893,7 @@
   "konuId": "makro_i_ktisat",
   "soru": "Friedman'ın kalıcı gelir hipotezinde, geçici bir vergi indirimi politikasının tüketim üzerindeki etkisinin keynesyen çarpan tahminlerine kıyasla neden çok daha düşük kalacağını açıklayan temel mekanizma hangisidir?",
   "secenekler": [
-   "Tüketiciler, elde ettikleri geçici gelir artışlarını tamamen tasarruf ederek servetlerini maksimize etmeye çalışır. ve harcama yapmaz",
+   "Tüketiciler, elde ettikleri geçici gelir artışlarını tamamen tasarruf ederek servetlerini maksimize etmeye çalışır ve harcama yapmaz.",
    "Tüketim fonksiyonu doğrusal olmadığından artan gelirde MPC azalır ve çarpan küçülür.",
    "Kalıcı gelirdeki değişme sıfır olduğundan tüketim tamamen değişmez.",
    "Geçici gelir artışı kalıcı geliri yalnızca marjinal biçimde etkiler; tüketim kalıcı gelire bağlı olduğundan değişimi minimal olur.",
@@ -3942,7 +3942,7 @@
   "soru": "Uzun dönem Phillips eğrisinin dikey olduğunu savunan Friedman-Phelps hipotezine göre, hükümetin sürekli olarak doğal işsizlik oranının altında işsizliği tutmaya çalışması durumunda uzun dönemde ortaya çıkacak en olası sonuç hangisidir?",
   "secenekler": [
    "İşsizlik doğal oranına döner, enflasyon orijinal düzeyinde kalır.",
-   "Enflasyon beklentileri çıpalanır ve Phillips eğrisi uzun dönemde de negatif eğimli kalmaya devam eder. ve sürer",
+   "Enflasyon beklentileri çıpalanır ve Phillips eğrisi uzun dönemde de negatif eğimli kalmaya devam eder, bu durum sürer.",
    "İşsizlik kalıcı olarak düşük, enflasyon sabit düzeyde tutulur.",
    "İşsizlik ile enflasyon birlikte artar; stagflasyon ortaya çıkar ve uygulanan politika etkisizleşir.",
    "İşsizlik doğal oranına döner, ancak her politika döngüsünde enflasyon daha yüksek bir düzeye ratchet eder."
@@ -3977,7 +3977,7 @@
    "Uzun vadede kamu borcu servet etkisi yaratır ve tüketim kalıcı biçimde yükselir.",
    "Toplam talep artar; hükümet harcamaları Keynesyen çarpan mekanizması yoluyla geliri büyütür.",
    "Tüketiciler gelecekteki yüksek vergileri bugünden tasarruf ederek karşılamaya çalışır; özel tüketim değişmez.",
-   "Dışsal bir şok olmadıkça borçlanma faiz oranını artırır ve özel sektör yatırımları tümüyle dışlanır. ve yatırım durur"
+   "Dışsal bir şok olmadıkça borçlanma faiz oranını artırır, özel sektör yatırımları tümüyle dışlanır ve yatırımlar durur."
   ],
   "dogru": 3,
   "aciklama": "Ricardian Denklik'e göre tüketiciler 'ileri görüşlü' (Ricardian) davranır. Bugünkü borçlanma ileride daha yüksek vergi anlamına geldiğinden tüketiciler şimdiki tasarruflarını artırır. Özel tüketimdeki düşüş kamu harcamasındaki artışı tam olarak dengeleyeceğinden toplam talep değişmez. Politikanın etkinliği için 'Ricardian olmayan' tüketicilerin (borç kısıtı altındakiler) varlığı kritiktir.",
@@ -3993,7 +3993,7 @@
    "Cari denge kısa dönemde bozulur, uzun dönemde ise J-eğrisi etkisiyle yeniden iyileşir.",
    "Cari denge bozulur; değer kaybı ihracat gelirlerini yeterince artırmazken ithalat faturasını yükseltir.",
    "Cari denge değişmez; esneklikler toplamı 1 olduğunda tam denge sağlanır.",
-   "Döviz kurundaki değer kaybı enflasyona yol açar ve reel kur değişmediğinden cari denge sabit kalır. ve korunur"
+   "Döviz kurundaki değer kaybı enflasyona yol açar; reel kur değişmediğinden cari denge sabit kalır ve korunur."
   ],
   "dogru": 2,
   "aciklama": "Marshall-Lerner koşulu |ε_x| + |ε_m| > 1 olduğunda devalüasyon cari açığı iyileştirir. Koşul sağlanmıyorsa (< 1), ihracat miktarı fiyat düşüşüne yeterince tepki vermez ve ihracat gelirleri azalabilir; ithalat da fiyat artışına rağmen yeterince azalmaz. Net sonuç cari dengenin bozulmasıdır. J-eğrisi etkisi ise esnekliklerin kısa dönemde düşük uzun dönemde yüksek olduğu durumu açıklar; bu ML koşulunun sağlandığı ancak gecikmeli çalıştığı senaryodur.",
@@ -5605,7 +5605,7 @@
   "konuId": "para_banka",
   "soru": "Friedman'ın kalıcı gelir hipotezi ile Modigliani'nin yaşam döngüsü hipotezi arasındaki temel teorik ayrım nedir ve bu iki hipotezin para politikasına ilişkin ortak çıkarsaması aşağıdakilerden hangisidir?",
   "secenekler": [
-   "Kalıcı gelir hipotezi bireysel optimizasyon davranışına, yaşam döngüsü hipotezi ise topluluğun ortalama davranış kalıbına dayanmaktadır; ortak çıkarsama: geçici nitelikli para politikası uygulamaları her koşulda etkili olmaktadır. ve bu sonuç her iki hipotez için de aynı biçimde ortaya çıkmaktadır",
+   "Kalıcı gelir hipotezi bireysel optimizasyon davranışına, yaşam döngüsü hipotezi ise topluluğun ortalama davranış kalıbına dayanmaktadır; ortak çıkarsama: geçici nitelikli para politikası uygulamaları her koşulda etkili olmakta ve bu sonuç her iki hipotez için de aynı biçimde ortaya çıkmaktadır.",
    "İki hipotez birbiriyle çelişir: kalıcı gelir hipotezi Keynesyen tüketim fonksiyonunu desteklerken yaşam döngüsü hipotezi bunu reddeder.",
    "Her iki hipotez de bireylerin geleceği tamamen öngöremeyeceğini varsayar; bu nedenle para politikasının reel etkisi tamamen kalıcıdır.",
    "Yaşam döngüsü hipotezi ihtiyat güdüsünü merkeze alırken kalıcı gelir hipotezi faiz oranı değişimlerini temel almaktadır; ortak çıkarsama: para politikası tüketim harcamaları üzerinde doğrudan ve kalıcı bir etkiye sahip değildir.",
@@ -5701,7 +5701,7 @@
   "konuId": "para_banka",
   "soru": "Minsky'nin 'finansal istikrarsızlık hipotezi'ne göre kapitalist ekonomilerde krizlerin kaynağı nedir ve bu hipotez hangi ana akım iktisat görüşüyle en belirgin biçimde çelişmektedir?",
   "secenekler": [
-   "Minsky, finansal krizlerin önceden öngörülebilir düzenli döngüler izlediğini savunmuş ve bu görüşüyle yalnızca Avusturya okulunun konjonktür yaklaşımıyla çelişmiştir; diğer okullarla uyum içindedir. ve bu yönüyle özgün sayılmaktadır",
+   "Minsky, finansal krizlerin önceden öngörülebilir düzenli döngüler izlediğini savunmuş ve bu görüşüyle yalnızca Avusturya okulunun konjonktür yaklaşımıyla çelişmiştir; diğer okullarla uyum içinde olması ise onu özgün kılmaktadır.",
    "Krizler borç/GSYH oranının belirli bir eşiği aşmasıyla tetiklenir; hipotez yalnızca Keynesyen görüşle çelişmektedir.",
    "Krizler dışsal şoklardan kaynaklanır; hipotez Yeni Keynesyen görüşle çelişmektedir.",
    "Krizler yalnızca merkez bankalarının para arzını aşırı ölçüde genişletmesinden kaynaklanmaktadır; bu nedenle hipotez, parasalcı görüşle tümüyle çelişmekte ve onu dışlamaktadır.",
@@ -6359,7 +6359,7 @@
   "secenekler": [
    "Reel döviz kuru kısa ve uzun dönemde sabit kalır.",
    "Döviz kuru her zaman temel denge değerinde bulunur.",
-   "Kısa dönemde döviz kuru yalnızca cari işlemler dengesi tarafından belirlenmekte ve ona bağlı kalmaktadır. ve ona bağımlıdır",
+   "Kısa dönemde döviz kuru yalnızca cari işlemler dengesi tarafından belirlenmekte, bütünüyle ona bağlı kalmakta ve başka değişkenlerden etkilenmemektedir.",
    "Uzun dönemde nominal döviz kuru, ülkeler arasındaki enflasyon farklılıklarını dengeleyecek biçimde değişir.",
    "Uzun dönemde nominal döviz kurları ülkeler arasındaki faiz oranı farklılıklarını tam olarak yansıtır."
   ],
@@ -6374,7 +6374,7 @@
   "soru": "Gelişmekte olan ülkelerin sanayi sektörlerini korumak amacıyla uyguladığı 'bebek endüstri' argümanına yönelik en güçlü karşı görüş aşağıdakilerden hangisidir?",
   "secenekler": [
    "Bebek endüstriler hiçbir zaman uluslararası düzeyde rekabetçi hâle gelememektedir.",
-   "Gelişmekte olan ülkelerin sanayi sektörü için herhangi bir korumaya gerek duyulmamaktadır. ve gerek görülmemektedir",
+   "Gelişmekte olan ülkelerin sanayi sektörü için herhangi bir korumaya gerek duyulmamakta, koruma önlemleri gereksiz görülmektedir.",
    "Tarife koruması ülkenin ihracat kapasitesini artırır.",
    "Dinamik ölçek ekonomileri gerçekte var olmaz.",
    "Sübvansiyon, koruma amacına tarife kadar etkili biçimde ulaşır ve ek tüketici maliyeti yaratmaz."
@@ -6600,7 +6600,7 @@
    "Serbest ticaret bölgesinde ortak para birimi kullanılırken, gümrük birliğinde kullanılmaz.",
    "Gümrük birliğinde üye ülkeler arasında ortak dış tarife uygulanırken, serbest ticaret bölgesinde her üye kendi dış tarifesini belirler.",
    "Gümrük birliği yalnızca mal ticaretini kapsarken; serbest ticaret bölgesi hem mal hem de hizmet ticaretini kapsamına almaktadır.",
-   "Serbest ticaret bölgesinde üye ülkeler arasındaki ticarette gümrük vergileri kaldırılırken, gümrük birliğinde bu vergiler korunur. ve korunmaya devam eder",
+   "Serbest ticaret bölgesinde üye ülkeler arasındaki ticarette gümrük vergileri kaldırılırken, gümrük birliğinde bu vergiler korunmaya devam etmektedir.",
    "Serbest ticaret bölgesinde faktörler serbestçe dolaşırken, gümrük birliğinde dolaşamaz."
   ],
   "dogru": 1,
@@ -6663,7 +6663,7 @@
   "secenekler": [
    "CIP, forward sözleşmelerle kur riskinin ortadan kaldırıldığı durumu; UIP, yatırımcıların kur değişimini tahmin ederek risk üstlendiği durumu ifade eder.",
    "UIP koşulu yalnızca gelişmiş ülkeler açısından geçerliyken, CIP koşulu yalnızca gelişmekte olan ülkeler açısından geçerlidir.",
-   "CIP ve UIP tümüyle aynı koşulları ifade etmektedir; aralarında teorik ya da uygulamaya dönük herhangi bir fark bulunmamaktadır. ve iki koşul birbirinin yerine kullanılabilmektedir",
+   "CIP ve UIP tümüyle aynı koşulları ifade etmektedir; aralarında teorik ya da uygulamaya dönük herhangi bir fark bulunmadığından iki koşul birbirinin yerine kullanılabilmektedir.",
    "CIP, yalnızca mal ticaretine; UIP yalnızca hizmet ticaretine uygulanır.",
    "CIP, kısa vadeli; UIP, uzun vadeli yatırımlar için geçerlidir."
   ],
@@ -6681,7 +6681,7 @@
    "MFN ilkesi, gelişmekte olan ülkelere her durumda daha düşük tarife uygulanmasını gerektirir.",
    "Ulusal muamele ilkesi, ithal edilen mallara iç piyasada yurt içi mallarla aynı vergi ve düzenlemelerin uygulanmasını gerektirir; MFN ise tüm üye ülkelere eşit muamele edilmesini zorunlu kılar.",
    "MFN ilkesi yalnızca hizmet ticaretine uygulanır; mal ticaretine uygulanmaz.",
-   "MFN ilkesi, bir ülkenin tüm WTO üyelerine en düşük tarife oranını uygulamasını zorunlu kılmamaktadır; tercihli tarifeler her koşulda ve sınırsız biçimde serbest bırakılmıştır. ve bu serbestlik korunmaktadır"
+   "MFN ilkesi, bir ülkenin tüm WTO üyelerine en düşük tarife oranını uygulamasını zorunlu kılmamaktadır; tercihli tarifeler her koşulda ve sınırsız biçimde serbest bırakılmış, bu serbestlik korunmuştur."
   ],
   "dogru": 2,
   "aciklama": "MFN (En Çok Kayrılan Ülke) ilkesi: Bir WTO üyesine tanınan herhangi bir ticari ayrıcalık, diğer tüm WTO üyelerine de otomatik olarak tanınmalıdır. Bu sayede ülkeler arasında ayrımcılık önlenir. İstisnalar: bölgesel ticaret anlaşmaları (FTA/CU) ve GSP kapsamında gelişmekte olan ülkelere verilen tercihler. Ulusal muamele ilkesi: İthal edilen bir mal yurt içine girdikten sonra (gümrük ödenmiş olarak) iç vergi ve düzenlemeler açısından yurt içinde üretilen benzer mallarla aynı muameleye tabi tutulmalıdır. Bu iki ilke GATT'ın temel sütunlarını oluşturur.",
@@ -6937,7 +6937,7 @@
    "Üretici rantındaki artış, tüketici rantındaki kayıptan büyük olduğu için net refah artışı sağlanır.",
    "Tarife geliri tüketiciden üreticiye bir transfer niteliği taşıdığından net refah değişmez.",
    "Tüketici rantındaki kayıp; üretici rantındaki artış ile hükümet tarifesinden elde ettiği gelirin toplamından büyük olduğundan net refah kaybı oluşur.",
-   "Hükümet geliri, üretici rantındaki artış ve tüketici rantındaki kayıp birlikte değerlendirildiğinde ortaya çıkan net etki daima sıfırdır. ve refah düzeyi değişmez"
+   "Hükümet geliri, üretici rantındaki artış ve tüketici rantındaki kayıp birlikte değerlendirildiğinde ortaya çıkan net etki daima sıfırdır ve toplam refah düzeyi değişmez."
   ],
   "dogru": 3,
   "aciklama": "Küçük ülke varsayımında dünya fiyatları değişmez; yani ticaret hadleri etkisi sıfırdır. Tarife uygulandığında tüketici rantındaki kayıp = A+B+C+D üçgenleri iken üretici rantındaki kazanç = A, hükümet geliri = C dikdörtgeni olur. B ve D üçgenleri ise kimsenin lehine olmayan 'ölü ağırlık kaybı'dır. Dolayısıyla tüketici rantı kaybı, üretici rantı artışı + hükümet gelirinin toplamından B+D kadar fazladır ve net refah kaybı kesinlikle oluşur. Ticaret hadleri etkisi sadece büyük ülkelere özgüdür.",
@@ -6965,7 +6965,7 @@
   "konuId": "uluslararasi_i_ktisat",
   "soru": "Rybczynski teoremi ile ilgili aşağıdaki ifadelerden hangisi doğru ve tam bir değerlendirme içermektedir?",
   "secenekler": [
-   "Rybczynski teoremi yalnızca küçük ülkeler açısından geçerli olup büyük ülkelerde mal fiyatları değişeceğinden teorem tümüyle işlevsiz kalmakta ve öngörü gücünü yitirmektedir. ve açıklayıcılığı kalmamaktadır",
+   "Rybczynski teoremi yalnızca küçük ülkeler açısından geçerli olup büyük ülkelerde mal fiyatları değişeceğinden teorem tümüyle işlevsiz kalmakta, öngörü gücünü ve açıklayıcılığını yitirmektedir.",
    "Faktör arzındaki artış, her iki sektörde de çıktıyı artırır; ancak yoğun kullanan sektörde artış daha büyüktür.",
    "Mal fiyatları sabit tutulduğunda, bir faktörün arzındaki artış o faktörü yoğun kullanan sektörün çıktısını orantısal artışın üzerinde artırır ve diğer sektörün çıktısını mutlak olarak azaltır.",
    "Bir faktörün arzı arttığında, o faktörü yoğun kullanan sektörün çıktısı artmakta; diğer sektörün çıktısı ise hiç değişmeyerek başlangıçtaki düzeyinde sabit kalmaktadır.",
@@ -7013,7 +7013,7 @@
   "konuId": "uluslararasi_i_ktisat",
   "soru": "Döviz kuru aşırı yükselme (overshooting) modeli (Dornbusch, 1976) bağlamında, bir ülkede parasal genişleme politikası uygulandığında kısa dönem ve uzun dönem döviz kuru dinamikleri için aşağıdaki ifadelerden hangisi doğrudur?",
   "secenekler": [
-   "Faiz oranı paritesi bozulduğu için aşırı yükselme ortaya çıkmaktadır; ancak bu durum spekülatörler tarafından anında yapılan arbitraj işlemleriyle tümüyle giderilmektedir ve kalıcı olmaz. ve etkisizdir",
+   "Faiz oranı paritesi bozulduğu için aşırı yükselme ortaya çıkmaktadır; ancak bu durum spekülatörler tarafından anında yapılan arbitraj işlemleriyle tümüyle giderilmekte, kalıcı olmamakta ve etkisiz kalmaktadır.",
    "Mal piyasaları hızlı, varlık piyasaları ise yavaş uyum sağladığından döviz kuru kısa dönemde uzun dönem denge değerinin altında kalmakta ve ancak zamanla bu düzeye yükselmektedir.",
    "Parasal genişleme, satın alma gücü paritesi gereği hem kısa hem uzun dönemde döviz kurunu eşit oranda yükseltir.",
    "Varlık piyasaları hızlı, mal piyasaları yavaş uyum sağladığından döviz kuru kısa dönemde uzun dönem denge değerinin üzerine çıkar; ardından mal piyasası uyumu ile uzun dönem değerine geriler.",
@@ -7029,7 +7029,7 @@
   "konuId": "uluslararasi_i_ktisat",
   "soru": "Heckscher-Ohlin teorisinin ampirik sınamasına yönelik Leontief Paradoksu'nun en tutarlı teorik açıklaması için aşağıdaki ifadelerden hangisi doğrudur?",
   "secenekler": [
-   "Leontief, girdi-çıktı analizinde üretim fonksiyonlarını hatalı biçimde modellediğinden paradoks tümüyle metodolojik bir hatadan kaynaklanmakta ve teorik bir anlam taşımamaktadır. ve yanıltıcıdır",
+   "Leontief, girdi-çıktı analizinde üretim fonksiyonlarını hatalı biçimde modellediğinden paradoks tümüyle metodolojik bir hatadan kaynaklanmakta, teorik bir anlam taşımamakta ve yanıltıcı olmaktadır.",
    "ABD'nin ithal mallarının emek-yoğun olması, HO teorisinin tamamen geçersiz olduğunu kanıtlar.",
    "Leontief Paradoksu, ABD'nin yüksek nitelikli emek (insan sermayesi) bakımından zengin olduğunu; dolayısıyla ihraç mallarının fiziksel sermaye değil, beşeri sermaye yoğun olduğunu gösterir.",
    "Paradoks yalnızca 1947 yılı ABD verilerine özgüdür; sonraki dönem verileriyle HO teorisi hiçbir zaman sorgulanmamıştır.",
@@ -7048,7 +7048,7 @@
    "Gümrük birliği, ortak dış tarife belirlediğinden üye ülkeler arasında tam faktör fiyatları eşitlenmesini sağlar.",
    "İkinci en iyi teoremine göre birden fazla piyasa bozukluğu varsa bir bozukluğu gidermek kesinlikle refahı artırır.",
    "Gümrük birliği tercihli bir düzenleme olduğundan ticaret saptırma etkisi oluştuğu durumlarda üçüncü ülkeler aleyhine refah kaybı yaratabilir; hatta birlik üyeleri için bile net refah kaybı mümkündür.",
-   "Ticaret yaratma etkisi ile ticaret saptırma etkisi birbirini her koşulda tam olarak dengelemektedir; dolayısıyla gümrük birliklerinin ortaya çıkardığı net refah etkisi her zaman sıfır olmaktadır. ve nötrdür",
+   "Ticaret yaratma etkisi ile ticaret saptırma etkisi birbirini her koşulda tam olarak dengelemektedir; dolayısıyla gümrük birliklerinin ortaya çıkardığı net refah etkisi her zaman sıfır olmakta ve sonuç nötr kalmaktadır.",
    "Gümrük birliği tüm ticaret engellerini ortadan kaldırdığından her koşulda net bir refah artışı sağlamakta ve ülkeleri serbest ticarete yaklaştıran olumlu bir adım olarak değerlendirilmektedir."
   ],
   "dogru": 2,
@@ -7111,7 +7111,7 @@
   "secenekler": [
    "Göreli PPP, uluslararası alanda ticarete konu olmayan malların (non-tradables) varlığında bile geçerliliğini korur; mutlak PPP ise geçerliliğini yitirir.",
    "Mutlak PPP, aynı mal sepetinin tüm ülkelerde aynı fiyata satılmasını gerektirir; Balassa-Samuelson etkisi nedeniyle zengin ülkelerde ticarete konu olmayan mallar göreli olarak pahalı olduğundan mutlak PPP sistematik olarak sapma gösterir.",
-   "Satın alma gücü paritesi teorisi, döviz kurlarının hem kısa hem de uzun dönemde her koşulda enflasyon farklarına eşit biçimde hareket ettiğini ampirik olarak kanıtlamış ve bu bulgu literatürde tartışmasız biçimde kabul görmüştür. ve doğrulanmıştır",
+   "Satın alma gücü paritesi teorisi, döviz kurlarının hem kısa hem de uzun dönemde her koşulda enflasyon farklarına eşit biçimde hareket ettiğini ampirik olarak kanıtlamış, bu bulgu literatürde tartışmasız biçimde kabul görmüş ve doğrulanmıştır.",
    "Göreli PPP ve mutlak PPP, başlangıç döviz kuru denge değeri bilinmeden uygulanamaz; bu nedenle ikisi de pratikte kullanışsızdır.",
    "Mutlak satın alma gücü paritesi, döviz kurlarının kısa dönemde enflasyon farklarına eşit oranda değiştiğini öngörmektedir; göreli satın alma gücü paritesi ise uzun dönemdeki fiyat düzeyi eşitliğini ifade etmektedir."
   ],
@@ -7128,7 +7128,7 @@
    "Gümrük birliği ve serbest ticaret alanı arasındaki tek fark, gümrük birliğinin ortak para birimine geçişi zorunlu kılmasıdır.",
    "Serbest ticaret alanı, gümrük birliğinin daha ileri bir ekonomik entegrasyon aşamasıdır; çünkü faktör hareketliliğini de kapsar.",
    "Gümrük birliğinde üyeler arasında tam faktör ve mal hareketliliği sağlanırken serbest ticaret alanında yalnızca hizmet ticareti serbestleştirilmekte, mal ticareti ise ulusal düzenlemelere tabi tutulmaya devam etmektedir.",
-   "Gümrük birliğinde ortak dış tarife bulunduğundan menşe şartlarına hiçbir biçimde gerek duyulmamaktadır; serbest ticaret alanında ise ortak tarife uygulandığından ticaret saptırması sorunu da ortaya çıkmamakta ve denetim gereksizleşmektedir. ve basitleşmektedir ve denetim yükü ortadan kalkmaktadır",
+   "Gümrük birliğinde ortak dış tarife bulunduğundan menşe şartlarına hiçbir biçimde gerek duyulmamaktadır; serbest ticaret alanında ise ortak tarife uygulandığından ticaret saptırması sorunu da ortaya çıkmamakta, denetim gereksizleşmekte ve süreç önemli ölçüde basitleşmektedir.",
    "Serbest ticaret alanında her üye kendi dış tarifesini belirler; bu durum üçüncü ülkelerden düşük tarifeli üyeler üzerinden mal girişine (ticaret saptırması/sapkın ticaret - trade deflection) yol açabileceğinden menşe şartları (rules of origin) gerekli olur."
   ],
   "dogru": 4,
@@ -7144,7 +7144,7 @@
    "'I' avantajı, bilgi, teknoloji ve marka gibi firmeye özgü varlıkların lisans piyasasındaki eksiklikler (piyasa başarısızlığı) nedeniyle firma içinde tutulmasının daha verimli olduğunu açıklar; bu da lisanslama yerine FDI'ı tercih ettirir.",
    "Dunning'in OLI paradigması, portföy yatırımlarını ve doğrudan yatırımları aynı şekilde açıklar; ikisi arasında teorik ayrım yapmaz.",
    "Firmanın 'O' (Ownership) avantajları yoksa bile 'L' (Location) avantajları onu doğrudan yatırıma yönlendirmeye yeterlidir.",
-   "Firmalar 'O' ve 'L' avantajlarına sahip olsalar bile 'I' (içselleştirme) avantajından yoksun olduklarında lisanslama yoluyla yabancı piyasaya girmek her koşulda çok daha kârlı bir seçenek olarak öne çıkmaktadır ve tercih edilmektedir. ve yaygındır",
+   "Firmalar 'O' ve 'L' avantajlarına sahip olsalar bile 'I' (içselleştirme) avantajından yoksun olduklarında lisanslama yoluyla yabancı piyasaya girmek her koşulda çok daha kârlı bir seçenek olarak öne çıkmakta, tercih edilmekte ve yaygın biçimde uygulanmaktadır.",
    "OLI çerçevesine göre yatırım kararında konum avantajları hiçbir biçimde belirleyici değildir; yalnızca sahiplik ve içselleştirme avantajları yeterli olmakta ve firmanın uluslararasılaşma kararını tek başına açıklamaktadır."
   ],
   "dogru": 0,
@@ -7160,7 +7160,7 @@
    "Cari açık, ülkenin ürettiğinden fazlasını tükettiği anlamına gelir ve bu durum her zaman ekonomik istikrarsızlığın göstergesidir.",
    "Cari açık her zaman özel sektör borçlanmasından kaynaklanır; kamu sektörü bütçe açığının cari açıkla doğrudan ilişkisi yoktur.",
    "Çifte kayıt ilkesi gereği cari açık, sermaye ve finans hesabı fazlasıyla (artı rezerv değişimleriyle) dengelenir; bu muhasebe özdeşliği politika yargısı taşımaz, ancak ülkenin net yabancı varlık pozisyonunu olumsuz etkilemektedir.",
-   "Cari açık ile sermaye hesabı fazlası arasındaki ilişki yalnızca sabit kur rejimlerinde geçerlidir; esnek kur rejimlerinde ödemeler dengesi her koşulda otomatik olarak dengelenmekte ve cari açık hiçbir biçimde ortaya çıkmamaktadır. ve süreklidir",
+   "Cari açık ile sermaye hesabı fazlası arasındaki ilişki yalnızca sabit kur rejimlerinde geçerlidir; esnek kur rejimlerinde ödemeler dengesi her koşulda otomatik olarak ve sürekli biçimde dengelenmekte, cari açık hiçbir zaman ortaya çıkmamaktadır.",
    "IMF metodolojisine göre tek taraflı transferler (remittances) cari işlemler hesabında değil, sermaye ve finans hesabında sınıflandırılmakta ve bu sınıflandırma tüm ülkeler için aynı biçimde uygulanmaktadır."
   ],
   "dogru": 2,
@@ -7975,7 +7975,7 @@
   "secenekler": [
    "IMF'nin talebi doğrultusunda bütçe açıkları sıfırlanmıştır.",
    "Türkiye krizden hiç etkilenmediğinden herhangi bir mali teşvik paketi açıklama yoluna gitmemiştir.",
-   "Merkez Bankası faiz oranlarını kriz döneminde artırarak para arzını belirgin biçimde daraltmıştır. ve sıkılaştırmıştır",
+   "Merkez Bankası faiz oranlarını kriz döneminde artırarak para arzını belirgin biçimde daraltmış ve politikasını sıkılaştırmıştır.",
    "Kriz döneminde genişletici maliye politikası ile vergi indirimleri ve kamu harcamaları artırılmıştır.",
    "Kriz döneminde sıkı maliye politikası uygulanarak bütçe dengesi korunmuştur."
   ],
@@ -8071,7 +8071,7 @@
   "secenekler": [
    "Bu oran yalnızca kamu dış borcunu kapsar, özel sektör dış borcu hesaba katılmaz.",
    "Bu oran yükseldikçe ülkenin döviz kazanma kapasitesi, üstlendiği borç yüküne göre görece artmakta ve dış kırılganlık azalmaktadır.",
-   "Bu oranın yüzde yüzü aşması, ülkenin dış borçlanma kapasitesini tümüyle yitirdiği ve yeni kaynak bulamayacağı anlamına gelmektedir. ve dışlandığını ve yeni kaynak bulamayacağı",
+   "Bu oranın yüzde yüzü aşması, ülkenin dış borçlanma kapasitesini tümüyle yitirdiği, piyasalardan dışlandığı ve yeni kaynak bulamayacağı anlamına gelmektedir.",
    "IMF, bu oranın %10'un altında kalmasını sağlıklı kabul eder.",
    "Bu oran, ihracattan elde edilen dövizin ne kadarının borç anapara ve faiz ödemelerine ayrıldığını gösterir; oranın yükselmesi kırılganlık işaretidir."
   ],
@@ -8197,7 +8197,7 @@
   "konuId": "turkiye_ekonomisi",
   "soru": "Türkiye'de Hazine'nin iç borçlanma senetlerinin (DİBS) vadelerinin kısaldığı dönemlerde aşağıdaki risklerden hangisi ön plana çıkar?",
   "secenekler": [
-   "Bankacılık sektörünün sermaye yeterliliği oranı düşer; çünkü kısa vadeli senetlerin risk ağırlığı belirgin biçimde daha yüksektir. ve maliyeti artırmaktadır",
+   "Bankacılık sektörünün sermaye yeterliliği oranı düşer; çünkü kısa vadeli senetlerin risk ağırlığı belirgin biçimde daha yüksektir ve bu durum maliyeti artırmaktadır.",
    "Enflasyon oranı otomatik olarak yükselir; çünkü kısa vadeli senetler para arzını genişletmekte ve likiditeyi artırmaktadır.",
    "Döviz kuru riski artar çünkü kısa vadeli senetler TL'yi değersizleştirir.",
    "Cari açık azalır çünkü kısa vadeli borçlanma dış finansman ihtiyacını ortadan kaldırır.",
@@ -8309,7 +8309,7 @@
   "konuId": "turkiye_ekonomisi",
   "soru": "Türkiye'de 2008 küresel finans krizinin ardından uygulanan genişletici maliye politikasının bir parçası olarak kullanılan 'vergi indirimi ve otomatik stabilizatörler' mekanizması bağlamında, otomatik stabilizatörlerin konjonktür karşıtı işlevi nasıl gerçekleşir?",
   "secenekler": [
-   "Resesyon dönemlerinde kamu harcamaları otomatik olarak azalmakta ve vergi gelirleri artmaktadır; bu da bütçe açığını kapatmaktadır. ve dengelemektedir",
+   "Resesyon dönemlerinde kamu harcamaları otomatik olarak azalmakta ve vergi gelirleri artmaktadır; bu da bütçe açığını kapatmakta ve bütçeyi dengelemektedir.",
    "Resesyon dönemlerinde işsizlik ödemeleri gibi transferler artar ve vergi gelirleri düşer; bu mekanizma toplam talebi otomatik olarak destekler.",
    "Resesyon dönemlerinde ithalat otomatik olarak azalır ve cari denge fazla vermeye başlar.",
    "Bütçe fazlası verilen dönemlerde Hazine otomatik olarak borç geri ödemesi yapmakta ve bu yolla para arzını daraltmaktadır.",
@@ -8361,7 +8361,7 @@
    "TMSF bünyesine alınan bankaların yeniden sermayelendirilmesi, iç borç stoğunu artırmış ve faiz dışı fazla hedefiyle çelişir görünse de orta vadede kamu maliyesi üzerindeki örtük yükümlülükleri ortadan kaldırarak sürdürülebilirliği güçlendirmiştir.",
    "Güçlü Ekonomiye Geçiş Programı, Derviş reformları olarak da bilinmekte olup temel hedefi döviz çıpasını güçlendirmek suretiyle enflasyonu tek haneli rakamlara indirmek ve kısa vadede büyümeyi yeniden tesis etmektir.",
    "Program, IMF ile yapılan stand-by anlaşması çerçevesinde öncelikle özel bankaların kamu bankalarıyla birleştirilmesini öngörmüş; bu süreç yabancı sermaye girişini hızlandırmıştır.",
-   "Dalgalı kur rejimine geçilmesiyle birlikte bankacılık sektörünün taşıdığı kur riski tümüyle bertaraf edilmiş, dolayısıyla Bankacılık Düzenleme ve Denetleme Kurumu'nun kurulması sektöre yalnızca ek bir yük getirmiştir. ve gereksiz bir yapı olarak kalmıştır"
+   "Dalgalı kur rejimine geçilmesiyle birlikte bankacılık sektörünün taşıdığı kur riski tümüyle bertaraf edilmiş, dolayısıyla Bankacılık Düzenleme ve Denetleme Kurumu'nun kurulması sektöre yalnızca ek bir yük getirmiş ve gereksiz bir yapı olarak kalmıştır."
   ],
   "dogru": 1,
   "aciklama": "2001 Güçlü Ekonomiye Geçiş Programı'nın kritik ayağı, kamu bankalarının (Ziraat, Halk) birikmekte olan görev zararlarının ve TMSF'ye devredilen özel bankaların maliyetlerinin hazine tarafından üstlenilmesidir. Bu operasyon kısa vadede iç borç stoğunu yaklaşık 20-22 milyar dolar artırmış ve teknik olarak faiz dışı fazla hedefiyle çelişir bir görüntü vermiştir. Ancak bu yükümlülükler zaten 'örtük kamu borcu' niteliğinde olduğundan açığa çıkarılıp tasfiye edilmeleri, orta vadede sistemik riski ve borçlanma maliyetini düşürerek mali sürdürülebilirliği pekiştirmiştir. Dalgalı kur kur riskini azaltmış ama tamamen bertaraf etmemiştir (Şık C yanlış). Program döviz çıpasını terk etmiş, birleşme öngörmemiş, ağırlıklı faiz dışı fazla ve yapısal reformlara odaklanmıştır.",

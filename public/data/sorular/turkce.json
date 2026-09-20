@@ -761,7 +761,7 @@
    "İnşaat için ağaçları kestiler.",
    "Kasap, eti ince ince kesti.",
    "Soğuk hava parmaklarını iyice kesti.",
-   "Terziye, kumaşı istediği şekle göre kestirdi. ve teslim aldı."
+   "Terziye, kumaşı istediği şekle göre kestirdi ve dikilmiş hâlini teslim aldı."
   ],
   "dogru": 0,
   "aciklama": "D seçeneğinde 'telefonu kesmek' ifadesi 'telefon görüşmesini sona erdirmek, kapatmak' anlamında kullanılmış olup bu anlam 'bir şeye son vermek, durdurmak' anlamına karşılık gelir. A'da 'bölmek, parçalamak', B'de 'acı vermek, uyuşturmak', C'de 'devirmek, budamak', E'de ise 'biçmek' anlamları söz konusudur.",
@@ -1367,7 +1367,7 @@
   "secenekler": [
    "Çocuk, oyuncağını kutusuna dikkatle <u>yerleştirdi</u>.",
    "Konuşmacı mikrofona <u>vuruş</u> yaptı.",
-   "Masa örtüsü yere <u>düşünce</u> salondaki herkes irkildi. ve yerinden sıçradı.",
+   "Masa örtüsü yere <u>düşünce</u> salondaki herkes irkildi ve yerinden sıçradı.",
    "Bu proje gerçek bir <u>şaheser</u>dir.",
    "Sınıfın <u>ritmi</u> bozuldu, hiç kimse derse odaklanamadı."
   ],
@@ -1543,7 +1543,7 @@
   "secenekler": [
    "Konuşmacının sesi o denli monoton ve sıkıcıydı ki insanlar uyukluyordu; ifade alaylı/iğneleyici bir anlam taşıyor.",
    "Konuşmacı, dinleyicileri sakinleştiren rahatlatıcı bir üsluba sahiptir.",
-   "Dinleyiciler, konuşmacının sesinden o denli etkilendi ki büyük bir coşku içinde oldukları yerde donup kaldılar. ve alkışladılar.",
+   "Dinleyiciler, konuşmacının sesinden o denli etkilendi ki büyük bir coşku içinde oldukları yerde donup kaldılar, sonra da uzun uzun alkışladılar.",
    "Cümle yalnızca konuşmacının etkili bir hatip olduğunu söylüyor.",
    "Konuşmacı, dinleyicilerin uyumasına izin verecek kadar sakin bir kişidir."
   ],
@@ -1689,7 +1689,7 @@
    "Bu roman, Türk edebiyatının en etkileyici yapıtlarından biridir.",
    "Atatürk, 1881 yılında Selanik'te doğmuştur.",
    "İstanbul, Türkiye'nin en kalabalık şehridir.",
-   "Türkiye'nin yüzölçümü yaklaşık 783.000 kilometrekaredir. ve nüfusu 85 milyondur."
+   "Türkiye'nin yüzölçümü yaklaşık 783.000 kilometrekaredir, nüfusu ise 85 milyonu aşmaktadır."
   ],
   "dogru": 1,
   "aciklama": "Öznel yargılar kişiden kişiye değişen, kanıtlanamayan değer yargılarıdır. 'En etkileyici yapıtlarından biri' ifadesi kişisel bir değerlendirme olup öznel bir yargıdır. Diğer seçenekler ise ölçülüp kanıtlanabilen nesnel yargılardır.",
@@ -1705,7 +1705,7 @@
    "Bugün hava çok sıcak.",
    "Kitabı üç günde okudum.",
    "Yarın sabah toplantıya gideceğim.",
-   "Bence bu proje hiçbir biçimde başarılı olmaz. ve zaman kaybı olur."
+   "Bence bu proje hiçbir biçimde başarılı olmaz, üstelik büyük bir zaman kaybı olur."
   ],
   "dogru": 0,
   "aciklama": "D seçeneğinde 'söz vermeyi sever ama tutmayı unutur' ifadesiyle sözünde durmayanlar üstü kapalı biçimde, dolaylı olarak eleştirilmektedir. Bu tür anlatımlar doğrudan söylemek yerine ima yoluyla yapılan eleştiriyi kapsar.",
@@ -1719,7 +1719,7 @@
   "secenekler": [
    "O kadar yoruldu ki gözlerini de açamıyordu.",
    "Sen de gel, biz de birlikte gidelim.",
-   "Hem gündüz çalışıyor hem de akşam okuyor. ve harçlığını çıkarıyor.",
+   "Hem gündüz çalışıyor hem de akşam okuyor, böylece harçlığını çıkarıyor.",
    "Okula gitti, eve de döndü.",
    "Ağladı da ağladı, dinmedi."
   ],
@@ -2086,7 +2086,7 @@
   "soru": "Aşağıdaki cümlelerin hangisinde 'geçmek' fiili 'bir durumu aşmak, üstesinden gelmek' anlamında kullanılmıştır?",
   "secenekler": [
    "Tren istasyondan hızla geçti.",
-   "Köprüden geçerken aşağıya bakmaktan çok korktu. ve kenara tutunma ihtiyacı duydu.",
+   "Köprüden geçerken aşağıya bakmaktan çok korktu ve kenara tutunma ihtiyacı duydu.",
    "Komşunun önünden geçerken selam verdi.",
    "Yıllar geçtikçe onu daha iyi anlıyorum.",
    "Hastalığını kısa sürede atlattı, sınavı da geçeceğine inanıyorum."
@@ -2727,7 +2727,7 @@
   "secenekler": [
    "Sen de bu kitabı okudun mu?",
    "Annesi de toplantıya katıldı.",
-   "Arkadaşlarının tamamı da aynı fikirdeydi. ve bunu açıkça dile getirdi.",
+   "Arkadaşlarının tamamı da aynı fikirdeydi ve bunu açıkça dile getirdi.",
    "Hiç beklemediği bir anda o da ağlamaya başladı.",
    "Kardeşim de bu okula gidiyor."
   ],
@@ -3413,7 +3413,7 @@
   "konuId": "deyim_ve_atasozleri",
   "soru": "\"Rüzgâr ekmek fırtına biçmek\" atasözüyle anlatılmak istenen düşünce aşağıdakilerden hangisidir?",
   "secenekler": [
-   "İyi ve doğru davranışların karşılığı mutlaka iyi olur. ve kişi bunu zamanla görür.",
+   "İyi ve doğru davranışların karşılığı mutlaka iyi olur, kişi bunu zamanla görür.",
    "Kötü ya da tehlikeli davranışların daha büyük kötülüklere yol açacağı.",
    "Doğanın gücüne karşı durulamaz.",
    "Çevresine iyi davrananlar her zaman kazanır.",
@@ -3575,7 +3575,7 @@
   "secenekler": [
    "Çocuk topunu arkadaşına ele verdi.",
    "Pazardan aldığı malları eve ele vererek taşıdı.",
-   "Öğretmen ödevleri tek tek öğrencilere ele verdi. ve tek tek teslim etti.",
+   "Öğretmen ödevleri tek tek öğrencilere ele verdi ve tek tek geri teslim aldı.",
    "Birinin gizli bir durumunu başkalarına bildirmek için ele verdi.",
    "Maçta topu kaptırarak rakibe ele verdi."
   ],
@@ -3672,7 +3672,7 @@
    "Güneşte çok zaman geçirince yüzü kararır.",
    "Madende çalışan işçilerin yüzü karaydı.",
    "Verdiği sözü tutamayan Ahmet, toplumun önünde yüzü kara kaldı.",
-   "Kömür ocağından yeni çıkan madencinin yüzü kapkaraydı. ve elleri is içindeydi.",
+   "Kömür ocağından yeni çıkan madencinin yüzü kapkaraydı, elleri is içindeydi.",
    "Yüzü kara olan kişi makyaj yapmalıdır."
   ],
   "dogru": 2,
@@ -3929,7 +3929,7 @@
    "Mutfakta tuz biber ekmeyi unutunca yemeği berbat etti.",
    "Küçük bir hata yaparken bir de üstüne yalan söyleyince arkadaşı ona tuz biber ekti.",
    "Tuz biber ekmeden önce durumu iyice değerlendirdi.",
-   "Annesi, çocuğa tuz biber ekmemek için sert davranmaktan özellikle kaçındı. ve sesini yükseltmedi."
+   "Annesi, çocuğa tuz biber ekmemek için sert davranmaktan özellikle kaçındı ve hiç sesini yükseltmedi."
   ],
   "dogru": 2,
   "aciklama": "'Tuz biber ekmek' deyimi, zaten kötü olan bir durumu daha da ağırlaştırmak, üstüne acı katmak anlamına gelir. B seçeneğinde kişi, zaten var olan bir hatanın üstüne yalan söyleyerek durumu daha da kötü hale getirmiştir; deyim bu bağlamda doğru kullanılmıştır. Diğer seçeneklerde deyim ya fiziksel tuz-biber ekleme anlamında kullanılmış ya da anlamsız bağlamlara yerleştirilmiştir.",
@@ -4104,7 +4104,7 @@
    "Yazar, romanını pişmiş aşa su katarak kısa sürede tamamladı.",
    "Sınavlar yaklaşınca öğrenci, pişmiş aşa su katarak çalışmaya başladı.",
    "Müdür, neredeyse sonuçlanmış projeye son anda gereksiz değişiklikler isteyerek pişmiş aşa su kattı.",
-   "Uzlaşmaya iyice yaklaşan taraflar, pişmiş aşa su katarak anlaşmayı daha da hızlandırdı. ve süreci kısalttı.",
+   "Uzlaşmaya iyice yaklaşan taraflar, pişmiş aşa su katarak anlaşmayı daha da hızlandırdı ve süreci kısalttı.",
    "Aşçı, yemeğin tadı tutmayınca pişmiş aşa su katarak durumu kurtarmaya çalıştı."
   ],
   "dogru": 2,
@@ -4392,7 +4392,7 @@
    "Çocuğun karnı acıkınca tuz biber ekerek yemek yedi.",
    "Takım, şampiyonluğu kazanınca başarılarına tuz biber ekti.",
    "Hasta, iyileşmek için tuz biber ekmek zorunda kaldı.",
-   "Öğretmen, derste iyi davranan öğrencilerin çabalarına tuz biber ekti. ve onları ödüllendirdi.",
+   "Öğretmen, derste iyi davranan öğrencilerin çabalarına tuz biber ekti ve sonunda onları ödüllendirdi.",
    "Zaten kötü giden tartışmaya, arkadaşının söylediği söz tuz biber ekti."
   ],
   "dogru": 4,
@@ -10280,7 +10280,7 @@
    "Koşul bildiren bağlaçtır.",
    "Sıralama ilişkisi bildiren bir bağlaçtır.",
    "Her iki eylemi de olumsuzlayan bağlaç çiftidir.",
-   "Cümleye karşıtlık anlamı katan bir bağlaçtır. ve zıtlık kurar.",
+   "Cümleye karşıtlık anlamı katan ve zıtlık ilişkisi kuran bir bağlaçtır.",
    "Seçenek bildiren bağlaçtır."
   ],
   "dogru": 2,
@@ -12040,7 +12040,7 @@
    "Ali mektubu postaneye bıraktı.",
    "Çocuk parkta koştu.",
    "Kuşlar sabah öttü.",
-   "Öğretmen sınıfta ders anlattı. ve örnekler verdi.",
+   "Öğretmen sınıfta ders anlattı ve bol bol örnek verdi.",
    "Ayşe kitap okudu."
   ],
   "dogru": 0,
@@ -24199,7 +24199,7 @@
   "secenekler": [
    "Değirmenlerin suya ihtiyacı vardır.",
    "Bir işin kalıcı olması için kendi özüne ait kaynaklara dayanması gerekir.",
-   "Ödünç alınan şeyler hiçbir zaman gerçekten işe yaramaz. ve geri verilmesi gerekir.",
+   "Ödünç alınan şeyler hiçbir zaman gerçekten işe yaramaz, üstelik geri verilmesi gerekir.",
    "Su olmadan tarım yapılamaz.",
    "Zahmetli işler her zaman istenen sonucu vermez."
   ],
@@ -24231,7 +24231,7 @@
   "secenekler": [
    "Uyku düzeni çok önemlidir.",
    "Hasta olan insanlarla vakit geçirilmemelidir.",
-   "Görme engelli insanlara mutlaka yardım edilmelidir. ve yardım eli uzatılmalıdır.",
+   "Görme engelli insanlara mutlaka yardım edilmeli, onlara yardım eli uzatılmalıdır.",
    "İnsanlar birbirinden öğrenir.",
    "Kötü alışkanlıkları olan kişilerle düşüp kalkmak, insanı olumsuz etkiler."
   ],
@@ -24374,7 +24374,7 @@
   "soru": "\"Sakla samanı gelir zamanı\" atasözüyle verilmek istenen mesaj aşağıdakilerden hangisidir?",
   "secenekler": [
    "Çiftçilik her zaman karlı bir iştir.",
-   "Geleceği planlamak için mutlaka profesyonel yardım alınmalıdır. ve uzman görüşü gereklidir.",
+   "Geleceği planlamak için mutlaka profesyonel yardım alınmalı ve uzman görüşüne başvurulmalıdır.",
    "Küçük ve değersiz görünen şeyler ileride işe yarayabilir, her şey saklanmalıdır.",
    "Hayvanlar için kışlık yem stoku yapmak gereklidir.",
    "Tasarruf yapmak insanı zenginleştirir."
@@ -24487,7 +24487,7 @@
   "secenekler": [
    "Kılıcı parçalamak için defalarca sertçe vurdu.",
    "Dikkatli davranmak yerine acele etti.",
-   "İnce kılları makasla kesmekte iyice ustalaşmıştı. ve bunu meslek edinmişti.",
+   "İnce kılları makasla kesmekte iyice ustalaşmış, bunu meslek edinmişti.",
    "Her konuda kılı kırk yaran biri olduğu için yanlış yapmıyordu.",
    "Saçını kesmek için berbere gitti."
   ],
@@ -25350,7 +25350,7 @@
   "soru": "Aşağıdaki cümlelerin hangisinde 'gönül koyma' ve 'gönül alma' deyimleri bir arada ve doğru anlamlarıyla kullanılmıştır?",
   "secenekler": [
    "Gönül alan kişi, sonunda kendisine gönül koyan birini bulmuştu.",
-   "Arkadaşına gönül aldıktan sonra bir daha onun gönlünü koymamaya özen gösterdi. ve bunu sürdürdü.",
+   "Arkadaşına gönül aldıktan sonra bir daha onun gönlünü koymamaya özen gösterdi ve bunu sürdürdü.",
    "Küçük bir hata için gönül koyan annesini gönlünü almak için saatlerce uğraştı.",
    "Gönül koymadan önce gönül almaya çalışmak her zaman daha iyidir.",
    "Gönlünü almak istediği için önce gönlünü koydu, sonra özür diledi."
@@ -26328,7 +26328,7 @@
    "Fotosentez, bitkilerin güneş enerjisini kullanarak karbondioksit ve suyu besin maddesine dönüştürdüğü süreçtir.",
    "Karanlık odaya girince hüzün kapladı içimi; sanki her köşe ayrı bir anı saklıyordu.",
    "Ormanlar yok edilmemeli, doğa korunmalıdır!",
-   "Sabah erkenden uyandım ve bahçeye çıktım; çimlerin üzerindeki çiği görünce içim açıldı, derin bir nefes aldım. ve kısa bir süre öylece bekledim.",
+   "Sabah erkenden uyandım ve bahçeye çıktım; çimlerin üzerindeki çiği görünce içim açıldı, derin bir nefes aldım, kısa bir süre öylece bekledim.",
    "Sence bu şehirde yaşamak gerçekten mutlu eder mi insanı?"
   ],
   "dogru": 0,
@@ -26934,7 +26934,7 @@
   "soru": "Bir romancı, eserlerinde toplumsal gerçekliği yansıtmak amacıyla bireyin iç dünyasını değil, dış çevreyi merkeze alır. Karakterlerini toplumsal koşulların bir ürünü olarak sunar; onların kaderini belirleyenin kişisel irade değil, içinde bulundukları sınıf ve çevre olduğunu savunur. Karakterlerin eylemlerini belirleyen etkenler büyük ölçüde ekonomik ve toplumsal baskılardır. Bu romancı için \"psikolojik çözümleme yapmak yerine toplumcu bir perspektif benimsemek\" yetersiz kalır; zira yazarın asıl amacı bireyin bilincinden bağımsız olarak onu şekillendiren nesnel koşulları gözler önüne sermektir.\n\nBu parçada sözü edilen romancının edebi anlayışıyla en fazla çelişen yargı aşağıdakilerdir?",
   "secenekler": [
    "Bireysel bilinç akışı, toplumsal gerçekliğin önüne geçemez.",
-   "İçinde bulunulan ekonomik koşullar, bireyin tercihlerini belirleyici biçimde etkiler. ve zamanla değişmesine yol açar.",
+   "İçinde bulunulan ekonomik koşullar, bireyin tercihlerini belirleyici biçimde etkiler ve zamanla değişmesine yol açar.",
    "Toplumsal baskılar, bireyin özgür iradesini geçersiz kılar.",
    "Karakterin bütün davranışları sınıfsal konumunun doğal bir yansımasıdır.",
    "Karakter, içinde bulunduğu çevreyi dönüştürme kapasitesine sahip devingen bir varlıktır."
@@ -27079,7 +27079,7 @@
   "secenekler": [
    "Mitolojik figürlerin simgesel düzlemde insanlığın varoluşsal sorularını yanıtladığı bir roman.",
    "Yazarın kendi duygusal deneyimlerini şiirsel bir dille aktardığı lirik bir roman.",
-   "Bireyin toplumsal baskılara ve çevre koşullarına rağmen ahlaki tercihlerini özgürce yapabildiğini gösteren bir roman. ve bu tercihlerin bedelini üstlendiğini anlatan bir roman.",
+   "Bireyin toplumsal baskılara ve çevre koşullarına rağmen ahlaki tercihlerini özgürce yapabildiğini ve bu tercihlerin bedelini üstlendiğini anlatan bir roman.",
    "Aristokrat bir ailenin çöküşünü, kalıtsal hastalıklar ve ekonomik yıkımın kaçınılmaz sarmalında belgeleyen bir roman.",
    "Köy yaşamını idealize eden, doğayla uyum içindeki saf insanın mutluluğunu anlatan bir roman."
   ],
@@ -27445,7 +27445,7 @@
   "konuId": "paragraf",
   "soru": "Aşağıdaki parçadan çıkarılabilecek en kapsamlı yargı hangisidir?\n\n'Bir dili öğrenmek, yalnızca sözcük ve dilbilgisi kurallarını edinmek değildir; o dili konuşan toplumun zaman algısını, nezaket hiyerarşisini, uzamsal yönelimini ve çatışma çözme pratiklerini de içselleştirmektir. Japonca'da özür bildiren ifadelerin çeşitliliği, o kültürdeki sosyal hassasiyetin yoğunluğunu yansıtır. Arapça'daki fiil çekimlerinin cinsiyetle kurduğu ilişki ise toplumsal cinsiyet kategorilerinin dilin derinliklerine ne denli işlediğini gösterir. Dili salt iletişim aracı olarak görenler, bu gerçeği fark etmeyebilir.'",
   "secenekler": [
-   "Yabancı dil öğreniminde dilbilgisi kuralları, kültürel içerikten her zaman önce gelir. ve öğretimin temelini oluşturur.",
+   "Yabancı dil öğreniminde dilbilgisi kuralları, kültürel içerikten her zaman önce gelir ve öğretimin temelini oluşturur.",
    "Japonca ve Arapça, kültürel değerlerini en açık biçimde yansıtan dillerdir.",
    "Dilin iletişim işlevi, onun kültürel boyutundan daha belirleyicidir.",
    "Dil, bir kültürün bilişsel ve toplumsal yapısını biçimlendiren ve taşıyan bir sistemdir.",
@@ -27478,7 +27478,7 @@
   "soru": "Aşağıdaki parçanın anlatım bakımından en belirgin özelliği hangisidir?\n\n'Hafıza, geçmişin arşivi değildir; her çağrışımda yeniden inşa edilen bir kurgudur. Nörobilim, hatırlamanın aynı zamanda yeniden yazma olduğunu göstermektedir: bir anıyı her canlandırdığınızda, onu biraz değiştirirsiniz. Bu durumda 'gerçek anı' dediğimiz şey, katmanlaşmış yeniden yazımların en son versiyonundan ibarettir. Geçmişinize sahip olduğunuzu sanırsınız; oysa onu her an icat etmektedesinizdir.'",
   "secenekler": [
    "Karşıtlıklardan yararlanan ve okuyucuyu doğrudan muhatap alan bir anlatım benimsenmiştir.",
-   "Kronolojik bir sırayla hafızanın evrimsel gelişim süreci aktarılmaktadır. ve dönemlere göre karşılaştırılmaktadır.",
+   "Kronolojik bir sırayla hafızanın evrimsel gelişim süreci aktarılmakta ve dönemlere göre karşılaştırılmaktadır.",
    "Soru-yanıt tekniğiyle okuyucunun merakı canlı tutulmaktadır.",
    "Nesnel bir bilim dili kullanılarak hafıza tanımlanmaktadır.",
    "Örnekseme yoluyla hafızanın toplumsal işlevi açıklanmaktadır."
@@ -27574,7 +27574,7 @@
   "soru": "Aşağıdaki parçanın ana düşüncesi hangisidir?\n\n'Nostalji, kaybedilmiş bir geçmişe duyulan özlem olarak tanımlanır. Ama gerçekte özlem duyduğumuz geçmiş, hiç var olmamış olabilir. Bellek seçici çalışır; acıları siler, güzellikleri büyütür. Çocukluğumuzu ya da gençliğimizi özlemle andığımızda, o dönemin nesnel gerçekliğini değil; zihnimizin o gerçekliği nasıl yeniden kurduğunu arzularız. Nostalji, geçmişe değil, geçmişin idealleştirilmiş kurgusuna yönelir.'",
   "secenekler": [
    "İnsan, geçmişini her zaman olduğundan daha mutlu bir dönem olarak algılar.",
-   "Belleğin seçici biçimde işlemesi, insanın kendi geçmişini doğru değerlendirmesini engeller. ve geçmişi olduğu gibi hatırlamasını güçleştirir.",
+   "Belleğin seçici biçimde işlemesi, insanın kendi geçmişini doğru değerlendirmesini engeller ve geçmişi olduğu gibi hatırlamasını güçleştirir.",
    "Nostaljinin yöneldiği nesne, yaşanmış gerçeklik değil; onun zihinsel olarak idealleştirilmiş biçimidir.",
    "Nostalji, psikolojik bir savunma mekanizması olarak geçmişi korur.",
    "Nostaljinin kaynağı, bireyin içinde bulunduğu mevcut mutsuzluktur."
@@ -29062,7 +29062,7 @@
   "soru": "Aşağıdaki seçeneklerin hangisinde üç nokta (...) doğru kullanılmamıştır?",
   "secenekler": [
    "'Bir gün sen de anlarsın...' dedi ve gitti.",
-   "Düşündü, taşındı... ve sonunda karar verdi.",
+   "Düşündü, taşındı ve sonunda kararını verdi...",
    "Toplantıya Ahmet..., Mehmet..., Ayşe... katıldı.",
    "'Seni seviyorum... ama söyleyemedim hiç.'",
    "Kitabın içindekiler: roman, hikâye, şiir..."
@@ -32549,7 +32549,7 @@
   "konuId": "cumle_ogeleri",
   "soru": "'Ne zaman geleceğini bilmiyorum.' ve 'Ne zaman geleceksin?' cümleleri yapı bakımından karşılaştırıldığında aşağıdakilerden hangisi doğrudur?",
   "secenekler": [
-   "Her iki cümlede de 'ne zaman' soru zarfı olarak tümüyle aynı öge görevini üstlenmekte ve yüklemi aynı biçimde tamamlamaktadır. ve aynı anlamı taşımaktadır.",
+   "Her iki cümlede de 'ne zaman' soru zarfı olarak tümüyle aynı öge görevini üstlenmekte, yüklemi aynı biçimde tamamlamakta ve aynı anlamı taşımaktadır.",
    "İlk cümlede 'ne zaman' özne, ikinci cümlede ise zarf tümleci görevindedir.",
    "Her iki cümlede de 'ne zaman' sözcüğü bir cümle ögesi değil, iki yargıyı birbirine bağlayan bağlaç işlevi görmektedir.",
    "İlk cümlede 'ne zaman geleceğini' isim-fiil yan cümlesi nesne, ikinci cümlede 'ne zaman' soru zarfı zarf tümleci görevindedir.",
@@ -33909,7 +33909,7 @@
   "konuId": "fiil_catisi",
   "soru": "Aşağıdaki cümlelerin hangisinde '-n-' eki dönüşlü çatı değil, edilgen çatı işlevi üstlenmiştir?",
   "secenekler": [
-   "Sporcu yarışmadan önce iyice gerinip kaslarını gerdirindi. ve uzun süre ısındı.",
+   "Sporcu yarışmadan önce iyice gerinip kaslarını gerdirindi ve uzun süre ısındı.",
    "Küçük kız sabah uyandığında önce yıkandı, sonra giyindi.",
    "Bu yol sonbaharda tamir edildi.",
    "Genç adam aynada saatlerce tarandı.",
@@ -36360,7 +36360,7 @@
    "Bu haberi duymak onu derinden sarstı.",
    "Yönetmenin bu filmi çekmeye karar vermesi hayli uzun bir zaman almıştı.",
    "Başarısızlığın nedeni, hazırlığa yeterli süre tanımamasından kaynaklanıyordu.",
-   "Toplantı, başlangıçta planlandığından çok daha uzun bir süre devam etti. ve akşam saatlerine kadar sürdü.",
+   "Toplantı, başlangıçta planlandığından çok daha uzun bir süre devam etti ve akşam saatlerine kadar sürdü.",
    "Kitabın kapağı oldukça ilgi çekiciydi."
   ],
   "dogru": 2,

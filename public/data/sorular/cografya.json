@@ -4485,7 +4485,7 @@
   "konuId": "harita_koordinat",
   "soru": "Türkiye'de 38°K paraleli üzerinde yer alan bir noktada, 21 Haziran'da güneş tam tepe noktasına (zenit) ulaşabilir mi? Bu durumu açıklayan seçenek aşağıdakilerden hangisidir?",
   "secenekler": [
-   "Hayır, çünkü 38°K paraleli Oğlak Dönencesi'nin kuzeyinde kaldığından güneş ışınları bu paralele yalnızca ekinoks tarihlerinde dik açıyla ulaşabilir. ve yılın geri kalanında eğik gelmesi.",
+   "Hayır, çünkü 38°K paraleli Oğlak Dönencesi'nin kuzeyinde kaldığından güneş ışınları bu paralele yalnızca ekinoks tarihlerinde dik açıyla ulaşabilir, yılın geri kalanında ise eğik gelir.",
    "Evet, çünkü 21 Haziran'da Güneş'in zenit açısı 38°K'ya ulaşır.",
    "Evet, çünkü 21 Haziran Yaz Gündönümü'nde zenit açısı 38°K'ya kadar ilerler.",
    "Hayır, çünkü Türkiye tümüyle kuzey yarımkürede yer aldığı için güneş bu ülkede hiçbir zaman zenit açısına ulaşamaz.",
@@ -5829,7 +5829,7 @@
   "konuId": "i_klim_bilgisi",
   "soru": "Orta kuşak karalarında oluşan kara iklimleri ile kıyı iklimlerinin en belirgin farkı aşağıdakilerden hangisidir?",
   "secenekler": [
-   "Kara iklimleri yalnızca kuzey yarım kürede görülürken kıyı iklimleri her iki yarım kürede de etkili olmaktadır ve geniş alan kaplar. ve bu durum her iki iklimde de yağış rejimini belirler.",
+   "Kara iklimleri yalnızca kuzey yarım kürede görülürken kıyı iklimleri her iki yarım kürede de etkili olmakta, geniş alan kaplamakta ve bu durum her iki iklimde de yağış rejimini belirlemektedir.",
    "Kara iklimlerinde yağış tamamen görülmezken kıyı iklimlerinde yıl boyunca düzenli yağış görülür ve kuraklık yaşanmaz.",
    "Kara iklimlerinde yıllık sıcaklık farkı büyük ve yağışlar iç meksimlere dağılmışken kıyı iklimlerinde yıllık sıcaklık farkı küçük ve yağışlar daha dengelidir.",
    "Kara iklimlerinde nem oranı sürekli yüksek olup yoğunlaşma daha sık gerçekleşir.",
@@ -9512,7 +9512,7 @@
    "Bölge uzun süre aşınmaya maruz kalmış ve peneplenleşme sürecine girmiştir.",
    "Bölgede buzul aşındırması hâkim dış kuvvettir.",
    "Bölgedeki oluşumlar karstik süreçlerle açıklanabilir.",
-   "Bölgede yakın jeolojik geçmişte şiddetli volkanik faaliyetler yaşanmıştır. ve yüzey yeniden biçimlenmiştir.",
+   "Bölgede yakın jeolojik geçmişte şiddetli volkanik faaliyetler yaşanmış ve yüzey yeniden biçimlenmiştir.",
    "Bölge yakın zamanda belirgin bir yükselim (epirojenez) geçirmiştir."
   ],
   "dogru": 0,
@@ -9592,7 +9592,7 @@
    "Batı kıyıları düz, Kuzey ve Güney kıyıları ise girintili çıkıntılı bir yapı gösterir.",
    "Bütün kıyılar eşit derecede girintili çıkıntılı bir yapıya kavuşur.",
    "Kuzey kıyıları delta bakımından en zengin kıyılar haline gelir.",
-   "Güney kıyıları ria türü kıyı özelliği kazanırken Kuzey kıyıları belirgin fjord özelliği gösterir. ve bu yapı korunur.",
+   "Güney kıyıları ria türü kıyı özelliği kazanırken Kuzey kıyıları belirgin fjord özelliği gösterir ve bu yapı korunur.",
    "Batı kıyıları girintili çıkıntılı (ria tipi), Kuzey ve Güney kıyıları düz ve sade bir görünüm kazanır."
   ],
   "dogru": 4,
@@ -11705,7 +11705,7 @@
    "Makineleşme tarımsal verimliliği artırdığından kırsal gelir düzeyi yükselmiş ve iç göç hareketleri yavaşlamıştır.",
    "Kente göç eden nüfusun düşük vasıflı olması kentlerde işsizliği artırmış, işsizlik ise yeni göç dalgalarını tetikleyerek kentlerin sosyal altyapısını aşmıştır.",
    "Kırsal nüfusun azalması tarımsal üretimi düşürmüş, bu da ithal gıda ihtiyacını artırmıştır.",
-   "Kırsal kesimdeki genç nüfusun göç etmesiyle yaşlı nüfus oranı belirgin biçimde artmış ve kırsal vergi gelirleri düşmüştür. ve kırsal yatırımlar belirgin biçimde azalmıştır."
+   "Kırsal kesimdeki genç nüfusun göç etmesiyle yaşlı nüfus oranı belirgin biçimde artmış, kırsal vergi gelirleri düşmüş ve kırsal yatırımlar azalmıştır."
   ],
   "dogru": 2,
   "aciklama": "Makineleşmeyle işsiz kalan kırsal nüfus kente göç ettiğinde, düşük vasıf düzeyleri nedeniyle kentte de iş bulamaz ve işsiz kalır. Bu işsizlik, kente yerleşim maliyetini karşılayamayan bireylerin kötü yaşam koşullarına sürüklenmesine yol açar; ancak kırdaki koşullar daha da kötüleştiği için göç durmaz. Kentlerde büyüyen enformel sektör ve sosyal yük hem ekonomik hem demografik dengeyi kalıcı biçimde bozar. Diğer şıklar ya yanlış bir öncül içerir (E şıkkı) ya da kısır döngü mantığını yansıtmaz.",
@@ -11928,7 +11928,7 @@
    "Kalıntı doğurganlık, ekonomik kalkınmanın yeterli olduğu her yerde doğurganlığın mutlaka düşeceğini öngören deterministik geçiş modelini destekler.",
    "Kalıntı doğurganlık, demografik geçişin sanayi öncesi toplumlar için değil yalnızca sanayileşmiş Batı toplumları için geçerli olduğunu kanıtlar.",
    "Kalıntı doğurganlık, yüksek çocuk ölümlerinin hâlâ sigorta güdüsüyle doğurganlığı yüksek tuttuğunu kanıtladığından geçiş teorisiyle tamamen örtüşmekte ve onu desteklemektedir.",
-   "Kalıntı doğurganlık, kültürel faktörlerin doğurganlık üzerindeki etkisinin yalnızca kısa vadede belirleyici olduğunu göstererek uzun vadede ekonomik gelişmenin önceliğini pekiştirir ve geçiş teorisini bu yönüyle doğrular. ve politikaların ekonomiye odaklanması gerektiğini savunur.",
+   "Kalıntı doğurganlık, kültürel faktörlerin doğurganlık üzerindeki etkisinin yalnızca kısa vadede belirleyici olduğunu göstererek uzun vadede ekonomik gelişmenin önceliğini pekiştirir, geçiş teorisini bu yönüyle doğrular ve politikaların ekonomiye odaklanması gerektiğini savunur.",
    "Kalıntı doğurganlık, ekonomik gelişmenin doğurganlığı düşürmek için tek başına yeterli olmadığını; eğitim, cinsiyet eşitliği ve kültürel normlardaki dönüşümlerin ek açıklayıcı güce sahip olduğunu ileri sürerek geçiş teorisini tamamlar."
   ],
   "dogru": 4,
@@ -13463,7 +13463,7 @@
   "secenekler": [
    "Tarım sektörünün küçülmesi, Türkiye'nin tarım ürünleri ithalatçısı konumuna girmesinin temel nedenidir.",
    "GSYİH içindeki tarım payının gerilemesi, kırsal nüfusun artmasının doğal bir sonucudur.",
-   "Tarımın GSYİH içindeki payının azalması yalnızca Batı Anadolu'daki kentleşmeyle açıklanabilir; Doğu Anadolu'da ise tarımın payı sürekli biçimde artmaktadır. ve istihdamın orada yoğunlaşmasıdır.",
+   "Tarımın GSYİH içindeki payının azalması yalnızca Batı Anadolu'daki kentleşmeyle açıklanabilir; Doğu Anadolu'da ise tarımın payı sürekli biçimde artmakta ve istihdam orada yoğunlaşmaktadır.",
    "Tarımın GSYİH payının düşmesi, hizmet ve sanayi sektörlerinin görece daha hızlı büyümesinden kaynaklanmakta; bu süreç kırdan kente göçü ve tarım dışı istihdamı hızlandırmaktadır.",
    "Tarımın GSYİH içindeki payının gerilemesi, tarımsal üretim miktarının da mutlak olarak gerilediğini açıkça göstermektedir."
   ],
@@ -13529,7 +13529,7 @@
    "GAP'ın ekonomik getirisi, sulama maliyetlerini hiçbir zaman karşılayamayacak düzeyde kalacaktır.",
    "GAP sulamaları Güneydoğu Anadolu'yu pamuk, buğday ve mısırın yanı sıra sebze ve meyve üretiminde de önemli bir merkeze dönüştürecek; ancak tuzlanma ve drenaj sorunları üretim artışını sınırlayabilecektir.",
    "Sulama altyapısı tamamlandığında bölgede hayvancılık tamamen son bulacak, tüm üreticiler bitkisel üretime geçecektir.",
-   "GAP, Fırat ve Dicle havzalarının bütün topraklarını suladığında Türkiye otomatik olarak tarım ürünleri ihraç eden dünyanın lider ülkesi hâline gelecek ve dışa bağımlılığı tümüyle sona erecektir. ve ithalatın sona ermesi"
+   "GAP, Fırat ve Dicle havzalarının bütün topraklarını suladığında Türkiye otomatik olarak tarım ürünleri ihraç eden dünyanın lider ülkesi hâline gelecek, dışa bağımlılığı ve ithalatı tümüyle sona erecektir."
   ],
   "dogru": 2,
   "aciklama": "GAP, Türkiye'nin en büyük kalkınma projesi olarak Güneydoğu Anadolu'da yaklaşık 1,7 milyon hektar alanı sulamayı hedeflemektedir. Proje tamamlandığında pamuk, hububat, sebze ve meyve üretiminde ciddi artış beklenmektedir. Ancak sulama projelerinin tipik riskleri olan tuzlanma, alkalizasyon ve drenaj yetersizliği sorunları, bölgenin yarı kurak iklim koşullarında üretim artışının önünde ciddi bir engel oluşturabilmektedir. Bu gerçekçi ve dengeli değerlendirme A seçeneğinde verilmektedir. Diğer seçenekler abartılı, olgusal olarak yanlış ya da temelsiz çıkarımlar içermektedir.",
@@ -13544,7 +13544,7 @@
    "Doğu Karadeniz kıyı şeridi, yüksek nem ve ılıman kış koşulları sayesinde Türkiye'nin sera sebzeciliği merkezi hâline gelmiştir.",
    "Marmara Bölgesi, büyük kentlere olan yakınlığı ve soğuk kış koşullarının sera ihtiyacını artırması nedeniyle seracılıkta lider konumdadır.",
    "Ege Bölgesi, büyük sera alanları kurulmasına elverişli düz topografyası sayesinde seracılıkta birinci sıraya yerleşmiştir.",
-   "İç Anadolu'nun yüksek yaylalarında don olaylarına karşı koruyucu yüksek cam sera sistemleri geliştirildiği için bu bölge seracılık faaliyetlerinde öne çıkmaktadır. ve verimi artırmaktadır.",
+   "İç Anadolu'nun yüksek yaylalarında don olaylarına karşı koruyucu yüksek cam sera sistemleri geliştirildiği için bu bölge seracılık faaliyetlerinde öne çıkmakta ve verimi artırmaktadır.",
    "Akdeniz Bölgesi (özellikle Antalya), kış aylarında dahi ılık seyreden iklimi, güneşlenme süresi ve pazar yakınlığı (ihracat) nedeniyle seracılıkta açık ara lider konumdadır."
   ],
   "dogru": 4,
@@ -13561,7 +13561,7 @@
    "Türkiye'de tarım arazisi arttıkça kentleşme oranı da artmakta, bu durum kırsal nüfusu beslemektedir.",
    "Tarım arazisi miktarı ile tarımsal istihdam oranı arasında doğrusal bir ilişki bulunmamakta; mekanizasyon düzeyi, arazi büyüklüğü ve pazara erişim gibi faktörler bu ilişkiyi karmaşıklaştırmaktadır.",
    "Tarımsal istihdam oranı en yüksek bölgeler, makineleşmenin en çok ilerlediği ve büyük tarım işletmelerinin yoğunlaştığı Batı Anadolu bölgeleridir.",
-   "Tarım arazisi miktarı en fazla olan bölgeler, tarımsal istihdamın da en yüksek olduğu bölgelerdir; bu ilişki her koşulda birebir doğrusal bir seyir izlemektedir. ve istisnası bulunmamaktadır. Sapma görülmez."
+   "Tarım arazisi miktarı en fazla olan bölgeler, tarımsal istihdamın da en yüksek olduğu bölgelerdir; bu ilişki her koşulda birebir doğrusal bir seyir izlemekte, herhangi bir istisnası ya da sapması bulunmamaktadır."
   ],
   "dogru": 2,
   "aciklama": "Tarım arazisi miktarı ile tarımsal istihdam arasındaki ilişki doğrusal değildir. Örneğin İç Anadolu'da geniş tarım arazileri bulunmasına karşın yüksek mekanizasyon (traktör, hasat makinesi kullanımı) işgücü ihtiyacını azaltmaktadır. Öte yandan, küçük ölçekli ve yoğun emek gerektiren seracılık, fındık ve çay tarımının yapıldığı illerde arazi küçük olsa bile istihdam yoğundur. Bu ilişkiyi mekanizasyon düzeyi, işletme ölçeği ve ürün tipi belirlemektedir; dolayısıyla C seçeneği analitik açıdan en doğru yanıttır.",
@@ -16520,7 +16520,7 @@
    "Bölge, hem Karadeniz'e hem de Ege Denizi'ne kıyısı olan tek bölgedir.",
    "Türkiye'nin en büyük yüzölçümüne sahip bölgesidir.",
    "Sanayi üretiminde Ege Bölgesi'nin belirgin biçimde gerisinde kalır.",
-   "Orman varlığı bakımından Türkiye'nin en zengin bölgesi konumundadır. ve orman ürünleri üretir.",
+   "Orman varlığı bakımından Türkiye'nin en zengin bölgesi konumundadır ve orman ürünleri üretir.",
    "Nüfus yoğunluğu İç Anadolu Bölgesi'ne yakındır."
   ],
   "dogru": 0,
@@ -17141,7 +17141,7 @@
   "konuId": "bolgeler_cografyasi",
   "soru": "Türkiye'de coğrafi bölge sınırları belirlenirken kullanılan temel kriterleri doğru biçimde açıklayan ifade hangisidir?",
   "secenekler": [
-   "Bölgeler yalnızca iklim özelliklerine göre sınıflandırılmış, diğer bütün doğal ve beşeri etkenler göz ardı edilmiştir. ve dikkate alınmamıştır",
+   "Bölgeler yalnızca iklim özelliklerine göre sınıflandırılmış, diğer bütün doğal ve beşeri etkenler göz ardı edilmiş ve dikkate alınmamıştır.",
    "Her bölge, içinde bulundurduğu dağ silsilesine göre adlandırılmış ve sınırları buna göre belirlenmiştir.",
    "Coğrafi bölge sınırları Cumhuriyet'in ilanıyla birlikte 1923'te belirlenmiştir.",
    "1941 Ankara Coğrafya Kongresi kararlarıyla doğal ortam, beşeri ve ekonomik özellikler birlikte değerlendirilerek bölgeler belirlenmiştir.",
@@ -17161,7 +17161,7 @@
    "Dağların kıyıya paralel uzanması, iç kesimlere geçişi engellemekte ve kıyı ovalarını daraltmakta; engebeli yapı ve yüksek nem tarımı güçleştirmektedir.",
    "Bölgede nüfus yoğunluğunun düşük olması tarım talebini azaltmaktadır.",
    "Devlet politikaları bölgede sanayi yatırımlarını ön planda tuttuğundan tarım sektörüne hiç destek verilmemektedir.",
-   "Bol yağış tarımı mümkün kılsa da aşırı nem bütün bitkilerde hastalığa yol açtığından bölgede tarımsal üretim yapılamamaktadır. ve üretim planlanamamaktadır"
+   "Bol yağış tarımı mümkün kılsa da aşırı nem bütün bitkilerde hastalığa yol açtığından bölgede tarımsal üretim yapılamamakta ve planlanamamaktadır."
   ],
   "dogru": 1,
   "aciklama": "Karadeniz Bölgesi'nde tarım alanlarının sınırlı olmasının birincil nedeni fiziki coğrafyadır. Dağların kıyıya paralel uzanması ovalık alanları daraltmakta, yüksek engebeli yapı düz ve işlenebilir tarım arazisi bırakmamaktadır. Buna ek olarak yüksek nem bazı tarımsal faaliyetleri güçleştirse de fındık, çay gibi ürünler bu koşullara uyum sağlamıştır. Diğer seçeneklerdeki nedenler ya kısmen doğru ya da yanıltıcıdır; en kapsamlı açıklama B şıkkında verilmiştir.",
@@ -17193,7 +17193,7 @@
    "Kıyıda maki ve zeytinlikler, iç kesimlerde ise orman ve fındık bahçeleri egemendir.",
    "İç kesimlerde deniz etkisi azaldıkça sıcaklık farkları artar ve Akdeniz ikliminin yerini kısmen karasal iklim alır; zeytinin yerini tahıl ve tütün alır.",
    "Tüm Ege Bölgesi'nde iklim aynı kaldığından tarımsal ürün deseni kıyı-iç ayrımı gözetmeksizin homojen bir yapı gösterir.",
-   "İç kesimlere gidildikçe yağış belirgin biçimde artar, Akdeniz bitki örtüsü yerini step örtüsüne bırakır ve tahıl tarımı önem kazanır. ve zeytin tarımı tümüyle sona erer"
+   "İç kesimlere gidildikçe yağış belirgin biçimde artar, Akdeniz bitki örtüsü yerini step örtüsüne bırakır, tahıl tarımı önem kazanır ve zeytin tarımı tümüyle sona erer."
   ],
   "dogru": 2,
   "aciklama": "Ege Bölgesi'nde kıyıdan iç kesimlere doğru uzaklaştıkça denizin ılıtıcı ve nemli etkisi azalır. Yazlar daha sıcak ve kurak, kışlar daha soğuk geçmeye başlar; bu durum karasallığın arttığını gösterir. Kıyı kesiminde zeytin, incir, üzüm, pamuk yetiştirilirken iç kesimlerde tütün (özellikle İzmir'in iç kesimleri ve Gediz havzası), tahıl ve kuru tarım ürünleri ön plana çıkar. A şıkkındaki 'yağış artar' ifadesi yanlıştır; yağış azalır.",
