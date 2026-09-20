@@ -1550,12 +1550,28 @@ console.log(`  ✓ dist/sitemap.xml — ${sitemapYollari.length} adres`)
 const varliklar = await readdir(join(DIST, 'assets')).catch(() => [])
 const swYolu = join(DIST, 'sw.js')
 let sw = await readFile(swYolu, 'utf8')
+/* dist/assets altındaki dosya adları Vite tarafından içerik özetiyle üretildiği
+   için kod değişikliği damgayı kendiliğinden değiştirir. Ancak dist/data
+   altındaki JSON dosyalarının adları sabittir (turkce.json gibi); soru bankası
+   güncellendiğinde damga değişmez ve "yeni sürüm hazır" bildirimi hiç çıkmaz.
+   Bu yüzden sabit adlı veri dosyalarının İÇERİĞİ de damgaya katılır. */
+async function veriOzeti(dizin) {
+  const girdiler = await readdir(dizin, { withFileTypes: true }).catch(() => [])
+  const parcalar = []
+  for (const g of girdiler.sort((a, b) => a.name.localeCompare(b.name))) {
+    const yol = join(dizin, g.name)
+    if (g.isDirectory()) parcalar.push(await veriOzeti(yol))
+    else parcalar.push(g.name + ':' + createHash('sha256').update(await readFile(yol)).digest('hex'))
+  }
+  return parcalar.join('|')
+}
+const veriDamgasi = await veriOzeti(join(DIST, 'data'))
 /* sw.js'in KENDİ içeriği de damgaya girer. Aksi hâlde yalnızca service worker
    mantığı değiştiğinde damga sabit kalır; cache adları aynı kaldığı için
    activate eski cache'leri silmez ve bayat app shell kullanılmaya devam eder
    (ilk tıklamada boş ekran, yenileyince düzelme belirtisi tam olarak budur). */
 const damga = createHash('sha256')
-  .update(varliklar.sort().join('|') + ' ' + sw)
+  .update(varliklar.sort().join('|') + ' ' + sw + ' ' + veriDamgasi)
   .digest('hex')
   .slice(0, 8)
 const yeniSurum = `ka-${JSON.parse(await readFile(join(KOK, 'package.json'), 'utf8')).version}-${damga}`

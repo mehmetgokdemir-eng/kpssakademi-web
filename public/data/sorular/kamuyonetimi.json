@@ -7870,5 +7870,213 @@
   "dogru": 3,
   "aciklama": "Dunleavy ve arkadaşları, 'New Public Management Is Dead' başlıklı çalışmalarında YKY'nin ajanslara devir, sözleşme yönetimi ve piyasacılaştırma gibi çözümlerinin dijital çağda işlevini yitirdiğini öne sürer. Dijital Devlet Teorisi üç ana ilkeyle YKY'nin alternatifi olarak konumlanır: (1) Yeniden entegrasyon – parçalanmış yapıların dijital altyapıyla birleştirilmesi, (2) Bütünsel değişim – süreçlerin kademeli değil radikal biçimde dönüştürülmesi, (3) Vatandaş merkezlilik – kişiselleştirilmiş dijital hizmetler. Bu teori YKY'yi tarihsel olarak koşullu ve dijital çağda geçerliliğini yitirmiş bir paradigma olarak sunar.",
   "zorluk": "zor"
+ },
+ {
+  "id": "54496",
+  "dersId": "kamuyonetimi",
+  "konuId": "yeni_kamu_yonetimi",
+  "soru": "Yeni Kamu İşletmeciliği (New Public Management) ile Yeni Kamu Yönetişimi (New Public Governance) yaklaşımları karşılaştırıldığında aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Yeni Kamu İşletmeciliği piyasa mantığını ve rekabeti öne çıkarırken Yeni Kamu Yönetişimi ağ ilişkilerini ve ortak üretimi merkeze alır",
+   "Yeni Kamu İşletmeciliği vatandaşı hizmetin ortak üreticisi sayarken Yeni Kamu Yönetişimi onu yalnızca müşteri konumunda değerlendirmektedir",
+   "Her iki yaklaşım da klasik bürokrasinin hiyerarşik yapısını koruyarak yalnızca personel rejiminde değişiklik önermektedir",
+   "Yeni Kamu Yönetişimi performans ölçümünü ve sözleşmeye dayalı hizmet sunumunu ilk kez gündeme getiren yaklaşım olmuştur",
+   "Yeni Kamu İşletmeciliği kamu hizmetlerinin tümüyle devlet eliyle üretilmesini savunarak özelleştirmeye karşı çıkmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Yeni Kamu İşletmeciliği, özel sektör tekniklerini kamuya taşıyarak rekabet, performans ölçümü ve müşteri odaklılığı öne çıkarır. Yeni Kamu Yönetişimi ise tek bir örgüt yerine kamu, özel ve sivil aktörlerden oluşan ağları esas alır ve vatandaşı hizmetin ortak üreticisi (co-producer) sayar.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54497",
+  "dersId": "kamuyonetimi",
+  "konuId": "yeni_kamu_yonetimi",
+  "soru": "Kamu yönetiminde 'yönetişim' kavramının klasik 'yönetim' anlayışından ayrıldığı temel nokta aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Karar alma yetkisinin tek merkezde toplanması yerine çok aktörlü ve karşılıklı bağımlı bir sürece yayılması",
+   "Kamu politikalarının uygulanması sırasında hiyerarşinin ve emir-komuta zincirinin daha da güçlendirilmiş olması",
+   "Bürokratik denetimin yerini yalnızca yargısal denetimin alması ve idari denetimin tümüyle kaldırılması",
+   "Kamu hizmetlerinin finansmanının yalnızca merkezi bütçeden karşılanması ve yerel kaynakların dışlanması",
+   "Siyasi iktidarın kamu personeli üzerindeki atama yetkisinin genişletilerek liyakatin ikincil kılınması"
+  ],
+  "dogru": 0,
+  "aciklama": "Yönetişim, kamu politikalarının tek bir merkezden hiyerarşik biçimde üretilmesi yerine kamu kurumları, özel sektör ve sivil toplumun karşılıklı bağımlılık içinde katıldığı çok aktörlü bir süreci ifade eder. Şeffaflık, hesap verebilirlik ve katılım bu anlayışın temel ilkeleridir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54498",
+  "dersId": "kamuyonetimi",
+  "konuId": "yeni_kamu_yonetimi",
+  "soru": "Kamu hizmetlerinin sunumunda uygulanan 'yap-işlet-devret' modelinin klasik kamu yatırımından ayrıldığı temel özellik aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Yatırımın finansmanı ve işletme riskinin belirli bir süre boyunca özel sektöre bırakılması",
+   "Tesisin mülkiyetinin sözleşme süresi boyunca kalıcı olarak özel şirkete devredilmesi",
+   "Hizmet bedelinin kullanıcılardan hiçbir biçimde tahsil edilmemesi ve tümüyle bütçeden karşılanması",
+   "Yatırımın denetiminin kamu kurumları yerine bağımsız uluslararası kuruluşlara bırakılması",
+   "Sözleşme süresi sonunda tesisin yıkılarak arazinin eski hâline getirilmesinin zorunlu tutulması"
+  ],
+  "dogru": 0,
+  "aciklama": "Yap-işlet-devret modelinde yatırımı özel şirket finanse eder, belirlenen süre boyunca işleterek gelir elde eder ve süre sonunda tesisi kamuya devreder. Mülkiyet devri geçici değildir; tesis sözleşme sonunda idareye geçer. Model, yatırım ve işletme riskini süre boyunca özel sektöre aktarır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54499",
+  "dersId": "kamuyonetimi",
+  "konuId": "yonetim_teorileri",
+  "soru": "Klasik yönetim kuramının üç ana damarı olan bilimsel yönetim, yönetim süreci ve bürokrasi yaklaşımlarının ortak varsayımı aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Örgütün kapalı bir sistem olduğu ve verimliliğin rasyonel ilkelerle artırılabileceği",
+   "Çalışanların sosyal ihtiyaçlarının üretkenliği belirleyen temel etken olduğu",
+   "Örgütlerin çevresel belirsizliğe göre yapısını değiştirmesi gerektiği",
+   "Yönetsel kararların sınırlı rasyonellik koşullarında alındığı ve en iyiyi değil tatmin ediciyi hedeflediği",
+   "Örgüt içinde biçimsel olmayan grupların biçimsel yapıdan daha belirleyici olduğu"
+  ],
+  "dogru": 0,
+  "aciklama": "Taylor'ın bilimsel yönetimi, Fayol'un yönetim süreci ve Weber'in bürokrasi modeli; örgütü çevreden yalıtılmış kapalı bir sistem sayar ve verimliliğin rasyonel ilke ve kurallarla sağlanacağını varsayar. Sosyal ihtiyaç vurgusu neo-klasik, çevresel uyum ise modern (durumsallık) yaklaşımlara aittir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54500",
+  "dersId": "kamuyonetimi",
+  "konuId": "yonetim_teorileri",
+  "soru": "Herbert Simon'ın 'sınırlı rasyonellik' kavramının klasik karar kuramına yönelttiği temel eleştiri aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Karar vericinin bilgi, zaman ve bilişsel kapasite kısıtları nedeniyle en iyiyi değil tatmin ediciyi seçmesi",
+   "Karar sürecinin bütünüyle duygusal etkenlerle belirlenmesi ve akıl yürütmenin süreçte hiçbir rol oynamaması",
+   "Örgütlerde kararların yalnızca üst yönetim tarafından alınması ve alt kademelerin sürece katılmaması",
+   "Karar alma sürecinin matematiksel modellerle her koşulda eksiksiz biçimde modellenebilmesi",
+   "Kararların yalnızca örgütün biçimsel yapısı tarafından belirlenmesi ve bireysel etkenin bulunmaması"
+  ],
+  "dogru": 0,
+  "aciklama": "Simon, klasik kuramın 'ekonomik insan' varsayımını reddeder. Karar verici bütün seçenekleri ve sonuçlarını bilemez; bilgi, zaman ve bilişsel kapasite sınırlıdır. Bu nedenle en iyiyi (optimizing) değil, belirlediği ölçütü karşılayan ilk tatmin edici seçeneği (satisficing) benimser.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54501",
+  "dersId": "kamuyonetimi",
+  "konuId": "yonetim_teorileri",
+  "soru": "Durumsallık (koşul bağımlılık) yaklaşımının örgüt kuramına katkısını en doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Her koşulda geçerli tek bir en iyi örgütlenme biçimi bulunmadığını, yapının çevreye göre değiştiğini göstermesi",
+   "Örgütlerin verimliliğinin yalnızca iş bölümü ve uzmanlaşma derecesine bağlı kaldığını ampirik olarak kanıtlaması",
+   "Biçimsel olmayan grupların örgüt içinde hiçbir etkisinin bulunmadığını ampirik olarak ortaya koyması",
+   "Bürokratik yapının bütün çevre koşullarında en yüksek verimi sağlayan model olduğunu doğrulaması",
+   "Yönetim işlevlerinin evrensel ilkelerle tanımlanabileceğini ve bunların değişmez olduğunu savunması"
+  ],
+  "dogru": 0,
+  "aciklama": "Burns-Stalker ile Lawrence-Lorsch'un çalışmaları, durağan çevrelerde mekanik, değişken çevrelerde organik yapıların daha başarılı olduğunu göstermiştir. Yaklaşımın özü, klasik kuramın 'tek en iyi yol' iddiasını reddederek uygun yapının duruma bağlı olduğunu ortaya koymasıdır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54502",
+  "dersId": "kamuyonetimi",
+  "konuId": "turk_kamu_yonetimi",
+  "soru": "Türkiye'de idarenin bütünlüğü ilkesinin sağlanmasında kullanılan 'hiyerarşi' ile 'idari vesayet' araçları arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Hiyerarşi aynı tüzel kişilik içinde kendiliğinden işlerken idari vesayet ayrı tüzel kişilikler arasında ve kanunla tanınır",
+   "İdari vesayet aynı kurum içindeki ast-üst ilişkisini, hiyerarşi ise farklı kurumlar arasındaki denetim ilişkisini ifade etmektedir",
+   "Hiyerarşi yalnızca mali işlemlerde, idari vesayet ise yalnızca personel işlemlerinde uygulanabilen bir denetim türüdür",
+   "İki araç da ancak yargı kararıyla işletilebilmekte olup idarenin kendiliğinden kullanabileceği yetki bulunmamaktadır",
+   "İdari vesayet merkezi idarenin kendi iç işleyişini, hiyerarşi ise yerel yönetimler üzerindeki denetimi düzenlemektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Hiyerarşi, aynı kamu tüzel kişiliği içindeki ast-üst ilişkisidir; ayrıca bir kanun hükmü gerekmez ve üst, astın işlemleri üzerinde geniş yetkiye sahiptir. İdari vesayet ise merkezi idarenin yerinden yönetim kuruluşları üzerindeki denetimidir; ayrı tüzel kişilikler söz konusu olduğundan ancak kanunla tanınır ve kanunda belirtilen hâllerle sınırlıdır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54503",
+  "dersId": "kamuyonetimi",
+  "konuId": "turk_kamu_yonetimi",
+  "soru": "Türkiye'de il özel idaresi, belediye ve köy tüzel kişilikleri karşılaştırıldığında aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Üçü de mahalli idare olup karar organları seçmenlerce seçilir ve idari vesayet denetimine tabidir",
+   "Yalnızca belediyeler mahalli idare sayılmakta olup il özel idaresi ve köy merkezi idarenin taşra birimidir",
+   "Köylerin tüzel kişiliği bulunmadığından bunlar bağlı oldukları belediyenin bir alt birimi olarak yönetilir",
+   "İl özel idarelerinin karar organı olan il genel meclisi vali tarafından atanan üyelerden oluşmaktadır",
+   "Belediyeler üzerinde idari vesayet uygulanmazken il özel idareleri doğrudan İçişleri Bakanlığı'na bağlıdır"
+  ],
+  "dogru": 0,
+  "aciklama": "Anayasa'nın 127. maddesine göre mahalli idareler il özel idaresi, belediye ve köylerdir; üçü de kamu tüzel kişiliğine sahiptir, karar organları seçmenlerce seçilir ve merkezi idarenin idari vesayet denetimine tabidir. İl genel meclisi de seçimle oluşur, vali ise merkezi idarenin temsilcisidir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54504",
+  "dersId": "kamuyonetimi",
+  "konuId": "turk_kamu_yonetimi",
+  "soru": "Cumhurbaşkanlığı hükümet sistemine geçişle birlikte Türk kamu yönetiminde ortaya çıkan yapısal değişikliklerden biri aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Bakanlıkların kuruluş ve görevlerinin Cumhurbaşkanlığı kararnamesiyle düzenlenebilir hâle gelmesi",
+   "Bakanlar Kurulu'nun yetkilerinin genişletilerek kanun hükmünde kararname çıkarma usulünün sürdürülmesi",
+   "Müsteşarlık kadrolarının korunarak bakanlıkların idari yapısının değiştirilmeden bırakılması",
+   "Düzenleyici ve denetleyici kurumların kaldırılarak görevlerinin doğrudan bakanlıklara devredilmesi",
+   "Devlet Planlama Teşkilatı'nın yeniden kurularak kalkınma planlarının hazırlanmasıyla görevlendirilmesi"
+  ],
+  "dogru": 0,
+  "aciklama": "2017 Anayasa değişikliğiyle bakanlıkların kurulması, kaldırılması ve görevlerinin belirlenmesi Cumhurbaşkanlığı kararnamesine bırakılmıştır. Aynı süreçte Bakanlar Kurulu ve kanun hükmünde kararname usulü kaldırılmış, müsteşarlık kadroları yerine bakan yardımcılığı getirilmiştir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54505",
+  "dersId": "kamuyonetimi",
+  "konuId": "personel_rejimi",
+  "soru": "657 sayılı Devlet Memurları Kanunu'nda yer alan 'kariyer' ve 'liyakat' ilkeleri arasındaki ilişkiyi doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Kariyer memurun mesleğinde ilerleyebilmesini, liyakat ise göreve girmede ve yükselmede yeterliğin esas alınmasını ifade eder",
+   "Kariyer ilkesi memurun siyasi tercihlerine göre atanmasını, liyakat ise kıdem sırasının her koşulda korunmasını düzenlemektedir",
+   "İki ilke de yalnızca sözleşmeli personel için geçerli olup kadrolu memurlar bu ilkelerin kapsamı dışındadır",
+   "Liyakat memurun hizmet süresine göre otomatik olarak terfi etmesini güvence altına alan bir ilkedir",
+   "Kariyer ilkesi memurun görevden uzaklaştırılmasına ilişkin usulleri, liyakat ise disiplin cezalarını düzenler"
+  ],
+  "dogru": 0,
+  "aciklama": "657 sayılı Kanun'un temel ilkelerinden kariyer, memurun yaptığı hizmet için gerekli bilgi ve yetişme koşuluna uygun biçimde sınıfı içinde en yüksek derecelere kadar ilerleyebilmesini ifade eder. Liyakat ise göreve alınmada, ilerlemede ve yükselmede yeterliğin esas alınmasını ve eşit olanaklar sağlanmasını gerektirir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54506",
+  "dersId": "kamuyonetimi",
+  "konuId": "personel_rejimi",
+  "soru": "Devlet memurları bakımından 'görevden uzaklaştırma' ile 'görevine son verme' işlemleri karşılaştırıldığında aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Görevden uzaklaştırma soruşturma süresince uygulanan geçici bir tedbir, görevine son verme ise memurluğu sona erdiren işlemdir",
+   "Görevden uzaklaştırma memuriyet sıfatını doğrudan sona erdirirken görevine son verme işlemi yalnızca maaş kesintisi doğurmaktadır",
+   "İki işlem de yalnızca disiplin kurulu kararıyla uygulanabilmekte olup amirlerin bu konuda yetkisi bulunmamaktadır",
+   "Görevden uzaklaştırılan memura hiçbir ödeme yapılmazken görevine son verilen memur maaşını almaya devam eder",
+   "Görevden uzaklaştırma süresiz olarak uygulanabilirken görevine son verme en çok üç ayla sınırlandırılmıştır"
+  ],
+  "dogru": 0,
+  "aciklama": "Görevden uzaklaştırma, kamu hizmetinin gerektirdiği hâllerde soruşturma sürerken alınan ihtiyati nitelikte geçici bir tedbirdir; memurun statüsü sürer ve kendisine aylığının belirli bir oranı ödenir. Görevine son verme ise memurluk statüsünü sona erdiren kesin bir işlemdir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54507",
+  "dersId": "kamuyonetimi",
+  "konuId": "personel_rejimi",
+  "soru": "Kamu personel sisteminde 'kadro' kavramının işlevini en doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Kamu hizmetinin gerektirdiği görevi, bu görevin sınıf ve derecesini önceden belirleyen hukuki çerçeve olması",
+   "Memurun aldığı ücretin miktarını bireysel sözleşmeyle serbestçe belirlemeye imkân tanıyan bir araç olması",
+   "Kurumların ihtiyaç duydukları personeli sınav aranmaksızın istihdam edebilmelerini sağlayan bir yöntem olması",
+   "Memurun emeklilik haklarının hesaplanmasında kullanılan ve hizmet süresini gösteren bir kayıt olması",
+   "Kamu kurumlarının bütçe dışı kaynaklardan personel gideri karşılamasına olanak veren bir düzenleme olması"
+  ],
+  "dogru": 0,
+  "aciklama": "Kadro, bir kamu kurumunda yürütülecek görevi ve bu görevin unvan, sınıf ve derecesini önceden belirleyen hukuki çerçevedir. Kadrosuz memur çalıştırılamaz; bu yönüyle kadro hem personel planlamasının hem de mali disiplinin aracıdır. Ücret ise kadronun derece ve kademesine bağlı olarak kanunla belirlenir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "54508",
+  "dersId": "kamuyonetimi",
+  "konuId": "yeni_kamu_yonetimi",
+  "soru": "Kamu yönetiminde 'performans esaslı bütçeleme' anlayışının klasik bütçeleme yaklaşımından ayrıldığı temel nokta aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Ödeneklerin girdi kalemleri yerine ulaşılmak istenen çıktı ve sonuçlarla ilişkilendirilmesi",
+   "Bütçenin yasama organı yerine doğrudan yürütme organı tarafından kesin olarak onaylanması",
+   "Harcamaların denetiminin yalnızca harcama sonrasında yapılması ve ön denetimin kaldırılması",
+   "Bütçe döneminin bir yıldan beş yıla çıkarılarak yıllık ödenek tahsisinin tümüyle terk edilmesi",
+   "Kamu kurumlarının gelir toplama yetkisinin genişletilerek merkezi bütçeye bağımlılığın azaltılması"
+  ],
+  "dogru": 0,
+  "aciklama": "Klasik bütçeleme ödenekleri personel, mal-hizmet alımı gibi girdi kalemlerine göre tahsis eder ve uygunluk denetimine odaklanır. Performans esaslı bütçeleme ise kaynakları stratejik plan ve performans programındaki hedeflerle ilişkilendirir; başarı, harcamanın usule uygunluğundan çok ulaşılan sonuçla ölçülür.",
+  "zorluk": "zor"
  }
 ]

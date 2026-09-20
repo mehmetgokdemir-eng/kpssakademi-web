@@ -8814,5 +8814,213 @@
   "dogru": 4,
   "aciklama": "Türkiye-AB Gümrük Birliği'nin en çok eleştirilen asimetrik boyutu, AB'nin üçüncü ülkelerle müzakere ettiği serbest ticaret anlaşmalarının yarattığı durumla ilgilidir. Gümrük Birliği çerçevesinde Türkiye, AB'nin OGT'sini (Ortak Gümrük Tarifesi) uygulamak zorunda olduğundan, AB'nin STA imzaladığı bir ülkeyle otomatik olarak rekabet etmek durumunda kalırken karşılıklılık ilkesi işlememektedir. Bu durum özellikle AB'nin güçlü ekonomilerle (ABD, Japonya, Kanada vd.) STA müzakerelerine başladığı dönemlerde Türkiye'nin ticaret saptırması riskine maruz kaldığını göstermektedir. Bu yapısal asimetri Dünya Bankası ve TÜSİAD raporlarında da kapsamlı biçimde ele alınmıştır.",
   "zorluk": "zor"
+ },
+ {
+  "id": "46554",
+  "dersId": "iktisat",
+  "konuId": "turkiye_ekonomisi",
+  "soru": "Türkiye'de 24 Ocak 1980 kararlarının ekonomi politikası bakımından temel niteliği aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "İthal ikameci sanayileşmeden ihracata dayalı büyüme stratejisine geçilmesi",
+   "Devletçi sanayileşme modelinin kurumsallaştırılarak kamu iktisadi teşebbüslerinin genişletilmesi",
+   "Sabit döviz kuru rejiminin güçlendirilerek sermaye hareketlerinin tümüyle kısıtlanması",
+   "Tarım sektörüne verilen desteklerin artırılarak sanayi yatırımlarının ertelenmesi",
+   "Merkez Bankası bağımsızlığının kaldırılarak para politikasının Hazine'ye devredilmesi"
+  ],
+  "dogru": 0,
+  "aciklama": "24 Ocak Kararları; fiyat denetimlerinin kaldırılması, devalüasyon, ihracat teşvikleri ve dışa açılma yoluyla ithal ikameci modelden ihracata yönelik büyüme stratejisine geçişi simgeler. Sermaye hareketlerinin serbestleşmesi ise 1989'daki 32 sayılı Karar'la tamamlanmıştır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46555",
+  "dersId": "iktisat",
+  "konuId": "turkiye_ekonomisi",
+  "soru": "Türkiye ekonomisinde cari işlemler açığının yapısal niteliği bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Üretimin ara malı ve enerji ithalatına bağımlı olması nedeniyle büyüme hızlandıkça açığın genişlemesi",
+   "Açığın yalnızca turizm gelirlerindeki dalgalanmalardan kaynaklanması ve üretim yapısıyla ilgisiz olması",
+   "Büyüme oranı yükseldikçe ithalatın azalması nedeniyle açığın kendiliğinden kapanma eğilimi göstermesi",
+   "Açığın tümüyle kamu bütçe açığından kaynaklanması ve özel sektörün tasarruf açığı vermemesi",
+   "Döviz kuru değer kaybettiğinde ithalat maliyetlerinin düşmesi nedeniyle açığın hızla gerilemesi"
+  ],
+  "dogru": 0,
+  "aciklama": "Türkiye'de sanayi üretimi yüksek oranda ithal ara malı ve enerjiye dayanır. Bu nedenle büyüme hızlandığında ithalat da artar ve cari açık genişler; bu olguya 'büyüme-cari açık kilidi' denir. Kurdaki değer kaybı ise ithalat maliyetlerini düşürmez, artırır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46556",
+  "dersId": "iktisat",
+  "konuId": "turkiye_ekonomisi",
+  "soru": "Türkiye'de 2001 krizi sonrasında bankacılık sektöründe yapılan düzenlemelerin temel amacı aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Sermaye yeterliliği ve risk yönetimi standartlarını güçlendirerek sistemik kırılganlığı azaltmak",
+   "Kamu bankalarının sayısını artırmak suretiyle kredi arzını doğrudan devlet eliyle genişletmeyi sağlamak",
+   "Mevduat sigortası kapsamını kaldırarak bankaların risk almasını teşvik etmek",
+   "Bankaların döviz açık pozisyon sınırlarını genişleterek dış borçlanmayı kolaylaştırmak",
+   "Bankacılık denetimini Merkez Bankası'na devrederek ayrı bir düzenleyici kurumu tasfiye etmek"
+  ],
+  "dogru": 0,
+  "aciklama": "Güçlü Ekonomiye Geçiş Programı kapsamında görev zararları tasfiye edilmiş, sermaye yeterliliği ve açık pozisyon sınırlamaları sıkılaştırılmış, BDDK'nın denetim kapasitesi güçlendirilmiştir. Bu düzenlemeler, 2008 küresel krizinde sektörün göreli dayanıklılığının temel nedeni sayılır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46557",
+  "dersId": "iktisat",
+  "konuId": "uluslararasi_i_ktisat",
+  "soru": "Mutlak üstünlük ile karşılaştırmalı üstünlük kuramları arasındaki temel farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Karşılaştırmalı üstünlük, bir ülke bütün mallarda daha verimli olsa bile ticaretten karşılıklı kazanç doğabileceğini gösterir",
+   "Mutlak üstünlük kuramı fırsat maliyetini esas alırken karşılaştırmalı üstünlük kuramı yalnızca emek verimliliğini dikkate almaktadır",
+   "Karşılaştırmalı üstünlük yalnızca iki ülkenin verimliliği eşit olduğunda geçerli olan özel bir durumu tanımlamaktadır",
+   "Mutlak üstünlük kuramı ticaretin her iki taraf için de zarar doğuracağını ileri sürerek korumacılığı savunmaktadır",
+   "İki kuram arasında analitik bir fark bulunmamakta olup ayrım yalnızca kullanılan terminolojiden kaynaklanmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Smith'in mutlak üstünlük kuramında bir ülkenin ticaretten kazanması için en az bir malda daha verimli olması gerekir. Ricardo, fırsat maliyeti farkının yeterli olduğunu göstermiştir: bir ülke bütün mallarda mutlak üstün olsa bile, göreli olarak daha ucuza ürettiği malda uzmanlaşarak iki taraf da kazanır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46558",
+  "dersId": "iktisat",
+  "konuId": "uluslararasi_i_ktisat",
+  "soru": "Küçük ülke varsayımı altında ithalata uygulanan gümrük tarifesinin ticaret hadleri üzerindeki etkisi bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Küçük ülke dünya fiyatını etkileyemediğinden ticaret hadleri değişmez ve tarifenin net etkisi refah kaybıdır",
+   "Küçük ülke dünya fiyatını aşağı çekerek ticaret hadlerini iyileştirir ve kendisi için net refah artışı sağlar",
+   "Tarife uygulandığında yurt içi fiyat değişmez, yalnızca devletin tarife geliri artar ve refah korunur",
+   "Küçük ülkede tüketici rantındaki kayıp üretici rantındaki artışa eşit olduğundan net etki sıfır olur",
+   "Tarife, küçük ülkede ithalatı artırarak dış ticaret açığının genişlemesine yol açar ve refahı yükseltir"
+  ],
+  "dogru": 0,
+  "aciklama": "Küçük ülke dünya fiyatını veri alır; tarife dünya fiyatını düşüremediğinden ticaret hadleri kazancı doğmaz. Yurt içi fiyat tarife kadar yükselir; tüketici rantındaki kayıp, üretici rantı artışı ile tarife gelirinin toplamını aşar ve üretim ile tüketim çarpıklığından doğan net refah kaybı ortaya çıkar.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46559",
+  "dersId": "iktisat",
+  "konuId": "uluslararasi_i_ktisat",
+  "soru": "Ödemeler bilançosunda 'net hata ve noksan' kaleminin sürekli olarak büyük ve pozitif değerler alması aşağıdakilerden hangisine işaret eder?",
+  "secenekler": [
+   "Kayıt dışı kaynaklardan ülkeye giren ve istatistiklere yansımayan döviz hareketlerinin bulunduğuna",
+   "Merkez Bankası rezervlerinin tümüyle tükendiğine ve döviz yükümlülüklerinin karşılanamadığına",
+   "Cari işlemler hesabının çifte kayıt ilkesi gereği kendiliğinden dengelendiğine ve açık bulunmadığına",
+   "Doğrudan yabancı yatırımların portföy yatırımlarının yerini kalıcı biçimde aldığına",
+   "Ülkenin dış borç stokunun azalarak net alacaklı konuma geçmiş olduğuna"
+  ],
+  "dogru": 0,
+  "aciklama": "Ödemeler bilançosu çifte kayıt esasına dayandığından toplamı sıfır olmalıdır. Net hata ve noksan, kaydedilemeyen işlemleri dengeleyen kalemdir. Sürekli büyük ve pozitif değerler, kaynağı istatistiklere yansımayan döviz girişlerine işaret eder ve verinin güvenilirliğini tartışmalı kılar.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46560",
+  "dersId": "iktisat",
+  "konuId": "makro_i_ktisat",
+  "soru": "Ricardocu denklik (Ricardian equivalence) önermesine göre vergi indirimiyle finanse edilen bir mali genişlemenin toplam talep üzerindeki etkisi aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Bireyler gelecekteki vergi artışını öngörerek tasarruf ettiğinden toplam talep üzerinde etki doğmaz",
+   "Bireyler gelir artışını tümüyle harcadığından toplam talep çarpan etkisiyle belirgin biçimde yükselir",
+   "Faiz oranı düşeceğinden özel yatırımlar artar ve toplam talep beklenenden daha fazla genişler",
+   "Döviz kuru değer kazanacağından ihracat azalır ve toplam talep kalıcı olarak daralma gösterir",
+   "Para arzı otomatik olarak genişleyeceğinden enflasyon yükselir ve reel talep değişmeden kalır"
+  ],
+  "dogru": 0,
+  "aciklama": "Ricardocu denkliğe göre borçla finanse edilen vergi indirimi, ileride daha yüksek vergi anlamına gelir. İleri görüşlü bireyler bu yükü öngörerek ek geliri harcamak yerine tasarruf eder; böylece kamu tasarrufundaki azalma özel tasarruftaki artışla dengelenir ve toplam talep değişmez.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46561",
+  "dersId": "iktisat",
+  "konuId": "makro_i_ktisat",
+  "soru": "Likidite tuzağı koşullarında para politikası ile maliye politikasının etkinliği bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "LM eğrisi yatay olduğundan para politikası etkisiz kalırken maliye politikası dışlama etkisi doğurmadan geliri artırır",
+   "IS eğrisi dik olduğundan maliye politikası tümüyle etkisiz kalırken para politikası milli geliri belirgin biçimde yükseltir",
+   "Her iki politika da etkisiz kalır; çünkü faiz oranı ve gelir düzeyi dışsal olarak belirlenmiş durumdadır",
+   "Para politikası tam etkinken maliye politikası tam dışlama etkisi yaratarak geliri hiç değiştirmez",
+   "Döviz kuru serbest dalgalandığından maliye politikası etkisizleşir, para politikası ise tam etkin hâle gelir"
+  ],
+  "dogru": 0,
+  "aciklama": "Likidite tuzağında faiz oranı alt sınıra dayanmıştır ve LM eğrisi yataydır. Para arzı artışı faizi daha fazla düşüremeyeceğinden para politikası etkisizdir. Maliye politikası ise IS'i sağa kaydırırken faizi yükseltmediğinden dışlama etkisi doğmaz ve gelir tam çarpan kadar artar.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46562",
+  "dersId": "iktisat",
+  "konuId": "makro_i_ktisat",
+  "soru": "Doğal işsizlik oranı ile NAIRU (enflasyonu hızlandırmayan işsizlik oranı) kavramları arasındaki ilişkiyi doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "İkisi de enflasyonun istikrarlı kaldığı işsizlik düzeyini anlatır; NAIRU bu düzeyi enflasyon dinamiği üzerinden tanımlar",
+   "Doğal işsizlik oranı konjonktürel işsizliği de kapsarken NAIRU yalnızca friksiyonel nitelikteki işsizliği ölçmekte ve onunla sınırlı kalmaktadır",
+   "NAIRU her zaman sıfıra eşittir; doğal işsizlik oranı ise ekonominin yapısına göre değişkenlik göstermektedir",
+   "Doğal işsizlik oranı kısa dönemde, NAIRU ise yalnızca uzun dönemde tanımlanabilen bir büyüklüktür",
+   "İki kavram birbirinin karşıtı olup biri arz, diğeri talep kaynaklı işsizliği ölçmek için kullanılmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Friedman'ın doğal işsizlik oranı, emek piyasasının yapısal ve friksiyonel özelliklerince belirlenen denge işsizliğidir. NAIRU ise aynı düzeyi enflasyon dinamiği üzerinden tanımlar: işsizlik bu oranın altına indiğinde enflasyon hızlanır. İkisi de konjonktürel işsizliği dışlar.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46563",
+  "dersId": "iktisat",
+  "konuId": "para_banka",
+  "soru": "Merkez bankasının açık piyasa işlemleriyle zorunlu karşılık oranı değişikliği arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Açık piyasa işlemleri parasal tabanı, zorunlu karşılık oranı ise para çarpanını etkileyerek para arzını değiştirir",
+   "Açık piyasa işlemleri para çarpanını, zorunlu karşılık oranı ise doğrudan parasal tabanı değiştiren bir politika aracıdır",
+   "İki araç da yalnızca uzun vadeli faiz oranlarını etkilemekte olup kısa vadeli faizler üzerinde etkisizdir",
+   "Zorunlu karşılık oranı günlük olarak ayarlanabilirken açık piyasa işlemleri yılda bir kez uygulanabilmektedir",
+   "Açık piyasa işlemleri yalnızca kamu bankalarını, zorunlu karşılık oranı ise yalnızca özel bankaları bağlar"
+  ],
+  "dogru": 0,
+  "aciklama": "Açık piyasa işlemlerinde merkez bankası menkul kıymet alıp satarak bankacılık sistemindeki rezervleri, dolayısıyla parasal tabanı değiştirir. Zorunlu karşılık oranı ise bankaların kredi yaratma kapasitesini yani para çarpanını etkiler. Açık piyasa işlemleri günlük olarak kullanılabilen esnek bir araçtır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46564",
+  "dersId": "iktisat",
+  "konuId": "para_banka",
+  "soru": "Merkez bankasının sterilizasyon işlemi hangi amaçla yapılır?",
+  "secenekler": [
+   "Döviz alım satımının yurt içi para arzı üzerindeki etkisini açık piyasa işlemleriyle nötrlemek",
+   "Bankaların sahip olduğu döviz açık pozisyonlarını doğrudan kapatmak ve bankaların kur riskini üstlenmek",
+   "Yurt dışından gelen sermayeyi zorunlu biçimde uzun vadeli yatırım araçlarına yönlendirmek",
+   "Enflasyon hedefini yıl içinde yeniden belirleyerek piyasa beklentilerini yönlendirmek",
+   "Ticari bankaların mevduat faiz oranlarını idari kararla sınırlandırarak tasarrufu artırmak"
+  ],
+  "dogru": 0,
+  "aciklama": "Merkez bankası döviz aldığında piyasaya yerli para verir ve para arzı genişler. Sterilizasyon, bu genişlemeyi dengelemek için eş zamanlı olarak açık piyasa işlemiyle piyasadan likidite çekilmesidir; böylece döviz müdahalesi parasal büyüklükleri bozmadan yapılabilir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46565",
+  "dersId": "iktisat",
+  "konuId": "mikro_i_ktisat",
+  "soru": "Tam rekabet piyasasında faaliyet gösteren bir firmanın uzun dönem dengesi bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Fiyat, uzun dönem ortalama maliyetin en düşük noktasına eşitlenir ve ekonomik kâr sıfır olur",
+   "Fiyat marjinal maliyetin üzerinde oluşur ve firma sürekli olarak pozitif ekonomik kâr elde eder",
+   "Firma ölçek ekonomilerinden yararlanarak üretimini sınırsız biçimde genişletmeyi sürdürür",
+   "Fiyat ortalama değişken maliyetin altına indiğinde firma üretimi sürdürmeye devam eder",
+   "Piyasaya giriş engelleri nedeniyle mevcut firmalar uzun dönemde tekel konumuna yükselir"
+  ],
+  "dogru": 0,
+  "aciklama": "Tam rekabette serbest giriş-çıkış nedeniyle pozitif ekonomik kâr yeni firmaları çeker, zarar ise çıkışa yol açar. Uzun dönem dengesinde P = MC = min(AC) olur ve ekonomik kâr sıfırdır. Bu, firmaların muhasebe kârı elde etmediği anlamına gelmez; normal kâr maliyetin içindedir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "46566",
+  "dersId": "iktisat",
+  "konuId": "mikro_i_ktisat",
+  "soru": "Bir malın talebinin fiyat esnekliği mutlak değerce birden küçükse, firmanın fiyat artırması durumunda toplam hasılat nasıl değişir?",
+  "secenekler": [
+   "Talepteki azalma fiyat artışından daha az olduğundan toplam hasılat artar",
+   "Talepteki azalma fiyat artışını aştığından toplam hasılat belirgin biçimde azalır",
+   "Fiyat ve miktar aynı oranda değiştiğinden toplam hasılat hiç değişmeden kalır",
+   "Toplam hasılat yalnızca maliyet yapısına bağlı olduğundan fiyat değişiminden etkilenmez",
+   "Talep tümüyle ortadan kalkacağından toplam hasılat sıfıra iner ve firma piyasadan çıkar"
+  ],
+  "dogru": 0,
+  "aciklama": "Esneklik mutlak değerce birden küçükse talep inelastiktir: fiyat yüzde olarak arttığında miktar daha küçük oranda azalır. Fiyat ve miktarın çarpımı olan toplam hasılat bu durumda artar. Esneklik birden büyükse tersi geçerlidir; birim esneklikte hasılat değişmez.",
+  "zorluk": "zor"
  }
 ]
