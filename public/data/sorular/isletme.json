@@ -8974,5 +8974,197 @@
   "dogru": 0,
   "aciklama": "Hale etkisinde değerlendirici, çalışanın tek bir belirgin özelliğinden (olumlu ya da olumsuz) etkilenerek tüm boyutları aynı yönde puanlar. Merkezi eğilimde ise değerlendirici uç puanlardan kaçınarak herkesi ölçeğin ortasında toplar; bu da çalışanlar arasındaki gerçek farkları görünmez kılar.",
   "zorluk": "zor"
+ },
+ {
+  "id": "52564",
+  "dersId": "isletme",
+  "konuId": "yonetim_organizasyon",
+  "soru": "Porter'ın 'beş güç' modelinde tedarikçilerin pazarlık gücünün yüksek olduğu bir sektör için aşağıdakilerden hangisi beklenir?",
+  "secenekler": [
+   "Sektördeki firmaların kârlılığının girdi maliyetleri nedeniyle baskı altında kalması",
+   "Sektöre giriş engellerinin tümüyle ortadan kalkarak yeni rakiplerin kolaylıkla girmesi ve çoğalması",
+   "Müşterilerin fiyat pazarlığı gücünün kendiliğinden artması ve talebin genişlemesi",
+   "İkame ürün tehdidinin ortadan kalkması ve mevcut ürünlerin konumunun güçlenmesi",
+   "Sektördeki rekabet yoğunluğunun azalarak firmaların kâr marjlarının yükselmesi"
+  ],
+  "dogru": 0,
+  "aciklama": "Tedarikçi sayısı az, ürünleri farklılaşmış veya geçiş maliyeti yüksekse tedarikçilerin pazarlık gücü yükselir; fiyat artırabilir ya da kalite düşürebilirler. Bu durum sektördeki firmaların girdi maliyetlerini yükselterek kârlılığı baskılar.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "52565",
+  "dersId": "isletme",
+  "konuId": "yonetim_organizasyon",
+  "soru": "Stratejik yönetimde 'kaynak temelli yaklaşım' (resource-based view) rekabet üstünlüğünü neye dayandırır?",
+  "secenekler": [
+   "Değerli, nadir, taklit edilmesi güç ve ikame edilemez içsel kaynaklara sahip olunmasına",
+   "Sektörün yapısal çekiciliğine ve firmanın bu yapı içindeki konumlanma tercihlerine bağlı kalmasına",
+   "Firmanın ölçek büyüklüğüne ve pazardaki toplam satış hacmine ulaşmış olmasına",
+   "Devlet teşviklerinden yararlanma düzeyine ve sektörel korumaların sürdürülmesine",
+   "Ürün fiyatlarının rakiplerden sürekli biçimde düşük tutulabilmesi becerisine"
+  ],
+  "dogru": 0,
+  "aciklama": "Barney'in VRIN çerçevesine göre sürdürülebilir rekabet üstünlüğü, dışsal sektör yapısından çok firmanın kendi kaynak ve yeteneklerinden doğar. Kaynak değerli, nadir, taklit edilmesi zor ve ikame edilemez olduğunda üstünlük kalıcı olur. Porter'ın modeli ise dışsal konumlanmayı esas alır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "52566",
+  "dersId": "isletme",
+  "konuId": "yonetim_organizasyon",
+  "soru": "Örgüt kültürü bakımından Schein'in üç düzeyli modelinde 'temel varsayımlar' katmanının özelliği aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Sorgulanmadan kabul edilmesi ve büyük ölçüde bilinçdışı biçimde işlemesi",
+   "Örgütün fiziksel düzeni, logosu ve tören gibi gözlenebilir öğelerinden oluşması",
+   "Örgütün resmî belgelerinde yazılı olarak ilan edilen değer ve sloganları kapsaması",
+   "Çalışanların işe alım sürecinde doğrudan ölçülebilen davranışlarını içermesi",
+   "Yalnızca üst yönetim tarafından bilinen ve gizli tutulan stratejik bilgileri barındırması"
+  ],
+  "dogru": 0,
+  "aciklama": "Schein'e göre kültür üç düzeydedir: gözlenebilir yapıtlar (artifacts), benimsenen değerler ve temel varsayımlar. En derinde yer alan temel varsayımlar sorgulanmayan, bilinçdışı kabullerdir; kültürün asıl belirleyicisi olmakla birlikte doğrudan gözlenemez.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "52567",
+  "dersId": "isletme",
+  "konuId": "uretim",
+  "soru": "Üretim sistemlerinde 'yalın üretim' anlayışında tanımlanan israf türleri bakımından aşağıdakilerden hangisi doğrudur?",
+  "secenekler": [
+   "Aşırı üretim, beklemeler, gereksiz taşıma ve stoklar başlıca israf kaynakları sayılır",
+   "Yalnızca hatalı ürünler israf sayılmakta, diğer kayıplar maliyet unsuru kabul edilmektedir",
+   "Stok bulundurmak israf değil, üretimi güvence altına alan zorunlu bir yatırım sayılmaktadır",
+   "Çalışanların gereksiz hareketleri verimliliği artırdığından israf kapsamı dışında bırakılır",
+   "Aşırı üretim kapasiteyi değerlendirdiği için israf değil olumlu bir uygulama sayılmaktadır"
+  ],
+  "dogru": 0,
+  "aciklama": "Toyota Üretim Sistemi'nde yedi temel israf (muda) tanımlanır: aşırı üretim, bekleme, gereksiz taşıma, gereksiz işlem, stok, gereksiz hareket ve hatalı ürün. Aşırı üretim en kritik israftır; çünkü diğer israfları da gizler ve besler.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "52568",
+  "dersId": "isletme",
+  "konuId": "uretim",
+  "soru": "Tedarik zinciri yönetiminde 'kamçı etkisi' (bullwhip effect) olgusunun temel nedeni aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Zincirin üst halkalarına gidildikçe talep bilgisindeki çarpıklığın büyümesi",
+   "Perakendeci düzeyinde talebin sürekli biçimde azalarak sıfıra doğru yaklaşması",
+   "Tedarikçilerin üretim kapasitesini sürekli olarak talebin altında tutmayı tercih etmesi",
+   "Nihai tüketicinin satın alma alışkanlıklarının hiçbir biçimde değişmemesi durumu",
+   "Zincirdeki bütün halkaların aynı anda ve tam bilgiyle karar verebiliyor olması"
+  ],
+  "dogru": 0,
+  "aciklama": "Kamçı etkisinde nihai talepteki küçük dalgalanmalar, zincirin yukarısına doğru giderek büyür. Nedenleri; talep tahminlerinin sipariş verilerine dayanması, parti büyüklükleri, fiyat dalgalanmaları ve kıtlık beklentisiyle abartılı siparişlerdir. Bilgi paylaşımı etkiyi azaltır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "52569",
+  "dersId": "isletme",
+  "konuId": "finans",
+  "soru": "İşletme sermayesi yönetiminde 'nakit dönüşüm süresi'nin kısalması aşağıdakilerden hangisine işaret eder?",
+  "secenekler": [
+   "İşletmenin nakde daha hızlı ulaştığına ve finansman ihtiyacının azaldığına",
+   "İşletmenin stok düzeyini artırarak satışlarını genişletmeye hazırlandığına",
+   "İşletmenin alacak tahsil süresini uzatarak müşterilerine kolaylık sağladığına",
+   "İşletmenin borç ödeme süresini kısaltarak tedarikçilerine erken ödeme yaptığına",
+   "İşletmenin duran varlık yatırımlarını artırarak kapasitesini büyüttüğüne"
+  ],
+  "dogru": 0,
+  "aciklama": "Nakit dönüşüm süresi = stok devir süresi + alacak tahsil süresi − borç ödeme süresi. Süre kısaldıkça işletmenin nakdi daha hızlı döner, işletme sermayesi ihtiyacı ve buna bağlı finansman maliyeti azalır. Borç ödeme süresini kısaltmak ise süreyi uzatır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "52570",
+  "dersId": "isletme",
+  "konuId": "finans",
+  "soru": "Sermaye yapısı kuramlarından Modigliani-Miller'ın vergisiz dünya önermesi aşağıdakilerden hangisini ileri sürer?",
+  "secenekler": [
+   "Firma değerinin sermaye yapısından bağımsız olduğunu ve borç oranının değeri değiştirmediğini",
+   "Borç oranı arttıkça firma değerinin sürekli ve sınırsız bir biçimde yükselmeye devam ettiğini",
+   "Özkaynakla finansmanın her koşulda borçlanmadan daha ucuz bir kaynak olduğunu",
+   "Firmanın optimal borç oranının sektör ortalamasına eşitlenmesi gerektiğini",
+   "Kâr payı dağıtım politikasının firma değerini doğrudan belirlediğini"
+  ],
+  "dogru": 0,
+  "aciklama": "MM'nin vergisiz ve işlem maliyetsiz ortamdaki birinci önermesine göre firma değeri, varlıklarının yarattığı nakit akışlarına bağlıdır; nasıl finanse edildiğine değil. Borç arttıkça özkaynak maliyeti de yükselir ve ağırlıklı ortalama sermaye maliyeti sabit kalır. Vergi eklendiğinde borcun vergi kalkanı değeri artırır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "52571",
+  "dersId": "isletme",
+  "konuId": "finans",
+  "soru": "Bir yatırımın sistematik riskini ölçen 'beta katsayısı'nın birden büyük olması aşağıdakilerden hangisini gösterir?",
+  "secenekler": [
+   "Varlığın piyasa portföyünden daha oynak olduğunu ve piyasa hareketlerini abartılı izlediğini",
+   "Varlığın piyasa hareketlerinden bütünüyle bağımsız olduğunu ve herhangi bir riski bulunmadığını",
+   "Varlığın yalnızca firmaya özgü riskler taşıdığını ve çeşitlendirmeyle giderilebileceğini",
+   "Varlığın getirisinin risksiz faiz oranına eşitlendiğini ve prim içermediğini",
+   "Varlığın piyasa ile ters yönlü hareket ettiğini ve koruma aracı işlevi gördüğünü"
+  ],
+  "dogru": 0,
+  "aciklama": "Beta, varlığın getirisinin piyasa getirisine duyarlılığını ölçer. Beta birden büyükse varlık piyasadan daha oynaktır; piyasa yüzde on yükseldiğinde daha fazla yükselir, düştüğünde daha fazla düşer. Negatif beta ters yönlü hareketi, sıfıra yakın beta ise piyasadan bağımsızlığı gösterir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "52572",
+  "dersId": "isletme",
+  "konuId": "i_nsan_kaynaklari",
+  "soru": "İnsan kaynakları yönetiminde '360 derece performans değerlendirme'nin klasik değerlendirmeden ayrıldığı temel nokta aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Geri bildirimin ast, üst, akran ve müşteri gibi çok sayıda kaynaktan toplanması",
+   "Değerlendirmenin yalnızca doğrudan amir tarafından ve tek yönlü biçimde yapılması",
+   "Performansın yalnızca sayısal üretim verileriyle ve tek ölçütle belirlenmesi",
+   "Değerlendirme sonuçlarının çalışanla hiçbir biçimde paylaşılmaması ilkesi",
+   "Değerlendirmenin yalnızca işe alım aşamasında bir kez yapılması uygulaması"
+  ],
+  "dogru": 0,
+  "aciklama": "360 derece değerlendirmede çalışan hakkında amiri, astları, akranları ve gerektiğinde müşterilerden geri bildirim alınır; öz değerlendirme de sürece dâhil edilir. Amaç, tek kaynaklı değerlendirmenin yanlılığını azaltmak ve gelişime yönelik çok yönlü bir resim sunmaktır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "52573",
+  "dersId": "isletme",
+  "konuId": "i_nsan_kaynaklari",
+  "soru": "İşe alım sürecinde kullanılan seçim aracının 'geçerlik' ve 'güvenirlik' özellikleri bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Bir araç güvenilir olduğu hâlde geçerli olmayabilir; geçerlik güvenirliği de gerektirir",
+   "Bir araç geçerli olduğu hâlde güvenilir olmayabilir; güvenirlik geçerliği gerektirmez",
+   "İki özellik birbirinden bağımsızdır ve aralarında herhangi bir ilişki bulunmamaktadır",
+   "Güvenirlik aracın ölçmek istediği niteliği ölçmesini, geçerlik ise tutarlılığı ifade eder",
+   "Geçerlik yalnızca sınavlarda, güvenirlik ise yalnızca mülakatlarda aranan bir özelliktir"
+  ],
+  "dogru": 0,
+  "aciklama": "Güvenirlik, aracın tutarlı ve tekrarlanabilir ölçüm yapmasıdır. Geçerlik ise ölçmek istediği niteliği gerçekten ölçmesidir. Bir araç tutarlı biçimde yanlış şeyi ölçebilir; yani güvenilir olup geçerli olmayabilir. Ancak tutarsız bir araç geçerli olamaz; güvenirlik geçerliğin ön koşuludur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "52574",
+  "dersId": "isletme",
+  "konuId": "pazarlama",
+  "soru": "Hizmet pazarlamasında hizmetlerin 'ayrılmazlık' özelliğinin yarattığı temel yönetsel sorun aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Üretim ile tüketimin eş zamanlı olması nedeniyle kalite denetiminin önceden yapılamaması",
+   "Hizmetin stoklanabilmesi nedeniyle talep dalgalanmalarının kolaylıkla karşılanabilmesi durumu",
+   "Hizmetin fiziksel bir ürün gibi standartlaştırılabilmesi ve her seferinde aynı olması",
+   "Hizmetin mülkiyetinin müşteriye devredilmesi ve ikinci el piyasasının oluşması",
+   "Hizmet sunumunda personelin rolünün ortadan kalkması ve otomasyonun yeterli olması"
+  ],
+  "dogru": 0,
+  "aciklama": "Ayrılmazlık, hizmetin üretildiği anda tüketilmesini ifade eder; bu nedenle hatalı hizmet müşteriye ulaşmadan ayıklanamaz. Kalite güvencesi ancak süreç tasarımı, personel eğitimi ve standartlarla sağlanabilir. Stoklanamama ise 'dayanıksızlık' özelliğidir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "52575",
+  "dersId": "isletme",
+  "konuId": "pazarlama",
+  "soru": "Fiyatlandırma stratejilerinden 'pazarın kaymağını alma' ile 'pazara nüfuz etme' karşılaştırıldığında aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Kaymağını almada yüksek fiyatla başlanır, nüfuz etmede düşük fiyatla pay hedeflenir",
+   "Kaymağını almada düşük fiyatla girilerek hızla pazar payı kazanılması amaçlanmaktadır",
+   "İki strateji de olgunluk aşamasında uygulanan ve aynı sonucu doğuran yaklaşımlardır",
+   "Nüfuz etme stratejisi yalnızca talebin esnek olmadığı pazarlarda başarı sağlamaktadır",
+   "Kaymağını alma stratejisi yalnızca ikame ürünü çok olan pazarlarda uygulanabilmektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Kaymağını alma, yenilikçi ürünle pazara yüksek fiyattan girip fiyata duyarsız segmentten başlayarak kademeli indirim yapmaktır; talebin esnek olmadığı ve rekabetin sınırlı olduğu durumlarda işler. Pazara nüfuz etme ise düşük fiyatla hızla geniş pay almayı hedefler; esnek talep ve ölçek ekonomisi gerektirir.",
+  "zorluk": "zor"
  }
 ]

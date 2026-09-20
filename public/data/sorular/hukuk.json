@@ -11856,5 +11856,197 @@
   "dogru": 0,
   "aciklama": "Askı hâlinde (hastalık, askerlik, doğum izni, zorlayıcı nedenler gibi) sözleşme sona ermez; taraflar arasındaki bağ sürer ancak iş görme ve buna bağlı ücret ödeme borçları geçici olarak durur. Askı süresinin kıdeme etkisi ise duruma göre kanunla ayrıca düzenlenmiştir.",
   "zorluk": "zor"
+ },
+ {
+  "id": "44745",
+  "dersId": "hukuk",
+  "konuId": "anayasa",
+  "soru": "Anayasa yargısında 'iptal davası' ile 'itiraz yolu' (somut norm denetimi) arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "İptal davası belirli kişilerce süresi içinde doğrudan açılır, itiraz ise görülmekte olan davada gündeme gelir",
+   "İtiraz yolu belirli kişilerce doğrudan işletilirken iptal davası ancak görülmekte olan bir davada ileri sürülebilir",
+   "İki yol da yalnızca kanun hükmünde kararnamelere karşı işletilebilmekte, kanunlar denetim dışında kalmaktadır",
+   "İptal davası süresiz olarak açılabilirken itiraz yolunun altmış günlük hak düşürücü süreye bağlı olduğu kabul edilir",
+   "İtiraz yolunda karar yalnızca davanın tarafları bakımından sonuç doğurur ve norm yürürlükte kalmaya devam eder"
+  ],
+  "dogru": 0,
+  "aciklama": "İptal davası (soyut norm denetimi) Cumhurbaşkanı, iktidar ve ana muhalefet partisi meclis grupları ile TBMM üye tam sayısının beşte biri tarafından, yayımdan itibaren altmış gün içinde açılır. İtiraz yolunda ise bakılmakta olan davada uygulanacak kuralın Anayasa'ya aykırılığı mahkemece AYM'ye taşınır ve iptal kararı herkes için sonuç doğurur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "44746",
+  "dersId": "hukuk",
+  "konuId": "anayasa",
+  "soru": "Anayasa'nın değiştirilmesi usulü bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Teklif üye tam sayısının üçte biriyle verilir; kabul için beşte üç çoğunluk gereklidir",
+   "Teklif yalnızca Cumhurbaşkanı tarafından verilebilir ve TBMM'nin onayına sunulmaz",
+   "Anayasa Mahkemesi anayasa değişikliklerini esas bakımından da denetleyebilmektedir",
+   "Halk oylamasına sunulan değişiklikler yalnızca TBMM kararıyla yürürlükten kaldırılabilir",
+   "Değişiklik teklifleri Genel Kurul'da tek kez görüşülür ve açık oyla karara bağlanır"
+  ],
+  "dogru": 0,
+  "aciklama": "Anayasa'nın 175. maddesine göre değişiklik teklifi TBMM üye tam sayısının en az üçte biri tarafından yazıyla verilir; kabul için üye tam sayısının beşte üç çoğunluğunun gizli oyu gerekir. Teklifler Genel Kurul'da iki kez görüşülür. AYM anayasa değişikliklerini yalnızca şekil bakımından denetler.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "44747",
+  "dersId": "hukuk",
+  "konuId": "anayasa",
+  "soru": "Cumhurbaşkanlığı kararnamesi ile kanun arasındaki ilişki bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Kanunda açıkça düzenlenen konularda kararname çıkarılamaz; çatışma hâlinde kanun uygulanır",
+   "Kararname kanunla çatıştığında kararname hükmü öncelikle uygulanır ve kanun yürürlükten kalkar",
+   "Temel haklar ve siyasi haklar kararnameyle serbestçe düzenlenebilir nitelikte kabul edilmiştir",
+   "Kararnameler Anayasa Mahkemesi denetimine tabi olmayıp yalnızca Danıştay tarafından denetlenir",
+   "Kararname çıkarılabilmesi için TBMM'nin önceden yetki kanunu çıkarması zorunlu tutulmuştur"
+  ],
+  "dogru": 0,
+  "aciklama": "Anayasa'nın 104. maddesine göre yürütme yetkisine ilişkin konularda kararname çıkarılabilir; ancak temel haklar, kişi hakları ve siyasi haklar ile Anayasa'da münhasıran kanunla düzenlenmesi öngörülen konularda çıkarılamaz. Kanunda açıkça düzenlenen konuda kararname çıkarılamaz, çatışma hâlinde kanun uygulanır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "44748",
+  "dersId": "hukuk",
+  "konuId": "i_dare",
+  "soru": "İdari işlemlerde 'yokluk' ile 'iptal edilebilirlik' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Yok hükmündeki işlem hiç doğmamış sayılır; iptal edilebilir işlem ise iptal edilene kadar geçerlidir",
+   "Yok hükmündeki işlem iptal kararı verilinceye kadar hukuki sonuç doğurur ve uygulanmaya devam eder",
+   "İki durum da tamamen aynı hukuki sonucu doğurmakta olup aralarında herhangi bir uygulama farkı bulunmamaktadır",
+   "Yokluk hâlinde dava açma süresi altmış günle sınırlandırılmış olup bu süre kesin niteliktedir",
+   "İptal edilebilir işlem hiçbir koşulda idari yargı denetimine tabi tutulamayan işlem türüdür"
+  ],
+  "dogru": 0,
+  "aciklama": "Yokluk, işlemin kurucu unsurlarındaki ağır ve bariz sakatlık nedeniyle hiç doğmamış sayılmasıdır; her zaman ileri sürülebilir ve süreye bağlı değildir. İptal edilebilir işlem ise hukuka aykırı olmakla birlikte iptal edilene kadar geçerlidir ve hukuki sonuç doğurur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "44749",
+  "dersId": "hukuk",
+  "konuId": "i_dare",
+  "soru": "İdari yargıda 'yürütmenin durdurulması' kararı verilebilmesi için aranan koşullar aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "İşlemin açıkça hukuka aykırı olması ve uygulanması hâlinde telafisi güç zarar doğması",
+   "Yalnızca davacının talepte bulunması yeterli olup ayrıca bir koşul aranmamaktadır",
+   "İşlemin yalnızca yetki unsuru bakımından sakat olduğunun ileri sürülmüş olması",
+   "Davalı idarenin savunma vermemesi ve süresi içinde cevap dilekçesi sunmaması",
+   "Davanın konusunun yalnızca parasal bir alacağa ilişkin bulunması ve tutarın yüksekliği"
+  ],
+  "dogru": 0,
+  "aciklama": "2577 sayılı Kanun'un 27. maddesine göre yürütmenin durdurulmasına karar verilebilmesi için iki koşulun birlikte bulunması gerekir: idari işlemin uygulanması hâlinde telafisi güç veya imkânsız zararların doğması ve işlemin açıkça hukuka aykırı olması. Karar gerekçeli olmak zorundadır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "44750",
+  "dersId": "hukuk",
+  "konuId": "i_dare",
+  "soru": "Kamu hizmetinin görülüş usullerinden 'imtiyaz' ile 'ruhsat' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "İmtiyazda hizmet idare adına sözleşmeyle yürütülür, ruhsatta ise özel faaliyete izin verilir",
+   "Ruhsatta hizmet idare adına ve idari sözleşmeyle yürütülürken imtiyazda yalnızca izin verilmektedir",
+   "İki usul de aynı hukuki niteliği taşımakta olup aralarında herhangi bir fark bulunmamaktadır",
+   "İmtiyaz yalnızca mahalli idarelerce, ruhsat ise yalnızca merkezi idarece verilebilen bir yetkidir",
+   "Ruhsat verilen faaliyetler hiçbir biçimde idari denetime tabi tutulamayan faaliyetlerdir"
+  ],
+  "dogru": 0,
+  "aciklama": "İmtiyazda bir kamu hizmeti, idari sözleşmeyle özel kişiye kendi kâr ve zararına yürütülmek üzere devredilir; hizmet kamu hizmeti niteliğini korur. Ruhsatta ise özel kişinin kendi faaliyeti için idari izin verilir; faaliyet kamu hizmeti hâline gelmez ancak kolluk denetimine tabidir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "44751",
+  "dersId": "hukuk",
+  "konuId": "ceza",
+  "soru": "Ceza hukukunda 'zincirleme suç' ile 'fikri içtima' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Zincirleme suçta aynı suç birden çok kez, fikri içtimada tek fiille farklı suçlar işlenir",
+   "Fikri içtimada aynı suçun birden çok kez işlenmesi, zincirleme suçta ise tek fiil söz konusudur",
+   "İki kurumda da faile ayrı ayrı ceza verilir ve herhangi bir indirim uygulanmaz",
+   "Zincirleme suç yalnızca taksirli suçlarda, fikri içtima ise yalnızca kasıtlı suçlarda uygulanır",
+   "Fikri içtima hâlinde en hafif cezayı gerektiren suçtan hüküm kurulması gerekmektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Zincirleme suçta bir suç işleme kararının icrası kapsamında, değişik zamanlarda aynı suç birden fazla kez işlenir; tek ceza verilip artırılır. Fikri içtimada ise tek bir fiille birden fazla farklı suç oluşur ve en ağır cezayı gerektiren suçtan hüküm kurulur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "44752",
+  "dersId": "hukuk",
+  "konuId": "ceza",
+  "soru": "Ceza hukukunda 'kast' ile 'taksir' arasındaki ayrımda 'olası kast' ile 'bilinçli taksir' bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Olası kastta sonuç öngörülüp kabullenilir, bilinçli taksirde öngörülür ama istenmez",
+   "Bilinçli taksirde sonuç öngörülerek kabullenilirken olası kastta öngörü hiç bulunmaz",
+   "İki kavram da aynı içeriği taşımakta olup ceza bakımından fark doğurmamaktadır",
+   "Olası kast yalnızca ihmali suçlarda, bilinçli taksir ise yalnızca icrai suçlarda söz konusudur",
+   "Bilinçli taksirde ceza olası kasta kıyasla daha ağır biçimde belirlenmektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Olası kastta fail neticeyi öngörür ve 'olursa olsun' diyerek kabullenir. Bilinçli taksirde ise neticeyi öngörür fakat gerçekleşmeyeceğine güvenir; istemez. Ayrım, failin netice karşısındaki iradi tutumuna dayanır ve olası kast daha ağır cezalandırılır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "44753",
+  "dersId": "hukuk",
+  "konuId": "medeni",
+  "soru": "Türk Medeni Kanunu'nda 'edinilmiş mallara katılma' rejimi bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Evlilik içinde karşılığı verilerek edinilen mallar tasfiyede eşler arasında paylaştırılır",
+   "Eşlerin evlenmeden önce sahip olduğu mallar da tasfiyede eşit biçimde paylaştırılmaktadır",
+   "Miras yoluyla edinilen mallar edinilmiş mal sayılarak tasfiyeye dâhil edilmek zorundadır",
+   "Rejim yalnızca sözleşmeyle seçilebilir olup kanuni mal rejimi olarak kabul edilmemiştir",
+   "Manevi tazminat alacakları edinilmiş mal kapsamında değerlendirilerek paylaşıma tabi tutulur"
+  ],
+  "dogru": 0,
+  "aciklama": "2002'den itibaren yasal mal rejimi edinilmiş mallara katılmadır. Edinilmiş mal, eşin evlilik süresince karşılığını vererek elde ettiği malvarlığı değeridir. Evlenmeden önceki mallar, miras veya karşılıksız kazandırma yoluyla edinilenler ve manevi tazminat alacakları kişisel mal sayılır.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "44754",
+  "dersId": "hukuk",
+  "konuId": "medeni",
+  "soru": "Eşya hukukunda 'zilyetlik' ile 'mülkiyet' arasındaki ilişkiyi doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Zilyetlik fiili hâkimiyeti, mülkiyet ise hukuki yetkiyi ifade eder; ikisi ayrı kişilerde olabilir",
+   "Zilyetlik her koşulda mülkiyeti de beraberinde getirmekte ve iki kavram ayrılmaz biçimde birleşmektedir",
+   "Mülkiyet yalnızca taşınmazlarda, zilyetlik ise yalnızca taşınırlarda söz konusu olabilmektedir",
+   "Zilyetlik hiçbir hukuki koruma sağlamamakta olup yalnızca fiili bir durumu betimlemektedir",
+   "Mülkiyet hakkı zilyetliğin devriyle değil yalnızca mahkeme kararıyla kazanılabilmektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Zilyetlik, bir şey üzerindeki fiili hâkimiyettir; mülkiyet ise kullanma, yararlanma ve tasarruf yetkilerini veren aynî haktır. Kiracı zilyettir ama malik değildir. Zilyetlik ayrıca zilyetliğin korunması davaları ve taşınırda iyiniyetli iktisap gibi sonuçlar doğurur.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "44755",
+  "dersId": "hukuk",
+  "konuId": "borclar",
+  "soru": "Borçlar hukukunda 'sebepsiz zenginleşme' ile 'haksız fiil' arasındaki farkı doğru biçimde açıklayan ifade aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Sebepsiz zenginleşmede kusur aranmaz, haksız fiilde ise kural olarak kusur koşulu bulunur",
+   "Haksız fiilde kusur aranmazken sebepsiz zenginleşmede failin kastının ispatı gerekmektedir",
+   "İki kurumda da zararın varlığı aranmakta olup zenginleşme koşulu hiç aranmamaktadır",
+   "Sebepsiz zenginleşme yalnızca sözleşmeden doğan borçlarda gündeme gelebilen bir kurumdur",
+   "Haksız fiil sorumluluğunda zamanaşımı süresi bulunmamakta, talep süresiz ileri sürülebilmektedir"
+  ],
+  "dogru": 0,
+  "aciklama": "Sebepsiz zenginleşmede, haklı bir sebep olmaksızın başkasının malvarlığından zenginleşen kişi bunu iade eder; kusur aranmaz. Haksız fiilde ise hukuka aykırı fiil, zarar, kusur ve illiyet bağı birlikte aranır ve tazminat sorumluluğu doğar.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "44756",
+  "dersId": "hukuk",
+  "konuId": "i_s_hukuku",
+  "soru": "İş hukukunda 'iş güvencesi' hükümlerinden yararlanma koşulları bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "İşyerinde otuz veya daha fazla işçi bulunması ve işçinin en az altı aylık kıdeminin olması",
+   "İşyerinde on veya daha fazla işçi çalışıyor olması ve işçinin bir yıllık kıdeminin bulunması",
+   "İşçinin belirli süreli iş sözleşmesiyle çalışıyor olması ve sözleşmenin yenilenmiş olması",
+   "İşçinin sendika üyesi olması ve toplu iş sözleşmesi kapsamında bulunuyor olması",
+   "İşverenin kamu kurumu niteliği taşıması ve işçinin kadrolu statüde çalışıyor olması"
+  ],
+  "dogru": 0,
+  "aciklama": "4857 sayılı Kanun'un 18. maddesine göre iş güvencesinden yararlanmak için işyerinde otuz veya daha fazla işçi çalışması, işçinin en az altı aylık kıdeminin bulunması, belirsiz süreli iş sözleşmesiyle çalışması ve işletmenin bütününü sevk eden işveren vekili konumunda olmaması gerekir.",
+  "zorluk": "zor"
  }
 ]
