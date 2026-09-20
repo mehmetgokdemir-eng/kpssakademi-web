@@ -101,8 +101,8 @@
   "konuId": "ui_teoriler",
   "soru": "Kenneth Waltz'ın geliştirdiği neorealizmin temel vurgusu aşağıdakilerden hangisidir?",
   "secenekler": [
-   "Uluslararası hukuk",
-   "Ekonomik bağımlılık",
+   "Uluslararası hukukun bağlayıcılığı",
+   "Ekonomik karşılıklı bağımlılık",
    "Uluslararası sistemin yapısı",
    "Kültürel kimlik",
    "İnsan doğası"
@@ -229,8 +229,8 @@
   "konuId": "ui_teoriler",
   "soru": "İngiliz Okulu'nun uluslararası ilişkilere temel katkısı aşağıdakilerden hangisidir?",
   "secenekler": [
-   "Güç dengesi analizi",
-   "Ekonomik determinizm",
+   "Güç dengesi analizine dayanması",
+   "Ekonomik determinizm yaklaşımı",
    "Sınıf çatışması",
    "Uluslararası toplum kavramı",
    "Nükleer strateji"
@@ -485,9 +485,9 @@
   "konuId": "ui_turk_dis_politika",
   "soru": "Atatürk döneminde Türk dış politikasının temel ilkesi aşağıdakilerden hangisidir?",
   "secenekler": [
-   "Pan-Türkçülük",
+   "Pan-Türkçülük anlayışı",
    "Yayılmacılık",
-   "İttifak politikası",
+   "Karşılıklı ittifaklar politikası",
    "Emperyalizm",
    "Yurtta sulh, cihanda sulh"
   ],
@@ -997,9 +997,9 @@
   "konuId": "ui_uluslararasi_hukuk",
   "soru": "Cenevre Sözleşmeleri (1949) hangi konuyu düzenler?",
   "secenekler": [
-   "Ticaret hukuku",
+   "Uluslararası ticaret hukuku",
    "Deniz hukuku",
-   "Diplomatik ilişkiler",
+   "Diplomatik ilişkilerin yürütülmesi",
    "Çevre hukuku",
    "Savaş hukuku ve insancıl hukuk"
   ],
@@ -1302,9 +1302,9 @@
   "soru": "'Müzakere' ve 'arabuluculuk' arasındaki temel fark nedir?",
   "secenekler": [
    "Arabuluculukta üçüncü taraf vardır",
-   "Arabuluculuk bağlayıcıdır",
+   "Arabuluculuk taraflar için bağlayıcıdır",
    "Müzakere zorla yapılır",
-   "Müzakere daha resmidir",
+   "Müzakere çok daha resmi bir süreçtir",
    "Fark yoktur"
   ],
   "dogru": 0,
@@ -2438,9 +2438,9 @@
   "soru": "Paris İklim Anlaşması'nın temel hedefi nedir?",
   "secenekler": [
    "Göçü durdurmak",
-   "Su kaynaklarını paylaştırmak",
+   "Sınır aşan su kaynaklarını paylaştırmak",
    "Nükleer silahsızlanma",
-   "Serbest ticaret alanı kurmak",
+   "Ülkeler arasında serbest ticaret alanı kurmak",
    "Küresel sıcaklık artışını sınırlamak"
   ],
   "dogru": 4,
@@ -2469,10 +2469,10 @@
   "konuId": "ui_guncel_sorunlar",
   "soru": "Mülteci ile göçmen arasındaki temel fark nedir?",
   "secenekler": [
-   "Mülteci ekonomik nedenlerle, göçmen zulüm nedeniyle hareket eder",
+   "Mülteci ekonomik nedenlerle, göçmen ise zulüm nedeniyle yer değiştiren kişidir",
    "Mülteci zulüm veya çatışma nedeniyle ülkesini terk etmek zorunda kalandır",
    "Mülteci yalnızca savaş dönemlerinde olur",
-   "Göçmen daima düzensiz, mülteci daima düzenlidir",
+   "Göçmen daima düzensiz, mülteci ise daima düzenli biçimde hareket eden kişidir",
    "İkisi arasında hukuki fark yoktur"
   ],
   "dogru": 1,
@@ -2869,11 +2869,11 @@
   "konuId": "ui_teoriler",
   "soru": "Neoliberal kurumsalcılığın realizmle paylaştığı temel varsayım hangisidir?",
   "secenekler": [
-   "Ekonominin belirleyiciliği",
+   "Ekonominin tek belirleyici unsur olduğu",
    "Kimliğin önceliği",
    "Devletlerin rasyonel aktörler olduğu",
    "Savaşın kaçınılmazlığı",
-   "Kurumların gereksizliği"
+   "Uluslararası kurumların gereksiz olduğu"
   ],
   "dogru": 2,
   "aciklama": "Her iki yaklaşım da devletleri rasyonel ve çıkarını gözeten aktörler olarak kabul eder; ayrıldıkları nokta iş birliğinin mümkünlüğüdür.",
@@ -3621,10 +3621,10 @@
   "konuId": "ui_soguk_savas",
   "soru": "Vietnam Savaşı'nın ABD açısından en önemli sonucu nedir?",
   "secenekler": [
-   "Bölgede kalıcı üstünlük",
+   "Bölgede kalıcı üstünlük kurması",
    "Askerî ve siyasi prestij kaybı",
    "Ekonomik büyüme",
-   "NATO'nun genişlemesi",
+   "NATO'nun doğuya doğru genişlemesi",
    "Nükleer üstünlük"
   ],
   "dogru": 1,
@@ -4213,10 +4213,10 @@
   "konuId": "ui_bolgesel",
   "soru": "Ege'de 'FIR hattı' hangi alanla ilgilidir?",
   "secenekler": [
-   "Balıkçılık bölgesi",
+   "Balıkçılık bölgelerinin sınırlandırılması",
    "Hava trafik hizmeti sorumluluk sahası",
    "Karasuları",
-   "Karasuları dışındaki adalar",
+   "Karasuları dışında kalan adaların statüsü",
    "Kıta sahanlığı"
   ],
   "dogru": 1,
@@ -4406,8 +4406,8 @@
   "soru": "Yeşil teori uluslararası ilişkilerde neyi merkeze alır?",
   "secenekler": [
    "Ticaret hacmi",
-   "Nüfus politikaları",
-   "Nükleer denge",
+   "Nüfus politikaları ve göç",
+   "Nükleer caydırıcılık dengesi",
    "Askerî güç",
    "Ekolojik sürdürülebilirlik"
   ],
@@ -4855,8 +4855,8 @@
   "secenekler": [
    "Almanya'nın savaş sonrası düzeni",
    "BM'nin kurulması",
-   "Sömürgelerin paylaşımı",
-   "Nükleer silahsızlanma",
+   "Sömürgelerin yeniden paylaşımı ve statüsü",
+   "Nükleer silahsızlanma süreci",
    "Kore'nin bölünmesi"
   ],
   "dogru": 0,
@@ -4949,11 +4949,11 @@
   "konuId": "ui_soguk_savas",
   "soru": "'Uzay yarışı' hangi olayla başlamıştır?",
   "secenekler": [
-   "Gagarin'in uçuşu",
+   "Gagarin'in uzaya çıkması",
    "Ay'a iniş",
    "Apollo 11",
    "Sputnik'in fırlatılması",
-   "Mir istasyonu"
+   "Mir uzay istasyonu"
   ],
   "dogru": 3,
   "aciklama": "1957'de Sputnik'in fırlatılması uzay yarışını başlatmıştır.",
@@ -4965,9 +4965,9 @@
   "konuId": "ui_soguk_savas",
   "soru": "Soğuk Savaş'ın sona ermesinde belirleyici iç etken nedir?",
   "secenekler": [
-   "Petrol fiyatlarının düşmesi",
+   "Petrol fiyatlarının hızla düşmesi ve gerilemesi",
    "SSCB'nin ekonomik ve yapısal krizi",
-   "ABD'nin ekonomik çöküşü",
+   "ABD ekonomisinin çöküş yaşaması",
    "Çin'in yükselişi",
    "NATO'nun genişlemesi"
   ],
@@ -5080,8 +5080,8 @@
    "Deniz yatağı ve toprak altını",
    "Hava sahasını",
    "Gemi trafiğini",
-   "Yalnızca su sütununu",
-   "Balık stoklarını"
+   "Yalnızca üstündeki su sütununu",
+   "Yalnızca balık stoklarını"
   ],
   "dogru": 0,
   "aciklama": "Kıta sahanlığı üzerindeki haklar deniz yatağı ve toprak altı kaynaklarına ilişkindir.",
@@ -5207,8 +5207,8 @@
   "secenekler": [
    "En alt düzey",
    "Askerî ataşe",
-   "Geçici görevli",
-   "Konsolosluk memuru",
+   "Geçici görevli temsilci",
+   "Konsolosluk düzeyinde memur düzeyindeki görevli",
    "En üst düzey daimî temsilci"
   ],
   "dogru": 4,
