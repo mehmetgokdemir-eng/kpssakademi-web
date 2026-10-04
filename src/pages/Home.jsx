@@ -11,7 +11,7 @@ import Reklam from '../components/Reklam.jsx'
 import DegerlendirmeIstegi from '../components/DegerlendirmeIstegi.jsx'
 import KocKarti from '../components/KocKarti.jsx'
 import KurulumBolumu from '../components/KurulumBolumu.jsx'
-import AndroidYakinda from '../components/AndroidYakinda.jsx'
+import AndroidYakinda, { YAYINDA, PLAY_ADRESI } from '../components/AndroidYakinda.jsx'
 import {
   DersIkon,
   IconWrong,
@@ -273,9 +273,11 @@ export default function Home() {
         <Link to="/iletisim" className="hover:text-brand-600">
           İletişim
         </Link>
-        <a href="https://play.google.com/store/apps/details?id=com.nihangokdemir.kpss" target="_blank" rel="noreferrer" className="hover:text-brand-600">
-          Android uygulaması
-        </a>
+        {YAYINDA && (
+          <a href={PLAY_ADRESI} target="_blank" rel="noreferrer" className="hover:text-brand-600">
+            Android uygulaması
+          </a>
+        )}
         <span>© {new Date().getFullYear()} KPSS Akademi</span>
       </footer>
     </div>

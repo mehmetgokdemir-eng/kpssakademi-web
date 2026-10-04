@@ -5029,14 +5029,14 @@
   "konuId": "vergi_teorisi",
   "soru": "Bir malın üretimine %20 oranında katma değer vergisi uygulanmaktadır. Üretici, verginin tamamını fiyata yansıtamamakta; verginin %40'ını kendisi üstlenmektedir. Bu bilgilere dayanarak arzın fiyat esnekliği ile talebin fiyat esnekliğinin oranı (Es/Ed) hakkında ne söylenebilir?",
   "secenekler": [
-   "Es/Ed = 3/2 olup arz talebinden daha fazla esnektir.",
+   "Es/Ed = 3/2 olup talep arzdan daha esnektir.",
    "Es/Ed = 1,5 olup arz talebinden daha esnektir.",
    "Es/Ed = 1 olup arz ve talep aynı esnekliktedir.",
    "Es/Ed = 2/3 olup arz talebinden daha az esnektir.",
    "Es/Ed = 0,5 olup talep arzdan daha esnektir."
   ],
-  "dogru": 3,
-  "aciklama": "Vergi yansıması teorisine göre üreticinin (arz tarafının) üstlendiği vergi payı = Ed / (Es + Ed) formülüyle hesaplanır. Üreticinin verginin %40'ını üstlenmesi: Ed/(Es+Ed) = 0,40 → Ed = 0,40Es + 0,40Ed → 0,60Ed = 0,40Es → Es/Ed = 0,60/0,40 = 3/2 değil, Es/Ed = 0,6/0,4... Yeniden: üretici payı = Ed/(Es+Ed) = 0,4 → Ed = 0,4(Es+Ed) → 0,6Ed = 0,4Es → Es/Ed = 0,6/0,4 = 1,5 değil. Doğru formülasyon: Tüketici payı = Es/(Es+Ed), üretici payı = Ed/(Es+Ed). Üretici %40 taşıyor: Ed/(Es+Ed)=0,4 → Es/Ed = 0,6/0,4 = 1,5. Ancak şıkta C) Es/Ed=2/3 ifade edilmiş. Dikkat: üretici payı = Ed/(Es+Ed)=0,4 ise Es/Ed=3/2=1,5 olur, bu A şıkkına karşılık gelir. Dolayısıyla doğru yanıt A'dır — arz talebinden daha esnektir (Es/Ed=1,5). [Not: Soru answer:0 ile A şıkkını göstermektedir.]",
+  "dogru": 1,
+  "aciklama": "Vergi yansımasında üreticinin üstlendiği pay Ed/(Es + Ed), tüketicinin üstlendiği pay ise Es/(Es + Ed) formülüyle bulunur. Üretici verginin %40'ını üstlendiğine göre Ed/(Es + Ed) = 0,40 yazılır. Buradan Ed = 0,40Es + 0,40Ed → 0,60Ed = 0,40Es → Es/Ed = 0,40/0,60'ın tersi olan 1,5 bulunur. Es/Ed = 1,5 olması arzın talepten daha esnek olduğunu gösterir; esnekliği düşük olan taraf vergi yükünün daha büyük kısmını taşıdığı için yükün ağırlığı talep tarafında kalmıştır. Doğru yanıt B'dir.",
   "zorluk": "zor"
  },
  {
@@ -8151,12 +8151,12 @@
   "secenekler": [
    "Vergi incelemesine başlanılmış olması veya takdir komisyonuna başvurulmuş olması zamanaşımını durdurmaz; yalnızca keser.",
    "Tarh zamanaşımı süresi dolduktan sonra mükellef aleyhine herhangi bir işlem tesis edilemez; vergi idaresinin dava açma hakkı da bu süreyle sınırlıdır.",
-   "Tahsil zamanaşımı süresi 5 yıldır ve bu süre borcun vadesinin rastladığı takvim yılı başından işlemeye başlar.",
+   "Tahsil zamanaşımı süresi 5 yıldır ve bu süre, borcun vadesinin rastladığı takvim yılını izleyen yılın başından işlemeye başlar.",
    "Vergi Usul Kanunu'nda öngörülen tarh zamanaşımı süresi genel kural olarak 5 yıl olup bu süre vergiyi doğuran olayın gerçekleştiği takvim yılının son günü başlar.",
    "Yanıltıcı belge düzenleme gibi vergi kaçakçılığı suçlarında zamanaşımı süresi 5 yıl değil 8 yıl olarak uygulanır."
   ],
   "dogru": 2,
-  "aciklama": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'un 102. maddesine göre tahsil zamanaşımı 5 yıldır ve süre, borcun vadesinin rasladığı takvim yılını izleyen takvim yılı başından itibaren işlemeye başlar. D seçeneğinde 'borcun vadesinin rastladığı takvim yılı başından' denilmesi yanlış; doğrusu 'vadenin rastladığı takvim yılını izleyen yılın başından'dır — ancak seçenekler arasında bu en yakın doğru ifadedir. Uyarı: A seçeneği 213 sayılı VUK m.114'e göre doğrudur (takvim yılı başı, yılın ilk günü). B seçeneği yanlıştır; incelemeye başlama ve takdir komisyonuna sevk zamanaşımını durdurur (kesmez). C kısmen doğru olmakla birlikte zamanaşımı tarh değil tahsil sürecini de etkiler. E'deki 8 yıl VUK'ta değil TCK kapsamında değerlendirilir; VUK m.374 kaçakçılık için özel bir süre öngörmez. Bu soru, D'nin diğer seçeneklere kıyasla kanun metnine en yakın ve doğru olduğu bir analiz sorusudur.",
+  "aciklama": "6183 sayılı Kanun'un 102. maddesine göre tahsil zamanaşımı beş yıldır ve bu süre, amme alacağının vadesinin rastladığı takvim yılını izleyen takvim yılı başından itibaren işlemeye başlar. Tarh zamanaşımı ise Vergi Usul Kanunu'nun 114. maddesinde düzenlenmiş olup vergi alacağının doğduğu takvim yılını izleyen yılın başından başlayarak beş yıldır; bu nedenle D seçeneği yanlıştır. Takdir komisyonuna başvurulması zamanaşımını durdurduğundan A seçeneği de yanlıştır. Doğru yanıt C'dir.",
   "zorluk": "zor"
  },
  {

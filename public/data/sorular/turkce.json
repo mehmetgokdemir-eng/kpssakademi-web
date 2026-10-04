@@ -12220,7 +12220,7 @@
    "4"
   ],
   "dogru": 1,
-  "aciklama": "Yüklem: 'donup kaldı'. Özne: Gizli (o – 3. tekil şahıs). Nesne: 'eski dostunu' (belirtili nesne, '-nu'). Zarf tümleci 1: 'karşısında görünce' (zarf-fiil öbeği, koşul/zaman zarfı). Zarf tümleci 2: 'şaşkınlıktan' (sebep bildiren '-den' hâliyle zarf tümleci). Dolayısıyla yüklem dışında: gizli özne + nesne + iki zarf tümleci = 4 öge. Yanıt (D) 4'tür. Ancak gizli özne ayrı sayılmazsa 3 öge kalır. ÖSYM pratiğinde gizli özne de öge sayılır; yanıt (D)'dir (answer: 3).",
+  "aciklama": "Cümlenin yüklemi 'donup kaldı'dır. 'Eski dostunu karşısında görünce' bölümü bir zarf-fiil öbeğidir ve bütün hâlinde tek bir zarf tümleci görevi görür; 'eski dostunu' bu öbeğin içindeki nesnedir, temel cümlenin ayrı bir ögesi değildir. 'Şaşkınlıktan' sebep bildiren ikinci zarf tümlecidir. Buna ek olarak cümlenin gizli öznesi (o) bulunur. Yüklem dışındaki ögeler gizli özne, zarf-fiil öbeği ve 'şaşkınlıktan' olmak üzere 3'tür. Doğru yanıt B) 3'tür.",
   "zorluk": "orta"
  },
  {
@@ -14851,7 +14851,7 @@
   "id": "38971",
   "dersId": "turkce",
   "konuId": "anlatim_bozukluklari",
-  "soru": "Aşağıdaki cümlelerin hangisinde 'yüklem eksikliği' yoktur?",
+  "soru": "Aşağıdaki cümlelerin hangisinde 'yüklem eksikliği' vardır?",
   "secenekler": [
    "O, hem akıllı hem de çalışkan.",
    "Sınıftaki öğrenciler ve öğretmen.",
@@ -14859,8 +14859,8 @@
    "Hava bugün bulutlu.",
    "Kapılar açık, pencereler kapalı."
   ],
-  "dogru": 3,
-  "aciklama": "E seçeneğindeki 'Hava bugün bulutlu' cümlesinde 'bulutlu' sözcüğü yüklem görevini üstlenmiş, cümle yapısal olarak tamamdır. A, C ve D seçeneklerinde yüklem fiil değil sıfat ya da ad niteliğinde olsa da ek-fiil alarak yüklem işlevi görebilir; ancak B seçeneğinde belirgin yüklem eksikliği vardır. Seçenekler arasında en açık ve eksiksiz yükleme sahip cümle E'dir.",
+  "dogru": 1,
+  "aciklama": "B seçeneği 'Sınıftaki öğrenciler ve öğretmen.' yalnızca bir ad öbeğinden oluşur; yüklem görevi yapan hiçbir öge bulunmadığı için cümle yüklem eksikliği taşır. Diğer seçeneklerde yüklem ad ya da sıfat soylu olmakla birlikte ek-fiille yüklem işlevi görür: A'da 'çalışkan(dır)', C'de 'temiz(dir)', D'de 'bulutlu(dur)', E'de ise 'açık(tır)' ve 'kapalı(dır)' yüklem görevindedir. Bu nedenle yapısal eksiklik yalnızca B seçeneğindedir.",
   "zorluk": "kolay"
  },
  {
@@ -15299,7 +15299,7 @@
   "id": "39001",
   "dersId": "turkce",
   "konuId": "anlatim_bozukluklari",
-  "soru": "Aşağıdaki cümlelerden hangisinde sözcükler arasındaki anlam ilişkisi bakımından bir bozukluk yoktur?",
+  "soru": "Aşağıdaki cümlelerden hangisinde sözcükler arasındaki anlam ilişkisi bakımından bir bozukluk vardır?",
   "secenekler": [
    "Karanlık odayı aydınlattım.",
    "Yağmur yağdığı için deniz ıslandı.",
@@ -15308,7 +15308,7 @@
    "Açık olan pencereyi kapattım."
   ],
   "dogru": 1,
-  "aciklama": "A seçeneğinde 'yağmur yağdığı için deniz ıslandı' ifadesinde anlam bozukluğu vardır; deniz zaten sudur, ıslanamaz. B, C, D, E seçeneklerinde ise anlam ilişkisi bakımından sorun yoktur: açık olan kapatılır, kapalı olan açılır, karanlık olan aydınlatılır, dolu olan boşaltılır. Dolayısıyla bu seçeneklerin hiçbirinde sözcükler arası anlam ilişkisi bozukluğu yoktur; ancak A seçeneği mantık hatası içermektedir. Sorudaki 'bozukluk yok' kriteri değerlendirildiğinde B, C, D, E seçenekleri doğrudur. Cevap B'dir çünkü 'açık olan pencereyi kapatmak' tam anlamıyla mantıklı ve doğru bir eylemdir.",
+  "aciklama": "B seçeneğinde 'Yağmur yağdığı için deniz ıslandı.' denmektedir; deniz zaten sudan oluştuğu için ıslanma eylemi ona uygulanamaz. Bu, sözcükler arasındaki anlam ilişkisinin bozulmasına yol açan bir mantık hatasıdır. Diğer seçeneklerde ise eylem ile nesne arasındaki ilişki tutarlıdır: karanlık olan aydınlatılır, dolu olan boşaltılır, kapalı olan açılır, açık olan kapatılır.",
   "zorluk": "kolay"
  },
  {
@@ -26924,7 +26924,7 @@
    "Edebi ustalık, doğuştan gelen yetenekten değil birikimli emekten kaynaklanır."
   ],
   "dogru": 1,
-  "aciklama": "Parçada doğrudan kanıt sunulan iddia B şıkkıdır: 'Büyük romancıların ilk eserleri defalarca yeniden yazılmıştır' iddiası, parçada 'biyografiler incelendiğinde dikkat çeker' ve ardından Nabokov ile Flaubert'e ait somut örneklerle desteklenmektedir. A şıkkı, 'hepsi yoğun okuyuculardır' ifadesiyle geçmekte ancak okuma ile iyi yazarlık arasındaki zorunluluk ilişkisi kanıtlanmamaktadır. C şıkkı ise parçanın genel sonuç yargısıdır; somut kanıtlar bu yargıyı desteklemek için kullanılmaktadır, doğrudan kanıtı sunulan iddia değildir.",
+  "aciklama": "Parçada doğrudan kanıt sunulan iddia B seçeneğidir: 'Büyük romancıların ilk eserleri genellikle defalarca yeniden yazılmıştır' yargısı, biyografilerin incelenmesine dayandırılmış ve hemen ardından Nabokov'un binlerce sayfalık notu ile Flaubert'in tek bir cümle üzerinde günlerce çalışması somut örnek olarak verilmiştir. A seçeneği parçanın giriş yargısıdır, örnekle desteklenmemiştir. C seçeneği 'hepsi yoğun okuyuculardır' gözleminden çıkarılan bir zorunluluk iddiasıdır ve kanıtlanmamıştır. E seçeneği parçanın genel sonucudur. D seçeneğindeki üretkenlik sıralaması ise parçada hiç yer almaz.",
   "zorluk": "orta"
  },
  {
@@ -28391,12 +28391,12 @@
   "secenekler": [
    "Tüm cümlelerdeki çizgi kullanımları kurala uygundur.",
    "I ve IV'te çizgi doğru kullanılmış, diğerlerinde yanlış kullanılmıştır.",
-   "I'de kısa çizgi, IV'te ise uzun çizgi kullanılmalıydı.",
+   "I ve II'de çizgi yanlış kullanılmış; III, IV ve V'te kullanım kurala uygundur.",
    "III ve V'te ara söz için kullanılan çizgiler doğrudur, I ve IV'teki kullanımlar birbirinin yerine geçebilir.",
    "Yalnız II'de çizgi yanlış kullanılmıştır."
   ],
   "dogru": 2,
-  "aciklama": "Türkçe yazım kurallarına göre iki yer, iki tarih ya da iki sayı arasındaki 'arasında, ile' anlamı veren çizgi, kısa çizgi (-) ile gösterilmelidir. I. cümlede 'İstanbul — Ankara arası' ifadesinde uzun çizgi kullanılmıştır; oysa bu bağlamda kısa çizgi (-) kullanılmalıdır: 'İstanbul-Ankara arası'. IV. cümlede ise '2000-2010 yılları' ifadesinde kısa çizgi doğru kullanılmıştır. Dolayısıyla I'de kısa çizgi, IV'te ise kısa çizgi (doğru) kullanılmıştır; D seçeneği 'I'de kısa çizgi kullanılmalıydı, IV'te uzun çizgi' dediği için IV. konusunda yanıltıcıdır. Aslında I'deki uzun çizgi hatalıdır (kısa olmalı), IV doğrudur. D seçeneği I için doğru tespiti yaparken IV için yanlış bir saptama yapmaktadır; bu nedenle en yakın doğru yanıt D'dir ancak sınav bağlamında D'nin birinci kısmı doğrudur.",
+  "aciklama": "İki yer, iki tarih ya da iki sayı arasında 'ile, arasında' anlamı veren çizgi kısa çizgidir. I. cümlede 'İstanbul — Ankara arası' ifadesinde uzun çizgi kullanılmış, bu nedenle yazım hatalıdır; doğrusu 'İstanbul-Ankara arası' biçimindedir. II. cümlede 'Adamın yaşı — elli ile altmış arasındaydı.' ifadesinde çizgiye hiç gerek yoktur; burada da hatalı kullanım vardır. III ve V. cümlelerde uzun çizgi ara sözü ayırmak için doğru biçimde kullanılmıştır. IV. cümlede '2000-2010' ifadesinde iki tarih arasında kısa çizgi kullanılması kurala uygundur. Doğru yanıt C'dir.",
   "zorluk": "zor"
  },
  {
@@ -34083,16 +34083,16 @@
   "id": "40338",
   "dersId": "turkce",
   "konuId": "fiil_catisi",
-  "soru": "Aşağıdaki cümlelerin hangisinde hem ettirgen hem de dönüşlü çatı özelliği gösteren bir fiil kullanılmıştır?",
+  "soru": "Aşağıdaki cümlelerin hangisinde dönüşlü çatılı bir fiil kullanılmıştır?",
   "secenekler": [
    "Anne, çocuğu doktora muayene ettirdi.",
    "Sporcu, her antrenman sonrası masaja yatırılıyor.",
    "Yaşlı adam, saçını berbere tıraş ettiriyor.",
    "Yaralı asker, yarasını sargıya sardırdı.",
-   "Çocuk her sabah kendini soğuk suyla yıkıyor."
+   "Çocuk her sabah soğuk suyla yıkanıyor."
   ],
   "dogru": 4,
-  "aciklama": "'Yıkıyor' fiili 'yıka-' köküne '-n-' dönüşlülük eki getirilerek oluşturulan 'yıkan-' fiilinden değil, doğrudan 'yıka-' fiilinden gelir; ancak 'kendini' nesnesiyle kullanıldığında özne kendi üzerinde eylem gerçekleştirdiği için dönüşlü anlam taşır. Asıl yanıltıcı olan A seçeneğidir. Bu soruda aranılan ise hem ettirgen hem dönüşlü çatıyı biçimbirimsel olarak taşıyan fiildir. 'Sardırdı' fiili 'sar-dır-' ettirgen ekini içerir ve nesne özneye aittir, ancak dönüşlü ek içermez. 'Yıkıyor' fiili ise biçimsel olarak yalnızca dönüşlü değildir. Seçeneklerin hiçbiri çift çatı eki taşımaz; A seçeneği yalnızca bağlamsal dönüşlülük içeren, yapısal olarak en karmaşık seçenektir ve soruyu doğru analiz eden öğrenci bu incelikteki ayrımı fark etmelidir. Doğru yanıt A'dır: 'yıkıyor' bağlamsal dönüşlülüğü en belirgin biçimde sunan seçenektir.",
+  "aciklama": "Dönüşlü çatıda özne, yaptığı işten kendisi etkilenir ve fiil '-n-' çatı ekini alır. E seçeneğindeki 'yıkanıyor' fiili 'yıka-' köküne '-n-' eki getirilerek kurulmuştur; çocuk kendi kendini yıkadığı için fiil dönüşlüdür. A, C ve D seçeneklerindeki 'muayene ettirdi', 'tıraş ettiriyor' ve 'sardırdı' fiilleri '-tır-/-dır-' ekini aldığından ettirgendir; işi özne değil başkası yapar. B seçeneğindeki 'yatırılıyor' ise edilgen çatılıdır. Doğru yanıt E'dir.",
   "zorluk": "zor"
  },
  {

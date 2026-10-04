@@ -7,6 +7,7 @@ import { cx, sayi } from '../lib/utils.js'
 import { Baslik } from '../components/Layout.jsx'
 import { Modal, Rozet } from '../components/UI.jsx'
 import { PARCALAR, muzikDurumu, muzikDurumuAbone } from '../components/MusicPlayer.jsx'
+import { YAYINDA, PLAY_ADRESI } from '../components/AndroidYakinda.jsx'
 import { IconMoon, IconSun, IconRefresh, IconLink } from '../components/Icons.jsx'
 
 function Satir({ baslik, aciklama, children }) {
@@ -281,14 +282,16 @@ export default function Ayarlar() {
         <Link to="/iletisim" className="card flex items-center justify-between p-3.5 text-sm font-semibold">
           İletişim <IconLink size={16} className="text-ink-400" />
         </Link>
-        <a
-          href="https://play.google.com/store/apps/details?id=com.nihangokdemir.kpss"
-          target="_blank"
-          rel="noreferrer"
-          className="card flex items-center justify-between p-3.5 text-sm font-semibold"
-        >
-          Android uygulamasını indir <IconLink size={16} className="text-ink-400" />
-        </a>
+        {YAYINDA && (
+          <a
+            href={PLAY_ADRESI}
+            target="_blank"
+            rel="noreferrer"
+            className="card flex items-center justify-between p-3.5 text-sm font-semibold"
+          >
+            Android uygulamasını indir <IconLink size={16} className="text-ink-400" />
+          </a>
+        )}
         <p className="pt-2 text-center text-[11px] text-ink-400">KPSS Akademi Web · sürüm {__APP_VERSION__}</p>
       </div>
 

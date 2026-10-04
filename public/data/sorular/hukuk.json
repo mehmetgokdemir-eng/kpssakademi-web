@@ -3643,8 +3643,8 @@
    "8 yıldan 12 yıla kadar hapis",
    "10 yıldan 15 yıla kadar hapis"
   ],
-  "dogru": 3,
-  "aciklama": "TCK m. 81'e göre bir insanı kasten öldüren kişi, müebbet hapis cezasıyla cezalandırılır. Soru, bu nedenle 'E' şıkkı doğru görünse de TCK m.81 açıkça 'müebbet hapis' öngörmektedir. Doğru cevap E'dir. (answer:4)",
+  "dogru": 1,
+  "aciklama": "Türk Ceza Kanunu'nun 81. maddesine göre bir insanı kasten öldüren kişi müebbet hapis cezası ile cezalandırılır. Nitelikli hâller 82. maddede düzenlenmiş olup bu hâllerde ağırlaştırılmış müebbet hapis cezası uygulanır. Suçun basit hâli için öngörülen ceza süreli hapis değildir. Doğru yanıt B) Müebbet hapis'tir.",
   "zorluk": "kolay"
  },
  {
@@ -6490,10 +6490,10 @@
    "Mirasbırakanın anne ve babası, altsoy bulunmasa dahi saklı pay hakkına sahip değildir.",
    "Mirasbırakanın altsoyunun saklı payı, yasal miras payının yarısıdır.",
    "Mirasbırakanın kardeşleri, saklı pay mirasçısı olarak sayılır.",
-   "Sağ kalan eş, hangi zümreden mirasçılarla birlikte miras bırakırsa bıraksın saklı pay sahibidir."
+   "Sağ kalan eş, yalnızca altsoyla birlikte mirasçı olduğu hâlde saklı pay sahibidir."
   ],
   "dogru": 2,
-  "aciklama": "TMK m. 506 uyarınca altsoyun saklı payı, yasal miras payının yarısıdır. A yanlıştır; saklı pay yasal payın tümü değil yarısıdır. B yanlıştır; anne ve baba, altsoy bulunmadığında saklı pay sahibidir (yasal paylarının dörtte biri). C doğruya yakın olmakla birlikte saklı pay eşin bulunduğu zümreye göre farklılık gösterir. D kesinlikle yanlıştır; kardeşler saklı pay mirasçısı değildir. Dolayısıyla E (answer:4) doğru yanıttır.",
+  "aciklama": "Türk Medeni Kanunu'nun 506. maddesine göre saklı pay oranları şöyledir: altsoy için yasal miras payının yarısı, ana ve babadan her biri için yasal miras payının dörtte biri, sağ kalan eş için altsoy veya ana-baba zümresiyle birlikte mirasçı olması hâlinde yasal miras payının tamamı, diğer hâllerde ise dörtte üçü. Buna göre altsoyun saklı payı yasal payının yarısıdır. Kardeşler saklı pay mirasçısı değildir; sağ kalan eş ise yalnızca altsoyla birlikte değil her hâlde saklı pay sahibidir. Doğru yanıt C'dir.",
   "zorluk": "orta"
  },
  {

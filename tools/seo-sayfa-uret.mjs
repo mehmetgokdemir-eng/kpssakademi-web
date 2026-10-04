@@ -133,8 +133,7 @@ ${guncelleme ? `<p class="tarih">Son güncelleme: ${guncelleme}</p>` : ''}
 </main>
 <footer><div class="kap">
   <a href="/hakkinda">Hakkında</a> · <a href="/gizlilik">Gizlilik</a> · <a href="/iletisim">İletişim</a> ·
-  <a href="https://play.google.com/store/apps/details?id=com.nihangokdemir.kpss">Android uygulaması</a>
-  · © ${new Date().getFullYear()} KPSS Akademi
+  © ${new Date().getFullYear()} KPSS Akademi
 </div></footer>
 </body>
 </html>`
@@ -1332,8 +1331,7 @@ ${Object.entries(gruplar)
 <a href="/istatistik">İstatistik</a></p>
 
 <p style="color:#667492;font-size:13px;margin-top:34px">
-<a href="/hakkinda">Hakkında</a> · <a href="/gizlilik">Gizlilik</a> · <a href="/iletisim">İletişim</a> ·
-<a href="https://play.google.com/store/apps/details?id=com.nihangokdemir.kpss">Android uygulaması</a><br>
+<a href="/hakkinda">Hakkında</a> · <a href="/gizlilik">Gizlilik</a> · <a href="/iletisim">İletişim</a><br>
 KPSS Akademi bağımsız bir çalışma aracıdır; ÖSYM ile resmî bir bağlantısı yoktur.
 Sınav tarihleri ve resmî sonuçlar için osym.gov.tr esas alınmalıdır.</p>
 </div>

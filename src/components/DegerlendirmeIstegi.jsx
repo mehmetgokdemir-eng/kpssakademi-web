@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
-import { istenmeliMi, ertele, kapat, PLAY_ADRESI } from '../lib/degerlendirme.js'
+import { istenmeliMi, ertele, kapat } from '../lib/degerlendirme.js'
+import { YAYINDA, PLAY_ADRESI } from './AndroidYakinda.jsx'
 import { IconTrophy, IconClose, IconNote } from './Icons.jsx'
 
 /**
@@ -34,19 +35,21 @@ export default function DegerlendirmeIstegi() {
         <div className="min-w-0 flex-1 pr-4">
           <p className="text-sm font-bold">Nasıl gidiyor?</p>
           <p className="mt-0.5 text-[13px] leading-relaxed text-ink-500 dark:text-ink-400">
-            KPSS Akademi'yi bir süredir kullanıyorsun. İşine yarıyorsa Play Store'da puan vermen çok yardımcı
-            olur; eksik bulduğun bir şey varsa da yazman yeter.
+            KPSS Akademi'yi bir süredir kullanıyorsun. Eksik bulduğun, yanlış gördüğün ya da eklenmesini
+            istediğin bir şey varsa yazman yeter.
           </p>
           <div className="mt-3 flex flex-wrap gap-2">
-            <a
-              href={PLAY_ADRESI}
-              target="_blank"
-              rel="noreferrer"
-              className="btn-primary !py-2 !text-xs"
-              onClick={() => gizle(true)}
-            >
-              ★ Play Store'da puan ver
-            </a>
+            {YAYINDA && (
+              <a
+                href={PLAY_ADRESI}
+                target="_blank"
+                rel="noreferrer"
+                className="btn-primary !py-2 !text-xs"
+                onClick={() => gizle(true)}
+              >
+                ★ Play Store'da puan ver
+              </a>
+            )}
             <Link to="/iletisim" className="btn-outline !py-2 !text-xs" onClick={() => gizle(false)}>
               <IconNote size={14} /> Görüş bildir
             </Link>

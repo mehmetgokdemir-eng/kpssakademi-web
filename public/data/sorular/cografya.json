@@ -4203,8 +4203,8 @@
    "Başlangıç meridyeni ve 180° meridyeni birlikte büyük çember oluşturur.",
    "Dönenceler büyük çember olmayıp küçük paralel çemberleridir."
   ],
-  "dogru": 3,
-  "aciklama": "Başlangıç meridyeni (0°) ile 180° meridyeni birlikte tam bir büyük çember oluşturur; bu doğru bir ifadedir. Ancak seçenekler içinde B yanlış değil, doğrudur. Dikkatle incelendiğinde A şıkkında 'Ekvator hem paralel hem büyük çember' ifadesi doğrudur. Tüm seçenekler doğru olmakla birlikte B şıkkı bu bağlamda doğru kabul edilir. Yanlış olan çeldiricilerin analizi yapıldığında gerçekte B doğrudur; sınavda bu tür sorularda 'dönenceler büyük çember değildir (D doğru)' ve 'tüm meridyenler yarım büyük çemberdir (C doğru)' bilgisi esas alınır. Sorunun odağında B şıkkının doğruluğu değil, öğrencinin tüm seçenekleri kıyaslaması beklenir. Düzeltme: Yanlış ifade, 'Başlangıç meridyeni ve karşı meridyenin (180°) büyük çember oluşturduğu' doğru bilgisine karşın D şıkkı 'Herhangi iki meridyen büyük çember oluşturur' ifadesi hatalıdır; çünkü bir meridyen ve onun karşısındaki meridyen büyük çember yapar, rastgele iki meridyen değil. Doğru yanlış seçenek D'dir, answer=3.",
+  "dogru": 1,
+  "aciklama": "Büyük çember, yer küreyi tam ortadan iki eşit parçaya bölen çemberdir. Bir meridyen tek başına yarım büyük çemberdir; tam bir büyük çember ancak bir meridyen ile onun tam karşısındaki meridyenin (örneğin 0° ile 180°) birleşmesiyle oluşur. Herhangi iki meridyen bu koşulu sağlamaz; bu nedenle yanlış ifade B seçeneğidir. Ekvator en uzun paralel olup büyük çemberdir, dönenceler ise küçük paralel çemberleridir. Doğru yanıt B'dir.",
   "zorluk": "orta"
  },
  {

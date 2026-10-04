@@ -3,6 +3,7 @@ import { getIndex } from '../lib/data.js'
 import { sayi } from '../lib/utils.js'
 import { Baslik } from '../components/Layout.jsx'
 import { Istatistik } from '../components/UI.jsx'
+import { YAYINDA, PLAY_ADRESI } from '../components/AndroidYakinda.jsx'
 
 export default function Hakkinda() {
   const { veri } = useAsync(() => getIndex().catch(() => null), [])
@@ -50,18 +51,20 @@ export default function Hakkinda() {
           </ul>
         </div>
         <div>
-          <h2 className="mb-1.5 text-base font-bold text-ink-900 dark:text-white">Android sürümü</h2>
-          <p>
-            Aynı içerik Android uygulaması olarak da yayında:{' '}
-            <a
-              className="font-semibold text-brand-600"
-              href="https://play.google.com/store/apps/details?id=com.nihangokdemir.kpss"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Google Play
-            </a>
-          </p>
+          <h2 className="mb-1.5 text-base font-bold text-ink-900 dark:text-white">Telefonda kullanım</h2>
+          {YAYINDA ? (
+            <p>
+              Aynı içerik Android uygulaması olarak da yayında:{' '}
+              <a className="font-semibold text-brand-600" href={PLAY_ADRESI} target="_blank" rel="noreferrer">
+                Google Play
+              </a>
+            </p>
+          ) : (
+            <p>
+              Site telefona uygulama olarak kurulabilir. Tarayıcı menüsünden “Ana ekrana ekle” dediğinde
+              kendi simgesiyle açılır, çevrimdışı da çalışır; ayrı bir uygulama indirmen gerekmez.
+            </p>
+          )}
         </div>
         <p className="text-xs text-ink-400">
           Puan hesaplamaları geçmiş yıl istatistiklerinden türetilmiş tahminlerdir; ÖSYM'nin resmî sonucu farklılık
