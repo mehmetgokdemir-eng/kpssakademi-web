@@ -1324,6 +1324,19 @@ ${Object.entries(gruplar)
   <li><a href="/kpss-puan-hesaplama">KPSS Puan Hesaplama — net, standart puan ve ağırlıklar</a></li>
 </ul>
 
+<h2 style="font-size:20px;margin:30px 0 8px">KPSS'ye nasıl çalışılır?</h2>
+<p>KPSS'de başarıyı belirleyen şey çalışılan toplam saat değil, o saatin nasıl bölündüğüdür. Sınav geniş kapsamlı ama yüzeyseldir: tek bir konuyu derinlemesine bilmek yerine, çok sayıda konuyu soru çözecek kadar bilmek gerekir. Bu yüzden bir konuda tıkanıp günlerce orada kalmak, genellikle kaybettiren bir tercihtir.</p>
+<p>İşleyen sıralama şöyledir. Önce <b>konu anlatımını</b> okuyup çerçeveyi kur. Ardından <b>bilgi kartlarıyla</b> kavramları ve tanımları oturt — kartı çevirmeden önce cevabı hatırlamaya çalışmak, metni ikinci kez okumaktan çok daha kalıcıdır. Sonra o konudan <b>soru çöz</b>; bildiğini sandığın ile gerçekten bildiğin arasındaki fark ancak burada ortaya çıkar. Yanlışlarını listeye bırak ve haftada bir o listeyi baştan çöz. Son olarak, iki haftada bir <b>süreli deneme</b> çözerek tempoyu ölç.</p>
+<p>Net hesabı bu planı doğrudan etkiler: dört yanlış bir doğruyu götürür. Hiçbir fikrin olmayan soruda boş bırakmak doğru tercihtir; iki şıkkı elediğin soruda ise işaretlemek matematiksel olarak kazandırır. Deneme sonrası yanlışlarını "bilmiyordum", "biliyordum ama dikkatsizdim" ve "zaman yetmedi" diye ayırmak, hangi ilacın gerektiğini gösterir — üçünün çözümü birbirinden farklıdır.</p>
+<p>Hangi dersin ne kadar önemli olduğu, girmek istediğin kadronun puan türüne bağlıdır. Türkçe ve Matematik bütün puan türlerine girdiği için en yüksek getirili alanlardır. Genel Kültür derslerinde ise çalışmanın karşılığı en hızlı alınır, çünkü soru tipleri yıllar içinde fazla değişmez. Hedef puanından geriye doğru çalışmak — yani önce taban puanı, sonra gereken neti, en sonunda çalışma planını belirlemek — zamanı en verimli bölen yöntemdir.</p>
+
+<h2 style="font-size:20px;margin:30px 0 8px">Sık sorulanlar</h2>
+<p><b>Üyelik gerekiyor mu?</b> Hayır. Hesap açmadan kullanılır; çözdüğün sorular, notların ve deneme sonuçların yalnızca kendi tarayıcında saklanır, sunucuya gönderilmez. Ayarlar bölümünden verilerini dışa aktarabilir ya da tamamen silebilirsin.</p>
+<p><b>Ücretli bir sürümü var mı?</b> Yok. Tüm sorular, kartlar, denemeler ve oyunlar ücretsizdir. Site, reklam geliriyle ayakta kalır; oyunlarda reklam gösterilmez.</p>
+<p><b>İnternetsiz çalışır mı?</b> Evet. Tarayıcı menüsünden "Ana ekrana ekle" dediğinde site telefona uygulama gibi kurulur, kendi simgesiyle açılır ve daha önce açtığın içerikler internet olmadan da çalışır.</p>
+<p><b>Sorular nereden geliyor?</b> Sorular bu site için hazırlanır ve her birinde adım adım çözüm açıklaması bulunur. Hatalı bulduğun bir soruyu iletişim sayfasından bildirebilirsin; bildirilen sorular elden geçirilip düzeltilir.</p>
+<p><b>Puan hesaplayıcı ne kadar doğru?</b> Net hesabı kesindir. Puan ise tahmindir: ÖSYM netleri o yılki ortalama ve standart sapmaya göre standart puana çevirdiği için aynı net, yıllara göre farklı puan verir. Buradaki değerler geçmiş yıl istatistiklerinden türetilmiş tahminlerdir.</p>
+
 <h2 style="font-size:20px;margin:30px 0 8px">Bölümler</h2>
 <p><a href="/dersler">Dersler</a> · <a href="/kartlar">Bilgi Kartları</a> ·
 <a href="/quiz">Quiz</a> · <a href="/denemeler">Denemeler</a> ·
@@ -1390,28 +1403,41 @@ const UYGULAMA_ROTALARI = [
     baslik: 'KPSS Dersleri — Konu Listesi ve Soru Bankası | KPSS Akademi',
     aciklama: `KPSS dersleri: ${index.dersler.length} ders, ${konular.length} konu ve ${tr(toplamSoru)} çözümlü soru. Ders seç, konudan soru çöz.`,
     h1: 'KPSS Dersleri',
-    govde: `<p>KPSS Akademi'de ${index.dersler.length} ders, ${konular.length} konu başlığı ve ${tr(toplamSoru)} çözüm açıklamalı soru bulunur. Ders seçip doğrudan konudan soru çözebilir, konu anlatımlarını okuyabilirsin.</p><ul>${dersOzet}</ul>`,
+    govde: `<p>KPSS Akademi'de ${index.dersler.length} ders, ${konular.length} konu başlığı ve ${tr(toplamSoru)} çözüm açıklamalı soru bulunur. Ders seçip doğrudan konudan soru çözebilir, konu anlatımlarını okuyabilirsin.</p><ul>${dersOzet}</ul>
+<p>Dersler, sınavın oturum yapısına göre dört gruba ayrılır. <b>Genel Yetenek</b> Türkçe ve Matematik'ten oluşur ve bilgiden çok işlem ile yorum ister; bu iki ders her puan türüne girdiği için en yüksek getirili alandır. <b>Genel Kültür</b> Tarih, Coğrafya ve Vatandaşlık'tır; kapsamı geniştir ama soru tipleri yıllar içinde fazla değişmez, bu yüzden çalışmanın karşılığı en hızlı burada alınır. <b>Eğitim Bilimleri</b> öğretmen adaylarının oturumudur. <b>Alan Bilgisi</b> ise Hukuk, İktisat, Maliye, İşletme, Muhasebe, Kamu Yönetimi ve Uluslararası İlişkiler derslerini kapsar ve A grubu kadrolar için çözülür.</p>
+<p>Hangi dersten başlayacağına karar verirken iki ölçüt işe yarar: dersin puan türündeki ağırlığı ve senin o dersteki mevcut seviyen. Zayıf olduğun ama ağırlığı yüksek dersten başlamak en çok puanı kazandırır; sevdiğin ve zaten iyi olduğun dersten başlamak ise kendini iyi hissettirir ama tabloyu değiştirmez. Her dersin sayfasında o derse ait konu listesi, konu başına soru sayısı ve konu anlatımları bulunur — nereden başlayacağını orada görebilirsin.</p>
+<p>Bir konuyu çalışma sırası genelde şudur: önce konu anlatımını okumak, sonra bilgi kartlarıyla kavramları oturtmak, ardından o konudan soru çözmek ve en sonunda yanlışları tekrar etmek. Soru çözmeden geçilen konu, okunduğu gün bilindiğini sandığın ama sınavda çıkmayan konudur.</p>`,
   },
   {
     yol: '/denemeler',
     baslik: 'KPSS Deneme Sınavları — Süreli ve Puan Hesaplı | KPSS Akademi',
     aciklama: `${denemeler.length} ücretsiz KPSS deneme sınavı: süreli çözüm, net hesabı, ders bazlı analiz ve tahmini KPSS puanı.`,
     h1: 'KPSS Deneme Sınavları',
-    govde: `<p>Uygulamada <b>${denemeler.length}</b> deneme sınavı var. Her deneme süreli çözülür; bitirdiğinde netini, ders bazlı doğru-yanlış dökümünü ve puan türüne göre tahmini KPSS puanını görürsün.</p><ul>${denemeOzetSatir}</ul><p>Ayrıntılı liste ve deneme çözme taktikleri için <a href="/kpss-deneme-sinavi">KPSS deneme sınavı</a> sayfasına bakabilirsin.</p>`,
+    govde: `<p>Uygulamada <b>${denemeler.length}</b> deneme sınavı var. Her deneme süreli çözülür; bitirdiğinde netini, ders bazlı doğru-yanlış dökümünü ve puan türüne göre tahmini KPSS puanını görürsün.</p><ul>${denemeOzetSatir}</ul>
+<p>Deneme çözmenin asıl faydası puanı görmek değil, <b>süreyi yönetmeyi öğrenmektir</b>. Genel Yetenek–Genel Kültür oturumunda 120 soru için 130 dakika vardır; soru başına ortalama bir dakikadan biraz fazla düşer. Matematikte tek bir soruya dört dakika harcamak, o dersten üç soruyu hiç görmeden bırakmak demektir. Denemeyi süre tutmadan çözmek bu alışkanlığı hiç kazandırmaz.</p>
+<p>Denemeyi bitirdikten sonraki yarım saat, denemenin kendisinden daha değerlidir. Yanlışlarını üç kümeye ayır: bilmediğin için yanlış yaptıkların, bildiğin hâlde dikkatsizlikten kaçırdıkların ve zaman yetmediği için işaretleyemediklerin. Birincisi konu çalışması, ikincisi soru okuma disiplini, üçüncüsü ise soru seçme stratejisi gerektirir — üçü de farklı ilaçtır, hepsine "daha çok soru çözeyim" demek işe yaramaz.</p>
+<p>Sıklık konusunda genel kabul, sınava altı ay varken iki haftada bir, son iki ayda ise haftada bir deneme çözmektir. Daha sık çözmek konu çalışmasına ayıracağın vakti yer; daha seyrek çözmek ise sınav temposuna alışmanı geciktirir.</p>
+<p>Ayrıntılı liste ve deneme çözme taktikleri için <a href="/kpss-deneme-sinavi">KPSS deneme sınavı</a> sayfasına bakabilirsin.</p>`,
   },
   {
     yol: '/kartlar',
     baslik: 'KPSS Bilgi Kartları — Çevir Öğren, Sesli Okuma | KPSS Akademi',
     aciklama: `${tr(toplamKart)} KPSS bilgi kartı: çevir-öğren formatı, sesli okuma ve konu bazlı çalışma. Ücretsiz.`,
     h1: 'KPSS Bilgi Kartları',
-    govde: `<p><b>${tr(toplamKart)} bilgi kartı</b> ile hızlı tekrar yapabilirsin. Kartlar çevir-öğren formatındadır: ön yüzde soru ya da kavram, arka yüzde kısa ve akılda kalıcı açıklama bulunur. Sesli okuma desteği vardır; yolda ya da yürürken dinleyerek tekrar edebilirsin.</p><p>Bilgi kartları özellikle Tarih, Coğrafya ve Vatandaşlık gibi bilgi ağırlıklı derslerde işe yarar — soru çözmeden önce kavramları oturtmak, çözüm hızını belirgin biçimde artırır.</p>`,
+    govde: `<p><b>${tr(toplamKart)} bilgi kartı</b> ile hızlı tekrar yapabilirsin. Kartlar çevir-öğren formatındadır: ön yüzde soru ya da kavram, arka yüzde kısa ve akılda kalıcı açıklama bulunur. Sesli okuma desteği vardır; yolda ya da yürürken dinleyerek tekrar edebilirsin.</p><p>Bilgi kartları özellikle Tarih, Coğrafya ve Vatandaşlık gibi bilgi ağırlıklı derslerde işe yarar — soru çözmeden önce kavramları oturtmak, çözüm hızını belirgin biçimde artırır.</p>
+<p>Kartların işe yaramasının sebebi formatın kendisidir. Bir metni tekrar tekrar okumak tanıdıklık duygusu yaratır ama hatırlamayı güçlendirmez; kartın ön yüzünü görüp cevabı <b>hatırlamaya çalışmak</b> ise belleği doğrudan çalıştırır. Eğitim psikolojisinde bu, geri getirme pratiği olarak geçer ve aynı süre harcanan pasif okumadan belirgin biçimde daha kalıcıdır. Kartı çevirmeden önce iki saniye düşünmek, çevirip okumaktan çok daha fazla iş görür.</p>
+<p>İkinci önemli nokta aralıktır. Bir kartı aynı gün beş kez tekrar etmek yerine bugün, yarın, üç gün sonra ve bir hafta sonra birer kez görmek, toplam süre aynı olsa bile çok daha uzun süre akılda kalmasını sağlar. Bu yüzden kartları günlük kısa turlar hâlinde çalışmak, haftada bir uzun oturum yapmaktan verimlidir.</p>
+<p>Sesli okuma desteği, kartları ekrana bakmadan tekrar etmeye yarar. Yolda, yürürken ya da ev işi yaparken dinlenen tekrarlar, günde ekstra bir çalışma saati bulmanın en kolay yoludur; özellikle Vatandaşlık'taki madde numaraları ve Tarih'teki tarih–olay eşleşmeleri bu şekilde iyi oturur.</p>`,
   },
   {
     yol: '/quiz',
     baslik: 'KPSS Quiz — Karışık Soru Çözme | KPSS Akademi',
     aciklama: 'Seçtiğin derslerden karışık KPSS quizi oluştur, süre tut ve anında sonuç al. Ücretsiz, üyeliksiz.',
     h1: 'KPSS Quiz',
-    govde: `<p>Quiz, seçtiğin derslerden <b>karışık soru</b> getiren hızlı çalışma modudur. Ders ve soru sayısını sen belirlersin; sorular ${tr(toplamSoru)} soruluk bankadan seçilir ve her sorunun çözüm açıklaması vardır.</p><p>Tek konuya çalışırken bilgi taze olduğu için sorular kolay gelir; karışık quiz ise gerçek sınav koşuluna daha yakındır çünkü hangi konudan geldiğini bilmezsin. Bu yüzden konu çalışmasının ardından karışık quiz çözmek, öğrendiğini gerçekten sınamanın en pratik yoludur.</p>`,
+    govde: `<p>Quiz, seçtiğin derslerden <b>karışık soru</b> getiren hızlı çalışma modudur. Ders ve soru sayısını sen belirlersin; sorular ${tr(toplamSoru)} soruluk bankadan seçilir ve her sorunun çözüm açıklaması vardır.</p><p>Tek konuya çalışırken bilgi taze olduğu için sorular kolay gelir; karışık quiz ise gerçek sınav koşuluna daha yakındır çünkü hangi konudan geldiğini bilmezsin. Bu yüzden konu çalışmasının ardından karışık quiz çözmek, öğrendiğini gerçekten sınamanın en pratik yoludur.</p>
+<p>Quiz ile deneme arasındaki fark süre ve kapsamdır. Deneme, sınavın tamamını taklit eder ve bitirmek bir buçuk saatini alır; quiz ise on beş soruyla on dakikada biter. Günün dağınık aralıklarında — otobüste, sırada beklerken, akşam yatmadan önce — çalışmayı sürdürmenin yolu budur. Az ve sık çalışmanın, haftada bir uzun oturumdan daha çok iş gördüğü defalarca ölçülmüştür.</p>
+<p>Her sorunun altında çözüm açıklaması vardır. Yanlış yaptığın soruda açıklamayı okumadan geçmek, o soruyu bir daha karşına çıktığında yine yanlış yapacağın anlamına gelir; doğru yaptığın ama emin olmadığın soruda da açıklamayı okumak, bir sonraki sefer tahmine değil bilgiye dayanmanı sağlar. Quizin asıl değeri doğru sayısında değil, yanlışların üzerinde geçirdiğin iki dakikadadır.</p>
+<p>Yanlış yaptığın sorular ayrı bir listede birikir. Haftada bir o listeyi baştan çözmek, yeni soru çözmekten daha hızlı net kazandırır — çünkü oradaki her soru, senin bildiğin bir eksiği işaret ediyor demektir.</p>`,
   },
   {
     yol: '/oyunlar',
@@ -1424,14 +1450,20 @@ const UYGULAMA_ROTALARI = [
 <li><b>Eşleştirme</b> — kavram ve karşılıklarını hızlı eşleştirme</li>
 <li><b>Doğru mu?</b> — hızlı doğru-yanlış turu</li>
 <li><b>Maraton</b> — canın bitene kadar süren seri soru modu</li>
-</ul><p>Özellikle Coğrafya'da harita bilgisi ve Tarih'te olay sıralaması, düz metinden çalışıldığında zor kalıcı olur; görsel ve oyunlaştırılmış tekrar bu iki alanda belirgin fark yaratır.</p>`,
+</ul><p>Özellikle Coğrafya'da harita bilgisi ve Tarih'te olay sıralaması, düz metinden çalışıldığında zor kalıcı olur; görsel ve oyunlaştırılmış tekrar bu iki alanda belirgin fark yaratır.</p>
+<p>Harita Avcısı'nın karşılığı doğrudan sınavdadır: Coğrafya'da illerin konumu, dağ sıraları, akarsu havzaları ve ovaların yerleri soru içinde doğrudan sorulmasa bile, soruyu çözerken zihinde haritanın olması gerekir. "Hangi ilde hangi tarım ürünü yetişir" tipindeki bir soruyu, o ilin nerede olduğunu bilmeden iklimden çıkarmak mümkün değildir. Haritayı listeden ezberlemek yorucu ve kırılgandır; yerini tıklayarak öğrenmek ise kalıcıdır.</p>
+<p>Kronoloji oyunu da benzer bir boşluğu doldurur. Tarih sorularının önemli bölümü tek bir olayın tarihini değil, olaylar arasındaki <b>sırayı</b> ve neden-sonuç ilişkisini sorar. Olayları doğru sıraya dizmeye çalışmak, bu ilişkiyi tarih ezberlemeden kurmanın en hızlı yoludur.</p>
+<p>Oyunlarda reklam gösterilmemesi bilinçli bir tercihtir: oyunun amacı ekranda tutmak değil, kısa ve yoğun tekrar sağlayıp seni çalışmaya geri döndürmektir.</p>`,
   },
   {
     yol: '/puan-hesapla',
     baslik: 'KPSS Puan Hesaplama Aracı | KPSS Akademi',
     aciklama: 'Netlerini gir, KPSS puan türlerine göre tahmini puanını gör. P1, P2, P3, P10, P121 ve P93 destekli ücretsiz hesaplayıcı.',
     h1: 'KPSS Puan Hesaplama',
-    govde: `<p>Bu araca netlerini girdiğinde P1, P2, P3, P10, P121 ve P93 puan türlerine göre <b>tahmini</b> KPSS puanını hesaplar. Net hesabı kesindir (doğru − yanlış ÷ 4); puan ise tahmindir, çünkü ÖSYM netleri o yılki ortalama ve standart sapmayla standart puana çevirir.</p><p>Formülün ayrıntısı ve örnek hesaplar için <a href="/kpss-net-hesaplama">net hesaplama</a>, ağırlıklar için <a href="/kpss-puan-turleri">puan türleri</a> sayfasına bakabilirsin.</p>`,
+    govde: `<p>Bu araca netlerini girdiğinde P1, P2, P3, P10, P121 ve P93 puan türlerine göre <b>tahmini</b> KPSS puanını hesaplar. Net hesabı kesindir (doğru − yanlış ÷ 4); puan ise tahmindir, çünkü ÖSYM netleri o yılki ortalama ve standart sapmayla standart puana çevirir.</p><p>Net hesabı şöyle işler: her dört yanlış bir doğruyu götürür. 80 soruluk bir testte 50 doğru ve 20 yanlışın varsa netin 50 − (20 ÷ 4) = 45'tir. Boş bıraktıkların nete hiç dokunmaz. Bu yüzden "ikisini elediysen işaretle" tavsiyesi matematiksel olarak doğrudur: beş şıktan üçü kaldığında işaretlemenin beklenen değeri artıya geçer.</p>
+<p>Net ile puan arasındaki fark burada başlar. Net kesindir, puan değildir. ÖSYM netleri doğrudan puana çevirmez; önce o yılki tüm adayların ortalaması ve standart sapmasıyla standart puana dönüştürür, sonra puan türünün ağırlıklarıyla birleştirir. Yani aynı net, sınavın zor geçtiği bir yılda daha yüksek, kolay geçtiği bir yılda daha düşük puan verir. Bu araçtaki tahminler geçmiş yılların istatistiklerinden türetilmiştir ve ÖSYM'nin açıklayacağı resmî puandan sapabilir.</p>
+<p>Hesaplayıcıyı en verimli kullanma biçimi, hedef puanından geriye doğru çalışmaktır: girmek istediğin kadronun geçen yılki taban puanını gir, hangi dersten kaç net gerektiğini gör ve çalışma planını o açığa göre kur. Genel Kültür'den 5 net kazanmak çoğu adayda, Matematik'ten 5 net kazanmaktan belirgin biçimde kolaydır; planı buna göre yapmak aynı emekle daha çok puan getirir.</p>
+<p>Formülün ayrıntısı ve örnek hesaplar için <a href="/kpss-net-hesaplama">net hesaplama</a>, ağırlıklar için <a href="/kpss-puan-turleri">puan türleri</a> sayfasına bakabilirsin.</p>`,
   },
   {
     yol: '/hakkinda',
@@ -1447,7 +1479,9 @@ const UYGULAMA_ROTALARI = [
 <li>Harita Avcısı, Kronoloji, Eşleştirme, Doğru mu?, Maraton oyunları</li>
 <li>Günlük/haftalık hedef takibi, çalışma serisi ve istatistikler</li>
 </ul>
-<p>Üyelik gerekmez; ilerlemen yalnızca kendi cihazında saklanır. Android sürümü Google Play'de yayındadır.</p>
+<p>Üyelik gerekmez; ilerlemen yalnızca kendi cihazında saklanır ve istediğin an dışa aktarabilir ya da silebilirsin.</p>
+<p>Site telefonda da uygulama gibi kullanılabilir: tarayıcı menüsünden "Ana ekrana ekle" dediğinde kendi simgesiyle açılır, adres çubuğu olmadan tam ekran çalışır ve internet kesildiğinde de daha önce açtığın soru ve konular açılmaya devam eder. Ayrı bir uygulama indirmen gerekmez.</p>
+<p>KPSS Akademi'nin içeriği tek tek elden geçirilerek hazırlanır. Sorular yalnızca cevap anahtarıyla değil, adım adım çözüm açıklamasıyla birlikte verilir; hatalı bulunan sorular kullanıcı bildirimleriyle düzeltilir. Bu yüzden iletişim sayfasındaki soru bildirimi bölümü, uygulamanın en çok işe yarayan parçalarından biridir.</p>
 <p>Puan hesaplamaları geçmiş yıl istatistiklerinden türetilmiş tahminlerdir; ÖSYM'nin resmî sonucu farklılık gösterebilir.</p>`,
   },
   {
@@ -1457,7 +1491,9 @@ const UYGULAMA_ROTALARI = [
     h1: 'İletişim',
     govde: `<p>KPSS Akademi'yi tek kişilik bir ekip geliştiriyor. Yazdığın her mesaj okunuyor; özellikle <b>hatalı soru bildirimleri</b> hızla düzeltiliyor.</p>
 <p>E-posta: <a href="mailto:mehmetgokdemir@gmail.com">mehmetgokdemir@gmail.com</a></p>
-<p>Bir soruda hata gördüysen, soruyu ve nerede olduğunu (ders ve konu adı) yazman düzeltmeyi çok hızlandırır.</p>
+<p>Bir soruda hata gördüysen, soruyu ve nerede olduğunu (ders ve konu adı) yazman düzeltmeyi çok hızlandırır. Uygulamanın içinden de bildirebilirsin: her sorunun altındaki bildirim bağlantısı, sorunun kimliğini ve metnini mesaja kendiliğinden ekler, böylece aramakla uğraşmazsın.</p>
+<p>Gelen bildirimler şöyle ele alınır: önce soru bağımsız biçimde yeniden çözülür, cevap anahtarıyla karşılaştırılır ve hata gerçekten varsa düzeltilir. Anahtar doğru ama açıklama yanlış ya da eksikse açıklama yeniden yazılır. Sorunun kendisi kurgu olarak bozuksa — doğru cevabı şıklarda yoksa ya da birden fazla şık doğruysa — soru baştan yazılır. Düzeltmeler bir sonraki güncellemeyle yayına girer.</p>
+<p>Soru bildirimi dışında önerilere de açığız: eksik bulduğun bir konu, eklenmesini istediğin bir özellik ya da kullanırken takıldığın bir yer varsa yazabilirsin. En çok tekrarlanan istekler sıraya alınır.</p>
 <p>KPSS Akademi bağımsız bir çalışma aracıdır; ÖSYM ile resmî bir bağlantısı yoktur. Sınav tarihleri, kılavuzlar ve resmî sonuçlar için <b>osym.gov.tr</b> esas alınmalıdır.</p>`,
   },
   {
@@ -1569,7 +1605,7 @@ const veriDamgasi = await veriOzeti(join(DIST, 'data'))
    activate eski cache'leri silmez ve bayat app shell kullanılmaya devam eder
    (ilk tıklamada boş ekran, yenileyince düzelme belirtisi tam olarak budur). */
 const damga = createHash('sha256')
-  .update(varliklar.sort().join('|') + ' ' + sw + ' ' + veriDamgasi)
+  .update(varliklar.sort().join('|') + '\x00' + sw + '\x00' + veriDamgasi)
   .digest('hex')
   .slice(0, 8)
 const yeniSurum = `ka-${JSON.parse(await readFile(join(KOK, 'package.json'), 'utf8')).version}-${damga}`
