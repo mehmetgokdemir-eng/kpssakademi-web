@@ -1,0 +1,9 @@
+{
+  "aciklama": "KPSS Akademi uygulamasının geri sayım takvimi. ÖSYM yeni takvimi açıkladığında tarihi düzelt ve resmi:true yap.",
+  "guncelleme": "2026-10-07",
+  "sinavlar": [
+    { "kod": "ortaogretim", "ad": "KPSS Ortaöğretim", "tarih": "2026-10-25T10:15", "resmi": true },
+    { "kod": "lisans",      "ad": "KPSS Lisans",      "tarih": "2027-09-05T10:15", "resmi": false },
+    { "kod": "onlisans",    "ad": "KPSS Ön Lisans",   "tarih": "2028-10-01T10:15", "resmi": false }
+  ]
+}

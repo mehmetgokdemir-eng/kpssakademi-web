@@ -30,19 +30,20 @@ const kelime = (s) => String(s || '').split(/\s+/).filter(Boolean).length
 
 let dosyalar
 try {
-  dosyalar = (await readdir(EK_KLASOR)).filter((f) => f.endsWith('-ek.json'))
+  /* <ders>-ek.json ve sonraki turlar: <ders>-ek2.json, -ek3.json ... */
+  dosyalar = (await readdir(EK_KLASOR)).filter((f) => /-ek\d*\.json$/.test(f))
 } catch {
   console.error('tools/notlar/ klasörü yok — genişletilecek içerik bulunamadı.')
   process.exit(1)
 }
-if (istenen.length) dosyalar = dosyalar.filter((f) => istenen.includes(f.replace('-ek.json', '')))
+if (istenen.length) dosyalar = dosyalar.filter((f) => istenen.includes(f.replace(/-ek\d*\.json$/, '')))
 
 let toplamBolum = 0
 let toplamPuf = 0
 let toplamKelime = 0
 
 for (const dosya of dosyalar) {
-  const ders = dosya.replace('-ek.json', '')
+  const ders = dosya.replace(/-ek\d*\.json$/, '')
   const ek = JSON.parse(await readFile(join(EK_KLASOR, dosya), 'utf8'))
   const yol = join(NOT_KLASOR, `${ders}.json`)
   let notlar
