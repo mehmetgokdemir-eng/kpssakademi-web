@@ -971,8 +971,8 @@
    "Yalnızca Delta",
    "Alfa ve Delta"
   ],
-  "dogru": 4,
-  "aciklama": "Borç dinamiği denklemi: Δb = (r - g)×b - pb. Faiz oranı ≈ faiz ödemeleri/borç oranı hesaplanarak etkin faiz bulunur. Alfa: r = 4/80 = %5, g = %3; (0,05-0,03)×80 - 2 = 1,6 - 2 = -0,4 → borç düşüyor. Beta: r = 3/60 = %5, g = %5; (0)×60 - (-1) = 0 + 1 = +1 → borç artıyor. Gama: r = 5/100 = %5, g = %2; (0,03)×100 - 3 = 3 - 3 = 0 → borç sabit. Delta: r = 2/40 = %5, g = %4; (0,01)×40 - 0 = 0,4 - 0 = +0,4 → borç artıyor. Yalnızca Alfa'da borç/GSYİH oranı düşmektedir. Doğru cevap A olmalıdır; ancak sorunun kurgusu gereği en kapsamlı analitik değerlendirme B seçeneğinin sorgulanmasını gerektirir. Alfa için Δb = -0,4 < 0 (borç düşüyor), Delta için Δb = +0,4 > 0 (borç artıyor). Dolayısıyla yalnızca Alfa doğru; cevap A'dır.",
+  "dogru": 1,
+  "aciklama": "r=faiz ödemesi/borç alınırsa Alfa için Δb=(0,05-0,03)·80-2=-0,4<0; Beta +1, Gama 0, Delta +0,4 olduğundan yalnızca Alfa'nın borç oranı düşer. Doğru cevap B) Yalnızca Alfa şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -2459,8 +2459,8 @@
    "5,00",
    "2,22"
   ],
-  "dogru": 4,
-  "aciklama": "Vergi dahil kamu harcaması çarpanı k = 1 / (1 - c(1-t)) formülüyle bulunur. Burada c = 0,8 ve t = 0,25'tir. k = 1 / (1 - 0,8 × 0,75) = 1 / (1 - 0,6) = 1 / 0,4 = 2,5 değil; hesabı dikkatli yapalım: 0,8 × 0,75 = 0,60; 1 - 0,60 = 0,40; 1/0,40 = 2,50. Bu durumda doğru cevap B şıkkı 2,50 olmalıdır. Ancak sorudaki 'yaklaşık' ifadesi ve şıklar göz önüne alındığında 2,22 seçeneği yanıltıcı olup gerçek sonuç 2,50'dir — doğru cevap B) 2,50'dir. Not: Bu sorunun doğru cevabı B (index 1) olup açıklama buna göre düzeltilmiştir.",
+  "dogru": 0,
+  "aciklama": "Çarpan = 1/(1-0,8x0,75) = 1/0,4 = 2,5, yani A şıkkı. Doğru cevap A) 2,50 şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -3979,8 +3979,8 @@
    "%8",
    "%18"
   ],
-  "dogru": 4,
-  "aciklama": "Türkiye'de KDV'nin genel (temel) oranı %18'dir. Bunun yanı sıra temel gıda maddeleri gibi bazı ürünlerde %1, bazı hizmet ve mallarda %8 oranında indirimli KDV uygulanmaktadır. Not: 2023 sonrasında bazı oranlarda değişiklik yapılmış olabileceğinden mevzuatı güncel olarak takip etmek önemlidir.",
+  "dogru": 1,
+  "aciklama": "Temmuz 2023'ten itibaren Türkiye'de KDV genel oranı %20'dir, %18 güncelliğini yitirmiştir. Doğru cevap B) %20 şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -4459,8 +4459,8 @@
    "-0,5",
    "0,5"
   ],
-  "dogru": 1,
-  "aciklama": "Dengeli bütçe çarpanı = Harcama çarpanı + Vergi çarpanı = 2 + (-1,5) = 0,5 olmakla birlikte bu soru, çarpanların gelir üzerindeki net etkisini sorgulamaktadır. Ancak klasik Haavelmo teoremine göre harcama ve vergi eşit miktarda artırıldığında dengeli bütçe çarpanı 1'e eşit olur. Burada verilen verilerle net etki = (2 × 100) + (-1,5 × 100) = 200 - 150 = 50; bu da 100 birimlik harcama için çarpanın 0,5 olduğunu gösterir. Haavelmo'nun genel teoremi 1 sonucunu verir; veri ile sorgu birleştirildiğinde cevap D (1) seçeneğinin Haavelmo'ya göre beklenen değer olduğu anlaşılır.",
+  "dogru": 4,
+  "aciklama": "Dengeli bütçe çarpanı verilen çarpanların toplamıdır: 2 + (-1,5) = 0,5, yani E şıkkı. Doğru cevap E) 0,5 şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -6443,8 +6443,8 @@
    "Kamu gelir ve giderlerinin genellik ilkesini ihlal etmesi",
    "Kamu mali yönetiminde saydamlığı azaltması"
   ],
-  "dogru": 0,
-  "aciklama": "Bütçe dışı fonlar; denetim zayıflığı, saydamlık eksikliği, genellik ilkesinin çiğnenmesi ve özel gelir-gider ilişkisi kurulması nedeniyle yoğun biçimde eleştirilir. 'Kaynak esnekliği sağlaması' ise fonların savunucularının öne sürdüğü bir avantajdır; eleştiri değildir. 'Kamu hizmetlerinin sürekliliğini tehlikeye atması' ise bütçe dışı fonlara yönelik standart bir eleştiri değildir; aksine bazı fonlar hizmet sürekliliğini desteklemek amacıyla kurulur.",
+  "dogru": 1,
+  "aciklama": "B bir eleştiri değil, fon uygulamalarının savunucularınca ileri sürülen bir üstünlüktür; A ise (hizmet sürekliliğinin ve kaynak bütünlüğünün zedelenmesi) literatürde dile getirilen eleştiriler arasındadır. Doğru cevap B seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -6667,8 +6667,8 @@
    "Yalnız I, II ve III",
    "Yalnız I ve III"
   ],
-  "dogru": 4,
-  "aciklama": "I. ifade doğrudur: Klasik bütçe teorisi, bütçenin her yıl denkleştirilmesi gerektiğini ve borçlanmanın yalnızca savaş, doğal afet gibi olağanüstü durumlarda meşru olduğunu savunur. III. ifade de doğrudur: Konjonktürel denge bütçesi (dönemsel denge) yaklaşımında yıllık denge aranmaz; ekonomik genişleme dönemlerindeki fazlalar, daralma dönemlerindeki açıkları karşılar. II. ifade yanlıştır: Keynesyen bütçe teorisi, hem aktif maliye politikasını hem de otomatik stabilizatörleri benimser; ikisini birbirinin alternatifi olarak sunmaz. IV. ifade yanlıştır: Fonksiyonel maliye teorisinde (Lerner) bütçe dengesi bir amaç değil, sonuçtur; tam istihdam ve fiyat istikrarı temel amaçlardır, bütçe açığı/fazlası araçsal bir öneme sahiptir. Bu nedenle yalnızca I ve III doğrudur.",
+  "dogru": 3,
+  "aciklama": "I, II ve III doğru eşleştirmedir (Keynesyen yaklaşımda iradi/aktif maliye politikası ön plandadır), yalnız IV yanlıştır; dolayısıyla doğru şık D'dir. Doğru cevap D) Yalnız I, II ve III şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -7387,8 +7387,8 @@
    "%1",
    "%20"
   ],
-  "dogru": 2,
-  "aciklama": "KDV Kanunu'na göre genel KDV oranı %18'dir. Bazı mal ve hizmetlere %1 ve %8 oranları uygulanmakta olup genel oran %18'dir. (Not: 2023 yılında yapılan düzenlemeyle genel oran %20'ye yükseltilmiş olmakla birlikte sınav kitaplarında %18 temel oran olarak öğretilmeye devam etmektedir; güncel mevzuatı kontrol ediniz.)",
+  "dogru": 4,
+  "aciklama": "Temmuz 2023'ten itibaren KDV genel oranı %18'den %20'ye yükseltilmiştir. Doğru cevap E) %20 şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -8475,8 +8475,8 @@
    "İnceleme, kural olarak mükellefin işyerinde yapılır; ancak işyerinin müsait olmaması hâlinde dairede de yürütülebilir.",
    "Mükellef, inceleme sürecinde bağlı olduğu meslek odasından temsilci bulundurma hakkına sahiptir."
   ],
-  "dogru": 4,
-  "aciklama": "VUK ve ilgili yönetmelik hükümleri çerçevesinde mükellefin inceleme sürecinde meslek odasından temsilci bulundurma hakkı doğrudan tanınmamıştır; mükellef kendi seçeceği mali müşavir veya avukatı ile temsil edilebilir. 'Bağlı olduğu meslek odasından temsilci bulundurma hakkı' ifadesi hatalıdır. Diğer şıklardaki haklar ise genel itibarıyla VUK ve Vergi İncelemelerinde Uyulacak Usul ve Esaslar Hakkında Yönetmelik'te güvence altına alınmıştır. Doğru cevap C'dir.",
+  "dogru": 2,
+  "aciklama": "VUK'ta rapor öncesi zorunlu 'ön rapor bildirimi' yoktur; mükellefin hakkı rapor değerlendirme komisyonunda talep üzerine dinlenmedir, bu nedenle yanlış ifade C'dir. Doğru cevap C seçeneğidir.",
   "zorluk": "zor"
  },
  {

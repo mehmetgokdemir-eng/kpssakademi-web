@@ -1435,8 +1435,8 @@
    "X = 10, Y = 5",
    "X = 4, Y = 8"
   ],
-  "dogru": 4,
-  "aciklama": "Leontief (L şekilli kayıtsızlık eğrisi) fayda fonksiyonunda U = min(2X, Y), fayda maksimizasyonu köşe noktasında gerçekleşir. Bu mallar tam tamamlayıcıdır ve optimum: 2X = Y koşulunu sağlar (köşe noktası). Bütçe kısıtı: Px × X + Py × Y = M → 2X + 1 × Y = 20. Y = 2X yerine koyarsak: 2X + 2X = 20 → 4X = 20 → X = 5, Y = 10. Kontrol: 2×5 + 1×10 = 10 + 10 = 20 TL (bütçe kısıtı sağlanıyor). Fayda: U = min(2×5, 10) = min(10, 10) = 10. Ancak A şıkkında X=4, Y=8: 2X = 8 = Y ✓, bütçe: 2×4 + 8 = 16 ≠ 20 ✗. Doğru yanıt B'dir: X=5, Y=10. Not: Sorudaki 'answer:0' (A şıkkı) ile hesaplama B şıkkına işaret etmektedir; doğru yanıt B) X=5, Y=10 olarak alınmalıdır.",
+  "dogru": 0,
+  "aciklama": "Y=2X ve 2X+Y=20 kısıtından X=5, Y=10 bulunur. Doğru cevap A) X = 5, Y = 10 şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -1467,8 +1467,8 @@
    "Q=3, P=7",
    "Q=3, P=6"
   ],
-  "dogru": 0,
-  "aciklama": "Kapatma noktası; P = AVC_min koşulunda gerçekleşir. TVC = Q³ - 6Q² + 15Q, AVC = Q² - 6Q + 15. AVC'yi minimize etmek için dAVC/dQ = 2Q - 6 = 0 → Q = 3 bulunur. Ancak bu minimum AVC noktasıdır (Q=3, AVC=9-18+15=6). Kapatma fiyatı P=6'dır. Ama soruda kapatma noktasını soran Q ve P: Q=3 olduğunda AVC=9-18+15=6, yani P=6, Q=3. Şık B doğrudur, ancak yeniden hesaplayalım: Q=2 için AVC=4-12+15=7. Minimum için türev: dAVC/dQ=2Q-6=0, Q=3, AVC_min=6. Doğru cevap B) Q=3, P=6'dır.",
+  "dogru": 4,
+  "aciklama": "AVC=Q²-6Q+15 minimumu Q=3'te olup AVC=6 olduğundan kapatma noktası Q=3, P=6'dır. Doğru cevap E) Q=3, P=6 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -1627,8 +1627,8 @@
    "1800",
    "900"
   ],
-  "dogru": 0,
-  "aciklama": "Fiyat ayrımı yapılmayan durumda: MR = 100-2Q = MC = 10 → Q=45, P=55. Kâr = TR-TC = 45*55 - (10*45+200) = 2475-650 = 1825. Tam fiyat ayrımında: Her birim için talep fiyatından satış yapılır. Üretim P=MC koşulunda: 100-Q=10 → Q=90. Kâr = Alan (talep eğrisi altı) - TVC - FC = (1/2)*90*90 - 10*90 - 200 = 4050 - 900 - 200 = 2950. Fark = 2950 - 1825 = 1125. En yakın şık B (1012,5) olduğundan hesaplama hatası varsa tüketici artığı transferi: Tam ayrımda ek kâr = fiyat ayrımı yapılmayan durumun tüketici artığına eşittir = (1/2)*45*(100-55) = (1/2)*45*45 = 1012,5. Cevap B'dir.",
+  "dogru": 1,
+  "aciklama": "Ayrımsız kâr 1825, tam ayrımda kâr 3850 olduğundan fark 2025 TL'dir. Doğru cevap B) 2025 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -1755,8 +1755,8 @@
    "B, A'ya X malı verip karşılığında Y almalıdır; bu süreç MRS_A = MRS_B = 2 noktasına kadar devam eder.",
    "A, B'ye Y malı verip karşılığında X almalıdır çünkü A, Y malına B'den daha az değer vermektedir."
   ],
-  "dogru": 0,
-  "aciklama": "MRS, bir tüketicinin X'ten bir birim vazgeçmek için kaç birim Y almaya razı olduğunu gösterir (X cinsinden Y'nin göreli değeri). MRS_A = 3 demek A, 1 birim X için 3 birim Y'yi gözden çıkarmaya razıdır. MRS_B = 1 demek B, 1 birim X için 1 birim Y'yi gözden çıkarmaya razıdır. A, X malına B'den çok daha fazla değer vermektedir (3'e karşı 1). Bu durumda A'nın B'ye X vermesi yerine B'den X alması daha avantajlıdır. Doğru Pareto iyileştirme: MRS_A > MRS_B olduğunda A, Y malından B'ye vererek karşılığında X malı almalıdır. D seçeneği bu ilişkiyi doğru açıklamaktadır: A, X malına B'den fazla değer verdiğinden B'den X satın alır, Y verir; böylece her ikisinin de refahı artar ve MRS'ler eşitleninceye dek mübadele sürer. Doğru cevap D'dir.",
+  "dogru": 4,
+  "aciklama": "MRS_A=3>MRS_B=1 olduğundan A, X'e görece daha çok değer verir; A, Y verip X almalıdır, yani E doğrudur. Doğru cevap E seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1771,8 +1771,8 @@
    "5/4",
    "3/2"
   ],
-  "dogru": 0,
-  "aciklama": "Üçüncü derece fiyat ayrımında Lerner endeksi: (P - MC)/P = 1/|e|. A piyasası için: (P_A - 10)/P_A = 1/3 → 3P_A - 30 = P_A → 2P_A = 30 → P_A = 15 TL. B piyasası için: (P_B - 10)/P_B = 1/1,5 = 2/3 → 3P_B - 30 = 2P_B → P_B = 30 TL. P_B / P_A = 30/15 = 2/1 değil, 30/15 = 2. Ancak soru A seçeneği 4/3 diyor. Yeniden kontrol: |e_B| = 1,5 → 1/|e_B| = 2/3 → P_B(1 - 2/3) = MC → P_B × 1/3 = 10 → P_B = 30. |e_A| = 3 → P_A(1-1/3) = 10 → P_A × 2/3 = 10 → P_A = 15. P_B/P_A = 30/15 = 2. Doğru oran 2/1 olduğundan C şıkkı doğrudur. Doğru cevap C'dir.",
+  "dogru": 1,
+  "aciklama": "Lerner kuralıyla P_A=10/(1-1/3)=15, P_B=10/(1-1/1,5)=30 olup oran 2/1'dir. Doğru cevap B) 2/1 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -1915,8 +1915,8 @@
    "İki modelde de lider aynı miktarı üretir; yalnızca fiyat değişir.",
    "Lider Cournot'ya göre daha fazla üretir; Cournot kârı 1600 TL, Stackelberg lider kârı 2025 TL'dir."
   ],
-  "dogru": 4,
-  "aciklama": "Cournot dengesi: Tepki fonksiyonu Q_i = (120 - Q_j)/2. Denge: Q1 = Q2 = 40, P = 150 - 80 = 70. Cournot kârı Firma 1: (70-30)×40 = 1600 TL. Stackelberg: Firma 2'nin tepki fonksiyonu Q2 = (120 - Q1)/2. Lider bunu içselleştirir: P = 150 - Q1 - (120-Q1)/2 = 150 - Q1 - 60 + Q1/2 = 90 - Q1/2. TR_1 = (90 - Q1/2)Q1 = 90Q1 - Q1²/2. MR_1 = 90 - Q1 = MC = 30 → Q1 = 60. Q2 = (120-60)/2 = 30. P = 150 - 90 = 60. Stackelberg lider kârı: (60-30)×60 = 1800 TL değil... (60-30)=30, 30×60=1800. Ama seçenek C 2025 diyor. MC=30, Q1=60: Kâr = (P-MC)×Q1 = (60-30)×60 = 1800. Seçenek B 1800 der ve Cournot 1600. Bu doğru. Doğru cevap B'dir.",
+  "dogru": 0,
+  "aciklama": "Cournot'da her firma 40 üretir ve kârı 1600; Stackelberg liderinde q=60, P=60 ve kâr (60-30)*60=1800 olduğundan doğru şık A'dır. Doğru cevap A seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1995,8 +1995,8 @@
    "Q = 22,5, Kâr = 812,5 TL",
    "Q = 45, Kâr = 1.412,5 TL"
   ],
-  "dogru": 1,
-  "aciklama": "1. derece fiyat ayrımında tekel her birim için tüketicinin ödemeye razı olduğu maksimum fiyatı talep eder; dolayısıyla MR = P = talep eğrisi olur. Optimum: P = MC → 100 - 2Q = 10 → Q = 45. Toplam gelir = talep eğrisi altındaki alan (0'dan 45'e): ∫(100-2Q)dQ = [100Q - Q²] (0'dan 45) = 4500 - 2025 = 2475. TC = 10(45) + 200 = 450 + 200 = 650. Kâr = 2475 - 650 = 1825 TL. Tekrar kontrol: Kâr = Tüketici artığının tamamı + normal tekel kârı. Normal tekel: MR=100-4Q=10 → Q=22,5; P=55; TR=1237,5; TC=225+200=425; Kâr=812,5. Tüketici artığı = (1/2)(100-55)(22,5)=506,25. Toplam=812,5+506,25... Tam fiyat ayrımında üretim Q=45'e kadar uzar: Kâr = 2475-650 = 1825 TL. Doğru cevap yeniden değerlendirildiğinde A) 1.825 TL'dir, ancak seçeneklerde A ile B karıştırılmış olduğundan doğru cevap A) seçeneğidir.",
+  "dogru": 0,
+  "aciklama": "Tam fiyat ayrımında P=MC'den Q=45, tüketici artığı dahil toplam gelir 2475, TC=650 olup kâr 1825 TL'dir. Doğru cevap A) Q = 45, Kâr = 1.825 TL şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -2891,8 +2891,8 @@
    "LM eğrisinin dik, IS eğrisinin dik olması durumunda",
    "LM eğrisinin dik, IS eğrisinin yatık olması durumunda"
   ],
-  "dogru": 0,
-  "aciklama": "Para politikasının reel gelir üzerindeki etkisi en az olduğu durum, yatırımların faize duyarsız olduğu (IS eğrisinin dik/dikey) ve para talebinin faize son derece duyarlı olduğu (LM eğrisinin yatay) durumdur. Ancak seçenekler arasında bu tam kombinasyon yer almamaktadır. Seçenekleri değerlendirdiğimizde: LM yatık (para talebi faize duyarlı) ve IS dik (yatırım faize duyarsız) kombinasyonu, faiz düşse bile yatırımların artmaması nedeniyle para politikasının reel geliri en az etkilediği durumdur. Çünkü faiz oranı düşse bile IS dik ise yatırım artışı ve dolayısıyla gelir artışı minimaldir.",
+  "dogru": 2,
+  "aciklama": "Para politikası en etkisiz, LM yatay (likidite tuzağı) ve IS dik (faize duyarsız yatırım) iken olur; bu da C şıkkıdır. Doğru cevap C) LM eğrisinin yatay, IS eğrisinin dik olması durumunda şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -2971,8 +2971,8 @@
    "650",
    "575"
   ],
-  "dogru": 3,
-  "aciklama": "Vergi oranı modeli: Y = C + I + G. C = 50 + 0,8 × Yd, Yd = Y(1-t) = Y(1-0,25) = 0,75Y. C = 50 + 0,8 × 0,75Y = 50 + 0,6Y. Y = 50 + 0,6Y + 100 + 80. Y - 0,6Y = 230. 0,4Y = 230. Y = 230 / 0,4 = 575. Çarpan = 1/(1 - MPC(1-t)) = 1/(1 - 0,8×0,75) = 1/(1-0,6) = 1/0,4 = 2,5. Otonom harcamalar = 50 + 100 + 80 = 230. Y = 2,5 × 230 = 575 birim.",
+  "dogru": 4,
+  "aciklama": "Y=(50+100+80)/[1-0,8(1-0,25)]=230/0,4=575, yani E. Doğru cevap E) 575 şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -3019,8 +3019,8 @@
    "%5",
    "%15"
   ],
-  "dogru": 3,
-  "aciklama": "Para çarpanı formülü: m = (1 + c) / (c + rr + e). Burada c = nakit tutma oranı, rr = zorunlu karşılık oranı (%20 = 0,20), e = fazla rezerv oranı (%5 = 0,05). 4 = (1 + c) / (c + 0,20 + 0,05). 4(c + 0,25) = 1 + c. 4c + 1 = 1 + c. 3c = 0. c = 0. Ancak bu yaklaşık hesaplamada küçük sapmalar olabilir. Hesapla: c = 0,05 deneyerek: m = 1,05 / (0,05 + 0,25) = 1,05 / 0,30 = 3,5 ≠ 4. c = 0 ise: m = 1 / 0,25 = 4. Doğru cevap c = 0, yani kamu nakit tutmuyor. Ancak seçeneklerde %0 varsa o, yoksa en yakın %5. Bu soruda A şıkkı olan %0 doğru yanıttır.",
+  "dogru": 0,
+  "aciklama": "(1+c)/(c+0,20+0,05)=4 → 1+c=4c+1 → c=0, yani A. Doğru cevap A) %0 şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -4203,8 +4203,8 @@
    "%6,50",
    "%7,00"
   ],
-  "dogru": 1,
-  "aciklama": "Taylor kuralı: i = 2 + 5 + 0,5(5-2) + 0,5(-3) = 2 + 5 + 1,5 - 1,5 = 7,0. Dikkat: Soru 'i = r* + π + 0,5(π - π*) + 0,5·çıktı_açığı' formülünü kullanmaktadır. i = 2 + 5 + 0,5(3) + 0,5(-3) = 7 + 1,5 - 1,5 = 7,00. Ancak çıktı açığı = (Y-Y*)/Y* = -0,03 (yüzde -3), formüle doğrudan yüzde olarak girilir: i = 2 + 5 + 0,5(3) + 0,5(-3) = 7. Yüksek enflasyon faizi yukarı, negatif çıktı açığı faizi aşağı çeker ve bu etkiler birbirini dengeler. Sonuç: %7,00... Ancak seçenekler incelendiğinde %5,50 değeri ayrıca test edilmelidir. i = r*+π* + 1,5(π-π*) + 0,5·gap = 2+2+1,5(3)+0,5(-3) = 4+4,5-1,5 = 7. Standart Taylor: i = 2+5+1,5-1,5 = 7. Cevap B'dir (%7,00). Not: Şık C (%5,50) yanlış; doğru cevap B.",
+  "dogru": 4,
+  "aciklama": "i = 2 + 5 + 0,5(5-2) + 0,5(-3) = 7 + 1,5 - 1,5 = %7, yani E şıkkı. Doğru cevap E) %7,00 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -5099,8 +5099,8 @@
    "Yatırımların faize duyarlılığı yükseldikçe para politikasının reel sektör üzerindeki etkisi artar",
    "Para talebinin faize duyarlılığı arttıkça para politikasının etkinliği azalır"
   ],
-  "dogru": 2,
-  "aciklama": "IS eğrisinin dik olması, yatırımların faize hiç duyarlı olmaması anlamına gelir. Bu durumda para politikasıyla faiz düşürülse dahi yatırımlar artmaz ve IS eğrisi üzerinde hareket olmaz; dolayısıyla millî gelir değişmez. Bu ifade doğrudur. Ancak B şıkkı burada hatalı değil, doğrudur. Yanlış olan B şıkkı değil; dikkatli incelendiğinde B şıkkı IS'nin dik olduğunda para politikasının millî geliri artırmayacağını söyler ki bu doğrudur. Asıl yanlış olan şık B'dir çünkü IS'in dik (yatırımların faize duyarsız) olduğu durumda para arzı artışı faizi düşürür ama yatırım artmadığından gelir değişmez — bu doğru bir ifadedir. Gerçek yanlış önerme: IS eğrisinin yatay olduğu durumda para politikası etkisizleşir; IS dik olduğunda değil. B doğru, A doğru, C doğru, D doğru, E doğrudur; gerçekte soru IS dik → para politikası etkisiz der ki bu doğrudur. Dikkat: IS dikey iken para politikası faiz düşürür ama gelir artmaz — bu ifade doğrudur; yanlış olan B değildir. Soru, hangisinin YANLIŞ olduğunu sorar. B şıkkı aslında doğruysa yanlış şık hangisidir? Yanıt: Gerçekte IS eğrisinin tam dik (sıfır faiz esnekliği) olduğu durumda para politikası millî geliri etkileyemez; bu doğrudur. Tüm diğer şıklar da doğrudur, ancak B en tartışmalı olandır çünkü 'para politikası millî geliri artırmaz' ifadesi IS dik olduğunda doğrudur.",
+  "dogru": 0,
+  "aciklama": "Dik IS'te para politikasının geliri artırmaması doğrudur (C yanlış değil); IS-LM çerçevesinde dikey LM'de para politikası en etkin olup geliri artırdığından yanlış ifade A'dır. Doğru cevap A seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -5275,8 +5275,8 @@
    "4,44",
    "3,33"
   ],
-  "dogru": 3,
-  "aciklama": "Para çarpanı formülü: m = (1 + c) / (rr + er + c) şeklindedir; burada c = nakit-mevduat oranı, rr = zorunlu karşılık oranı, er = atıl rezerv oranı. m = (1 + 0,20) / (0,10 + 0,05 + 0,20) = 1,20 / 0,35 ≈ 3,43 ≈ yaklaşık 3,43. En yakın seçenek C) 4,44 değil, ancak seçenekler içinde doğru hesaplama sonucu 3,43'e en yakın olan D) 2,86 değil, hesaplama: 1,20/0,35 = 3,43 olup buna en yakın seçenek E) 3,33'tür. Ancak klasik KPSS sorularında yuvarlama farkı 'E' lehine değerlendirilebilmektedir. Not: Tam hesaplama 3,43 vermekte olup bu değere en yakın seçenek C) 4,44 değil, kesin matematiksel karşılık olarak sınavlarda çoğunlukla 1/(rr+er+c) formülü kullanılır: 1/0,35 ≈ 2,86 — bu D şıkkıdır. Klasik kısmi model olan basit çarpan 1/0,35 ≈ 2,86 olarak D şıkkını verir.",
+  "dogru": 2,
+  "aciklama": "Verilen oranlarla çarpan 1/(0,10+0,05+0,20)=2,86 çıkar; anahtarın 4,44'ü de itirazın 3,33'ü de bu değeri vermez. Doğru cevap C) 2,86 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -6859,8 +6859,8 @@
    "Sermaye hesabı fazlası > cari açık olmalıdır; J-Eğrisi sermaye girişlerinin gecikmeli tepkisini modellemektedir",
    "İhracat fiyat esnekliği + ithalat fiyat esnekliği > 1 olmalıdır; J-Eğrisi kısa dönemde kontratların sabit fiyatla yapıldığını, dolayısıyla hacim değil sadece değer etkisinin geçerli olduğunu gösterir"
   ],
-  "dogru": 2,
-  "aciklama": "Marshall-Lerner (ML) Koşulu: |εx| + |εm| > 1 — ihracat ve ithalat talep esnekliklerinin (miktar/fiyat esneklikleri) mutlak değerler toplamı 1'den büyük olmalıdır. Koşul sağlandığında devalüasyon ticaret dengesini iyileştirir. J-Eğrisi mekanizması: Devalüasyonun hemen ardından kısa dönemde sözleşmeler sabit miktarlar üzerinden yapılmış olduğundan ihracat ve ithalat miktarları değişmez; ancak ithalatın TL fiyatı yükseldiği için ticaret açığı önce daha da büyür (eğrinin alt çubuğu). Orta ve uzun dönemde miktar uyumu gerçekleşince (ithal ikamesi artar, ihracat cazibesi yükselir) ML koşulu fiilen devreye girer ve açık azalmaya başlar (eğrinin J harfine dönüşü). B şıkkı bu mekanizmayı doğru tanımlamaktadır.",
+  "dogru": 4,
+  "aciklama": "Marshall-Lerner koşulu ihracat ve ithalat talebinin FİYAT esnekliklerinin toplamının 1'den büyük olmasıdır ve J-eğrisi kısa dönemde fiyatların kontratlarla sabit, hacimlerin yapışkan olmasıyla açıklanır; C'deki 'miktar esnekliği' ifadesi koşulu yanlış tanımlar. Doğru cevap E seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -7851,8 +7851,8 @@
    "20-60 yaş",
    "15-64 yaş"
   ],
-  "dogru": 2,
-  "aciklama": "TÜİK, Türkiye'de işsizlik istatistiklerini uluslararası standartlara (ILO metodolojisi) uygun olarak 15-72 yaş grubunu esas alarak hesaplamaktadır. İşsiz sayılabilmek için referans dönemde iş aramak ve iki hafta içinde işe başlayabilecek durumda olmak gerekmektedir.",
+  "dogru": 4,
+  "aciklama": "İşsizlik/işgücü hesaplamalarında esas alınan çalışma çağı nüfusu 15-64 yaş grubudur; 15-72 gibi bir yaş aralığı kullanılmaz. Doğru cevap E) 15-64 yaş şeklindedir.",
   "zorluk": "kolay"
  },
  {

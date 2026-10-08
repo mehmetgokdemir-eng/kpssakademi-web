@@ -64,7 +64,20 @@ def uygula(duzeltmeler, yaz):
                 df[anah] = 'sorun yok (fabrika): anahtar zaten dogru'
                 ozet['zaten'] += 1
                 continue
-            ack = otomatik.ack_yenile(str(q.get('aciklama', '')), j, q['secenekler'][j])
+            # Anahtar degisiyorsa eski aciklamanin GOVDESI de yanlis cevabi
+            # savunuyor olabilir; basina "Dogru cevap X" eklemek celiski yaratir.
+            # Bu yuzden aciklama, hakemin gerekcesinden yeniden kurulur.
+            ger = str(x.get('gerekce', '')).strip()
+            if len(ger) >= 40:
+                sik = str(q['secenekler'][j]).strip().rstrip('.')
+                if ger[-1] not in '.!?':
+                    ger += '.'
+                sonuc = (f'Doğru cevap {yeni}) {sik} şeklindedir.' if len(sik) <= 60
+                         else f'Doğru cevap {yeni} seçeneğidir.')
+                ack = ger + ' ' + sonuc
+                ozet['gerekceden'] += 1
+            else:
+                ack = otomatik.ack_yenile(str(q.get('aciklama', '')), j, q['secenekler'][j])
             if ack is None:
                 atlanan.append(f'{ders} #{sid}: aciklama govdesi yetersiz, elle yazilmali')
                 df[anah] = 'elle yazilmali (fabrika): anahtar duzeltilebilir, aciklama yetersiz'
@@ -82,7 +95,7 @@ def uygula(duzeltmeler, yaz):
     if yaz:
         denetim.defter_yaz(df)
 
-    print('duzeltildi :', ozet['duzeltildi'])
+    print('duzeltildi :', ozet['duzeltildi'], f"(aciklama {ozet['gerekceden']} soruda hakem gerekcesinden yeniden yazildi)")
     print('bozuk isar.:', ozet['bozuk'])
     print('zaten dogru:', ozet['zaten'])
     print('atlandi    :', ozet['atlandi'])

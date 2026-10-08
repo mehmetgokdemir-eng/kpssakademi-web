@@ -795,8 +795,8 @@
    "1/2.000.000",
    "1/13.200.000"
   ],
-  "dogru": 1,
-  "aciklama": "A ve B noktaları aynı paralel (38°K) üzerinde olup aralarındaki boylam farkı 38° - 32° = 6°'dir. 38°K paralelinde 1°'lik boylamın yatay mesafesi ≈ 87,5 km olduğundan: Gerçek mesafe = 6 × 87,5 = 525 km ≈ 528 km (verilene yakın). Haritada 4 cm = 528 km = 52.800.000 cm. Ölçek = Harita mesafesi / Gerçek mesafe = 4 / 52.800.000 = 1/13.200.000. Ancak soru 528 km ≈ 52.800.000 cm → 4 cm / 52.800.000 cm = 1/13.200.000. Doğru yanıt D) 1/13.200.000'dir.",
+  "dogru": 4,
+  "aciklama": "6°×87,5 km ≈ 528 km = 52.800.000 cm; 4 cm'ye bölününce ölçek 1/13.200.000 çıkar. Doğru cevap E) 1/13.200.000 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -1531,8 +1531,8 @@
    "İki şehrin farklı yükseltilerde bulunması",
    "İki şehrin farklı boylamlarda bulunması"
   ],
-  "dogru": 0,
-  "aciklama": "Yerel saat farkı yalnızca boylam farkına bağlıdır; 15 boylamlık fark 1 saatlik zaman farkına karşılık gelir. İstanbul (yaklaşık 29° D) ile Erzurum (yaklaşık 41° D) arasında yaklaşık 12° boylam farkı vardır. Bu farkın var olması, Türkiye'nin geniş bir boylam aralığına yayılmış olmasından kaynaklanır. Enlem ve yükselti yerel saati etkilemez. B ve D şıkları aynı olguyu farklı ifade ettiğinden birbirini tamamlar; doğru yanıt E'dir.",
+  "dogru": 4,
+  "aciklama": "Yerel saat farkının tek nedeni boylam farkıdır; enlem ve yükselti saatle ilgisizdir, dolayısıyla 'B ve D' anahtarı hatalıdır. Doğru cevap E) İki şehrin farklı boylamlarda bulunması şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -1627,8 +1627,8 @@
    "Dünya bir mükemmel küre olsaydı, farklı enlemlerdeki yerçekimi değerleri birbirine eşit olurdu.",
    "Dünya'nın şekli, kutuplardan basık ekvatordan şişkin bir elipsoid olduğu için jeoit olarak adlandırılır."
   ],
-  "dogru": 3,
-  "aciklama": "Dünya mükemmel bir küre olsaydı bile, kendi ekseni etrafında döndüğü için merkezkaç kuvveti ekvatorda en büyük, kutuplarda ise sıfır olurdu. Bu nedenle ekvatorda yer çekimi yine de kutuplardan daha az olurdu. Dolayısıyla B şıkkındaki 'yerçekimi değerleri eşit olurdu' ifadesi yanlıştır. D ve E şıkları birbirine yakın görünse de ikisi farklı şeyleri ifade eder: Elipsoid teorik matematiksel şekil, jeoid ise ortalama deniz seviyesine göre belirlenen gerçek şekildir.",
+  "dogru": 4,
+  "aciklama": "Jeoit, elipsoitten de farklı, düzensiz gerçek şekli ifade eder; E'deki tanım yanlıştır, D ise doğru bir yargıdır. Doğru cevap E seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -1691,8 +1691,8 @@
    "21 Mart ve 23 Eylül aynı anda",
    "21 Mart"
   ],
-  "dogru": 4,
-  "aciklama": "21 Mart ilkbahar ekinoksu tarihidir. Ekinoks günlerinde (21 Mart ve 23 Eylül) gündüz ve gece süreleri tüm dünya genelinde eşittir (yaklaşık 12'şer saat). Bu tarihlerde gün ile gece farkı sıfıra en yakın ya da sıfırdır. Her ikisi de geçerli olduğundan en erken tarih olan 21 Mart soruda ilk seçenek olarak sunulmuştur; ancak soru 'en az fark' sorarken tekil cevap istendiğinden 21 Mart doğru kabul edilir. Cevap C seçeneğidir.",
+  "dogru": 3,
+  "aciklama": "Gece-gündüz farkı hem 21 Mart hem 23 Eylül'de sıfırdır; bu nedenle ikisini birlikte veren D şıkkı doğrudur. Doğru cevap D) 21 Mart ve 23 Eylül aynı anda şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -2155,8 +2155,8 @@
    "U",
    "Y"
   ],
-  "dogru": 3,
-  "aciklama": "Yerel öğle vakti, Güneş'in o meridyen üzerinde en yüksek konuma ulaştığı andır. Güneş doğudan batıya doğru hareket ettiği (aslında Dünya batıdan doğuya döndüğü için) görüntüsüyle, daha batıdaki meridyenlerde öğle vakti daha geç olur. Bu nedenle en batıdaki boylamı bulmak gerekir. Verilen koordinatlar incelendiğinde: X=30°D, Y=27°D, Z=35°D, T=33°D, U=28°D. En batıdaki nokta 27°D ile Y'dir, değil U(28°D). Sıralama: Y(27°D) < U(28°D) < X(30°D) < T(33°D) < Z(35°D). En batıda olan Y'de öğle en geç olur. Cevap B'dir. Dikkat: Enlem farklılıkları öğle vaktini etkilemez, yalnızca boylam belirleyicidir.",
+  "dogru": 4,
+  "aciklama": "Doğu boylamlarında en batıdaki (en küçük boylam) yer en geç öğle vakti yaşar; 27°D ile Y en batıdadır. Doğru cevap E) Y şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -2251,8 +2251,8 @@
    "21 Haziran'da bu enlemin tam üzerinde 24 saat kesintisiz gün ışığı görülür.",
    "Bu enlem, Dünya ekseninin yörünge düzlemine olan eğimiyle doğrudan ilişkilidir."
   ],
-  "dogru": 2,
-  "aciklama": "22 Aralık (Kış Gündönümü) günü Güneş Oğlak Dönencesi'ne (23°27'G) dik gelir. Bu tarihte Kuzey Kutup Dairesi'nin (66°33'K) tam üzerinde bulunan bir noktada Güneş tam 24 saat ufkun altında kalmaz; bu enlemin tam üzerinde Güneş tam gün boyunca ufkun üzerinde ya da hizasında kalır, 24 saatlik gece yaşanmaz. 24 saatlik tam gece, ancak kutup dairesinin kuzeyinde (yani 66°33'K'den daha kuzeydeki enlemlerde) yaşanır. Tam sınırda olan kutup dairesinde ise yalnızca teorik olarak Güneş ufkun tam üzerinde sıfır derece açıyla kalır, yani gün boyu doğmaz ama ufuk hizasında bulunur. E şıkkındaki '24 saat ufkun altında kalır' ifadesi yanlıştır.",
+  "dogru": 1,
+  "aciklama": "22 Aralık'ta Kutup Dairesi üzerinde Güneş 24 saat doğmaz (C doğrudur); yanlış ifade, Güney Yarım Küre'deki kutup olaylarını yok sayan B'dir. Doğru cevap B seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -2331,8 +2331,8 @@
    "Mevsimlerin oluşması tamamen durur, tüm enlemlerde iklim tekdüze olurdu.",
    "Güneş ışınlarının her yerde her gün aynı açıyla gelmesiyle sıcaklık dengesizlikleri azalırdı."
   ],
-  "dogru": 4,
-  "aciklama": "Dünya'nın ekseni 90° olsaydı (yörünge düzlemine tam dik), Güneş ışınları yıl boyu Ekvator'a dik gelir ve hiç değişmezdi. Bu durumda: A) Her yerde gece-gündüz eşit olurdu (doğru). B) Kutuplarda sürekli alacakaranlık benzeri bir durum olur, kutup gecesi/gündüzü sona ererdi (doğru). C) Mevsimler oluşmazdı, tekdüze bir iklim söz konusu olurdu (doğru). E) Dönenceler anlamsızlaşırdı (doğru). Ancak D şıkkı yanlıştır: Güneş ışınları her yerde her gün aynı açıyla gelmezdi; ekvatordan uzaklaştıkça Güneş ışınlarının geliş açısı yine de küçülürdü. Yani ekvatorda dik gelirken kutuplarda yine eğik gelirdi. Sıcaklık dengesizliği enlemler arasında yine var olurdu, sadece mevsimsel değişim ortadan kalkardı. Bu nedenle D yanlış bir sonuç olup doğru cevaptır.",
+  "dogru": 3,
+  "aciklama": "Eksen dik olsaydı mevsimler biterdi ama enlem farkından doğan iklim kuşakları sürerdi; 'tüm enlemlerde tekdüze iklim' gerçekleşmezdi. Doğru cevap D seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -2475,8 +2475,8 @@
    "66,5°K (Kuzey Kutup Dairesi)",
    "23,5°K (Yengeç Dönencesi)"
   ],
-  "dogru": 3,
-  "aciklama": "Bu soru görünürde basit gibi görünse de ince bir analiz gerektirir. Anlık güneş ışınımı yoğunluğu (W/m²) açı etkisine bağlıdır; Yengeç Dönencesi'nde 21 Haziran'da Güneş dik açıyla vurduğu için anlık yoğunluk en yüksektir. ANCAK soru 'günlük ışınım' (J/m²/gün) miktarını sormaktadır. Günlük toplam = anlık yoğunluk × gündüz süresi. 21 Haziran'da Kuzey Kutup Dairesi'nde (66,5°K) gündüz 24 saattir. Kutup Dairesi'nde Güneş'in yükseklik açısı düşük olduğundan anlık yoğunluk Yengeç Dönencesi'nden az olsa da 24 saatlik gündüz, toplam günlük ışınımın oldukça yüksek olmasını sağlar. Yapılan hesaplamalar 21 Haziran'da en yüksek günlük güneş ışınımının Kuzey Kutup Dairesi ve civarında (yaklaşık 60°-66,5°K) gerçekleştiğini ortaya koymaktadır. Kuzey Kutbu'nda (90°K) ise Güneş çok alçak açıyla çarptığı için toplam düşer. Doğru cevap D'dir.",
+  "dogru": 2,
+  "aciklama": "21 Haziran'da yatay yüzeye düşen günlük toplam ışınım, 24 saat sürekli güneş alması nedeniyle Kuzey Kutbu'nda en yüksektir. Doğru cevap C) 90°K (Kuzey Kutbu) şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -2603,8 +2603,8 @@
    "İkinci öğrenci doğrudur; eksen eğikliği yalnızca mevsimlerin oluşmasını sağlar.",
    "Her iki öğrenci de kısmen doğrudur; yerel saat farkı hem dönüşten hem eğiklikten etkilenir."
   ],
-  "dogru": 3,
-  "aciklama": "Yerel saat farklılıkları yalnızca Dünya'nın kendi ekseni etrafındaki dönüşünden (günlük hareket) kaynaklanır; eksen eğikliğinin bu konuyla doğrudan bir ilişkisi yoktur. Dolayısıyla ikinci öğrenci yerel saat konusunda doğrudur. Eksen eğikliği (23°27') ise mevsimlerin oluşmasını, gün uzunluklarının yıl içinde değişmesini, güneşin dönenceler arasında dik açıyla vuruş yapmasını ve kutup gecesi/gündüzü olaylarını açıklar. Seçenekler arasında 'mevsimlerin oluşması' başlı başına eksen eğikliğine bağlı en temel olgudur ve yalnızca eksen eğikliğiyle açıklanır. Bu nedenle doğru cevap A şıkkıdır.",
+  "dogru": 1,
+  "aciklama": "Yerel saat farkı yalnızca eksen dönüşünden kaynaklanır; eksen eğikliğinin ayırt edici sonucu gün uzunluklarının yıl içinde değişmesidir, D'deki 'yalnızca mevsimler' ifadesi eksiktir. Doğru cevap B seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4555,8 +4555,8 @@
    "En batıda güneş henüz doğmamıştır; yerel saat farkı tam 1 saattir.",
    "En batıda güneş henüz doğmamıştır; yerel saat farkı 1 saat 16 dakikadır."
   ],
-  "dogru": 1,
-  "aciklama": "Doğu sınırı 45°D, batı sınırı 26°D'dir. Boylam farkı: 45°-26°=19°. Her 1° boylam farkı 4 dakika saat farkına karşılık gelir. 19° × 4 dk = 76 dakika = 1 saat 16 dakika. ANCAK soru tam doğudan batıya olan farkı soruyor. Türkiye'nin doğusu 45°E, batısı 26°E → 45-26=19° fark → 19×4=76 dakika = 1 saat 16 dakika. Dolayısıyla en doğuda güneş doğarken, batıda yerel saat 1 saat 16 dakika geridedir. Doğru cevap A şıkkıdır. D şıkkında verilen 1 saat 52 dakika 28° fark eder ve yanlıştır.",
+  "dogru": 4,
+  "aciklama": "45°-26° = 19° boylam farkı × 4 dakika = 76 dakika, yani 1 saat 16 dakika. Doğru cevap E seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4699,8 +4699,8 @@
    "150-200 km arasında",
    "400-450 km arasında"
   ],
-  "dogru": 2,
-  "aciklama": "Formül: d = R × arccos[sinφ₁sinφ₂ + cosφ₁cosφ₂cos(Δλ)]. φ₁=40°, φ₂=37°, Δλ=36°-33°=3°. sin40°≈0,643, sin37°≈0,602, cos40°≈0,766, cos37°≈0,799, cos3°≈0,9986. İç terim: (0,643×0,602) + (0,766×0,799×0,9986) = 0,3871 + 0,6118 = 0,9989. arccos(0,9989) ≈ 2,69° ≈ 0,04694 radyan. d = 6371 × 0,04694 ≈ 299 km ≈ 300 km. Sonuç 300-350 km aralığına girer. Bu soru öğrencinin küresel mesafe formülünü anlayıp trigonometrik değerleri doğru uygulayıp uygulayamadığını test eder. Basit pisagor hesabı (Δlat≈333 km, Δlon≈250 km'nin karesi toplamının kökü) yanlış sonuç verir çünkü paralellerin küçük daire olduğu göz ardı edilir.",
+  "dogru": 4,
+  "aciklama": "Δφ=3°, Δλ=3° için küresel formül yaklaşık 3,87°×111 ≈ 430 km verir, bu da 400-450 km aralığıdır. Doğru cevap E) 400-450 km arasında şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -4907,8 +4907,8 @@
    "Yalnızca ilkbahar",
    "İlkbahar"
   ],
-  "dogru": 1,
-  "aciklama": "Ilıman okyanusal iklimde (Batı Avrupa iklimi) yağışlar yıl boyunca oldukça düzenli dağılır. Bu iklimde Batı rüzgârları hâkim olup her mevsim denizden nem taşır. Kışlar ılık, yazlar serin geçer. Kuzey ve Batı Avrupa bu iklimin görüldüğü başlıca bölgedir.",
+  "dogru": 2,
+  "aciklama": "Ilıman okyanusal iklimde yağış her mevsim görülse de maksimum sonbahar-kış aylarındadır; soru 'büyük bölümü hangi mevsimde' dediği için mevsim belirtmeyen B uygun değil. Doğru cevap C) Sonbahar ve Kış şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -5419,8 +5419,8 @@
    "Doğu Anadolu Bölgesi",
    "İç Anadolu Bölgesi"
   ],
-  "dogru": 2,
-  "aciklama": "Türkiye'de yıllık ortalama yağış miktarı en az olan bölge Güneydoğu Anadolu Bölgesi'dir. Bu bölgede bazı istasyonlarda yıllık yağış 300 mm'nin altına kadar düşmektedir. Bölge yazları subtropikal yüksek basıncın, kışları ise kısmen cephesel yağışların etkisi altında kalır.",
+  "dogru": 4,
+  "aciklama": "En az yağış alan bölge Konya Ovası çevresiyle İç Anadolu Bölgesi'dir. Doğru cevap E) İç Anadolu Bölgesi şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -5451,8 +5451,8 @@
    "Dağların denize dik uzanarak her mevsim nem taşıyan hava kütlelerinin iç kesimlere geçişini engellemesi",
    "Kuzey Kutbu'ndan gelen soğuk hava kütlelerinin sürekli etkisi"
   ],
-  "dogru": 3,
-  "aciklama": "Karadeniz kıyısında dağlar kıyıya paralel değil, dik konumdadır. Bu durum, Karadeniz'den gelen nemli hava kütlelerinin dağları aşamamasına ve yamaçlarda yoğunlaşarak her mevsim yağış bırakmasına neden olur. Dağların denize paralel uzaması durumunda ise nemli hava kütleleri kıyıya kolayca girebilir ama iç kesimlere de geçebilirdi.",
+  "dogru": 2,
+  "aciklama": "Kuzey Anadolu Dağları kıyıya paralel uzanır; nemli hava kütleleri yamaçlarda yükselip yağışı kıyı kuşağına bırakır, dolayısıyla 'dik uzanma' diyen D yanlıştır. Doğru cevap C seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -5707,8 +5707,8 @@
    "Tundra iklimi",
    "Ekvatoral iklim"
   ],
-  "dogru": 0,
-  "aciklama": "Akdeniz ikliminde yıl boyunca yağış görülmez; yazlar tamamen kuraktır, yağışlar kış mevsimine yoğunlaşmıştır. Ancak soru 'yıl boyunca yağış görülmesine karşın kış payının yüksek olduğu' iklimi sormaktadır. Bu özellik Akdeniz iklimine aittir: yağış vardır ama çok büyük bölümü kışa düşer. Ilıman okyanus ikliminde yağış yıla daha dengeli dağılmıştır. Bu ince ayrım öğrencilerin sıkça yanıldığı bir noktadır.",
+  "dogru": 1,
+  "aciklama": "Akdeniz ikliminde yaz kuraklığı olduğu için 'yıl boyu yağış' koşulunu sağlamaz; her mevsim yağışlı olup kışın payı artan iklim ılıman okyanus iklimidir. Doğru cevap B) Ilıman okyanus iklimi şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -6139,8 +6139,8 @@
    "Bölge Güney Yarımküre'de yer almakta ve kara yüzey sıcaklıkları okyanus yüzey sıcaklıklarından yüksektir",
    "Bölgenin yarımküre konumu belirlenemez, yalnızca karaların okyanuslardan daha sıcak olduğu söylenebilir"
   ],
-  "dogru": 0,
-  "aciklama": "Ocak ayında Kuzey Yarımküre kışı yaşar; karalar okyanuslardan daha hızlı soğuduğu için kara sıcaklıkları okyanus sıcaklıklarından düşük olur. İzotermlerin soğuyan karalarda ekvator'a doğru (daha sıcak tarafa) değil, kutuplara doğru kıvrım yapması beklenebilecek gibi görünse de doğru yorumlama şöyledir: izoterm, soğuk karadan geçerken o enlemin normalinden daha düşük sıcaklık gösteren noktaları birleştirmek için kutuplara kıvrım yapar; okyanus üzerinde ise sıcaklık karaya göre yüksek kaldığından izoterm ekvator yönüne kıvrım yapar. Bu örüntü, Kuzey Yarımküre'nin kış ayını ve karaların soğukluğunu yansıtır.",
+  "dogru": 3,
+  "aciklama": "Ocak'ta Güney Yarımküre yazdır; karalar okyanuslardan sıcak olduğunda izotermler kara üzerinde kutba (güneye) kıvrılır, dolayısıyla doğru şık D'dir. Doğru cevap D seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -7131,8 +7131,8 @@
    "Ege Bölgesi",
    "Güneydoğu Anadolu Bölgesi"
   ],
-  "dogru": 4,
-  "aciklama": "Güneydoğu Anadolu Bölgesi, çevresiyle karşılaştırıldığında Türkiye'nin en kurak bölgesidir. Yıllık ortalama yağış miktarı oldukça düşük olup yazlar son derece sıcak ve kurak geçer.",
+  "dogru": 2,
+  "aciklama": "Türkiye'de yıllık ortalama yağışı en düşük bölge, Konya ve Tuz Gölü çevresini içeren İç Anadolu'dur; Güneydoğu Anadolu ve Doğu Anadolu daha fazla yağış alır. Doğru cevap C) İç Anadolu Bölgesi şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -7387,8 +7387,8 @@
    "İklim bölgesi sınırı",
    "Yağış gölgesi etkisi"
   ],
-  "dogru": 4,
-  "aciklama": "Yağış gölgesi (rain shadow) etkisi, bir dağ sırasının rüzgar altı yamaçlarının çok daha az yağış alması olgusunu ifade eder. Nemli hava kütleleri dağın rüzgar üstü yamacını aşarken yağışını bırakır; dağı aşan hava kururak iner ve rüzgar altı yamaçta çok daha az yağış oluşur. İç Anadolu ve Güneydoğu Anadolu'da bozkırın egemen olmasının temel nedenlerinden biri Torosların ve Kuzey Anadolu Dağlarının yarattığı bu yağış gölgesi etkisidir.",
+  "dogru": 0,
+  "aciklama": "Yamaçta belirli bir yüksekliğin altında step, üstünde orman bulunması yükseldikçe sıcaklığın düşüp yağışın artmasına, yani dikey/termal kuşaklanmaya bağlıdır; yağış gölgesi bir yükselti eşiğini açıklamaz. Doğru cevap A) Termal kuşaklanma şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -7435,8 +7435,8 @@
    "Ege Bölgesi'nde kışların Akdeniz Bölgesi'ne göre çok daha sert geçmesi",
    "Ege Denizi'nin Akdeniz'e göre daha soğuk olması"
   ],
-  "dogru": 1,
-  "aciklama": "Ege Bölgesi Akdeniz iklimine benzer ancak bazı farklılıklar taşır: İç kesimlere gidildikçe karasallık artar, yağışlar yıl içinde Akdeniz kıyılarına göre biraz daha dengeli dağılır ve yaz kuruluğu Antalya gibi tam Akdeniz iklimi istasyonlarına kıyasla daha az belirgindir. Bunun yanı sıra Ege Bölgesi daha kuzeyde yer aldığından (özellikle İzmir ve kuzeyi) bazı alanlarda Akdeniz iklimiyle karasal iklim arası geçiş özellikleri taşır.",
+  "dogru": 0,
+  "aciklama": "Ege'de dağ ve vadilerin kıyıya dik uzanması deniz etkisinin iç kesimlere sokulmasına ve yaz kuraklığının Akdeniz'e göre daha az belirgin olmasına yol açar; B şıkkındaki 'yağışların yıl içinde düzenli dağılması' Ege için doğru bir saptama değildir. Doğru cevap A seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -7771,8 +7771,8 @@
    "Bakı – Denize uzaklık – Hâkim rüzgârlar – Yükselti",
    "Yükselti – Bakı – Denize uzaklık – Hâkim rüzgârlar"
   ],
-  "dogru": 2,
-  "aciklama": "Karadeniz kıyıları ile İç Anadolu arasındaki yağış farkının temel nedeni hâkim rüzgârlardır: Karadeniz'den gelen nemli ve ılık hava kütleleri kıyıya ulaşırken Kuzey Anadolu Dağları'nı aşmak zorunda kalır. Bu aşım sırasında yükselti etkisiyle yamaçlarda yoğun yağış bırakır (bakı etkisi), ardından İç Anadolu'ya çok daha kurak olarak ulaşır. Dolayısıyla bu süreçte sırasıyla hâkim rüzgârlar, yükselti ve bakı belirleyici olup denize uzaklık ise sonucu pekiştiren ek bir faktördür.",
+  "dogru": 0,
+  "aciklama": "Karadeniz kıyısı ile İç Anadolu arasındaki yağış farkında birincil etken denize yakınlık/uzaklık ve nemli hava kütlelerini taşıyan hâkim rüzgârlardır; denize uzaklığı en sona koyan C sıralaması savunulamaz. Doğru cevap A) Denize uzaklık – Hâkim rüzgârlar – Yükselti – Bakı şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -9227,8 +9227,8 @@
    "Peribacası",
    "Yardang"
   ],
-  "dogru": 4,
-  "aciklama": "Yardang, rüzgârların taşıdığı kum taneleri aracılığıyla yumuşak kayaçların aşındırılması sonucu oluşan mantar biçimli kayalardır. Rüzgâr yüklü kum çoğunlukla zemine yakın sürünür; bu nedenle kayanın alt kısmı daha fazla aşınarak mantar görünümü ortaya çıkar. Hamada çıplak kaya çöl düzlüğü, serir çakıllı çöl yüzeyi, peribacası volkanik tüf aşınması ürünü, zeugen ise sert-yumuşak tabakaların sıralandığı alanlarda oluşan masa kayalardır.",
+  "dogru": 0,
+  "aciklama": "Rüzgâr aşındırmasıyla oluşan mantar kayalar zeugen olarak adlandırılır; yardang ise rüzgâr yönünde uzanan sırtlardır. Doğru cevap A) Zeugen şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -10059,8 +10059,8 @@
    "Esker",
    "Terminal moren"
   ],
-  "dogru": 3,
-  "aciklama": "Esker, buzulların altındaki ya da içindeki meltwater kanallarında akan eriyik suların biriktirdiği materyalden oluşan uzun, dar, yılan biçimli sırtlardır. Buzulun ilerleme yönüne paralel uzanır, dışbükey profilli, yanları dikçe ve üzeri görece düzdür; üzerinde karışık tane boylu glaciofluvial materyal (buzul eriyen su çökelleri) bulunur. Terminal moren buzulun önünde yay biçiminde birikir, buzul yönüne paralel değildir. Drumin da buzul yönüne paralel uzanır ve till içerir, ancak şekli daha oval-yumurta biçiminde olup esker gibi keskin kenarlı ve dar sırt değildir; ayrıca drumin bazal buzul baskısıyla şekillenir, birikim kanalı değildir. Lateral moren buzulun yan kenarlarında oluşur. Kame ise buzulun erimesiyle çöküntü biçiminde oluşan tepe formudur.",
+  "dogru": 1,
+  "aciklama": "Buzul hareket yönüne paralel, dışbükey, karışık tane boylu till'den oluşan sırt drumlindir; esker eriyik sularının biriktirdiği boylanmış kum-çakıldan oluşur. Doğru cevap B) Drumin şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -10075,8 +10075,8 @@
    "Homoklinal sırtlar ve asimetrik vadi sistemi",
    "Fay basamakları ve yükseltim düzlükleri"
   ],
-  "dogru": 3,
-  "aciklama": "Verilen özellikler homoklinal (tek yönlü eğimli tabakalar) bir yapıyı yansıtmaktadır. Asimetrik tepeler, bir yamanın yumuşak eğimli ve tabakaların uzandığı dip yönde (dip slope = batı yaması), diğer yamanın ise tabakaların kesit verdiği dik yönde (scarp face = doğu yaması) olduğu klasik kuesta/homoklinal sırt yapısına uymaktadır. Ancak kuesta terimi genellikle yarı dik tabakalar için kullanılırken homoklinal sırt daha genel bir terimdir. Akarsular dik yamaçta (doğu) konsantre olur çünkü yapısal denetim akarsuları scarp boyunca yönlendirir. Antiklinal-senklinyal seçeneği (D) simetrik ya da çift yönlü eğim gerektirirdi. Graben serisi kırılma kaynaklı çukurlar yaratırdı. Fay basamakları ise farklı bir yüzey morfolojisi gösterir.",
+  "dogru": 1,
+  "aciklama": "Hafif eğimli tabaka (dip) yamacı ile dik yamaçtan oluşan asimetrik sırtlar, az eğimli tabakalı yapıda gelişen kuesta topografyasını tanımlar. Doğru cevap B) Kuestalar (cuesta) ve eşsürtünme yüzeyleri şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -10395,8 +10395,8 @@
    "1990'lar",
    "1960'lar"
   ],
-  "dogru": 1,
-  "aciklama": "Türkiye'de kentsel nüfus, 1970'li yıllarda kırsal nüfusu geçerek baskın hâle gelmiştir. Sanayileşme, tarımda makineleşme ve iş imkânları bu iç göç hareketini hızlandırmıştır.",
+  "dogru": 2,
+  "aciklama": "Kentsel nüfus kırsal nüfusu ilk kez 1985 sayımında geçmiştir, yani 1980'ler. Doğru cevap C) 1980'ler şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -11643,8 +11643,8 @@
    "%25",
    "%33"
   ],
-  "dogru": 4,
-  "aciklama": "Basitleştirilmiş hesaplama (kümülatif etki yok sayılarak): Ülke X yıllık artış: (40.000.000 × 0,012) + 80.000 = 480.000 + 80.000 = 560.000 kişi/yıl. 10 yılda: 5.600.000 artış. X'in 10 yıl sonraki nüfusu ≈ 45.600.000. Ülke Y yıllık artış: (15.000.000 × 0,018) - 50.000 = 270.000 - 50.000 = 220.000 kişi/yıl. 10 yılda: 2.200.000 artış. Y'nin 10 yıl sonraki nüfusu ≈ 17.200.000. Oran: 17.200.000 / 45.600.000 ≈ %37,7 ≈ %33-37 bandı. Seçenekler arasında en yakın değer C) %33'tür. (Not: Bu soruda bilinçli olarak %37 de seçenek olarak sunulmuştur; %37,7 değeri %33 ile %37 arasında kalmakta olup hesaplamanın yuvarlama hassasiyetine bağlı olarak C ya da B seçilebilir. ÖSYM tarzı sınavlarda bu tür yaklaşık değer sorularında doğru seçenek genellikle en yakın tam yüzdeyi işaret eder.)",
+  "dogru": 0,
+  "aciklama": "10 yılda X 40+5,6=45,6 milyon, Y 15+2,2=17,2 milyon olur; oran 17,2/45,6≈%37,7 ile en yakın şık A'dır. Doğru cevap A) %37 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -11659,8 +11659,8 @@
    "Doğu Anadolu ve Güneydoğu Anadolu bölgeleri bu dönem boyunca kesintisiz ve net biçimde nüfus vermeye devam etmiştir.",
    "Türkiye'nin toplam nüfusu bu süreçte yaklaşık 51 milyondan 85 milyona ulaşmıştır."
   ],
-  "dogru": 0,
-  "aciklama": "Türkiye'nin toplam doğurganlık hızı (TDH) 2023 itibarıyla yaklaşık 1,51 düzeyine gerilemiş ve yenilenme eşiği olan 2,1'in altına inmiştir. Ancak bu düşüşün 'demografik geçişin tamamlanması' olarak nitelendirilmesi tartışmalıdır: Demografik geçişin tamamlanması hem doğum hem ölüm hızlarının düşük ve stabil düzeye oturmasını gerektirir. Türkiye'de ölüm hızları yönetilebilir düzeyde olsa da bölgeler arası doğurganlık farklılıkları hâlâ belirgindir ve bazı bölgelerde TDH 3'ün üzerindedir. Dolayısıyla ulusal ortalamanın yenilenme eşiğinin altında olması, geçişin tüm bölgeler için tamamlandığı anlamına gelmez. D seçeneğinin 'tamamlanmıştır' ve 'TDH yenilenme düzeyinin altına inmiştir' şeklindeki kesin ifadesi, bölgesel heterojenliği göz ardı ettiğinden hatalı bir çıkarım içerir.",
+  "dogru": 3,
+  "aciklama": "TDH 2019'dan itibaren yenilenme düzeyinin altına indiği için A doğru bir çıkarımdır; asıl hatalı ifade Doğu/Güneydoğu'nun 'kesintisiz ve net' biçimde göç verdiğini söyleyen D'dir. Doğru cevap D seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -12795,8 +12795,8 @@
    "Tahıllar",
    "Baklagiller"
   ],
-  "dogru": 0,
-  "aciklama": "Türkiye'de toplam bitkisel üretim miktarına (ton) bakıldığında sebzeler ilk sırada yer almaktadır. Domates, biber, salatalık, patlıcan gibi sebzeler hem yurt içi tüketimde hem de ihracatta önemli paya sahiptir. Tahıllar ekim alanı bakımından birinci olsa da toplam üretim miktarı (ton) açısından sebzeler öne geçmektedir.",
+  "dogru": 3,
+  "aciklama": "TÜİK verilerine göre tahıl üretimi (yaklaşık 35 milyon ton) sebze ve meyve üretiminin üzerindedir, dolayısıyla doğru şık D'dir. Doğru cevap D) Tahıllar şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -13259,8 +13259,8 @@
    "Muz",
    "Çay"
   ],
-  "dogru": 0,
-  "aciklama": "Kivi, Türkiye'de özellikle 1990'lardan itibaren hem Karadeniz kıyı kuşağında (Rize, Trabzon, Ordu) hem de Akdeniz kıyılarında (Antalya, Mersin) yetiştirilmeye başlanmıştır. Her iki bölgede de nemli iklim ve ılıman kış koşulları kivinin yetişmesine uygundur. Çay yalnızca Doğu Karadeniz'de, muz ve turunçgil ağırlıklı olarak Akdeniz kıyılarında, fındık ise Orta ve Batı Karadeniz'de yetiştirilmektedir. Bu nedenle her iki kıyı kuşağında da yaygın biçimde karşılaşılan ürün olarak kivi öne çıkmaktadır.",
+  "dogru": 2,
+  "aciklama": "Turunçgiller Akdeniz kıyılarının yanı sıra Doğu Karadeniz kıyı kuşağında (Rize mandalinası) da yaygın olarak yetiştirilir; kivi esas olarak Karadeniz-Marmara ürünüdür. Doğru cevap C) Turunçgil şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -13883,8 +13883,8 @@
    "Doğalgaz",
    "Hidroelektrik"
   ],
-  "dogru": 4,
-  "aciklama": "Türkiye'de elektrik üretiminde hidroelektrik santraller önemli bir pay almaktadır. Türkiye'nin dağlık yapısı ve akarsularının fazlalığı nedeniyle hidroelektrik potansiyeli çok yüksektir ve üretimde genellikle ilk sırada yer alır.",
+  "dogru": 0,
+  "aciklama": "Son yıllarda Türkiye'nin elektrik üretiminde en büyük pay yaklaşık üçte bir ile kömüre aittir; hidrolik ve doğal gaz onu izler. Doğru cevap A) Kömür şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -13963,8 +13963,8 @@
    "ABD",
    "İran"
   ],
-  "dogru": 4,
-  "aciklama": "Kanıtlanmış doğal gaz rezervleri bakımından İran, Rusya ile birlikte dünyada ilk sıralarda yer almakta olup pek çok kaynağa göre birinci konumdadır. Rus gazprom kaynakları Rusya'yı öne çıkarsa da birçok uluslararası kuruluş İran'ı birinci olarak göstermektedir.",
+  "dogru": 0,
+  "aciklama": "Dünyanın en büyük doğal gaz rezervi Rusya'ya aittir; İran ikinci sıradadır. Doğru cevap A) Rusya şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -15275,8 +15275,8 @@
    "Liman altyapısı ve ihracat kolaylığı",
    "Devlet politikası ve planlı kalkınma hedefleri"
   ],
-  "dogru": 4,
-  "aciklama": "Türkiye'de Karabük (1939), Ereğli (1965) ve İskenderun (1975) gibi büyük demir-çelik tesislerinin kuruluş yerlerinde klasik lokasyon teorilerinden ziyade devletin kalkınma politikaları, bölgeler arası dengesizliği giderme hedefleri ve siyasi kararlar belirleyici olmuştur. Nitekim Karabük kömür havzasına yakın kurulmuş olsa da Ereğli ve İskenderun tesislerinin yerleri büyük ölçüde stratejik ve siyasi kararlarla belirlenmiştir.",
+  "dogru": 1,
+  "aciklama": "Karabük ve Ereğli örneklerinde olduğu gibi demir-çelik tesisleri ağır hammadde (demir cevheri) ve enerji (taş kömürü) kaynaklarına yakın kurulmuştur; devlet politikası tamamlayıcı bir etkendir. Doğru cevap B) Hammadde ve enerji kaynaklarına yakınlık şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -16459,8 +16459,8 @@
    "Güneydoğu Anadolu Bölgesi",
    "İç Anadolu Bölgesi"
   ],
-  "dogru": 4,
-  "aciklama": "İç Anadolu Bölgesi, geniş düzlükleri ve platoları nedeniyle tarım arazilerinin toplam yüzölçümüne oranının en yüksek olduğu bölgedir. Konya Ovası başta olmak üzere Bafra, Çarşamba ve diğer ovalarla birlikte tahıl tarımı yoğun biçimde yapılır. Bölgenin yüzölçümünün büyük bölümü tarım arazilerinden oluşur.",
+  "dogru": 2,
+  "aciklama": "Ekili-dikili alanların bölge yüzölçümüne oranı en yüksek bölge Marmara Bölgesi'dir. Doğru cevap C) Marmara Bölgesi şeklindedir.",
   "zorluk": "orta"
  },
  {

@@ -1899,8 +1899,8 @@
    "Ağ yönetişimi, güç asimetrilerinin bulunmadığı ve tüm aktörlerin eşit kapasite ile meşruiyete sahip olduğu hallerde bile etkin koordinasyon üretemez.",
    "Ağlar, biçimsel yasal çerçevelerin dışında kaldığından yalnızca resmileşmemiş sektörlerde işlevseldir; kamu hukuku kapsamındaki alanlarda ağ koordinasyonunun teorik geçerliliği yoktur."
   ],
-  "dogru": 3,
-  "aciklama": "Ağ yönetişimi teorisinin en zayıf önermesi D şıkkında ifade edilmektedir: Ağ teorisyenleri bile bu teorinin güç asimetrilerinin var olmadığı mükemmel koşullarda bile koordinasyon üretemeyeceğini ileri sürmez; aksine Kickert, Klijn ve Koppenjan gibi akademisyenler ağ yönetiminin zorlukları arasında güç farklılıklarını sayar ancak güç eşitsizliği bulunmayan koşulda ağ koordinasyonunun sorunsuz işleyeceğini kabul eder. C şıkkı ise ağ yönetişiminin gerçek teorik zafiyetini doğru biçimde saptamaktadır: Hesap verebilirlik zincirinin dağınık aktörler arasında parçalanması, geleneksel demokratik sorumluluk mekanizmalarını işlevsizleştirebilir. D şıkkı ise teorinin kendisiyle çelişen ve savunucularca da kabul edilmeyen bir iddia içerdiğinden teorinin 'en zayıf' önermesini oluşturur.",
+  "dogru": 1,
+  "aciklama": "Ağ yönetişiminin en kırılgan yanı hesap verebilirlik belirsizliğidir; D ise teorinin bir önermesi değil, mutlak ve temelsiz bir karşı iddiadır. Doğru cevap B seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -3595,8 +3595,8 @@
    "Başbakanlık – İçişleri Bakanlığı bünyesinde devam etmiştir",
    "Dışişleri Bakanlığı – Ulusal İstihbarat Koordinasyon Kurulu"
   ],
-  "dogru": 0,
-  "aciklama": "Kamu Düzeni ve Güvenlik Müsteşarlığı başlangıçta Başbakanlığa bağlı olarak kurulmuş; 2018 Cumhurbaşkanlığı Hükümet Sistemi'ne geçişle birlikte lağvedilmiş ve görevleri ağırlıklı olarak Cumhurbaşkanlığı İdari İşler Başkanlığı bünyesindeki ilgili birimlere devredilmiştir. Bu soru, kurumsal dönüşüm sürecinin tarihsel arka planını bilmeyi gerektirir.",
+  "dogru": 3,
+  "aciklama": "Kamu Düzeni ve Güvenlik Müsteşarlığı Başbakanlığa bağlı kurulmuş, 2018'de kapatılarak görevleri İçişleri Bakanlığı bünyesine aktarılmıştır; Cumhurbaşkanlığı İdari İşler Başkanlığı ile ilgisi yoktur. Doğru cevap D) Başbakanlık – İçişleri Bakanlığı bünyesinde devam etmiştir şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -4139,8 +4139,8 @@
    "Sağlık ve Yardımcı Sağlık Hizmetleri",
    "Teknik Hizmetler"
   ],
-  "dogru": 0,
-  "aciklama": "657 Sayılı Kanun'da sayılan hizmet sınıfları arasında 'Avukatlık Hizmetleri' adında ayrı bir sınıf yer almamaktadır. Avukatlar genellikle Genel İdari Hizmetler veya ilgili sınıflara dahil edilir. Mülki İdare Amirliği, Teknik Hizmetler, Sağlık Hizmetleri ve Turizm Hizmetleri ise kanunda sayılan sınıflardandır.",
+  "dogru": 1,
+  "aciklama": "Avukatlık Hizmetleri 657'de sayılan bir hizmet sınıfıdır; Turizm ve Tanıtma Hizmetleri diye bir sınıf yoktur. Doğru cevap B) Turizm ve Tanıtma Hizmetleri şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -4187,8 +4187,8 @@
    "Liyakat ilkesi",
    "Siyasi tarafsızlık ilkesi"
   ],
-  "dogru": 0,
-  "aciklama": "Türk kamu personel sisteminin temel ilkeleri arasında liyakat, kariyer, güvence ve siyasi tarafsızlık sayılmaktadır. 'Eşitlik ilkesi' genel bir anayasal ilke olmakla birlikte, personel rejiminin tanımlayıcı temel ilkeleri arasında doğrudan sayılmamaktadır; kariyer ve liyakat öne çıkan başlıca ilkelerdir.",
+  "dogru": 1,
+  "aciklama": "Eşitlik, kariyer, liyakat ve tarafsızlık personel sisteminin temel ilkeleri arasında sayılırken kazanılmış hakların korunması genel bir hukuk ilkesidir. Doğru cevap B) Kazanılmış hakların korunması ilkesi şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -4219,8 +4219,8 @@
    "Adaylık süresi uygulanmaz",
    "1 yıl"
   ],
-  "dogru": 1,
-  "aciklama": "657 Sayılı Kanun'a göre kamu görevine ilk kez atanan memurlar en az 1, en çok 2 yıl süren adaylık dönemine tabi tutulur. Bu süre içinde başarısız bulunan veya koşulları sağlayamayanların memuriyetle ilişiği kesilebilir.",
+  "dogru": 4,
+  "aciklama": "657 md. 54 uyarınca adaylık süresi bir yıldan az olamaz; dolayısıyla zorunlu asgari süre 1 yıldır, 2 yıl yalnızca üst sınırdır. Doğru cevap E) 1 yıl şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -4651,8 +4651,8 @@
    "Soruşturma sonucunda suçsuz bulunan memurun mahrum kaldığı ödemeler kendisine iade edilir",
    "Görevden uzaklaştırma bir disiplin cezası değil, ihtiyati bir tedbirdir"
   ],
-  "dogru": 0,
-  "aciklama": "657 sayılı DMK'nın 141. maddesine göre görevden uzaklaştırılan memur bu dönemde aylığının üçte ikisini değil, üçte ikisini alır; yani aylığının 2/3'ü ödenir, 1/3'ü kesilir. Bu bilgi doğru olduğundan B seçeneği doğrudur. Yanıltıcı olan ise B'nin yanlış ifade gibi sunulması değil; soru 'hangisi yanlıştır' diye sorduğunda B'nin doğru gerçekle örtüştüğüdür. Dikkat: Görevden uzaklaştırma idari bir tedbir olup ihtiyati nitelik taşır; disiplin cezası değildir. Aylığın 2/3'ü ödendiği için 'üçte ikisini alır' ifadesi doğrudur. Yanlış olan B değil; gerçekte soruşturma süresinde uzaklaştırmanın 3 ay ile sınırlı olduğu bilgisi de doğrudur. Yanlış ifade: 'üçte ikisini almaya devam eder' aslında doğrudur. Bu durumda dikkatli okuma gerektiren yanıltıcı seçenek D'dir — 3 aylık süre sınırı sadece idari soruşturma için geçerlidir, ceza kovuşturmasında daha uzun olabilir, bu kısım doğrudur. Sınavda en çok yanıltıcı olan B'deki kesinti miktarıdır: aylığın 1/3'ü kesilir, 2/3'ü ödenir.",
+  "dogru": 1,
+  "aciklama": "Memura aylığının üçte ikisinin ödenmesi (A) doğrudur; tedbir için '3 ay' gibi bir üst sınır öngörülmediğinden yanlış ifade B'dir. Doğru cevap B seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -4683,8 +4683,8 @@
    "Dolu kadrolar üzerinden gerçekleştirilen atamalar hukuka aykırı sayılmaz",
    "Kadrosuz memur istihdam edilemez; her atama için önceden ihdas edilmiş ve dolu olmayan bir kadronun bulunması zorunludur"
   ],
-  "dogru": 0,
-  "aciklama": "Türk kamu personel hukukunda kadro ihdası, genel bütçeli kuruluşlar için 'Genel Kadro ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesi' çerçevesinde Cumhurbaşkanlığı kararnamesiyle yapılmaktadır; bu işlem ayrıca TBMM onayına tabi değildir. Kadrosuz memur istihdam edilemez kuralı 657 sayılı Kanun'da temel ilke olarak yer almaktadır. Kadro fiziksel mekânı değil, belirli nitelikteki görevi ifade eden bütçesel ve hukuki bir kavramdır. Doğru yanıt A'dır.",
+  "dogru": 4,
+  "aciklama": "Kadrosuz memur çalıştırılamaz ilkesi (DMK m.33) gereği her atama için ihdas edilmiş boş kadro şarttır; A ise tüm kurumlar (belediye, KİT vb.) bakımından geçerli olmadığından mutlak doğru sayılamaz. Doğru cevap E seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -4811,8 +4811,8 @@
    "Yüksek Disiplin Kurulu'na, 10 gün içinde",
    "Bağlı bulunulan disiplin kuruluna, 15 gün içinde"
   ],
-  "dogru": 3,
-  "aciklama": "657 sayılı Kanun'un 135. maddesi gereğince; uyarı ve kınama cezaları disiplin amirine, kademe ilerlemesinin durdurulması cezası ise Yüksek Disiplin Kurulu'na itiraz yoluyla incelettirilebilir. İtiraz süresi, kararın tebliği tarihinden itibaren 10 gündür. Yüksek Disiplin Kurulu 30 gün içinde kararını vermek zorundadır; bu süre içinde karar verilmezse itiraz reddedilmiş sayılır.",
+  "dogru": 1,
+  "aciklama": "657 sayılı Kanun'un 135. maddesine göre kademe ilerlemesinin durdurulması cezasına karşı Yüksek Disiplin Kuruluna tebliğden itibaren 7 gün içinde itiraz edilir. Doğru cevap B) Yüksek Disiplin Kurulu'na, 7 gün içinde şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -5691,8 +5691,8 @@
    "Devlet memurluğuna ilk atamada tüm adaylar birinci derecenin birinci kademesine atanmak zorunda olup öğrenim düzeyi veya önceki hizmet gibi etkenler bu başlangıç noktasını değiştiremez.",
    "Kademe ilerlemesi her yıl otomatik olarak gerçekleşirken derece yükselmesi için hem belirli süreyi doldurmak hem de üst derecede boş kadronun bulunması gerekir."
   ],
-  "dogru": 1,
-  "aciklama": "Derece yükselmesinde boş kadro zorunluluğu (657 sayılı Kanun md. 37), nitelikli memurların üst derecelere çıkamamasına yol açan yapısal bir sorun olan 'kariyer tıkanıklığı'nı doğurur. Bu durum, liyakatin ödüllendirilmesi gereken bir sistemde fırsatları kadro mevcudiyetine bağladığından liyakat ilkesiyle çelişen sonuçlar üretir ve kamu yönetimi yazınında ciddi biçimde eleştirilmektedir. A şıkkı kısmen doğru olmakla birlikte eksiktir; kademe ilerlemesi için de sicil koşulu aranmaktadır. B şıkkı sicil kaldırıldığından güncel durumu yansıtmamaktadır. C şıkkı 657 sayılı Kanun'da böyle bir otomatik iade mekanizması öngörülmediğinden yanlıştır. E şıkkı yanlıştır; öğrenim ve önceki hizmet başlangıç derecesini etkileyebilir.",
+  "dogru": 4,
+  "aciklama": "Mevzuatın doğrudan hükmü E'dir: kademe ilerlemesi süre koşuluyla her yıl gerçekleşirken derece yükselmesi ayrıca üst derecede boş kadro bulunmasını gerektirir; B ise normatif bir yorum ifadesidir. Doğru cevap E seçeneğidir.",
   "zorluk": "zor"
  },
  {

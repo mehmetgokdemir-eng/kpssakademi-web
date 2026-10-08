@@ -747,8 +747,8 @@
    "Fonksiyonel örgüt yapısı",
    "Müşteriye göre bölümlendirme"
   ],
-  "dogru": 0,
-  "aciklama": "Matriks örgüt yapısında hem fonksiyonel (insan kaynakları, finans, pazarlama gibi) hem de ürün/proje/bölüm bazlı yapılar eş zamanlı olarak mevcuttur. Bu yapıda çalışanlar veya birimler iki farklı otorite zincirine bağlı çalışır. Soruda hem holdingin merkez departmanları hem de her şirketteki aynı departmanlar bu çift yapıyı yansıtmaktadır. Stratejik iş birimi yapısında ise bağımsız iş birimleri vardır ancak merkezdeki çift yapılanma özelliği matriks yapıyı daha doğru kılar.",
+  "dogru": 2,
+  "aciklama": "Soruda ikili emir-komuta (çift raporlama) yoktur; her şirketin kendi fonksiyonel birimlerine sahip olup merkezde de aynı işlevlerin bulunması stratejik iş birimi/holding yapısını tanımlar. Doğru cevap C) Stratejik iş birimi yapısı şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -1771,8 +1771,8 @@
    "I, II ve IV",
    "Yalnızca II ve IV"
   ],
-  "dogru": 4,
-  "aciklama": "Herbert Simon'ın sınırlı rasyonellik ve tatmin edici çözüm (satisficing) kavramlarına göre: Önerme I yanlıştır çünkü sınırlı rasyonellik tam olarak optimal çözümün her zaman ulaşılamayacağını kabul eder; bu önerme klasik rasyonellik varsayımıdır ve satisficing tarafından reddedilir. Önerme II doğrudur; karar vericilerin bilgi, zaman ve bilişsel kapasite kısıtları vardır. Önerme III yanlıştır; tatmin edici çözüm 'yeterince iyi' olandır, optimal olanla örtüşmek zorunda değildir. Önerme IV doğrudur; satisficing, karar vericinin belirlediği asgari kabul eşiğini geçen ilk alternatifi seçip aramayı durdurması anlamına gelir. Dolayısıyla doğru önermeler yalnızca II ve IV'tür.",
+  "dogru": 3,
+  "aciklama": "I. öncül sınırlı rasyonelliğin temel varsayımını doğru ifade eder, yalnızca III. yanlıştır; dolayısıyla doğru cevap I, II ve IV yani D'dir. Doğru cevap D) I, II ve IV şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -2651,8 +2651,8 @@
    "60.000 TL zarar",
    "40.000 TL kâr"
   ],
-  "dogru": 4,
-  "aciklama": "Birim katkı payı = 50 - 30 = 20 TL. Toplam katkı payı = 8.000 × 20 = 160.000 TL. Kâr = Toplam katkı payı - Sabit maliyetler = 160.000 - 100.000 = 60.000 TL kâr. Not: Başabaş noktası = 100.000 / 20 = 5.000 birimdir; 8.000 birimde işletme kâr etmektedir ve kâr 60.000 TL'dir. Doğru şık B'dir.",
+  "dogru": 2,
+  "aciklama": "Katkı payı (50−30)×8.000 = 160.000 TL, sabit maliyet 100.000 TL düşülünce 60.000 TL kâr kalır. Doğru cevap C) 60.000 TL kâr şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -2891,8 +2891,8 @@
    "Sırasıyla 225, 80, 50 birim",
    "Sırasıyla 100, 80, 50 birim ve kalan kapasiteyi Ürün 1'e ver"
   ],
-  "dogru": 0,
-  "aciklama": "Kısıt kaynağı (darboğaz) yönetiminde katkı payı/kısıt birimi oranına göre önceliklendirme yapılır. Ürün 1: 40/2=20 TL/saat; Ürün 2: 60/3=20 TL/saat; Ürün 3: 80/4=20 TL/saat. Tüm oranlar eşit! Bu durumda minimum üretim miktarları önce karşılanır: 100×2+80×3+50×4=200+240+200=640 saat kullanılır. Kalan=1.200-640=560 saat. Eşit verimlilik durumunda katkı payı mutlak değeri en yüksek Ürün 1'e (40 TL/birim×en az makine kullanımı) veya katkı payı en yüksek Ürün 3'e yönelme mantıklıdır. 560 saat/2=280 birim ekstra Ürün 1 üretilebilir → toplam 100+280=380 birim ancak seçeneklerde yoktur. Darboğaz analizinde genellikle en yüksek mutlak katkı payı ikincil kriter olarak kullanılır; Ürün 1 düşük makine saati gerektirir, 560/2=280 ek birim. Toplam: 100+280=380 yakın seçenek B (350) ise 350-100=250 ek birim → 250×2=500 saat + 80×3+50×4=240+200=440; toplam=500+440=940 ≠1.200. B seçeneği tutarsız, ancak mevcut seçenekler içinde kapasiteyi en verimli kullanan ve minimum üretimleri karşılayan B'dir. Doğru yanıt B'dir.",
+  "dogru": 4,
+  "aciklama": "Üç ürünün de makine saati başına katkısı 20 TL ile eşit olduğundan minimumlar (640 saat) üretildikten sonra kalan 560 saatin herhangi bir ürüne verilmesi optimaldir; A seçeneği hem kapasiteyi tam kullanmaz (350 yerine 380 olmalıydı) hem de tutarsızdır. Doğru cevap E) Sırasıyla 100, 80, 50 birim ve kalan kapasiteyi Ürün 1'e ver şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -2955,8 +2955,8 @@
    "A: 600 birim, B: 1.050 birim",
    "A: 650 birim, B: 1.100 birim"
   ],
-  "dogru": 4,
-  "aciklama": "MRP net ihtiyaç hesabı: Net İhtiyaç = Brüt İhtiyaç - Eldeki Stok - Planlanan Siparişler + Emniyet Stoğu. A bileşeni için: Brüt İhtiyaç = 500 × 2 = 1.000 birim; Net İhtiyaç = 1.000 - 150 - 100 = 750 birim. Ancak A için emniyet stoğu belirtilmemiş, sadece planlanan sipariş 100 birim var. A: 1.000 - 150 (stok) - 100 (planlanan sipariş) = 750 birim değil; tekrar: Net = Brüt - Stok - Planlanan Sipariş = 1.000 - 150 - 100 = 750. B bileşeni: Brüt = 500 × 3 = 1.500; emniyet stoğu 50 dahil Net = 1.500 - 400 + 50 = 1.150 birim. Fakat seçenek A: 650 ve 1.100 diyor. A için 650 çıkması: 1.000 - 150 - 100 - 100 = 650 (belki planlı sipariş iki kalemde veriliyorsa) ya da farklı formülasyon. Standart MRP'de: A net = 1.000 - (150+100) = 750; B net = 1.500 - 400 + 50 = 1.150 → Bu D değil. 750 ve 1.150 → C değil (C:650,1.150). Doğru standart hesaba göre A:750, B:1.150 ancak bu seçeneklerde yok. Emniyet stoğunu brütten düşmek yerine elde stok olarak sayarsak B: 1.500-(400-50)=1.150. En yakın ve analitik olarak A bileşeni emniyet stoğu 100 birim alınırsa 1.000-150-100-100=650; B için 1.500-400+50=1.150 → C seçeneği. Doğru yanıt C'dir. (Not: Soru A seçeneğini işaret etse de analitik hesap C'yi göstermektedir.)",
+  "dogru": 2,
+  "aciklama": "A: 1.000-150-100=750; B: 1.500-400+50=1.150, yani C şıkkı. Doğru cevap C) A: 750 birim, B: 1.150 birim şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -3019,8 +3019,8 @@
    "60 TL",
    "48 TL"
   ],
-  "dogru": 3,
-  "aciklama": "Taguchi kayıp fonksiyonu: L(y) = k(y - T)² formülüne göre önce k katsayısı bulunur. Tolerans sınırında (y = 55 mm, sapma = 5 mm) kayıp = 200 TL: 200 = k × 5² = 25k → k = 8. Ürün ölçüsü 53 mm, sapma = 53 - 50 = 3 mm. L(53) = k × 3² = 8 × 9 = 72 TL. Doğru yanıt E'dir.",
+  "dogru": 1,
+  "aciklama": "Taguchi kayıp fonksiyonu: L(y) = k(y - T)² formülüne göre önce k katsayısı bulunur. Tolerans sınırında (y = 55 mm, sapma = 5 mm) kayıp = 200 TL: 200 = k × 5² = 25k → k = 8. Ürün ölçüsü 53 mm, sapma = 53 - 50 = 3 mm. L(53) = k × 3² = 8 × 9 = 72 TL. Doğru cevap B) 72 TL şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -3115,8 +3115,8 @@
    "Net ihtiyaç 1.500 birim, sipariş 5. haftada",
    "Net ihtiyaç 1.200 birim, sipariş 6. haftada"
   ],
-  "dogru": 2,
-  "aciklama": "Brüt ihtiyaç: 500 × 3 = 1.500 birim (8. haftada gerekli). Mevcut stok: 200 birim. Planlanmış alım: 5. haftada 100 birim (8. haftadan önce gelir, kullanılabilir). Net ihtiyaç = 1.500 - 200 - 100 = 1.200 birim. Siparişin verilmesi gereken hafta: Y bileşeninin temin süresi 2 hafta, dolayısıyla 8. haftada hazır olması için en geç 8 - 2 = 6. haftanın başında sipariş verilmesi gerekir. Ancak 5. haftadaki alım zaten hesaba katıldığından ek sipariş 6. haftada değil, gereksinim tarihi 8. hafta - 2 hafta temin = 6. haftada sipariş verilmeli. Doğru cevap B'dir: Net ihtiyaç 1.200, sipariş 6. haftada. Yanıtı B olarak düzeltirsek answer:2 olur; ancak temin süresi mantığıyla 8-2=6. hafta doğrudur: answer 2 (C şıkkı). Doğru analiz: Net ihtiyaç=1.200, sipariş haftası=6 → C şıkkı.",
+  "dogru": 4,
+  "aciklama": "Net ihtiyaç 500×3-200-100=1.200 birim ve 2 haftalık temin süresiyle sipariş 6. haftada verilmelidir. Doğru cevap E) Net ihtiyaç 1.200 birim, sipariş 6. haftada şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -3355,8 +3355,8 @@
    "Verimlilik %91,7 – Denge gecikmesi %8,3",
    "Verimlilik %73,3 – Denge gecikmesi %26,7"
   ],
-  "dogru": 2,
-  "aciklama": "Çevrim süresi (CT): (8×60)/400 = 480/400 = 1,2 dk. Minimum istasyon sayısı: ΣTi/CT = (1,2+0,9+1,5+0,8+1,1)/1,2 = 5,5/1,2 ≈ 4,58 → 5 istasyon. En uzun görev süresi 1,5 dk > CT=1,2 dk olduğundan CT aslında 1,5 dk olmalıdır. CT = max(görev süresi, hedef CT) = 1,5 dk. Gerçek istasyon sayısı = 5 (her görev ayrı istasyonda). Verimlilik = ΣTi / (N × CT) = 5,5 / (5 × 1,5) = 5,5/7,5 = 0,7333 → %73,3. Denge gecikmesi = %26,7. Dikkat: Üretim hedefi 400 birim için CT=1,2 dk ancak C görevi 1,5 dk olduğundan darboğaz CT=1,5 dk olur. Buna göre A seçeneği doğrudur. Ancak soru 'hedeflenen CT'yi esas alırsa' B değeri çıkar; KPSS mantığına göre en yakın B şıkkıdır.",
+  "dogru": 3,
+  "aciklama": "Toplam görev süresi 5,5 dk; çevrim süresi 1,2 dk ve 5 istasyonla (ya da 1,5 dk/4 istasyonla) verimlilik %91,7, denge gecikmesi %8,3 bulunur. Doğru cevap D) Verimlilik %91,7 – Denge gecikmesi %8,3 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -3371,8 +3371,8 @@
    "MRP sisteminde ürün ağacının (BOM) derinliği arttıkça alt bileşenlerin teslim süresi ötelemesi kümülatif olarak uzar ve bu durum 'nervousness' sorununu beraberinde getirebilir.",
    "Lot-for-lot sipariş politikasında stok tutma maliyeti sıfıra eşit olup her dönem net ihtiyaç kadar sipariş verilir."
   ],
-  "dogru": 2,
-  "aciklama": "D seçeneği yanlıştır: Brüt ihtiyaç, eldeki stok ve planlanan makbuzlar düşülerek net ihtiyaç hesaplanır; bu doğrudur. Ancak 'brüt ihtiyaç her zaman net ihtiyaçtan büyük ya da eşittir' ifadesi hatalıdır. Eğer eldeki stok ve planlanan makbuzlar, brüt ihtiyacı karşılayacak düzeydeyse net ihtiyaç sıfır olur; brüt ihtiyaç pozitif olsa da net ihtiyaç sıfır çıkabilir. Ancak net ihtiyaç hiçbir zaman brüt ihtiyaçtan büyük olamaz — bu kısım doğrudur. Sorunun yanıltıcı noktası 'her zaman büyük ya da eşit' ifadesidir: Stok ve makbuzlar sıfırsa eşit olur, değilse küçük olur; ancak hiçbir koşulda net ihtiyaç brüt ihtiyacı aşamaz. Gerçek hata: Net ihtiyaç = Brüt ihtiyaç - (Eldeki stok + Planlanan makbuzlar); sonuç negatif çıkarsa net ihtiyaç sıfır kabul edilir, brüt ihtiyaçtan büyük olamaz. D'deki ifade mantıksal olarak tersine çevrilmiş biçimde sunulduğundan yanıltıcıdır ve sınavda eleyici niteliktedir.",
+  "dogru": 4,
+  "aciklama": "Net ihtiyaç = brüt ihtiyaç - stok - planlanan makbuz olduğundan C doğrudur; yanlış ifade, lot-for-lot'ta stok tutma maliyetinin sıfır olduğunu söyleyen E'dir (bu politika stok maliyetini minimize eder, sıfırlamaz). Doğru cevap E seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -3403,8 +3403,8 @@
    "Seçenek II tercih edilmeli; fark 20 TL",
    "Seçenek II tercih edilmeli; fark 16 TL"
   ],
-  "dogru": 3,
-  "aciklama": "Beklenen kayıp formülü: E[L] = k[σ² + (μ - T)²]. Seçenek I: E[L] = 4×[9 + (50-50)²] = 4×9 = 36 TL. Seçenek II: E[L] = 4×[1 + (52-50)²] = 4×[1+4] = 4×5 = 20 TL. Seçenek II daha düşük beklenen kayba sahiptir: 36 - 20 = 16 TL fark vardır. Bu sonuç, hedeften sapmanın (bias) standart sapma kadar kritik olduğunu ve düşük varyanslı bir sürecin küçük bir sapmayla bile üstün olabileceğini gösterir. Doğru cevap B: Seçenek II tercih edilmeli; fark 16 TL.",
+  "dogru": 4,
+  "aciklama": "E[L]=k(σ²+(μ-T)²) ile Seçenek I: 4(9+0)=36 TL, Seçenek II: 4(1+4)=20 TL; Seçenek II üstün ve fark 16 TL'dir. Doğru cevap E) Seçenek II tercih edilmeli; fark 16 TL şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -3451,8 +3451,8 @@
    "ROP = 600 kg – EOQ = 400 kg",
    "ROP = 600 kg – EOQ = 632 kg"
   ],
-  "dogru": 3,
-  "aciklama": "EOQ = √(2DS/H) = √(2 × 10.000 × 200 / (50 × 0,20)) = √(4.000.000/10) = √400.000 ≈ 632 kg. ROP = (Günlük kullanım × Temin süresi) + Emniyet stoku = (40 × 10) + 200 = 400 + 200 = 600 kg. Dolayısıyla ROP = 600 kg, EOQ ≈ 632 kg → Doğru cevap C seçeneğidir. Ancak şık B'de EOQ=400 yazılı, C'de EOQ=632 yazılı; ROP=600 ve EOQ=632 olan C doğrudur.",
+  "dogru": 4,
+  "aciklama": "ROP = 40×10 + 200 = 600 kg; EOQ = √(2×10.000×200/10) ≈ 632 kg. Doğru cevap E) ROP = 600 kg – EOQ = 632 kg şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -5019,8 +5019,8 @@
    "Maliyet artı fiyatlama ile bulunan fiyat, algılanan değer sınırını aşmaktadır; strateji revize edilmelidir",
    "Hedef kâr marjı elde etmek için satış hacminin artırılması yeterlidir"
   ],
-  "dogru": 2,
-  "aciklama": "Önce maliyet artı fiyatlamayı hesaplayalım: Birim sabit maliyet = 2.000.000 / 50.000 = 40 TL. Toplam birim maliyet = 80 + 40 = 120 TL. %25 kâr marjı için fiyat = 120 / (1 - 0,25) = 160 TL. Ancak bu hesaplama yanlış kurgulanmış; doğru maliyet artı fiyatlama: 120 × 1,25 = 150 TL. Her iki hesaplamada da fiyat 120 TL'nin üzerindedir. Sorunun mantığına göre: Birim toplam maliyet = 120 TL, hedef fiyat = 120 × 1,25 = 150 TL. Bu fiyat, tüketicilerin 'pahalı' eşiği olan 120 TL'yi aşmaktadır. Bu nedenle doğru cevap B'dir. Ancak A seçeneği 'fiyat sınırının altında' demektedir; bu yanlıştır. Doğru yanıt B'dir: Maliyet artı yöntemle ulaşılan fiyat (150 TL) tüketici algı eşiğini (120 TL) aşmaktadır, dolayısıyla işletme maliyet düşürme, hacim artırma veya değer iletişimini güçlendirme gibi alternatif stratejileri değerlendirmelidir. (Not: Soru 'answer:0' formatında A=0 olduğundan şık sıralamasına göre B=1'dir.)",
+  "dogru": 3,
+  "aciklama": "Birim maliyet 80 + (2.000.000/50.000) = 120 TL olup %25 marjla fiyat 150-160 TL'ye çıkar, yani 120 TL'lik algı sınırını aşar. Doğru cevap D seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -5035,8 +5035,8 @@
    "CLV = 960 TL; CAC/CLV = 0,125; platform agresif büyüme stratejisi uygulayabilir",
    "CLV = 400 TL; CAC/CLV = 0,30; müşteri tutma maliyetleri düşürülmelidir"
   ],
-  "dogru": 1,
-  "aciklama": "CLV hesaplaması: CLV = (Aylık gelir × Brüt marj) / Churn oranı = (40 × 0,60) / 0,05 = 24 / 0,05 = 480 TL. CAC/CLV = 120 / 480 = 0,25. Genel kural olarak CAC/CLV oranının 1/3'ün (0,33) altında olması sürdürülebilirliğe işaret eder; bu platform bu eşiğin altındadır. Ancak aylık %5 churn oranı yüksektir; bu oran yıllık yaklaşık %46'ya karşılık gelir ve ortalama abone ömrünü 20 aya (1/0,05) sınırlar. Mevcut CAC/CLV oranı teknik olarak sürdürülebilir görünse de yüksek churn, büyüme maliyetlerini sürekli yüksek tutar. Bu nedenle D seçeneği hem doğru CLV hesabını (480 TL) hem de doğru oran yorumunu (0,25) hem de stratejik tehlikeyi (churn azaltılmadan gerçek büyüme mümkün değil) bir arada en iyi biçimde ifade etmektedir.",
+  "dogru": 0,
+  "aciklama": "CLV = (40×0,60)/0,05 = 480 TL ve CAC/CLV = 0,25 olduğundan (CLV/CAC=4) edinim maliyeti sürdürülebilirdir. Doğru cevap A seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -5323,8 +5323,8 @@
    "3.000 birim",
    "4.000 birim"
   ],
-  "dogru": 1,
-  "aciklama": "Başa baş noktası = Sabit Maliyetler / (Birim Satış Fiyatı - Birim Değişken Maliyet) formülüyle hesaplanır. Birim katkı payı = 25 - 15 = 10 TL'dir. Başa baş noktası = 50.000 / 10 = 5.000 birimdir. Bu noktada işletmenin toplam geliri, toplam maliyetine eşittir ve ne kâr ne de zarar söz konusudur.",
+  "dogru": 0,
+  "aciklama": "Başa baş noktası = Sabit Maliyetler / (Birim Satış Fiyatı - Birim Değişken Maliyet) formülüyle hesaplanır. Birim katkı payı = 25 - 15 = 10 TL'dir. Başa baş noktası = 50.000 / 10 = 5.000 birimdir. Bu noktada işletmenin toplam geliri, toplam maliyetine eşittir ve ne kâr ne de zarar söz konusudur. Doğru cevap A) 5.000 birim şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -5771,8 +5771,8 @@
    "60 gün",
    "70 gün"
   ],
-  "dogru": 1,
-  "aciklama": "Stokta kalma süresi = 360/6 = 60 gün. Alacak tahsil süresi = 360/9 = 40 gün. Borç ödeme süresi = 360/12 = 30 gün. Nakit dönüşüm süresi = Stokta kalma süresi + Alacak tahsil süresi - Borç ödeme süresi = 60 + 40 - 30 = 70 gün. Dikkat: Doğru yanıt 70 gün, bu da E şıkkıdır; A şıkkı çeldiricidir. Yanıt E.",
+  "dogru": 4,
+  "aciklama": "Stok 60 + alacak 40 - borç 30 = 70 gün, yani E şıkkı. Doğru cevap E) 70 gün şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -5963,8 +5963,8 @@
    "50,00 TL",
    "28,57 TL"
   ],
-  "dogru": 3,
-  "aciklama": "Gordon Büyüme Modeli: P₀ = D₁ / (r - g). D₁ = 4 × (1 + 0,06) = 4,24 TL olarak hesaplanmalıdır; ancak soruda verilen 4 TL bir sonraki dönem temettüsü olarak verilmişse P₀ = 4 / (0,14 - 0,06) = 4 / 0,08 = 50 TL. Temettünün D₁ olduğu kabul edildiğinde doğru cevap 50,00 TL'dir.",
+  "dogru": 2,
+  "aciklama": "Ödenen temettü D0=4 olduğundan D1=4,24 ve P=4,24/0,08=53 TL. Doğru cevap C) 53,00 TL şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -6075,8 +6075,8 @@
    "19.200 birim",
    "24.000 birim"
   ],
-  "dogru": 4,
-  "aciklama": "Hedef kâr = Satış Geliri × %25 = 50Q × 0,25 = 12,5Q. Kâr = Toplam Gelir - Toplam Maliyet = 50Q - 30Q - 240.000. Hedef: 20Q - 240.000 = 12,5Q → 7,5Q = 240.000 → Q = 32.000 birim. Kontrol: Satış = 1.600.000, VC = 960.000, Sabit = 240.000, Kâr = 400.000, Kâr Marjı = 400.000/1.600.000 = %25. ✓",
+  "dogru": 1,
+  "aciklama": "20Q-240.000=0,25·50Q → 7,5Q=240.000 → Q=32.000 birim. Doğru cevap B) 32.000 birim şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -6123,8 +6123,8 @@
    "Her iki seçenek de aynı kârlılığı sağlar.",
    "Seçenek B, çünkü faiz oranı daha yüksek olsa da toplamda daha az borç kullanılmakta ve özkaynak payı korunmaktadır."
   ],
-  "dogru": 1,
-  "aciklama": "Seçenek A: Faiz = 500.000 × %12 = 60.000 TL. VÖK = 120.000 - 60.000 = 60.000 TL. Net Kâr = 60.000 × 0,80 = 48.000 TL. Seçenek B: Faiz = 300.000 × %14 = 42.000 TL. VÖK = 120.000 - 42.000 = 78.000 TL. Net Kâr = 78.000 × 0,80 = 62.400 TL. Seçenek B'de net kâr daha yüksektir; ancak hisse sayısı eşit kabul edilmediğinde değişebilir. Soru hisse sayısını eşit kabul ettiğinden Seçenek B üstündür... Bekle: 500.000 TL'nin tamamı A'da borçla, B'de 300.000 TL borçla finanse ediliyor. A'da faiz daha yüksek (60.000 > 42.000), dolayısıyla A'da net kâr daha düşük. Doğru cevap C değil, net kâr A'da düşük, B'de yüksek → seçenek C yanlış formüle edilmiş. Seçenek A faiz gideri 60.000 > B'nin 42.000 TL'si, yani A'da net kâr düşük, B'de yüksek. Doğru cevap: Seçenek B (index 1). Ancak seçeneklere göre cevap B'ye karşılık gelen index 1'dir.",
+  "dogru": 4,
+  "aciklama": "A'da faiz 60.000 (net 48.000), B'de faiz 42.000 (net 62.400); B daha yüksek olduğundan anahtarın gerekçesi de sonucu da yanlış. Doğru cevap E seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -6155,8 +6155,8 @@
    "250.000 TL",
    "350.000 TL"
   ],
-  "dogru": 1,
-  "aciklama": "Dönem sonu öz sermaye = Dönem başı öz sermaye + Net kâr - Temettü + Sermaye artırımı formülü kullanılır. 1.100.000 = 800.000 + Net kâr - 150.000 + 200.000 → Net kâr = 1.100.000 - 800.000 + 150.000 - 200.000 = 250.000 TL. Dikkat: Sermaye artırımı öz sermayeyi artırır, temettü ödemesi ise azaltır. Bu nedenle net kâr 250.000 TL değil, 1.100.000 - 850.000 = 250.000 TL'dir. Hesap: 800.000 + NK - 150.000 + 200.000 = 1.100.000 → NK = 250.000 TL. Doğru cevap C şıkkıdır.",
+  "dogru": 3,
+  "aciklama": "800.000 + NK - 150.000 + 200.000 = 1.100.000 → NK = 250.000 TL. Doğru cevap D) 250.000 TL şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -6331,8 +6331,8 @@
    "12.500 birim",
    "20.000 birim"
   ],
-  "dogru": 2,
-  "aciklama": "Hedef kâr için satış miktarı = (Sabit maliyet + Hedef kâr) / Birim katkı payı formülüyle bulunur. Birim katkı payı = Satış fiyatı - Birim değişken maliyet = 100 - 60 = 40 TL. Satış miktarı = (500.000 + 300.000) / 40 = 800.000 / 40 = 20.000 birim. Dikkat: 20.000 birim C şıkkına denk gelir, bu nedenle cevap C'dir. B şıkkı (17.500) çeldirici olarak yalnızca sabit maliyeti dikkate alıp kâr hedefini göz ardı ettiğinde bulunur: 500.000/40 = 12.500 (başabaş) + 300.000/40 = 7.500 → 20.000. Cevap C'dir.",
+  "dogru": 4,
+  "aciklama": "(500.000+300.000)/(100-60)=20.000 birim, yani E şıkkı. Doğru cevap E) 20.000 birim şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -6379,8 +6379,8 @@
    "399.720 TL",
    "500.000 TL"
   ],
-  "dogru": 0,
-  "aciklama": "Tahvil değerlemesinde: PV = Σ(Kupon/(1+r)^t) + (Nominal/(1+r)^n). Yıllık kupon = 500.000 × 0,12 = 60.000 TL. PV kuponlar = 60.000 × [1-(1,15)^-5]/0,15 = 60.000 × 3,3522 = 201.132 TL. PV anapara = 500.000 / (1,15)^5 = 500.000 / 2,0114 = 248.588 TL. Toplam ≈ 201.132 + 248.588 = 449.720 TL değil; doğru hesap: (1,15)^5 = 2,01136, anapara PV = 248.588, kupon PV = 201.132, toplam ≈ 449.720 TL. Ancak ÖSYM'nin kullandığı standart tablolarla (1,15)^5 ≈ 2,0114 ve annüite faktörü ≈ 3,3522 alındığında sonuç 449.720'ye en yakın olan B) 412.440 değil, hesaplama yuvarlamaları göz önüne alındığında B) seçeneği tuzak olarak konulmuştur; doğru yanıt piyasa faizi > kupon faizi olduğunda tahvil değeri nominalin altında olacağından ve yaklaşık 449.720 TL çıktığından, bu sorudaki bilinçli yuvarlamayla en yakın değer B) 412.440 TL'dir. NOT: Bu soru, adayların yanlış annüite faktörü uygulamasını ölçmektedir; gerçek sınav hesabında tabloya göre B şıkkı doğru kabul edilir.",
+  "dogru": 2,
+  "aciklama": "60.000×3,3522+500.000×0,4972≈449.700 TL olup şıklar içinde yalnızca C (448.700) bu değere yakındır. Doğru cevap C) 448.700 TL şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -6427,8 +6427,8 @@
    "σ_B ≈ %8,3; Treynor'da Portföy A üstündür",
    "σ_B ≈ %8,3; Treynor'da Portföy B üstündür"
   ],
-  "dogru": 1,
-  "aciklama": "Sharpe oranı = (Rp - Rf) / σp. Portföy B için: 0,72 = (13 - 7) / σ_B → σ_B = 6 / 0,72 = 8,33%. Bu kısım A ve E şıklarını destekler. Treynor oranı = (Rp - Rf) / β. Beta = 1,2 her ikisi için de varsayılırsa: Treynor_A = (15-7)/1,2 = 6,67; Treynor_B = (13-7)/1,2 = 5,00. Treynor'da A üstündür. Bu durumda σ_B ≈ %8,3 ve Treynor'da A üstün → A şıkkı. Ancak soruda σ_B ≈ %11,1 diye verilen B şıkkı tuzak olarak konulmuştur. Doğru hesaplamada σ_B = 8,33 ≈ %8,3 ve Treynor'da A üstün olduğundan cevap A) şıkkıdır. Bu soru adayların Sharpe ile Treynor arasındaki farkı ve beta yorumunu doğru yapıp yapamadığını ölçer.",
+  "dogru": 3,
+  "aciklama": "σ_B=(13-7)/0,72≈%8,3 ve ortak beta 1,2'de Treynor A=6,67 > B=5,0 olduğundan D doğrudur (A'nın verilen Sharpe'ı verilerle tutarsız olsa da sorulan kısım D'yi verir). Doğru cevap D) σ_B ≈ %8,3; Treynor'da Portföy A üstündür şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -6443,8 +6443,8 @@
    "P/B ≈ 1,62; F/K ≈ 8,6",
    "P/B ≈ 1,08; F/K ≈ 7,2"
   ],
-  "dogru": 1,
-  "aciklama": "GGM ile hisse fiyatı: P = D₁/(ke - g) = D₀×(1+g)/(ke-g) = 4×1,08/(0,13-0,08) = 4,32/0,05 = 86,40 TL. Hisse başına kazanç (EPS) = ROE × Defter değeri = 0,15 × 80 = 12 TL. P/B = P/Defter = 86,40/80 = 1,08 → Bu A şıkkına işaret eder gibi görünür. F/K = P/EPS = 86,40/12 = 7,20. Dolayısıyla A) P/B≈1,08; F/K≈7,2 doğru olmalıdır. Ancak soruda tuzak olarak C şıkkı verilmiştir: eğer aday g'yi dikkate almadan D₀/ke ile hesaplama yaparsa P=4/0,05=80, P/B=1 çıkar. Alternatif yorumda ROE ve dağıtım oranı (payout) ile büyüme modelinde g = ROE × (1-payout). Payout = D₀/EPS = 4/12 = 0,333; g = 0,15×0,667 = %10 ≠ %8. Çelişki kasıtlıdır; verilen g=%8 ve D₀=4 TL kullanılarak GGM uygulandığında P=86,4, P/B=1,08, F/K=7,2 → Cevap A şıkkıdır.",
+  "dogru": 4,
+  "aciklama": "P0=4×1,08/0,05=86,4; P/B=86,4/80=1,08 ve EPS=0,15×80=12 ile F/K=7,2, yani E. Doğru cevap E) P/B ≈ 1,08; F/K ≈ 7,2 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -6651,8 +6651,8 @@
    "%14,2",
    "%18,4"
   ],
-  "dogru": 0,
-  "aciklama": "MIRR hesaplaması: Terminal Değer (TV) = pozitif nakit akışlarının n. yıla taşınmış değerleri toplamı. TV = 40.000 × (1,12)² + 50.000 × (1,12)¹ + 60.000 × (1,12)⁰ = 40.000 × 1,2544 + 50.000 × 1,12 + 60.000 = 50.176 + 56.000 + 60.000 = 166.176 TL. Başlangıç yatırımı (PV) = 100.000 TL (zaten bugünkü değer). MIRR formülü: TV = PV × (1 + MIRR)ⁿ → 166.176 = 100.000 × (1 + MIRR)³ → (1 + MIRR)³ = 1,66176 → (1 + MIRR) = 1,66176^(1/3) = 1,1843 → MIRR ≈ %18,4. Doğru cevap C) %18,4'tür.",
+  "dogru": 4,
+  "aciklama": "TV=40.000(1,12)²+50.000(1,12)+60.000=166.176; MIRR=(1,66176)^(1/3)-1≈%18,4. Doğru cevap E) %18,4 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -6667,8 +6667,8 @@
    "Hisse %15 değerinin altında işlem görmektedir",
    "Hisse %20 değerinin üzerinde işlem görmektedir"
   ],
-  "dogru": 1,
-  "aciklama": "Hisse başına net kâr (EPS) = 40.000.000 / 3.500.000 = 11,43 TL. Temettü (DPS) = 11,43 × 0,50 = 5,71 TL. Gordon Modeli: P = D₁ / (Ke - g). Özkaynak maliyeti (Ke): WACC = (D/V)×Kd×(1-t) + (E/V)×Ke formülüyle bulunabilir ama burada Ke doğrudan hesaplanamıyor. Alternatif: Ke = WACC formülüyle değil, CAPM veya verilen bilgilerle. Basitleştirilmiş yaklaşımda Ke ≈ WACC (saf özkaynak senaryosu) değil; ancak soru bağlamında Ke = net kâr/özkaynak piyasa değeri = 40/350 = %11,43 olarak alınır. D₁ = DPS × (1+g) = 5,71 × 1,04 = 5,94 TL. Teorik fiyat = 5,94 / (0,1143 - 0,04) = 5,94 / 0,0743 = 79,95 TL ≈ 80 TL. Mevcut piyasa fiyatı = 350.000.000 / 3.500.000 = 100 TL. Piyasa fiyatı (100 TL) teorik değerin (80 TL) %25 üzerinde. Ancak en yakın şık D) %10 üzerinde değil, E) %20 üzerinde de değil tam olarak. (100-80)/80 = %25 üzerinde. Şık seçiminde E) en yakın olmakla birlikte, soru iskonto oranı olarak WACC=%10 kullanıldığında: P = 5,94/(0,10-0,04) = 5,94/0,06 = 99 TL. Mevcut fiyat = 100 TL. Fark = (100-99)/99 ≈ %1, yani hisse yaklaşık adil değerinde. Ama bu da C şıkkı eder. Doğru kurgu: Ke = %10 (WACC), D₁ = 5,94 TL, teorik fiyat = 5,94/0,06 = 99 TL, piyasa fiyatı = 100 TL → %1 pahalı → en yakın C) adil değerde, ancak sorunun beklenen cevabı D) %10 üzerinde: Bu, D₀ = 5,71 TL kullanılması durumunda P = 5,71/0,06 = 95,17 TL; piyasa 100 TL → (100-95,17)/95,17 ≈ %5 pahalı. Standart sınav yaklaşımında D₀ kullanıldığında fark yaklaşık %5 olup en yakın şık D) %10 üzerindedir. Doğru cevap D'dir.",
+  "dogru": 2,
+  "aciklama": "D1=(40×%50/3,5)×1,04=5,94; 5,94/0,06=99,05 TL, piyasa fiyatı 350/3,5=100 TL, yani hisse pratikte adil değerinde. Doğru cevap C) Hisse adil değerinde işlem görmektedir şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -6731,8 +6731,8 @@
    "5,00",
    "7,00"
   ],
-  "dogru": 2,
-  "aciklama": "DOL (Faaliyet Kaldıraç Derecesi) = Katkı Payı / Faaliyet Kârı. Katkı Payı = (200-120) × 8.000 = 80 × 8.000 = 640.000 TL. Faaliyet Kârı (FVÖK) = 640.000 - 400.000 = 240.000 TL. DOL = 640.000 / 240.000 = 2,667. DFL (Finansal Kaldıraç Derecesi) = FVÖK / (FVÖK - Faiz) = 240.000 / (240.000 - 160.000) = 240.000 / 80.000 = 3,00. DCL = DOL × DFL = 2,667 × 3,00 = 8,00. Alternatif formül: DCL = Katkı Payı / (FVÖK - Faiz) = 640.000 / 80.000 = 8,00. Doğru cevap E'dir.",
+  "dogru": 1,
+  "aciklama": "Katkı payı 640.000, FVÖK 240.000; DOL=2,667, DFL=240/80=3, DCL=8,00. Doğru cevap B) 8,00 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -6987,8 +6987,8 @@
    "9.450.000 TL",
    "8.164.000 TL"
   ],
-  "dogru": 4,
-  "aciklama": "Terminal değer (TV3): 3. yıldan sonra FCF sonsuza kadar sabit (büyümesiz) süreceğinden, TV3 = FCF3 / WACC = 1.200.000 / 0,12 = 10.000.000 TL. Bu terminal değer 3. yıl sonunda geçerlidir. FCF'lerin bugünkü değerleri: BDD1 = 800.000 / 1,12 = 714.286 TL. BDD2 = 1.000.000 / 1,2544 = 797.193 TL. BDD3 = (1.200.000 + 10.000.000) / 1,4049 = 11.200.000 / 1,4049 = 7.972.774 TL. Toplam EV = 714.286 + 797.193 + 7.972.774 = 9.484.253 TL ≈ 9.450.000 TL → E şıkkı. Ancak tam hesapta: 714.286 + 797.193 = 1.511.479; 11.200.000/1,4049 = 7.972.800; Toplam ≈ 9.484.279 TL. En yakın E şıkkıdır. Adayların terminal değeri doğru hesapladıktan sonra uygun yıla iskonto etmesi gerekir. Doğru cevap B değil E'dir; ancak soru dizisinde answer:1 (B) verilmiş olduğundan arama-sentez sorusunda B şıkkı 8.164.000 TL değeri göz önünde bulundurularak hesaplama farklılaşabilir: TV3 = FCF / (WACC-g) formülünde g ihmal edilip TV = 1.200.000/0,12 = 10M TL alındığında toplam EV ≈ 9.484.000 TL → E. Doğru cevap E'dir.",
+  "dogru": 3,
+  "aciklama": "PV(1-3)=2.365.633 TL ve TV=1.200.000/0,12=10.000.000'un bugünkü değeri 7.117.944 TL ile toplam ≈9,48 milyon TL olup yalnızca D şıkkı bu değere yakındır. Doğru cevap D) 9.450.000 TL şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -7819,8 +7819,8 @@
    "Erken dönem işten ayrılma sendromu",
    "İşgücü devamsızlığı"
   ],
-  "dogru": 0,
-  "aciklama": "Psikolojik sözleşme, çalışan ile işveren arasında yazılı olmayan, karşılıklı beklentileri ifade eden örtük bir anlaşmadır. İşe başlangıcın ilk aylarında gerçekleşen yoğun ayrılmalar, çoğunlukla çalışanın iş öncesi beklentileri ile gerçeklik arasındaki ciddi uçurumdan kaynaklanmakta; bu durum psikolojik sözleşmenin ihlali olarak tanımlanmaktadır. Oryantasyon yetersizliği de katkıda bulunsa da erken dönem ayrılmaların temel teorik açıklaması psikolojik sözleşme ihlalidir.",
+  "dogru": 2,
+  "aciklama": "Ayrılmaların ilk üç ayda yoğunlaşması klasik olarak işe alıştırma (oryantasyon) sürecinin yetersizliğine işaret eder. Doğru cevap C) İşe alıştırma (oryantasyon) yetersizliği şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -8539,8 +8539,8 @@
    "Çalışanın ücret tatmini anketinde ortalama puanın altında kalması",
    "Çalışanın son performans değerlendirme puanının düşmesi"
   ],
-  "dogru": 0,
-  "aciklama": "Devamsızlık oranlarındaki artış trendi, akademik literatürde 'gönüllü işten ayrılmanın öncü göstergesi' (leading indicator of voluntary turnover) olarak en güçlü öngörü gücüne sahip değişken olarak kabul edilmektedir. LinkedIn güncellemesi anekdotik, performans düşüşü reactive (geriye dönük), ücret tatminsizliği anlık, birebir görüşme artışı ise olumlu bir işaret de olabilir. Devamsızlık trendi ise hem ölçülebilir hem zamana yayılı hem de istatistiksel olarak anlamlı bir erken sinyal niteliği taşır.",
+  "dogru": 2,
+  "aciklama": "LinkedIn profilinin güncellenmesi doğrudan iş arama davranışıdır ve beklenmedik ayrılışların en öncü (leading) göstergesidir; devamsızlık trendi daha geç ve dolaylı bir sinyaldir. Doğru cevap C seçeneğidir.",
   "zorluk": "zor"
  },
  {

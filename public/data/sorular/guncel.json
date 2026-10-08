@@ -219,8 +219,8 @@
    "10 yıl",
    "6 yıl"
   ],
-  "dogru": 3,
-  "aciklama": "2012 yılında hayata geçirilen '4+4+4' eğitim sistemiyle Türkiye'de zorunlu eğitim süresi 8 yıldan 12 yıla çıkarılmıştır. İlkokul 4 yıl, ortaokul 4 yıl ve lise 4 yıl olmak üzere toplamda 12 yıl zorunlu eğitim uygulanmaktadır.",
+  "dogru": 2,
+  "aciklama": "Türkiye'de ilköğretim 8 yıl olup 4+4+4 sisteminde zorunlu eğitim 12 yıldır; D şıkkı yanlıştır. Doğru cevap C) 8 yıl şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -347,8 +347,8 @@
    "%3",
    "%12"
   ],
-  "dogru": 0,
-  "aciklama": "Türkiye'de 2022 yılında yapılan yasal değişiklikle seçim barajı %10'dan %7'ye, ardından 2023 seçimleri öncesinde %5'e indirilmiştir. Günümüzde uygulamada olan baraj %7'dir. (Not: Soru KPSS güncelliği açısından değerlendirilmeli; 2023 itibarıyla %7 uygulanmıştır.)",
+  "dogru": 1,
+  "aciklama": "2022'de yapılan değişiklikle ülke seçim barajı %10'dan %7'ye indirilmiştir, %5 değildir. Doğru cevap B) %7 şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -491,8 +491,8 @@
    "%12",
    "%5"
   ],
-  "dogru": 4,
-  "aciklama": "2023 genel seçimleri, seçim barajının %10'dan %7'ye indirilmesinin ardından yapılmıştır; ancak seçim öncesinde yapılan bir düzenlemeyle baraj %7'den %5'e daha da düşürülmüştür. 14 Mayıs 2023 seçimleri %5 barajıyla gerçekleştirilmiştir. Bu değişiklik, daha küçük partilerin Meclis'e girebilmesine zemin hazırlamıştır.",
+  "dogru": 2,
+  "aciklama": "14 Mayıs 2023 genel seçimlerinde yürürlükteki baraj %7 olduğundan doğru şık C'dir. Doğru cevap C) %7 şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -587,8 +587,8 @@
    "2023",
    "2022"
   ],
-  "dogru": 3,
-  "aciklama": "Türkiye'nin yerli ve milli muharebe uçağı KAAN (TF-X), 18 Şubat 2023 tarihinde Ankara Mürted Hava Üssü'nden ilk uçuşunu başarıyla gerçekleştirmiştir. TAI (Türk Havacılık ve Uzay Sanayii) tarafından geliştirilen KAAN, 5. nesil muharebe uçağı özelliklerine sahip olması hedefiyle tasarlanmıştır.",
+  "dogru": 2,
+  "aciklama": "KAAN'ın ilk uçuşu 21 Şubat 2024'te gerçekleşmiştir, 2023'te değil. Doğru cevap C) 2024 şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -747,8 +747,8 @@
    "%10 baraj korunmuş, herhangi bir değişiklik yapılmamıştır",
    "%3'e indirilmiş, AB uyum süreci kapsamında"
   ],
-  "dogru": 0,
-  "aciklama": "Türkiye'de seçim barajı, 2021 yılında 6084 sayılı Kanun ile %10'dan %7'ye indirilmiştir. Bu değişiklik 2023 genel seçimlerinde ilk kez uygulanmış; barajın düşürülmesi küçük partilerin meclise girme olasılığını artırmış, ittifak siyasetinin yapısını da etkilemiştir.",
+  "dogru": 1,
+  "aciklama": "Baraj %10'dan %7'ye 31 Mart 2022 tarihli 7393 sayılı Kanun'la, yani 2022 düzenlemesiyle indirilmiştir. Doğru cevap B) %7'ye indirilmiş, 2022 yılında yapılan yasal düzenlemeyle şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -923,8 +923,8 @@
    "GÖKTÜRK-1",
    "GÖKTÜRK-2"
   ],
-  "dogru": 1,
-  "aciklama": "İMECE, Türkiye'nin ilk yerli ve milli yüksek çözünürlüklü gözlem uydusudur. 2023 yılında fırlatılmış olup tamamen yerli imkânlarla tasarlanmış ve üretilmiştir. GÖKTÜRK-1 ve GÖKTÜRK-2 savunma amaçlı gözlem uyduları olmakla birlikte geliştirme sürecinde yabancı iş birliği de bulunmaktadır. RASAT ise daha küçük ölçekli deneysel bir uydudur.",
+  "dogru": 0,
+  "aciklama": "Türkiye'de tasarlanıp üretilen ilk yerli yer gözlem uydusu 2011'de fırlatılan RASAT'tır; İMECE ilk yüksek çözünürlüklü yerli uydudur. Doğru cevap A) RASAT şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -1083,8 +1083,8 @@
    "Cumhurbaşkanlığı Kararnamesi ile ilan edilen Deprem Ekonomi Programı",
    "7456 Sayılı Deprem Konutları ve Ekonomik Destek Kanunu"
   ],
-  "dogru": 4,
-  "aciklama": "Şubat 2023 Kahramanmaraş merkezli depremlerinin ardından etkilenen 11 il için kapsamlı ekonomik destek tedbirleri, vergi ve SGK prim muafiyetleri, kira yardımları ve işletmelere finansman desteği 7456 sayılı Kanun ile düzenlenen mevzuat çerçevesinde hayata geçirilmiştir. Bu kanun, deprem bölgesindeki yatırım ortamını canlı tutmaya yönelik teşvik tedbirlerini de kapsamaktadır.",
+  "dogru": 1,
+  "aciklama": "E'deki '7456 Sayılı Deprem Konutları ve Ekonomik Destek Kanunu' diye bir kanun yoktur (7456 ek MTV kanunudur); deprem bölgesine yönelik vergi/prim kolaylıkları esas olarak 7440 sayılı Kanun ve ona bağlı düzenlemelerle hayata geçirilmiştir. Doğru cevap B seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -1307,8 +1307,8 @@
    "Fon yönetim şirketlerinin konsolidasyonu nedeniyle rekabetin azalması ve getiri oranlarının düşmesi",
    "Devlet katkısının bütçe üzerinde yarattığı sürdürülemez yük"
   ],
-  "dogru": 0,
-  "aciklama": "Türkiye'de kayıt dışı istihdam oranının %30'un üzerinde seyretmesi, BES'in otomatik katılım mekanizmasının en temel yapısal açığını oluşturmaktadır. Sistem yalnızca kayıtlı çalışanları kapsadığından, en fazla sosyal güvenlik açığı taşıyan kesimler birikimsiz yaşlılık dönemine girmektedir. Bu durum, zaten baskı altındaki kamu emeklilik sistemi üzerindeki yükü sürdürülemez biçimde artırmakta; demografik değişimle birleştiğinde yapısal bir sürdürülebilirlik krizi riski doğurmaktadır.",
+  "dogru": 2,
+  "aciklama": "Otomatik katılımın bilinen ve ölçülen temel yapısal zaafı %60'ları aşan cayma/çıkış oranları nedeniyle fon birikiminin hedefin altında kalmasıdır; kayıt dışılık sistemin kapsam sorunudur, sürdürülebilirlik riskinin kendisi değildir. Doğru cevap C seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1339,8 +1339,8 @@
    "Türkiye, küresel minimum vergiye kesinlikle karşı çıkarak OECD çerçevesini reddetmiştir.",
    "Türkiye, küresel minimum vergi oranının %15'ten %20'ye yükseltilmesini savunmuştur."
   ],
-  "dogru": 2,
-  "aciklama": "Türkiye, özellikle organize sanayi bölgeleri ve teknoloji geliştirme bölgelerine tanınan vergi teşviklerinin küresel minimum vergi düzenlemesinden nasıl etkileneceği konusunda ihtiyatlı bir tutum sergilemiştir. Genel çerçeveyi prensipte desteklemekle birlikte Türkiye, iç yatırım teşvik araçlarına zarar vermeyecek biçimde muafiyet ve geçiş düzenlemelerinin korunmasını önceliklendirmiştir. Bu tutum, düzenlemenin teknik detaylarına ilişkin AB ve OECD ile süregelen teknik müzakerelere yansımaktadır.",
+  "dogru": 0,
+  "aciklama": "Türkiye 7524 sayılı Kanun'la yerel ve küresel asgari tamamlayıcı kurumlar vergisini 2024 hesap döneminden itibaren yürürlüğe koymuştur; serbest bölge istisnası şartlı destek şeklinde bir tutum söz konusu değildir. Doğru cevap A seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -3291,8 +3291,8 @@
    "BİLSAT-1",
    "GÖKTÜRK-2"
   ],
-  "dogru": 3,
-  "aciklama": "BİLSAT-1, Türkiye'nin yurt içinde önemli mühendislik katkısıyla geliştirilen ilk uydusu olma özelliği taşımaktadır. Ancak tamamen yerli geliştirilen ilk gözlem uydusu RASAT (2011) olarak kabul edilmektedir. BİLSAT-1, 2003 yılında Türk mühendislerin katılımıyla İngiltere'de inşa edilerek fırlatılmış, uzay alanındaki ilk önemli yerli adım sayılmaktadır.",
+  "dogru": 0,
+  "aciklama": "BİLSAT-1 İngiltere (SSTL) ile ortak üretildiğinden, tamamen Türkiye'de tasarlanıp üretilen ilk yerli uydu RASAT'tır. Doğru cevap A) RASAT şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -3675,8 +3675,8 @@
    "Türksat 1A",
    "Bilsat-1"
   ],
-  "dogru": 4,
-  "aciklama": "Bilsat-1, Türkiye'nin uzaya gönderdiği ilk yerli ve milli uydu olup 2003 yılında fırlatılmıştır. Göktürk-1 ise Türkiye'nin ilk yerli gözlem uydusudur.",
+  "dogru": 0,
+  "aciklama": "İlk yerli ve millî uydu, TÜBİTAK UZAY tarafından tasarlanıp üretilen ve 2011'de fırlatılan RASAT'tır. Doğru cevap A) Rasat şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -4859,8 +4859,8 @@
    "46° Doğu – ITU tahsisatı çerçevesinde Türkiye'ye ayrılan slot pozisyonu",
    "50° Doğu – Orta Asya Türk cumhuriyetlerine hizmet kapsamını genişletmek"
   ],
-  "dogru": 3,
-  "aciklama": "TÜRKSAT 5B, 42° Doğu yörünge pozisyonunda değil, Uluslararası Telekomünikasyon Birliği (ITU) tarafından Türkiye'ye tahsis edilen 46° Doğu yörünge yuvası (slot) pozisyonunda faaliyet göstermektedir. ITU, uydu yörüngelerini uluslararası anlaşmalar çerçevesinde ülkelere tahsis eder; Türkiye bu slot üzerinden egemenlik hakkına sahiptir. Yörünge pozisyonu teknik tercihten ziyade uluslararası hukuki bir tahsisatın sonucudur. Bu nedenle doğru şık E'dir.",
+  "dogru": 2,
+  "aciklama": "TÜRKSAT 5B 42° Doğu yörünge pozisyonunda olup Avrupa ve Orta Doğu kapsamasına yöneliktir (soru kökündeki 2023 ve 'yerli' nitelemeleri de hatalıdır), dolayısıyla doğru şık C'dir. Doğru cevap C seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4955,8 +4955,8 @@
    "Uydu, yaklaşık 685 km yüksekliğindeki Güneş eş zamanlı yörüngede (SSO) faaliyet göstermektedir.",
    "IMECE, Türkiye'nin geliştirdiği ilk yerli gözlem uydusu unvanını taşımaktadır."
   ],
-  "dogru": 0,
-  "aciklama": "IMECE uydusu Nisan 2023'te SpaceX Falcon 9 roketi ile uzaya fırlatılmış ve 685 km SSO yörüngesinde görev yapmaktadır; alt-metre çözünürlüklü görüntü kapasitesine de sahiptir. Ancak E seçeneği sorgulanabilir bir iddiadır: IMECE'nin geliştirme sürecinde bazı kritik bileşenler (özellikle optik sistem) yurt dışından temin edilmiştir. Fakat asıl yanlış bilgi E seçeneğinde değil, genel kültür sınavı bağlamında A seçeneğinde aranmalıdır. IMECE, Türkiye'nin ilk 'yerli yüksek çözünürlüklü' gözlem uydusu olmakla birlikte daha önce BILSAT-1 ve RASAT gibi gözlem uyduları da üretilmiştir; dolayısıyla 'ilk yerli gözlem uydusu' tanımlaması hatalıdır. Doğru cevap A seçeneğidir.",
+  "dogru": 4,
+  "aciklama": "Türkiye'nin ilk yerli gözlem uydusu RASAT olduğundan yanlış ifade E'dir; A şıkkındaki yurt içi üretim bilgisi ise doğrudur. Doğru cevap E seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -5547,8 +5547,8 @@
    "Emre Belözoğlu",
    "Hakan Şükür"
   ],
-  "dogru": 0,
-  "aciklama": "Metin Oktay, Türk futbolunun 'Yüzyılın Futbolcusu' olarak tanınmaktadır. Galatasaray'da oynadığı dönemde attığı gollerle efsane haline gelen Oktay, IFFHS tarafından da yüzyılın Türk futbolcusu seçilmiştir.",
+  "dogru": 2,
+  "aciklama": "'Yüzyılın Futbolcusu' unvanı 1998'de Lefter Küçükandonyadis'e verilmiştir; Metin Oktay 'Taçsız Kral' lakabıyla anılır. Doğru cevap C) Lefter Küçükandonyadis şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -5931,8 +5931,8 @@
    "1951 – 2000",
    "1933 – 2000"
   ],
-  "dogru": 2,
-  "aciklama": "Türkiye Futbol Federasyonu 1923 yılında kurulmuştur. Türkiye, EURO tarihindeki en iyi derecesini 2000 Avrupa Şampiyonası'nda üçüncülükle elde etmiştir. Türkiye aynı zamanda 2002 FIFA Dünya Kupası'nda da üçüncü olmuştur; bu iki başarı birbirine karıştırılabilir. 2008 ise Türkiye'nin yarı finale kadar gittiği fakat üçüncülük maçında Hırvatistan'a yenildiği turnuvadır.",
+  "dogru": 0,
+  "aciklama": "TFF 1923'te kurulmuş, Türkiye EURO'da ilk kez 2008'de yarı finale çıkıp üçüncülük derecesi elde etmiştir. Doğru cevap A) 1923 – 2008 şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -6235,8 +6235,8 @@
    "Hafız Osman",
    "Şeyh Hamdullah"
   ],
-  "dogru": 4,
-  "aciklama": "Şeyh Hamdullah (1429-1520), Türk-Osmanlı hat geleneğini köklü biçimde yenilemiş ve 'Kıbletü'l-küttab' (kâtiplerin kıblesi) unvanıyla anılmıştır. Sülüs ve nesih başta olmak üzere pek çok hatta geliştirdiği üslup, sonraki yüzyıllarda standart kabul edilmiştir. Hafız Osman ise 17-18. yüzyıl hat sanatının zirvelerinden biri olup celî sülüs alanında da derin izler bırakmıştır; ancak Şeyh Hamdullah'ın tarihteki belirleyici konumu daha kapsamlı ve erken dönemlidir.",
+  "dogru": 2,
+  "aciklama": "Celî sülüste zirve kabul edilen hattat Kazasker Mustafa İzzet Efendi'dir; Şeyh Hamdullah aklâm-ı sitte, Karahisarî ise müsennâ/celî sülüs öncesi ekolle anılır. Doğru cevap C) Kazasker Mustafa İzzet Efendi şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -6379,8 +6379,8 @@
    "İstanbul Kitap Fuarı, Türkiye'nin en köklü kitap organizasyonu olup 1960'lardan bu yana kesintisiz düzenlenmektedir.",
    "Türkiye, Frankfurt Kitap Fuarı'nda ilk kez 2008 yılında 'onur konuğu' statüsüne kavuşmuş; bu fuar Türk edebiyatının Almanca çeviriler yoluyla Avrupa'ya açılmasını sağlamış ve yayıncılık sektöründe kalıcı bir dönüşüm başlatmıştır."
   ],
-  "dogru": 2,
-  "aciklama": "TÜYAP (Tüm Fuarcılık Yapım A.Ş.) Kitap Fuarı, 1980'den itibaren İstanbul'da düzenlenmekte olup Türkiye'nin en büyük ve en köklü kitap fuarıdır. Türkiye'nin Frankfurt Kitap Fuarı'ndaki 'onur konuğu' statüsü ise 2008 yılında gerçekleşmiş ve bu süreçte pek çok Türk eserinin Almancaya çevrilmesi için özel destekler sağlanmıştır. Diğer seçeneklerdeki bilgiler yanlış ya da doğrulanmamış iddiaları içermektedir.",
+  "dogru": 4,
+  "aciklama": "C şıkkındaki 'TÜYAP 1980'den itibaren' bilgisi yanlıştır (ilk fuar 1982), buna karşılık Türkiye'nin 2008 Frankfurt onur konukluğunu belirten E doğrudur. Doğru cevap E seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -6635,8 +6635,8 @@
    "Türkiye, Venedik Bienali'nde ulusal pavyon kurma hakkını kalıcı olarak 1990'larda elde etmiştir.",
    "Türkiye, Venedik Bienali'ne ilk kez 1950'li yıllarda katılmıştır."
   ],
-  "dogru": 4,
-  "aciklama": "Türkiye'nin Venedik Bienali'ne katılımı 1950'li yıllarda değil çok daha sonra başlamıştır. Türkiye'nin bienale düzenli katılımı ve kalıcı pavyon kurma çabaları 1990'lı yıllarda ivme kazanmıştır; 1950'lerde ziyaretçi ya da davetli sanatçı düzeyinde sınırlı bir bağlantı söz konusu olsa da ulusal pavyon varlığından bahsetmek mümkün değildir. İKSV'nin koordinatörlük rolü, Haluk Akakçe ve Canan Tolon'un uluslararası kariyerleri ile pavyon tarihçesi diğer şıklarda doğru biçimde aktarılmıştır.",
+  "dogru": 3,
+  "aciklama": "Türkiye 1950'lerden beri Venedik Bienali'ne katılmaktadır (E doğru), buna karşılık kalıcı pavyon/Arsenale'de kalıcı mekân hakkı 1990'larda değil 2010'larda elde edilmiştir, dolayısıyla yanlış ifade D'dir. Doğru cevap D seçeneğidir.",
   "zorluk": "zor"
  },
  {
