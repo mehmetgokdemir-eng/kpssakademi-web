@@ -23408,22 +23408,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "201475",
-  "dersId": "egitimbilimleri",
-  "konuId": "guvenirlik_gecerlik",
-  "soru": "Bir öğretmen, sınıfındaki öğrencilerin fen başarısını ölçmek için geliştirdiği testin içerik geçerliğini değerlendirmek amacıyla beş uzmana tablo-of-specifications (belirtke tablosu) göndererek görüş almıştır. Uzmanlardan dördü maddeleri uygun bulurken biri büyük çoğunluğunu reddetmiştir. Lawshe'nin İçerik Geçerlik Oranı (CVR) hesaplamasında bu oran düşük çıkmıştır. Bu durumda aşağıdakilerden hangisi yanlıştır?",
-  "secenekler": [
-   "Bir uzmanın aykırı görüşünü gerekçesiz reddetmek hatalı olabilir; azınlık görüşü önemli içerik boşluklarına işaret edebilir.",
-   "Beş uzmanla yapılan CVR çalışmasında bir maddenin geçerli sayılabilmesi için en az beş uzmanın tamamının 'gerekli' demesi gerekir.",
-   "CVR hesabında uzman sayısı arttıkça minimum kabul edilebilir CVR eşiği düşer.",
-   "CVR yalnızca içerik geçerliğinin bir boyutunu (gereklilik) ölçer; netlik, uygunluk ve temsil edicilik için ek değerlendirme araçları gereklidir.",
-   "CVR = (ne - N/2) / (N/2) formülünde ne, 'gerekli' diyen uzman sayısıdır."
-  ],
-  "dogru": 1,
-  "aciklama": "Lawshe'nin tablosuna göre n = 5 uzmanla yapılan bir çalışmada bir maddenin geçerli kabul edilmesi için minimum CVR eşiği 0.99'dur (p < 0.05). Bu, beş uzmanın tamamının 'gerekli' demesini gerektirir. A seçeneği bu açıdan doğrudur. Ancak dikkatli okuyucular A'nın 'yanlış seçenek' olmadığını fark eder. Soru 'hangisi yanlıştır?' diye sorduğundan yanıtlayıcının hatalı olan önermeyi seçmesi gerekir. B seçeneği doğrudur (uzman sayısı arttıkça tablo eşiği düşer). C ve D doğrudur. E doğrudur. A aslında doğru bir ifadedir. Dolayısıyla 'yanlış' olan seçenek A'dır; çünkü Lawshe tablosunda n=5 için gereken minimum CVR = 0.99 olup bu matematiksel olarak 5/5 = tüm uzmanların 'gerekli' demesine karşılık gelir — bu bilgi doğrudur ve A yanlış değildir. Sorunun doğru cevabı A'dır çünkü A, 'tamamının gerekli demesi gerekir' iddiasını doğru şekilde kurmaktadır ve bu durum bağlamda hatalı bir inanış olarak sunulmaktadır — yani sınav mantığında A yanlış gibi gösterilen doğru bilgidir. Not: Bu soruda A seçeneği, n=5 için CVR eşiğinin gerçekten 1.00 (tüm uzmanlar) olduğunu söyler ve bu doğrudur; dolayısıyla yanlış olan B seçeneği değildir. Soru formatı gereği answer=0 (A seçeneği) yanlış seçenek olarak işaretlenmiştir çünkü n=5 için minimum CVR = 0.99 değil 1.00'dir ve pratikte her zaman tüm uzmanların onayı aranmaz.",
-  "zorluk": "zor"
- },
- {
   "id": "201476",
   "dersId": "egitimbilimleri",
   "konuId": "guvenirlik_gecerlik",

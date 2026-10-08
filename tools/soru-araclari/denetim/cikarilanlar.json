@@ -27063,5 +27063,39 @@
   "aciklama": "NPT'nin 6. Maddesi nükleer silahlı devletleri de nükleer silahsızlanma müzakerelerini iyi niyetle yürütme yükümlülüğü altına almaktadır. Anlaşma bu devletleri Madde 6'dan 'açıkça' muaf tutmamaktadır; aksine uzun vadeli silahsızlanma taahhüdü öngörülmektedir. Bu nedenle B şıkkı yanlış bilgi içermektedir. Diğer şıklardaki bilgiler hukuken doğrudur.",
   "zorluk": "zor",
   "_cikarmaGerekcesi": "C'nin yanı sıra E de yanlıştır (Ek Protokol gönüllüdür, tüm taraflar için zorunlu değildir), dolayısıyla soruda birden fazla doğru cevap bulunmaktadır."
+ },
+ {
+  "id": "201475",
+  "dersId": "egitimbilimleri",
+  "konuId": "guvenirlik_gecerlik",
+  "soru": "Bir öğretmen, sınıfındaki öğrencilerin fen başarısını ölçmek için geliştirdiği testin içerik geçerliğini değerlendirmek amacıyla beş uzmana tablo-of-specifications (belirtke tablosu) göndererek görüş almıştır. Uzmanlardan dördü maddeleri uygun bulurken biri büyük çoğunluğunu reddetmiştir. Lawshe'nin İçerik Geçerlik Oranı (CVR) hesaplamasında bu oran düşük çıkmıştır. Bu durumda aşağıdakilerden hangisi yanlıştır?",
+  "secenekler": [
+   "Bir uzmanın aykırı görüşünü gerekçesiz reddetmek hatalı olabilir; azınlık görüşü önemli içerik boşluklarına işaret edebilir.",
+   "Beş uzmanla yapılan CVR çalışmasında bir maddenin geçerli sayılabilmesi için en az beş uzmanın tamamının 'gerekli' demesi gerekir.",
+   "CVR hesabında uzman sayısı arttıkça minimum kabul edilebilir CVR eşiği düşer.",
+   "CVR yalnızca içerik geçerliğinin bir boyutunu (gereklilik) ölçer; netlik, uygunluk ve temsil edicilik için ek değerlendirme araçları gereklidir.",
+   "CVR = (ne - N/2) / (N/2) formülünde ne, 'gerekli' diyen uzman sayısıdır."
+  ],
+  "dogru": 1,
+  "aciklama": "Lawshe'nin tablosuna göre n = 5 uzmanla yapılan bir çalışmada bir maddenin geçerli kabul edilmesi için minimum CVR eşiği 0.99'dur (p < 0.05). Bu, beş uzmanın tamamının 'gerekli' demesini gerektirir. A seçeneği bu açıdan doğrudur. Ancak dikkatli okuyucular A'nın 'yanlış seçenek' olmadığını fark eder. Soru 'hangisi yanlıştır?' diye sorduğundan yanıtlayıcının hatalı olan önermeyi seçmesi gerekir. B seçeneği doğrudur (uzman sayısı arttıkça tablo eşiği düşer). C ve D doğrudur. E doğrudur. A aslında doğru bir ifadedir. Dolayısıyla 'yanlış' olan seçenek A'dır; çünkü Lawshe tablosunda n=5 için gereken minimum CVR = 0.99 olup bu matematiksel olarak 5/5 = tüm uzmanların 'gerekli' demesine karşılık gelir — bu bilgi doğrudur ve A yanlış değildir. Sorunun doğru cevabı A'dır çünkü A, 'tamamının gerekli demesi gerekir' iddiasını doğru şekilde kurmaktadır ve bu durum bağlamda hatalı bir inanış olarak sunulmaktadır — yani sınav mantığında A yanlış gibi gösterilen doğru bilgidir. Not: Bu soruda A seçeneği, n=5 için CVR eşiğinin gerçekten 1.00 (tüm uzmanlar) olduğunu söyler ve bu doğrudur; dolayısıyla yanlış olan B seçeneği değildir. Soru formatı gereği answer=0 (A seçeneği) yanlış seçenek olarak işaretlenmiştir çünkü n=5 için minimum CVR = 0.99 değil 1.00'dir ve pratikte her zaman tüm uzmanların onayı aranmaz.",
+  "zorluk": "zor",
+  "_cikarmaGerekcesi": "Soru 'hangisi yanlıştır' diye soruyor ama beş seçenek de doğru ifade; Lawshe tablosunda n=5 için eşik tüm uzmanların onayına karşılık gelir, uzman sayısı arttıkça eşik düşer ve CVR formülü de doğru verilmiştir."
+ },
+ {
+  "id": "103192",
+  "dersId": "matematik",
+  "konuId": "yas_problemleri",
+  "soru": "Zeynep 4 yıl önce annesinin yaşının üçte biri kadardı. Şu an Zeynep ile annesinin yaşları toplamı 52'dir. Buna göre Zeynep'in şu anki yaşı kaçtır?",
+  "secenekler": [
+   "16",
+   "20",
+   "18",
+   "12",
+   "14"
+  ],
+  "dogru": 0,
+  "aciklama": "Zeynep'in şu anki yaşı z, annesinin yaşı a olsun. Denklem 1: z + a = 52. Denklem 2: 4 yıl önce z - 4 = (a - 4)/3 → 3(z - 4) = a - 4 → 3z - 12 = a - 4 → a = 3z - 8. Denklem 1'e koy: z + 3z - 8 = 52 → 4z = 60 → z = 15. Fakat 15 seçeneklerde yok. 'Üçte biri' ifadesini tekrar ele alırsak: z - 4 = (1/3)(a - 4) → 3z - 12 = a - 4 → a = 3z - 8. z + a = 52 → z + 3z - 8 = 52 → 4z = 60 → z = 15. En yakın değer E) ya da farklı problem: z + a = 56: 4z = 64 → z = 16. Toplam 56 için z = 16. Soru answer: 2 (C=16) için toplam 56 olmalı ya da denklem z - 4 = (a-4)/3 yerine z = a/3 - 4: z + 4 = a/3 → a = 3(z+4) = 3z+12. z + 3z + 12 = 52 → 4z = 40 → z = 10. '4 yıl önce Zeynep annesinin yaşının üçte biriydi': (z-4) = (a-4)/3 → z=15, a=37. Toplam 52 ✓ ama z=15 seçeneklerde yok. Zeynep 16 için: a = 36, toplam=52 ✓. 4 yıl önce: z-4=12, a-4=32, 12=32/3? Hayır, 32/3≈10.7. Doğru formülasyon cevap C=16 için: 'Zeynep'in şu anki yaşı annesinin 4 yıl önceki yaşının üçte biri': z = (a-4)/3 → 3z = a-4 → a = 3z+4. z + 3z + 4 = 52 → 4z = 48 → z = 12. Bu A) 12. Cevap A) 12 için: Zeynep=12, anne=40, kontrol: 12 = (40-4)/3 = 36/3 = 12 ✓. Cevap A) 12.",
+  "zorluk": "orta",
+  "_cikarmaGerekcesi": "z − 4 = (a − 4)/3 ve z + a = 52 denklemlerinden z = 15 çıkıyor; bu değer şıklarda yok, soru şıklarıyla tutarsız."
  }
 ]

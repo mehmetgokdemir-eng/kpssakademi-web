@@ -16,7 +16,7 @@ const ADIMLAR = [
     baslik: 'KPSS Akademi’ye hoş geldin',
     metin: 'Soru bankası, bilgi kartları, konu anlatımları, deneme sınavları ve oyunlar — hepsi ücretsiz, üyeliksiz ve çevrimdışı çalışıyor.',
     maddeler: [
-      [IconBook, '14.773 soru', 'Hepsi çözüm açıklamalı'],
+      [IconBook, '14.771 soru', 'Hepsi çözüm açıklamalı'],
       [IconCards, '981 bilgi kartı', 'Çevir-öğren, sesli okumalı'],
       [IconExam, '64 deneme sınavı', 'Gerçek süre ve soru dağılımı'],
       [IconGame, '5 oyun', 'Harita, kronoloji, eşleştirme'],

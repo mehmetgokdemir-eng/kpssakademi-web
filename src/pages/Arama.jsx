@@ -9,7 +9,7 @@ import { IconSearch, IconClose, IconCheck, IconWrong } from '../components/Icons
 
 /* Soru Arama — Android'deki SoruAramaActivity'nin karşılığı.
  *
- * 14.773 sorunun tamamı 16 MB; hepsini indirip aramak mobilde kabul edilemez.
+ * 14.771 sorunun tamamı 16 MB; hepsini indirip aramak mobilde kabul edilemez.
  * Bu yüzden arama DERS SEÇİMİNE bağlı: seçilen dersin dosyası (en büyüğü
  * 3,6 MB, çoğu 300–600 KB) bir kez indirilip bellekte tutulur, sonraki
  * aramalar anında çalışır. "Tüm dersler" seçeneği bilinçli olarak yok.

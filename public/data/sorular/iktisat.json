@@ -5253,14 +5253,14 @@
   "konuId": "para_banka",
   "soru": "Bir ticari bankanın bilanço yapısı incelendiğinde zorunlu karşılık oranının %10, serbest rezerv tutma eğiliminin %5 ve mevduat sahiplerinin tutmak istediği nakit/mevduat oranının 0,20 olduğu görülmektedir. Buna göre para çarpanı (money multiplier) yaklaşık kaçtır?",
   "secenekler": [
-   "2,86",
+   "3,43",
    "5,00",
    "6,67",
    "4,00",
    "3,33"
   ],
   "dogru": 0,
-  "aciklama": "Para çarpanı formülü: m = (1 + c) / (r + e + c) şeklindedir; burada c = nakit/mevduat oranı = 0,20, r = zorunlu karşılık oranı = 0,10, e = serbest rezerv oranı = 0,05'tir. Hesaplama: m = (1 + 0,20) / (0,10 + 0,05 + 0,20) = 1,20 / 0,35 ≈ 3,43 değil, doğru hesap: 1,20 / 0,35 = 3,43. En yakın şık A) 2,86 değil, bu değerle örtüşen şık yeniden hesaplanmalıdır. NOT: m = 1,20/0,35 ≈ 3,43. Bu soruda en yakın değer B) 3,33 olup sınav koşullarında yuvarlama farklılığı nedeniyle A şıkkı verilmiştir; ancak analitik olarak doğru cevap B) 3,33'e en yakın değerdir. Formülün tam uygulaması: para çarpanı = 1,20 / 0,35 ≈ 3,43 → şıklara göre B) en yakın.",
+  "aciklama": "Para çarpanı formülü m = (1 + c) / (r + e + c) biçimindedir; burada c = nakit/mevduat oranı = 0,20, r = zorunlu karşılık oranı = 0,10, e = serbest rezerv oranı = 0,05'tir. m = (1 + 0,20) / (0,10 + 0,05 + 0,20) = 1,20 / 0,35 ≈ 3,43 bulunur. Serbest rezerv oranının paydaya eklenmesi unutulursa 1,20/0,30 = 4,00 çıkar; en sık yapılan hata budur. Doğru cevap A) 3,43 şeklindedir.",
   "zorluk": "zor"
  },
  {
