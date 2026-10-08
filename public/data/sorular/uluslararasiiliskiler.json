@@ -1152,22 +1152,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "56073",
-  "dersId": "uluslararasiiliskiler",
-  "konuId": "ui_guncel_sorunlar",
-  "soru": "Rusya-Ukrayna savaşı hangi yılda başlamıştır?",
-  "secenekler": [
-   "2020",
-   "2021",
-   "2022",
-   "2023",
-   "2014"
-  ],
-  "dogru": 2,
-  "aciklama": "Rusya'nın Ukrayna'yı geniş çaplı işgali 24 Şubat 2022'de başlamıştır (Kırım ilhakı 2014).",
-  "zorluk": "kolay"
- },
- {
   "id": "56074",
   "dersId": "uluslararasiiliskiler",
   "konuId": "ui_kavramlar",

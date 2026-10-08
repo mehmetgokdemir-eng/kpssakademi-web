@@ -320,22 +320,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "36023",
-  "dersId": "guncel",
-  "konuId": "turkiye_guncel",
-  "soru": "Türkiye'de milletvekili seçilebilmek için gereken asgari yaş aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "23",
-   "25",
-   "28",
-   "21",
-   "30"
-  ],
-  "dogru": 1,
-  "aciklama": "2017 anayasa değişikliğiyle milletvekili seçilme yaşı 25'e indirilmiştir. Bu değişiklikten önce milletvekili seçilme yaşı 25 iken, 2006-2017 yılları arasında 30 olarak uygulanmıştı.",
-  "zorluk": "kolay"
- },
- {
   "id": "36025",
   "dersId": "guncel",
   "konuId": "turkiye_guncel",
@@ -560,22 +544,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "36040",
-  "dersId": "guncel",
-  "konuId": "turkiye_guncel",
-  "soru": "Türkiye'nin 2023 yılında imzaladığı ve ülkeye yönelik doğrudan yabancı yatırımları artırmayı amaçlayan 'Orta Vadeli Program'da öngörülen büyüme hedefi yüzde kaçtır?",
-  "secenekler": [
-   "%2,5",
-   "%4,0",
-   "%6,5",
-   "%5,0",
-   "%8,0"
-  ],
-  "dogru": 3,
-  "aciklama": "Türkiye'nin 2024-2026 dönemini kapsayan Orta Vadeli Programı (OVP), program dönemi için ortalama %5 büyüme hedefini öngörmektedir. OVP aynı zamanda enflasyonla mücadele, cari açığın düşürülmesi ve mali disiplinin yeniden tesisi gibi temel önceliklerini de belirlemiştir.",
-  "zorluk": "orta"
- },
- {
   "id": "36041",
   "dersId": "guncel",
   "konuId": "turkiye_guncel",
@@ -605,22 +573,6 @@
   ],
   "dogru": 4,
   "aciklama": "2017 anayasa referandumuyla onaylanan ve 2018 seçimlerinin ardından yürürlüğe giren Cumhurbaşkanlığı Hükümet Sistemi kapsamında Başbakanlık makamı lağvedilmiştir. Yürütme yetkisi tek elde toplanarak Cumhurbaşkanı'na devredilmiş; Bakanlar Kurulu yerine Cumhurbaşkanlığı kabinesi oluşturulmuştur.",
-  "zorluk": "orta"
- },
- {
-  "id": "36043",
-  "dersId": "guncel",
-  "konuId": "turkiye_guncel",
-  "soru": "Türkiye'nin 2023-2024 döneminde dönem başkanlığını üstlendiği uluslararası ekonomik işbirliği platformu aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "G-20",
-   "OECD",
-   "BRICS",
-   "Ekonomik İşbirliği Teşkilatı (EİT/ECO)",
-   "D-8 (Gelişen Sekizler)"
-  ],
-  "dogru": 4,
-  "aciklama": "D-8 (Developing Eight – Gelişen Sekizler), Türkiye'nin öncülüğünde 1997 yılında kurulan ve Bangladeş, Endonezya, İran, Malezya, Mısır, Nijerya ile Pakistan'ı kapsayan bir ekonomik işbirliği platformudur. Türkiye, bu örgütün dönem başkanlığını belirli aralıklarla üstlenmekte ve platformun vizyonunun geliştirilmesinde etkin rol oynamaktadır.",
   "zorluk": "orta"
  },
  {
@@ -669,22 +621,6 @@
   ],
   "dogru": 3,
   "aciklama": "2017 Anayasa referandumu ile milletvekili sayısı 550'den 600'e çıkarılmıştır. Türkiye'de milletvekili seçimlerinde d'Hondt yöntemi esas alınan nispi temsil sistemi uygulanmakta, seçim çevreleri il bazında belirlenmektedir.",
-  "zorluk": "orta"
- },
- {
-  "id": "36047",
-  "dersId": "guncel",
-  "konuId": "turkiye_guncel",
-  "soru": "Türkiye'nin 2023 yılında ev sahipliği yaptığı ve İstanbul merkezli olarak gerçekleştirilen hangi uluslararası zirve, küresel ekonomik yönetişim açısından tarihi bir katılım rekoru kırmıştır?",
-  "secenekler": [
-   "NATO Zirvesi",
-   "G20 Liderler Zirvesi",
-   "Dünya Ekonomik Forumu Türkiye Toplantısı",
-   "İslam İşbirliği Teşkilatı Olağanüstü Zirvesi",
-   "Antalya Diplomasi Forumu"
-  ],
-  "dogru": 4,
-  "aciklama": "Antalya Diplomasi Forumu, Türk dış politikasının çok boyutlu yapısını yansıtan ve her yıl Antalya'da düzenlenen üst düzey bir diplomatik platform olarak öne çıkmaktadır. 2023 yılında katılım rekorları kıran forum, bölgesel ve küresel meselelerin tartışıldığı önemli bir zemin hâline gelmiştir.",
   "zorluk": "orta"
  },
  {
@@ -1056,22 +992,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "36071",
-  "dersId": "guncel",
-  "konuId": "turkiye_guncel",
-  "soru": "Türkiye'nin nüfusuna ilişkin 2023 yılı verilerine göre aşağıdaki ifadelerden hangisi doğrudur?",
-  "secenekler": [
-   "İstanbul, dünya genelinde nüfus yoğunluğu en yüksek on şehir arasından çıkmıştır.",
-   "Türkiye'de 65 yaş ve üzeri nüfus oranı ilk kez yüzde 10'u aşmıştır.",
-   "Türkiye doğurganlık hızı (TFH) 2,1 olan nüfusu yenileme eşiğinin üzerine çıkmıştır.",
-   "Türkiye nüfusu ilk kez 90 milyonu aşmıştır.",
-   "Türkiye'nin yıllık nüfus artış hızı binde 6'nın altına düşmüştür."
-  ],
-  "dogru": 4,
-  "aciklama": "TÜİK verilerine göre Türkiye'nin yıllık nüfus artış hızı son yıllarda belirgin biçimde gerilemiş ve binde 6'nın altına düşmüştür. Türkiye nüfusu 2023 itibarıyla 85 milyon civarındadır; 90 milyonu henüz aşmamıştır. Toplam Doğurganlık Hızı ise 2,1 eşiğinin altında, yaklaşık 1,5-1,6 düzeyindedir. Bu tablo, Türkiye'nin demografik dönüşüm sürecinde önemli bir eşiği geçtiğine işaret etmektedir.",
-  "zorluk": "orta"
- },
- {
   "id": "36072",
   "dersId": "guncel",
   "konuId": "turkiye_guncel",
@@ -1118,22 +1038,6 @@
   "dogru": 1,
   "aciklama": "2023 yılında Türkiye, yüksek enflasyon nedeniyle asgari ücreti Ocak ve Temmuz olmak üzere iki kez güncellemiştir. Ocak 2023'te 8.506 TL olan asgari ücret Temmuz 2023'te 13.414 TL'ye yükseltilmiş; bu iki artışın birleşimi yüzde yüzün üzerinde bir toplam artışa karşılık gelmektedir. Ne var ki yüksek enflasyon nedeniyle reel satın alma gücündeki artış sınırlı kalmıştır.",
   "zorluk": "orta"
- },
- {
-  "id": "36075",
-  "dersId": "guncel",
-  "konuId": "turkiye_guncel",
-  "soru": "Türkiye'nin 2023 yılında açıkladığı 'Yeşil Mutabakat Eylem Planı' kapsamında 2053 net sıfır emisyon hedefine ulaşmak için belirlenen ara hedef yılı ve bu hedefe ulaşmada kritik öneme sahip olan sektör aşağıdakilerden hangisinde doğru olarak eşleştirilmiştir?",
-  "secenekler": [
-   "2038 – Enerji sektörü",
-   "2038 – Tarım sektörü",
-   "2035 – Enerji sektörü",
-   "2035 – Ulaştırma sektörü",
-   "2040 – Sanayi sektörü"
-  ],
-  "dogru": 0,
-  "aciklama": "Türkiye'nin 2053 net sıfır emisyon hedefi doğrultusunda hazırlanan Yeşil Mutabakat Eylem Planı'nda, yenilenebilir enerji kapasitesinin artırılması ve kömürden çıkış takvimi bağlamında 2038 yılı kritik bir ara hedef olarak belirlenmiştir. Emisyonların en büyük kaynağı olan enerji sektörünün dönüşümü, bu hedefe ulaşmanın temel bileşenini oluşturmaktadır.",
-  "zorluk": "zor"
  },
  {
   "id": "36076",
@@ -1824,22 +1728,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "36119",
-  "dersId": "guncel",
-  "konuId": "turkiye_guncel",
-  "soru": "Türkiye Cumhuriyeti'nin 100. kuruluş yıl dönümü olan 2023'te kamuoyuyla paylaşılan 2053 Vizyonu belgesinde yer alan hedefler bütünsel olarak değerlendirildiğinde, söz konusu belgenin ekonomi-politik açıdan en belirgin iç çelişkisi aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Yüksek teknoloji ihracatını artırma hedefi ile küresel bilim-araştırma endekslerindeki mevcut düşük sıralamalar arasındaki yapısal açık",
-   "Hem gelir dağılımı eşitliğini hem de GSYİH'de mutlak büyümeyi eş anlı hedef olarak benimsemesi",
-   "Sürdürülebilir borç yönetimini ön plana çıkarırken aynı zamanda büyük ölçekli ve maliyetli altyapı yatırımlarını hedef olarak belirlemesi",
-   "Sürdürülebilir çevre hedefleriyle çelişen enerji yoğun büyüme paradigması",
-   "Nüfus politikaları ile emeklilik sisteminin uzun vadeli aktüeryal dengeleri arasındaki uyumsuzluk"
-  ],
-  "dogru": 0,
-  "aciklama": "2053 Vizyonu, yüksek katma değerli ve ileri teknoloji içeren ihracatta küresel liderliği hedeflemektedir. Ancak patent başvuruları, AR-GE harcamalarının GSYİH'ye oranı, küresel yenilik endekslerindeki konum ve Türkiye üniversitelerinin uluslararası sıralamalardaki yeri, bu hedefle gerçek kapasite arasındaki derin uçurumu gözler önüne sermektedir. Türkiye bu alanlarda hem Doğu Asya rakiplerinin hem de pek çok AB üyesinin belirgin biçimde gerisinde kalmaktadır. Bu yapısal açığı kapatmadan yüksek teknoloji ihracat liderliğini yakalamak olağanüstü bir kurumsal dönüşümü gerektirmektedir. Öte yandan enerji-çevre gerilimi (C seçeneği) de gerçek bir çelişkiyi yansıtmakla birlikte, ölçülebilir ve belgelenmiş kapasite açığı bakımından B seçeneği daha güçlü bir iç çelişkiyi temsil etmektedir.",
-  "zorluk": "zor"
- },
- {
   "id": "36120",
   "dersId": "guncel",
   "konuId": "uluslararasi_guncel",
@@ -1997,22 +1885,6 @@
   ],
   "dogru": 1,
   "aciklama": "İsveç, Avrupa Birliği üyesi olmasına karşın Euro'yu benimsememiş ve kendi para birimi olan İsveç Kronu'nu kullanmaya devam etmektedir.",
-  "zorluk": "kolay"
- },
- {
-  "id": "36130",
-  "dersId": "guncel",
-  "konuId": "uluslararasi_guncel",
-  "soru": "Gazze'de süregelen çatışmada Hamas'ın Türkiye'ye en yakın konumda bulunan siyasi bürosu hangi şehirdedir?",
-  "secenekler": [
-   "Kahire",
-   "Tahran",
-   "Ankara",
-   "Beyrut",
-   "Doha"
-  ],
-  "dogru": 4,
-  "aciklama": "Hamas'ın siyasi bürosu Katar'ın başkenti Doha'da bulunmaktadır. Ateşkes ve esir müzakerelerinde Katar önemli bir arabulucu rolü üstlenmektedir.",
   "zorluk": "kolay"
  },
  {
@@ -2272,22 +2144,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "36148",
-  "dersId": "guncel",
-  "konuId": "uluslararasi_guncel",
-  "soru": "2023 yılında imzalanan ve tahıl ihracatını düzenleyen Karadeniz Tahıl Girişimi'nin (İstanbul Tahıl Koridoru) sona ermesinin ardından tahıl ihracatını sürdürmek amacıyla alternatif güzergah olarak öne çıkan ve 'Dayanışma Koridoru' olarak adlandırılan güzergah, Ukrayna'yı hangi ülkeler üzerinden Avrupa pazarlarına bağlamaktadır?",
-  "secenekler": [
-   "Polonya - Slovakya - Çekya",
-   "Letonya - Litvanya - Estonya",
-   "Macaristan - Avusturya - İsviçre",
-   "Polonya - Almanya - Fransa",
-   "Romanya - Bulgaristan - Yunanistan"
-  ],
-  "dogru": 3,
-  "aciklama": "Karadeniz Tahıl Girişimi'nin askıya alınmasının ardından AB, Ukrayna'nın tahıl ihracatını kara ve nehir yoluyla sürdürebilmesi için başta Polonya olmak üzere komşu Orta Avrupa ülkelerini kapsayan 'Dayanışma Koridorları'nı devreye sokmuştur. Bu koridorlarda Polonya merkezi bir transit ülke konumundadır.",
-  "zorluk": "orta"
- },
- {
   "id": "36149",
   "dersId": "guncel",
   "konuId": "uluslararasi_guncel",
@@ -2301,22 +2157,6 @@
   ],
   "dogru": 4,
   "aciklama": "2023 Hindistan G20 Zirvesi'nde Afrika Birliği, AB ile benzer statüde G20'ye tam üye olarak kabul edilmiştir. Bu karar, Afrika'nın küresel ekonomik yönetişimdeki temsilini güçlendirme açısından tarihi bir adım sayılmıştır. Ancak Güney Afrika'nın mevcut bireysel G20 üyeliği devam etmekte; Afrika Birliği ek bir bölgesel üye sıfatıyla katılmaktadır. AB üyeliğinin nasıl işlediğine paralel bir yapı söz konusudur.",
-  "zorluk": "orta"
- },
- {
-  "id": "36150",
-  "dersId": "guncel",
-  "konuId": "uluslararasi_guncel",
-  "soru": "2024 yılı itibarıyla NATO'nun 'bölgesel plan' çerçevesinde Doğu Kanadı'nı güçlendirmek amacıyla kalıcı komuta yapıları oluşturduğu bilinmektedir. Bu kapsamda Almanya'nın yeniden üstlendiği ve Soğuk Savaş'tan bu yana ilk kez aktif hale getirilen askeri komuta yapısı aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Almanya'da konuşlanan NATO Kara Kuvvetleri Karargahı",
-   "NATO Hızlı Müdahale Gücü Ana Karargahı",
-   "SACEUR İleri Karargahı",
-   "LANDCOM (Land Command)",
-   "AFNORTH (Allied Forces North Europe)"
-  ],
-  "dogru": 0,
-  "aciklama": "Rusya'nın Ukrayna'yı işgalinin ardından NATO, Doğu Kanadı'nı güçlendirme amacıyla çeşitli kalıcı komuta yapıları oluşturmuştur. Almanya, onlarca yıl aradan sonra NATO Kara Kuvvetleri karargahını yeniden kendi topraklarında aktif hale getirmiş; bu yapı, özellikle Orta Avrupa'daki caydırıcılık mimarisinin kilit unsuru olarak konumlandırılmıştır.",
   "zorluk": "orta"
  },
  {
@@ -2829,22 +2669,6 @@
   ],
   "dogru": 4,
   "aciklama": "Finlandiya, Türkiye ve Macaristan'ın onayını İsveç'ten önce alarak Nisan 2023'te NATO'nun 31. üyesi olmuştur. İsveç ise başta Türkiye'nin PKK/YPG ile ilgili talepleri ve ardından Macaristan'ın gecikmeli onayı nedeniyle süreç uzamış; Mart 2024'te 32. üye olarak NATO'ya katılmıştır. Türkiye İsveç ve Finlandiya için benzer ama özdeş olmayan koşullar öne sürmüştür. BM Güvenlik Konseyi'nin NATO üyeliğinde herhangi bir rolü bulunmamaktadır.",
-  "zorluk": "zor"
- },
- {
-  "id": "36183",
-  "dersId": "guncel",
-  "konuId": "uluslararasi_guncel",
-  "soru": "Uluslararası Para Fonu'nun (IMF) 'Kırılgan Beşli' (Fragile Five) kavramını ilk kez kullandığı 2013 tarihli raporundan bu yana yaşanan gelişmeler göz önünde bulundurulduğunda, 2023-2024 dönemi itibarıyla 'yüksek cari açık ve dış finansmana bağımlılık' kırılganlık kriterlerini taşıdığı değerlendirilen ülke gruplaması için kullanılan güncel IMF terminolojisi aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Yüksek Borç Yükü Altındaki Düşük Gelirli Ülkeler (High-Debt LICs)",
-   "Sınır Piyasaları (Frontier Markets)",
-   "İzleme Altındaki Ekonomiler (Economies Under Scrutiny)",
-   "Dış Finansman Gereksinimi Yüksek Ekonomiler (High External Financing Need Economies)",
-   "Kırılgan Yedi (Fragile Seven)"
-  ],
-  "dogru": 0,
-  "aciklama": "IMF, 2023-2024 döneminde yapısal kırılganlığı yüksek, dış borç yükü ağır ve dış finansmana son derece bağımlı olan ülkeleri 'Yüksek Borç Yükü Altındaki Düşük Gelirli Ülkeler' (High-Debt Low Income Countries - LICs) başlığı altında değerlendirmekte ve bu ülkelere yönelik özel izleme mekanizmaları uygulamaktadır. Bu soruyu zorlaştıran etken, 'Kırılgan Beşli' gibi piyasa kaynaklı nitelendirmelerin IMF'nin resmi güncel terminolojisiyle karıştırılmasıdır.",
   "zorluk": "zor"
  },
  {
@@ -3904,22 +3728,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "36250",
-  "dersId": "guncel",
-  "konuId": "bilim_teknoloji",
-  "soru": "Türkiye'nin 2023 yılında fırlattığı ve Ay'a yönelik ilk yerli uzay misyonu olan AY-1'in (Ayda Yürüyen-1) görevini başarıyla tamamlayamamasının temel teknik nedeni aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Navigasyon sisteminin yanlış koordinat hesaplaması sonucu rotadan sapması",
-   "Roket yakıtının yolculuk sırasında tükenmesi",
-   "İletişim anteninin yörüngede hasar görmesi",
-   "Güneş panellerinin uzayda açılamaması",
-   "İniş sırasında ana motorun arızalanması ve Ay yüzeyine sert çarpması"
-  ],
-  "dogru": 4,
-  "aciklama": "Türkiye'nin ilk Ay misyonu AYDA Yürüyen-1 (AYDA-1) uzay aracı, Nisan 2023'te Ay yüzeyine iniş sırasında ana itki sisteminde yaşanan arıza nedeniyle kontrollü iniş yapamamış ve Ay yüzeyine sert çarparak görevini tamamlayamamıştır. Bu olay, Türkiye'nin uzay programı açısından önemli bir tecrübe olarak değerlendirilmiştir.",
-  "zorluk": "orta"
- },
- {
   "id": "36251",
   "dersId": "guncel",
   "konuId": "bilim_teknoloji",
@@ -3981,22 +3789,6 @@
   ],
   "dogru": 3,
   "aciklama": "5G'de kullanılan yüksek frekanslı milimetre dalgaları, daha yüksek bant genişliği sağlasa da fiziksel engelleri aşmakta zorlanır ve kapsama alanı 4G'ye kıyasla daha dardır. Bu nedenle 5G, daha fazla baz istasyonu kurulmasını gerektirir. Diğer seçenekler doğrudur: 5G çok düşük gecikme süreleri (1 ms'nin altında), milimetre dalga frekansları, yüksek cihaz yoğunluğu kapasitesi sunar ve kritik uygulamaların altyapısını oluşturur.",
-  "zorluk": "orta"
- },
- {
-  "id": "36255",
-  "dersId": "guncel",
-  "konuId": "bilim_teknoloji",
-  "soru": "Türkiye'nin yerli ve milli elektrikli otomobili TOGG'un üretim tesisi aşağıdaki hangi şehirde kurulmuştur?",
-  "secenekler": [
-   "İzmir - Kemalpaşa",
-   "Bursa - Nilüfer",
-   "Sakarya - Adapazarı",
-   "Ankara - Sincan",
-   "Kocaeli - Gebze"
-  ],
-  "dogru": 4,
-  "aciklama": "TOGG (Türkiye'nin Otomobili Girişim Grubu), Kocaeli'nin Gemlik ilçesinde değil, Gebze Teknoloji Endüstri Bölgesi'nde üretim tesisini kurmuştur. TOGG'un akıllı cihaz üssü Kocaeli Gebze'de yer almakta olup Türkiye'nin ilk yerli elektrikli otomobili bu tesiste seri üretime geçmiştir. Bursa-Nilüfer ise yanlış bir çeldiricidir; Bursa tarihsel olarak Türk otomotiv sanayisiyle ilişkilendirilse de TOGG tesisi Kocaeli'ndedir.",
   "zorluk": "orta"
  },
  {
@@ -5408,22 +5200,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "36345",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "Aşağıdakilerden hangisi UNESCO tarafından 'İnsanlığın Somut Olmayan Kültürel Mirası' listesine alınan Türk unsurlarından biri değildir?",
-  "secenekler": [
-   "Ebru",
-   "Karagöz",
-   "Mevlevi Sema Töreni",
-   "Meddahlık",
-   "Nevruz"
-  ],
-  "dogru": 4,
-  "aciklama": "Nevruz, UNESCO listesinde yer almakla birlikte Türkiye'nin tek başına değil, birçok ülkenin ortaklaşa tescil ettirdiği çok uluslu bir unsurdur. Meddahlık (2008), Mevlevi Sema Töreni (2008), Karagöz (2009) ve Ebru (2014) ise Türkiye adına tescil edilmiştir. Soru 'Türk unsuru' kapsamı sorulduğundan Nevruz en doğru yanıttır.",
-  "zorluk": "kolay"
- },
- {
   "id": "36346",
   "dersId": "guncel",
   "konuId": "kultur_sanat_spor",
@@ -5565,22 +5341,6 @@
   ],
   "dogru": 2,
   "aciklama": "İstanbul'un Tarihi Alanları, 1985 yılında UNESCO Dünya Mirası Listesi'ne alınmıştır. Bu, Türkiye'den listeye alınan ilk kültürel varlıktır.",
-  "zorluk": "kolay"
- },
- {
-  "id": "36355",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "Aşağıdaki sporculardan hangisi Türkiye'nin olimpiyat tarihindeki ilk altın madalyasını kazanmıştır?",
-  "secenekler": [
-   "Ahmet Kireçci",
-   "Yaşar Doğu",
-   "Hüseyin Akbaş",
-   "Naim Süleymanoğlu",
-   "Halil Mutlu"
-  ],
-  "dogru": 3,
-  "aciklama": "Naim Süleymanoğlu, 1988 Seul Olimpiyat Oyunları'nda halter 60 kg kategorisinde altın madalya kazanarak Türkiye'ye olimpiyat tarihinin ilk altın madalyasını getirmiştir.",
   "zorluk": "kolay"
  },
  {
@@ -5792,38 +5552,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "36369",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "Türk edebiyatında 'Sanat sanat içindir' anlayışını benimseyen ve bu görüşü 'Şiir ve İnşa' adlı makalesiyle eleştiren isim aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Muallim Naci",
-   "Abdülhak Hamit Tarhan",
-   "Ziya Paşa",
-   "Recaizade Mahmut Ekrem",
-   "Namık Kemal"
-  ],
-  "dogru": 2,
-  "aciklama": "'Şiir ve İnşa' makalesi Ziya Paşa'ya aittir. Ancak 'sanat toplum içindir' görüşünü savunan ve 'sanat sanat içindir' anlayışını eleştiren isim Namık Kemal'dir. Ziya Paşa bu makalesinde halk edebiyatını savunmuş, Divan edebiyatını eleştirmiştir. Recaizade Mahmut Ekrem ise 'sanat sanat içindir' görüşünü benimsemiştir. Bu ayrım sınavlarda sık karıştırılır.",
-  "zorluk": "orta"
- },
- {
-  "id": "36370",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "Aşağıdaki sporculardan hangisi Türkiye'de düzenlenen bir Olimpiyat Oyunları'nda değil, yurt dışında düzenlenen oyunlarda Türkiye adına ilk altın madalyayı kazanan sporcu olma özelliğini taşır?",
-  "secenekler": [
-   "Hüseyin Akbaş",
-   "Halil Kaya",
-   "Naim Süleymanoğlu",
-   "Yaşar Doğu",
-   "Rıza Kayaalp"
-  ],
-  "dogru": 1,
-  "aciklama": "Türkiye'nin Olimpiyat tarihindeki ilk altın madalyası 1948 Londra Olimpiyatları'nda güreşçi Celal Atik ve Halil Kaya tarafından kazanılmıştır. Naim Süleymanoğlu 1988 Seul Olimpiyatları'nda üç dünya rekoru kırarak altın madalya kazanmış, en tanınan Türk olimpiyat şampiyonu olmuştur. Yaşar Doğu da 1948'de madalya kazanan güreşçilerdendir. Bu soruda çeldiriciler olarak Naim Süleymanoğlu ve diğer tanınmış isimler verilmiştir.",
-  "zorluk": "orta"
- },
- {
   "id": "36371",
   "dersId": "guncel",
   "konuId": "kultur_sanat_spor",
@@ -5869,22 +5597,6 @@
   ],
   "dogru": 1,
   "aciklama": "Ahmet Adnan Saygun, Macar besteci Bela Bartók ile birlikte Türkiye'de derleme gezileri yaparak Türk halk müziğini notaya almış ve dünyaya tanıtmıştır. Bela Bartók da bu çalışmalara katılmış olmakla birlikte Türk müzisyen değildir. Münir Nurettin Selçuk Türk sanat müziğinde, Tanburi Cemil Bey klasik Türk müziğinde öne çıkmış isimlerdir. Hüseyin Saadettin Arel ise Türk müziği teorisi alanında çalışmalar yapmıştır.",
-  "zorluk": "orta"
- },
- {
-  "id": "36374",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "Türkiye'de 'Kültür Yolu Festivali' ilk olarak hangi şehirde ve hangi yılda düzenlenmiştir?",
-  "secenekler": [
-   "Bursa – 2022",
-   "Konya – 2021",
-   "Ankara – 2021",
-   "İzmir – 2019",
-   "İstanbul – 2020"
-  ],
-  "dogru": 2,
-  "aciklama": "Türkiye'nin en büyük kültür-sanat festivali olan Kültür Yolu Festivali, Kültür ve Turizm Bakanlığı öncülüğünde ilk olarak 2021 yılında Ankara'da düzenlenmiştir. Sonraki yıllarda farklı şehirlerde de yapılmış, festival zamanla İstanbul, İzmir ve diğer şehirlere yayılmıştır. 2021 başlangıç yılı ve Ankara lokasyonu karıştırılmaya açık bir bilgidir.",
   "zorluk": "orta"
  },
  {
@@ -5984,22 +5696,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "36381",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "Türkiye'nin ev sahipliği yaptığı ve 1993 yılında İstanbul'da düzenlenen uluslararası kültür-sanat etkinliği aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "İstanbul Müzik Festivali'nin ilk düzenlenişi",
-   "İstanbul Uluslararası Film Festivali'nin kuruluşu",
-   "İstanbul'un Avrupa Kültür Başkenti seçilmesi",
-   "İstanbul Bienali'nin ilk düzenlenişi",
-   "Venedik Bienali Türkiye Pavyonu'nun açılışı"
-  ],
-  "dogru": 3,
-  "aciklama": "İstanbul Bienali ilk kez 1987 yılında düzenlenmiş olup uluslararası alanda Türkiye'nin önemli çağdaş sanat platformlarından biri hâline gelmiştir. Ancak bu seçenekte '1993' yılı verildiğinden dikkat etmek gerekir: 1993 yılı İstanbul Bienali'nin 3. düzenlenişine denk gelir, ilk düzenlenişi 1987'dir. İstanbul'un Avrupa Kültür Başkenti olması ise 2010 yılına aittir. İstanbul Uluslararası Film Festivali 1982'de başlamıştır. Bu soruda yıl ve etkinlik eşleştirmesi önemlidir.",
-  "zorluk": "orta"
- },
- {
   "id": "36382",
   "dersId": "guncel",
   "konuId": "kultur_sanat_spor",
@@ -6013,22 +5709,6 @@
   ],
   "dogru": 1,
   "aciklama": "Muhsin Ertuğrul (1892-1979), Türk tiyatro ve sinema sanatının öncüsü olarak kabul edilmektedir. 1914'te kurulan Darülbedayi'nin uzun yıllar boyunca yöneticiliğini yaparak kurumun şekillenmesinde belirleyici rol oynamıştır. Vasfi Rıza Zobu da önemli bir tiyatro sanatçısı olsa da Darülbedayi'nin kurucu kimliği Muhsin Ertuğrul'a aittir.",
-  "zorluk": "orta"
- },
- {
-  "id": "36383",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "Aşağıdakilerden hangisi, UNESCO tarafından 2008 yılında İnsanlığın Somut Olmayan Kültürel Mirası Listesi'ne alınan Türk geleneğidir?",
-  "secenekler": [
-   "Nevruz",
-   "Semazen Törenleri",
-   "Karagöz",
-   "Meddah",
-   "Halk Ozanlığı Geleneği"
-  ],
-  "dogru": 3,
-  "aciklama": "Meddah (hikâye anlatıcılığı) geleneği, UNESCO İnsanlığın Somut Olmayan Kültürel Mirası Listesi'ne 2008 yılında alınmıştır. Karagöz 2009'da, Nevruz 2009'da (birden fazla ülkeyle birlikte), Semazen törenleri (Mevlevi Sema) ise 2008'de listeye alınmıştır. Dikkat edilmesi gereken nokta, Meddah'ın 2008 tarihiyle listenin ilk girişleri arasında yer almasıdır.",
   "zorluk": "orta"
  },
  {
@@ -6205,22 +5885,6 @@
   ],
   "dogru": 2,
   "aciklama": "Mirsad Türkcan, 1998 yılında New York Knicks ile sözleşme imzalayarak NBA'de forma giyen ilk Türk oyuncu olmuştur. Hedo Türkoğlu ve Mehmet Okur ise NBA'de daha uzun ve başarılı kariyerler yaşamışlardır; Mehmet Okur 2004'te Detroit Pistons ile şampiyonluk kazanmıştır. Ancak 'ilk Türk NBA oyuncusu' unvanı Mirsad Türkcan'a aittir.",
-  "zorluk": "orta"
- },
- {
-  "id": "36395",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "Aşağıdaki seçeneklerden hangisi, Türkiye'nin ev sahipliği yaptığı ve dünya çapında katılım sağlayan ilk büyük çok sportif organizasyondur?",
-  "secenekler": [
-   "1993 Akdeniz Oyunları",
-   "2005 Dünya Atletizm Şampiyonası",
-   "2005 Akdeniz Oyunları",
-   "1992 Dünya Atletizm Şampiyonası",
-   "2010 Basketbol Dünya Kupası"
-  ],
-  "dogru": 0,
-  "aciklama": "1993 Akdeniz Oyunları, Türkiye'nin Languedoc-Roussillon değil Langüedok değil; İzmir'de ev sahipliği yaptığı ve uluslararası çapta geniş katılımlı ilk büyük çok sportif organizasyondur. Bu oyunlar, Türkiye'nin büyük organizasyonlar düzenleme kapasitesini göstermesi açısından önemli bir dönüm noktası sayılmaktadır. 2005 Dünya Atletizm Şampiyonası da Helsinki'de değil Helsinki'de; Helsinki'de yapılmış olup İstanbul bu şampiyonaya aday olmuş ancak kazanamamıştır.",
   "zorluk": "orta"
  },
  {
@@ -6493,22 +6157,6 @@
   ],
   "dogru": 0,
   "aciklama": "Halit Refiğ, 1960'lı yıllarda 'Ulusal Sinema' akımının en güçlü kuramcısı ve uygulayıcısı olarak öne çıkmıştır. 'Ulusal Sinema Kavgası' adlı kitabında Yeşilçam'ın Batı taklitçiliğini sert biçimde eleştirmiş, Türk toplumunun kendi dinamiklerinden beslenen bir sinema anlayışını savunmuştur. Yılmaz Güney toplumsal gerçekçilik, Metin Erksan ise 1964'te Altın Ayı ödülü kazanan 'Susuz Yaz' filmiyle bireysel bir çizgide ilerlemiştir.",
-  "zorluk": "zor"
- },
- {
-  "id": "36413",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "Aşağıdaki eşleştirmelerden hangisi, bir Türk müzisyenin uluslararası alanda aldığı ödül ya da unvan bakımından yanlıştır?",
-  "secenekler": [
-   "Ahmed Adnan Saygun – UNESCO'nun dünya mirası listesine aldığı eser",
-   "Fazıl Say – Almanya'da 'Yılın Sanatçısı' ödülü",
-   "Suna Kan – UNESCO'nun dünya çapındaki 'Müzik Elçisi' unvanı",
-   "İdil Biret – Chopin Uluslararası Piyano Yarışması birinciliği",
-   "Leyla Gencer – 'La Diva Turca' lakabı"
-  ],
-  "dogru": 3,
-  "aciklama": "İdil Biret, 1960 Varşova Chopin Yarışması'nda birinci değil, özel bir 'Mazurka Yorumu Özel Ödülü' almıştır; yarışmanın birincisi Polonya'dan bir yarışmacı olmuştur. Biret'in uluslararası kariyeri bu yarışmadan önce başlamış olup asıl şöhreti kapsamlı diskografisi ve yoğun konser programıyla kazanılmıştır. Leyla Gencer'in 'La Diva Turca' lakabı, Suna Kan'ın keman ustalığı ve Fazıl Say'ın Almanya'daki ödülleri tarihsel olarak doğrudur. Saygun'un 'Yunus Emre Oratoryosu' ise UNESCO tarafından evrensel değer taşıyan eserler arasında anılmaktadır.",
   "zorluk": "zor"
  },
  {
@@ -6928,22 +6576,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "36440",
-  "dersId": "guncel",
-  "konuId": "uluslararasi_guncel",
-  "soru": "Şubat 2026'da İran'a yönelik olarak ABD ve İsrail tarafından düzenlenen ortak operasyonun en önemli sonucu aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "İran'ın nükleer programını tümüyle sonlandırdığını açıklaması ve denetime açılması",
-   "İran Dinî Lideri Ayetullah Ali Hamaney'in öldürülmesi",
-   "İran'ın Birleşmiş Milletler üyeliğinin askıya alınması kararının alınması",
-   "Hürmüz Boğazı'nın uluslararası bir güç tarafından kalıcı biçimde yönetilmeye başlanması",
-   "İran ile Suudi Arabistan arasında savunma ittifakı anlaşmasının imzalanması"
-  ],
-  "dogru": 1,
-  "aciklama": "28 Şubat 2026'da başlayan ABD-İsrail ortak operasyonunda İran Dinî Lideri Ayetullah Ali Hamaney öldürülmüş; İran ölümü doğrulamış ve bölgede geniş çaplı bir çatışma dönemi başlamıştır.",
-  "zorluk": "orta"
- },
- {
   "id": "36441",
   "dersId": "guncel",
   "konuId": "uluslararasi_guncel",
@@ -7008,38 +6640,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "36445",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "2026 FIFA Dünya Kupası'nın şampiyonu hangi ülkedir?",
-  "secenekler": [
-   "Arjantin",
-   "İspanya",
-   "Fransa",
-   "Brezilya",
-   "Almanya"
-  ],
-  "dogru": 1,
-  "aciklama": "20 Temmuz 2026'da oynanan finalde İspanya, uzatma dakikalarında attığı golle Arjantin'i 1-0 yenerek ilk kez 2010'dan sonra yeniden dünya şampiyonu olmuştur.",
-  "zorluk": "kolay"
- },
- {
-  "id": "36446",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "2026 FIFA Dünya Kupası finali ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
-  "secenekler": [
-   "Final, uzatma dakikalarında Ferran Torres'in attığı golle 1-0 sona ermiştir",
-   "Final normal süresi 2-2 bitmiş ve şampiyon penaltı atışları sonucunda belirlenmiştir",
-   "Final, turnuva tarihinde ilk kez iki Güney Amerika ülkesi arasında oynanmıştır",
-   "Final Meksika'nın başkentindeki Azteca Stadyumu'nda seyircisiz olarak oynanmıştır",
-   "Final, altın gol kuralının yeniden uygulandığı ilk Dünya Kupası finali olmuştur"
-  ],
-  "dogru": 0,
-  "aciklama": "Final 20 Temmuz 2026'da New York/New Jersey Stadyumu'nda oynanmış, Ferran Torres'in 106. dakikadaki golüyle İspanya 1-0 kazanmıştır. Arjantin, Enzo Fernández'in kırmızı kartı sonrası maçı 10 kişi tamamlamıştır.",
-  "zorluk": "orta"
- },
- {
   "id": "36447",
   "dersId": "guncel",
   "konuId": "kultur_sanat_spor",
@@ -7054,54 +6654,6 @@
   "dogru": 1,
   "aciklama": "2026 Kış Olimpiyat Oyunları 6-22 Şubat 2026 tarihleri arasında İtalya'nın Milano ve Cortina d'Ampezzo kentlerinde düzenlenmiştir.",
   "zorluk": "orta"
- },
- {
-  "id": "36448",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "Milano-Cortina 2026 Kış Olimpiyat Oyunları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
-  "secenekler": [
-   "Norveç 18 altın madalyayla tek bir Kış Olimpiyatı'nda en fazla altın madalya rekorunu kırmıştır",
-   "Türkiye, oyunlara katılan sporcularıyla kayakla atlama dalında ilk olimpiyat madalyasını kazanmıştır",
-   "Oyunlar, kadın sporcuların erkeklerden fazla olduğu ilk Kış Olimpiyatı olarak tarihe geçmiştir",
-   "Amerika Birleşik Devletleri madalya sıralamasında birinci, ev sahibi İtalya ise ikinci sırada yer almıştır",
-   "Oyunlar, tek bir şehirde düzenlenen son Kış Olimpiyatı olma özelliğini taşımaktadır"
-  ],
-  "dogru": 0,
-  "aciklama": "Norveç 18 altın, 12 gümüş ve 11 bronz olmak üzere 41 madalyayla zirvede yer almış ve rekor kırmıştır. Türkiye'yi 8 sporcu temsil etmiş, madalya kazanılamamıştır.",
-  "zorluk": "zor"
- },
- {
-  "id": "36449",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "98. Akademi (Oscar) Ödülleri'nde En İyi Film ödülünü kazanan yapım aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Sinners (Günahkârlar)",
-   "One Battle After Another",
-   "Hamnet (Hamnet'in Hikâyesi)",
-   "Sentimental Value",
-   "The Brutalist (Brütalist)"
-  ],
-  "dogru": 1,
-  "aciklama": "Mart 2026'da düzenlenen 98. Akademi Ödülleri'nde 'One Battle After Another' altı dalda ödül kazanmış; yönetmen Paul Thomas Anderson En İyi Yönetmen ödülünü almıştır.",
-  "zorluk": "orta"
- },
- {
-  "id": "36450",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "98. Akademi Ödülleri ile ilgili aşağıdaki eşleştirmelerden hangisi doğrudur?",
-  "secenekler": [
-   "En İyi Erkek Oyuncu – Michael B. Jordan / En İyi Kadın Oyuncu – Jessie Buckley",
-   "En İyi Erkek Oyuncu – Timothée Chalamet / En İyi Kadın Oyuncu – Emma Stone ve Mikey Madison",
-   "En İyi Erkek Oyuncu – Adrien Brody / En İyi Kadın Oyuncu – Mikey Madison",
-   "En İyi Erkek Oyuncu – Cillian Murphy / En İyi Kadın Oyuncu – Demi Moore",
-   "En İyi Erkek Oyuncu – Sean Penn / En İyi Kadın Oyuncu – Saoirse Ronan"
-  ],
-  "dogru": 0,
-  "aciklama": "Michael B. Jordan 'Sinners' filmiyle En İyi Erkek Oyuncu, Jessie Buckley ise 'Hamnet' filmiyle En İyi Kadın Oyuncu ödülünü kazanmıştır.",
-  "zorluk": "zor"
  },
  {
   "id": "36451",
@@ -7134,86 +6686,6 @@
   "dogru": 1,
   "aciklama": "Tarihçi Prof. Dr. İlber Ortaylı 13 Mart 2026'da 78 yaşında hayatını kaybetmiştir.",
   "zorluk": "kolay"
- },
- {
-  "id": "36453",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "Aşağıdaki sanatçı-vefat yılı eşleştirmelerinden hangisi doğrudur?",
-  "secenekler": [
-   "Ferdi Tayfur – 2025 / Kadir İnanır – 2026",
-   "Volkan Konak – 2024 / Haldun Dormen – 2025",
-   "Muazzez Abacı – 2026 / Reha Muhtar – 2025",
-   "Filiz Akın – 2026 / İlber Ortaylı – 2025",
-   "Kadir İnanır – 2025 / Ferdi Tayfur – 2026"
-  ],
-  "dogru": 0,
-  "aciklama": "Ferdi Tayfur Ocak 2025'te, Kadir İnanır ise 26 Haziran 2026'da hayatını kaybetmiştir. Volkan Konak 31 Mart 2025'te, Haldun Dormen 21 Ocak 2026'da vefat etmiştir.",
-  "zorluk": "orta"
- },
- {
-  "id": "36454",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "2026 yılında Türk kadın voleybol millî takımının elde ettiği başarı aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Dünya Şampiyonası'nda finalde Brezilya'yı yenerek şampiyon olması",
-   "FIVB Milletler Ligi şampiyonluğu ve CEV Avrupa Şampiyonluğu",
-   "Olimpiyat Oyunları'nda altın madalya kazanarak tarihe geçmesi",
-   "Kulüpler Dünya Kupası'nda ilk kez finale yükselmiş olması",
-   "Dünya Kupası'nda üst üste üçüncü kez şampiyonluğa ulaşması"
-  ],
-  "dogru": 1,
-  "aciklama": "Türk kadın voleybol millî takımı 26 Temmuz 2026'da FIVB Voleybol Milletler Ligi şampiyonu olmuş, 6 Eylül 2026'da ise CEV Avrupa Şampiyonası finalinde İtalya'yı 3-2 yenerek şampiyonluğa ulaşmıştır.",
-  "zorluk": "orta"
- },
- {
-  "id": "36455",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "2025-2026 sezonunda Spor Toto Süper Lig şampiyonu olan takım aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Fenerbahçe",
-   "Galatasaray",
-   "Trabzonspor",
-   "Beşiktaş",
-   "Başakşehir"
-  ],
-  "dogru": 1,
-  "aciklama": "Galatasaray 9 Mayıs 2026'da 2025-2026 sezonu Süper Lig şampiyonluğunu kazanmıştır. Aynı sezonda Türkiye Kupası'nı Trabzonspor, Süper Kupa'yı ise Fenerbahçe kazanmıştır.",
-  "zorluk": "orta"
- },
- {
-  "id": "36456",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "2025-2026 futbol sezonunda Türkiye'deki kupa ve şampiyonlukların dağılımı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
-  "secenekler": [
-   "Süper Lig – Galatasaray / Türkiye Kupası – Trabzonspor / Süper Kupa – Fenerbahçe",
-   "Süper Lig – Fenerbahçe / Türkiye Kupası – Galatasaray / Süper Kupa – Beşiktaş",
-   "Süper Lig – Trabzonspor / Türkiye Kupası – Beşiktaş / Süper Kupa – Galatasaray",
-   "Süper Lig – Beşiktaş / Türkiye Kupası – Fenerbahçe / Süper Kupa – Trabzonspor",
-   "Süper Lig – Galatasaray / Türkiye Kupası – Fenerbahçe / Süper Kupa – Trabzonspor"
-  ],
-  "dogru": 0,
-  "aciklama": "Süper Kupa'yı 10 Ocak 2026'da Fenerbahçe, Süper Lig şampiyonluğunu 9 Mayıs 2026'da Galatasaray, Türkiye Kupası'nı ise 22 Mayıs 2026'da Trabzonspor kazanmıştır.",
-  "zorluk": "zor"
- },
- {
-  "id": "36457",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "A Millî Futbol Takımı'nın 2026 FIFA Dünya Kupası ile ilişkisi bakımından aşağıdaki ifadelerden hangisi doğrudur?",
-  "secenekler": [
-   "Türkiye 31 Mart 2026'da turnuvaya katılmaya hak kazanmıştır",
-   "Türkiye elemeleri grubunda tamamlayamadığı için turnuvaya katılamamıştır",
-   "Türkiye turnuvaya ev sahibi ülkelerden biri olarak doğrudan katılmıştır",
-   "Türkiye çeyrek finalde İspanya'ya elenerek turnuvayı tamamlamıştır",
-   "Türkiye kura çekimi öncesinde elemelerden çekilme kararı almıştır"
-  ],
-  "dogru": 0,
-  "aciklama": "Türkiye A Millî Futbol Takımı 31 Mart 2026'da 2026 FIFA Dünya Kupası'na katılma hakkı elde etmiştir.",
-  "zorluk": "orta"
  },
  {
   "id": "36458",

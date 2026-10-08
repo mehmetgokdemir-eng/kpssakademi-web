@@ -1232,22 +1232,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "46078",
-  "dersId": "iktisat",
-  "konuId": "mikro_i_ktisat",
-  "soru": "İki ülkeden oluşan bir modelde Ülke A'nın X malında mutlak üstünlüğü olduğu hâlde karşılaştırmalı üstünlüğünün Y malında olduğu bilinmektedir. Bu bilgiye göre aşağıdakilerden hangisi kesinlikle doğrudur?",
-  "secenekler": [
-   "Ülke A, Y malını ihraç etmeli; çünkü her iki malda da mutlak üstünlüğe sahip olmak zorunda değildir.",
-   "Ülke A, X malını daha düşük maliyetle ürettiğinden X malını ihraç etmelidir.",
-   "Mutlak üstünlük ve karşılaştırmalı üstünlük aynı anda aynı malda bulunabildiğinden ticaret gerçekleşmez.",
-   "Ülke B'nin X malındaki karşılaştırmalı üstünlüğü vardır ve bu nedenle X malını ihraç etmelidir.",
-   "Ülke A, tüm malları daha ucuza ürettiğinden ticaretten kazanım sağlayamaz."
-  ],
-  "dogru": 3,
-  "aciklama": "Karşılaştırmalı üstünlük teorisine göre (Ricardo), ticaretin belirleyicisi mutlak maliyet değil, fırsat maliyetidir. Ülke A'nın X malında mutlak üstünlüğü olduğu hâlde karşılaştırmalı üstünlüğünün Y malında olması, X malının fırsat maliyetinin A için görece yüksek olduğunu gösterir. İki mallı iki ülkeli modelde karşılaştırmalı üstünlükler tamamlayıcı niteliktedir: Ülke A'nın Y malında karşılaştırmalı üstünlüğü varsa, Ülke B'nin X malında karşılaştırmalı üstünlüğü olması zorunludur. Bu nedenle C şıkkı kesinlikle doğrudur. B şıkkı da doğru görünmekle birlikte 'her iki malda mutlak üstünlüğe sahip olmak zorunda değildir' ifadesi yanıltıcıdır; ülke A'nın zaten X'te mutlak üstünlüğü olduğu bilgisi verilmiştir.",
-  "zorluk": "orta"
- },
- {
   "id": "46079",
   "dersId": "iktisat",
   "konuId": "mikro_i_ktisat",
@@ -1357,22 +1341,6 @@
   ],
   "dogru": 4,
   "aciklama": "Soruda tanımlanan uygulama, blok tarifedir: tüketim miktarına göre birim fiyatın değiştiği bu yapı ikinci derece (non-lineer) fiyat ayrımcılığına örnektir. İkinci derece fiyat ayrımcılığında firma bireysel tüketici rantlarını doğrudan gözlemleyemez; tüketiciler kendi kendilerini seçer (self-selection). Bu uygulamada yüksek tüketimde daha düşük birim fiyat sunulması, daha az satın almayı tercih edecek marjinal tüketicileri piyasaya çekebilir, bu da toplam çıktıyı artırır. D şıkkı yanlıştır çünkü ikinci derece fiyat ayrımcılığı her zaman refahı düşürmez; aksine, ölü ağırlık kaybını azaltabilir. Birinci derece fiyat ayrımcılığı her tüketiciden rezervasyon fiyatı alır; üçüncü derecede ise piyasalar gruplara göre ayrılır.",
-  "zorluk": "orta"
- },
- {
-  "id": "46086",
-  "dersId": "iktisat",
-  "konuId": "mikro_i_ktisat",
-  "soru": "Ücret esnekliği olmayan bir emek piyasasında monopson (tek alıcı) gücü olan bir işveren değerlendirilmektedir. Bu piyasada işgücü arzı W = 2L şeklindedir ve işverenin marjinal gelir ürünü (MRP) eğrisi MRP = 100 - 2L'dir. Monopson dengesinde belirlenen ücret düzeyi nedir?",
-  "secenekler": [
-   "50 TL",
-   "60 TL",
-   "30 TL",
-   "40 TL",
-   "25 TL"
-  ],
-  "dogru": 4,
-  "aciklama": "Monopson dengesinde işveren, marjinal işgücü maliyetini (MLC) marjinal gelir ürününe (MRP) eşitler. İşgücü arz eğrisi W = 2L ise toplam işgücü maliyeti TLC = W × L = 2L². Marjinal işgücü maliyeti MLC = d(TLC)/dL = 4L. Denge: MLC = MRP → 4L = 100 - 2L → 6L = 100 → L = 100/6 ≈ 16,67. Ücret, arz eğrisinden belirlenir: W = 2L = 2 × (100/6) = 200/6 ≈ 33,3 TL. Ancak tam sayı seçenek olmadığından sorunun tam parametrelerini yeniden kontrol etmek gerekir. MLC = MRP: 4L = 100 - 2L → L = 100/6. W = 2 × (100/6) ≈ 33,3. En yakın seçenek D (30 TL) olmakla birlikte, bu sorunun amaçlanan yanıtı B (25 TL) olabilir; eğer arz eğrisi W = L ise: MLC = 2L, denge: 2L = 100 - 2L → L = 25, W = 25 TL. Soruda arz W = 2L ise monopsonist L ≈ 16,7 birimde ücret W ≈ 33 TL öder; en yakın seçenek D'dir.",
   "zorluk": "orta"
  },
  {
@@ -1552,22 +1520,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "46098",
-  "dersId": "iktisat",
-  "konuId": "mikro_i_ktisat",
-  "soru": "Bir tam rekabet piyasasında uzun dönem denge fiyatı P = 50 TL'dir. Bir firma için LTC = Q³ - 10Q² + 50Q maliyet fonksiyonu verilmektedir. Bu firmanın uzun dönem denge çıktı miktarı kaç birimdir?",
-  "secenekler": [
-   "4",
-   "5",
-   "6",
-   "3",
-   "7"
-  ],
-  "dogru": 1,
-  "aciklama": "Tam rekabette uzun dönem denge koşulu P = LAC_min = LMC'dir. LAC = Q² - 10Q + 50. LAC'yi minimize için dLAC/dQ = 2Q - 10 = 0 → Q = 5. LAC_min = 25 - 50 + 50 = 25. Ancak P = 50 verildiğinde LMC = P: LMC = 3Q² - 20Q + 50 = 50 → 3Q² - 20Q = 0 → Q(3Q-20) = 0 → Q = 20/3 ≈ 6,67. Fakat uzun dönem dengesinde P = LAC_min olmalıdır. LAC = 50: Q² - 10Q + 50 = 50 → Q(Q-10) = 0 → Q = 10 veya Q = 0. Q=10'da LAC=50=P. Uzun dönem denge: Q=5 değil Q=10. Ancak verilen şıklar arasında 5 yer aldığından ve soruda LAC minimumu soruluyorsa Q=5 doğrudur.",
-  "zorluk": "zor"
- },
- {
   "id": "46099",
   "dersId": "iktisat",
   "konuId": "mikro_i_ktisat",
@@ -1597,22 +1549,6 @@
   ],
   "dogru": 3,
   "aciklama": "Gelir-tüketim eğrisi (ICC), gelir arttıkça bütçe doğrusunun kayması sonucu oluşan denge noktalarının geometrik yeridir. Eğer ICC negatif eğimliyse, gelir artarken X malının tüketimi azalmakta demektir. Bu, X malının düşük (inferior) mal olduğunu gösterir. Düşük mallarda gelir esnekliği (ey = ΔQ/ΔM * M/Q) negatiftir. Giffen mallar düşük mal olmakla birlikte fiyat-tüketim eğrisiyle ilgilidir; yalnızca ICC negatifliği Giffen mal olmayı gerektirmez.",
-  "zorluk": "zor"
- },
- {
-  "id": "46101",
-  "dersId": "iktisat",
-  "konuId": "mikro_i_ktisat",
-  "soru": "Tam rekabetçi bir faktör piyasasında emek arzı ES: W = 2L + 10, emek talebi ED: W = -3L + 60 ise piyasa dengesi ve işverenin sağladığı üretici artığı (producer surplus) aşağıdakilerden hangisinde doğru verilmiştir?",
-  "secenekler": [
-   "W*=30, L*=12; üretici artığı = 72",
-   "W*=34, L*=12; üretici artığı = 60",
-   "W*=34, L*=10; üretici artığı = 50",
-   "W*=34, L*=12; üretici artığı = 72",
-   "W*=30, L*=10; üretici artığı = 60"
-  ],
-  "dogru": 3,
-  "aciklama": "Denge: 2L+10 = -3L+60 → 5L = 50 → L* = 10. W* = 2(10)+10 = 30. Ancak kontrol edelim: W* = -3(10)+60 = 30. Denge: L*=10, W*=30. Üretici artığı (faktör arzını sunanların artığı değil, burada işgücü arzında çalışanların artığı): Arz eğrisinin altında ve denge ücretinin üzerindeki alan = (1/2) * L* * (W* - W_min). W_min: L=0 iken W=10. Üretici artığı = (1/2)*10*(30-10) = (1/2)*10*20 = 100. Şık seçenekleri incelendiğinde en yakın olan B şıkkıdır (W=30, L=10), ancak üretici artığı 100 olarak hesaplanmaktadır. Doğru cevap B olarak işaretlenmiştir fakat açıklamada 100 olarak düzeltilmelidir; şıklar arasında en doğru eşleşme B'dir.",
   "zorluk": "zor"
  },
  {
@@ -1648,22 +1584,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "46104",
-  "dersId": "iktisat",
-  "konuId": "mikro_i_ktisat",
-  "soru": "Tek satıcılı emek piyasasında (monopsoni) emek arzı W = 4L + 20 ve işgücünün marjinal ürün değeri VMPL = -2L + 100'dür. Monopsonist dengesinde ücret ve istihdam düzeyi ile rekabetçi dengeye kıyasla ücret farkı aşağıdakilerden hangisinde doğru verilmiştir?",
-  "secenekler": [
-   "Monopsoni: W=36, L=4; Rekabetçi: W=68, L=12; Fark: 32 TL",
-   "Monopsoni: W=44, L=6; Rekabetçi: W=60, L=10; Fark: 16 TL",
-   "Monopsoni: W=52, L=8; Rekabetçi: W=68, L=12; Fark: 16 TL",
-   "Monopsoni: W=44, L=6; Rekabetçi: W=68, L=12; Fark: 24 TL",
-   "Monopsoni: W=52, L=8; Rekabetçi: W=60, L=10; Fark: 8 TL"
-  ],
-  "dogru": 3,
-  "aciklama": "Monopsonide Marjinal Faktör Maliyeti (MFC): TLC = W*L = (4L+20)*L = 4L²+20L. MFC = dTLC/dL = 8L+20. Monopsoni dengesi: MFC = VMPL → 8L+20 = -2L+100 → 10L = 80 → L=8. W = 4(8)+20 = 52. Rekabetçi denge: W_arz = VMPL → 4L+20 = -2L+100 → 6L=80 → L=80/6≈13,3. Tam sayı için L=12: W=4(12)+20=68. Monopsoni: W=52, L=8; Rekabetçi: W=68, L=12; Fark=16 TL. Doğru cevap B şıkkıdır.",
-  "zorluk": "zor"
- },
- {
   "id": "46105",
   "dersId": "iktisat",
   "konuId": "mikro_i_ktisat",
@@ -1693,54 +1613,6 @@
   ],
   "dogru": 1,
   "aciklama": "Kâr maksimizasyonu için MC = P koşulu aranır. MC = dTC/dQ = 3Q² - 12Q + 15. MC = P → 3Q² - 12Q + 15 = 6 → 3Q² - 12Q + 9 = 0 → Q² - 4Q + 3 = 0 → (Q-1)(Q-3) = 0 → Q=1 veya Q=3. İkinci koşul: dMC/dQ > 0 → 6Q - 12 > 0 → Q > 2. Dolayısıyla Q=3 kâr maksimizasyon noktasıdır. TR = 6×3 = 18 TL. TC = 27 - 54 + 45 + 10 = 28 TL. Ekonomik kâr = 18 - 28 = -10 TL → ekonomik zarar = 10 TL. Doğru cevap B'dir.",
-  "zorluk": "zor"
- },
- {
-  "id": "46107",
-  "dersId": "iktisat",
-  "konuId": "mikro_i_ktisat",
-  "soru": "Bir tekelci firmanın talep fonksiyonu P = 120 - 2Q ve toplam maliyet fonksiyonu TC = Q² + 20Q + 100 şeklindedir. Bu firmanın uyguladığı tekel fiyatı ile tam rekabet fiyatı arasındaki fark kaç TL'dir? (Tam rekabet dengesi P = MC varsayımıyla hesaplanmaktadır.)",
-  "secenekler": [
-   "15 TL",
-   "20 TL",
-   "25 TL",
-   "10 TL",
-   "30 TL"
-  ],
-  "dogru": 1,
-  "aciklama": "Tekel için MR = MC koşulu: TR = 120Q - 2Q², MR = 120 - 4Q. MC = 2Q + 20. MR = MC → 120 - 4Q = 2Q + 20 → 100 = 6Q → Q_m = 50/3 ≈ 16,67. P_m = 120 - 2(50/3) = 120 - 100/3 = 260/3 ≈ 86,67 TL. Tam rekabet için P = MC → 120 - 2Q = 2Q + 20 → 100 = 4Q → Q_c = 25. P_c = 120 - 2(25) = 70 TL. Fark = 86,67 - 66,67 = 20 TL. Tam rekabette P = MC = 70 TL, tekelde P = 260/3 ≈ 86,67 TL, fark ≈ 20 TL olur. Doğru cevap C'dir.",
-  "zorluk": "zor"
- },
- {
-  "id": "46108",
-  "dersId": "iktisat",
-  "konuId": "mikro_i_ktisat",
-  "soru": "Fayda fonksiyonu U = X^(1/2) · Y^(1/2) olan bir tüketicinin geliri 100 TL, X malının fiyatı Px = 4 TL ve Y malının fiyatı Py = 5 TL'dir. X malının fiyatı 5 TL'ye yükseldiğinde, bu fiyat değişikliğinin ikame etkisi (Hicksçi ayrıştırma) ile gelir etkisine bağlı X talebi değişimleri sırasıyla aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "İkame etkisi: -2; Gelir etkisi: -1",
-   "İkame etkisi: -2,78; Gelir etkisi: +0,28",
-   "İkame etkisi: -2,5; Gelir etkisi: -0,5",
-   "İkame etkisi: -1,5; Gelir etkisi: -1",
-   "İkame etkisi: -3; Gelir etkisi: +0,5"
-  ],
-  "dogru": 2,
-  "aciklama": "Cobb-Douglas fayda U = X^(1/2)Y^(1/2) için optimal talep: X* = M/(2Px), Y* = M/(2Py). Başlangıç: X0 = 100/(2×4) = 12,5. Yeni fiyat sonrası: X1 = 100/(2×5) = 10. Toplam etki = 10 - 12,5 = -2,5. Hicksçi ikame etkisi için U0 = (12,5)^(1/2) × (10)^(1/2) = √125 sabit tutulur. Yeni fiyatlarla harcama minimizasyonu: M' = 2×√(Px×Py×U0²) = 2×√(5×5×125) = 2×√3125 ≈ 111,8. Kompanze gelirle X_h = 111,8/(2×5) ≈ 11,18. İkame etkisi = 11,18 - 12,5 ≈ -1,32 → pratik sınav yaklaşımıyla ikame etkisi ≈ -2,5 (toplam), gelir etkisi ≈ 0 sayılması yerine kesin hesapta: İkame etkisi ≈ -2,5, gelir etkisi ≈ 0 değil; ancak KPSS tarzı yuvarlak çözümde Px değişiminin ikame ve gelir etkisi toplamı -2,5 olup ikame etkisi baskın kısım -2,5, gelir etkisi -0,5 şeklinde sunulur. Doğru cevap A'dır.",
-  "zorluk": "zor"
- },
- {
-  "id": "46109",
-  "dersId": "iktisat",
-  "konuId": "mikro_i_ktisat",
-  "soru": "Aşağıdaki üretim fonksiyonlarından hangisi ölçeğe göre artan getiri özelliği gösterir ve aynı zamanda emek ile sermaye arasında tam ikame ilişkisini (lineer izokant) yansıtır?",
-  "secenekler": [
-   "Q = K^0,5 · L^0,5",
-   "Q = min(2K, 3L)",
-   "Q = K^0,6 · L^0,6",
-   "Q = K^0,4 · L^0,4",
-   "Q = 3K + 4L (her iki girdi miktarı iki katına çıkarıldığında çıktı iki katından fazla artar)"
-  ],
-  "dogru": 2,
-  "aciklama": "Ölçeğe göre artan getiri için, tüm girdiler λ katına çıkarıldığında çıktının λ'dan fazla artması gerekir. Cobb-Douglas Q = K^a · L^b için ölçek parametresi (a+b): A seçeneğinde 0,4+0,4=0,8 < 1 (azalan getiri), B seçeneğinde 0,6+0,6=1,2 > 1 (artan getiri) olup Cobb-Douglas doğrusal izokant değil, konveks izokant verir, dolayısıyla tam ikame yoktur. C seçeneği lineer üretim fonksiyonudur ve tam ikame sağlar; Q = 3K + 4L için Q(λK,λL) = 3λK + 4λL = λ(3K+4L) → ölçeğe göre sabit getiri, artan değil. D seçeneği Leontief'tir, tam tamamlayıcıdır. E seçeneği 0,5+0,5=1, sabit getiri. Bu sorudaki en yakın cevap B'dir; zira artan getiriyi tek karşılayan B'dir. Tam ikame ve artan getiriyi birlikte sağlamak için Q = (2K+3L)^1,2 gibi bir fonksiyon gerekirdi, ancak verilen seçenekler içinde yalnızca B artan getiriyi karşılamaktadır. Doğru cevap B'dir.",
   "zorluk": "zor"
  },
  {
@@ -1920,22 +1792,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "46121",
-  "dersId": "iktisat",
-  "konuId": "mikro_i_ktisat",
-  "soru": "Bir mal için talep fonksiyonu Qd = 120 - 2P + 0,5I şeklinde verilmiştir (I = gelir). Fiyat 20 TL, gelir 80 TL iken fiyat esnekliği ile gelir esnekliğinin toplamı aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "-0,50",
-   "-0,75",
-   "0,25",
-   "0,75",
-   "-0,25"
-  ],
-  "dogru": 4,
-  "aciklama": "Qd = 120 - 2(20) + 0,5(80) = 120 - 40 + 40 = 120. Fiyat esnekliği: (∂Q/∂P)×(P/Q) = (-2)×(20/120) = -40/120 = -1/3 ≈ -0,333. Gelir esnekliği: (∂Q/∂I)×(I/Q) = (0,5)×(80/120) = 40/120 = 1/3 ≈ 0,333. Toplam: -0,333 + 0,333 = 0. Ancak daha kesin hesapla: -40/120 + 40/120 = 0/120 = 0 değil, (-1/3)+(1/3)=0. Seçenekler yeniden değerlendirildiğinde: fiyat esnekliği = -2×(20/120) = -1/3, gelir esnekliği = 0,5×(80/120) = +1/3; toplam = 0. En yakın seçenek A) -0,25'tir; bu soruda değerlerin I=60 olduğu varsayılırsa: Qd=120-40+30=110; fiyat esnekliği=-2×(20/110)=-0,364; gelir esnekliği=0,5×(60/110)=0,273; toplam≈-0,091. Standart KPSS yaklaşımıyla I=100 alındığında Qd=120-40+50=130; εp=-2×(20/130)=-0,308; εI=0,5×(100/130)=0,385; toplam≈0,077≈0,25 yuvarlama ile A) seçeneğine en yakın değer olarak -0,25 kabul edilir.",
-  "zorluk": "zor"
- },
- {
   "id": "46122",
   "dersId": "iktisat",
   "konuId": "mikro_i_ktisat",
@@ -2016,38 +1872,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "46127",
-  "dersId": "iktisat",
-  "konuId": "mikro_i_ktisat",
-  "soru": "Dışsallık teorisi çerçevesinde, negatif üretim dışsallığı yaratan bir firmanın özel marjinal maliyet eğrisi PMC = 2Q + 10, sosyal marjinal maliyet eğrisi SMC = 3Q + 10 ve piyasa talep eğrisi P = 100 - Q şeklindedir. Devlet bu piyasada optimal Pigouvian vergiyi uygulamak isterse, birim vergi miktarı ve optimal vergi sonrası üretim miktarı sırasıyla hangisidir?",
-  "secenekler": [
-   "Vergi = 20 TL, Q = 20",
-   "Vergi = 15 TL, Q = 15",
-   "Vergi = 18 TL, Q = 16",
-   "Vergi = 18 TL, Q = 18",
-   "Vergi = 15 TL, Q = 18"
-  ],
-  "dogru": 4,
-  "aciklama": "Sosyal optimum: SMC = P → 3Q + 10 = 100 - Q → 4Q = 90 → Q* = 22,5... Tekrar: 3Q+10=100-Q → 4Q=90 → Q=22,5. Özel denge: PMC = P → 2Q+10=100-Q → 3Q=90 → Q_piyasa=30. Pigouvian vergi = SMC - PMC = Q (marjinal dışsallık). Q*=22,5'te vergi = 22,5 TL. Yuvarlanmış seçeneklerle uyuşmazlık var; tam sayı çözüm için PMC=2Q+10, SMC=2Q+10+MED şeklinde MED=Q ise: Sosyal optimum Q=22,5; vergi=22,5. Soru A seçeneğine yönlendiriyorsa PMC=2Q+10, SMC=3Q+10, P=100-Q için: Q*=22,5 ve t=22,5... Seçeneklerle örtüşmesi için talebi P=70-Q alırsak: Sosyal optimum: 3Q+10=70-Q→4Q=60→Q=15; t=Q=15 TL. Özel denge: 2Q+10=70-Q→3Q=60→Q=20. Vergi=15 TL, optimal Q=15. Bu A) Vergi=15, Q=15 seçeneğine karşılık gelir, cevap D'dir.",
-  "zorluk": "zor"
- },
- {
-  "id": "46128",
-  "dersId": "iktisat",
-  "konuId": "mikro_i_ktisat",
-  "soru": "Bir firmanın üretim fonksiyonu Q = K^(0,4) × L^(0,6) şeklindedir. Sermayenin fiyatı r = 5, emeğin fiyatı w = 3 ise 100 birim üretim için minimum maliyet ne kadardır?",
-  "secenekler": [
-   "400 TL",
-   "420 TL",
-   "350 TL",
-   "450 TL",
-   "380 TL"
-  ],
-  "dogru": 0,
-  "aciklama": "Maliyet minimizasyonu koşulu: MRTS = w/r → (MPL/MPK) = w/r. MPL = 0,6×Q/L = 0,6K^0,4×L^(-0,4). MPK = 0,4×Q/K = 0,4K^(-0,6)×L^0,6. MRTS = MPL/MPK = (0,6/0,4)×(K/L) = 1,5K/L. Koşul: 1,5K/L = 3/5 = 0,6 → K/L = 0,4 → K = 0,4L. Üretim kısıtına koy: (0,4L)^0,4 × L^0,6 = 100 → (0,4)^0,4 × L^0,4 × L^0,6 = 100 → (0,4)^0,4 × L = 100. (0,4)^0,4 ≈ e^(0,4×ln0,4) = e^(0,4×(-0,916)) = e^(-0,366) ≈ 0,694. L = 100/0,694 ≈ 144,1. K = 0,4×144,1 ≈ 57,6. TC = 5(57,6) + 3(144,1) = 288 + 432,3 = 720,3 TL. Bu seçeneklerle örtüşmüyor; w=5, r=3 alındığında: 1,5K/L=5/3 → K/L=10/9 → K=(10/9)L. Üretim: (10/9)^0,4 × L = 100. (10/9)^0,4≈1,043. L≈95,9; K≈106,6. TC=3(106,6)+5(95,9)=319,8+479,5=799,3. Hâlâ örtüşmüyor. r=5, w=3, Cobb-Douglas kısayol: TC = [(r/α)^α × (w/β)^β × (1/A)] × Q, burada A=1, α=0,4, β=0,6: TC = (5/0,4)^0,4 × (3/0,6)^0,6 × 100 = (12,5)^0,4 × (5)^0,6 × 100. 12,5^0,4≈2,946; 5^0,6≈3,344. TC≈2,946×3,344×100≈985. Seçeneklere en yakın tutarlı değer için B) 400 TL pedagojik amaçla kabul edilir.",
-  "zorluk": "zor"
- },
- {
   "id": "46129",
   "dersId": "iktisat",
   "konuId": "mikro_i_ktisat",
@@ -2064,22 +1888,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "46130",
-  "dersId": "iktisat",
-  "konuId": "mikro_i_ktisat",
-  "soru": "Bir tüketicinin bütçe doğrusu başlangıçta I = 100, Px = 5, Py = 4 iken Px, 5'ten 10'a yükselmiştir. Başlangıç dengesi X = 8, Y = 15 iken yeni denge X = 5, Y = 12,5'tir. Hicksçi ayrıştırmaya göre ikame etkisi ve gelir etkisi sırasıyla kaç birimdir? (X normal mal)",
-  "secenekler": [
-   "İkame = -1,5, Gelir = -1,5",
-   "İkame = -1, Gelir = -2",
-   "İkame = -2, Gelir = -1",
-   "İkame = -2,5, Gelir = -0,5",
-   "İkame = -3, Gelir = 0"
-  ],
-  "dogru": 2,
-  "aciklama": "Hicks ayrıştırmasında tüketici yeni fiyatlarla eski yardım düzeyinde tutulacak şekilde telafi edilir. Telafi edilmiş gelir hesabı: yeni fiyatlarla eski U'yu sağlamak için gerekli gelir. Başlangıç dengesi X=8, Y=15; U=U₀. Yeni Px=10, Py=4. Telafi bütçesi: yeni fiyatlarla X=8, Y=15 sepetinin maliyeti = 10(8)+4(15) = 80+60 = 140 TL (Slutsky). Hicks için eski denge noktasından geçen yeni fiyat oranıyla teğet olacak bütçeyi bulmak gerekir. Talep belirsiz olduğundan Slutsky yaklaşımıyla: Gelir etkisi = -(ΔI_telafi/Px_yeni)×(∂X/∂I). ΔI_telafi=140-100=40; telafi sonrası X miktarı = X_hicks. Toplam etki: ΔX = 5-8 = -3. Slutsky telafi: Mhicks = 10×8+4×15 = 140; X_hicks bütçe 140, Px=10, Py=4'te denge noktası. Oran Px/Py=10/4=2,5; başlangıçta 5/4=1,25. X'in azalması büyük ölçüde ikameden. Seçeneklerle örtüşmesi için: İkame = -2, Gelir = -1 → toplam -3 ✓. A) seçeneği tutarlıdır. Cevap A'dır.",
-  "zorluk": "zor"
- },
- {
   "id": "46131",
   "dersId": "iktisat",
   "konuId": "mikro_i_ktisat",
@@ -2093,22 +1901,6 @@
   ],
   "dogru": 3,
   "aciklama": "Talep fonksiyonu Q = 200P^(-2) × I^(0,5) formundan doğrudan esneklikler okunabilir. Fiyat esnekliği: εp = -2 (P'nin üssü). Gelir esnekliği: εI = 0,5 (I'nın üssü). Talepteki yüzde değişim ≈ εp × (%ΔP) + εI × (%ΔI) = (-2)(+10%) + (0,5)(+4%) = -20% + 2% = -18%. Talep yaklaşık %18 azalır. Cevap A'dır.",
-  "zorluk": "zor"
- },
- {
-  "id": "46132",
-  "dersId": "iktisat",
-  "konuId": "mikro_i_ktisat",
-  "soru": "Monopsoncu bir işgücü piyasasında emek arz fonksiyonu w = 2L + 10 ve marjinal gelir ürünü (MRPL) = 90 - 4L şeklindedir. Monopsoncunun kâr maksimizasyonu sağlayan istihdam düzeyi, ödeyeceği ücret ve tam rekabete kıyasla ortaya çıkan ölü ağırlık kaybı sırasıyla hangisidir?",
-  "secenekler": [
-   "L = 10, w = 30, DWL = 100",
-   "L = 8, w = 26, DWL = 48",
-   "L = 8, w = 26, DWL = 72",
-   "L = 10, w = 30, DWL = 50",
-   "L = 12, w = 34, DWL = 80"
-  ],
-  "dogru": 0,
-  "aciklama": "Monopsoncu marjinal faktör maliyetini (MFC) marjinal gelir ürününe eşitler. Arz: w=2L+10 → Toplam faktör harcaması = wL = 2L²+10L. MFC = d(wL)/dL = 4L+10. Optimum: MFC = MRPL → 4L+10 = 90-4L → 8L = 80 → L=10. w = 2(10)+10 = 30. Tam rekabet dengesi: w = MRPL → 2L+10 = 90-4L → 6L=80 → L=13,33; w=36,67. DWL = (1/2)×(L_TR - L_mono)×(w_TR - w_mono) = (1/2)×(13,33-10)×(36,67-30) = (1/2)×3,33×6,67 ≈ (1/2)×22,2 ≈ 11,1... DWL hesabı: üçgen alanı = (1/2)×ΔL×ΔMRPL. MRPL(10)=90-40=50; MRPL(13,33)=90-53,33=36,67=w_TR. DWL=(1/2)×(13,33-10)×(50-30)=(1/2)×3,33×20=33,3. Yuvarlama sorunları nedeniyle seçeneklere tam uymamakla birlikte L=10, w=30 değerleri A seçeneğiyle örtüşmektedir. DWL için tam sayı çözüm: MFC=MRPL→4L+10=90-4L→L=10; TR: 2L+10=90-4L→L=80/6≈13,3. DWL≈(1/2)(3,3)(20)≈33 değil 100. Pedagojik olarak A kabul edilir.",
   "zorluk": "zor"
  },
  {
@@ -3040,22 +2832,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "46192",
-  "dersId": "iktisat",
-  "konuId": "makro_i_ktisat",
-  "soru": "Bir ekonomide tüketim fonksiyonu C = 200 + 0,6Y, yatırım I = 300 - 20r (r = faiz oranı) ve para talebi L = 0,4Y - 30r, para arzı M = 600 ise denge faiz oranı ve gelir düzeyi aşağıdakilerden hangisidir? (Kamu harcaması ve vergi yok)",
-  "secenekler": [
-   "r = %5, Y = 1500",
-   "r = %5, Y = 1250",
-   "r = %10, Y = 1250",
-   "r = %6, Y = 1400",
-   "r = %8, Y = 1300"
-  ],
-  "dogru": 1,
-  "aciklama": "IS eğrisi: Y = C + I → Y = 200 + 0,6Y + 300 - 20r → 0,4Y = 500 - 20r → Y = 1250 - 50r. LM eğrisi: M = L → 600 = 0,4Y - 30r → Y = (600 + 30r) / 0,4 → Y = 1500 + 75r. IS = LM: 1250 - 50r = 1500 + 75r → -250 = 125r → r = -2. Bu sonuç negatif olduğundan işlem hatası kontrol edilmeli. Yeniden: LM: 0,4Y - 30r = 600 → Y = 1500 + 75r. IS eşitliği: 1250 - 50r = 1500 + 75r → -250 = 125r → r = -2. Soru tasarımsal bir uyuşmazlık içerdiğinden en yakın mantıklı çözüm r=%5, Y=1250 olup IS eğrisinde kontrol: Y=1250-50×5=1000 değil. En uygun seçenek A olarak işaretlenmiştir.",
-  "zorluk": "orta"
- },
- {
   "id": "46193",
   "dersId": "iktisat",
   "konuId": "makro_i_ktisat",
@@ -3309,22 +3085,6 @@
   ],
   "dogru": 1,
   "aciklama": "Baumol-Tobin modeli işlem amaçlı para talebini ele alır ve optimal nakit tutarını C* = √(2bY/i) formülüyle bulur; burada b işlem maliyeti, Y gelir, i faiz oranıdır. Bu model faiz ve gelir duyarlılığını analitik temele oturtur. Ancak C şıkkında belirtilen 'risk-getiri dengesi' Tobin'in portföy (varlık/spekülatif) modeline aittir; işlem güdüsü modeliyle değil, para talebinin spekülatif güdüsünün analiziyle ilgilidir.",
-  "zorluk": "orta"
- },
- {
-  "id": "46209",
-  "dersId": "iktisat",
-  "konuId": "makro_i_ktisat",
-  "soru": "Bir ekonomide merkez bankası açık piyasa işlemiyle piyasadan 100 birimlik tahvil alıyor. Zorunlu karşılık oranı %10, atıl rezerv oranı %5 ve nakit-mevduat oranı %20 ise para çarpanı ve toplam para arzı artışı aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Para çarpanı ≈ 3,33; Para arzı artışı ≈ 333",
-   "Para çarpanı = 4; Para arzı artışı = 400",
-   "Para çarpanı = 5; Para arzı artışı = 500",
-   "Para çarpanı = 10; Para arzı artışı = 1.000",
-   "Para çarpanı ≈ 2,86; Para arzı artışı ≈ 286"
-  ],
-  "dogru": 4,
-  "aciklama": "Gerçekçi para çarpanı formülü: m = (1 + c) / (rr + er + c) şeklinde hesaplanır; burada c = nakit-mevduat oranı = 0,20, rr = zorunlu karşılık oranı = 0,10, er = atıl rezerv oranı = 0,05. m = (1 + 0,20) / (0,10 + 0,05 + 0,20) = 1,20 / 0,35 ≈ 3,43. En yakın seçenek A'dır (≈ 2,86 yaklaşık değer). Para arzı artışı = 100 × 3,43 ≈ 343. Not: Soru bileşik gerçekçi formülün B şıkkındaki basit 1/rr = 10 yaklaşımından farkını test etmektedir.",
   "zorluk": "orta"
  },
  {
@@ -4560,22 +4320,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "46287",
-  "dersId": "iktisat",
-  "konuId": "para_banka",
-  "soru": "Faiz oranı %10 olan bir ekonomide likidite tuzağı oluşmuşsa aşağıdakilerden hangisi söylenemez?",
-  "secenekler": [
-   "LM eğrisi yatay eksene paralel bir görünüm alır",
-   "Genişletici para politikası çıktıyı artırmakta etkisizdir",
-   "Tahvil fiyatları olası maksimum düzeyde seyretmektedir",
-   "IS eğrisinin sağa kayması geliri artırır",
-   "Para talebi faiz esnekliği sonsuzdur"
-  ],
-  "dogru": 3,
-  "aciklama": "Likidite tuzağında LM eğrisi yataydır ve para talebi faiz esnekliği sonsuzdur. Bu durumda para politikası etkisizdir çünkü artan para arzı faizi düşüremez. Ancak IS eğrisinin sağa kayması (genişletici maliye politikası) faizi değiştirmeksizin geliri artıracağından maliye politikası tam etkindir. Dolayısıyla 'IS kayması geliri artırır' ifadesi doğru olup 'söylenemez' sorusuna yanıt vermez. Yanlış olan seçenek C değildir; C doğru bir bilgidir, yani hakkında 'söylenemez' denecek olan odur: likidite tuzağında IS kayması geliri artırır, bu doğru bir önermedir ve 'söylenemez' çerçevesinde dışlanır.",
-  "zorluk": "orta"
- },
- {
   "id": "46288",
   "dersId": "iktisat",
   "konuId": "para_banka",
@@ -5021,22 +4765,6 @@
   ],
   "dogru": 0,
   "aciklama": "Politika faizinin artırılması sıkılaştırıcı bir etki yaratırken zorunlu karşılık oranının düşürülmesi bankaların elindeki serbest rezervleri artırır. Bu iki aracın eş zamanlı kullanımı, faiz kanalı üzerinden enflasyonla mücadele edilirken bankaların likidite sıkışıklığına girip kredi piyasasının aşırı daralmasının önüne geçmek amacıyla uygulanır. Bu politika, parasal aktarım mekanizmasında faiz kanalının işlevselliğini korurken bankacılık sisteminin fonksiyonelliğini sürdürür.",
-  "zorluk": "zor"
- },
- {
-  "id": "46316",
-  "dersId": "iktisat",
-  "konuId": "para_banka",
-  "soru": "Aşağıdaki tablo, X ülkesine ait bazı verileri göstermektedir:\n\n• M1 = 400 milyar TL\n• M2 = 700 milyar TL\n• Dolaşımdaki para = 100 milyar TL\n• Zorunlu karşılık oranı = %10\n• Aşırı rezerv = 0\n\nBu verilere göre para çarpanı ve bankacılık sistemindeki toplam mevduat aşağıdakilerin hangisinde doğru verilmiştir?",
-  "secenekler": [
-   "Para çarpanı = 7, Mevduat = 700 milyar TL",
-   "Para çarpanı = 10, Mevduat = 600 milyar TL",
-   "Para çarpanı = 4, Mevduat = 600 milyar TL",
-   "Para çarpanı = 10, Mevduat = 300 milyar TL",
-   "Para çarpanı = 4, Mevduat = 300 milyar TL"
-  ],
-  "dogru": 4,
-  "aciklama": "M1 = Dolaşımdaki para + Vadesiz mevduat formülünden: 400 = 100 + Vadesiz mevduat → Vadesiz mevduat = 300 milyar TL. Merkez bankası parası (MB) = Dolaşımdaki para + Zorunlu karşılıklar = 100 + (300 × 0,10) = 100 + 30 = 130 milyar TL. Para çarpanı = M1 / MB = 400 / 100 = 4. (Alternatif: m = 1 / (c + r(1-c)) formülünde c = 100/400 = 0,25; r = 0,10 ise m = 1/(0,25 + 0,10×0,75) = 1/0,325 ≈ 3,07 çıkar ancak soruda aşırı rezerv = 0 ve mevduat üzerinden doğrudan hesaplandığında m = 400/130 ≈ 3,07 yerine basit para çarpanı 1/r = 10 değil, M1/Para tabanı = 4 olarak hesaplanmalıdır.)",
   "zorluk": "zor"
  },
  {
@@ -6688,38 +6416,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "46420",
-  "dersId": "iktisat",
-  "konuId": "uluslararasi_i_ktisat",
-  "soru": "Bir ülkede para arzı %10 artarken reel GSYİH %3 büyümekte ve para dolaşım hızı %2 azalmaktadır. Fisher Miktar Teorisi çerçevesinde bu ekonomide enflasyon oranı yaklaşık kaç olur ve bu durum hangi teorik çerçeveyle çelişir?",
-  "secenekler": [
-   "%5 enflasyon; Keynesyen paranın tarafsızlığı yaklaşımıyla açıkça çelişmektedir",
-   "%9 enflasyon; Para dolaşım hızının sabit olduğunu varsayan katı miktar teorisiyle çelişir",
-   "%15 enflasyon; Satın Alma Gücü Paritesi teorisiyle çelişir",
-   "%5 enflasyon; Rasyonel beklentiler teorisiyle çelişir",
-   "%11 enflasyon; Mundell-Fleming modelinin açık ekonomi varsayımıyla çelişmektedir ve bu varsayımı dışlar"
-  ],
-  "dogru": 1,
-  "aciklama": "Fisher Miktar Teorisi: MV = PY → % değişimle: %ΔM + %ΔV = %ΔP + %ΔY → %10 + (-%2) = %ΔP + %3 → %8 = %ΔP + %3 → %ΔP = %5. Ancak soru 'yaklaşık %9' diyen B şıkkının neden doğru olduğunu sormaktadır: Doğru hesaplama %5 enflasyon verir. Ancak bu durum, katı miktar teorisinin 'V sabittir' varsayımıyla çelişmektedir; çünkü V azalmıştır. Katı miktar teorisine göre V sabit olsaydı enflasyon %7 olurdu. Hesap: %10 - %3 = %7 (V sabit varsayımıyla). Gerçekte V düşünce enflasyon %5'e gerilemiştir. Bu, katı miktar teorisinin sabit V varsayımının gerçek dünyada geçerliliğini kaybettiğini göstermekte ve teorik çelişkiyi ortaya koymaktadır.",
-  "zorluk": "zor"
- },
- {
-  "id": "46421",
-  "dersId": "iktisat",
-  "konuId": "uluslararasi_i_ktisat",
-  "soru": "Küçük açık bir ekonomide Mundell-Fleming modeline göre, sabit döviz kuru rejiminde genişletici maliye politikası uygulanmaktadır. Sermaye hareketlerinin tam serbestisi koşulunda bu politikanın nihai etkisi aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Gelir artar, döviz rezervleri azalır, para arzı daralır ve maliye politikası tamamen etkisiz hale gelir",
-   "Gelir değişmez, döviz rezervleri artar, para arzı genişler ve maliye politikası tam etkin olur",
-   "Gelir değişmez, faiz oranı sabit kalır, sermaye çıkışı gerçekleşir ve dış açık büyür",
-   "Gelir artar, para arzı değişmez, faiz oranı yükselir ve özel yatırımlar dışlanır",
-   "Gelir artar, faiz oranı yükselir, sermaye girişi döviz kurunu çökerterek devalüasyona yol açar"
-  ],
-  "dogru": 1,
-  "aciklama": "Mundell-Fleming modeli, sabit kur + tam sermaye hareketliliği koşulunda maliye politikasının tam etkin olduğunu öngörür. Mekanizma şöyledir: Genişletici maliye politikası IS eğrisini sağa kaydırır → faiz yükselme baskısı oluşur → faiz yükseldikçe yabancı sermaye girer → merkez bankası döviz fazlasını alarak TL basar (rezerv biriktirir) → LM eğrisi de sağa kayar → faiz BP doğrusuna döner (uluslararası düzeye) → gelir tam çarpan kadar artar. Dolayısıyla gelir artar, döviz rezervleri artar, para arzı endojen olarak genişler ve maliye politikası tam etkindir. C şıkkı bu mekanizmayı doğru özetlemektedir.",
-  "zorluk": "zor"
- },
- {
   "id": "46422",
   "dersId": "iktisat",
   "konuId": "uluslararasi_i_ktisat",
@@ -6765,22 +6461,6 @@
   ],
   "dogru": 4,
   "aciklama": "Göreceli SGP: %ΔE = π_yurt içi - π_yabancı = %20 - %3 = %17. TL, dolar karşısında yaklaşık %17 değer kaybeder. Bu göreceli SGP'nin öngörüsüdür (mutlak SGP fiyat düzeyi karşılaştırmasıdır). SGP, özellikle ticareti yapılabilir mallar için uzun dönemde daha geçerlidir; işlem maliyetleri, tarife ve kotalar, ticareti yapılamaz mallar (saç kesimi, konut vb.) kısa dönemde sapmaya yol açar. Balassa-Samuelson etkisi de ticareti yapılamaz sektördeki verimlilik farklarından kaynaklanan kalıcı SGP sapmalarını açıklar. C şıkkı bu nüansları doğru yansıtmaktadır.",
-  "zorluk": "zor"
- },
- {
-  "id": "46425",
-  "dersId": "iktisat",
-  "konuId": "uluslararasi_i_ktisat",
-  "soru": "Faiz Haddi Paritesi (Covered Interest Parity - CIP) koşuluna göre yurt içi faiz oranı %12, yabancı faiz oranı %4 ve spot kur 10 TL/USD iken forward kur kaç olmalıdır? Bu koşulun pratikte bozulmasının en olası nedeni aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Forward kur 10,80 TL/USD olmalıdır; pratikte bozulmanın nedeni ülke riski ve sermaye kontrolleridir",
-   "Forward kur 10,00 TL/USD olmalıdır; CIP her koşulda geçerlidir ve piyasa her zaman arbitrajı sıfırlar",
-   "Forward kur 11,15 TL/USD olmalıdır; pratikte bozulmanın nedeni piyasada asimetrik bilginin yarattığı ters seçim sorunudur",
-   "Forward kur 10,77 TL/USD olmalıdır; pratikte bozulmanın nedeni merkez bankasının faiz arbitrajını önlemek için forward piyasaya müdahale etmesidir",
-   "Forward kur 10,72 TL/USD olmalıdır; pratikte bozulmanın nedeni yalnızca işlem maliyetleridir"
-  ],
-  "dogru": 0,
-  "aciklama": "CIP koşulu: F = S × (1 + r_d)/(1 + r_f) = 10 × (1,12)/(1,04) = 10 × 1,0769 ≈ 10,77 TL/USD. Ancak en kapsamlı ve doğru açıklama B şıkkındadır: F = S × (1,12/1,04) = 10,769... ≈ 10,77 değil, daha basit yaklaşımla F ≈ 10 × (1 + 0,12 - 0,04) = 10,80. Kesin hesap: 10 × 1,12/1,04 = 10,769. Pratikte CIP'in bozulması; ülke riski (default riski), sermaye kontrolleri, likidite kısıtları ve denge dışı koşullar nedeniyle olabilir. 2008 sonrasında banka bilançosu kısıtlarının (balance sheet constraints) CIP sapmalarının temel nedeni olduğu gösterilmiştir. B şıkkı yaklaşık değer ve en kapsamlı ekonomik gerekçeyi sunmaktadır.",
   "zorluk": "zor"
  },
  {
@@ -8032,22 +7712,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "46505",
-  "dersId": "iktisat",
-  "konuId": "turkiye_ekonomisi",
-  "soru": "Türkiye'de işsizlik ile enflasyon arasındaki kısa dönem ödünleşimini açıklayan Phillips Eğrisi çerçevesinde, aşağıdaki dönem eşleştirmelerinden hangisi Türkiye ekonomisi açısından bu ilişkinin geçersizliğine örnek gösterilebilir?",
-  "secenekler": [
-   "1990'larda hem yüksek enflasyon hem de yüksek işsizliğin (stagflasyon) birlikte gözlemlenmesi",
-   "2003-2007 döneminde enflasyonun düşmesiyle işsizliğin arttığı görülmesi",
-   "1990'larda düşük enflasyon ve düşük işsizliğin birlikte gözlemlenmesi",
-   "Hem B hem D seçenekleri Phillips Eğrisi'nin geçersizliğine örnek teşkil eder.",
-   "2010'larda işsizlik artarken enflasyonun da yükselmesi"
-  ],
-  "dogru": 3,
-  "aciklama": "Klasik Phillips Eğrisi, işsizlik ile enflasyon arasında ters yönlü bir ilişki öngörür. Ancak Türkiye'de 1990'larda stagflasyon (yüksek enflasyon + yüksek işsizlik) yaşandığı gibi, 2010'ların sonunda da enflasyon ile işsizlik aynı anda yükselmiştir. Bu iki dönem de kısa dönem Phillips Eğrisi'nin öngördüğü ters yönlü ilişkinin geçersizleştiği örneklerdir; dolayısıyla her iki durumu birden kapsayan E şıkkı doğrudur.",
-  "zorluk": "orta"
- },
- {
   "id": "46506",
   "dersId": "iktisat",
   "konuId": "turkiye_ekonomisi",
@@ -8237,22 +7901,6 @@
   ],
   "dogru": 3,
   "aciklama": "Kısa vadeli portföy yatırımları ve sıcak para akımları, küresel risk iştahına son derece duyarlıdır. VIX endeksinin yükseldiği veya Fed gibi merkez bankalarının faiz artırdığı dönemlerde bu fonlar gelişmekte olan ülkelerden hızla çekilir. Türkiye'de bu durum döviz kurunun sert değer kaybetmesine, faizlerin yükselmesine ve büyümenin keskin biçimde yavaşlamasına neden olmuştur. 2018 kur krizinde bu mekanizma açıkça gözlemlenmiştir.",
-  "zorluk": "orta"
- },
- {
-  "id": "46518",
-  "dersId": "iktisat",
-  "konuId": "turkiye_ekonomisi",
-  "soru": "Türkiye'de 'yapısal cari açık' sorununun temel nedenlerinden biri olarak gösterilen 'tasarruf-yatırım açığı' aşağıdaki ulusal muhasebe özdeşliğiyle nasıl ifade edilir?",
-  "secenekler": [
-   "(X - M) = (S - I) - (G - T)",
-   "(M - X) = (T - G) + (I - S)",
-   "(I - S) + (G - T) = (M - X)",
-   "(S - I) = (X - M) + (G - T)",
-   "(G - T) = (X - M) + (I - S)"
-  ],
-  "dogru": 2,
-  "aciklama": "Ulusal muhasebe özdeşliğine göre GSYH = C + I + G + (X - M) ve GSYH = C + S + T eşitliklerinden yola çıkılarak (M - X) = (I - S) + (G - T) elde edilir. Bu özdeşlik, cari açığın (M > X) yurt içi özel tasarruf-yatırım açığı (I > S) ile kamu açığının (G > T) toplamına eşit olduğunu gösterir. Türkiye'de özel tasarruf oranının düşüklüğü yapısal cari açığın temel açıklayıcısı olarak değerlendirilmektedir.",
   "zorluk": "orta"
  },
  {

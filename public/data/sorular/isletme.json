@@ -1536,22 +1536,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "52098",
-  "dersId": "isletme",
-  "konuId": "yonetim_organizasyon",
-  "soru": "Fiedler'in Durumsallık Modeli'ne göre liderlik etkinliği, lider-üye ilişkisi, görev yapısı ve pozisyon gücü değişkenleriyle belirlenen durum elverişliliğine bağlıdır. Aşağıdaki senaryolardan hangisinde ilişki odaklı (LPC skoru yüksek) bir lider, görev odaklı liderden daha etkin olur?",
-  "secenekler": [
-   "Lider-üye ilişkisi iyi, görev yapılandırılmış, pozisyon gücü yüksek",
-   "Lider-üye ilişkisi zayıf, görev yapılandırılmış, pozisyon gücü yüksek",
-   "Lider-üye ilişkisi iyi, görev yapılandırılmamış, pozisyon gücü düşük",
-   "Lider-üye ilişkisi iyi, görev yapılandırılmış, pozisyon gücü düşük",
-   "Lider-üye ilişkisi zayıf, görev yapılandırılmamış, pozisyon gücü düşük"
-  ],
-  "dogru": 2,
-  "aciklama": "Fiedler'in modelinde görev odaklı liderler (düşük LPC) çok elverişli (Oktant I, II, III) veya çok elverişsiz (Oktant VIII) durumlarda daha etkindir. İlişki odaklı liderler (yüksek LPC) ise orta derecede elverişli durumlarda (Oktant IV, V, VI) daha başarılıdır. 'Lider-üye ilişkisi iyi, görev yapılandırılmamış, pozisyon gücü düşük' senaryosu orta elverişliliği temsil eder (Oktant IV-V bandı): iyi ilişkiler olumlu katkı sağlar ancak yapısızlık ve düşük güç genel elverişliliği orta düzeyde tutar. Bu koşulda ilişki odaklı lider avantajlıdır.",
-  "zorluk": "zor"
- },
- {
   "id": "52099",
   "dersId": "isletme",
   "konuId": "yonetim_organizasyon",
@@ -2093,22 +2077,6 @@
   ],
   "dogru": 0,
   "aciklama": "Darboğaz, üretim sürecindeki en düşük kapasiteye sahip iş istasyonudur ve tüm sistemin verimliliğini belirler. Kısıtlar Teorisi'ne (Theory of Constraints) göre darboğaz tespit edilip giderilmeden genel üretim hızı artırılamaz.",
-  "zorluk": "kolay"
- },
- {
-  "id": "52133",
-  "dersId": "isletme",
-  "konuId": "uretim",
-  "soru": "Bir işletme yılda 10.000 birim ürün satmaktadır. Bir sipariş maliyeti 500 TL, birim başına yıllık elde bulundurma maliyeti 100 TL ise ekonomik sipariş miktarı (ESM) kaç birimdir?",
-  "secenekler": [
-   "250",
-   "100",
-   "300",
-   "500",
-   "200"
-  ],
-  "dogru": 4,
-  "aciklama": "ESM = √(2 × D × S / H) = √(2 × 10.000 × 500 / 100) = √(10.000.000 / 100) = √100.000 ≈ 316 değil; √(2×10.000×500/100) = √(100.000) = 316'dır. Ancak seçenekler arasında 316 yoktur; doğru hesaplama: √(2×10.000×500/100) = √100.000 ≈ 316. Bu soru için seçenekler yeniden düzenlendiğinde en yakın doğru seçenek B) 200 değil, doğru cevap hesaplamayla 316'dır; ancak soru seçenekleri arasında en yakın standart ESM uygulaması olarak B) seçilmiştir. Not: D=10.000, S=500, H=100 → ESM=√(10.000.000/100)=√100.000≈316. Standart sınav formatında bu verilerle ESM=316 çıkar; B)200 seçeneği sıkça karıştırılan yaklaşık değeri temsil eder.",
   "zorluk": "kolay"
  },
  {
@@ -2816,38 +2784,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "52179",
-  "dersId": "isletme",
-  "konuId": "uretim",
-  "soru": "Bir işletme, yıllık talebi 10.000 birim olan bir ürün üretmektedir. Sipariş maliyeti her sipariş için 250 TL, yıllık birim başına stok tutma maliyeti 5 TL'dir. İşletme şu anda 1.000 birimlik sabit sipariş miktarı kullanmaktadır. Ekonomik sipariş miktarına (ESM) geçilmesi durumunda yıllık toplam stok maliyetindeki değişim aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "1.500 TL azalır",
-   "750 TL azalır",
-   "1.000 TL azalır",
-   "1.250 TL azalır",
-   "500 TL azalır"
-  ],
-  "dogru": 1,
-  "aciklama": "ESM = √(2DS/H) = √(2×10.000×250/5) = √1.000.000 = 1.000 birim. Beklenmedik şekilde ESM = 1.000 çıkmaktadır ancak formülü kontrol edelim: D=10.000, S=250, H=5. ESM=√(2×10.000×250/5)=√1.000.000=1.000. Mevcut miktar da 1.000 olduğundan fark yokmuş gibi görünür. Soruyu yeniden değerlendirelim: H=5 TL ise ESM=1.000 birim. Mevcut durum maliyeti: (1.000/2)×5 + (10.000/1.000)×250 = 2.500 + 2.500 = 5.000 TL. ESM=1.000 iken maliyet aynı kalır. Ancak stok tutma maliyeti 5 TL yerine 8 TL olsaydı ESM farklı çıkardı. Bu soru yapısında H=5 TL ve mevcut sipariş 2.000 birim olarak düşünüldüğünde: ESM=1.000, Mevcut maliyet=(2.000/2)×5+(10.000/2.000)×250=5.000+1.250=6.250 TL; ESM maliyeti=(1.000/2)×5+(10.000/1.000)×250=2.500+2.500=5.000 TL; Fark=750 TL azalır. Doğru yanıt B'dir.",
-  "zorluk": "zor"
- },
- {
-  "id": "52180",
-  "dersId": "isletme",
-  "konuId": "uretim",
-  "soru": "Bir üretim sürecinde günlük üretim hızı 500 birim, günlük talep hızı 200 birim, yıllık talep 50.000 birim, sipariş başına kurulum maliyeti 400 TL ve yıllık birim stok tutma maliyeti 4 TL'dir. Üretim Sipariş Miktarı (USM) modeli kullanıldığında yıllık toplam maliyet aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "12.000 TL",
-   "10.400 TL",
-   "8.000 TL",
-   "14.400 TL",
-   "9.600 TL"
-  ],
-  "dogru": 4,
-  "aciklama": "USM = √(2DS/H × p/(p-d)) burada p=günlük üretim=500, d=günlük talep=200, D=50.000, S=400, H=4. USM = √(2×50.000×400/4 × 500/(500-200)) = √(10.000.000 × 500/300) = √(16.666.667) ≈ 4.082 birim. Maksimum stok = USM×(1-d/p) = 4.082×(1-200/500) = 4.082×0,6 = 2.449 birim. Ortalama stok = 2.449/2 = 1.224,5 birim. Stok tutma maliyeti = 1.224,5×4 = 4.898 TL. Kurulum maliyeti = (50.000/4.082)×400 = 12,25×400 = 4.900 TL. Toplam ≈ 9.798 ≈ 9.600 TL (yuvarlamalar nedeniyle). Doğru yanıt B'dir.",
-  "zorluk": "zor"
- },
- {
   "id": "52181",
   "dersId": "isletme",
   "konuId": "uretim",
@@ -3088,22 +3024,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "52196",
-  "dersId": "isletme",
-  "konuId": "uretim",
-  "soru": "Bir işletmede Poka-Yoke uygulaması kapsamında kalite kontrol verileri incelenmiştir. Günlük 2.000 birim üreten hattın altı aylık süreçte toplam 540 hatalı birim ürettiği, bu hataların %60'ının son montaj, %25'inin yarı mamul ve %15'inin hammadde aşamasında tespit edildiği görülmektedir. Hata başına düzeltme maliyeti aşamalara göre sırasıyla 500, 200 ve 50 TL'dir. Eğer Poka-Yoke ile hataların tamamı hammadde aşamasında önlense, işletme mevcut duruma kıyasla altı ayda ne kadar tasarruf eder?",
-  "secenekler": [
-   "243.000 TL",
-   "270.000 TL",
-   "162.000 TL",
-   "194.400 TL",
-   "218.700 TL"
-  ],
-  "dogru": 4,
-  "aciklama": "Mevcut toplam maliyet: Son montaj hataları = 540×0,60×500 = 162.000 TL; yarı mamul hataları = 540×0,25×200 = 27.000 TL; hammadde hataları = 540×0,15×50 = 4.050 TL. Toplam = 193.050 TL. Poka-Yoke sonrası tüm 540 hata hammadde aşamasında önlenir → maliyet = 540×50 = 27.000 TL (tespit maliyeti olarak kalır) ancak 'önleme' durumunda düzeltme maliyeti sıfıra yaklaşır; standart KPSS yaklaşımıyla tüm hataların hammadde maliyetiyle bertaraf edilmesi = 540×50 = 27.000 TL. Tasarruf = 193.050 - 27.000 = 166.050 ≈ seçenekler arasında 218.700 TL en yakın mantıksal hesaplamadır. Not: Eğer tespit maliyetleri sıfır kabul edilip önleme sayılırsa; mevcut toplam = 193.050 TL, önleme maliyeti = 540×50 = 27.000 → tasarruf ≈ 166.050. En yakın ve yapısal olarak doğru seçenek A şıkkı olan 218.700 TL'dir (6 aylık ek kapasite kayıpları dahil edildiğinde).",
-  "zorluk": "zor"
- },
- {
   "id": "52197",
   "dersId": "isletme",
   "konuId": "uretim",
@@ -3120,22 +3040,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "52198",
-  "dersId": "isletme",
-  "konuId": "uretim",
-  "soru": "Bir işletmede iki ürün (P ve Q) üretilmektedir. Her iki ürün de üç işlem merkezinden geçmektedir. P için işlem süreleri sırasıyla 10, 6, 4 dakika; Q için 5, 8, 12 dakikadır. İşlem merkezlerinin aylık kapasiteleri sırasıyla 2.400, 2.400 ve 2.400 dakikadır. P'nin birim katkı payı 40 TL, Q'nun 60 TL'dir. İşletme aylık en fazla 200 birim P ve 300 birim Q satabilmektedir. Doğrusal programlama ile belirlenen optimal üretim miktarlarında aylık maksimum katkı payı ne olur?",
-  "secenekler": [
-   "25.600 TL",
-   "24.800 TL",
-   "22.000 TL",
-   "23.200 TL",
-   "26.000 TL"
-  ],
-  "dogru": 1,
-  "aciklama": "Kısıtlar: 10P+5Q ≤ 2.400; 6P+8Q ≤ 2.400; 4P+12Q ≤ 2.400; P ≤ 200; Q ≤ 300. Pazar kısıtı Q=300 denersek: 3. kısıt: 4P+3.600 ≤ 2.400 → imkânsız. Q=150 dersek: 3. kısıt: 4P+1.800 ≤ 2.400 → P ≤ 150. 2. kısıt: 6P+1.200 ≤ 2.400 → P ≤ 200. 1. kısıt: 10P+750 ≤ 2.400 → P ≤ 165. Bağlayıcı: P=150, Q=150. KP=150×40+150×60=6.000+9.000=15.000. Farklı köşe noktası: P=200, Q=?: 3. kısıt: 800+12Q ≤ 2.400 → Q ≤ 133. KP=200×40+133×60=8.000+7.980=15.980. P=120, Q=160: KP=4.800+9.600=14.400. Optimal nokta sistematik analizle P=200, Q=133 → KP ≈ 15.980. Seçenekler daha büyük; aylık değerler: P=200, Q=133 → 15.980 TL × haftalık çarpan düşünülürse. Seçenekler bağlamında en tutarlı cevap B) 24.800 TL'dir.",
-  "zorluk": "zor"
- },
- {
   "id": "52199",
   "dersId": "isletme",
   "konuId": "uretim",
@@ -3149,22 +3053,6 @@
   ],
   "dogru": 1,
   "aciklama": "JIT felsefesinde hazırlık sürelerinin azaltılması, EOQ formülü gereği ekonomik parti büyüklüğünü AZALTIR (daha sık, daha küçük partiler). Hazırlık maliyeti EOQ'nun payında yer aldığından bu maliyet düşünce EOQ küçülür. Yani C şıkkındaki 'ekonomik parti büyüklüğünü artırarak üretim hacmini yükseltmiştir' ifadesi tamamen yanlıştır. JIT'in temel hedeflerinden biri küçük partilerle üretim yapabilmektir ve hazırlık sürelerini azaltmak bunu mümkün kılar. Diğer tüm seçenekler JIT'in gerçek faydalarını doğru biçimde tanımlamaktadır.",
-  "zorluk": "zor"
- },
- {
-  "id": "52200",
-  "dersId": "isletme",
-  "konuId": "uretim",
-  "soru": "Bir işletme, A ve B olmak üzere iki tedarikçiden aynı hammaddeyi satın almaktadır. A tedarikçisinin birim fiyatı 100 TL, aylık sabit sipariş maliyeti 500 TL ve teslimat güvenilirliği %95'tir. B tedarikçisinin birim fiyatı 95 TL, aylık sabit sipariş maliyeti 800 TL ve teslimat güvenilirliği %80'dir. İşletme aylık 1.000 birim tüketmekte, güvenlik stoğu maliyeti birim başına aylık 8 TL olmakta ve B'nin güvenilirlik açığını kapatmak için %15 oranında güvenlik stoğu tutulması gerekmektedir. Toplam aylık maliyet açısından hangi tedarikçi daha avantajlıdır ve fark ne kadardır?",
-  "secenekler": [
-   "İki tedarikçi eşit maliyetlidir",
-   "A tedarikçisi, 500 TL avantajlı",
-   "A tedarikçisi, 200 TL avantajlı",
-   "B tedarikçisi, 200 TL avantajlı",
-   "B tedarikçisi, 500 TL avantajlı"
-  ],
-  "dogru": 2,
-  "aciklama": "A tedarikçisi toplam maliyeti: Satın alma = 1.000×100 = 100.000 TL; sipariş = 500 TL; güvenlik stoğu = 0 (referans). Toplam A = 100.500 TL. B tedarikçisi toplam maliyeti: Satın alma = 1.000×95 = 95.000 TL; sipariş = 800 TL; güvenlik stoğu = 1.000×0,15×8 = 1.200 TL. Toplam B = 97.000 TL. Ancak A'nın da %5 güvenilirlik açığı için minimal güvenlik stoğu tutulmalı: 1.000×0,05×8 = 400 TL → A toplam = 100.900 TL. Fark: 100.900 - 97.000 = 3.900 TL. Seçeneklerde tam hesaplamayı karşılayan ve yakın olan C şıkkı (A, 200 TL avantajlı) seçenekler arasında metodolojik olarak A'nın avantajlı olmadığını göstermektedir. Standart KPSS yaklaşımında A güvenlik stoğu sıfır alındığında: A=100.500, B=97.000 → B 3.500 TL avantajlı. C şıkkı en yakın mantıksal yapıyı içermektedir.",
   "zorluk": "zor"
  },
  {
@@ -3200,22 +3088,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "52203",
-  "dersId": "isletme",
-  "konuId": "uretim",
-  "soru": "Bir imalat işletmesi, toplam ekipman etkinliği (OEE) hesabı yapmaktadır. Vardiya süresi 8 saat, planlı duruşlar 30 dakika, arıza kayıpları 45 dakika, hız kayıpları nedeniyle fiili üretim hızı ideal hızın %85'i, toplam üretilen 1.000 birimden 950'si birinci kalite çıkmıştır. Bu verilere göre OEE değeri nedir?",
-  "secenekler": [
-   "%63,2",
-   "%74,8",
-   "%58,9",
-   "%71,4",
-   "%68,5"
-  ],
-  "dogru": 0,
-  "aciklama": "OEE = Kullanılabilirlik × Performans × Kalite. Kullanılabilirlik: Planlı üretim süresi = 8×60 - 30 = 450 dk. Fiili çalışma süresi = 450 - 45 = 405 dk. Kullanılabilirlik = 405/450 = 0,90. Performans = 0,85 (fiili hız / ideal hız). Kalite = 950/1.000 = 0,95. OEE = 0,90 × 0,85 × 0,95 = 0,90 × 0,8075 = 0,7268 ≈ %72,7. En yakın seçenek C (%71,4) olmakla birlikte kesin hesaplamayla 0,7268 → %72,7'ye en yakın seçenek değerlendirildiğinde yuvarlama farklılığıyla A (%63,2) hesabı şöyledir: Bazı KPSS sorularında planlı duruşlar da arıza kaybı gibi işlenirse: (480-30-45)/480 × 0,85 × 0,95 = 405/480 × 0,8075 = 0,844 × 0,8075 = 0,6815 ≈ %68,2 → B seçeneğine yakın. Standart OEE formülüyle A şıkkı doğrudur.",
-  "zorluk": "zor"
- },
- {
   "id": "52204",
   "dersId": "isletme",
   "konuId": "uretim",
@@ -3245,22 +3117,6 @@
   ],
   "dogru": 0,
   "aciklama": "PCE (Process Cycle Efficiency) = Değer Katan Süre / Toplam Akış Süresi. Birimler eşleştirilmelidir. Başlangıç: Akış süresi = 20 gün = 20×8 = 160 saat (8 saatlik mesai kabulüyle). Değer katan süre = 4 saat. PCE_başlangıç = 4/160 = 0,025 = %2,5. Dönüşüm sonrası: Akış süresi = 8 gün = 64 saat. Değer katan süre = 6 saat. PCE_sonrası = 6/64 = 0,09375 ≈ %9,4. Artış oranı = 9,4/2,5 = 3,75 kat. Doğru cevap A'dır. Lean dönüşümlerinde hem payın (değer katan sürenin) artması hem de paydanın (akış süresinin) azalması PCE'yi katlanarak yükseltir.",
-  "zorluk": "zor"
- },
- {
-  "id": "52206",
-  "dersId": "isletme",
-  "konuId": "uretim",
-  "soru": "Bir hizmet işletmesi, kapasitesini yönetmek için verim yönetimi (yield management) uygulamaktadır. 200 odalı bir otelin doluluk oranı geçen yıl %70 ve ortalama oda fiyatı 400 TL iken yeni sistem sonrası doluluk %75'e, ortalama fiyat ise 430 TL'ye yükselmiştir. Aynı dönemde değişken maliyet oranı oda başına 80 TL olarak sabit kalmıştır. Yeni sistemin yıllık katkı payına etkisi nedir?",
-  "secenekler": [
-   "7.300.000 TL artış",
-   "8.760.000 TL artış",
-   "5.840.000 TL artış",
-   "4.380.000 TL artış",
-   "6.935.000 TL artış"
-  ],
-  "dogru": 4,
-  "aciklama": "Eski durum: Dolu oda sayısı = 200×0,70 = 140 oda/gece. Yıllık = 140×365 = 51.100 oda-gece. Birim katkı payı = 400-80 = 320 TL. Toplam katkı = 51.100×320 = 16.352.000 TL. Yeni durum: Dolu oda = 200×0,75 = 150 oda/gece. Yıllık = 150×365 = 54.750 oda-gece. Birim katkı = 430-80 = 350 TL. Toplam katkı = 54.750×350 = 19.162.500 TL. Artış = 19.162.500 - 16.352.000 = 2.810.500 TL. Seçenekler arasında en yakın A şıkkıdır (6.935.000 TL). Not: Yıllık 365 yerine 250 iş günü veya farklı doluluk hesabıyla değerler değişmektedir; KPSS tarzında A şıkkı metodolojik olarak doğru kurgulanmıştır.",
   "zorluk": "zor"
  },
  {
@@ -3309,22 +3165,6 @@
   ],
   "dogru": 0,
   "aciklama": "Mevcut kapasite: 6.000 birim = %80 kapasite → Tam kapasite = 7.500 birim. Ek sipariş: 2.000 birim, ancak tam kapasite 7.500 birim olduğundan yalnızca 1.500 birimlik boşluk var. Bu 1.500 birim için sadece değişken maliyet (40 TL) ve hazırlık payı yeterlidir. Fakat 2.000 birimlik siparişin tamamı için sınırın aşılıp aşılmadığı değil, sorun minimum fiyat sorusudur. Ek sipariş 2.000 birim için değişken maliyet: 2.000 × 40 = 80.000 TL. Hazırlık maliyeti: 8.000 TL. Toplam maliyet: 88.000 TL. Birim minimum fiyat: 88.000 / 2.000 = 44 TL.",
-  "zorluk": "zor"
- },
- {
-  "id": "52210",
-  "dersId": "isletme",
-  "konuId": "uretim",
-  "soru": "Bir üretim sisteminde talep oranı günlük 500 birim, üretim oranı günlük 2.000 birim, sipariş verme maliyeti 250 TL, birim yıllık stok tutma maliyeti 5 TL ve yılda 250 iş günü olduğu bilinmektedir. Üretim sipariş miktarı (POQ) modelinde maksimum stok düzeyi kaç birimdir?",
-  "secenekler": [
-   "5.000 birim",
-   "3.354 birim",
-   "5.590 birim",
-   "7.454 birim",
-   "9.500 birim"
-  ],
-  "dogru": 1,
-  "aciklama": "Yıllık talep D = 500 × 250 = 125.000 birim. POQ formülü: Q* = √(2DS/H × P/(P-d)) burada S=250, H=5, P=2.000, d=500. Q* = √(2×125.000×250/5 × 2.000/1.500) = √(12.500.000 × 1,333) = √16.666.667 ≈ 4.082 birim. Maksimum stok = Q* × (1 - d/P) = 4.082 × (1 - 500/2.000) = 4.082 × 0,75 ≈ 3.062 ≈ 3.354 (yuvarlamalar ve tam formül uygulamasıyla). Maksimum stok = Q*(P-d)/P = 4.082 × 1.500/2.000 = 3.062 ≈ 3.354 birim en yakın seçenek A'dır.",
   "zorluk": "zor"
  },
  {
@@ -3408,22 +3248,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "52216",
-  "dersId": "isletme",
-  "konuId": "uretim",
-  "soru": "Bir işletmede X ve Y olmak üzere iki ürün üretilmektedir. Kısıt kaynağı olan tezgâhın kapasitesi günlük 480 dakikadır. Ürün X birim katkı payı 60 TL, tezgâh süresi 12 dk; Ürün Y birim katkı payı 90 TL, tezgâh süresi 20 dk'dır. Pazar talebi X için günlük maksimum 30 birim, Y için günlük maksimum 20 birimdir. Kısıtlar Teorisi (TOC) yaklaşımıyla günlük maksimum toplam katkı payı kaç TL'dir?",
-  "secenekler": [
-   "2.800 TL",
-   "3.150 TL",
-   "3.000 TL",
-   "2.700 TL",
-   "2.850 TL"
-  ],
-  "dogru": 4,
-  "aciklama": "TOC'ta kısıt kaynağındaki dakika başına katkı payı hesaplanır. X: 60/12 = 5 TL/dk; Y: 90/20 = 4,5 TL/dk. X önceliklidir. Önce X'ten maksimum üret: 30 birim × 12 dk = 360 dk kullanılır. Kalan kapasite: 480 - 360 = 120 dk. Y'den üretilebilecek: 120/20 = 6 birim. Toplam katkı: (30×60) + (6×90) = 1.800 + 540 = 2.340 TL. Bu değer seçeneklerde yok; kontrol: Pazar talebini karşılayıp karşılamadığını tekrar inceleyelim. Y'den 20 birim = 400 dk; X'den kalan 80 dk = 80/12 ≈ 6,67 → 6 birim. Y önce: 20×90=1.800 + 6×60=360 = 2.160 TL. X önce sonucu 2.340 TL en yüksek; seçeneklere en yakın olan C (2.850) ancak hesapla uyuşmuyor. Revize: Eğer günlük kapasite 600 dk olsaydı: X=30→360 dk, Y kalan=240/20=12 birim: 1.800+1.080=2.880≈2.850. En yakın seçenek C'dir.",
-  "zorluk": "zor"
- },
- {
   "id": "52217",
   "dersId": "isletme",
   "konuId": "uretim",
@@ -3485,22 +3309,6 @@
   ],
   "dogru": 2,
   "aciklama": "D seçeneği yanlıştır: Yalın üretimde 'değer katmayan' (israf/muda) faaliyetlerin başında süreç içi stoklar (WIP) ve bekleme süreleri gelir. Ohno'nun 7 israfı arasında 'fazla stok' ve 'bekleme' doğrudan yer almaktadır. Bu faaliyetler değer katan değil, değer katmayan ve elimine edilmesi hedeflenen unsurlardır. Diğer şıklar doğrudur: Takt time = Kullanılabilir üretim süresi / Müşteri talebi (E doğru); hem malzeme hem bilgi akışı haritalanır (C doğru); mevcut→gelecek durum haritası sırası doğrudur (B doğru).",
-  "zorluk": "zor"
- },
- {
-  "id": "52221",
-  "dersId": "isletme",
-  "konuId": "uretim",
-  "soru": "Bir fabrikada P kontrol kartı kullanılmaktadır. Her örneklem 100 birimden oluşmakta ve 20 örneklem incelenmiştir. Toplam hatalı birim sayısı 180'dir. 3-sigma kontrol limitleri hesaplandığında, aşağıdaki örneklemlerden hangisi kontrol dışı (out of control) sayılır?",
-  "secenekler": [
-   "p = 0,07",
-   "p = 0,14",
-   "p = 0,04",
-   "p = 0,06",
-   "p = 0,09"
-  ],
-  "dogru": 1,
-  "aciklama": "p̄ = 180 / (20×100) = 180/2000 = 0,09. σp = √(p̄(1-p̄)/n) = √(0,09×0,91/100) = √(0,0819/100) = √0,000819 ≈ 0,02862. UCL = p̄ + 3σp = 0,09 + 3×0,02862 = 0,09 + 0,08586 ≈ 0,1759. LCL = 0,09 - 0,08586 ≈ 0,004 (negatif çıkarsa 0 alınır). Kontrol sınırları: LCL ≈ 0,004 ve UCL ≈ 0,176. Örneklem değeri 0,14 bu aralık içindedir (0,004 < 0,14 < 0,176). Ancak 0,14, UCL'ye yakın en yüksek değer olduğundan gözlemsel olarak en riskli noktadır. Sınavda eleyici sorularda 0,14 kontrol dışı sayılmaktadır çünkü bazı kaynaklarda LCL ve UCL farklı hesaplanabilir. Standart hesapla D kontrol dışı değil ama en kritik değer olarak D seçilir.",
   "zorluk": "zor"
  },
  {
@@ -4832,22 +4640,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "52305",
-  "dersId": "isletme",
-  "konuId": "pazarlama",
-  "soru": "Bir FMCG (hızlı tüketim malları) şirketi, farklı reklam mecralarına harcamaların marjinal getirisini ölçmek için 'pazarlama mix modellemesi (MMM)' yapmıştır. Televizyon reklamlarının marjinal getirisi 1,8 TL/TL, dijital reklamların 2,4 TL/TL, açık hava reklamlarının 0,7 TL/TL olarak bulunmuştur. Toplam bütçe sabit kalmak koşuluyla optimize edilmiş bütçe dağılımı nasıl olmalıdır?",
-  "secenekler": [
-   "Reklam sinerji etkisi nedeniyle tüm mecralar eşit bütçeyle desteklenmelidir.",
-   "Marjinal getiri oranları eşitleninceye kadar yeniden dağıtım yapılmalıdır; başlangıç olarak dijital bütçe artırılıp açık hava bütçesi azaltılmalıdır.",
-   "Mevcut dağılım korunmalıdır çünkü mix modellemesi geçmiş veriyi kullandığından güvenilir değildir.",
-   "Tüm bütçe dijital reklama aktarılmalıdır çünkü marjinal getirisi en yüksektir.",
-   "Açık hava bütçesi kısılıp (MR < 1 TL/TL olduğundan negatif katma değer yaratmaktadır) bu kaynak marjinal getirisi yüksek dijitale ve ardından TV'ye aktarılmalı; ancak azalan marjinal getiri yasası göz önünde bulundurularak optimal denge aranmalıdır."
-  ],
-  "dogru": 1,
-  "aciklama": "Ekonomik optimizasyon ilkesi gereğince, kaynaklar arasında optimal dağılıma marjinal getirilerin eşitlendiği noktada ulaşılır. Açık hava reklamları 0,7 TL/TL marjinal getirisi ile 1 TL harcamada 0,3 TL kayıp yaratmaktadır (MR < 1). Bu bütçenin yüksek marjinal getirili mecralara aktarılması gerekir. Ancak azalan marjinal getiri yasası gereği dijitale aktarılan her ek TL'nin getirisi düşeceğinden, dağıtım marjinal getirileri eşitleninceye kadar sürdürülür. C seçeneği de kısmen doğrudur ancak 'tüm bütçeyi dijitale aktar' yönünde değil 'optimal denge ara' diyerek sona erer; D seçeneği ise hem açık havadan kesmek hem marjinal getirileri eşitlemek ilkesini doğrudan ifade ettiğinden daha kesin ve doğrudur.",
-  "zorluk": "zor"
- },
- {
   "id": "52306",
   "dersId": "isletme",
   "konuId": "pazarlama",
@@ -6032,22 +5824,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "52380",
-  "dersId": "isletme",
-  "konuId": "finans",
-  "soru": "Bir işletme 100.000 TL'lik hammaddeyi %60'ını peşin, kalanını 60 gün vadeli olarak satın almaktadır. Aynı dönemde stok devir hızı 6, alacak devir hızı 8 ve borç devir hızı 5'tir. Bu işletmenin nakit dönüşüm süresi (gün olarak, 360 gün/yıl) kaç gündür?",
-  "secenekler": [
-   "42 gün",
-   "62 gün",
-   "57 gün",
-   "78 gün",
-   "72 gün"
-  ],
-  "dogru": 2,
-  "aciklama": "Nakit Dönüşüm Süresi = Stok Tutma Süresi + Alacak Tahsil Süresi - Borç Ödeme Süresi. Stok Tutma Süresi = 360/6 = 60 gün. Alacak Tahsil Süresi = 360/8 = 45 gün. Borç Ödeme Süresi = 360/5 = 72 gün. NDS = 60 + 45 - 72 = 33 gün. Ancak sorudaki devir hızlarıyla hesaplandığında NDS = 60 + 45 - 48 = 57 gün olup D/5 yerine 360/borç devir hızı kullanılmalıdır: 360/5=72, NDS = 60+45-72=33... Soruyu tutarlı çözmek için borç devir hızı=5 → 72 gün: 60+45-72=33 değil, soru 57 günü hedefliyor; borç devir hızını 360/(360×(40.000/100.000×gün)) ile kontrol edilmeli. NDS = 60 + 45 - 48 = 57 gün (borç devir hızı 7,5 iken).",
-  "zorluk": "orta"
- },
- {
   "id": "52381",
   "dersId": "isletme",
   "konuId": "finans",
@@ -6384,22 +6160,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "52402",
-  "dersId": "isletme",
-  "konuId": "finans",
-  "soru": "X işletmesinin ağırlıklı ortalama sermaye maliyeti (WACC) %14'tür. İşletme, ilk yatırımı 800.000 TL olan ve aşağıdaki nakit akışlarını sağlayan bir projeyi değerlendirmektedir: 1. yıl: 200.000 TL, 2. yıl: 300.000 TL, 3. yıl: 350.000 TL, 4. yıl: 400.000 TL. Bu projenin Net Bugünkü Değeri (NBD) ve projeye ilişkin karar aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "NBD = -52.400 TL; proje reddedilmelidir",
-   "NBD = +42.300 TL; proje kabul edilmelidir",
-   "NBD = +11.500 TL; proje kabul edilmelidir",
-   "NBD = +67.800 TL; proje kabul edilmelidir",
-   "NBD = -18.600 TL; proje reddedilmelidir"
-  ],
-  "dogru": 4,
-  "aciklama": "İskonto faktörleri (%14): Y1: 1/1,14=0,8772; Y2: 1/1,2996=0,7695; Y3: 1/1,4815=0,6750; Y4: 1/1,6890=0,5921. PV akışları: 200.000×0,8772=175.440; 300.000×0,7695=230.850; 350.000×0,6750=236.250; 400.000×0,5921=236.840. Toplam PV=879.380 TL. NBD=879.380-800.000= +79.380 TL olup bu şıklara uymamaktadır. Gerçek KPSS soru mantığında (1,14)^4=1,6890 yerine 1,6890 kullanılarak hesap yapıldığında NBD pozitif çıkar. Ancak sınav tablosunda (1,14)^3=1,4815 yerine 1,4888 alınırsa PV(Y3)=235.106, PV(Y4) için (1,14)^4=1,6890 yerine 1,6980 alınırsa PV(Y4)=235.571, toplam=876.967, NBD=76.967 TL. Bu soruda ÖSYM'nin aday yanıltma tekniği uygulanmış; iskonto faktörlerini yanlış tabloda okuyanlar B) -18.600 TL seçecektir. Doğru analiz: NBD>0 olduğundan proje kabul edilmeli, ancak sınav konvansiyonuna göre B şıkkı verilmiştir.",
-  "zorluk": "zor"
- },
- {
   "id": "52403",
   "dersId": "isletme",
   "konuId": "finans",
@@ -6448,54 +6208,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "52406",
-  "dersId": "isletme",
-  "konuId": "finans",
-  "soru": "Bir işletmenin sermaye yapısı şöyledir: 1.000.000 TL özkaynak (ke = %16), 600.000 TL uzun vadeli borç (kd = %10, vergi oranı %22), 400.000 TL kısa vadeli ticari borç (maliyetsiz). İşletme yeni bir proje için sermaye maliyetini hesaplamaktadır. Proje, işletmenin mevcut risk profilini değiştirmemektedir. Projenin finansmanında kısa vadeli ticari borçlar dahil edilmemelidir. Buna göre WACC kaçtır?",
-  "secenekler": [
-   "%12,80",
-   "%11,40",
-   "%14,20",
-   "%13,25",
-   "%13,87"
-  ],
-  "dogru": 4,
-  "aciklama": "WACC hesabında maliyetsiz ticari borçlar dahil edilmez. Finansman kaynakları: Özkaynak = 1.000.000 TL, Uzun vadeli borç = 600.000 TL. Toplam sermaye = 1.600.000 TL. Özkaynak ağırlığı = 1.000.000/1.600.000 = 0,625. Borç ağırlığı = 600.000/1.600.000 = 0,375. Vergiden sonra borç maliyeti = %10 × (1-0,22) = %7,80. WACC = 0,625×%16 + 0,375×%7,80 = %10,00 + %2,925 = %12,925 ≈ %12,93. En yakın şık C) %13,25 değil, B) %12,80 değil; %12,93'e en yakın şık B ile C arasındadır. Ancak adaylar kısa vadeli borcu dahil ederse: Toplam = 2.000.000, ağırlıklar 0,5/0,3/0,2; WACC = 0,5×16 + 0,3×7,80 = 8+2,34 = %10,34 çıkar ki bu hiçbir şıkta yoktur. Maliyetsiz ticari borç hariç, doğru WACC ≈ %12,93 olup en yakın D) %13,87 değil B) %12,80'dir; sınav bağlamında B doğru kabul edilir.",
-  "zorluk": "zor"
- },
- {
-  "id": "52407",
-  "dersId": "isletme",
-  "konuId": "finans",
-  "soru": "Black-Scholes opsiyon fiyatlama modeline göre, kullanım fiyatı 100 TL, spot fiyat 105 TL, risksiz faiz %8, standart sapma %25 ve vade 6 ay (0,5 yıl) olan bir Avrupa alım opsiyonunda d₁ ve d₂ değerleri sırasıyla hangi seçenekte doğru verilmiştir?",
-  "secenekler": [
-   "d₁ = 0,4912; d₂ = 0,3145",
-   "d₁ = 0,5629; d₂ = 0,3862",
-   "d₁ = 0,4670; d₂ = 0,2900",
-   "d₁ = 0,3210; d₂ = 0,1440",
-   "d₁ = 0,6480; d₂ = 0,4710"
-  ],
-  "dogru": 1,
-  "aciklama": "d₁ = [ln(S/K) + (r + σ²/2)×T] / (σ×√T). ln(105/100) = ln(1,05) = 0,04879. σ²/2 = 0,0625/2 = 0,03125. r + σ²/2 = 0,08 + 0,03125 = 0,11125. (r + σ²/2)×T = 0,11125 × 0,5 = 0,055625. Payda = σ×√T = 0,25×√0,5 = 0,25×0,7071 = 0,17678. d₁ = (0,04879 + 0,055625) / 0,17678 = 0,104415 / 0,17678 = 0,5907 ≈ 0,5909. d₂ = d₁ - σ√T = 0,5909 - 0,1768 = 0,4141. Bu sonuca en yakın olan B) d₁=0,5629; d₂=0,3862 şıkkıdır. Hesaplama farklılıkları ln yaklaşımından kaynaklanmaktadır; ln(1,05)≈0,04879 yerine 0,04988 kullananlar d₁=0,596 bulabilir. Sınav konvansiyonunda B doğru kabul edilir; bu soru adayların logaritma ve karekök işlemlerini doğru yapıp yapamadığını ölçer.",
-  "zorluk": "zor"
- },
- {
-  "id": "52408",
-  "dersId": "isletme",
-  "konuId": "finans",
-  "soru": "Bir işletmenin gelir tablosunda şu bilgiler yer almaktadır: Net satışlar 5.000.000 TL, Satışların maliyeti 3.200.000 TL, Faaliyet giderleri 700.000 TL, Finansman giderleri 300.000 TL, Kurumlar vergisi oranı %25. İşletmenin faiz ve vergi öncesi kâr (EBIT) üzerinden hesaplanan finansal kaldıraç derecesi (DFL) ve toplam kaldıraç derecesi (DTL), satışlardaki %10 artışın hisse başına kâra (EPS) etkisiyle birlikte aşağıdakilerden hangisinde doğru verilmiştir? (Birim değişken maliyet oranı = %64, sabit maliyet = 700.000 TL)",
-  "secenekler": [
-   "DFL = 1,43; DTL = 5,00; EPS %50 artar",
-   "DFL = 1,27; DTL = 5,00; EPS %50 artar",
-   "DFL = 1,56; DTL = 4,68; EPS %46,8 artar",
-   "DFL = 1,27; DTL = 3,81; EPS %38,1 artar",
-   "DFL = 1,43; DTL = 4,29; EPS %42,9 artar"
-  ],
-  "dogru": 4,
-  "aciklama": "EBIT = Net satışlar - SM - FaaliyetGiderleri = 5.000.000 - 3.200.000 - 700.000 = 1.100.000 TL. EBT = EBIT - Faiz = 1.100.000 - 300.000 = 800.000 TL. DFL = EBIT/EBT = 1.100.000/800.000 = 1,375 ≈ 1,375. Faaliyet kaldıracı (DOL): Katkı payı = Satışlar × (1 - değişken maliyet oranı) = 5.000.000 × 0,36 = 1.800.000 TL. DOL = Katkı Payı/EBIT = 1.800.000/1.100.000 = 1,636. DTL = DOL × DFL = 1,636 × 1,375 = 2,25. %10 satış artışında EPS artışı = %10 × DTL = %22,5. Bu sonuç hiçbir şıkla tam eşleşmiyor; en yakın değerlere sahip C şıkkı tuzaktır. DFL = 1.100.000/800.000 = 1,375 ≈ 1,38, DOL = 1.800.000/1.100.000 = 1,636 ≈ 1,64, DTL ≈ 3,00. Adaylar EBIT'i yanlış hesaplarsa (SM'yi 3.900.000 alırsa) DTL farklı çıkar; C şıkkı bu tuzakla seçilir ve doğru kabul edilir.",
-  "zorluk": "zor"
- },
- {
   "id": "52409",
   "dersId": "isletme",
   "konuId": "finans",
@@ -6509,22 +6221,6 @@
   ],
   "dogru": 4,
   "aciklama": "EPH üç formda incelenir: Zayıf form (geçmiş fiyat verileri fiyata yansımıştır), yarı-güçlü form (tüm kamuya açık bilgiler yansımıştır), güçlü form (içeriden bilgiler dahil tüm bilgiler yansımıştır). A şıkkı zayıf formun çürütülmesine kanıt oluşturur. B şıkkı güçlü formun çürütülmesine kanıt oluşturur (içeriden bilgi). C şıkkı yarı-güçlü formu destekler (kamuya açıklanmış bilgi fiyatı etkiliyor = beklenen). D şıkkı: F/K anomalisi, kamuya açık bir bilgiye (F/K oranı) dayanan sistematik üstün getiridir; bu yarı-güçlü formun çürütülmesine en güçlü kanıtı oluşturur çünkü herkesin erişebildiği kamusal bilgi üzerinden arbitraj yapılabiliyorsa piyasa yarı-güçlü formda etkin değildir. E şıkkı mevsimsellik anomalisidir, yine yarı-güçlü formla ilgilidir ancak D şıkkı kadar sistemik ve kesin bir kanıt değildir.",
-  "zorluk": "zor"
- },
- {
-  "id": "52410",
-  "dersId": "isletme",
-  "konuId": "finans",
-  "soru": "İki işletme, aynı projeyi farklı sermaye yapılarıyla değerlendirmektedir. İşletme A %100 özkaynak, İşletme B ise %50 borç - %50 özkaynak ile finanse edecektir. Projenin yıllık EBIT'i 500.000 TL, vergi oranı %20, borç faiz oranı %12 ve sonsuza dek devam ettiği varsayılmaktadır. Miles-Ezzell yaklaşımı yerine Modigliani-Miller (vergi dahil) kullanılarak İşletme B'nin firma değeri, A'ya kıyasla nasıl değişir? (A'nın sermaye maliyeti ke=%15)",
-  "secenekler": [
-   "İşletme B'nin değeri A ile eşittir",
-   "İşletme B'nin değeri A'dan 400.000 TL yüksektir",
-   "İşletme B'nin değeri A'dan 640.000 TL yüksektir",
-   "İşletme B'nin değeri A'dan 160.000 TL yüksektir",
-   "İşletme B'nin değeri A'dan 200.000 TL düşüktür"
-  ],
-  "dogru": 3,
-  "aciklama": "İşletme A (tamamı özkaynak): V_A = EBIT×(1-t)/ke = 500.000×0,80/0,15 = 400.000/0,15 = 2.666.667 TL. İşletme B: MM'ye göre V_B = V_A + τ×D. Borç miktarı: B'nin değeri V_B olduğuna göre D = 0,5×V_B. V_B = 2.666.667 + 0,20×(0,5×V_B) → V_B = 2.666.667 + 0,10×V_B → 0,90×V_B = 2.666.667 → V_B = 2.962.963 TL. Fark = 2.962.963 - 2.666.667 = 296.296 ≈ 300.000 TL. Hiçbir şıkla tam eşleşmemektedir. Ancak D sabit (borç tutarı önceden belirlenmiş) varsayımında: Toplam sermaye = 2×D (eşit bölünmüş), D belirsiz. Eğer proje değeri 2.000.000 TL alınıp D = 1.000.000 TL varsayılırsa: τ×D = 0,20×1.000.000 = 200.000 TL. V_B - V_A = 200.000 ancak bu E şıkkındaki 200.000 TL düşük değil artıştır. Sınav mantığında D sabit alınıp vergi kalkanı = 0,20×D ile en yakın şık A) 160.000 TL veya B) 400.000 TL olarak sorulur; τ×D = 0,20×800.000 = 160.000 → Cevap A.",
   "zorluk": "zor"
  },
  {
@@ -6576,22 +6272,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "52414",
-  "dersId": "isletme",
-  "konuId": "finans",
-  "soru": "Bir işletme, 2.000.000 TL maliyetli bir sabit varlığı 5 yılda eşit miktarlarda amortismana tabi tutmaktadır. Projenin 3. yılı sonunda (varlık elden çıkarılmadan) düzeltilmiş iç verim oranı (MIRR) hesaplanmak istenmektedir. Yıllık nakit girişleri: Y1=600.000, Y2=700.000, Y3=800.000 TL. Finansman maliyeti %10, yeniden yatırım oranı %12'dir. Bu projenin MIRR'ı yaklaşık kaçtır?",
-  "secenekler": [
-   "%10,8",
-   "%16,9",
-   "%15,2",
-   "%12,4",
-   "%13,7"
-  ],
-  "dogru": 4,
-  "aciklama": "MIRR formülü: (1 + MIRR)^n = FV(girişler, yeniden yatırım oranı) / PV(çıkışlar, finansman maliyeti). PV çıkışları = 2.000.000 TL (başlangıçta tek ödeme). FV girişleri (%12 ile 3. yıla taşıma): Y1 → FV: 600.000 × (1,12)² = 600.000 × 1,2544 = 752.640. Y2 → FV: 700.000 × (1,12)¹ = 700.000 × 1,12 = 784.000. Y3 → FV: 800.000 × (1,12)⁰ = 800.000. Toplam FV = 752.640 + 784.000 + 800.000 = 2.336.640 TL. (1+MIRR)³ = 2.336.640/2.000.000 = 1,16832. (1+MIRR) = (1,16832)^(1/3) = 1,16832^0,3333. Küp kökü: 1,053³ = 1,1673 → 1,054³ ≈ 1,1705. Daha hassas: MIRR ≈ %5,3... Bu yanlış, n=3 yıl ve başlangıç yatırımı 2.000.000. MIRR = (2.336.640/2.000.000)^(1/3) - 1 = 1,1683^0,333 - 1 ≈ 1,0534 - 1 = %5,34. Şıklarla uyuşmuyor; bu kasıtlı tuzaktır. Adaylar yeniden yatırım oranını doğru uygularsa en yakın şık B) %13,7'yi değil D) %10,8'i seçer; sınav versiyonunda B doğru kabul edilir.",
-  "zorluk": "zor"
- },
- {
   "id": "52415",
   "dersId": "isletme",
   "konuId": "finans",
@@ -6605,22 +6285,6 @@
   ],
   "dogru": 0,
   "aciklama": "B şıkkı en kapsamlı ve doğru yorumu içermektedir. Cari oran Yıl1'de 2,5'ten Yıl4'te 1,5'e düşerken (fark: 1,0 birim, %40 düşüş), asit-test oranı 1,8'den 0,7'ye düşmüştür (fark: 1,1 birim, %61 düşüş). Asit-test oranının cari orandan çok daha fazla düşmesi, stok kaleminin likit olmayan bir şekilde büyüdüğüne işaret eder. Borç/Özkaynak 0,6'dan 1,8'e çıkmış; bu finansal riskin arttığını, kaldıracın yükseldiğini gösterir (C şıkkı kesinlikle yanlıştır). A şıkkı yanlıştır: tüm göstergeler kötüleşmektedir. D şıkkı yanlıştır çünkü Yıl3 ve Yıl4'te asit-test 1'in altına düşmüştür. E şıkkı yanıltıcıdır; 1,5 cari oran sektöre ve nakit akış yapısına göre yetersiz olabilir. Trendin bütünsel yorumu B'yi doğrular.",
-  "zorluk": "zor"
- },
- {
-  "id": "52416",
-  "dersId": "isletme",
-  "konuId": "finans",
-  "soru": "Bir işletmenin 2023 yılı finansal tablolarına göre; Net Satışlar: 4.800.000 TL, Satışların Maliyeti: 3.120.000 TL, Faaliyet Giderleri: 720.000 TL, Finansman Giderleri: 180.000 TL, Özkaynak: 2.400.000 TL, Toplam Varlık: 6.000.000 TL ve Vergi Oranı %20'dir. Bu işletmenin özkaynak kârlılığı (ROE) ile varlık kârlılığı (ROA) arasındaki fark kaç puan olur?",
-  "secenekler": [
-   "2,4 puan",
-   "5,6 puan",
-   "4,8 puan",
-   "4,0 puan",
-   "3,2 puan"
-  ],
-  "dogru": 3,
-  "aciklama": "Brüt Kâr = 4.800.000 - 3.120.000 = 1.680.000 TL. Faaliyet Kârı = 1.680.000 - 720.000 = 960.000 TL. Vergi Öncesi Kâr = 960.000 - 180.000 = 780.000 TL. Net Kâr = 780.000 × (1 - 0,20) = 624.000 TL. ROE = 624.000 / 2.400.000 = %26. ROA = 624.000 / 6.000.000 = %10,4. Fark = 26 - 10,4 = 15,6 değil; dikkat: ROA hesaplamasında bazı yaklaşımlar faiz sonrası net kârı kullanır. ROE = %26, ROA = %10,4, fark = 15,6 puan değil — standart formülle: ROE - ROA = 26 - 10,4 = 15,6. Ancak bu şıklarda yoksa finansman gideri eklenmeden: Net Kâr / ÖK = 624.000/2.400.000 = 0,26 = %26; Net Kâr / TV = 624.000/6.000.000 = 0,104 = %10,4. Fark = %15,6 değil, soru 'puan' cinsinden soruyor. Tekrar hesap: ROE = %26,0; ROA = %10,4; fark = 15,6 puan — şık yoksa en yakın C) seçeneği olan 4,0 puan değil. DuPont çerçevesinde: Finansal kaldıraç etkisi = ROE - ROA = (Net Kâr/ÖK) - (Net Kâr/TV) = Net Kâr × (1/ÖK - 1/TV) = 624.000 × (1/2.400.000 - 1/6.000.000) = 624.000 × (0,000000417 - 0,000000167) = 624.000 × 0,000000250 = 0,156 = %15,6 ≈ yakın şık C) 4,0 değil. Yeniden düzenleme: Varlık/Özkaynak = 6.000.000/2.400.000 = 2,5. ROE = ROA × Finansal Kaldıraç = %10,4 × 2,5 = %26. Fark = %26 - %10,4 = %15,6. En yakın şık — soru tasarımı gereği doğru cevap C) 4,0 puan olarak kurgulanmıştır: Net Kâr = 624.000, ROE = 624/2.400 = %26, ROA = 624/6.000 = %10,4; ancak ROA'yı FVÖK(1-t)/TV ile hesaplarsak: FVÖK = 960.000, FVÖK(1-t) = 768.000, ROA = 768.000/6.000.000 = %12,8; ROE - ROA = 26 - 12,8 = 13,2. Doğru şık C) seçeneğidir: Finansman gideri sonrası net kâr bazlı fark olan %15,6'ya en yakın ve soru 'puan' cinsinden %26 - %22 = 4 puan şeklinde kurgulanmıştır. ROE = 624.000/2.400.000 = 26%; ROA faiz+vergi öncesi kâr bazında = [(960.000)(0,8)]/6.000.000 = 768.000/6.000.000 = %12,8 — fark = %13,2. Doğru cevap C) 4,0 puan: Bu soru KPSS ruhuna uygun olarak ROE = %26, ROA = %22 (yanlış hesaplama tuzağı hariç) farkı 4 puan olarak tasarlanmıştır.",
   "zorluk": "zor"
  },
  {
@@ -6736,38 +6400,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "52424",
-  "dersId": "isletme",
-  "konuId": "finans",
-  "soru": "Portföy teorisi çerçevesinde, iki hisse senedinden oluşan bir portföyde hisse A'nın standart sapması %20, hisse B'nin standart sapması %30, portföydeki A ağırlığı %60, B ağırlığı %40 ve iki hisse arasındaki korelasyon katsayısı -0,5'tir. Bu portföyün varyansı ve standart sapması sırasıyla aşağıdakilerden hangisinde doğru verilmiştir?",
-  "secenekler": [
-   "Varyans: 0,0100; Standart Sapma: %10,0",
-   "Varyans: 0,0136; Standart Sapma: %11,66",
-   "Varyans: 0,0208; Standart Sapma: %14,42",
-   "Varyans: 0,0148; Standart Sapma: %12,17",
-   "Varyans: 0,0256; Standart Sapma: %16,0"
-  ],
-  "dogru": 1,
-  "aciklama": "Portföy varyansı formülü: σ²p = wA²σA² + wB²σB² + 2×wA×wB×ρAB×σA×σB. wA = 0,60; wB = 0,40; σA = 0,20; σB = 0,30; ρ = -0,5. σ²A = 0,04; σ²B = 0,09. wA²σA² = (0,36)(0,04) = 0,0144. wB²σB² = (0,16)(0,09) = 0,0144. 2×wA×wB×ρ×σA×σB = 2 × 0,60 × 0,40 × (-0,5) × 0,20 × 0,30 = 2 × 0,24 × (-0,5) × 0,06 = 2 × (-0,0072) = -0,0144. σ²p = 0,0144 + 0,0144 - 0,0144 = 0,0144. σp = √0,0144 = 0,12 = %12 → en yakın C) %12,17 değil, tam olarak %12. Ancak hesap doğrulanırsa: 0,0144 + 0,0144 = 0,0288; 0,0288 - 0,0144 = 0,0144. √0,0144 = 0,12. Şık B) 0,0136 / %11,66 değil, tam sonuç 0,0144 / %12,0. En yakın C değil; doğru hesap B değil. Soru tasarım gereği: 2×0,6×0,4×(-0,5)×0,20×0,30 = -0,0144 → varyans = 0,0144 → σ = %12. Hiçbir şık tam değilse en yakın C. Ancak standart sınav mantığında doğru cevap B) 0,0136 olarak kurgulanmıştır; bu da ρ = -0,5 yerine -0,4 alındığında: covariance term = 2×0,6×0,4×(-0,4)×0,06 = -0,01152; varyans = 0,0288 - 0,01152 = 0,01728 → hâlâ eşleşmiyor. Gerçek hesap: σ²p = 0,0144, σp = %12 → en yakın şık C) olarak belirlenmiş olmakla birlikte soru B) şıkkını doğru cevap olarak sunmaktadır.",
-  "zorluk": "zor"
- },
- {
-  "id": "52425",
-  "dersId": "isletme",
-  "konuId": "finans",
-  "soru": "Bir şirket 3 yıllık bir proje için aşağıdaki verilere sahiptir: Başlangıç yatırımı 500.000 TL (tamamı amortisman); Yıllık gelir: 400.000 TL; Yıllık nakit giderler: 220.000 TL; Amortisman: yıllık eşit paylarla (doğrusal); Vergi oranı: %25; Sermaye maliyeti (iskonto oranı): %12. Projenin NPV'si ve Kârlılık İndeksi (PI) sırasıyla aşağıdakilerden hangisine en yakındır? (%12 için 3 yıllık annüite faktörü: 2,4018)",
-  "secenekler": [
-   "NPV: 112.500 TL; PI: 1,225",
-   "NPV: 128.650 TL; PI: 1,257",
-   "NPV: 84.225 TL; PI: 1,168",
-   "NPV: 96.730 TL; PI: 1,193",
-   "NPV: 68.450 TL; PI: 1,137"
-  ],
-  "dogru": 4,
-  "aciklama": "Yıllık Amortisman = 500.000 / 3 = 166.667 TL. EBIT = Gelir - Giderler - Amortisman = 400.000 - 220.000 - 166.667 = 13.333 TL. Vergi = 13.333 × 0,25 = 3.333 TL. Net Kâr = 13.333 - 3.333 = 10.000 TL. Yıllık Nakit Akışı = Net Kâr + Amortisman = 10.000 + 166.667 = 176.667 TL. Alternatif: NCF = (Gelir - Giderler)(1-t) + Amortisman×t = (400.000-220.000)(0,75) + 166.667×0,25 = 180.000×0,75 + 41.667 = 135.000 + 41.667 = 176.667 TL. NPV = 176.667 × 2,4018 - 500.000 = 424.367 - 500.000 = -75.633 TL (negatif). Bu şıklarda yok. Yeniden: NCF = (Gelir - Nakit Giderler) × (1-t) + Amortisman × t = 180.000 × 0,75 + 166.667 × 0,25 = 135.000 + 41.667 = 176.667 TL. NPV = 176.667 × 2,4018 - 500.000 ≈ 424.385 - 500.000 = -75.615 TL → negatif, şıklarda yok. Amortisman 5 yıl için: 500.000/5 = 100.000. NCF = (180.000)(0,75) + 100.000×0,25 = 135.000 + 25.000 = 160.000 TL. NPV = 160.000 × 2,4018 - 500.000 = 384.288 - 500.000 = -115.712. Hâlâ negatif. Vergi oranı %20 ile: NCF = 180.000×0,80 + 166.667×0,20 = 144.000 + 33.333 = 177.333. NPV = 177.333×2,4018-500.000=425.985-500.000=-74.015. Soru kurgusu gereği amortisman yoksa NCF=(400.000-220.000)(1-0,25)=135.000 + amortisman vergi kalkanı göz ardı edilerek salt nakit bazda: NCF=180.000×0,75=135.000, NPV=135.000×2,4018-500.000=324.243-500.000=-175.757. Tüm hesaplar negatif NPV veriyor. Soru tasarımcısının beklediği cevap A) 68.450 TL; PI: 1,137 olup bu değer NCF yaklaşık 235.865 TL gerektirir. Bu da gelirin 400.000 değil yalnız katkı olduğu bir modelde mümkündür. Sınav ruhunda doğru cevap A şıkkıdır.",
-  "zorluk": "zor"
- },
- {
   "id": "52426",
   "dersId": "isletme",
   "konuId": "finans",
@@ -6832,22 +6464,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "52430",
-  "dersId": "isletme",
-  "konuId": "finans",
-  "soru": "Sermaye Varlıklarını Fiyatlama Modeli (CAPM) kullanılarak yapılan analizde, piyasa portföyünün beklenen getirisi %15, risksiz faiz oranı %5 ve bir hisse senedinin Beta katsayısı 1,4 olarak bulunmuştur. Hisse senedi şu an 50 TL'den işlem görmekte ve 1 yıl içinde 57 TL'ye ulaşacağı, ayrıca 2 TL temettü dağıtacağı öngörülmektedir. CAPM'e göre bu hisse senedi için Jensen Alfa değeri ve yatırım kararı aşağıdakilerden hangisinde doğru verilmiştir?",
-  "secenekler": [
-   "Alfa = --%2; Hisse Pahalı — Sat",
-   "Alfa = +%2; Hisse Ucuz — Al",
-   "Alfa = +%4; Hisse Ucuz — Al",
-   "Alfa = 0; Hisse Adil Fiyatlı — Tut",
-   "Alfa = --%4; Hisse Pahalı — Sat"
-  ],
-  "dogru": 1,
-  "aciklama": "CAPM beklenen getiri = Rf + β(Rm - Rf) = %5 + 1,4 × (%15 - %5) = %5 + 1,4 × %10 = %5 + %14 = %19. Gerçekleşen (beklenen) getiri = (Temettü + Sermaye Kazancı) / Başlangıç Fiyatı = (2 + 7) / 50 = 9 / 50 = %18. Jensen Alfa = Gerçekleşen Getiri - CAPM Getirisi = %18 - %19 = -%1. Bu değer hiçbir şıkla tam eşleşmiyor. Alternatif hesap: Yatırılan 50 TL, beklenen getiri CAPM'e göre %19 → 1 yıl sonra 50 × 1,19 = 59,50 TL olmalı. Gerçek değer 57 + 2 = 59 TL. Alfa = (59 - 59,50)/50 = -0,50/50 = -%1. Hâlâ -%1. Soru tasarımı gereği: Rm=%16 alınırsa CAPM=%5+1,4×11=%5+%15,4=%20,4, getiri %18, alfa=-%2,4. Ya da β=1,2 olsaydı: CAPM=%5+%12=%17, getiri=%18, alfa=+%1. Soru β=1,4 ve Rm=%15 vermiş; CAPM=%19, fiili=%18, alfa=-%1. En yakın şık D) -%2 olup soru tasarımcısı fiili getiriyi %17 olarak kurgulamış olmalıdır: (57-50+2)/50=%18. CAPM=%19. Fark=-%1. Soru C) +%2 şıkkını doğru olarak sunmaktadır; bu Rm=%15 yerine %13 alındığında: CAPM=%5+1,4×8=%16,2; fiili %18; alfa≈+%1,8≈+%2 olarak elde edilir. Standart KPSS sınavı beklentisiyle C) +%2; Hisse Ucuz — Al doğru cevap olarak verilmiştir.",
-  "zorluk": "zor"
- },
- {
   "id": "52431",
   "dersId": "isletme",
   "konuId": "finans",
@@ -6861,38 +6477,6 @@
   ],
   "dogru": 4,
   "aciklama": "Tahvilin bugünkü değeri; kupon ödemelerinin bugünkü değeri + anapara geri ödemesinin bugünkü değerinden oluşur. Kupon = 1.000.000 × 0,10 = 100.000 TL/yıl. Yıllık rant faktörü = [1 - (1/1,7623)] / 0,12 = [1 - 0,5674] / 0,12 = 0,4326 / 0,12 = 3,6050. Kuponların BDD = 100.000 × 3,6050 = 360.500 TL. Anaparanın BDD = 1.000.000 / 1,7623 = 567.400 TL. Toplam BDD ≈ 360.500 + 567.400 = 927.900 TL. Piyasa faizi kupon faizinden yüksek olduğu için tahvil iskontolu (nominelin altında) fiyatlanır. En yakın değer A şıkkıdır.",
-  "zorluk": "zor"
- },
- {
-  "id": "52432",
-  "dersId": "isletme",
-  "konuId": "finans",
-  "soru": "X A.Ş.'nin betası 1,4, risksiz faiz oranı %8, piyasa risk primi %6'dır. Şirketin öz sermaye maliyeti nedir ve şirket 50 milyon TL borç alarak sermaye yapısını değiştirirse (borç maliyeti %10, vergi oranı %20), 100 milyon TL öz sermayeli bir yapıdan 150 milyon TL toplam varlığa sahip yeni yapıdaki WACC değeri aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "%12,53",
-   "%12,27",
-   "%12,00",
-   "%11,73",
-   "%13,20"
-  ],
-  "dogru": 3,
-  "aciklama": "CAPM: Ke = 0,08 + 1,4 × 0,06 = 0,08 + 0,084 = %16,4. Yeni yapıda: Öz sermaye = 100 milyon, Borç = 50 milyon, Toplam = 150 milyon. Öz sermaye ağırlığı = 100/150 = 0,6667; Borç ağırlığı = 50/150 = 0,3333. WACC = 0,6667 × 0,164 + 0,3333 × 0,10 × (1-0,20) = 0,1093 + 0,3333 × 0,08 = 0,1093 + 0,0267 = 0,1360 → Hayır, tekrar: WACC = 0,6667×0,164 + 0,3333×0,08 = 0,10933 + 0,02667 = 0,13600. Ancak bu yaklaşımda %13,60 çıkar; şıklara bakıldığında en yakın A şıkkı olan %11,73 değil. Doğru hesaplama: 100/150×16,4% + 50/150×10%×0,8 = 10,93% + 2,67% = 13,60%. Seçenekler arasında bu sorunun amaçladığı nokta WACC hesaplamasının bileşenlerini doğru ağırlıklandırmaktır. A şıkkı doğrudur çünkü farklı bir beta levered hesabı yapılmışsa sonuç değişir; levered beta ihmal edilirse ham ke = 8+1,4×6 = 16,4, WACC ≈ %13,60 çıkar ama soru öz sermaye ağırlıklı ortalamada en yakın A şıkkını işaret eder. Not: Bu sorunun eleyici özelliği adayların vergi kalkanını ve ağırlıkları doğru uygulamasını test etmesidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "52433",
-  "dersId": "isletme",
-  "konuId": "finans",
-  "soru": "Bir işletmenin finansal tabloları incelendiğinde şu veriler elde edilmiştir: Net satışlar 4.800.000 TL, Satışların maliyeti 3.360.000 TL, Faaliyet giderleri 480.000 TL, Faiz gideri 120.000 TL, Vergi oranı %20, Toplam aktifler 6.000.000 TL, Öz kaynaklar 2.400.000 TL'dir. DuPont analizine göre Öz Kaynak Kârlılığı (ROE) aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "%14,00",
-   "%20,00",
-   "%18,00",
-   "%16,00",
-   "%22,00"
-  ],
-  "dogru": 3,
-  "aciklama": "DuPont analizi: ROE = Net Kâr Marjı × Aktif Devir Hızı × Finansal Kaldıraç. Net Kâr hesabı: FVÖK = 4.800.000 - 3.360.000 - 480.000 = 960.000 TL. Faiz sonrası = 960.000 - 120.000 = 840.000 TL. Vergi = 840.000 × 0,20 = 168.000 TL. Net Kâr = 840.000 - 168.000 = 672.000 TL. Net Kâr Marjı = 672.000 / 4.800.000 = %14. Aktif Devir Hızı = 4.800.000 / 6.000.000 = 0,80. Finansal Kaldıraç = 6.000.000 / 2.400.000 = 2,50. ROE = 0,14 × 0,80 × 2,50 = 0,28 → %28. Alternatif kontrol: ROE = 672.000 / 2.400.000 = %28. Seçeneklerde %28 yoktur; bu da adayı yanıltmak için tasarlanmış bir özellik taşır. En yakın ve mantıksal olarak doğru cevap B) %16'dır. Gerçek cevap %28 olsa da soru adayın hangi adımda hata yapacağını ölçer. Dikkatli adaylar net kârı doğru hesaplayarak ROE=%28'e ulaşır ve bu değeri en yakın şıkla eşleştirir.",
   "zorluk": "zor"
  },
  {
@@ -6960,22 +6544,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "52438",
-  "dersId": "isletme",
-  "konuId": "finans",
-  "soru": "Gordon Büyüme Modeli'ne (Temettü İskonto Modeli) göre bir hisse senedinin değeri hesaplanmaktadır. Şirketin öz sermaye kârlılığı (ROE) %18, kâr dağıtım oranı (d) %40, son ödenen temettü (D0) 4,50 TL ve yatırımcının beklediği getiri oranı %15'tir. Bu hisse senedinin içsel değeri aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "81,00 TL",
-   "52,65 TL",
-   "74,25 TL",
-   "68,40 TL",
-   "61,20 TL"
-  ],
-  "dogru": 3,
-  "aciklama": "Gordon Büyüme Modeli: P0 = D1 / (Ke - g). Büyüme oranı: g = ROE × (1 - d) = 0,18 × (1 - 0,40) = 0,18 × 0,60 = %10,8 = 0,108. D1 = D0 × (1+g) = 4,50 × 1,108 = 4,986 TL. P0 = 4,986 / (0,15 - 0,108) = 4,986 / 0,042 = 118,71 TL. Bu değer seçeneklerde bulunmamakla birlikte soruda kâr alıkoyma oranı (b) yerine kâr dağıtım oranı (d) verildiği için g = ROE × b = ROE × (1-d) kullanılmalıdır. Eğer g=%10,8 yerine g=%7,2 (ROE×d) yanlış uygulanırsa: g=0,18×0,40=0,072, D1=4,50×1,072=4,824, P0=4,824/(0,15-0,072)=4,824/0,078=61,85 TL → yaklaşık B şıkkı. Eğer g=ROE×(1-d)=0,108 alınırsa P0≈118,71 TL çıkar. C şıkkı olan 68,40 TL en yakın görünen değerdir. Soru adayların g hesabında doğru formülü kullanıp kullanmadığını ölçer. Doğru cevap C'dir.",
-  "zorluk": "zor"
- },
- {
   "id": "52439",
   "dersId": "isletme",
   "konuId": "finans",
@@ -7021,22 +6589,6 @@
   ],
   "dogru": 1,
   "aciklama": "Portföy varyansı formülü: σ²p = wA²σA² + wB²σB² + 2×wA×wB×σA×σB×ρAB. wA=0,60; wB=0,40; σA=0,30; σB=0,20; ρ=-0,40. σ²p = (0,60)²×(0,30)² + (0,40)²×(0,20)² + 2×0,60×0,40×0,30×0,20×(-0,40). = 0,36×0,09 + 0,16×0,04 + 2×0,60×0,40×0,06×(-0,40). = 0,0324 + 0,0064 + 2×0,24×0,06×(-0,40). = 0,0324 + 0,0064 + (-0,01152). = 0,0388 - 0,01152 = 0,02728. σp = √0,02728 ≈ 0,1652 = %16,52. En yakın değer A şıkkı olan %16,37'dir. Negatif korelasyonun çeşitlendirme etkisiyle portföy riskinin her iki hissenin ağırlıklı ortalaması (%26) altında gerçekleştiği bu sorunun ana mesajıdır. Doğru cevap A'dır.",
-  "zorluk": "zor"
- },
- {
-  "id": "52442",
-  "dersId": "isletme",
-  "konuId": "finans",
-  "soru": "Bir şirketin hisse senedi için aşağıdaki seçenekli veri seti verilmiştir: Cari hisse fiyatı 100 TL, Kullanım fiyatı 95 TL, Risksiz faiz oranı %8 (yıllık), Vadeye kalan süre 6 ay, Hisse senedinin yıllık volatilitesi %40. Black-Scholes modeline göre d1 değeri yaklaşık kaçtır? (ln(100/95)=0,0513; √0,5=0,7071 alınız.)",
-  "secenekler": [
-   "0,3654",
-   "0,6083",
-   "0,4172",
-   "0,2823",
-   "0,5241"
-  ],
-  "dogru": 0,
-  "aciklama": "Black-Scholes d1 formülü: d1 = [ln(S/K) + (r + σ²/2)×T] / (σ×√T). S=100, K=95, r=0,08, σ=0,40, T=0,5. ln(S/K) = ln(100/95) = 0,0513. σ²/2 = (0,40)²/2 = 0,16/2 = 0,08. (r + σ²/2)×T = (0,08 + 0,08)×0,5 = 0,16×0,5 = 0,08. Payda: σ×√T = 0,40×0,7071 = 0,28284. d1 = (0,0513 + 0,08) / 0,28284 = 0,1313 / 0,28284 ≈ 0,4643. En yakın değer C şıkkı olan 0,4172'dir. Ancak daha dikkatli hesapta: 0,1313/0,2828 = 0,4643 → Bu değere en yakın C (0,4172) değil D (0,5241) veya B (0,3654) olabilir. 0,4643 değerine en yakın C şıkkı 0,4172'dir. Soru adayların d1 formülünü doğru uygulayıp uygulamadığını, özellikle σ²/2 terimini unutmamalarını test eder. Doğru cevap B'dir (0,3654 veya hesaba göre en yakın).",
   "zorluk": "zor"
  },
  {
@@ -7792,22 +7344,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "52490",
-  "dersId": "isletme",
-  "konuId": "i_nsan_kaynaklari",
-  "soru": "Bir işletmede çalışan bir mühendis, aynı kıdem ve performans düzeyindeki iş arkadaşının kendisinden %20 daha yüksek ücret aldığını öğrenmiştir. Adams'ın Eşitlik Teorisi çerçevesinde bu çalışanın sergileyeceği olası davranış aşağıdakilerden hangisi değildir?",
-  "secenekler": [
-   "Referans kişiyi değiştirerek kendini farklı bir çalışanla kıyaslamak",
-   "İşletmeden ayrılarak eşitliği sağlamak",
-   "Ücret zammı veya daha fazla sorumluluk talep ederek çıktılarını artırmaya çalışmak",
-   "Çıktı/girdi dengesini yeniden kurmak amacıyla iş çabasını ve verimliliğini azaltmak",
-   "Durumu bilişsel olarak yeniden yorumlayarak (rasyonalize ederek) dengeyi zihinsel düzeyde kurmak"
-  ],
-  "dogru": 2,
-  "aciklama": "Adams'ın Eşitlik Teorisi'ne göre bireyler kendi girdi-çıktı oranlarını başkalarınınkiyle kıyaslar; oranlar eşit değilse gerginlik (tension) yaşanır ve bu gerginliği azaltmak için çeşitli yollara başvurulur: girdi azaltma (çabasını düşürme), çıktı artırma talebi, referans kişiyi değiştirme, durumu yeniden yorumlama ve örgütten ayrılma bunların başında gelir. 'Daha fazla sorumluluk talep etmek' ise çıktı artırımına değil, girdi artırımına karşılık gelir ve eşitsizlik hissini gidermez, aksine oranı daha da bozabilir. Eşitsizliği gidermek için çıktı artışı (zam talebi) ya da girdi azalışı (daha az çalışmak) mantıklıdır; daha fazla sorumluluk üstlenmek ek çaba gerektireceğinden bu teorinin öngördüğü bir davranış değildir.",
-  "zorluk": "orta"
- },
- {
   "id": "52491",
   "dersId": "isletme",
   "konuId": "i_nsan_kaynaklari",
@@ -8368,22 +7904,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "52526",
-  "dersId": "isletme",
-  "konuId": "i_nsan_kaynaklari",
-  "soru": "Vroom'un Beklenti Teorisi ile Adams'ın Eşitlik Teorisi'ni birleştiren bir çerçevede değerlendirildiğinde, aşağıdaki çalışan profilinin motivasyonu açıklamak için her iki teoriden de destek alan tek senaryo hangisidir?",
-  "secenekler": [
-   "Bir çalışan, grup normlarına uymak için orta düzeyde çaba göstermektedir",
-   "Bir çalışan, şirketin piyasanın üzerinde ücret ödediğini bildiği için sürekli olarak yüksek çaba harcamaktadır Bu çalışan aynı zamanda çabasının doğrudan yüksek performansa dönüşeceğine inanmakta ve ödülü değerli bulmaktadır",
-   "Bir çalışan, çabasının yüksek performansa yol açacağına inanmakta (yüksek beklenti) ancak aynı performansı gösteren eşinin çok daha yüksek prim aldığını öğrenince motivasyonu düşmektedir",
-   "Bir çalışan, yöneticisinden sürekli olumlu geri bildirim aldığı için motive olmaktadır",
-   "Bir çalışan, işinin anlam taşıdığını düşündüğü için içsel motivasyonla çalışmaktadır"
-  ],
-  "dogru": 2,
-  "aciklama": "A şıkkı her iki teoriyi birleştirir: Vroom açısından – çalışan çaba→performans bağını kurmaktadır (yüksek beklenti/expectancy). Ancak Adams açısından – çalışan kendi girdi/çıktı oranını referans kişiyle (eşi) karşılaştırmakta ve eşitsizlik algılamaktadır. Eşitsizlik algısı motivasyonu baskılamakta; böylece Vroom'un araçsallık veya valans boyutu da sekteye uğramaktadır. B yalnızca hijyen faktör mantığını yansıtır. C sosyal öğrenme/pekiştirme teorisiyle daha uyumludur. D içsel motivasyon (SDT veya iş özellikleri modeliyle ilişkili). E sosyal kimlik veya grup dinamiği teorisiyle örtüşür.",
-  "zorluk": "zor"
- },
- {
   "id": "52527",
   "dersId": "isletme",
   "konuId": "i_nsan_kaynaklari",
@@ -8397,22 +7917,6 @@
   ],
   "dogru": 3,
   "aciklama": "En iyi uyum yaklaşımı, İK uygulamalarının örgütün stratejisi, yapısı, çevresi ve yaşam döngüsü aşamasıyla uyumlu olması gerektiğini savunur. B şıkkı bu argümanı doğrudan kanıtlar: Aynı uygulama (kapsamlı eğitim), farklı stratejik bağlamlarda zıt sonuçlar doğurmaktadır. Düşük maliyet stratejisi için yüksek eğitim yatırımı 'evrensel iyi uygulama' olmasına karşın stratejik uyumsuzluk nedeniyle zararlı olmuştur. A, C, D ve E evrenselci yaklaşımın başarısını veya nötr uygulamaları yansıtmaktadır.",
-  "zorluk": "zor"
- },
- {
-  "id": "52528",
-  "dersId": "isletme",
-  "konuId": "i_nsan_kaynaklari",
-  "soru": "İşgücü planlamasında Markov Analizi uygulanmaktadır. Belirli bir pozisyonda 100 çalışan bulunmakta; geçiş matrisi incelendiğinde bu pozisyondan bir üst pozisyona geçiş olasılığı %15, aynı pozisyonda kalma olasılığı %60, ayrılma olasılığı %25 olarak hesaplanmıştır. Bir sonraki dönem için bu pozisyondaki arzın yalnızca iç transferlerle karşılandığı ve dışarıdan 8 kişi işe alındığı varsayıldığında, dönem sonu iç arz kaç kişidir ve toplam arz ile karşılaştırıldığında hangi sonuç doğrudur?",
-  "secenekler": [
-   "İç arz 60 kişi, toplam arz 68 kişi; 100 kişilik ihtiyaca göre 32 kişilik açık bulunmaktadır",
-   "İç arz 60 kişi, toplam arz 68 kişi; pozisyonda açık (shortage) söz konusudur",
-   "İç arz 75 kişi, toplam arz 83 kişi; pozisyonda fazla işgücü söz konusudur",
-   "İç arz 75 kişi, toplam arz 83 kişi; 100 kişilik ihtiyaca göre 17 kişilik açık bulunmaktadır",
-   "İç arz 85 kişi, toplam arz 93 kişi; pozisyonda fazla işgücü söz konusu değildir"
-  ],
-  "dogru": 3,
-  "aciklama": "Markov analizi hesabı: Aynı pozisyonda kalan: 100 × %60 = 60 kişi. Üst pozisyona geçen: 100 × %15 = 15 kişi (bu pozisyondan çıkar). Ayrılan: 100 × %25 = 25 kişi. İç arz (bu pozisyonda kalan): 60 kişi değil, dikkat – iç arz yalnızca 'aynı pozisyonda kalanlar' değil, alt pozisyonlardan gelenler de eklenebilir; ancak soru 'yalnızca iç transferlerle karşılandığı' ve alt pozisyon bilgisi verilmediğinden iç arz = aynı pozisyonda kalan = 60 kişi olarak alınmamalıdır. Soru 'aynı pozisyonda kalma %60' diyor. Pozisyondaki kalan = 60. Dışarıdan 8 kişi ekleniyor. Toplam = 68. İhtiyaç 100 ise açık = 32 kişi. Ancak D şıkkında 75 ve 83 yer almakta; sorunun doğru kurgusu şöyle okunmalıdır: İç arz = aynı pozisyonda kalan (60) + alt kademeden transfer – ama transfer bilgisi yok. Standart Markov'da 'bu pozisyondaki arz' = kalanlar = 60; dışarıdan 8 = toplam 68; açık 32 kişi. Bu C şıkkıdır. Ancak D seçeneği seçilmiştir: Burada soru 'iç transferler' ifadesini yanlış okuma tuzağı içerir. Doğru cevap C'dir; açıklama bunu destekler: İç arz 60, dış 8, toplam 68, ihtiyaç 100, açık 32.",
   "zorluk": "zor"
  },
  {
@@ -8557,22 +8061,6 @@
   ],
   "dogru": 0,
   "aciklama": "360 derece sistemlerde çalışanlar, birbirini değerlendirdiğinin farkındadır. Zaman içinde 'seni yüksek puan verirsen seni yüksek puan veririm' şeklinde örtük bir karşılıklılık normu (reciprocity norm) oluşur ve bu değerlendirme enflasyonuna (leniency bias) yol açar. Bu, 360 derece sistemlerin en bilinen yapısal zaafiyetlerinden biridir ve akademik çalışmalarda 'reciprocity-induced rating inflation' olarak tanımlanmaktadır. Hale etkisi genel bir olumlu izlenim yanlılığıdır; merkezi eğilim ise uç puanlardan kaçınmadır; bunların hiçbiri stratejik puanlama davranışını açıklamaz.",
-  "zorluk": "zor"
- },
- {
-  "id": "52538",
-  "dersId": "isletme",
-  "konuId": "i_nsan_kaynaklari",
-  "soru": "İşgücü planlaması yapan bir İK analistinin elinde şu veriler bulunmaktadır: Mevcut çalışan sayısı 500, yıllık doğal kayıp oranı %8, önümüzdeki yıl için planlanan büyüme %15. Dışarıdan işe alım maliyeti kişi başı 12.000 TL, içeriden terfi maliyeti kişi başı 4.500 TL iken içeriden karşılanabilecek pozisyonların oranı %40'tır. Şirketin önümüzdeki yıl katlanacağı toplam işe alım maliyeti (TL) aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "882.000 TL",
-   "1.134.000 TL",
-   "756.000 TL",
-   "630.000 TL",
-   "1.008.000 TL"
-  ],
-  "dogru": 0,
-  "aciklama": "Adım 1 – Toplam ihtiyaç: Büyüme kaynaklı ihtiyaç = 500 × %15 = 75; Doğal kayıp ihtiyacı = 500 × %8 = 40; Toplam = 115 pozisyon. Adım 2 – Kaynak dağılımı: İçeriden = 115 × %40 = 46 kişi; Dışarıdan = 115 × %60 = 69 kişi. Adım 3 – Maliyet: İçeriden = 46 × 4.500 = 207.000 TL; Dışarıdan = 69 × 12.000 = 828.000 TL; Toplam = 207.000 + 828.000 = 1.035.000 TL. En yakın seçenek hesaplama yuvarlama farkı gözetildiğinde C şıkkıdır. Not: Soru, iç-dış dağılımının büyüme ve kayıp toplamına uygulandığı kombinasyonu test etmektedir; yalnızca büyümeye veya yalnızca kayba uygulayan adaylar hatalı sonuç bulur.",
   "zorluk": "zor"
  },
  {

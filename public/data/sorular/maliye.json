@@ -896,22 +896,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "48058",
-  "dersId": "maliye",
-  "konuId": "kamu_maliyesi",
-  "soru": "Türkiye'de 'merkezi yönetim bütçesi' kapsamında aşağıdakilerden hangisi yer almaz?",
-  "secenekler": [
-   "Hazine ile bağlantılı fon ve döner sermayeler",
-   "Genel bütçe kapsamındaki kamu idareleri",
-   "Özel bütçeli idareler (üniversiteler, düzenleyici kurumlar vb.)",
-   "Sosyal güvenlik kurumları (SGK, İŞKUR)",
-   "Düzenleyici ve denetleyici kurumlar (BDDK, EPDK vb.)"
-  ],
-  "dogru": 3,
-  "aciklama": "5018 sayılı Kanun'a göre merkezi yönetim bütçesi; genel bütçe, özel bütçeli idareler ve düzenleyici-denetleyici kurumların bütçelerinden oluşur. SGK ve İŞKUR gibi sosyal güvenlik kurumları ise merkezi yönetim bütçesinin değil, 'genel yönetim' kapsamının bir parçasıdır. Genel yönetim; merkezi yönetim, sosyal güvenlik kurumları ve mahalli idareleri birlikte kapsar. Döner sermayeler ise 5018 kapsamı dışında özel düzenlemelere tabidir. Bu ayrım KPSS'de sıkça sınanan bir konu olup dikkatli bilinmesi gerekir.",
-  "zorluk": "orta"
- },
- {
   "id": "48059",
   "dersId": "maliye",
   "konuId": "kamu_maliyesi",
@@ -989,22 +973,6 @@
   ],
   "dogru": 0,
   "aciklama": "Ramsey Kuralı, refah kaybını minimize etmek için vergi oranlarının talep esneklikleri ile ters orantılı belirlenmesini öngörür (ters esneklik kuralı). Diamond-Mirrlees teoremi ise optimal vergi yapısında üretim etkinliğinin sağlanması gerektiğini, yani vergilerin üretim kararlarını değil tüketim kararlarını bozması gerektiğini ileri sürer; bu nedenle ara mallara vergi konulmaması gerekir. B seçeneği, Ramsey Kuralı'nın esneklik boyutunu doğru ifade etmekte ve Diamond-Mirrlees'in üretim etkinliği koşuluyla uyumlu bir bütünleşik değerlendirme sunmaktadır. A seçeneği ara mal vergisini savunduğundan Diamond-Mirrlees ile çelişir; C ve D tekdüze vergi önermesiyle her iki teoremin ruhuna aykırıdır; E ise Ramsey Kuralı'nın uygulama alanını hatalı biçimde kısıtlamaktadır.",
-  "zorluk": "zor"
- },
- {
-  "id": "48064",
-  "dersId": "maliye",
-  "konuId": "kamu_maliyesi",
-  "soru": "Bir kamu malı için iki bireyden oluşan bir ekonomide A bireyi P_A = 20 - Q ve B bireyi P_B = 30 - 2Q marjinal fayda eğrilerine sahipken marjinal maliyet sabit MC = 15'tir. Samuelson koşuluna göre optimal kamu malı miktarı kaçtır ve bu miktarda hangi birey daha yüksek fiyat (vergi payı) ödemektedir?",
-  "secenekler": [
-   "Q* = 10; iki birey eşit vergi payı ödemektedir.",
-   "Q* = 5; A bireyinin vergi payı daha yüksektir.",
-   "Q* = 5; B bireyinin vergi payı daha yüksektir.",
-   "Q* = 7; A bireyinin vergi payı daha yüksektir.",
-   "Q* = 7; B bireyinin vergi payı daha yüksektir."
-  ],
-  "dogru": 2,
-  "aciklama": "Samuelson koşulu: ΣMWTP = MC. Toplam marjinal fayda = P_A + P_B = (20 - Q) + (30 - 2Q) = 50 - 3Q. 50 - 3Q = 15 → 3Q = 35 → Q* = 35/3 ≈ 11,67. Hesaplama yuvarlamasız yapıldığında Q* ≈ 11,67'dir. Ancak sorunun sunduğu seçenekler arasında en yakın değerlendirmeyle B seçeneği (Q*=5) veya C seçeneği (Q*=7) sorgulanmalıdır. Q=5 için: P_A = 20-5 = 15, P_B = 30-10 = 20; toplam = 35 ≠ 15. Q=7 için: P_A = 13, P_B = 16; toplam = 29 ≠ 15. Gerçek optimum: Q* ≈ 11,67; Q=11 için P_A = 9, P_B = 8; toplam = 17 ≈ 15'e yakın. Bu soruda analitik süreç kritiktir: B bireyinin marjinal faydası her zaman A'dan yüksek olduğundan (daha dik eğri ama daha yüksek kesim) Lindahl denge fiyatında B daha yüksek vergi payı ödemektedir. Sorunun kurgusu çerçevesinde B seçeneği (Q*=5, B daha yüksek) en yakın analitik yanıttır.",
   "zorluk": "zor"
  },
  {
@@ -1133,22 +1101,6 @@
   ],
   "dogru": 3,
   "aciklama": "Ricardocu denklik teoreminin en kritik varsayımları şunlardır: (1) tüketiciler ileriye dönük rasyoneldir (Barro'nun ölümsüz hane halkı varsayımı); (2) sermaye piyasalarına tam erişim; (3) nesiller arası özgecil transferler (bequest motive). Bu varsayımlardan herhangi biri ihlal edilirse teorem çöker. C seçeneğindeki iki koşul teoremin tam kalbine işaret etmektedir: Likidite kısıtlı haneler şu anki vergi indirimini geleceğe aktaramaz, dolayısıyla tüketimlerini hemen artırır. Nesiller arası bağsız (ya da bequest motiften yoksun) bireyler gelecek neslin vergi yükünü içselleştirmez. Bu iki koşulun ampirik varlığı geniş ölçüde belgelenmiştir ve Ricardocu denkliğe karşı en güçlü kanıtı oluşturur. E seçeneği kısmen doğru olmakla birlikte Ricardocu denkliğin yalnızca kapalı ekonomide geçerli olduğu iddiası tam doğru değildir; açık ekonomide de varlıklı ve ileriye dönük rasyonel bireyler teoremi destekleyebilir.",
-  "zorluk": "zor"
- },
- {
-  "id": "48073",
-  "dersId": "maliye",
-  "konuId": "kamu_maliyesi",
-  "soru": "Bir ekonomide yatırım harcamaları G = 200 + 0,4Y düzeyinde gerçekleşmekte, özel tüketim C = 100 + 0,6(Y - T), vergi T = 50 + 0,25Y, ihracat X = 150, ithalat M = 80 + 0,15Y olarak verilmektedir. Bu ekonomide denge gelir düzeyi Y* ve kamu harcaması çarpanı (basit bütçe dengesi değişmeksizin) aşağıdakilerden hangisinde doğru olarak verilmiştir?",
-  "secenekler": [
-   "Y* = 1100; Çarpan = 1,75",
-   "Y* = 1200; Çarpan = 2,2",
-   "Y* = 1250; Çarpan = 2,0",
-   "Y* = 950; Çarpan = 3,0",
-   "Y* = 1000; Çarpan = 2,5"
-  ],
-  "dogru": 2,
-  "aciklama": "Denge koşulu: Y = C + G + X - M. Y = [100 + 0,6(Y - 50 - 0,25Y)] + [200 + 0,4Y] + 150 - [80 + 0,15Y]. Parantez içini açalım: C = 100 + 0,6Y - 30 - 0,15Y = 70 + 0,45Y. Y = (70 + 0,45Y) + (200 + 0,4Y) + 150 - 80 - 0,15Y. Y = 340 + (0,45 + 0,4 - 0,15)Y = 340 + 0,7Y. Y - 0,7Y = 340 → 0,3Y = 340 → Y = 340/0,3 ≈ 1133. En yakın seçenek C (1100) olmakla birlikte hesaplamada net değer ≈ 1133'tür. Çarpan hesabı: Marjinal sızıntı oranı = s(1-t) + t + m = 0,4×0,75 + 0,25 + 0,15 = 0,3 + 0,25 + 0,15 = 0,7; burada marjinal tüketim eğilimi 0,6, marjinal vergi oranı 0,25, marjinal ithalat eğilimi 0,15'tir. Çarpan = 1/(1-0,7) = 1/0,3 ≈ 3,33. Hesaplamaya göre B seçeneği (Y*=1250, Çarpan=2,0) modelin parametreleri farklı yorumlandığında elde edilebilen en yakın tutarlı çift olduğundan sınav bağlamında B işaretlenir; ancak gerçek hesaplama Y≈1133, Çarpan≈3,33'tür.",
   "zorluk": "zor"
  },
  {
@@ -2317,22 +2269,6 @@
   ],
   "dogru": 4,
   "aciklama": "Ekonomik sınıflandırma, kamu harcamalarını ekonomik niteliklerine göre cari harcamalar (personel, mal ve hizmet alımları), sermaye (yatırım) harcamaları ve transfer harcamaları şeklinde gruplandırır. Fonksiyona göre savunma-eğitim ayrımı fonksiyonel; merkezi-yerel ayrımı ise kurumsal sınıflandırmaya girer.",
-  "zorluk": "kolay"
- },
- {
-  "id": "48148",
-  "dersId": "maliye",
-  "konuId": "kamu_harcamalari",
-  "soru": "Devletin bir kamu hizmetini özel sektöre gördürmesi yerine doğrudan kendisinin üstlenmesi durumunda ortaya çıkan fırsat maliyetini açıklayan kavram aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Dışsallık maliyeti",
-   "Dolaylı kamu harcaması",
-   "Sosyal maliyet",
-   "Vergi harcaması",
-   "Özel maliyet"
-  ],
-  "dogru": 1,
-  "aciklama": "Dolaylı kamu harcamaları, devletin belirli bir hizmeti piyasadan satın almak yerine kendi öz kaynakları ve personeli ile sunması sonucunda katlandığı fırsat maliyetini ifade eder. Bu kavram, bütçede görünmeyen ancak ekonomik bir maliyet oluşturan kamu kaynak kullanımlarını kapsar.",
   "zorluk": "kolay"
  },
  {
@@ -6368,22 +6304,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "48403",
-  "dersId": "maliye",
-  "konuId": "butce",
-  "soru": "Türkiye'de 'kesin hesap kanunu' ile ilgili aşağıdakilerden hangisi doğrudur?",
-  "secenekler": [
-   "Kesin hesap kanunu, bütçe kanunundan bağımsız olarak Hazine ve Maliye Bakanlığı tarafından hazırlanır.",
-   "Kesin hesap kanunu, bütçe uygulama sonuçlarını ve Sayıştay'ın genel uygunluk bildirimini birlikte içerir.",
-   "Kesin hesap kanunu, bir sonraki yılın bütçe kanunu ile eş zamanlı olarak görüşülüp kabul edilir.",
-   "Kesin hesap kanununun TBMM tarafından reddedilmesi, hükümetin otomatik olarak düşmesine yol açar.",
-   "Kesin hesap kanunu tasarısı, izleyen mali yılın Haziran ayı sonuna kadar TBMM'ye sunulur."
-  ],
-  "dogru": 2,
-  "aciklama": "5018 sayılı Kanun'un 42. maddesine göre kesin hesap kanunu tasarısı, merkezi yönetim bütçe kanunu tasarısıyla birlikte (Ekim ayı başında) TBMM'ye sunulur ve bütçe kanunu görüşmeleriyle eş zamanlı görüşülür. Kesin hesap kanununun reddedilmesi hükümeti otomatik düşürmez; bu Türk anayasal sisteminde böyle bir sonuç doğurmaz. Ayrıca kesin hesap kanunu tasarısını Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı hazırlar, Hazine ve Maliye Bakanlığı değil.",
-  "zorluk": "orta"
- },
- {
   "id": "48404",
   "dersId": "maliye",
   "konuId": "butce",
@@ -6640,22 +6560,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "48420",
-  "dersId": "maliye",
-  "konuId": "butce",
-  "soru": "Bir ülkede merkezi yönetim bütçesi kapsamındaki bir kurumun, bütçe yılı içinde öngörülemeyen harcamalar nedeniyle ödeneğinin yetersiz kalması durumunda başvurabileceği yollardan biri olan 'ödenek aktarması' ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
-  "secenekler": [
-   "Personel giderleri tertibinden diğer tertiplere aktarma yapılabilir.",
-   "Aktarma yapılan tertipten, yılı içinde başka bir tertibe aktarma yapılamaz.",
-   "Kanunlarla belirli amaçlara tahsis edilmiş ödenekler aktarma işlemine konu edilemez.",
-   "Merkezi yönetim bütçesinde kurumlar arası aktarma Cumhurbaşkanlığı kararıyla yapılır.",
-   "Yedek ödenek tertibinden yapılacak aktarmalar Cumhurbaşkanlığı kararıyla gerçekleştirilir."
-  ],
-  "dogru": 0,
-  "aciklama": "5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu'nun 21. maddesine göre, personel giderleri tertiplerinden diğer tertiplere aktarma yapılması yasaktır. Bu nedenle A şıkkı yanlış ifade içermektedir. Diğer şıklardaki bilgiler doğrudur: yedek ödenek aktarmaları Cumhurbaşkanlığı kararıyla, kurumlar arası aktarmalar da Cumhurbaşkanlığı kararıyla yapılır; aktarma yapılan tertipten yılı içinde başka bir tertibe aktarma yapılamaz.",
-  "zorluk": "zor"
- },
- {
   "id": "48421",
   "dersId": "maliye",
   "konuId": "butce",
@@ -6765,22 +6669,6 @@
   ],
   "dogru": 2,
   "aciklama": "Haavelmo (denk bütçe) teoremi, kamu harcamaları ve vergi gelirlerinin eşit miktarda artırılması halinde milli gelirin tam olarak bu artış miktarı kadar yükseleceğini ortaya koymaktadır; yani denk bütçe çarpanı 1'e eşittir. Bunun matematiksel ispatı şöyledir: Kamu harcamaları çarpanı 1/(1-MPC), vergi çarpanı -MPC/(1-MPC)'dir. İkisi toplandığında 1/(1-MPC) + [-MPC/(1-MPC)] = (1-MPC)/(1-MPC) = 1 elde edilir. A şıkkı yanlıştır, net etki sıfır değil 1'dir. C şıkkı yanlıştır, denk bütçe çarpanı MPC'den bağımsız olarak her zaman 1'e eşittir. D şıkkı yanlıştır, klasik modelde tam istihdam varsayımı nedeniyle vergi-harcama artışı reel geliri değil fiyatları etkiler. E şıkkı yanlıştır, vergi çarpanının mutlak değeri harcama çarpanından küçüktür.",
-  "zorluk": "zor"
- },
- {
-  "id": "48428",
-  "dersId": "maliye",
-  "konuId": "butce",
-  "soru": "Türkiye bütçe sistemi içinde 'tahakkuk esası' ve 'nakit esası' karşılaştırması yapıldığında, 5018 sayılı Kanun'un benimsediği muhasebe sistemi ve bu sistemin sonuçlarına ilişkin aşağıdakilerden hangisi doğrudur?",
-  "secenekler": [
-   "5018 sayılı Kanun tahakkuk esaslı muhasebeyi benimsemiş; ancak bütçe uygulamasında nakit esası da kullanılmaktadır.",
-   "5018 sayılı Kanun nakit esaslı muhasebeyi benimsemiş; bu nedenle bütçe açıkları reel anlamda ölçülememektedir.",
-   "5018 sayılı Kanun, Türkiye'yi nakit esaslı muhasebeden vazgeçirerek tamamen tahakkuk esasına geçiren ilk yasal düzenlemedir; ancak bu geçiş hâlâ tamamlanamamıştır.",
-   "Tahakkuk esasında gelirler ve giderler, karar aşamasında değil, hukuki yükümlülüğün doğduğu anda kayıt altına alınır.",
-   "Nakit esasında kamu alacakları, tahsil edilmeden önce gelir olarak muhasebeleştirilir."
-  ],
-  "dogru": 0,
-  "aciklama": "5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu, devlet muhasebesini nakit esasından tahakkuk esasına geçirmeyi öngörmüştür ve devlet muhasebesi tahakkuk esasına dayanmaktadır. Ancak bütçe uygulamasının takibinde (harcama ve gelir takibinde) nakit esaslı unsurlar da fiilen yer almaktadır; iki sistem bir arada kullanılmaktadır. Bu nedenle B şıkkı doğrudur. C şıkkı kısmen doğru görünse de 'karar aşamasında değil' ifadesi tahakkuk esasını tam yansıtır; bu şık da teknik olarak doğru olmakla birlikte soruda en kapsamlı ve doğrudan doğru yanıt B şıkkıdır. A şıkkı yanlıştır, 5018 tahakkuk esasını benimsemiştir. D şıkkı yanlıştır, nakit esasında gelirler tahsil edildiğinde kayıt altına alınır. E şıkkı yanlıştır, geçiş büyük ölçüde tamamlanmıştır.",
   "zorluk": "zor"
  },
  {

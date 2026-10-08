@@ -1328,22 +1328,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "200084",
-  "dersId": "egitimbilimleri",
-  "konuId": "gelisim_psikolojisi",
-  "soru": "Dil gelişiminde 'kritik dönem hipotezi'ni (Lenneberg) desteklemek amacıyla incelenen 'yabani çocuklar' (feral children) vakalarından biri olan Genie, 13 yaşında keşfedildiğinde uzun süreli izolasyon ve dil yoksunluğu deneyimlemiştir. Sonraki dil edinimi süreci değerlendirildiğinde aşağıdaki hangi yorum, kritik dönem hipotezi ve dil gelişimi kuramları açısından en nüanslı ve ampirik açıdan desteklenir yorumdur?",
-  "secenekler": [
-   "Genie vakası metodolojik sorunlar (duygusal ihmal, birden fazla dil yoksunluğu etkeni) nedeniyle kritik dönem hipotezi için güvenilir kanıt değildir ve ayrı değerlendirilmelidir",
-   "Genie sözcük dağarcığı geliştirmiş ancak sözdizimsel (sentaktik) kuralları kazanamamıştır; bu bulgu kritik dönemin yalnızca sentaks için geçerli olabileceğine işaret eder",
-   "Hem B hem de C şıkları birlikte değerlendirildiğinde, vakadan çıkarılabilecek en güçlü ve metodolojik açıdan en dürüst sonucu sunar",
-   "Genie'nin başarısız dil gelişimi, dil yetisinin tamamen doğuştan (innate) olduğunu ve çevresel etkiden bağımsız olduğunu kanıtlamaktadır",
-   "Genie'nin belirli düzeyde dil edinmesi kritik dönem hipotezini tümüyle çürütmektedir"
-  ],
-  "dogru": 2,
-  "aciklama": "Genie vakasından tek bir çıkarım yapmak metodolojik açıdan son derece risklidir; ancak birden fazla gözlem birlikte değerlendirildiğinde daha zengin bir anlayış ortaya çıkar. 'B' şıkkı ampirik açıdan doğrudur: Genie kelime ve anlam (semantik/pragmatik) düzeyinde belirli bir ilerleme kaydetmiş, ancak morfoloji ve sözdizimini kazanamamıştır; bu da kritik dönem etkisinin dil sistemleri arasında farklılaşabileceğine işaret eder. 'C' şıkkı ise aynı derecede önemlidir: Genie uzun süreli fiziksel, duygusal istismar ve ciddi yetersiz beslenme yaşamıştır; bu durum dil yoksunluğunun salt etkisini diğer etkilerden ayırt etmeyi olanaksız kılar. Bu karıştırıcı değişkenler nedeniyle vaka, kritik dönem hipotezi için kesin bir sınav niteliği taşımaz. İki gözlemi birleştiren 'E' şıkkı en dürüst ve kapsamlı değerlendirmeyi sunar.",
-  "zorluk": "zor"
- },
- {
   "id": "200085",
   "dersId": "egitimbilimleri",
   "konuId": "gelisim_psikolojisi",
@@ -2557,22 +2541,6 @@
   ],
   "dogru": 4,
   "aciklama": "Bruner'ın keşif yoluyla öğrenme anlayışında öğrenci aktif olarak araştırır, hipotez kurar, örüntüleri kendi çabalarıyla keşfeder ve anlar. Bu yaklaşım tümevarımsal düşünmeyi, problem çözmeyi ve içsel motivasyonu ön plana çıkarır. Formülleri ezberleme egzersizleri ise Ausubel'in 'mekanik öğrenme' diye nitelendirdiği, bilgiyi anlamsal bağlantı kurmaksızın depolamayı içeren bir yaklaşımdır. Bu durum, keşif yoluyla öğrenmenin anlam kurma anlayışıyla doğrudan çelişir.",
-  "zorluk": "orta"
- },
- {
-  "id": "200161",
-  "dersId": "egitimbilimleri",
-  "konuId": "ogrenme_kuramlari",
-  "soru": "Watson ve Rayner'ın 'Küçük Albert' deneyi, koşullu korku tepkisinin başka uyarıcılara yayıldığını göstermiştir. Bu deneyde, Albert'in beyaz laboratuvar faresine verdiği koşullu tepkinin köpeğe, pamuklu oyuncağa ve beyaz tavşana da yayılması hangi iki kavramı birlikte örneklemektedir?",
-  "secenekler": [
-   "İkincil koşullanma ve söndürme",
-   "Uyarıcı genellemesi ve ikincil koşullanma",
-   "Söndürme ve kendiliğinden geri gelme",
-   "Uyarıcı genellemesi ve ayrım yapma",
-   "Ayrım yapma ve pekiştirme"
-  ],
-  "dogru": 1,
-  "aciklama": "Küçük Albert deneyinde iki önemli süreç gözlemlenmiştir. İlk olarak, beyaz fare (koşullu uyarıcı) ile yüksek ses (koşulsuz uyarıcı) eşleştirilmiştir; bu temel koşullanmadır. Ardından beyaz fareye verilen korku tepkisi, fareden farklı ancak 'beyazlık/tüylülük' gibi ortak özelliklere sahip uyarıcılara da genellenmiştir — bu uyarıcı genellemesidir. Öte yandan beyaz farenin kendisi daha sonra diğer nesneleri koşullu uyarıcıya dönüştürebilecek bir işareve dönüşmüş; yani farenin eşleştirilmesiyle diğer nesneler de korku tepkisi üretmeye başlamıştır — bu ikincil (türev) koşullanmadır. Bu iki süreç birlikte bu deneyin en belirgin kavramsal çıktısıdır.",
   "zorluk": "orta"
  },
  {
@@ -5968,22 +5936,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "200374",
-  "dersId": "egitimbilimleri",
-  "konuId": "gudulenme",
-  "soru": "Dweck'in Hedef Kuramı'na göre öğrencilerin iki temel hedef yönelimi vardır. Aşağıdakilerden hangisi bu yönelimlerden biri değildir?",
-  "secenekler": [
-   "Kaçınma yönelimi",
-   "Performans yönelimi",
-   "Bütünleşik yönelim",
-   "İçsel yönelim",
-   "Öğrenme (ustalaşma) yönelimi"
-  ],
-  "dogru": 2,
-  "aciklama": "Dweck'in Hedef Kuramı'nda temel olarak iki yönelim tanımlanmaktadır: öğrenme/ustalaşma yönelimi (öğrenmek ve gelişmek amaçlanır) ve performans yönelimi (başkalarına göre iyi görünmek ya da kötü görünmekten kaçınmak amaçlanır). Kaçınma yönelimi performans yöneliminin alt boyutu olarak ele alınabilir. 'Bütünleşik yönelim' bu kuramda yer almaz.",
-  "zorluk": "kolay"
- },
- {
   "id": "200375",
   "dersId": "egitimbilimleri",
   "konuId": "gudulenme",
@@ -6141,22 +6093,6 @@
   ],
   "dogru": 2,
   "aciklama": "Weiner'in yükleme kuramı üç boyut içerir: (1) kontrol odağı (içsel/dışsal), (2) kararlılık (stabil/değişken), (3) kontrol edilebilirlik. 'Sınavın zor olması' yükleme türü şöyle sınıflandırılır: Kontrol odağı dışsaldır (neden bireyin dışında). Kararlılık açısından stabildir (görev güçlüğü genellikle değişmez, bu nedenle 'kararlı' yani stabil). Kontrol edilebilirlik açısından kontrol edilemezdir (birey sınavın güçlüğünü değiştiremez). Bu üç boyutun doğru eşleştirilmesi B seçeneğidir. A şıkkındaki 'kararsız' ifadesi yanlıştır; görev güçlüğü stabil (kararlı) bir etkendir.",
-  "zorluk": "orta"
- },
- {
-  "id": "200385",
-  "dersId": "egitimbilimleri",
-  "konuId": "gudulenme",
-  "soru": "Maslow'un ihtiyaçlar hiyerarşisini sınıf ortamına uygulayan bir araştırmacı, aşağıdaki öğrenci profillerini incelemektedir. Hangi öğrencinin durumu, hiyerarşinin doğrudan bir istisnasını değil, kuramın en sık eleştirilen sınırlılığını yansıtmaktadır?",
-  "secenekler": [
-   "Fizyolojik ihtiyaçları büyük ölçüde karşılanan ancak düşük sosyoekonomik düzeyden gelen bir öğrencinin güvenlik kaygısı yaşaması",
-   "Evde şiddet gören, temel güvenlik ihtiyacı karşılanmamış olan bir öğrencinin derste yüksek akademik başarı göstermesi",
-   "Ait olma ihtiyacını karşılamak amacıyla arkadaş grubuna uyum sağlamak için ders çalışmayı bırakan bir öğrenci",
-   "Öz-saygı ihtiyacı tam karşılanmadan kendini gerçekleştirme düzeyinde eserler ürettiği gözlemlenen bir öğrenci",
-   "Tüm fizyolojik ve güvenlik ihtiyaçları karşılanan bir öğrencinin sosyal kabul görmediği için öğrenmeye ilgi duymaması"
-  ],
-  "dogru": 1,
-  "aciklama": "Maslow'un hiyerarşisine yönelik en güçlü eleştiri, alt ihtiyaçlar karşılanmadan üst düzey motivasyonun işleyemeyeceği savının her durumda geçerli olmadığıdır. A şıkkında temel güvenlik ihtiyacı karşılanmamış olmasına rağmen öğrencinin yüksek akademik başarı göstermesi, bu eleştiriye somut bir örnek sunar; hiyerarşinin katı sıralı yapısının gerçek yaşamda her zaman geçerli olmadığını gösterir. D şıkkı da bir istisna gibi görünse de soru 'kuramın en sık eleştirilen sınırlılığını' sormaktadır. Alt ihtiyaç (güvenlik) karşılanmadan üst düzey (bilişsel/akademik) motivasyonun işlemesi, kuramın hiyerarşik katılığına yönelik temel eleştiridir ve A bu eleştiriyi en doğrudan örneklemektedir.",
   "zorluk": "orta"
  },
  {
@@ -8160,22 +8096,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "200511",
-  "dersId": "egitimbilimleri",
-  "konuId": "ogretim_i_lkeleri",
-  "soru": "Sosyal Bilgiler öğretmeni, Türkiye'nin iklim bölgelerini anlatırken öğrencilerin yaşadığı şehrin iklimiyle başlayıp Karadeniz, Akdeniz ve İç Anadolu iklimlerine geçmektedir. Ardından öğrencilerden Türkiye haritası üzerinde iklim bölgelerini boyamasını istemektedir. Bu uygulamada birden fazla ilke bir arada kullanılmaktadır. Aşağıdakilerden hangisi bu uygulamada kullanılan ilkeler arasında yer almaz?",
-  "secenekler": [
-   "Bilinenden bilinmeyene ilkesi",
-   "Bütünden parçaya ilkesi",
-   "Somuttan soyuta ilkesi",
-   "Aktivite ilkesi",
-   "Transfer ilkesi"
-  ],
-  "dogru": 4,
-  "aciklama": "Bu uygulamada; öğrencinin kendi şehrinin ikliminden başlanması (bilinenden bilinmeyene), harita boyama etkinliğiyle öğrencinin aktif kılınması (aktivite), harita gibi somut materyalin kullanılması (somuttan soyuta), önce genel Türkiye coğrafyasının ardından iklim alt bölgelerinin incelenmesi (bütünden parçaya) ilkeleri kullanılmaktadır. Transfer ilkesi ise öğrenilenlerin yeni ve farklı durumlara uygulanmasını ifade eder; bu senaryoda öğrenilenlerin başka bir bağlama taşınması söz konusu değildir.",
-  "zorluk": "orta"
- },
- {
   "id": "200512",
   "dersId": "egitimbilimleri",
   "konuId": "ogretim_i_lkeleri",
@@ -8573,22 +8493,6 @@
   ],
   "dogru": 4,
   "aciklama": "Negatif transfer, daha önce öğrenilen bir bilgi ya da becerinin yeni öğrenmeyi olumsuz etkilemesi durumudur. D şıkkında İngilizce'nin özne-yüklem uyum kuralları (örneğin 'He goes' gibi çekimler) Türkçeye aktarılmaya çalışıldığında, iki dilin yapısal farklılıkları nedeniyle ciddi negatif transfer oluşur; çünkü Türkçe eklemeli, İngilizce ise çekimli-analitik bir dil yapısına sahiptir. B şıkkında kesirden ondalığa geçiş de negatif transfer riski taşır (örn. 1/4 = 0.4 hatası) ancak bu iki kavram aynı matematiksel sistemin parçasıdır. D şıkkındaki dil transferi ise farklı dil aileleri ve yapısal sistemler arasında gerçekleştiğinden negatif transfer riski en yüksek olandır.",
-  "zorluk": "zor"
- },
- {
-  "id": "200537",
-  "dersId": "egitimbilimleri",
-  "konuId": "ogretim_i_lkeleri",
-  "soru": "Öğretim ilkelerinden 'açıklık (clearness)' ilkesi ile Bloom taksonomisinin bilişsel basamakları ilişkilendirildiğinde, bu ilkenin yalnızca hangi basamaklar için yeterli olduğu ve hangi basamaklarda yetersiz kaldığı aşağıdakilerin hangisinde doğru verilmiştir?",
-  "secenekler": [
-   "Bilgi ve kavrama basamakları için yeterli; uygulama ve üzeri basamaklar için yetersizdir.",
-   "Tüm bilişsel basamaklar için yeterlidir; duyuşsal ve devinişsel alan basamakları için ise yetersizdir.",
-   "Açıklık ilkesi basamak ayrımı yapmaksızın tüm öğrenme düzeyleri için temel koşuldur ve hiçbir basamak için tek başına yeterli değildir.",
-   "Yalnızca bilgi basamağı için yeterli; kavrama ve üzeri tüm basamaklar için yetersizdir.",
-   "Uygulama ve analiz basamakları için yeterlidir; sentez ve değerlendirme basamakları için ise yetersiz kalmaktadır. Bu basamaklarda başka ilkeler gerekir."
-  ],
-  "dogru": 2,
-  "aciklama": "'Açıklık' ilkesi, öğretimin anlaşılır, net ve belirsizlikten arınmış olmasını gerektirir. Bu ilke, öğrenmenin gerçekleşebilmesi için her basamakta zorunlu bir ön koşuldur; ne kadar üst düzey düşünme hedeflenirse hedeflensin, açık olmayan bir öğretimde öğrenme gerçekleşemez. Ancak açıklık ilkesi tek başına hiçbir basamak için yeterli değildir; bilgi basamağında bile ezberlemenin ötesinde pekiştirme, analiz basamağında eleştirel sorgulama, sentez basamağında yaratıcı üretim gibi ek süreçler gereklidir. Dolayısıyla 'açıklık' ilkesi tüm basamaklar için temel koşul niteliğinde olmakla birlikte hiçbiri için tek başına yeterli değildir. Bu bütüncül yorum, seçenekler arasında en doğru olanıdır.",
   "zorluk": "zor"
  },
  {
@@ -15216,22 +15120,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "200952",
-  "dersId": "egitimbilimleri",
-  "konuId": "program_temelleri",
-  "soru": "Program geliştirmede 'psikolojik sıra' ile 'mantıksal sıra' arasındaki farkı en iyi açıklayan örnek hangisidir?",
-  "secenekler": [
-   "Psikolojik sıra yalnızca sosyal bilimler alanı için geçerliyken mantıksal sıra yalnızca fen bilimleri alanı için geçerlidir ve bu ayrım değişmez ve bu ayrım hiç değişmez",
-   "Fen dersinde konuları alfabetik sırayla işlemek – bu mantıksal sıradır",
-   "Matematik dersinde önce toplama, sonra çarpma işlemini öğretmek – bunların her ikisi de mantıksal sıraya örnektir",
-   "Edebiyat dersinde önce roman türünü, sonra hikâyeyi öğretmek – bu psikolojik sıradır",
-   "Kimyada önce bileşikleri, sonra elementleri öğretmek mantıksal sıra; önce elementleri öğretmek ise öğrencinin anlamlandırmasına dayandığı için psikolojik sıradır"
-  ],
-  "dogru": 4,
-  "aciklama": "Mantıksal sıra, konunun kendi iç yapısına ve disiplinin tutarlılığına göre belirlenir (element → bileşik → tepkime). Psikolojik sıra ise öğrencinin anlamlandırma sürecine, gelişim düzeyine ve ön bilgilerine göre düzenlenir. İkisi çoğunlukla örtüşse de bazen mantıksal olarak sonra gelen bir kavramın psikolojik açıdan önce verilmesi daha uygun olabilir.",
-  "zorluk": "orta"
- },
- {
   "id": "200953",
   "dersId": "egitimbilimleri",
   "konuId": "program_temelleri",
@@ -18045,22 +17933,6 @@
   ],
   "dogru": 3,
   "aciklama": "Bu soru program iç tutarlılığı (hedef-içerik-öğretim süreci-değerlendirme uyumu) sorununu test etmektedir. Hedeflerin 'Yaratma' basamağında kaleme alınması tek başına yeterli değildir; öğretim etkinliklerinin de aynı basamağa uygun olacak şekilde tasarlanması gerekir. Gözlemlerde öğrencilerin yeniden düzenleme (Analiz/Sentez alt basamağı) düzeyinde kaldığı görülmektedir. Bu, öğretim sürecinin hedefle hizalanmadığına işaret eder. Program geliştirmede bu duruma 'hizalamazlık' (misalignment) denir ve B şıkkı bu yapısal sorunu doğru biçimde tanımlamaktadır. Diğer şıklar olası katkıda bulunan faktörler olabilse de asıl program tasarımı sorununu açıklamaz.",
-  "zorluk": "zor"
- },
- {
-  "id": "201129",
-  "dersId": "egitimbilimleri",
-  "konuId": "program_modelleri",
-  "soru": "Türkiye'de 2005 yılında hayata geçirilen program reformunda yapılandırmacı yaklaşım benimsenmiş; ancak uygulamada çeşitli sorunlar yaşanmıştır. Aşağıdaki tespitlerden hangisi bu reformun program geliştirme sürecindeki yapısal bir eksikliğini en doğru biçimde açıklar?",
-  "secenekler": [
-   "Yalnızca B ve C",
-   "Yeni programın içerik yoğunluğunun fazla olması nedeniyle öğretmenlerin müfredatı yetiştirememiş olması",
-   "Pilot uygulama yapılmaksızın tüm okullara eş zamanlı yaygınlaştırılması nedeniyle öğretmenlerin hazırbulunuşluğunun gözetilmemiş olması",
-   "A, B ve C",
-   "Programın felsefesi ile değerlendirme anlayışı arasındaki uyumsuzluk: Yapılandırmacı felsefeye dayanan program, ağırlıklı olarak geleneksel sınav odaklı bir sistemle değerlendirilmeye devam edilmiştir."
-  ],
-  "dogru": 0,
-  "aciklama": "2005 reformunda en belirgin iki yapısal sorun şunlardır: (1) Program felsefesi-değerlendirme uyumsuzluğu: Yapılandırmacı anlayış, bilgiyi keşfetme, problem çözme ve üst düzey düşünmeyi ön plana çıkarırken merkezi sınav sistemi ezber ve seçici bilgi ölçümüne dayalı kalmaya devam etmiştir. Bu durum 'çift başlılık' yaratmıştır. (2) Pilot uygulama yetersizliği ve öğretmen hazırbulunuşluğu: Tüm okullara aynı anda geçiş, öğretmenlerin yeni yaklaşıma hazırlanmasına yeterli süre tanınmadığını göstermektedir. Bu iki sorun doğrudan program geliştirmenin yapısal/sistemik boyutunu ilgilendirmektedir. A şıkkındaki içerik yoğunluğu ikincil bir uygulama sorunudur. D şıkkı hem B hem de C'yi kapsadığından en kapsamlı ve doğru yanıtı vermektedir.",
   "zorluk": "zor"
  },
  {
@@ -21936,22 +21808,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "201372",
-  "dersId": "egitimbilimleri",
-  "konuId": "olcme_turleri",
-  "soru": "Bir araştırmacı, öğrencilerin 'bilimsel süreç becerisi' düzeyini belirlemek amacıyla bir ölçek geliştirmiştir. Kapsam geçerliği için kapsam geçerlik oranı (KGO) hesaplamış ve 10 uzmandan 7'sinin her bir madde için 'gerekli' yanıtını verdiğini bulmuştur. Lawshe tablosuna göre 10 uzman için minimum KGO değeri 0,62'dir. Bu bulgu nasıl yorumlanmalıdır?",
-  "secenekler": [
-   "KGO = (7/10) = 0,70 > 0,62 olduğundan maddeler kapsam geçerliği açısından yeterlidir",
-   "KGO = (7 – 10/2) / (10/2) = 2/5 = 0,40 < 0,62 olduğundan bu maddeler ölçekten çıkarılmalı ya da revize edilmelidir",
-   "KGO = (7 – 10/2) / (10/2) = (7 – 5) / 5 = 0,40 < 0,62 olduğundan maddeler kapsam geçerliği açısından yetersizdir",
-   "KGO = (7/10) – 0,50 = 0,20 < 0,62 olduğundan maddeler kapsam geçerliği açısından yetersizdir",
-   "KGO hesabı için en az 12 uzman gerektiğinden 10 uzmanla yapılan değerlendirme geçersizdir"
-  ],
-  "dogru": 1,
-  "aciklama": "Lawshe'nin Kapsam Geçerlik Oranı (KGO) formülü: KGO = (ne – N/2) / (N/2); burada ne = 'gerekli' yanıtını veren uzman sayısı, N = toplam uzman sayısıdır. Hesaplama: KGO = (7 – 10/2) / (10/2) = (7 – 5) / 5 = 2/5 = 0,40. Yorumlama: 10 uzman için minimum KGO = 0,62 (Lawshe tablosu). Hesaplanan KGO (0,40) < minimum KGO (0,62) olduğundan bu madde kapsam geçerliği açısından yetersizdir ve ölçekten çıkarılmalı ya da gözden geçirilmelidir. A şıkkında yapılan hata, KGO hesabı yerine basit yüzde oranı (7/10 = 0,70) kullanılmasıdır; bu Lawshe formülü değildir. B ve C şıklarının hesabı doğrudur ancak C şıkkı pratikte yapılması gerekeni de söylediğinden daha eksiksizdir.",
-  "zorluk": "zor"
- },
- {
   "id": "201373",
   "dersId": "egitimbilimleri",
   "konuId": "olcme_turleri",
@@ -22208,22 +22064,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "201389",
-  "dersId": "egitimbilimleri",
-  "konuId": "olcme_turleri",
-  "soru": "Aşağıda bir test için hesaplanan güvenirlik ve geçerlik katsayıları verilmiştir:\n\nTest → Güvenirlik (rxx): 0.81\nTest → Ölçüt Geçerliği (rxy): 0.60\n\nBu veriler ışığında ölçüt geçerliği katsayısının teorik üst sınırı (geçerlik indeksi / maksimum geçerlik) ve testin bu sınıra ne kadar yakın olduğu aşağıdakilerden hangisinde doğru verilmiştir?",
-  "secenekler": [
-   "Teorik üst sınır 1.00'dır; geçerlik katsayısı her zaman güvenirlikten bağımsız olarak değerlendirilmelidir.",
-   "Teorik üst sınır 0.90'dır; mevcut geçerlik katsayısı bu sınırın yaklaşık %67'sine karşılık gelir.",
-   "Teorik üst sınır 0.90'dır; test bu sınıra %67 oranında ulaşmıştır.",
-   "Teorik üst sınır 0.81'dir; test bu sınıra oldukça yakındır.",
-   "Teorik üst sınır 0.66'dır; test bu sınırı aşmıştır."
-  ],
-  "dogru": 1,
-  "aciklama": "Güvenirlik katsayısı rxx = 0.81 olan bir testin ölçüt geçerliği için teorik üst sınır (maksimum geçerlik / geçerlik indeksi) √rxx = √0.81 = 0.90'dır. Bu değer, testin mükemmel güvenilirlik koşulunda ulaşabileceği en yüksek geçerlik katsayısını gösterir. Mevcut geçerlik katsayısı 0.60 / 0.90 = 0.667, yani teorik üst sınırın yaklaşık %67'sine ulaşılmıştır. Bu C seçeneğini doğrular. A yanlıştır; sınır 0.81 değil, 0.90'dır. B'nin ilk kısmı doğru (0.90) ancak ikinci kısımdaki '%67 oranında' ifadesi C ile neredeyse aynıdır; fark şudur: B'de 'teste %67 ulaşılmıştır' denirken C'de 'sınırın %67'sine karşılık gelir' denmekte olup C daha teknik açıdan kesin ve doğrudur. D ve E yanlıştır.",
-  "zorluk": "zor"
- },
- {
   "id": "201390",
   "dersId": "egitimbilimleri",
   "konuId": "olcme_turleri",
@@ -22381,22 +22221,6 @@
   ],
   "dogru": 0,
   "aciklama": "Puanlama ölçütlerinin (cevap anahtarı, dereceli puanlama anahtarı vb.) önceden belirlenmesi ve standartlaştırılması, puanlayıcı kaynaklı hataları azaltarak güvenirliği artırır. Madde sayısının azaltılması ve grubun homojenliği ise güvenirliği düşürür.",
-  "zorluk": "kolay"
- },
- {
-  "id": "201400",
-  "dersId": "egitimbilimleri",
-  "konuId": "guvenirlik_gecerlik",
-  "soru": "Geçerlik ve güvenirlik arasındaki ilişki için aşağıdakilerden hangisi her zaman doğrudur?",
-  "secenekler": [
-   "Geçerli her test güvenilirdir.",
-   "Güvenirlik geçerliğin gerekli ama yeterli koşuludur.",
-   "Güvenilir olmayan bir test geçerli olabilir.",
-   "Güvenilir her test geçerlidir.",
-   "Geçerlik güvenirliğin hem gerekli hem de yeterli koşuludur."
-  ],
-  "dogru": 1,
-  "aciklama": "Güvenirlik, geçerliğin gerekli ancak yeterli koşuludur. Yani bir test geçerli olmak için önce güvenilir olmak zorundadır; güvenilir olmayan bir test geçerli olamaz. Ancak güvenilir olmak, testin geçerli olduğunu garantilemez. Bir test tutarlı biçimde yanlış ölçüm yapıyorsa güvenilir ama geçersizdir.",
   "zorluk": "kolay"
  },
  {
@@ -23901,38 +23725,6 @@
   ],
   "dogru": 2,
   "aciklama": "D seçeneği en kapsamlı eleştiriyi sunar çünkü hem özdeğer ≥1 kriterinin sınırlılığını (aşırı faktör çıkarma eğilimi), hem %38'lik açıklanan varyansın düşüklüğünü hem de AFA'nın tek başına yapı geçerliği kanıtı için yetersiz olduğunu birlikte ele alır. A yalnızca özdeğer kritiğiyle sınırlıdır. B yalnızca varyansla ilgilenir ve %40 alt sınırı literatürde tartışmalı olmakla birlikte tek boyutlu bir değerlendirmedir. C'de 'DFA zorunludur' ifadesi mutlakçı ve yanlıştır; AFA keşifsel aşamada meşru bir araçtır. E'de döndürme meselesi önemli olmakla birlikte 'varyans oranı anlamsızdır' sonucu aşırı genellemedir ve daha az kapsamlıdır. Yapı geçerliği için AFA, DFA, bilinen gruplar yöntemi ve yakınsak-ıraksak geçerlik kanıtlarının bütünlüklü değerlendirilmesi gerekir.",
-  "zorluk": "zor"
- },
- {
-  "id": "201495",
-  "dersId": "egitimbilimleri",
-  "konuId": "guvenirlik_gecerlik",
-  "soru": "Aşağıdaki tabloda dört farklı ölçme aracına ilişkin standart hata (SEM) ve güvenirlik katsayısı (r_xx) değerleri verilmektedir:\n\nAraç 1: SEM = 3, r_xx = 0,91\nAraç 2: SEM = 5, r_xx = 0,91\nAraç 3: SEM = 3, r_xx = 0,75\nAraç 4: SEM = 5, r_xx = 0,75\n\nBu bilgilere dayanarak aşağıdaki yorumlardan hangisi kesinlikle doğrudur?",
-  "secenekler": [
-   "Araç 1 ve Araç 3'ün SEM değerleri eşit olduğundan, bu iki araçla elde edilen bireysel puanların güven aralıkları da birbirine eşittir.",
-   "Araç 2'nin standart hatası Araç 1'den büyük olduğu hâlde güvenirlik katsayıları eşittir; bu durum ancak Araç 2'nin standart sapmasının Araç 1'inkinden büyük olmasıyla açıklanabilir.",
-   "Araç 1 ile Araç 2'nin güvenirlik katsayıları birbirine eşit olduğundan, bu iki araçla yapılan ölçmeler rahatlıkla birbirinin yerine kullanılabilir. Bu iki araç arasında herhangi bir fark bulunmamaktadır.",
-   "Güvenirlik katsayısı aynı olan iki araçtan daha küçük SEM değerine sahip olanı, standart sapması daha küçük olan araçtır.",
-   "Araç 3'ün SEM'i Araç 4'ten küçüktür; bu nedenle Araç 3, Araç 4'e kıyasla bireysel kararlar için her zaman daha uygundur."
-  ],
-  "dogru": 1,
-  "aciklama": "SEM formülü: SEM = SD × √(1 - r_xx) şeklindedir. Araç 1 ve Araç 2'nin güvenirlik katsayıları eşit (0,91) ama SEM'leri farklıdır (3 ve 5). Bu durum ancak SD'lerin farklı olmasıyla açıklanabilir: SEM = SD√(1-0,91) = SD√0,09 = 0,3×SD. Araç 1 için SD = 3/0,3 = 10; Araç 2 için SD = 5/0,3 ≈ 16,7. Dolayısıyla C kesinlikle doğrudur. A yanlıştır çünkü SEM farklı olduğundan ölçüm hassasiyetleri farklıdır; birinin yerine kullanılması hatalı sonuçlar doğurur. B yanlıştır çünkü güven aralığı hesaplanırken aynı z değeri kullanılsa da güven aralığının yorumlanması güvenirlik düzeyine de bağlıdır; üstelik r_xx farklı olduğundan tahmin güvenilirlikleri farklıdır. D yanlıştır; SEM bireysel puanlardaki hatayı gösterir, ancak 'her zaman daha uygun' ifadesi mutlakçıdır; karar bağlamı (grup mu birey mi), testin amacı ve diğer psikometrik özellikler de göz önüne alınmalıdır. E yanlıştır; C'nin çözümünden görüldüğü gibi doğru ifadedir, ancak bu seçenek yanlış çerçevelenmiştir — 'standart sapması daha küçük olan' demek doğrudur, E bunu söylemektedir ama formülasyon açısından C daha kesin ve doğrudan çıkarılabilir bir önerme sunmaktadır.",
-  "zorluk": "zor"
- },
- {
-  "id": "201496",
-  "dersId": "egitimbilimleri",
-  "konuId": "guvenirlik_gecerlik",
-  "soru": "Bir öğretim üyesi, geliştirdiği 40 maddelik çoktan seçmeli testin iç tutarlılığını KR-20 ile hesaplamış ve 0,55 bulmuştur. Aynı testi Kuder-Richardson 21 (KR-21) formülüyle hesapladığında 0,60 değerini elde etmiştir. Bu durum hakkında ne söylenebilir?",
-  "secenekler": [
-   "Bu durum mümkündür; KR-21, madde güçlüklerinin varyansı büyük olduğunda KR-20'den yüksek değer verebilir.",
-   "Bu durum imkânsızdır çünkü KR-21, KR-20'nin alt sınırıdır ve her zaman KR-20'ye eşit ya da ondan düşük değer verir.",
-   "Bu durum mümkündür; KR-21, madde güçlükleri birbirine yakın (homojen) olduğunda KR-20'den yüksek değer verir.",
-   "Bu durum mümkündür; KR-21, örneklem büyüklüğü küçük olduğunda KR-20'den yüksek değer üretebilir çünkü KR-21 madde güçlüklerinin standart sapmasını dikkate almaz.",
-   "KR-21, KR-20'ye her zaman eşit ya da daha düşük değer verir; bu nedenle elde edilen sonuç matematiksel olarak imkânsızdır."
-  ],
-  "dogru": 1,
-  "aciklama": "KR-20 formülü her maddenin p×q değerini (madde güçlüğü × 1-güçlük) doğrudan kullanır. KR-21 ise madde güçlüklerinin eşit olduğunu varsayarak ortalama p değerini kullanır ve bu nedenle her zaman KR-20'ye eşit ya da ondan küçük (≤) bir değer verir; yani KR-21 ≤ KR-20. KR-21, KR-20'nin alt sınırıdır. Soruda KR-21 > KR-20 olması (0,60 > 0,55) matematiksel olarak imkânsızdır. Bu durumun gerçekleşmesi için hesaplama hatası, yanlış formül uygulaması ya da veri girişi hatası gibi bir hata olması gerekir. A ve D seçeneklerinin içeriği doğrudur; ancak soru 'ne söylenebilir' diye sorduğundan en doğru ve bütünlüklü yanıt D'dir çünkü KR-21'in KR-20'nin alt sınırı olduğunu açıkça belirtmektedir. B ve C matematiksel olarak yanlıştır; E'de örneklem büyüklüğü argümanı hatalıdır, KR-21 ve KR-20 ilişkisi örneklem boyutundan bağımsızdır.",
   "zorluk": "zor"
  },
  {
@@ -31728,22 +31520,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "201984",
-  "dersId": "egitimbilimleri",
-  "konuId": "davranis_yonetimi",
-  "soru": "Glasser'ın Seçim Teorisi'ne (Choice Theory) dayalı sınıf yönetimi anlayışında, öğretmenin 'dış kontrol psikolojisi' yerine 'iç kontrol psikolojisi'ni esas alması gerektiği savunulur. Aşağıdakilerden hangisi bu anlayışla doğrudan çelişen bir öğretmen davranışı değildir?",
-  "secenekler": [
-   "Öğrencinin kalite dünyasını (quality world) keşfetmesine yardımcı olacak sınıf içi etkinlikler düzenlemek",
-   "Öğrencinin uygunsuz davranışı durumunda 'Bu davranışın sonucunda ne olmak istiyorsun?' diye sormak",
-   "İstenen davranışı sergileyen öğrenciye sürpriz ödül vermek ve bu yolla diğer öğrencileri yönlendirmek",
-   "Öğrencinin yanlış davranışını, gerçek ihtiyaçlarını karşılamak için yanlış bir seçim olarak yeniden çerçevelemek",
-   "Sınıf kurallarını öğrencilerle birlikte tartışarak ihtiyaçlara dayalı biçimde oluşturmak"
-  ],
-  "dogru": 2,
-  "aciklama": "Glasser'ın Seçim Teorisi'nde bireyin davranışları, temel ihtiyaçlarını karşılamak için yaptığı seçimlerdir. Dış kontrol (ödül-ceza, baskı, manipülasyon) bu teoride reddedilir çünkü davranışı geçici olarak değiştirse de iç motivasyonu yok eder. C seçeneğinde sürpriz ödül verme ve bunu diğer öğrencileri yönlendirmek için kullanma, hem dışsal pekiştirmeye hem de dolaylı baskıya dayanır; bu açıdan Glasser'ın anlayışıyla çelişir. A, B, D ve E seçeneklerinin tamamı, öğrencinin kendi seçimlerini fark etmesini ve iç motivasyonunu geliştirmesini hedefler.",
-  "zorluk": "zor"
- },
- {
   "id": "201985",
   "dersId": "egitimbilimleri",
   "konuId": "davranis_yonetimi",
@@ -32365,22 +32141,6 @@
   ],
   "dogru": 1,
   "aciklama": "İşlevsel davranış değerlendirmesi sonucunda bağırma davranışının 'dikkat çekme' işlevi taşıdığı belirlenmiştir. Bu bağlamda en düşük etkinliği gösterecek müdahale, E seçeneğinde tanımlanan 'sınıftan çıkarma / bireysel çalışma odasına gönderme' uygulamasıdır. Bunun iki temel nedeni vardır: (1) Sınıftan çıkarılmak sosyal dikkatten yoksun kalma anlamına gelir; dikkat çekme amaçlı davranan bir öğrenci için bu durum aversif olabilir ve davranışı kısa vadede azaltabilir gibi görünse de (2) öğrenci sınıftan çıkarılarak öğretmenin ve sınıfın özel dikkatini çekmiş olur; bireysel çalışma odasında öğretmenle bire bir zaman geçirebilir, bu da paradoks biçimde dikkat ihtiyacını karşılayabilir. Üstelik bu yöntem öğrenciye kabul edilebilir dikkat talep etme becerisi kazandırmaz. A seçeneği teorik açıdan doğru (dikkat çekme işlevli davranışa dikkat verilmemesi sönmeyi tetikler) ancak uygulamada sönme patlaması riski taşır; yine de işleve uygun bir stratejidir. B ve C seçenekleri en etkili müdahalelerdir (FCT + önsel pekiştirme). D seçeneği tetikleyicileri azaltır ve BIP'in geçerli bir bileşenidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "202024",
-  "dersId": "egitimbilimleri",
-  "konuId": "davranis_yonetimi",
-  "soru": "Aşağıdaki tabloda farklı pekiştirme programları ve söndürmeye karşı direnç (extinction resistance) düzeyleri gösterilmiştir. Bu tabloya göre yapılan değerlendirmelerden hangisi yanlıştır?\n\nProgram — Örnek — Söndürmeye Direnç\nSabit oranlı (FR) — Her 5 doğru yanıtta stiker — Orta\nDeğişken oranlı (VR) — Ortalama 5 yanıtta bir, tahmin edilemez — Çok yüksek\nSabit aralıklı (FI) — Her 10 dakikada bir kontrol — Düşük-orta\nDeğişken aralıklı (VI) — Ortalama 10 dakikada bir, tahmin edilemez — Yüksek",
-  "secenekler": [
-   "Sabit oranlı program, davranış edinimi (acquisition) aşamasında sürekli pekiştireçten daha az etkilidir; ancak kalıcılaştırma (maintenance) aşamasında sürekli pekiştireçten daha üstündür.",
-   "Sabit aralıklı programda öğrenci, pekiştireç zamanının yaklaştığını öğrendikçe hemen öncesinde performansını artırır, sonrasında düşürür; bu 'tarak etkisi' (scalloping effect) olarak bilinir.",
-   "Davranış edinimi aşamasında sürekli pekiştireç (CRF) kullanılması, ardından değişken oranlı programa geçilmesi hem hızlı öğrenmeyi hem de kalıcılığı destekleyen en etkili pekiştirme stratejisidir.",
-   "Değişken oranlı program, kumarhane etkisi olarak adlandırılan mekanizma aracılığıyla en yüksek söndürme direncini oluşturur; bu nedenle olumlu davranışları kalıcılaştırmak için tercih edilmesi gerekir.",
-   "Değişken aralıklı program, değişken oranlı programla karşılaştırıldığında genel olarak daha düşük yanıt hızı üretir; ancak her iki program da söndürmeye yüksek direnç gösterir."
-  ],
-  "dogru": 0,
-  "aciklama": "C seçeneği yanlış bir ifade içermektedir. Davranış edinimi (acquisition) aşamasında en etkili pekiştirme programı sürekli pekiştireçtir (CRF — Continuous Reinforcement). Skinner'ın araştırmalarına göre yeni bir davranışın öğretilmesinde her doğru tepkinin pekiştirilmesi öğrenmeyi en hızlı biçimde gerçekleştirir. Sabit oranlı (FR) program, CRF'den edinim aşamasında daha az etkilidir; bu kısım C'de doğrudur. Ancak C'nin iddia ettiği gibi FR programı kalıcılaştırma aşamasında CRF'den üstün olmakla birlikte, FR'nin söndürmeye direnci orta düzeydedir ve değişken programlar (VR, VI) her iki boyutta da FR'yi geçer. Daha önemli sorun şudur: C seçeneği 'sabit oranlı program edinim aşamasında sürekli pekiştireçten daha az etkilidir' diyerek doğru bir bilgi versede bütünü değerlendirince yanıltıcıdır; zira gerçek kıyaslama CRF → VR geçişi üzerinedir, FR → CRF değil. A, B, D ve E seçeneklerinin tamamı davranışçı pekiştirme programları literatürüyle tutarlıdır.",
   "zorluk": "zor"
  },
  {
@@ -33677,22 +33437,6 @@
   ],
   "dogru": 3,
   "aciklama": "Önerme I doğrudur: Parsons'ın 1909'da geliştirdiği trait-and-factor yaklaşımı, bireyin özelliklerini meslek gereklilikleriyle eşleştirmeye dayandığından danışmanın aktif yönlendirici rolünü ön plana çıkarmakta ve direktif bir karakter taşımaktadır. Önerme II yanlıştır: Gelişimsel rehberlik anlayışı, sorun çözme yerine potansiyeli geliştirmeyi ve tüm öğrencileri kapsayan önleyici/proaktif çalışmaları esas alır; yalnızca risk grubuna odaklanmaz. Önerme III doğrudur: ASCA Ulusal Modeli gibi kapsamlı gelişimsel rehberlik programları; müfredatla bütünleşmeyi, kademeli hedefleri ve ölçülebilir çıktılarla değerlendirmeyi zorunlu kılar. Önerme IV doğrudur: Klinik modelde danışman bireysel teşhis ve terapi rolündeyken kapsamlı modelde okul sistemi düzeyinde savunuculuk ve yapısal değişime katkı da beklenmektedir. Doğru önermeler I, III ve IV'tür.",
-  "zorluk": "zor"
- },
- {
-  "id": "202106",
-  "dersId": "egitimbilimleri",
-  "konuId": "rehberlik_turleri",
-  "soru": "Bir rehber öğretmen aynı anda üç farklı müdahale düzeyi uygulayan bir okul rehberlik programı yürütmektedir: (1) Tüm 10. sınıflara 'stres yönetimi' becerileri öğretimi, (2) sınav kaygısı belirtisi gösteren öğrenciler için küçük grup çalışması, (3) akut panik atak yaşayan bir öğrenciye bireysel kriz müdahalesi. Bu üç düzeyin sırasıyla hangi önleme kategorilerine karşılık geldiği aşağıdaki seçeneklerin hangisinde doğru eşleştirilmiştir?",
-  "secenekler": [
-   "Birincil – Üçüncül – İkincil",
-   "Evrensel – Seçici – Yoğun",
-   "Gelişimsel – Önleyici – Düzeltici sıralaması düzeyleri",
-   "A ve D seçeneklerinin her ikisi de doğrudur.",
-   "Birincil – İkincil – Üçüncül önleme"
-  ],
-  "dogru": 3,
-  "aciklama": "Bu sorunun püf noktası, iki farklı ama birbiriyle örtüşen sınıflandırma sisteminin aynı anda geçerli olmasıdır. Birincil/İkincil/Üçüncül önleme sınıflandırması (A) ve Evrensel/Seçici/Yoğun müdahale sınıflandırması (D) farklı terminolojiler kullanmakla birlikte aynı hiyerarşik yapıyı tanımlamaktadır: (1) Tüm gruba yönelik proaktif eğitim = Birincil/Evrensel, (2) Risk belirtisi gösterenlere yönelik grupsal çalışma = İkincil/Seçici, (3) Akut krize bireysel müdahale = Üçüncül/Yoğun. B seçeneğindeki 'gelişimsel-önleyici-düzeltici' üçlüsü ise rehberliğin amaç boyutuna göre yapılan sınıflandırmaya aittir ve bu sorudaki hiyerarşik müdahale düzeyleriyle tam örtüşmemektedir. Dolayısıyla A ve D her ikisi de doğrudur.",
   "zorluk": "zor"
  },
  {
@@ -36109,22 +35853,6 @@
   ],
   "dogru": 1,
   "aciklama": "İşlevsel davranış değerlendirmesine göre davranışın işlevine uygun müdahale planlanmalıdır. Kaçınma işlevli davranışlarda; öncelikle kaçınma isteğini tetikleyen öncül koşullar (çok zor görev, uzun süre vb.) düzenlenmeli ve öğrenciye 'mola iste', 'yardım iste' gibi işlevsel iletişim becerileri (alternatif davranış) öğretilmelidir. Problem davranışı görmezden gelmek veya görevi uzatmak, kaçınma döngüsünü kırmaz; hatta zaman zaman pekiştirir.",
-  "zorluk": "orta"
- },
- {
-  "id": "202258",
-  "dersId": "egitimbilimleri",
-  "konuId": "ozel_egitim",
-  "soru": "Down sendromlu bir çocuğun dil gelişiminde en sık gözlemlenen özellik aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Sözel belleğin görsel-uzamsal bellekten daha güçlü olması",
-   "Pragmatik becerilerin fonoloji ve sözdiziminden daha çok etkilenmesi",
-   "Sözel anlama becerisinin ifade diline oranla daha geride kalması",
-   "Dil gelişiminin tipik yaşıtlarla paralel seyretmesi",
-   "İfade dilinin sözel anlamaya oranla daha ileri düzeyde olması"
-  ],
-  "dogru": 4,
-  "aciklama": "Down sendromlu bireylerde genel olarak ifade dili (konuşma, kelime üretimi, sözdizimi kullanımı), sözel anlama becerisine (alıcı dil) kıyasla daha ileri düzeyde seyretmektedir. Ayrıca sözel bellek görsel-uzamsal bellekten zayıf kalır; bu nedenle görsel destekler öğretimde daha etkilidir. Pragmatik beceriler ise bu popülasyonda görece korunmuş alanlardandır. Dil gelişimi tipik yaşıtlara göre anlamlı biçimde gecikmektedir.",
   "zorluk": "orta"
  },
  {

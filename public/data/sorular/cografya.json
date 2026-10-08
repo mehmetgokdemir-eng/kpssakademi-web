@@ -352,38 +352,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "32023",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Bir gemi kuzeyden güneye doğru 0° meridyeni boyunca hareket ederken sırasıyla İngiltere, Fransa, İspanya, Fas ve Cezayir kıyılarını geçmektedir. Bu rota üzerinde geminin yerel saat farkı, güneşin öğle vakti ve Coriolis etkisi açısından değerlendirme yapıldığında, aşağıdakilerden hangisi kesinlikle yanlıştır?",
-  "secenekler": [
-   "Tüm bu ülkelerin başkentlerinin yerel saati birbirinden farklıdır.",
-   "Kuzeyden güneye hareket Coriolis kuvveti nedeniyle batıya sapma yaratır.",
-   "Geminin konumu her zaman Doğu ve Batı Yarım Kürelerin sınırında yer alır.",
-   "Gemi boyunca yerel saat sabit kalmaktadır çünkü tüm noktalarda boylam aynıdır.",
-   "Güneş tüm bu noktalar için aynı anda meridyenden geçer, yani öğle vakti tüm noktalarda eş zamanlıdır."
-  ],
-  "dogru": 1,
-  "aciklama": "0° meridyeni boyunca kuzeyden güneye hareket eden bir gemide: A şıkkı doğrudur; boylam değişmediğinden yerel saat sabit kalır. B şıkkı doğrudur; aynı meridyen üzerindeki tüm noktalarda Güneş aynı anda meridyenden geçer. C şıkkı YANLIŞTIR; Kuzey Yarım Küre'de Coriolis kuvveti, güneye giden bir nesneyi SAĞA yani BATI'ya değil DOĞU'ya saptırır (hareketinizin sağına). Kuzeyden güneye gidildiğinde sağ taraf batıdır, bu doğru gibi görünse de Coriolis'in yönü yüzey üzerindeki harekete göre belirlenir ve Kuzey Yarım Küre'de sağa sapma batı yönüne denk gelir. D şıkkı doğrudur; 0° meridyeni iki yarım kürenin sınırıdır. E şıkkı doğrudur; başkentler farklı boylamlardadır. Dolayısıyla yanlış olan C şıkkıdır.",
-  "zorluk": "zor"
- },
- {
-  "id": "32024",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Dünya'nın yıllık hareketi sırasında günlerin uzunluğu değişmektedir. Buna göre aşağıdaki tabloda verilen bilgilerden hangisi hem Kuzey hem de Güney Yarım Küre için eş zamanlı olarak doğrudur?\n\n(Kuzey YK → Güney YK)\n21 Haziran: En uzun gündüz → En uzun gece\n22 Aralık: En uzun gece → En uzun gündüz\n21 Mart: Gece = Gündüz → Gece = Gündüz\n23 Eylül: En kısa gece → En kısa gündüz",
-  "secenekler": [
-   "Her iki yarım kürede de yıl boyunca toplam gündüz ve gece süresi eşittir.",
-   "Tropikal bölgelerde (23,5° G - 23,5° K arası) yıl boyunca gündüz süresi değişmez.",
-   "22 Aralık'ta Kuzey Yarım Küre'de kış yaşanırken Güney Yarım Küre'de de kış yaşanır.",
-   "21 Haziran'da Kuzey Kutbu'nda gece yaşanmazken Güney Kutbu'nda da gece yaşanmaz.",
-   "Ekinoks günlerinde her iki yarım kürede de eş zamanlı olarak gece ve gündüz 12'şer saat sürer."
-  ],
-  "dogru": 0,
-  "aciklama": "A şıkkı doğrudur: Dünya'nın bir tam yıllık hareketi tamamladığında, her yarım küredeki herhangi bir nokta için toplam gündüz süresi ile toplam gece süresi 365 günlük periyotta birbirini dengeler; yani yıllık bazda gündüz toplamı ≈ gece toplamı ≈ 4380 saattir. B yanlıştır: 21 Haziran'da Kuzey Kutup Çevresi'nde gece yaşanmazken Güney Kutup Çevresi'nde tam tersi, yani 24 saat gece yaşanır. C yanlıştır: Ekinoks günlerinde teorik eşitlik sağlanır ancak atmosferik refraksiyon nedeniyle tam olarak 12'şer saat olmaz. D yanlıştır: 22 Aralık'ta Kuzey YK'de kış, Güney YK'de yaz yaşanır. E yanlıştır: Tropik bölgelerde de gündüz süresi yıl boyunca değişir; yalnızca ekvatorda değişim minimumdur.",
-  "zorluk": "zor"
- },
- {
   "id": "32025",
   "dersId": "cografya",
   "konuId": "dunya_sekli_hareketleri",
@@ -685,22 +653,6 @@
   ],
   "dogru": 2,
   "aciklama": "1/500.000 ölçeğinde 1 cm = 5 km'ye karşılık gelir. Haritadaki 4 cm gerçekte 4 × 5 = 20 km, haritadaki 3 cm ise 3 × 5 = 15 km'ye karşılık gelir. Gerçek alan = 20 km × 15 km = 300 km²'dir. Alanda ölçek paydası karesiyle çarpılır: (4 cm × 3 cm) × (5)² = 12 × 25 = 300 km² şeklinde de hesaplanabilir.",
-  "zorluk": "zor"
- },
- {
-  "id": "32044",
-  "dersId": "cografya",
-  "konuId": "harita_koordinat",
-  "soru": "28°D meridyeninde yerel saat 12.00 iken 74°B meridyeninde yerel saat kaçtır?",
-  "secenekler": [
-   "18.04",
-   "18.56",
-   "04.56",
-   "05.04",
-   "05.56"
-  ],
-  "dogru": 2,
-  "aciklama": "28°D ile 74°B arasındaki toplam boylam farkı 28 + 74 = 102°'dir. Her 15° = 1 saat fark yarattığından: 102 / 15 = 6 saat 48 dakika fark eder. 74°B, 28°D'nin batısında olduğundan saati geri alınır: 12.00 - 6 saat 48 dakika = 05.12 değil, 102°/15 = 6.8 saat = 6 saat 48 dakika. 12:00 - 6:48 = 05:12'dir. En yakın seçenek 04.56'dır; ancak tam hesapla 05:12 çıkmaktadır. Doğru hesaplama: 102°/15° = 6 sa 48 dk → 12:00 - 6:48 = 05:12. Verilen seçeneklerde en mantıklı yaklaşım C) 04.56'dır — bu soru, boylam farkı ile saat hesabını birlikte sınayan analitik bir sorudur.",
   "zorluk": "zor"
  },
  {
@@ -1536,22 +1488,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "32099",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Dünya'nın yıllık hareketi ile ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
-  "secenekler": [
-   "3 Ocak – Dünya'nın Güneş'e en uzak olduğu tarih (afel)",
-   "21 Aralık – Güney Yarımküre'de yaz gündönümü",
-   "4 Temmuz – Dünya'nın Güneş'e en yakın olduğu tarih",
-   "21 Mart – Bahar ekinoksu, ışınlar ekvatordan dik geçer",
-   "21 Haziran – Kuzey Yarımküre'de en uzun gündüz"
-  ],
-  "dogru": 0,
-  "aciklama": "Dünya'nın Güneş'e en yakın olduğu nokta perihel, yaklaşık 3 Ocak'tır. Güneş'e en uzak olduğu nokta afel ise yaklaşık 4 Temmuz'dur. E şıkkında 3 Ocak'ın afel (en uzak) olduğu belirtilmiş; bu bilgi yanlıştır, 3 Ocak perihel (en yakın) konumuna karşılık gelir. C şıkkı doğru çünkü 4 Temmuz gerçekten afeldir. Bu iki tarih sıkça karıştırılan önemli bir ayrıntıdır.",
-  "zorluk": "orta"
- },
- {
   "id": "32100",
   "dersId": "cografya",
   "konuId": "dunya_sekli_hareketleri",
@@ -1581,22 +1517,6 @@
   ],
   "dogru": 0,
   "aciklama": "Mevsimler, Dünya'nın yıllık hareketi (Güneş etrafında dolanması) ve eksenin eğikliğinin birleşiminden kaynaklanır. Günlük dönüş hareketi mevsimleri oluşturmaz. Buna karşın gece-gündüz (A), yerel saat farkları (C), Dünya'nın şeklinin basık-şişkin olması (D) ve Coriolis etkisi (E) doğrudan günlük dönüş hareketinin sonuçlarıdır.",
-  "zorluk": "orta"
- },
- {
-  "id": "32102",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Dünya'da yerel saat hesaplamalarıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
-  "secenekler": [
-   "Doğuya gidildikçe yerel saat geriler.",
-   "İki yer arasındaki boylam farkı 10° ise aralarındaki yerel saat farkı 40 dakika olur.",
-   "Güneş'e göre belirlenen yerel saatin ekvatordan kutuplara doğru gidildikçe düzenli olarak azalması. Bu azalma kutuplarda en belirgin biçimde görülür.",
-   "180° boylamında uluslararası tarih değiştirme çizgisi geçer ve bu çizginin batısından doğusuna geçildiğinde bir gün geri alınır.",
-   "Aynı enlem üzerindeki iki noktanın yerel saatleri her zaman aynıdır."
-  ],
-  "dogru": 3,
-  "aciklama": "180. meridyen üzerinde uluslararası tarih değiştirme çizgisi geçer. Bu çizginin batısından (Asya tarafından) doğusuna (Amerika tarafına) geçildiğinde bir gün geri alınır, doğudan batıya geçildiğinde ise bir gün ileri alınır. A şıkkı yanlıştır çünkü doğuya gidildikçe yerel saat ilerler. C yanlıştır; 10° fark 40 dakika değil, 40 dakika doğrudur — bir kontrol: 15° = 60 dk, dolayısıyla 10° = 40 dk. Dikkat: C şıkkı aslında doğru görünmektedir; ancak B'deki bilgi daha belirgin ve sınanmış bir doğrulukla ifade edilmektedir. Soru bağlamında B şıkkındaki ifade eksiksiz doğrudur.",
   "zorluk": "orta"
  },
  {
@@ -1968,22 +1888,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "32126",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Dünya, 3 Ocak'ta Güneş'e en yakın (Günberi – yaklaşık 147 milyon km) konumdadır. Buna göre aşağıdaki yargılardan hangisi doğrudur?",
-  "secenekler": [
-   "3 Ocak'ta Kuzey Yarımküre'de yaz mevsimi yaşanmaktadır.",
-   "Güney Yarımküre'de kış mevsimi yaşanmaktadır çünkü Dünya Güneş'e uzaktır.",
-   "Günberi konumunda mevsimler en belirgin şekilde yaşanır.",
-   "3 Ocak'ta güneş ışınları Güney Dönencesi'ne dik açıyla düşmez.",
-   "Dünya'nın yörünge hızı 3 Ocak civarında en yüksek değerindedir."
-  ],
-  "dogru": 4,
-  "aciklama": "Kepler'in ikinci yasasına göre Güneş'e yakın olan gezegen, yörüngesinde daha hızlı hareket eder. Dolayısıyla Günberi'nde (3 Ocak) Dünya'nın yörünge hızı maksimum, Günapogi'de (4 Temmuz) ise minimumdur. A şıkkı yanlıştır, çünkü 3 Ocak'ta Kuzey Yarımküre'de kış yaşanır. C yanlıştır, çünkü mevsimler eksen eğikliğine bağlıdır, uzaklığa değil. D yanlıştır, çünkü 22 Aralık (kış gündönümü) civarında Güneş ışınları Güney Dönencesi'ne dik düşer ve 3 Ocak buna çok yakındır.",
-  "zorluk": "orta"
- },
- {
   "id": "32127",
   "dersId": "cografya",
   "konuId": "dunya_sekli_hareketleri",
@@ -2077,22 +1981,6 @@
   ],
   "dogru": 2,
   "aciklama": "Yerel saatlerin boylamlara göre farklı olması, Dünya'nın kendi ekseni etrafındaki günlük dönüşünün (rotasyon) sonucudur; yıllık hareketle (devrim) ilgisi yoktur. Diğer şıklardaki olayların tümü — mevsimlerin oluşması, gece-gündüz uzunluklarının değişmesi, Güneş'in doğduğu yönün değişmesi ve öğle Güneşinin konumu — Dünya'nın yıllık hareketi ve eksen eğikliğinin birleşimi ile açıklanır.",
-  "zorluk": "orta"
- },
- {
-  "id": "32134",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "22 Aralık'ta (Kış Gündönümü) Kuzey Yarımküre'deki gözlemciler için aşağıdakilerden hangisi doğrudur?",
-  "secenekler": [
-   "Kuzey Yarımküre'de Kutup Dairesi'nin kuzeyinde 24 saat gece yaşanır.",
-   "Ekvator'da gece ve gündüz eşittir.",
-   "Tüm Kuzey Yarımküre'de gece ve gündüz eşit uzunluktadır.",
-   "Kuzey Kutup Dairesi'nin güneyindeki tüm noktalarda gece, gündüzden kısadır.",
-   "Güneş ışınları Kuzey Dönencesi'ne dik açıyla düşer."
-  ],
-  "dogru": 0,
-  "aciklama": "22 Aralık'ta Güneş ışınları Güney Dönencesi'ne (23°27'G) dik açıyla düşer. Bu tarihte Kuzey Yarımküre'de kış yaşanır; Kuzey Kutup Dairesi'nin (66°33'K) kuzeyinde 24 saat gece (kutup gecesi) yaşanır — D şıkkı doğrudur. A yanlıştır; 22 Aralık'ta Kuzey Yarımküre'de gece, gündüzden uzundur. B kısmen doğrudur (Ekvator'da her gün yaklaşık 12'şer saat). C yanlıştır; ışınlar Güney Dönencesi'ne dik düşer. E kesinlikle yanlıştır.",
   "zorluk": "orta"
  },
  {
@@ -2256,22 +2144,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "32145",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Dünya'nın şekline bağlı olarak yüzeydeki bir noktadan kutba doğru hareket edildiğinde, aşağıdaki değerlerden hangisi sürekli azalır?",
-  "secenekler": [
-   "Yerçekimi ivmesi",
-   "Eksen eğikliği",
-   "Dönme doğrusal hızı",
-   "Güneş ışınlarının ortalama geliş açısı",
-   "Meridyen yaylarının uzunluğu (1° için)"
-  ],
-  "dogru": 3,
-  "aciklama": "Kutba doğru hareket edildikçe: Yerçekimi ivmesi (g) artar, çünkü kutuplara yaklaştıkça Dünya'nın merkezi ile yüzey arasındaki mesafe kısalır ve merkezkaç kuvveti azalır. Dönme doğrusal hızı (v=ωr·cosφ) azalır. Meridyen yaylarının uzunluğu Dünya'nın basık olması nedeniyle kutuplarda biraz artar. Eksen eğikliği sabit bir değerdir (23°27'), hiç değişmez. Güneş ışınlarının ortalama geliş açısı kutba gidildikçe giderek küçülür, yani sürekli azalır. A, B seçenekleri karşılaştırıldığında; yerçekimi artar (azalmaz), doğrusal hız azalır. Ancak sorudaki 'sürekli azalan' değerleri değerlendirince hem B hem E azalır. E şıkkı daha kapsamlı ve kesin bir azalma gösterdiğinden (0°'ye kadar dayanabilir, B ise zaten varlığını sürdürür) E doğru cevaptır. Fakat B de azalır; ayırt edici fark şudur: eksen eğikliği (D) hiç değişmez, bu en belirgin 'yanlış' olmayan seçenektir. E şıkkı doğru cevaptır.",
-  "zorluk": "zor"
- },
- {
   "id": "32146",
   "dersId": "cografya",
   "konuId": "dunya_sekli_hareketleri",
@@ -2336,38 +2208,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "32150",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Aşağıdaki senaryoda verilen bilgileri analiz ederek doğru sonuca ulaşınız:\n\nBir gözlemci, bulunduğu yerden Kutup Yıldızı'nı (Polaris) tam ufkun üzerinde görüyor. Aynı gözlemci, 21 Haziran'da gece boyunca Güneş'i hiç göremediğini, 22 Aralık'ta ise yine göremediğini ancak ufuk üzerinde kısa süre de olsa 'gördüğünü' söylüyor. Bu gözlemcinin bulunduğu yer aşağıdakilerden hangisi olabilir?",
-  "secenekler": [
-   "Güney Kutup Dairesi (66°33'G)",
-   "Kuzey Kutbu (90°K)",
-   "Kuzey Kutup Dairesi (66°33'K)",
-   "Ekvator (0°)",
-   "Yengeç Dönencesi (23°27'K)"
-  ],
-  "dogru": 2,
-  "aciklama": "Kutup Yıldızı'nı (Polaris) tam ufkun üzerinde görmek, gözlemcinin Kuzey Kutup Dairesi'nde (66°33'K) bulunduğunu değil, daha doğru bir ipucudur: Kutup Yıldızı'nın ufuk üzerindeki açısı, bulunulan yerin enlemini verir. Tam ufkun üzerinde (0° açıda) görülmesi enlemin 0° olduğunu değil, teorik olarak ekvatordan bu şekilde görüleceğini düşündürse de soruda verilen diğer ipuçları belirleyicidir. 22 Aralık'ta Güneş'i ufuk üzerinde kısa süre gören yer, Kuzey Kutup Dairesi'nin tam sınırındadır; bu enlemde 22 Aralık'ta teorik olarak Güneş sadece ufku sıyırır. 21 Haziran'da ise Güneş'i hiç görememesi çelişkili görünse de gece boyunca (karanlıkta) Güneş'i göremez çünkü bu tarihte kutup dairesinde gece yoktur; 'gece boyunca görememe' zaten gece olmadığı içindir. Bu soru ipuçlarına göre B şıkkı, yani Kuzey Kutup Dairesi (66°33'K) doğru cevaptır.",
-  "zorluk": "zor"
- },
- {
-  "id": "32151",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Ekvator'un 10° kuzeyindeki bir noktada gözlemci, Güneş'in tam tepe noktasından (zenit) geçtiğini gözlemlemektedir. Bu gözlemin yapılabilmesi için Güneş'in yıl içindeki hangi deklinasyon değerinde olması ve bu durumun hangi mevsimde gerçekleşmesi gerekir?",
-  "secenekler": [
-   "+10° deklinasyon – Kuzey yarımküresi ilkbaharı",
-   "-10° deklinasyon – Kuzey yarımküresi sonbaharı",
-   "+23,5° deklinasyon – Kuzey yarımküresi yazı",
-   "0° deklinasyon – Kuzey yarımküresi ilkbaharı veya sonbaharı",
-   "+10° deklinasyon – Kuzey yarımküresi yazı"
-  ],
-  "dogru": 0,
-  "aciklama": "Güneş ışınlarının dik açıyla düştüğü enleme 'deklinasyon' denir. Güneş ışınlarının bir gözlemcinin başının tam üzerinden (zenit) geçmesi için Güneş'in deklinasyonunun o gözlemcinin enlemi ile aynı olması gerekir. 10°K'deki gözlemci için Güneş'in +10° deklinasyonda olması şarttır. Güneş, 0° (21 Mart) ile +23,5° (21 Haziran) arasında ilerlerken +10° deklinasyona yaklaşık Nisan ayında ulaşır; bu, Kuzey yarımküresi ilkbaharına denk gelir. Kuzey yarımküresi yazında Güneş +10°'yi aşmıştır (21 Haziran'da +23,5°'ye ulaşır). Dolayısıyla doğru cevap A'dır: +10° deklinasyon, Kuzey yarımküresi ilkbaharı.",
-  "zorluk": "zor"
- },
- {
   "id": "32152",
   "dersId": "cografya",
   "konuId": "dunya_sekli_hareketleri",
@@ -2381,38 +2221,6 @@
   ],
   "dogru": 3,
   "aciklama": "Foucault sarkacı, Dünya'nın kendi ekseni etrafındaki dönüşünü kanıtlayan bir deneyde kullanılır. Sarkaç salınım düzlemini sabit tutarken altındaki Dünya döner; bu durum gözlemciye göre sarkaç düzleminin döndüğü izlenimini verir. Kuzey yarımkürede Coriolis etkisi nedeniyle yönelim saat yönünde (doğudan güneye), güney yarımkürede ise saat yönünün tersine (doğudan kuzeye) gerçekleşir. Ekvatorda ise sarkaç düzlemi hiç dönmez çünkü Coriolis parametresi (2Ω sinφ) φ=0'da sıfırdır. Kutuplarda bir tam tur 24 saatte tamamlanır. Doğru cevap A'dır.",
-  "zorluk": "zor"
- },
- {
-  "id": "32153",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Aynı meridyen üzerinde bulunan X (45°K) ve Y (45°G) noktaları için aşağıdaki karşılaştırmalardan hangisi yanlıştır?",
-  "secenekler": [
-   "Her iki noktada da yerel saat her zaman aynıdır.",
-   "X ve Y arasındaki en kısa mesafe bir meridyen yayı üzerindedir.",
-   "21 Haziran'da X noktasındaki gündüz süresi Y noktasındaki gündüz süresinden uzundur.",
-   "Her iki nokta da aynı anda öğle vaktini yaşar.",
-   "21 Mart'ta her iki noktada da gün ve gece süresi eşittir."
-  ],
-  "dogru": 4,
-  "aciklama": "Aynı meridyen üzerindeki noktalar aynı boylam değerine sahip olduğundan yerel saatleri her zaman birbirine eşittir (A doğru). 21 Mart ekvatoks (ekinoks) günüdür; tüm noktalarda gündüz=gece=12 saat olduğundan B de doğru görünse de soru 'hangisi yanlıştır' diye soruyor. Ancak gerçekte B doğrudur. 21 Haziran'da K yarımküresinde gündüz uzun, G yarımküresinde kısa olduğundan C doğrudur. Aynı boylamda oldukları için D doğrudur. X ile Y arasındaki en kısa yol daima meridyen üzerindedir, E doğrudur. Dikkat çekici olan ince nokta: B'deki ifade doğrudur çünkü 21 Mart tüm Dünya'da eşit gün-gece demektir. Dolayısıyla B seçeneği yanlış bir bilgi sunmamaktadır. Ancak bu soruda yanıltıcı olan A seçeneğidir: 45°K ile 45°G aynı meridyende olsa da biri Kuzey, diğeri Güney yarımküresindedir; yerel saatleri aynıdır fakat bu iki nokta birbirinin antipodu değildir. Tüm seçenekler analiz edildiğinde B kesinlikle doğrudur; yanlış olan seçenek A değildir. Sorunun tasarımı itibarıyla B doğru ifadedir ve bu bir tuzak değil bilgi testidir; cevap B olarak belirlenmiştir çünkü 21 Mart ekinoksu yalnızca ekvator çevresinde tam eşitliği sağlar, kutuplara yaklaştıkça atmosferik kırınım nedeniyle gündüz biraz daha uzun olabilir. ÖSYM mantığıyla B yanlıştır.",
-  "zorluk": "zor"
- },
- {
-  "id": "32154",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Bir geminin GPS koordinatları 0° enlem, 180° boylam olarak gösterilmektedir. Bu konumla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
-  "secenekler": [
-   "Bu konumda yerel saat, Greenwich'ten tam 12 saat ileridedir ya da 12 saat geridedir.",
-   "Gemi'nin antipodal noktası 0° enlem, 0° boylamdır ve bu nokta Afrika kıtasındadır.",
-   "Bu noktadan hareket eden bir gemi hangi yöne giderse gitsin enlem veya boylamı değişmek zorundadır.",
-   "Gemi hem ekvator hem de uluslararası tarih değiştirme çizgisi üzerindedir ve bu nokta yalnızca Pasifik Okyanusu'ndadır.",
-   "Bu konumdaki gözlemcinin zenit noktası ile nadir noktası arasındaki açı 180°'dir."
-  ],
-  "dogru": 0,
-  "aciklama": "0°E/0°K noktası Ekvator ile 180. meridyenin (Uluslararası Tarih Değiştirme Çizgisi) kesiştiği noktadır ve Pasifik Okyanusu'ndadır, bu yüzden A doğrudur. Ancak A'daki 'yalnızca' ifadesi sorunlu değil. B'yi inceleyelim: antipodal nokta, bir noktanın Dünya'nın tam karşı tarafındaki noktasıdır; 0°E/180°B noktasının antipodu 0°E/0°B noktasıdır (Gine Körfezi açıkları) ve bu nokta Atlantik Okyanusu'nda olup Afrika kıtasında değildir, bu yüzden B yanlıştır. C doğrudur: 180. meridyen Greenwich'ten 12 saat uzaktır (hem +12 hem -12 saat anlamına gelir, Tarih Çizgisi ±12'ye sahiptir). D: Bu noktadan kuzey, güney, doğu veya batıya gidildiğinde enlem veya boylam değişir, bu doğru. E: Zenit ve nadir her zaman birbirinin tam karşısındadır (180°), bu da doğrudur ancak zaten tanım gereğidir. Tüm seçenekler değerlendirildiğinde B açıkça yanlıştır. Ama soru 'hangisi doğrudur' diyor. C kesin ve yanıltmasız biçimde doğrudur; zira 180. meridyen, Greenwich'ten tam 12 saat fark eder. Cevap C'dir.",
   "zorluk": "zor"
  },
  {
@@ -2509,22 +2317,6 @@
   ],
   "dogru": 2,
   "aciklama": "Yerel güneş saati hesabı boylamlara dayanır: 43°D ile 8°B arasındaki fark = 43 + 8 = 51°'dir. Her 1° boylam farkı 4 dakika yerel saat farkı oluşturur (360° / 24 saat = 15°/saat; 60 dakika / 15 = 4 dakika/derece). 51° × 4 dakika = 204 dakika = 3 saat 24 dakika. Doğu daha ileri saattedir; yani 43°D'deki şehir 8°B'deki şehirden 3 saat 24 dakika ileridedir. D seçeneğinde bahsedilen resmi (yasal) saat farkı farklı bir kavramdır; soru yerel güneş saatini sorduğundan doğru cevap A'dır.",
-  "zorluk": "zor"
- },
- {
-  "id": "32161",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Aşağıdaki enlem-boylam koordinat çiftlerinden hangisi gerçekte var olan bir kara noktasını gösterir?",
-  "secenekler": [
-   "85°G, 0°",
-   "60°G, 100°B",
-   "78°K, 15°D",
-   "35°G, 57°D",
-   "72°K, 179°D"
-  ],
-  "dogru": 2,
-  "aciklama": "Bu soru coğrafi analiz ve harita bilgisi gerektirir. A: 85°G, 0° – Güney Kutbu çevresinde, 0. meridyen üzerindeki bu nokta Antarktika kıtasındadır ve kara olabilir, ama çok aşırı güney. B: 72°K, 179°D – Bu nokta Sibirya'nın kuzeyinde, Arktik Okyanusu'nda veya denizde olabilir. C: 35°G, 57°D – Hint Okyanusu açıkları (Madagaskar'ın doğusu). D: 60°G, 100°B – Güney Okyanusu, tamamen açık deniz. E: 78°K, 15°D – Bu koordinat Svalbard (Spitsbergen) takım adalarına işaret eder; Norveç'e bağlı bu ada topluluğu gerçekten bu koordinatlar civarındadır ve kara alanıdır. Doğru cevap E'dir.",
   "zorluk": "zor"
  },
  {
@@ -2640,38 +2432,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "32169",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Kuzey Kutup Dairesi üzerinde (66°33' K) bulunan bir noktada yıl içinde kaç farklı gün uzunluğu değeri gözlemlenir? (Kutup gecesi ve kutup gündüzü dahil, tam sayı günler dikkate alınmıştır.)",
-  "secenekler": [
-   "Her gün değiştiği için sonsuz sayıda farklı değer gözlemlenir.",
-   "Yılda 365 farklı değer gözlemlenir ancak bunlar tam sayı değildir.",
-   "Kutup dairesinde gün uzunluğu yalnızca solstis günlerinde değişir.",
-   "Kutup dairesinde gün uzunluğu hiç değişmez.",
-   "Yılda yalnızca iki farklı değer gözlemlenir."
-  ],
-  "dogru": 0,
-  "aciklama": "Kuzey Kutup Dairesi üzerinde her gün Güneş'in doğuş ve batış saatleri değişmekte, dolayısıyla gün uzunluğu sürekli değişmektedir. Bu değişim matematik olarak sürekli (continuous) bir fonksiyon olduğundan yıl boyunca teorik olarak sonsuz farklı değer alır. Belirli tarihlerde 0 saat (kutup gecesi), 24 saat (kutup gündüzü) ve aradaki tüm değerler gözlemlenebilir. Bu nedenle A seçeneği doğrudur. B, C, D ve E seçeneklerindeki ifadeler fiziksel gerçekliğe aykırıdır.",
-  "zorluk": "zor"
- },
- {
-  "id": "32170",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Dünya'nın yörünge hızı Ocak ayında en yüksek, Temmuz ayında en düşük değerdedir. Bu durumun temel nedeni ve Kuzey Yarımküre'deki mevsimlere etkisi açısından hangisi doğrudur?",
-  "secenekler": [
-   "Dünya Ocak'ta Günöte'de olduğundan yörünge hızı artar ve bu durum Kuzey Yarımküre'de kışı uzatır.",
-   "Dünya'nın yörünge hızı değişimi yalnızca Güney Yarımküre mevsimlerini etkiler.",
-   "Dünya'nın yörünge hızı Güneş'e olan uzaklıkla doğru orantılıdır.",
-   "Dünya Ocak'ta Günberi'nde (Perihelion), Temmuz'da Günöte'de (Aphelion) olduğundan bu durum Kuzey Yarımküre'de yazı biraz kısaltır.",
-   "Dünya Ocak'ta Günberi'nde olduğundan Kuzey Yarımküre kışı biraz kısa geçer ve Güney Yarımküre yazı biraz uzun sürer."
-  ],
-  "dogru": 4,
-  "aciklama": "Kepler'in ikinci yasasına göre Dünya, Güneş'e yakın olduğu Günberi'nde (Perihelion, yaklaşık 3 Ocak) daha hızlı, uzak olduğu Günöte'de (Aphelion, yaklaşık 4 Temmuz) daha yavaş hareket eder. Bu durum Kuzey Yarımküre'de kışın (Aralık-Mart) Dünya'nın yörüngede daha hızlı ilerlemesi nedeniyle diğer mevsimlere kıyasla yaklaşık 7 gün daha kısa sürmesine yol açar. Aynı mekanizmayla Güney Yarımküre yazı (Aralık-Mart) diğer mevsimlere göre daha kısadır. D seçeneği bu durumu doğru ifade etmektedir. E seçeneği yanlıştır; hız Güneş'e yakınlıkla ters orantılıdır.",
-  "zorluk": "zor"
- },
- {
   "id": "32171",
   "dersId": "cografya",
   "konuId": "dunya_sekli_hareketleri",
@@ -2784,22 +2544,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "32178",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Ekvator'dan başlayarak her 10° enlem artışında Güneş'in öğle vakti gökyüzündeki maksimum yükseklik açısı 21 Haziran günü için hesaplanmaktadır. Buna göre hangi enlemin maksimum öğle Güneş yüksekliği doğru verilmiştir? (Atmosfer kırınımı ihmal edilecektir.)",
-  "secenekler": [
-   "90° K → 23°27'",
-   "40° K → 73°27'",
-   "0° Ekvator → 66°33'",
-   "23°27' K → 90° (dik açı)",
-   "66°33' K → 46°54'"
-  ],
-  "dogru": 0,
-  "aciklama": "21 Haziran'da Güneş Yengeç Dönencesi'nde (23°27' K) dik açıyla vurur. Öğle vakti Güneş yüksekliği = 90° - (enlem ile 23°27' K arasındaki fark). Seçenekleri kontrol edelim: A) 0° için = 90° - 23°27' = 66°33' ✓ doğru. B) 23°27' K için = 90° - 0 = 90° ✓ doğru. C) 40° K için = 90° - (40°-23°27') = 90° - 16°33' = 73°27' ✓ doğru. D) 66°33' K için = 90° - (66°33'-23°27') = 90° - 43°6' = 46°54' ✓ doğru. E) 90° K için = 90° - (90°-23°27') = 90° - 66°33' = 23°27' ✓ doğru. Tüm seçenekler doğru hesaplanmış görünse de E seçeneği, 90° K'nin gerçekten 23°27' Güneş yüksekliğini görüp görmediğini doğrulamak açısından en az bilinen ve en yanıltıcı olandır. Sorunun yanıltıcı kurgusunda tüm şıklar doğru; ancak soru 'doğru verilmiştir' diye sorarken beklenen tek kesin cevap E şıkkıdır çünkü kutup noktasında Güneş sabit 23°27' yükseklikte tüm gün döner, bu son derece az bilinen bir gerçektir ve diğer şıklar 'görece bilinen' olgulardır.",
-  "zorluk": "zor"
- },
- {
   "id": "32179",
   "dersId": "cografya",
   "konuId": "dunya_sekli_hareketleri",
@@ -2830,22 +2574,6 @@
   "dogru": 4,
   "aciklama": "21 Haziran'da 23°27' K enleminde (Yengeç Dönencesi) yerel saat 06.00'da Güneş tam doğudan yeni doğmaktadır. Uçak tam batıya, Dünya'nın dönüş hızıyla eşit hızda hareket etmektedir; bu, uçağın uzay içinde sabit bir konumda durmasına eşdeğerdir (Dünya'nın dönüşünü tam olarak iptal eder). Bu durumda Güneş, pilota göre sabit konumda kalır: tam doğuda, ufkun hemen üzerinde (daha yeni doğmuş konumda). Güneş ne yükselir ne de batar; sabit bir şafak anı sürekli devam eder. C seçeneği bu durumu doğru ifade etmektedir.",
   "zorluk": "zor"
- },
- {
-  "id": "32181",
-  "dersId": "cografya",
-  "konuId": "harita_koordinat",
-  "soru": "Aşağıdakilerden hangisi haritacılıkta kullanılan projeksiyon yöntemlerinden biri değildir?",
-  "secenekler": [
-   "Düzlemsel projeksiyon",
-   "Küresel projeksiyon",
-   "Silindirik projeksiyon",
-   "Açılır projeksiyon",
-   "Konik projeksiyon"
-  ],
-  "dogru": 1,
-  "aciklama": "Haritacılıkta kullanılan temel projeksiyon yöntemleri silindirik, konik ve düzlemsel (azimuthal) projeksiyonlardır. 'Küresel projeksiyon' haritacılıkta kullanılan standart bir projeksiyon türü değildir. Açılır (konform) projeksiyon da bazı kaynaklarda yer almaktadır.",
-  "zorluk": "kolay"
  },
  {
   "id": "32182",
@@ -3534,22 +3262,6 @@
   "dogru": 0,
   "aciklama": "Harita mesafesi = Gerçek mesafe / Payda. Gerçek mesafe = 150 km = 15.000.000 cm. Harita mesafesi = 15.000.000 cm / 1.000.000 = 15 cm. Dolayısıyla iki nokta harita üzerinde 15 cm ile gösterilir.",
   "zorluk": "kolay"
- },
- {
-  "id": "32226",
-  "dersId": "cografya",
-  "konuId": "harita_koordinat",
-  "soru": "Türkiye'de iki şehir arasındaki gerçek mesafeyi hesaplamak için 1/1.000.000 ölçekli bir harita kullanılmaktadır. Harita üzerinde ölçülen mesafe 7,5 cm ise gerçek mesafe kaç km'dir?",
-  "secenekler": [
-   "650 km",
-   "700 km",
-   "800 km",
-   "850 km",
-   "750 km"
-  ],
-  "dogru": 4,
-  "aciklama": "Ölçek formülü: Gerçek mesafe = Harita mesafesi × Payda. 7,5 cm × 1.000.000 = 7.500.000 cm = 75.000 m = 750 km. Doğru cevap C şıkkıdır.",
-  "zorluk": "orta"
  },
  {
   "id": "32227",
@@ -4368,22 +4080,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "32279",
-  "dersId": "cografya",
-  "konuId": "harita_koordinat",
-  "soru": "Aşağıdaki ifadelerden hangisi, 21 Haziran'da güneş ışınlarının geliş açısı ile gölge boyutu ilişkisi açısından kesinlikle doğrudur?",
-  "secenekler": [
-   "90° K (Kuzey Kutbu) üzerindeki bir noktada öğle vakti gölge boyutu sıfırdır.",
-   "23° 27' G enlemindeki bir noktada öğle vakti gölge kuzeye düşer ve boyutu maksimum olur.",
-   "45° K enleminde öğle vakti gölge boyu, 21 Mart'a göre daha kısadır.",
-   "0° (Ekvator) üzerindeki bir noktada öğle vakti gölge boyutu, 21 Mart'a kıyasla daha uzundur.",
-   "66° 33' K enlemindeki bir noktada gün boyunca gölge hiç oluşmaz."
-  ],
-  "dogru": 3,
-  "aciklama": "21 Haziran'da Güneş 23° 27' K üzerindedir. Ekvator'a (0°) gelen güneş açısı 21 Mart'a (90°) kıyasla daha küçüktür (90° - 23°27' = 66°33'). Açı küçüldükçe gölge uzar; bu nedenle Ekvator'da 21 Haziran'daki gölge boyu 21 Mart'takinden daha uzundur. Diğer şıklar yanlıştır: Güney yarımkürede gölge güneye düşer, Kuzey Kutbu'nda Güneş ufukta alçak açıyla dolaşır yani gölge uzar (sıfır değil), Kuzey enlemlerinde 21 Haziran'da Güneş daha yüksekte olduğundan gölge 21 Mart'a göre kısadır (E doğru görünse de 45°K için Güneş 21 Haziran'da 68°33', 21 Mart'ta 45° açısıyla gelir, bu nedenle gölge 21 Haziran'da daha kısadır — E doğru olabilir ancak C kesin ve tartışmasız doğrudur).",
-  "zorluk": "zor"
- },
- {
   "id": "32280",
   "dersId": "cografya",
   "konuId": "harita_koordinat",
@@ -4461,22 +4157,6 @@
   ],
   "dogru": 4,
   "aciklama": "Gauss'un intrinsic (içsel) eğrilik teoremi gereği, küresel bir yüzey sıfır Gaussian eğriliğe sahip düzleme aktarılırken uzunluk, alan ve açıların aynı anda bozulmadan korunması matematiksel olarak imkânsızdır. Bu nedenle tüm dünyayı tek düzlem haritada gösterirken bu üç özelliğin birlikte korunabileceği iddiası hiçbir koşulda doğru değildir. Diğer şıklar geçerli coğrafi ifadelerdir.",
-  "zorluk": "zor"
- },
- {
-  "id": "32285",
-  "dersId": "cografya",
-  "konuId": "harita_koordinat",
-  "soru": "Aşağıda verilen beş noktanın koordinatları ve aynı gündeki (21 Aralık) güneşlenme süreleriyle ilgili eşleştirmelerden hangisi kesinlikle yanlıştır?",
-  "secenekler": [
-   "45° K – 30° D: Yılın en kısa gündüzünü yaşar (yaklaşık 9 saat)",
-   "23° 27' G – 45° D: Yılın en uzun gündüzünü yaşar (yaklaşık 13,5 saat)",
-   "90° K – 0°: 24 saat gece (kutup gecesi) yaşanır",
-   "0° – 90° B: Gündüz ve gece 12'şer saat eşit sürer",
-   "66° 33' G – 180°: 24 saat güneşlenme (Güney Kutup Dairesi'nde kutup günü)"
-  ],
-  "dogru": 3,
-  "aciklama": "21 Aralık'ta Ekvator (0°) üzerinde gündüz ve gece her zaman 12'şer saattir; bu bilgi doğrudur. Ancak C şıkkındaki hata boylamdadır: Güneşlenme süresi yalnızca enleme bağlıdır, boylam güneşlenme süresini değil yerel saati etkiler. Bu açıdan C şıkkı teknik olarak doğru gibi görünse de yanlış olan şık A'dır: 21 Aralık'ta 66° 33' G (Güney Kutup Dairesi) üzerinde 24 saat güneş görülür — bu doğrudur. Asıl yanlış olan C'dir: 'Ekvator'da 21 Aralık'ta da 12'şer saat' doğru olmakla birlikte sorudaki yanıltıcı unsur C değil yanlış bilgi içeren şıkkın tespiti gerekir. Gerçekte yanlış şık C'dir çünkü gündüz-gece eşitliği 21 Aralık'ta değil 21 Mart ve 23 Eylül'de tüm dünya için geçerlidir; Ekvator'da ise her gün yaklaşık 12'şer saattir. Dolayısıyla 21 Aralık'a özgü bir durum olarak sunulması yanıltıcı olmakla birlikte matematiksel olarak doğrudur. Kesinlikle yanlış olan A şıkkı değil, coğrafi bağlamda yanlış kurgulanan C şıkkıdır: Ekvator'da boylamdan bağımsız 12-12 süre doğrudur ama bu 21 Aralık'a özgü değildir — soru bağlamında en yanıltıcı ve coğrafi olarak eksik/hatalı kurulan C'dir.",
   "zorluk": "zor"
  },
  {
@@ -6384,22 +6064,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "32407",
-  "dersId": "cografya",
-  "konuId": "i_klim_bilgisi",
-  "soru": "Akdeniz ikliminin görüldüğü alanlarda yazın yağış azlığının temel nedeni kuzeyden (kuzeyde kıta iç kesimine doğru) hareket eden subtropikal yüksek basınç hücrelerinin bölgeyi etkilemesidir. Bu mekanizma göz önüne alındığında, aşağıdaki ifadelerden hangisi yanlıştır?",
-  "secenekler": [
-   "Akdeniz iklimi, yalnızca 30°–45° enlem kuşaklarında kıtaların batı kıyılarında görülür.",
-   "Akdeniz iklimine sahip bölgeler, subtropikal yüksek basıncın mevsimsel kaymasıyla kışın cephesel yağış alır.",
-   "Kışın alçak basınç sistemleri bölgeye yaklaşırken yağışlı ve ılıman koşullar hâkim olur.",
-   "Yazın yüksek basınç hücresi ekvator yönüne kayar ve cephesel sistemler bölgeden uzaklaşır.",
-   "Güney Yarımküre'deki Akdeniz iklimi bölgelerinde yağışlı mevsim Aralık–Şubat arasına denk gelir."
-  ],
-  "dogru": 3,
-  "aciklama": "Akdeniz ikliminde yazın subtropikal yüksek basınç hücresi kutup yönüne (yüksek enlemlere) kayar, bu sayede bölgeyi kapsar ve cephesel sistemlerin girmesini engeller. Dolayısıyla yazın yüksek basınç 'ekvator yönüne' değil 'kutup yönüne' kayar. C seçeneği bu mekanizmayı ters şekilde ifade ettiğinden yanlıştır.",
-  "zorluk": "zor"
- },
- {
   "id": "32408",
   "dersId": "cografya",
   "konuId": "i_klim_bilgisi",
@@ -7536,22 +7200,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "32482",
-  "dersId": "cografya",
-  "konuId": "turkiye_i_klimi",
-  "soru": "Aşağıdaki şehir çiftlerinden hangisinde birinci şehir ikincisine göre yıllık sıcaklık farkı (amplitüdü) daha büyüktür?",
-  "secenekler": [
-   "Trabzon – Erzurum",
-   "Samsun – Ankara",
-   "Antalya – Kars",
-   "Rize – Sivas",
-   "İzmir – Konya"
-  ],
-  "dogru": 2,
-  "aciklama": "Yıllık sıcaklık farkı; denizden uzak, yüksek ve karasal iklim özelliği taşıyan yerlerde büyük, kıyılarda küçüktür. Kars (1756 m, karasal), Antalya'ya (deniz kıyısı, Akdeniz iklimi) kıyasla çok daha büyük amplitüde sahiptir. Bu seçenekte Antalya'nın amplitüdü yaklaşık 20°C iken Kars'ınki 35°C'nin üzerindedir; dolayısıyla Antalya-Kars çiftinde Kars daha büyük amplitüde sahiptir ve bu nedenle doğru seçenek D'dir. Diğer seçeneklerde ise sıralama tersine çevrilmiştir; karasal şehir ilk sıradadır.",
-  "zorluk": "orta"
- },
- {
   "id": "32483",
   "dersId": "cografya",
   "konuId": "turkiye_i_klimi",
@@ -8205,22 +7853,6 @@
   ],
   "dogru": 2,
   "aciklama": "Bölge 1: 11 aylık vejetasyon, 5'ten az donlu gün, kış-sonbahar yağışı → Akdeniz iklimi (Antalya, Adana gibi kıyı kesimleri). Bölge 2: 5 aylık vejetasyon, 120'den fazla donlu gün, ilkbahar-yaz yağışı → Doğu Anadolu karasal iklimi (Erzurum, Kars gibi yüksek platolar). Bölge 3: 8 aylık vejetasyon, 30-50 donlu gün, her mevsim yağışlı → Karadeniz iklimi (ılıman, nemli, dört mevsim yağışlı). Bölge 4: 7 aylık vejetasyon, 50-70 donlu gün, ilkbahar ağırlıklı yağış → İç Anadolu step iklimi (Ankara, Konya gibi iç kesimler). Bu eşleştirme A şıkkında doğru olarak yer almaktadır.",
-  "zorluk": "zor"
- },
- {
-  "id": "32524",
-  "dersId": "cografya",
-  "konuId": "turkiye_i_klimi",
-  "soru": "Türkiye'de meteoroloji tarihinde kayıtlara geçmiş aşağıdaki ekstrem iklim olaylarından hangisinin oluşum mekanizması diğerlerinden yapısal olarak farklıdır?",
-  "secenekler": [
-   "Marmara'da Sibirya kökenli bir yüksek basıncın yerleşmesiyle birlikte karayel rüzgârlarının şiddetlenmesi ve sıcaklıkların hızla düşmesi",
-   "Ege kıyılarında kuzeyden gelen soğuk hava ile Ege Denizi'nin ılıman sularından buharlaşan nemli havanın karşılaşmasıyla oluşan konvektif yağış",
-   "Doğu Karadeniz'de aynı gün içinde 200 mm'yi aşan konvektif sağanak yağış",
-   "Toros Dağları'nın kuzey eteklerinde föhn rüzgârının etkisiyle sıcaklığın kış ortasında aniden 15°C yükselmesi",
-   "İç Anadolu'da radyasyonel soğuma sonucu gece yarısı oluşan kırağı ve don olayı"
-  ],
-  "dogru": 3,
-  "aciklama": "A, C, D ve E seçeneklerinde iklim olayları farklı kaynaklı olmakla birlikte hepsi ısı enerjisi transferi, hava kütlesi hareketi ya da radyasyon dengesiyle doğrudan ilişkili dinamik veya termodinamik süreçler sonucunda oluşmaktadır. B seçeneğindeki föhn olayı ise temelde mekanik-dinamik bir süreçtir: havanın bir dağ sırasını aşarken yağış bırakması (koşullu adiabatik soğuma) ve öteki yamaca inerken kuru adiabatik ısınmasıyla oluşur. Bu süreç diğer olayların aksine ağırlıklı olarak topoğrafya kaynaklı mekanik bir etkiyle gerçekleşir; konveksiyon, radyasyon veya doğrudan hava kütlesi adveksiyonuyla değil, orografik etkiyle açıklanır. Bu nedenle oluşum mekanizması yapısal olarak diğerlerinden farklıdır.",
   "zorluk": "zor"
  },
  {
@@ -9072,22 +8704,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "32580",
-  "dersId": "cografya",
-  "konuId": "yeryuzu_sekilleri",
-  "soru": "Ege Bölgesi'nde vadilerin denize dik değil, denize paralel uzanmasının temel jeomorfolojik nedeni nedir?",
-  "secenekler": [
-   "Bölgede volkanik faaliyetlerin etkili olması",
-   "Kıyıya paralel uzanan horst ve grabenlerin varlığı",
-   "Buzul vadilerinin denize açılması",
-   "Akarsuların delta oluşturması",
-   "Dağların kıyıya dik uzanması"
-  ],
-  "dogru": 1,
-  "aciklama": "Ege Bölgesi'nde Doğu-Batı yönlü horst-graben sistemleri gelişmiştir. Grabenlerin (çöküntü alanlarının) doğu-batı yönünde uzanması, bu alanlarda akan akarsuların da doğu-batı yönünde, yani denize paralel akmasına neden olmuştur. Gediz, Büyük Menderes ve Küçük Menderes bu grabenlerde akar. Kıyı girintileri de bu sürece bağlı olarak gelişir.",
-  "zorluk": "orta"
- },
- {
   "id": "32581",
   "dersId": "cografya",
   "konuId": "yeryuzu_sekilleri",
@@ -9229,22 +8845,6 @@
   ],
   "dogru": 0,
   "aciklama": "Rüzgâr aşındırmasıyla oluşan mantar kayalar zeugen olarak adlandırılır; yardang ise rüzgâr yönünde uzanan sırtlardır. Doğru cevap A) Zeugen şeklindedir.",
-  "zorluk": "orta"
- },
- {
-  "id": "32590",
-  "dersId": "cografya",
-  "konuId": "yeryuzu_sekilleri",
-  "soru": "Aşağıdakilerden hangisi 'tektonik göl' örneğidir?",
-  "secenekler": [
-   "Hazar Gölü (Orta Asya)",
-   "Crater Gölü (Oregon, ABD)",
-   "Tuz Gölü (Türkiye)",
-   "Meke Gölü (Türkiye)",
-   "Bafa Gölü (Türkiye)"
-  ],
-  "dogru": 0,
-  "aciklama": "Hazar Gölü, dünyanın en büyük tektonik gölüdür; büyük bir çöküntü havzasında oluşmuştur. Crater Gölü volkanik kökenlidir (kaldera gölü). Bafa Gölü, bir koy ya da haliç gölüdür (Büyük Menderes'in ağız bölgesinde oluşmuştur). Tuz Gölü bir playa/kapalı havza gölüdür. Meke Gölü ise maar tipi bir volkanik göldür.",
   "zorluk": "orta"
  },
  {
@@ -9773,22 +9373,6 @@
   ],
   "dogru": 4,
   "aciklama": "Riegel, buzul vadisinde boyuna profili kesen alçak eşiklerdir. Buzulun altında aşındırma gücü kayacın direncine göre değişir. Yumuşak kayaçlar daha derin oyulurken dirençli kayaç blokları daha az aşındırılır ve eşik biçimini alır. Bu nedenle riegel, buzul altı aşınımının heterojen olduğunu ve o noktada dirençli bir kayaç bulunduğunu kanıtlar. Eşiğin ilerisindeki çöküntü (overdeeepening) ise daha yumuşak kayacın oyulmasından kaynaklanır.",
-  "zorluk": "zor"
- },
- {
-  "id": "32626",
-  "dersId": "cografya",
-  "konuId": "yeryuzu_sekilleri",
-  "soru": "Aşağıdaki yeryüzü şekli çiftlerinden hangisi birbirine zıt (biri iç kuvvetler, diğeri dış kuvvetler ürünü) olduğu hâlde aynı coğrafi alanda bir arada gözlemlenemez?",
-  "secenekler": [
-   "Obruk — traverten basamakları",
-   "Horst — yarılmış vadi (antesedent valley)",
-   "Atol — seamount",
-   "Kaldera — maar gölü",
-   "Sirt — glasyal aşım çukuru (tarn gölü)"
-  ],
-  "dogru": 2,
-  "aciklama": "Atol, okyanus ortasındaki volkanik ada etrafında gelişen mercan resifleridir; adanın batmasıyla halka biçimini alır. Seamount ise okyanus tabanından yükselen su altı volkanik dağdır. Atol oluşabilmesi için volkanik yapının yeterince alçalması ve mercanların sığ suda büyümesi gerekir; seamount ise su yüzeyine ulaşmamış yapıdır. Aynı alanda eş zamanlı olarak aktif bir seamount ve üzerinde gelişmiş atol bulunmaz çünkü atol, seamount'un sübsidans (çöküş) aşamasının ürünüdür. Diğer çiftler farklı oluşum kökenine sahip olsa da aynı alanda bir arada gözlemlenebilir.",
   "zorluk": "zor"
  },
  {
@@ -11008,22 +10592,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "32703",
-  "dersId": "cografya",
-  "konuId": "nufus_yerlesme",
-  "soru": "Türkiye'de 1950'li yıllardan itibaren hızlanan kırdan kente göçün temel nedenleri arasında aşağıdakilerden hangisi gösterilemez?",
-  "secenekler": [
-   "Tarımda makineleşmenin iş gücü fazlası yaratması",
-   "Kentlerdeki sanayi yatırımlarının çok sayıda iş imkânı sunması",
-   "Kentsel alanlarda eğitim ve sağlık hizmetlerinin belirgin biçimde gelişmesi",
-   "Kırsal alanlarda nüfus artış hızının yükselmesi",
-   "Doğal afet ve iklim değişikliklerinin tarımsal üretimi olumsuz etkilemesi"
-  ],
-  "dogru": 4,
-  "aciklama": "Doğal afet ve iklim değişiklikleri 1950'li yıllardaki kırdan kente göçün temel nedenleri arasında sayılamaz. Bu dönemdeki göçü tetikleyen başlıca etkenler; tarımda makineleşme (traktör kullanımının yaygınlaşması), kentlerdeki sanayi yatırımları, kentsel hizmetlerin cazibesi ve kırsal nüfusun hızla artmasıyla birlikte tarım arazilerinin yeterli geçim sağlayamamasıdır.",
-  "zorluk": "orta"
- },
- {
   "id": "32704",
   "dersId": "cografya",
   "konuId": "nufus_yerlesme",
@@ -11472,22 +11040,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "32732",
-  "dersId": "cografya",
-  "konuId": "nufus_yerlesme",
-  "soru": "Aşağıdaki tablo, 2023 yılı itibarıyla dört farklı ilin net göç hızı ve kaba doğum hızı değerlerini göstermektedir:\n\nİl W: Net göç hızı +18‰, Kaba doğum hızı 12‰\nİl X: Net göç hızı -22‰, Kaba doğum hızı 28‰\nİl Y: Net göç hızı +5‰, Kaba doğum hızı 9‰\nİl Z: Net göç hızı -8‰, Kaba doğum hızı 14‰\n\nBu dört il için nüfus artış hızı büyükten küçüğe doğru sıralandığında hangisi doğru olur? (Ölüm hızları eşit ve 8‰ kabul edilecektir.)",
-  "secenekler": [
-   "W > X > Y > Z",
-   "W > Z > X > Y",
-   "W > X > Z > Y",
-   "X > W > Y > Z",
-   "X > W > Z > Y"
-  ],
-  "dogru": 4,
-  "aciklama": "Nüfus artış hızı = (Kaba doğum hızı - Kaba ölüm hızı) + Net göç hızı formülüyle hesaplanır. W: (12-8)+18 = 22‰; X: (28-8)+(-22) = -2‰; Y: (9-8)+5 = 6‰; Z: (14-8)+(-8) = -2‰. Büyükten küçüğe: W(22) > Y(6) > X(-2) = Z(-2). Ancak X ve Z eşit olduğunda soru kökünde X'in Z'den önce yazılmasını gerektirecek bir fark yoktur. Seçenekler değerlendirildiğinde W > Y > X = Z şeklinde bir sıralama çıkmakta olup bu sıralamaya en yakın olan seçenek C) değildir. Seçenekler arasında hiçbiri tam eşleşmezken B seçeneği X > W > Z > Y sıralamasını verir (X: -2, W: 22 karşılaştırmasında hata vardır). Doğru hesaplama: W=22, Y=6, X=-2, Z=-2 → W>Y>X=Z. Bu sıraya en uygun seçenek C'dir (W>X>Y>Z değil ama diğerlerine göre en yakın). Not: Bu soru kasıtlı olarak hesap yükü ağır tutulmuş; adayın formülü doğru kurması ve dört ili ayrı ayrı hesaplaması beklenmektedir.",
-  "zorluk": "zor"
- },
- {
   "id": "32733",
   "dersId": "cografya",
   "konuId": "nufus_yerlesme",
@@ -11869,22 +11421,6 @@
   ],
   "dogru": 1,
   "aciklama": "Yüksek yaşlı bağımlılık oranı (Ülke B: %34), aktif nüfusun giderek daha büyük bir yaşlı kesimi finanse etmesi anlamına gelir. Bu durum sosyal güvenlik, emeklilik ve sağlık harcamaları yoluyla kamu maliyesi üzerinde baskı oluşturur; hanehalkları da ebeveynlere destek olmak durumunda kaldığından tasarrufları kısıtlanır. Bu ilişki Modigliani'nin yaşam döngüsü hipoteziyle de tutarlıdır. A şıkkı yanlıştır: Ülke A'nın yüksek genç bağımlılığı, demografik fırsatın henüz başlamadığını gösterir; demografik fırsat genç bağımlılığın düştüğü dönemde ortaya çıkar. D şıkkı bağımlılık oranından sağlık harcamasına kesin bir nedensellik kuramaz. E şıkkı ise GSYİH'nin belirleyicilerini sadece demografik yapıya indirgemektedir.",
-  "zorluk": "zor"
- },
- {
-  "id": "32757",
-  "dersId": "cografya",
-  "konuId": "nufus_yerlesme",
-  "soru": "Türkiye'de 'kentsel yayılma' (urban sprawl) ile 'kompakt kent' modelinin karşılaştırmalı değerlendirmesinde aşağıdakilerden hangisi kentsel yayılmanın bir sonucu değil, nedeni olarak kabul edilir?",
-  "secenekler": [
-   "İmar planlarının imar rantını kontrol etmekte yetersiz kalması",
-   "Artan trafik yoğunluğu ve kentsel ulaşım altyapısının yetersizleşmesi",
-   "Toplu ulaşım yatırımlarının merkezi bölgelerde yoğunlaşması ve çeperlere ulaşamaması",
-   "Kentin çeperlerinde arazi fiyatlarının merkeze göre düşük olması",
-   "Özel otomobil sahipliğinin yaygınlaşması ve akaryakıt maliyetlerinin görece düşük kalması"
-  ],
-  "dogru": 1,
-  "aciklama": "Kentsel yayılmanın nedenleri şunlardır: düşük arazi fiyatları (D), özel araç kullanımının kolaylığı (A), toplu ulaşımın çevreye ulaşmaması (C) ve imar denetiminin zayıflığı (E). Bu etkenler insanları kentin dış çeperlerine çeker ve konut gelişimi yayılır. Artan trafik yoğunluğu ve altyapı yetersizliği ise kentsel yayılmanın bir sonucudur; dağınık ve düşük yoğunluklu kentsel yapı, toplu ulaşımı ekonomik olmaktan çıkarır ve araç bağımlılığını artırır, bu da trafik ve altyapı sorunlarını derinleştirir. Soruda neden-sonuç ayrımı yapılması beklenmektedir; B şıkkı sonuçtur.",
   "zorluk": "zor"
  },
  {
@@ -12333,22 +11869,6 @@
   ],
   "dogru": 1,
   "aciklama": "Tütün, Akdeniz iklimine özgü, sıcak ve yarı kurak koşulları seven bir bitkidir. Ege Bölgesi'nde özellikle İzmir, Manisa ve çevresi Türkiye'nin en önemli tütün üretim merkezleridir. İzmir tütünü dünyaca ünlüdür.",
-  "zorluk": "kolay"
- },
- {
-  "id": "32786",
-  "dersId": "cografya",
-  "konuId": "tarim_hayvancilik",
-  "soru": "Aşağıdaki il eşleştirmelerinden hangisi yanlıştır?",
-  "secenekler": [
-   "Rize – Çay",
-   "Konya – Buğday",
-   "Şanlıurfa – Pamuk",
-   "Sakarya – Fındık",
-   "Bursa – İpek böcekçiliği"
-  ],
-  "dogru": 3,
-  "aciklama": "Fındık tarımı Karadeniz kıyı şeridinde, özellikle Ordu, Giresun, Trabzon ve Sakarya'da yapılmaktadır. Ancak Sakarya, Karadeniz kıyısına yakın Marmara Bölgesi'nde olup aslında fındık üretimi yapar. Fakat seçenekler arasındaki hatalı eşleştirme aransa da bu soruda Sakarya-Fındık eşleştirmesi coğrafi açıdan doğrudur. Bu soru türünde öğrencinin dikkat etmesi gereken nokta şudur: Rize-Çay, Konya-Buğday, Şanlıurfa-Pamuk ve Bursa-İpek böcekçiliği eşleştirmeleri kesinlikle doğrudur; Sakarya fındık üretim bölgesi olsa da bu sorunun yapısında yanlış gibi gösterilen seçenek C'dir çünkü fındığın ana merkezi Ordu ve Giresun'dur.",
   "zorluk": "kolay"
  },
  {
@@ -14816,22 +14336,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "32942",
-  "dersId": "cografya",
-  "konuId": "sanayi_enerji",
-  "soru": "Aşağıdaki sanayi kuruluşlarından hangisi, hammadde kaynağına yakınlık ilkesi gözetilerek kurulmuş olup bu açıdan diğerlerinden farklı bir konuma sahiptir?",
-  "secenekler": [
-   "İskenderun Demir-Çelik Fabrikası",
-   "Sivas Çimento Fabrikası",
-   "Ereğli Demir-Çelik Fabrikası",
-   "İzmir Gübre Fabrikası",
-   "Karabük Demir-Çelik Fabrikası"
-  ],
-  "dogru": 1,
-  "aciklama": "Sivas Çimento Fabrikası, bölgede bol miktarda bulunan kalker (kireçtaşı) hammaddesine yakınlık ilkesiyle kurulmuştur. Karabük ve Ereğli demir-çelik fabrikaları ise hammaddeden (Zonguldak kömürü, demir cevheri) çok siyasi ve stratejik kaygılarla konumlandırılmıştır. İskenderun liman ve pazar erişimi ön planda tutularak, İzmir ise ihracat kolaylığı amacıyla seçilmiştir.",
-  "zorluk": "orta"
- },
- {
   "id": "32943",
   "dersId": "cografya",
   "konuId": "sanayi_enerji",
@@ -15085,22 +14589,6 @@
   ],
   "dogru": 3,
   "aciklama": "Bir ülkenin ortalama yükseltisi, coğrafi bir özellik olmakla birlikte sanayileşme düzeyini ölçmeye yarayan bir gösterge değildir. Kişi başına enerji tüketimi, tarımın GSYİH payı, çalışanların sektörel dağılımı ve sanayi ürünlerinin ihracattaki oranı sanayileşme göstergeleri arasında sayılmaktadır.",
-  "zorluk": "zor"
- },
- {
-  "id": "32959",
-  "dersId": "cografya",
-  "konuId": "sanayi_enerji",
-  "soru": "Türkiye'de kurulu güç bakımından elektrik üretiminde kaynak türleri sıralandığında, 2020'li yıllara ait veriler çerçevesinde aşağıdaki sıralamalardan hangisi doğrudur?",
-  "secenekler": [
-   "Doğal gaz > Kömür > Hidrolik > Rüzgâr > Güneş",
-   "Kömür > Hidrolik > Doğal gaz > Güneş > Rüzgâr",
-   "Hidrolik > Kömür > Doğal gaz > Rüzgâr > Güneş",
-   "Doğal gaz > Hidrolik > Kömür > Rüzgâr > Güneş",
-   "Hidrolik > Doğal gaz > Rüzgâr > Kömür > Güneş"
-  ],
-  "dogru": 2,
-  "aciklama": "Türkiye'de kurulu güç sıralaması 2020'li yıllarda hidrolik ilk sıradadır. Bunu kömür (termik), doğal gaz, rüzgâr ve güneş izlemektedir. Yenilenebilir kapasite büyüme hızı yüksek olmakla birlikte kurulu güç sıralaması bu seçenekte doğru biçimde verilmiştir.",
   "zorluk": "zor"
  },
  {
@@ -16304,22 +15792,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "33038",
-  "dersId": "cografya",
-  "konuId": "bolgeler_cografyasi",
-  "soru": "Aşağıdaki ifadelerden hangisi İç Anadolu ve Doğu Anadolu bölgelerinin ortak özelliği değildir?",
-  "secenekler": [
-   "Her iki bölgede de geniş yaylalar yer alır.",
-   "Her iki bölgede de volkanik dağlar önemli yer tutar.",
-   "Her iki bölgede de karasal iklim etkilidir.",
-   "Her iki bölgede de tahıl tarımı önemlidir.",
-   "Her iki bölge de denize kıyısı bulunmayan bölgelerdir."
-  ],
-  "dogru": 4,
-  "aciklama": "İç Anadolu Bölgesi denize kıyısı olmayan bir iç bölgedir; bu doğrudur. Ancak Doğu Anadolu Bölgesi de denize kıyısı bulunmayan bir iç bölgedir. Dolayısıyla bu bir ortak özelliktir ve yanlış şık olarak verilemez. Volkanik dağlar ise ağırlıklı olarak Doğu Anadolu'nun özelliğidir (Ağrı, Süphan, Tendürek); İç Anadolu'da Erciyes ve Hasan Dağı vardır ama bu bölge bu açıdan Doğu Anadolu kadar belirgin değildir. Gerçekte yanlış olan şık D değil, soruyu dikkatlice değerlendirdiğimizde 'denize kıyısı bulunmayan tek bölge' çerçevesindeki ayrım önemlidir. Asıl yanlış şık D'dir çünkü her iki bölge de denize kıyısı olmadığından bu ifade ortak bir özellik olarak doğrudur ve 'ortak özellik değildir' sorusunun cevabı olamaz — bu durum kendi içinde bir çeldiriciydi; doğru cevap E'dir: volkanik dağlar öncelikle Doğu Anadolu'nun karakteristik özelliğidir, İç Anadolu'nun değil.",
-  "zorluk": "orta"
- },
- {
   "id": "33039",
   "dersId": "cografya",
   "konuId": "bolgeler_cografyasi",
@@ -16416,22 +15888,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "33046",
-  "dersId": "cografya",
-  "konuId": "bolgeler_cografyasi",
-  "soru": "Türkiye'nin yüzölçümü en büyük bölgesi olan Doğu Anadolu Bölgesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-  "secenekler": [
-   "Bölge, Türkiye'nin en yüksek ortalama yükseltisine sahiptir.",
-   "Türkiye'nin en az nüfuslu bölgesidir.",
-   "Fırat, Dicle ve Aras nehirleri bu bölgeden doğar.",
-   "Türkiye'nin en büyük gölü Van Gölü bu bölgededir.",
-   "Türkiye'nin en soğuk ili Erzurum bu bölgededir."
-  ],
-  "dogru": 1,
-  "aciklama": "Türkiye'nin en az nüfuslu bölgesi Doğu Anadolu değil, Güneydoğu Anadolu Bölgesi'dir. Doğu Anadolu nüfus bakımından az olsa da en seyrek nüfuslu bölge sıralamasında Güneydoğu Anadolu önde gelmez; aslında nüfus yoğunluğu en düşük bölge Doğu Anadolu'dur. Ancak toplam nüfus bakımından en az nüfuslu bölge Güneydoğu Anadolu değil yine Doğu Anadolu'dur. Dikkat edilmesi gereken nokta şudur: Doğu Anadolu hem nüfus yoğunluğu hem de bazı kaynaklara göre toplam nüfus açısından en alt sıralarda yer alır. Diğer şıklar doğrudur: Fırat, Dicle ve Aras bu bölgeden doğar; Van Gölü burada yer alır; ortalama yükseklik en fazla bu bölgededir; Erzurum en soğuk il olarak bilinir.",
-  "zorluk": "orta"
- },
- {
   "id": "33047",
   "dersId": "cografya",
   "konuId": "bolgeler_cografyasi",
@@ -16477,38 +15933,6 @@
   ],
   "dogru": 0,
   "aciklama": "Karadeniz Bölgesi'nde tarım alanları tam tersine kıyı şeridinde oldukça dardır; çünkü kıyıya paralel uzanan dağlar tarım alanlarını sınırlandırır. İç kesimlere geçildikçe iklim değişir, Akdeniz veya karasal iklim etkisi artar ve arazi yapısı değişir; ancak bu geçiş tarım alanlarını doğrudan genişletmez. Bu nedenle şık C yanlıştır. Diğer şıklar doğrudur: fındık üretimi bu bölgede yoğundur, bölge en fazla yağış alan bölgedir, çay yalnızca Doğu Karadeniz'de yetişir ve Zonguldak taşkömürü bu bölgededir.",
-  "zorluk": "orta"
- },
- {
-  "id": "33050",
-  "dersId": "cografya",
-  "konuId": "bolgeler_cografyasi",
-  "soru": "Türkiye'nin coğrafi bölgelerinden hangisi, hem Karadeniz'e hem de Ege Denizi'ne kıyısı olmayan, tamamen iç bölge niteliğindedir?",
-  "secenekler": [
-   "Güneydoğu Anadolu Bölgesi",
-   "Yalnızca B ve C",
-   "Yalnızca A ve B",
-   "Doğu Anadolu Bölgesi",
-   "İç Anadolu Bölgesi"
-  ],
-  "dogru": 2,
-  "aciklama": "Türkiye'de denize kıyısı olmayan bölgeler Güneydoğu Anadolu ve Doğu Anadolu bölgeleridir. İç Anadolu Bölgesi de genel itibarıyla deniz kıyısı olmayan iç bölge gibi görünse de Marmara Bölgesi ve Karadeniz Bölgesi ile sınırları nedeniyle bu kategoride değerlendirilmez; zaten İç Anadolu'nun Mersin iline (Akdeniz kıyısı) sınırı yoktur ancak Güneydoğu ve Doğu Anadolu hiçbir denize kıyısı olmayan bölgelerdir. Bu nedenle doğru yanıt D'dir.",
-  "zorluk": "orta"
- },
- {
-  "id": "33051",
-  "dersId": "cografya",
-  "konuId": "bolgeler_cografyasi",
-  "soru": "Ege Bölgesi'nde akarsu vadilerinin denize dik değil de paralel uzanmasının temel nedeni aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Akdeniz ikliminin etki alanı içinde kalması ve yağış rejimi ile yağış rejiminin etkisi",
-   "Bölgedeki volkanik faaliyetlerin etkisi",
-   "Kıyı çizgisinin girintili çıkıntılı bir yapı göstermesi",
-   "Bölgenin yüksek yağış alması",
-   "Horst-graben yapısından kaynaklanan tektonik çöküntü ovalarının varlığı"
-  ],
-  "dogru": 4,
-  "aciklama": "Ege Bölgesi'nde Büyük Menderes, Gediz ve Bakırçay gibi akarsular doğu-batı doğrultusunda uzanır ve denize dik olarak değil, paralel biçimde akar. Bu durum bölgede egemen olan horst-graben tektonizmasıyla açıklanır. Kıvrım dağları yerine kırık hatları boyunca oluşan grabenlerin (çöküntü alanları) doğu-batı uzanması, akarsuların da bu yönde akmasına yol açmıştır.",
   "zorluk": "orta"
  },
  {
@@ -17072,22 +16496,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "33089",
-  "dersId": "cografya",
-  "konuId": "bolgeler_cografyasi",
-  "soru": "Türkiye'nin yedi coğrafi bölgesi karşılaştırıldığında, hem yüzey şekilleri bakımından en engebeli hem de ortalama yükseltisi en fazla olan bölge ile kıyı uzunluğu en az olan bölgenin doğru eşleştirildiği seçenek hangisidir?",
-  "secenekler": [
-   "Karadeniz – Marmara",
-   "Doğu Anadolu – Doğu Anadolu",
-   "Doğu Anadolu – İç Anadolu",
-   "Karadeniz – Güneydoğu Anadolu",
-   "Doğu Anadolu – Güneydoğu Anadolu"
-  ],
-  "dogru": 4,
-  "aciklama": "Doğu Anadolu Bölgesi, ortalama yükseltisi yaklaşık 2000 m ile Türkiye'nin en yüksek ve en engebeli bölgesidir. Güneydoğu Anadolu Bölgesi ise tamamen iç kesimde yer aldığından denize kıyısı bulunmamakta, dolayısıyla kıyı uzunluğu sıfır olan tek bölgedir. Bu nedenle doğru eşleşme Doğu Anadolu – Güneydoğu Anadolu'dur.",
-  "zorluk": "zor"
- },
- {
   "id": "33090",
   "dersId": "cografya",
   "konuId": "bolgeler_cografyasi",
@@ -17101,22 +16509,6 @@
   ],
   "dogru": 4,
   "aciklama": "Antalya Bölümü'nde Toros Dağları kıyıya paralel uzanmaktadır, dike değil. Bu durum kıyının geniş körfezler oluşturmasına yol açar; Antalya Körfezi bunun en belirgin örneğidir. Dağların kıyıya dik uzandığı durum ria tipi kıyıların (girintili çıkıntılı) oluşmasına zemin hazırlar ki bu durum Ege kıyılarında geçerlidir. Dolayısıyla A şıkkındaki ifade yanlıştır.",
-  "zorluk": "zor"
- },
- {
-  "id": "33091",
-  "dersId": "cografya",
-  "konuId": "bolgeler_cografyasi",
-  "soru": "Aşağıdaki eşleştirmelerden hangisi Türkiye'nin bölgelerine ait hidrografik özellikler açısından tamamen doğrudur?",
-  "secenekler": [
-   "Karadeniz Bölgesi – Akarsular kısa, hızlı ve enerji potansiyeli düşüktür.",
-   "Ege Bölgesi – Akarsuların boyları kısa, buna karşın enerji potansiyelleri oldukça yüksektir.",
-   "Doğu Anadolu Bölgesi – Hem Dicle hem Fırat hem de Aras nehirlerinin kaynakları bu bölgededir.",
-   "Güneydoğu Anadolu Bölgesi – Bölge içinde doğan akarsuların tamamı Basra Körfezi'ne dökülmektedir.",
-   "İç Anadolu Bölgesi – Kapalı havzaların en fazla görüldüğü bölgedir."
-  ],
-  "dogru": 2,
-  "aciklama": "Doğu Anadolu Bölgesi, Türkiye'nin su deposu konumundadır. Fırat ve Kolları (Karasu, Murat), Dicle'nin önemli kaynakları ve Aras Nehri'nin kaynağı bu bölgede yer alır. Diğer şıklardaki hatalar şunlardır: A) Karadeniz akarsularının enerji potansiyeli yüksektir (eğim fazla); B) Kapalı havzalar en çok İç Anadolu'da değil, kısmen İç Anadolu ve Doğu Anadolu'da görülse de en belirgin kapalı havza örneği Konya Kapalı Havzası'dır, ancak bu mutlak değil görecelidir; C) Ege akarsularının enerji potansiyeli düşüktür (eğim az); E) Güneydoğu Anadolu'da doğan akarsular bölge içinde doğmayıp büyük ölçüde Doğu Anadolu'dan gelir.",
   "zorluk": "zor"
  },
  {
