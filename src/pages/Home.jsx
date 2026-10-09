@@ -263,7 +263,13 @@ export default function Home() {
         </div>
       </div>
       <Reklam yer="anaSayfa" />
-      <footer className="mt-8 flex flex-wrap items-center justify-center gap-x-4 gap-y-1 pb-2 text-[11px] text-ink-400">
+      <p className="mt-6 text-center text-[11px] leading-relaxed text-ink-400">
+        Sorular ve açıklamalar yapay zekâ ile hazırlanıp denetlendi; hata olabilir. Esas kaynak ÖSYM'dir.{' '}
+        <Link to="/hakkinda" className="font-semibold underline hover:text-brand-600">
+          Ayrıntı
+        </Link>
+      </p>
+      <footer className="mt-4 flex flex-wrap items-center justify-center gap-x-4 gap-y-1 pb-2 text-[11px] text-ink-400">
         <Link to="/hakkinda" className="hover:text-brand-600">
           Hakkında
         </Link>
