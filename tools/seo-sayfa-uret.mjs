@@ -132,6 +132,10 @@ ${REKLAM_ALANI}
 ${guncelleme ? `<p class="tarih">Son güncelleme: ${guncelleme}</p>` : ''}
 </main>
 <footer><div class="kap">
+  <p style="margin:0 0 10px">Sorular, açıklamalar ve konu notları yapay zekâ ile hazırlanıp çok aşamalı bir
+  denetimden geçirilmiştir; buna rağmen hata bulunması mümkündür. İçerik yalnızca çalışma amaçlıdır ve olduğu
+  gibi sunulur. Esas kaynak <b>ÖSYM'nin resmî duyuruları</b> ve yürürlükteki mevzuattır;
+  <a href="/hakkinda">ayrıntı ve sorumluluğun sınırı</a>.</p>
   <a href="/hakkinda">Hakkında</a> · <a href="/gizlilik">Gizlilik</a> · <a href="/iletisim">İletişim</a> ·
   © ${new Date().getFullYear()} KPSS Akademi
 </div></footer>
@@ -1282,6 +1286,15 @@ const toplamSoru = ist.soru ?? index.dersler.reduce((t, d) => t + (d.soruSayisi 
 const toplamKart = ist.kart ?? index.dersler.reduce((t, d) => t + (d.kartSayisi || 0), 0)
 const tr = (n) => Number(n).toLocaleString('tr-TR')
 
+/* Yapay zekâ + sorumluluk dipnotu. Hem ana sayfanın hem de ön-render edilen
+   uygulama rotalarının altına konur; Hakkında sayfasında uzun hâli var. */
+const DIPNOT_METIN =
+  'Sorular, çözüm açıklamaları ve konu notları yapay zekâ ile hazırlanıp çok aşamalı bir denetimden ' +
+  'geçirilmiştir; buna rağmen hata bulunması mümkündür. İçerik yalnızca çalışma amaçlıdır ve olduğu gibi ' +
+  'sunulur. KPSS Akademi bağımsız bir çalışma aracıdır; ÖSYM ile resmî bir bağlantısı yoktur. Sınav ' +
+  'tarihleri, kılavuzlar ve resmî sonuçlar için <b>osym.gov.tr</b> esas alınmalıdır. ' +
+  '<a href="/hakkinda">Ayrıntı ve sorumluluğun sınırı</a>.'
+
 const onIcerik = `<div id="on-icerik" style="max-width:820px;margin:0 auto;padding:24px 20px 48px;font:16px/1.65 Inter,system-ui,sans-serif">
 <h1 style="font-size:28px;letter-spacing:-.02em;margin:0 0 10px">KPSS Akademi — Ücretsiz KPSS Soru Bankası ve Çalışma Uygulaması</h1>
 <p>KPSS Akademi, Genel Yetenek, Genel Kültür, Eğitim Bilimleri ve Alan Bilgisi derslerine
@@ -1334,7 +1347,7 @@ ${Object.entries(gruplar)
 <p><b>Üyelik gerekiyor mu?</b> Hayır. Hesap açmadan kullanılır; çözdüğün sorular, notların ve deneme sonuçların yalnızca kendi tarayıcında saklanır, sunucuya gönderilmez. Ayarlar bölümünden verilerini dışa aktarabilir ya da tamamen silebilirsin.</p>
 <p><b>Ücretli bir sürümü var mı?</b> Yok. Tüm sorular, kartlar, denemeler ve oyunlar ücretsizdir. Site, reklam geliriyle ayakta kalır; oyunlarda reklam gösterilmez.</p>
 <p><b>İnternetsiz çalışır mı?</b> Evet. Tarayıcı menüsünden "Ana ekrana ekle" dediğinde site telefona uygulama gibi kurulur, kendi simgesiyle açılır ve daha önce açtığın içerikler internet olmadan da çalışır.</p>
-<p><b>Sorular nereden geliyor?</b> Sorular bu site için hazırlanır ve her birinde adım adım çözüm açıklaması bulunur. Hatalı bulduğun bir soruyu iletişim sayfasından bildirebilirsin; bildirilen sorular elden geçirilip düzeltilir.</p>
+<p><b>Sorular nereden geliyor?</b> Sorular, çözüm açıklamaları ve konu notları bu site için <b>yapay zekâ ile hazırlanır</b> ve ardından çok aşamalı bir denetimden geçirilir: her soru cevap anahtarı gizlenerek baştan yeniden çözülür, anahtarla çakışanlar daha güçlü bir modelle ikinci kez incelenir, çelişkili bulunanlar bankadan çıkarılır. Bu denetim hata oranını belirgin biçimde düşürür ama sıfıra indirmez; gözden kaçmış yanlış cevap ya da eksik açıklama bulunabilir. Hatalı bulduğun soruyu soru kartındaki "Soruyu bildir" bağlantısıyla iletebilirsin; bildirilenler elden geçirilip düzeltilir.</p>
 <p><b>Puan hesaplayıcı ne kadar doğru?</b> Net hesabı kesindir. Puan ise tahmindir: ÖSYM netleri o yılki ortalama ve standart sapmaya göre standart puana çevirdiği için aynı net, yıllara göre farklı puan verir. Buradaki değerler geçmiş yıl istatistiklerinden türetilmiş tahminlerdir.</p>
 
 <h2 style="font-size:20px;margin:30px 0 8px">Bölümler</h2>
@@ -1345,8 +1358,7 @@ ${Object.entries(gruplar)
 
 <p style="color:#667492;font-size:13px;margin-top:34px">
 <a href="/hakkinda">Hakkında</a> · <a href="/gizlilik">Gizlilik</a> · <a href="/iletisim">İletişim</a><br>
-KPSS Akademi bağımsız bir çalışma aracıdır; ÖSYM ile resmî bir bağlantısı yoktur.
-Sınav tarihleri ve resmî sonuçlar için osym.gov.tr esas alınmalıdır.</p>
+${DIPNOT_METIN}</p>
 </div>
 <script>
 /* Bu blok ana sayfanın özetidir; arama motoru ve AdSense tarayıcısı içindir.
@@ -1530,6 +1542,7 @@ for (const r of UYGULAMA_ROTALARI) {
 <h1 style="font-size:26px;letter-spacing:-.02em;margin:0 0 10px">${esc(r.h1)}</h1>
 ${r.govde}
 <p style="margin-top:22px"><a href="/">KPSS Akademi ana sayfa</a> · <a href="/kpss-konulari">Konular</a> · <a href="/kpss-deneme-sinavi">Denemeler</a></p>
+<p style="color:#667492;font-size:13px;margin-top:26px">${DIPNOT_METIN}</p>
 </div>${koruma}`
 
   if (sayfaHtml.includes('<div id="root"></div>')) {

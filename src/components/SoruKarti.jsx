@@ -157,6 +157,12 @@ export default function SoruKarti({
             >
               <p className="font-bold">{dogruMu ? 'Doğru!' : `Yanlış — doğru cevap ${harf(dogruIndeks)}`}</p>
               {settings.aciklamaGoster && soru.aciklama && <p className="mt-1.5 leading-relaxed opacity-90">{soru.aciklama}</p>}
+              {settings.aciklamaGoster && soru.aciklama && (
+                <p className="mt-2 text-[11px] opacity-70">
+                  Soru ve açıklama yapay zekâ ile hazırlanıp denetlendi; yine de hata olabilir. Yanlış gördüysen
+                  aşağıdan bildir.
+                </p>
+              )}
             </div>
             {onSonraki && (
               <button className="btn-primary mt-3 w-full" onClick={onSonraki}>

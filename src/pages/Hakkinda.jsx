@@ -66,10 +66,49 @@ export default function Hakkinda() {
             </p>
           )}
         </div>
-        <p className="text-xs text-ink-400">
-          Puan hesaplamaları geçmiş yıl istatistiklerinden türetilmiş tahminlerdir; ÖSYM'nin resmî sonucu farklılık
-          gösterebilir.
-        </p>
+        <div>
+          <h2 className="mb-1.5 text-base font-bold text-ink-900 dark:text-white">İçerik nasıl hazırlandı?</h2>
+          <p>
+            Sorular, cevap açıklamaları, bilgi kartları ve konu notları <b>yapay zekâ ile hazırlandı</b> ve ardından
+            çok aşamalı bir denetimden geçirildi:
+          </p>
+          <ul className="mt-1.5 list-disc space-y-1 pl-5">
+            <li>
+              Her soru, cevap anahtarı ve açıklaması gizlenerek <b>baştan yeniden çözüldü</b>; bulunan cevap bankadaki
+              anahtarla karşılaştırıldı.
+            </li>
+            <li>
+              Anahtarla çakışan ya da çözülemez bulunan sorular <b>daha güçlü bir modelle ikinci kez</b> incelendi;
+              anahtarın mı yoksa çözümün mü hatalı olduğuna orada karar verildi.
+            </li>
+            <li>
+              Doğru cevabı şıklarda bulunmayan, birden fazla doğru şıkkı olan ya da kendi içinde çelişen sorular
+              <b> bankadan çıkarıldı</b>.
+            </li>
+          </ul>
+          <p className="mt-2">
+            Bu denetim hata oranını belirgin biçimde düşürür ama <b>sıfıra indirmez</b>. İçerik hiçbir resmî kurumun
+            yayını değildir; hazırlanmasında yapay zekâ kullanıldığı için gözden kaçmış yanlış cevap, eksik ya da
+            yanıltıcı açıklama bulunması mümkündür.
+          </p>
+        </div>
+        <div>
+          <h2 className="mb-1.5 text-base font-bold text-ink-900 dark:text-white">Sorumluluğun sınırı</h2>
+          <p>
+            İçerik yalnızca <b>çalışma ve alıştırma</b> amacıyla, olduğu gibi sunulmaktadır. Doğruluğu, güncelliği ve
+            eksiksizliği konusunda bir garanti verilmez. Sınav hazırlığında, bir soruyu veya bilgiyi esas almadan önce
+            <b> ÖSYM'nin resmî duyurularını ve yürürlükteki mevzuatı</b> kaynak alın; aradaki fark hâlinde resmî kaynak
+            geçerlidir. İçeriğin kullanılmasından doğabilecek sonuçlardan kullanıcı sorumludur.
+          </p>
+          <p className="mt-2">
+            Puan hesaplamaları geçmiş yıl istatistiklerinden türetilmiş <b>tahminlerdir</b>; ÖSYM'nin resmî sonucu
+            farklılık gösterebilir. Sınav tarihleri ve kontenjan bilgileri de ÖSYM tarafından değiştirilebilir.
+          </p>
+          <p className="mt-2">
+            Hatalı bulduğunuz bir soruyu, soru kartındaki <b>“Soruyu bildir”</b> bağlantısıyla iletebilirsiniz.
+            Bildirilen her kayıt elden geçirilir; düzeltilenler sonraki güncellemede yayına alınır.
+          </p>
+        </div>
       </div>
     </>
   )
