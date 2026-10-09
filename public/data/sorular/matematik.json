@@ -42862,5 +42862,517 @@
   "dogru": 0,
   "aciklama": "Son üç yılın artışları %7, %7, %10 olup ortalaması %8'dir; 116.368×1,08≈125.677, yani A şıkkı. Doğru cevap A) 125.600 şeklindedir.",
   "zorluk": "zor"
+ },
+ {
+  "id": "100068",
+  "dersId": "matematik",
+  "konuId": "sayilar",
+  "soru": "Beş basamaklı 3A47B sayısı 45'e tam bölünebiliyorsa A + B toplamının alabileceği en büyük değer kaçtır?",
+  "secenekler": [
+   "12",
+   "16",
+   "10",
+   "13",
+   "9"
+  ],
+  "dogru": 3,
+  "aciklama": "B=5, A=8 ile en büyük A+B=13 çıkar. Doğru cevap D) 13 şeklindedir.",
+  "zorluk": "orta"
+ },
+ {
+  "id": "100109",
+  "dersId": "matematik",
+  "konuId": "sayilar",
+  "soru": "A ve B, iki farklı iki basamaklı asal sayı olup A·B ifadesinin basamak toplamı 14'tür. A + B toplamının alabileceği en büyük değer kaçtır?",
+  "secenekler": [
+   "120",
+   "114",
+   "136",
+   "144",
+   "180"
+  ],
+  "dogru": 4,
+  "aciklama": "97×83=8051 (rakam toplamı 14) ile A+B=180 bulunur. Doğru cevap E) 180 şeklindedir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "100358",
+  "dersId": "matematik",
+  "konuId": "ebob_ekok",
+  "soru": "a ve b pozitif tam sayılar olmak üzere EKOK(a,b)/EBOB(a,b) = 45 ve a + b = 56 ise a·b kaçtır?",
+  "secenekler": [
+   "720",
+   "770",
+   "800",
+   "735",
+   "784"
+  ],
+  "dogru": 0,
+  "aciklama": "a=20, b=36 (EKOK/EBOB=180/4=45, toplam 56) ile a·b=720 olur. Doğru cevap A) 720 şeklindedir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "100416",
+  "dersId": "matematik",
+  "konuId": "kesir_ondalik",
+  "soru": "Bir sınıftaki öğrencilerin 4/9'u kız, kalanın 3/5'i erkek, geri kalan 8 öğrenci ise yatılıdır. Bu sınıfta toplam kaç öğrenci vardır?",
+  "secenekler": [
+   "60",
+   "36",
+   "50",
+   "40",
+   "54"
+  ],
+  "dogru": 1,
+  "aciklama": "Kalan oran 2/9 olup 8 öğrenciye eşitlendiğinde toplam 36 bulunur, bu. Doğru cevap B) 36 şeklindedir.",
+  "zorluk": "orta"
+ },
+ {
+  "id": "100538",
+  "dersId": "matematik",
+  "konuId": "oran_oranti",
+  "soru": "x, y, z pozitif tam sayılar olmak üzere x/y = 3/4 ve y/z = 8/9 ise (x²+z²)/(y²+xz) ifadesinin değeri kaçtır?",
+  "secenekler": [
+   "97/88",
+   "117/118",
+   "97/96",
+   "193/144",
+   "145/144"
+  ],
+  "dogru": 1,
+  "aciklama": "x=6m, y=8m, z=9m ile (36+81)/(64+54)=117/118 bulunur. Doğru cevap B) 117/118 şeklindedir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "100765",
+  "dersId": "matematik",
+  "konuId": "k_r_zarar",
+  "soru": "Bir tüccar, malının bir kısmını maliyet fiyatının %25 kârla, geri kalanını ise maliyet fiyatının %10 zararla satmış ve toplamda %5 kâr elde etmiştir. Kârla satılan malların toplam maliyetinin, zararla satılan malların toplam maliyetine oranı kaçtır?",
+  "secenekler": [
+   "3/1",
+   "2/1",
+   "1/2",
+   "3/4",
+   "1/1"
+  ],
+  "dogru": 3,
+  "aciklama": "Maliyet kârla satılan kısım x, zararla satılan kısım y olsun. Toplam kâr: 0,25x − 0,10y = 0,05(x + y) olur. Düzenlenirse 0,20x = 0,15y, yani x/y = 15/20 = 3/4 bulunur. Doğru cevap D) 3/4 şeklindedir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "101268",
+  "dersId": "matematik",
+  "konuId": "denklem",
+  "soru": "3x - 2 = k ve 5x + 1 = 2k denklem sisteminde k değeri kaçtır?",
+  "secenekler": [
+   "12",
+   "16",
+   "10",
+   "8",
+   "13"
+  ],
+  "dogru": 4,
+  "aciklama": "2(3x-2)=5x+1 ⇒ x=5, k=13 çıkar. Doğru cevap E) 13 şeklindedir.",
+  "zorluk": "orta"
+ },
+ {
+  "id": "101304",
+  "dersId": "matematik",
+  "konuId": "denklem",
+  "soru": "α ve β, x² - 3x + 1 = 0 denkleminin kökleri ise, α⁴ + β⁴ + α³ + β³ - α² - β² değeri kaçtır?",
+  "secenekler": [
+   "58",
+   "30",
+   "27",
+   "42",
+   "36"
+  ],
+  "dogru": 0,
+  "aciklama": "p2=7, p3=18, p4=47 olup toplam 47+18-7=58 çıkar. Doğru cevap A) 58 şeklindedir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "101389",
+  "dersId": "matematik",
+  "konuId": "kumeler",
+  "soru": "Sonlu bir U evrensel kümesinin alt kümeleri A ve B için A△B = (A∪B) \\ (A∩B) sembolik farkı tanımlanıyor. |A△B| = 18, |A∩B| = 6 ve |B| = |A| + 4 olduğuna göre |A| kaçtır?",
+  "secenekler": [
+   "13",
+   "12",
+   "14",
+   "8",
+   "16"
+  ],
+  "dogru": 0,
+  "aciklama": "|A∪B|=24, |A|+|B|=30 ve |B|=|A|+4'ten |A|=13 çıkar. Doğru cevap A) 13 şeklindedir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "101417",
+  "dersId": "matematik",
+  "konuId": "kumeler",
+  "soru": "A, B ve C evrensel kümenin alt kümeleri olmak üzere, n(A∪B∪C) = 80, n(A∩B) = 18, n(B∩C) = 14, n(A∩C) = 12, n(A∩B∩C) = 5, n(A) = 35, n(C) = 30 olduğuna göre n(B) kaçtır?",
+  "secenekler": [
+   "32",
+   "30",
+   "28",
+   "36",
+   "54"
+  ],
+  "dogru": 4,
+  "aciklama": "İçerme-dışarma ile 80 = 35 + n(B) + 30 − 18 − 14 − 12 + 5 → n(B) = 54 çıkar. Doğru cevap E) 54 şeklindedir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "101430",
+  "dersId": "matematik",
+  "konuId": "kumeler",
+  "soru": "E = {1,2,3,...,50} evrensel kümesinde A = {x | x, 6'nın katı}, B = {x | x, 10'un katı}, C = {x | x, 15'in katı} kümeleri için n(A∪B∪C) kaçtır?",
+  "secenekler": [
+   "14",
+   "15",
+   "19",
+   "18",
+   "20"
+  ],
+  "dogru": 0,
+  "aciklama": "8+5+3-1-1-1+1 = 14 bulunur ve 14. Doğru cevap A) 14 şeklindedir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "101522",
+  "dersId": "matematik",
+  "konuId": "olasilik",
+  "soru": "Bir torbada 4 kırmızı, 3 mavi, 2 yeşil top bulunmaktadır. Bu torbadan sırayla ve yerine koymadan 3 top çekiliyor. Çekilen topların en az 2'sinin aynı renkte olma olasılığı kaçtır?",
+  "secenekler": [
+   "11/14",
+   "3/7",
+   "13/14",
+   "5/7",
+   "5/14"
+  ],
+  "dogru": 3,
+  "aciklama": "Hepsi farklı renk 24/84=2/7 olduğundan en az ikisi aynı 5/7=10/14 çıkar. Doğru cevap D) 5/7 şeklindedir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "101588",
+  "dersId": "matematik",
+  "konuId": "veri_yorumlama",
+  "soru": "Bir ilde 5 ilçenin 2023 yılı nüfus ve okur-yazar oranı verileri aşağıdadır.\n\nİlçe A: 40.000 nüfus, %85 okur-yazar\nİlçe B: 60.000 nüfus, %90 okur-yazar\nİlçe C: 30.000 nüfus, %80 okur-yazar\nİlçe D: 50.000 nüfus, %92 okur-yazar\nİlçe E: 20.000 nüfus, %75 okur-yazar\n\nBu ilin genel okur-yazar oranı yaklaşık kaçtır?",
+  "secenekler": [
+   "%86,5",
+   "%87,5",
+   "%87,0",
+   "%84,5",
+   "%88,0"
+  ],
+  "dogru": 0,
+  "aciklama": "Ağırlıklı oran 173.000/200.000 = %86,5 çıkar. Doğru cevap A) %86,5 şeklindedir.",
+  "zorluk": "orta"
+ },
+ {
+  "id": "101698",
+  "dersId": "matematik",
+  "konuId": "bolunebilme",
+  "soru": "1000'den küçük pozitif tam sayılar içinde, 6 ile bölündüğünde kalanı 5, 10 ile bölündüğünde kalanı 9 olan sayıların, 11'e bölündüğünde kalanları toplamı kaçtır?",
+  "secenekler": [
+   "165",
+   "240",
+   "270",
+   "285",
+   "225"
+  ],
+  "dogru": 0,
+  "aciklama": "n≡29 (mod 30), m=0..32 için 11'e göre kalanlar tam 3 devir yapar ve toplam 3·55=165 olur. Doğru cevap A) 165 şeklindedir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "101861",
+  "dersId": "matematik",
+  "konuId": "hiz_yol",
+  "soru": "Bir tren 400 metre uzunluğundaki bir köprüyü 40 saniyede geçmektedir. Aynı tren, aynı hızla 250 metre uzunluğundaki bir tüneli 30 saniyede geçmektedir. Trenin uzunluğu ile hızının (m/s) çarpımı kaçtır?",
+  "secenekler": [
+   "1500",
+   "1000",
+   "900",
+   "3000",
+   "1800"
+  ],
+  "dogru": 3,
+  "aciklama": "L+400=40v ve L+250=30v'den v=15, L=200 ve L·v=3000 bulunur. Doğru cevap D) 3000 şeklindedir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "101940",
+  "dersId": "matematik",
+  "konuId": "denklem",
+  "soru": "Yaşı 5 yıl önce annesinin yaşının yarısına eşit olan Ayşe, şu an 18 yaşındadır. Annesinin şimdiki yaşı kaçtır?",
+  "secenekler": [
+   "36",
+   "31",
+   "40",
+   "44",
+   "46"
+  ],
+  "dogru": 1,
+  "aciklama": "Ayşe şu an 18 ise 5 yıl önce 13 yaşındaydı. O tarihte annesinin yaşının yarısına eşit olduğundan anne 5 yıl önce 26 yaşındaydı. Annenin şimdiki yaşı 26 + 5 = 31'dir. Doğru cevap B) 31 şeklindedir.",
+  "zorluk": "kolay"
+ },
+ {
+  "id": "101947",
+  "dersId": "matematik",
+  "konuId": "denklem",
+  "soru": "x/3 - (x-2)/6 = (x+4)/9 + 1 denkleminin çözüm kümesi {k} olduğuna göre, k'nın değeri kaçtır?",
+  "secenekler": [
+   "9",
+   "6",
+   "15",
+   "20",
+   "18"
+  ],
+  "dogru": 3,
+  "aciklama": "18 ile genişletilince 3x+6=2x+26, yani k=20 bulunur. Doğru cevap D) 20 şeklindedir.",
+  "zorluk": "orta"
+ },
+ {
+  "id": "101956",
+  "dersId": "matematik",
+  "konuId": "denklem",
+  "soru": "a, b, c sıfırdan farklı gerçek sayılar olmak üzere a/b + b/c + c/a = 1 ve a/c + c/b + b/a = -1 eşitlikleri verilmiştir. (a/b)³ + (b/c)³ + (c/a)³ ifadesinin değeri kaçtır?",
+  "secenekler": [
+   "7",
+   "1",
+   "6",
+   "-4",
+   "-6"
+  ],
+  "dogru": 0,
+  "aciklama": "x=a/b, y=b/c, z=c/a için e1=1, e2=-1, e3=1 olup x³+y³+z³ = e1³-3e1e2+3e3 = 1+3+3 = 7 çıkar. Doğru cevap A) 7 şeklindedir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "101957",
+  "dersId": "matematik",
+  "konuId": "denklem",
+  "soru": "f(x) = x² + px + q fonksiyonu için f(f(1)) = f(f(2)) = 0 ve f(1) ≠ f(2) koşulları sağlanmaktadır. p + q değeri kaçtır?",
+  "secenekler": [
+   "-1",
+   "2",
+   "3",
+   "0",
+   "-2"
+  ],
+  "dogru": 4,
+  "aciklama": "f(f(1)) = f(f(2)) = 0 ve f(1) ≠ f(2) ise f(1) ile f(2), f'nin iki ayrı köküdür. Köklerin toplamı −p olduğundan (1+p+q) + (4+2p+q) = −p, yani 4p + 2q = −5. Köklerin çarpımı q olduğundan (1+p+q)(4+2p+q) = q. İki denklem birlikte çözülürse p = −1/2 ve q = −3/2 bulunur; p + q = −2'dir. Doğru cevap E) -2 şeklindedir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "101976",
+  "dersId": "matematik",
+  "konuId": "kumeler",
+  "soru": "Bir evrensel kümede A ve B alt kümeleri için n(A') = 14, n(B') = 11, n(A ∪ B) = 25 ve n(U) = 30 verildiğine göre n(A ∩ B) kaçtır?",
+  "secenekler": [
+   "10",
+   "6",
+   "7",
+   "4",
+   "8"
+  ],
+  "dogru": 0,
+  "aciklama": "n(A)=16, n(B)=19 olup n(A∩B)=16+19-25=10 bulunur. Doğru cevap A) 10 şeklindedir.",
+  "zorluk": "orta"
+ },
+ {
+  "id": "102109",
+  "dersId": "matematik",
+  "konuId": "sayilar",
+  "soru": "Beş basamaklı bir sayının en soldaki rakamı silindiğinde elde edilen dört basamaklı sayı, orijinal sayının 1/7'sine eşittir. Orijinal sayı kaçtır?",
+  "secenekler": [
+   "35714",
+   "35000",
+   "17500",
+   "21428",
+   "12500"
+  ],
+  "dogru": 1,
+  "aciklama": "7x=10000d+x denkleminden x=5000, N=35000 bulunur. Doğru cevap B) 35000 şeklindedir.",
+  "zorluk": "orta"
+ },
+ {
+  "id": "102319",
+  "dersId": "matematik",
+  "konuId": "ebob_ekok",
+  "soru": "n pozitif tam sayısı için EBOB(n, 120) · EKOK(n, 120) = 14400 olduğu biliniyor. Buna göre n'nin alabileceği değerlerin toplamı kaçtır?",
+  "secenekler": [
+   "420",
+   "360",
+   "120",
+   "240",
+   "260"
+  ],
+  "dogru": 2,
+  "aciklama": "EBOB·EKOK = n·120 = 14400 özdeşliğinden tek değer n=120 çıkar, toplam 120 olup. Doğru cevap C) 120 şeklindedir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "102359",
+  "dersId": "matematik",
+  "konuId": "ebob_ekok",
+  "soru": "n! ifadesinin 6 ile tam bölünebilmesi için n'nin alabileceği en küçük değer 3'tür. EBOB(8!, 12!) / EKOK(4!, 6!) ifadesinin değeri kaçtır?",
+  "secenekler": [
+   "40320",
+   "24",
+   "120",
+   "56",
+   "5040"
+  ],
+  "dogru": 3,
+  "aciklama": "EBOB(8!,12!)=40320 ve EKOK(24,720)=720 olduğundan sonuç 56'dır. Doğru cevap D) 56 şeklindedir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "102986",
+  "dersId": "matematik",
+  "konuId": "hiz_yol",
+  "soru": "Bir yarış pistinde A, B ve C araçları aynı anda farklı hızlarla başlıyorlar. A'nın hızı B'nin hızının 4/3'ü, C'nin hızı B'nin hızının 5/6'sıdır. A ile B ilk kez buluştuğunda C bu noktada değildir. Pist uzunluğu 600 m ise A ile C ilk kez aynı noktada (başlangıç noktası hariç) buluştuklarında, B kaç tur atmış olur? (Hepsi aynı yönde dairesel piste başlangıç noktasından hareket ediyor.)",
+  "secenekler": [
+   "4",
+   "12",
+   "10",
+   "2",
+   "5"
+  ],
+  "dogru": 3,
+  "aciklama": "A ile C'nin bağıl hızı v/2, buluşma süresi 1200/v olup B 1200 m yani 2 tur atar. Doğru cevap D) 2 şeklindedir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "103169",
+  "dersId": "matematik",
+  "konuId": "yas_problemleri",
+  "soru": "Kemal'in şu anki yaşının 3 fazlasının 2 katı, Selin'in şu anki yaşının 4 katından 6 eksiktir. 4 yıl önce Kemal'in yaşı Selin'in yaşından 3 büyüktü. Buna göre Selin'in şu anki yaşı kaçtır?",
+  "secenekler": [
+   "9",
+   "16",
+   "8",
+   "14",
+   "10"
+  ],
+  "dogru": 0,
+  "aciklama": "K=2S-6 ve K=S+3 denklemlerinden S=9 bulunur. Doğru cevap A) 9 şeklindedir.",
+  "zorluk": "orta"
+ },
+ {
+  "id": "103172",
+  "dersId": "matematik",
+  "konuId": "yas_problemleri",
+  "soru": "Babanın yaşı oğlunun yaşının 4 katıdır. 6 yıl sonra babanın yaşı oğlunun yaşının 3 katı olacaktır. Buna göre babanın şu anki yaşı kaçtır?",
+  "secenekler": [
+   "32",
+   "28",
+   "40",
+   "48",
+   "36"
+  ],
+  "dogru": 3,
+  "aciklama": "4x+6=3(x+6) ⇒ x=12 ve baba 48 olur. Doğru cevap D) 48 şeklindedir.",
+  "zorluk": "orta"
+ },
+ {
+  "id": "103184",
+  "dersId": "matematik",
+  "konuId": "yas_problemleri",
+  "soru": "Zeynep şu anda Aslı'nın yaşının iki katından 3 yaş gençtir. 5 yıl sonra Zeynep'in yaşı Aslı'nın yaşından 10 fazla olacaktır. Aslı'nın şu anki yaşı kaçtır?",
+  "secenekler": [
+   "13",
+   "10",
+   "12",
+   "14",
+   "16"
+  ],
+  "dogru": 0,
+  "aciklama": "2A-3+5=A+15 denkleminden A=13 bulunur. Doğru cevap A) 13 şeklindedir.",
+  "zorluk": "orta"
+ },
+ {
+  "id": "103187",
+  "dersId": "matematik",
+  "konuId": "yas_problemleri",
+  "soru": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 10 yıl sonra babanın yaşı oğlunun yaşının 2 katından 4 fazla olacaktır. Buna göre babanın şu anki yaşı kaçtır?",
+  "secenekler": [
+   "48",
+   "32",
+   "36",
+   "28",
+   "44"
+  ],
+  "dogru": 3,
+  "aciklama": "4S+10=2(S+10)+4 denkleminden S=7, baba=28 bulunur. Doğru cevap D) 28 şeklindedir.",
+  "zorluk": "orta"
+ },
+ {
+  "id": "103343",
+  "dersId": "matematik",
+  "konuId": "denklem",
+  "soru": "a + b = 5 ve a² + b² = 17 ise a⁴ + b⁴ kaçtır?",
+  "secenekler": [
+   "209",
+   "257",
+   "97",
+   "161",
+   "192"
+  ],
+  "dogru": 1,
+  "aciklama": "ab=4 olduğundan a⁴+b⁴=17²-2·16=257 çıkar. Doğru cevap B) 257 şeklindedir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "103351",
+  "dersId": "matematik",
+  "konuId": "denklem",
+  "soru": "x⁴ - 5x² + 4 = 0 denkleminin pozitif kökleri x₁ < x₂ olmak üzere, x₂³ - 3x₁² + x₂ değeri kaçtır?",
+  "secenekler": [
+   "7",
+   "10",
+   "8",
+   "4",
+   "2"
+  ],
+  "dogru": 0,
+  "aciklama": "x⁴ − 5x² + 4 = 0 denkleminde x² yerine t konursa t² − 5t + 4 = 0, yani t = 1 veya t = 4 olur. Pozitif kökler x₁ = 1 ve x₂ = 2'dir. x₂³ − 3x₁² + x₂ = 8 − 3 + 2 = 7 bulunur. Doğru cevap A) 7 şeklindedir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "103455",
+  "dersId": "matematik",
+  "konuId": "kumeler",
+  "soru": "Sonlu evrensel kümede n(A) = 2·n(B), n(A∪B) = n(E) − 10, n(A∩B) = n(B) − 8, n(E) = 80 olduğuna göre n(A) kaçtır?",
+  "secenekler": [
+   "44",
+   "62",
+   "28",
+   "40",
+   "32"
+  ],
+  "dogru": 1,
+  "aciklama": "2b+8=70'ten n(B)=31, n(A)=62 çıkar. Doğru cevap B) 62 şeklindedir.",
+  "zorluk": "zor"
+ },
+ {
+  "id": "103546",
+  "dersId": "matematik",
+  "konuId": "olasilik",
+  "soru": "Bir fabrikada üretilen ürünlerin %3'ü kusurludur. Kalite kontrol testi kusurlu ürünleri %95 doğrulukla kusurlu, kusursuz ürünleri %90 doğrulukla kusursuz olarak tespit etmektedir. Testten 'kusurlu' çıkan bir ürünün gerçekten kusurlu olma olasılığı kaçtır?",
+  "secenekler": [
+   "57/251",
+   "57/627",
+   "57/260",
+   "285/1260",
+   "19/116"
+  ],
+  "dogru": 0,
+  "aciklama": "Bayes ile (0,03·0,95)/(0,03·0,95+0,97·0,10)=57/251 bulunur. Doğru cevap A) 57/251 şeklindedir.",
+  "zorluk": "zor"
  }
 ]

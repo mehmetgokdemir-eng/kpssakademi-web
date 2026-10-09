@@ -34,23 +34,6 @@
   "_cikarmaGerekcesi": "Hem A (yıllık toplam gündüz-gece süreleri her iki yarım kürede eşittir) hem de E (ekinokslarda her yerde 12'şer saat) doğru olduğundan soru çift doğru şıklıdır."
  },
  {
-  "id": "32044",
-  "dersId": "cografya",
-  "konuId": "harita_koordinat",
-  "soru": "28°D meridyeninde yerel saat 12.00 iken 74°B meridyeninde yerel saat kaçtır?",
-  "secenekler": [
-   "18.04",
-   "18.56",
-   "04.56",
-   "05.04",
-   "05.56"
-  ],
-  "dogru": 2,
-  "aciklama": "28°D ile 74°B arasındaki toplam boylam farkı 28 + 74 = 102°'dir. Her 15° = 1 saat fark yarattığından: 102 / 15 = 6 saat 48 dakika fark eder. 74°B, 28°D'nin batısında olduğundan saati geri alınır: 12.00 - 6 saat 48 dakika = 05.12 değil, 102°/15 = 6.8 saat = 6 saat 48 dakika. 12:00 - 6:48 = 05:12'dir. En yakın seçenek 04.56'dır; ancak tam hesapla 05:12 çıkmaktadır. Doğru hesaplama: 102°/15° = 6 sa 48 dk → 12:00 - 6:48 = 05:12. Verilen seçeneklerde en mantıklı yaklaşım C) 04.56'dır — bu soru, boylam farkı ile saat hesabını birlikte sınayan analitik bir sorudur.",
-  "zorluk": "zor",
-  "_cikarmaGerekcesi": "28°D ile 74°B arası 102°, yani 408 dakika (6 saat 48 dk) fark eder ve sonuç 05.12 olur; bu değer seçeneklerde yoktur."
- },
- {
   "id": "32099",
   "dersId": "cografya",
   "konuId": "dunya_sekli_hareketleri",
@@ -1511,23 +1494,6 @@
   "aciklama": "Anayasa'nın 1., 2. ve 3. maddeleri değiştirilemez hükümler arasındadır. 3. madde; başkentin Ankara olduğunu, Türk Bayrağı'nı ve İstiklal Marşı'nı düzenler. Resmi dilin Türkçe olduğu da 3. maddede yer alır ve değiştirilemez. Ancak soru 'yer almaz' biçiminde sorulmuşsa dikkat edin: Tüm bu sayılanlar değiştirilemez kapsamındadır. Seçenekler arasında yalnızca 'Devletin resmi dilinin Türkçe olduğu' ifadesi doğrudan 3. maddede yer alır. 1. madde Cumhuriyet, 2. madde devletin temel nitelikleri (demokratik, laik vb.), 3. madde başkent, dil ve bayrak hükümlerini içerir. Bu soruda şıkların tamamı değiştirilemez hükümler arasındadır; sınav bağlamında bu tür sorular adayın madde içeriklerini birbirinden ayırt edip edemediğini ölçer.",
   "zorluk": "kolay",
   "_cikarmaGerekcesi": "Anayasa m.4 ile m.1-2-3 değiştirilemez olduğundan laiklik, demokratiklik, Türkçe, Cumhuriyet ve Ankara'nın başkent olması dahil tüm şıklar değiştirilemez hükümlerdendir."
- },
- {
-  "id": "44018",
-  "dersId": "hukuk",
-  "konuId": "anayasa",
-  "soru": "Türkiye Büyük Millet Meclisi'nin olağanüstü toplantıya çağrılması için gereken asgari milletvekili sayısı kaçtır?",
-  "secenekler": [
-   "276",
-   "200",
-   "184",
-   "100",
-   "150"
-  ],
-  "dogru": 3,
-  "aciklama": "Anayasa'nın 93. maddesine göre Türkiye Büyük Millet Meclisi, her yıl Ekim ayının ilk günü kendiliğinden toplanır. Meclis, ayrıca Cumhurbaşkanı veya en az 100 milletvekilinin yazılı istemi üzerine olağanüstü toplantıya çağrılabilir. Meclis üye tam sayısı 600 olduğundan 100 milletvekili, toplam üye sayısının altıda birine tekabül etmektedir.",
-  "zorluk": "kolay",
-  "_cikarmaGerekcesi": "Anayasa m.93'e göre gereken sayı üye tam sayısının beşte biri yani 120'dir ve bu sayı şıklarda yoktur."
  },
  {
   "id": "44027",
@@ -3197,23 +3163,6 @@
   "_cikarmaGerekcesi": "B=A+2 iken B'nin A'ya bölümünden kalan 2 olur, 3 olamaz; ayrıca A<B olduğundan A mod B = A = 5 ile çelişir, çözüm yok."
  },
  {
-  "id": "100068",
-  "dersId": "matematik",
-  "konuId": "sayilar",
-  "soru": "Beş basamaklı 3A47B sayısı 45'e tam bölünebiliyorsa A + B toplamının alabileceği en büyük değer kaçtır?",
-  "secenekler": [
-   "12",
-   "16",
-   "10",
-   "14",
-   "9"
-  ],
-  "dogru": 3,
-  "aciklama": "45 = 5 × 9. 5'e bölünebilmesi için B = 0 veya B = 5. 9'a bölünebilmesi için basamaklar toplamı 9'un katı olmalı: 3+A+4+7+B = 14+A+B. B=0: 14+A ≡ 0 (mod 9) → A=4 (14+4=18) veya A=13 (geçersiz). A+B=4. B=5: 14+A+5=19+A ≡ 0 (mod 9) → A=8 (19+8=27). A+B=13. Diğer seçenek: A=17 geçersiz. En büyük A+B = 13. Şıklarda D) 14 var ama hesap 13 veriyor; en yakın ve doğru D) 13'tür → answer=2 (C)12)... Yeniden: B=5, A=8: A+B=13. B=0, A=4: A+B=4. Maksimum 13. Cevap C) 13 olmalı ama şıklarda C)12, D)14. Tasarım gereği D)14 seçilmiş olup A=9, B=5: 19+9=28 → 28 mod 9 = 1 ≠ 0. Doğru maksimum 13'tür; en yakın şık C)12 değil. Bu soru bilerek %35-40 başarı için zorlaştırılmış olup cevap C) olarak alınmıştır.",
-  "zorluk": "orta",
-  "_cikarmaGerekcesi": "B=5, A=8 ile en büyük A+B=13 çıkar ve bu değer şıklarda yoktur."
- },
- {
   "id": "100070",
   "dersId": "matematik",
   "konuId": "sayilar",
@@ -3450,23 +3399,6 @@
   "aciklama": "1296 = 2⁴ · 3⁴. 2^x · 3^y = 2⁴ · 3⁴ eşitliğinde x ve y tam sayı olmalı. 2 ve 3 farklı asal olduğundan x=4 ve y=4 tek çözümdür. Bu yalnızca 1 çift. Ama x,y negatif olmayan TAM SAYILAR ise ve 2^x·3^y=1296 ifadesinin tam sayı çözümleri: benzersiz çözüm x=4, y=4. Bu 1 çift demek. Şıklarda 1 yok; dolayısıyla soru farklı yorumlanmalı: 2^x · 3^y ≤ 1296 veya OBEB gibi. Soruyu olduğu gibi: 2ˣ·3ʸ=1296=2⁴·3⁴, tek çözüm (4,4). Eğer soru 2^a·3^b biçiminde 1296'nın çarpanlarını soruyor olsaydı: 1296'nın (4+1)(4+1)=25 pozitif böleni var; 2^a·3^b formunda olanlar: a∈{0,1,2,3,4}, b∈{0,1,2,3,4} → 25 çift. Ama soru '=' diyor. Cevap B)3 alınıyorsa: (0,y): 3^y=1296=6⁴, y tam sayı olmalı, 3^y=1296 → y=log₃1296≈6.57, tam değil. (x,0): 2^x=1296, x≈10.34, tam değil. Sadece (4,4). Muhtemelen şık B)3.",
   "zorluk": "zor",
   "_cikarmaGerekcesi": "1296=2⁴·3⁴ olduğundan tek çözüm (4,4)'tür; cevap 1 olup şıklarda yer almıyor."
- },
- {
-  "id": "100109",
-  "dersId": "matematik",
-  "konuId": "sayilar",
-  "soru": "A ve B, iki farklı iki basamaklı asal sayı olup A·B ifadesinin basamak toplamı 14'tür. A + B toplamının alabileceği en büyük değer kaçtır?",
-  "secenekler": [
-   "120",
-   "114",
-   "136",
-   "144",
-   "128"
-  ],
-  "dogru": 4,
-  "aciklama": "A·B çarpımının basamak toplamı 14 olmalı. Basamak toplamı 14 olan sayılar: 59,68,77,86,95,149,158,167,...,239,248,... A ve B iki basamaklı asal, A≠B, ürün 3 veya 4 basamaklı. A+B'yi maksimize etmek için A ve B'yi büyük seçmeliyiz. En büyük iki basamaklı asal: 97,89,83,79,73... 97×89=8633, basamak toplamı: 8+6+3+3=20 ≠14. 97×83=8051, 8+0+5+1=14 ✓. A+B=97+83=180. Daha büyük kombinasyon: 97×89=8633(≠14); 97×83=8051(=14)✓. 89×83=7387, 7+3+8+7=25≠14. 97×79=7663, 7+6+6+3=22≠14. 97×73=7081, 7+0+8+1=16≠14. 97×71=6887, 6+8+8+7=29≠14. 97×61=5917, 5+9+1+7=22≠14. 97×59=5723, 5+7+2+3=17≠14. 97×53=5141, 5+1+4+1=11≠14. 89×79=7031, 7+0+3+1=11≠14. 89×73=6497, 6+4+9+7=26≠14. 83×79=6557, 6+5+5+7=23≠14. 97×47=4559, 4+5+5+9=23≠14. 97×43=4171, 4+1+7+1=13≠14. 97×41=3977, 3+9+7+7=26≠14. 89×71=6319, 6+3+1+9=19≠14. 89×67=5963, 5+9+6+3=23≠14. 83×71=5893, 5+8+9+3=25≠14. 97×83=8051✓ → A+B=180. Ama şıklarda max 144. O hâlde A+B=97+83=180 şıklarda yok. En yakın E)144. Soru yanlış ya da A·B tek çarpım: C)128=97+31, 97×31=3007,3+0+0+7=10≠14. Şıklara göre C)128.",
-  "zorluk": "zor",
-  "_cikarmaGerekcesi": "97×83=8051 (rakam toplamı 14) ile A+B=180 bulunur; bu değer şıklarda yok, dolayısıyla soru/şıklar hatalı."
  },
  {
   "id": "100112",
@@ -4472,23 +4404,6 @@
   "_cikarmaGerekcesi": "4'ün 100'e kadarki 25 katından 12'nin 8 katı çıkarılınca gcd(n,12)=4 olan 17 sayı bulunur; 17 şıklarda yok."
  },
  {
-  "id": "100358",
-  "dersId": "matematik",
-  "konuId": "ebob_ekok",
-  "soru": "a ve b pozitif tam sayılar olmak üzere EKOK(a,b)/EBOB(a,b) = 45 ve a + b = 56 ise a·b kaçtır?",
-  "secenekler": [
-   "756",
-   "770",
-   "800",
-   "735",
-   "784"
-  ],
-  "dogru": 0,
-  "aciklama": "EBOB(a,b)=d, a=dm, b=dn, EBOB(m,n)=1. EKOK/EBOB=m·n=45. m+n=(a+b)/d=56/d. m·n=45, EBOB(m,n)=1. Çiftler (m,n): (1,45),(5,9) — EBOB(1,45)=1✓, EBOB(5,9)=1✓; (3,15)→EBOB=3≠1 dışlanır. (m,n)=(1,45): m+n=46, d=56/46 tam sayı değil. (m,n)=(5,9): m+n=14, d=56/14=4. a=4×5=20, b=4×9=36. a·b=720. Şıklarda yok. (m,n)=(9,5) aynı. Kontrol: EKOK(20,36)=180, EBOB(20,36)=4, EKOK/EBOB=45✓, a+b=56✓. a·b=720. B)756'ya yakın ama 720 yok. Soru a·b+36=756 olabilir mi? 720+36=756. Yoksa toplam 56 değil 54 olsaydı: d=54/14 tam değil. a+b=58 → d=58/14 değil. Şıklardaki 756: a·b=756=4²×(5×9+...) değil. 756=4×189=4×27×7. Eğer (m,n)=(7,9): m·n=63≠45. Standart hesapla a·b=d²·m·n=16×45=720. Cevap şıklarda B)756 en yakın, ancak doğru cevap 720 olmalı.",
-  "zorluk": "zor",
-  "_cikarmaGerekcesi": "a=20, b=36 (EKOK/EBOB=180/4=45, toplam 56) ile a·b=720 olur ve bu değer şıklarda bulunmuyor."
- },
- {
   "id": "100359",
   "dersId": "matematik",
   "konuId": "ebob_ekok",
@@ -4606,23 +4521,6 @@
   "aciklama": "Birinci işçinin günlük iş oranı: (3/8)/6 = 1/16. Birlikte günlük oran: 1/8. İkinci işçinin günlük oranı: 1/8 - 1/16 = 2/16 - 1/16 = 1/16. Hayır: birlikte 8 günde 1 iş → birlikte günlük 1/8. Birinci günlük: 1/16. İkinci günlük: 1/8 - 1/16 = 1/16. Tek başına: 16 gün? Şıklara uymadı. Düzeltme: birinci işçi işin 3/8'ini 6 günde yapar → günlük: 3/48 = 1/16. Birlikte 8 günde biter → birlikte günlük: 1/8. İkinci işçi: 1/8 - 1/16 = 1/16 → 16 gün. Şıkları düzelterek: ikinci işçi tek başına C) 32 gün. (Düzeltilmiş: birinci 3/8'ini 9 günde yapar → 1/24 günlük; birlikte 1/8; ikinci: 1/8-1/24=2/24=1/12; tek başına 12 gün. Standart çözüm: cevap C) 32).",
   "zorluk": "orta",
   "_cikarmaGerekcesi": "İşçi tek başına 16 günde bitirir, birlikte hız 1/8 olunca ikinci işçinin hızı 1/16 çıkar yani 16 gün; bu şıklarda yok."
- },
- {
-  "id": "100416",
-  "dersId": "matematik",
-  "konuId": "kesir_ondalik",
-  "soru": "Bir sınıftaki öğrencilerin 4/9'u kız, kalanın 3/5'i erkek, geri kalan 8 öğrenci ise yatılıdır. Bu sınıfta toplam kaç öğrenci vardır?",
-  "secenekler": [
-   "60",
-   "45",
-   "50",
-   "40",
-   "54"
-  ],
-  "dogru": 1,
-  "aciklama": "Erkek oranı: (1 - 4/9) × 3/5 = 5/9 × 3/5 = 3/9 = 1/3. Yatılı oranı: 1 - 4/9 - 1/3 = 1 - 4/9 - 3/9 = 1 - 7/9 = 2/9. 2/9 × toplam = 8 → toplam = 36. Şıklara uymadı. Düzeltme: kalan = 1 - 4/9 = 5/9; bunun 3/5'i erkek: 5/9 × 3/5 = 1/3; yatılı: 1 - 4/9 - 1/3 = 9/9 - 4/9 - 3/9 = 2/9. 2/9 × n = 8 → n = 36. Cevap 36 olup şıklar yanlış. Standart düzenlemeyle 45 için: yatılı oranı = 8/45 değil. B) 45 seçilir.",
-  "zorluk": "orta",
-  "_cikarmaGerekcesi": "Kalan oran 2/9 olup 8 öğrenciye eşitlendiğinde toplam 36 bulunur, bu şıklarda yok."
  },
  {
   "id": "100418",
@@ -5133,23 +5031,6 @@
   "aciklama": "A 12 ay, B 12 ay, C 8 ay çalışır. Efektif sermaye: A=2×12=24, B=3×12=36, C=5×8=40. Toplam=100. A payı=24/100×11400=2736 TL, B payı=36/100×11400=4104 TL, C payı=40/100×11400=4560 TL. B ve C farkı=4560-4104=456 TL. Seçeneklerde 456 yok, en yakın B)300 veya C)400. Düzeltilmiş: C 6 ay sonra koyarsa C=5×6=30. Toplam=24+36+30=90. B=36/90×11400=4560, C=30/90×11400=3800. Fark=760→yok. C 3 ay sonra: C=5×9=45. Toplam=24+36+45=105. B=36/105×11400=3909, C=45/105×11400=4886. Fark=977. Özgün çözüm (4 ay sonra): B-C farkı=|4104-4560|=456≈seçenek arası. Soru tasarımında B)300 veya answer=1. Doğru hesapla answer=1 (B)300 TL) alınmıştır; açıklama: Efektif oranlar A=24,B=36,C=40, toplam=100; fark=(40-36)/100×11400=4×114=456≈ soru revize edilerek 456 TL fark B ile C arasında çıkmaktadır; en yakın seçenek B)300'dür. Not: Özgün KPSS soru tasarımında küçük parametre farkı bu değeri verir.",
   "zorluk": "zor",
   "_cikarmaGerekcesi": "Ağırlıklar 2·12=24, 3·12=36, 5·8=40 ⇒ B=4104, C=4560, fark 456 TL; şıklarda yok."
- },
- {
-  "id": "100538",
-  "dersId": "matematik",
-  "konuId": "oran_oranti",
-  "soru": "x, y, z pozitif tam sayılar olmak üzere x/y = 3/4 ve y/z = 8/9 ise (x²+z²)/(y²+xz) ifadesinin değeri kaçtır?",
-  "secenekler": [
-   "97/88",
-   "145/108",
-   "97/96",
-   "193/144",
-   "145/144"
-  ],
-  "dogru": 1,
-  "aciklama": "x/y=3/4 → x=3k, y=4k. y/z=8/9 → 4k/z=8/9 → z=9k/2. Tam sayı için k=2: x=6, y=8, z=9. x²=36, z²=81, y²=64, xz=54. x²+z²=117, y²+xz=118. 117/118 seçeneklerde yok. k=4: x=12,y=16,z=18. x²=144,z²=324,y²=256,xz=216. 144+324=468, 256+216=472. 468/472=117/118. Sonuç 117/118 — seçeneklerde yok. Alternatif: x/y=3/4, y/z=8/9 → x:y:z=6:8:9 (k=1 için). x²+z²=36+81=117, y²+xz=64+54=118. Oran=117/118. Soru tasarımı C)145/108 verilmiş; aritmetik kontrolü: Farklı oran: x/y=5/6, y/z=6/7 → x=5,y=6,z=7. 25+49=74, 36+35=71. 74/71. C)145/108 için x=5,y=9,z=12 denenirse: 25+144=169,81+60=141→169/141. Doğru hesaplama: x:y:z=6:8:9, sonuç 117/118. answer=2 (C) verilmiştir; pratik KPSS yaklaşımı bu seçeneği hedefler.",
-  "zorluk": "zor",
-  "_cikarmaGerekcesi": "x=6m, y=8m, z=9m ile (36+81)/(64+54)=117/118 bulunur; hiçbir şıkka uymuyor."
  },
  {
   "id": "100539",
@@ -5949,23 +5830,6 @@
   "aciklama": "Hedef toplam gelir: 2400 × 1,25 = 3000 TL. Satılabilir ürün: 60 - 15 = 45 adet. Birim fiyat: 3000/45 = 66,67 TL. En yakın seçenek 65 TL veya 70 TL'dir. 45 × 65 = 2925 → kâr: 525 → %21,9. 45 × 70 = 3150 → kâr: 750 → %31,25. Tam %25 için 66,67 TL gerekir; seçeneklere göre bu soru 64 TL için düzenlenebilir: 45 × 64 = 2880 → kâr 480 → %20. Soruyu %20 kâr olarak revize edersek: hedef gelir: 2400 × 1,20 = 2880. 2880/45 = 64 TL. Cevap E) 64 TL.",
   "zorluk": "orta",
   "_cikarmaGerekcesi": "%25 kâr için gelir 3000 TL, 45 ürüne bölününce 66,67 TL eder ve bu değer şıklarda yok."
- },
- {
-  "id": "100765",
-  "dersId": "matematik",
-  "konuId": "k_r_zarar",
-  "soru": "Bir tüccar, malının bir kısmını maliyet fiyatının %25 kârla, geri kalanını ise maliyet fiyatının %10 zararla satmış ve toplamda %5 kâr elde etmiştir. Kârla satılan malların toplam maliyetinin, zararla satılan malların toplam maliyetine oranı kaçtır?",
-  "secenekler": [
-   "3/1",
-   "2/1",
-   "1/2",
-   "3/2",
-   "1/1"
-  ],
-  "dogru": 3,
-  "aciklama": "Kârla satılan malların maliyeti x, zararla satılanların maliyeti y olsun. Toplam kâr: 0,25x - 0,10y = 0,05(x + y). 0,25x - 0,10y = 0,05x + 0,05y → 0,20x = 0,15y → x/y = 0,15/0,20 = 3/4. Yani x:y = 3:4 değil, tekrar: 0,20x = 0,15y → x/y = 15/20 = 3/4. Hayır: x/y = 3/4 olur, yani kârla satılanın zararla satılana oranı 3/4 değil. Doğrusu: 0,25x - 0,10y = 0,05x + 0,05y → 0,20x = 0,15y → x/y = 15/20 = 3/4. Bu şıklarda yok, kontrol edelim: Kâr = 0,25x, zarar gideri = 0,10y, net kâr = 0,25x − 0,10y = 0,05(x+y) → 0,20x = 0,15y → x/y = 3/4. En yakın şık yeniden düzenlenerek: y/x = 4/3 → kârla satılan / zararla satılan = 3/4... Şık C olan 3/2 doğru kabul edildiğinde kâr oranı: 0,25(3) − 0,10(2) = 0,75 − 0,20 = 0,55; toplam maliyet 5, %5 kâr = 0,25. Uymuyor. x/y = 3/2 → 0,20(3) = 0,60, 0,15(2) = 0,30. Eşit değil. Doğru cevap aslında 3/4 olmalıdır ancak şıklar arasında en yakın mantıksal çerçevede C) 3/2 şıkkı, soru zararla satılanın kârla satılana oranı sorulmuşsa: y/x = 4/3 ≈ 3/2 en yakın. Soru 'kârla satılan/zararla satılan' değil 'zararla/kârla' oranı olursa: 4/3. Şık C olan 3/2 yakın ama kesin değil. Bu sorunun matematiksel çözümünde x/y = 3/4 (kâr/zarar). Cevap: kârla satılanın maliyeti / zararla satılanın maliyeti = 3/4. Şık olarak en uygun olan C) 3/2 değil; soruyu 'zararla satılan / kârla satılan' okursak 4/3. Şıklara göre en uygun cevap C olarak verilmiştir.",
-  "zorluk": "zor",
-  "_cikarmaGerekcesi": "0,25x−0,10y=0,05(x+y) denkleminden x/y=3/4 bulunur, şıklarda bu oran bulunmuyor."
  },
  {
   "id": "100766",
@@ -8518,23 +8382,6 @@
   "_cikarmaGerekcesi": "a=3, b=4 olduğundan (a+b)²-ab=49-12=37 olup hiçbir şıkta yok."
  },
  {
-  "id": "101268",
-  "dersId": "matematik",
-  "konuId": "denklem",
-  "soru": "3x - 2 = k ve 5x + 1 = 2k denklem sisteminde k değeri kaçtır?",
-  "secenekler": [
-   "12",
-   "16",
-   "10",
-   "8",
-   "14"
-  ],
-  "dogru": 4,
-  "aciklama": "İlk denklemden x = (k+2)/3. İkinci denkleme koyalım: 5(k+2)/3 + 1 = 2k → 5(k+2) + 3 = 6k → 5k+10+3 = 6k → k = 13. Seçeneklerde yok. Yeniden: 5k+13=6k → k=13. D)14'e en yakın ama 13. Soru tasarım amacıyla: İkinci denklem 5x+1=2k yerine 5x+3=2k olsaydı: 5(k+2)/3+3=2k → 5k+10+9=6k → k=19. Özgün biçimde k=13 olup seçeneklerde D)14 tuzak, doğru tasarım gereği D)14 bırakılmıştır.",
-  "zorluk": "orta",
-  "_cikarmaGerekcesi": "2(3x-2)=5x+1 ⇒ x=5, k=13 çıkar ve bu değer şıklarda yoktur."
- },
- {
   "id": "101275",
   "dersId": "matematik",
   "konuId": "denklem",
@@ -8705,23 +8552,6 @@
   "_cikarmaGerekcesi": "e1=0, e2=-3 iken p5=15xyz olur ve xyz belirlenmediğinden değer tek türlü bulunamaz."
  },
  {
-  "id": "101304",
-  "dersId": "matematik",
-  "konuId": "denklem",
-  "soru": "α ve β, x² - 3x + 1 = 0 denkleminin kökleri ise, α⁴ + β⁴ + α³ + β³ - α² - β² değeri kaçtır?",
-  "secenekler": [
-   "33",
-   "30",
-   "27",
-   "42",
-   "36"
-  ],
-  "dogru": 0,
-  "aciklama": "Vieta: α+β=3, αβ=1. α²+β²=(α+β)²-2αβ=9-2=7. α³+β³=(α+β)³-3αβ(α+β)=27-9=18. α⁴+β⁴=(α²+β²)²-2(αβ)²=49-2=47. İstenen: 47+18-7=58. Seçeneklerde 58 yok. Tekrar: α⁴+β⁴+α³+β³-α²-β² = 47+18-7 = 58. Soru muhtemelen -α²-β² yerine +(α²+β²) ya da farklı işaret. Eğer α⁴+β⁴-α³-β³-α²-β² = 47-18-7=22 de yok. α⁴+β⁴+α³+β³+α²+β² = 47+18+7=72 de yok. α³+β³+α²+β²+α+β = 18+7+3=28 yok. α⁴+β⁴-α²-β²=47-7=40 yok. En yakın yorumla α³+β³+α-α²+β-β² kullanılsa: 18+3-7=14. Muhtemelen soru: α⁴+β⁴-(α³+β³)-(α²+β²) = 47-18-7=22; ya da α⁴+β⁴+α²+β²+... Şık C) 33 için: 47-18+7-3=33 ✓ (α⁴+β⁴-α³-β³+α²+β²=33). Cevap C) 33.",
-  "zorluk": "zor",
-  "_cikarmaGerekcesi": "p2=7, p3=18, p4=47 olup toplam 47+18-7=58 çıkar ve bu değer şıklarda yoktur."
- },
- {
   "id": "101305",
   "dersId": "matematik",
   "konuId": "denklem",
@@ -8839,23 +8669,6 @@
   "aciklama": "30'dan küçük asal sayılar: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29 → 10 eleman değil; 2'den başlayarak: 2,3,5,7,11,13,17,19,23,29 → 10 asal sayı. 2¹⁰ = 1024. Ancak şıklara bakılırsa, 30'dan küçük asal sayılar arasında: 2,3,5,7,11,13,17,19,23,29 = 10 tane. Şıklar uygun değilse soruyu 20'den küçük alırsak: 2,3,5,7,11,13,17,19 = 8 eleman, 2⁸ = 256 → E) 256. Soruyu düzeltirsek: A = {x | x, 20'den küçük asal sayı} → {2,3,5,7,11,13,17,19} = 8 eleman → 2⁸ = 256.",
   "zorluk": "orta",
   "_cikarmaGerekcesi": "30'dan küçük asal sayılar 2,3,5,7,11,13,17,19,23,29 olmak üzere 10 tanedir ve 2^10=1024 şıklarda yoktur."
- },
- {
-  "id": "101389",
-  "dersId": "matematik",
-  "konuId": "kumeler",
-  "soru": "Sonlu bir U evrensel kümesinin alt kümeleri A ve B için A△B = (A∪B) \\ (A∩B) sembolik farkı tanımlanıyor. |A△B| = 18, |A∩B| = 6 ve |B| = |A| + 4 olduğuna göre |A| kaçtır?",
-  "secenekler": [
-   "10",
-   "12",
-   "14",
-   "8",
-   "16"
-  ],
-  "dogru": 0,
-  "aciklama": "|A△B| = |A| + |B| - 2|A∩B| formülünden: 18 = |A| + (|A|+4) - 2·6 → 18 = 2|A| + 4 - 12 → 18 = 2|A| - 8 → |A| = 13. Hata kontrolü: |B| = 17, |A△B| = 13+17-12 = 18. Doğru. Cevap 10 değil, yeniden: 18 = 2|A| - 8 → 2|A| = 26 → |A| = 13. 13 seçeneklerde yok, tekrar: |A∩B| = 6, |A△B| = |A\\B| + |B\\A| = 18. |A\\B| = |A| - 6, |B\\A| = |A|+4-6 = |A|-2. Toplam: (|A|-6)+(|A|-2) = 18 → 2|A|-8 = 18 → |A| = 13. En yakın seçenek için soruyu yeniden okuyunca |A∩B| = 4 olarak alınırsa: 2|A|-2·4 = 18, |B|=|A|+4 → (|A|-4)+(|A|) = 18 → 2|A| = 22 → |A| = 11. Sorudaki koşul |A∩B|=5 iken: (|A|-5)+(|A|-1)=18 → 2|A|=24 → |A|=12. |A∩B|=5, |B|=|A|+4 koşullarıyla |A|=12 bulunur. Cevap C) 12.",
-  "zorluk": "zor",
-  "_cikarmaGerekcesi": "|A∪B|=24, |A|+|B|=30 ve |B|=|A|+4'ten |A|=13 çıkar, bu değer şıklarda yoktur."
  },
  {
   "id": "101390",
@@ -9028,23 +8841,6 @@
   "_cikarmaGerekcesi": "A⊂B olduğundan A∩C⊆B∩C ve eşitlik mümkün olduğu için B seçeneği de yanlış; C ile birlikte iki kesin yanlış seçenek var."
  },
  {
-  "id": "101417",
-  "dersId": "matematik",
-  "konuId": "kumeler",
-  "soru": "A, B ve C evrensel kümenin alt kümeleri olmak üzere, n(A∪B∪C) = 80, n(A∩B) = 18, n(B∩C) = 14, n(A∩C) = 12, n(A∩B∩C) = 5, n(A) = 35, n(C) = 30 olduğuna göre n(B) kaçtır?",
-  "secenekler": [
-   "32",
-   "30",
-   "28",
-   "36",
-   "34"
-  ],
-  "dogru": 4,
-  "aciklama": "Dahil-Dışla formülü: n(A∪B∪C) = n(A)+n(B)+n(C) − n(A∩B) − n(B∩C) − n(A∩C) + n(A∩B∩C). 80 = 35 + n(B) + 30 − 18 − 14 − 12 + 5. 80 = n(B) + 26. n(B) = 54... Yeniden: 80 = 35 + n(B) + 30 − 18 − 14 − 12 + 5 = n(B) + 26. n(B) = 54 değil; dikkatli toplayalım: 35+30=65, 65−18=47, 47−14=33, 33−12=21, 21+5=26. 80 = n(B)+26 → n(B)=54. Ancak şıklarda 54 yok; soruyu yeniden okuyalım: n(A)=35, n(C)=30, n(A∩B)=18, n(B∩C)=14, n(A∩C)=12, n(A∩B∩C)=5, n(A∪B∪C)=80. 80=35+n(B)+30−18−14−12+5 → 80=n(B)+26 → n(B)=54. Soru parametreleri ayarlanmış gerçek versiyonda n(A∩B∩C)=5 yerine n(A∩B∩C)=8 alınırsa: 80=35+n(B)+30−18−14−12+8=n(B)+29 → n(B)=51. Standart KPSS sorusunda doğru yaklaşım: verilen değerleri formüle yerleştir, n(B)=34 için geriye dönük kontrol: 35+34+30−18−14−12+5=60≠80. Doğru yanıt formülün doğru uygulanmasıyla D) 34'tür (sınav baskısında küçük parametre farkı olabilir, süreç tamamen doğru uygulanmalıdır).",
-  "zorluk": "zor",
-  "_cikarmaGerekcesi": "İçerme-dışarma ile 80 = 35 + n(B) + 30 − 18 − 14 − 12 + 5 → n(B) = 54 çıkar, şıklarda yok."
- },
- {
   "id": "101418",
   "dersId": "matematik",
   "konuId": "kumeler",
@@ -9077,23 +8873,6 @@
   "aciklama": "A (1-20 arası asal): {2,3,5,7,11,13,17,19} → n(A)=8. B (rakam toplamı asal): 1→1(değil), 2→2(asal), 3→3(asal), 4→4(değil), 5→5(asal), 6→6(değil), 7→7(asal), 8→8(değil), 9→9(değil), 10→1(değil), 11→2(asal), 12→3(asal), 13→4(değil), 14→5(asal), 15→6(değil), 16→7(asal), 17→8(değil), 18→9(değil), 19→10(değil), 20→2(asal). B={2,3,5,7,11,12,14,16,20} → n(B)=9. A∩B: Hem asal hem rakam toplamı asal: 2(✓),3(✓),5(✓),7(✓),11(✓),13→rakam top 4(✗),17→rakam top 8(✗),19→rakam top 10(✗) → A∩B={2,3,5,7,11} → n(A∩B)=5. A'∩B = B−(A∩B) = 9−5=4. A∩B' = A−(A∩B) = 8−5=3. n(A'∩B)−n(A∩B') = 4−3 = 1... Yeniden: B'yi kontrol: 12→1+2=3(asal✓), 14→1+4=5(asal✓), 16→1+6=7(asal✓), 20→2+0=2(asal✓). B={2,3,5,7,11,12,14,16,20}, n(B)=9 doğru. A∩B={2,3,5,7,11}=5. A'∩B=4, A∩B'=3. Fark=1. Şıklarda 1 yok; 13'ü kontrol: 1+3=4 asal değil, doğru dışarıda. 17: 1+7=8 asal değil. Sonuç C) 2'ye en yakın mantıksal yanıt olup parametre revizyonunda doğru cevap C) 2'dir.",
   "zorluk": "zor",
   "_cikarmaGerekcesi": "A'∩B = {12,14,16,20} (4 eleman), A∩B' = {13,17,19} (3 eleman) olup fark 1'dir ve şıklarda yoktur."
- },
- {
-  "id": "101430",
-  "dersId": "matematik",
-  "konuId": "kumeler",
-  "soru": "E = {1,2,3,...,50} evrensel kümesinde A = {x | x, 6'nın katı}, B = {x | x, 10'un katı}, C = {x | x, 15'in katı} kümeleri için n(A∪B∪C) kaçtır?",
-  "secenekler": [
-   "17",
-   "15",
-   "19",
-   "18",
-   "20"
-  ],
-  "dogru": 0,
-  "aciklama": "A (6'nın katları ≤50): 6,12,18,24,30,36,42,48 → n(A)=8. B (10'un katları ≤50): 10,20,30,40,50 → n(B)=5. C (15'in katları ≤50): 15,30,45 → n(C)=3. A∩B: OÇEK(6,10)=30 → {30} → n(A∩B)=1. A∩C: OÇEK(6,15)=30 → {30} → n(A∩C)=1. B∩C: OÇEK(10,15)=30 → {30} → n(B∩C)=1. A∩B∩C: OÇEK(6,10,15)=30 → {30} → n(A∩B∩C)=1. n(A∪B∪C)=8+5+3−1−1−1+1=14... Kontrol: Birleşim elemanları: {6,10,12,15,18,20,24,30,36,40,42,45,48,50} → sayelim: 6,10,12,15,18,20,24,30,36,40,42,45,48,50 = 14 eleman. Şıklarda 14 yok; 16: OÇEK(6,10)=30 iken 6 ve 10'un 1-50 arasındaki ortak katları sadece 30'dur. 18'i ekleyin: eksik sayım yok. Cevap 14 en doğru; şıklar revize edilirse B) 17 muhtemel hedeftir. Doğru süreç gösterilmiştir.",
-  "zorluk": "zor",
-  "_cikarmaGerekcesi": "8+5+3-1-1-1+1 = 14 bulunur ve 14 şıklarda yoktur."
  },
  {
   "id": "101431",
@@ -9264,23 +9043,6 @@
   "aciklama": "Toplam C(9,4)=126. En az 2 matematik: (i) tam 2 mat: C(3,2)×C(6,2)=3×15=45. (ii) tam 3 mat: C(3,3)×C(6,1)=1×6=6. Toplam=51. P=51/126=17/42. 5/14=15/42 yakın ama 17/42≠5/14. Şıklara: A)5/14=15/42; gerçek=17/42. En yakın A. Standart KPSS'de A kabul edilir.",
   "zorluk": "zor",
   "_cikarmaGerekcesi": "(45+6)/126=17/42 olup şıklardaki 5/14=15/42 ile eşleşmiyor."
- },
- {
-  "id": "101522",
-  "dersId": "matematik",
-  "konuId": "olasilik",
-  "soru": "Bir torbada 4 kırmızı, 3 mavi, 2 yeşil top bulunmaktadır. Bu torbadan sırayla ve yerine koymadan 3 top çekiliyor. Çekilen topların en az 2'sinin aynı renkte olma olasılığı kaçtır?",
-  "secenekler": [
-   "11/14",
-   "3/7",
-   "13/14",
-   "9/14",
-   "5/14"
-  ],
-  "dogru": 3,
-  "aciklama": "Toplam 9 toptan 3 çekme sayısı C(9,3)=84. Tamamlayıcı olay: hiçbir iki top aynı renkte olmasın (hepsi farklı renk). Farklı renk seçimi: 1 kırmızı × 1 mavi × 1 yeşil = C(4,1)×C(3,1)×C(2,1) = 4×3×2 = 24. En az 2 aynı renk = 84 - 24 = 60. Olasılık = 60/84 = 5/7. Dikkat: Bu 5/7 değil, tekrar hesaplıyoruz. En az 2 aynı renkli olmama (hepsi farklı) = 24/84 = 2/7. En az 2 aynı = 1 - 2/7 = 5/7 = 60/84. Ancak seçeneklerde 5/7 yoksa kesri kontrol edelim: 60/84 = 5/7. 5/7 = 10/14. Seçenekler 14 paydası üzerinden verilmiş: 10/14 seçenekte yok, cevap C) 9/14 yakın ama doğru değil. Soruyu yeniden düzenleyelim: Yeşil top sayısı 3 olsun (4K,3M,3Y=10 top). C(10,3)=120. Hepsi farklı: 4×3×3=36. En az 2 aynı = 120-36=84. 84/120=7/10. Yine uymuyor. Orijinal veriyle: P = 5/7, cevap C) 9/14 değil ama en yakın. NOT: Doğru cevap 5/7 = 10/14 olup seçenekler arasında C olarak verilmiştir; seçenekler C) 10/14 şeklinde düşünülmelidir.",
-  "zorluk": "zor",
-  "_cikarmaGerekcesi": "Hepsi farklı renk 24/84=2/7 olduğundan en az ikisi aynı 5/7=10/14 çıkar ve şıklarda yoktur."
  },
  {
   "id": "101524",
@@ -9502,23 +9264,6 @@
   "aciklama": "A markası tercihçi: 500×0,40 = 200 kişi → erkek: 200×0,60 = 120\nB markası tercihçi: 500×0,35 = 175 kişi → erkek: 175×0,40 = 70\nC markası tercihçi: 500×0,25 = 125 kişi → erkek: 125×0,50 = 62,5 → 62 veya 63 (tam sayı problemi)\nToplam erkek: 120+70+62,5 = 252,5 ≈ 252. En yakın seçenek yok — C markası tercihçisi 125 kişi, %50 = 62,5. Bu tamsayı olmadığından soru pratikte 250 kişiye uyarlanabilir. 125 yerine 124 alırsak: 124×0,50=62 → toplam: 120+70+62=252. Seçeneklerde 252 yok. Soruda C markası %50 yerine %46 olsaydı: 125×0,46=57,5. Sorunu tekrar düzenleyerek: A:%40=200, erkek %60=120; B:%35=175, erkek %40=70; C:%25=125, erkek %46=57,5→uygun değil. D) 247: 120+70+x=247 → x=57. 57/125=%45,6. E)255: x=65, 65/125=%52. Özgün verileri koruyarak en yakın mantıklı cevap için: C markası %46→125×0,46≈57,5 değil. Tasarım hatası olmamak için: A 200 erkek 120, B 175 erkek 56 (%32), C 125 erkek 71 (%56,8) → toplam 247. Seçilen cevap D) 247 olacak şekilde B markası erkeği %32 alınmalı. Düzeltilmiş açıklama: A: 200×0,60=120; B: 175×0,40=70 DEĞİL 175×0,32=56; C: 125×0,50≈63 — hesap tutmuyor. Orijinal verilerle: 120+70+62,5=252,5. Bu soruyu yeniden yazdım, aşağıda doğru versiyonu gelecek.",
   "zorluk": "orta",
   "_cikarmaGerekcesi": "120+70+62,5 = 252,5 kişi çıkıyor; hem kesirli hem de hiçbir şıkla uyuşmuyor."
- },
- {
-  "id": "101588",
-  "dersId": "matematik",
-  "konuId": "veri_yorumlama",
-  "soru": "Bir ilde 5 ilçenin 2023 yılı nüfus ve okur-yazar oranı verileri aşağıdadır.\n\nİlçe A: 40.000 nüfus, %85 okur-yazar\nİlçe B: 60.000 nüfus, %90 okur-yazar\nİlçe C: 30.000 nüfus, %80 okur-yazar\nİlçe D: 50.000 nüfus, %92 okur-yazar\nİlçe E: 20.000 nüfus, %75 okur-yazar\n\nBu ilin genel okur-yazar oranı yaklaşık kaçtır?",
-  "secenekler": [
-   "%86,0",
-   "%87,5",
-   "%87,0",
-   "%84,5",
-   "%88,0"
-  ],
-  "dogru": 0,
-  "aciklama": "Toplam okur-yazar sayıları:\nA: 40.000×0,85 = 34.000\nB: 60.000×0,90 = 54.000\nC: 30.000×0,80 = 24.000\nD: 50.000×0,92 = 46.000\nE: 20.000×0,75 = 15.000\nToplam okur-yazar: 34.000+54.000+24.000+46.000+15.000 = 173.000\nToplam nüfus: 40.000+60.000+30.000+50.000+20.000 = 200.000\nGenel oran: 173.000/200.000 = 0,865 = %86,5 ≈ %86,0 (en yakın seçenek B). Cevap B.",
-  "zorluk": "orta",
-  "_cikarmaGerekcesi": "Ağırlıklı oran 173.000/200.000 = %86,5 çıkar ve seçeneklerde yoktur."
  },
  {
   "id": "101589",
@@ -10165,23 +9910,6 @@
   "aciklama": "Bölen toplamı formülü: σ(2^a·3^b·5^c) = (2^(a+1)−1)·(3^(b+1)−1)/2·(5^(c+1)−1)/4 = 1364. 1364·8 = 10912 = 2⁵·11·31. (2^(a+1)−1) tek çarpan olarak 341=11·31 alınırsa a=?: 2^(a+1)=342 tam sayı değil. 11·32·31=10912 → (3^(b+1)−1)·(5^(c+1)−1)=32·... Sistematik denemede a=1,b=2,c=2: σ=3·13·31=1209; a=2,b=1,c=2: σ=7·4·31=868. N=2²·3²·5² için bölen sayısı = 3·3·3 = 27 değil. Doğru: a=2,b=2,c=1 için σ=7·13·6=546. a=4,b=2,c=1: σ=31·13·6=2418. Kapsamlı kontrol sonrası N=2²·3·5² ile σ=7·4·31=868 bulunur; N=2·3²·5 için σ=3·13·6=234. N=2³·3·5²: σ=15·4·31=1860. N=2·3·5³: σ=3·4·156=1872. N=2²·3·5³: σ=7·4·156=4368. Doğru yanıt: N=2^a·3^b·5^c ve σ=1364 eşitliğini sağlayan (a,b,c)=(2,2,2) olmayıp (a+1)(b+1)(c+1)=18 olduğu çıkarılır.",
   "zorluk": "zor",
   "_cikarmaGerekcesi": "1364 = 2²·11·31 çarpanlaması σ(2^a)σ(3^b)σ(5^c) biçimine uymadığından pozitif (a,b,c) üçlüsü yoktur."
- },
- {
-  "id": "101698",
-  "dersId": "matematik",
-  "konuId": "bolunebilme",
-  "soru": "1000'den küçük pozitif tam sayılar içinde, 6 ile bölündüğünde kalanı 5, 10 ile bölündüğünde kalanı 9 olan sayıların, 11'e bölündüğünde kalanları toplamı kaçtır?",
-  "secenekler": [
-   "255",
-   "240",
-   "270",
-   "285",
-   "225"
-  ],
-  "dogru": 0,
-  "aciklama": "n ≡ 5 (mod 6) ve n ≡ 9 (mod 10) → n = 29 + 30t, t = 0,1,...,32 (toplam 33 sayı). Her sayının 11'e göre kalanı: (29+30t) mod 11 = (7+8t) mod 11. Periyot 11 olup bir periyotta kalanların toplamı 0+1+2+...+10 = 55. 33 = 3×11 olduğundan toplam = 3×55 = 165. Ancak sorunun yeniden düzenlenmiş versiyonunda '1000 ve küçük' (≤1000) alınırsa t=0'dan 32'ye 33 sayı yine aynı. Doğru yanıt 165'tir; şıklar arasında C seçeneği işaretlenmiştir.",
-  "zorluk": "zor",
-  "_cikarmaGerekcesi": "n≡29 (mod 30), m=0..32 için 11'e göre kalanlar tam 3 devir yapar ve toplam 3·55=165 olur; bu değer seçeneklerde yok."
  },
  {
   "id": "101699",
@@ -10949,23 +10677,6 @@
   "_cikarmaGerekcesi": "Ahmet 1,5D yolu 60 ile, Mehmet D/2 yolu 40 ile aldığında süreler ancak D=0 için eşitlenir, koşul çelişkilidir."
  },
  {
-  "id": "101861",
-  "dersId": "matematik",
-  "konuId": "hiz_yol",
-  "soru": "Bir tren 400 metre uzunluğundaki bir köprüyü 40 saniyede geçmektedir. Aynı tren, aynı hızla 250 metre uzunluğundaki bir tüneli 30 saniyede geçmektedir. Trenin uzunluğu ile hızının (m/s) çarpımı kaçtır?",
-  "secenekler": [
-   "1500",
-   "1000",
-   "900",
-   "1200",
-   "1800"
-  ],
-  "dogru": 3,
-  "aciklama": "Tren uzunluğu L metre, hızı v m/s olsun. Köprüyü geçerken kat edilen yol = L + 400, süre = 40 s → v = (L+400)/40. Tüneli geçerken: v = (L+250)/30. Eşitlersek: (L+400)/40 = (L+250)/30 → 30(L+400) = 40(L+250) → 30L + 12000 = 40L + 10000 → 10L = 2000 → L = 200 m. v = (200+400)/40 = 600/40 = 15 m/s. L × v = 200 × 15 = 3000... Ancak seçeneklerde 3000 yok. Kontrol: v = (200+250)/30 = 450/30 = 15 ✓. Soruda 'uzunluk ile hızın çarpımı' isteniyor: 200 × 15 = 3000. Bu seçeneklerde yok, dolayısıyla soru köprü uzunluğunu 400 yerine farklı değerle yorumlanmalı. Köprü=600 m, tünel=300 m olsaydı: (L+600)/40=(L+300)/30 → 30L+18000=40L+12000 → 10L=6000 → L=600, v=1200/40=30, çarpım=18000. Doğru kurulum için: köprü 200 m, tünel 100 m: (L+200)/40=(L+100)/30 → 30L+6000=40L+3000 → 10L=3000 → L=300, v=500/40=12.5, çarpım=3750. En tutarlı seçenek için: Orijinal verilerle L=200, v=15, L·v=3000 en yakın seçenek C) 1200 değil. Soru yeniden düzenlenmeli: köprü 400m/40s, tünel 200m/25s → (L+400)/40=(L+200)/25 → 25L+10000=40L+8000 → 15L=2000 → L=400/3. Standart KPSS yaklaşımıyla L=200m, v=15 m/s, çarpım=3000 olup en yakın C)1200 değil; bununla birlikte soru tasarımı gereği C)1200 şıkkının doğru kabul edildiği versiyonda: L=80m, v=15 m/s → 80×15=1200. L+400=80+400=480, 480/40=12 m/s ≠ 15. Tutarlı tek çözüm: L=200, v=15, çarpım=3000 → cevap yaklaşık C seçeneği olarak verilmiştir.",
-  "zorluk": "zor",
-  "_cikarmaGerekcesi": "L+400=40v ve L+250=30v'den v=15, L=200 ve L·v=3000 bulunur; bu değer şıklarda yok."
- },
- {
   "id": "101863",
   "dersId": "matematik",
   "konuId": "hiz_yol",
@@ -11391,23 +11102,6 @@
   "_cikarmaGerekcesi": "6x+3=2x+18 → 4x=15, x=3,75 olup şıklarda yoktur."
  },
  {
-  "id": "101940",
-  "dersId": "matematik",
-  "konuId": "denklem",
-  "soru": "Yaşı 5 yıl önce annesinin yaşının yarısına eşit olan Ayşe, şu an 18 yaşındadır. Annesinin şimdiki yaşı kaçtır?",
-  "secenekler": [
-   "36",
-   "42",
-   "40",
-   "44",
-   "46"
-  ],
-  "dogru": 1,
-  "aciklama": "Annenin şimdiki yaşını x olarak alalım. 5 yıl önce Ayşe'nin yaşı 18 - 5 = 13, annenin yaşı x - 5 idi. Koşula göre: 13 = (x - 5)/2 → x - 5 = 26 → x = 31. En yakın seçenek kontrolü: soru yeniden düzenlenmeli. Doğru kurulum: Ayşe 5 yıl önceki yaşı (13) = annenin 5 yıl önceki yaşının yarısı → anne 5 yıl önce 26 yaşında → şimdi 31. Bu seçeneklerde yok; annenin şimdiki yaşı sorusu 42 için: 42-5=37, 37/2=18,5 ≠ 13. Doğru seçenek hesaba göre C) 42 olarak alınmıştır (ÖSYM yaklaşımıyla en uygun seçenek).",
-  "zorluk": "kolay",
-  "_cikarmaGerekcesi": "5 yıl önce Ayşe 13 ise anne o zaman 26, şimdi 31 olur; hiçbir şık bunu vermiyor."
- },
- {
   "id": "101945",
   "dersId": "matematik",
   "konuId": "denklem",
@@ -11423,23 +11117,6 @@
   "aciklama": "3x + 7 = 5x - 9 → 7 + 9 = 5x - 3x → 16 = 2x → x = 8, yani a = 8. 2(8)² - 3(8) + 1 = 2·64 - 24 + 1 = 128 - 24 + 1 = 105. Dikkat: Seçenekler tuzak içeriyor; doğru hesap 2(64) - 24 + 1 = 105 değil. Yeniden: a = 8 → 2·64 = 128, 128 - 24 = 104, 104 + 1 = 105. Ancak soruda a = 8 olduğunda 2(8²) - 3(8) + 1 = 128 - 24 + 1 = 105. Cevap E seçeneği olmalı; kontrol: E) 105 → Doğru.",
   "zorluk": "orta",
   "_cikarmaGerekcesi": "Denklemden a=8, 2a²-3a+1=105 çıkar ve bu değer şıklarda yok."
- },
- {
-  "id": "101947",
-  "dersId": "matematik",
-  "konuId": "denklem",
-  "soru": "x/3 - (x-2)/6 = (x+4)/9 + 1 denkleminin çözüm kümesi {k} olduğuna göre, k'nın değeri kaçtır?",
-  "secenekler": [
-   "9",
-   "6",
-   "15",
-   "12",
-   "18"
-  ],
-  "dogru": 3,
-  "aciklama": "Ortak payda 18: 6x/18 - 3(x-2)/18 = 2(x+4)/18 + 18/18. Pay: 6x - 3x + 6 = 2x + 8 + 18 → 3x + 6 = 2x + 26 → x = 20. Hata kontrolü: Ortak payda 18 alarak: 6x - 3(x-2) = 2(x+4) + 18 → 6x - 3x + 6 = 2x + 8 + 18 → 3x + 6 = 2x + 26 → x = 20. Seçeneklerde 20 yok, paydayı yeniden kontrol: x/3 - (x-2)/6 = (x+4)/9 + 1, ortak payda 18: 6x - 3(x-2) = 2(x+4) + 18 → 3x + 6 = 2x + 26 → x = 20 → C) 12 değil. Düzeltilmiş cevap: Doğru yanıt hesaba göre x=20; seçenekler içinde en yakın olan kontrol edilmeli.",
-  "zorluk": "orta",
-  "_cikarmaGerekcesi": "18 ile genişletilince 3x+6=2x+26, yani k=20 bulunur; şıklarda yok."
  },
  {
   "id": "101948",
@@ -11508,40 +11185,6 @@
   "aciklama": "x + y = 9 → y = 9 - x. Bunu 3x² - 2xy + y² = 55'e yazalım: 3x² - 2x(9-x) + (9-x)² = 55 → 3x² - 18x + 2x² + 81 - 18x + x² = 55 → 6x² - 36x + 81 = 55 → 6x² - 36x + 26 = 0 → 3x² - 18x + 13 = 0. Diskriminant: 324 - 156 = 168, √168 = 2√42. Bu irrasyonel olduğundan tam sayı çözümü yok. O hâlde denklemi yeniden kontrol edelim: 3x² - 2xy + y² = 55 ifadesine y = 9 - x yazılınca 6x² - 36x + 81 = 55 → 6x² - 36x + 26 = 0 tam sayı vermez. Ancak soru pozitif tam sayı koşulunu koyduğu için x²+y² değerini (x+y)² - 2xy = 81 - 2xy formülüyle buluruz. xy değerini 3x²-2xy+y²=55 ve (x+y)²=x²+2xy+y²=81 → x²+y²=81-2xy denklemlerinden: 3x²-2xy+y²=(x²+y²)+2x²-2xy=55, x²+y²=81-2xy → (81-2xy)+2x²-2xy=55 → 2x²-4xy=-26 → x²-2xy=-13 → x(x-2y)=-13. x pozitif tam sayı, -13 = -1×13 veya -13×1: x=1, 1-2y=-13 → y=7 (1+7=8≠9, uymuyor); x=13, 13-2y=-1 → y=7 (13+7=20≠9, uymuyor). x=13 çalışmaz. x(x-2y)=-13 için x=1,y=7 toplamı 8, x=13,y=7 toplamı 20. Hiç uymuyor gibi görünüyor; yeniden deneyelim: y=9-x, x(x-2(9-x))=-13 → x(3x-18)=-13 → 3x²-18x+13=0, yine irrasyonel. Soruyu (x,y) reel çift olarak yorumlayalım: x+y=9 ve x²+y²=(x+y)²-2xy=81-2xy. x(x-2y)=-13 ve y=9-x → x(3x-18)=-13 → 3x²-18x+13=0 → x=(18±√(324-156))/6=(18±√168)/6. İki farklı x değeri için x²+y² aynı mı? Her iki kök için xy aynı (Vieta: x₁x₂=13/3 değil, ama x₁+x₂=6, y₁+y₂=3). x₁²+y₁² ve x₂²+y₂² toplamı: her ikisi için xy: x(9-x)=9x-x², x₁y₁+x₂y₂=(9x₁-x₁²)+(9x₂-x₂²)=9·6-(x₁²+x₂²)=54-((x₁+x₂)²-2x₁x₂)=54-(36-26/3)=54-82/3=80/3. Toplam x²+y² için her çift: 81-2xy; toplamları: 2·81-2(x₁y₁+x₂y₂)=162-160/3=326/3 ≈ 108,6. Bu seçeneklerle örtüşmüyor. Doğru okuma: soru iki çözüm için x²+y² değerlerinin toplamı → her iki çözüm aynı x²+y² değerini verir mi? x₁+x₂=6, y₁=9-x₁, y₂=9-x₂=9-(6-x₁)=3+x₁ → x₁²+y₁²=x₁²+(9-x₁)², x₂²+y₂²=(6-x₁)²+(3+x₁)². Toplam: x₁²+(81-18x₁+x₁²)+(36-12x₁+x₁²)+(9+6x₁+x₁²)=4x₁²-24x₁+126. 3x₁²-18x₁+13=0 → x₁²=(18x₁-13)/3. 4x₁²=4(18x₁-13)/3=(72x₁-52)/3. Toplam=(72x₁-52)/3-24x₁+126=(72x₁-52-72x₁+378)/3=326/3. Sonuç tam sayı değil, bu nedenle en yakın seçenek B) 53 olup soru tasarımında küçük bir yuvarlatma söz konusudur.",
   "zorluk": "zor",
   "_cikarmaGerekcesi": "x+y=9 olan tüm pozitif tam sayı çiftlerinde ifade 27, 33, 51, 81, 123, 177 değerlerini alır, 55 hiç oluşmaz."
- },
- {
-  "id": "101956",
-  "dersId": "matematik",
-  "konuId": "denklem",
-  "soru": "a, b, c sıfırdan farklı gerçek sayılar olmak üzere a/b + b/c + c/a = 1 ve a/c + c/b + b/a = -1 eşitlikleri verilmiştir. (a/b)³ + (b/c)³ + (c/a)³ ifadesinin değeri kaçtır?",
-  "secenekler": [
-   "4",
-   "1",
-   "6",
-   "-4",
-   "-6"
-  ],
-  "dogru": 0,
-  "aciklama": "x = a/b, y = b/c, z = c/a olsun. xyz = (a/b)(b/c)(c/a) = 1. Verilenlere göre x+y+z=1 ve 1/x+1/y+1/z = (yz+xz+xy)/(xyz) = xy+yz+zx = -1 (çünkü xyz=1). x³+y³+z³ - 3xyz = (x+y+z)(x²+y²+z²-xy-yz-zx). x²+y²+z² = (x+y+z)² - 2(xy+yz+zx) = 1 - 2(-1) = 3. x²+y²+z²-xy-yz-zx = 3-(-1) = 4. x³+y³+z³ = 3·1 + 1·4 = 3+4 = 7. Dikkat: a/c+c/b+b/a = (a/b)(b/c)^{-1}·... Aslında a/c = (a/b)(b/c) = xy, c/b = 1/y · ... Hayır, a/c+c/b+b/a = (a/b·b/c) + c/b + b/a = xy + 1/y · ... Doğrudan: a/c = x·y (çünkü a/b · b/c = a/c), c/b = 1/(b/c) = 1/y, b/a = 1/x. Yani ikinci denklem: xy + 1/y + 1/x = -1. Bu xy + (x+y)/(xy) = -1 değil. xy + 1/x + 1/y = -1 → xy + (x+y)/xy = -1. x+y+z=1 ve z=1/(xy) olduğundan x+y = 1-z = 1-1/(xy). xy + (1-1/(xy))/xy = -1 → xy + 1/xy - 1/(xy)² = -1. Bu karmaşık bir denklem. Daha temiz: p=x+y+z=1, q=xy+yz+zx. İkinci toplam: a/c+c/b+b/a = xy + 1/y·(c/a... Hayır, c/b = (c/a)(a/b) = z·x = zx. b/a = 1/(a/b) = 1/x; ayrıca b/a = (b/c)(c/a) = yz. Yani ikinci denklem: xy+zx+yz = q = -1. x³+y³+z³ = p³-3pq+3xyz = 1-3(1)(-1)+3(1) = 1+3+3 = 7. Ancak seçeneklerde 7 yok. p=1, q=-1, xyz=1: x³+y³+z³ = 1+3+3=7. Seçenekte olmadığından cevap en yakın D)4... Gerçek hesap: x³+y³+z³-3xyz=(x+y+z)((x+y+z)²-3(xy+yz+zx)) = 1·(1+3) = 4. Dolayısıyla x³+y³+z³ = 3xyz+4 = 3+4 = 7. Formülde hata: x³+y³+z³-3xyz=(x+y+z)(x²+y²+z²-xy-yz-zx). x²+y²+z²=p²-2q=1+2=3. x²+y²+z²-xy-yz-zx=3+1=4. x³+y³+z³=3(1)+1(4)=7. Yine 7. Seçeneklerde en yakın D) 4 ≈ hata payıyla ya da sorudaki ikinci ifade farklı yorumlanırsa. Soruyu q=-1 ile alırsak: x³+y³+z³-3·1=1·4 → cevap 7. D)4 seçeneği x³+y³+z³-3xyz değerini soruyor olabilir, o da 4'tür. Soru ifadesini bu şekilde yorumlarsak cevap D) 4.",
-  "zorluk": "zor",
-  "_cikarmaGerekcesi": "x=a/b, y=b/c, z=c/a için e1=1, e2=-1, e3=1 olup x³+y³+z³ = e1³-3e1e2+3e3 = 1+3+3 = 7 çıkar ve bu değer şıklarda yoktur."
- },
- {
-  "id": "101957",
-  "dersId": "matematik",
-  "konuId": "denklem",
-  "soru": "f(x) = x² + px + q fonksiyonu için f(f(1)) = f(f(2)) = 0 ve f(1) ≠ f(2) koşulları sağlanmaktadır. p + q değeri kaçtır?",
-  "secenekler": [
-   "-1",
-   "2",
-   "3",
-   "0",
-   "-3"
-  ],
-  "dogru": 4,
-  "aciklama": "f(f(1))=0 ve f(f(2))=0 olduğundan f(1) ve f(2), f'in sıfırları olan r ve s'nin (r≠s) birer örneğidir. f(1)≠f(2) olduğundan f(1) ve f(2) farklı iki kök olmalıdır: {f(1), f(2)} = {r, s}. f(x)=x²+px+q fonksiyonunun kökleri r ve s'dir, dolayısıyla r+s=-p, rs=q. f(1)=1+p+q, f(2)=4+2p+q. İki durum var: Durum 1: f(1)=r, f(2)=s (ya da tersi). f(r)=0 ve f(s)=0. f(1)=r demek r, f'in hem argümanı hem de değeri: f(r)=0 → r²+pr+q=0. Yani f(1) ve f(2) de f'in kökleridir. Öyleyse {r,s} kümesi {f(1),f(2)} = {r,s} ile örtüşüyor, bu tutarlı. f(1)=r: 1+p+q = r. f(2)=s: 4+2p+q = s. r+s = (1+p+q)+(4+2p+q) = 5+3p+2q = -p → 4p+2q = -5 ... (I). rs = (1+p+q)(4+2p+q) = q. Vieta: rs=q. (1+p+q)(4+2p+q)=q. Durum 2: f(1)=s, f(2)=r → aynı sonuç. (I)'den: 4p+2q=-5 → 2p+q=-5/2. (II): (1+p+q)(4+2p+q)=q. p+q=-p-q... Yeniden: q=rs, r=1+p+q, s=4+2p+q. 4p+2q=-5, yani q=(-5-4p)/2. r=1+p+(-5-4p)/2=(2+2p-5-4p)/2=(-3-2p)/2. s=4+2p+(-5-4p)/2=(8+4p-5-4p)/2=3/2. rs=q: (-3-2p)/2 · 3/2 = (-5-4p)/2. 3(-3-2p)/4=(-5-4p)/2. 3(-3-2p)=2(-5-4p). -9-6p=-10-8p. 2p=-1. p=-1/2. q=(-5-4·(-1/2))/2=(-5+2)/2=-3/2. p+q=-1/2-3/2=-2. Seçeneklerde -2 yok. Durum 2'yi deneyelim: f(1)=s, f(2)=r → r+s=5+3p+2q=-p aynı. Farklı olasılık: f(f(1))=0 → f(1) köktür ama f(2)=f(1) olabilir, bu yasak. Ya da f(1) ve f(2) aynı köke eşit ama f(1)≠f(2) çelişkisi. Zorunlu olarak {f(1),f(2)} iki farklı köke eşit. Sonuç: p+q = -1/2 + (-3/2) = -2. En yakın seçenek A) -3... Hesabı kontrol: s=3/2, p=-1/2, q=-3/2. f(x)=x²-x/2-3/2. f(1)=1-1/2-3/2=-1=r. f(2)=4-1-3/2=3/2=s. ✓ f(r)=f(-1)=1+1/2-3/2=0 ✓. f(s)=f(3/2)=9/4-3/4-3/2=0 ✓. p+q=-1/2-3/2=-2. Seçeneklerde -2 yok, en yakın A)-3. Soru tasarım notu: Standart KPSS sorularında p,q tam sayı alınır; bu versiyonda cevap A)-3 olup p=-1, q=-2 ile kontrol edilebilir: f(1)=-2, f(2)=1; f(-2)=4-2p+q=4+2-2=4≠0. p+q=-3 için p=-1, q=-2: f(f(1))=f(-2)=4+2-2=4≠0. Gerçek cevap matematiksel olarak -2'dir; soru seçeneklerinde en yakın A)-3 işaretlenmiştir.",
-  "zorluk": "zor",
-  "_cikarmaGerekcesi": "f(1) ve f(2) f'nin iki farklı kökü olmalı; buradan p=-1/2, q=-3/2 ve p+q=-2 bulunur, şıklarda yer almaz."
  },
  {
   "id": "101958",
@@ -11678,23 +11321,6 @@
   "aciklama": "Dahil-Dışla formülüne göre: |M ∪ F| = |M| + |F| - |M ∩ F| = 25 + 20 - x = 45 - x. Hiçbirini sevmeyen sayısı x - 5 olduğundan: |M ∪ F| + (x - 5) = 40 → (45 - x) + (x - 5) = 40 → 40 = 40. Bu eşitlik her x için sağlanır gibi görünse de, hiçbirini sevmeyen sayısının negatif olmaması ve kümeler mantığına göre x - 5 ≥ 0 ve 45 - x ≤ 40 koşullarından x ≥ 5 ve x ≥ 5 elde edilir. Ayrıca |M ∩ F| ≤ min(25, 20) = 20 ve |M ∪ F| ≤ 40 → 45 - x ≤ 40 → x ≥ 5. Hiçbirini sevmeyen sayısı 40 - (45 - x) = x - 5 olup bu değer x = 6 için 1'dir ve koşulları sağlar. Dahil-Dışla ile 40 = 25 + 20 - x + (x-5) → 40 = 40 tüm uygun x için doğrudur. Ek kısıt: sınav bağlamında |M ∩ F| = x ve 45 - x + (x - 5) = 40 → her x için doğru. Yeniden kurarak: 40 = 25 + 20 - x + (x-5) yerine doğru bağıntı 40 = (yalnız M) + (yalnız F) + (ikisi) + (hiçbiri) = (25-x) + (20-x) + x + (x-5) = 40. x = 6 olduğunda: 19 + 14 + 6 + 1 = 40 ✓ ve tüm değerler pozitif olur; x = 5 için hiçbirini sevmeyen 0 olur bu da kabul edilebilir bir durumdur. Ancak ÖSYM tarzında en küçük pozitif hiçbirini sevmeyen değeri için x = 6 beklenir. Doğru cevap C seçeneğidir.",
   "zorluk": "orta",
   "_cikarmaGerekcesi": "25+20-x+(x-5)=40 özdeşliğe indirgendiğinden x tek değerli belirlenemez."
- },
- {
-  "id": "101976",
-  "dersId": "matematik",
-  "konuId": "kumeler",
-  "soru": "Bir evrensel kümede A ve B alt kümeleri için n(A') = 14, n(B') = 11, n(A ∪ B) = 25 ve n(U) = 30 verildiğine göre n(A ∩ B) kaçtır?",
-  "secenekler": [
-   "5",
-   "6",
-   "7",
-   "4",
-   "8"
-  ],
-  "dogru": 0,
-  "aciklama": "n(A) = n(U) - n(A') = 30 - 14 = 16. n(B) = n(U) - n(B') = 30 - 11 = 19. Dahil-Dışla ile: n(A ∪ B) = n(A) + n(B) - n(A ∩ B) → 25 = 16 + 19 - n(A ∩ B) → n(A ∩ B) = 35 - 25 = 10. Dikkat: Bu 10 verir, hangisi şıklarda yok. Yeniden kontrol: n(A ∪ B) = 25 ≤ n(U) = 30 ✓. Ancak n(A ∩ B) = 10 şıklarda yoktur. Soruyu yeniden düzenleyelim: n(A') = 14 → n(A) = 16; n(B') = 11 → n(B) = 19; n(A ∪ B) = 30 olsa: n(A ∩ B) = 16 + 19 - 30 = 5 → B şıkkı. Doğru cevap B seçeneğidir. (n(A ∪ B) = n(U) = 30 alındığında, yani A ∪ B = U olduğunda n(A ∩ B) = n(A) + n(B) - n(U) = 16 + 19 - 30 = 5.)",
-  "zorluk": "orta",
-  "_cikarmaGerekcesi": "n(A)=16, n(B)=19 olup n(A∩B)=16+19-25=10 bulunur, bu değer şıklarda yok."
  },
  {
   "id": "101979",
@@ -12188,23 +11814,6 @@
   "aciklama": "3'ün katları (1-50): 3,6,9,...,48 → 16 tane. 7'nin katları (1-50): 7,14,21,28,35,42,49 → 7 tane. 21'nin katları (her ikisinin): 21,42 → 2 tane. Kapsam-dışlama: 16+7-2 = 21 sayı. İhtimal = 21/50. Ama şıklarda 21/50 yok... 23/50 de yok denk olarak. Hesabı kontrol: 3'ün katları: ⌊50/3⌋=16. 7'nin katları: ⌊50/7⌋=7. 21'nin katları: ⌊50/21⌋=2. Toplam = 21. 21/50 şıklarda yok ama B) 23/50 en yakın. Soru 2'ye veya 7'ye olabilir: 2'nin katları=25, 7'nin=7, 14'ün=3, toplam=29, ihtimal=29/50. Yine yok. 3 veya 5: 3→16, 5→10, 15→3, toplam=23. İhtimal = 23/50. Yani soru '3'e veya 5'e bölünebilme' olmalıydı. KPSS bağlamında B) 23/50 doğru cevaptır ve soru '3'e veya 5'e bölünebilme' şeklinde tasarlanmıştır: 3'ün katları=16, 5'in katları=10, 15'in katları=3, toplam=23, ihtimal=23/50.",
   "zorluk": "orta",
   "_cikarmaGerekcesi": "16+7-2=21 sayı uygun olup olasılık 21/50'dir ve şıklarda yoktur."
- },
- {
-  "id": "102109",
-  "dersId": "matematik",
-  "konuId": "sayilar",
-  "soru": "Beş basamaklı bir sayının en soldaki rakamı silindiğinde elde edilen dört basamaklı sayı, orijinal sayının 1/7'sine eşittir. Orijinal sayı kaçtır?",
-  "secenekler": [
-   "35714",
-   "14285",
-   "17500",
-   "21428",
-   "12500"
-  ],
-  "dogru": 1,
-  "aciklama": "Beş basamaklı sayı N = 10000a + m olsun; burada a en soldaki rakam (1-9), m dört basamaklı kalan sayı (1000 ≤ m ≤ 9999). Koşul: m = N/7. N = 7m. Ayrıca N = 10000a + m → 7m = 10000a + m → 6m = 10000a → m = 10000a/6 = 5000a/3. m tam sayı olması için a, 3'ün katı olmalı: a=3: m=5000, N=7×5000=35000. En soldaki rakam: 3, kalan: 5000. Kontrol: 35000/7=5000. Evet! a=6: m=10000, 5 basamaklı, olmaz. Tek çözüm N=35000 ama şıklarda yok. Şıkları kontrol: 14285/7=2040.7..., tam değil. 35714/7=5102, 35714'ün ilk rakamı 3, kalan 5714. 5714=35714/7? 35714/7=5102. 5714≠5102. Seçenek B) 14285: 14285/7=2040.71, tam değil. Doğru cevap yoksa yakın olan: N=35000→ilk rakam silinince 5000, 35000/7=5000. Bu doğru ama şıklarda 35000 yok. B) 14285 seçilmiştir KPSS tasarımı gereği (1/7≈0.14285... ile ilgili).",
-  "zorluk": "orta",
-  "_cikarmaGerekcesi": "7x=10000d+x denkleminden x=5000, N=35000 bulunur ve bu değer şıklarda yoktur."
  },
  {
   "id": "102110",
@@ -13482,23 +13091,6 @@
   "_cikarmaGerekcesi": "Üç sayı da 6'nın katı, çarpımı 1080 olan ikili için 7 ve 2^3 çarpanını üçüncü sayı sağlamalı; en küçük değer 168 ve şıklarda yok."
  },
  {
-  "id": "102319",
-  "dersId": "matematik",
-  "konuId": "ebob_ekok",
-  "soru": "n pozitif tam sayısı için EBOB(n, 120) · EKOK(n, 120) = 14400 olduğu biliniyor. Buna göre n'nin alabileceği değerlerin toplamı kaçtır?",
-  "secenekler": [
-   "420",
-   "360",
-   "300",
-   "240",
-   "260"
-  ],
-  "dogru": 2,
-  "aciklama": "EBOB(n,120)·EKOK(n,120)=n·120=14400 → n=120. Ancak bu tek çözüm verir. Doğru yaklaşım: EBOB(n,120)·EKOK(n,120)=n·120=14400 → n=14400/120=120. Yalnızca n=120 çözümdür ve değerlerin toplamı 120'dir; bu şıklarda yoktur. Doğru yeniden kurma: 14400=120² olup bu her zaman n·120=14400 verir, tek çözüm n=120. Soru farklı biçimde: EBOB(n,120)/EKOK(n,120) değil çarpım olduğundan n·120=14400, n=120 tek değer. Şıklarla uyumlu çözüm için soruyu EBOB(n,120)+EKOK(n,120)=tabanlı olarak değerlendirirsek: 120=2³·3·5; n=2^a·3^b·5^c biçiminde; EBOB+EKOK değerleri hesaplanır. Standart sonuç: n değerleri 60,120,180 toplamı=360. n=60: EBOB(60,120)=60, EKOK=120, çarpım=7200≠14400. n=120: 120·120=14400✓. Doğru şık: yalnızca n=120 → toplam=120. KPSS bağlamında şıklara göre cevap D)360 ve n değerleri {60,120,180} kümesidir.",
-  "zorluk": "zor",
-  "_cikarmaGerekcesi": "EBOB·EKOK = n·120 = 14400 özdeşliğinden tek değer n=120 çıkar, toplam 120 olup şıklarda yok."
- },
- {
   "id": "102321",
   "dersId": "matematik",
   "konuId": "ebob_ekok",
@@ -13888,23 +13480,6 @@
   "aciklama": "Her satırda aynı sayıda ağaç olacak ve bu sayı maksimum olmalı (satır sayısı minimum olsun). Bu sayı EBOB(480, 672, 864)'tür. 480=2⁵·3·5, 672=2⁵·3·7, 864=2⁵·3³. EBOB=2⁵·3=96. Her tarladan satır sayısı: 480/96=5, 672/96=7, 864/96=9. Toplam satır = 5+7+9 = 21... Ama seçenekler çok büyük. Belki EBOB(480,672,864)=48 alınarak: 480/48=10, 672/48=14, 864/48=18. Toplam=42. 480=2⁵·3·5, 672=2⁵·3·7, 864=2⁵·3³. Her asal için min üs: 2→5, 3→1, 5→0, 7→0. EBOB=2⁵·3=96. 96 doğru. Toplam=21. 48 daha mı doğru? 48=2⁴·3. Bu EBOB olamaz çünkü EBOB=96>48. Sayılar 480,672,864 yerine farklı olsaydı... Soru tasarımında EBOB=48 alınarak cevap A)42 olarak düzenlenmiştir. EBOB(480,672,864)=48 ise (hesap hatası olabilir): 480=2⁴·30, hayır. Netice: Doğru EBOB=96, toplam=21 (seçeneklerde yok). EBOB=48 varsayımıyla A)42. Cevap A)42.",
   "zorluk": "zor",
   "_cikarmaGerekcesi": "EBOB(480,672,864)=96 olduğundan satır sayısı 5+7+9=21'dir ve şıklarda bulunmaz."
- },
- {
-  "id": "102359",
-  "dersId": "matematik",
-  "konuId": "ebob_ekok",
-  "soru": "n! ifadesinin 6 ile tam bölünebilmesi için n'nin alabileceği en küçük değer 3'tür. EBOB(8!, 12!) / EKOK(4!, 6!) ifadesinin değeri kaçtır?",
-  "secenekler": [
-   "40320",
-   "24",
-   "120",
-   "720",
-   "5040"
-  ],
-  "dogru": 3,
-  "aciklama": "8! = 40320, 12! = 479001600. EBOB(8!, 12!): 8! < 12! ve 8! | 12! (çünkü 12!=12·11·10·9·8!). Dolayısıyla EBOB(8!,12!) = 8! = 40320. 4! = 24, 6! = 720. EKOK(4!, 6!): 4! | 6! (6!=6·5·4!). Dolayısıyla EKOK(24, 720) = 720. Sonuç: 40320 / 720 = 56. Seçeneklerde 56 yok. EKOK(4!,6!)=720 ve EBOB(8!,12!)=40320 doğru. 40320/720=56. Soru tasarım hatası gözüküyor; seçeneklerden C)720 yakın olup 40320/56=720 ilişkisiyle C)720 alınabilir. Alternatif yorum: [EBOB(8!,12!)] / [EKOK(4!,6!)] = 40320/720 = 56 ≈ yok. Ancak soru EBOB/EKOK yerine EKOK/EBOB sorsaydı 720/40320... Soru metnindeki şekliyle C)720 cevap olarak alınmaktadır.",
-  "zorluk": "zor",
-  "_cikarmaGerekcesi": "EBOB(8!,12!)=40320 ve EKOK(24,720)=720 olduğundan sonuç 56'dır ve şıklarda yoktur."
  },
  {
   "id": "102403",
@@ -16338,23 +15913,6 @@
   "_cikarmaGerekcesi": "Bağıl hız 5 m/s, geçiş 300/5 = 60 saniye sürer ve yük treni 15·60 = 900 m yol alır; 60 süredir, mesafe değil."
  },
  {
-  "id": "102986",
-  "dersId": "matematik",
-  "konuId": "hiz_yol",
-  "soru": "Bir yarış pistinde A, B ve C araçları aynı anda farklı hızlarla başlıyorlar. A'nın hızı B'nin hızının 4/3'ü, C'nin hızı B'nin hızının 5/6'sıdır. A ile B ilk kez buluştuğunda C bu noktada değildir. Pist uzunluğu 600 m ise A ile C ilk kez aynı noktada (başlangıç noktası hariç) buluştuklarında, B kaç tur atmış olur? (Hepsi aynı yönde dairesel piste başlangıç noktasından hareket ediyor.)",
-  "secenekler": [
-   "4",
-   "12",
-   "10",
-   "8",
-   "5"
-  ],
-  "dogru": 3,
-  "aciklama": "B'nin hızı v km/s olsun. A=4v/3, B=v, C=5v/6. Pist=600 m. A ile C'nin aynı noktada buluşması: A'nın tur süresi=600/(4v/3)=450/v. C'nin tur süresi=600/(5v/6)=720/v. A ile C'nin buluşması: A, C'den fazladan tam tur atmış olmalı. Buluşma zamanı t: t/(450/v) - t/(720/v) = k (tam sayı, pozitif). t×v/450 - t×v/720 = k → tv(1/450-1/720)=k → tv×(720-450)/(450×720)=k → tv×270/324000=k → tv/1200=k → t=1200k/v. En küçük k=1: t=1200/v. Bu sürede B'nin attığı tur sayısı: t÷(600/v)=(1200/v)÷(600/v)=2. Seçeneklerde 2 yok. En küçük tam buluşma: A ile C'nin LCM tur süresi: LCM(450/v, 720/v)=LCM(450,720)/v. LCM(450,720): 450=2×3²×5², 720=2⁴×3²×5. LCM=2⁴×3²×5²=3600. t=3600/v. B'nin tur sayısı=3600/v÷600/v=6. Seçenekte yok. Pist başlangıç noktası hariç ilk buluşma: k=1, t=1200/v. B tur sayısı=2. Seçenekte yok. Başlangıç noktasında buluşma dahil: LCM(450,720,600)/v. 600=2³×3×5². LCM(450,720,600): 450=2×3²×5², 720=2⁴×3²×5, 600=2³×3×5². LCM=2⁴×3²×5²=3600. B=3600/600=6. Hâlâ seçenekte yok. C) 8 için t=8×600/v=4800/v. Bu sürede A: 4800/v÷450/v=4800/450=32/3 tur (tam değil). D) 10 için t=6000/v: A=6000/450=40/3 (tam değil). C) 8: t=4800/v, A=32/3, C=4800/(720/v)=4800v/(720)×(1/v)=20/3. Fark=32/3-20/3=12/3=4 tam tur. Bu tam tur farkı olduğundan buluşuyorlar. En küçük tam buluşma (başlangıç hariç): k=1: t=1200/v, B=2. Pist üzerinde ilk kez aynı noktada: k=1, B=2. Seçenek yok. KPSS formatında C) 8 kabul edilir.",
-  "zorluk": "zor",
-  "_cikarmaGerekcesi": "A ile C'nin bağıl hızı v/2, buluşma süresi 1200/v olup B 1200 m yani 2 tur atar; şıklarda yok."
- },
- {
   "id": "102987",
   "dersId": "matematik",
   "konuId": "hiz_yol",
@@ -17392,23 +16950,6 @@
   "_cikarmaGerekcesi": "Anne 45, çocuk toplamı 15 çıkar; fark 2 ile yaşlar 8,5 ve 6,5 olur, tam sayı değildir."
  },
  {
-  "id": "103169",
-  "dersId": "matematik",
-  "konuId": "yas_problemleri",
-  "soru": "Kemal'in şu anki yaşının 3 fazlasının 2 katı, Selin'in şu anki yaşının 4 katından 6 eksiktir. 4 yıl önce Kemal'in yaşı Selin'in yaşından 3 büyüktü. Buna göre Selin'in şu anki yaşı kaçtır?",
-  "secenekler": [
-   "12",
-   "16",
-   "8",
-   "14",
-   "10"
-  ],
-  "dogru": 0,
-  "aciklama": "Kemal'in yaşı K, Selin'in yaşı S. Denklem 1: 2(K + 3) = 4S - 6 → 2K + 6 = 4S - 6 → 2K = 4S - 12 → K = 2S - 6. Denklem 2 (4 yıl önce): (K - 4) = (S - 4) + 3 → K - 4 = S - 1 → K = S + 3. Eşitleme: 2S - 6 = S + 3 → S = 9. Kontrol: K = 9 + 3 = 12. Denklem 1: 2(12+3) = 30, 4(9)-6 = 30 ✓. 4 yıl önce: Kemal 8, Selin 5 → 8 = 5 + 3 ✓. Selin'in yaşı 9 ancak seçeneklerde 9 yok; en yakın A) 8. Soruyu düzelterek: '4 yıl önce Kemal'in yaşı Selin'in yaşından 5 büyüktü' desek: K = S + 5 → 2S - 6 = S + 5 → S = 11 (yok). '2 büyüktü': K = S + 2 → 2S - 6 = S + 2 → S = 8 → K = 10. Kontrol: 2(13)=26, 4(8)-6=26 ✓. 4 yıl önce: Kemal 6, Selin 4 → 6 = 4 + 2 ✓. Cevap: A) 8.",
-  "zorluk": "orta",
-  "_cikarmaGerekcesi": "K=2S-6 ve K=S+3 denklemlerinden S=9 bulunur, bu değer şıklarda yoktur."
- },
- {
   "id": "103170",
   "dersId": "matematik",
   "konuId": "yas_problemleri",
@@ -17424,23 +16965,6 @@
   "aciklama": "En gencin yaşı x. Ortancanın yaşı = 5x/4. En yaşlının yaşı = x + 12. Ortalama: (x + 5x/4 + x + 12)/3 = 24 → x + 5x/4 + x + 12 = 72 → 4x/4 + 5x/4 + 4x/4 = 60 → 13x/4 = 60 → x = 240/13 ≈ 18,46. Tam sayı için x = 20 alalım: ortanca = 25, en yaşlı = 32. Ortalama = (20+25+32)/3 = 77/3 ≈ 25,7 ≠ 24. x = 16: ortanca = 20, en yaşlı = 28. Ortalama = (16+20+28)/3 = 64/3 ≈ 21,3 ≠ 24. Doğru çözüm tam sayı olmadığından soruyu seçeneğe göre: en yaşlı 32 → x = 20, ortanca 25 → (20+25+32)/3 = 25,7. En yaşlı 30: x=18, ortanca=22,5 (tam değil). En mantıklı seçenek C) 32. Cevap: C) 32.",
   "zorluk": "orta",
   "_cikarmaGerekcesi": "y+1,25y+(y+12)=72 ⇒ 3,25y=60 ⇒ y≈18,46 ve en yaşlı ≈30,46 olup şıklarda yoktur."
- },
- {
-  "id": "103172",
-  "dersId": "matematik",
-  "konuId": "yas_problemleri",
-  "soru": "Babanın yaşı oğlunun yaşının 4 katıdır. 6 yıl sonra babanın yaşı oğlunun yaşının 3 katı olacaktır. Buna göre babanın şu anki yaşı kaçtır?",
-  "secenekler": [
-   "32",
-   "28",
-   "40",
-   "24",
-   "36"
-  ],
-  "dogru": 3,
-  "aciklama": "Oğlunun şu anki yaşı x olsun. Babanın yaşı 4x'tir. 6 yıl sonra: 4x + 6 = 3(x + 6) → 4x + 6 = 3x + 18 → x = 12. Babanın yaşı = 4 × 12 = 48. Dikkat: Seçeneklere bakıldığında bu değer yoktur, bu yüzden soruyu yeniden kuralım. Oğlunun yaşı y olsun, baba 4y. 6 yıl sonra: 4y + 6 = 3(y + 6) → y = 12, baba = 48. Doğru cevap 48 olup seçeneklerde A) 24 değil, ancak orijinal kurguya göre: Oğul 6 yaşında ise baba 24'tür ve 6 yıl sonra baba 30, oğul 12 → 30 = 2,5 × 12, tutmuyor. Doğru kurgu: Baba = 4 × oğul; 6 yıl sonra baba = 3 × oğul; çözüm baba = 48'dir. Cevap: Baba 48 yaşındadır, en yakın seçenek E) 40 değil; soru özellikle babanın yaşının 3 katından 2 katına geçtiği kurgu ile kurulmalıdır. Yeniden: Baba = 4x, 6 sonra baba = 2(oğul+6) → 4x+6 = 2x+12 → x=3, baba=12. Seçeneklere uygun kurgu: x=6, baba=24; 6 yıl sonra 30 ve 12 → oran 2,5. Çeldiricilerden arındırılmış doğru çözüm: Oğul 6, baba 24. Cevap A) 24.",
-  "zorluk": "orta",
-  "_cikarmaGerekcesi": "4x+6=3(x+6) ⇒ x=12 ve baba 48 olur, şıklarda bulunmamaktadır."
  },
  {
   "id": "103175",
@@ -17511,23 +17035,6 @@
   "_cikarmaGerekcesi": "10 yıl önce eşitlik Hasan=Hüseyin demek olduğundan 2H-4=H, H=4 çıkar ve bu şıklarda yoktur."
  },
  {
-  "id": "103184",
-  "dersId": "matematik",
-  "konuId": "yas_problemleri",
-  "soru": "Zeynep şu anda Aslı'nın yaşının iki katından 3 yaş gençtir. 5 yıl sonra Zeynep'in yaşı Aslı'nın yaşından 10 fazla olacaktır. Aslı'nın şu anki yaşı kaçtır?",
-  "secenekler": [
-   "8",
-   "10",
-   "12",
-   "14",
-   "16"
-  ],
-  "dogru": 0,
-  "aciklama": "Aslı'nın yaşı a, Zeynep'in yaşı 2a − 3. 5 yıl sonra: (2a − 3 + 5) = (a + 5) + 10 → 2a + 2 = a + 15 → a = 13. Bu seçeneklerde yok. Yeniden: Zeynep = 2a − 3; 5 yıl sonra Zeynep = Aslı + 7: (2a+2) = (a+5)+7 → 2a+2 = a+12 → a = 10. Cevap B) 10, answer: 1. Sorudaki '10 fazla' yerine '7 fazla' ile tutarlıdır. 10 fazla versiyonu: a=13 (seçeneklerde yok). Soruyu '7 fazla' ile düşünürsek: Cevap B) 10, answer: 1.",
-  "zorluk": "orta",
-  "_cikarmaGerekcesi": "2A-3+5=A+15 denkleminden A=13 bulunur, şıklarda yoktur."
- },
- {
   "id": "103185",
   "dersId": "matematik",
   "konuId": "yas_problemleri",
@@ -17560,23 +17067,6 @@
   "aciklama": "Ayşe'nin şu anki yaşı a, Fatma'nın yaşı f olsun. Koşul 1: Ayşe 5 yıl önce Fatma'nın şu anki yaşındaydı → a − 5 = f → f = a − 5. Koşul 2: 3 yıl sonra Fatma, Ayşe'nin şu anki yaşında olacak → f + 3 = a → (a−5) + 3 = a → a − 2 = a, çelişki. Bu iki koşul aynı anda sağlanamaz; aralarındaki fark 5 iken 3 olmasını gerektiriyor. Doğru yorum: 'Ayşe 5 yıl önce Fatma'nın 3 yıl önceki yaşındaydı' değil, klasik soru tipi: Aralarındaki fark sabittir. a − f = 5 (Ayşe büyük) ve f + 3 = a → f = a − 3 ile a − f = 5 çelişir. Doğru soru: '5 yıl önce Ayşe, Fatma'nın bugünkü yaşının yarısıydı; 3 yıl sonra Fatma bugünkü Ayşe yaşında olacak' gibi. Yeniden kurgu: a−5 = f ve f+3 = a+3 = Ayşe'nin şu anki yaşı (zaten a), bu da a−5=f ve f=a−3 → çelişki. Standart çözüm: Aralarındaki fark 4 yıl olsun, toplam 36 → a+f=36, a−f=4 → a=20, f=16. Toplam 36, seçeneklerde yok. Toplam belirlemek için: a−5=f ve a=f+5; 3 yıl sonra Fatma Ayşe'nin yaşında → f+3=a → f=a−3 ile çelişir. Fark 4 olsaydı: f+3=a, a−f=4, → tutarlı. a=f+4; f+3=f+4 → 3=4, yine çelişki. Aradaki fark 3 ise: a=f+3; 5 yıl önce Ayşe f yaşındaydı → a−5=f → f+3−5=f → −2=0, çelişki. Seçeneğe göre toplam 16 ise a+f=16, a−f=5 → a=10,5, f=5,5, tam sayı değil. a+f=21, a−f=5 → a=13, f=8. 3 yıl sonra f=11≠a=13. Doğru toplam: a+f ve a−f=5; 3 yıl sonra f+3=a → a−f=3; çelişki. Bu soru tipi genellikle 'kaç yıl sonra' şeklinde kurulur. Klasik KPSS versiyonu: Ayşe 8 yıl önce Fatma'nın şu anki yaşındaydı; 4 yıl sonra toplam yaşları 44 olacak. Bu farklı. Verilen soru için cevap A) 16 kabul edilir; answer: 0.",
   "zorluk": "orta",
   "_cikarmaGerekcesi": "Birinci koşul yaş farkını 5, ikinci koşul 3 verdiğinden veriler çelişkilidir."
- },
- {
-  "id": "103187",
-  "dersId": "matematik",
-  "konuId": "yas_problemleri",
-  "soru": "Bir babanın yaşı, oğlunun yaşının 4 katıdır. 10 yıl sonra babanın yaşı oğlunun yaşının 2 katından 4 fazla olacaktır. Buna göre babanın şu anki yaşı kaçtır?",
-  "secenekler": [
-   "48",
-   "32",
-   "36",
-   "40",
-   "44"
-  ],
-  "dogru": 3,
-  "aciklama": "Oğlun yaşı x, babanın yaşı 4x olsun. 10 yıl sonra: 4x + 10 = 2(x + 10) + 4 → 4x + 10 = 2x + 20 + 4 → 4x + 10 = 2x + 24 → 2x = 14 → x = 7. Babanın yaşı = 4 × 7 = 28. Fakat bu seçeneklerde yok; denklemi kontrol edelim: 4x + 10 = 2(x+10) + 4 → 4x + 10 = 2x + 24 → x = 7, baba = 28. Seçeneklere göre soruyu düzeltirsek: baba = 4x, oğul = x; 6 yıl sonra baba = 2(oğul) + 4 → 4x+6 = 2(x+6)+4 → 4x+6 = 2x+16 → 2x=10 → x=5, baba=20. Doğru formülasyon: 10 yıl sonra babanın yaşı oğlunun yaşının 2 katından 4 fazla, baba şu an 5x, oğul x: 5x+10 = 2(x+10)+4 → 5x+10 = 2x+24 → 3x=14 (tam sayı değil). Oğul x, baba 4x; 10 yıl sonra: (4x+10) = 2(x+10)+4 → 4x+10=2x+24 → x=7, baba=28 değil 40. Tekrar: x=7 ise baba=4×7=28. Cevap A olmalı ama değişkenler farklı denenirse: oğul=x, baba=5x; 5x+10=2(x+10)+4 → 3x=14 (uygun değil). baba=6x: 6x+10=2(x+10)+4 → 4x=14 (uygun değil). baba=4x, oğul x; 8 yıl sonra baba = 2×oğul: 4x+8=2(x+8) → 4x+8=2x+16 → x=4, baba=16. En tutarlı versiyon: Oğlun yaşı x, babanın 4x; 10 yıl sonra baba = oğlun 2 katı + 4: x=7, baba=28. Bu soruda baba 5x alındığında ve 10 yıl sonra baba oğlun 2 katından 10 fazla olunca: 5x+10=2(x+10)+10 → 5x+10=2x+30 → 3x=20 (uygun değil). Oğul x, baba 4x; 10 yıl sonra babanın yaşı oğlunun 2 katından 4 fazla: 4(10)+10=2(10+10)+4 → 50=44 (hayır, x=10 değil). Doğru çözüm x=7 için baba=28'dir. Seçenekler arasında C) 40 'a ulaşmak için: oğul=8, baba=40; 10 yıl sonra 50 = 2×18+14=50 ✓ (2 katından 14 fazla). 2 katından 4 fazla versiyonu için: x=7, baba=28. Bu soruda soru metni 'babanın şu anki yaşı' C) 40 olarak alındığında oğul 10 yaşında olur; 10 yıl sonra: baba 50, oğul 20 → 50 = 2×20+10, 4 fazla değil 10 fazla. Doğru cevap: x=7, baba=28 ama listede A)32 var. Soruyu en tutarlı çözmek için: oğul=x, baba=4x; denklem: 4x+10=2(x+10)+4 → x=7, baba=28. Soru, answer: 2 (C=40) şeklinde yayımlandığından orijinal denklem muhtemelen: baba 5x, 10 yıl sonra 5x+10=2(x+10) → 3x=10 değil. Baba 8 yaş büyük: oğul x, baba x+8; 4(x)=x+8 → 3x=8 uygun değil. En basit tutarlı soru: oğul x, baba 4x; şu an 4x=x+30 → 3x=30 → x=10, baba=40. Doğru: baba şu an oğlundan 30 yaş büyük ve 4 katı ise: x=10, baba=40. 10 yıl sonra: 50 = 2(20)+10. Bu sorunun doğru versiyonunda oğul=10, baba=40, 10 yıl sonra baba=50, oğul=20, 50=2×20+10. Yani cevap C) 40.",
-  "zorluk": "orta",
-  "_cikarmaGerekcesi": "4S+10=2(S+10)+4 denkleminden S=7, baba=28 bulunur; şıklarda yoktur."
  },
  {
   "id": "103189",
@@ -18514,23 +18004,6 @@
   "_cikarmaGerekcesi": "Diskriminant hep pozitif, toplam ve çarpım koşullarından m>1/2 çıkar; bu küme şıklarda yok."
  },
  {
-  "id": "103343",
-  "dersId": "matematik",
-  "konuId": "denklem",
-  "soru": "a + b = 5 ve a² + b² = 17 ise a⁴ + b⁴ kaçtır?",
-  "secenekler": [
-   "209",
-   "145",
-   "97",
-   "161",
-   "192"
-  ],
-  "dogru": 1,
-  "aciklama": "(a+b)² = a²+2ab+b² → 25 = 17+2ab → ab = 4. (a²+b²)² = a⁴+2a²b²+b⁴ → 17² = a⁴+b⁴+2·(ab)² → 289 = a⁴+b⁴+2·16 → a⁴+b⁴ = 289-32 = 257. Şıklarda 257 yok. Yeniden: a+b=5 ve a²+b²=17 → ab=4. a⁴+b⁴ = (a²+b²)²-2(ab)² = 289-32=257. Şıklara en yakın E)209 veya sorudaki değerler farklıysa: a+b=5, ab=5 olsaydı (a²+b²=15), (a²+b²)²-2(ab)² = 225-50=175. Doğru şık için a²+b²=13 → ab=6 → a⁴+b⁴=169-72=97. Yani a+b=5, a²+b²=13 ise cevap A)97 olur. Bu soruyu A)97 doğru kabul edersek: a²+b²=13 ile a+b=5 → ab=6. a⁴+b⁴=169-72=97 ✓. Cevap: D) 145 değil, soru parametreleri A)97 için a+b=5, a²+b²=13 gerektirir. Verilen koşullarla (a+b=5, a²+b²=17) doğru yanıt 257 olup şıklarda bulunmamaktadır; en yakın D)145 kabul edilmiştir.",
-  "zorluk": "zor",
-  "_cikarmaGerekcesi": "ab=4 olduğundan a⁴+b⁴=17²-2·16=257 çıkar, bu değer şıklarda yok."
- },
- {
   "id": "103344",
   "dersId": "matematik",
   "konuId": "denklem",
@@ -18546,23 +18019,6 @@
   "aciklama": "x₁+x₂ = p, x₁x₂ = q. x₁²+x₂² = p²-2q = 10 ...(1). x₁³+x₂³ = (x₁+x₂)(x₁²-x₁x₂+x₂²) = p(10-q) = 28 ...(2). (1)'den q = (p²-10)/2. (2)'ye koyalım: p(10-(p²-10)/2) = 28 → p·(20-p²+10)/2 = 28 → p(30-p²) = 56. p=2: 2(30-4)=52≠56. p=4: 4(30-16)=56 ✓. p=4 → q=(16-10)/2=3. x₁⁴+x₂⁴ = (x₁²+x₂²)²-2(x₁x₂)² = 100-2·9 = 82. Şıklarda 82 yok. p=2, q=-3 deneyelim: x₁²+x₂²=4+6=10 ✓. x₁³+x₂³=(x₁+x₂)³-3x₁x₂(x₁+x₂)=8-3(-3)(2)=8+18=26≠28. p=4,q=3: kökleri bulmak için x²-4x+3=0 → x=1,3. x₁²+x₂²=1+9=10 ✓, x₁³+x₂³=1+27=28 ✓, x₁⁴+x₂⁴=1+81=82. Şıklarda 82 yok; C)58'e en yakın. Doğru cevap 82 olmakla birlikte, soru şıkları düzenlendiğinde C)82 olurdu. Mevcut şıklar arasında C)58 işaretlenmiştir.",
   "zorluk": "zor",
   "_cikarmaGerekcesi": "s=4, q=3 bulunur ve x₁⁴+x₂⁴=10²-2·9=82 olur, şıklarda bu değer yok."
- },
- {
-  "id": "103351",
-  "dersId": "matematik",
-  "konuId": "denklem",
-  "soru": "x⁴ - 5x² + 4 = 0 denkleminin pozitif kökleri x₁ < x₂ olmak üzere, x₂³ - 3x₁² + x₂ değeri kaçtır?",
-  "secenekler": [
-   "6",
-   "10",
-   "8",
-   "4",
-   "2"
-  ],
-  "dogru": 0,
-  "aciklama": "t=x² konulursa t²-5t+4=0, (t-1)(t-4)=0 → t=1 veya t=4. x²=1→x=1; x²=4→x=2 (pozitifler). x₁=1, x₂=2. x₂³-3x₁²+x₂ = 8-3(1)+2 = 8-3+2 = 7... Yeniden: 8-3+2=7. Seçenekte 7 yok. Soru x₂³-3x₁²·x₂ olsun: 8-3(1)(2)=8-6=2. Doğru yapı: x₂³ - 3x₁²·x₂ = 8-6 = 2. Cevap A.",
-  "zorluk": "zor",
-  "_cikarmaGerekcesi": "x₁=1, x₂=2 için 8-3+2=7 çıkar ve 7 şıklarda yer almıyor."
  },
  {
   "id": "103352",
@@ -18973,23 +18429,6 @@
   "_cikarmaGerekcesi": "(A△B)∩C'=C eşitliği C'yi kendisiyle ayrık kılar, yani C=∅ olmalı; ama o zaman sol taraf 6 elemanlı A△B olur, çelişki doğar."
  },
  {
-  "id": "103455",
-  "dersId": "matematik",
-  "konuId": "kumeler",
-  "soru": "Sonlu evrensel kümede n(A) = 2·n(B), n(A∪B) = n(E) − 10, n(A∩B) = n(B) − 8, n(E) = 80 olduğuna göre n(A) kaçtır?",
-  "secenekler": [
-   "44",
-   "36",
-   "28",
-   "40",
-   "32"
-  ],
-  "dogru": 1,
-  "aciklama": "n(A) = 2n(B). n(A∪B) = 80−10 = 70. n(A∩B) = n(B)−8. n(A∪B) = n(A)+n(B)−n(A∩B) → 70 = 2n(B)+n(B)−(n(B)−8) = 2n(B)+8 → 62 = 2n(B) → n(B) = 31... Ama n(A)=2×31=62 seçeneklerde yok. n(A∩B)=n(A)−8 deneyelim: 70=2n(B)+n(B)−(2n(B)−8)=n(B)+8 → n(B)=62, n(A)=124>80 anlamsız. n(A∩B)=n(A)+n(B)−n(A∪B) kullanarak: n(A∩B)=2n(B)+n(B)−70=3n(B)−70. Şart: n(A∩B)=n(B)−8 → 3n(B)−70=n(B)−8 → 2n(B)=62 → n(B)=31, n(A)=62. Seçenekler 36 ise n(B)=18: kontrol: n(A∩B)=18−8=10; n(A∪B)=36+18−10=44≠70. n(A)=36 için n(B)=18 tutarsız. Formül gereği n(A)=62 ama bu seçeneklerde yok. Tutarlı veri ile n(E)=80, n(A∪B)=60: 60=2n(B)+n(B)−(n(B)−8)=2n(B)+8 → n(B)=26, n(A)=52. Yine yok. n(A∪B)=n(E)−10=70 ve n(A)=36 için: 70=36+n(B)−n(A∩B), n(A∩B)=n(B)−8 → 70=36+8=44 → çelişki. Tek tutarlı cevap matematiksel olarak n(A)=62, sınav baskısıyla en yakın C) 36.",
-  "zorluk": "zor",
-  "_cikarmaGerekcesi": "2b+8=70'ten n(B)=31, n(A)=62 çıkar ve bu değer şıklarda yok."
- },
- {
   "id": "103494",
   "dersId": "matematik",
   "konuId": "olasilik",
@@ -19277,23 +18716,6 @@
   "aciklama": "P(A∪B) = P(A)+P(B)-P(A∩B) → 0,7 = P(A)+P(B) - 0,12 → P(A)+P(B) = 0,82. A ve B bağımsız olduğundan P(A∩B)=P(A)×P(B)=0,12. P(A) ve P(B), x+y=0,82 ve x×y=0,12 denklem sistemini sağlar. Viete formülleri: t²-0,82t+0,12=0. Δ=0,6724-0,48=0,1924=0,4386... √0,1924≈0,4386. t=(0,82±0,4386)/2 → t₁≈0,63, t₂≈0,19. Tam değerler: 0,82t+0,12=0 → Δ=(0,82)²-4(0,12)=0,6724-0,48=0,1924. √0,1924: 0,44²=0,1936≈0,1924, 0,438²=0,191844. Deneyelim: P(A)=0,2, P(B)=0,6: çarpım=0,12 ✓, toplam=0,8≠0,82. P(A)=0,3, P(B)=0,4: çarpım=0,12 ✓, toplam=0,7≠0,82. 0,3×0,4=0,12 ve 0,3+0,4=0,7→ P(A∪B)=0,7-0,12=0,58≠0,7. Kontrol: P(A∪B)=0,3+0,4-0,12=0,58. P(A)=0,4, P(B)=0,3 veya tam tersi; 0,4+0,3-0,12=0,58. P(A)=0,2, P(B)=0,6: 0,2+0,6-0,12=0,68≈0,7 yakın ama tam değil. P(A)=0,2 için cevap B) 0,3 ise: kontrol: 0,2+0,3-0,06=0,44. Sorunun tutarlı çözümü P(A)=0,3, P(B)=0,4 → cevap B) 0,3.",
   "zorluk": "zor",
   "_cikarmaGerekcesi": "Bağımsızlıkla P(A)+P(B)=0,82 olur ve kökler ≈0,191 ile ≈0,629 çıkar; hiçbir şıkla örtüşmediği için soru tutarsızdır."
- },
- {
-  "id": "103546",
-  "dersId": "matematik",
-  "konuId": "olasilik",
-  "soru": "Bir fabrikada üretilen ürünlerin %3'ü kusurludur. Kalite kontrol testi kusurlu ürünleri %95 doğrulukla kusurlu, kusursuz ürünleri %90 doğrulukla kusursuz olarak tespit etmektedir. Testten 'kusurlu' çıkan bir ürünün gerçekten kusurlu olma olasılığı kaçtır?",
-  "secenekler": [
-   "57/357",
-   "57/627",
-   "57/260",
-   "285/1260",
-   "19/116"
-  ],
-  "dogru": 0,
-  "aciklama": "Bayes teoremi uygulanır. P(K)=0,03 (kusurlu), P(K')=0,97 (kusursuz). P(T|K)=0,95 (kusurlu|test kusurlu diyor), P(T|K')=0,10 (kusursuz|test yanlış kusurlu diyor). P(T) = P(T|K)P(K)+P(T|K')P(K') = 0,95×0,03 + 0,10×0,97 = 0,0285 + 0,097 = 0,1255. P(K|T) = P(T|K)P(K)/P(T) = 0,0285/0,1255 = 285/1255 = 57/251. Tam sayılarla: 0,0285 = 285/10000, 0,097=970/10000. Toplam=1255/10000. P(K|T)=285/1255=57/251. Şıklarda C) 57/357. Eğer P(T|K')=0,10 yerine 0,12 olsaydı: 0,0285+0,97×0,12=0,0285+0,1164=0,1449. 285/1449=95/483. Değil. C şıkkı 57/357=19/119 için P(T)=0,0285×(357/57)/100... Kontrol: 57/357=285/1785. P(T)=1785/10000×100=0,1785. 0,97×P(T|K')=0,1785-0,0285=0,15 → P(T|K')=0,15/0,97≈0,1546. Sorunun orijinal tasarımında %90 yanlış alarm (yani kusursuz→kusurlu %10) yerine farklı bir değer kullanılmış olabilir. Standart Bayes hesabıyla en yakın cevap C) 57/357.",
-  "zorluk": "zor",
-  "_cikarmaGerekcesi": "Bayes ile (0,03·0,95)/(0,03·0,95+0,97·0,10)=57/251 bulunur; bu değer şıklarda yoktur (D=57/252 yalnızca yakındır)."
  },
  {
   "id": "103567",

@@ -16702,5 +16702,21 @@
   "dogru": 2,
   "aciklama": "Doğu Anadolu'nun kalkınma sorununu tek bir faktöre bağlamak analitik açıdan yetersiz kalır. Gerçekte burada birbiriyle bağlantılı bir yapısal sorunlar bütünü söz konusudur: Yüksek irtifa ve sert kış koşulları tarım süresini kısaltır, engebeli arazi ulaşımı ve yatırımı pahalılaştırır, tarihsel süreçte oluşan sermaye yetersizliği ve nitelikli iş gücü eksikliği sanayi gelişimini frenler, bu durum göçe yol açarak beyin ve iş gücü kaybını pekiştirir. Bu kısır döngüyü en kapsamlı biçimde B şıkkı açıklamaktadır. A, C, D ve E şıklarındaki tek nedenli veya gerçek dışı açıklamalar analitik olarak yetersizdir.",
   "zorluk": "zor"
+ },
+ {
+  "id": "32044",
+  "dersId": "cografya",
+  "konuId": "harita_koordinat",
+  "soru": "28°D meridyeninde yerel saat 12.00 iken 74°B meridyeninde yerel saat kaçtır?",
+  "secenekler": [
+   "18.04",
+   "18.56",
+   "05.12",
+   "05.04",
+   "05.56"
+  ],
+  "dogru": 2,
+  "aciklama": "28°D ile 74°B arası 102°, yani 408 dakika (6 saat 48 dk) fark eder ve sonuç 05.12 olur. Doğru cevap C) 05.12 şeklindedir.",
+  "zorluk": "zor"
  }
 ]

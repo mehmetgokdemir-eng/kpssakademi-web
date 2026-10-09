@@ -11455,5 +11455,21 @@
   "dogru": 0,
   "aciklama": "4857 sayılı Kanun'un 18. maddesine göre iş güvencesinden yararlanmak için işyerinde otuz veya daha fazla işçi çalışması, işçinin en az altı aylık kıdeminin bulunması, belirsiz süreli iş sözleşmesiyle çalışması ve işletmenin bütününü sevk eden işveren vekili konumunda olmaması gerekir.",
   "zorluk": "zor"
+ },
+ {
+  "id": "44018",
+  "dersId": "hukuk",
+  "konuId": "anayasa",
+  "soru": "Türkiye Büyük Millet Meclisi'nin olağanüstü toplantıya çağrılması için gereken asgari milletvekili sayısı kaçtır?",
+  "secenekler": [
+   "276",
+   "200",
+   "184",
+   "120",
+   "150"
+  ],
+  "dogru": 3,
+  "aciklama": "Anayasa m.93'e göre gereken sayı üye tam sayısının beşte biri yani 120'dir. Doğru cevap D) 120 şeklindedir.",
+  "zorluk": "kolay"
  }
 ]
