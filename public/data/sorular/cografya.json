@@ -835,7 +835,7 @@
   "id": "32056",
   "dersId": "cografya",
   "konuId": "i_klim_bilgisi",
-  "soru": "Aşağıdaki rüzgâr türlerinden hangisi Türkiye'de sıcaklığı artıran, nem oranını düşüren ve zaman zaman tarım alanlarına zarar veren bir rüzgârdır?",
+  "soru": "Aşağıdaki rüzgâr türlerinden hangisi Türkiye'de güneybatıdan eserek kış aylarında sıcaklığı ani biçimde yükselten, kar erimelerine ve zaman zaman fırtınalarla tarım alanlarında hasara yol açan bir rüzgârdır?",
   "secenekler": [
    "Yıldız",
    "Karayel",
@@ -844,7 +844,7 @@
    "Poyraz"
   ],
   "dogru": 3,
-  "aciklama": "Lodos, güneybatıdan esen sıcak ve nemli bir rüzgârdır. Marmara ve Ege bölgelerinde sıcaklığı ani olarak yükseltir, nemliliği düşürür. Sonbaharda bağlarda ve meyve bahçelerinde kurumaya ve hasara yol açabilir. Poyraz ise kuzeydoğudan esen soğuk ve kuru bir rüzgârdır.",
+  "aciklama": "Lodos, güneybatıdan esen ılık ve nemli bir rüzgârdır; Marmara ve Ege kıyılarında kış ortasında sıcaklığı birkaç derece birden yükseltir, kar örtüsünü eritir ve kar yağışını yağmura çevirir. Erken ısınma meyve ağaçlarında tomurcuklanmayı öne çeker; sonraki soğuk dalgasında bu tomurcuklar donarak zarar görür. Ayrıca lodos fırtınaları seraları ve ağaçları devirebilir. Soğuk rüzgârlar olan Poyraz (kuzeydoğu), Yıldız (kuzey) ve Karayel (kuzeybatı) sıcaklığı düşürür; meltem ise kara ile deniz arasında gün içinde yön değiştiren yerel bir rüzgârdır. Sıcaklığı artırıp nemi düşüren kuru rüzgâr föhn'dür, ancak föhn bir yön rüzgârı değil dağı aşan havanın alçalmasıyla oluşan bir olaydır. Doğru cevap D) Lodos şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -5724,7 +5724,7 @@
    "Orografik yağış"
   ],
   "dogru": 4,
-  "aciklama": "Orografik (dağ) yağışı, nemli hava kütlelerinin dağ yamaçlarına çarparak yukarı doğru yükselmesiyle oluşur. Yükselen hava soğur, su buharı yoğunlaşır ve yağış meydana gelir. Bu yağışlar genellikle rüzgâr alan yamaçlarda yoğunken, dağın diğer yakasında (lodos yamacında) hava alçalarak ısındığından yağış miktarı azalır (föhn etkisi). Türkiye'de Karadeniz kıyılarındaki yüksek yağış büyük ölçüde orografik kökenlidir.",
+  "aciklama": "Orografik (dağ) yağışı, nemli hava kütlelerinin dağ yamaçlarına çarparak yukarı doğru yükselmesiyle oluşur. Yükselen hava soğur, su buharı yoğunlaşır ve yağış meydana gelir. Bu yağışlar genellikle rüzgâr alan yamaçlarda yoğunken, dağın diğer yakasında (rüzgâr altı yamacında) hava alçalarak ısındığından yağış miktarı azalır (föhn etkisi). Türkiye'de Karadeniz kıyılarındaki yüksek yağış büyük ölçüde orografik kökenlidir.",
   "zorluk": "orta"
  },
  {
