@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
-import { cx, HARFLER, harf, karistir } from '../lib/utils.js'
+import { cx, HARFLER, harf, karistir, harfleriEsle } from '../lib/utils.js'
 import { useSettings } from '../lib/settings.jsx'
 import { IconBookmark, IconNote, IconSpeaker, IconCheck, IconWrong } from './Icons.jsx'
 import SoruBildir from './SoruBildir.jsx'
@@ -40,16 +40,23 @@ export default function SoruKarti({
     kartRef.current?.scrollIntoView({ block: 'nearest' })
   }, [soru?.id])
 
-  // Şık karıştırma (ayarlardan açılır) — doğru cevabın indeksi buna göre kaydırılır
-  const { secenekler, dogruIndeks } = useMemo(() => {
-    if (!soru) return { secenekler: [], dogruIndeks: 0 }
+  // Şık karıştırma (ayarlardan açılır) — doğru cevabın indeksi buna göre kaydırılır.
+  // Açıklama metni şık harflerini yazdığı için ("Doğru cevap D) ...") o metin de
+  // yeni sıraya çevrilir; yoksa karıştırma açıkken açıklama yanlış harfi gösterir.
+  const { secenekler, dogruIndeks, aciklama } = useMemo(() => {
+    if (!soru) return { secenekler: [], dogruIndeks: 0, aciklama: '' }
     if (!settings.siklariKaristir || mod === 'sinav') {
-      return { secenekler: soru.secenekler, dogruIndeks: soru.dogru }
+      return { secenekler: soru.secenekler, dogruIndeks: soru.dogru, aciklama: soru.aciklama }
     }
     const eslesen = karistir(soru.secenekler.map((s, i) => ({ s, i })))
+    const yeniIndeks = []
+    eslesen.forEach((x, yeni) => {
+      yeniIndeks[x.i] = yeni
+    })
     return {
       secenekler: eslesen.map((x) => x.s),
       dogruIndeks: eslesen.findIndex((x) => x.i === soru.dogru),
+      aciklama: harfleriEsle(soru.aciklama, yeniIndeks),
     }
   }, [soru?.id, settings.siklariKaristir, mod]) // eslint-disable-line
 
@@ -156,8 +163,8 @@ export default function SoruKarti({
               )}
             >
               <p className="font-bold">{dogruMu ? 'Doğru!' : `Yanlış — doğru cevap ${harf(dogruIndeks)}`}</p>
-              {settings.aciklamaGoster && soru.aciklama && <p className="mt-1.5 leading-relaxed opacity-90">{soru.aciklama}</p>}
-              {settings.aciklamaGoster && soru.aciklama && (
+              {settings.aciklamaGoster && aciklama && <p className="mt-1.5 leading-relaxed opacity-90">{aciklama}</p>}
+              {settings.aciklamaGoster && aciklama && (
                 <p className="mt-2 text-[11px] opacity-70">
                   Soru ve açıklama yapay zekâ ile hazırlanıp denetlendi; yine de hata olabilir. Yanlış gördüysen
                   aşağıdan bildir.

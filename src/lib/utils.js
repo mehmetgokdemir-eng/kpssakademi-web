@@ -79,3 +79,45 @@ export const ls = {
     } catch {}
   },
 }
+
+/* ── Şık harflerini yeni sıraya çevirme ──────────────────────────────
+ * "Şıkları karıştır" açıkken şıklar yer değiştirir ama açıklama metni
+ * hâlâ ESKİ harfleri yazar ("Doğru cevap D) ..."). Bu fonksiyon açıklamadaki
+ * şık harflerini yeni sıraya göre düzeltir.
+ *
+ * Yalnızca şık referansı olduğu KESİN olan kalıplara dokunur. Matematik ve
+ * geometri açıklamalarındaki A, B, C değişkenleri — P(A), 11(A+B),
+ * "A doğrusu", "A kümesi", "2-3°C)", "D-B doğrultusu" — olduğu gibi kalır.
+ * Bu sınırlılık bilinçlidir: geniş bir eşleme matematik metnini bozuyordu.
+ *
+ * yeniIndeks: eski şık sırası -> yeni şık sırası (ör. [4,3,2,1,0])
+ */
+export function harfleriEsle(metin, yeniIndeks) {
+  if (!metin || !Array.isArray(yeniIndeks)) return metin
+  const y = (h) => {
+    const i = HARFLER.indexOf(h)
+    const n = i >= 0 ? yeniIndeks[i] : -1
+    return n >= 0 && n < HARFLER.length ? HARFLER[n] : h
+  }
+  try {
+    return String(metin)
+      /* "Doğru cevap D)" · "Cevap: B) 16" · "Cevap C'dir." · "Doğru yanıt A." */
+      .replace(
+        /((?:[Dd]oğru\s+)?(?:[Cc]evap|[Yy]anıt)\s*:?\s*)([A-E])(?=[)'’.,;!]|\s*$)/gu,
+        (m, onek, h) => onek + y(h)
+      )
+      /* "A doğrudur" · "B yanlış:" — geometrideki "A doğrusu" eşleşmez */
+      .replace(
+        /(?<![\p{L}\p{N}])([A-E])(?=\s+(?:doğru|yanlış|hatalı)(?:dur|tur|tır|dır)?(?![\p{L}]))/gu,
+        (m, h) => y(h)
+      )
+      /* "A şıkkı" · "E seçeneğidir" · "C, D ve E seçeneklerinde" */
+      .replace(
+        /(?<![\p{L}\p{N}])([A-E](?:\s*,\s*[A-E])*(?:\s*(?:ve|ile|veya)\s*[A-E])?)(?=\s+(?:şık|şikk|seçene))/gu,
+        (m) => m.replace(/[A-E]/g, y)
+      )
+  } catch {
+    /* Çok eski tarayıcı lookbehind/\p{} desteklemiyorsa metne dokunma. */
+    return metin
+  }
+}

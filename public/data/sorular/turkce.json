@@ -7285,14 +7285,14 @@
   "konuId": "noktalama",
   "soru": "Aşağıdaki cümlelerin hangisinde noktalı virgül (;) kullanımı doğrudur?",
   "secenekler": [
-   "Türkiye'nin büyük şehirleri; İstanbul, Ankara ve İzmir'dir.",
+   "Hava soğuktu; ve yağmur yağmaya başladı.",
    "Yarın; okula gideceğim.",
-   "Kitabı okudum; çok beğendim.",
-   "Sabah kalktım; yüzümü yıkadım.",
+   "Erkek öğrencilere Ali, Mert, Can; kız öğrencilere Ayşe, Elif, Zehra adları verildi.",
+   "Bu kitabı; dün aldım.",
    "Seni; çok seviyorum."
   ],
   "dogru": 2,
-  "aciklama": "Noktalı virgül, birbiriyle ilgili fakat bağımsız iki yargı arasında kullanılır. A seçeneğinde biri diğerinin sonucunu bildiren iki bağımsız yargı yer almaktadır ve noktalı virgül doğru kullanılmıştır. C seçeneğinde 'büyük şehirleri' ifadesinden sonra sıralama yapılacağından iki nokta kullanılmalıdır. Diğer seçeneklerde ise anlam bütünlüğü olan tek bir yargı bölünmüştür.",
+  "aciklama": "Noktalı virgülün en belirgin kullanımı, cümle içinde virgülle ayrılmış tür ya da takımları birbirinden ayırmaktır. C seçeneğinde iki ayrı ad listesi (erkek öğrenciler ve kız öğrenciler) kendi içlerinde virgülle sıralanmış, iki grup ise noktalı virgülle ayrılmıştır; kullanım doğrudur. A seçeneğinde 've' bağlacından önce noktalı virgül konmaz. B, D ve E seçeneklerinde ise noktalı virgül cümlenin ögeleri arasına (zarf tümleci, nesne) girerek tek bir yargıyı bölmüştür; bu ögelerden sonra noktalı virgül kullanılmaz. Doğru cevap C seçeneğidir.",
   "zorluk": "kolay"
  },
  {
@@ -7400,11 +7400,11 @@
    "Lütfen! bana yardım et.",
    "Dikkat et! Araba geliyor.",
    "Çok yorgunum! ama devam edeceğim.",
-   "Ne güzel bir gün! diye bağırdı.",
+   "Ne güzel bir gün! bugün pikniğe gidelim.",
    "Hayır! ama belki düşünürüm."
   ],
   "dogru": 1,
-  "aciklama": "B seçeneğinde 'Dikkat et!' ünlem cümlesi ünlem işaretiyle bitirilmiş, ardından gelen cümle büyük harfle başlatılmıştır. Bu kullanım doğrudur. A seçeneğinde ünlem işaretinden sonra küçük harfle devam edilmiştir; doğrusu 'Ne güzel bir gün!' Diye bağırdı. şeklinde olmalıdır. C, D ve E seçeneklerinde ünlem işareti yanlış yere konulmuştur.",
+  "aciklama": "Ünlem işareti, seslenme ya da güçlü duygu bildiren sözün sonuna konur ve kendisinden sonra gelen cümle büyük harfle başlar. B seçeneğinde 'Dikkat et!' uyarısı ünlemle bitmiş, ardından gelen 'Araba geliyor.' cümlesi büyük harfle başlamıştır; kullanım doğrudur. A, C, D ve E seçeneklerinde ünlem işaretinden sonra cümle küçük harfle sürdürülmüş, böylece tek bir cümle ortasından bölünmüştür. Doğru cevap B seçeneğidir.",
   "zorluk": "kolay"
  },
  {
