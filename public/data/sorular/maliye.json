@@ -492,7 +492,7 @@
    "Kamu harcamaları %10'dan az artar, kamu sektörünün payı küçülür."
   ],
   "dogru": 2,
-  "aciklama": "Wagner Kanunu, sanayileşme ve kalkınma sürecinde kamu harcamalarının milli gelirden daha hızlı büyüdüğünü öngörür; yani gelire olan esneklik 1'den büyüktür. Gelir %10 artarken kamu harcamaları %10'dan fazla artacağından, GSYH içindeki kamu harcamaları payı yükselir. Bu nedenin doğru yanıt C seçeneğidir. Harcama artışının yalnızca transfer ödemelerinden kaynaklanacağı Wagner Kanunu kapsamında belirtilmez.",
+  "aciklama": "Wagner Kanunu, sanayileşme ve kalkınma sürecinde kamu harcamalarının milli gelirden daha hızlı büyüdüğünü öngörür; yani gelire olan esneklik 1'den büyüktür. Gelir %10 artarken kamu harcamaları %10'dan fazla artacağından, GSYH içindeki kamu harcamaları payı yükselir. Bu nedenin doğru yanıt “Kamu harcamaları %10'dan fazla artar, GSYH içindeki payı büyür.” seçeneğidir. Harcama artışının yalnızca transfer ödemelerinden kaynaklanacağı Wagner Kanunu kapsamında belirtilmez.",
   "zorluk": "orta"
  },
  {
@@ -956,7 +956,7 @@
    "Alfa ve Delta"
   ],
   "dogru": 1,
-  "aciklama": "r=faiz ödemesi/borç alınırsa Alfa için Δb=(0,05-0,03)·80-2=-0,4<0; Beta +1, Gama 0, Delta +0,4 olduğundan yalnızca Alfa'nın borç oranı düşer. Doğru cevap B) Yalnızca Alfa şeklindedir.",
+  "aciklama": "r=faiz ödemesi/borç alınırsa Alfa için Δb=(0,05-0,03)·80-2=-0,4<0; Beta +1, Gama 0, Delta +0,4 olduğundan yalnızca Alfa'nın borç oranı düşer. Doğru cevap Yalnızca Alfa şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -1148,7 +1148,7 @@
    "Borçlanmaya kıyasla dışlama etkisi daha azdır ancak enflasyon vergiyle aynı sonucu doğurur"
   ],
   "dogru": 0,
-  "aciklama": "Para basılarak yapılan finansmanda devlet tahvil piyasasına başvurmadığından borçlanma yoluyla ortaya çıkan faiz artışı ve dışlama etkisi oluşmaz. Para talebi faize inelastik iken özel yatırım talebi faize elastik olduğunda borçlanmayla ciddi dışlama yaşanırdı; para finansmanı bu kanalı kapatır. Ancak para arzındaki genişleme toplam talebi enflasyonist biçimde artırır. Bu nedenle A şıkkı doğrudur. D'deki 'enflasyon vergisi' ifadesi teorik olarak doğru olsa da 'borçlanmaya kıyasla dışlama etkisi daha azdır' doğru olmakla birlikte cümlenin bütünü A kadar kesin ve eksiksiz değildir; D şıkkı enflasyonun borçlanmayla aynı sonucu doğurduğunu iddia etmektedir ki bu hatalıdır.",
+  "aciklama": "Para basılarak yapılan finansmanda devlet tahvil piyasasına başvurmadığından borçlanma yoluyla ortaya çıkan faiz artışı ve dışlama etkisi oluşmaz. Para talebi faize inelastik iken özel yatırım talebi faize elastik olduğunda borçlanmayla ciddi dışlama yaşanırdı; para finansmanı bu kanalı kapatır. Ancak para arzındaki genişleme toplam talebi enflasyonist biçimde artırır. Bu nedenle “Faiz oranı düşer, dışlama etkisi minimum olur, ancak enflasyon baskısı artar” şıkkı doğrudur. D'deki 'enflasyon vergisi' ifadesi teorik olarak doğru olsa da 'borçlanmaya kıyasla dışlama etkisi daha azdır' doğru olmakla birlikte cümlenin bütünü A kadar kesin ve eksiksiz değildir; “Para arzındaki artış nominal geliri artırırken reel geliri aynı oranda artırır, Fisher…” şıkkı enflasyonun borçlanmayla aynı sonucu doğurduğunu iddia etmektedir ki bu hatalıdır.",
   "zorluk": "zor"
  },
  {
@@ -2396,7 +2396,7 @@
    "2,22"
   ],
   "dogru": 0,
-  "aciklama": "Çarpan = 1/(1-0,8x0,75) = 1/0,4 = 2,5, yani A şıkkı. Doğru cevap A) 2,50 şeklindedir.",
+  "aciklama": "Çarpan = 1/(1-0,8x0,75) = 1/0,4 = 2,5, yani “2,50” şıkkı. Doğru cevap 2,50 şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -3916,7 +3916,7 @@
    "%18"
   ],
   "dogru": 1,
-  "aciklama": "Temmuz 2023'ten itibaren Türkiye'de KDV genel oranı %20'dir, %18 güncelliğini yitirmiştir. Doğru cevap B) %20 şeklindedir.",
+  "aciklama": "Temmuz 2023'ten itibaren Türkiye'de KDV genel oranı %20'dir, %18 güncelliğini yitirmiştir. Doğru cevap %20 şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -4396,7 +4396,7 @@
    "0,5"
   ],
   "dogru": 4,
-  "aciklama": "Dengeli bütçe çarpanı verilen çarpanların toplamıdır: 2 + (-1,5) = 0,5, yani E şıkkı. Doğru cevap E) 0,5 şeklindedir.",
+  "aciklama": "Dengeli bütçe çarpanı verilen çarpanların toplamıdır: 2 + (-1,5) = 0,5, yani “0,5” şıkkı. Doğru cevap 0,5 şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -6364,7 +6364,7 @@
    "Kamu mali yönetiminde saydamlığı azaltması"
   ],
   "dogru": 1,
-  "aciklama": "B bir eleştiri değil, fon uygulamalarının savunucularınca ileri sürülen bir üstünlüktür; A ise (hizmet sürekliliğinin ve kaynak bütünlüğünün zedelenmesi) literatürde dile getirilen eleştiriler arasındadır. Doğru cevap B seçeneğidir.",
+  "aciklama": "B bir eleştiri değil, fon uygulamalarının savunucularınca ileri sürülen bir üstünlüktür; A ise (hizmet sürekliliğinin ve kaynak bütünlüğünün zedelenmesi) literatürde dile getirilen eleştiriler arasındadır. Doğru cevap “Özel gelirlerin belirli hizmetlere tahsisini kolaylaştırarak kaynak esnekliği sağlaması” seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -6572,7 +6572,7 @@
    "Yalnız I ve III"
   ],
   "dogru": 3,
-  "aciklama": "I, II ve III doğru eşleştirmedir (Keynesyen yaklaşımda iradi/aktif maliye politikası ön plandadır), yalnız IV yanlıştır; dolayısıyla doğru şık D'dir. Doğru cevap D) Yalnız I, II ve III şeklindedir.",
+  "aciklama": "I, II ve III doğru eşleştirmedir (Keynesyen yaklaşımda iradi/aktif maliye politikası ön plandadır), yalnız IV yanlıştır; dolayısıyla doğru şık D'dir. Doğru cevap Yalnız I, II ve III şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -7276,7 +7276,7 @@
    "%20"
   ],
   "dogru": 4,
-  "aciklama": "Temmuz 2023'ten itibaren KDV genel oranı %18'den %20'ye yükseltilmiştir. Doğru cevap E) %20 şeklindedir.",
+  "aciklama": "Temmuz 2023'ten itibaren KDV genel oranı %18'den %20'ye yükseltilmiştir. Doğru cevap %20 şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -8012,7 +8012,7 @@
    "Para cezaları ve vergi cezaları matrahtan indirilemez; ancak gecikme faizleri finansman gideri niteliğinde olduğundan indirim konusu yapılabilir."
   ],
   "dogru": 2,
-  "aciklama": "193 sayılı Gelir Vergisi Kanunu'nun 41. maddesi, teşebbüs sahibi ile eşi ve küçük çocuklarının işletmeden çektikleri paraları ve bunlar için ayrılan pay ve değerleri gider kabul etmemektedir. Bu kişiler fiilen işletmede çalışsalar bile teşebbüs sahibi statüsündeki kişilerin çekimleri gider sayılmaz; bu nedenle C seçeneği doğrudur. A seçeneği yanlıştır çünkü 41. madde bu kişilere ödenen ücretleri de gider kabul etmemektedir. D seçeneğinde gecikme faizinin indirim konusu yapılabileceği iddiası yanlıştır; vergi cezaları ve gecikme faizleri birlikte gider kabul edilmez. E seçeneğindeki 'ertesi yıla devretme' mekanizması binek otomobillerinde uygulanmaz; aşan kısım kesin olarak reddedilir.",
+  "aciklama": "193 sayılı Gelir Vergisi Kanunu'nun 41. maddesi, teşebbüs sahibi ile eşi ve küçük çocuklarının işletmeden çektikleri paraları ve bunlar için ayrılan pay ve değerleri gider kabul etmemektedir. Bu kişiler fiilen işletmede çalışsalar bile teşebbüs sahibi statüsündeki kişilerin çekimleri gider sayılmaz; bu nedenle “Teşebbüs sahibi ile eşinin ve çocuklarının işletmeden çektikleri paralar, işletmede…” seçeneği doğrudur. “İşletmede çalışan eş ve çocuklara ödenen ücretler, emsal ücret düzeyini aşmamak kaydıyla…” seçeneği yanlıştır çünkü 41. madde bu kişilere ödenen ücretleri de gider kabul etmemektedir. “Kanuni sınırı aşan binek otomobili amortisman giderleri, kısmen gider kabul edilir; aşan…” seçeneğinde gecikme faizinin indirim konusu yapılabileceği iddiası yanlıştır; vergi cezaları ve gecikme faizleri birlikte gider kabul edilmez. “Para cezaları ve vergi cezaları matrahtan indirilemez; ancak gecikme faizleri finansman…” seçeneğindeki 'ertesi yıla devretme' mekanizması binek otomobillerinde uygulanmaz; aşan kısım kesin olarak reddedilir.",
   "zorluk": "zor"
  },
  {
@@ -8044,7 +8044,7 @@
    "Yanıltıcı belge düzenleme gibi vergi kaçakçılığı suçlarında zamanaşımı süresi 5 yıl değil 8 yıl olarak uygulanır."
   ],
   "dogru": 2,
-  "aciklama": "6183 sayılı Kanun'un 102. maddesine göre tahsil zamanaşımı beş yıldır ve bu süre, amme alacağının vadesinin rastladığı takvim yılını izleyen takvim yılı başından itibaren işlemeye başlar. Tarh zamanaşımı ise Vergi Usul Kanunu'nun 114. maddesinde düzenlenmiş olup vergi alacağının doğduğu takvim yılını izleyen yılın başından başlayarak beş yıldır; bu nedenle D seçeneği yanlıştır. Takdir komisyonuna başvurulması zamanaşımını durdurduğundan A seçeneği de yanlıştır. Doğru yanıt C'dir.",
+  "aciklama": "6183 sayılı Kanun'un 102. maddesine göre tahsil zamanaşımı beş yıldır ve bu süre, amme alacağının vadesinin rastladığı takvim yılını izleyen takvim yılı başından itibaren işlemeye başlar. Tarh zamanaşımı ise Vergi Usul Kanunu'nun 114. maddesinde düzenlenmiş olup vergi alacağının doğduğu takvim yılını izleyen yılın başından başlayarak beş yıldır; bu nedenle “Vergi Usul Kanunu'nda öngörülen tarh zamanaşımı süresi genel kural olarak 5 yıl olup bu…” seçeneği yanlıştır. Takdir komisyonuna başvurulması zamanaşımını durdurduğundan “Vergi incelemesine başlanılmış olması veya takdir komisyonuna başvurulmuş olması…” seçeneği de yanlıştır. Doğru yanıt “Tahsil zamanaşımı süresi 5 yıldır ve bu süre, borcun vadesinin rastladığı takvim yılını…” seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -8364,7 +8364,7 @@
    "Mükellef, inceleme sürecinde bağlı olduğu meslek odasından temsilci bulundurma hakkına sahiptir."
   ],
   "dogru": 2,
-  "aciklama": "VUK'ta rapor öncesi zorunlu 'ön rapor bildirimi' yoktur; mükellefin hakkı rapor değerlendirme komisyonunda talep üzerine dinlenmedir, bu nedenle yanlış ifade C'dir. Doğru cevap C seçeneğidir.",
+  "aciklama": "VUK'ta rapor öncesi zorunlu 'ön rapor bildirimi' yoktur; mükellefin hakkı rapor değerlendirme komisyonunda talep üzerine dinlenmedir, bu nedenle yanlış ifade C'dir. Doğru cevap “Vergi inceleme raporu düzenlenmeden önce mükellefe 'izahat' imkânı tanıyan ön rapor…” seçeneğidir.",
   "zorluk": "zor"
  },
  {

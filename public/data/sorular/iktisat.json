@@ -1356,7 +1356,7 @@
    "Performansa dayalı ücret sistemleri ahlaki tehlikeyi azaltabilir ancak tamamen ortadan kaldıramaz."
   ],
   "dogru": 2,
-  "aciklama": "D şıkkı yanlıştır; ters seçim ve ahlaki tehlike birbirinden farklı kavramlardır. Ters seçim (adverse selection) sözleşme öncesi (ex ante) bilgi asimetrisinden kaynaklanır: örneğin sağlık sigortasında yüksek riskli bireylerin düşük riskli bireylerden daha fazla sigorta satın alması eğilimi. Ahlaki tehlike (moral hazard) ise sözleşme sonrası (ex post) bilgi asimetrisinden kaynaklanır: sözleşme yapıldıktan sonra tarafın davranışının değişmesi (örneğin sigortalandıktan sonra dikkatli olmayı bırakmak). Diğer şıklar doğrudur: A'da ahlaki tehlikenin sözleşme sonrası ortaya çıktığı ve asil-vekil sorunuyla ilişkisi doğru aktarılmıştır; B ve C doğru uygulamalardır; E'de izleme mekanizmaları gerçekten çözüm yollarından biridir.",
+  "aciklama": "“İzleme ve denetim mekanizmaları, ahlaki tehlikeyi azaltmanın yollarından biridir.” şıkkı yanlıştır; ters seçim ve ahlaki tehlike birbirinden farklı kavramlardır. Ters seçim (adverse selection) sözleşme öncesi (ex ante) bilgi asimetrisinden kaynaklanır: örneğin sağlık sigortasında yüksek riskli bireylerin düşük riskli bireylerden daha fazla sigorta satın alması eğilimi. Ahlaki tehlike (moral hazard) ise sözleşme sonrası (ex post) bilgi asimetrisinden kaynaklanır: sözleşme yapıldıktan sonra tarafın davranışının değişmesi (örneğin sigortalandıktan sonra dikkatli olmayı bırakmak). Diğer şıklar doğrudur: A'da ahlaki tehlikenin sözleşme sonrası ortaya çıktığı ve asil-vekil sorunuyla ilişkisi doğru aktarılmıştır; B ve “Ters seçim (adverse selection) ile ahlaki tehlike aynı kavramdır; her ikisi de sözleşme…” seçeneği doğru uygulamalardır; E'de izleme mekanizmaları gerçekten çözüm yollarından biridir.",
   "zorluk": "orta"
  },
  {
@@ -1404,7 +1404,7 @@
    "X = 4, Y = 8"
   ],
   "dogru": 0,
-  "aciklama": "Y=2X ve 2X+Y=20 kısıtından X=5, Y=10 bulunur. Doğru cevap A) X = 5, Y = 10 şeklindedir.",
+  "aciklama": "Y=2X ve 2X+Y=20 kısıtından X=5, Y=10 bulunur. Doğru cevap X = 5, Y = 10 şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -1436,7 +1436,7 @@
    "Q=3, P=6"
   ],
   "dogru": 4,
-  "aciklama": "AVC=Q²-6Q+15 minimumu Q=3'te olup AVC=6 olduğundan kapatma noktası Q=3, P=6'dır. Doğru cevap E) Q=3, P=6 şeklindedir.",
+  "aciklama": "AVC=Q²-6Q+15 minimumu Q=3'te olup AVC=6 olduğundan kapatma noktası Q=3, P=6'dır. Doğru cevap Q=3, P=6 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -1564,7 +1564,7 @@
    "900"
   ],
   "dogru": 1,
-  "aciklama": "Ayrımsız kâr 1825, tam ayrımda kâr 3850 olduğundan fark 2025 TL'dir. Doğru cevap B) 2025 şeklindedir.",
+  "aciklama": "Ayrımsız kâr 1825, tam ayrımda kâr 3850 olduğundan fark 2025 TL'dir. Doğru cevap 2025 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -1628,7 +1628,7 @@
    "A, B'ye Y malı verip karşılığında X almalıdır çünkü A, Y malına B'den daha az değer vermektedir."
   ],
   "dogru": 4,
-  "aciklama": "MRS_A=3>MRS_B=1 olduğundan A, X'e görece daha çok değer verir; A, Y verip X almalıdır, yani E doğrudur. Doğru cevap E seçeneğidir.",
+  "aciklama": "MRS_A=3>MRS_B=1 olduğundan A, X'e görece daha çok değer verir; A, Y verip X almalıdır, yani “A, B'ye Y malı verip karşılığında X almalıdır çünkü A, Y malına B'den daha az değer…” seçeneği doğrudur. Doğru cevap “A, B'ye Y malı verip karşılığında X almalıdır çünkü A, Y malına B'den daha az değer…” seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1644,7 +1644,7 @@
    "3/2"
   ],
   "dogru": 1,
-  "aciklama": "Lerner kuralıyla P_A=10/(1-1/3)=15, P_B=10/(1-1/1,5)=30 olup oran 2/1'dir. Doğru cevap B) 2/1 şeklindedir.",
+  "aciklama": "Lerner kuralıyla P_A=10/(1-1/3)=15, P_B=10/(1-1/1,5)=30 olup oran 2/1'dir. Doğru cevap 2/1 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -1724,7 +1724,7 @@
    "Piyasa mekanizması, bedavacılık problemi olmadığı sürece kamusal malları etkin sunar."
   ],
   "dogru": 1,
-  "aciklama": "Samuelson koşuluna göre saf kamusal mallarda tüketim rakip değildir; yani tüm bireyler aynı miktarı tüketir. Bu nedenle bireysel fayda eğrileri dikey olarak toplanır (özel mallarda yatay toplanır). Optimal miktar için: Σ MRS_i = MRT koşulu geçerlidir, yani tüm bireylerin marjinal ikame oranlarının (marjinal faydalarının toplamı/özel mal marjinal faydası) toplamı, üretim sınırındaki marjinal dönüşüm oranına (marjinal maliyet oranına) eşit olmalıdır. A yanlıştır; her bireyin MF'sinin ayrı ayrı MC'ye eşit olması özel mal koşuludur. C yanlıştır; bedavacılık problemi her zaman vardır. D yanlıştır; yatay değil dikey toplama söz konusudur. E yanlıştır; MC sıfır olmak zorunda değildir. Doğru cevap B'dir.",
+  "aciklama": "Samuelson koşuluna göre saf kamusal mallarda tüketim rakip değildir; yani tüm bireyler aynı miktarı tüketir. Bu nedenle bireysel fayda eğrileri dikey olarak toplanır (özel mallarda yatay toplanır). Optimal miktar için: Σ MRS_i = MRT koşulu geçerlidir, yani tüm bireylerin marjinal ikame oranlarının (marjinal faydalarının toplamı/özel mal marjinal faydası) toplamı, üretim sınırındaki marjinal dönüşüm oranına (marjinal maliyet oranına) eşit olmalıdır. “Samuelson koşuluna göre kamusal mallar için marjinal maliyet sıfır olmalıdır.” seçeneği yanlıştır; her bireyin MF'sinin ayrı ayrı MC'ye eşit olması özel mal koşuludur. “Kamusal malların bölünemez nitelikte olması, bireysel talep eğrilerinin yatay biçimde…” seçeneği yanlıştır; bedavacılık problemi her zaman vardır. “Kamusal malın optimal miktarında, her bir bireyin marjinal faydasının marjinal maliyete…” seçeneği yanlıştır; yatay değil dikey toplama söz konusudur. “Piyasa mekanizması, bedavacılık problemi olmadığı sürece kamusal malları etkin sunar.” seçeneği yanlıştır; MC sıfır olmak zorunda değildir. Doğru cevap “Kamusal malın optimal miktarında, bireylerin marjinal ikame oranlarının toplamı marjinal…” seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1772,7 +1772,7 @@
    "Müzakere sonucunda ulaşılan çözümün uygulanmasını garantileyecek yasal mekanizma mevcuttur."
   ],
   "dogru": 2,
-  "aciklama": "Coase teoremi, mülkiyet hakları açıkça tanımlandığında ve işlem maliyetleri sıfır olduğunda tarafların etkin çözüme müzakere yoluyla ulaşabileceğini öne sürer. Ancak bu teoremin işleyişini engelleyen başlıca faktörler: işlem maliyetlerinin yüksekliği, çok sayıda taraf, asimetrik bilgi ve bedavacılık sorunudur. C seçeneğinde çok sayıda etkilenen taraf olduğunda her biri diğerlerinin müzakereyi finanse etmesini bekler (bedavacılık problemi) ve koordinasyon güçleşir, dolayısıyla Coase teoremi işlevsiz hale gelir. A yanlıştır; mülkiyet haklarının kime verildiği etkinliği değiştirmez (dağılımı etkiler). B yanlıştır; iki taraf + sıfır maliyet Coase teoreminin ideal koşuludur. D ve E de Coase teoreminin çalıştığı koşullardır. Doğru cevap C'dir.",
+  "aciklama": "Coase teoremi, mülkiyet hakları açıkça tanımlandığında ve işlem maliyetleri sıfır olduğunda tarafların etkin çözüme müzakere yoluyla ulaşabileceğini öne sürer. Ancak bu teoremin işleyişini engelleyen başlıca faktörler: işlem maliyetlerinin yüksekliği, çok sayıda taraf, asimetrik bilgi ve bedavacılık sorunudur. “Çok sayıda etkilenen taraf olduğundan koordinasyon sorunu ve bedavacılık problemi…” seçeneğinde çok sayıda etkilenen taraf olduğunda her biri diğerlerinin müzakereyi finanse etmesini bekler (bedavacılık problemi) ve koordinasyon güçleşir, dolayısıyla Coase teoremi işlevsiz hale gelir. “Mülkiyet hakları açıkça tanımlanmış ancak kirletici tarafa verilmiştir.” seçeneği yanlıştır; mülkiyet haklarının kime verildiği etkinliği değiştirmez (dağılımı etkiler). “Yalnızca iki taraf söz konusudur ve müzakere maliyetleri sıfırdır.” seçeneği yanlıştır; iki taraf + sıfır maliyet Coase teoreminin ideal koşuludur. D ve E de Coase teoreminin çalıştığı koşullardır. Doğru cevap “Çok sayıda etkilenen taraf olduğundan koordinasyon sorunu ve bedavacılık problemi…” seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1788,7 +1788,7 @@
    "Lider Cournot'ya göre daha fazla üretir; Cournot kârı 1600 TL, Stackelberg lider kârı 2025 TL'dir."
   ],
   "dogru": 0,
-  "aciklama": "Cournot'da her firma 40 üretir ve kârı 1600; Stackelberg liderinde q=60, P=60 ve kâr (60-30)*60=1800 olduğundan doğru şık A'dır. Doğru cevap A seçeneğidir.",
+  "aciklama": "Cournot'da her firma 40 üretir ve kârı 1600; Stackelberg liderinde q=60, P=60 ve kâr (60-30)*60=1800 olduğundan doğru şık A'dır. Doğru cevap “Lider Cournot'ya göre daha fazla üretir; Cournot kârı 1600 TL, Stackelberg lider kârı…” seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1852,7 +1852,7 @@
    "Q = 45, Kâr = 1.412,5 TL"
   ],
   "dogru": 0,
-  "aciklama": "Tam fiyat ayrımında P=MC'den Q=45, tüketici artığı dahil toplam gelir 2475, TC=650 olup kâr 1825 TL'dir. Doğru cevap A) Q = 45, Kâr = 1.825 TL şeklindedir.",
+  "aciklama": "Tam fiyat ayrımında P=MC'den Q=45, tüketici artığı dahil toplam gelir 2475, TC=650 olup kâr 1825 TL'dir. Doğru cevap Q = 45, Kâr = 1.825 TL şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -2684,7 +2684,7 @@
    "LM eğrisinin dik, IS eğrisinin yatık olması durumunda"
   ],
   "dogru": 2,
-  "aciklama": "Para politikası en etkisiz, LM yatay (likidite tuzağı) ve IS dik (faize duyarsız yatırım) iken olur; bu da C şıkkıdır. Doğru cevap C) LM eğrisinin yatay, IS eğrisinin dik olması durumunda şeklindedir.",
+  "aciklama": "Para politikası en etkisiz, LM yatay (likidite tuzağı) ve IS dik (faize duyarsız yatırım) iken olur; bu da “LM eğrisinin yatay, IS eğrisinin dik olması durumunda” şıkkıdır. Doğru cevap LM eğrisinin yatay, IS eğrisinin dik olması durumunda şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -2764,7 +2764,7 @@
    "575"
   ],
   "dogru": 4,
-  "aciklama": "Y=(50+100+80)/[1-0,8(1-0,25)]=230/0,4=575, yani E. Doğru cevap E) 575 şeklindedir.",
+  "aciklama": "Y=(50+100+80)/[1-0,8(1-0,25)]=230/0,4=575, yani E. Doğru cevap 575 şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -2812,7 +2812,7 @@
    "%15"
   ],
   "dogru": 0,
-  "aciklama": "(1+c)/(c+0,20+0,05)=4 → 1+c=4c+1 → c=0, yani A. Doğru cevap A) %0 şeklindedir.",
+  "aciklama": "(1+c)/(c+0,20+0,05)=4 → 1+c=4c+1 → c=0, yani A. Doğru cevap %0 şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -3900,7 +3900,7 @@
    "Reel faiz oranı 5 puan artar; çünkü nominal faiz enflasyonla tam orantılı yükselir"
   ],
   "dogru": 2,
-  "aciklama": "Saf Fisher etkisinde nominal faiz enflasyonla birebir artar ve reel faiz sabit kalır (B). Ancak Mundell-Tobin etkisi bu sonucu değiştirir: yüksek enflasyon beklentisi, para tutmanın fırsat maliyetini artırır; bireyler para varlıklarını azaltıp fiziksel/reel varlıklara (sermayeye) yönelir. Sermaye birikimindeki artış, sermayenin marjinal ürününü ve dolayısıyla denge reel faizini aşağı çeker. Bu nedenle reel faiz oranı, saf Fisher etkisinin öngördüğünün aksine hafifçe düşer. Cevap C.",
+  "aciklama": "Saf Fisher etkisinde nominal faiz enflasyonla birebir artar ve reel faiz sabit kalır (B). Ancak Mundell-Tobin etkisi bu sonucu değiştirir: yüksek enflasyon beklentisi, para tutmanın fırsat maliyetini artırır; bireyler para varlıklarını azaltıp fiziksel/reel varlıklara (sermayeye) yönelir. Sermaye birikimindeki artış, sermayenin marjinal ürününü ve dolayısıyla denge reel faizini aşağı çeker. Bu nedenle reel faiz oranı, saf Fisher etkisinin öngördüğünün aksine hafifçe düşer. Cevap “Reel faiz oranı hafifçe düşer; çünkü yüksek enflasyon beklentisi bireylerin tasarruf…” seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -3964,7 +3964,7 @@
    "%7,00"
   ],
   "dogru": 4,
-  "aciklama": "i = 2 + 5 + 0,5(5-2) + 0,5(-3) = 7 + 1,5 - 1,5 = %7, yani E şıkkı. Doğru cevap E) %7,00 şeklindedir.",
+  "aciklama": "i = 2 + 5 + 0,5(5-2) + 0,5(-3) = 7 + 1,5 - 1,5 = %7, yani “%7,00” şıkkı. Doğru cevap %7,00 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -4828,7 +4828,7 @@
    "Para talebinin faize duyarlılığı arttıkça para politikasının etkinliği azalır"
   ],
   "dogru": 0,
-  "aciklama": "Dik IS'te para politikasının geliri artırmaması doğrudur (C yanlış değil); IS-LM çerçevesinde dikey LM'de para politikası en etkin olup geliri artırdığından yanlış ifade A'dır. Doğru cevap A seçeneğidir.",
+  "aciklama": "Dik IS'te para politikasının geliri artırmaması doğrudur (“IS eğrisinin dik (faiz esnekliği sıfır) olduğu durumda para politikası millî geliri…” seçeneği yanlış değil); IS-LM çerçevesinde dikey LM'de para politikası en etkin olup geliri artırdığından yanlış ifade A'dır. Doğru cevap “Klasik durumda LM eğrisi dikeydir ve para politikası sadece fiyat düzeyini etkiler” seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -5004,7 +5004,7 @@
    "3,33"
   ],
   "dogru": 2,
-  "aciklama": "Verilen oranlarla çarpan 1/(0,10+0,05+0,20)=2,86 çıkar; anahtarın 4,44'ü de itirazın 3,33'ü de bu değeri vermez. Doğru cevap C) 2,86 şeklindedir.",
+  "aciklama": "Verilen oranlarla çarpan 1/(0,10+0,05+0,20)=2,86 çıkar; anahtarın 4,44'ü de itirazın 3,33'ü de bu değeri vermez. Doğru cevap 2,86 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -5260,7 +5260,7 @@
    "3,33"
   ],
   "dogru": 0,
-  "aciklama": "Para çarpanı formülü m = (1 + c) / (r + e + c) biçimindedir; burada c = nakit/mevduat oranı = 0,20, r = zorunlu karşılık oranı = 0,10, e = serbest rezerv oranı = 0,05'tir. m = (1 + 0,20) / (0,10 + 0,05 + 0,20) = 1,20 / 0,35 ≈ 3,43 bulunur. Serbest rezerv oranının paydaya eklenmesi unutulursa 1,20/0,30 = 4,00 çıkar; en sık yapılan hata budur. Doğru cevap A) 3,43 şeklindedir.",
+  "aciklama": "Para çarpanı formülü m = (1 + c) / (r + e + c) biçimindedir; burada c = nakit/mevduat oranı = 0,20, r = zorunlu karşılık oranı = 0,10, e = serbest rezerv oranı = 0,05'tir. m = (1 + 0,20) / (0,10 + 0,05 + 0,20) = 1,20 / 0,35 ≈ 3,43 bulunur. Serbest rezerv oranının paydaya eklenmesi unutulursa 1,20/0,30 = 4,00 çıkar; en sık yapılan hata budur. Doğru cevap 3,43 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -5404,7 +5404,7 @@
    "Dolaşım hızı yalnızca enflasyon oranına bağlıdır; gelir esnekliği ile hiçbir ilgisi yoktur."
   ],
   "dogru": 1,
-  "aciklama": "Para dolaşım hızı V = PY / M ile tanımlanır. Para talebinin gelir esnekliği 1'den büyük ise gelir (Y) 1 birim artığında para talebi (M^d) 1 birimden fazla artar. Denge koşulunda para arzı da buna uyum sağladığında M, Y'den hızlı büyür. V = PY/M formülünde payda daha hızlı artacağından V düşer. Bu Keynes'in lüks mal analojisiyle uyumludur: gelir yükseldikçe bireylerin nakit dışı varlıklara talebi görece azalır, nakit bulundurma oranı artar, dolaşım hızı yavaşlar. Şık B doğru cevaptır.",
+  "aciklama": "Para dolaşım hızı V = PY / M ile tanımlanır. Para talebinin gelir esnekliği 1'den büyük ise gelir (Y) 1 birim artığında para talebi (M^d) 1 birimden fazla artar. Denge koşulunda para arzı da buna uyum sağladığında M, Y'den hızlı büyür. V = PY/M formülünde payda daha hızlı artacağından V düşer. Bu Keynes'in lüks mal analojisiyle uyumludur: gelir yükseldikçe bireylerin nakit dışı varlıklara talebi görece azalır, nakit bulundurma oranı artar, dolaşım hızı yavaşlar. Şık “Gelir arttıkça para talebi gelirden daha hızlı büyür; dolayısıyla V = PY/M ifadesinde Y…” seçeneği doğru cevaptır.",
   "zorluk": "zor"
  },
  {
@@ -5452,7 +5452,7 @@
    "Dışlama etkisi (crowding out) – Genişletici maliye politikası"
   ],
   "dogru": 1,
-  "aciklama": "Mundell-Fleming modeli ve Obstfeld-Taylor'ın formüle ettiği 'parasal trilemma'ya (imkânsız üçlü) göre bir ekonomi aynı anda şu üç politikayı birlikte sürdüremez: (1) sabit döviz kuru, (2) serbest sermaye hareketleri, (3) bağımsız para politikası. Sabit kur + tam sermaye mobilitesi koşulunda para politikası tamamen etkisizleşir; çünkü faiz farklılığı arbitraj yoluyla döviz rezervlerini tüketerek kurun sabit tutulamamasına neden olur. Bu nedenle ülke üç hedeften birini feda etmek zorundadır. Şık B doğru cevaptır.",
+  "aciklama": "Mundell-Fleming modeli ve Obstfeld-Taylor'ın formüle ettiği 'parasal trilemma'ya (imkânsız üçlü) göre bir ekonomi aynı anda şu üç politikayı birlikte sürdüremez: (1) sabit döviz kuru, (2) serbest sermaye hareketleri, (3) bağımsız para politikası. Sabit kur + tam sermaye mobilitesi koşulunda para politikası tamamen etkisizleşir; çünkü faiz farklılığı arbitraj yoluyla döviz rezervlerini tüketerek kurun sabit tutulamamasına neden olur. Bu nedenle ülke üç hedeften birini feda etmek zorundadır. Şık “Parasal imkânsız üçlü (impossible trinity / trilemma) – Üç hedeften birinden vazgeçmek…” seçeneği doğru cevaptır.",
   "zorluk": "zor"
  },
  {
@@ -6540,7 +6540,7 @@
    "İhracat fiyat esnekliği + ithalat fiyat esnekliği > 1 olmalıdır; J-Eğrisi kısa dönemde kontratların sabit fiyatla yapıldığını, dolayısıyla hacim değil sadece değer etkisinin geçerli olduğunu gösterir"
   ],
   "dogru": 4,
-  "aciklama": "Marshall-Lerner koşulu ihracat ve ithalat talebinin FİYAT esnekliklerinin toplamının 1'den büyük olmasıdır ve J-eğrisi kısa dönemde fiyatların kontratlarla sabit, hacimlerin yapışkan olmasıyla açıklanır; C'deki 'miktar esnekliği' ifadesi koşulu yanlış tanımlar. Doğru cevap E seçeneğidir.",
+  "aciklama": "Marshall-Lerner koşulu ihracat ve ithalat talebinin FİYAT esnekliklerinin toplamının 1'den büyük olmasıdır ve J-eğrisi kısa dönemde fiyatların kontratlarla sabit, hacimlerin yapışkan olmasıyla açıklanır; C'deki 'miktar esnekliği' ifadesi koşulu yanlış tanımlar. Doğru cevap “İhracat fiyat esnekliği + ithalat fiyat esnekliği > 1 olmalıdır; J-Eğrisi kısa dönemde…” seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -7532,7 +7532,7 @@
    "15-64 yaş"
   ],
   "dogru": 4,
-  "aciklama": "İşsizlik/işgücü hesaplamalarında esas alınan çalışma çağı nüfusu 15-64 yaş grubudur; 15-72 gibi bir yaş aralığı kullanılmaz. Doğru cevap E) 15-64 yaş şeklindedir.",
+  "aciklama": "İşsizlik/işgücü hesaplamalarında esas alınan çalışma çağı nüfusu 15-64 yaş grubudur; 15-72 gibi bir yaş aralığı kullanılmaz. Doğru cevap 15-64 yaş şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -7724,7 +7724,7 @@
    "Sürünen parite → Sabit kur → Dalgalı kur → Döviz kuruna dayalı istikrar programı"
   ],
   "dogru": 1,
-  "aciklama": "Türkiye'nin kur rejimi tarihi genel hatlarıyla şu sırayı izler: Bretton Woods sistemi çerçevesinde sabit kur dönemi (1944-1973 sonrası), ardından yönetimli dalgalanma ve sürünen parite (crawling peg) uygulamaları (1980 sonrası), 2000 yılında IMF destekli döviz kuruna dayalı istikrar programı (çıpa sistemi), son olarak Şubat 2001 krizi ile dalgalı kur rejimine geçiş. Bu kronolojiye en uygun sıralama B şıkkıdır.",
+  "aciklama": "Türkiye'nin kur rejimi tarihi genel hatlarıyla şu sırayı izler: Bretton Woods sistemi çerçevesinde sabit kur dönemi (1944-1973 sonrası), ardından yönetimli dalgalanma ve sürünen parite (crawling peg) uygulamaları (1980 sonrası), 2000 yılında IMF destekli döviz kuruna dayalı istikrar programı (çıpa sistemi), son olarak Şubat 2001 krizi ile dalgalı kur rejimine geçiş. Bu kronolojiye en uygun sıralama “Sabit kur → Sürünen parite → Döviz kuruna dayalı istikrar programı → Dalgalı kur” şıkkıdır.",
   "zorluk": "orta"
  },
  {

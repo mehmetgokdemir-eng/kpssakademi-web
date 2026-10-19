@@ -428,7 +428,7 @@
    "I ve III"
   ],
   "dogru": 2,
-  "aciklama": "I doğrudur: Dünya 24 saatte 360° döner; 360° / (24 × 60 dk) = 0,25°/dk, yani 1° için 4 dakika gerekir. Güneşin görünür hareketi açısından 4 dakikada 1° doğrudur. II doğrudur: 360° / 24 saat = 15°/saat; her 15° boylamda 1 saat fark oluşur. III doğrudur: 360° / 365,25 gün ≈ 0,986°/gün ≈ 1°/gün; Dünya yıllık hareketiyle günde yaklaşık 1° yol alır. IV YANLIŞTIR: Ekvator üzerinde 1° boylam ≈ 111 km'dir, bu doğrudur. Ancak enlem dairelerinde 1° mesafe, enlem dairesinin çevresine bağlıdır ve kutuplara gidildikçe küçülür. Enlem dairelerinin çevresi cos(φ) × 40.075 km / 360° formülüyle hesaplanır. Yalnızca ekvator (φ = 0°) üzerinde enlem ve boylam için mesafe eşittir; diğer enlemlerde eşit değildir. Bu nedenle 'hem boylam hem de enlem için eşit biçimde geçerlidir' ifadesi hatalıdır. Cevap C şıkkıdır.",
+  "aciklama": "I doğrudur: Dünya 24 saatte 360° döner; 360° / (24 × 60 dk) = 0,25°/dk, yani 1° için 4 dakika gerekir. Güneşin görünür hareketi açısından 4 dakikada 1° doğrudur. II doğrudur: 360° / 24 saat = 15°/saat; her 15° boylamda 1 saat fark oluşur. III doğrudur: 360° / 365,25 gün ≈ 0,986°/gün ≈ 1°/gün; Dünya yıllık hareketiyle günde yaklaşık 1° yol alır. IV YANLIŞTIR: Ekvator üzerinde 1° boylam ≈ 111 km'dir, bu doğrudur. Ancak enlem dairelerinde 1° mesafe, enlem dairesinin çevresine bağlıdır ve kutuplara gidildikçe küçülür. Enlem dairelerinin çevresi cos(φ) × 40.075 km / 360° formülüyle hesaplanır. Yalnızca ekvator (φ = 0°) üzerinde enlem ve boylam için mesafe eşittir; diğer enlemlerde eşit değildir. Bu nedenle 'hem boylam hem de enlem için eşit biçimde geçerlidir' ifadesi hatalıdır. Cevap “Yalnızca IV” şıkkıdır.",
   "zorluk": "zor"
  },
  {
@@ -748,7 +748,7 @@
    "1/13.200.000"
   ],
   "dogru": 4,
-  "aciklama": "6°×87,5 km ≈ 528 km = 52.800.000 cm; 4 cm'ye bölününce ölçek 1/13.200.000 çıkar. Doğru cevap E) 1/13.200.000 şeklindedir.",
+  "aciklama": "6°×87,5 km ≈ 528 km = 52.800.000 cm; 4 cm'ye bölününce ölçek 1/13.200.000 çıkar. Doğru cevap 1/13.200.000 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -844,7 +844,7 @@
    "Poyraz"
   ],
   "dogru": 3,
-  "aciklama": "Lodos, güneybatıdan esen ılık ve nemli bir rüzgârdır; Marmara ve Ege kıyılarında kış ortasında sıcaklığı birkaç derece birden yükseltir, kar örtüsünü eritir ve kar yağışını yağmura çevirir. Erken ısınma meyve ağaçlarında tomurcuklanmayı öne çeker; sonraki soğuk dalgasında bu tomurcuklar donarak zarar görür. Ayrıca lodos fırtınaları seraları ve ağaçları devirebilir. Soğuk rüzgârlar olan Poyraz (kuzeydoğu), Yıldız (kuzey) ve Karayel (kuzeybatı) sıcaklığı düşürür; meltem ise kara ile deniz arasında gün içinde yön değiştiren yerel bir rüzgârdır. Sıcaklığı artırıp nemi düşüren kuru rüzgâr föhn'dür, ancak föhn bir yön rüzgârı değil dağı aşan havanın alçalmasıyla oluşan bir olaydır. Doğru cevap D) Lodos şeklindedir.",
+  "aciklama": "Lodos, güneybatıdan esen ılık ve nemli bir rüzgârdır; Marmara ve Ege kıyılarında kış ortasında sıcaklığı birkaç derece birden yükseltir, kar örtüsünü eritir ve kar yağışını yağmura çevirir. Erken ısınma meyve ağaçlarında tomurcuklanmayı öne çeker; sonraki soğuk dalgasında bu tomurcuklar donarak zarar görür. Ayrıca lodos fırtınaları seraları ve ağaçları devirebilir. Soğuk rüzgârlar olan Poyraz (kuzeydoğu), Yıldız (kuzey) ve Karayel (kuzeybatı) sıcaklığı düşürür; meltem ise kara ile deniz arasında gün içinde yön değiştiren yerel bir rüzgârdır. Sıcaklığı artırıp nemi düşüren kuru rüzgâr föhn'dür, ancak föhn bir yön rüzgârı değil dağı aşan havanın alçalmasıyla oluşan bir olaydır. Doğru cevap Lodos şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -1484,7 +1484,7 @@
    "İki şehrin farklı boylamlarda bulunması"
   ],
   "dogru": 4,
-  "aciklama": "Yerel saat farkının tek nedeni boylam farkıdır; enlem ve yükselti saatle ilgisizdir, dolayısıyla 'B ve D' anahtarı hatalıdır. Doğru cevap E) İki şehrin farklı boylamlarda bulunması şeklindedir.",
+  "aciklama": "Yerel saat farkının tek nedeni boylam farkıdır; enlem ve yükselti saatle ilgisizdir, dolayısıyla 'B ve D' anahtarı hatalıdır. Doğru cevap İki şehrin farklı boylamlarda bulunması şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -1548,7 +1548,7 @@
    "Dünya'nın şekli, kutuplardan basık ekvatordan şişkin bir elipsoid olduğu için jeoit olarak adlandırılır."
   ],
   "dogru": 4,
-  "aciklama": "Jeoit, elipsoitten de farklı, düzensiz gerçek şekli ifade eder; E'deki tanım yanlıştır, D ise doğru bir yargıdır. Doğru cevap E seçeneğidir.",
+  "aciklama": "Jeoit, elipsoitten de farklı, düzensiz gerçek şekli ifade eder; E'deki tanım yanlıştır, D ise doğru bir yargıdır. Doğru cevap “Dünya'nın şekli, kutuplardan basık ekvatordan şişkin bir elipsoid olduğu için jeoit…” seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -1612,7 +1612,7 @@
    "21 Mart"
   ],
   "dogru": 3,
-  "aciklama": "Gece-gündüz farkı hem 21 Mart hem 23 Eylül'de sıfırdır; bu nedenle ikisini birlikte veren D şıkkı doğrudur. Doğru cevap D) 21 Mart ve 23 Eylül aynı anda şeklindedir.",
+  "aciklama": "Gece-gündüz farkı hem 21 Mart hem 23 Eylül'de sıfırdır; bu nedenle ikisini birlikte veren “21 Mart ve 23 Eylül aynı anda” şıkkı doğrudur. Doğru cevap 21 Mart ve 23 Eylül aynı anda şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -1724,7 +1724,7 @@
    "04.00"
   ],
   "dogru": 2,
-  "aciklama": "21 Mart ekinoks günüdür. Ekinoks günlerinde tüm enlemlerde gündüz ve gece eşit, yani 12'şer saattir. Bu nedenle dünya genelinde her yerde yerel saate göre güneş yaklaşık 06.00'da doğar, 18.00'de batar. Enlem farkı bu durumu etkilemez. Cevap C seçeneğidir.",
+  "aciklama": "21 Mart ekinoks günüdür. Ekinoks günlerinde tüm enlemlerde gündüz ve gece eşit, yani 12'şer saattir. Bu nedenle dünya genelinde her yerde yerel saate göre güneş yaklaşık 06.00'da doğar, 18.00'de batar. Enlem farkı bu durumu etkilemez. Cevap “06.00” seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -1804,7 +1804,7 @@
    "06.00"
   ],
   "dogru": 2,
-  "aciklama": "30°D ile 60°B arasındaki meridyen farkı 30 + 60 = 90°'dir. 90° / 15° = 6 saat fark eder. 60°B batıda olduğu için yerel saati daha erkendir: 14.00 - 6 = 08.00. Cevap C seçeneğidir.",
+  "aciklama": "30°D ile 60°B arasındaki meridyen farkı 30 + 60 = 90°'dir. 90° / 15° = 6 saat fark eder. 60°B batıda olduğu için yerel saati daha erkendir: 14.00 - 6 = 08.00. Cevap “08.00” seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -2044,7 +2044,7 @@
    "Y"
   ],
   "dogru": 4,
-  "aciklama": "Doğu boylamlarında en batıdaki (en küçük boylam) yer en geç öğle vakti yaşar; 27°D ile Y en batıdadır. Doğru cevap E) Y şeklindedir.",
+  "aciklama": "Doğu boylamlarında en batıdaki (en küçük boylam) yer en geç öğle vakti yaşar; 27°D ile Y en batıdadır. Doğru cevap Y şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -2204,7 +2204,7 @@
    "Güneş ışınlarının her yerde her gün aynı açıyla gelmesiyle sıcaklık dengesizlikleri azalırdı."
   ],
   "dogru": 3,
-  "aciklama": "Eksen dik olsaydı mevsimler biterdi ama enlem farkından doğan iklim kuşakları sürerdi; 'tüm enlemlerde tekdüze iklim' gerçekleşmezdi. Doğru cevap D seçeneğidir.",
+  "aciklama": "Eksen dik olsaydı mevsimler biterdi ama enlem farkından doğan iklim kuşakları sürerdi; 'tüm enlemlerde tekdüze iklim' gerçekleşmezdi. Doğru cevap “Mevsimlerin oluşması tamamen durur, tüm enlemlerde iklim tekdüze olurdu.” seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -2284,7 +2284,7 @@
    "23,5°K (Yengeç Dönencesi)"
   ],
   "dogru": 2,
-  "aciklama": "21 Haziran'da yatay yüzeye düşen günlük toplam ışınım, 24 saat sürekli güneş alması nedeniyle Kuzey Kutbu'nda en yüksektir. Doğru cevap C) 90°K (Kuzey Kutbu) şeklindedir.",
+  "aciklama": "21 Haziran'da yatay yüzeye düşen günlük toplam ışınım, 24 saat sürekli güneş alması nedeniyle Kuzey Kutbu'nda en yüksektir. Doğru cevap 90°K (Kuzey Kutbu) şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -2332,7 +2332,7 @@
    "Hiçbir noktada yıl boyunca her gün tam eşitlik söz konusu değildir; ekvator da dahil."
   ],
   "dogru": 0,
-  "aciklama": "Ekvator (0° enlem) üzerindeki noktalarda Güneş yıl boyunca doğudan doğup batıdan batar ve gündüz süresi astronomik olarak her gün yaklaşık 12 saattir. Güneş'in deklinasyonu değişse de (±23,5° arasında) ekvatorda gündüz süresi çok az değişir; atmosferik kırınım göz önüne alındığında 12 saatten biraz fazladır ama astronomik olarak 12 saate çok yakındır. D seçeneği tam olarak doğru gibi görünse de 'tam eşitlik' ile 'yaklaşık eşitlik' ayrımı bulanıktır. ÖSYM mantığında A seçeneği doğru kabul edilir çünkü Ekvator'da yıl boyunca gündüz-gece dengesi diğer enlemlere kıyasla çok istikrarlıdır. B, C, E ise açıkça yanlıştır. Cevap A'dır.",
+  "aciklama": "Ekvator (0° enlem) üzerindeki noktalarda Güneş yıl boyunca doğudan doğup batıdan batar ve gündüz süresi astronomik olarak her gün yaklaşık 12 saattir. Güneş'in deklinasyonu değişse de (±23,5° arasında) ekvatorda gündüz süresi çok az değişir; atmosferik kırınım göz önüne alındığında 12 saatten biraz fazladır ama astronomik olarak 12 saate çok yakındır. “Yengeç ve Oğlak Dönencelerinde bulunan noktalarda gündüz ve gece her zaman eşittir.” seçeneği tam olarak doğru gibi görünse de 'tam eşitlik' ile 'yaklaşık eşitlik' ayrımı bulanıktır. ÖSYM mantığında “Ekvator üzerindeki her noktada yıl boyunca gündüz ve gece her zaman yaklaşık 12'şer…” seçeneği doğru kabul edilir çünkü Ekvator'da yıl boyunca gündüz-gece dengesi diğer enlemlere kıyasla çok istikrarlıdır. B, C, E ise açıkça yanlıştır. Cevap “Ekvator üzerindeki her noktada yıl boyunca gündüz ve gece her zaman yaklaşık 12'şer…” seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -2396,7 +2396,7 @@
    "Her iki öğrenci de kısmen doğrudur; yerel saat farkı hem dönüşten hem eğiklikten etkilenir."
   ],
   "dogru": 1,
-  "aciklama": "Yerel saat farkı yalnızca eksen dönüşünden kaynaklanır; eksen eğikliğinin ayırt edici sonucu gün uzunluklarının yıl içinde değişmesidir, D'deki 'yalnızca mevsimler' ifadesi eksiktir. Doğru cevap B seçeneğidir.",
+  "aciklama": "Yerel saat farkı yalnızca eksen dönüşünden kaynaklanır; eksen eğikliğinin ayırt edici sonucu gün uzunluklarının yıl içinde değişmesidir, D'deki 'yalnızca mevsimler' ifadesi eksiktir. Doğru cevap “İkinci öğrenci doğrudur; eksen eğikliği gün uzunluklarının yıl içinde değişmesini sağlar.” seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -2508,7 +2508,7 @@
    "Her iki gözlemci de aynı Güneş yüksekliğini (23°27') gözlemler ancak görme süreleri farklıdır."
   ],
   "dogru": 0,
-  "aciklama": "21 Haziran'da (Yaz Solstisi) Güneş Yengeç Dönencesi üzerinde dik açıyla vurur. 90° K (Kuzey Kutbu) üzerinde Güneş, ufkun 23°27' üzerinde tüm gün sabit bir yükseklikte döner (çünkü kutup noktasından her yön güneye bakar ve Güneş devamlı aynı yükseklikte görünür). 66°33' K (Kuzey Kutup Dairesi) üzerinde Güneş 24 saat görünür; ancak günün farklı saatlerinde yüksekliği değişir: gün ortasında yaklaşık 46°54' (= 23°27' × 2), gece yarısı 0° (tam ufukta) olacak şekilde. Bu nedenle A şıkkı doğrudur.",
+  "aciklama": "21 Haziran'da (Yaz Solstisi) Güneş Yengeç Dönencesi üzerinde dik açıyla vurur. 90° K (Kuzey Kutbu) üzerinde Güneş, ufkun 23°27' üzerinde tüm gün sabit bir yükseklikte döner (çünkü kutup noktasından her yön güneye bakar ve Güneş devamlı aynı yükseklikte görünür). 66°33' K (Kuzey Kutup Dairesi) üzerinde Güneş 24 saat görünür; ancak günün farklı saatlerinde yüksekliği değişir: gün ortasında yaklaşık 46°54' (= 23°27' × 2), gece yarısı 0° (tam ufukta) olacak şekilde. Bu nedenle “90° K'deki gözlemci Güneş'i sabit 23°27' yüksekliğinde ve 24 saat görürken, 66°33' K'deki…” şıkkı doğrudur.",
   "zorluk": "zor"
  },
  {
@@ -3340,7 +3340,7 @@
    "Ekvator çevresi ve 45° açısı"
   ],
   "dogru": 1,
-  "aciklama": "Aynı enlem üzerindeki iki nokta arasındaki yatay (doğu-batı) mesafe, bulundukları enlem dairesinin yarıçapı kullanılarak hesaplanır. 45° enleminde enlem dairesinin yarıçapı, ekvator yarıçapının cos(45°) katına eşittir. Boylam farkı ise 30°'dir. Dolayısıyla kullanılacak değer 45. enlem dairesinin yarıçapı ve 30° açısıdır. Doğru cevap B şıkkıdır.",
+  "aciklama": "Aynı enlem üzerindeki iki nokta arasındaki yatay (doğu-batı) mesafe, bulundukları enlem dairesinin yarıçapı kullanılarak hesaplanır. 45° enleminde enlem dairesinin yarıçapı, ekvator yarıçapının cos(45°) katına eşittir. Boylam farkı ise 30°'dir. Dolayısıyla kullanılacak değer 45. enlem dairesinin yarıçapı ve 30° açısıdır. Doğru cevap “45. enlem dairesinin yarıçapı ve 30° açısı” şıkkıdır.",
   "zorluk": "orta"
  },
  {
@@ -3356,7 +3356,7 @@
    "36 dakika"
   ],
   "dogru": 3,
-  "aciklama": "Dünya 24 saatte 360° döner; bu nedenle 1° boylamda 4 dakika yerel saat farkı oluşur. Türkiye'nin doğu-batı boylam farkı 44° - 26° = 18°'dir. 18° × 4 dakika = 72 dakika yerel saat farkı oluşur. Doğru cevap D şıkkıdır.",
+  "aciklama": "Dünya 24 saatte 360° döner; bu nedenle 1° boylamda 4 dakika yerel saat farkı oluşur. Türkiye'nin doğu-batı boylam farkı 44° - 26° = 18°'dir. 18° × 4 dakika = 72 dakika yerel saat farkı oluşur. Doğru cevap “72 dakika” şıkkıdır.",
   "zorluk": "orta"
  },
  {
@@ -3388,7 +3388,7 @@
    "40 km"
   ],
   "dogru": 1,
-  "aciklama": "Gerçek mesafe = Harita mesafesi × Ölçeğin paydası = 4 cm × 500.000 = 2.000.000 cm = 20.000 m = 20 km. Doğru cevap B şıkkıdır.",
+  "aciklama": "Gerçek mesafe = Harita mesafesi × Ölçeğin paydası = 4 cm × 500.000 = 2.000.000 cm = 20.000 m = 20 km. Doğru cevap “20 km” şıkkıdır.",
   "zorluk": "orta"
  },
  {
@@ -3916,7 +3916,7 @@
    "Dönenceler büyük çember olmayıp küçük paralel çemberleridir."
   ],
   "dogru": 1,
-  "aciklama": "Büyük çember, yer küreyi tam ortadan iki eşit parçaya bölen çemberdir. Bir meridyen tek başına yarım büyük çemberdir; tam bir büyük çember ancak bir meridyen ile onun tam karşısındaki meridyenin (örneğin 0° ile 180°) birleşmesiyle oluşur. Herhangi iki meridyen bu koşulu sağlamaz; bu nedenle yanlış ifade B seçeneğidir. Ekvator en uzun paralel olup büyük çemberdir, dönenceler ise küçük paralel çemberleridir. Doğru yanıt B'dir.",
+  "aciklama": "Büyük çember, yer küreyi tam ortadan iki eşit parçaya bölen çemberdir. Bir meridyen tek başına yarım büyük çemberdir; tam bir büyük çember ancak bir meridyen ile onun tam karşısındaki meridyenin (örneğin 0° ile 180°) birleşmesiyle oluşur. Herhangi iki meridyen bu koşulu sağlamaz; bu nedenle yanlış ifade “Herhangi iki meridyen birlikte bir büyük çember meydana getirir.” seçeneğidir. Ekvator en uzun paralel olup büyük çemberdir, dönenceler ise küçük paralel çemberleridir. Doğru yanıt “Herhangi iki meridyen birlikte bir büyük çember meydana getirir.” seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -4236,7 +4236,7 @@
    "En batıda güneş henüz doğmamıştır; yerel saat farkı 1 saat 16 dakikadır."
   ],
   "dogru": 4,
-  "aciklama": "45°-26° = 19° boylam farkı × 4 dakika = 76 dakika, yani 1 saat 16 dakika. Doğru cevap E seçeneğidir.",
+  "aciklama": "45°-26° = 19° boylam farkı × 4 dakika = 76 dakika, yani 1 saat 16 dakika. Doğru cevap “En batıda güneş henüz doğmamıştır; yerel saat farkı 1 saat 16 dakikadır.” seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4380,7 +4380,7 @@
    "400-450 km arasında"
   ],
   "dogru": 4,
-  "aciklama": "Δφ=3°, Δλ=3° için küresel formül yaklaşık 3,87°×111 ≈ 430 km verir, bu da 400-450 km aralığıdır. Doğru cevap E) 400-450 km arasında şeklindedir.",
+  "aciklama": "Δφ=3°, Δλ=3° için küresel formül yaklaşık 3,87°×111 ≈ 430 km verir, bu da 400-450 km aralığıdır. Doğru cevap 400-450 km arasında şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -4588,7 +4588,7 @@
    "İlkbahar"
   ],
   "dogru": 2,
-  "aciklama": "Ilıman okyanusal iklimde yağış her mevsim görülse de maksimum sonbahar-kış aylarındadır; soru 'büyük bölümü hangi mevsimde' dediği için mevsim belirtmeyen B uygun değil. Doğru cevap C) Sonbahar ve Kış şeklindedir.",
+  "aciklama": "Ilıman okyanusal iklimde yağış her mevsim görülse de maksimum sonbahar-kış aylarındadır; soru 'büyük bölümü hangi mevsimde' dediği için mevsim belirtmeyen B uygun değil. Doğru cevap Sonbahar ve Kış şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -5100,7 +5100,7 @@
    "İç Anadolu Bölgesi"
   ],
   "dogru": 4,
-  "aciklama": "En az yağış alan bölge Konya Ovası çevresiyle İç Anadolu Bölgesi'dir. Doğru cevap E) İç Anadolu Bölgesi şeklindedir.",
+  "aciklama": "En az yağış alan bölge Konya Ovası çevresiyle İç Anadolu Bölgesi'dir. Doğru cevap İç Anadolu Bölgesi şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -5132,7 +5132,7 @@
    "Kuzey Kutbu'ndan gelen soğuk hava kütlelerinin sürekli etkisi"
   ],
   "dogru": 2,
-  "aciklama": "Kuzey Anadolu Dağları kıyıya paralel uzanır; nemli hava kütleleri yamaçlarda yükselip yağışı kıyı kuşağına bırakır, dolayısıyla 'dik uzanma' diyen D yanlıştır. Doğru cevap C seçeneğidir.",
+  "aciklama": "Kuzey Anadolu Dağları kıyıya paralel uzanır; nemli hava kütleleri yamaçlarda yükselip yağışı kıyı kuşağına bırakır, dolayısıyla 'dik uzanma' diyen “Dağların denize dik uzanarak her mevsim nem taşıyan hava kütlelerinin iç kesimlere…” seçeneği yanlıştır. Doğru cevap “Dağların denize paralel uzanarak nem taşıyan rüzgarlara tümüyle kapalı bir yapı…” seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -5388,7 +5388,7 @@
    "Ekvatoral iklim"
   ],
   "dogru": 1,
-  "aciklama": "Akdeniz ikliminde yaz kuraklığı olduğu için 'yıl boyu yağış' koşulunu sağlamaz; her mevsim yağışlı olup kışın payı artan iklim ılıman okyanus iklimidir. Doğru cevap B) Ilıman okyanus iklimi şeklindedir.",
+  "aciklama": "Akdeniz ikliminde yaz kuraklığı olduğu için 'yıl boyu yağış' koşulunu sağlamaz; her mevsim yağışlı olup kışın payı artan iklim ılıman okyanus iklimidir. Doğru cevap Ilıman okyanus iklimi şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -5820,7 +5820,7 @@
    "Bölgenin yarımküre konumu belirlenemez, yalnızca karaların okyanuslardan daha sıcak olduğu söylenebilir"
   ],
   "dogru": 3,
-  "aciklama": "Ocak'ta Güney Yarımküre yazdır; karalar okyanuslardan sıcak olduğunda izotermler kara üzerinde kutba (güneye) kıvrılır, dolayısıyla doğru şık D'dir. Doğru cevap D seçeneğidir.",
+  "aciklama": "Ocak'ta Güney Yarımküre yazdır; karalar okyanuslardan sıcak olduğunda izotermler kara üzerinde kutba (güneye) kıvrılır, dolayısıyla doğru şık D'dir. Doğru cevap “Bölge Güney Yarımküre'de yer almakta ve kara yüzey sıcaklıkları okyanus yüzey…” seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -6796,7 +6796,7 @@
    "Güneydoğu Anadolu Bölgesi"
   ],
   "dogru": 2,
-  "aciklama": "Türkiye'de yıllık ortalama yağışı en düşük bölge, Konya ve Tuz Gölü çevresini içeren İç Anadolu'dur; Güneydoğu Anadolu ve Doğu Anadolu daha fazla yağış alır. Doğru cevap C) İç Anadolu Bölgesi şeklindedir.",
+  "aciklama": "Türkiye'de yıllık ortalama yağışı en düşük bölge, Konya ve Tuz Gölü çevresini içeren İç Anadolu'dur; Güneydoğu Anadolu ve Doğu Anadolu daha fazla yağış alır. Doğru cevap İç Anadolu Bölgesi şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -7052,7 +7052,7 @@
    "Yağış gölgesi etkisi"
   ],
   "dogru": 0,
-  "aciklama": "Yamaçta belirli bir yüksekliğin altında step, üstünde orman bulunması yükseldikçe sıcaklığın düşüp yağışın artmasına, yani dikey/termal kuşaklanmaya bağlıdır; yağış gölgesi bir yükselti eşiğini açıklamaz. Doğru cevap A) Termal kuşaklanma şeklindedir.",
+  "aciklama": "Yamaçta belirli bir yüksekliğin altında step, üstünde orman bulunması yükseldikçe sıcaklığın düşüp yağışın artmasına, yani dikey/termal kuşaklanmaya bağlıdır; yağış gölgesi bir yükselti eşiğini açıklamaz. Doğru cevap Termal kuşaklanma şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -7100,7 +7100,7 @@
    "Ege Denizi'nin Akdeniz'e göre daha soğuk olması"
   ],
   "dogru": 0,
-  "aciklama": "Ege'de dağ ve vadilerin kıyıya dik uzanması deniz etkisinin iç kesimlere sokulmasına ve yaz kuraklığının Akdeniz'e göre daha az belirgin olmasına yol açar; B şıkkındaki 'yağışların yıl içinde düzenli dağılması' Ege için doğru bir saptama değildir. Doğru cevap A seçeneğidir.",
+  "aciklama": "Ege'de dağ ve vadilerin kıyıya dik uzanması deniz etkisinin iç kesimlere sokulmasına ve yaz kuraklığının Akdeniz'e göre daha az belirgin olmasına yol açar; “Ege Bölgesi'nde yağışların yıl içinde daha düzenli dağılması ve enlemin farklı olması” şıkkındaki 'yağışların yıl içinde düzenli dağılması' Ege için doğru bir saptama değildir. Doğru cevap “Ege kıyılarına dik uzanan vadiler sayesinde deniz etkisinin iç kesimlere nüfuz etmesi ve…” seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -7420,7 +7420,7 @@
    "Yükselti – Bakı – Denize uzaklık – Hâkim rüzgârlar"
   ],
   "dogru": 0,
-  "aciklama": "Karadeniz kıyısı ile İç Anadolu arasındaki yağış farkında birincil etken denize yakınlık/uzaklık ve nemli hava kütlelerini taşıyan hâkim rüzgârlardır; denize uzaklığı en sona koyan C sıralaması savunulamaz. Doğru cevap A) Denize uzaklık – Hâkim rüzgârlar – Yükselti – Bakı şeklindedir.",
+  "aciklama": "Karadeniz kıyısı ile İç Anadolu arasındaki yağış farkında birincil etken denize yakınlık/uzaklık ve nemli hava kütlelerini taşıyan hâkim rüzgârlardır; denize uzaklığı en sona koyan C sıralaması savunulamaz. Doğru cevap Denize uzaklık – Hâkim rüzgârlar – Yükselti – Bakı şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -8844,7 +8844,7 @@
    "Yardang"
   ],
   "dogru": 0,
-  "aciklama": "Rüzgâr aşındırmasıyla oluşan mantar kayalar zeugen olarak adlandırılır; yardang ise rüzgâr yönünde uzanan sırtlardır. Doğru cevap A) Zeugen şeklindedir.",
+  "aciklama": "Rüzgâr aşındırmasıyla oluşan mantar kayalar zeugen olarak adlandırılır; yardang ise rüzgâr yönünde uzanan sırtlardır. Doğru cevap Zeugen şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -9612,7 +9612,7 @@
    "Kıyı Y'deki sea stack'ler, sea arch'ın üst kemerinin çökmesiyle oluşabilir"
   ],
   "dogru": 3,
-  "aciklama": "Abrasiyon platformu (wave-cut platform) dalga tabanının kayayı aşındırması sonucu oluşur. Bu platform zamanla karaya doğru değil, falezin gerisine çekilmesiyle birlikte kara yönüne doğru genişler. Yani falez zamanla karaya doğru geri çekilir ve önünde geniş bir abrasiyon platformu kalır. E'deki 'dalgaların zamanla denize doğru ilerlediğini gösterir' ifadesi yanlıştır; doğrusu 'falezin karaya doğru geri çekildiğini gösterir' olmalıdır. A, B, C ve D doğrudur: Sea stack'ler gerçekten sea arch kemerinin çökmesiyle oluşur (önce mağara → kemer → sütun/stack). Kıyı X'te sığlık ve kumul birikimi liman yapımını güçleştirir.",
+  "aciklama": "Abrasiyon platformu (wave-cut platform) dalga tabanının kayayı aşındırması sonucu oluşur. Bu platform zamanla karaya doğru değil, falezin gerisine çekilmesiyle birlikte kara yönüne doğru genişler. Yani falez zamanla karaya doğru geri çekilir ve önünde geniş bir abrasiyon platformu kalır. E'deki 'dalgaların zamanla denize doğru ilerlediğini gösterir' ifadesi yanlıştır; doğrusu 'falezin karaya doğru geri çekildiğini gösterir' olmalıdır. A, B, C ve “Kıyı Y'deki falez diplerinde oluşan abrasiyon platformu, dalgaların zamanla denize doğru…” seçeneği doğrudur: Sea stack'ler gerçekten sea arch kemerinin çökmesiyle oluşur (önce mağara → kemer → sütun/stack). Kıyı X'te sığlık ve kumul birikimi liman yapımını güçleştirir.",
   "zorluk": "zor"
  },
  {
@@ -9644,7 +9644,7 @@
    "Terminal moren"
   ],
   "dogru": 1,
-  "aciklama": "Buzul hareket yönüne paralel, dışbükey, karışık tane boylu till'den oluşan sırt drumlindir; esker eriyik sularının biriktirdiği boylanmış kum-çakıldan oluşur. Doğru cevap B) Drumin şeklindedir.",
+  "aciklama": "Buzul hareket yönüne paralel, dışbükey, karışık tane boylu till'den oluşan sırt drumlindir; esker eriyik sularının biriktirdiği boylanmış kum-çakıldan oluşur. Doğru cevap Drumin şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -9660,7 +9660,7 @@
    "Fay basamakları ve yükseltim düzlükleri"
   ],
   "dogru": 1,
-  "aciklama": "Hafif eğimli tabaka (dip) yamacı ile dik yamaçtan oluşan asimetrik sırtlar, az eğimli tabakalı yapıda gelişen kuesta topografyasını tanımlar. Doğru cevap B) Kuestalar (cuesta) ve eşsürtünme yüzeyleri şeklindedir.",
+  "aciklama": "Hafif eğimli tabaka (dip) yamacı ile dik yamaçtan oluşan asimetrik sırtlar, az eğimli tabakalı yapıda gelişen kuesta topografyasını tanımlar. Doğru cevap Kuestalar (cuesta) ve eşsürtünme yüzeyleri şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -9980,7 +9980,7 @@
    "1960'lar"
   ],
   "dogru": 2,
-  "aciklama": "Kentsel nüfus kırsal nüfusu ilk kez 1985 sayımında geçmiştir, yani 1980'ler. Doğru cevap C) 1980'ler şeklindedir.",
+  "aciklama": "Kentsel nüfus kırsal nüfusu ilk kez 1985 sayımında geçmiştir, yani 1980'ler. Doğru cevap 1980'ler şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -11196,7 +11196,7 @@
    "%33"
   ],
   "dogru": 0,
-  "aciklama": "X ülkesi: 40 milyon × ‰12 = yılda 480.000 doğal artış, 10 yılda 4,8 milyon; net göç yılda +80.000, 10 yılda +0,8 milyon. Toplam 45,6 milyon. Y ülkesi: 15 milyon × ‰18 = yılda 270.000, 10 yılda 2,7 milyon; net göç yılda −50.000, 10 yılda −0,5 milyon. Toplam 17,2 milyon. Oran = 17,2 / 45,6 = 0,377 yani yaklaşık %38. Doğru cevap A) %37 şeklindedir.",
+  "aciklama": "X ülkesi: 40 milyon × ‰12 = yılda 480.000 doğal artış, 10 yılda 4,8 milyon; net göç yılda +80.000, 10 yılda +0,8 milyon. Toplam 45,6 milyon. Y ülkesi: 15 milyon × ‰18 = yılda 270.000, 10 yılda 2,7 milyon; net göç yılda −50.000, 10 yılda −0,5 milyon. Toplam 17,2 milyon. Oran = 17,2 / 45,6 = 0,377 yani yaklaşık %38. Doğru cevap %37 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -12316,7 +12316,7 @@
    "Baklagiller"
   ],
   "dogru": 3,
-  "aciklama": "TÜİK verilerine göre tahıl üretimi (yaklaşık 35 milyon ton) sebze ve meyve üretiminin üzerindedir, dolayısıyla doğru şık D'dir. Doğru cevap D) Tahıllar şeklindedir.",
+  "aciklama": "TÜİK verilerine göre tahıl üretimi (yaklaşık 35 milyon ton) sebze ve meyve üretiminin üzerindedir, dolayısıyla doğru şık D'dir. Doğru cevap Tahıllar şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -12780,7 +12780,7 @@
    "Çay"
   ],
   "dogru": 2,
-  "aciklama": "Turunçgiller Akdeniz kıyılarının yanı sıra Doğu Karadeniz kıyı kuşağında (Rize mandalinası) da yaygın olarak yetiştirilir; kivi esas olarak Karadeniz-Marmara ürünüdür. Doğru cevap C) Turunçgil şeklindedir.",
+  "aciklama": "Turunçgiller Akdeniz kıyılarının yanı sıra Doğu Karadeniz kıyı kuşağında (Rize mandalinası) da yaygın olarak yetiştirilir; kivi esas olarak Karadeniz-Marmara ürünüdür. Doğru cevap Turunçgil şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -13404,7 +13404,7 @@
    "Hidroelektrik"
   ],
   "dogru": 0,
-  "aciklama": "Son yıllarda Türkiye'nin elektrik üretiminde en büyük pay yaklaşık üçte bir ile kömüre aittir; hidrolik ve doğal gaz onu izler. Doğru cevap A) Kömür şeklindedir.",
+  "aciklama": "Son yıllarda Türkiye'nin elektrik üretiminde en büyük pay yaklaşık üçte bir ile kömüre aittir; hidrolik ve doğal gaz onu izler. Doğru cevap Kömür şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -13484,7 +13484,7 @@
    "İran"
   ],
   "dogru": 0,
-  "aciklama": "Dünyanın en büyük doğal gaz rezervi Rusya'ya aittir; İran ikinci sıradadır. Doğru cevap A) Rusya şeklindedir.",
+  "aciklama": "Dünyanın en büyük doğal gaz rezervi Rusya'ya aittir; İran ikinci sıradadır. Doğru cevap Rusya şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -14764,7 +14764,7 @@
    "Devlet politikası ve planlı kalkınma hedefleri"
   ],
   "dogru": 1,
-  "aciklama": "Karabük ve Ereğli örneklerinde olduğu gibi demir-çelik tesisleri ağır hammadde (demir cevheri) ve enerji (taş kömürü) kaynaklarına yakın kurulmuştur; devlet politikası tamamlayıcı bir etkendir. Doğru cevap B) Hammadde ve enerji kaynaklarına yakınlık şeklindedir.",
+  "aciklama": "Karabük ve Ereğli örneklerinde olduğu gibi demir-çelik tesisleri ağır hammadde (demir cevheri) ve enerji (taş kömürü) kaynaklarına yakın kurulmuştur; devlet politikası tamamlayıcı bir etkendir. Doğru cevap Hammadde ve enerji kaynaklarına yakınlık şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -15916,7 +15916,7 @@
    "İç Anadolu Bölgesi"
   ],
   "dogru": 2,
-  "aciklama": "Ekili-dikili alanların bölge yüzölçümüne oranı en yüksek bölge Marmara Bölgesi'dir. Doğru cevap C) Marmara Bölgesi şeklindedir.",
+  "aciklama": "Ekili-dikili alanların bölge yüzölçümüne oranı en yüksek bölge Marmara Bölgesi'dir. Doğru cevap Marmara Bölgesi şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -16716,7 +16716,7 @@
    "05.56"
   ],
   "dogru": 2,
-  "aciklama": "28°D ile 74°B arası 102°, yani 408 dakika (6 saat 48 dk) fark eder ve sonuç 05.12 olur. Doğru cevap C) 05.12 şeklindedir.",
+  "aciklama": "28°D ile 74°B arası 102°, yani 408 dakika (6 saat 48 dk) fark eder ve sonuç 05.12 olur. Doğru cevap 05.12 şeklindedir.",
   "zorluk": "zor"
  }
 ]
