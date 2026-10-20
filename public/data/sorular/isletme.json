@@ -540,7 +540,7 @@
    "Yatay iletişimin ön planda olması"
   ],
   "dogru": 0,
-  "aciklama": "Burns ve Stalker'ın sınıflandırmasına göre mekanik yapılar; yüksek biçimselleşme, katı iş tanımları, dikey iletişim ve merkezi karar alma ile karakterize edilir. Bu yapılar istikrarlı çevrelerde etkindir. Organik yapılar ise esnek iş tanımları, yatay iletişim ve merkezi olmayan karar alma ile dinamik çevrelere uyum sağlar. A, C, D ve E şıkları organik yapının özelliklerini tanımlamaktadır.",
+  "aciklama": "Burns ve Stalker'a göre mekanik yapı istikrarlı çevrelere uygundur. Görevler dar ve kesin tanımlanır, işler yazılı kural ve prosedürlere bağlanır, otorite hiyerarşiktir. Organik yapıda ise görevler esnektir, uzmanlık ve bilgi ön plandadır, iletişim yatay akar. Bu nedenle ayırt edici özellik katı görev tanımı ve yazılı kurallardır. \"Çalışanlar arası bilgi paylaşımının özendirilmesi\", \"Yatay iletişimin ön planda olması\" ve \"Hızlı çevre değişimlerine kolayca uyum sağlaması\" seçenekleri organik yapıya özgü niteliklerdir; mekanik yapıyı tanımlamaz. \"Merkezî otorite yerine uzman bilgisinin esas alınması...\" seçeneği de organik yapının özelliğidir ve mekanik yapıda görülen merkezî otoriteyle çelişir. Doğru cevap \"Görevlerin katı biçimde tanımlanmış ve yazılı kurallara bağlı olması\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -604,7 +604,7 @@
    "İletişim yalnızca yukarıdan aşağıya doğru akar."
   ],
   "dogru": 4,
-  "aciklama": "Rensis Likert'in Sistem 4 (katılımcı grup) modelinde iletişim çok yönlüdür: yukarıdan aşağıya, aşağıdan yukarıya ve yatay olarak serbestçe akar. Sistem 1 (otoriter-sömürücü) ve Sistem 2'de iletişim büyük ölçüde yukarıdan aşağıya tek yönlüdür. A, B, D ve E seçenekleri Sistem 4'ün doğru özelliklerini yansıtmaktadır.",
+  "aciklama": "Likert'in Sistem 4'ü olan katılımcı grup yaklaşımında yönetici astlarına tam güven duyar, karar alma tüm kademelere yayılır, hedefler grup katılımıyla belirlenir ve iletişim hem aşağı hem yukarı hem yatay yönde serbestçe akar. Motivasyon yalnızca parasal ödüllere değil, katılım ve içsel güdülere de dayanır. Dolayısıyla iletişimin tek yönlü olması bu sistemin değil, daha otoriter sistemlerin özelliğidir. \"Karar alma sürecine tüm kademeler katılır.\" ve \"Yönetici ile çalışan arasındaki güven ilişkisi yüksektir.\" seçenekleri Sistem 4'ü doğru tanımladığı için yanlış olan ifade değildir. Doğru cevap \"İletişim yalnızca yukarıdan aşağıya doğru akar.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -1212,7 +1212,7 @@
    "Valans=+4, Araçsallık=0,5, Beklenti=0,5"
   ],
   "dogru": 0,
-  "aciklama": "Vroom'a göre Motivasyon = Valans × Araçsallık × Beklenti. Hesaplamalar: A) 3×0,8×0,9=2,16 | B) 5×0,1×0,9=0,45 | C) 5×0,9×0,1=0,45 | D) (-2)×0,9×0,8= -1,44 | E) 4×0,5×0,5=1,00. Negatif valans (ödülün istenilmemesi veya sonucun olumsuz algılanması) negatif motivasyon değeri üretir. D seçeneğinde motivasyon -1,44 ile hem en düşük hem de negatiftir; bu, çalışanın aktif olarak o sonuçtan kaçınmaya çalışacağına işaret eder.",
+  "aciklama": "Vroom modelinde motivasyon düzeyi valans, araçsallık ve beklentinin çarpımıdır. Hesaplar şöyledir: (-2)×0,9×0,8 = -1,44; 3×0,8×0,9 = 2,16; 5×0,9×0,1 = 0,45; 5×0,1×0,9 = 0,45; 4×0,5×0,5 = 1,00. En küçük değer -1,44'tür. Negatif valans, çalışanın sonuçtan kaçınmak istediğini gösterir. Bu yüzden diğer durumlara göre motivasyon en düşüktür. \"Valans=+5, Araçsallık=0,9, Beklenti=0,1\" seçeneği yüksek valansa rağmen çok düşük beklenti nedeniyle az motive eder; ancak sonuç 0,45'tir ve sıfırın altına inmez. \"Valans=+5, Araçsallık=0,1, Beklenti=0,9\" seçeneği de aynı nedenle 0,45 verir; negatif değerden yüksektir. Doğru cevap \"Valans=-2, Araçsallık=0,9, Beklenti=0,8\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1228,7 +1228,7 @@
    "Mekanik yapılarda otorite hiyerarşik ve merkezîken, organik yapılarda otorite uzmanlığa dayalı ve dağınık biçimdedir."
   ],
   "dogru": 0,
-  "aciklama": "Burns ve Stalker'a göre mekanik yapılarda iletişim dikey (yukarıdan aşağıya emir-komuta zinciri) biçimindedir; organik yapılarda ise iletişim yatay, çapraz ve danışmaya dayalıdır. D seçeneği bu ilişkiyi tam tersine çevirmektedir: organik yapıda dikey iletişimin ön planda olduğunu ve mekanik yapıda yatay iletişimin baskın olduğunu söylemek yanlıştır. Diğer seçenekler teoriye uygun ve doğru genellemelerdir.",
+  "aciklama": "Burns ve Stalker'a göre mekanik yapılarda iletişim hiyerarşi boyunca dikey akar ve emir-talimat niteliğindedir. Organik yapılarda ise iletişim yatay ve danışma biçimindedir. İfade bu ilişkiyi tersine çevirdiği için yanlış genellemedir. \"Mekanik yapılarda iş tanımları dar ve kesin biçimde belirlenirken organik yapılarda görevler sürekli yeniden tanımlanabilir.\" seçeneği doğrudur, çünkü organik yapıda görevler durumlara göre esnek biçimde değişir. \"Her iki yapı da uygun çevre koşullarında etkin olabilir...\" seçeneği de doğrudur; Burns ve Stalker en iyi tek bir yapı olmadığını, uygunluğun çevreye bağlı olduğunu vurgular. Doğru cevap \"Organik yapılarda dikey iletişim ön plandayken mekanik yapılarda yatay iletişim ve danışma süreçleri baskındır.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1244,7 +1244,7 @@
    "Performansın ödüle dönüşüp dönüşmeyeceğinin araçsallık algısına bağlı olması"
   ],
   "dogru": 1,
-  "aciklama": "Porter-Lawler modelinde tatmin; performans → ödül → algılanan adil ödül zinciriyle oluşur. Çalışan yüksek performans sergilese bile, aldığı ödülleri (içsel: başarı duygusu; dışsal: maaş, terfi) hak ettiği düzeyde algılamazsa tatmin gerçekleşmez. Bu nedenle 'ödüllerin algılanan eşitliği' en belirleyici ve kapsamlı ara değişkendir. Diğer seçenekler modelin parçalarını doğru tanımlasa da sorulan 'neden tatmin garantilenemez?' sorusuna en bütünlüklü yanıtı B seçeneği verir.",
+  "aciklama": "Porter-Lawler modelinde tatmin, performansın kendisinden değil, kişinin elde ettiği ödüllerin kendi gözünde adil olup olmadığından doğar. Performans sonucunda alınan içsel ve dışsal ödüller, algılanan adil ödül düzeyiyle karşılaştırılır; fark varsa yüksek performansa rağmen tatmin düşük kalabilir. Bu da performans-tatmin ilişkisinin doğrudan olmadığını en kapsamlı biçimde açıklar. \"Tatminin ileriki çabaları etkileyerek döngüsel bir süreç oluşturması\" seçeneği modelin doğru bir özelliğidir; ancak yüksek performansın neden tatmini garanti etmediğini açıklamaz. \"Performansın ödüle dönüşüp dönüşmeyeceğinin araçsallık algısına bağlı olması\" seçeneği ise çaba ve performans aşamasına ilişkin bir açıklamadır; tatmin aşamasındaki asıl belirleyiciyi vermez. Doğru cevap \"İçsel ve dışsal ödüllerin algılanan eşitliğinin tatmin üzerinde belirleyici rol oynaması\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1260,7 +1260,7 @@
    "Lider-üye ilişkileri iyi, görev yapısı düşük, mevki gücü zayıf"
   ],
   "dogru": 4,
-  "aciklama": "Fiedler'e göre durum 'çok elverişli' (Oktan 1-3) veya 'çok elverişsiz' (Oktan 8) olduğunda görev yönelimli lider; 'orta düzeyde elverişli' (Oktan 4-6) olduğunda ilişki yönelimli lider daha etkindir. C seçeneğindeki durum (iyi ilişki + düşük görev yapısı + zayıf güç) orta düzeyde elverişliliğe karşılık gelir. A ve E yüksek elverişliliği, B çok düşük elverişliliği, D ise orta-yüksek elverişliliği temsil eder; bu nedenle yalnızca C'de ilişki yönelimli lider üstündür.",
+  "aciklama": "Fiedler modelinde görev yönelimli lider, durumun çok elverişli ya da çok elverişsiz olduğu uçlarda etkindir. İlişki yönelimli lider ise orta derecede elverişli durumlarda daha başarılıdır. Lider-üye ilişkilerinin iyi, görev yapısının düşük ve mevki gücünün zayıf olduğu durum bu orta bölgeye girer. Bu nedenle ilişki yönelimli lider burada daha etkindir. \"Lider-üye ilişkileri iyi, görev yapısı yüksek, mevki gücü güçlü\" seçeneği çok elverişli durumdur ve görev yönelimli lidere uygundur. \"Lider-üye ilişkileri zayıf, görev yapısı düşük, mevki gücü zayıf\" seçeneği ise en elverişsiz durumdur ve yine görev yönelimli lider daha etkindir. Doğru cevap \"Lider-üye ilişkileri iyi, görev yapısı düşük, mevki gücü zayıf\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1276,7 +1276,7 @@
    "Bir süreçteki varyasyonu azaltmak için istatistiksel proses kontrol (SPC) grafiklerinin kullanılması"
   ],
   "dogru": 3,
-  "aciklama": "TKY'nin 'süreç odaklılık' ilkesi; faaliyetlerin süreç olarak görülmesini, harita çıkarılmasını, varyasyonun azaltılmasını ve standartlaştırılmasını kapsar (A, B, D, E bu ilkeye aittir). C seçeneğindeki 'tedarikçilerle uzun vadeli ortaklık' ise TKY'nin 'karşılıklı yarara dayalı tedarikçi ilişkileri' (ISO 9000 terminolojisiyle 'ilişki yönetimi') ilkesini yansıtır. Tedarikçi entegrasyonu süreç yönetiminin bir parçası olarak görülebilse de TKY literatüründe bu uygulama özgül olarak 'tedarikçi ortaklığı' ilkesi altında sınıflandırılır.",
+  "aciklama": "Süreç odaklılık, faaliyetlerin birbirine bağlı süreçler olarak tanımlanması, haritalanması, standartlaştırılması ve izlenmesidir. Bu nedenle süreç haritası çıkarmak, SOP ile dokümante etmek, SPC grafikleriyle varyasyonu izlemek ve kök neden analizi için balık kılçığı kullanmak süreç yönetimine ait uygulamalardır. Tedarikçilerle uzun vadeli ortaklık kurmak ise süreçlerin iç işleyişine değil, tedarikçi ilişkileri ve karşılıklı yarar ilkesine dayanır. \"Hataların nedenini bulmak için balık kılçığı (Ishikawa) diyagramı kullanılması\" seçeneği süreç iyileştirme aracıdır; ancak başka bir ilkeyi doğrudan yansıtmaz. \"Bir süreçteki varyasyonu azaltmak için istatistiksel proses kontrol (SPC) grafiklerinin kullanılması\" seçeneği de süreç kontrolüne yönelik olduğundan süreç odaklılıkla uyumludur. Doğru cevap \"Tedarikçilerle uzun vadeli iş ortaklığı kurularak kalite geliştirme süreçlerine dahil edilmesi\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1292,7 +1292,7 @@
    "Yeni ürünle yeni pazara girme stratejisi (Çeşitlendirme)"
   ],
   "dogru": 3,
-  "aciklama": "Ansoff matrisinde 'yeni ürün + mevcut pazar = Ürün Geliştirme' stratejisidir. Risk açısından değerlendirildiğinde: Pazar Penetrasyonu (en az risk) < Ürün Geliştirme = Pazar Geliştirme (orta risk, ancak farklı belirsizlik boyutları) < Çeşitlendirme (en yüksek risk). Ürün Geliştirme'de pazar bilinirken ürün belirsizdir; Pazar Geliştirme'de ürün bilinirken pazar belirsizdir. Her ikisi de orta düzey riske sahiptir ve karşılaştırılabilir risk profili taşır. Soru 'en doğru biçimde karşılaştırılabilir' diye sorduğundan, eşdeğer risk düzeyindeki A seçeneği doğrudur.",
+  "aciklama": "Ansoff Matrisi'nde işletme mevcut pazarında kalıp yeni ürün geliştirmektedir; bu strateji Ürün Geliştirme olarak adlandırılır. Seçeneklerde bu strateji doğrudan yer almadığından soru, riski en yakın hangi stratejiyle karşılaştırılabileceğini sormaktadır. Ürün Geliştirme'de işletme pazarı tanır, ancak ürün yenidir; Pazar Geliştirme'de ise ürün bilinir, ancak pazar yenidir. Her ikisinde de yalnızca bir boyut (ürün ya da pazar) yeni olduğundan risk düzeyi benzerdir ve orta düzeydedir. \"Yeni ürünle yeni pazara girme stratejisi (Çeşitlendirme)\" seçeneği iki boyutun birden yeni olması nedeniyle çok daha risklidir. \"Mevcut ürünle mevcut pazarda derinleşme stratejisi (Pazar Penetrasyonu)\" seçeneği ise en düşük riskli stratejidir. Doğru cevap \"Mevcut ürünle yeni pazara girme stratejisi (Pazar Geliştirme)\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1308,7 +1308,7 @@
    "Kontrol alanının genişlemesi hiyerarşiyi düzleştirir; ancak yönetici başına denetlenen personel sayısını artırarak yönetim yükünü yoğunlaştırabilir."
   ],
   "dogru": 4,
-  "aciklama": "Kontrol alanı (denetim kapsamı) genişledikçe aynı çalışan sayısı için daha az hiyerarşik kademe gerekir → yapı yassılaşır (flat organization). Bu, iletişim hızını artırır ve yönetici maliyetini düşürür. Ancak her yönetici daha fazla personeli denetlemek zorunda kalır; bu da aşırı yüklenme, denetim kalitesinin düşmesi ve koordinasyon güçlüğü risklerini doğurur. A yanlıştır: kontrol alanı artınca kademe azalır. B yanlıştır: koordinasyon maliyeti yönetici üzerinde yoğunlaşır. C yanlıştır: kontrol alanı daraldıkça yönetici sayısı artar. E yanlıştır: dar kontrol alanı derin (tall) yapıyla ilişkilidir.",
+  "aciklama": "Kontrol alanı, bir yöneticiye doğrudan bağlı çalışan sayısıdır. Kontrol alanı genişledikçe aynı sayıdaki çalışanı denetlemek için daha az yönetici ve daha az hiyerarşi kademesi gerekir; yapı yassılaşır. Bunun bedeli, yönetici başına düşen personel sayısının artması ve yönetim yükünün yoğunlaşmasıdır. \"Dar kontrol alanı ile yassı örgüt yapısı birbirinin eş anlamlısıdır.\" ifadesi yanlıştır; dar kontrol alanı uzun, dikey yapıya yol açar. \"500 çalışanlı bir işletmede kontrol alanı 5'ten 10'a çıkarıldığında hiyerarşi kademeleri artar.\" ifadesi de yanlıştır; kontrol alanı genişleyince kademe sayısı azalır. Doğru cevap \"Kontrol alanının genişlemesi hiyerarşiyi düzleştirir; ancak yönetici başına denetlenen personel sayısını artırarak yönetim yükünü yoğunlaştırabilir.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1324,7 +1324,7 @@
    "Herzberg'in motivatörleri ↔ Maslow'un saygınlık ve öz-gerçekleştirme ihtiyaçları"
   ],
   "dogru": 2,
-  "aciklama": "Herzberg'in motivatörleri (başarı, tanınma, işin kendisi, sorumluluk, ilerleme) Maslow'un üst düzey ihtiyaçlarına (saygınlık ve öz-gerçekleştirme) karşılık gelir. D seçeneği ise motivatörleri Maslow'un alt düzey ihtiyaçları olan fizyolojik ve güvenlik ihtiyaçlarıyla eşleştirmektedir; bu yanlıştır. Fizyolojik ve güvenlik ihtiyaçları, Herzberg'in hijyen faktörlerine (maaş, iş güvencesi, çalışma koşulları) karşılık gelir. Diğer seçenekler teorik açıdan doğru eşleştirmeleri yansıtmaktadır.",
+  "aciklama": "Herzberg'in hijyen faktörleri (ücret, çalışma koşulları, güvenlik, kişilerarası ilişkiler) Maslow'un alt düzey ihtiyaçlarıyla, yani fizyolojik, güvenlik ve sosyal ihtiyaçlarla örtüşür. Motivatörler (başarı, tanınma, sorumluluk, gelişme) ise üst düzey ihtiyaçlarla, yani saygınlık ve öz-gerçekleştirme ile eşleşir. Dolayısıyla motivatörleri fizyolojik ve güvenlik ihtiyaçlarına bağlamak yanlış bir eşleştirmedir. \"Herzberg'in hijyen faktörleri ↔ Maslow'un fizyolojik, güvenlik ve sosyal ihtiyaçları\" eşleştirmesi ise doğrudur; bu yüzden soruda aranan seçenek değildir. Aynı şekilde \"Herzberg'in motivatörleri ↔ Maslow'un saygınlık ve öz-gerçekleştirme ihtiyaçları\" eşleştirmesi de doğrudur. Doğru cevap \"Herzberg'in motivatörleri ↔ Maslow'un fizyolojik ve güvenlik ihtiyaçları\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1340,7 +1340,7 @@
    "Taklit edilebilirlik – Müşteri değeri yaratma – Geniş pazar uygulanabilirliği – Kısa sürede geliştirilebilirlik"
   ],
   "dogru": 0,
-  "aciklama": "Prahalad ve Hamel (1990) temel yeteneği üç kritere göre tanımlar: (1) Müşteri için algılanan değere önemli katkı sağlamalı, (2) Rakipler tarafından kolayca taklit edilememeli, (3) Birden fazla ürün veya pazara uygulanabilir olmalı (geniş erişim). B seçeneği bu üç koşulu doğru olarak listeler. A seçeneğinde 'taklit edilebilirlik' yanlışlıkla pozitif koşul olarak sunulmuştur. C ve E yanlış kriterler içerir. D seçeneği Barney'nin VRIN/VRIO çerçevesini tanımlar; bu ilgili ancak farklı bir kavramsal çerçevedir.",
+  "aciklama": "Prahalad ve Hamel'e göre bir yeteneğin temel yetenek sayılması için üç koşul aranır: müşteriye algılanabilir bir değer katması, rakiplerce taklit edilmesinin zor olması ve birçok farklı ürün ya da pazara açılma imkânı vermesi. İlk seçenek bu üçlüyü eksiksiz içerir. \"Nadir bulunma – Değer yaratma – Organize yapı (VRIN çerçevesi)\" seçeneği, Prahalad ve Hamel'e değil kaynak temelli yaklaşımda Barney'nin çerçevesine (VRIO/VRIN) aittir. \"Yüksek kâr marjı – Ölçek ekonomisi – Müşteri değeri yaratma\" seçeneğindeki kâr marjı ve ölçek ekonomisi ise temel yetenek koşulları arasında yer almaz. Doğru cevap \"Müşteri değeri yaratma – Rakipler tarafından kolayca taklit edilememe – Farklı ürün/pazarlara uygulanabilirlik\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1356,7 +1356,7 @@
    "Değiştirme aşaması – Pilotlama ve küçük kazanımlar elde etme"
   ],
   "dogru": 3,
-  "aciklama": "Lewin modelinde direncin en yüksek olduğu aşama 'Çözme (Unfreezing)' aşamasıdır; çünkü bireyler mevcut dengeyi terk etmeye henüz hazır değildir. Bu aşamada psikolojik güvenlik yaratarak ve mevcut durumun sürdürülemezliğini veri/kanıtlarla göstererek 'değişme isteği' oluşturmak gerekir (Schein'ın 'survival anxiety' ve 'psychological safety' kavramları). C seçeneği bu stratejiyi doğru tanımlar. A değiştirme aşamasına aittir. B yeniden dondurma aşamasına uygundur. D ve E zorlayıcı baskı yöntemleri olup direnci artırabileceğinden önerilen stratejiler değildir.",
+  "aciklama": "Lewin'in modelinde değişime direnç en çok çözme aşamasında ortaya çıkar; çünkü çalışanlar alışkın oldukları düzenin bozulmasından rahatsız olur. Bu aşamada amaç, mevcut durumun yetersiz olduğunu göstererek değişim ihtiyacına dair farkındalık ve hazırlık oluşturmaktır. Bunun en uygun yolu, mevcut durumun yetersizliğini ortaya koyan verileri paylaşmaktır. \"Çözme aşaması – Yeni davranış biçimlerini zorunlu kılmak için cezai yaptırımlar uygulamak\" seçeneği direnci azaltmak yerine artırır; ayrıca yeni davranışlar çözme aşamasında değil, değiştirme aşamasında kazandırılır. \"Yeniden Dondurma aşaması – Yeni davranışları ödüllendirme sistemleri kurma\" seçeneği ise yeni davranışları kalıcılaştırma aşamasını anlatır, direncin kırıldığı aşamayı değil. Doğru cevap \"Çözme aşaması – Mevcut durumun yetersizliğini ortaya koyan verilerle farkındalık yaratma\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1372,7 +1372,7 @@
    "İkame ürünü üreten sektör yüksek giriş engelleriyle korunduğunda"
   ],
   "dogru": 1,
-  "aciklama": "Porter'a göre ikame tehdidi; ikame ürünün fiyat/performans oranının üstünlüğü, müşterilerin değiştirme eğilimi ve değiştirme maliyetlerinin düşüklüğüyle orantılı olarak artar. C seçeneğinde bu üç etken aynı anda olumsuz yöndedir: ikame hem daha cazip hem de geçişi ucuz/kolay kılmaktadır; bu kombinasyon sektör kârlılığını en fazla baskı altına alır. A seçeneğinde yüksek değiştirme maliyeti tehdidi azaltır. B seçeneğinde farklı ihtiyaç karşılama ikamenin doğrudan baskısını sınırlar. D ve E ikame tehdidiyle değil, ikameyi sunan sektörün yapısıyla ilgilidir.",
+  "aciklama": "İkame ürün tehdidi, ikamenin müşteriye daha iyi bir fiyat/performans sunduğu, geçiş maliyetinin düşük olduğu ve müşterilerin ikameye yönelmeye istekli olduğu durumda en yüksek olur. Bu üç koşul bir arada bulunduğunda müşteriler kolayca ikameye kayar ve sektör fiyatlarını yükseltemez; kârlılık baskı altına girer. \"İkame ürünün fiyatı yüksek ve müşteri değiştirme maliyeti (switching cost) yüksek olduğunda\" seçeneği tehdidi azaltır; çünkü müşteri geçiş yapmak için bir neden görmez. \"İkame ürünün marka sadakati güçlü olduğunda\" seçeneği ise ikamenin cazibesini artırıp tehdidi güçlendirse de, düşük geçiş maliyeti ve üstün fiyat/performans koşullarını birlikte kapsamaz. Doğru cevap \"İkame ürünün fiyat/performans oranı üstün, müşteri değiştirme maliyeti düşük ve ikameye yönelik müşteri eğilimi yüksek olduğunda\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1388,7 +1388,7 @@
    "(5,5) yöneticisi belirgin biçimde daha yüksek çalışan memnuniyeti elde ederken, (9,9) yöneticisi yalnızca daha yüksek verimlilik elde eder. Bu fark ampirik olarak da doğrulanmıştır."
   ],
   "dogru": 1,
-  "aciklama": "Blake-Mouton matrisinde (5,5) 'Orta Yol Yönetimi'; üretim ve insan kaygıları arasında uzlaşma/denge kurmayı hedefler – her ikisini de tam olarak karşılamadan 'yeterince iyi' düzeyde tutar. (9,9) 'Ekip Yönetimi' ise bu iki boyutun birbirini dışlamadığı anlayışıyla; yüksek motivasyon, ortak amaçlar ve güven ortamı sayesinde hem maksimum üretim hem de maksimum insan odağını eş zamanlı gerçekleştirmeyi hedefler. B seçeneği bu temel ayrımı doğru biçimde ifade etmektedir. Diğer seçenekler ya her iki tarzı yanlış tanımlar ya da aralarındaki farkı önemsizleştirir.",
+  "aciklama": "Blake ve Mouton'un matrisinde (5,5) tarzı, üretim ve insan ilgisi arasında orta düzeyde bir denge kurar; yönetici çoğu zaman uzlaşmayla yetinir. (9,9) tarzında ise yüksek üretim ve yüksek insan ilgisi çatışan değil, birbirini destekleyen hedefler olarak bütünleştirilir. Fark, ilgi düzeyinin orta ya da yüksek olması kadar, iki boyutun nasıl ilişkilendirildiğindedir. \"(9,9) tarzı otoriter bir yaklaşımı temsil ederken, (5,5) tarzı demokratik yönetimi temsil eder.\" seçeneği yanlıştır; otoriter yaklaşım (9,1) konumuna aittir. \"(9,9) yöneticisi üretime tam odaklanırken, (5,5) yöneticisi insana daha fazla önem verir.\" seçeneği de yanlıştır; üretime tam odak yine (9,1) tarzıdır. Doğru cevap \"(5,5) yöneticisi uzlaşma ve denge arayışındayken\" ifadesiyle başlayan seçenektir.",
   "zorluk": "zor"
  },
  {
@@ -1404,7 +1404,7 @@
    "Argyris ve Schön'e göre savunma rutinleri (defensive routines) çift döngülü öğrenmenin önündeki en önemli engellerden biridir."
   ],
   "dogru": 2,
-  "aciklama": "D seçeneği yanlıştır; çünkü çift döngülü öğrenme tam olarak örgüt kültürünü, temel varsayımları ve zihniyet modellerini sorgulamayı ve dönüştürmeyi hedefler. Yalnızca prosedürel düzeltme yapmak tek döngülü öğrenmenin tanımıdır. Argyris ve Schön'e göre çift döngülü öğrenmede örgüt; 'neden bu hedefleri koyuyoruz?', 'hangi değerler bu politikaları belirliyor?' sorularını sorar ve temelden yeniden yapılanmaya gider. Diğer seçenekler (A, B, C, E) teorik açıdan doğru ifadeler içermektedir.",
+  "aciklama": "Argyris ve Schön'e göre tek döngülü öğrenme, hedef ve değerleri sorgulamadan hataları düzeltmektir; termostatın ısıyı ayarlaması buna örnektir. Çift döngülü öğrenme ise eylemin ardındaki varsayımları, değerleri ve politikaları da sorgular, dolayısıyla zihniyet modellerinin ve kültürün değişmesini hedefler. Bu nedenle \"Çift döngülü öğrenme, örgüt kültürünü ve zihniyet modellerini değiştirmeyi hedeflemez; yalnızca prosedürel düzeltmeler yapar.\" ifadesi çift döngülü öğrenmeyi tek döngülü öğrenme gibi tanımlar ve yanlıştır. \"Tek döngülü öğrenmede örgütler, mevcut hedef ve değerlerini sorgulamadan hataları düzelterek davranışlarını ayarlar.\" ifadesi ise doğrudur, soruda aranan değildir. Doğru cevap \"Çift döngülü öğrenme, örgüt kültürünü ve zihniyet modellerini değiştirmeyi hedeflemez; yalnızca prosedürel düzeltmeler yapar.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1532,7 +1532,7 @@
    "Ademi merkeziyetçilik her zaman verimsizliğe yol açar; merkezi yapıya dönülmelidir"
   ],
   "dogru": 2,
-  "aciklama": "Ademi merkeziyetçilik (decentralization) literatüründe yetki devrinin başarısı; yöneticilerin yetkinliği, uygun hesap verebilirlik sistemleri (performans ölçümü, raporlama), bilgi asimetrisi düzeyi ve teşvik yapısıyla doğrudan ilişkilidir. Yalnızca yetki devretmek, bu destekleyici mekanizmalar olmadan hem israf hem de başarı üretebilir; nitekim bu örnekte de her ikisi aynı anda gerçekleşmiştir. Bu durum 'ya tamamen merkezi ya tamamen özerk' gibi ikili bir sonuç değil, koşullu başarıyı göstermektedir. A yanlış genellemedir; B kısmi açıklamadır; D ampirik dayanaktan yoksundur; E ise Mintzberg'e göre hatalıdır zira profesyonel bürokrasilerde operatif çekirdek zaten geniş özerkliğe sahiptir.",
+  "aciklama": "Yetki devri, kararların daha hızlı ve yerel bilgiye dayalı alınmasını sağlar; ancak sonuçlar klinik yöneticilerinin kapasitesine ve karar sonuçlarının izlenip hesap sorulmasına bağlıdır. Bu nedenle bazı kliniklerin israf yapması, bazılarının başarılı olması bu iki koşulun klinikler arasında farklı düzeyde sağlanmasıyla açıklanır. \"Ademi merkeziyetçilik her zaman verimsizliğe yol açar; merkezi yapıya dönülmelidir\" seçeneği, karışık sonuçları tek yönlü ve genelleyici biçimde yorumladığı için yanlıştır. \"Yetki devri başarısız olmuştur çünkü klinik yöneticileri yeterince eğitilmemiştir\" seçeneği ise yalnızca eğitim eksikliğine odaklanır ve başarılı klinikleri ile hesap verebilirlik boyutunu açıklamaz. Doğru cevap \"Ademi merkeziyetçiliğin başarısı yöneticilerin kapasite ve hesap verebilirlik mekanizmalarıyla birleştiğinde ortaya çıkar\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1580,7 +1580,7 @@
    "Bir firma temel yetkinliklerini dış pazara taşımaya çalışmakta ancak kültürel engeller nedeniyle başarısız olmaktadır"
   ],
   "dogru": 3,
-  "aciklama": "Stratejik uyum (Porter, Andrews) mevcut kaynaklar ile çevre arasındaki uyumu optimize etmeye odaklanırken dinamik yetenek yaklaşımı (Teece, Pisano, Shuen) firmanın kaynak tabanını yeniden yapılandırma, entegre etme ve dönüştürme kapasitesini ön plana alır. B seçeneğinde firma tam olarak bu ikilemi yaşamaktadır: mevcut uyumu korurken değişen çevreye uyum sağlama kapasitesini (dynamik yetenek) ihmal etmekte, dolayısıyla 'uyum tuzağına' (alignment trap) düşmektedir. Diğer seçenekler kaynak-yetenek uyumsuzluğu (A), jenerik strateji gerilimi (C), uluslararasılaşma sorunu (D) veya değer yaratma meselesini (E) ele almaktadır.",
+  "aciklama": "Stratejik uyum, firmanın kaynaklarını mevcut çevreye ve pazar konumuna göre hizalayıp optimize etmesini vurgular. Dinamik yetenek yaklaşımı ise değişen çevreye göre kaynakları yeniden yapılandırma becerisini öne çıkarır. Gerilim, mevcut konumu korumaya yönelik optimizasyonun yeniden yapılanma kapasitesini zayıflatmasında ortaya çıkar. \"Bir firma hem maliyet liderliği hem de farklılaşma stratejisini eş zamanlı uygulamaya çalışmakta ve 'ikisi arasında sıkışmak' riskiyle karşı karşıyadır\" seçeneği Porter'ın genel stratejiler tartışmasına aittir; uyum ile dinamik yetenek gerilimini göstermez. \"Bir firma çevre analizinde güçlü fırsatlar tespit etmiş ancak iç kaynakları bu fırsatları karşılayacak kapasitede değildir\" seçeneği ise kaynak yetersizliğini anlatır. Doğru cevap \"Bir firma mevcut pazar konumunu korumak için kaynakları optimize etmekte\" ifadesiyle başlayan seçenektir.",
   "zorluk": "zor"
  },
  {
@@ -1596,7 +1596,7 @@
    "Araştırmalar, informal grupların ve sosyal normların çalışan davranışını fiziksel çalışma koşullarından daha güçlü biçimde etkilediğini ortaya koymuş; aynı zamanda 'gözlemlendiğini bilen deneklerin davranışlarını değiştirdiği' (Hawthorne etkisi) metodolojik bulgusunu üretmiştir"
   ],
   "dogru": 4,
-  "aciklama": "Hawthorne araştırmaları (1924-1932, Mayo ve ekibi) iki kritik bulguyu ortaya koymuştur: (1) Teorik katkı: Fiziksel koşullar (ışık, ısı vb.) değil; grup normları, aidiyet duygusu ve denetçiyle ilişki gibi sosyal faktörler verimliliği belirleyen asıl unsurlardır; bu bulgu insan ilişkileri hareketinin (Human Relations Movement) doğmasına yol açmıştır. (2) Metodolojik katkı: Deneklerin gözlemlendiğinin farkında olmaları verimliliklerini bağımsız olarak artırmış; bu olgu 'Hawthorne etkisi' olarak sosyal bilimlerin temel metodolojik sorunlarından biri hâline gelmiştir. Diğer seçenekler ya yanlış içerik sunar (A, C, E) ya da kronolojik olarak Hawthorne'dan bağımsız gelişmiş teorileri (D) hatalı biçimde ilişkilendirir.",
+  "aciklama": "Hawthorne araştırmaları (Elton Mayo ve ekibi) başlangıçta aydınlatma gibi fiziksel koşulların verimliliğe etkisini ölçmeyi amaçlamıştır. Sonuçlar, verimlilikteki değişimin fiziksel koşullardan çok informal grup ilişkileri, sosyal normlar ve çalışanların kendilerine gösterilen ilgiden kaynaklandığını göstermiştir. Ayrıca gözlemlendiğini bilen deneklerin davranışlarını değiştirmesi, yani Hawthorne etkisi, önemli bir metodolojik bulgu olmuştur. Bu iki bulgu birlikte insan ilişkileri yaklaşımının temelini oluşturur. Maslow'un hiyerarşisini doğruladığını öne süren seçenek yanlıştır; Hawthorne çalışmaları Maslow'dan bağımsızdır ve onu test etmemiştir. \"Araştırmalar, aydınlatma koşullarının verimlilik üzerindeki doğrusal etkisini istatistiksel olarak kanıtlamıştır\" seçeneği de yanlıştır; aydınlatma ile verimlilik arasında tutarlı bir ilişki bulunamamıştır. Doğru cevap \"Araştırmalar, informal grupların ve sosyal normların çalışan davranışını fiziksel çalışma koşullarından daha güçlü biçimde etkilediğini ortaya koymuş\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1628,7 +1628,7 @@
    "Bir firmanın kıt yönetim kaynağını yönetim kurulu bağlantıları aracılığıyla edinmesi"
   ],
   "dogru": 3,
-  "aciklama": "Kaynak bağımlılığı perspektifi (Pfeffer & Salancik), örgütlerin hayatta kalmak için kritik kaynakları denetim altında tutmaya veya bağımlılıklarını azaltmaya çalıştığını savunur; davranış rasyonel ve araçsaldır. Kurumsal teori (DiMaggio & Powell, Meyer & Rowan) ise örgütlerin yalnızca etkinlik/kaynak gerekçesiyle değil, toplumsal meşruiyet kazanmak amacıyla da çevrelerindeki dominant normları, mitleri ve baskıları benimsediğini (izomorfizm) öne sürer. B seçeneğinde firma, kârlılığa katkısı kanıtlanmamış bir uygulamayı yalnızca sektörde bu uygulamanın norm hâline gelmesi nedeniyle benimsemektedir; bu taklit izomorfizmidir ve kaynak bağımlılığıyla açıklanamaz. C seçeneği ise zorlayıcı izomorfizm ile kaynak bağımlılığının örtüştüğü bir durumdur.",
+  "aciklama": "Kaynak bağımlılığı perspektifi, örgütlerin kritik kaynaklara erişim ve dış bağımlılığı yönetme çabasını açıklar. Kurumsal teori ise örgütlerin meşruiyet kazanmak için çevrelerindeki normlara, modalara ve rakiplerin uygulamalarına uyum sağladığını (taklitçi eşbiçimlilik) savunur. Rakipler benimsediği için, kârlılığa katkısı kanıtlanmamış ISO sertifikasyonuna girmek kaynak ihtiyacıyla değil meşruiyet ve taklit kaygısıyla açıklanır. Bu nedenle kurumsal teori burada daha güçlüdür. \"Bir firmanın kritik hammadde tedarikçisiyle stratejik ortaklık kurarak bağımlılığını azaltması\" seçeneği doğrudan kaynak bağımlılığının örneğidir. \"Bir firmanın dış finansman sağlamak amacıyla yatırımcıların talep ettiği raporlama standartlarını benimsemesi\" seçeneği de finansman kaynağına erişim amacı taşıdığı için kaynak bağımlılığıyla açıklanabilir. Doğru cevap \"Bir firmanın, sektörde rakip firmalar benzer uygulamaları benimsemiş olduğu için\" kârlılığa katkısı kanıtlanmamış ISO sertifikasyon süreçlerine girmesi seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1676,7 +1676,7 @@
    "Dar denetim alanı – Organik örgüt"
   ],
   "dogru": 1,
-  "aciklama": "Burns ve Stalker'ın mekanik-organik örgüt ayrımında organik örgütler; düşük biçimselleşme, geniş ve esnek denetim alanı, merkezi olmayan karar alma, yanal (yatay) iletişim ağırlığı ve çapraz fonksiyonel esneklikle tanımlanır. Mekanik örgütler ise yüksek biçimselleşme, dikey iletişim, merkezi otorite ve katı uzmanlaşmayla karakterizedir. Seçenekleri tek tek değerlendirdiğimizde; A, B, C ve E mekanik örgüt özelliklerini organik örgüte yanlış atfetmektedir. Yalnızca D seçeneği olan 'yatay iletişim ağırlığı' organik örgütün doğru bir özelliğidir.",
+  "aciklama": "Burns ve Stalker'a göre mekanik örgüt istikrarlı çevreye uygundur; merkezi karar alma, yüksek biçimselleşme, dar yönetim alanı ve yüksek uzmanlaşma ile dikey iletişim bu yapının özellikleridir. Organik örgüt ise değişken çevreye uyum sağlar; esnek, katılımcı, yetkinin dağıtıldığı ve iletişimin yatay ve danışma niteliğinde olduğu bir yapıdır. Dolayısıyla yatay iletişim organik yapıyla eşleşir. \"Merkezi karar alma – Organik örgüt\" yanlıştır, çünkü merkezileşme mekanik yapının özelliğidir. \"Yüksek biçimselleşme – Organik örgüt\" de yanlıştır, çünkü organik yapıda kurallar ve prosedürler azdır. Doğru cevap \"Yatay iletişim ağırlığı – Organik örgüt\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1708,7 +1708,7 @@
    "İşletmenin hedeflerine duygusal bağlılığının azalması nedeniyle çalışanın pasif kalması"
   ],
   "dogru": 0,
-  "aciklama": "Örgütsel sinizm (organizational cynicism); Dean, Brandes ve Dharwadkar tarafından üç boyutlu tanımlanmıştır: bilişsel boyut (örgütün dürüstlük, adalet, samimiyetten yoksun olduğuna inanmak), duygusal boyut (örgüte karşı olumsuz duygu beslemek) ve davranışsal boyut (örgüt hakkında eleştirel, alaycı davranışlar sergilemek). A seçeneği tükenmişliği, C seçeneği kişilik çatışmasını, D seçeneği örgütsel bağlılık kaybını (özellikle duygusal bağlılık), E seçeneği ise devam bağlılığını tanımlamaktadır. Yalnızca B, örgütsel sinizmin üç boyutunu bütünleşik olarak yansıtmaktadır.",
+  "aciklama": "Örgütsel sinizm, çalışanın örgütün dürüstlük, adalet ve samimiyet ilkelerinden yoksun olduğuna dair genel bir inanç geliştirmesidir. Bu inanç duygusal tepkiler (öfke, aşağılama) ve olumsuz, alaycı davranışlarla birlikte görülür; yani bilişsel, duygusal ve davranışsal boyutları vardır. Hedef belirli bir kişi değil, örgütün bütünüdür. \"Çalışanın belirli bir amire karşı kişisel antipati geliştirmesi\" seçeneği yanlıştır; çünkü bu kişisel bir hoşnutsuzluktur ve örgüte yönelik genel bir inanç içermez. \"Bir çalışanın iş yüküne bağlı olarak tükenmişlik yaşaması ve işe devamsızlık göstermesi\" seçeneği de yanlıştır; çünkü tükenmişlik iş yükünden doğar, örgütün ahlaki niteliğine dair inançtan doğmaz. Doğru cevap \"Çalışanın, örgütün dürüstlük ve adalet ilkelerinden yoksun olduğuna dair genel bir inanç\" geliştirmesi seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1740,7 +1740,7 @@
    "Finansal hedeflerin gerçekçi olmayan düzeyde belirlenmiş olması"
   ],
   "dogru": 3,
-  "aciklama": "Balanced Scorecard'da dört perspektif (finansal, müşteri, iç süreçler, öğrenme-büyüme) bir strateji haritası aracılığıyla nedensellik zinciriyle birbirine bağlanır: öğrenme-büyüme → iç süreçler → müşteri → finansal sonuçlar. Eğer öğrenme-büyüme perspektifi iyileşiyor ama finansal sonuçlar elde edilemiyorsa, en güçlü açıklama bu nedensellik zincirinin hatalı kurgulanmış olmasıdır; yani hangi öğrenme-büyüme göstergesinin hangi finansal çıktıya yol açacağının yanlış modellenmiş olmasıdır. Diğer seçenekler olası olmakla birlikte, BSC'nin teorik çerçevesindeki temel zayıflığı en doğru biçimde A seçeneği açıklamaktadır.",
+  "aciklama": "Dengeli Puan Kartı'nın temel varsayımı, perspektifler arasında nedensellik zinciri bulunmasıdır: öğrenme ve büyüme, iç süreçleri; süreçler müşteri sonuçlarını; müşteri sonuçları da finansal sonuçları etkiler. Öğrenme ve büyüme göstergeleri iyileşmesine rağmen finansal hedeflere ulaşılamıyorsa, en güçlü açıklama bu zincirin işletmeye özgü doğru kurulmamış olmasıdır; yani iyileşen göstergeler finansal sonuca bağlanmamıştır. \"Öğrenme ve büyüme göstergelerinin yanlış ölçülmesi\" seçeneği yanlıştır, çünkü soruda bu göstergelerin iyileştiği belirtilmiştir ve sorun ölçümden çok bağlantıdadır. \"Finansal hedeflerin gerçekçi olmayan düzeyde belirlenmiş olması\" seçeneği ise zincirin kurgusunu değil hedef düzeyini sorgular ve daha zayıf bir açıklamadır. Doğru cevap \"BSC'nin dört perspektifi arasındaki nedensellik zincirinin\" işletmeye özgü doğru biçimde modellenmemiş olması seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1772,7 +1772,7 @@
    "Beceri çeşitliliği, geri bildirim, görev bütünlüğü"
   ],
   "dogru": 0,
-  "aciklama": "Hackman ve Oldham'ın İş Özellikleri Modeli'nde beş temel iş boyutu üç psikolojik durumu oluşturur: 'Yaşanan anlamlılık' (experienced meaningfulness); beceri çeşitliliği (skill variety), görev bütünlüğü (task identity) ve görev önemi (task significance) tarafından belirlenir. 'Yaşanan sorumluluk' (experienced responsibility) yalnızca özerklik (autonomy) tarafından; 'sonuçların bilgisi' (knowledge of results) ise yalnızca geri bildirim (feedback) tarafından belirlenir. Soruda yalnızca B seçeneği, yaşanan anlamlılığı oluşturan üç boyutu eksiksiz ve doğru olarak bir arada vermektedir.",
+  "aciklama": "Hackman ve Oldham'ın modelinde beş çekirdek iş boyutu üç psikolojik durumu belirler. Yaşanan anlamlılığı beceri çeşitliliği, görev bütünlüğü ve görev önemi belirler. Özerklik, yaşanan sorumluluğu; geri bildirim ise sonuçların bilgisini belirler. Bu nedenle yalnızca ilk üç boyutu içeren küme doğrudur. \"Görev önemi, özerklik, geri bildirim\" seçeneği yanlıştır, çünkü özerklik ve geri bildirim anlamlılığı değil sırasıyla sorumluluk ve sonuç bilgisini etkiler. \"Özerklik, görev bütünlüğü, beceri çeşitliliği\" seçeneği de yanlıştır, çünkü özerklik anlamlılık boyutlarından biri değildir. Doğru cevap \"Beceri çeşitliliği, görev bütünlüğü, görev önemi\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1820,7 +1820,7 @@
    "Veri noktalarının ortalama etrafında simetrik dağılım göstermesi"
   ],
   "dogru": 0,
-  "aciklama": "İstatistiksel proses kontrolünde kontrol grafikleri (Shewhart grafikleri) kullanılırken, bir sürecin kontrol dışına çıktığına dair çeşitli istatistiksel sinyaller tanımlanmıştır. 'Art arda 7 nokta kuralı' (run of 7 rule veya Western Electric kuralları): Eğer ardışık 7 veya daha fazla veri noktası ortalama çizgisinin aynı tarafında yer alıyorsa, bu durum rastlantısal varyasyonla açıklanamaz ve sistemik bir nedenin varlığına işaret eder; süreç istatistiksel olarak kontrol dışındadır. Kontrol sınırları arasında rastgele dağılım (A) ve ortalama etrafında simetrik dağılım (D) kontrol içi durumu gösterir. E seçeneği imkânsız bir durumu, B seçeneği ise kontrol içi normal dağılımı tanımlar.",
+  "aciklama": "Kontrol grafiklerinde süreç yalnızca sınır dışına çıkan noktalarla değil, rastgele olmayan örüntülerle de kontrol dışı sayılır. Art arda yedi (bazı kurallarda sekiz) noktanın merkez çizgisinin aynı tarafında yer alması, sürekli bir kayma (shift) veya eğilim olduğunu gösterir ve atanabilir neden işaretidir. Rastgele dağılım ve simetrik dağılım ise sürecin sadece olağan değişkenlikle çalıştığını, yani kontrol altında olduğunu gösterir. \"Veri noktalarının üst ve alt kontrol sınırları arasında rastgele dağılması\" seçeneği bu yüzden yanlıştır. \"Üst kontrol sınırının altında kalan ancak ortalamaya yakın seyreden veri noktaları\" seçeneği de normal değişkenliği anlatır, kontrol dışı örüntü değildir. Doğru cevap \"Art arda gelen yedi veri noktasının tamamının ortalama çizgisinin aynı tarafında yer alması\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1836,7 +1836,7 @@
    "Duruma göre hem öncü hem savunmacı stratejileri uygulayan, çift yapılı (dual structure) hibrit bir yaklaşım sergileyen"
   ],
   "dogru": 4,
-  "aciklama": "Miles ve Snow (1978) dört stratejik tip tanımlamıştır: Öncü (Prospector) – sürekli yenilik ve yeni pazarlar; Savunmacı (Defender) – mevcut pazarda verimlilik ve istikrar; Analizci (Analyzer) – hem mevcut pazarları verimli yönetip hem de sınırlı düzeyde yenilik ve yeni pazar takibini dengeleyen hibrit strateji; Tepkici (Reactor) – tutarsız ve reaktif strateji. Analizci stratejinin en belirgin özelliği çift yapılı (dual structure) yaklaşımıdır: istikrarlı ürün alanlarında savunmacı gibi davranırken, dinamik alanlarda öncüyü izleyip ikinci hamle avantajı arar. Bu hibrit yapı yalnızca C seçeneğinde doğru biçimde tanımlanmıştır.",
+  "aciklama": "Miles ve Snow tipolojisinde dört tip vardır: savunmacı, öncü (keşfedici), analizci ve tepkici. Analizci işletme, bir yandan istikrarlı ve kurulu pazarlarda savunmacı gibi verimlilikle çalışır, diğer yandan yeni ürün ve pazarları öncülerin deneyimlerini izleyerek, seçici biçimde benimser. Bu nedenle öncü ve savunmacı özellikleri birleştiren hibrit bir yapı sergiler. \"Mevcut pazar konumunu korumak amacıyla verimlilik ve maliyet kontrolüne odaklanan savunmacı\" seçeneği savunmacı tipi tanımlar. \"Sürekli yenilik peşinde koşan, risk toleransı yüksek, geniş ürün portföyüne sahip öncü\" seçeneği ise öncü tipi tanımlar. Doğru cevap \"Duruma göre hem öncü hem savunmacı stratejileri uygulayan\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1868,7 +1868,7 @@
    "Elton Mayo – Hawthorne araştırmaları, sosyal ilişkilerin verimliliğe etkisi"
   ],
   "dogru": 2,
-  "aciklama": "Bu soruda yanlış eşleştirme E seçeneğidir. Max Weber bürokratik yönetim teorisinin kurucusudur; rasyonel-yasal otorite, hiyerarşi, yazılı kurallar, liyakate dayalı atama ve kişisellikten arınmış yapılar gibi ilkeleri geliştirmiştir. Weber'in bilimsel yönetimle ya da zaman-hareket etütleriyle bir ilgisi yoktur; bu yöntemler Frederick Taylor'a aittir. Weber bir sosyolog olarak bürokratik örgüt modelini teorik olarak analiz etmiş, Taylor ise bir mühendis olarak atölye düzeyinde verimliliği artırmaya yönelik pratik yöntemler geliştirmiştir. Diğer tüm eşleştirmeler doğrudur.",
+  "aciklama": "Max Weber, bürokrasi kuramının geliştiricisidir; kurallara, hiyerarşiye, uzmanlaşmaya ve yazılı belgelere dayanan ideal bir örgüt modeli tanımlamıştır. Bilimsel yönetim ve zaman etütleri ise Frederick Taylor'a aittir; Weber bu ilkeleri bürokrasiye uyarlamamıştır. Bu nedenle eşleştirme hem katkı hem de yaklaşım bakımından yanlıştır. \"Frederick Taylor – Bilimsel yönetim, zaman-hareket etütleri ile iş standartlaştırma\" eşleştirmesi doğrudur. \"Chester Barnard – Örgütü işbirliği sistemi olarak tanımlamak ve kabul teorisi\" eşleştirmesi de doğrudur; Barnard işbirliği sistemi ve otoritenin kabul teorisiyle bilinir. Doğru cevap \"Max Weber – Bilimsel yönetim ilkelerini bürokrasiye uyarlaması\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -2844,7 +2844,7 @@
    "İç başarısızlık maliyetlerini kabul edilebilir kalite düzeyinde sabitlemek"
   ],
   "dogru": 3,
-  "aciklama": "Kalite maliyet optimizasyonunun temel ilkesine göre önleme maliyetlerine yapılan her 1 birimlik yatırım, başarısızlık maliyetlerinde 4-10 birimlik tasarruf sağlar. Mevcut durumda iç+dış başarısızlık maliyetleri %60 gibi çok yüksek bir oran oluşturmaktadır; bu, önleme yatırımlarının yetersiz kaldığına işaret eder. A seçeneği yanlıştır; değerlendirme maliyetlerini artırmak hataları bulmayı kolaylaştırır ama hataların oluşmasını engellemez. B seçeneği Kabul Edilebilir Kalite Düzeyi (AQL) anlayışını yansıtır; TKY bu yaklaşımı reddeder. D seçeneği toplam maliyeti düşürmez. E seçeneği sistematik değildir. Önleme maliyetlerini artırmak (eğitim, süreç tasarımı, hata önleme sistemleri) uzun vadede tüm başarısızlık maliyetlerini düşürür. Doğru yanıt C'dir.",
+  "aciklama": "Kalite maliyetlerinde toplam başarısızlık payı %60'tır (iç %35 + dış %25), önleme payı ise yalnızca %15'tir. TKY yaklaşımına göre kusurun oluştuktan sonra bulunması ve düzeltilmesi, oluşmasının önlenmesinden çok daha pahalıdır. Bu nedenle önleme faaliyetlerine (eğitim, tasarım iyileştirme, süreç planlama) yapılan yatırım artırılmalıdır. Böylece başarısızlık ve değerlendirme maliyetleri düşer, toplam kalite maliyeti azalır. \"Değerlendirme maliyetlerini artırarak dış başarısızlıkları sıfıra indirmek\" seçeneği yanlıştır. Muayene kusuru önlemez, yalnızca bulur; dış başarısızlığı da tümüyle sıfırlayamaz. \"Dış başarısızlık maliyetlerini iç başarısızlıklara dönüştürerek müşteri kaybını önlemek\" seçeneği ise kusurun kaynağını gidermediği için kalıcı çözüm değildir. Doğru cevap \"Önleme maliyetlerine yapılan yatırımı artırarak toplam kalite maliyetini düşürmek\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -2924,7 +2924,7 @@
    "Ürün A için ürün odaklı, Ürün B için hücresel/grup teknolojisi, Ürün C için sabit konumlu yerleşim"
   ],
   "dogru": 4,
-  "aciklama": "Üretim hacmi-çeşitlilik matrisi (Vollmann matriksi / Hill framework) şu ilişkiyi ortaya koyar: Yüksek hacim + düşük çeşitlilik → Ürün odaklı (akış hattı) yerleşim; Orta hacim + orta çeşitlilik → Hücresel / Grup teknolojisi yerleşim; Düşük hacim + yüksek çeşitlilik → Süreç odaklı (iş atölyesi); Tek seferlik / çok düşük hacim → Sabit konumlu/proje tipi. A ürünü (80.000 birim, yüksek hacim): Ürün odaklı yerleşim; B ürünü (15.000 birim, orta hacim): Hücresel / Grup teknolojisi; C ürünü (3.000 birim, düşük hacim, proje niteliği): Sabit konumlu yerleşim. Bu eşleşme D seçeneğiyle örtüşmektedir. Doğru yanıt D'dir.",
+  "aciklama": "Üretim hacmi-çeşitlilik analizinde yüksek hacim ve düşük çeşitlilik ürün odaklı yerleşime, düşük hacim ve tek tip iş ise sabit konumlu yerleşime uygundur. Ürün A yılda 80.000 birimle en yüksek hacimdedir ve akış hattında standartlaşmış üretilir. Ürün C yılda 3.000 birimdir ve proje tipi üretimdedir. Ürün büyük veya taşınması zor olduğundan sabit konumlu yerleşim gerekir. Orta hacimli Ürün B için hücresel yerleşim ve grup teknolojisi, benzer parçaları gruplayarak iş atölyesinin esnekliğini akış hattının verimliliğiyle birleştirir. \"Tüm ürünler için ürün odaklı (akış hattı) yerleşim\" seçeneği yanlıştır. Düşük hacimli Ürün B ve C için akış hattı yatırımı ekonomik değildir. Doğru cevap \"Ürün A için ürün odaklı, Ürün B için hücresel/grup teknolojisi, Ürün C için sabit konumlu yerleşim\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -2988,7 +2988,7 @@
    "FMS, grup teknolojisiyle benzer parça ailelerini işlemede yüksek verim sağlar."
   ],
   "dogru": 1,
-  "aciklama": "FMS (Esnek Üretim Sistemi) hakkındaki ifadeleri değerlendirelim: A doğru; FMS orta seri üretimde etkilidir, tam seri veya tek parça üretimde avantajı azalır. B doğru; FMS tanımı gereği otomatik malzeme taşıma ve CNC makinelerin entegrasyonunu içerir. C doğru; grup teknolojisi ve FMS birbirini tamamlar. E doğru; FMS'nin en önemli özelliği esnekliktir (rota esnekliği, ürün esnekliği, miktar esnekliği). D YANLIŞTIR; FMS'nin birim maliyetleri hacimden bağımsız sabit tutması doğru değildir. FMS yüksek sabit yatırım maliyeti gerektirir; düşük hacimlerde birim maliyet yüksek olabilir. FMS'nin avantajı maliyet sabitleme değil, esneklik ve hazırlık süresi azaltmasıdır. Doğru yanıt D'dir.",
+  "aciklama": "FMS, otomatik malzeme taşıma sistemiyle bağlı CNC işleme merkezlerinden oluşur. Küçük ve orta parti üretimde, ürün karması değişse bile yüksek esneklik sağlar. Grup teknolojisiyle benzer parça aileleri üzerinde verimli çalışır. Ancak FMS yüksek yatırım maliyetli bir sistemdir ve birim maliyet hacimden bağımsız sabit kalmaz. Sabit maliyetler daha fazla birime yayıldıkça birim maliyet düşer. FMS'nin asıl avantajı esneklik, kısa hazırlık süresi ve karma üretim yeteneğidir. \"FMS, küçük ve orta büyüklükteki parti üretiminde özellikle etkindir.\" ifadesi doğrudur. \"FMS, ürün karması değişikliklerine hızla uyum sağlayabildiği için karma esneklik sunar.\" ifadesi de doğrudur. Doğru cevap \"FMS'nin en temel avantajı, ürün hacminden bağımsız olarak birim maliyetleri sabit tutmasıdır.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -3052,7 +3052,7 @@
    "Üretim akış süresinin kısalması, müşteri taleplerine daha hızlı yanıt verme kapasitesini artırmıştır"
   ],
   "dogru": 1,
-  "aciklama": "JIT felsefesinde hazırlık sürelerinin azaltılması, EOQ formülü gereği ekonomik parti büyüklüğünü AZALTIR (daha sık, daha küçük partiler). Hazırlık maliyeti EOQ'nun payında yer aldığından bu maliyet düşünce EOQ küçülür. Yani C şıkkındaki 'ekonomik parti büyüklüğünü artırarak üretim hacmini yükseltmiştir' ifadesi tamamen yanlıştır. JIT'in temel hedeflerinden biri küçük partilerle üretim yapabilmektir ve hazırlık sürelerini azaltmak bunu mümkün kılar. Diğer tüm seçenekler JIT'in gerçek faydalarını doğru biçimde tanımlamaktadır.",
+  "aciklama": "JIT'te hazırlık süresi kısalınca hazırlık maliyeti düşer. Ekonomik parti büyüklüğü hazırlık maliyetiyle doğru orantılı olduğundan bu büyüklük artmaz, küçülür. Parti büyüklüklerinin %70 küçülmesi de bunu doğrular. Bu nedenle ifade yanlıştır. Üretim hacmi artışı da bu mekanizmadan kaynaklanmaz. Diğer ifadeler doğrudur. Küçük partiler hatayı erken görünür kılar. Düşük stok, darboğazları ortaya çıkarır. Stok devir hızı 4'ten 20'ye çıkınca (5 kat) bağlı sermaye serbest kalır. Akış süresinin 15 günden 3 güne inmesi müşteriye daha hızlı yanıt sağlar. \"Küçülen parti büyüklükleri, hataların daha erken tespit edilmesini ve kalite iyileştirmesini desteklemiştir\" seçeneği bu nedenle doğru bir ifadedir. Doğru cevap \"Hazırlık sürelerinin azalması, ekonomik parti büyüklüğünü artırarak üretim hacmini yükseltmiştir\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -3068,7 +3068,7 @@
    "İki yöntem arasında uygulama zamanlaması açısından fark yoktur; yalnızca kullanılan araçlar farklıdır"
   ],
   "dogru": 3,
-  "aciklama": "Hedef maliyetleme (Target Costing), pazarın kabul edeceği satış fiyatından kâr marjı düşülerek ulaşılması gereken maliyet hedefinin belirlenmesi ve bu hedefe ürün tasarım aşamasında ulaşılmasına odaklanır. Yani ürün henüz piyasaya çıkmadan, tasarım ve geliştirme sürecinde maliyet mühendisliği yapılır. Kaizen maliyetleme ise ürün zaten üretilmekte iken (üretim aşamasında) sürekli, kademeli iyileştirmelerle mevcut maliyetlerin dönem dönem düşürülmesini hedefler. B şıkkı tam tersini söylediğinden yanlıştır. A şıkkı her iki yöntemin özünü ve uygulama zamanlamasını doğru biçimde açıklamaktadır.",
+  "aciklama": "Hedef maliyetleme ürün tasarım aşamasında devreye girer. Pazarın kabul edeceği satış fiyatından istenen kâr marjı çıkarılır ve izin verilen hedef maliyet bulunur. Ürün bu maliyete uygun tasarlanır. Kaizen maliyetleme ise ürün üretime girdikten sonra mevcut süreçlerde küçük ve sürekli iyileştirmelerle maliyetleri kademeli olarak düşürmeyi amaçlar. Temel fark zamanlama ve yaklaşımdadır. \"Kaizen maliyetleme yeni ürün geliştirme aşamasında, hedef maliyetleme ise üretim aşamasında uygulanır\" seçeneği yanlıştır, çünkü iki yöntemin aşamaları ters verilmiştir. \"İki yöntem arasında uygulama zamanlaması açısından fark yoktur; yalnızca kullanılan araçlar farklıdır\" seçeneği de yanlıştır, çünkü zamanlama farkı temel ayrımdır. Doğru cevap \"Hedef maliyetleme pazara dayalı fiyatla başlayıp geriye doğru maliyet hesaplarken, Kaizen mevcut üretim sürecindeki sürekli iyileştirmelerle maliyetleri düşürmeyi amaçlar\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -3084,7 +3084,7 @@
    "UCL aşılmıştır; süreçte atanabilir nedenlere dayalı varyasyon bulunmaktadır ve süreç derhâl durdurulmalıdır"
   ],
   "dogru": 1,
-  "aciklama": "p̄ = 50/(25×20) = 50/500 = 0,10. Standart sapma = √(p̄(1-p̄)/n) = √(0,10×0,90/20) = √(0,0045) ≈ 0,0671. UCL = p̄ + 3σ = 0,10 + 3×0,0671 = 0,10 + 0,2013 = 0,3013. LCL = p̄ - 3σ = 0,10 - 0,2013 = -0,1013 → negatif olduğundan LCL = 0 kabul edilir. Sonraki örneklemde 5 hatalı birim: p = 5/20 = 0,25. UCL = 0,3013 > 0,25 ve LCL = 0, dolayısıyla 0,25 kontrol sınırları içindedir. Süreç istatistiksel kontroldedir. Ancak LCL'nin negatif çıkmasına ve 0 kabul edilmesine dikkat çeken C şıkkı bu durumu en doğru yorumlayan seçenektir.",
+  "aciklama": "Ortalama hatalı oranı p̄ = 50 / (25 × 20) = 50/500 = 0,10 bulunur. Standart sapma √(0,10 × 0,90 / 20) = √0,0045 ≈ 0,0671'dir. UCL = 0,10 + 3 × 0,0671 ≈ 0,301 olur. LCL = 0,10 − 0,201 ≈ −0,101 çıkar; oran negatif olamayacağından LCL = 0 alınır. Sonraki örneklemde 5/20 = 0,25 hatalı oranı vardır ve bu değer 0 ile 0,301 arasında kaldığı için sınırlar içindedir. \"UCL aşılmıştır; süreçte atanabilir nedenlere dayalı varyasyon bulunmaktadır ve süreç derhâl durdurulmalıdır\" seçeneği yanlıştır, çünkü 0,25 değeri 0,301'in altındadır. \"Süreç kontrol dışındadır; acil müdahale gerekir\" seçeneği de aynı nedenle yanlıştır. Doğru cevap \"LCL negatif çıkacağından sıfır kabul edilir ve 5 hatalı birim kontrol sınırları içindedir\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -3100,7 +3100,7 @@
    "Şiddet puanı yüksek (9) olan hata modlarında asıl odak, hatanın oluşmasını önlemek olmalıdır; tespit iyileştirmesi hata oluştuktan sonra devreye girer"
   ],
   "dogru": 4,
-  "aciklama": "Mevcut RPN = 7×9×3 = 189. Yeni RPN = 7×9×1 = 63. Matematiksel olarak RPN düşmüştür ancak şiddet puanı 9 olan (müşteri güvenliğini tehdit edebilecek) hata modlarında modern FMEA yaklaşımı, hatanın oluşumunu önlemeyi (occurrence puanını düşürmeyi) ön plana koyar. Zira tespit sistemi iyileştirilse bile hata oluşmaya devam etmekte ve ürün/süreç güvenilirliği gerçek anlamda artmamaktadır. Tespit puanı 1 yapılsa bile hata hâlâ 7 sıklıkla oluşmaktadır. B şıkkı bu eleştiriyi en doğru biçimde ifade etmektedir. E şıkkındaki 'her zaman tercih edilir' ifadesi kesinlikle yanlıştır.",
+  "aciklama": "RPN = Olasılık × Şiddet × Tespit'tir. Başlangıçta 7 × 9 × 3 = 189 bulunur. Tespit puanı 1'e düşünce 7 × 9 × 1 = 63 olur. Sayı belirgin biçimde azalır, ancak hatanın meydana gelme olasılığı (7) ve şiddeti (9) değişmemiştir. Tespit iyileştirmesi hatayı yalnızca oluştuktan sonra yakalar. Şiddeti yüksek hata modlarında asıl hedef, olasılığı düşüren önleyici tedbirlerdir. Bu yüzden karar eleştirilebilir. \"Tespit puanının düşürülmesi RPN'yi azaltır ve bu her zaman doğru bir iyileştirme yaklaşımıdır\" seçeneği yanlıştır, çünkü RPN'nin düşmesi riskin gerçekten azaldığını göstermez. \"FMEA'da RPN tek başına yeterli bir karar kriteri olduğundan tespit puanının düşürülmesi doğru önceliklendirmeyi sağlar\" seçeneği de yanlıştır. Doğru cevap \"Şiddet puanı yüksek (9) olan hata modlarında asıl odak, hatanın oluşmasını önlemek olmalıdır\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -3132,7 +3132,7 @@
    "AX: Sabit sipariş miktarı sistemi + düşük güvenlik stoğu; CZ: Periyodik gözden geçirme + yüksek güvenlik stoğu"
   ],
   "dogru": 2,
-  "aciklama": "ABC-XYZ matrisinde AX grubu: yüksek parasal değer ve talep istikrarı bir arada bulunduğundan bu kalemler JIT/Kanban ile sürekli izlenir, tahmin kolaydır, minimum güvenlik stoğu tutulabilir, sipariş noktası sistemi verimlidir. CZ grubu: düşük parasal değer ve düzensiz/öngörülemeyen talep söz konusudur; bu kalemler için aşırı izleme kaynak israfıdır. İki kutu sistemi, toplu/mevsimlik sipariş ya da ihtiyaç doğduğunda sipariş yaklaşımı uygulanır. D şıkkı bu çift grubu en doğru biçimde eşleştirmektedir. A şıkkındaki AX için düşük güvenlik stoğu doğru olsa da CZ için periyodik gözden geçirme + yüksek güvenlik stoğu kaynak israfı anlamına geldiğinden yanlıştır.",
+  "aciklama": "ABC değer, XYZ talep istikrarını gösterir. AX grubunda değer yüksek ve talep tahmin edilebilir olduğu için sürekli gözden geçirme ve JIT/Kanban ile stok tutma maliyeti azaltılır. Talep sabit olduğundan güvenlik stoğu minimumda tutulabilir. CZ grubunda değer düşüktür, bu nedenle yönetim ve izleme çabası da düşük tutulur. Bu kalemler iki kutu sistemi veya toplu siparişle basitçe yönetilir. \"AX: Sabit sipariş noktası sistemi + yüksek güvenlik stoğu; CZ: Periyodik gözden geçirme sistemi + yüksek güvenlik stoğu\" seçeneği yanlıştır, çünkü yüksek değerli ve istikrarlı AX kalemlerinde yüksek güvenlik stoğu gereksiz sermaye bağlar. \"AX: İki kutu sistemi + düşük güvenlik stoğu; CZ: JIT uygulaması + sıfır güvenlik stoğu\" seçeneği de yanlıştır, çünkü düzensiz talepli CZ kalemlerinde sıfır güvenlik stoğu stoksuzluk riski doğurur. Doğru cevap \"AX: JIT/Kanban + sürekli gözden geçirme + minimum güvenlik stoğu\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -3180,7 +3180,7 @@
    "Proje tipi üretim – Sabit pozisyonlu yerleşim – Yüksek birim maliyet"
   ],
   "dogru": 2,
-  "aciklama": "Parti (kesikli) tipi üretimde yerleşim türü işlevsel (fonksiyonel/atölye tipi) yerleşimdir; sabit pozisyonlu yerleşim inşaat, gemi yapımı gibi proje tipi büyük ölçekli üretimlerde kullanılır. Diğer şıklar doğrudur: Proje tipi üretimde ürün sabit, kaynaklar hareket eder (A doğru); Süreç/atölye tipi üretimde genel amaçlı makineler ve işlevsel yerleşim kullanılır (B doğru); Seri üretimde standartlaşma ve ürün yerleşimi temel özelliktir (C doğru); Hücresel yerleşim grup teknolojisinin temelidir (D doğru).",
+  "aciklama": "Sabit pozisyonlu yerleşimde ürün hareket etmez; işçi ve ekipman ürünün bulunduğu yere getirilir. Bu yerleşim gemi, köprü, bina gibi büyük ve tekil projelere uygundur, yani proje tipi üretimle eşleşir. Parti tipi üretimde ise benzer ürünler gruplar halinde, farklı işlem istasyonlarında üretilir. Bu nedenle işlevsel veya hücresel yerleşim kullanılır. Parti tipi üretimle sabit pozisyonlu yerleşimi eşleştirmek yanlıştır. \"Seri üretim – Ürün yerleşimi – Yüksek standartlaşma\" eşleştirmesi doğrudur. \"Proje tipi üretim – Sabit pozisyonlu yerleşim – Yüksek birim maliyet\" eşleştirmesi de doğrudur. Doğru cevap \"Parti tipi üretim – Sabit pozisyonlu yerleşim – Karma ürün karması\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -3308,7 +3308,7 @@
    "Mevcut durum haritası çizildikten sonra gelecek durum haritası oluşturularak iyileştirme planı yapılır."
   ],
   "dogru": 2,
-  "aciklama": "D seçeneği yanlıştır: Yalın üretimde 'değer katmayan' (israf/muda) faaliyetlerin başında süreç içi stoklar (WIP) ve bekleme süreleri gelir. Ohno'nun 7 israfı arasında 'fazla stok' ve 'bekleme' doğrudan yer almaktadır. Bu faaliyetler değer katan değil, değer katmayan ve elimine edilmesi hedeflenen unsurlardır. Diğer şıklar doğrudur: Takt time = Kullanılabilir üretim süresi / Müşteri talebi (E doğru); hem malzeme hem bilgi akışı haritalanır (C doğru); mevcut→gelecek durum haritası sırası doğrudur (B doğru).",
+  "aciklama": "Değer akış haritalamada faaliyetler değer katan, değer katmayan ama gerekli olan ve israf olarak ayrılır. Süreç içi stoklar (WIP) ve bekleme süreleri müşterinin ödemeye razı olduğu bir dönüşüm sağlamaz; bu yüzden değer katan faaliyet değil, israf unsurudur. Bu nedenle ilgili ifade yanlıştır. Diğer ifadeler doğrudur: malzeme ve bilgi akışı haritada birlikte gösterilir, mevcut durum haritasının ardından gelecek durum haritası çizilir. \"Takt time, mevcut üretim süresinin müşteri talebine bölünmesiyle hesaplanır ve üretim ritmi için referans değer olarak kullanılır.\" ifadesi ise terimsel olarak daha doğru söylenirse mevcut kullanılabilir üretim süresinin müşteri talebine bölünmesi anlamına gelir ve bu haliyle kabul edilebilir. Doğru cevap \"Süreç içi stoklar (WIP) ve bekleme süreleri değer katan faaliyetler arasında yer alır.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -3324,7 +3324,7 @@
    "Bir işletmenin etkinlik oranı %100'ü aşabilir, ancak kapasite kullanım oranı hiçbir koşulda %100'ü geçemez."
   ],
   "dogru": 4,
-  "aciklama": "D seçeneği yanlıştır: Kapasite kullanım oranı = Fiili çıktı / Tasarım kapasitesi formülüyle hesaplanır ve teorik olarak %100'ü aşabilir (örneğin fazla mesai veya ek vardiyayla tasarım kapasitesinin üzerinde üretim yapılabilir). Etkinlik oranı = Fiili çıktı / Etkin kapasite olup bu da %100'ü aşabilir çünkü etkin kapasite zaten tasarım kapasitesinden düşüktür. İfade 'kapasite kullanım oranı hiçbir koşulda %100'ü geçemez' diyerek hatalı bir kısıt koymaktadır; kısa dönemde aşılabilir. Diğer şıklar tanımsal olarak doğrudur.",
+  "aciklama": "Kapasite kullanım oranı fiili çıktının tasarım kapasitesine, etkinlik ise fiili çıktının etkin kapasiteye bölünmesiyle bulunur. Etkin kapasite tasarım kapasitesinden düşük olduğundan fiili çıktı etkin kapasiteyi aşabilir ve etkinlik %100'ün üzerine çıkabilir. Ancak fiili çıktı tasarım kapasitesini de aşabilir (örneğin fazla mesai, ek vardiya veya ideal koşulların ötesinde çalışma ile); bu durumda kapasite kullanım oranı da %100'ü geçebilir. Dolayısıyla kullanım oranının hiçbir koşulda %100'ü geçemeyeceği iddiası yanlıştır. Diğer seçenekler kavramları doğru tanımlar. Doğru cevap \"Bir işletmenin etkinlik oranı %100'ü aşabilir, ancak kapasite kullanım oranı hiçbir koşulda %100'ü geçemez.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4188,7 +4188,7 @@
    "Dikkat – İlgi – Arzu – Eylem"
   ],
   "dogru": 4,
-  "aciklama": "AIDA modeli, tüketiciyi satın almaya yönlendiren iletişim sürecini dört aşamada açıklar: Attention (Dikkat) – Interest (İlgi) – Desire (Arzu) – Action (Eylem). Bu model reklam ve kişisel satış süreçlerinde temel referans olarak kullanılır. B seçeneğindeki sıralama ise Kotler'in 'hazırlık aşamaları' hiyerarşisine (hierarchy of effects) daha yakındır; bu model AIDA'dan farklıdır.",
+  "aciklama": "AIDA modeli, bir iletişim mesajının tüketicide izlemesi gereken aşamaları gösteren klasik bir hiyerarşi modelidir. Kısaltma, Attention (Dikkat), Interest (İlgi), Desire (Arzu) ve Action (Eylem) sözcüklerinin baş harflerinden oluşur. Mesaj önce dikkat çeker, ardından ilgi uyandırır, sonra ürüne yönelik istek yaratır ve son olarak satın alma davranışını tetikler. \"Farkındalık – Bilgi – Beğeni – Satın alma\" dizilimi ise Lavidge-Steiner tarzı etki hiyerarşisi modellerine daha yakındır ve AIDA'yı ifade etmez. Doğru cevap \"Dikkat – İlgi – Arzu – Eylem\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -4316,7 +4316,7 @@
    "Satış geliştirme"
   ],
   "dogru": 3,
-  "aciklama": "Kişisel satış; yüz yüze iletişim kurulması, mesajın alıcıya göre anlık uyarlanabilmesi ve satış temsilcisinin müşteri tepkilerini anında gözlemleyerek geri bildirim alabilmesi özellikleriyle diğer tutundurma unsurlarından ayrışır. Doğrudan pazarlama da kişiselleştirme sunar; ancak anlık, çift yönlü ve sözsüz iletişim boyutu kişisel satışta çok daha güçlüdür. Bu nedenle C doğru yanıttır.",
+  "aciklama": "Kişisel satış, satış temsilcisi ile potansiyel müşterinin yüz yüze ya da doğrudan etkileşimine dayanır. Bu nedenle mesaj müşterinin özelliklerine ve itirazlarına göre kişiselleştirilebilir, müşterinin tepkisi de anında alınabilir. Reklam ve halkla ilişkiler kitlesel iletişim araçlarıdır ve geri bildirim gecikmelidir. Satış geliştirme kısa vadeli teşviklere dayanır. \"Doğrudan pazarlama\" kişiselleştirme sağlasa da geri bildirimi genellikle aracılı ve gecikmelidir; kişisel satışın iki yönlü, anlık etkileşimi onu ayırır. Doğru cevap \"Kişisel satış\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -4332,7 +4332,7 @@
    "Hedef pazarda fiyat duyarlılığı düşük bir öncü tüketici kitlesinin bulunması"
   ],
   "dogru": 3,
-  "aciklama": "Skimming (pazar kaymağı alma) stratejisinde başlangıçta fiyat duyarlılığı düşük müşterilere yüksek fiyatla satış yapılır; bu nedenle A, B, D ve E bu stratejinin işleyebilmesi için kritik koşullardır. Geniş ve erişilebilir dağıtım ağı ise penetrasyon fiyatlandırması için daha kritik bir gerekliliktir; skimming stratejisinde başlangıçta dar, seçici dağıtım kanalları tercih edilir. Bu yüzden C bu stratejinin zorunlu koşulu değildir.",
+  "aciklama": "Bu strateji kaymak alma (skimming) fiyatlandırmasıdır. Başarısı için ürünün taklit edilmesinin zor olması, algılanan kalitenin yüksek fiyatı haklı çıkarması, düşük hacimde bile yeterli marjın bulunması ve fiyata duyarsız öncü tüketicilerin varlığı gerekir. Geniş dağıtım ise kitlesel pazara yönelik penetrasyon stratejisi için daha önemlidir; premium ürünlerde seçici ve sınırlı dağıtım tercih edilebilir. Bu nedenle \"Ürünün rakipler tarafından kısa sürede taklit edilememesi\" ve \"Hedef pazarda fiyat duyarlılığı düşük bir öncü tüketici kitlesinin bulunması\" zorunlu koşullardır, geniş dağıtım ise zorunlu değildir. Doğru cevap \"Dağıtım kanallarının geniş ve erişilebilir olması\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -4364,7 +4364,7 @@
    "Derinlik, bir ürün hattındaki her ürünün kaç çeşit sunulduğunu belirtir."
   ],
   "dogru": 0,
-  "aciklama": "Ürün karması boyutları birbirinden bağımsız değiştirilebilir. Bir ürün hattındaki çeşit sayısını artırmak (derinliği artırmak) ürün karmasının genişliğini —yani hat sayısını— otomatik olarak artırmaz. İşletme mevcut hatları içinde derinleşebilir, yeni hat açmadan genişlik sabit kalabilir. Bu nedenle E seçeneği yanlış ifadeyi içermektedir.",
+  "aciklama": "Ürün karması genişliği ürün hattı sayısını, uzunluk toplam ürün sayısını, derinlik bir hattaki ürünün sunulan çeşit sayısını, tutarlılık ise hatlar arası ilişkiyi gösterir. Derinlik bir hat içindeki çeşit sayısıyla ilgilidir; mevcut hatlarda yeni çeşit eklemek hat sayısını değiştirmez. Dolayısıyla derinlik arttığında genişliğin zorunlu olarak artacağı söylenemez; bu ifade yanlıştır. Diğer seçenekler kavramları doğru tanımlar; örneğin \"Genişlik, işletmenin kaç farklı ürün hattına sahip olduğunu gösterir.\" doğru bir tanımdır. Doğru cevap \"Derinlik arttıkça ürün karmasının genişliği de zorunlu olarak artar.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -4380,7 +4380,7 @@
    "Düşük pazar payı ve yüksek pazar büyüme hızına sahiptir; yoğun yatırım ya da tasfiye kararı gerektirir."
   ],
   "dogru": 4,
-  "aciklama": "BCG matrisinde 'Soru İşareti' birimleri düşük göreli pazar payına rağmen yüksek büyüme hızındaki pazarlarda yer alan birimlerdir. Bu birimlerin geleceği belirsizdir: yoğun yatırımla 'Yıldız'a dönüşebilirler ya da başarısız olmaları durumunda tasfiye edilmeleri gerekebilir. E seçeneği 'her koşulda yatırımla dönüştürülmelidir' diyerek koşulsuz bir yargı içerdiğinden yanlıştır. D seçeneği bu ikili kararı doğru biçimde ifade etmektedir.",
+  "aciklama": "BCG matrisinde Soru İşareti, düşük pazar payı ve yüksek pazar büyüme hızı olan birimdir. Büyüyen pazarda payını artırmak için yoğun nakit yatırımı gerektirir; başarılı olursa Yıldız'a dönüşür, başarısız olursa tasfiye edilir. Bu yüzden karar yatırım ya da tasfiye yönündedir. \"Düşük pazar payı ve yüksek büyüme hızına sahiptir; her koşulda yatırımla 'Yıldız'a dönüştürülmelidir.\" seçeneği ise \"her koşulda\" ifadesi nedeniyle yanlıştır, çünkü tasfiye de seçenektir. Yüksek pay ve düşük büyüme ise Nakit İnek'tir. Doğru cevap \"Düşük pazar payı ve yüksek pazar büyüme hızına sahiptir; yoğun yatırım ya da tasfiye kararı gerektirir.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -4396,7 +4396,7 @@
    "Deneyimsel kaynak"
   ],
   "dogru": 1,
-  "aciklama": "Tüketici bilgi arama sürecinde önce içsel (dahili) kaynaklara —yani belleğindeki geçmiş deneyimlerine ve mevcut bilgilerine— başvurur. Bu arama yeterli sonuç vermezse dış kaynaklara (kişisel, ticari, kamusal, deneyimsel) yönelir. Deneyimsel kaynak ürünü bizzat deneyerek elde edilen bilgiyi, kişisel kaynak ise aile ve arkadaşlardan edinilen bilgiyi ifade eder. Dolayısıyla D doğru yanıttır.",
+  "aciklama": "Bilgi arama aşamasında kaynaklar içsel ve dışsal olarak ayrılır. İçsel arama, tüketicinin kendi hafızasındaki geçmiş deneyimlerine ve birikmiş bilgisine başvurmasıdır. Dışsal kaynaklar ise kişisel (aile, arkadaş), ticari (reklam, satıcı) ve kamusal (medya, tüketici kuruluşları) kaynaklar olarak sınıflanır. \"Kişisel kaynak\" tüketicinin çevresindeki kişilerden aldığı bilgiyi, \"Ticari kaynak\" ise firmaların sunduğu bilgiyi ifade eder; ikisi de dışsaldır. Doğru cevap \"İçsel (dahili) kaynak\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -4412,7 +4412,7 @@
    "Üretici → Toptancı → Tüketici"
   ],
   "dogru": 2,
-  "aciklama": "Doğrudan dağıtım kanalında (sıfır kademeli kanal) üretici ile tüketici arasında hiçbir aracı bulunmaz. Bu yapı işletmeye fiyat, sunum ve müşteri ilişkisi üzerinde tam kontrol sağlar; ancak depolama, taşıma, satış gücü gibi tüm dağıtım işlevlerinin bizzat üstlenilmesini gerektirdiğinden maliyetler en yüksek düzeye çıkar. Uzun kanallar (A, C) aracılar sayesinde bu maliyeti paylaşır fakat kontrol azalır.",
+  "aciklama": "Dağıtım kanalı ne kadar kısaysa üretici, ürünün nasıl sunulduğu, fiyatlandığı ve müşteriye hangi hizmetle ulaştığı üzerinde o kadar fazla kontrol sahibi olur. Aracının hiç bulunmadığı yapıda üretici satış, depolama, nakliye, stok ve müşteri hizmetlerinin tamamını kendisi üstlenir. Bu nedenle kontrol en üst düzeye çıkar; fakat dağıtım maliyeti ve fiziksel yük de en yüksek seviyeye ulaşır. Aracılar eklendikçe bu işlevler paylaşılır, maliyet ve yük azalır, ancak kontrol de azalır. \"Üretici → Toptancı → Perakendeci → Tüketici\" seçeneğinde iki aracı vardır ve kontrol sınırlıdır. \"Üretici → Perakendeci → Tüketici\" seçeneğinde de üretici, perakendecinin satış uygulamalarına bağımlıdır. Doğru cevap \"Üretici → Tüketici (Doğrudan dağıtım)\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -4428,7 +4428,7 @@
    "Sakin dönemlerde teşvik edici fiyatlandırma ve rezervasyon sistemleriyle talebi yönetmek"
   ],
   "dogru": 4,
-  "aciklama": "Hizmetlerin dayanıksızlığı (perishability) ve eş zamanlı üretim-tüketim özelliği nedeniyle talep dalgalanması kritik bir sorundur. Sakin dönemlerde düşük fiyat/teşvik ve rezervasyon sistemleriyle talep öne çekilebilir; yoğun dönemde ise kapasite ek personel ya da zaman yönetimiyle genişletilebilir. B seçeneği tersine bir yaklaşım sunduğundan yanlıştır (tepe dönemde indirim talep yönetimini zorlaştırır). E seçeneği ise hizmetlerin stoklanamaz olması nedeniyle uygulanamaz.",
+  "aciklama": "Dalgalanma, hizmet talebinin zaman içinde düzensiz değişmesi ve kapasitenin sabit kalması sorunudur. Hizmetler stoklanamadığı için talebi zamana yaymak gerekir. Sakin dönemlerde teşvik edici fiyatlandırma talebi bu dönemlere çeker, rezervasyon sistemleri ise talebi planlanabilir hale getirir. Böylece tepe dönemlerdeki yığılma azalır, boş kapasite daha iyi kullanılır. \"Tepe dönemler için indirimli fiyatlandırma, sakin dönemler için tam fiyat uygulamak\" seçeneği mantığı tersine çevirir; tepe dönemde indirim talebi daha da artırır. \"Hizmetin dayanıksızlığını ortadan kaldırmak amacıyla stok oluşturmak\" seçeneği ise hizmetin doğası gereği uygulanamaz. Doğru cevap \"Sakin dönemlerde teşvik edici fiyatlandırma ve rezervasyon sistemleriyle talebi yönetmek\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -4444,7 +4444,7 @@
    "İşletmenin mevcut konumunun istenen konumdan sapmasının belirlenmesine"
   ],
   "dogru": 1,
-  "aciklama": "Konumlandırma haritası, ürün ve markaların tüketici algısına göre iki veya daha fazla boyut üzerinde görsel olarak yerleştirildiği bir araçtır. Bu araç; algısal rekabet yapısını, boş pazar alanlarını, mevcut/istenen konum açığını ve yeniden konumlandırma ihtiyacını analiz etmede kullanılır. Ancak maliyet yapısı ve maliyet farklılıkları muhasebe ve stratejik maliyet analizinin konusudur; tüketici algısına dayalı bir haritadan bu bilgi elde edilemez. Dolayısıyla D doğru yanıttır.",
+  "aciklama": "Konumlandırma haritası, markaların seçilen iki algısal boyutta (örneğin fiyat ve kalite algısı) tüketici zihnindeki yerini gösterir. Bu nedenle rakiplerin zihindeki konumu görselleştirilir, haritadaki boş alanlar niş fırsat olarak görülür, işletmenin mevcut ve istenen konumu arasındaki sapma saptanır ve yeniden konumlandırma kararı değerlendirilir. Harita tüketici algısına dayandığı için rakiplerin gerçek maliyet yapısı hakkında bilgi vermez; bu bilgi maliyet analizi ve finansal tablolarla elde edilir. \"Rakiplerin tüketici zihnindeki yerinin görselleştirilmesine\" seçeneği haritanın temel işlevidir ve doğrudan katkı sağlar. Doğru cevap \"Rakipler arasındaki maliyet yapısı farklılıklarının ortaya konulmasına\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -4476,7 +4476,7 @@
    "Alıcı sayısının görece az ama satın alınan hacmin yüksek olması"
   ],
   "dogru": 3,
-  "aciklama": "B2B pazarların temel özellikleri arasında türetilmiş talep (A), az sayıda büyük alıcı (B), satın alma merkezi (C) ve coğrafi yoğunlaşma ile uzun vadeli ilişkiler (E) sayılır. Duygusal ve anlık satın alma güdülerinin belirleyici olması ise B2C tüketici davranışının özelliğidir; B2B satın almalar ağırlıklı olarak rasyonel, çok aşamalı ve formel süreçlerle gerçekleştirilir. Bu nedenle D, ayrışma özelliği değil, B2B'nin aksine B2C'nin özelliğidir.",
+  "aciklama": "B2B pazarlarında alıcılar kurumsaldır; satın alma süreci rasyonel ölçütlere (maliyet, kalite, teslimat, teknik uygunluk) dayanır ve resmî prosedürlerle yürür. Karar çoğunlukla satın alma merkezi aracılığıyla birden fazla kişi ve departmanca verilir. Talep türetilmiştir, alıcı sayısı az ama hacim yüksektir, alıcılar coğrafi olarak yoğunlaşabilir ve ilişkiler uzun vadelidir. Duygusal ve anlık güdüler ise tipik olarak B2C pazarlarının özelliğidir. \"Türetilmiş talep: B2B talebi nihai tüketici talebine bağlıdır.\" seçeneği doğru bir B2B özelliğidir, bu yüzden aranan ifade değildir. Doğru cevap \"Duygusal ve anlık satın alma güdülerinin rasyonel güdülere kıyasla daha belirleyici olması\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -4492,7 +4492,7 @@
    "Miktar iskontosu uygulamasıdır; farklı müşterilere farklı koşul sunulması rekabet hukuku açısından sorun yaratabilir."
   ],
   "dogru": 4,
-  "aciklama": "Hacim (miktar) iskontosu, daha fazla satın alan müşterilere düşük birim fiyat sunulmasıdır. Senaryoda büyük perakendecilere hacim indirimi uygulanıp küçük esnafa uygulanmaması bu kapsama girer. Ancak aynı rekabetçi düzeydeki alıcılara farklı koşul sunulması, başta ABD'de Robinson-Patman Yasası olmak üzere pek çok ülkenin rekabet mevzuatı çerçevesinde fiyat ayrımcılığı (price discrimination) kapsamında sorgulanabilir. C seçeneği fonksiyonel indirimi tanımlar; fonksiyonel indirim, kanalda farklı görev üstlenen aracılara (toptancı, perakendeci vb.) görev karşılığı yapılan indirimdir ve bu senaryodaki durumdan farklıdır.",
+  "aciklama": "Aynı ürünün büyük perakendecilere hacim iskontosuyla, küçük esnafa iskontosuz satılması alım miktarına dayalı bir farklılaştırmadır; bu da miktar iskontosudur. Miktar iskontosu genel olarak meşru bir fiyatlandırma aracıdır, ancak benzer koşullardaki müşterilere farklı koşullar sunulursa ayrımcılık ve rekabet hukuku sorunu doğabilir. Bu yüzden iskontonun nesnel ve gerekçeli (maliyet tasarrufu gibi) olması önemlidir. \"Fonksiyonel (ticari) indirim uygulamasıdır ve kanalın farklı rollerine göre meşrulaştırılabilir. Bu uygulama kanal yapısına göre meşrudur.\" seçeneği yanlıştır, çünkü fonksiyonel indirim kanal üyesinin üstlendiği işlevlere göre verilir, alım hacmine göre değil. \"Nakit iskontosu uygulamasıdır ve yalnızca ödeme süresini kısaltmaya yöneliktir.\" seçeneği de ödeme koşuluyla ilgilidir, hacimle değil. Doğru cevap \"Miktar iskontosu uygulamasıdır; farklı müşterilere farklı koşul sunulması rekabet hukuku açısından sorun yaratabilir.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -4524,7 +4524,7 @@
    "Birincil referans grupları, bireyin yüz yüze ve sürekli etkileşimde bulunduğu gruplardır; aile ve yakın arkadaşlar buna örnektir."
   ],
   "dogru": 4,
-  "aciklama": "Birincil referans grupları; aile, yakın arkadaşlar ve iş arkadaşları gibi bireyin sık ve yüz yüze etkileşimde bulunduğu, dolayısıyla tutum ve davranışları üzerinde en güçlü etkiye sahip olan gruplardır. Referans grupları bireyin üyesi olmadığı grupları da (özlem ve kaçınma grupları) kapsar; bu nedenle A yanlıştır. Özlem duyulan gruplar bireyin üyesi olmak istediği gruplardır, C seçeneği bu tanımı tersine çevirdiğinden yanlıştır. Referans grupları satın alma kararının yanı sıra tutum ve değer oluşumunu da etkiler (D yanlış). İkincil gruplar ise daha resmi ve seyrek etkileşimli gruplardır; aile ikincil grup değil, birincil gruptur (E yanlış).",
+  "aciklama": "Referans grupları, bireyin tutum, değer ve davranışlarını oluştururken ölçüt aldığı gruplardır. Birincil gruplar aile ve yakın arkadaşlar gibi yüz yüze, sürekli ve samimi etkileşim kurulan gruplardır; bu tanım ifadeyi doğru kılar. \"İkincil referans grupları, aile gibi bireyle en güçlü bağı kuran gruplardır.\" seçeneği yanlıştır, çünkü aile birincil gruptur; ikincil gruplar meslek örgütü, dernek gibi daha resmî ve daha az sık etkileşimli gruplardır. \"Referans grupları yalnızca bireyin üyesi olduğu gruplardan oluşur.\" seçeneği de yanlıştır, çünkü üye olunmayan ama özenilen gruplar da referans grubudur. Ayrıca özlem duyulan gruplar, üye olunmak istenen gruplardır. Doğru cevap \"Birincil referans grupları, bireyin yüz yüze ve sürekli etkileşimde bulunduğu gruplardır; aile ve yakın arkadaşlar buna örnektir.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -4540,7 +4540,7 @@
    "Rakip fiyat düşüşü, çapraz esneklik negatif olduğundan işletmenin talebini artırır ve bu artış gelir kaybını telafi eder."
   ],
   "dogru": 1,
-  "aciklama": "Fiyat esnekliği -2,5 olduğundan talep esnektir; fiyat %10 artırılırsa talep %25 azalır ve net gelir düşer (|e|>1 durumunda fiyat artışı geliri düşürür). Çapraz fiyat esnekliği +0,8 (ikame mal) iken rakip fiyatı %5 düşürülürse işletmenin ürününe olan talep 0,8×(-5)= -4 oranında daha düşer. Her iki etki de işletmenin aleyhine çalışır. E şıkkındaki 'negatif çapraz esneklik' ifadesi hatalıdır; pozitif çapraz esneklik ikame mal ilişkisini gösterir ve rakip fiyat düşüşü işletmenin talebini azaltır.",
+  "aciklama": "Kendi fiyat esnekliği -2,5 olduğundan fiyatın %10 artması talebi yaklaşık %25 düşürür (-2,5 x 10). Esneklik mutlak değerce 1'den büyük olduğu için talep esnektir ve fiyat artışı toplam geliri düşürür. Çapraz esneklik +0,8 ise ürünlerin ikame olduğunu gösterir. Rakip fiyatı %5 düşerse işletmenin talebi 0,8 x (-5) = %4 azalır. Her iki etki de talebi aynı yönde azalttığı için gelir olumsuz etkilenir. \"Rakip fiyat düşüşü, çapraz esneklik negatif olduğundan işletmenin talebini artırır ve bu artış gelir kaybını telafi eder.\" seçeneği yanlıştır, çünkü çapraz esneklik pozitiftir. Doğru cevap \"Fiyat esnekliği 1'den büyük olduğundan fiyat artışı geliri düşürür; rakip fiyat düşüşü ise çapraz esneklik pozitif olduğundan işletmenin talebini daha da azaltır; her iki etki de geliri olumsuz etkiler.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4556,7 +4556,7 @@
    "Sektördeki tedarikçi sayısının az, alıcı sayısının ise fazla olması"
   ],
   "dogru": 3,
-  "aciklama": "Alıcıların pazarlık gücünü azaltan faktörler şunlardır: geçiş maliyetlerinin yüksek olması (alıcı tedarikçi değiştirirken yüksek maliyet öder), geriye dönük dikey entegrasyon tehdidinin bulunmaması (alıcı üretici konumuna geçemez). Bu iki faktörün bir arada bulunması alıcıyı zayıflatır. A ve B seçenekleri alıcı gücünü artırır. D seçeneğinde tedarikçi azlığı tedarikçi gücünü artırır, alıcı gücünü değil. E seçeneği tam bilgi alıcıyı güçlendirir.",
+  "aciklama": "Porter modelinde alıcıların pazarlık gücü, alıcıların seçenek bulabildiği ve geçiş yapabildiği ölçüde artar. Alıcının geriye doğru dikey entegrasyon tehdidi düşükse alıcı ürünü kendisi üretemez; geçiş maliyetleri yüksekse de tedarikçi değiştirmek zorlaşır. İkisi birlikte alıcının pazarlık gücünü azaltır. \"Ürünün standartlaşmış ve farklılaşmamış olması\" seçeneği yanlıştır, çünkü alıcı kolayca başka satıcıya geçebilir ve pazarlık gücü artar. \"Alıcının satın aldığı ürün hakkında tam bilgiye sahip olması\" seçeneği de yanlıştır, çünkü tam bilgi alıcıyı fiyat ve alternatifler konusunda güçlendirir. Doğru cevap \"Alıcının geriye dönük dikey entegrasyon tehdidinin düşük ve geçiş maliyetlerinin yüksek olması\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4572,7 +4572,7 @@
    "BCG matrisi tek başına yeterli bir analiz aracı olduğundan yalnızca bu matrise dayanarak doğrudan 'Nakit İneği' konumuna geçiş stratejisi planlanmalı ve başka bir ölçüt değerlendirilmemelidir."
   ],
   "dogru": 2,
-  "aciklama": "BCG matrisinde 'Soru İşareti': yüksek pazar büyümesi + düşük göreli pazar payı (0,35 < 1). Bu ürünler için üç seçenek vardır: yatırım yaparak 'Yıldız'a dönüştürme, bekle-gör, ya da tasfiye. Ancak portföyde birden fazla soru işareti varsa hepsine yatırım yapmak nakit tüketir. Doğru yaklaşım seçici yatırımdır: potansiyeli yüksek olanları geliştir, düşük olanları tasfiye et. A seçeneği tek bir ürün için doğru strateji olabilir ancak genel prensip olarak 'seçicilik' esas alınmalıdır. D seçeneği yanlıştır; 'Yıldız' yüksek büyüme + yüksek pay gerektirir. E seçeneği yanlıştır; BCG matrisi tek başına yeterli değildir.",
+  "aciklama": "BCG matrisinde yüksek pazar büyümesi ve düşük göreli pazar payı (1'in altı) Soru İşareti konumunu tanımlar. Burada büyüme %18, göreli pay 0,35 olduğundan ürün Soru İşareti'dir. Soru İşaretleri nakit tüketir ve sonuçları belirsizdir. Bu yüzden her biri için Yıldız olma potansiyeli analiz edilir; potansiyeli yüksek olanlara seçici yatırım yapılır, düşük olanlar tasfiye edilir. Büyüme aşamasındaki kategori ürünü hemen tasfiye etmeyi gerektirmez. \"Pazar büyüme hızı yüksek olduğundan ürün zaten 'Yıldız' kategorisindedir; ekstra yatırım gerekmez.\" seçeneği yanlıştır, çünkü Yıldız olmak için yüksek pay da gerekir. \"Göreli pazar payı 1'in altında ve yatırım geri dönüş süresi uzun olduğundan ürün derhâl tasfiye edilmelidir.\" seçeneği ise erken ve aşırı bir karardır. Doğru cevap \"Seçici yatırım yapılmalı; önce hangi 'Soru İşareti' ürünlerinin 'Yıldız'a dönüşme potansiyeli taşıdığı analiz edilmeli, potansiyeli düşük olanlar tasfiye edilmelidir.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4588,7 +4588,7 @@
    "Referans fiyatı yüksek olan ürün daha kaliteli algılanır; bu sadece fiyat-kalite çıkarsamasıdır."
   ],
   "dogru": 3,
-  "aciklama": "Çerçeveleme etkisi: aynı bilginin farklı sunuluş biçiminin tercih değiştirmesidir ('%70 yağsız' = '%30 yağlı' ama ilki daha olumlu algılanır). Kayıptan kaçınma: Kahneman-Tversky'nin Beklenti Teorisi'ne göre kayıplar kazançlardan yaklaşık 2-2,5 kat daha ağır hissedilir; bu yüzden mevcut markadan ayrılmak (bir kayıp) yeni markanın sunduğu kazançtan daha baskındır. B seçeneği her iki olguyu da doğru şekilde örnekler. Diğer seçenekler ya tek bir olguyu açıklar ya da farklı kavramları tanımlar.",
+  "aciklama": "Çerçeveleme etkisi, aynı bilginin kazanç ya da kayıp olarak sunulmasına göre kararın değişmesidir. '%30 yağ içerir' ile '%70 yağsız' aynı bilgidir; olumlu çerçeve tercih edilir. Kayıptan kaçınma ise kayıpların aynı büyüklükteki kazançlardan daha ağır algılanmasıdır. Tüketici mevcut markadan vazgeçmenin kaybını yeni markanın kazancından ağır bulup markasını korur. Böylece senaryo iki olguyu birlikte gösterir. \"Tüketici en ucuz markayı seçer çünkü fiyat bilişsel çabayı azaltır.\" seçeneği yanlıştır, çünkü bu bir kısayol (sezgisel) davranıştır, çerçeveleme ve kayıptan kaçınma değildir. \"Referans fiyatı yüksek olan ürün daha kaliteli algılanır; bu sadece fiyat-kalite çıkarsamasıdır.\" seçeneği de yalnızca fiyat-kalite çıkarsamasını anlatır. Doğru cevap \"'%30 yağ içerir' şeklinde etiketlenen ürün yerine '%70 yağsız' etiketli ürünü tercih eden tüketici\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4620,7 +4620,7 @@
    "Pazar Geliştirme; çünkü mevcut ürün yeni bir pazara (spor segmenti) sunulmaktadır. Ambalaj ve konumlandırma değişikliği ürünü değiştirmez."
   ],
   "dogru": 4,
-  "aciklama": "Ansoff matrisinde dört hücre, 'ürün' ve 'pazar' boyutlarının mevcut/yeni kombinasyonlarına göre belirlenir. Kritik soru şudur: Ürün gerçekten yeni mi? Ambalaj, gramaj ve konumlandırma değişikliği pazarlama karması (4P) değişikliğidir; ürünün özü (bileşim, üretim) aynıdır. Bu nedenle ürün 'mevcut' sayılır. Pazar ise yenidir (spor segmenti). Dolayısıyla bu 'Pazar Geliştirme' stratejisidir. B seçeneği yanlıştır; Ansoff'ta ürün geliştirme, ürünün kendisinin (formül, teknoloji vb.) değiştirilmesini gerektirir. C seçeneği yanlıştır; çeşitlendirmede hem ürün hem pazar yeni olmalıdır.",
+  "aciklama": "Ansoff matrisinde hücre, ürünün ve pazarın yeni mi mevcut mu olduğuna göre belirlenir. Organik yoğurdun bileşimi ve üretim süreci aynı kaldığı için ürün mevcuttur. Spor beslenmesi segmenti ise şirketin daha önce hizmet vermediği yeni bir pazar segmentidir. Mevcut ürün ile yeni pazar birleşimi Pazar Geliştirme hücresine girer. Ambalaj, gramaj ve konumlandırma mesajı yalnızca ürünün sunumunu uyarlar, ürünün özünü değiştirmez. \"Çeşitlendirme; çünkü hem ürün hem de pazar boyutunda değişiklik söz konusudur.\" seçeneği yanlıştır, çünkü ürün değişmemiştir ve çeşitlendirme için hem ürünün hem pazarın yeni olması gerekir. \"Ürün Geliştirme; çünkü ambalaj, gramaj ve konumlandırma değişikliği yeni bir ürün yaratır.\" seçeneği de yanlıştır, çünkü bileşim ve üretim aynı kaldığından yeni ürün oluşmamıştır. Doğru cevap \"Pazar Geliştirme; çünkü mevcut ürün yeni bir pazara (spor segmenti) sunulmaktadır.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4636,7 +4636,7 @@
    "Yasal düzenlemeler dikey entegrasyonu açıkça yasaklamadığı sürece, işlem koşulları ne olursa olsun kendi dağıtım kanalını kurmak her durumda daha kârlı bir tercihtir. Bu nedenle işlem maliyeti analizine gerek kalmaz."
   ],
   "dogru": 2,
-  "aciklama": "Williamson'ın işlem maliyeti teorisine göre dikey entegrasyon (hiyerarşi) şu koşullarda dış alım (piyasa) yerine tercih edilir: (1) Varlığa özgü yatırımlar yüksekse (asset specificity) — aracı bu yatırımları başka amaçla kullanamaz, bu da pazarlık gücü asimetrisine yol açar; (2) Belirsizlik ve karmaşıklık yüksekse sözleşmeler eksik kalır; (3) Fırsatçı davranış (opportunism) riski yüksekse ve izleme güçse. Yüksek işlem sıklığı da sabit entegrasyon maliyetini yayar. A seçeneği tam tersi koşulları açıklar; bu durumda piyasa mekanizması tercih edilir. D ve E seçenekleri yanlıştır.",
+  "aciklama": "İşlem maliyeti teorisine göre pazar aracılarıyla çalışmak, işlem maliyetleri düşük olduğu sürece tercih edilir. Maliyetler üç etkenle yükselir: işlemlerin sık tekrarlanması, varlığa özgü yatırımların yüksek olması ve aracının davranışını izlemenin güç olması. Varlığa özgü yatırım yapan taraf, karşı tarafın fırsatçı davranışına karşı savunmasız kalır. Bu koşullarda sözleşme ve denetim maliyeti artar, dikey entegrasyon ise bu maliyeti içselleştirerek azaltır. \"İşlem sıklığı düşük, varlığa özgü yatırım gereksinimleri düşük ve çevre belirsizliği düşük olduğunda\" seçeneği yanlıştır, çünkü bu koşullar pazar aracılarını kullanmayı destekler. \"Pazar aracılarının sayısı fazla ve rekabet yoğun olduğunda işletme her zaman dışarıdan alım yapmalıdır.\" seçeneği de yanlıştır, çünkü \"her zaman\" mutlaklığı teoriyle uyuşmaz. Doğru cevap \"İşlem sıklığı yüksek, varlığa özgü yatırımlar (asset specificity) yüksek ve aracı davranışını izlemek güç olduğunda\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4668,7 +4668,7 @@
    "Prestij fiyatlandırması her zaman tek-çift fiyatlandırmanın bir alt kategorisidir."
   ],
   "dogru": 1,
-  "aciklama": "Tek-çift fiyatlandırma (odd pricing): 99 kuruş veya 9,99 TL gibi fiyatlar tüketicinin sol taraf rakamına odaklanmasını sağlar; fiyat psikolojik olarak bir alt kategoride algılanır. Bu strateji fiyat duyarlılığının yüksek olduğu, ekonomik segmentte etkilidir. Prestij fiyatlandırması: yüksek ve yuvarlak fiyatlar (500 TL, 2.000 TL) kalite sinyali olarak işlev görür; 'Veblen malı' etkisi nedeniyle fiyat arttıkça talep artabilir. Lüks bir çantanın 1.999 TL değil 2.000 TL olarak fiyatlandırılması prestij algısını güçlendirir. İki strateji lüks segmentte doğrudan çelişir. B seçeneği bu karşıtlığı en doğru şekilde açıklar.",
+  "aciklama": "Tek-çift fiyatlandırma, 99,99 TL gibi fiyatların sınır değerin altında algılanmasına dayanır. Bu yüzden fiyat bilincinin yüksek olduğu düşük ve orta segment ürünlerde etkilidir. Prestij fiyatlandırması ise yüksek ve yuvarlak fiyatın kaliteyi sinyal ettiği varsayımına dayanır ve lüks mallarda geçerlidir. İki stratejinin varsayımı terstir: biri fiyatın düşük algılanmasını, diğeri yüksek ve seçkin algılanmasını amaçlar. Bu nedenle aynı lüks ürün kategorisinde birlikte kullanılamazlar. \"İki strateji arasında çelişki yoktur; tüm ürünlerde eş zamanlı uygulanabilir.\" seçeneği yanlıştır, çünkü varsayımlar çelişir. \"Tek-çift fiyatlandırma lüks ürün kategorilerinde, prestij fiyatlandırması ise günlük tüketim mallarında tercih edilir\" seçeneği de yanlıştır, çünkü kategorileri ters eşleştirir. Doğru cevap \"Tek-çift fiyatlandırma (örn. 99,99 TL) tüketicinin fiyatı sınır değerin altında algılamasını sağlar\" ifadesiyle başlayan seçenektir.",
   "zorluk": "zor"
  },
  {
@@ -4684,7 +4684,7 @@
    "İki model birbiriyle çelişmediğinden önce Uppsala, ardından born global stratejisine geçiş planlanmalıdır."
   ],
   "dogru": 2,
-  "aciklama": "Uppsala modeli (Johanson & Vahlne, 1977): işletmelerin psişik olarak yakın pazarlardan başlayıp tecrübe kazandıkça daha uzak pazarlara aşamalı biçimde girdiğini öngörür. Born global (Knight & Cavusgil): kuruluştan itibaren kısa sürede çok sayıda pazara giren işletmeleri tanımlar. Born global yaklaşımı için gerekli koşullar: (1) dijital/soyut ürün — coğrafi engel yoktur, (2) niş ve homojen küresel pazar — lokal uyarlama gerektirmez, (3) kurucuların uluslararası ağı ve deneyimi — öğrenme maliyeti düşük, (4) erken hareket avantajı kritik. Tüm bu koşullar mevcut olduğundan B doğrudur. A seçeneği önceki tecrübe eksikliğine vurgu yapar ancak kurucuların deneyimi bu engeli ortadan kaldırır.",
+  "aciklama": "Uppsala modeli, deneyim eksikliği ve psişik mesafe nedeniyle aşamalı uluslararasılaşmayı öngörür. Bu işletmenin koşulları bu varsayımları zayıflatır. Kurucuların uluslararası iş deneyimi öğrenme açığını kapatır. Hizmet dijital platformdan satıldığı için coğrafi mesafe ve fiziksel varlık gereksinimi azdır. Niş sektör küresel ölçekte homojen olduğundan ülkeler arası uyarlama ihtiyacı da düşüktür. Bu özellikler born global yaklaşımının tipik koşullarıdır. \"Born global yaklaşımı yalnızca teknoloji şirketleri için geçerlidir; hizmet sektöründe uygulanamaz.\" seçeneği yanlıştır, çünkü born global firmalar yalnızca teknoloji şirketlerinden oluşmaz. \"Uppsala modeli; çünkü tüm sektörlerde aşamalı genişleme teorik olarak daha güvenlidir.\" seçeneği de yanlıştır, çünkü genelleme yapar ve işletmenin özelliklerini yok sayar. Doğru cevap \"Born global yaklaşımı; çünkü dijital hizmetlerde coğrafi mesafe engeli yoktur\" ifadesiyle başlayan seçenektir.",
   "zorluk": "zor"
  },
  {
@@ -4700,7 +4700,7 @@
    "Yüksek ilginlik, geri dönüşü güç, aralarında belirgin fark olmayan alternatifler arasında seçim yapıldığında ortaya çıkar. İşletme satış sonrası iletişimde (teşekkür mesajları, garanti güvencesi, müşteri referansları) satın alma kararını doğrulayan tutarlı mesajlar kullanmalıdır."
   ],
   "dogru": 4,
-  "aciklama": "Festinger'ın (1957) bilişsel uyumsuzluk teorisine göre, birbirine yakın değerde alternatifler arasından yapılan, geri dönüşü güç ve yüksek ilginlikli kararlarda uyumsuzluk en şiddetli yaşanır (örn. otomobil, ev, pahalı elektronik). Tüketici seçtiği alternatifte hayal kırıklığı yaşama ihtimalini öngörür ve 'doğru karar mı verdim?' sorusuyla boğulur. İşletme satış sonrası (post-purchase) iletişimi uyumsuzluğu azaltmak için kullanmalıdır: kararı teyit eden e-posta, müşteri yorumları, garanti belgesi, 'doğru seçimi yaptınız' mesajları. D seçeneği yanlıştır; uyumsuzluk çoğunlukla satın alma sonrasında yaşanır. E seçeneği yanlıştır; uyumsuzluk kötü deneyimden bağımsız olarak ortaya çıkabilir.",
+  "aciklama": "Festinger'ın bilişsel uyumsuzluk kavramı, kararın ardından tüketicide oluşan tedirginliği anlatır. Bu tedirginlik en çok karar yüksek ilginlik gerektirdiğinde, geri dönüşü güç olduğunda ve seçilen ile reddedilen alternatifler birbirine yakın olduğunda ortaya çıkar. Tüketici, seçimin doğru olup olmadığından şüphe eder. Bu yüzden işletme satış sonrası iletişimde teşekkür mesajları, garanti güvencesi ve müşteri referansları gibi kararı doğrulayan tutarlı mesajlar vermelidir. \"Bilişsel uyumsuzluk satın alma öncesinde yaşanır; satış sonrası iletişimin bununla ilişkisi yoktur.\" seçeneği yanlıştır, çünkü uyumsuzluk satın alma kararından sonra oluşur. \"Bilişsel uyumsuzluk düşük ilginlik gerektiren rutin satın almalarda çok sık görülür; işletme reklam frekansını artırmalıdır.\" seçeneği de yanlıştır, çünkü rutin ve düşük ilginlikli alımlarda uyumsuzluk beklenmez. Doğru cevap \"Yüksek ilginlik, geri dönüşü güç, aralarında belirgin fark olmayan alternatifler arasında seçim yapıldığında ortaya çıkar.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4716,7 +4716,7 @@
    "CLV = 1.200 / (1 - 0,75) = 4.800 TL; iskonto oranı göz ardı edilir."
   ],
   "dogru": 1,
-  "aciklama": "Basit CLV formülü (Gupta & Lehmann): CLV = m × r / (1 + d - r). Burada m = katkı marjı (1.200 TL), r = elde tutma oranı (0,75), d = iskonto oranı (0,10). CLV = 1.200 × 0,75 / (1 + 0,10 - 0,75) = 900 / 0,35 ≈ 2.571 TL. Bu değer, bir müşterinin işletmeye gelecekte sağlayacağı net bugünkü değerdir. Pazarlama açısından kritik sonuç: müşteri edinim maliyeti (CAC) bu değeri geçmemelidir; aksi hâlde her müşteri edinimi zarara yol açar. B ve D seçenekleri iskonto oranını yanlış kullanır. C seçeneği farklı bir formül yapısı kullanmaktadır.",
+  "aciklama": "Verilen basit oran modeli CLV = m × r / (1 + d - r) biçimindedir. Değerler yerine konur: m = 1.200 TL, r = 0,75, d = 0,10. Pay: 1.200 × 0,75 = 900. Payda: 1 + 0,10 - 0,75 = 0,35. CLV = 900 / 0,35 ≈ 2.571 TL bulunur. Bu değer, müşteriden beklenen iskonto edilmiş toplam katkıyı gösterir. Bu nedenle müşteri edinim maliyeti bu tutarı aşmamalıdır, aşarsa müşteri değer yaratmaz. \"CLV = 1.200 / (1 - 0,75) = 4.800 TL; iskonto oranı göz ardı edilir.\" seçeneği yanlıştır, çünkü soruda verilen iskonto oranı hesaba katılmamıştır. \"CLV = 1.200 × 0,75 / 0,10 = 9.000 TL\" seçeneği de yanlıştır, çünkü verilen modelin paydasını kullanmaz. Doğru cevap \"CLV = 1.200 × 0,75 / (1 + 0,10 - 0,75) = 2.571 TL\" ifadesiyle başlayan seçenektir.",
   "zorluk": "zor"
  },
  {
@@ -4732,7 +4732,7 @@
    "Pazar modifikasyonu (yeni kullanıcılar, yeni kullanım alanları), ürün modifikasyonu (kalite, özellik, stil iyileştirmeleri) ve pazarlama karması modifikasyonu (fiyat, dağıtım, tutundurma ayarlamaları) birlikte değerlendirilerek ürünün yaşam süresi uzatılabilir ya da yönetimli çekilme planlanabilir."
   ],
   "dogru": 4,
-  "aciklama": "PLC olgunluk aşamasında üç temel strateji grubu uygulanır: (1) Pazar modifikasyonu: mevcut ürünü yeni segmentlere (daha önce kullanmayan tüketiciler), yeni coğrafyalara ve yeni kullanım bağlamlarına taşımak. (2) Ürün modifikasyonu: kalite geliştirme, yeni özellikler ekleme, yeniden tasarım ile ürünü tazelemek. (3) Pazarlama karması modifikasyonu: fiyat, promosyon, dağıtım kanallarını optimize etmek. Bu üç yaklaşım birlikte 'ürünü yeniden canlandırma (revitalization)' stratejisini oluşturur. Eğer bu stratejiler de yeterli değilse 'yönetimli çekilme (harvest strategy)' devreye girer. A seçeneği erken ve aşırı bir tepkidir; B tek boyutludur; D yanlıştır (olgunlukta hatırlatma reklamı kritiktir); E odak dışıdır.",
+  "aciklama": "Olgunluk aşamasında satışlar durağanlaşır, rekabet ve doygunluk kâr marjını baskılar. Bu aşamada kullanılan klasik yaklaşım üç modifikasyondur. Pazar modifikasyonu yeni kullanıcı ve yeni kullanım alanı arar. Ürün modifikasyonu kalite, özellik ve stil iyileştirmeleri yapar. Pazarlama karması modifikasyonu fiyat, dağıtım ve tutundurmayı yeniden ayarlar. Bu araçlar birlikte değerlendirilerek ürünün ömrü uzatılabilir veya yönetimli bir çekilme planlanabilir. \"Fiyat indirimi yapılarak pazar payı korunmalıdır; başka önlem gerekmez.\" seçeneği yanlıştır, çünkü tek araca dayanır ve zaten baskı altındaki marjı daha da düşürür. \"Ürün hemen geri çekilmeli ve kaynak yeni ürün geliştirmeye aktarılmalıdır.\" seçeneği de yanlıştır, çünkü olgunluk aşaması hâlâ nakit üretir. Doğru cevap \"Pazar modifikasyonu (yeni kullanıcılar, yeni kullanım alanları), ürün modifikasyonu\" ifadesiyle başlayan seçenektir.",
   "zorluk": "zor"
  },
  {
@@ -4748,7 +4748,7 @@
    "Her iki ürünün GMROI değerleri eşit olduğundan raf alanı eşit paylaştırılmalıdır."
   ],
   "dogru": 2,
-  "aciklama": "GMROI (Gross Margin Return on Inventory Investment) = Brüt Kâr Marjı (%) × Stok Devir Hızı olarak hesaplanır. GMROI(A) = 0,40 × 8 = 3,20 — yani stoka yatırılan her 1 TL için 3,20 TL brüt kâr. GMROI(B) = 0,60 × 3 = 1,80. Ürün A, GMROI bazında üstündür. Ancak bu metriğin sınırlılıkları şunlardır: (1) Ürün B yüksek marjlı olup müşteri segmentine yönelik çapraz satış fırsatı yaratabilir; (2) Bazı ürünler 'trafik çekici (traffic builder)' rolü oynar — düşük GMROI'a rağmen mağazaya müşteri çeker; (3) Kategori içi sinerjiler ve müşteri algısı göz ardı edilir. Dolayısıyla B seçeneği hem doğru hesaplamayı hem de kararın sınırlılıklarını kapsar.",
+  "aciklama": "Soruda GMROI, brüt kâr marjı ile stok devir hızının çarpımı olarak ele alınır. Ürün A için 0,40 × 8 = 3,2 bulunur. Ürün B için 0,60 × 3 = 1,8 bulunur. Raf alanı aynı olduğundan yalnızca GMROI'ye bakıldığında Ürün A daha verimlidir. Ancak GMROI trafik çekme etkisini, kategori içi sinerjiyi ve müşteri sadakatini ölçmez. Bu yüzden karar tek başına bu metriğe dayandırılmamalıdır. \"Ürün B tercih edilmeli; çünkü brüt kâr marjı daha yüksektir.\" seçeneği yanlıştır, çünkü marjın yüksek olması düşük devir hızını telafi etmemektedir. \"Her iki ürünün GMROI değerleri eşit olduğundan raf alanı eşit paylaştırılmalıdır.\" seçeneği de yanlıştır, çünkü değerler 3,2 ve 1,8 olup eşit değildir. Doğru cevap \"Ürün A tercih edilmeli; GMROI(A) = 0,40 × 8 = 3,2 iken GMROI(B) = 0,60 × 3 = 1,8'dir.\" ifadesiyle başlayan seçenektir.",
   "zorluk": "zor"
  },
  {
@@ -4764,7 +4764,7 @@
    "Pazardan çekilip maliyet liderliği stratejisi ile niş pazarlara odaklanmak"
   ],
   "dogru": 1,
-  "aciklama": "Ansoff Matrisi'nde mevcut pazar – mevcut ürün kombinasyonu pazar penetrasyon stratejisidir. Fiyat ve reklam araçlarının yetersiz kaldığı ve tüketicilerin fiyat dışı faktörlerle rakiplere bağlı olduğu bu tabloda, işletmenin mevcut pazarda yeni ürünler sunarak farklı ihtiyaçlara yanıt vermesi (ürün geliştirme stratejisi) doğru hamledir. Bu strateji tüketici bağlılığını yeniden çekmenin, marka algısını güçlendirmenin ve rekabet avantajı oluşturmanın en etkili yoludur. Diğer seçenekler ya zaten uygulanmakta olan politikayı sürdürmekte (A), ya strateji matrisi dışındaki araçlara işaret etmekte (C, D, E) ya da pazarlama karmasının hatalı yorumlanmasına dayanmaktadır.",
+  "aciklama": "Ansoff matrisinde pazar penetrasyonu mevcut ürünle mevcut pazarda pay artırmayı hedefler. İşletme fiyat düşürmüş ve reklamı artırmış, ancak pay artmamıştır. Araştırma, rakip bağlılığının marka güveni ve alışkanlık gibi fiyat dışı etkenlerden kaynaklandığını göstermektedir. Bu yüzden fiyat ve tutundurma araçları sonuç vermemektedir. Mevcut pazarda kalıp yeni ürünlerle farklı bir değer önerisi sunmak, yani ürün geliştirme stratejisi, bu engeli aşmanın uygun yoludur. \"Mevcut ürünlerde fiyat indirimine devam ederek penetrasyonu derinleştirmek\" seçeneği yanlıştır, çünkü fiyat bu tüketicileri etkilememektedir. \"Pazardan çekilip maliyet liderliği stratejisi ile niş pazarlara odaklanmak\" seçeneği de yanlıştır, çünkü Ansoff çerçevesinin dışında bir stratejidir ve gereksiz bir geri çekilmedir. Doğru cevap \"Mevcut pazarda yeni ürünler geliştirerek ürün geliştirme stratejisine geçmek\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4780,7 +4780,7 @@
    "Neden: Tutundurma bütçesinin düşüklüğü – Çözüm: Reklam harcamalarını artırmak"
   ],
   "dogru": 2,
-  "aciklama": "Marka yamyamlığının (cannibalization) temel nedeni, markaların yeterince ayrıştırılmamış tüketici segmentlerine hitap etmesidir. İşletme birden fazla marka yönetse de bu markalar tüketici zihninde örtüşen bir konumlandırmaya sahip olduğunda aynı müşteri kitlesini hedefler ve birbirinin satışını eritir. Çözüm, pazarı davranışsal, psikografik ve demografik değişkenlere göre yeniden bölümlendirmek ve her markayı özgün, çakışmayan bir segmente yeniden konumlandırmaktır. Şemsiye markalama (D) tam tersi bir strateji olup çakışmayı artırır. Marka sayısının azaltılması (A) kısa vadeli bir çözümdür ancak kök nedeni ortadan kaldırmaz.",
+  "aciklama": "Aynı kategoride birden fazla markanın birbirinin satışını yemesi, markaların hedef kitlelerinin gerçekte net biçimde ayrışmadığını gösterir. Fiyat segmentleri kâğıt üzerinde farklı olsa da tüketici algısında örtüşen konumlandırmalar vardır; bu da yetersiz bölümlendirme anlamına gelir. Çözüm, her markayı net tanımlı ve birbirinden ayrışan bir segmente yeniden konumlandırmaktır. \"Neden: Aşırı marka genişlemesi – Çözüm: Marka portföyünü azaltmak\" seçeneği yanlıştır, çünkü sorun marka sayısından çok konumlandırmanın belirsizliğidir ve portföyü küçültmek pazar kapsamını da daraltır. \"Neden: Fiyatlandırma politikasındaki tutarsızlık – Çözüm: Şemsiye markalama stratejisine geçmek ve ortak marka kimliği oluşturmak\" seçeneği de yanlıştır, çünkü ortak kimlik ayrışmayı azaltır ve yiyen etkisini büyütebilir. Doğru cevap \"Neden: Yetersiz pazar bölümlendirmesi – Çözüm: Markaları netleştirilmiş segmentlere yeniden konumlandırmak\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4796,7 +4796,7 @@
    "SİB-1'e yatırım yaparak onu yıldıza dönüştürmek, SİB-4'ü tasfiye etmek"
   ],
   "dogru": 2,
-  "aciklama": "BCG Matrisine göre SİB-1 'soru işareti' (yüksek büyüme, düşük pay), SİB-2 'nakit inek' (düşük büyüme, yüksek pay), SİB-3 'yıldız' (yüksek büyüme, yüksek pay), SİB-4 ise 'köpek'tir (düşük büyüme, düşük pay). BCG mantığında nakit ineklerin ürettiği fonlar, yatırım gerektiren yıldızları ve umut vaat eden soru işaretlerini beslemek için kullanılır. SİB-3 zaten yıldızdır ve konumunu korumak için yatırım gerektirir. Bu nedenle SİB-2'nin nakdini SİB-3'e aktarmak portföy dengesini güçlendiren en rasyonel karardır. SİB-1 için de kaynak ayrılabilir ancak iki büyüyen birime eşit kaynak (C) verimsizdir; SİB-4 tasfiye adayıdır, yeniden konumlandırma (D) anlamsızdır.",
+  "aciklama": "BCG matrisinde sınıflandırma şöyledir: SİB-1 yüksek büyüme, düşük pay olduğu için soru işareti; SİB-2 düşük büyüme, yüksek pay olduğu için nakit ineği; SİB-3 yüksek büyüme, yüksek pay olduğu için yıldız; SİB-4 düşük büyüme, düşük pay olduğu için köpektir. Standart portföy mantığında nakit ineği fazla nakit üretir ve büyümesi için az yatırım ister. Bu nakit, büyüyen pazarda lider konumdaki yıldızın payını korumak ve büyütmek için kullanılmalıdır. \"SİB-3 ve SİB-1'e eşit kaynak aktararak büyüyen pazardaki tüm birimlere odaklanmak\" seçeneği yanlıştır, çünkü soru işareti ile yıldız aynı önceliğe sahip değildir ve nakit kaynağı olan SİB-2 göz ardı edilir. \"Tüm birimlerin tutundurma bütçesini artırarak pazar payı kazanmak\" seçeneği de seçici kaynak tahsisi ilkesine aykırıdır. Doğru cevap \"SİB-2'den elde edilen nakit akışını SİB-3'ü desteklemek için kullanmak\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4844,7 +4844,7 @@
    "Online kanalın fiziksel mağazalara göre daha yüksek dönüşüm oranına sahip olması"
   ],
   "dogru": 0,
-  "aciklama": "Omnichannel stratejisinin özü, tüm temas noktalarında (fiziksel mağaza, web sitesi, mobil uygulama, çağrı merkezi) tutarlı ve kesintisiz bir müşteri deneyimi sunmaktır. Bu deneyimin gerçekleşebilmesi için müşteriye ait tüm verilerin (satın alma geçmişi, sepet, tercihler, şikayetler) anlık ve bütünleşik biçimde erişilebilir olması zorunludur. Veri silolarının yıkılamaması durumunda bir kanaldan başlayan müşteri yolculuğu diğer kanalda tanınmaz, bu da stratejiyi multichannel düzeyinde tutar ve hedeflenen deneyimi imkânsız kılar. Bu, teknik değil stratejik ve yapısal bir başarısızlık nedenidir. Fiyat arbitrajı (D) ve lojistik maliyetleri (E) yönetilebilir operasyonel sorunlardır; ancak veri entegrasyonu omnichannel'ın temel varoluş koşuludur.",
+  "aciklama": "Bütünleşik kanal stratejisinin temeli, tüm kanalların müşteriyi tek bir bütün olarak tanıması ve deneyimi kesintisiz sürdürmesidir. Bu da müşteri verisinin ve envanter bilgisinin ortak bir yapıda birleşmesine bağlıdır. Kanallar ayrı veri siloları olarak kalırsa müşterinin kanallar arasındaki yolculuğu izlenemez, kişiselleştirme ve stok görünürlüğü çöker ve geçişin amacı gerçekleşmez. Bu nedenle risk sistematik ve kritiktir. \"Lojistik maliyetlerinin omnichannel yapıda artması\" seçeneği yönetilebilir bir maliyet unsurudur; stratejinin başarısını doğrudan belirleyen yapısal bir engel değildir. \"Fiyat farklılıklarının kanallar arasında tüketici arbitrajına yol açması\" seçeneği de entegrasyon sağlandığında büyük ölçüde ortadan kalkan bir sonuçtur. Doğru cevap \"Veri silolarının yıkılamaması nedeniyle müşteri yolculuğunun kesintisiz izlenememesi\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4860,7 +4860,7 @@
    "Ar-Ge yatırımlarını artırarak yeni molekül ve biyolojik ürünlere odaklanmak ve patent korumasını yenilemek"
   ],
   "dogru": 4,
-  "aciklama": "Beş Güç Analizi açısından bu sektörde aynı anda dört tehdit aktiftir: yeni girişler (jenerik üreticiler), alıcı gücü (hastane zincirleri), ikame ürünler (biyoteknoloji) ve düzenleyici baskı. Porter'ın önerdiği rekabet stratejileri arasında bu çoklu baskıya karşı en sürdürülebilir yanıt farklılaşma stratejisidir. Yeni molekül ve biyolojik ürünler (biyosimilar, monoklonal antikorlar) patent koruması altında fiyatlandırılabilir, jenerik baskısından korunur ve biyoteknoloji tehdidini bir fırsata dönüştürür. A seçeneği ilaç sektöründe ölümcül bir strateji hatasıdır; jenerik üreticilerin maliyet yapısı buna izin vermez. E seçeneği ise ana rekabet avantajını terk etmek anlamına gelir. B seçeneği hem kısa hem uzun vadeli tehditlere karşı yapısal bir çözüm sunar.",
+  "aciklama": "Verilen koşullar jenerik girişi (yeni girenlerin tehdidi), referans fiyat ve hastane zincirleri (alıcı gücü) ile biyoteknolojik tedavilerdir (ikame tehdidi). Fiyat ve alıcı baskısı bulunan bir ortamda sürdürülebilir üstünlük, farklılaşma sağlayan yenilikten gelir. Yeni molekül ve biyolojik ürünlere yönelik Ar-Ge, hem jeneriklerden hem de yeni nesil ikame tedavilerden korunmayı sağlar; patent koruması da girişi geciktirir. \"Maliyet liderliğine yönelerek jenerik üreticilerle doğrudan fiyat rekabetine girmek ve fiyat indirimiyle pazar payını korumak\" seçeneği yanlıştır, çünkü referans fiyat uygulaması zaten marjları sıkıştırmıştır ve jenerik üreticiler maliyet avantajına sahiptir. \"Jenerik ürün segmentine girerek pazar payını korumak\" seçeneği ise ikame tehdidini çözmez ve düşük marjlı bir alana girmeyi gerektirir. Doğru cevap \"Ar-Ge yatırımlarını artırarak yeni molekül ve biyolojik ürünlere odaklanmak\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4876,7 +4876,7 @@
    "Çapraz esneklik 0,6 olduğu için ürünler birbirinin zayıf ikamesidir"
   ],
   "dogru": 1,
-  "aciklama": "Fiyat esnekliği hesaplama: Ed = (ΔQ/Q) / (ΔP/P) = [(7.500–10.000)/10.000] / [(25–20)/20] = (–0,25) / (0,25) = –1. Tam birim esnekliğindeki ürünlerde fiyat değişimi toplam geliri değiştirmez: 20×10.000 = 200.000 TL; 25×7.500 = 187.500 TL. Dikkat: Esneklik tam olarak –1 olduğunda teorik olarak gelir sabit kalmalıdır, ancak bu hesaplama –1 çıkıyor ve pratik hesaplamada gelir düşmektedir. Dolayısıyla C seçeneği 'toplam gelir artacaktır' ifadesi kesinlikle yanlıştır; bu esneklik değerinde gelir ya sabit kalır ya da düşer. Çapraz esneklik: %6 / %10 = +0,6 pozitif olduğu için ürünler ikamedir (B doğru), ancak 0,6 zayıf ikamedir (E doğru). D doğru bir ekonomi prensibidir. A: |Ed| = 1 olduğundan birim esnektir, esnekli değil; ama 'büyüktür' ifadesi de teknik olarak tartışmalıdır. C kesinlikle yanlıştır çünkü hesaplamada gelir 200.000'den 187.500'e düşmektedir.",
+  "aciklama": "Fiyat 20 TL iken gelir 20 x 10.000 = 200.000 TL, fiyat 25 TL iken 25 x 7.500 = 187.500 TL olur. Gelir azaldığı için fiyat artışı toplam geliri artırmaz. Talepteki değişim %25 düşüş, fiyattaki değişim %25 artıştır. Başlangıç değerine göre esneklik -1'dir; orta nokta yöntemiyle yaklaşık -1,29 çıkar ve talep esnektir. Gelirin düşmesi de esnek talebin sonucudur. Çapraz esneklik 6/10 = 0,6 pozitiftir, dolayısıyla ürünler ikamedir ve ilişki zayıftır. Esneklik -1 ile 0 arasındaysa fiyat artışı geliri artırır; bu da doğru bir ifadedir. Yanlış olan tek ifade gelirin artacağını söyleyen seçenektir. Doğru cevap \"Fiyat 20 TL'den 25 TL'ye çıkarıldığında toplam gelir artacaktır\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4892,7 +4892,7 @@
    "Ücretsiz numune dağıtımı, deneylenebilirlik (trialability) faktörünü güçlendirerek benimsemeyi hızlandırır"
   ],
   "dogru": 0,
-  "aciklama": "Rogers'ın yenilik yayılım modelinde benimseyici kategorileri şöyledir: Yenilikçiler (%2,5), Erken benimseyenler (%13,5), Erken çoğunluk (%34), Geç çoğunluk (%34), Gecikenler (%16). Erken benimseyenler kanaat önderileri olarak sosyal sistemde kritik rol oynar; ancak geç çoğunluğu 'doğrudan' etkilemezler. Rogers'a göre yayılım şelale biçiminde ilerler: Erken benimseyenler → erken çoğunluğu, erken çoğunluk → geç çoğunluğu etkiler. Erken benimseyenlerden geç çoğunluğa doğrudan etki, özellikle yüksek gözlemlenebilirlik gerektiren ürünlerde sınırlıdır ve birçok aracı adım gerektirir. Dolayısıyla C seçeneğindeki 'geç çoğunluğu doğrudan etkiler' ifadesi yanlıştır. Diğer seçenekler Rogers modeliyle uyumludur.",
+  "aciklama": "Rogers modelinde erken benimseyenler (%13,5) kanaat önderliği yapar, ancak etkileri öncelikle bir sonraki kategori olan erken çoğunluğa yöneliktir. Yenilik kademeli yayılır; geç çoğunluk, erken çoğunluğun benimsemesinden sonra ve daha çok onların etkisiyle karar verir. Bu nedenle geç çoğunluğu doğrudan etkilediğini söyleyen ifade yanlıştır. Diğer ifadeler doğrudur: karar süreci bilgi, ikna, karar, uygulama ve onay aşamalarından oluşur; ücretsiz numune denenebilirliği artırır; influencer kullanımı kişilerarası iletişim kanalını devreye sokar. Homojen sosyal sistemlerde benzerlik (homofili) iletişimi kolaylaştırdığı için yayılma hızlanır. Doğru cevap \"Erken benimseyenler (%13,5) sosyal sistemde kanaat önderi işlevi görür ve geç çoğunluğu doğrudan etkiler\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4924,7 +4924,7 @@
    "Yavaş tempo, mağazada geçirilen süreyi artırarak ürün inceleme fırsatı ve dolayısıyla satın alma olasılığını yükseltmektedir"
   ],
   "dogru": 4,
-  "aciklama": "Bu bulgu, Milliman (1982, 1986) ve Turley & Milliman (2000) tarafından kapsamlı biçimde araştırılmıştır. Yavaş tempolu müziğin perakende ortamında iki temel mekanizma üzerinden satışları artırdığı gösterilmiştir: (1) Müşterilerin mağazada geçirdiği süre uzar (bekleme algısı değişir), (2) Daha uzun süre maruz kalınan ürün yelpazesi daha geniş bir inceleme davranışı tetikler ve plansız alımlar artar. D seçeneği kısmen geçerli olabilir (ambiance ve fiyat toleransı ilişkisi vardır) ancak birincil mekanizma değildir. C seçeneği temelsizdir; müzik mevcut müşterilerin davranışını etkiler, demografik dönüşüm sağlamaz. E seçeneği tamamen yanlıştır; atmosfer araştırmaları satın alma davranışına doğrudan etkiyi defalarca kanıtlamıştır. B en kapsamlı ve teoriye dayalı açıklamadır.",
+  "aciklama": "Aynı mağazada ve aynı koşullarda yalnızca müzik değiştirildiği için sonucu müşteri profilindeki farklılıkla açıklayamayız. Bu, atmosfer değişkeninin davranışı doğrudan etkilediğini gösterir. Atmosfer pazarlaması çalışmalarında yavaş tempolu müzik, müşterinin hareket hızını azaltır ve mağazada kalma süresini uzatır. Daha uzun süre, daha fazla ürün inceleme ve plansız satın alma fırsatı demektir; sepet tutarı da artar. \"Klasik müzik daha yüksek gelirli tüketicileri çekmekte ve bu durum sepet tutarını artırmaktadır\" seçeneği yanlıştır, çünkü deneyde aynı mağaza ve aynı dönem koşulları kullanılmıştır, farklı müşteri çekilmesi söz konusu değildir. \"Atmosfer değişkenleri yalnızca duygusal tepkileri etkiler, satın alma kararlarını etkilemez\" seçeneği ise bulguyla doğrudan çelişir. Doğru cevap \"Yavaş tempo, mağazada geçirilen süreyi artırarak ürün inceleme fırsatı ve dolayısıyla satın alma olasılığını yükseltmektedir\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4956,7 +4956,7 @@
    "Dağıtım kanallarının rakiplerle paylaşılıp paylaşılmadığı"
   ],
   "dogru": 1,
-  "aciklama": "Konumlandırma haritasındaki bir boşluk her zaman bir fırsat değildir; bazen o boşluk tüketiciler tarafından güvenilir ya da çekici bulunmadığı için doldurulmamış olabilir. 'Orta fiyat – yüksek kalite' konumu özellikle 'fiyat-kalite şeması' (price-quality schema) açısından kritik bir sorun taşır: Tüketiciler, 'yüksek kaliteli bir ürün düşük/orta fiyatlı olamaz' biçiminde önyargılı bir zihinsel şema kullanır. Bu nedenle işletmenin önce tüketicilerin bu konumu güvenilir bulup bulmadığını test etmesi gerekir. Aksi hâlde haritada boşluk görünen bu konum, tüketici zihninde güven kaybına ve düşük kalite algısına dönüşebilir. Üretim kapasitesi (C) ve dağıtım (D) operasyonel sorulardır; strateji doğrulandıktan sonra gündeme gelir.",
+  "aciklama": "Haritada orta fiyat / yüksek kalite konumu boştur, ancak boşluk olması tek başına talep olduğu anlamına gelmez. Boşluğun nedeni, tüketicilerin bu kombinasyonu inandırıcı bulmaması olabilir. Tüketiciler genellikle fiyat-kalite şemasıyla düşünür ve yüksek kaliteyi yüksek fiyatla ilişkilendirir; orta fiyatlı yüksek kalite şüphe uyandırabilir. Bu nedenle işletme önce konumun güvenilir bulunup bulunmadığını doğrulamalıdır. \"Üretim kapasitesinin yeni ürün talebini karşılayıp karşılamadığı\" seçeneği operasyonel bir konudur ve konumun geçerliliği doğrulandıktan sonra gelir. \"Rakiplerin bu konuma taşınmasını engelleyecek yasal engellerin mevcut olup olmadığı ve patent korumasının bulunup bulunmadığı\" seçeneği ise sürdürülebilirlikle ilgilidir; konum algılanmıyorsa korumanın anlamı kalmaz. Doğru cevap \"Tüketicilerin 'orta fiyat–yüksek kalite' kombinasyonunu güvenilir bulup bulmadığı\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4972,7 +4972,7 @@
    "Fiziksel varlıklar; çünkü algı-beklenti farkı (–0,2) negatiftir"
   ],
   "dogru": 0,
-  "aciklama": "SERVQUAL'de hizmet kalitesi boşluğu (gap) = Algı – Beklenti formülüyle hesaplanır: Fiziksel varlıklar: 4,0–4,2 = –0,2. Güvenilirlik: 3,6–4,8 = –1,2. Yanıt verebilirlik: 4,2–4,5 = –0,3. Güvence: 4,4–4,3 = +0,1. Empati: 3,8–4,0 = –0,2. Güvenilirlik boyutunda hem boşluk en büyüktür (–1,2) hem de beklenti en yüksek skora (4,8) sahiptir. Parasuraman, Zeithaml ve Berry (1988) araştırmalarında güvenilirliğin tüketiciler için genellikle en kritik boyut olduğunu da göstermiştir. Bu iki faktörün (en büyük negatif fark + en yüksek beklenti) birleşimi, güvenilirliği açık ara öncelikli iyileştirme alanı yapar. E seçeneği yanlıştır; güvencede pozitif bir boşluk var, bu kaynak aktarmayı değil, kaynağı başka alana yönlendirmeyi gerektirir.",
+  "aciklama": "SERVQUAL'da boşluk skoru algı eksi beklentidir. Hesaplar: fiziksel varlıklar 4,0 - 4,2 = -0,2; güvenilirlik 3,6 - 4,8 = -1,2; yanıt verebilirlik 4,2 - 4,5 = -0,3; güvence 4,4 - 4,3 = +0,1; empati 3,8 - 4,0 = -0,2. En büyük negatif boşluk güvenilirliktedir ve bu boyutun beklentisi de en yüksektir (4,8). Bu yüzden öncelikli iyileştirme alanı güvenilirliktir. \"Yanıt verebilirlik; çünkü yüksek beklentiye rağmen orta düzeyde bir fark mevcuttur ve öncelik bu boyuta verilmelidir\" seçeneği yanlıştır, çünkü fark yalnızca -0,3'tür ve güvenilirlikteki farkın çok altındadır. \"Güvence; çünkü algı beklentiyi aştığından bu boyuta kaynak aktarılmalıdır\" seçeneği de yanlıştır, çünkü pozitif boşluk iyileştirme ihtiyacı değil, beklentinin karşılandığını gösterir. Doğru cevap \"Güvenilirlik; çünkü mutlak fark (–1,2) en yüksektir\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4988,7 +4988,7 @@
    "Maksimum fiyat 170 TL'dir; diferansiyasyon değerinin yarısı müşteriye paylaştırılmalıdır"
   ],
   "dogru": 2,
-  "aciklama": "EVC (Economic Value to the Customer) analizi: EVC = Rakip referans fiyatı + Diferansiyasyon değeri = 150 + 70 = 220 TL. Bu, ürünün teorik olarak talep edebileceği maksimum üst sınırı verir; çünkü müşteri bu fiyata kadar rakipe kıyasla ekonomik olarak kayıptan korunmuş olur. Ancak WTP (ödeme isteği) 200 TL olarak belirlenmiştir ve bu psikolojik/davranışsal bir kısıttır. EVC 220 TL olsa da müşteri 200 TL'nin üzerini ödemeye yanaşmayacağından gerçek maksimum fiyat 200 TL olur. Doğru analiz: EVC teorik tavanı 220 TL, WTP pratik tavanı 200 TL, dolayısıyla bağlayıcı kısıt WTP'dir ve uygulanabilir maksimum fiyat 200 TL'dir. C seçeneği her iki değeri de doğru hesaplayıp doğru yorumlamaktadır. B seçeneğinde WTP'nin göz ardı edilmesi pratik bir hata olur.",
+  "aciklama": "Değere dayalı fiyatlamada ekonomik değer müşteriye (EVC), referans (rakip) fiyatı ile diferansiyasyon değerinin toplamıdır: 150 + 70 = 220 TL. Ancak hedef müşterinin ödemeye razı olduğu maksimum tutar (WTP) 200 TL'dir. Müşteri 200 TL'nin üzerinde ödemeyi kabul etmeyeceğinden uygulanabilecek en yüksek fiyat, bağlayıcı olan sınır yani 200 TL olur. Bu nedenle EVC hesabı tek başına yeterli değildir; WTP kısıtı da dikkate alınmalıdır. \"Maksimum fiyat 220 TL'dir; EVC = rakip fiyat + diferansiyasyon değeri formülüyle hesaplanır ve WTP'den bağımsızdır\" seçeneği yanlıştır, çünkü fiyat müşterinin ödeme istekliliğini aşamaz. \"Maksimum fiyat 150 TL'dir; rakip fiyatının üzerine çıkmak pazar payını riske atar\" seçeneği de yanlıştır, çünkü ürün 70 TL'lik ek değer sağladığı için rakip fiyatının üzerine çıkmak savunulabilir. Doğru cevap \"Maksimum fiyat 200 TL'dir; EVC = 150+70 = 220 TL olmakla birlikte WTP kısıtı bağlayıcıdır\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -5596,7 +5596,7 @@
    "NBD=0 olan bir projede yatırımın getirisi tam olarak sermaye maliyetine eşittir."
   ],
   "dogru": 0,
-  "aciklama": "Birbirini dışlayan projeler arasında seçimde NBD yöntemi İVO yönteminden üstündür. İVO yöntemi; projelerin ölçekleri farklıysa, nakit akışlarının işareti birden fazla kez değişiyorsa ya da ara nakit akışları farklı oranlarla yeniden yatırıma dönüşüyorsa yanıltıcı sonuçlar verebilir. Bu nedenle C şıkkındaki ifade yanlıştır.",
+  "aciklama": "Net bugünkü değer yöntemi nakit akışlarını iskonto ederek paranın zaman değerini dikkate alır. Pozitif NBD, projenin sermaye maliyetinin üzerinde getiri sağladığını ve işletme değerini artırdığını gösterir; NBD sıfır ise getiri sermaye maliyetine eşittir. İskonto oranı olarak genellikle AOSM kullanılır ve proje riskine göre düzeltilir. Birbirini dışlayan projelerde İVO ile NBD farklı sıralama verebilir (ölçek farkı, nakit akışı zamanlaması, birden fazla İVO sorunu). Bu durumlarda servet maksimizasyonu ölçütü olarak NBD tercih edilir. Bu yüzden İVO'nun her zaman üstün olduğu ifadesi yanlıştır. \"NBD yöntemi paranın zaman değerini dikkate alır.\" ifadesi doğrudur, çünkü nakit akışları iskonto edilir. \"NBD=0 olan bir projede yatırımın getirisi tam olarak sermaye maliyetine eşittir.\" ifadesi de doğrudur, çünkü İVO bu durumda iskonto oranına eşittir. Yanlış ifade \"Birbirini dışlayan projeler arasında seçimde her zaman iç verim oranı (İVO) yöntemi NBD yönteminden üstündür.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -5628,7 +5628,7 @@
    "Optimal sermaye yapısı sektöre göre değişmekle birlikte her işletme için belirli bir borç oranı vardır."
   ],
   "dogru": 1,
-  "aciklama": "Modigliani-Miller'ın I. önerisi (vergisiz): Mükemmel piyasalar varsayımı altında bir işletmenin toplam değeri, sermaye yapısından tamamen bağımsızdır. Yatırımcılar kişisel kaldıraç yoluyla aynı sonuca ulaşabileceğinden kurumsal borçlanmanın ayrı bir değer yaratması mümkün değildir. Vergi kalkanı argümanı (C şıkkı) ise vergili MM teoreminin sonucudur.",
+  "aciklama": "Modigliani-Miller'in vergisiz dünya (I. Önerme) sonucuna göre, mükemmel piyasa varsayımları altında işletme değeri, varlıkların ürettiği nakit akışlarına bağlıdır; bu akışların borç ve öz kaynak arasında nasıl bölüştürüldüğüne bağlı değildir. Borç kullanımı öz kaynak maliyetini artırsa da bu artış, daha ucuz borcun ağırlığındaki yükselişi tam olarak dengeler; AOSM ve işletme değeri değişmez. \"Borç kullanımı vergi kalkanı yaratarak işletme değerini artırır.\" ifadesi vergili dünyadaki düzeltilmiş modele aittir, vergisiz dünyaya ait değildir. \"Borç kullanımı öz kaynak maliyetini artırdığından optimal sermaye yapısı %100 öz kaynaktan oluşmalıdır.\" ifadesi de yanlıştır, çünkü teoreme göre optimal bir yapı yoktur. Doğru cevap \"İşletmenin değeri sermaye yapısından bağımsızdır; borç/öz kaynak oranı değeri etkilemez.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -5708,7 +5708,7 @@
    "1.500 adet; her ek birim 20 TL katkı sağlar."
   ],
   "dogru": 1,
-  "aciklama": "Katkı payı = Satış fiyatı - Birim değişken maliyet = 40 - 20 = 20 TL. Başabaş noktası = Sabit giderler / Katkı payı = 50.000 / 20 = 2.500 adet. Başabaş noktasının ötesinde satılan her ek birim, sabit giderler zaten karşılandığından 20 TL katkı payı kadar kâr artışı sağlar; bu 40 TL değil 20 TL'dir. Bu nedenle doğru yanıt C şıkkıdır.",
+  "aciklama": "Başabaş noktası, sabit giderlerin birim katkı payına bölünmesiyle bulunur. Birim katkı payı = satış fiyatı − birim değişken maliyet = 40 − 20 = 20 TL'dir. Başabaş miktarı = 50.000 / 20 = 2.500 adettir. Bu noktadan sonra sabit giderler tamamen karşılandığı için satılan her ek birim 20 TL kâr olarak katkı sağlar. \"2.000 adet; her ek birim 40 TL katkı sağlar.\" seçeneği yanlıştır, çünkü sabit gider satış fiyatına bölünmüştür ve 40 TL fiyat, katkı payı sayılmıştır; oysa değişken maliyet düşülmelidir. \"2.500 adet; her ek birim 40 TL katkı sağlar.\" seçeneğinde miktar doğru olsa da ek birim katkısı yanlıştır, çünkü her birim için 20 TL değişken maliyet de ödenir. Doğru cevap \"2.500 adet; her ek birim 20 TL katkı sağlar.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -5836,7 +5836,7 @@
    "Hem dönen varlıkların hem de duran varlıkların büyük bölümü uzun vadeli kaynaklarla finanse edilir."
   ],
   "dogru": 2,
-  "aciklama": "Agresif finansman stratejisinde işletme, hem geçici (mevsimsel) hem de kalıcı dönen varlıklarını kısa vadeli kaynaklarla finanse eder; yalnızca duran varlıklar uzun vadeli kaynakla karşılanır. Bu strateji düşük maliyet ve yüksek risk içerir. Muhafazakâr stratejide ise kalıcı dönen varlıklar da uzun vadeli finansmanla karşılanır. Seçenek C, eşleşik (dengeli) finansman stratejisini tanımlamaktadır.",
+  "aciklama": "Agresif finansman stratejisinde işletme, uzun vadeli kaynakları yalnızca duran varlıkların finansmanında kullanır; dönen varlıkların tamamı (kalıcı kısım dahil) kısa vadeli kaynaklarla finanse edilir. Kısa vadeli borç genellikle daha ucuzdur, bu yüzden maliyet düşer; ancak sürekli yenileme gerektirdiği için likidite ve faiz riski artar. \"Duran varlıklar ve dönen varlıkların kalıcı kısmı uzun vadeli, mevsimsel ihtiyaçlar kısa vadeli kaynaklarla finanse edilir.\" seçeneği vadelerin eşleştirildiği ihtiyatlı-denk (uyumlu) stratejiyi tanımlar. \"Hem dönen varlıkların hem de duran varlıkların büyük bölümü uzun vadeli kaynaklarla finanse edilir.\" seçeneği ise muhafazakâr stratejiyi anlatır. Doğru cevap \"Sadece duran varlıklar uzun vadeli kaynaklarla, dönen varlıkların tamamı kısa vadeli kaynaklarla finanse edilir.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -6172,7 +6172,7 @@
    "Vergi kalkanı PV = 250.000 TL; firma değeri borçtan bağımsızdır"
   ],
   "dogru": 0,
-  "aciklama": "MM teoreminde vergi kalkanının PV'si = Vergi oranı × Borç tutarı = 0,25 × 2.000.000 = 500.000 TL'dir. Kalıcı borç varsayımında iskonto oranı borçun maliyetine eşit olup oran sadeleşir; sonuç τ×D formülüne indirgenir. A şıkkı yanlıştır çünkü %100 borç finansmanı önerisi sadece MM'nin vergisiz ve finansal sıkıntı maliyeti olmayan varsayımında ortaya çıkar; vergi kalkanı doğru hesaplanmış ama karar yanlış. B şıkkı: Değiş-tokuş (trade-off) teorisine göre finansal sıkıntı maliyetleri devreye girdiğinde firmanın marjinal vergi kalkanı faydası = marjinal finansal sıkıntı maliyeti olduğu noktada optimal yapı belirlenir. Bu hem teorik hem analitik açıdan doğru yanıttır.",
+  "aciklama": "Kalıcı borç durumunda vergi kalkanının bugünkü değeri, kurumlar vergisi oranı ile borç tutarının çarpımına eşittir: 0,25 × 2.000.000 = 500.000 TL. Vergili MM modeline göre borçlu işletme değeri = borçsuz işletme değeri + vergi kalkanı PV'dir. Ancak borç arttıkça finansal sıkıntı ve iflas maliyetleri de artar. Optimal sermaye yapısı, vergi kalkanının marjinal faydasının bu maliyetlere eşitlendiği noktada bulunur (statik denge teorisi). \"Vergi kalkanı PV = 500.000 TL; firma %100 borçla finanse edilmelidir\" seçeneği yanlıştır, çünkü sıkıntı maliyetleri göz ardı edilmiştir. \"Vergi kalkanı PV = 250.000 TL; firma değeri borçtan bağımsızdır\" seçeneği de yanlıştır, çünkü hesap hatalıdır ve vergi varlığında değer borçtan etkilenir. Doğru cevap \"Vergi kalkanı PV = 500.000 TL; ancak finansal sıkıntı maliyetleri dengelediği noktada optimal yapı bulunur\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -6220,7 +6220,7 @@
    "F/K oranı düşük hisselerin uzun vadede piyasa getirisini sistematik olarak aşması"
   ],
   "dogru": 4,
-  "aciklama": "EPH üç formda incelenir: Zayıf form (geçmiş fiyat verileri fiyata yansımıştır), yarı-güçlü form (tüm kamuya açık bilgiler yansımıştır), güçlü form (içeriden bilgiler dahil tüm bilgiler yansımıştır). A şıkkı zayıf formun çürütülmesine kanıt oluşturur. B şıkkı güçlü formun çürütülmesine kanıt oluşturur (içeriden bilgi). C şıkkı yarı-güçlü formu destekler (kamuya açıklanmış bilgi fiyatı etkiliyor = beklenen). D şıkkı: F/K anomalisi, kamuya açık bir bilgiye (F/K oranı) dayanan sistematik üstün getiridir; bu yarı-güçlü formun çürütülmesine en güçlü kanıtı oluşturur çünkü herkesin erişebildiği kamusal bilgi üzerinden arbitraj yapılabiliyorsa piyasa yarı-güçlü formda etkin değildir. E şıkkı mevsimsellik anomalisidir, yine yarı-güçlü formla ilgilidir ancak D şıkkı kadar sistemik ve kesin bir kanıt değildir.",
+  "aciklama": "Yarı-güçlü form, halka açık tüm bilgilerin fiyatlara hızla ve tam olarak yansıdığını öne sürer. Bu nedenle kamuya açık bir bilgiyle (örneğin F/K oranı) oluşturulan bir stratejinin riske göre ayarlanmış sistematik fazla getiri sağlaması, bu formun çürütülmesi yönünde güçlü kanıttır. Düşük F/K'lı hisselerin uzun vadede piyasayı sistematik aşması bu tür bir anomalidir. \"Teknik analistlerin geçmiş fiyat verilerine dayanarak sistematik üstün getiri sağlaması\" zayıf formun çürütülmesine kanıt olur; yarı-güçlü formdan daha dar bir bilgi kümesini kapsar. \"Bir yatırımcının şirkete ait içeriden bilgiye dayanarak alım yapıp sistematik kâr elde etmesi\" ise güçlü formla ilgilidir ve yarı-güçlü formu çürütmez. Doğru cevap \"F/K oranı düşük hisselerin uzun vadede piyasa getirisini sistematik olarak aşması\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -6252,7 +6252,7 @@
    "Portföye eklenmesi risk-getiri etkinliğini artırabilir"
   ],
   "dogru": 1,
-  "aciklama": "SML üzerindeki bir nokta, beklenen getirinin CAPM'in öngördüğü getiriye eşit olduğu durumu gösterir. SML'nin üzerinde konumlanan hisse: Beklenen getiri > CAPM getirisi, yani pozitif alfaya sahiptir (A doğru). Pozitif alfa, varlığın ucuz fiyatlandığını gösterir (B doğru). Arbitraj baskısıyla fiyat yükselir, beklenen getiri düşer ve SML'ye yaklaşır (C doğru). Portföye eklenmesi risk-getiri etkinliğini artırabilir (E doğru). D şıkkı yanlıştır: SML'nin üzerinde olması beta katsayısının 1'den büyük olmasını gerektirmez. Beta düşük (hatta 0'a yakın) olabilir ve yine de SML'nin üzerinde konumlanabilir; konumlanma betadan bağımsız olarak alfa tarafından belirlenir.",
+  "aciklama": "SML üzerinde olan bir hisse, beta riskine karşılık gereken getiriyi sunar. SML'nin üzerinde yer alan hisse ise beklenen getirisi, CAPM'in beta için gerektirdiği getiriden yüksek olan hissedir; yani pozitif alfaya sahiptir ve teorik değerinin altında fiyatlanmıştır. Alım baskısıyla fiyat yükselir, beklenen getiri düşer ve hisse SML'ye döner. Pozitif alfalı hisse portföye eklendiğinde risk-getiri etkinliğini artırabilir. Beta ise SML üzerindeki konumdan bağımsızdır: beta 1'den küçük, eşit ya da büyük olabilir. Düşük betalı bir hisse de gerekli getirisinin üzerinde getiri sunarak SML'nin üstünde yer alabilir. Bu nedenle \"Hisse senedinin beta katsayısı 1'den büyük olmalıdır\" ifadesi kesinlikle yanlıştır. \"Hisse senedinin alfa değeri pozitiftir\" ifadesi ise doğrudur. Doğru cevap \"Hisse senedinin beta katsayısı 1'den büyük olmalıdır\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -6268,7 +6268,7 @@
    "Futures sözleşmelerinde günlük piyasaya göre değerleme (marking-to-market) uygulanırken forward sözleşmelerde bu uygulama yoktur"
   ],
   "dogru": 1,
-  "aciklama": "C şıkkı yanlıştır çünkü tam tersi doğrudur: Forward sözleşmeler tezgah üstü (OTC) piyasalarda taraflar arasında ikili olarak düzenlendiğinden karşı taraf riskini (counterparty risk) taşır. Futures sözleşmelerinde ise takas kurumu (clearing house) alıcı karşısında satıcı, satıcı karşısında alıcı konumuna geçerek karşı taraf riskini ortadan kaldırır ya da minimize eder. A, B, D ve E şıkları doğru ifadelerdir. Bu soru, adayların türev araçlar arasındaki temel ayrımı anlayıp anlamamadığını ölçmekte olup 'içermez' ifadesiyle forward sözleşmelerin aslında en yüksek karşı taraf riskini taşıdığı gerçeği gizlenmektedir.",
+  "aciklama": "Forward sözleşmeler borsa dışında (OTC) iki taraf arasında yapılır ve aracı bir takas kurumu bulunmaz; bu yüzden karşı tarafın yükümlülüğünü yerine getirmeme riski taşır. Futures sözleşmelerinde ise takas kurumu her iki tarafın karşı tarafı gibi davranarak bu riski üstlenir. Bu nedenle forward sözleşmelerin karşı taraf riski içermediği ifadesi yanlıştır. Diğer ifadeler doğrudur: \"Futures sözleşmelerinde günlük piyasaya göre değerleme (marking-to-market) uygulanırken forward sözleşmelerde bu uygulama yoktur\" ve teminat zorunluluğu futures'a özgüdür; forward sözleşmeler ise standart olmadığından daha az likittir. Doğru cevap \"Forward sözleşmeler karşı taraf riski (counterparty risk) içermez\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -6284,7 +6284,7 @@
    "Şirketin likiditesi ve finansal riski iyileşmektedir; uzun vadeli yatırım için uygundur"
   ],
   "dogru": 0,
-  "aciklama": "B şıkkı en kapsamlı ve doğru yorumu içermektedir. Cari oran Yıl1'de 2,5'ten Yıl4'te 1,5'e düşerken (fark: 1,0 birim, %40 düşüş), asit-test oranı 1,8'den 0,7'ye düşmüştür (fark: 1,1 birim, %61 düşüş). Asit-test oranının cari orandan çok daha fazla düşmesi, stok kaleminin likit olmayan bir şekilde büyüdüğüne işaret eder. Borç/Özkaynak 0,6'dan 1,8'e çıkmış; bu finansal riskin arttığını, kaldıracın yükseldiğini gösterir (C şıkkı kesinlikle yanlıştır). A şıkkı yanlıştır: tüm göstergeler kötüleşmektedir. D şıkkı yanlıştır çünkü Yıl3 ve Yıl4'te asit-test 1'in altına düşmüştür. E şıkkı yanıltıcıdır; 1,5 cari oran sektöre ve nakit akış yapısına göre yetersiz olabilir. Trendin bütünsel yorumu B'yi doğrular.",
+  "aciklama": "Dört yılda cari oran 2,5'ten 1,5'e düşerek yaklaşık %40 geriledi. Asit-test oranı ise 1,8'den 0,7'ye düşerek yaklaşık %61 geriledi. Asit-test oranı stokları dışarıda bıraktığı için, ondan daha hızlı düşmesi dönen varlıklar içinde stokların payının arttığını gösterir. Stokların cari varlıklardaki payı (cari oran − asit-test) / cari oran formülüyle Yıl 1'de yaklaşık %28 iken Yıl 4'te yaklaşık %53 olur. Borç/Özkaynak oranının 0,6'dan 1,8'e çıkması da finansal riskin arttığını gösterir. \"Şirketin likiditesi ve finansal riski iyileşmektedir; uzun vadeli yatırım için uygundur\" ifadesi yanlıştır, çünkü tüm oranlar kötüleşmektedir. \"Borç/Özkaynak oranındaki artış, şirketin finansal kaldıracı düşürdüğünü göstermektedir\" ifadesi de yanlıştır, çünkü bu oran arttığında finansal kaldıraç da artar. Doğru cevap \"Stoklara olan bağımlılık artmaktadır; cari oran düşerken asit-test oranının çok daha hızlı düşmesi stok birikimini gösterir\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -6348,7 +6348,7 @@
    "Piyasa endeksinin aktif yönetilen fonların büyük çoğunluğunu geçmesi"
   ],
   "dogru": 3,
-  "aciklama": "Yarı-güçlü formda tüm kamuya açık bilgiler fiyata anında yansır; bu nedenle kamuya açık bilgilerle sürekli anormal getiri elde edilemez. Kazanç açıklaması sonrası fiyatın birkaç hafta/ay boyunca aynı yönde hareket etmeye devam etmesi (post-earnings announcement drift - PEAD) bu formu doğrudan çürütür; çünkü kazanç açıklaması kamuya açık bir bilgidir ve fiyatın anında tam olarak güncellenmemesi yarı-güçlü formun ihlalidir. A şıkkı zayıf formu destekler (teknik analiz geçmiş fiyat verisidir). B şıkkı güçlü formu ilgilendirir. D ve E şıkları yarı-güçlü formu destekler (çürütmez). Doğru cevap C'dir.",
+  "aciklama": "Yarı-güçlü formda fiyatların kamuya açık tüm bilgiyi hemen yansıttığı varsayılır. Kazanç sürprizi açıklandığında fiyat anında ayarlanmayıp günler veya haftalar boyunca aynı yönde sürükleniyorsa (kazanç sonrası drift), kamuya açık bilgi fiyata gecikmeli yansıyor demektir. Böyle bir durumda bu bilgiyle işlem yapan yatırımcı anormal getiri elde edebilir ve yarı-güçlü form çürütülmüş olur. \"İçeriden öğrenenlerin piyasayı sürekli yenebilmesi\" yarı-güçlü formu değil, kamuya açık olmayan bilgiyi de kapsayan güçlü formu çürütür. \"Teknik analizin uzun vadede anlamlı getiri sağlayamaması\" ise zayıf formu destekleyen bir bulgudur ve hipotezi çürütmez. Doğru cevap \"Kazanç sürprizinin açıklandığı gün hisse fiyatının anında güncellenmemesi ve drift oluşması\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -6428,7 +6428,7 @@
    "Şüpheli alacaklar için ayrılan karşılığın vergi matrahından indirilebilir olması"
   ],
   "dogru": 3,
-  "aciklama": "Ertelenmiş vergi, bilanço değeri ile vergi değeri arasındaki geçici farktan doğar. Hızlandırılmış (vergisel) amortisman uygulandığında, bir varlığın vergi mevzuatına göre hesaplanan amortisman tutarı muhasebe (TMS/TFRS) amortismanından daha fazla olabilir. Bu durumda varlığın vergi değeri, bilanço (defter) değerinin altında kalır; bu da ertelenmiş vergi yükümlülüğü (DTL) doğuran vergilendirilebilir geçici fark oluşturur. A şıkkı: Şüpheli alacak karşılığı vergiden indirilemiyorsa geçici fark olur; indirilebilirse geçici fark yoktur — bu nedenle bağlama göre değişir. B şıkkı: Kanunen kabul edilmeyen giderler kalıcı farktır, ertelenmiş vergi yaratmaz. D şıkkı: Geçmiş yıl zararları ertelenmiş vergi varlığı yaratır (yükümlülük değil). E şıkkı: Vergiden muaf temettüler kalıcı fark olabilir. Doğru cevap C'dir.",
+  "aciklama": "Ertelenmiş vergi, varlık veya yükümlülüğün muhasebe değeri ile vergi değeri arasındaki geçici farklardan doğar. Hızlandırılmış amortisman uygulandığında vergi amortismanı muhasebe amortismanından büyük olur. Bu durumda varlığın vergi değeri defter değerinden düşük kalır ve ileride vergilenebilir tutar ortaya çıkar. Sonuç olarak ertelenmiş vergi yükümlülüğü doğar. \"İşletmenin kanunen kabul edilmeyen giderlerinin sürekli fark yaratması\" kalıcı bir farktır ve ertelenmiş vergi doğurmaz. \"Geçmiş yıl zararlarının cari yıl kârından indirimi\" ise ayrı bir konudur ve geçici fark olarak değil, ertelenmiş vergi varlığı doğuran kullanılmamış mali zarar olarak ele alınır. Doğru cevap \"Hızlandırılmış amortisman nedeniyle vergi amortismanının muhasebe amortismanından fazla olması\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -6444,7 +6444,7 @@
    "Faktoring şirketleri yalnızca alacak tahsilat hizmeti sunar; kredi ve sigorta işlevleri ayrı kurumlar tarafından sağlanır"
   ],
   "dogru": 0,
-  "aciklama": "C şıkkı doğrudur: Faktoring genellikle kısa vadeli ticari alacakların (tipik olarak 90-180 güne kadar) bir faktoring şirketine devredilmesi işlemidir. Forfaiting ise ihracattan doğan orta-uzun vadeli (genellikle 1-10 yıl) alacakların forfaiter'a rücusuz (without recourse) olarak satılmasıdır; yani alacak tahsil edilemese bile ihracatçı sorumlu tutulmaz. A şıkkı yanlıştır: Forfaiting rücusuzdur; bazı faktoring türlerinde ise rücu hakkı saklı tutulabilir (rüculu faktoring). B şıkkı yanlıştır: TFRS 16 ile birlikte finansal kiralama ve uzun vadeli operasyonel kiralamalar bilançoya alınmaktadır. D şıkkı yanlıştır: Finansal kiralamada mülkiyet otomatik geçmeyebilir; muhasebe kural gereği kiracı bilanço aktifine alır. E şıkkı yanlıştır: Faktoring şirketleri tahsilat, finansman ve risk üstlenimi işlevlerini birlikte sunabilir. Doğru cevap C'dir.",
+  "aciklama": "Faktoring genellikle kısa vadeli ticari alacakların devri yoluyla finansman sağlar. Forfaiting ise orta ve uzun vadeli ihracat alacaklarının, genellikle rücu hakkı olmaksızın iskontolu olarak satın alınmasıdır. İhracatçı bu sayede alacak ve ülke riskinden kurtulur. \"Forfaitingde rücu hakkı saklı tutulurken faktoring işlemlerinde alacaklar rücusuz devredilir\" ifadesi forfaitingin temel özelliğine ters düştüğü için yanlıştır. \"Faktoring şirketleri yalnızca alacak tahsilat hizmeti sunar; kredi ve sigorta işlevleri ayrı kurumlar tarafından sağlanır\" ifadesi de yanlıştır, çünkü faktoring finansman, tahsilat ve kredi riski üstlenme işlevlerini birlikte sunar. Doğru cevap \"Faktoring kısa vadeli alacakların finansmanına yönelikken forfaiting orta-uzun vadeli ihracat alacaklarını kapsar ve rücu hakkı olmaksızın yapılır\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -6476,7 +6476,7 @@
    "927.904 TL"
   ],
   "dogru": 4,
-  "aciklama": "Tahvilin bugünkü değeri; kupon ödemelerinin bugünkü değeri + anapara geri ödemesinin bugünkü değerinden oluşur. Kupon = 1.000.000 × 0,10 = 100.000 TL/yıl. Yıllık rant faktörü = [1 - (1/1,7623)] / 0,12 = [1 - 0,5674] / 0,12 = 0,4326 / 0,12 = 3,6050. Kuponların BDD = 100.000 × 3,6050 = 360.500 TL. Anaparanın BDD = 1.000.000 / 1,7623 = 567.400 TL. Toplam BDD ≈ 360.500 + 567.400 = 927.900 TL. Piyasa faizi kupon faizinden yüksek olduğu için tahvil iskontolu (nominelin altında) fiyatlanır. En yakın değer A şıkkıdır.",
+  "aciklama": "Tahvilin değeri, kupon ödemeleri ile anaparanın piyasa faizi olan %12 ile iskonto edilmiş bugünkü değerlerinin toplamıdır. Yıllık kupon 1.000.000 × %10 = 100.000 TL'dir. Anaparanın bugünkü değeri 1.000.000 / 1,7623 ≈ 567.440 TL bulunur. Kupon anüitesi faktörü (1 − 1/1,7623) / 0,12 ≈ 3,6047 olduğundan kuponların bugünkü değeri yaklaşık 360.466 TL'dir. Toplam yaklaşık 927.906 TL eder ve bu değer seçeneklerdeki rakama yuvarlama farkıyla denktir. Kupon oranı piyasa faizinden düşük olduğu için tahvil nominal değerin altında, yani iskontolu işlem görür. \"1.000.000 TL\" yalnızca kupon oranı ile piyasa faizi eşit olsaydı doğru olurdu. \"1.072.096 TL\" ise primli değerdir ve faiz oranlarının tersine çevrilmesiyle çıkar. Doğru cevap \"927.904 TL\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -6524,7 +6524,7 @@
    "Kamuya açık finansal tabloları analiz ederek değeri düşük hisse senetlerini belirlemek"
   ],
   "dogru": 1,
-  "aciklama": "Etkin Piyasalar Hipotezi'nin üç formu vardır: Zayıf form (geçmiş fiyat bilgisi fiyatlara yansımıştır → teknik analiz işe yaramaz), Yarı-güçlü form (kamuya açık tüm bilgiler fiyatlara yansımıştır → temel analiz, F/K oranları, temettü verimi gibi kamuya açık verilerle anormal getiri elde edilemez), Güçlü form (içeriden bilgi dahil tüm bilgiler yansımıştır). Yarı-güçlü formda A, B, D ve E şıkları anormal getiri sağlayamaz çünkü bunlar kamuya açık bilgiye dayanır. Sadece C şıkkındaki içeriden bilgi (insider trading) yarı-güçlü formda henüz fiyatlara yansımadığından teorik olarak anormal getiri sağlayabilir; ancak bu yasal açıdan yasaktır. Doğru cevap C'dir.",
+  "aciklama": "Yarı-güçlü formda fiyatlar kamuya açık tüm bilgiyi zaten yansıtır. Bu yüzden F/K, temettü verimi, finansal tablolar veya geçmiş fiyat hareketleri gibi herkesin erişebildiği verilerle sürekli üstün getiri sağlanamaz. Yalnızca kamuya açıklanmamış, yani içsel bilgi fiyatlara yansımadığı için bu bilgiye dayanarak işlem yapan kişi piyasayı yenebilir. Bu, yarı-güçlü formun kapsamı dışında kalır. Ancak içeriden öğrenenlerin ticareti yasa dışıdır. \"Kamuya açık finansal tabloları analiz ederek değeri düşük hisse senetlerini belirlemek\" temel analizdir ve yarı-güçlü formda sürekli üstün getiri sağlamaz. \"Teknik analiz yöntemiyle geçmiş fiyat hareketlerini incelemek\" de geçmiş fiyat bilgisine dayandığı için aynı şekilde sonuçsuz kalır. Doğru cevap \"Henüz kamuoyuna açıklanmamış birleşme bilgisine dayanarak işlem yapmak\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -6540,7 +6540,7 @@
    "EPS %50 artar; DTL=6 olup satış dalgalanmalarına karşı EPS 6 kat duyarlıdır."
   ],
   "dogru": 0,
-  "aciklama": "DTL = DOL × DFL = 3,0 × 2,0 = 6,0. EPS değişimi = DTL × Satış değişimi = 6,0 × %10 = %60. Yorumu: DTL=6 iken her %1'lik satış artışı EPS'yi %6 artırır (ya da azaltır). C şıkkı her iki hesabı da doğru ifade etmektedir. A şıkkında EPS hesabı yanlış (5×10=%50 olmalı). B şıkkında DTL yanlış (6 doğru) ama EPS %60 olmalı, %50 değil. D şıkkında EPS doğru ama DTL yanlış gösterilmiş. E şıkkında EPS yanlış. DOL, FVÖK'ün satışa duyarlılığını; DFL ise EPS'nin FVÖK'e duyarlılığını ölçer. Doğru cevap C'dir.",
+  "aciklama": "Toplam kaldıraç derecesi, faaliyet ve finansal kaldıraç derecelerinin çarpımıdır: DTL = DOL × DFL = 3,0 × 2,0 = 6. DTL, satıştaki yüzde değişimin EPS'ye kaç katıyla yansıdığını gösterir. Satışlar %10 arttığında EPS değişimi 6 × %10 = %60 olur. Her %1'lik satış artışı EPS'yi %6 artırır. \"EPS %50 artar; DTL=5\" şeklindeki seçenek DTL'yi toplayarak hesaplar, oysa kaldıraçlar toplanmaz, çarpılır. \"EPS %30 artar; DTL=5\" seçeneği de aynı hatayı yapar. \"EPS %50 artar; DTL=6 olup satış dalgalanmalarına karşı EPS 6 kat duyarlıdır\" seçeneğinde DTL doğru olsa da %50 değeri yanlıştır. Doğru cevap \"EPS %60 artar; DTL=6 olup her %1'lik satış artışı EPS'yi %6 artırır.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -6572,7 +6572,7 @@
    "300.000 TL; stok devir süresini kısaltmak ve peşin satış oranını artırmak"
   ],
   "dogru": 3,
-  "aciklama": "Nakit Dönüşüm Süresi = Stok Devir Süresi + Alacak Tahsil Süresi - Borç Ödeme Süresi = 45 + 38 - 28 = 55 gün. NDS'yi 10 gün kısaltmak için gereken finansman tasarrufu = 10 gün × Günlük faaliyet gideri = 10 × 25.000 = 250.000 TL. NDS'yi azaltmak için: (1) Alacak tahsil süresini kısaltmak (nakit tahsilatı hızlandırır), (2) Borç ödeme süresini uzatmak (tedarikçilere olan borçları geç ödemek işletme lehine), (3) Stok devir süresini kısaltmak (stokları daha hızlı satmak). B şıkkı hem tasarruf miktarını (250.000 TL) hem de doğru stratejiyi (alacak kısaltma + borç uzatma) birlikte doğru vermektedir. Doğru cevap B'dir.",
+  "aciklama": "Nakit dönüşüm süresi, stok devir süresi ile alacak tahsil süresinin toplamından borç ödeme süresinin çıkarılmasıyla bulunur: 45 + 38 − 28 = 55 gündür. Süre 10 gün kısaltıldığında, her gün için günlük faaliyet gideri kadar finansman gereği azalır: 10 × 25.000 = 250.000 TL tasarruf sağlanır. Süreyi kısaltmak için alacak tahsil süresini kısaltmak ve borç ödeme süresini uzatmak gerekir. \"300.000 TL; alacak tahsil süresini uzatmak\" yanlıştır, çünkü hem tutar hatalıdır hem de tahsil süresini uzatmak NDS'yi artırır. \"250.000 TL; stok devir süresini uzatmak\" da yanlıştır, çünkü stok süresinin uzaması NDS'yi uzatır. Doğru cevap \"250.000 TL; alacak tahsil süresini kısaltmak ve borç ödeme süresini uzatmak\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -6588,7 +6588,7 @@
    "%20,52"
   ],
   "dogru": 1,
-  "aciklama": "Portföy varyansı formülü: σ²p = wA²σA² + wB²σB² + 2×wA×wB×σA×σB×ρAB. wA=0,60; wB=0,40; σA=0,30; σB=0,20; ρ=-0,40. σ²p = (0,60)²×(0,30)² + (0,40)²×(0,20)² + 2×0,60×0,40×0,30×0,20×(-0,40). = 0,36×0,09 + 0,16×0,04 + 2×0,60×0,40×0,06×(-0,40). = 0,0324 + 0,0064 + 2×0,24×0,06×(-0,40). = 0,0324 + 0,0064 + (-0,01152). = 0,0388 - 0,01152 = 0,02728. σp = √0,02728 ≈ 0,1652 = %16,52. En yakın değer A şıkkı olan %16,37'dir. Negatif korelasyonun çeşitlendirme etkisiyle portföy riskinin her iki hissenin ağırlıklı ortalaması (%26) altında gerçekleştiği bu sorunun ana mesajıdır. Doğru cevap A'dır.",
+  "aciklama": "İki varlıklı portföyün varyansı: σp² = wA²σA² + wB²σB² + 2·wA·wB·ρ·σA·σB. Ağırlıklar wA = 0,6 ve wB = 0,4'tür. İlk terim 0,36 × 0,09 = 0,0324, ikinci terim 0,16 × 0,04 = 0,0064'tür. Kovaryans terimi 2 × 0,6 × 0,4 × (−0,40) × 0,30 × 0,20 = −0,01152 bulunur. Toplam varyans 0,02728 ve standart sapma yaklaşık %16,5'tir. Bu değer seçenekler arasında en çok \"%16,37\" değerine yakındır. Negatif korelasyon çeşitlendirme etkisi yarattığı için portföy riski, hisselerin ağırlıklı ortalama riski olan %26'nın hayli altında kalır. \"%25,00\" ve \"%22,13\" gibi değerler korelasyonun etkisinin yeterince hesaba katılmaması sonucu çıkar. Doğru cevap \"%16,37\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -6620,7 +6620,7 @@
    "%34,48"
   ],
   "dogru": 1,
-  "aciklama": "Fisher etkisi: (1 + nominal) = (1 + reel) × (1 + enflasyon). (1 + 0,42) = (1 + 0,08) × (1 + π). 1,42 = 1,08 × (1+π). (1+π) = 1,42 / 1,08 = 1,31481. π = 0,31481 ≈ %31,48. Basit yaklaşım (yanlış ama sıkça kullanılan): Enflasyon = Nominal - Reel = 42 - 8 = %34 → D şıkkı. Doğru Fisher formülü uygulandığında ise %31,48 → A şıkkı çıkmaktadır. Bu soru adayların basit çıkarma yerine çarpımsal Fisher formülünü uygulamasını test etmektedir. Breakeven enflasyon olarak da bilinen bu değer, tahvil piyasasının enflasyon beklentisini ölçer. Doğru cevap A'dır.",
+  "aciklama": "Fisher etkisinin tam biçimi (1 + nominal getiri) = (1 + reel getiri) × (1 + enflasyon) şeklindedir. Buradan 1 + enflasyon = 1,42 / 1,08 = 1,3148 bulunur. Beklenen yıllık enflasyon yaklaşık %31,48 olur. \"%34,00\" seçeneği nominal getiriden reel getirinin basitçe çıkarılmasıyla elde edilir. Bu yaklaşık Fisher formülü yüksek faiz ve enflasyon düzeylerinde yanıltıcıdır, çünkü reel getiri ile enflasyonun çarpım terimini göz ardı eder. \"%34,48\" ise paydanın yanlış alınmasıyla çıkan bir hatadır. Doğru cevap \"%31,48\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -7388,7 +7388,7 @@
    "Bir çalışana yalnızca ürünün bir parçasını değil, ürünün baştan sona tamamını üretme sorumluluğunun verilmesi ve kalite kontrolünü üstlenmesi"
   ],
   "dogru": 3,
-  "aciklama": "Hackman ve Oldham'ın modelinde görev özdeşliği, bir çalışanın işin başından sonuna kadar tanımlanabilir bir bütünü tamamlaması anlamına gelir. A, C, D ve E seçenekleri bu boyutla doğrudan ilgilidir. B seçeneğindeki müşteri geri bildirim mekanizması ise görev özdeşliğini değil, 'geri bildirim' boyutunu geliştirmeye yönelik bir uygulamadır.",
+  "aciklama": "Hackman ve Oldham modelinde görev özdeşliği, işin başından sonuna kadar tamamlanmış ve tanımlanabilir bir bütün olarak yapılabilmesi derecesidir. Tüm montaj sürecini yönetmek, işi tanımlanabilir bir bütün haline getirmek, projeyi başlangıçtan teslimata tek sorumlu olarak yürütmek ve ürünü baştan sona üretmek, işin bütününü çalışana verdiği için görev özdeşliğini doğrudan artırır. Müşteri geri bildirimiyle sonucun izlenmesi ise işin kendisinden dönüt alma, yani geri bildirim boyutuyla ilgilidir. İşin kapsamını ya da bütünlüğünü değiştirmez. Bu nedenle \"Çalışanın işin sonucunu müşteri geri bildirimleriyle takip edebilmesi...\" uygulaması görev özdeşliğine yönelik değildir. Doğru cevap \"Çalışanın işin sonucunu müşteri geri bildirimleriyle takip edebilmesi için sistematik bir raporlama mekanizması kurulması\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -7468,7 +7468,7 @@
    "Yedekleme planlaması yalnızca orta kademe yöneticiler için geçerliyken kariyer planlaması tüm kademeleri kapsar."
   ],
   "dogru": 1,
-  "aciklama": "Kariyer planlaması, öncelikle bireyin kendi ilgi, değer ve becerilerine dayalı olarak uzun vadeli iş hedeflerini belirlemesi sürecidir; bireyin perspektifi merkezdir. Yedekleme planlaması ise örgütün kritik pozisyonları için aday havuzu oluşturmasını ve bu kişileri geliştirmesini kapsayan örgüt odaklı bir süreçtir. Her iki süreç birbirini tamamlasa da temel çıkış noktaları farklıdır. B ve C seçenekleri yaygın ama hatalı genellemelerdir.",
+  "aciklama": "Yedekleme planlaması, örgütün kilit pozisyonlarının boşalması halinde iş sürekliliğini sağlamak için uygun adayları önceden belirlemesi ve yetiştirmesidir; çıkış noktası örgütün ihtiyaçlarıdır. Kariyer planlaması ise çalışanın kendi hedefleri, ilgileri ve yetenekleri doğrultusunda ilerleme yolunu çizmesidir; çıkış noktası bireydir. Bu nedenle ikisi arasındaki temel fark, hareket noktasının bireysel mi örgütsel mi olmasıdır. \"Kariyer planlaması kısa vadeli, yedekleme planlaması uzun vadeli...\" ifadesi yanlıştır, çünkü kariyer planlaması da uzun vadeli bir süreçtir. \"İkisi arasında kavramsal bir fark yoktur...\" ifadesi de yanlıştır, çünkü iki kavram farklı amaçlara hizmet eder. Doğru cevap \"Kariyer planlaması bireysel, yedekleme planlaması örgütsel önceliklerden hareket eder.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -7564,7 +7564,7 @@
    "Süreç danışmanlığı kriz dönemlerinde uygulanırken takım oluşturma yalnızca rutin dönemlerde yapılır."
   ],
   "dogru": 2,
-  "aciklama": "Edgar Schein'ın geliştirdiği süreç danışmanlığı modelinde danışman, müşteriye problemi çözmek için doğrudan reçete sunmaz; bunun yerine müşterinin örgütsel süreçleri (iletişim, çatışma, karar verme) nasıl algıladığını ve yorumladığını keşfetmesine rehberlik eder. Takım oluşturma ise grubun rol netliği, işbirliği kapasitesi, iletişim ve çatışma yönetimi gibi boyutlarını geliştirmeye yönelik yapılandırılmış bir müdahaledir. B seçeneği süreci tersine çevirdiği için yanlıştır.",
+  "aciklama": "Takım oluşturma, bir grubun işleyişini, üyeler arası rolleri, iletişim örüntülerini ve dinamiklerini geliştirmeyi hedefleyen bir örgüt geliştirme müdahalesidir. Süreç danışmanlığında (Schein) danışman hazır çözüm sunmaz; müşterinin kendi çevresindeki süreçleri algılamasına, anlamasına ve bunlara göre harekete geçmesine yardımcı olur. Bu nedenle ikisinin odağı farklıdır. \"Süreç danışmanlığında danışman çözümü doğrudan sunup uygulatırken...\" ifadesi yanlıştır, çünkü süreç danışmanlığının temel özelliği çözümü müşterinin üretmesidir; danışman çözüm sunan uzman rolünde değildir. \"Takım oluşturma bireysel düzeyde, süreç danışmanlığı örgütsel düzeyde uygulanır.\" ifadesi de yanlıştır, çünkü takım oluşturma grup düzeyindedir. Doğru cevap \"Takım oluşturma, grubun dinamiklerini, rollerini ve iletişim örüntülerini geliştirmeye odaklanırken...\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -7836,7 +7836,7 @@
    "İşe alım sürecinde psikometrik test ağırlığının artırılması, referans kontrolünün derinleştirilmesi ve iş analizlerinin güncellenmesi"
   ],
   "dogru": 2,
-  "aciklama": "Sorunun kök nedeni kariyer gelişiminin yetersizliği ve ilk 6 aydaki uyumsuzluktur. B şıkkında yer alan yapılandırılmış oryantasyon (ilk 6 ay sorununu), bireysel kariyer yol haritaları ve mentorluk (kariyer gelişimini), rotasyon (Y kuşağının çeşitli deneyim talebini) doğrudan ele almaktadır. A şıkkı hijyen faktörlere odaklanmakta, kök nedeni çözmemektedir. C devir hızını azaltmaz; D işe alım kalitesini artırsa da mevcut sorunu çözmez. E ise yüzeysel bağlılık araçlarıdır.",
+  "aciklama": "Verilerden üç ipucu çıkar: çıkışların %55'i ilk 6 ayda olmaktadır, bu da işe başlama ve uyum sürecinin zayıf olduğunu gösterir. Çıkanların %70'i Y kuşağıdır ve temel gerekçeleri kariyer gelişimi yetersizliğidir. Kök neden bu nedenle ücret ya da çalışma ortamı değil, erken dönem uyumu ve gelişim perspektifidir. Yapılandırılmış oryantasyon ilk 6 aylık kaybı, kariyer yol haritaları ve rotasyon gelişim beklentisini, mentorluk ise hem uyumu hem gelişimi destekler; bileşenler birbirini tamamlar. \"Ücret zamları yapılması, esnek çalışma saatlerinin getirilmesi...\" paketi belirtilen asıl nedeni hedeflemez. \"Disiplin süreçlerinin sıkılaştırılması...\" paketi ise çıkışı engellemek yerine baskı kurar. Doğru cevap \"Yapılandırılmış oryantasyon programı, bireysel kariyer yol haritaları, mentorluk sistemi ve rotasyon uygulaması\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -7884,7 +7884,7 @@
    "Kontrast etkisi – yöneticiler çok başarısız meslektaşlarıyla kıyaslandığında olduğundan daha iyi görünmektedir"
   ],
   "dogru": 2,
-  "aciklama": "Senaryoda astların yöneticilerini sistematik olarak yüksek puanlaması ve bunun nesnel iş çıktılarıyla çelişmesi, iki iç içe geçmiş hatayı işaret eder: (1) Yumuşaklık hatası (leniency bias) – astlar olumsuz sonuçlardan çekinerek gerçek görüşlerini saklar. (2) Stratejik değerlendirme (karşılıklı bağımlılık çarpıklığı) – 360 sonuçları ücret/terfi kararlarına etki ettiğinde değerlendiriciler kendi çıkarları doğrultusunda puan verir. Halo etkisi (A) farklı boyutlarda tutarsız değil, tek kişinin iyi bir özelliğini diğer boyutlara yansıtmayı açıklar. Merkeze eğilim (C) sistematik yüksek puanı açıklamaz.",
+  "aciklama": "Astların yöneticilerini sürekli yüksek puanlamasına rağmen müşteri şikâyetlerinin ve kalite sorunlarının artması, puanların gerçek performansı yansıtmadığını gösterir. Astlar yöneticilerine bağımlı olduğu için olumsuz geri bildirim vermekten çekinir ve değerlendirmenin sonuçlarından etkilenmemek için cömert puan verir; bu, yumuşaklık hatası ile yukarı yönlü değerlendirmedeki bağımlılık çarpıklığıdır. \"Merkeze eğilim hatası...\" yanlıştır, çünkü puanlar orta düzeyde değil sürekli yüksektir. \"Halo etkisi...\" ise tek bir olumlu özelliğin genellenmesini açıklar ve yüksek puanların ast kaynaklı sistematik şişmesini tek başına açıklamaz. Doğru cevap \"Yumuşaklık hatası ve karşılıklı bağımlılık çarpıklığı...\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -7900,7 +7900,7 @@
    "Yeni bir ücret skalası kurulduğunda; her iki gruptan çalışanlar da yeni skalanın orta noktasına çekilmelidir"
   ],
   "dogru": 1,
-  "aciklama": "Kırmızı daire: Çalışanın mevcut ücreti, pozisyonu için belirlenen ücret aralığının maksimumunu aşmaktadır. Doğru yaklaşım maaşı kesmek değil (motivasyon kaybı ve hukuki riskler), doğal düzelme (natural attrition) beklemek veya maaş dondurmaktır. Yeşil daire: Çalışanın ücreti aralığın minimumunun altındadır. Yapılandırılmış yakalama artışları (catch-up increases) ile aralığa çekilmelidir. A şıkkında ani kesinti önerisi hem motivasyonu hem de hukuki tutarlılığı bozar. C ve D ücret yönetimi ilkelerine aykırıdır. E stratejik olmayan ve maliyeti göz ardı eden bir yaklaşımdır.",
+  "aciklama": "Kırmızı daire, ücreti kendi ücret aralığının üst sınırını aşan pozisyonları, yeşil daire ise aralığın altında kalan pozisyonları ifade eder. Her ikisiyle aynı anda karşılaşmak için bir piyasa ücret araştırmasıyla ücret yapısının gözden geçirilmesi gerekir. Doğru yaklaşım, kırmızı daireli çalışanların maaşlarını düşürmeden dondurmak ve enflasyon ile zamların aralığa yetişmesini beklemek, yeşil daireli çalışanlar için ise kademeli yakalama artışları yapmaktır. \"Maaş sıkıştırması yaşandığında...\" seçeneğindeki ani kesinti hukuki ve motivasyon sorunları yaratır. \"Performans değerlendirme döneminde; kırmızı daire çalışanlara sıfır zam, yeşil daire çalışanlara ise çift zam...\" yaklaşımı ise tek dönemde yapılan sert bir düzeltmedir ve gerçekçi değildir. Doğru cevap \"Piyasa ücret araştırması sonucunda bazı pozisyonların ücret aralığının üstünde...\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -7916,7 +7916,7 @@
    "Uluslararası bir banka, farklı kültürlerde aynı liderlik yetkinlik modelini kullanarak lider havuzunu küresel ölçekte geliştirmektedir"
   ],
   "dogru": 3,
-  "aciklama": "En iyi uyum yaklaşımı, İK uygulamalarının örgütün stratejisi, yapısı, çevresi ve yaşam döngüsü aşamasıyla uyumlu olması gerektiğini savunur. B şıkkı bu argümanı doğrudan kanıtlar: Aynı uygulama (kapsamlı eğitim), farklı stratejik bağlamlarda zıt sonuçlar doğurmaktadır. Düşük maliyet stratejisi için yüksek eğitim yatırımı 'evrensel iyi uygulama' olmasına karşın stratejik uyumsuzluk nedeniyle zararlı olmuştur. A, C, D ve E evrenselci yaklaşımın başarısını veya nötr uygulamaları yansıtmaktadır.",
+  "aciklama": "En iyi uyum (contingency) yaklaşımı, bir İK uygulamasının başarısının örgütün stratejisine ve bağlamına uyumuna bağlı olduğunu savunur. Aynı eğitim yatırımının düşük maliyet stratejisi izleyen şirkette maliyet avantajını kaybettirmesi, yüksek kalite stratejisi izleyen şirkette ise pazar payını artırması, aynı uygulamanın stratejiye göre farklı sonuç verdiğini gösterir; bu da yaklaşımı en güçlü biçimde destekler. \"Birbirinden tamamen farklı iki sektörde faaliyet gösteren iki şirket...\" örneği, tersine, uygulamanın bağlamdan bağımsız işlediğini gösterdiği için en iyi uygulama yaklaşımını destekler. \"Küresel bir teknoloji firması...\" örneği de standartlaştırma ve tutarlılığı vurgular. Doğru cevap \"Düşük maliyet stratejisi izleyen bir perakende zinciri...\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -7932,7 +7932,7 @@
    "Yüksek ciro hedefi için satış baskısı, kısa vadeli performans primleri ve bireysel rekabeti teşvik eden sıralama sistemleri"
   ],
   "dogru": 0,
-  "aciklama": "HIWS'in dört temel bileşeni Lawler'ın PIRK modeline dayanır: (1) Güç (Power) – karar alma süreçlerine katılım, öz yönetimli ekipler. (2) Bilgi (Information) – performans ve iş bilgisine erişim. (3) Ödül (Reward) – beceri/katkıya dayalı ücret. (4) Bilgi/Beceri (Knowledge) – sürekli eğitim. B şıkkı bu dört unsuru eksiksiz barındırır ve teorik olarak tutarlıdır. A ve E Taylorist/mekanik örgüt yapısını; C kısa vadeli bireysel rekabeti; D esneklik değil kırılganlık yaratan uygulamaları yansıtır.",
+  "aciklama": "Yüksek katılım iş sistemleri, çalışanlara karar verme gücü, bilgi, beceri ve ödül verilmesi ilkesine dayanır; bu dört unsur birbirini tamamlayarak içsel tutarlılık sağlar. Kendi kendini yöneten takımlar güç paylaşımını, kapsamlı eğitim beceriyi, bilgiye erişimin demokratikleştirilmesi bilgiyi, beceri bazlı ücret de katılımı ve öğrenmeyi ödüllendirmeyi karşılar. \"Ayrıntılı kural kitapçıkları, hiyerarşik onay süreçleri...\" paketi ise katılımı sınırlayan klasik kontrol odaklı sistemin özelliklerini taşır. \"Sıkı gözetim ve kontrol mekanizmaları, dar iş tanımları...\" paketi de aynı şekilde merkezi karar alma ve dar iş tasarımı içerdiği için HIWS ile çelişir. Doğru cevap \"Güç paylaşımı (self-managed teams), kapsamlı eğitim yatırımı...\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -7964,7 +7964,7 @@
    "CIT davranış odaklıdır, nitel veri üretir ve seçim/eğitim kriterlerinin belirlenmesinde güçlüdür; PAQ işgören odaklıdır, nicel/yapılandırılmış veriyle farklı işleri karşılaştırma ve ücret yapılandırmada üstündür"
   ],
   "dogru": 4,
-  "aciklama": "CIT (Flanagan, 1954): Gözlemcilerden son derece başarılı veya başarısız davranış örnekleri toplanır. Nitel, davranış odaklı, subjektif ama zengin veri sağlar. Eğitim ihtiyacı analizi, performans kriteri geliştirme ve seçim süreçleri için güçlüdür. PAQ (McCormick): 195 standart madde içeren yapılandırılmış anket; işgören (worker-oriented) odaklıdır. Nicel skor üretir, farklı işleri karşılaştırmaya ve punta (benchmark) ücret yapılandırmaya olanak tanır. B şıkkı bu ayrımı doğru biçimde özetlemektedir. A ve D yöntemlerin odağını ve veri türünü tam tersine çevirmektedir.",
+  "aciklama": "Kritik olay tekniği, çalışanların ve yöneticilerin etkili ya da etkisiz bulunan somut davranış örneklerini anlatmasına dayanır; bu nedenle davranış odaklıdır ve nitel veri üretir. Elde edilen davranışlar seçim ve eğitim kriterlerinin belirlenmesinde işe yarar. Pozisyon analizi anketi ise standart maddelerle işin insan davranışı boyutlarını puanlayan, işgören odaklı yapılandırılmış bir ankettir. Nicel puanlar sayesinde farklı işler karşılaştırılabilir ve ücret yapılandırmada kullanılabilir. \"CIT iş odaklıdır ve nicel veri üretir; PAQ işgören odaklıdır ve nitel veri üretir\" seçeneği, niteliklerin yerini değiştirdiği için yanlıştır. \"PAQ nitel hikâye anlatımına dayalıdır; CIT ise standart maddeler içeren bir ankettir\" seçeneği de iki yöntemi birbiriyle karıştırmaktadır. Doğru cevap \"CIT davranış odaklıdır, nitel veri üretir ve seçim/eğitim kriterlerinin belirlenmesinde güçlüdür\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -7996,7 +7996,7 @@
    "Türkiye'de kapalı dükkan sistemi yasal olup işveren bu talebi kabul edebilir"
   ],
   "dogru": 1,
-  "aciklama": "Türkiye Anayasası'nın 51. maddesi sendika özgürlüğünü güvence altına alır ve sendikaya üye olmaya ya da üye kalmaya zorlamayı yasaklar. 6356 sayılı Kanun'un 17. maddesi de bu ilkeyi pekiştirir: İşe alım koşulu olarak sendika üyeliği aranamaz (kapalı dükkan yasağı). 'Sendika güvencesi' (union shop – işe girdikten sonra üye olmak zorunda bırakma) da Türk hukukunda yer bulmaz. Dolayısıyla işverenin kapalı dükkan talebi hukuken karşılanamaz; müzakerede bu madde gündeme getirilemez. A, B ve D yanlış hukuki saptamalardır. E ise kamu sektörü için de yanlıştır.",
+  "aciklama": "Türkiye'de Anayasa'nın sendika kurma ve sendikaya üye olma ya da olmama özgürlüğünü güvence altına alan hükümleri ile 6356 sayılı Kanun, kimsenin sendikaya üye olmaya veya üyelikten ayrılmaya zorlanamayacağını belirtir. Bu nedenle sendika üyeliğini işe girişin ön koşulu yapan kapalı dükkan sistemi yasaktır; sendika güvencesi uygulamaları da bu ilke çerçevesinde hukuken sınırlıdır. Çalışanlar üye olmadan da çalışabildiği için açık dükkan ilkesi geçerlidir. \"Türkiye'de kapalı dükkan sistemi yasal olup işveren bu talebi kabul edebilir\" seçeneği yanlıştır, çünkü işverenin kabulü yasal yasağı ortadan kaldırmaz. \"Açık dükkan sistemi Türkiye'de yasaktır; tüm çalışanlar sendikaya üye olmak zorundadır\" seçeneği ise üyelik özgürlüğüne aykırıdır. Doğru cevap \"Kapalı dükkan sistemi Türkiye'de Anayasa ve 6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanunu gereği yasaktır\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -8028,7 +8028,7 @@
    "Çalışanlara yeterli eğitim verilmemesi, uygulamanın kötü iletişim edilmesi ve yöneticilerin teknik bilgi eksikliği"
   ],
   "dogru": 3,
-  "aciklama": "Schein kültürü üç katmanda açıklar: (1) Eserler (gözlemlenebilir yapılar, süreçler), (2) Benimsenen değerler (açıklanan normlar), (3) Temel sayıltılar (bilinçdışı, sorgulanmaz inançlar). Hofstede'nin yüksek güç mesafesi = 'otorite hiyerarşik olarak meşrudur, astlar karar vermemeli'; yüksek belirsizlikten kaçınma = 'net kurallar ve otorite güven verir'. Bu iki kültürel boyut Schein'ın en derin katmanında (temel sayıltılar) kodlanmıştır. Katılımcı yönetim bir eserler/süreç değişikliği (1. katman) olarak sunulduğunda 3. katmandaki temel sayıltılarla çelişir ve reddedilir. Değişim için 2. ve 3. katmanları hedefleyen uzun vadeli kültürel müdahale gerekir. A, C, D ve E yüzeysel veya yanlış açıklamalardır.",
+  "aciklama": "Schein'a göre kültür üç düzeyde incelenir: eserler, benimsenen değerler ve temel sayıltılar. En derin düzey olan temel sayıltılar, bilinçdışı ve tartışılmadan kabul edilen inançlardır. Yüksek güç mesafesi ve yüksek belirsizlikten kaçınma olan bir toplumda hiyerarşik otorite ve belirsizlikten kaçış bu düzeyde içselleşmiştir. Katılımcı yönetim ise eserler düzeyinde bir uygulama değişikliğidir ve bu köklü sayıltılarla çeliştiği için reddedilir. \"Şube müdürünün liderlik tarzı uygunsuz olduğundan sistem işlememektedir ve lider değişimi yeterli olacaktır\" seçeneği sorunu kişiye indirger ve kültürel kökeni görmez. \"Çalışanlara yeterli eğitim verilmemesi, uygulamanın kötü iletişim edilmesi ve yöneticilerin teknik bilgi eksikliği\" seçeneği ise yüzeysel nedenleri sayar, en derin açıklama değildir. Doğru cevap \"Örgütün 'temel sayıltılar' (basic assumptions) düzeyinde hiyerarşik otorite ve belirsizlikten kaçış norm olarak içselleştirildiğinden\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -8076,7 +8076,7 @@
    "İşin farklı beceri ve yetenekler gerektirmesi için görev çeşitliliğinin artırılması"
   ],
   "dogru": 1,
-  "aciklama": "Hackman-Oldham modeline göre 'deneyimlenen anlamlılık' psikolojik durumu; beceri çeşitliliği (A şıkkı), görev bütünlüğü (B şıkkı) ve görev önemi (C ve E şıkları) iş özellikleriyle beslenir. D şıkkındaki 'geribildirim' ise farklı bir psikolojik durum olan 'sonuçların bilgisi'ni besler; doğrudan 'anlamlılık' deneyimiyle ilişkilendirilmez. Bu ince ayrım, modelin üç psikolojik durumu (anlamlılık, sorumluluk, sonuçların bilgisi) birbirinden ayırt edebilen adayları eler.",
+  "aciklama": "Hackman ve Oldham modelinde deneyimlenen anlamlılık üç iş özelliğinden oluşur: beceri çeşitliliği, görev bütünlüğü ve görev önemi. Başından sonuna sürece dahil olmak görev bütünlüğünü, müşteri veya toplum üzerindeki etkinin görünür kılınması ile başkalarının yaşamını etkilediğinin hissettirilmesi görev önemini, görev çeşitliliğinin artırılması ise beceri çeşitliliğini güçlendirir. Düzenli ve doğrudan geri bildirim ise ayrı bir iş özelliğidir ve \"işin gerçek sonuçları hakkında bilgi sahibi olma\" psikolojik durumunu artırır. Bu yüzden \"İşin farklı beceri ve yetenekler gerektirmesi için görev çeşitliliğinin artırılması\" seçeneği anlamlılığı artırır ve aranan cevap değildir. Aynı şekilde \"Çalışanın ürün veya hizmetin başından sonuna kadar tüm sürecine dahil edilmesi\" seçeneği de anlamlılığı artırır. Doğru cevap \"Çalışana işinin sonuçları hakkında düzenli ve doğrudan geri bildirim verilmesi\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -8124,7 +8124,7 @@
    "Fesih bildiriminden itibaren 1 ay içinde önce arabulucuya, arabuluculuk olumsuz sonuçlanırsa 2 hafta içinde iş mahkemesine"
   ],
   "dogru": 4,
-  "aciklama": "7036 sayılı İş Mahkemeleri Kanunu ile zorunlu arabuluculuk getirilmiştir. İşe iade davası açılabilmesi için önce arabulucuya başvuru zorunludur ve bu başvuru fesih bildiriminden itibaren 1 ay içinde yapılmalıdır. Arabuluculukta anlaşma sağlanamaz ise tutanağın düzenlendiği tarihten itibaren 2 hafta içinde iş mahkemesine dava açılmalıdır. D şıkkında '2 hafta' yerine '1 ay' yazması nedeniyle yanlıştır. Bu sürelerin herhangi birinin kaçırılması hak düşürücü sonuç doğurur.",
+  "aciklama": "4857 sayılı Kanun'un 20. maddesine göre, feshi geçersiz sayan işçi fesih bildiriminin tebliğinden itibaren bir ay içinde arabulucuya başvurmak zorundadır. Arabuluculuk sürecinin anlaşmazlıkla sonuçlanması hâlinde, son tutanağın düzenlendiği tarihten itibaren iki hafta içinde iş mahkemesinde dava açılması gerekir. Arabulucuya başvurmadan açılan dava, dava şartı yokluğundan usulden reddedilir. \"Fesih bildiriminden itibaren 1 ay içinde iş mahkemesine\" seçeneği eski düzenlemeyi yansıtır ve arabuluculuk şartını atlar. \"Fesih bildiriminden itibaren 1 ay içinde önce arabulucuya, arabuluculuk olumsuz sonuçlanırsa 1 ay içinde iş mahkemesine\" seçeneği ise dava açma süresini yanlış verir, çünkü bu süre iki haftadır. Doğru cevap \"Fesih bildiriminden itibaren 1 ay içinde önce arabulucuya, arabuluculuk olumsuz sonuçlanırsa 2 hafta içinde iş mahkemesine\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -8156,7 +8156,7 @@
    "Eş zamanlı geçerlik yasal açıdan bağlayıcı, öngörüsel geçerlik ise isteğe bağlı bir doğrulama yöntemidir"
   ],
   "dogru": 0,
-  "aciklama": "Eş zamanlı geçerlik çalışmalarında hem test hem de kriter (örn. iş performansı) verileri mevcut çalışanlardan aynı anda toplanır. Bu, araştırmayı hızlandırır ancak kritik bir sorun yaratır: mevcut çalışanlar zaten seçim süzgecinden geçmiş kişilerdir, dolayısıyla test puanlarının dağılımı kısıtlıdır (restriction of range) ve gerçek geçerlik katsayısı olduğundan düşük tahmin edilir. Öngörüsel geçerlikte ise test tüm adaylara uygulanır, işe alım kararı testten bağımsız verilir ve performans verileri ilerleyen dönemde toplanır; bu yöntem metodolojik olarak üstündür ama maliyetli ve zaman alıcıdır. D şıkkındaki tanım iki kavramı tersine çevirmektedir.",
+  "aciklama": "Eş zamanlı geçerlikte test mevcut çalışanlara uygulanır ve test puanları aynı dönemde elde edilen performans kriteriyle ilişkilendirilir. Öngörüsel geçerlikte ise test adaylara uygulanır, adaylar işe alındıktan ve belli bir süre çalıştıktan sonra performansları ölçülerek test puanlarıyla karşılaştırılır. Aradaki temel metodolojik fark örneklem ve zamanlamadır. Mevcut çalışanlar zaten elenmiş bir grup olduğu için puan dağılımı daralır; bu kısıtlı dağılım sorunu korelasyonu düşürebilir. \"Eş zamanlı geçerlik daha yüksek korelasyon katsayıları ürettiğinden her zaman öngörüsel geçerliğe tercih edilir\" seçeneği yanlıştır, çünkü böyle bir genel kural yoktur. \"Öngörüsel geçerlik yalnızca bilişsel yetenek testleri için, eş zamanlı geçerlik ise kişilik testleri için kullanılır\" seçeneği de test türüne dayalı yanlış bir ayrım yapar. Doğru cevap \"Eş zamanlı geçerlikte test puanları mevcut çalışanlardan, öngörüsel geçerlikte ise adaylardan toplanır\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -8172,7 +8172,7 @@
    "Kıdemli çalışanlarda daha yüksek gönüllü ayrılma eğilimi ücret sıkıştırmasının örgütsel sonuçlarından biridir"
   ],
   "dogru": 0,
-  "aciklama": "C şıkkı yanlıştır çünkü kıdemli çalışanlara toplu zam yapılması ücret sıkıştırmasını kalıcı olarak çözmez; yeni işe alınan çalışanların piyasa ücretleri de eş zamanlı yükseliyorsa sorun yeniden ve kısa sürede ortaya çıkar. Gerçek ve kalıcı çözüm; ücret bantlarının (pay grades/ranges) sistematik piyasa verisine dayalı olarak periyodik güncellenmesi, compa-ratio analizleri ve yapısal ücret mimarisinin revize edilmesidir. Diğer şıklar ücret sıkıştırması teorisi açısından doğrudur.",
+  "aciklama": "Soru yanlış ifadeyi sormaktadır. Ücret sıkıştırması, yeni girenlerin ücretlerinin piyasa baskısıyla yükselmesi ve iç ücret yapısının bunu izlememesi sonucu kıdemli çalışanlarla aradaki farkın daralmasıdır. Kıdemli çalışanlara yapılan toplu zam sorunu geçici olarak hafifletebilir; ancak piyasa ücretleri artmaya devam ettiği ve ücret yapısı güncellenmediği sürece sıkıştırma yeniden ortaya çıkar. Bu yüzden \"tamamen ve kalıcı\" çözüm iddiası yanlıştır. \"Piyasa ücretlerinin hızlı artmasına karşın iç ücret yapısının güncellenmemesi ücret sıkıştırmasının başlıca nedenidir\" ifadesi doğrudur. \"Ücret bantlarının düzenli piyasa analizlerine dayanarak revize edilmesi, sıkıştırmanın önlenmesine yardımcı olur\" ifadesi de doğrudur. Doğru cevap \"Ücret sıkıştırması sorunu, kıdemli çalışanlara toplu zam yapılarak tamamen ve kalıcı biçimde çözülebilir\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -8236,7 +8236,7 @@
    "İhmal pasif ve yıkıcı bir tepkidir; çalışan durumu iyileştirmeye çalışmaz ve mevcut koşulların bozulmasına göz yumar"
   ],
   "dogru": 4,
-  "aciklama": "Hirschman (1970) ve Rusbult ve ark.'nın geliştirdiği EVLN modelinde dört tepki iki boyutta sınıflandırılır: yapıcı/yıkıcı ve aktif/pasif. Çıkış (exit): aktif-yıkıcı; Ses (voice): aktif-yapıcı; Sadakat (loyalty): pasif-yapıcı; İhmal (neglect): pasif-yıkıcı. İhmal tepkisinde çalışan ne ayrılır ne de sesi yükseltir; devamsızlık artar, performans düşer, kurallara uyum azalır ancak bu süreç sessiz ve fark edilmeden ilerler. Bu özelliği onu örgüt için sinsi ve uzun vadede en maliyetli tepkiye dönüştürebilir. C şıkkı kısmen doğru gibi görünse de ihmalin uzun vadede devamsızlık ve verimlilik kayıpları nedeniyle yüksek maliyetli olduğunu göz ardı ettiğinden yanıltıcıdır.",
+  "aciklama": "Hirschman'ın çerçevesinde tepkiler iki eksende ayrılır: yapıcı ya da yıkıcı olması ve aktif ya da pasif olması. Çıkış (aktif-yıkıcı) ve ses (aktif-yapıcı) etkin tepkilerdir; sadakat ise pasif-yapıcı bir tepkidir ve durumun düzeleceğine inanarak beklemeyi anlatır. İhmal ise pasif-yıkıcı bir tepkidir; çalışan durumu düzeltmek için çaba göstermez, devamsızlık, özen eksikliği ve düşük çabayla koşulların kötüleşmesine göz yumar. \"İhmal aktif bir direniş biçimidir ve sendikalaşma eğilimiyle doğrudan ilişkilidir\" seçeneği yanlıştır, çünkü ihmal pasiftir. \"İhmal işveren açısından en az maliyetli tepkidir çünkü çalışan işten ayrılmaz\" seçeneği de yanlıştır, çünkü ihmal verimlilik kaybı yoluyla örgüte zarar verir. Doğru cevap \"İhmal pasif ve yıkıcı bir tepkidir; çalışan durumu iyileştirmeye çalışmaz\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
