@@ -480,19 +480,19 @@
      "aciklama": "Para çarpanı formülü m = 1/r şeklinde ifade edilir (basit modelde r = zorunlu karşılık oranı). Zorunlu karşılık oranı artırıldığında bankalar ellerindeki mevduatın daha büyük bir kısmını merkez bankasında tutmak zorunda kalır; krediye dönüştürülecek miktar azalır. Bu durum para çarpanını küçülterek para arzının daralmasına neden olur. Sıkılaştırıcı bir para politikası aracı olan bu uygulama enflasyonla mücadelede kullanılır."
     },
     {
-     "id": "46444",
+     "id": "46443",
      "dersId": "iktisat",
      "konuId": "uluslararasi_i_ktisat",
-     "soru": "Uluslararası sermaye hareketleri bağlamında, Mundell-Fleming modeli çerçevesinde, tam sermaye hareketliliği (perfect capital mobility) altında sabit kur rejiminde maliye politikasının etkinliğine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+     "soru": "Marshall-Lerner koşulu ve J-eğrisi dinamikleri birlikte değerlendirildiğinde, bir ülkenin döviz kurundaki değer kaybının (devalüasyon/depreciation) dış ticaret dengesini iyileştirmesi için aşağıdaki koşulların hangisi gerekli ve yeterlidir?",
      "secenekler": [
-      "Tam sermaye hareketliliği altında sabit kurda para politikası çok etkili, maliye politikası ise orta derecede etkilidir.",
-      "Genişletici maliye politikası yurt içi faizi yükseltir, sermaye girişi ulusal parayı değerlendirmeye iter; merkez bankası sabit kuru korumak için döviz satar ve para arzı genişler, maliye politikası çok etkilidir.",
-      "Genişletici maliye politikası faiz oranını yükseltir, sermaye girişi olur, merkez bankası döviz alarak para arzını daraltır; sonuçta tam dışlama (crowding out) gerçekleşir ve maliye politikası etkisizdir.",
-      "Genişletici maliye politikası sabit kurda döviz rezervlerini etkilemediğinden para arzı değişmez ve IS eğrisi kaymasının tam etkisi gerçekleşir.",
-      "Maliye politikası sabit kurda, esnek kura kıyasla daha az etkilidir çünkü esnek kurda kur değer kaybıyla ihracat artışı geliri destekler."
+      "İthalat talep esnekliğinin mutlak değerinin 1'den büyük olması yeterlidir.",
+      "İhracat arz esnekliğinin sonsuz, ihracat ve ithalat talep esnekliklerinin mutlak değerleri toplamının 1'den büyük olması gereklidir.",
+      "Marshall-Lerner koşulunun sağlanması için ihracat talep esnekliğinin 1, ithalat talep esnekliğinin de 1 olması yeterli ve zorunludur.",
+      "Yalnızca J-eğrisi etkisi geçerliyse devalüasyon hem kısa hem uzun dönemde dış ticaret dengesini iyileştirir.",
+      "Kısa dönemde sözleşmeler ve ticaret uyumu gecikmeleri nedeniyle dış ticaret dengesi önce kötüleşir; Marshall-Lerner koşulu uzun dönemde geçerlidir."
      ],
      "dogru": 1,
-     "aciklama": "Mundell-Fleming modeli açısından: Tam sermaye hareketliliği + sabit kur rejimi = Maliye politikası çok etkili. Mekanizma şöyledir: Genişletici maliye politikası IS'yi sağa kaydırır → yurt içi faiz yükselme eğilimine girer → BP=0 için gerekli faiz düzeyinin üzerine çıkar → sermaye girişi artar → ulusal paraya talep artar → kur değerlenme baskısıyla karşı karşıya kalır → merkez bankası sabit kuru korumak için döviz alır (rezerv biriktirir) ve piyasaya para sürer → LM sağa kayar → faiz tekrar dünya faiz düzeyine döner, ancak milli gelir büyük ölçüde artar. A şıkkı esnek kur rejimini tanımlamaktadır (tam dışlama esnek kurda ortaya çıkar). D şıkkı da ters bir değerlendirme içerir.",
+     "aciklama": "Marshall-Lerner koşuluna göre, arz esneklikleri sonsuz (arz tam esnek) varsayımı altında, ihracat ve ithalat talep esnekliklerinin mutlak değerleri toplamı 1'den büyükse değer kaybı dış ticaret dengesini iyileştirir. Toplam 1'den büyükse ihracat gelirindeki artış ve ithalat harcamasındaki azalma, birim fiyat etkisini aşar. Her iki esnekliğin ayrı ayrı 1 olması gerekmez, önemli olan toplamdır. \"İthalat talep esnekliğinin mutlak değerinin 1'den büyük olması yeterlidir.\" seçeneği yanlıştır, çünkü ihracat esnekliği de hesaba katılmalıdır. \"Marshall-Lerner koşulunun sağlanması için ihracat talep esnekliğinin 1, ithalat talep esnekliğinin de 1 olması yeterli ve zorunludur.\" seçeneği de koşulu yanlış aktarır. J-eğrisi ise yalnızca kısa dönemdeki geçici kötüleşmeyi anlatır. Doğru cevap \"İhracat arz esnekliğinin sonsuz, ihracat ve ithalat talep esnekliklerinin mutlak değerleri toplamının 1'den büyük olması gereklidir.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {

@@ -336,22 +336,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "32022",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Ekinoks günlerinde (21 Mart ve 23 Eylül) bile Dünya'nın her yerinde gece ve gündüzün tam olarak 12'şer saat olmadığı gözlemlenebilir. Bu durumun başlıca nedenleri arasında Dünya'nın şekliyle doğrudan ilişkili olan etken hangisidir?",
-  "secenekler": [
-   "Güneş'in noktasal değil disksel bir cisim olması nedeniyle ufkun altındayken de ışık yaymaya devam etmesi ve gökyüzünü aydınlatması",
-   "Dünya'nın küresel değil elipsoidal (geoid) yapısı nedeniyle kutuplarda ufuk çizgisinin farklı konumda olması",
-   "Atmosferin ışığı kırarak Güneş'in gerçek konumundan birkaç dakika önce görünmesini sağlaması",
-   "Dünya'nın eğik eksen nedeniyle kutupsal bölgelerde güneş ışığı açısının değişmesi",
-   "Ekinoks günlerinde Dünya'nın Güneş'e olan mesafesinin değişkenlik göstermesi"
-  ],
-  "dogru": 1,
-  "aciklama": "Ekinoks günlerinde teorik olarak gece ve gündüz eşit olmalıdır; ancak uygulamada birkaç dakikalık sapmalar gözlemlenir. Bu sapmanın iki temel nedeni vardır: (1) Atmosferik refraksiyon (ışık kırılması) Güneş ufkun altındayken bile görünmesini sağlar. (2) Dünya'nın jeoid (basık küresel) yapısı nedeniyle kutup bölgelerinde yüzeyin eğriliği farklıdır ve bu durum ufuk açısını değiştirerek gündüz süresini etkiler. Soru Dünya'nın şekliyle 'doğrudan' ilişkili etkenyi sorduğundan D şıkkı doğrudur; çünkü jeoid yapı ufuk geometrisini doğrudan etkilerken atmosferik refraksiyon şekilden değil atmosferin varlığından kaynaklanır.",
-  "zorluk": "zor"
- },
- {
   "id": "32025",
   "dersId": "cografya",
   "konuId": "dunya_sekli_hareketleri",
@@ -397,22 +381,6 @@
   ],
   "dogru": 3,
   "aciklama": "Eksen eğikliği 0° olsaydı Güneş ışınları yıl boyunca ekvatora dik düşerdi. Bu durumda mevsimler ortadan kalkardı (I). Aydınlanma çemberi her zaman kutuplardan geçeceği için tüm enlemlerde gece ve gündüz eşit olurdu (II). Güneş yalnızca ekvatorda tepeden geçerdi (III). Kutuplarda 24 saatlik gündüz ya da gece oluşmazdı (IV). Bu dört sonuç gerçekleşirdi. Coriolis etkisi ise eksen eğikliğine değil, Dünya'nın kendi ekseni etrafında dönmesine bağlıdır. Dönme sürdüğü için Coriolis ortadan kalkmazdı (V). \"II ve V\" yanlıştır, çünkü II eğiklik olmayınca gerçekleşir. \"I, III ve V\" de yanlıştır, çünkü I ve III gerçekleşen sonuçlardır. Doğru cevap \"Yalnızca V\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "32028",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Uluslararası Tarih Değiştirme Çizgisi (180° meridyeni) üzerinde veya yakınında bulunan bir gemi, bu çizgiyi batıdan doğuya doğru geçtiğinde aşağıdaki durumların hangisi yaşanır?",
-  "secenekler": [
-   "Gemi bir günü atlar; takvim bir gün ileri alınır.",
-   "Hem yerel saat hem de tarih değişmez; yalnızca boylam koordinatı değişir.",
-   "Yerel saat değişmez ama tarih bir gün geri alınır.",
-   "Gemi, doğudan batıya hareket ettiğinden sorudaki senaryo fiziksel olarak tutarsızdır.",
-   "Gemi bir günü tekrar yaşar; takvim bir gün geri alınır."
-  ],
-  "dogru": 4,
-  "aciklama": "180° meridyeni yaklaşık olarak Uluslararası Tarih Değiştirme Çizgisi'dir. Bu çizginin iki yakasında tarihler 1 gün farklıdır; doğu tarafı batı tarafından 1 gün öndedir. Gemi batıdan doğuya geçtiğinde (yani doğuya doğru ilerleyerek 180° meridyenini aştığında) batı tarafından doğu tarafına geçmiş olur. Batı tarafı daha 'geç' (önceki gün), doğu tarafı daha 'erken' (sonraki gün) kabul edilir. Bu geçişte gemi doğuya geçtiğinde daha geriye, yani bir önceki güne geçmiş sayılır; takvim 1 gün GERİ alınır ve aynı günü bir kez daha yaşar. Doğudan batıya geçişte ise 1 gün ileri alınır ve bir gün atlanır. Dolayısıyla batıdan doğuya geçişte cevap A şıkkıdır: gemi bir günü tekrar yaşar ve takvim bir gün geri alınır.",
   "zorluk": "zor"
  },
  {
@@ -1532,7 +1500,7 @@
    "Bu paralelimn güneyinde kalanlar hiçbir zaman kutup gecesi yaşamaz."
   ],
   "dogru": 3,
-  "aciklama": "21 Haziran'da Kuzey Kutbu Güneş'e yönelik olduğundan, 66°33' Kuzey paraleli ve daha kuzeydeki tüm bölgelerde Güneş 24 saat boyunca batmaz; buna 'beyaz gece' ya da 'kutup günü' denir. 21 Aralık'ta ise bu paralelde tam tersi yaşanır ve 24 saat boyunca Güneş doğmaz (kutup gecesi). A şıkkı yanlıştır çünkü bu durum yalnızca belirli dönemlerde geçerlidir. E şıkkı yanlıştır; kutup dairesinin güneyindeki bölgeler kutup gecesi yaşamaz ama bu soru o bölgelerle değil, dairenin kendisiyle ilgilidir.",
+  "aciklama": "Kuzey Kutup Dairesi, 21 Haziran'da Güneş'in 24 saat boyunca batmadığı en güney paraleldir. Yaz gün dönümünde Güneş ışınları kutup dairesinin ötesine kadar ulaşır ve bu paralelde Güneş gece yarısı ufka değip yeniden yükselir, yani hiç batmaz. Bankadaki cevap bu nedenle doğrudur. İtirazın ileri sürdüğü \"Bu paralelimn güneyinde kalanlar hiçbir zaman kutup gecesi yaşamaz.\" ifadesi ise yanlıştır. Bu paralelin güneyinde yalnızca orta ve düşük enlemler değil, Güney Kutup Dairesi ile Güney Kutbu arasındaki alanlar da bulunur. Bu bölgeler kutup gecesi yaşar, dolayısıyla ifade genelleme olarak geçersizdir. \"Bu paralelde 21 Aralık'ta gece hiç yaşanmaz.\" ifadesi de yanlıştır, çünkü 21 Aralık'ta bu paralelde Güneş hiç doğmaz ve 24 saat gece yaşanır. Doğru cevap \"21 Haziran'da bu paralelde Güneş 24 saat boyunca ufkun üzerinde kalır.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -1984,38 +1952,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "32135",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Paraleller hakkında aşağıdakilerden hangisi yanlıştır?",
-  "secenekler": [
-   "Paraleller büyük daire (great circle) oluşturur.",
-   "Ekvator, en uzun paralel dairesidir.",
-   "Ekvator dışındaki paraleller, iki nokta arasındaki en kısa yolu göstermez.",
-   "Paraleller birbirine paraleldir ve hiçbir zaman kesişmez.",
-   "Kutuplardan uzaklaştıkça paralellerin çevresi küçülür."
-  ],
-  "dogru": 0,
-  "aciklama": "Büyük daire (great circle), bir küreyi iki eşit parçaya bölen dairedir ve merkezi Dünya'nın merkeziyle çakışır. Paraleller arasında yalnızca Ekvator büyük daire özelliği taşır; diğer tüm paraleller küçük dairelerdir (small circles). Bu nedenle C şıkkı yanlıştır. A, B ve D doğrudur. E ise yanlıştır: Ekvator'dan kutuplara gidildikçe paralel çevresi küçülür — Ekvator en büyüktür; yani E'de verilen ifade tersine dönmüş olduğundan aslında yanıltıcıdır, ancak soru 'yanlış' olanı soruyor ve C kesin olarak yanlıştır.",
-  "zorluk": "orta"
- },
- {
-  "id": "32136",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Dünya'nın gerçek şekli olan 'Geoid' ile ilgili aşağıdaki ifadelerden hangisi kesinlikle yanlıştır?",
-  "secenekler": [
-   "Kutuplardaki basıklık, Dünya'nın kendi ekseni etrafındaki dönüş hızının fazla olmasından kaynaklanır.",
-   "Elipsoit, geoidin matematiksel yaklaşımı olarak kullanılmaktadır.",
-   "Kutup yarıçapı, ekvator yarıçapından yaklaşık 21 kilometre daha kısadır.",
-   "Kutuplarda basıklık, ekvatorda şişkinlik söz konusudur.",
-   "Yüzeyindeki düzensizlikler nedeniyle hiçbir matematiksel formülle tam olarak tanımlanamaz. Bu nedenle yalnızca yaklaşık modellerle ifade edilir."
-  ],
-  "dogru": 0,
-  "aciklama": "Kutuplardaki basıklık, Dünya'nın kendi ekseni etrafındaki dönüş hareketinin etkisiyle oluşan merkezkaç kuvvetinin etkisiyle ortaya çıkmıştır. Ancak bu basıklığın nedeni dönüş hızının 'fazla' olması değil, dönme hareketi sırasında ekvatora yakın bölgelerde merkezkaç kuvvetinin daha etkili olmasıdır. Dönüş hızı aslında görece yavaştır; hız fazla olsaydı basıklık çok daha belirgin olurdu. Bu nedenle D şıkkındaki 'hızının fazla olmasından' ifadesi kesinlikle yanlıştır. Diğer tüm şıklar doğru bilgiler içermektedir.",
-  "zorluk": "zor"
- },
- {
   "id": "32137",
   "dersId": "cografya",
   "konuId": "dunya_sekli_hareketleri",
@@ -2157,22 +2093,6 @@
   ],
   "dogru": 2,
   "aciklama": "Bu soru, Jules Verne'in '80 Günde Devriâlem' romanında geçen klasik paradoksa dayanmaktadır. Doğuya doğru seyahat eden gemi, Güneş'in hareketine karşı ilerlediğinden her boylamda yerel saate göre biraz öne geçer. Tam bir tur tamamlandığında toplam 24 saatlik fark birikir. Yani gemi başlangıç noktasına döndüğünde kendi kronometresinde 24 saat geçmiş olsa da yerel saate göre bir tam gün (24 saat) kazanmış olur. Uluslararası Tarih Değişim Hattı (180° boylamı) bu sorunun pratik çözümü için tasarlanmıştır; bu hattı doğudan batıya geçenler bir gün ekler, batıdan doğuya geçenler ise bir gün çıkarır. Cevap C'dir.",
-  "zorluk": "zor"
- },
- {
-  "id": "32147",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Aşağıdaki ifadelerden hangisi Dünya'nın hareketleri ve sonuçları açısından doğrudur?",
-  "secenekler": [
-   "Aphelionda Dünya yavaşladığı için kuzey yarımküre yazı daha uzun süre yaşar.",
-   "Perihelon konumunda Dünya hızlandığından güney yarımkürede yaz daha kısa sürer.",
-   "Aphelionda Dünya'nın hızı azaldığından kuzey yarımkürenin yazı astronomik olarak daha uzundur.",
-   "Perihelon konumunda (Güneş'e en yakın) kuzey yarımküre yaz yaşar çünkü Güneş daha fazla enerji gönderir.",
-   "Perihelon ve Apheliondaki hız farkı, mevsimlerin oluşmasında belirleyici tek etkendir."
-  ],
-  "dogru": 2,
-  "aciklama": "Kepler'in 2. Yasası'na göre Dünya, Güneş'e yakın olduğunda (Perihelon, yaklaşık 3 Ocak) daha hızlı, uzak olduğunda (Apheliyon, yaklaşık 4 Temmuz) daha yavaş hareket eder. Apheliyon dönemine denk gelen kuzey yarımküre yazı (Haziran-Eylül arası), Dünya'nın yavaş hareket etmesi nedeniyle astronomik olarak daha uzun sürer (yaklaşık 93 gün). Buna karşın güney yarımküre yazı Periheliyon dönemine denk geldiğinden daha kısa sürer (yaklaşık 89 gün). Bu nedenle D şıkkı doğrudur. A yanlıştır; Periheliyon'da kuzey yarımküre kış yaşar. B yanlıştır; aphelionda Dünya yavaşlar ama bu doğru ifade edilmiştir, ancak 'yaz daha uzun sürer' kısmının nedeni yavaşlamak değil Apheliyon'un yaz mevsimine denk gelmesidir.",
   "zorluk": "zor"
  },
  {
@@ -2557,22 +2477,6 @@
   ],
   "dogru": 0,
   "aciklama": "Dünya 360°'lik dönüşünü 24 saatte tamamlar: 360° / 24 saat = 15°/saat, yani 1° = 4 dakikadır. Türkiye'nin doğusu ile batısı arasındaki boylam farkı yaklaşık 15° olduğundan yerel saat farkı 15 × 4 = 60 dakikadır. Güneş doğudan batıya hareket ediyormuş gibi göründüğünden doğuda daha erken batar. Doğuda Güneş battığında, batıda batıma yaklaşık 60 dakika vardır. \"Yaklaşık 45 dakika; her 1 boylam = 4 dakika yerel saat farkı ilkesine\" seçeneğinde ilke doğrudur, ancak hesap yanlıştır. \"Yaklaşık 30 dakika; Türkiye'nin kullandığı saat dilimiyle ilgili bir hesaplamaya\" seçeneği ise idari saat uygulamasına dayanır; Güneş'in konumuna bağlı yerel saati etkilemez. Doğru cevap \"Yaklaşık 60 dakika; her 15 boylam = 1 saatlik yerel saat farkı ilkesine\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "32180",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Bir uçak, 21 Haziran günü saat 06.00 yerel saatinde 23°27' Kuzey enlemi üzerindeki bir noktadan tam batı yönünde hareket etmekte ve Dünya'nın dönüş hızıyla aynı hızda (ekvatordan yaklaşık 1670 km/saat) uçmaktadır. Bu uçağın pilotu penceresinden baktığında Güneş'i kaçta, hangi yönde ve hangi pozisyonda görür?",
-  "secenekler": [
-   "Güneş doğudan doğmuş olacak ve uçak batıya gittiği için pilot Güneş'i her zaman tam arkasında (doğuda) görür ve Güneş hiç yükselmez.",
-   "Güneş uçağın tam tepesinde (zenit) sabit durur çünkü uçak Güneş'ten kaçmaktadır.",
-   "Pilot Güneş'i göremez çünkü 23°27' K enleminde 21 Haziran'da gün yeni başlamaktadır.",
-   "Güneş, batı yönünde alçalmaya devam eder çünkü uçağın hızı Dünya'nın dönüşünden fazladır.",
-   "Güneş, tam doğuda ufkun üzerinde sabit görünür çünkü uçak Dünya'nın dönüşünü iptal ederek sabit bir noktada kalmaktadır."
-  ],
-  "dogru": 4,
-  "aciklama": "21 Haziran'da 23°27' K enleminde (Yengeç Dönencesi) yerel saat 06.00'da Güneş tam doğudan yeni doğmaktadır. Uçak tam batıya, Dünya'nın dönüş hızıyla eşit hızda hareket etmektedir; bu, uçağın uzay içinde sabit bir konumda durmasına eşdeğerdir (Dünya'nın dönüşünü tam olarak iptal eder). Bu durumda Güneş, pilota göre sabit konumda kalır: tam doğuda, ufkun hemen üzerinde (daha yeni doğmuş konumda). Güneş ne yükselir ne de batar; sabit bir şafak anı sürekli devam eder. C seçeneği bu durumu doğru ifade etmektedir.",
   "zorluk": "zor"
  },
  {
@@ -4251,8 +4155,8 @@
    "160 km",
    "157,5 km"
   ],
-  "dogru": 2,
-  "aciklama": "Ölçek 1/1.000.000 olduğundan haritada 1 cm = 10 km'dir. Haritada ölçülen mesafe 15 cm. Ancak harita yatayda %5 büyümüş. Bu, gerçekte 10 km'ye karşılık gelen mesafenin haritada 1,05 cm olarak göründüğü anlamına gelir. Düzeltme: Gerçek uzunluk = (haritadaki ölçüm / 1,05) × ölçek çarpanı = (15 / 1,05) × 10 = 14,2857 × 10 ≈ 142,86 km. Baskı hatası yatay yönde olduğundan, aynı meridyen (kuzey-güney) üzerindeki mesafe de etkilenmiş olur. Doğru cevap B şıkkıdır. Not: Baskı hatası meridyen yönünde olduğu için düzeltme uygulanmalıdır.",
+  "dogru": 0,
+  "aciklama": "Aynı meridyen üzerindeki iki şehir kuzey-güney doğrultusunda yer alır, dolayısıyla haritada aralarındaki çizgi dikey yöndedir. Baskı hatası yalnızca yatay yönde (%5 büyüme) olduğundan dikey ölçümler bu hatadan etkilenmez. 1/1.000.000 ölçekli haritada 1 cm, gerçekte 10 km'ye karşılık gelir. Buna göre 15 cm × 10 km = 150 km bulunur. \"142,86 km\" sonucu, ölçülen 15 cm'nin 1,05'e bölünmesiyle elde edilir; ancak bu düzeltme yalnızca doğu-batı doğrultusundaki ölçümlerde gerekir, meridyen boyunca yapılan bir ölçüme uygulanması hatalıdır. \"157,5 km\" ise ölçümün 1,05 ile çarpılmasıyla bulunur; bu sonuç hem işlem yönü hem de ölçüm doğrultusu bakımından yanlıştır. Doğru cevap \"150 km\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -6061,22 +5965,6 @@
   ],
   "dogru": 2,
   "aciklama": "Ekvatoral bölgede yağışın temel kaynağı, ITCZ'deki yükselici hava ve konveksiyondur. ITCZ, Güneş'in görünür hareketine bağlı olarak yıl içinde kuzeye ve güneye kayar. Bölgeden uzaklaştığı dönemde daha kararlı hava etkili olur, yükselici hareket zayıflar ve konveksiyonel yağış azalır. \"ITCZ'nin (Tropikal Yakınsama Kuşağı) ilgili bölgenin üzerinde bulunması\" seçeneği yanlıştır; bu durum yağışın azaldığı değil, en fazla olduğu döneme karşılık gelir. \"Güneş ışınlarının dik açıyla vurmasının doruk noktasına ulaşması\" da yanlıştır, çünkü bu dönemde güçlü ısınma konveksiyonu ve yağışı artırır. Doğru cevap \"Bölgedeki kararlı hava kütlelerinin konveksiyonu baskılaması\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "32408",
-  "dersId": "cografya",
-  "konuId": "i_klim_bilgisi",
-  "soru": "Aşağıdaki tabloyu inceleyin:\n\n| İstasyon | Yıllık Ort. Sıcaklık | Yıllık Yağış | En Soğuk Ay | En Sıcak Ay |\n|----------|---------------------|--------------|-------------|-------------|\n| X        | 18°C                | 1.800 mm     | 22°C        | 27°C        |\n| Y        | 17°C                | 320 mm       | 8°C         | 36°C        |\n| Z        | 12°C                | 750 mm       | 4°C         | 22°C        |\n\nBu verilere göre X, Y ve Z istasyonlarının sırasıyla hangi iklim tiplerine ait olduğu doğru eşleştirilmiştir?",
-  "secenekler": [
-   "Ekvatoral – Step – Okyanusal",
-   "Nemli Subtropikal – Karasal – Akdeniz",
-   "Tropikal Muson – Çöl – Okyanusal",
-   "Ekvatoral – Çöl – Karasal",
-   "Tropikal Muson – Step – Akdeniz"
-  ],
-  "dogru": 0,
-  "aciklama": "X istasyonu: yüksek sıcaklık, yüksek yağış, küçük yıllık sıcaklık farkı (22–27°C) → Ekvatoral iklim. Y istasyonu: yüksek sıcaklık farkı (8–36°C), çok düşük yağış (320 mm) → Step iklimi (çöl değil, çünkü 320 mm step eşiğindedir). Z istasyonu: ılıman, yıllık yağış 750 mm, ılıman kış → Okyanusal iklim. Doğru cevap C'dir.",
   "zorluk": "zor"
  },
  {
@@ -7915,8 +7803,8 @@
    "1-Ankara, 2-Antalya, 3-Erzurum, 4-Rize",
    "1-Antalya, 2-Ankara, 3-Rize, 4-Erzurum"
   ],
-  "dogru": 4,
-  "aciklama": "İstasyon 1: Kış-ilkbahar ağırlıklı yağış, ılıman kış (+6°C), sıcak yaz → Akdeniz iklimi → Antalya. İstasyon 2: Yıla düzenli dağılmış yağış, karasal özellik, soğuk kış (–8°C), nispeten düşük yağış → İç Anadolu karasalı → Ankara. İstasyon 3: Yıl boyu çok yağışlı (1.850 mm), ılıman kış (+12°C) → Karadeniz iklimi → Rize. İstasyon 4: Çok soğuk kış (–12°C), yüksek yaz sıcaklığı (30°C), büyük yıllık sıcaklık farkı, ilkbahar yağışları ağırlıklı → Doğu Anadolu karasalı → Erzurum. Bu eşleştirme A seçeneğiyle örtüşmektedir.",
+  "dogru": 0,
+  "aciklama": "İstasyon 1'de yağışın büyük kısmı kış ve ilkbaharda düşüyor, yazlar sıcak, kışlar ılık; bu Akdeniz iklimine, yani Antalya'ya uyar. İstasyon 3 yıl boyu yağışlı ve 1.850 mm yağış alıyor; bu Rize'dir. İstasyon 4'te yağışın en çok ilkbaharda düşmesi ve yazın sıcak geçmesi İç Anadolu step iklimini, yani Ankara'yı gösterir. İstasyon 2'nin serin yazı ve sert kışı ise yükseltinin etkisiyle yazları serin geçen Erzurum'a uyar. \"1-Antalya, 2-Ankara, 3-Rize, 4-Erzurum\" seçeneği yanlıştır, çünkü 30°C'lik sıcak yaz, yüksek rakımlı Erzurum'un serin yaz özelliğiyle bağdaşmaz. \"3-Antalya, 1-Ankara, 4-Rize, 2-Erzurum\" seçeneği de yanlıştır, çünkü Rize'yi en az yağış alan istasyonlardan biriyle eşleştirir. Doğru cevap \"1-Antalya, 4-Ankara, 3-Rize, 2-Erzurum\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -11451,8 +11339,8 @@
    "İl 1: Erzurum, İl 2: Antalya, İl 3: Kocaeli, İl 4: Nevşehir",
    "İl 1: Muş, İl 2: İstanbul, İl 3: Samsun, İl 4: Ankara"
   ],
-  "dogru": 1,
-  "aciklama": "Türkiye iç göç dinamiklerine göre: Yüksek pozitif net göç (+42,3): Ege-Akdeniz turistik ve sanayi kentleri (Antalya, İzmir, Muğla, Bodrum gibi), son on yılda en yüksek göç çekiciliğini gösterenler arasında Antalya açık ara öndedir. Yüksek negatif net göç (–18,7): Doğu Anadolu illeri (Ağrı). Orta pozitif (+6,1): İzmir gibi büyük ama nüfusu stabilleşmeye başlayan iller. Yüksek negatif (–31,5): Muş, Şırnak veya Bitlis gibi Türkiye'nin en yüksek net göç kaybı veren illeri. C şıkkındaki Antalya (+), Ağrı (–), İzmir (orta +), Muş (–) dizilişi bu dinamiklerle en uyumlu kombinasyonu oluşturur. B şıkkı da mantıklı görünse de Tekirdağ bu dönemdeki değerlerde Antalya kadar yüksek bir katsayıya ulaşmamıştır.",
+  "dogru": 2,
+  "aciklama": "Soru kökü dört ilin farklı bölgelerden olduğunu belirtiyor. Bu koşulu sağlayan ve göç dinamikleriyle de tutarlı tek eşleşme budur. Tekirdağ sanayi ve İstanbul'a yakınlığı nedeniyle yüksek göç alır. Ağrı ve Şırnak ekonomik nedenlerle göç verir. Konya ise dengeye yakın, hafif pozitif bir göç değerine sahiptir. Dört il Marmara, Doğu Anadolu, İç Anadolu ve Güneydoğu Anadolu olmak üzere farklı bölgelerdedir. \"İl 1: Antalya, İl 2: Ağrı, İl 3: İzmir, İl 4: Muş\" seçeneği göç yönleri bakımından makul görünse de Ağrı ve Muş'un ikisi de Doğu Anadolu'dadır, bu yüzden kök koşulunu bozar. \"İl 1: Muş, İl 2: İstanbul, İl 3: Samsun, İl 4: Ankara\" seçeneği ise göç veren Muş'a en yüksek pozitif değeri verdiği için yanlıştır. Doğru cevap \"İl 1: Tekirdağ, İl 2: Ağrı, İl 3: Konya, İl 4: Şırnak\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -15728,22 +15616,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "33034",
-  "dersId": "cografya",
-  "konuId": "bolgeler_cografyasi",
-  "soru": "Karadeniz Bölgesi'nde tarım alanlarının dar ve dağlık olması nedeniyle ortaya çıkan aşağıdaki durumlardan hangisi diğerlerinden farklı bir sonuca yol açmıştır?",
-  "secenekler": [
-   "Küçük aile işletmeciliğinin yaygınlaşması",
-   "Tarım alanlarının meyilli arazilerde oluşturulması",
-   "Bölgeden diğer bölgelere yoğun göç verilmesi",
-   "Hayvancılığın tarıma oranla daha fazla gelişmesi",
-   "Bölgede nüfusun sahil şeridinde yoğunlaşması"
-  ],
-  "dogru": 2,
-  "aciklama": "Dar tarım alanları ve engebeli arazi; A, B, D ve E şıklarındaki durumları doğrudan bölge içinde ortaya çıkarmıştır. Ancak C şıkkındaki göç olgusu, insanların bölgeyi terk ederek başka yerlere gitmesine yol açmıştır, yani bölge dışına etkili bir sonuçtur. Bu nedenle C şıkkı diğerlerinden farklı bir sonuca işaret eder.",
-  "zorluk": "orta"
- },
- {
   "id": "33035",
   "dersId": "cografya",
   "konuId": "bolgeler_cografyasi",
@@ -15917,22 +15789,6 @@
   ],
   "dogru": 2,
   "aciklama": "Ekili-dikili alanların bölge yüzölçümüne oranı en yüksek bölge Marmara Bölgesi'dir. Doğru cevap Marmara Bölgesi şeklindedir.",
-  "zorluk": "orta"
- },
- {
-  "id": "33049",
-  "dersId": "cografya",
-  "konuId": "bolgeler_cografyasi",
-  "soru": "Karadeniz Bölgesi'ne ilişkin aşağıdaki özelliklerden hangisi yanlıştır?",
-  "secenekler": [
-   "Tarım alanları kıyı şeridinde dardır, iç kesimlere geçişte genişler.",
-   "Zonguldak taşkömürü havzası bu bölgede yer alır.",
-   "Bölgede çay tarımı yalnızca Doğu Karadeniz bölümünde yapılır.",
-   "Bölge, Türkiye'nin en fazla yağış alan bölgesidir.",
-   "Türkiye'de fındık üretiminin büyük bölümü bu bölgede gerçekleşir."
-  ],
-  "dogru": 0,
-  "aciklama": "Karadeniz Bölgesi'nde tarım alanları tam tersine kıyı şeridinde oldukça dardır; çünkü kıyıya paralel uzanan dağlar tarım alanlarını sınırlandırır. İç kesimlere geçildikçe iklim değişir, Akdeniz veya karasal iklim etkisi artar ve arazi yapısı değişir; ancak bu geçiş tarım alanlarını doğrudan genişletmez. Bu nedenle şık C yanlıştır. Diğer şıklar doğrudur: fındık üretimi bu bölgede yoğundur, bölge en fazla yağış alan bölgedir, çay yalnızca Doğu Karadeniz'de yetişir ve Zonguldak taşkömürü bu bölgededir.",
   "zorluk": "orta"
  },
  {

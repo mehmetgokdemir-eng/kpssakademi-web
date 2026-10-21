@@ -108,19 +108,20 @@
      "aciklama": "Fayol'un 'denge (equity)' ilkesi, yöneticilerin astlarına karşı adalet (justice) ile dostane bir tutumu (kindliness) birleştirerek davranması gerektiğini savunur. Bu ilke çalışanların örgüte bağlılığını ve sadakatini artırmayı amaçlar. 'Her çalışanın yalnızca bir üstten emir alması' komuta birliği ilkesidir. Ücretin performansa bağlanması ise başka bir ilkenin konusudur."
     },
     {
-     "id": "52497",
+     "id": "52547",
      "dersId": "isletme",
      "konuId": "i_nsan_kaynaklari",
-     "soru": "Toplu iş hukuku kapsamında 'dayanışma aidatı' (sendika aidatı) ile ilgili aşağıdaki ifadelerden hangisi Türk iş hukukuna göre doğrudur?",
+     "soru": "4857 sayılı İş Kanunu'na göre, işveren yıllık ücretli izni çalışana kullandırmayıp bunun yerine izin ücretini nakit olarak ödemeyi tercih ederse hukuki sonuç ne olur?",
      "secenekler": [
-      "Toplu iş sözleşmesinden yararlanan ancak ilgili sendikaya üye olmayan çalışanlardan alınabilir.",
-      "Dayanışma aidatı miktarı, sendika üyelik aidatından fazla olamaz.",
-      "Sendika üyesi olan tüm çalışanlar dayanışma aidatı ödemek zorundadır.",
-      "İşveren, çalışanın onayı olmaksızın ücretinden dayanışma aidatı kesemez.",
-      "Dayanışma aidatı yalnızca kamu sektöründe uygulanır."
+      "Bu uygulama yasal olarak serbesttir; tarafların anlaşması yeterlidir",
+      "Yıllık izin hakkının nakde çevrilmesi, ancak iş sözleşmesinin sona ermesi halinde mümkündür; aksi uygulama yasaya aykırıdır",
+      "İzin ücreti ödemesi geçerlidir ancak çalışan yine de izni kullanma hakkını korur",
+      "İzin nakde çevrilebilir; ancak bu durumda ödeme %50 fazlasıyla yapılmak zorundadır",
+      "Sendika üyesi işçiler için yasak, sendika üyesi olmayan işçiler için ise serbest bir uygulamadır Bu ayrım toplu iş sözleşmesiyle belirlenir."
      ],
-     "dogru": 0,
-     "aciklama": "6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanunu'na göre dayanışma aidatı, toplu iş sözleşmesinden yararlanmak isteyen ancak sözleşmeyi yapan sendikaya üye olmayan işçilerden alınan bir katkı payıdır. Miktarı, üyelik aidatını aşamaz (A seçeneği çeldiricisiyle karıştırılmamalıdır). Ödeme yükümlülüğü, sendika üyeliğinden değil TİS'ten yararlanma iradesinden doğduğundan işverenin ücret kesintisi için işçinin TİS'ten yararlanma talebini beyan etmesi yeterlidir, ayrıca özel onay aranmaz."
+     "dogru": 1,
+     "aciklama": "4857 sayılı İş Kanunu'nun 59. maddesi açıkça düzenlemiştir: Yıllık ücretli izin hakkı, iş sözleşmesi devam ederken nakit ödemeye dönüştürülemez. Bu hak ancak ve ancak iş sözleşmesinin herhangi bir nedenle sona ermesi durumunda, kullanılmayan izin günleri ücreti olarak ödenir. Bunun gerekçesi, izin hakkının çalışanın dinlenme ve sağlık hakkı kapsamında değerlendirilen, vazgeçilemeyen bir sosyal hak olmasıdır. İş sözleşmesi sürerken izni nakde çeviren işveren idari para cezasıyla karşılaşır.",
+     "zorluk": "zor"
     },
     {
      "id": "52120",

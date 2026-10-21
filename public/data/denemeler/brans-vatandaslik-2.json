@@ -247,19 +247,20 @@
      "zorluk": "kolay"
     },
     {
-     "id": "34495",
+     "id": "34548",
      "dersId": "vatandaslik",
      "konuId": "yargi_organlari",
-     "soru": "Aşağıdakilerden hangisi Danıştay'ın görevleri arasında yer almaz?",
+     "soru": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?\n\n(Kurum – Kuruluş/Görev Alanı)",
      "secenekler": [
-      "Cumhurbaşkanlığı kararnameleri hakkında görüş bildirmek",
-      "Başbakanlık ve Bakanlar Kurulu'ndan gönderilen kanun tasarılarını incelemek",
-      "Adli yargı mahkemelerince verilen hükümlerin istinaf aşamasında denetlenmesi",
-      "Kamu hizmetleri ile ilgili imtiyaz şartlaşma ve sözleşmelerini incelemek",
-      "İdare mahkemelerince verilen kararların temyiz mercii olarak incelenmesi"
+      "Uyuşmazlık Mahkemesi – Adli ve idari yargı mercileri arasındaki uyuşmazlıkları çözer",
+      "Yargıtay – Adli yargı ilk derece mahkemelerinin kararlarına karşı temyiz mercii",
+      "Bölge Adliye Mahkemesi – Asliye mahkemesi kararlarına karşı temyiz mercii olarak görev yapar",
+      "Sayıştay – Kamu idarelerinin hesap ve işlemlerini denetler, kesin hükme bağlar",
+      "Bölge İdare Mahkemesi – İdare ve vergi mahkemelerinin kararlarına itiraz mercii olarak görev yapar"
      ],
      "dogru": 2,
-     "aciklama": "Danıştay, idare ve vergi mahkemelerinin kararlarını temyiz mercii olarak inceleyen en yüksek idari yargı organıdır. Adli yargı mahkemelerindeki istinaf aşaması ise Bölge Adliye Mahkemeleri tarafından yürütülür. Danıştay'ın adli yargı ile herhangi bir istinaf bağlantısı bulunmamaktadır. E şıkkı bu nedenle yanlıştır ve doğru yanıttır."
+     "aciklama": "Soru yanlış eşleştirmeyi sorar. Bölge adliye mahkemeleri istinaf mercii olarak görev yapar. Asliye mahkemesi kararlarına karşı yapılan başvuru istinaf başvurusudur, temyiz değildir. Temyiz merci ise Yargıtay'dır. Bu nedenle \"Bölge Adliye Mahkemesi – Asliye mahkemesi kararlarına karşı temyiz mercii olarak görev yapar\" eşleştirmesi yanlıştır. \"Yargıtay – Adli yargı ilk derece mahkemelerinin kararlarına karşı temyiz mercii\" eşleştirmesi, Yargıtay'ın adli yargının en üst temyiz mercii olması nedeniyle doğru kabul edilir. \"Uyuşmazlık Mahkemesi – Adli ve idari yargı mercileri arasındaki uyuşmazlıkları çözer\" eşleştirmesi de doğrudur; bu mahkeme görev uyuşmazlıklarını ve verilen kararlar arasındaki çelişkileri çözer. Doğru cevap \"Bölge Adliye Mahkemesi – Asliye mahkemesi kararlarına karşı temyiz mercii olarak görev yapar\" seçeneğidir.",
+     "zorluk": "zor"
     },
     {
      "id": "34286",

@@ -61,19 +61,19 @@
      "zorluk": "zor"
     },
     {
-     "id": "46113",
+     "id": "46102",
      "dersId": "iktisat",
      "konuId": "mikro_i_ktisat",
-     "soru": "Tüketici teorisinde 'ortaya çıkarılmış tercihler zayıf aksiyomu' (WARP) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+     "soru": "Monopolcü bir firma, fiyat ayrımı yapmadan P = 100 - Q talep eğrisiyle karşı karşıyadır ve TC = 10Q + 200'dür. Tam fiyat ayrımı (1. derece) yapıldığında elde edilen toplam kâr, fiyat ayrımı yapılmayan duruma göre kaç TL fazladır?",
      "secenekler": [
-      "WARP, Slutsky denkleminin simetri koşulunu doğrudan ima etmez.",
-      "Eğer A demeti B demetine tercih edilmişse, fiyatlar değişip B alınabilir olduğunda artık A seçilemez.",
-      "WARP ihlali, tüketicinin farklı bütçe koşullarında birbiriyle çelişkili seçimler yaptığına işaret eder.",
-      "WARP, talebin azalan eğimli olduğunu garanti eder.",
-      "WARP, tüketicinin tutarlı seçimler yaptığını varsayar."
+      "1012,5",
+      "2025",
+      "2250",
+      "1800",
+      "900"
      ],
-     "dogru": 3,
-     "aciklama": "WARP (Zayıf Ortaya Çıkarılmış Tercihler Aksiyomu), tüketici tercihlerinin tutarlılığını ifade eder: (x,y) bütçesinde x seçildiyse ve y de alınabilirken x tercih edildiyse, (y,x) bütçesinde y alınabilir olduğunda tüketici y'yi seçemez. A ve D doğrudur. E de doğrudur; WARP yalnızca ikili tutarlılığı garanti eder, Slutsky matrisinin tam simetrisini (dolayısıyla çok mallı durumda talep eğiminin kesinlikle azalan olduğunu) garantilemez — bunun için SARP (Güçlü Aksiyom) gerekir. C yanlıştır; WARP tek başına talebin azalan eğimli olduğunu garanti etmez. Normal mallarda Giffen paradoksu olmasa da WARP bu garantiyi vermez; talebin azalan eğimli olması için ek koşullar veya SARP gereklidir. Doğru cevap C'dir.",
+     "dogru": 1,
+     "aciklama": "Ayrımsız kâr 1825, tam ayrımda kâr 3850 olduğundan fark 2025 TL'dir. Doğru cevap 2025 şeklindedir.",
      "zorluk": "zor"
     },
     {

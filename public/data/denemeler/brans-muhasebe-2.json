@@ -44,19 +44,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "50376",
+     "id": "50362",
      "dersId": "muhasebe",
      "konuId": "mali_tablolar",
-     "soru": "Bir işletme 01.01.2024 tarihinde 5 yıl vadeli, %12 faizli, 1.000.000 TL nominal değerli tahvil ihraç etmiştir. Tahvil 920.000 TL'ye iskontolu olarak satılmıştır. İşletme etkin faiz yöntemini kullanmakta olup etkin faiz oranı yaklaşık %14'tür. 31.12.2024 tarihli gelir tablosunda muhasebeleştirilecek toplam faiz gideri tutarı aşağıdakilerden hangisidir?",
+     "soru": "K İşletmesi 2024 yılında 500 adet mamul üretmiş ve 400 adetini satmıştır. Değişken üretim maliyeti birim başına 120 TL, sabit üretim maliyeti toplamda 100.000 TL'dir. Satış ve dağıtım giderleri değişken 20 TL/adet (satılan adet için), sabit 30.000 TL'dir. Tam maliyet yöntemine göre hazırlanan gelir tablosundaki faaliyet kârı ile değişken maliyet yöntemine göre hazırlanan gelir tablosundaki faaliyet kârı arasındaki fark aşağıdakilerden hangisidir? (Satış fiyatı 350 TL/adet)",
      "secenekler": [
-      "128.000 TL",
-      "136.000 TL",
-      "140.000 TL",
-      "120.000 TL",
-      "144.800 TL"
+      "10.000 TL",
+      "15.000 TL",
+      "30.000 TL",
+      "20.000 TL",
+      "25.000 TL"
      ],
-     "dogru": 0,
-     "aciklama": "Etkin faiz yönteminde, faiz gideri = Dönem başı defter değeri × Etkin faiz oranı şeklinde hesaplanır. Dönem başı defter değeri = 920.000 TL (ihraç bedeli). Etkin faiz gideri = 920.000 × %14 = 128.800 ≈ 128.000 TL (yaklaşık). Nominal faiz ödemesi = 1.000.000 × %12 = 120.000 TL nakit çıkışı olur. Aradaki 8.800 TL fark iskonto amortisman tutarı olup borç defter değerine eklenerek tahvilin vadede 1.000.000 TL'ye ulaşması sağlanır. Gelir tablosuna yansıyacak faiz gideri etkin faiz yöntemine göre yaklaşık 128.000 TL'dir (B şıkkı).",
+     "dogru": 3,
+     "aciklama": "Tam maliyet yönteminde sabit üretim maliyetleri ürünlere yüklenir. Birim sabit üretim maliyeti = 100.000 / 500 = 200 TL. Tam maliyet birim maliyeti = 120 + 200 = 320 TL. Satışların Maliyeti (tam) = 400 × 320 = 128.000 TL. Satış Gelirleri = 400 × 350 = 140.000 TL. Faaliyet Giderleri = 400 × 20 + 30.000 = 8.000 + 30.000 = 38.000 TL. Tam maliyet faaliyet kârı = 140.000 - 128.000 - 38.000 = -26.000 TL. Değişken maliyet yönteminde sabit üretim giderleri dönem gideri sayılır: Değişken Satışların Maliyeti = 400 × 120 = 48.000 TL. Faaliyet Giderleri = 38.000 + 100.000 (sabit üretim) = 138.000 TL. Değişken maliyet faaliyet kârı = 140.000 - 48.000 - 138.000 = -46.000 TL. Fark = 46.000 - 26.000 = 20.000 TL (tam maliyet yöntemi daha yüksek kâr gösterir, çünkü 100 adet stokta kalan ürünlere 20.000 TL sabit maliyet yüklenmiştir: 100 × 200 = 20.000 TL). Doğru cevap C'dir.",
      "zorluk": "zor"
     },
     {

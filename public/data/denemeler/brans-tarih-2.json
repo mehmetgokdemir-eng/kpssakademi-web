@@ -328,19 +328,19 @@
      "aciklama": "Namık Kemal, meşveret (danışma) ve hürriyet (özgürlük) gibi kavramların aslında İslam ilkelerinde de mevcut olduğunu savunmuştur. Batı'dan alınacak kurumların İslami değerlerle çelişmediğini, hatta bu değerlerin özüne uygun olduğunu göstermeye çalışmıştır. Bu düşünce yapısı onu hem Batıcılardan hem de salt gelenekçilerden ayırmaktadır. Osmanlıcılığı savunmuş, milliyetçiliğe karşı çıkmış; halifeliğin kaldırılmasını hiçbir zaman savunmamıştır."
     },
     {
-     "id": "30294",
+     "id": "30562",
      "dersId": "tarih",
      "konuId": "osmanli_kurulus_yukselme",
-     "soru": "Osmanlı Devleti'nin yükselme döneminde izlediği 'klasik dönem' vergi politikası değerlendirildiğinde, aşağıdaki hangi ifade Osmanlı mali sisteminin iç tutarlılığını doğru biçimde yansıtmaktadır?",
+     "soru": "Fatih Sultan Mehmed'in İstanbul'u fethinin ardından uygulamaya koyduğu politikalar bütünsel olarak değerlendirildiğinde, bu politikaların ortak amacını en doğru şekilde açıklayan ifade aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Osmanlı, İslam hukukunun öngördüğü vergi türlerini (öşür, haraç, cizye) Avrupa'dan devralınan tahrir geleneğiyle birleştirerek özgün bir vergi kadastrosu geliştirmiştir.",
-      "Müslüman ve gayrimüslim tebaa aynı vergi yükümlülüklerine tabi tutulmuş; böylece vergi adaleti sağlanmıştır.",
-      "Osmanlı vergi sistemi, eyaletlerin kendi kaynaklarına dayanmasını engelleyerek güçlü bir merkezi mali yapı oluşturmuştur.",
-      "Tımar düzeni, merkezi hazineye gelir aktarmadığından Osmanlı'nın büyük çaplı deniz seferlerini yürütmesi mali açıdan mümkün olmamıştır.",
-      "Osmanlı'nın temel vergi kaynağı cizye olmuş; bu nedenle Balkan fetihlerinin ardından Müslümanlaştırma politikası bilinçli olarak reddedilmiştir."
+      "İstanbul'u yalnızca askerî bir üs olarak kullanmak ve Edirne'yi başkent olmaya devam ettirmek",
+      "Hristiyan ve Yahudi nüfusu zorla İslam'a geçirerek homojen bir toplum yapısı oluşturmak",
+      "İtalyan şehir devletleriyle ticari rekabeti önlemek amacıyla İstanbul'u bütünüyle ticaret tekeline almak ve limanı yabancılara kapatmak",
+      "İstanbul'u kozmopolit bir imparatorluk merkezi hâline getirerek hem İslam dünyasında hem Doğu Roma geleneğinde meşruiyet zemini kurmak",
+      "Patrikhanenin işlevine son vererek Hristiyan nüfusun Anadolu'ya göçünü sağlamak"
      ],
-     "dogru": 0,
-     "aciklama": "A şıkkı, Osmanlı mali sisteminin iki temel bileşenini doğru biçimde tanımlamaktadır: İslam hukukundan gelen vergi kategorileri (öşür: onda bir tarım vergisi; haraç: gayrimüslim ya da fethedilen arazilerden alınan toprak vergisi; cizye: gayrimüslimlerden alınan kişi başı vergi) ve tahrir yöntemi (tüm hane ve gelir kaynaklarının sistematik biçimde defterlere kaydedilmesi). Bu ikisinin bireşimi, Osmanlı'ya hem dini meşruiyet hem de idari etkinlik sağlamıştır. B şıkkı yanlıştır; cizye yalnızca gayrimüslimlere uygulanmıştır. C şıkkı nedensellik bağı bakımından hatalıdır. D şıkkı yanlıştır; merkezin avarız ve gümrük gelirleri gibi başka mali kaynakları da mevcuttu.",
+     "dogru": 3,
+     "aciklama": "Fatih, İstanbul'u fethettikten sonra şehri yeniden imar etti, nüfusunu canlandırmak için farklı bölgelerden ve dinlerden insanları yerleştirdi. Rum Ortodoks Patrikhanesi'ni yeniden kurdu, Ermeni ve Yahudi cemaatlerine de yer verdi. Bu politikalar şehri çok kültürlü bir imparatorluk merkezi yaptı, hem İslam dünyasındaki hem Doğu Roma mirasındaki meşruiyetini güçlendirdi. \"Hristiyan ve Yahudi nüfusu zorla İslam'a geçirerek homojen bir toplum yapısı oluşturmak\" yanlıştır, çünkü gayrimüslimlere dinî özerklik tanınmıştır. \"Patrikhanenin işlevine son vererek Hristiyan nüfusun Anadolu'ya göçünü sağlamak\" da tersine bir iddiadır, patrikhane korunmuştur. Doğru cevap \"İstanbul'u kozmopolit bir imparatorluk merkezi hâline getirerek\" seçeneğidir.",
      "zorluk": "zor"
     },
     {

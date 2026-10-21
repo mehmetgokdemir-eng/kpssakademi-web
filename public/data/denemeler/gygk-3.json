@@ -312,19 +312,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "39169",
+     "id": "39165",
      "dersId": "turkce",
      "konuId": "deyim_ve_atasozleri",
-     "soru": "Aşağıdaki seçeneklerin hangisinde verilen iki atasözü anlam bakımından birbirini tamamlamakta, aralarında bir çelişki bulunmamaktadır?",
+     "soru": "Aşağıdaki cümlelerin hangisinde altı çizili deyim, yanlış anlamda kullanılmıştır?\n\n'Uzun yıllar boyunca köyde yaşayan Halil Usta, emekliliğinde şehre taşınmış; ancak oradaki gürültüye, kalabalığa hiç alışamayarak sonunda köyüne dönmüştür.'",
      "secenekler": [
-      "'Söz gümüşse sükût altındır.' – 'Konuşmak gümüş, susmak altındır.'",
-      "'Bir elin nesi var, iki elin sesi var.' – 'Az adam çok iş başaramaz.'",
-      "'Körle yatan şaşı kalkar.' – 'Üzüm üzüme baka baka kararır.'",
-      "'Acele işe şeytan karışır.' – 'Vakit nakittir.'",
-      "'Çok bilen çok yanılır.' – 'Bilgi güçtür.'"
+      "Projeyi teslim etmeden tatile giden Selin, dönüşünde patronunun sert tepkisiyle karşılaşınca dili tutuldu.",
+      "Sınavda beklenmedik bir soruyla karşılaşan öğrenci, aklı başından gidercesine sayfaya uzun süre baktı.",
+      "Müdür, toplantıda konuşmak isteyen herkese söz hakkı verdi; kimseyi ağzı açık bırakmadı.",
+      "Yıllarca birlikte çalıştığı arkadaşının ihanetini öğrenen Adam, bir süre aklı bir karış havada dolaştı.",
+      "Mahkemede aleyhine dönen deliller karşısında avukat, müvekkiline bakıp sadece omuz silkti; kelam etmedi."
      ],
      "dogru": 2,
-     "aciklama": "A'da acele etme ile vakti iyi kullan mesajları çelişir. B'de iki atasözü birbirini destekler gibi görünse de 'Az adam çok iş başaramaz.' ifadesi özgün bir atasözü değildir ve anlam kayması yaratır. C'deki iki atasözü aslında aynı atasözünün iki farklı dile getirilişidir, bu yüzden 'tamamlama' değil 'tekrar' söz konusudur. D'de bilginin hem yanıltıcı hem güçlendirici olduğu söylenmekte, bu çelişkiyi 'tamamlama' saymak tartışmalıdır. E seçeneğinde ise her iki atasözü de kötü/olumsuz ortamın ya da çevrenin kişiyi olumsuz etkileyeceği ortak temasını farklı imgelerle ifade eder; anlam bakımından birbirini tamamlarlar.",
+     "aciklama": "\"Ağzı açık bırakmak\" deyimi, birini şaşırtmak, hayran bırakmak ya da çok şaşkın duruma düşürmek anlamına gelir. Müdürün konuşmak isteyen herkese söz hakkı vermesi ise konuşma imkânı tanımaktır. Bu, deyimin anlamıyla örtüşmez. Bu nedenle deyim yanlış anlamda kullanılmıştır. \"Patronunun sert tepkisiyle karşılaşınca dili tutuldu.\" ifadesinde korku ya da şaşkınlıkla konuşamama anlamı doğru kullanılmıştır. \"Aklı bir karış havada dolaştı.\" ifadesi de büyük şaşkınlık ve dalgınlık hâlini yansıtır ve bağlama uyar. Doğru cevap \"Müdür, toplantıda konuşmak isteyen herkese söz hakkı verdi; kimseyi ağzı açık bırakmadı.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -437,19 +437,20 @@
      "aciklama": "'Açmak' fiili nesne alabilen geçişli bir fiildir (kapıyı açmak). Ancak 'Kapı kendiliğinden açıldı.' cümlesinde '-ıl' dönüşlülük/edilgenlik eki alarak nesnesiz, yani geçişsiz biçimde kullanılmıştır. Diğer seçeneklerde fiiller doğal geçişli yapılarını korumaktadır."
     },
     {
-     "id": "40452",
+     "id": "39034",
      "dersId": "turkce",
      "konuId": "anlatim_bozukluklari",
-     "soru": "Aşağıdaki cümlelerin hangisinde 'ile' bağlacının yanlış kullanımından kaynaklanan bir anlatım bozukluğu vardır?",
+     "soru": "Aşağıdaki cümlelerin hangisinde birden fazla anlama gelen (yapısal belirsizlik) anlatım bozukluğu vardır?",
      "secenekler": [
-      "Hız ile dikkatsizlik kazaların başlıca nedenidir.",
-      "Kardeşim ile ben her sabah yürüyüşe çıkarız.",
-      "Kitap ile defterleri rafına yerleştirdi.",
-      "Öğretmen ile öğrenciler uyum içinde çalıştı.",
-      "Kalem ile kağıdı çantama koydum."
+      "Yeni alınan bütün kitaplar rafa kaldırıldı. Raflar yeniden düzenlendi.",
+      "Öğretmenin sevdiği öğrenciler ödüllendirildi.",
+      "Uzun boylu bir adam girdi.",
+      "Çocuklar parkta oynuyor.",
+      "Güzel bir şehirde yaşıyorum."
      ],
-     "dogru": 0,
-     "aciklama": "B seçeneğinde anlatım bozukluğu vardır. 'Hız ile dikkatsizlik' ifadesi aslında birbiriyle çelişen iki kavramı birbirine bağlamaktadır. Kazalara yol açan etken 'hız' değil 'aşırı hız' ya da 'hız ihlali'dir; düz 'hız' yol açmaz. Ancak daha önemli bozukluk, 'hız ile dikkatsizlik kazaların başlıca nedenidir' cümlesinde iki ögenin tek yüklemle karşılanmasında değil, 'ile' bağlacıyla birleştirilen iki ögenin mantıksal açıdan birbirini karşılamamasındadır. Cümledeki asıl bozukluk ise 'ile' bağlacıyla kurulan öznenin çoğul anlam taşımasına karşın yüklemin tekil çekimlenmesidir: 'nedenidir' yerine 'nedenleridir' olmalıdır."
+     "dogru": 1,
+     "aciklama": "'Öğretmenin sevdiği öğrenciler ödüllendirildi' cümlesinde yapısal belirsizlik vardır. Bu cümle iki farklı biçimde anlaşılabilir: (1) Öğretmenin sevdiği öğrenciler ödüllendirildi (öğretmen onları seviyor), (2) Öğrencilerin sevdiği öğretmen ödüllendirildi. Sıfat fiil yapısından kaynaklanan bu belirsizlik, cümlenin öznesinin kim olduğunu muğlak kılmakta ve anlatım bozukluğu oluşturmaktadır.",
+     "zorluk": "orta"
     },
     {
      "id": "38378",
@@ -1659,19 +1660,19 @@
      "aciklama": "Su, kara yüzeyine göre çok daha yüksek özgül ısıya sahiptir. Bu nedenle su kütleleri yavaş ısınır ve yavaş soğur. Kıyı bölgelerine yakın bu su kütlesi, yazın aşırı ısınmayı önler ve kışın ısı deposu işlevi görerek soğumaları yavaşlatır. Sonuç olarak kıyı istasyonlarında yıllık sıcaklık genişliği küçük, iç bölgelerde ise deniz etkisinden uzak olduğu için büyüktür. Bu durum denizsellik ve karasallık kavramlarının temelini oluşturur."
     },
     {
-     "id": "32136",
+     "id": "32165",
      "dersId": "cografya",
      "konuId": "dunya_sekli_hareketleri",
-     "soru": "Dünya'nın gerçek şekli olan 'Geoid' ile ilgili aşağıdaki ifadelerden hangisi kesinlikle yanlıştır?",
+     "soru": "Dünya üzerinde bir X noktası seçiliyor. Bu noktadan geçen tüm büyük daireler düşünüldüğünde, bu büyük daireler hangi başka bir noktadan da geçmek zorundadır?",
      "secenekler": [
-      "Kutuplardaki basıklık, Dünya'nın kendi ekseni etrafındaki dönüş hızının fazla olmasından kaynaklanır.",
-      "Elipsoit, geoidin matematiksel yaklaşımı olarak kullanılmaktadır.",
-      "Kutup yarıçapı, ekvator yarıçapından yaklaşık 21 km daha kısadır.",
-      "Kutuplarda basıklık, ekvatorda şişkinlik söz konusudur.",
-      "Yüzey düzensizlikleri nedeniyle hiçbir matematiksel formülle tam olarak tanımlanamaz."
+      "X noktasının bulunduğu meridyen üzerindeki herhangi bir noktadan",
+      "X noktasıyla aynı enlemi paylaşan (paralel üzerindeki) herhangi bir noktadan",
+      "X noktasından 90° uzakta olan herhangi bir noktadan",
+      "X noktasının antipodal noktasından (yani Dünya'nın tam karşı tarafındaki noktadan)",
+      "Yalnızca Ekvator'dan"
      ],
-     "dogru": 0,
-     "aciklama": "Kutuplardaki basıklık, Dünya'nın kendi ekseni etrafındaki dönüş hareketinin etkisiyle oluşan merkezkaç kuvvetinin etkisiyle ortaya çıkmıştır. Ancak bu basıklığın nedeni dönüş hızının 'fazla' olması değil, dönme hareketi sırasında ekvatora yakın bölgelerde merkezkaç kuvvetinin daha etkili olmasıdır. Dönüş hızı aslında görece yavaştır; hız fazla olsaydı basıklık çok daha belirgin olurdu. Bu nedenle D şıkkındaki 'hızının fazla olmasından' ifadesi kesinlikle yanlıştır. Diğer tüm şıklar doğru bilgiler içermektedir.",
+     "dogru": 3,
+     "aciklama": "Büyük daire, bir kürenin merkezinden geçen düzlemin küre yüzeyiyle kesişmesinden oluşur. X noktasından geçen herhangi bir büyük daire, küre merkezini içerdiğinden X'in tam karşısındaki noktadan (antipodal nokta) da geçmek zorundadır. Özellikle: X = (φ, λ) ise antipodu = (-φ, λ±180°)'dir ve X'ten geçen her büyük daire bu antipodal noktadan da geçer. Bu, geometrik bir zorunluluktur. Doğru cevap B'dir.",
      "zorluk": "zor"
     }
    ]

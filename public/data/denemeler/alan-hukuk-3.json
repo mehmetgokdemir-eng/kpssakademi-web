@@ -76,19 +76,19 @@
      "zorluk": "zor"
     },
     {
-     "id": "44080",
+     "id": "44076",
      "dersId": "hukuk",
      "konuId": "anayasa",
-     "soru": "Türkiye Büyük Millet Meclisi, bir kanun teklifini görüşmektedir. Muhalefet partisi, teklifin anayasaya aykırı olduğunu ileri sürerek Anayasa Mahkemesi'ne iptal davası açmak istemektedir. Aşağıdakilerden hangisi bu süreçle ilgili doğru bir ifadedir?",
+     "soru": "Anayasa Mahkemesi, 2010 yılında gerçekleştirilen anayasa değişiklikleriyle bireysel başvuru yolunu düzenlemiştir. Buna göre aşağıdakilerden hangisi bireysel başvuru hakkına ilişkin yanlış bir ifadedir?",
      "secenekler": [
-      "Cumhurbaşkanı, kanunu iade etmeksizin doğrudan Anayasa Mahkemesi'ne başvurabilir.",
-      "İptal davası, kanunun Resmî Gazete'de yayımlanmasından itibaren 30 gün içinde açılmalıdır.",
-      "İktidardaki parti de kanuna karşı Anayasa Mahkemesi'ne iptal davası açabilir.",
-      "Muhalefet partisi, kanun henüz kabul edilmeden iptal davası açabilir.",
-      "İptal davası açabilmek için TBMM üye tam sayısının en az beşte biri oranında milletvekilinin imzası gerekmektedir."
+      "Yargı mercilerince verilen kararlar aleyhine bireysel başvuruda bulunulabilmesi için olağan kanun yollarının tüketilmesi zorunludur.",
+      "Bireysel başvuru yolu, olağanüstü bir kanun yolu niteliği taşımaktadır.",
+      "Anayasa Mahkemesi bireysel başvuruda ihlal tespit ederse yeniden yargılama yapılmasına hükmedebilir.",
+      "Kamu tüzel kişileri, tüm anayasal haklar bakımından bireysel başvuru hakkına sahiptir.",
+      "Bireysel başvuruda 30 günlük başvuru süresi, başvuru yollarının tüketildiği tarihten itibaren işlemeye başlar."
      ],
-     "dogru": 4,
-     "aciklama": "Anayasa'nın 150. maddesi uyarınca kanunların iptali için Anayasa Mahkemesi'ne dava açabilecekler arasında TBMM üye tam sayısının en az beşte biri oranında milletvekili sayılmaktadır (120 milletvekili). İptal davası, kanunun Cumhurbaşkanı tarafından yayımlanmasından itibaren 60 gün içinde açılmalıdır (30 gün değil). Cumhurbaşkanı kanunu iade edebilir; ancak iade etmeksizin doğrudan Anayasa Mahkemesi'ne başvurma yetkisi yoktur. Siyasi partilerin, iktidar veya muhalefet ayrımı gözetilmeksizin bu yola başvurabilmesi için TBMM'deki grup kurma yeter sayısına sahip olmaları gerekmez; belirleyici olan 1/5 imza eşiğidir. D ve C seçenekleri hatalıdır.",
+     "dogru": 3,
+     "aciklama": "Kamu tüzel kişileri, nitelikleri itibarıyla kişi haklarına değil, kamu gücü kullanımına dayandıklarından bireysel başvuru hakkına sahip değildir. Anayasa'nın 148. maddesi ve 6216 sayılı Kanun'un 46. maddesi uyarınca bireysel başvuru; ancak Avrupa İnsan Hakları Sözleşmesi kapsamındaki temel haklarını ihlal edildiğini iddia eden gerçek kişiler veya özel hukuk tüzel kişileri tarafından yapılabilir. Kamu tüzel kişileri bu haktan yararlanamaz. Diğer seçenekler doğrudur.",
      "zorluk": "zor"
     },
     {
@@ -421,19 +421,19 @@
      "aciklama": "TCK m. 37-41 kapsamında iştirak hükümleri incelendiğinde: Azmettiren (m. 38) suçu bizzat icra etmez, faili bu suçu işlemeye yönlendirir. Yardım eden (m. 39) ise suça katkıda bulunur ancak failden daha az ceza alır (ceza indirimi uygulanır). Özgü suçlarda, özel niteliği taşımayan kişi fail olamaz; ancak azmettiren ya da yardım eden sıfatıyla sorumlu tutulabilir; bu kişi tamamen cezasız kalmaz. Zincirleme suç (m. 43) halinde tek ceza verilip artırım uygulanır. C şıkkı ise doğrudur; teşebbüs aşamasındaki bir suça iştirak mümkündür, suçun tamamlanması aranmaz."
     },
     {
-     "id": "44724",
+     "id": "44728",
      "dersId": "hukuk",
      "konuId": "i_s_hukuku",
-     "soru": "4857 sayılı İş Kanunu'na göre aşağıdaki durumların hangisinde işçi, iş sözleşmesini haklı nedenle derhal feshedip hem kıdem tazminatı hem de ihbar tazminatı talep edebilir?",
+     "soru": "4857 sayılı İş Kanunu kapsamında 'asıl işveren - alt işveren' ilişkisine dair aşağıdaki ifadelerden hangisi yanlıştır?",
      "secenekler": [
-      "İşverenin ücret ödemesini sürekli ve kasıtlı biçimde geciktirmesi",
-      "İşverenin ücret ödemesini 20 gün geciktirmesi",
-      "İşçinin iş sözleşmesini haklı nedenle feshetmesi durumunda ihbar tazminatına hak kazanamaz; yalnızca kıdem tazminatı talep edebilir",
-      "İşçinin rızası olmaksızın başka bir işyerine nakledilmesi",
-      "İşverenin yıllık ücretli izin kullandırmaması"
+      "Muvazaalı alt işverenlik ilişkisinde işçiler başlangıçtan itibaren asıl işverenin işçisi sayılır",
+      "Alt işveren, asıl işin yalnızca bir bölümünü veya yardımcı işleri üstlenebilir; ancak asıl işin tamamının alt işverene devredilmesi hiçbir koşulda mümkün değildir",
+      "Alt işverenin değişmesi halinde yeni alt işveren, önceki alt işverenin işçilerini devralmak zorundadır; aksi takdirde asıl işveren tüm sorumluluğu üstlenir",
+      "Asıl işverenin alt işverene iş vermesi, alt işverenin işçilerinin iş güvencesinden yararlanma hakkını ortadan kaldırmaz",
+      "Asıl işveren, alt işverenin işçilerine karşı alt işverenle birlikte müteselsilen sorumludur"
      ],
      "dogru": 2,
-     "aciklama": "4857 sayılı İş Kanunu'nun 24. maddesi kapsamında işçi, haklı nedenle iş sözleşmesini derhal feshettiğinde kıdem tazminatına hak kazanmaktadır. Ancak ihbar tazminatı yalnızca ihbar sürelerine uyulmaksızın yapılan fesihlerde gündeme gelir; haklı nedenle fesihte tarafların ihbar süresine uyma yükümlülüğü bulunmadığından ihbar tazminatı talep hakkı doğmaz. Bu durum işçi tarafından yapılan haklı fesih için de geçerlidir. Dolayısıyla E şıkkı doğrudur. A, B, C ve D şıklarındaki bazı haller haklı fesih nedeni olabilse de soru 'hem kıdem hem ihbar tazminatı' kombinasyonunu sorduğundan ve bu kombinasyon haklı nedenle fesihte mümkün olmadığından E doğru yanıttır.",
+     "aciklama": "Soru yanlış ifadeyi sormaktadır. Mevzuatta, alt işveren değiştiğinde yeni alt işverenin önceki alt işverenin işçilerini devralmasını zorunlu kılan bir hüküm yoktur. Ayrıca bunun yapılmaması halinde asıl işverenin tüm sorumluluğu üstleneceği de öngörülmemiştir. Bu nedenle bu ifade yanlıştır. Asıl işveren, alt işverenin işçilerine karşı alt işverenle birlikte sorumludur. Muvazaalı ilişkide işçiler başlangıçtan itibaren asıl işverenin işçisi sayılır. Alt işverenin işçileri iş güvencesi hükümlerinden yararlanmaya devam eder. Asıl işin bölünmesi şartlarına ilişkin \"asıl işin tamamının devri hiçbir koşulda mümkün değildir\" ifadesi ise bu sorunun çözümünde belirleyici olmasa da asıl işin bir bölümü ve yardımcı işler kuralıyla uyumludur. Doğru cevap \"Alt işverenin değişmesi halinde yeni alt işveren, önceki alt işverenin işçilerini devralmak zorundadır\" seçeneğidir.",
      "zorluk": "zor"
     },
     {

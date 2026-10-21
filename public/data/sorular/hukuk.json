@@ -716,7 +716,7 @@
    "Anayasa Mahkemesi ihlal tespit ettiğinde ilgili mahkemenin yeniden yargılama yapmasına karar veremez."
   ],
   "dogru": 4,
-  "aciklama": "6216 sayılı Kanun'un 50. maddesi uyarınca Anayasa Mahkemesi, bir hak ihlali tespit ettiğinde ihlalin ve sonuçlarının ortadan kaldırılması için yeniden yargılama yapılmasına hükmedebilir. Bu karar, ilgili mahkemeyi bağlar ve mahkeme usul incelemesi yapmaksızın dosyayı yeniden ele alır. Dolayısıyla E seçeneği yanlış bir bilgi içermektedir. D seçeneğindeki 'nitelikleri itibarıyla' ifadesi doğrudur; zira Anayasa'nın 36. maddesi hak arama hürriyetini 'herkes' için tanımlar.",
+  "aciklama": "6216 sayılı Kanun'un 50. maddesine göre Anayasa Mahkemesi, ihlalin bir mahkeme kararından kaynaklandığını tespit ettiğinde ihlali ve sonuçlarını ortadan kaldırmak için yeniden yargılama yapılmak üzere dosyayı ilgili mahkemeye gönderir. Bu nedenle Mahkemenin yeniden yargılamaya karar veremeyeceğini söyleyen ifade yanlıştır. Diğer ifadeler mevzuatla uyumludur. Bireysel başvuru için idari ve yargısal başvuru yollarının tüketilmesi gerekir. Kamu tüzel kişileri kural olarak başvuru yapamaz. Yasama işlemleri ile düzenleyici idari işlemler aleyhine doğrudan bireysel başvuru yapılamaz. Yabancılar da başvuru yapabilir; ancak yalnızca Türk vatandaşlarına tanınan haklar bakımından başvuru hakları yoktur. Bu son ifade, yabancıların başvuru hakkına getirilen bu sınırı anlatır. Doğru cevap \"Anayasa Mahkemesi ihlal tespit ettiğinde ilgili mahkemenin yeniden yargılama yapmasına karar veremez.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -733,22 +733,6 @@
   ],
   "dogru": 0,
   "aciklama": "Anayasa'nın 15. maddesi, olağanüstü dönemlerde temel hak ve özgürlüklerin milletlerarası hukuktan doğan yükümlülükler ihlal edilmemek ve 15/2'de sayılan çekirdek haklara dokunulmamak kaydıyla kısıtlanabileceğini düzenler. Olağanüstü hal kararnameleri Anayasa Mahkemesi denetimine tabidir (2017 sonrasında bireysel başvuru yoluyla da denetlenebilir). TBMM'nin reddi anında yürürlüğü kaldırmaz; onay süreci farklıdır. Olağanüstü hal sona erince kararname kendiliğinden değil, TBMM kararıyla veya süre bitmesiyle ortadan kalkar.",
-  "zorluk": "orta"
- },
- {
-  "id": "44050",
-  "dersId": "hukuk",
-  "konuId": "anayasa",
-  "soru": "Türkiye'de kanun hükmünde kararname ve Cumhurbaşkanlığı kararnamesi arasındaki farka ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
-  "secenekler": [
-   "Cumhurbaşkanlığı kararnameleri kanun gücünde olduğundan kanun hükmündeki kararnamelerle eş değerdir.",
-   "Cumhurbaşkanlığı kararnameleri yalnızca yürütme yetkisine ilişkin konuları düzenleyebilirken KHK'lar yasama alanına girebilirdi.",
-   "Her ikisi de kanunlarla çelişirse Anayasa Mahkemesi'nce iptal edilir, ancak sadece KHK'lar yargı denetimine tabidir.",
-   "Cumhurbaşkanlığı kararnameleri kanunlara aykırı olamaz; KHK'lar ise istisnai olarak kanun hükümlerini değiştirebilirdi.",
-   "Her iki düzenleme türü de Resmî Gazete'de yayımlanmak zorunda değildir."
-  ],
-  "dogru": 1,
-  "aciklama": "2017 Anayasa değişikliğiyle KHK rejimi kaldırılmış, yerine Cumhurbaşkanlığı kararnamesi (CBK) getirilmiştir. KHK'lar, yetki kanununa dayanarak yasama alanına girebilir ve kanun gücünde sayılırdı. CBK'lar ise kanunla düzenlenmemiş ve münhasıran yürütme yetkisine ilişkin konuları düzenleyebilir; kanunla düzenlenen alanlarda CBK çıkarılamaz, çıkarılmış olsa bile kanun önce gelir. Bu temel fark C seçeneğinde doğru biçimde yansıtılmaktadır.",
   "zorluk": "orta"
  },
  {
@@ -861,22 +845,6 @@
   ],
   "dogru": 4,
   "aciklama": "Anayasa'nın 35. maddesi mülkiyet hakkını güvence altına alır ve kamu yararı amacıyla kanunla sınırlandırılabileceğini öngörür. 46. madde ise kamulaştırmayı düzenler; kamulaştırma idari bir işlemle gerçekleşir, yargı kararı ön koşul değildir. Dolayısıyla 'mülkiyet hakkından yalnızca yargı kararıyla yoksun bırakılabilmesi' Anayasa ile bağdaşmaz; kamulaştırma idarenin tek yanlı işlemiyle yapılır ve bedel anlaşmazlığı hâlinde yargı devreye girer.",
-  "zorluk": "orta"
- },
- {
-  "id": "44058",
-  "dersId": "hukuk",
-  "konuId": "anayasa",
-  "soru": "TBMM'de gruplar ve üyeler tarafından kanun teklifi verilmesine ilişkin hangisi yanlış bir bilgi içermektedir?",
-  "secenekler": [
-   "Cumhurbaşkanı da kanun teklif etme yetkisine sahiptir.",
-   "Kanun teklifleri için bütçeyi dengeleyici herhangi bir kaynak gösterilmesi zorunluluğu vardır.",
-   "Bir kanun teklifinin gündeme alınması için milletvekili imzasına ek olarak Cumhurbaşkanı onayı gerekir.",
-   "Kanun teklifleri tasarı olarak adlandırılmaz; bu terim yürütme kaynaklı öneriler için kullanılırdı.",
-   "Milletvekilleri doğrudan kanun teklifi verebilir."
-  ],
-  "dogru": 2,
-  "aciklama": "2017 Anayasa değişikliğiyle hükümet kaldırıldığından 'kanun tasarısı' kavramı artık kullanılmamakta; yalnızca 'kanun teklifi' ifadesi geçerlidir. Cumhurbaşkanı kanun teklif etme yetkisine sahiptir (Anayasa m. 88). Milletvekilleri de teklif verebilir. Kanun tekliflerinde bütçeyi dengeleyici kaynak gösterme yükümlülüğü Anayasa'nın 161/3. maddesi çerçevesinde geçerlidir. Ancak E seçeneğindeki 'Cumhurbaşkanı onayı gerekmesi' milletvekili teklifleri için tamamen yanlış bir ifadedir; milletvekilleri teklif için başka bir makamın onayını almak zorunda değildir.",
   "zorluk": "orta"
  },
  {
@@ -1216,22 +1184,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "44080",
-  "dersId": "hukuk",
-  "konuId": "anayasa",
-  "soru": "Türkiye Büyük Millet Meclisi, bir kanun teklifini görüşmektedir. Muhalefet partisi, teklifin anayasaya aykırı olduğunu ileri sürerek Anayasa Mahkemesi'ne iptal davası açmak istemektedir. Aşağıdakilerden hangisi bu süreçle ilgili doğru bir ifadedir?",
-  "secenekler": [
-   "Cumhurbaşkanı, kanunu iade etmeksizin doğrudan Anayasa Mahkemesi'ne başvurabilir.",
-   "İptal davası, kanunun Resmî Gazete'de yayımlanmasından itibaren 30 gün içinde açılmak zorundadır. Bu süre hak düşürücü niteliktedir.",
-   "İktidardaki parti de kanuna karşı Anayasa Mahkemesi'ne iptal davası açabilir.",
-   "Muhalefet partisi, kanun henüz kabul edilmeden iptal davası açabilir.",
-   "İptal davası açabilmek için TBMM üye tam sayısının en az beşte biri oranında milletvekilinin imzası gerekmektedir."
-  ],
-  "dogru": 4,
-  "aciklama": "Anayasa'nın 150. maddesi uyarınca kanunların iptali için Anayasa Mahkemesi'ne dava açabilecekler arasında TBMM üye tam sayısının en az beşte biri oranında milletvekili sayılmaktadır (120 milletvekili). İptal davası, kanunun Cumhurbaşkanı tarafından yayımlanmasından itibaren 60 gün içinde açılmalıdır (30 gün değil). Cumhurbaşkanı kanunu iade edebilir; ancak iade etmeksizin doğrudan Anayasa Mahkemesi'ne başvurma yetkisi yoktur. Siyasi partilerin, iktidar veya muhalefet ayrımı gözetilmeksizin bu yola başvurabilmesi için TBMM'deki grup kurma yeter sayısına sahip olmaları gerekmez; belirleyici olan 1/5 imza eşiğidir. D ve C seçenekleri hatalıdır.",
-  "zorluk": "zor"
- },
- {
   "id": "44081",
   "dersId": "hukuk",
   "konuId": "anayasa",
@@ -1312,22 +1264,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "44086",
-  "dersId": "hukuk",
-  "konuId": "anayasa",
-  "soru": "Anayasa'nın 69. maddesine göre siyasi partilerin kapatılması rejimi incelendiğinde, aşağıdakilerden hangisi yanlış bir bilgi içermektedir?",
-  "secenekler": [
-   "Anayasa Mahkemesi, kapatma yerine partinin Hazine yardımından kısmen veya tamamen yoksun bırakılmasına da karar verebilir.",
-   "Kapatma davası Yargıtay Cumhuriyet Başsavcısı tarafından açılır.",
-   "Siyasi partiler, Anayasa'nın 68. maddesinin 4. fıkrasında belirtilen yasakları ihlal etmeleri hâlinde kapatılabilir.",
-   "Kapatılan bir partinin üyeleri, başka bir siyasi partinin kurucusu, üyesi, yöneticisi veya denetçisi olamaz.",
-   "Kapatma kararı için Anayasa Mahkemesi üye tam sayısının salt çoğunluğunun oyu yeterlidir."
-  ],
-  "dogru": 4,
-  "aciklama": "Anayasa'nın 69. maddesi uyarınca bir siyasi partinin kapatılmasına Anayasa Mahkemesi'nce karar verilebilmesi için, üye tam sayısının üçte iki oy çokluğu (yani en az 10 üye) gerekmektedir; salt çoğunluk yeterli değildir. Salt çoğunluk eşiğinin aşılamaması hâlinde Anayasa Mahkemesi, kapatma yerine söz konusu partinin Hazine yardımından kısmen veya tamamen yoksun bırakılmasına karar verebilir. D seçeneğinde yer alan 'salt çoğunluk' ifadesi yanlıştır; doğrusu 'üçte iki oy çokluğu'dur.",
-  "zorluk": "zor"
- },
- {
   "id": "44087",
   "dersId": "hukuk",
   "konuId": "anayasa",
@@ -1387,8 +1323,8 @@
    "Bireysel başvuruda bulunabilmek için olağan kanun yollarının tüketilmiş olması zorunludur.",
    "Bireysel başvurunun incelenebilmesi için başvurucunun güncel ve kişisel menfaatinin ihlal edilmiş olması gerekir. Bu menfaatin ayrıca belgelendirilmesi de gerekir."
   ],
-  "dogru": 2,
-  "aciklama": "Bireysel başvuru, Anayasa'da güvence altına alınan temel hak ve özgürlüklerden Avrupa İnsan Hakları Sözleşmesi kapsamındaki herhangi birinin kamu gücü tarafından ihlal edildiği iddiasıyla yapılır. Yani bireysel başvurunun konusu hem Anayasa'da güvence altında olmalı hem de AİHS kapsamında yer almalıdır. 'Yalnızca AİHS kapsamındaki hakların' başvuruya konu olabileceği ifadesi eksik ve yanıltıcıdır; Anayasa'daki güvencenin varlığı da zorunlu koşuldur. Dolayısıyla C seçeneği yanlış bir ifade içermektedir. Diğer seçenekler, başvuru yollarının tüketilmesi zorunluluğu, yasama işlemleri ile AYM kararlarının konu edilememesi, menfaat şartı ve tüzel kişilerin başvurusu bakımından doğrudur.",
+  "dogru": 4,
+  "aciklama": "6216 sayılı Kanun'un 46. maddesi, başvurucunun güncel ve kişisel bir hakkının doğrudan etkilenmiş olmasını arar. Ölçüt soyut bir menfaat değil, bir hakkın doğrudan etkilenmesidir. Menfaatin ayrıca belgelendirilmesi diye bağımsız bir kabul edilebilirlik şartı da yoktur. Bu nedenle menfaat ve belgelendirme şartı koşan ifade yanlıştır. AİHS'e ilişkin seçenek ise Anayasa'nın 148. maddesindeki ortak koruma alanı kuralını yansıtır. Anayasa'daki haklardan AİHS ve ek protokoller kapsamında kalmayanlar bireysel başvuruya konu olamaz, bu yüzden o ifade doğrudur. Yasama işlemleri ile Anayasa Mahkemesi kararlarının başvuruya konu edilememesi, tüzel kişilerin başvuru hakkı ve olağan kanun yollarının tüketilmesi şartı da Kanun'da açıkça yer alır. Doğru cevap \"Bireysel başvurunun incelenebilmesi için başvurucunun güncel ve kişisel menfaatinin ihlal edilmiş olması gerekir. Bu menfaatin ayrıca belgelendirilmesi de gerekir.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1408,22 +1344,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "44094",
-  "dersId": "hukuk",
-  "konuId": "anayasa",
-  "soru": "Temel hakların sınırlandırılmasına ilişkin Anayasa'nın 13. maddesi incelendiğinde, aşağıdakilerden hangisi bu maddeyle doğrudan çelişen bir durum oluşturur?",
-  "secenekler": [
-   "Yürütme organının kanun hükmünde kararname ile temel hakları sınırlandırması; ancak bu sınırlamanın daha sonra kanunla onaylanması.",
-   "Temel hakkın özüne dokunulmaksızın sınırlandırılması.",
-   "Sınırlamanın ölçülülük ilkesine uygun olarak yapılması.",
-   "Kanun koyucunun bir temel hakkı yalnızca Anayasa'nın ilgili maddesinde belirtilen sebeplerle sınırlandırması.",
-   "Bir temel hakkın, demokratik toplum düzeninin gereklerine aykırı biçimde sınırlandırılması."
-  ],
-  "dogru": 4,
-  "aciklama": "Anayasa'nın 13. maddesi; temel hak ve özgürlüklerin ancak kanunla, Anayasa'nın ilgili maddelerinde belirtilen sebeplerle, demokratik toplum düzeninin gereklerine aykırı olmaksızın ve ölçülülük ilkesine aykırı olmaksızın sınırlandırılabileceğini ve özlerine dokunulamayacağını hükme bağlamaktadır. 'Demokratik toplum düzeninin gereklerine aykırı biçimde' yapılan bir sınırlandırma bu maddeyle doğrudan çelişmektedir. A, C, D seçenekleri 13. maddeye uygun durumları, E seçeneği ise tartışmalı olmakla birlikte kanunla onaylanmayı içerdiğinden farklı bir hukuki boyut taşımaktadır. Doğru cevap B'dir.",
-  "zorluk": "zor"
- },
- {
   "id": "44095",
   "dersId": "hukuk",
   "konuId": "anayasa",
@@ -1436,7 +1356,7 @@
    "Olağanüstü hal kararnameleri anayasal güvenceden yoksun olduğundan doğrudan Anayasa'ya aykırı olamaz."
   ],
   "dogru": 0,
-  "aciklama": "2017 Anayasa değişiklikleri ve Anayasa Mahkemesi içtihadı çerçevesinde olağanüstü hal döneminde çıkarılan Cumhurbaşkanlığı kararnameleri (eski düzende KHK'lar) bakımından Anayasa Mahkemesi, bu işlemleri esas yönünden denetlememe eğilimi göstermiş; denetimi TBMM onayıyla bağlantılı şekillendirmiştir. Mevcut Anayasa sisteminde olağanüstü hal kapsamındaki kararnamelerin Anayasa Mahkemesi tarafından esas yönünden denetlenmediği, birincil denetim mekanizmasının TBMM onayından geçtiği kabul görmektedir. TBMM tarafından onaylanmayan kararnameler yürürlükten kalkar; ancak bu kararnamelerin geçmişe etkili sonuç doğurması tartışmalıdır ve Anayasa'da açıkça düzenlenmemiştir. En doğru ifade D seçeneğidir.",
+  "aciklama": "2017 değişikliğinden sonra da Anayasa'nın 148. maddesi, olağanüstü hallerde çıkarılan Cumhurbaşkanlığı kararnamelerine karşı şekil ve esas bakımından Anayasa'ya aykırılık iddiasıyla Anayasa Mahkemesi'nde dava açılamayacağını öngörür. Bu kararnamelerin tek anayasal denetimi, 119. madde uyarınca aynı gün sunuldukları TBMM'nin onayıdır. Bu yüzden bankadaki cevap doğrudur ve itiraz yanılmaktadır. Geçmişe etkili hüküm doğurabileceğini söyleyen seçenek yanlıştır, çünkü kararname yürürlükten kalktığında geçmişe yürüyen bir sonuç doğmaz. Anayasa Mahkemesi'nin şekil ve esas denetimine tabi olduğunu söyleyen seçenek de 148. maddenin açık hükmüyle çelişir. Doğru cevap \"Olağanüstü hal kapsamında çıkarılan Cumhurbaşkanlığı kararnameleri, Anayasa Mahkemesi tarafından esas yönünden denetlenemez; yalnızca TBMM onayı aranır.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1548,7 +1468,7 @@
    "Oy kullanma yaşının milletvekili seçilme yaşından düşük tutulması."
   ],
   "dogru": 3,
-  "aciklama": "Anayasa'nın 67. maddesinin 6. fıkrası: 'Seçim kanunlarında yapılan değişiklikler, yürürlüğe girdiği tarihten itibaren bir yıl içinde yapılacak seçimlerde uygulanmaz.' hükmünü içermektedir. A seçeneğinde 'altı ay' süresi verilmekte; bu ise Anayasa'nın öngördüğü bir yıllık süreyle çelişmektedir. Seçimlerin değişiklikten altı ay sonra yapılması, değişikliğin uygulanamayacağı bir yıllık sürenin dolmadığı anlamına gelir; yani değişiklik uygulanamaz. A seçeneği Anayasa'nın 67/6. fıkrasının tam tersini ima etmektedir. Doğru cevap A'dır.",
+  "aciklama": "Anayasa'nın 67. maddesine göre seçim kanunlarında yapılan değişiklikler, yürürlüğe girdiği tarihten itibaren bir yıl içinde yapılacak seçimlerde uygulanmaz. Hüküm seçim yapılmasını yasaklamaz; seçim yapılır, yalnızca eski kurallar uygulanır. Değişiklikten sonra altı ay seçim yapılamayacağını söyleyen ifade, bu kuralı tahrif ederek hükmün mantığıyla çelişir. Bu nedenle seçenekler arasında fıkrayla çelişen tek ifade odur. Bir yıl geçmeden yapılacak seçimlerde uygulanmama seçeneği fıkranın kendisidir. Seçim çevresi değişikliğinin seçimden iki yıl önce yapılması da bir yıllık süreyi aştığı için fıkraya uygundur. Baraj ve oy kullanma yaşına ilişkin seçenekler ise bu fıkranın düzenleme alanı dışındadır. Doğru cevap \"Seçim kanunlarında yapılan değişikliklerin yürürlüğe girdiği tarihten itibaren altı ay içinde seçim yapılamaması.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -2528,22 +2448,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "44165",
-  "dersId": "hukuk",
-  "konuId": "i_dare",
-  "soru": "2709 sayılı Türkiye Cumhuriyeti Anayasası'na göre, olağanüstü hal döneminde çıkarılan Cumhurbaşkanlığı kararnameleri hakkında aşağıdakilerden hangisi doğrudur?",
-  "secenekler": [
-   "Bu kararnameler yürürlüğe girdiği tarihten itibaren üç ay içinde TBMM tarafından onaylanmazsa kendiliğinden yürürlükten kalkar.",
-   "Bu kararnameler, TBMM onayından geçtikten sonra kanun niteliği kazanır ve aleyhine Anayasa Mahkemesi'ne bireysel başvuru yapılamaz.",
-   "Bu kararnamelerle temel haklar, kişi hakları ve ödevleri ile siyasi haklar ve ödevler sınırlanabilir.",
-   "Olağanüstü hal kararnameleri yalnızca Cumhurbaşkanı tarafından değil, Bakanlar Kurulu tarafından da çıkarılabilir.",
-   "Bu kararnameler Anayasa Mahkemesi denetimine tabi değildir."
-  ],
-  "dogru": 2,
-  "aciklama": "Anayasa'nın 119. maddesine göre olağanüstü hal süresince Cumhurbaşkanı, olağanüstü halin gerekli kıldığı konularda, temel haklar, kişi hakları ve ödevleri ile siyasi haklar ve ödevleri kısıtlayan kararnameler çıkarabilir. Bu kararnameler Resmî Gazete'de yayımlanır ve aynı gün TBMM onayına sunulur. Onaylanmazlarsa yürürlükten kalkar; ancak bu süre 'üç ay' değil, TBMM'nin toplanarak görüşmesiyle ilgilidir. Seçenek C, madde metnine doğrudan uygundur ve doğru yanıttır. A yanlıştır; Anayasa Mahkemesi bu kararnameleri denetleyebilir. B yanlıştır; 'üç ay' gibi belirli bir süre öngörülmemiştir, TBMM aynı gün onaya alır. D yanlıştır; 2017 reformuyla Bakanlar Kurulu kaldırılmıştır. E yanlıştır; TBMM onayıyla kanun niteliği kazanmaz, ayrıca bireysel başvuru hakları ayrı bir meseledir.",
-  "zorluk": "orta"
- },
- {
   "id": "44166",
   "dersId": "hukuk",
   "konuId": "i_dare",
@@ -2589,22 +2493,6 @@
   ],
   "dogru": 0,
   "aciklama": "Tam yargı davasında idarenin tazminat sorumluluğu için idari bir eylem veya işlemin bulunması, gerçek ve belirli bir zararın doğması ve işlem ile zarar arasında nedensellik bağının kurulması gerekir. İdare hukukunda sorumluluk yalnızca kusura dayanmaz. Hizmet kusuru yanında kusursuz sorumluluk ilkeleri de uygulanır; bunlar risk ilkesi ile fedakârlığın denkleştirilmesi ilkesidir. Bu nedenle idarenin kusuru her durumda aranan zorunlu unsur değildir. \"Zarar\", \"Nedensellik bağı\" ve \"İdari eylem veya işlemin varlığı\" ise sorumluluğun vazgeçilmez koşullarıdır. Doğru cevap \"İdarenin kusurlu davranışı\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
-  "id": "44170",
-  "dersId": "hukuk",
-  "konuId": "i_dare",
-  "soru": "Aşağıdaki durumların hangisinde idari işlem, 'yetki unsuru' bakımından sakat olur?",
-  "secenekler": [
-   "İdarenin, kanunda belirlenen usule uymadan işlem yapması",
-   "İl idare kurulunun kanunda öngörülmeyen bir konuda düzenleyici işlem yapması",
-   "Bakanın, kamu yararı amacı taşımayan bir işlem tesis etmesi",
-   "İdari işlemin gerekçesinde hukuki dayanak gösterilmemesi",
-   "Belediye encümeninin, kanunla valiye tanınan bir yetkiyi kullanarak işlem yapması"
-  ],
-  "dogru": 4,
-  "aciklama": "İdari işlemin unsurları yetki, şekil, sebep, konu ve amaçtır. Yetki unsurundaki sakatlık, işlemin yetkisiz makam tarafından yapılması hâlinde ortaya çıkar. A seçeneğinde, valiye ait bir yetkinin belediye encümeni tarafından kullanılması açık bir yetki gaspı/yetki tecavüzü halidir; dolayısıyla işlem yetki unsuru bakımından sakattır. B seçeneği amaç unsurunu (yetki saptırması) ilgilendirmektedir. C şekil unsuruna, D şekil/gerekçe unsuruna işaret etmektedir. E seçeneği konu unsurunu ve yetki çerçevesini aştığı için yetki sakatlığını çağrıştırsa da 'il idare kurulunun kanunda öngörülmeyen konuda düzenleyici işlem yapması' daha çok konu ve yetki sınırı meselesidir; A seçeneği ise açıkça başka organa ait yetkinin kullanımıdır ve yetki unsuru ihlalinin en tipik örneğidir. Doğru yanıt A'dır.",
   "zorluk": "orta"
  },
  {
@@ -2685,22 +2573,6 @@
   ],
   "dogru": 1,
   "aciklama": "Yokluk, idari işlemin hukuka aykırılığının o kadar ağır ve açık olduğu, işlemin hukuk âleminde var sayılamadığı durumdur. Bu tür işlemlere hukuki sonuç bağlanamaz. İptal edilebilir işlemler ise iptal edilene kadar hukuki sonuç doğurur. Bu yüzden \"İptal edilebilir işlemler, idare mahkemesi kararı olmaksızın da hukuki sonuç doğurmaz.\" ifadesi yanlıştır. \"Yoklukla malul işlemler, ilgililerin itirazda bulunmaması hâlinde zaman içinde geçerli hale gelir.\" ifadesi de yanlıştır. Yok hükmündeki işlem, zaman geçmesiyle veya itiraz edilmemesiyle geçerlilik kazanmaz. Doğru cevap \"Yokluk, idari işlemin ağır ve açık hukuka aykırılık taşıdığı durumlarda söz konusu olup bu işlemlere hiç hukuki sonuç bağlanamaz.\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
-  "id": "44176",
-  "dersId": "hukuk",
-  "konuId": "i_dare",
-  "soru": "Türkiye'de mahalli idareler (belediye, il özel idaresi, köy) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
-  "secenekler": [
-   "İl özel idarelerinin tüm gelir ve giderleri Sayıştay denetimine tabi değildir.",
-   "Anayasa'ya göre mahalli idarelerin seçilmiş organlarının organlık sıfatını yitirmesine yönetkili yargı yolu kapalıdır; yalnızca idari makamlar karar verebilir.",
-   "Belediye meclisi kararları, belirli hâllerde İçişleri Bakanı tarafından askıya alınabilir ve iptali için idare mahkemesine götürülebilir.",
-   "Belediye başkanının görevden uzaklaştırılması, yalnızca seçmenlerin geri çağırma oyuyla mümkündür.",
-   "Köy tüzel kişiliği, 5393 sayılı Belediye Kanunu kapsamında değerlendirilen bir mahalli idare birimidir."
-  ],
-  "dogru": 2,
-  "aciklama": "5393 sayılı Belediye Kanunu'na göre belediye meclisi kararları, hukuka aykırı bulunduğunda mülki idare amiri (vali) tarafından iade edilebilir ya da İçişleri Bakanı tarafından bir sonraki meclis toplantısına kadar ertelenebilir ve ardından iptali için idare mahkemesine başvurulabilir. D seçeneği bu düzenlemeyle uyumludur. A yanlıştır; Türk hukukunda 'geri çağırma' kurumu yoktur; görevden uzaklaştırma yargı kararıyla gerçekleşir. B yanlıştır; mahalli idareler Sayıştay denetimine tabidir. C yanlıştır; köy, 442 sayılı Köy Kanunu'na tabi ayrı bir mahalli idare birimidir. E yanlıştır; Anayasa md. 127/4'e göre görevden uzaklaştırma kararı yargı denetimine tabidir. Doğru yanıt D'dir.",
   "zorluk": "orta"
  },
  {
@@ -4411,8 +4283,8 @@
    "Failin bu haksız fiil nedeniyle öfke veya şiddetli elemin etkisinde kalması",
    "Suçun bu ruhi hal altında işlenmesi"
   ],
-  "dogru": 1,
-  "aciklama": "TCK m. 29'da düzenlenen haksız tahrik indirimi için aranan şartlar şunlardır: (1) haksız bir fiilin varlığı, (2) bu fiil nedeniyle failin öfke veya şiddetli eleme kapılması, (3) suçun bu ruh hali altında işlenmesi. D şıkkında yer alan 'tahrik eden ile zarar gören kişinin aynı kişi olması' şartı ise Yargıtay içtihadıyla kabul görmüş bir koşuldur; dolayısıyla bu gerçek bir şart olup sorunun yanıltıcılığı buradan kaynaklanmaktadır. Ancak E şıkkındaki ifade, D şıkkıyla örtüşen ve doğru içeriğe sahip bir koşuldur. Soruda 'şart olmayan' unsur sorulmaktadır; D şıkkı Yargıtay'ın da benimsediği bir şart olduğundan yanlış seçenek değildir. Bu nedenle şartlar arasında yer almayan unsur, D şıkkındaki gibi salt kimlik özdeşliği vurgusundan ziyade E şıkkının içeriğiyle ele alınmalıdır. TCK m. 29 açısından ayrıca kanunda sayılmayan 'orantılılık' aranmaması dikkat gerektiren bir noktadır.",
+  "dogru": 2,
+  "aciklama": "TCK m.29'a göre haksız tahrik indirimi için haksız bir fiilin bulunması, failin bu fiil nedeniyle hiddet veya şiddetli elemin etkisinde kalması ve suçun bu ruhi hal altında işlenmesi gerekir. Öğreti ve Yargıtay ayrıca tahrik eden ile suçtan zarar görenin aynı kişi olmasını, yani haksız fiilin mağdurdan kaynaklanmasını arar. Buna karşılık haksız fiilin bizzat faile yönelmesi gerekmez. Failin eşine, çocuğuna veya yakınına karşı işlenen haksız fiil de failde hiddet ya da şiddetli elem doğurarak tahrik oluşturabilir. Bu nedenle \"Tahrik eden kişi ile suçtan zarar gören kişinin aynı kişi olması\" bir şarttır ve iki seçenek aynı anlama gelmez. \"Failin bu haksız fiil nedeniyle öfke veya şiddetli elemin etkisinde kalması\" ise kanunun açıkça aradığı unsurdur. Doğru cevap \"Haksız fiilin mağdur tarafından faile yönelik gerçekleştirilmiş olması\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -4731,8 +4603,8 @@
    "Fiillerin bir suç işleme kararının icrası kapsamında gerçekleştirilmesi",
    "Eylemlerin aynı suç tipini oluşturması"
   ],
-  "dogru": 1,
-  "aciklama": "TCK m. 43/1 uyarınca zincirleme suç için aranan koşullar: (1) birden fazla fiil, (2) aynı suç tipinin ihlali, (3) bir suç işleme kararının icrası kapsamında olma ve (4) mağdurun aynı kişi olması (malvarlığına karşı suçlar hariç) şeklindedir. Ancak bu son koşul her suç tipi için aranmaz; malvarlığı suçlarında farklı mağdurlar olsa bile zincirleme suç uygulanabilir. Dolayısıyla 'her eylemde mağdurun aynı kişi olması' mutlak bir koşul değildir; C seçeneği yanlış ifade içermektedir.",
+  "dogru": 0,
+  "aciklama": "Zincirleme suç TCK m.43'te genel hüküm olarak düzenlenmiştir. Bu nedenle uygulanması için ilgili suç tipinde ayrıca bir düzenleme bulunması gerekmez; m.43 nitelikleri elverişli tüm suçlara uygulanır. Kanunun aradığı koşullar şunlardır: birden fazla fiil işlenmesi, fiillerin bir suç işleme kararının icrası kapsamında gerçekleştirilmesi, aynı suçun birden fazla işlenmesi ve m.43/1 uyarınca bu fiillerin aynı kişiye karşı işlenmesi. Dolayısıyla \"Mağdurun her eylemde aynı kişi olması\" bir koşuldur. Aynı neviden fikri içtima (m.43/2) bu kuralın ayrık bir genişlemesidir ve bu koşulu ortadan kaldırmaz. \"Eylemlerin aynı suç tipini oluşturması\" da maddede açıkça aranır. Doğru cevap \"Kanunda bu suç için zincirleme suç hükümlerinin uygulanabileceğine dair düzenleme bulunması\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -4832,22 +4704,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "44315",
-  "dersId": "hukuk",
-  "konuId": "ceza",
-  "soru": "TCK m.53'te düzenlenen belli hakları kullanmaktan yoksunluk müessesesi bakımından Anayasa Mahkemesi'nin iptal kararları ve mevcut uygulamayı birlikte değerlendirdiğimizde; kasten işlenen bir suç nedeniyle 1 yıl hapis cezasına hükmolunan sanık için aşağıdaki hükümlerden hangisi YANLIŞTIR?",
-  "secenekler": [
-   "Taksirli suçlarda bu madde hükümleri uygulanmaz.",
-   "İşlediği suç dolayısıyla mesleki faaliyetinden yararlanarak suç işleyen kişiye ruhsat iptali tedbiri uygulanabilir.",
-   "Cezanın infazıyla birlikte hakların kullanılması kural olarak kendiliğinden başlar.",
-   "Güvenlik tedbiri niteliğindeki bu yaptırım mahkûmiyet kararının zorunlu bir sonucudur.",
-   "Kendi altsoyu üzerindeki velayet hakkının kullanımının kısıtlanması ancak mahkeme kararıyla mümkündür."
-  ],
-  "dogru": 4,
-  "aciklama": "Anayasa Mahkemesi, TCK m.53/1-(c) bendindeki 'kendi altsoyu üzerindeki velayet, vesayet ve kayyımlık yetkileri' ibaresini iptal etmiştir. AYM'ye göre bu hak ancak kişinin bu yetkiyi kötüye kullandığı hallerde ve mahkeme kararıyla kaldırılabilir; otomatik olarak infaz süresince kısıtlanamaz. Ancak B şıkkında 'ancak mahkeme kararıyla mümkündür' ifadesi hatalıdır; çünkü AYM kararı sonrası bu hakkın kendiliğinden kısıtlanamayacağı kabul edilmekle birlikte mevzuatta bu husus açıkça düzenlenmemiş, uygulamada velayet kısıtlaması için aile mahkemesi kararı aranmaktadır. Bu bağlamda B şıkkı 'YANLIŞ' olan ifadeyi içermektedir; zira AYM kararı otomatik kısıtlamayı değil mahkeme takdirine bırakılmayı ortadan kaldırmıştır.",
-  "zorluk": "zor"
- },
- {
   "id": "44316",
   "dersId": "hukuk",
   "konuId": "ceza",
@@ -4875,8 +4731,8 @@
    "Tekerrür hâlinde koşullu salıverilme oranı artırılarak uygulanır.",
    "Ağırlaştırılmış müebbet hapis cezasına mahkûm olanlar otuz yılını, müebbet hapis cezasına mahkûm olanlar yirmi dört yılını infaz kurumunda geçirdikten sonra koşullu salıverilmeden yararlanabilir."
   ],
-  "dogru": 2,
-  "aciklama": "5275 sayılı Kanun m.107/10'a göre denetim süresi içinde kasıtlı bir suç işlenmesi halinde koşullu salıverilme geri alınır. Ancak 'kalan sürenin tamamının infaz edileceği' ifadesi mutlak değildir; koşullu salıverilmenin geri alınmasıyla yeni suçun infazı birleştirilerek denetim süresindeki ihlal süresiyle sınırlı kalan süre hesaplanır. Bunun yanı sıra D şıkkında yer alan 'mutlaka geri alınır' ifadesi de hatalıdır; zira bazı hallerde hâkim takdir yetkisini kullanarak koşullu salıverilmenin geri alınmamasına karar verebilir. Diğer şıklar genel olarak doğrudur: A ve B CGTİHK m.107'deki oranları yansıtmaktadır, C doğrudur çünkü karar infaz hâkimince verilir, E doğrudur çünkü tekerrürde koşullu salıverilme oranı TCK m.58 uyarınca artırılır.",
+  "dogru": 1,
+  "aciklama": "5275 sayılı Kanun'un 107. maddesi 7242 sayılı Kanun'la değiştirilmiştir. Bu değişiklikten sonra süreli hapis cezalarında koşullu salıverilme için genel kural, cezanın yarısının infaz kurumunda iyi halli olarak geçirilmesidir. Üçte iki oranı yalnızca kanunda sayılan belirli suçlar ve tekerrür gibi istisnai hâller için geçerlidir. Bu yüzden genel kuralı üçte iki olarak gösteren ifade yanlıştır. \"Denetim süresi içinde kasıtlı bir suç işleyen hükümlünün koşullu salıverilmesi mutlaka geri alınır ve kalan sürenin tamamı cezaevinde infaz edilir.\" ifadesi ise m.107/12'deki geri alma ve kalan cezanın aynen infazı düzenlemesine uygundur. Ağırlaştırılmış müebbet için otuz, müebbet için yirmi dört yıllık süreler de kanundaki sürelerle örtüşür. Doğru cevap \"Süreli hapis cezalarında kural olarak cezanın üçte ikisi infaz edildiğinde koşullu salıverilme hakkı doğar.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4908,7 +4764,7 @@
    "Suçun oluşması için kişilere haksız bir menfaat sağlanması veya kamunun ya da kişilerin zararına neden olunması şarttır; bu zarar ya da menfaatin somut ve ciddi olması aranır."
   ],
   "dogru": 4,
-  "aciklama": "TCK m.257'nin 2016 yılında yapılan değişiklikle ağırlaştırıldığı ve 'kişilere haksız menfaat sağlanması ya da kamu zararına ya da kişilerin mağduriyetine neden olunması' şartlarının korunduğu görülmektedir. Yargıtay ve Anayasa Mahkemesi kararları uyarınca bu zarar veya menfaatin soyut kalmayıp somut, gerçek ve ciddi nitelikte olması gerekmektedir. B şıkkı bu içtihadı doğru yansıtmaktadır. A yanlıştır: Suç kasten işlenir, taksirle işlenemez. C yanlıştır: TCK m.40 uyarınca özgü suçlarda da azmettiren ve yardım eden genel hükümlere göre sorumlu tutulabilir. D yanlıştır: TCK m.257, subsidiyer (tali) bir suç tipidir; özel hüküm varsa önce o uygulanır. E yanlıştır: İhmali davranış için otomatik ceza indirimi TCK m.257'de öngörülmemiştir.",
+  "aciklama": "TCK m.257'ye göre suçun oluşması için kamu görevlisinin görevinin gereklerine aykırı davranışıyla kişilerin mağduriyetine, kamunun zararına ya da kişilere haksız kazanç sağlanmasına neden olması gerekir. Yargıtay da bu zarar veya menfaatin somut ve ciddi olmasını istikrarlı biçimde aramaktadır. Bu nedenle verilen ifade, kanun metni ve yargı uygulamasıyla birlikte değerlendirildiğinde doğrudur. Diğer seçenekler açıkça yanlıştır. Suçun taksirli hâli yoktur. Görevi kötüye kullanma, özel suç hükümleri uygulanamadığında devreye giren tamamlayıcı (genel) bir suçtur. Özgü suç olsa da özel kişi azmettiren veya yardım eden olarak sorumlu tutulabilir. İhmali hâl ise ayrı bir fıkrada düzenlenmiştir ve \"yarı oranında indirim\" öngörülmemiştir. Doğru cevap \"Suçun oluşması için kişilere haksız bir menfaat sağlanması veya kamunun ya da kişilerin zararına neden olunması şarttır; bu zarar ya da menfaatin somut ve ciddi olması aranır.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4924,7 +4780,7 @@
    "A, zehiri hazırladığı için hazırlık aşamasında kaldığından cezasız kalır; C ise kasten öldürmeden sorumludur."
   ],
   "dogru": 0,
-  "aciklama": "A, B'yi öldürmek amacıyla icra hareketlerine başlamış (zehirli içecek hazırlamış ve bunu verme aşamasına kadar gelmiştir) ancak ölüm, A'nın eyleminden değil C'nin bağımsız müdahalesinden kaynaklanmıştır. A'nın eylemi ile ölüm sonucu arasında nedensellik bağı kesilmiştir; dolayısıyla A tamamlanmış kasten öldürmeden değil, kasten öldürmeye teşebbüsten sorumludur. A ve C arasında önceden anlaşma, birlikte karar alma veya işlevsel katkı bulunmadığından iştirak ilişkisi de kurulamaz. Her biri bağımsız olarak hareket etmiştir. C ise kasten öldürmeden tam faillik sıfatıyla sorumludur. C şıkkı bu değerlendirmeyi en doğru biçimde yansıtmaktadır.",
+  "aciklama": "Soru kökü, tıp uzmanlarının B'nin zehirden de ölebileceğini tespit ettiğini belirtiyor. Bu, zehirli içeceğin B'ye ulaştığını ve icra hareketlerine başlandığını gösterir. Ancak ölüm, A'nın eyleminden değil, C'nin bıçak darbesinden meydana gelmiştir. Netice A'nın hareketine bağlanamadığından A, elverişli hareketlerle kasten öldürmeye teşebbüsten sorumludur. A ile C arasında ortak karar veya bilinçli işbirliği bulunmadığı için iştirak ilişkisi de yoktur. \"A, kasten öldürmeden tamamlanmış suç faili olarak sorumludur; C ile aralarında iştirak vardır.\" seçeneği yanlıştır, çünkü ölüm ile A'nın eylemi arasında nedensellik bağı ve iştirak iradesi yoktur. \"A, zehiri hazırladığı için hazırlık aşamasında kaldığından cezasız kalır; C ise kasten öldürmeden sorumludur.\" seçeneği de yanlıştır, çünkü zehrin etkisinin tespit edilmiş olması icra aşamasına geçildiğini gösterir. Doğru cevap \"A, kasten öldürmeye teşebbüs suçundan sorumludur; C ile aralarında herhangi bir iştirak ilişkisi bulunmamaktadır.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -5296,22 +5152,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "44350",
-  "dersId": "hukuk",
-  "konuId": "ceza",
-  "soru": "Aşağıdaki seçeneklerin hangisinde, TCK'nın etkin pişmanlık hükümleri (m. 168) değil, gönüllü vazgeçme hükümleri (m. 36) uygulanmalıdır?",
-  "secenekler": [
-   "Kundaklamaya başladıktan sonra yangını kendiliğinden söndüren fail",
-   "Mağdurdan zorla para alındıktan sonra pişman olan ve parayı iade eden fail",
-   "Suça teşebbüs ettikten sonra polis baskınından kaçmak için sahneyi terk eden fail",
-   "Gasp eylemini tamamladıktan sonra soruşturma başlamadan malı iade eden fail",
-   "Mağdurun konutuna girip dolabı karıştırdıktan sonra hiçbir şey almadan ayrılan fail"
-  ],
-  "dogru": 4,
-  "aciklama": "Gönüllü vazgeçme (TCK m. 36), suç henüz tamamlanmadan failin icra hareketlerini kendi iradesiyle bırakması hâlinde uygulanır. A seçeneğinde fail, hırsızlık eyleminin icra hareketlerine başlamış (konuta girip dolabı karıştırmış) ancak suç tamamlanmadan, dış bir baskı olmaksızın eşya almaktan vazgeçmiştir. Bu, klasik gönüllü vazgeçme örneğidir. Diğer seçeneklerde ise suç tamamlanmış, ardından pişmanlık veya iade söz konusu olmuştur; bu durumlarda etkin pişmanlık hükümleri devreye girer. C seçeneğinde ise dış baskı (polis) nedeniyle terk söz konusu olduğundan gönüllü vazgeçme şartları oluşmamaktadır.",
-  "zorluk": "zor"
- },
- {
   "id": "44351",
   "dersId": "hukuk",
   "konuId": "ceza",
@@ -5325,22 +5165,6 @@
   ],
   "dogru": 0,
   "aciklama": "TCK m. 53'teki hak yoksunluğu, Anayasa Mahkemesi'nin iptal kararları ve sonraki değişikliklerle yeniden şekillenmiştir. Kasten işlenen suçtan verilen mahkûmiyetin sonucu olarak belirtilen haklardan yoksunluk kanunun kendisinden doğar. Hâkimin bunun için ayrıca karar vermesi gerekmez, bu yüzden hâkime \"karar vermek zorundadır\" diyen ifade güncel düzenlemeye uymaz. Yoksunluk kasıtlı suçlara bağlandığı için \"Taksirli suçlardan mahkûm olanlar hakkında bu madde uygulanamaz\" ifadesi doğrudur. \"Kasıtlı suçlardan mahkûm olan kamu görevlisinin bu hakkı, cezanın infazı süresince askıya alınır\" ifadesi de infaz süresiyle sınırlı etkiyi doğru yansıtır. Doğru cevap \"Mahkûmiyet hükmüyle birlikte hâkim, belirtilen haklardan yoksunluğa karar vermek zorundadır\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "44352",
-  "dersId": "hukuk",
-  "konuId": "ceza",
-  "soru": "Aşağıdaki suç tiplerinden hangisi, 'özgü suç' (delicta propria) niteliği taşımadığı hâlde hatalı biçimde bu kategoride gösterilmektedir?",
-  "secenekler": [
-   "TCK m. 235'te düzenlenen ihaleye fesat karıştırma suçu",
-   "TCK m. 250'de düzenlenen rüşvet suçu",
-   "TCK m. 247'de düzenlenen zimmet suçu",
-   "TCK m. 204'te düzenlenen resmî belgede sahtecilik suçu",
-   "TCK m. 257'de düzenlenen görevi kötüye kullanma suçu"
-  ],
-  "dogru": 3,
-  "aciklama": "Özgü suçlar yalnızca belirli sıfata sahip kişiler tarafından işlenebilen suçlardır. TCK m. 257 (görevi kötüye kullanma) ve m. 247 (zimmet) yalnızca kamu görevlileri tarafından işlenebileceğinden özgü suç niteliğindedir. m. 250 rüşvet suçu da kamu görevlisiyle sınırlıdır. Buna karşılık TCK m. 204'teki resmî belgede sahtecilik suçu, fail bakımından herhangi bir özel sıfat aramadığı için (herkes işleyebilir) özgü suç değildir. Gerçi özel failin kamu görevlisi olması hâlinde ceza artırılmaktadır; ancak bu durum suçu özgü suç hâline getirmez, yalnızca nitelikli hâl oluşturur. Dolayısıyla C seçeneği yanlış sınıflandırma içermektedir.",
   "zorluk": "zor"
  },
  {
@@ -6144,22 +5968,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "44406",
-  "dersId": "hukuk",
-  "konuId": "medeni",
-  "soru": "Evlilik dışında doğan çocuğun soybağının babaya karşı kurulması bakımından aşağıdakilerden hangisi doğrudur?",
-  "secenekler": [
-   "Babanın çocuğu nüfusa tescil ettirmesi, tanıma işlemi yerine geçer.",
-   "Tanıma, ancak çocuğun rüşde ermesinden sonra hüküm doğurur.",
-   "Tanıma, baba tarafından tek taraflı yapılır ve annenin ya da çocuğun rızası aranmaz.",
-   "Tanıma, noterde düzenleme şeklinde yapılabileceği gibi nüfus müdürlüğüne yazılı beyanla da yapılabilir.",
-   "Babalık davası, çocuğun doğumundan itibaren bir yıl içinde açılmazsa hak düşer."
-  ],
-  "dogru": 3,
-  "aciklama": "TMK m. 295 uyarınca tanıma; nüfus müdürlüğüne yazılı beyan, mahkemeye yazılı beyan, vasiyetname veya resmi senetle yapılabilir. Noterde düzenleme şeklinde resmi senet de geçerli bir tanıma yöntemidir. A şıkkı yanlıştır çünkü tescil tanımanın sonucu olabilir, kendisi değildir. C yanlıştır; anne veya çocuğun itiraz hakkı vardır (m. 296). D yanlıştır; babalık davasında süre koşulları farklıdır. E kesinlikle yanlıştır.",
-  "zorluk": "orta"
- },
- {
   "id": "44407",
   "dersId": "hukuk",
   "konuId": "medeni",
@@ -6173,23 +5981,6 @@
   ],
   "dogru": 1,
   "aciklama": "Medeni Kanun'a göre eşler, evlenmeden önce veya sonra noterde düzenlenecek bir mal rejimi sözleşmesiyle yasal rejim yerine mal ayrılığını seçebilir. Sözleşme, noterde düzenleme şekline uyularak yapılır. Yasal rejim ise yalnızca evlilik süresince edinilen malları kapsar. \"Edinilmiş mallara katılma rejiminde, eşlerden birinin kişisel mallarından elde ettiği gelirler de kişisel mal sayılır.\" seçeneği yanlıştır. Kişisel malların gelirleri kanunen edinilmiş mal sayılır. \"Yasal mal rejimi, evlilik tarihinden önceki mal varlıklarını da kapsar.\" seçeneği de yanlıştır. Evlilikten önce sahip olunan mallar kişisel maldır. Doğru cevap \"Eşler, evlenmeden önce noterde yapacakları sözleşmeyle mal ayrılığı rejimini seçebilirler.\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
-  "id": "44408",
-  "dersId": "hukuk",
-  "konuId": "medeni",
-  "soru": "Türk Medeni Kanunu'nda düzenlenen ölüme bağlı tasarruflar bakımından aşağıdakilerden hangisi yanlıştır?",
-  "secenekler": [
-   "Resmi vasiyetname düzenlenirken iki tanığın fiziksel olarak aynı anda bulunması şarttır.",
-   "Miras sözleşmesi her iki tarafın iradesiyle kurulur ve karşılıklı bağlayıcılık taşır.",
-   "Miras sözleşmesi, vasiyetname şeklinde tek taraflı olarak geri alınabilir.",
-   "El yazılı vasiyetname, başından sonuna kadar mirasbırakanın el yazısıyla yazılmalı ve imzalanmalıdır.",
-   "Vasiyetname ehliyeti için kısıtlı olmamak ve 15 yaşını doldurmuş olmak yeterlidir.",
-   "Sözlü vasiyetname yoluna ancak olağanüstü hal koşullarında başvurulabilir."
-  ],
-  "dogru": 2,
-  "aciklama": "TMK m. 545 uyarınca miras sözleşmesi, resmi şekilde yapılmış karşılıklı bir sözleşmedir. Tek taraflı irade beyanıyla vasiyetname gibi geri alınamaz; ancak tarafların karşılıklı anlaşmasıyla sona erdirilebilir ya da sonraki bir resmi sözleşmeyle ortadan kaldırılabilir. Bu durum vasiyetname serbestisinden temel farkıdır. E seçeneğindeki iki ifade farklı doğruluk değeri taşımakla birlikte, D şıkkındaki geri alınabilirlik iddiası açıkça yanlış olan yanıttır.",
   "zorluk": "orta"
  },
  {
@@ -6257,22 +6048,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "44413",
-  "dersId": "hukuk",
-  "konuId": "medeni",
-  "soru": "TMK'ya göre evliliğin butlanı (kesin hükümsüzlüğü) ile iptal edilebilirliği arasındaki fark bakımından aşağıdakilerden hangisi doğrudur?",
-  "secenekler": [
-   "İptal edilebilirlik hallerinde savcı re'sen dava açabilir.",
-   "Mevcut evlilik kesin butlan sebebidir; bu dava hak düşürücü süreye tabi değildir.",
-   "Kesin butlan hallerinde dava açma hakkı yalnızca eşlere tanınmıştır.",
-   "İptal kararı, ancak gelecekteki sonuçlar bakımından hüküm doğurur.",
-   "Kesin butlan hallerinde evlilik, mahkeme kararından önce de geçersiz sayılır."
-  ],
-  "dogru": 1,
-  "aciklama": "TMK m. 145/4 uyarınca evlenme anında eşlerden birinin evli olması (mevcut evlilik), mutlak butlan sebebidir. Mutlak butlan davası herhangi bir kişi tarafından veya savcı tarafından açılabilir ve hak düşürücü süreye tabi değildir. A yanlıştır; kesin butlana herkes veya savcı dava açabilir. B yanlıştır; savcı iptal edilebilirlik değil, mutlak butlan halinde re'sen dava açar. C kısmen doğru görünse de Türk hukukunda butlanın sonuçlanabilmesi yine mahkeme kararı gerektirir. E yanlıştır; iptal kararı geriye dönük sonuç doğurabilir.",
-  "zorluk": "orta"
- },
- {
   "id": "44414",
   "dersId": "hukuk",
   "konuId": "medeni",
@@ -6302,22 +6077,6 @@
   ],
   "dogru": 0,
   "aciklama": "Medeni Kanun'a göre terekenin borca batık olduğu mirasbırakanın ölümü sırasında açıkça belliyse, mirası reddetmiş sayılırlar. Bu durumda mirasçının ayrıca ret beyanında bulunmasına gerek kalmaz. Bu kural, mirasçıları borçlardan korumak için konmuştur. \"Mirasın reddi, mirasın açılmasından itibaren altı ay içinde sulh hukuk mahkemesine bildirilmelidir.\" seçeneği yanlıştır. Ret süresi üç aydır. \"Mirasın reddi, yalnızca yazılı beyanla gerçekleştirilebilir.\" seçeneği de yanlıştır. Ret, sözlü veya yazılı beyanla yapılabilir. Doğru cevap \"Terekenin borca batık olduğu açıkça belli ise mirasçılar mirası reddetmiş sayılır.\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
-  "id": "44416",
-  "dersId": "hukuk",
-  "konuId": "medeni",
-  "soru": "Aile konutu şerhi bakımından aşağıdakilerden hangisi yanlıştır?",
-  "secenekler": [
-   "Aile konutu üzerindeki şerh, yalnızca ev sahibi olan eşin talebiyle tapu siciline işlenebilir.",
-   "Aile konutu şerhi, taşınmazı kiralayan eş için de talep edilebilir.",
-   "Aile konutu şerhi, eşin ölümü veya boşanma kararının kesinleşmesiyle sona erer.",
-   "Eşlerden biri diğerinin açık rızası olmaksızın aile konutunu devredemez.",
-   "Rızayı vermeyen eş, hâkimden bu rızanın yerine geçecek bir karar alabilir."
-  ],
-  "dogru": 0,
-  "aciklama": "TMK m. 194/3 uyarınca aile konutu şerhini, taşınmaz mülkiyeti kendi üzerinde bulunmayan eş de tapu müdürlüğüne başvurarak işletebilir. Hatta kiracı eş bile aile konutunu kiralayan sıfatıyla şerh koydurabilir (C şıkkı doğrudur). A yanlıştır çünkü şerh talebi her iki eşe de tanınmıştır; yalnızca malik olan eşe özgü değildir. B (m. 194/1), D (m. 194/2) ve E (evliliğin sona ermesiyle birlikte) doğru ifadelerdir.",
   "zorluk": "orta"
  },
  {
@@ -6414,22 +6173,6 @@
   ],
   "dogru": 3,
   "aciklama": "TMK m. 150'ye göre hata veya hile hâlinde dava hakkı, hata veya hilenin öğrenildiği; korkutmada ise korkutmanın etkisinin ortadan kalktığı tarihten başlayarak altı ay ve her hâlde evlenmenin üzerinden beş yıl geçmekle düşer. Korkutmada süre üç ay değil, altı aydır. Doğru cevap B'dir.",
-  "zorluk": "orta"
- },
- {
-  "id": "44425",
-  "dersId": "hukuk",
-  "konuId": "medeni",
-  "soru": "Türk Medeni Kanunu'na göre evlat edinme hakkında aşağıdakilerden hangisi yanlıştır?",
-  "secenekler": [
-   "Ayırt etme gücüne sahip küçüğün evlat edinilmesi, onun ve yasal temsilcisinin rızasına bağlıdır.",
-   "Evlat edinilen küçük, evlat edinenin mirasçısı olurken evlat edinenin soyadını almaz.",
-   "Evlat edinme kararı verilebilmesi için evlat edinilecek küçüğün en az iki yıl süreyle evlat edinenin yanında bakılmış ve yetiştirilmiş olması gerekir.",
-   "Küçüklerin evlat edinilmesinde, evlat edinenin evlat edinilenden en az on sekiz yaş büyük olması gerekir.",
-   "Eşlerin birlikte evlat edinmesi kural olmakla birlikte, belirli koşullarda eşlerden biri tek başına evlat edinebilir."
-  ],
-  "dogru": 1,
-  "aciklama": "TMK m. 321 uyarınca evlat edinilen küçük, evlat edinenin soyadını alır. Eğer evlat edinen evli bir kadınsa kocasının soyadını alır. Dolayısıyla D şıkkındaki 'soyadını almaz' ifadesi yanlıştır. Doğru cevap D'dir.",
   "zorluk": "orta"
  },
  {
@@ -6638,22 +6381,6 @@
   ],
   "dogru": 4,
   "aciklama": "Dürüstlük kuralı Medeni Kanun m.2'de düzenlenmiştir. Bu kural hem hakların kullanılmasında hem de borçların ifasında uygulanan genel ve objektif bir ölçüttür. Yalnızca sözleşmeden doğan borç ilişkileriyle sınırlı değildir; eşya, aile ve miras hukuku dâhil tüm hukuk ilişkilerini kapsar. Hâkim, dürüstlük kuralına aykırılığı kendiliğinden dikkate alabilir. Hakkın kötüye kullanılması yasağı bu kuralın bir görünümüdür. Bu nedenle \"Hâkim, dürüstlük kuralına aykırı hak kullanımına kendiliğinden müdahale edebilir.\" ifadesi doğrudur. Kötüye kullanılan hakkı kanun korumaz. Bu yüzden \"Hakların dürüstlük kuralına aykırı kullanımı hak olarak korunamaz.\" ifadesi de doğrudur. Doğru cevap \"Dürüstlük kuralı yalnızca sözleşmeden doğan borç ilişkilerinde uygulanır.\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
-  "id": "44439",
-  "dersId": "hukuk",
-  "konuId": "medeni",
-  "soru": "Bir alacağın temlikinde (devrinde) aşağıdaki ifadelerden hangisi doğrudur?",
-  "secenekler": [
-   "Alacağın devri noter onayına tabidir.",
-   "Alacağın devri için borçlunun rızası şarttır.",
-   "Borçlu, alacağı devreden kişiye karşı sahip olduğu itirazları devralana karşı öne süremez.",
-   "Alacağın devri yazılı şekle bağlıdır.",
-   "Devir, borçluya bildirilmedikçe borçlu devredene karşı ifa ile borcundan kurtulabilir."
-  ],
-  "dogru": 4,
-  "aciklama": "TBK m. 186 vd. hükümlerine göre alacağın devri için borçlunun rızası gerekmez; şekil olarak yazılılık aranır (TBK m. 184). Devir borçluya bildirilmeden önce borçlu devredene (eski alacaklıya) karşı ifa yaparak borcundan kurtulabilir (TBK m. 188). Ayrıca borçlu, devredene karşı sahip olduğu itirazları devralana karşı da ileri sürebilir. D seçeneği bu nedenle yanlıştır.",
   "zorluk": "orta"
  },
  {
@@ -6897,22 +6624,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "44456",
-  "dersId": "hukuk",
-  "konuId": "medeni",
-  "soru": "Rehin hukuku bakımından aşağıdaki ifadelerden hangisi doğrudur?",
-  "secenekler": [
-   "Kıymetli evrak niteliği taşıyan ipotek senedi (İsviçre sistemi), Türk hukukunda da benimsenmiş olup bu senet devredilebilir.",
-   "Üst sıradaki ipoteğin terkin edilmesi halinde alt sıradaki ipotek alacaklıları, boşalan sıraya otomatik olarak yükselir.",
-   "İpoteğin alacaktan bağımsız olarak devredilmesi mümkündür; zira ipotek bir ayni hak olarak alacaktan bağımsız bir varlığa sahiptir.",
-   "İpotek sözleşmesinin geçerliliği resmi şekle tabi olup bu şekle uymadan yapılan ipotek sözleşmesi kesin hükümsüzlük yaptırımına tabidir.",
-   "Taşınmaz rehninde rehinli taşınmazın değer artışları kural olarak rehnin kapsamı dışında kalmakta; yalnızca başlangıçtaki değer üzerinde rehin kurulmuş sayılmaktadır."
-  ],
-  "dogru": 3,
-  "aciklama": "TMK m. 856 ve devamı hükümleri uyarınca ipotek sözleşmesi, resmi senet şeklinde yapılmalı ve tapu siciline tescil edilmelidir. Resmi şekle (tapu müdürlüğünde yapılan resmi senet) uyulmaması halinde sözleşme kesin hükümsüzdür. Bu nedenle C şıkkı doğrudur. A şıkkı yanlıştır; ipotek asli alacağın fer'isi olduğundan alacaktan bağımsız olarak devredilemez. B şıkkı yanlıştır; Türk hukukunda sıra atlaması değil sıra doldurma sistemi benimsenmiştir, boşalan sıra alacaklılar için dolmaz. D şıkkı yanlıştır; TMK m. 862 gereği rehin, taşınmazın bütününü ve bütünleyici parçaları ile eklentileri kapsar. E şıkkı yanlıştır; İsviçre hukukundaki ipotekli borç senedi sistemi Türk TMK'sında bu biçimiyle benimsenmemiştir.",
-  "zorluk": "zor"
- },
- {
   "id": "44457",
   "dersId": "hukuk",
   "konuId": "medeni",
@@ -6925,7 +6636,7 @@
    "Taşınmaz rehninin, rehin alacaklısının alacağını tahsil etmesiyle sona ermesi"
   ],
   "dogru": 0,
-  "aciklama": "TMK m. 783 vd. ve genel hükümler çerçevesinde, belirli bir süre için kurulan irtifak hakkı sürenin dolmasıyla birlikte kendiliğinden (ipso jure) sona erer; terkine gerek yoktur. Terkin, sicili temizlemek amacıyla yapılır ancak hukuki olarak sona eriş sürenin dolmasıyla gerçekleşmiştir. A şıkkında terk beyanının geçerli olabilmesi için tescil gerekir. C şıkkında birleşme teorik olarak kendiliğinden sona erdirse de tapu siciline yansıması için işlem yapılması gerekir; öte yandan bu husus tartışmalıdır. D şıkkında terk için tescil gerekir. E şıkkında alacağın sona ermesi ipoteği sona erdirse de terkin için yine de tescil şarttır.",
+  "aciklama": "Belirli bir süre için kurulan irtifak hakkı, sürenin dolmasıyla sicil dışında kendiliğinden sona erer. Bu durumda terkin yalnızca açıklayıcı niteliktedir ve sicili gerçek durumla uyumlu hale getirir. Tek taraflı terk ise ancak terkinle hüküm doğurur, çünkü taşınmaz üzerindeki ayni hakkın sicilden çıkarılması tescile bağlıdır. Rehin seçeneği de yanıltıcıdır: alacak tahsil edilse bile ipotek tescilli kaldıkça kendiliğinden ortadan kalkmaz, malik terkin isteyebilir ve hak terkinle sona erer. Konsolidasyonda da aynı kişide birleşme hakkı otomatik olarak yok etmez, malik dilerse terkin ettirir. Bu nedenle tescilsiz sona erme yalnızca süre seçeneğinde gerçekleşir. Doğru cevap \"İrtifak hakkının belirli bir süre için kurulmuş olması ve bu sürenin dolması\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -7037,7 +6748,7 @@
    "Adi ortaklık paylı mülkiyet esasına göre işlediğinden B ve C doğrudan tapu siciline itiraz ederek paylarının tescilini talep edebilirler."
   ],
   "dogru": 0,
-  "aciklama": "Adi ortaklık (TBK m.620 vd.) tüzel kişiliğe sahip değildir ve tapu kütüğüne adi ortaklık adına tescil yapılamaz. Ortaklığa özgülenen taşınmaz, ortaklardan biri ya da hepsi adına tescil edilir. A adına tescil durumunda A, taşınmazı iç ilişkide ortaklık hesabına tutmaktadır; B ve C'nin hakları ayni nitelikte değildir. Ortaklık sona erdiğinde B ve C, TBK'nın tasfiyeye ilişkin hükümleri çerçevesinde tasfiye alacağı talep edebilirler. Ayni talep (istihkak davası) ya da doğrudan tescil talepleri mümkün değildir.",
+  "aciklama": "Adi ortaklığın tüzel kişiliği yoktur, bu yüzden taşınmaz ortaklık adına tescil edilemez. Taşınmazın yalnızca A adına tescil edilmesi, A'nın mülkiyeti dış ilişkide tam olarak, iç ilişkide ise ortaklar hesabına inançlı biçimde tuttuğunu gösterir. Ortaklık sona erdiğinde B ve C'nin hakları ayni değil, tasfiye kapsamında A'ya yöneltilecek kişisel alacak haklarıdır. \"B ve C, A'ya karşı istihkak davası açarak taşınmazdaki paylarını doğrudan geri alabilirler.\" seçeneği yanlıştır, çünkü istihkak davası malike tanınır ve B ile C tapuda malik değildir. İyiniyetli üçüncü kişilere karşı tescilsiz ayni hak ileri sürülebileceğini söyleyen seçenek de tapuya güven ilkesine aykırıdır. Doğru cevap \"Adi ortaklıkta edinilen taşınmazların ortaklık adına tescili mümkün olmadığından A mülkiyeti iç ilişkide ortaklar adına fiduciary esasla tutmaktadır; B ve C'nin talebi tasfiye çerçevesinde alacak hakkı niteliğindedir.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -7169,22 +6880,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "44474",
-  "dersId": "hukuk",
-  "konuId": "medeni",
-  "soru": "Terekenin borca batık olması halinde mirasçılar mirası reddedebilirler. Aşağıdaki durumların hangisinde yasal süre içinde yapılmayan ret beyanı, Türk Medeni Kanunu hükümleri çerçevesinde yine de geçerli sayılabilir?",
-  "secenekler": [
-   "Mirasçının üç aylık süre içinde yurt dışında bulunması ve iletişim kuramaması.",
-   "Terekenin borca batık olmadığını zannetmesine yol açan mirasbırakanın hileli davranışı.",
-   "Mirasçıların birden fazla olması ve içlerinden birinin süresinde ret beyanında bulunmaması.",
-   "Mirasçının ağır hastalık nedeniyle süreyi kullanamaması.",
-   "Mirasçının, mirasbırakanın ölümünden haberdar olamaması nedeniyle sürenin kaçırılmış olması."
-  ],
-  "dogru": 4,
-  "aciklama": "TMK m.606/1 uyarınca miras, hak sahiplerine geçtiğinin öğrenildiği tarihten itibaren üç ay içinde reddedilebilir. Ölümden haberdar olunamaması halinde süre ölümden değil, öğrenme tarihinden başlar; dolayısıyla bu durumda süre zaten kaçırılmış sayılmaz, başlamıştır bile. Diğer seçeneklerde TMK m.607 kapsamında süre uzatımı ya da hakkaniyete dayalı geçerli sayma olanakları daha sınırlıdır. B şıkkı doğrudan kanunun süreyi öğrenmeden başlatması nedeniyle 'ret beyanının geçerli sayılması' değil, 'sürenin hiç başlamamış olması' sonucunu doğurur ve bu durum en kesin/doğrudan hukuki çözümü ifade eder.",
-  "zorluk": "zor"
- },
- {
   "id": "44475",
   "dersId": "hukuk",
   "konuId": "medeni",
@@ -7276,8 +6971,8 @@
    "Gaibin ölümünden önce mahkeme kararıyla saptanmış tarihte sağ olduğu anlaşılırsa, mirasçılar terekeyi iade etmek zorunda kalabilir.",
    "Gaiplik kararı, ölüm karinesine bağlı sonuçlar doğurur; eş, gaibin ölüm tarihinden itibaren yeniden evlenebilir."
   ],
-  "dogru": 1,
-  "aciklama": "TMK m.35 vd. hükümlerine göre gaiplik kararı ölüm karinesi doğurur ve sonuçları gaiplik kararının kesinleşmesiyle birlikte hüküm ifade eder; ancak mirasın açılması, kişinin ölmüş sayıldığı tarih itibarıyla geriye yürür. D seçeneği yanlıştır, zira gaiplik kararı kesinleşmeden de mirasçılar geçici koruma tedbirleri kapsamında bazı haklar elde edebilir; ayrıca kanun, terekeye geçici olarak el atılmasına olanak tanır. Kesinleşme beklenmeksizin bazı tasarruflar mümkün olabildiğinden D seçeneği mutlak ve yanıltıcı biçimde yanlıştır.",
+  "dogru": 4,
+  "aciklama": "Gaip kişinin evliliği, gaiplik kararıyla kendiliğinden sona ermez. TMK m.131 uyarınca eş, gaiplik kararıyla birlikte veya ayrıca evliliğin feshini istemelidir ve fesih kararı verilmedikçe yeniden evlenemez. Bu nedenle eşin gaibin ölüm tarihinden itibaren doğrudan yeniden evlenebileceğini söyleyen ifade yanlıştır. Bankadaki cevap ise doğru bir ifadedir: mirasçılar terekeyi ancak gaiplik kararı üzerine ve güvence göstererek alabilir, karardan önce terekeye sahip olamazlar. İtirazın yanlış saydığı evliliğin feshinin talep edilmesi de doğrudur, çünkü kanun eşe tam olarak bu imkânı tanır. Gaibin sağ çıkması hâlinde mirasçıların iade yükümlülüğü ve kararın geriye yürümesi de kanuna uygundur. Doğru cevap \"Gaiplik kararı, ölüm karinesine bağlı sonuçlar doğurur; eş, gaibin ölüm tarihinden itibaren yeniden evlenebilir.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -8833,22 +8528,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "44582",
-  "dersId": "hukuk",
-  "konuId": "borclar",
-  "soru": "Haksız fiil sorumluluğunda illiyet bağına ilişkin aşağıdaki ifadelerden hangisi Türk-İsviçre hukuku öğretisi ve Yargıtay uygulaması çerçevesinde doğrudur?",
-  "secenekler": [
-   "İlliyet bağının ispatında olasılık hesabı esas alınır; %50 üzerindeki olasılık ispat için yeterlidir ve hâkim bu durumda tam tazminata hükmedebilir.",
-   "Birden fazla kişinin haksız fiiline birlikte neden olan olaylar zincirinde her failin tam olarak sorumlu tutulabilmesi için her birinin kusurunun ayrı ayrı ispat edilmesi şarttır.",
-   "Uygun illiyet bağının kesilmesi hâlinde zarar verenin sorumluluğu tamamen ortadan kalkar; bu kesme ancak mücbir kuvvet, zarar görenin ağır kusuru veya üçüncü kişinin ağır kusuruyla gerçekleşebilir.",
-   "Zarar görenin münhasır kusurunun mevcut olduğu hâllerde dahi zarar verenin sorumluluğu tam olarak devam eder; yalnızca tazminattan indirim yoluna gidilebilir.",
-   "Uygun illiyet bağı teorisinde, hayatın olağan akışına göre zarara yol açmaya elverişli her koşul nedensellik bağı kurar."
-  ],
-  "dogru": 2,
-  "aciklama": "Uygun illiyet bağı teorisinde (adéquation causale), hayatın olağan akışı ve genel yaşam deneyimine göre zarara yol açmaya elverişli koşullar nedensellik bağı doğurur. İlliyet bağının kesilmesi (rupture du lien de causalité) hâlinde ise zarar verenin sorumluluğu tamamen kalkar. TBK m. 52 ve Yargıtay'ın yerleşik içtihadına göre illiyet bağı; mücbir sebep, zarar görenin ya da üçüncü kişinin ağır ve münhasır kusuru ile kesilebilir. C şıkkı bu hukuki gerçeği doğru biçimde yansıtmaktadır. A şıkkı yanlıştır; uygun illiyet bağı 'elverişli olma' koşuluna bağlıdır, her koşul değil. B şıkkı yanlıştır; zarar görenin münhasır kusuru sorumluluğu tamamen kaldırabilir. D şıkkı müteselsil sorumluluğu hatalı ifade etmektedir. E şıkkı ise Türk hukuku bakımından kabul görmüş bir oran ölçütü öngörmemektedir.",
-  "zorluk": "zor"
- },
- {
   "id": "44583",
   "dersId": "hukuk",
   "konuId": "borclar",
@@ -8926,22 +8605,6 @@
   ],
   "dogru": 0,
   "aciklama": "Borcun hiç ifa edilmemesi durumunda alacaklı yalnızca borca aykırılığı, yani borcun ifa edilmediğini ve zararını ispat eder. Borçlunun kusuru karine olarak kabul edilir. Borçlu tazminattan kurtulmak istiyorsa kusursuz olduğunu, yani ifa etmemesinde kendisine yüklenebilir bir kusur bulunmadığını ispat etmek zorundadır. İspat yükü bu nedenle borçlunun üzerindedir. \"Alacaklı, borçlunun kusurlu olduğunu ispat etmek zorundadır; kusur karinesi yoktur.\" seçeneği yanlıştır, çünkü kusur karinesi vardır. \"Borçlu, borcun hiç veya gereği gibi ifa edilmediğini ispat etmek zorundadır.\" seçeneği de yanlıştır, çünkü borca aykırılığı ispat yükü alacaklıdadır. Doğru cevap \"Borçlunun borca aykırılık gerçekleştiğinde kusursuzluğunu ispat etmesi gerekir; aksi hâlde kusurlu kabul edilir.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "44588",
-  "dersId": "hukuk",
-  "konuId": "borclar",
-  "soru": "Müterafik kusur (birlikte kusur) kurumu bakımından aşağıdaki senaryolardan hangisinde Türk Borçlar Kanunu m. 52'nin uygulanması en çok tartışmalıdır ve mahkemenin tazminatı indirip indirmeyeceği en belirsizdir?",
-  "secenekler": [
-   "Zarar görenin, zararı önleyebilecek tıbbi müdahaleyi gecikmeksizin reddetmesi.",
-   "Zarar görenin, olağan özen borcunu yerine getirmemesi nedeniyle zararın artmasına yol açması.",
-   "Zarar görenin, zararı doğuran olaya bilerek katılması.",
-   "Zarar görenin, salt ekonomik açıdan daha avantajlı olduğu için alternatif güvenli yolu tercih etmemesi.",
-   "Zarar görenin, zararın doğumuna sebebiyet veren tehlikeli ortama rızasıyla girmesi."
-  ],
-  "dogru": 3,
-  "aciklama": "TBK m. 52 uyarınca zarar görenin kusuru tazminattan indirim nedeni olabilir. Ancak C şıkkında zarar gören yalnızca ekonomik tercih yaparak (daha ucuz yol kullanmak) güvenli yolu tercih etmemiştir. Bu durumun 'kusur' sayılıp sayılmaması; yani kişiden her durumda en güvenli seçeneği seçmesinin beklenmesinin hukuki anlamda özen yükümlülüğü kapsamında değerlendirilip değerlendirilemeyeceği doktrinde tartışmalıdır. Diğer seçeneklerde kusur açık biçimde mevcutken C'de nedensellik bağı ve kusur tespiti en belirsiz olandır.",
   "zorluk": "zor"
  },
  {
@@ -9214,22 +8877,6 @@
   ],
   "dogru": 0,
   "aciklama": "Haksız fiil hukukunda tazminatın miktarını belirlerken hâkim olayın özelliklerini ve hakkaniyeti gözetir. Manevi tazminatta da tarafların sosyal ve ekonomik durumu değerlendirmeye katılır. Bu yüzden hâkimin yalnızca zararın ağırlığına bakması gerektiği iddiası yanlıştır. Diğer değerlendirmeler doğrudur. Üçüncü kişinin ağır kusuru illiyet bağını kesebilir. Genel kural kusur sorumluluğudur, kusursuz sorumluluk ise ancak kanunda öngörülen hâllerde vardır. Zarar görenin rızası hukuka aykırılığı kaldıran sebeplerdendir. Ağır bedensel zararda da manevi tazminat istenebilir. Bu nedenle \"İlliyet bağı kesilirse sorumluluk ortadan kalkabilir; üçüncü kişinin ağır kusuru illiyet bağını kesebilir.\" seçeneği doğrudur. Aynı şekilde \"Haksız fiil sorumluluğunda kural, kusur sorumluluğudur\" ile başlayan seçenek de doğrudur. Doğru cevap \"Hâkim, manevi tazminatın miktarını belirlerken tarafların ekonomik durumunu dikkate alamaz\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "44608",
-  "dersId": "hukuk",
-  "konuId": "borclar",
-  "soru": "TBK m. 64 uyarınca ispat yükü ve kurtuluş kanıtı bakımından aşağıdakilerden hangisi doğrudur?",
-  "secenekler": [
-   "Haksız fiil davalarında zarar görenin hem kusuru hem de illiyet bağını ispat etmesi zorunludur; kusur karinenin tersine ispat edilemez.",
-   "Kurtuluş kanıtı yalnızca adam çalıştıranların sorumluluğunda geçerlidir; genel haksız fiil sorumluluğunda böyle bir imkân tanınmamıştır.",
-   "Zarar veren, zararın üçüncü kişiden kaynaklandığını kanıtlarsa her durumda sorumluluktan kurtulur; olayın gelişimine katkısı araştırılmaz.",
-   "TBK m. 64 uyarınca haksız fiilin varlığı hâlinde kusur karinesi zarar verenin aleyhine işler; zarar veren kusursuz olduğunu ispatlayamazsa sorumlu tutulur.",
-   "Kusur karinesi çürütülemez niteliktedir; zarar veren, özen yükümlülüğünü yerine getirdiğini kanıtlasa bile sorumluluktan kurtulamaz."
-  ],
-  "dogru": 3,
-  "aciklama": "TBK m. 64/1 uyarınca, bir kimsenin haksız eyleminden sorumluluk doğabilmesi için kusurlu olduğunun ispat edilmesi gerekir; ancak hâkim, tarafların durumuna ve olayın özelliklerine göre kusurun varlığını karine olarak kabul edebilir. Bu kuruma göre zarar veren, gereken özeni gösterdiğini ispatlayarak sorumluluktan kurtulabilir — bu, çürütülebilir bir karinedir. Seçenek B bu mekanizmayı doğru özetlemektedir. Seçenek D yanlıştır çünkü karine çürütülebilirdir. Seçenek C yanlıştır; kurtuluş beyyinesi yalnızca adam çalıştırma ilişkisiyle sınırlı değildir.",
   "zorluk": "zor"
  },
  {
@@ -9969,22 +9616,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "44657",
-  "dersId": "hukuk",
-  "konuId": "i_s_hukuku",
-  "soru": "4857 sayılı İş Kanunu'na göre, işverenin işçiyi başka bir işyerinde geçici olarak görevlendirmesi (geçici iş ilişkisi) için aşağıdaki koşullardan hangisi zorunlu değildir?",
-  "secenekler": [
-   "İşçinin ücretinin geçici işveren tarafından ödenmesinin kararlaştırılabilmesi",
-   "Geçici ilişkinin en fazla altı ay sürmesi ve toplamda üç kez yenilenmesi",
-   "Geçici işverenin, işçinin ücretinden kaynaklanan sorumluluğu ile sınırlı tutulabilmesi",
-   "Geçici işveren ile asıl işverenin aynı holding bünyesinde olması",
-   "İşçinin yazılı onayının alınması"
-  ],
-  "dogru": 3,
-  "aciklama": "4857 sayılı İş Kanunu'nun 7. maddesi uyarınca, asıl işveren ile başka bir işveren arasında geçici iş ilişkisi kurulabilmesi için işçinin yazılı onayı şart olup ilişki en fazla altı ay sürebilir ve en fazla iki kez yenilenebilir (toplam üç dönem). Geçici işverenin aynı holding bünyesinde yer alma zorunluluğu kanunda düzenlenmemiştir; böyle bir şart aranmamaktadır. Bu nedenle C seçeneği zorunlu olmayan koşulu ifade etmektedir.",
-  "zorluk": "orta"
- },
- {
   "id": "44659",
   "dersId": "hukuk",
   "konuId": "i_s_hukuku",
@@ -10049,38 +9680,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "44664",
-  "dersId": "hukuk",
-  "konuId": "i_s_hukuku",
-  "soru": "Aşağıdaki fesih nedenlerinden hangisi, işçinin kıdem tazminatına hak kazanmasına yol açmaz?",
-  "secenekler": [
-   "İşçinin askerlik nedeniyle iş sözleşmesini feshetmesi",
-   "İşçinin evlilik nedeniyle (kadın işçi için bir yıl içinde) feshetmesi",
-   "İşçinin istifa ederek aynı işverenin başka bir işyerinde işe başlaması",
-   "İşverenin işçiyi ahlak ve iyi niyet kurallarına aykırılık gerekçesiyle feshetmesi",
-   "İşçinin emeklilik nedeniyle iş sözleşmesini feshetmesi"
-  ],
-  "dogru": 2,
-  "aciklama": "Kıdem tazminatına hak kazandıran fesih halleri 1475 sayılı Kanun'un 14. maddesinde sayılmıştır: askerlik, emeklilik, kadın işçinin evlilik nedeniyle bir yıl içinde feshi ve işverenin haksız feshi bunların başında gelir. Ahlak ve iyi niyet kurallarına aykırılık sebebiyle işveren haklı nedenle fesih yaparsa kıdem tazminatı ödenmez (E doğru bir seçenek gibi görünse de burada işverenin ahlak ihlali gerekçeli feshi söz konusudur). İşçinin istifa etmesi kural olarak kıdem tazminatına hak kazandırmaz; işçinin istifa edip aynı işverenin farklı işyerinde işe girmesi halinde iş ilişkisi sona erdiğinden kıdem tazminatı hakkı doğmaz. Doğru cevap D seçeneğidir.",
-  "zorluk": "orta"
- },
- {
-  "id": "44665",
-  "dersId": "hukuk",
-  "konuId": "i_s_hukuku",
-  "soru": "Hafta tatili ücretine ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
-  "secenekler": [
-   "Haftalık 45 saatlik çalışma süresini tamamlamış işçi, hafta tatiline hak kazanır.",
-   "Hafta tatili ücreti, işçinin isteğiyle ileride toplu olarak kullandırılmak üzere biriktirilebilir.",
-   "İşçi, hafta tatilinde çalışmayı reddederse bu geçerli fesih nedeni sayılabilir.",
-   "Hafta tatilinde çalışan işçiye normal günlük ücretine ek olarak bir günlük ücret daha ödenir.",
-   "Hafta tatili, haftada en az bir gün kesintisiz 24 saat olarak kullandırılır."
-  ],
-  "dogru": 1,
-  "aciklama": "İş Kanunu'nun 46. maddesi uyarınca haftalık çalışma süresini tamamlamış işçiye yedi günlük süre içinde kesintisiz en az 24 saat (bir gün) hafta tatili verilmesi zorunludur. Hafta tatilinde çalışan işçiye, o günkü çalışması karşılığında bir günlük ilave ücret ödenir (toplamda iki günlük ücret). Hafta tatilinin biriktirilmesi mevzuatta öngörülmemiş olup yasal bir uygulama değildir; tatil hakkı kullandırılmadan biriktirilemez. Bu nedenle E seçeneği yanlıştır.",
-  "zorluk": "orta"
- },
- {
   "id": "44666",
   "dersId": "hukuk",
   "konuId": "i_s_hukuku",
@@ -10126,22 +9725,6 @@
   ],
   "dogru": 3,
   "aciklama": "4857 sayılı Kanun m. 41 uyarınca haftalık kırk beş saati aşan çalışmalar fazla çalışmadır. Her bir fazla çalışma saati için ücret, normal çalışma saatlik ücretinin yüzde elli yükseltilmesiyle, yani bir buçuk katı olarak ödenir. Hesap şöyledir: saatlik ücret 100 TL ise fazla çalışma saati 100 + 50 = 150 TL'dir. \"Her bir saat fazla çalışma için normal saatlik ücretin yüzde yirmi beş fazlası\" seçeneği yanlıştır, çünkü yüzde yirmi beş oranı fazla sürelerle çalışma için uygulanır. \"Her bir saat fazla çalışma için normal saatlik ücretin yüzde yüz fazlası\" seçeneği de yanlıştır, çünkü bu oran kanunda fazla çalışma için öngörülmemiştir. Doğru cevap \"Her bir saat fazla çalışma için normal saatlik ücretin yüzde elli fazlası\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
-  "id": "44669",
-  "dersId": "hukuk",
-  "konuId": "i_s_hukuku",
-  "soru": "Toplu işçi çıkarmaya ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
-  "secenekler": [
-   "Otuz günlük dönemde 10-29 işçi çıkarılması, toplu işçi çıkarma sayılır; ancak bu sayı işyerinde çalışan toplam işçi sayısının yüzde onundan az olamaz.",
-   "İşveren toplu işçi çıkarmadan en az otuz gün önce durumu Çalışma ve İş Kurumu İl Müdürlüğü ile işçi temsilcilerine bildirmek zorundadır.",
-   "İşveren, toplu işçi çıkarma bildirimi yaptıktan sonra çıkarılacak işçi sayısını artırabilir ancak azaltamaz.",
-   "Toplu işçi çıkarma, bildirimin yapıldığı tarihten otuz gün sonra hüküm ifade eder.",
-   "Toplu işçi çıkarmanın sendikal nedenlere dayandığı işçi tarafından kanıtlanırsa, işçi sendikal tazminat talep edebilir."
-  ],
-  "dogru": 2,
-  "aciklama": "4857 sayılı İş Kanunu'nun 29. maddesi uyarınca toplu işçi çıkarma yapacak işveren, bu işlemden en az otuz gün önce ilgili kurum ve işçi temsilcilerine bildirmek zorundadır ve bildirimden otuz gün sonra fesihler geçerlilik kazanır. İşveren bildirim sonrasında çıkarılacak işçi sayısını azaltabilir ya da uygulamadan vazgeçebilir; sayıyı artıramayacağına dair bir kural yoktur, ancak süreci yeniden başlatması gerekebilir. D seçeneğindeki 'azaltamaz' ifadesi yanlıştır; azaltmak serbesttir. Doğru cevap D'dir.",
   "zorluk": "orta"
  },
  {
@@ -10289,22 +9872,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "44679",
-  "dersId": "hukuk",
-  "konuId": "i_s_hukuku",
-  "soru": "Toplu iş sözleşmesinden yararlanma bakımından aşağıdaki ifadelerden hangisi doğrudur?",
-  "secenekler": [
-   "Dayanışma aidatı, sendika aidatı miktarından fazla olamaz.",
-   "İşyerinde toplu iş sözleşmesi imzalanmışsa tüm işçiler dayanışma aidatı ödemeksizin yararlanır.",
-   "Sendika üyeliğinden ayrılan işçi, ayrıldığı tarihten itibaren toplu iş sözleşmesinin sona ermesini beklemeksizin sözleşme haklarını kaybeder.",
-   "Sendika üyesi olmayan işçi, dayanışma aidatı ödeyerek toplu iş sözleşmesinden yararlanabilir.",
-   "Toplu iş sözleşmesinden yararlanmak için işçinin sözleşmenin imzalanmasından önce sendikaya üye olmuş olması gerekir."
-  ],
-  "dogru": 3,
-  "aciklama": "6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanunu'nun 39. maddesi uyarınca, toplu iş sözleşmesinin imzalanması sırasında taraf sendikaya üye olmayanlar, sözleşmenin tarafı işçi sendikasına dayanışma aidatı ödeyerek toplu iş sözleşmesinden yararlanabilir. Dayanışma aidatı miktarı sendika aidatından fazla olamaz (E doğru ama B'yi geçersiz kılmaz, E seçeneği de doğru olmakla birlikte soru 'hangisi doğrudur' diye sorduğundan ana kural B'dir). Sendikaya sonradan üye olanlar sözleşmeden yararlanmaya üyeliğin taraf sendikaca işverene bildirildiği tarihten itibaren hak kazanır. Sendika üyeliğinden ayrılan işçi, sözleşme sona erene kadar haklarını korur.",
-  "zorluk": "orta"
- },
- {
   "id": "44680",
   "dersId": "hukuk",
   "konuId": "i_s_hukuku",
@@ -10417,22 +9984,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "44689",
-  "dersId": "hukuk",
-  "konuId": "i_s_hukuku",
-  "soru": "Toplu iş hukuku bağlamında, sendikaların kuruluş aşamasında ve faaliyetlerinde 6356 sayılı Kanun çerçevesinde aşağıdaki hangisi yanlıştır?",
-  "secenekler": [
-   "İşkolu barajını aşan sendikalar, herhangi bir işyerinde salt çoğunluğu sağlamaksızın toplu sözleşme yapabilir.",
-   "Sendika yöneticilerinin işyerinden ayrılması hâlinde iş sözleşmeleri askıya alınmış sayılır ve kıdem hakları korunur.",
-   "Sendikaların üye sayısı şartı, toplu iş sözleşmesi yapabilmek için yetki aşamasında değerlendirilir.",
-   "Sendikalar tüzel kişiliği, kuruluş bildiriminin Bakanlığa yapılmasıyla kazanır.",
-   "Bir işçi aynı anda birden fazla sendikaya üye olamaz; aksi hâlde sonraki üyelik geçersizdir."
-  ],
-  "dogru": 0,
-  "aciklama": "6356 sayılı Kanun'a göre bir sendikanın toplu iş sözleşmesi akdedebilmesi için iki ayrı yetki koşulunun birlikte sağlanması gerekir: (1) ilgili işkolunda çalışan işçilerin en az yüzde birini temsil etmek (işkolu barajı) ve (2) toplu iş sözleşmesi yapılacak işyeri ya da işletmede çalışan işçilerin yarısından fazlasını temsil etmek (işyeri/işletme çoğunluğu). D şıkkında ileri sürülen 'işyeri çoğunluğu aranmaksızın' ifadesi yasaya aykırıdır; her iki koşulun da karşılanması zorunludur. A, B, C ve E seçenekleri kanunun ilgili maddeleriyle örtüşmektedir.",
-  "zorluk": "zor"
- },
- {
   "id": "44690",
   "dersId": "hukuk",
   "konuId": "i_s_hukuku",
@@ -10529,22 +10080,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "44698",
-  "dersId": "hukuk",
-  "konuId": "i_s_hukuku",
-  "soru": "Toplu iş sözleşmesinin normatif hükümlerinin yorum ilkeleri ele alındığında, aşağıdaki hangisi Yargıtay içtihadı ve iş hukuku doktrininin genel eğilimiyle örtüşmemektedir?",
-  "secenekler": [
-   "İşyeri devri hâlinde yeni işveren, devir tarihinden itibaren bir yıl süreyle mevcut toplu iş sözleşmesiyle bağlıdır.",
-   "Toplu iş sözleşmesi hükümleri, işçi lehine yorum ilkesi çerçevesinde yorumlanır.",
-   "Toplu iş sözleşmesinin normatif hükümleri, bireysel iş sözleşmelerinin içeriğini doğrudan ve kural olarak emredici biçimde belirler.",
-   "Normatif hükümler, iş sözleşmesine dahil edilmemiş olsalar bile işçiyi bağlar.",
-   "Toplu iş sözleşmesinde boşluk bulunması hâlinde öncelikle bireysel iş sözleşmesi hükümleri, akabinde Borçlar Kanunu hükümleri uygulanır."
-  ],
-  "dogru": 1,
-  "aciklama": "Toplu iş sözleşmesinin yorumunda 'işçi lehine yorum' ilkesinin uygulanması, iş hukukunun genel ilkeleriyle uyumlu görünse de Yargıtay içtihadı bu ilkenin toplu iş sözleşmelerine doğrudan ve mutlak biçimde uygulanmayacağını kabul etmektedir. Toplu iş sözleşmeleri, kolektif sözleşmeler olup bireysel iş sözleşmelerinden farklı bir yoruma tabi tutulurlar; bu sözleşmelerin yorumunda tarafların müzakere iradesine ve TİS'in bütününe bakılır, basit bir 'işçi lehine' yorumla geçiştirilemez. Dolayısıyla B şıkkındaki mutlak 'işçi lehine yorum' ifadesi öğreti ve Yargıtay içtihadıyla tam anlamıyla örtüşmemektedir. Diğer seçenekler 6356 sayılı Kanun ve ilgili içtihatla uyumludur.",
-  "zorluk": "zor"
- },
- {
   "id": "44699",
   "dersId": "hukuk",
   "konuId": "i_s_hukuku",
@@ -10574,22 +10109,6 @@
   ],
   "dogru": 1,
   "aciklama": "Kıdem tazminatında giydirilmiş ücret, çıplak ücrete işçiye süreklilik arz eden para ve para ile ölçülebilen menfaatlerin eklenmesiyle bulunur. Devamlılık arz eden konut, yol ve yemek yardımları ile düzenli ödenen ikramiye bu nitelikte olduğundan hesaba katılır. Fazla çalışma ücreti ise işin gereğine göre arızi ve değişken bir ödeme olduğu için Yargıtay'ın genel yaklaşımına göre kıdem tazminatı tabanına dahil edilmez. \"Devamlılık arz eden yemek yardımı\" ve \"İkramiye (yılda dört kez düzenli ödenen)\" seçenekleri sık karıştırılır; ancak ikisi de sürekli ve düzenli olduğu için giydirilmiş ücrete girer. Doğru cevap \"Fazla çalışma ücreti\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "44701",
-  "dersId": "hukuk",
-  "konuId": "i_s_hukuku",
-  "soru": "İş hukuku bağlamında işverenin eşit davranma borcu (4857 md. 5) değerlendirildiğinde aşağıdaki ifadelerden hangisi hukuka aykırı bir duruma yol açmaz?",
-  "secenekler": [
-   "İşverenin kadın işçilere hamilelik döneminde esnek çalışma imkânı tanıması, erkek işçilere bu imkânı vermemesi",
-   "İşverenin performans değerlendirmesinde kadın işçileri sistematik olarak daha düşük puanlaması",
-   "İşverenin kıdeme göre kademeli ücret artışı uygulaması ve bu nedenle kıdemli işçilerin daha fazla ücret alması",
-   "İşverenin sendika üyesi olan işçilere daha düşük ücret uygulaması",
-   "İşverenin yalnızca belirli bir dini inanca sahip işçileri yönetici pozisyonuna ataması"
-  ],
-  "dogru": 2,
-  "aciklama": "4857 sayılı Kanun'un 5. maddesi işverene eşit davranma borcu yükler; ancak bu borç, nesnel ve haklı nedene dayanan farklı muameleyi yasaklamaz. Kıdeme dayalı ücret kademesi, nesnel bir kriter olan hizmet süresine dayandığından ayrımcılık oluşturmaz ve Yargıtay'ca meşru bir farklılaştırma nedeni olarak kabul edilmektedir. Buna karşılık B, D ve E şıklarındaki uygulamalar sendikal ayrımcılık, din temelli ayrımcılık ve cinsiyet temelli sistematik ayrımcılık oluşturduğundan hukuka aykırıdır. A şıkkında hamilelik dönemine özel düzenleme ise koruyucu nitelik taşıdığından ayrımcılık sayılmaz; ancak erkeklerin karşılaştırılabilir bir durumda (eşdeğer bakım yükümlülüğü) aynı esnekliğe sahip olmaması tartışmalı olmakla birlikte C şıkkı en açık meşru farklılaştırma örneğidir.",
   "zorluk": "zor"
  },
  {
@@ -10769,22 +10288,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "44713",
-  "dersId": "hukuk",
-  "konuId": "i_s_hukuku",
-  "soru": "6356 sayılı Kanun kapsamında grev hakkının kullanılmasına ilişkin aşağıdaki ifadelerden hangisi hatalıdır?",
-  "secenekler": [
-   "Hayatı tehlikeye düşürecek, kamu sağlığını bozacak işlerde grev yasağı uygulanır ve bu işlerde zorunlu tahkim yoluna gidilir.",
-   "Kanuni grev kararı alınabilmesi için arabuluculuk aşamasının sonuçsuz kalması gerekir.",
-   "Grev kararı, arabuluculuğun uyuşmazlıkla sonuçlandığının tespitinden itibaren altmış gün içinde alınabilir; bu süre geçirilirse grev hakkı düşer.",
-   "Lokavt, yalnızca işçi sendikası tarafından başlatılan grevin ilgili olduğu işyeri veya işyerleri için ilan edilebilir.",
-   "Kanun dışı greve katılan işçilerin iş sözleşmeleri, işveren tarafından ihbar ve kıdem tazminatı ödenmeksizin feshedilebilir."
-  ],
-  "dogru": 2,
-  "aciklama": "6356 s. Kanun m. 60'a göre grev kararı, arabuluculuğun uyuşmazlıkla sonuçlandığının tebliğinden itibaren altmış gün içinde alınıp karşı tarafa bildirilmeli ve altmış günlük sürenin bitiminden itibaren en geç altmış gün içinde uygulanmalıdır. B seçeneği 'bu süre geçirilirse grev hakkı düşer' derken, kanun altmış günlük bildirim süresinin yanı sıra uygulama için de ek süre tanıdığından ve grev hakkının 'düşmesi' bu kadar kesin bir ifade değilken, daha kritik hata şudur: Yargıtay ve öğreti, ikinci altmış günlük süre içinde uygulamaya konulmazsa grevin ertelendiğine, dolayısıyla hakkın düştüğüne hükmeder. Ancak B'nin gerçek hatası, ilk altmış günü 'arabuluculuğun sonuçsuzluğundan itibaren' değil 'uyuşmazlık tespitinin tebliğinden itibaren' başladığını doğru söylemesine karşın 'bu süre içinde alınmak zorunda' demesiyle uygulama süresini atlayıp hakkın düşeceğini abartılı biçimde ifade etmesidir. Tüm seçenekler arasında en belirgin hata D'dir: kanun dışı greve katılım iş sözleşmesinin haklı nedenle feshine yol açar (İş K. m. 25/II-g), bu durumda kıdem tazminatı ödenmez; ancak ihbar tazminatı da gerekmez. D bu bakımdan teknik olarak doğrudur. Buna karşılık B, altmış günlük sürenin yalnızca karar alma sürecini kapsadığını ve hakkın doğrudan düşeceğini öne sürmesiyle mevzuatın iki ayrı altmış günlük aşamasını tek bir süreye indirgemekte ve hatalı bir sonuç doğurmaktadır.",
-  "zorluk": "zor"
- },
- {
   "id": "44715",
   "dersId": "hukuk",
   "konuId": "i_s_hukuku",
@@ -10925,23 +10428,7 @@
    "Arabulucu, Çalışma ve Sosyal Güvenlik Bakanlığı tarafından görevlendirilir"
   ],
   "dogru": 0,
-  "aciklama": "6356 sayılı Kanun'un 50. maddesi uyarınca, toplu görüşmelerin uyuşmazlıkla sonuçlanması halinde taraflardan birinin başvurusu ya da Bakanlığın re'sen müdahalesiyle arabuluculuk aşaması başlar. Arabulucu Bakanlık tarafından görevlendirilir (B doğru). Arabuluculuk süresi 15 gündür; ancak bu süre tarafların anlaşması halinde en fazla 6 gün uzatılabilir (C'de uzatmayı 'Bakanlıkça' olarak nitelendirmek yanlıştır, zira uzatma tarafların mutabakatına bağlıdır). Arabuluculuktan sonuç alınamaması halinde arabulucu tutanağa geçirir; bunun ardından taraflar yasal grev/lokavt yoluna başvurabilir (D doğru). Arabulucunun bağlayıcı karar verme yetkisi yoktur (E doğru). Dolayısıyla C şıkkındaki 'Bakanlıkça uzatılabilir' ifadesi yanlıştır.",
-  "zorluk": "zor"
- },
- {
-  "id": "44724",
-  "dersId": "hukuk",
-  "konuId": "i_s_hukuku",
-  "soru": "4857 sayılı İş Kanunu'na göre aşağıdaki durumların hangisinde işçi, iş sözleşmesini haklı nedenle derhal feshedip hem kıdem tazminatı hem de ihbar tazminatı talep edebilir?",
-  "secenekler": [
-   "İşverenin ücret ödemesini sürekli ve kasıtlı biçimde geciktirmesi ve eksik ödemesi ve bu gecikmenin süreklilik kazanarak işçiyi mağdur etmesi",
-   "İşverenin ücret ödemesini 20 gün geciktirmesi",
-   "İşçinin iş sözleşmesini haklı nedenle feshetmesi durumunda ihbar tazminatına hak kazanamaz; yalnızca kıdem tazminatı talep edebilir",
-   "İşçinin rızası olmaksızın başka bir işyerine nakledilmesi",
-   "İşverenin yıllık ücretli izin kullandırmaması"
-  ],
-  "dogru": 2,
-  "aciklama": "4857 sayılı İş Kanunu'nun 24. maddesi kapsamında işçi, haklı nedenle iş sözleşmesini derhal feshettiğinde kıdem tazminatına hak kazanmaktadır. Ancak ihbar tazminatı yalnızca ihbar sürelerine uyulmaksızın yapılan fesihlerde gündeme gelir; haklı nedenle fesihte tarafların ihbar süresine uyma yükümlülüğü bulunmadığından ihbar tazminatı talep hakkı doğmaz. Bu durum işçi tarafından yapılan haklı fesih için de geçerlidir. Dolayısıyla E şıkkı doğrudur. A, B, C ve D şıklarındaki bazı haller haklı fesih nedeni olabilse de soru 'hem kıdem hem ihbar tazminatı' kombinasyonunu sorduğundan ve bu kombinasyon haklı nedenle fesihte mümkün olmadığından E doğru yanıttır.",
+  "aciklama": "6356 sayılı Kanun md. 50'ye göre arabulucu, görevlendirilmesini izleyen on beş gün içinde tarafları uzlaştırmaya çalışır. Bu süre Bakanlıkça değil, ancak tarafların anlaşmasıyla en çok altı iş günü uzatılabilir. Seçenek uzatma yetkisini Bakanlığa verdiği için yanlıştır. \"Arabuluculuk aşaması toplu görüşmelerin uyuşmazlıkla sonuçlanması üzerine başlar\" ifadesi doğrudur, çünkü toplu görüşmede anlaşılamayınca görevli makama başvurulur ve arabulucu atanır. \"Arabulucu, Çalışma ve Sosyal Güvenlik Bakanlığı tarafından görevlendirilir\" ifadesi de doğrudur; tarafların uzlaşamaması hâlinde görevli makam, Bakanlıkça hazırlanan listeden arabulucuyu atar. Arabulucunun bağlayıcı karar yetkisi yoktur, yalnızca öneride bulunur. Anlaşma sağlanamazsa taraflar grev ve lokavt yoluna gidebilir. Doğru cevap \"Arabuluculuk süreci 15 gün olup Bakanlıkça en fazla 6 gün uzatılabilir\" seçeneğidir.",
   "zorluk": "zor"
  },
  {

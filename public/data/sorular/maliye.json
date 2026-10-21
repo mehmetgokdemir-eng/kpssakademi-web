@@ -1163,8 +1163,8 @@
    "Keynesyen yaklaşım arz yönlü politikaları, Wagner ise talep yönlü politikaları ön plana çıkarır",
    "Wagner Kanunu normatif, Keynesyen yaklaşım pozitif bir çerçeve sunar"
   ],
-  "dogru": 1,
-  "aciklama": "Wagner Kanunu'nda nedensellik yönü GSYH'den kamu harcamalarına doğrudur; ekonomi büyüdükçe kamu harcamaları orantıdan daha hızlı artmak zorundadır (içsel/endojen büyüme). Keynesyen yaklaşımda ise kamu harcamaları politika aracı (dışsal/eksojen) olarak alınır ve çarpan mekanizmasıyla GSYH'yi belirler. Bu nedensellik yönündeki farklılık temel epistemolojik ayrımı oluşturur. C şıkkı kısmen doğru bir bilgi içerse de sorunun odağı olan 'bağımlı-bağımsız değişken' ilişkisini yakalayamaz ve Wagner'in yalnızca uzun dönemde geçerli olduğunu iddia etmek indirgemeci bir yorumdur.",
+  "dogru": 0,
+  "aciklama": "Wagner Kanunu, sanayileşme ve kişi başına gelir arttıkça kamu harcamalarının da arttığını söyleyen uzun dönemli, yapısal bir ilişkidir. Bu yaklaşımda GSYH bağımsız değişken, kamu harcaması ise ondan türeyen bağımlı değişkendir. Keynesyen yaklaşım ise kamu harcamasını kısa dönemde talebi düzenleyen dışsal bir politika aracı olarak görür; yani konjonktüre odaklanır. Bankadaki cevap olan \"Wagner Kanunu kamu harcamalarını bağımsız değişken, GSYH'yi bağımlı değişken olarak ele alırken Keynesyen yaklaşım bu ilişkiyi tersine çevirir\" seçeneği nedenselliği tam tersinden kurduğu için yanlıştır. \"Keynesyen yaklaşım arz yönlü politikaları, Wagner ise talep yönlü politikaları ön plana çıkarır\" seçeneği de yanlıştır, çünkü Keynesyen yaklaşım talep yönlüdür. Doğru cevap \"Wagner Kanunu uzun dönemli yapısal bir ilişkiyi açıklarken Keynesyen yaklaşım kısa dönemli otomatik dengeleyicileri analiz eder ve konjonktüre odaklanır\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1564,7 +1564,7 @@
    "Çıkar grupları, dağınık maliyetleri ve yoğun faydaları nedeniyle siyasi süreçte etkin biçimde lobi yapar ve rant kollama faaliyetleriyle kaynak israfına yol açar."
   ],
   "dogru": 1,
-  "aciklama": "Kamu tercihi teorisinin (public choice) temel önermesi, kamu sektöründeki aktörlerin (politikacılar, bürokratlar, seçmenler, çıkar grupları) tıpkı özel sektör aktörleri gibi kendi çıkarlarını maksimize ettiğidir. 'Kamu görevlileri saf biçimde kamu yararını gözetir' varsayımı, bu teorinin reddetttiği normatif devlet anlayışına (public interest theory) aittir. E şıkkı kamu tercihi teorisiyle doğrudan çelişmektedir.",
+  "aciklama": "Kamu tercihi teorisi, siyasal piyasadaki aktörlerin de ekonomik piyasadaki gibi kendi çıkarlarını maksimize eden rasyonel bireyler olduğunu varsayar. Buchanan ve Tullock, devleti kamu yararını gözeten tarafsız bir \"iyi hizmetçi\" olarak gören geleneksel anlayışı reddetmiştir. Bu nedenle kamu görevlilerinin bireysel çıkar hesabı yapmadığını söyleyen ifade teorinin çekirdeğiyle doğrudan çelişir. Oy maksimizasyonu yapan politikacılar ve bütçe maksimizasyonu yapan bürokratlar varsayımı ise teorinin temel öngörüsüdür. Çıkar gruplarının yoğun fayda ve dağınık maliyet yapısı sayesinde lobi ve rant kollama faaliyetleri yürütmesi de teoriyle tam uyumludur. Rasyonel cehalet ve anayasal kurallarla takdir yetkisinin sınırlanması da teorinin bilinen önermeleridir. Doğru cevap \"Demokratik süreçte kamu görevlileri ve seçilmişler kamu yararını maksimize eden 'iyi hizmetçi' rolünü üstlenir; bireysel çıkar hesabı siyasi davranışı belirlemez.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -2780,7 +2780,7 @@
    "Marjinal tüketim eğilimi arttıkça kamu harcamaları çarpanı küçülür."
   ],
   "dogru": 0,
-  "aciklama": "Kamu harcamaları çarpanı 1/(1-c) iken vergi çarpanı -c/(1-c) formülüyle bulunur. c marjinal tüketim eğilimini temsil eder ve 0 < c < 1 olduğundan 1/(1-c) her zaman c/(1-c)'den büyüktür. Denge bütçesi çarpanı ise 1'e eşittir (sıfır değil). Seçenek C yanlıştır çünkü c arttıkça çarpan büyür. Seçenek D'de c'nin marjinal tasarruf eğilimi olduğu iddiası yanlıştır; c marjinal tüketim eğilimidir.",
+  "aciklama": "Basit Keynesyen modelde kamu harcamaları çarpanı 1/(1-c), vergi çarpanı ise -c/(1-c) olarak hesaplanır. Burada c marjinal tüketim eğilimidir ve 0 ile 1 arasında yer alır. Vergi değişikliği harcanabilir geliri etkiler ve bunun yalnızca c kadarı tüketime yansır. Bu yüzden harcama çarpanı vergi çarpanından mutlak değerce de büyüktür; oransal vergili ve açık ekonomi modellerinde de bu sıralama korunur. \"Denge bütçesi çarpanı sıfıra eşittir.\" seçeneği yanlıştır, çünkü iki çarpanın toplamı 1 eder. \"Kamu harcamaları çarpanı, 1/(1-c) formülüyle hesaplanır ve c marjinal tasarruf eğilimini ifade eder.\" seçeneği de yanlıştır, çünkü c marjinal tüketim eğilimidir. Marjinal tüketim eğilimi arttıkça çarpan küçülmez, büyür. Doğru cevap \"Kamu harcamaları çarpanı her zaman vergi çarpanından büyüktür.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -3325,38 +3325,6 @@
   ],
   "dogru": 3,
   "aciklama": "Basit Keynesyen modelde kamu harcamaları çarpanı 1/(1-c), vergi çarpanı ise -c/(1-c) değerindedir. c, 1'den küçük olduğu için harcama çarpanı mutlak değerce vergi çarpanından büyüktür; aradaki fark tam olarak 1'dir. Harcama ve vergi eşit miktarda artırılınca net çarpan 1/(1-c) - c/(1-c) = (1-c)/(1-c) = 1 olur; gelir, denge bütçe artışı kadar yükselir. Bu Haavelmo teoreminin temelidir. \"Haavelmo teoremine göre vergi ve kamu harcamasını eşit miktarda artırmak toplam talebi hiç değiştirmez\" seçeneği yanlıştır; çarpanlar mutlak değerce eşit değildir ve net etki sıfır değil 1'dir. \"Denge bütçe çarpanı gelir düzeyine bağlı olarak değiştiğinden\" seçeneği de çarpanın 1 olduğunu gözden kaçırır. Doğru cevap \"Harcama çarpanı 1/(1-c), vergi çarpanı ise -c/(1-c) olduğundan\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "48215",
-  "dersId": "maliye",
-  "konuId": "kamu_harcamalari",
-  "soru": "Kamu harcamalarının sınıflandırılmasında 'transfer harcamaları' ile 'reel (gerçek) harcamalar' arasındaki temel fark göz önüne alındığında, aşağıdaki senaryoların hangisinde söz konusu ayrım yanlış uygulanmış ve bu yanlışlığın millî gelir hesaplarına yansıması doğru tespit edilmiştir?",
-  "secenekler": [
-   "Sosyal güvenlik transferleri ve borç faiz ödemeleri reel harcama değil, transfer harcamasıdır; dolayısıyla GSYH hesabında devlet harcaması bileşenine dahil edilmezler ve bu doğru bir uygulamadır.",
-   "Faiz ödemeleri reel harcama niteliği taşıdığından kamu tüketim harcamaları içinde yer almalı; GSYH hesaplamalarında hükümet harcaması kalemi bu tutarlar dahil edilmeden hesaplanırsa ulusal gelir eksik ölçülür.",
-   "Askeri teçhizat alımları bir faktör karşılığı yapılmadığından transfer harcaması sayılmalı; GSYH hesaplamalarında yatırım kalemi içinde değil transfer kalemi içinde raporlanmalıdır.",
-   "Devletin kamu işçilerine ödediği ücretler transfer harcaması sayılmalıdır; çünkü devlet bu kişilere karşılıksız ödeme yapmaktadır. Bu nedenle söz konusu ödemeler GSYH hesaplamalarında dışlanmalıdır.",
-   "Yaşlılık aylıkları reel harcama sayılmalıdır; çünkü devlet bu ödemelerle kaynakları fiyat mekanizması dışında tahsis etmektedir. GSYH bu tutarlar kadar küçümsenmiş olur."
-  ],
-  "dogru": 0,
-  "aciklama": "Reel (gerçek) harcamalar; mal, hizmet ya da üretim faktörü satın alımlarını kapsar ve karşılığında ekonomiye doğrudan kaynak kullanımı gerçekleşir. Transfer harcamaları ise karşılıksız ödemeler olup kaynakların yeniden dağıtımını sağlar (sosyal yardımlar, faiz ödemeleri, sübvansiyonlar vb.). GSYH, yalnızca reel üretimi ölçtüğünden, transfer harcamaları hükümet harcaması (G) bileşenine dahil edilmez; ancak transferlerin tüketimi artırması dolaylı yoldan GSYH'yi etkiler. A şıkkında kamu ücretleri transfermiş gibi gösterilmiş; B'de yaşlılık aylıkları yanlış sınıflandırılmış; C'de faiz ödemeleri reel harcama sayılmış; E'de savunma alımları yanlış kategorize edilmiştir. Yalnızca D şıkkı hem sınıflandırmayı hem GSYH etkisini doğru biçimde açıklar.",
-  "zorluk": "zor"
- },
- {
-  "id": "48216",
-  "dersId": "maliye",
-  "konuId": "kamu_harcamalari",
-  "soru": "Kamu yatırım projelerinde kullanılan sosyal iskonto oranı (SIR) ile özel sektör iskonto oranı arasındaki teorik tartışma bağlamında, aşağıdaki hangi ifade Marglin-Diamond görüşünü ve Arrow-Lind teoremine karşı konumunu doğru şekilde yansıtmaktadır?",
-  "secenekler": [
-   "Marglin ve Diamond, bireylerin kamunun onlar adına tasarruf kararı vermesini tercih etmediklerini; dolayısıyla kamu yatırımlarında zaman tercih oranının değil, sermayenin marjinal getiri oranının esas alınması gerektiğini savunur.",
-   "Arrow-Lind teoremi, kamu projelerinde kullanılacak iskonto oranının özel sektörün iskonto oranıyla aynı olması gerektiğini öne sürer; risk yayılımı argümanı ise yalnızca savunma projelerine uygulanabilir.",
-   "Arrow-Lind teoremi ve Marglin aynı görüştedir: kamu projelerinde SIR sıfır olmalı çünkü devlet ölümsüzdür ve gelecek nesillerin refahını da içselleştirir.",
-   "Marglin-Diamond görüşü, piyasa faiz oranının hem zaman tercihini hem de risk primini içerdiğinden kamu projeleri için aşırı yüksek olduğunu; sosyal iskonto oranının bu iki bileşenden arındırılmış saf zaman tercih oranına eşitlenmesi gerektiğini savunur ve Arrow-Lind teoremiyle bu noktada tam olarak örtüşür.",
-   "Arrow-Lind teoremi kamu projelerinin riskinin geniş nüfusa yayıldığını ve risk priminin sıfıra yaklaştığını savunur; bu nedenle kamu projelerinde risksiz faiz oranı kullanılmalıdır. Marglin ise özel sermayenin fırsat maliyetini esas aldığından SIR'in piyasa faiz oranından yüksek tutulmasını önerir."
-  ],
-  "dogru": 4,
-  "aciklama": "Arrow-Lind (1970) teoremi: kamu projesinin riski vergi mükellefleri arasında çok geniş bir kitleye yayıldığında risk başına düşen pay küçülür ve risk primi ihmal edilebilir hâle gelir; bu nedenle kamu yatırımlarında risksiz oran (devlet tahvil faizi) kullanılabilir. Marglin ise özel yatırımın dışlandığını, dolayısıyla fırsat maliyetinin özel sektör sermaye getirisi olduğunu savunur ve SIR'in piyasa faiz oranına yakın tutulmasını önerir. B şıkkındaki yaklaşım Feldstein'ın shadow price of capital yöntemine daha yakındır. C şıkkı yanlış; Marglin ve Arrow-Lind farklı görüştedir. D şıkkındaki 'saf zaman tercih oranı' argümanı Ramsey modeliyle ilgilidir. E şıkkı Arrow-Lind'i çarpıtmaktadır.",
   "zorluk": "zor"
  },
  {
@@ -5036,7 +5004,7 @@
    "Verginin tüketicilere değil üreticilere uygulanması"
   ],
   "dogru": 1,
-  "aciklama": "Pigouvian vergi analizi tam rekabetçi piyasa varsayımı altında geliştirilmiştir. Piyasa tekel yapısında olduğunda tekel zaten üretimi kısıtlamakta ve fiyatı marjinal maliyetin üzerinde tutmaktadır. Bu durumda Pigouvian vergi uygulamak tekelci üretimi daha da kısıtlar; ancak hem tekelci çarpıklık hem de dışsallık aynı anda mevcuttur. 'İkinci en iyi' (second best) teorisi gereği, piyasada zaten bir bozulma varken ikinci bir müdahale (vergi) toplam refahı artırmayabilir ve ölü ağırlık kaybını tam olarak ortadan kaldıramaz. A şıkkı yanlıştır çünkü artan marjinal dışsal maliyet bile doğru biçimde fiyatlandırılabilir; tekelci yapı ise temelden farklı bir bozulma kaynağıdır.",
+  "aciklama": "Pigou vergisi tam rekabet piyasasında marjinal dışsal maliyete eşit konulduğunda özel maliyeti sosyal maliyete eşitler ve ölü ağırlık kaybını ortadan kaldırır. Tekel piyasasında ise firma zaten sosyal optimumun altında üretir. Bunun üzerine eklenen vergi üretimi daha da kısabilir, dolayısıyla tekelin kendi çarpıklığından doğan ölü ağırlık kaybı sürer. \"Vergi gelirinin sosyal transferlere aktarılmaması\" seçeneği yanlıştır, çünkü etkinlik gelirin nasıl kullanıldığına bağlı değildir. \"Verginin tüketicilere değil üreticilere uygulanması\" seçeneği de yanlıştır, çünkü vergi yükünün dağılımı verginin kime yasal olarak konduğundan bağımsızdır. Marjinal dışsal maliyetin değişken olması da sorun yaratmaz; vergi optimum noktadaki marjinal zarara eşitlenerek etkinlik sağlanır. Doğru cevap \"Piyasanın tam rekabet yerine tekel yapısında olması\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -5132,7 +5100,7 @@
    "Model, bürokratların salt kamu yararı güttüğünü varsayarak kişisel çıkar güdüsünü görmezden gelir."
   ],
   "dogru": 0,
-  "aciklama": "Niskanen modelinde bürokrat, çıktı maksimizasyonu yerine bütçe maksimizasyonu yapar ve sponsor karşısında maliyet bilgisindeki üstünlüğünü kullanarak bütçeyi sosyal optimumun iki katına kadar çıkarabilir. Modele yönelik en güçlü teorik eleştiri, bürokratların maksimize ettiğinin bütçenin tamamı değil, 'ihtiyari bütçe' (discretionary budget) olduğu yönündedir; bunun yanı sıra Migué ve Bélanger gibi yazarlar bürokratların aslında X-verimsizliği yaratmak için çıktı üretmeksizin bütçeyi örgütsel rant (slack) biçiminde kullandığını öne sürmüştür. Bu eleştiri, hedef fonksiyonunun yalnızca bütçe büyüklüğüne indirgenmesine karşı çıkmaktadır (D şıkkı).",
+  "aciklama": "Niskanen modeli, bürokratın kendi çıkarı doğrultusunda bütçesini maksimize ettiğini varsayar. Modele yöneltilen en güçlü teorik eleştiri, başta Migué ve Bélanger olmak üzere, bu hedef fonksiyonuna yöneliktir. Bürokratın bütçenin tamamını değil, takdirine bağlı harcanabilir artığı ya da çıktı ile artık arasındaki bir bileşimi gözettiği ileri sürülür. Bu nedenle bütçe maksimizasyonunu tek amaç sayan varsayım sorgulanır. \"Modelde sponsor konumundaki yasama komitesi...\" seçeneği yanlıştır, çünkü Niskanen bilgi asimetrisini yok saymaz. Tersine, modelin temeli bürokratın maliyet bilgisini tekelinde tutması ve sponsorun pasif kalmasıdır. Eleştiri, komitenin her şeyi bildiği varsayımına değil, sponsorun bilgisiz ve güçsüz kabul edilmesine yöneliktir. \"Model, bürokratların salt kamu yararı güttüğünü varsayarak...\" seçeneği de yanlıştır, çünkü model zaten kişisel çıkar güdüsüne dayanır. Doğru cevap \"Çıktı yerine bütçe maksimizasyonunu hedef olarak belirlemesi, bürokratların gerçekte izin verilen bütçenin tamamını kullanmak yerine çıktıyı artırmayı tercih ettiğini gözden kaçırır.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -6589,22 +6557,6 @@
   ],
   "dogru": 3,
   "aciklama": "5018 sayılı Kanun'a göre muhasebe yetkilisi ödeme aşamasında ödeme emri belgesini ve eklerini yasallık ve belgelendirme açısından kontrol eder. Harcamanın yerindeliğine karar vermek harcama yetkilisinin takdirindedir, muhasebe yetkilisinin görevi değildir. Bu nedenle muhasebe yetkilisine yerindelik denetimi yükleyen ifade hatalıdır. \"Strateji geliştirme birimleri, ön mali kontrol işlevini yürütmektedir.\" ifadesi hatalı değildir, çünkü ön mali kontrol harcama öncesi bir iç kontrol mekanizmasıdır ve bu işlev mali hizmetler birimlerince yürütülür. \"Mali kontrol ile iç denetim birbirinden farklı fonksiyonlardır; iç denetim güvence ve danışmanlık hizmetleri sunar.\" ifadesi de doğrudur, iç denetim iç kontrolden ayrı bir güvence ve danışmanlık faaliyetidir. Doğru cevap \"Muhasebe yetkilisi, ödeme aşamasında yapacağı kontrollerde harcama yetkilisinin kararlarının yerindeliğini de denetlemekle yükümlüdür.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "48423",
-  "dersId": "maliye",
-  "konuId": "butce",
-  "soru": "Türkiye'de mahalli idarelerin bütçe sürecine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
-  "secenekler": [
-   "İl özel idarelerinin bütçeleri, valinin teklifi üzerine il genel meclisince kabul edilir ve İçişleri Bakanlığı onayıyla yürürlüğe girer.",
-   "Mahallî idarelerin bütçeleri, merkezî yönetim bütçesiyle birlikte TBMM'de görüşülerek onaylanır. Bu görüşme bütçe kanunuyla birlikte yapılır.",
-   "Büyükşehir belediyelerinin bütçeleri, Sayıştay tarafından kesinleştirilir.",
-   "Büyükşehir belediye bütçeleri Cumhurbaşkanlığı onayına tabidir.",
-   "Belediye bütçeleri, belediye başkanı tarafından hazırlanarak doğrudan TBMM'ye sunulur."
-  ],
-  "dogru": 0,
-  "aciklama": "5302 sayılı İl Özel İdaresi Kanunu'na göre il özel idaresi bütçesi, vali tarafından hazırlanarak il genel meclisine sunulur ve il genel meclisince kabul edilir; ayrıca İçişleri Bakanlığı'nın onayına ihtiyaç duyar. A şıkkı yanlıştır, Sayıştay bütçeyi kesinleştirmez; denetim ve yargılama görevini yürütür. C şıkkı yanlıştır, belediye bütçeleri TBMM'ye değil belediye meclisine sunulur. D şıkkı yanlıştır, mahalli idare bütçeleri TBMM'de görüşülmez, kendi karar organlarınca onaylanır. E şıkkı yanlıştır, büyükşehir belediye bütçeleri Cumhurbaşkanlığı onayına tabi değildir.",
   "zorluk": "zor"
  },
  {
@@ -8333,22 +8285,6 @@
   ],
   "dogru": 0,
   "aciklama": "Uzlaşma, vergi idaresi ile mükellefin matrah takdirine ilişkin uyuşmazlığı görüşmeyle çözmesidir. Bu nedenle vergi aslı da, ona bağlı ceza da müzakere konusu olabilir. Cezalarda indirimde ise mükellef tarh edilen vergiyi kabul edip öder. Müzakere edilecek bir vergi aslı yoktur; yalnızca ceza indirimli ödenir. Asıl ayrım budur: uzlaşma vergi aslını da kapsar, indirim kapsamaz. \"Uzlaşmada mükellef vergiyi kabul etmek zorunda değildir, indirimde ise etmek zorundadır.\" seçeneği yüzeysel olarak benzer görünür. Ancak uzlaşmada da anlaşılan tutarın ödenmesi gerekir ve bu seçenek ayrımın asıl özelliğini, yani vergi aslının müzakere edilip edilmemesini ifade etmez. \"Cezalarda indirim, uzlaşmadan farklı olarak yargı yolunu açık tutar.\" seçeneği de yanlıştır. Kabul edilen vergi ve ceza için dava hakkı indirimde de sona erer. Doğru cevap \"Uzlaşmada hem vergi aslı hem de ceza müzakere konusu yapılabilir; indirimde ise yalnızca ceza miktarı kabul edilerek indirimli ödenir, vergi aslı tartışmaya açılmaz.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "48533",
-  "dersId": "maliye",
-  "konuId": "turk_vergi_sistemi",
-  "soru": "ÖTV Kanunu uygulamasında (I) sayılı listedeki akaryakıt ürünleri için belirlenen vergilendirme ölçütü ile (III) sayılı listedeki alkollü içkiler için belirlenen vergilendirme ölçütü arasındaki temel fark aşağıdaki seçeneklerin hangisinde doğru açıklanmıştır?",
-  "secenekler": [
-   "Her iki listede de yalnızca maktu tutar uygulanır, oran farklılığı yoktur.",
-   "Akaryakıt ürünlerinde ad valorem oran uygulanırken alkollü içkilerde yalnızca maktu vergi uygulanır.",
-   "Alkollü içkilerde vergi, nihai tüketici satış fiyatı esas alınarak tahsil edilir; akaryakıt ürünlerinde ise gümrük kıymeti kullanılır. Bu ölçüt kanunda belirtilmiştir.",
-   "Akaryakıt ürünlerinde maktu (spesifik) vergi uygulanırken alkollü içkilerde ise hem maktu hem ad valorem vergi birlikte uygulanabilir.",
-   "Her iki listede de ad valorem (değer esaslı) oran uygulanır, yalnızca oranlar farklıdır."
-  ],
-  "dogru": 3,
-  "aciklama": "ÖTV Kanunu'nda (I) sayılı listede yer alan akaryakıt ve benzeri ürünler için birim başına maktu (spesifik) tutar esas alınmaktadır; bu tutarlar Bakanlar Kurulu/Cumhurbaşkanlığı kararnamesiyle TL bazında belirlenir. (III) sayılı listede yer alan alkollü içkiler için ise hem maktu tutar hem de oransal (ad valorem) vergi birlikte uygulanabilmekte, ürüne göre bu iki yöntem kombine edilmektedir. Bu yapıyı doğru yansıtan B şıkkıdır.",
   "zorluk": "zor"
  },
  {

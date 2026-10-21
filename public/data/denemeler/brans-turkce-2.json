@@ -265,19 +265,20 @@
      "zorluk": "kolay"
     },
     {
-     "id": "40299",
+     "id": "38955",
      "dersId": "turkce",
      "konuId": "fiil_catisi",
-     "soru": "Aşağıdaki cümlelerden hangisinin yüklemi dönüşlü çatıdadır?",
+     "soru": "Bir fiilin çatısını belirlemede temel ölçüt özne-nesne ilişkisidir. Buna göre aşağıdakilerin hangisinde fiil, görünürde geçişli gibi kullanılmış; ancak gerçekte geçişsiz çatıda işlev görmektedir?",
      "secenekler": [
-      "Uzun süre dinlendi.",
-      "Sabah erken uyandı.",
-      "Koşarak nefes nefese kaldı.",
-      "Genç adam aynaya baktı.",
-      "Askere gitmeden önce tıraş oldu."
+      "Çocuk topu kapıya vurdu.",
+      "Kuş yükseklere uçtu.",
+      "Sular yavaş yavaş çekildi.",
+      "Asker tüm gece yürüdü.",
+      "Adam dağa tırmandı."
      ],
-     "dogru": 4,
-     "aciklama": "Dönüşlü çatıda özne eylemi kendine yapar. 'Tıraş oldu' ifadesinde özne kendini tıraş etmiştir; bu nedenle dönüşlü çatıdadır. 'Dinlendi' (B) ise edilgen ya da dönüşlü yorumlanabilirse de günlük kullanımda 'dinlenmek' fiili kalıplaşmış geçişsiz bir anlam kazanmıştır. 'Uyandı' (D) da geçişsiz bir oluş bildirmektedir. En belirgin dönüşlü örnek C'dir."
+     "dogru": 3,
+     "aciklama": "Fiilin geçişli olup olmadığını anlamak için \"neyi, kimi\" sorusu sorulur. \"Asker tüm gece yürüdü.\" cümlesinde \"tüm gece\" belirtisiz nesne gibi görünür, ancak \"ne zaman, ne kadar süre\" sorusuna cevap veren bir zaman zarfıdır. \"Yürümek\" nesne almaz, yani fiil geçişsizdir. Soru kökündeki \"görünürde geçişli, gerçekte geçişsiz\" tanımına uyan tek cümle budur. \"Çocuk topu kapıya vurdu.\" cümlesinde \"topu\" \"neyi\" sorusuna cevap veren gerçek bir belirtili nesnedir, dolayısıyla fiil hem görünüşte hem gerçekte geçişlidir. \"Sular yavaş yavaş çekildi.\" cümlesinde nesne gibi görünen bir öğe yoktur; fiil yalnızca edilgen ekine benzeyen bir yapı taşır. \"Adam dağa tırmandı.\" cümlesinde de \"dağa\" yönelme durumunda bir dolaylı tümleçtir, nesne izlenimi vermez. Doğru cevap \"Asker tüm gece yürüdü.\" seçeneğidir.",
+     "zorluk": "zor"
     },
     {
      "id": "39362",
@@ -344,19 +345,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "38609",
+     "id": "38579",
      "dersId": "turkce",
      "konuId": "noktalama",
-     "soru": "Aşağıdaki seçeneklerin hangisinde noktalı virgülün kullanımı hem sözdizimsel hem de anlambilimsel açıdan tamamen doğrudur?",
+     "soru": "I. Sınavdan yüksek not aldı; ancak bunu kimseye söylemedi.\nII. Sınavdan yüksek not aldı, ancak bunu kimseye söylemedi.\nIII. Sınavdan yüksek not aldı: ancak bunu kimseye söylemedi.\nIV. Sınavdan yüksek not aldı — ancak bunu kimseye söylemedi.\nYukarıdaki cümlelerin hangilerinde noktalama işareti doğru kullanılmıştır?",
      "secenekler": [
-      "Kitabı aldım; okudum ve bitirdim.",
-      "Türkiye'nin büyük şehirleri arasında İstanbul, ticaret ve kültür merkezi; Ankara, idari merkez; İzmir ise liman kenti olarak öne çıkar.",
-      "Hava çok soğuktu; paltomu giydim.",
-      "Sabah erken kalktı; işe geç kaldı.",
-      "Sınavda başarılı olmak istiyorsan; çok çalışmalısın."
+      "I ve II",
+      "II ve III",
+      "Yalnız I",
+      "I, II ve IV",
+      "Yalnız II"
      ],
-     "dogru": 1,
-     "aciklama": "Noktalı virgül, aralarında virgül bulunan sıralı ögeleri birbirinden ayırmak için kullanılır; bu işlev 'süper virgül' olarak da tanımlanır. C seçeneğinde her şehrin niteliği virgülle verilmiş, şehirler arasındaki ayrım noktalı virgülle yapılmıştır — bu kullanım hem sözdizimsel hem anlambilimsel açıdan doğrudur. A'da ardışık ve mantıksal olarak zincirleme eylemler için noktalı virgül gereksizdir, virgül yeterlidir. B ve E'de ise zıtlık ya da koşul ilişkisi kurulmaya çalışılmış; ancak bu tür basit neden-sonuç ilişkilerinde noktalı virgül değil bağlaç veya virgül tercih edilmelidir. D'de ise yanlış biçimde yüklem başına konulmuş; noktalı virgül yan cümle başına gelemez.",
+     "dogru": 0,
+     "aciklama": "I. cümlede noktalı virgül zıt anlamlı iki yargıyı birbirine bağlamakta doğru kullanılmıştır. II. cümlede 'ancak' bağlacı virgülle ayrılmış olup bu da kabul edilen bir kullanımdır. III. cümlede iki nokta üst üste açıklama ilişkisi olmayan bir yapıda kullanılmış, bu yanlıştır. IV. cümlede uzun çizgi bu bağlamda kullanılamaz çünkü uzun çizgi cümle içi açıklamalar için geçerlidir, iki cümleyi bağlamak için değil. Dolayısıyla I ve II doğrudur.",
      "zorluk": "zor"
     },
     {
@@ -407,19 +408,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "39299",
+     "id": "38842",
      "dersId": "turkce",
      "konuId": "cumle_ogeleri",
-     "soru": "Türkçede 'iç içe girmiş' (gömülü) cümlelerde asıl yüklem ile yan cümlenin yüklemi zaman zaman birbirinin ögesi konumuna girebilir. Aşağıdakilerin hangisinde yan cümlenin yüklemi, temel cümlenin bir ögesi değil; aksine temel cümlenin yükleminin anlamsal önkoşulu durumundadır?",
+     "soru": "Aşağıdaki seçeneklerden hangisinde cümleye eklenen bir sözcük, var olmayan bir dolaylı tümleci ortaya çıkarmaktadır?",
      "secenekler": [
-      "Eve gelince haberi öğrendi.",
-      "Koşan çocuk düştü.",
-      "Yazdığı roman ödül aldı.",
-      "Söylediklerini kimse anlamadı.",
-      "Erken kalktığı için işe yetişebildi."
+      "'Mektup yazdı.' → 'Arkadaşına mektup yazdı.'",
+      "'Koştu.' → 'Hızla koştu.'",
+      "'Çocuk güldü.' → 'Çocuk yüksek sesle güldü.'",
+      "'Uyudu.' → 'Derin bir uyku uyudu.'",
+      "'Kitap okudu.' → 'Sabahleyin kitap okudu.'"
      ],
-     "dogru": 4,
-     "aciklama": "C seçeneğinde 'Erken kalktığı için işe yetişebildi' cümlesinde 'erken kalktığı için' yan cümlesi, temel cümlenin zarf tümlecidir. Ancak yüklemdeki 'yetişebildi' eylemi, anlam bakımından 'kalktığı' eylemini önkoşul olarak zorunlu kılar; yani yan cümlenin yüklemi gerçekleşmeden temel yüklem anlam kazanamaz. Bu yapı diğer seçeneklerden farklıdır: A ve D'de yan yapı sıfat işlevi görmekte, B'de özneyi nitelendirmekte, E'de ise yan yapı yalnızca zaman bildirmektedir.",
+     "dogru": 0,
+     "aciklama": "Dolaylı tümleç, yüklemi yönelme, bulunma veya ayrılma hâl ekleriyle tamamlayan ögedir. \"Mektup yazdı.\" cümlesine \"Arkadaşına\" sözcüğü eklenince yönelme hâl ekli bir öge doğar ve bu, cümlenin dolaylı tümlecidir. \"Hızla koştu.\" cümlesindeki \"Hızla\" fiilin nasıl yapıldığını bildiren bir zarf tümlecidir. \"Sabahleyin kitap okudu.\" cümlesindeki \"Sabahleyin\" zaman bildiren zarf tümlecidir. Doğru cevap \"'Mektup yazdı.' → 'Arkadaşına mektup yazdı.'\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -439,19 +440,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "40412",
+     "id": "39006",
      "dersId": "turkce",
      "konuId": "anlatim_bozukluklari",
-     "soru": "Aşağıdaki cümlelerin hangisinde yüklem eksikliğinden kaynaklanan anlatım bozukluğu vardır?",
+     "soru": "'Hasta, doktora giderek ilaç içti.' cümlesindeki anlatım bozukluğunun türü nedir?",
      "secenekler": [
-      "Bugün hava yağmurlu ve soğuk.",
-      "Bu şehirde doğdum, büyüdüm ve sevdim.",
-      "Kitaplardaki bilgiler çok faydalı ve önemli.",
-      "Toplantıya hem müdür hem de öğretmenler katıldı.",
-      "Ahmet çok çalışkan bir öğrenci."
+      "Gereksiz sözcük kullanımı (anlatım fazlalığı)",
+      "Özne ile yüklem arasında uyumsuzluk",
+      "Özne eksikliği",
+      "Mantık hatası (eylem sırası yanlışlığı)",
+      "Nesne eksikliği"
      ],
-     "dogru": 1,
-     "aciklama": "C seçeneğinde 'doğdum, büyüdüm ve sevdim' sıralanmasında anlam eksikliği söz konusudur. 'Sevdim' fiilinin nesnesi verilmemiştir; neyi ya da kimi sevdiği belirsizdir. 'Doğdum ve büyüdüm' yüklemleri tam anlamlıyken 'sevdim' yüklemi nesne gerektirdiği için eksik bırakılmış ve bu durum anlatım bozukluğuna yol açmıştır. 'Bu şehri sevdim' gibi bir tamamlama yapılmalıydı.",
+     "dogru": 3,
+     "aciklama": "Cümlede mantık sırası bozuktur. Normal süreçte önce doktora gidilir, ardından doktor ilaç yazar ve hasta eczaneden ilacı alır; ancak ilaç içmek doktora gitmeden önce gerçekleşemez ya da en azından doktora gidip hemen sonra ilaç içmek anlam karmaşası yaratır. Doğru sıra: 'Hasta doktora giderek ilaç yazdırdı ve içti.' biçiminde olmalıdır. Bu, eylemlerin mantıksal sırası bakımından bir anlatım bozukluğudur.",
      "zorluk": "kolay"
     },
     {

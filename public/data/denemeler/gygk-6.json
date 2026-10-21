@@ -524,19 +524,20 @@
      "zorluk": "zor"
     },
     {
-     "id": "101504",
+     "id": "101447",
      "dersId": "matematik",
      "konuId": "olasilik",
-     "soru": "Bir kutu içinde 6 beyaz ve 4 siyah bilye vardır. Yerine koymadan art arda 2 bilye çekiliyor. İkinci çekilen bilyenin siyah olma olasılığı nedir?",
+     "soru": "Bir torbada 3 kırmızı, 2 mavi ve 5 yeşil top vardır. Torbadan rastgele bir top çekildiğinde bu topun kırmızı olma olasılığı nedir?",
      "secenekler": [
-      "7/15",
-      "4/10",
       "2/5",
-      "16/90",
-      "4/9"
+      "3/10",
+      "3/5",
+      "1/2",
+      "1/5"
      ],
-     "dogru": 2,
-     "aciklama": "Toplam yol P(2. siyah): 1. beyaz sonra 2. siyah: (6/10)·(4/9)=24/90. 1. siyah sonra 2. siyah: (4/10)·(3/9)=12/90. Toplam: 36/90 = 2/5. Yanıltıcı: Öğrenci 'ilk çekimden bağımsız' zannederebbe 4/10 der. Aslında yerine koymadan çekildiğinde koşullu olasılık hesaplanmalı, ancak simetri nedeniyle sonuç yine 4/10=2/5'e eşit çıkar. İki yöntem de aynı sonucu verdiğinden sezgisel cevap doğru olmakla birlikte hesabı yazmak gerekir. Cevap: B) 2/5."
+     "dogru": 1,
+     "aciklama": "Toplam top sayısı: 3 + 2 + 5 = 10. Kırmızı top sayısı: 3. Kırmızı top çekme olasılığı = 3/10.",
+     "zorluk": "kolay"
     },
     {
      "id": "102262",

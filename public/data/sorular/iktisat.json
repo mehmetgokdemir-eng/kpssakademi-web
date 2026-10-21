@@ -1340,7 +1340,7 @@
    "İkinci derece fiyat ayrımcılığı; marjinal tüketicilerin piyasaya katılımını teşvik ederek çıktıyı artırabilir."
   ],
   "dogru": 4,
-  "aciklama": "Soruda tanımlanan uygulama, blok tarifedir: tüketim miktarına göre birim fiyatın değiştiği bu yapı ikinci derece (non-lineer) fiyat ayrımcılığına örnektir. İkinci derece fiyat ayrımcılığında firma bireysel tüketici rantlarını doğrudan gözlemleyemez; tüketiciler kendi kendilerini seçer (self-selection). Bu uygulamada yüksek tüketimde daha düşük birim fiyat sunulması, daha az satın almayı tercih edecek marjinal tüketicileri piyasaya çekebilir, bu da toplam çıktıyı artırır. D şıkkı yanlıştır çünkü ikinci derece fiyat ayrımcılığı her zaman refahı düşürmez; aksine, ölü ağırlık kaybını azaltabilir. Birinci derece fiyat ayrımcılığı her tüketiciden rezervasyon fiyatı alır; üçüncü derecede ise piyasalar gruplara göre ayrılır.",
+  "aciklama": "Tüketilen miktara göre farklı birim fiyat uygulanması, yani blok tarifesi, ikinci derece fiyat ayrımcılığıdır. Firma tüketicileri tek tek tanımaz; tüketiciler alacakları miktarı seçerek kendilerini ayrıştırır. Sonraki birimlere düşük fiyat uygulanması ek tüketimi teşvik eder. Böylece tek fiyatlı tekele göre çıktı artabilir ve bu durum refahı iyileştirebilir. Birinci derece fiyat ayrımcılığı içeren seçenekler yanlıştır, çünkü o türde her birim tüketicinin rezervasyon fiyatından satılır; burada ise yalnızca iki blok fiyatı vardır. \"Üçüncü derece fiyat ayrımcılığı; piyasaları esnekliğe göre ayırarak tekelci rantı maksimize eder.\" seçeneği de yanlıştır, çünkü ortada gözlenebilir özelliklere göre ayrılmış tüketici grupları yoktur. Refahın her zaman düştüğünü söyleyen seçenek ise mutlak ifadesi nedeniyle hatalıdır. Doğru cevap \"İkinci derece fiyat ayrımcılığı; marjinal tüketicilerin piyasaya katılımını teşvik ederek çıktıyı artırabilir.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -1661,22 +1661,6 @@
   ],
   "dogru": 4,
   "aciklama": "Cournot modelinde Firma 1'in tepki fonksiyonu: Kâr_1 = (100 - Q1 - Q2)Q1 - 10Q1. ∂Kâr_1/∂Q1 = 100 - 2Q1 - Q2 - 10 = 0 → Q1 = (90 - Q2)/2. Simetri nedeniyle Q1 = Q2 = Q: Q = (90 - Q)/2 → 2Q = 90 - Q → 3Q = 90 → Q = 30. Toplam Q = 60, P = 100 - 60 = 40 TL. Her firma 30 birim üretir. Doğru cevap B'dir.",
-  "zorluk": "zor"
- },
- {
-  "id": "46113",
-  "dersId": "iktisat",
-  "konuId": "mikro_i_ktisat",
-  "soru": "Tüketici teorisinde 'ortaya çıkarılmış tercihler zayıf aksiyomu' (WARP) ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-  "secenekler": [
-   "WARP, Slutsky denkleminin simetri koşulunu doğrudan ima etmez.",
-   "Eğer A demeti B demetine tercih edilmişse, fiyatlar değişip B alınabilir olduğunda artık A seçilemez.",
-   "WARP ihlali, tüketicinin farklı bütçe koşullarında birbiriyle çelişkili seçimler yaptığına işaret eder.",
-   "WARP, talebin azalan eğimli olduğunu garanti eder.",
-   "WARP, tüketicinin tutarlı seçimler yaptığını varsayar."
-  ],
-  "dogru": 3,
-  "aciklama": "WARP (Zayıf Ortaya Çıkarılmış Tercihler Aksiyomu), tüketici tercihlerinin tutarlılığını ifade eder: (x,y) bütçesinde x seçildiyse ve y de alınabilirken x tercih edildiyse, (y,x) bütçesinde y alınabilir olduğunda tüketici y'yi seçemez. A ve D doğrudur. E de doğrudur; WARP yalnızca ikili tutarlılığı garanti eder, Slutsky matrisinin tam simetrisini (dolayısıyla çok mallı durumda talep eğiminin kesinlikle azalan olduğunu) garantilemez — bunun için SARP (Güçlü Aksiyom) gerekir. C yanlıştır; WARP tek başına talebin azalan eğimli olduğunu garanti etmez. Normal mallarda Giffen paradoksu olmasa da WARP bu garantiyi vermez; talebin azalan eğimli olması için ek koşullar veya SARP gereklidir. Doğru cevap C'dir.",
   "zorluk": "zor"
  },
  {
@@ -3216,22 +3200,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "46218",
-  "dersId": "iktisat",
-  "konuId": "makro_i_ktisat",
-  "soru": "Bir merkez bankası açık piyasa işlemi kapsamında piyasadan tahvil satın almaktadır. Bu işlemin para çarpanı mekanizması üzerindeki etkisiyle ilgili aşağıdakilerden hangisi doğrudur?",
-  "secenekler": [
-   "Para tabanı azalır, para arzı daralır.",
-   "Para arzı doğrudan merkez bankası tarafından belirlenir, çarpan etkisi yoktur.",
-   "Para tabanı artar, zorunlu karşılık oranı düşerse para çarpanı büyür.",
-   "Tahvil alımı yalnızca faiz oranını düşürür, para tabanını etkilemez.",
-   "Para tabanı artar ancak para çarpanı değişmez."
-  ],
-  "dogru": 2,
-  "aciklama": "Merkez bankasının piyasadan tahvil satın alması genişleyici bir açık piyasa işlemidir. Bu işlem karşılığında piyasaya para çıkar ve para tabanı (rezervler + dolaşımdaki para) artar. Para çarpanı m = 1/(zorunlu karşılık oranı + nakit-mevduat oranı) formülüyle belirlenir; zorunlu karşılık oranı düşürülürse çarpan büyür ve para arzı daha fazla genişler. Soru, bu iki etkiyi doğru şekilde birleştiren B şıkkını sormaktadır.",
-  "zorluk": "orta"
- },
- {
   "id": "46219",
   "dersId": "iktisat",
   "konuId": "makro_i_ktisat",
@@ -3792,22 +3760,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "46254",
-  "dersId": "iktisat",
-  "konuId": "makro_i_ktisat",
-  "soru": "İki ülkeden oluşan bir dünyada ülke A'nın cari işlemler açığı GSYİH'ının %5'ine ulaşmıştır. Bu açığın 'sürdürülemez' sayılması için aşağıdaki koşullardan hangisinin tek başına varlığı en kritik göstergedir?",
-  "secenekler": [
-   "Merkez bankası rezervlerinin azalıyor olması",
-   "Reel döviz kurunun aşırı değerlenmiş görünmesi",
-   "Açığın sermaye girişleri yerine ağırlıklı olarak yüksek yurt içi tüketimden kaynaklanması",
-   "Cari açığın küresel faiz oranlarındaki artış nedeniyle giderek büyümesi ve sürdürülemez duruma gelmesi",
-   "Dış borç stokunun GSYİH'ye oranının oldukça yüksek olması"
-  ],
-  "dogru": 2,
-  "aciklama": "Cari açığın sürdürülebilirliği için kaynak kritiktir: açık yüksek verimli yatırımlardan besleniyorsa uzun dönemde geri ödeme kapasitesi doğar (Endonezya vakası). Ancak açık yurt içi tüketim fazlasından kaynaklanıyorsa gelecek dönem ihracat kapasitesi artmaz, borç geri ödemesi için gelir artışı olmaz ve döviz krizi riski yüksektir. Bu, Milesi-Ferretti ve Razin'in (1996) 'composition approach'ının özüdür. Diğer şıklar önemli olmakla birlikte tek başına belirleyici değildir; B şıkkı teorik çerçevede en kritik ayrıştırıcı faktördür.",
-  "zorluk": "zor"
- },
- {
   "id": "46255",
   "dersId": "iktisat",
   "konuId": "makro_i_ktisat",
@@ -4332,7 +4284,7 @@
    "Yalnızca faiz oranına bağlı olup gelirden bağımsızdır"
   ],
   "dogru": 0,
-  "aciklama": "Keynes para talebini üç güdüye ayırır: işlem güdüsü (gelire bağlı, +), ihtiyat güdüsü (gelire bağlı, +) ve spekülasyon güdüsü (faize bağlı, -). İhtiyat güdüsüyle tutulan para, beklenmedik harcamalara karşı tutulduğundan gelir düzeyi arttıkça artar; faiz oranıyla doğrudan ilişkisi ise Keynes'e göre bulunmaz. Bu nedenle doğru yanıt C seçeneğidir.",
+  "aciklama": "Keynes para talebini işlem, ihtiyat ve spekülasyon güdüsüne ayırır. İhtiyat güdüsü, beklenmedik harcamalara ve fırsatlara karşı elde para tutma isteğidir. Standart Keynesyen yaklaşımda bu talep işlem güdüsü gibi gelir düzeyine bağlıdır: gelir arttıkça ihtiyat amacıyla tutulan para da artar. Faiz oranına duyarlılık ise spekülasyon güdüsüne özgüdür. \"Hem gelir hem de faiz oranıyla pozitif ilişkilidir\" seçeneği yanlıştır, çünkü faiz yükseldiğinde paranın fırsat maliyeti artar ve faizle ilişki olsa bile pozitif değil negatif olurdu. \"Yalnızca faiz oranına bağlı olup gelirden bağımsızdır\" seçeneği ise spekülatif para talebini tanımlar, ihtiyat güdüsünü değil. Sonraki yazarlar ihtiyat talebinin faize duyarlılığını tartışmış olsa da Keynes'in temel modelinde ihtiyat talebi gelirin fonksiyonudur. Doğru cevap \"Yalnızca gelir düzeyine bağlıdır ve faizle ilişkisi yoktur\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -5021,22 +4973,6 @@
   ],
   "dogru": 2,
   "aciklama": "Fisher denklemi, nominal faizin reel faiz ile beklenen enflasyonun toplamı olduğunu söyler: i = r + π^e. Reel faiz, reel değişkenler (tasarruf, yatırım, verimlilik) tarafından belirlenir ve para politikasından bağımsız kabul edilir. Dolayısıyla beklenen enflasyon 1 puan arttığında nominal faiz de 1 puan artar; bu birebir ayarlanmaya Fisher etkisi denir. \"Beklenen enflasyondaki artış reel faizi düşürürken nominal faizi sabit tutar\" seçeneği yanlıştır, çünkü Fisher etkisinde nominal faiz uyum gösterir ve reel faiz sabit kalır. \"Fisher Etkisi yalnızca kapalı ekonomilerde geçerlidir\" seçeneği de yanlıştır; ilişki açık ekonomide de geçerlidir ve uluslararası Fisher etkisi olarak genişletilir. Doğru cevap \"Nominal faiz oranı, reel faiz oranı ile beklenen enflasyon toplamına eşit olup reel faiz sabitken nominal faiz beklenen enflasyonla birebir değişir\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "46333",
-  "dersId": "iktisat",
-  "konuId": "para_banka",
-  "soru": "Likidite tuzağı koşullarında merkez bankasının genişleyici para politikası uygulaması neden etkisizdir?",
-  "secenekler": [
-   "Döviz kuru esnekliği düşük olduğunda sermaye çıkışları faiz artışını sınırlayarak uygulanan politikanın reel ekonomideki etkisini nötrlemektedir ve politika aktarım mekanizması kırılmaktadır",
-   "Merkez bankasının bağımsızlığı kısıtlandığında hazinenin borçlanma talebi para arzı artışını tamamen yutar",
-   "Zorunlu karşılık oranının artırılması para çarpanını küçülteceğinden para politikası kendiliğinden dengelenmekte ve etkisizleşmektedir",
-   "Faiz oranları çok düşük olduğundan ekonomik birimler tahvil fiyatlarının ileride yükseleceğini (faizlerin düşeceğini) bekler; ek para arzı atıl nakit talebine dönüşür",
-   "Para talebinin faiz esnekliği sıfıra yaklaştığı için para arzındaki artış faizleri düşüremez"
-  ],
-  "dogru": 3,
-  "aciklama": "Keynes'in likidite tercihi teorisinde, faiz oranları kritik bir alt sınıra ulaştığında tahvil fiyatları tarihi zirvelerdedir. Ekonomik birimler faizlerin yalnızca yükselebileceğini (tahvil fiyatlarının düşeceğini) öngördüklerinden elde tutmak istedikleri para miktarı sonsuza yaklaşır. Bu nedenle merkez bankasının yarattığı ek para, sonsuz esnek para talebine (yatay LM eğrisi) rağmen faizi düşüremez ve gerçek yatırım harcamaları etkilenmez. A şıkkı para talebinin faiz esnekliğini yanlış yorumlamaktadır (sonsuz esneklik söz konusudur, sıfır değil).",
   "zorluk": "zor"
  },
  {
@@ -6749,22 +6685,6 @@
   ],
   "dogru": 1,
   "aciklama": "Marshall-Lerner koşuluna göre, arz esneklikleri sonsuz (arz tam esnek) varsayımı altında, ihracat ve ithalat talep esnekliklerinin mutlak değerleri toplamı 1'den büyükse değer kaybı dış ticaret dengesini iyileştirir. Toplam 1'den büyükse ihracat gelirindeki artış ve ithalat harcamasındaki azalma, birim fiyat etkisini aşar. Her iki esnekliğin ayrı ayrı 1 olması gerekmez, önemli olan toplamdır. \"İthalat talep esnekliğinin mutlak değerinin 1'den büyük olması yeterlidir.\" seçeneği yanlıştır, çünkü ihracat esnekliği de hesaba katılmalıdır. \"Marshall-Lerner koşulunun sağlanması için ihracat talep esnekliğinin 1, ithalat talep esnekliğinin de 1 olması yeterli ve zorunludur.\" seçeneği de koşulu yanlış aktarır. J-eğrisi ise yalnızca kısa dönemdeki geçici kötüleşmeyi anlatır. Doğru cevap \"İhracat arz esnekliğinin sonsuz, ihracat ve ithalat talep esnekliklerinin mutlak değerleri toplamının 1'den büyük olması gereklidir.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "46444",
-  "dersId": "iktisat",
-  "konuId": "uluslararasi_i_ktisat",
-  "soru": "Uluslararası sermaye hareketleri bağlamında, Mundell-Fleming modeli çerçevesinde, tam sermaye hareketliliği (perfect capital mobility) altında sabit kur rejiminde maliye politikasının etkinliğine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
-  "secenekler": [
-   "Tam sermaye hareketliliği altında sabit kurda para politikası çok etkili, maliye politikası ise orta derecede etkilidir.",
-   "Genişletici maliye politikası yurt içi faizi yükseltir, sermaye girişi ulusal parayı değerlendirmeye iter; merkez bankası sabit kuru korumak için döviz satar ve para arzı genişler, maliye politikası çok etkilidir.",
-   "Genişletici maliye politikası faiz oranını yükseltir, sermaye girişi olur, merkez bankası döviz alarak para arzını daraltır; sonuçta tam dışlama (crowding out) gerçekleşir ve maliye politikası etkisizdir.",
-   "Genişletici maliye politikası sabit kurda döviz rezervlerini etkilemediğinden para arzı değişmez ve IS eğrisi kaymasının tam etkisi gerçekleşir.",
-   "Maliye politikası sabit kurda, esnek kura kıyasla daha az etkilidir çünkü esnek kurda kur değer kaybıyla ihracat artışı geliri destekler."
-  ],
-  "dogru": 1,
-  "aciklama": "Mundell-Fleming modeli açısından: Tam sermaye hareketliliği + sabit kur rejimi = Maliye politikası çok etkili. Mekanizma şöyledir: Genişletici maliye politikası IS'yi sağa kaydırır → yurt içi faiz yükselme eğilimine girer → BP=0 için gerekli faiz düzeyinin üzerine çıkar → sermaye girişi artar → ulusal paraya talep artar → kur değerlenme baskısıyla karşı karşıya kalır → merkez bankası sabit kuru korumak için döviz alır (rezerv biriktirir) ve piyasaya para sürer → LM sağa kayar → faiz tekrar dünya faiz düzeyine döner, ancak milli gelir büyük ölçüde artar. A şıkkı esnek kur rejimini tanımlamaktadır (tam dışlama esnek kurda ortaya çıkar). D şıkkı da ters bir değerlendirme içerir.",
   "zorluk": "zor"
  },
  {

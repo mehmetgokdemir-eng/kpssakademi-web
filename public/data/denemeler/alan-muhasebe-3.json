@@ -328,19 +328,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "50397",
+     "id": "50434",
      "dersId": "muhasebe",
      "konuId": "mali_tablolar",
-     "soru": "Bir holding bünyesindeki X işletmesi 01.01.2024 tarihinde faaliyet kiralaması (TFRS 16) kapsamında 4 yıllık araç kirası sözleşmesi yapmıştır. Yıllık kira ödemesi 60.000 TL (yıl sonunda), iskonto oranı %10'dur. Kullanım hakkı varlığının ilk kayıt değeri ve ilk yıl sonunda gelir tablosuna yansıyacak toplam gider hangisinde doğru verilmiştir? (4 yıllık yıllık ödeme, %10 iskonto: anüite faktörü ≈ 3,1699)",
+     "soru": "Bir işletmenin 'finansal kaldıraç oranı' (toplam borç / toplam varlık) yükselirken 'faiz karşılama oranı' düşüyorsa bu durum aşağıdakilerden hangisine işaret eder?",
      "secenekler": [
-      "KHV = 190.194 TL, toplam gider = 60.000 TL",
-      "KHV = 190.194 TL, toplam gider = 66.019 TL",
-      "KHV = 190.194 TL, toplam gider = 84.019 TL",
-      "KHV = 200.000 TL, toplam gider = 66.000 TL",
-      "KHV = 240.000 TL, toplam gider = 60.000 TL"
+      "Borçlanmanın arttığına ve faiz yükünü karşılama gücünün zayıfladığına",
+      "Borçlanmanın azaldığına ve işletmenin özkaynak ağırlıklı finanse edildiğine",
+      "İşletmenin nakit dönüşüm süresini kısaltarak likiditesini güçlendirdiğine",
+      "Faaliyet kârlılığının yükselerek borç ödeme gücünün belirgin biçimde arttığına",
+      "Stok devir hızının artarak işletme sermayesi ihtiyacının azaldığına"
      ],
-     "dogru": 1,
-     "aciklama": "TFRS 16'ya göre kira yükümlülüğü = 60.000 × 3,1699 = 190.194 TL. Kullanım hakkı varlığı (KHV) da aynı tutarda başlangıç değeriyle kaydedilir (başlangıçta doğrudan gider yoksa). İlk yıl giderleri: (1) KHV amortismanı = 190.194 / 4 = 47.549 TL. (2) Faiz gideri = 190.194 × %10 = 19.019 TL. Toplam gider = 47.549 + 19.019 = 66.568 ≈ 66.019 TL (yuvarlama farkı). Eski faaliyet kiralamasında 60.000 TL giderleştirilirken TFRS 16 ile bu iki ayrı kalem olarak ve 66.019 TL toplam yük olarak gelir tablosuna yansır. Cevap A şıkkıdır.",
+     "dogru": 0,
+     "aciklama": "Kaldıraç oranının yükselmesi varlıkların giderek daha fazla yabancı kaynakla finanse edildiğini gösterir. Faiz karşılama oranının (FVÖK/faiz gideri) düşmesi ise faaliyet kârının faiz yükünü karşılama gücünün azaldığına işaret eder; ikisi birlikte artan finansal risk anlamına gelir.",
      "zorluk": "zor"
     },
     {

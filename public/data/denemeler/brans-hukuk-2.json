@@ -294,19 +294,20 @@
      "zorluk": "zor"
     },
     {
-     "id": "44050",
+     "id": "44019",
      "dersId": "hukuk",
      "konuId": "anayasa",
-     "soru": "Türkiye'de kanun hükmünde kararname ve Cumhurbaşkanlığı kararnamesi arasındaki farka ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+     "soru": "Aşağıdakilerden hangisi Anayasa'ya göre milletvekili seçilebilmek için aranan şartlar arasında yer almaz?",
      "secenekler": [
-      "Cumhurbaşkanlığı kararnameleri kanun gücünde olduğundan kanun hükmündeki kararnamelerle eş değerdir.",
-      "Cumhurbaşkanlığı kararnameleri yalnızca yürütme yetkisine ilişkin konuları düzenleyebilirken KHK'lar yasama alanına girebilirdi.",
-      "Her ikisi de kanunlarla çelişirse Anayasa Mahkemesi'nce iptal edilir, ancak sadece KHK'lar yargı denetimine tabidir.",
-      "Cumhurbaşkanlığı kararnameleri kanunlara aykırı olamaz; KHK'lar ise istisnai olarak kanun hükümlerini değiştirebilirdi.",
-      "Her iki düzenleme türü de Resmî Gazete'de yayımlanmak zorunda değildir."
+      "Otuz yaşını doldurmuş olmak",
+      "En az ilköğretim mezunu olmak",
+      "Yükümlülük dönemini tamamlamış olmak",
+      "Türk vatandaşı olmak",
+      "Kısıtlı olmamak"
      ],
-     "dogru": 1,
-     "aciklama": "2017 Anayasa değişikliğiyle KHK rejimi kaldırılmış, yerine Cumhurbaşkanlığı kararnamesi (CBK) getirilmiştir. KHK'lar, yetki kanununa dayanarak yasama alanına girebilir ve kanun gücünde sayılırdı. CBK'lar ise kanunla düzenlenmemiş ve münhasıran yürütme yetkisine ilişkin konuları düzenleyebilir; kanunla düzenlenen alanlarda CBK çıkarılamaz, çıkarılmış olsa bile kanun önce gelir. Bu temel fark C seçeneğinde doğru biçimde yansıtılmaktadır."
+     "dogru": 0,
+     "aciklama": "Milletvekili seçilme yaşı 18 olduğundan 'otuz yaşını doldurmuş olmak' aranan şartlar arasında değildir; ilkokul mezuniyeti, askerlikle ilişik ve vatandaşlık/kısıtlı olmama şartları ise mevcuttur. Doğru cevap Otuz yaşını doldurmuş olmak şeklindedir.",
+     "zorluk": "kolay"
     },
     {
      "id": "44143",

@@ -61,19 +61,19 @@
      "zorluk": "zor"
     },
     {
-     "id": "38182",
+     "id": "39594",
      "dersId": "turkce",
      "konuId": "cumlede_anlam",
-     "soru": "\"Kitap okumak, insanı hem derinleştirir hem de yüzeyselleştirir.\"\n\nBu cümleyle anlatılmak istenen düşünce aşağıdakilerden hangisiyle örtüşmektedir?",
+     "soru": "Aşağıdaki cümlelerin hangisinde özne ile yüklem arasındaki anlam ilişkisi, diğerlerinden farklı bir mantıksal bağlantı türüne dayanmaktadır?",
      "secenekler": [
-      "Okumanın insan üzerindeki etkileri tartışmalıdır.",
-      "Çok kitap okuyan insanlar zamanla sığ düşünmeye başlar.",
-      "Kitap okumak insanı bazı konularda uzmanlaştırırken bazı konularda bilgisizliğinin farkına vardırır.",
-      "Okumak, bireye çelişkili duygular yaşatır.",
-      "Kitap okuyan insanlar hem derin hem de sıradan olabilir."
+      "Sessizlik, söylenmemiş sözlerin en yüksek çığlığıdır.",
+      "Sabır, zamanın en iyi öğretmenine dönüşebilir.",
+      "Hız, dikkatin azaldığı yerde en büyük tehlikeye döner.",
+      "Yalnızlık, kalabalıkların içinde kendini bulur.",
+      "Korku, cesareti besleyen gizli bir güçtür."
      ],
-     "dogru": 2,
-     "aciklama": "Cümlede görünürde çelişkili olan iki yargı aslında birbirini tamamlayan bir anlam taşımaktadır: Kitap okumak kişiyi belirli alanlarda derinleştirirken, bilmediklerinin ne kadar geniş olduğunu fark etmesini sağlayarak o alanlarda 'yüzeyselliğinin bilincine' vardırır. Bu paradoksal ifade en doğru biçimde B seçeneğiyle açıklanmaktadır.",
+     "dogru": 3,
+     "aciklama": "Soruda özne ile yüklem arasındaki mantıksal bağın, diğerlerinden farklı türde olduğu cümle aranıyor. \"Sessizlik, söylenmemiş sözlerin en yüksek çığlığıdır.\" ve \"Korku, cesareti besleyen gizli bir güçtür.\" cümleleri özneyi başka bir kavramla özdeşleştirir. \"Sabır, zamanın en iyi öğretmenine dönüşebilir.\" ve \"Hız, dikkatin azaldığı yerde en büyük tehlikeye döner.\" cümleleri ise özneyi bir başka duruma dönüşen bir varlık olarak sunar. \"Yalnızlık, kalabalıkların içinde kendini bulur.\" cümlesinde ise özdeşlik ya da dönüşüm yoktur; özne belirli bir ortamda var olur, yani yer ve ortam ilişkisi kurulur. Doğru cevap \"Yalnızlık, kalabalıkların içinde kendini bulur.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -405,51 +405,51 @@
      "zorluk": "zor"
     },
     {
-     "id": "38841",
+     "id": "40236",
      "dersId": "turkce",
      "konuId": "cumle_ogeleri",
-     "soru": "\"Küçük kasabada yıllardır yaşayan, komşularına her zaman yardım eden, kendi sıkıntısını kimseye belli etmeyen Ahmet Bey, bu sabah kimseye haber vermeden sessizce göç etti.\" cümlesinin yapısıyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+     "soru": "Aşağıdaki cümlelerin hangisinde dolaylı tümleç, eylemin anlamına göre 'yönelme' değil 'bulunma' ilişkisi kurmaktadır?\n\nA) Çocuk, ağacın dalına tırmandı.\nB) Kitabı masanın üstüne bıraktı.\nC) Yarışmacılar pistinde koştu.\nD) Mektubu arkadaşına gönderdi.\nE) Hasta, yatağına uzandı.",
      "secenekler": [
-      "'Ahmet Bey' sözcüğü cümlenin öznesidir.",
-      "Cümlenin temel yüklemi 'göç etti'dir.",
-      "'Sessizce' sözcüğü zarf tümleci görevindedir.",
-      "'Kimseye' sözcüğü dolaylı tümleç görevindedir.",
-      "'Bu sabah' ifadesi zarf tümleci görevindedir."
+      "Kitabı masanın üstüne bıraktı.",
+      "Hasta, yatağına uzandı.",
+      "Çocuk, ağacın dalına tırmandı.",
+      "Yarışmacılar pistinde koştu.",
+      "Mektubu arkadaşına gönderdi."
      ],
      "dogru": 3,
-     "aciklama": "D şıkkı yanlıştır. 'Kimseye haber vermeden' yapısında 'kimseye' sözcüğü 'vermeden' zarf-fiilinin ögesidir; bu zarf-fiil temel cümlenin bir zarf tümlecini oluşturmaktadır. 'Kimseye' temel cümlenin dolaylı tümleci değil, zarf-fiil grubunun iç ögesidir. Temel cümlede ayrı bir dolaylı tümleç bulunmamaktadır.",
+     "aciklama": "Dolaylı tümleç, eylemin yöneldiği, bulunduğu ya da çıktığı yeri bildirir. Yönelme ilişkisi -e hâli ile kurulur, bulunma ilişkisi ise -de hâli ile kurulur. \"Yarışmacılar pistinde koştu.\" cümlesinde \"pistinde\" -de hâli taşır ve eylemin yapıldığı yeri bildirir. Bu nedenle bulunma ilişkisi kurar. Diğer seçeneklerin hepsinde ögeler -e hâli almıştır ve eylem bir yöne doğrudur. \"Ağacın dalına tırmandı\" ve \"yatağına uzandı\" ifadelerinde yönelme vardır. \"Masanın üstüne bıraktı\" ve \"arkadaşına gönderdi\" ifadelerinde de eylem bir yöne doğrudur. Doğru cevap \"Yarışmacılar pistinde koştu.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
-     "id": "38847",
+     "id": "38869",
      "dersId": "turkce",
      "konuId": "fiil_catisi",
-     "soru": "Aşağıdaki cümlelerin hangisinde dönüşlü çatılı bir fiil vardır?",
+     "soru": "Aşağıdaki cümlelerin hangisinde ettirgenlik eki kullanılmıştır?",
      "secenekler": [
-      "Ayşe saçını taradı.",
-      "Kardeşim ütüyü açtı.",
-      "Öğretmen tahtayı sildi.",
-      "Berber müşteriyi tıraş etti.",
-      "Anne çocuğunu taradı."
+      "Ahmet bahçeyi temizletti.",
+      "Ahmet bahçeyi temizledi.",
+      "Ahmet bahçeyle ilgilendi.",
+      "Bahçe temizdir.",
+      "Bahçe temizlendi."
      ],
      "dogru": 0,
-     "aciklama": "Dönüşlü çatıda özne, eylemi kendi üzerinde gerçekleştirir; yani özne hem etken hem de edilgen konumdadır. 'Ayşe saçını taradı' cümlesinde Ayşe, tarama eylemini kendi üzerinde gerçekleştirmiştir. A seçeneğinde ise özne (anne) eylemi başkasına (çocuğuna) uygulamaktadır.",
+     "aciklama": "Ettirgen çatıda iş özne tarafından başkasına yaptırılır. \"Ahmet bahçeyi temizletti.\" cümlesinde fiil kökü \"temizle-\" ile ettirgenlik eki \"-t-\" birleşmiştir, çünkü Ahmet temizleme işini başkasına yaptırmıştır. \"Ahmet bahçeyi temizledi.\" cümlesinde ek yoktur ve fiil etkendir. \"Bahçe temizlendi.\" cümlesindeki -n eki edilgenlik bildirir. \"Ahmet bahçeyle ilgilendi.\" cümlesinde \"ilgilen-\" fiili dönüşlüdür. \"Bahçe temizdir.\" cümlesi ise ek fiille kurulmuş bir isim cümlesidir. Doğru cevap \"Ahmet bahçeyi temizletti.\" seçeneğidir.",
      "zorluk": "kolay"
     },
     {
-     "id": "38979",
+     "id": "40394",
      "dersId": "turkce",
      "konuId": "anlatim_bozukluklari",
-     "soru": "\"Ne kadar çok ders çalışırsan o kadar başarılı olacaksın.\" cümlesinin anlatım bozukluğu olmadan değiştirilen biçimi aşağıdakilerden hangisidir?",
+     "soru": "Aşağıdaki cümlelerin hangisinde bağlaç yanlışlığı (bağlaç-anlam uyumsuzluğu) vardır?",
      "secenekler": [
-      "Ders çalıştıkça başarılı olursun.",
-      "Ders çalışmak başarıyı getirir.",
-      "Ne kadar çok ders çalışırsan o kadar çok başarılı olursun.",
-      "Başarılı olmak için ders çalışmalısın.",
-      "Çok ders çalışırsan başarılı olursun."
+      "Sıkı çalışmadığı hâlde sınavı geçti.",
+      "Hem çalıştı hem de dinlendi.",
+      "Ya bugün gelir ya da yarın gelir.",
+      "Çok yoruldu ama çalışmaya devam etti.",
+      "Çok çalıştı ve sınavı kazanamadı."
      ],
-     "dogru": 0,
-     "aciklama": "Özgün cümlede 'ne kadar... o kadar' bağıntılı yapısı doğru kurulmuştur; ciddi bir anlatım bozukluğu içermemektedir. Ancak zaman-kip uyumsuzluğu incelenirse 'çalışırsan... olacaksın' yapısında geniş zaman koşuluyla gelecek zaman sonucu tutarsızdır. B seçeneğindeki '-dikçe' ekiyle kurulan yapı, hem anlam hem de biçim bakımından en akıcı ve bozukluğu gidermiş ifadedir.",
+     "dogru": 4,
+     "aciklama": "\"Çok çalışmak\" ile \"sınavı kazanamamak\" arasında beklenmedik bir karşıtlık vardır. Karşıtlığı \"ve\" gibi sıralama bağlacı değil \"ama\", \"fakat\" ya da \"yine de\" gibi karşıtlık bildiren bağlaçlar kurar; cümle \"Çok çalıştı ama sınavı kazanamadı.\" olmalıdır. \"Çok yoruldu ama çalışmaya devam etti.\" cümlesinde \"ama\" yerindedir, çünkü yorgunlukla devam etme arasında karşıtlık vardır. \"Sıkı çalışmadığı hâlde sınavı geçti.\" cümlesinde de \"hâlde\" karşıtlığı doğru bağlar. Doğru cevap \"Çok çalıştı ve sınavı kazanamadı.\" seçeneğidir.",
      "zorluk": "kolay"
     },
     {

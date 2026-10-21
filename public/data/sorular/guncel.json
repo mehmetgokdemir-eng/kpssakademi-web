@@ -3868,7 +3868,7 @@
    "Uzay üssü kurmak için uluslararası iş birliği geliştirmek"
   ],
   "dogru": 1,
-  "aciklama": "Türkiye Uzay Ajansı'nın 2033 ulusal uzay programı hedefleri arasında Ay'a yumuşak iniş (hedef yılı 2028), yerli roketle uydu fırlatma kapasitesi kazanma, mikro uydu geliştirme ve uluslararası iş birlikleri yer almaktadır. Ancak Mars'a insanlı görev düzenleme hedefi, Türkiye'nin mevcut 2033 vizyonu kapsamında belirtilmemiştir; bu, günümüzde yalnızca NASA, SpaceX ve Çin'in açıkladığı uzun vadeli bir hedeftir. Bu nedenle C seçeneği Türkiye'nin resmi hedefleri arasında yer almamaktadır.",
+  "aciklama": "Türkiye'nin Milli Uzay Programı, Ay'a önce sert iniş, ardından yerli roketle yumuşak iniş yapılmasını hedefler. Programda uydu ve roket teknolojilerinin geliştirilmesi, uluslararası iş birliğiyle uzay limanı kurulması ve küçük uydu kabiliyetlerinin artırılması gibi başlıklar da yer alır. Buna karşılık Mars'a insanlı görev, bu programın da yakın vadeli hedeflerin de kapsamında değildir; böyle bir hedef bugün yalnızca en büyük uzay ajanslarının uzun vadeli planlarında bulunmaktadır. \"Ay'a yumuşak iniş gerçekleştirmek\" seçeneği sık karıştırılır, oysa Ay görevinin ikinci aşaması tam olarak budur. \"Türkiye'nin kendi roketi ile uydu fırlatmak\" seçeneği de yerli fırlatma kabiliyeti hedefi olarak programın temel unsurlarındandır. Doğru cevap \"Mars'a insanlı görev düzenlemek\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -4012,7 +4012,7 @@
    "Milisaniyenin altına düşen gecikme süresi (latency) ve çok daha yüksek veri hızı"
   ],
   "dogru": 4,
-  "aciklama": "5G'nin en belirgin teknik avantajları çok yüksek veri hızı (teorik olarak 10 Gbps'ye kadar) ve son derece düşük gecikme süresidir (1 ms'nin altında). Bu özellikler otonom araçlar, uzaktan cerrahi, endüstriyel IoT ve artırılmış gerçeklik gibi gecikmeye duyarlı uygulamalar için kritik önem taşır. 5G, yüksek frekanslı milimetre dalgaları kullandığından kapsama alanı daha sınırlıdır ve daha fazla baz istasyonu gerektirir; bu nedenle A ve C şıkları yanlıştır.",
+  "aciklama": "5G'yi 4G/LTE'den ayıran temel teknik avantajlar, çok daha yüksek veri hızı ve çok düşük gecikmedir. Ultra güvenilir düşük gecikmeli iletişim senaryosunda hedeflenen gecikme yaklaşık 1 milisaniye düzeyindedir. Seçenekteki \"milisaniyenin altına düşen\" ifadesi biraz iddialı olsa da diğer seçeneklerin tamamı açıkça yanlış olduğundan doğru cevap budur. \"Daha geniş kapsama alanı ve bina içi daha iyi sinyal kalitesi\" seçeneği yanlıştır; 5G'nin yüksek frekans bantları daha kısa menzile sahiptir ve duvarları daha zor geçer. \"Daha az baz istasyonu gerektirmesi nedeniyle düşük altyapı maliyeti\" seçeneği de yanlıştır, çünkü 5G genellikle daha yoğun küçük hücre ağı gerektirir. Doğru cevap \"Milisaniyenin altına düşen gecikme süresi (latency) ve çok daha yüksek veri hızı\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -4412,7 +4412,7 @@
    "TÜRKSAT 5B, önceki nesil TÜRKSAT uydularına kıyasla daha geniş bir coğrafi kapsama alanına sahiptir."
   ],
   "dogru": 2,
-  "aciklama": "TÜRKSAT 5B, Airbus Defence and Space tarafından üretilmiştir; dolayısıyla tamamen yerli ve milli kaynaklarla geliştirilen bir uydu değildir. Türkiye'nin tamamen yerli geliştirmeyi hedeflediği haberleşme uydusu projesi TÜRKSAT 6A'dır. TÜRKSAT 6A, yerli üretim süreçleriyle geliştirilen ilk haberleşme uydusu olarak öne çıkmaktadır. D şıkkındaki ifade bu nedenle yanlıştır.",
+  "aciklama": "TÜRKSAT 5B, Airbus tarafından üretilmiş ve Aralık 2021'de SpaceX Falcon 9 roketiyle fırlatılmıştır; dolayısıyla tamamen yerli bir uydu değildir. Yerli ve milli imkânlarla geliştirilen ilk haberleşme uydusu TÜRKSAT 6A'dır. Bu nedenle uydunun tamamen yerli ilk haberleşme uydusu olduğunu söyleyen ifade yanlıştır. \"TÜRKSAT 5B, SpaceX Falcon 9 roketi ile fırlatılmış olup tamamen yerli yapım bir uydu değildir.\" ifadesi ise doğru bir bilgidir; soru yanlış ifadeyi istediği için cevap olamaz. Yüksek kapasiteli Ka bandı sunması ve geniş bir bölgeyi kapsaması da doğru bilgilerdir. Soru kökündeki fırlatma yılı hatalı olsa da cevabı değiştirmez. Doğru cevap \"TÜRKSAT 5B, Türkiye'nin tamamen yerli ve milli kaynaklarla geliştirdiği ilk haberleşme uydusudur.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4684,7 +4684,7 @@
    "Cas9'un nikaz (nickase) mutantı ile çift guide RNA stratejisinin kombinasyonu"
   ],
   "dogru": 1,
-  "aciklama": "Hedef dışı etkileri azaltmaya yönelik en köklü çözüm, çift zincir kırığı yapmadan tek bazı değiştiren 'baz düzenleme' ve herhangi bir çift zincir kırığı oluşturmadan küçük sekans değişikliklerine olanak tanıyan 'ana düzenleme (prime editing)' teknolojilerinin geliştirilmesidir. Bu yöntemler 2023 itibarıyla birden fazla klinik deneme aşamasındadır ve off-target etkiyi dramatik biçimde azaltır. A, C, D ve E seçenekleri kısmen doğru önlemler içerse de hiçbiri klinik uygulamaya yakınlık ve off-target azaltma etkinliği açısından B seçeneğiyle yarışamaz. Prime editing, Cas9 türevli bir enzim, ters transkriptaz ve prime editing guide RNA kombinasyonu kullanarak DNA'yı doğrudan düzeltir.",
+  "aciklama": "Baz düzenleme ve ana düzenleme, DNA'da çift zincir kırığı oluşturmadan hedefli değişiklik yapar. Bu sayede hedef dışı kesimlere ve istenmeyen eklenti ya da silinmelere bağlı riskler önemli ölçüde azalır. 2023 itibarıyla baz düzenleme insan klinik denemelerine girmiş, ana düzenleme de klinik aşamaya yaklaşmıştır; bu yüzden soruda tarif edilen yaklaşım budur. \"Cas9'un nikaz (nickase) mutantı ile çift guide RNA stratejisinin kombinasyonu\" seçeneği de hedef dışı etkiyi azaltır. Ancak bu daha eski bir laboratuvar stratejisidir ve klinik gelişimde baz düzenlemenin gerisinde kalmıştır. \"Guide RNA'nın 18 nükleotid yerine 24 nükleotid uzunluğunda tasarlanması\" seçeneği yanlıştır; standart guide yaklaşık 20 nükleotiddir ve uzatmak özgüllüğü güvenilir biçimde artırmaz. Doğru cevap \"Baz düzenleme (base editing) ve ana düzenleme (prime editing) teknolojilerinin geliştirilmesi\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4701,22 +4701,6 @@
   ],
   "dogru": 1,
   "aciklama": "JWST'nin temel üstünlüğü kızılötesi gözlem yapabilmesidir. Evrenin ilk yıldız ve galaksilerinin ışığı, evrenin genişlemesi nedeniyle yüksek kırmızıya kayma yaşar ve görünür dalga boylarından kızılötesine kayar. Hubble ağırlıklı olarak görünür ve yakın kızılötesinde çalıştığından bu çok uzak, çok eski nesneleri yeterince gözlemleyemez. JWST'nin büyük aynası ve kızılötesine duyarlı araçları bu nesneleri görmesini sağlar. \"Evrenin büyük patlama sonrası ilk 400.000 yılında oluşan kozmik mikrodalga arka plan radyasyonunun haritalanması\" seçeneği yanlıştır, çünkü bu işi mikrodalga gözlem yapan Planck ve WMAP gibi uydular yapmıştır. \"Yakın yıldızlar etrafındaki gezegen atmosferlerinde oksijen gazının doğrudan tespiti\" seçeneği de yanlıştır, çünkü JWST'nin ana hedeflerinden biri bu değildir ve bu tür bir tespit bugüne kadar gerçekleştirilmemiştir. Doğru cevap \"Yüksek kırmızıya kayma (high redshift) değerlerine sahip ilk nesil yıldız ve galaksilerin gözlemlenmesi\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "36314",
-  "dersId": "guncel",
-  "konuId": "bilim_teknoloji",
-  "soru": "Türkiye'de 2018 yılında kurulan ve yapay zeka ile savunma teknolojileri geliştiren HAVELSAN'ın geliştirdiği otonom denizaltı projesi ile aşağıdaki doğru bilgi kombinasyonu hangisinde yer almaktadır?",
-  "secenekler": [
-   "ULAQ – Deniz yüzeyi aracı; HAVELSAN değil, Meteksan ve ARES Tersanesi iş birliğiyle geliştirilmiştir.",
-   "MÜREN – Tam otonom, insansız, silahlı denizaltı sınıfı; 2022'de göreve başlamıştır.",
-   "MARLIN – NATO standartlarına uygun sualtı gözetleme aracı; HAVELSAN-Leonardo iş birliğinin ürünüdür.",
-   "TORK – Otonom sualtı aracı; tamamen HAVELSAN iç kaynakları ile üretilmiş ve ihracat lisansı almıştır.",
-   "ARMA – Hem kara hem de deniz ortamında faaliyet gösterebilen çift ortam insansız aracı projesidir."
-  ],
-  "dogru": 0,
-  "aciklama": "ULAQ, Türkiye'nin ilk silahlı insansız deniz yüzeyi aracı (USV) olup Meteksan Savunma ve ARES Tersanesi iş birliğiyle geliştirilmiştir; HAVELSAN bu projenin ana yüklenicisi değildir. HAVELSAN daha çok yazılım, siber güvenlik ve komuta-kontrol sistemleri alanında faaliyet göstermektedir. MÜREN ise gerçek bir proje adı olmakla birlikte tam otonom silahlı denizaltı olarak tarif edilmesi yanlıştır. Bu soru, öğrencilerin savunma sanayii firmalarını ve projelerini birbirine karıştırmasına yönelik bir tuzak içermektedir. Doğru eşleştirme B seçeneğindedir.",
   "zorluk": "zor"
  },
  {
@@ -4780,7 +4764,7 @@
    "Deuteryum-Trityum reaksiyonunda açığa çıkan nötronların reaktör duvarı malzemeleriyle etkileşim enerjisini"
   ],
   "dogru": 0,
-  "aciklama": "Lawson kriteri, John D. Lawson tarafından 1955'te formüle edilen ve füzyon reaktöründe net enerji kazancı elde edebilmek için plazma yoğunluğu (n), enerji hapsolma süresi (τ) ve plazma sıcaklığı (T) ürününün (n·τ·T üçlü çarpımı) belirli bir eşiği aşması gerektiğini belirleyen kriterdir. Bu kriter fisyon ile değil füzyon ile ilgilidir; dolayısıyla A seçeneği kavramı yanlış alana uygulamaktadır. C seçeneğindeki beta parametresi ayrı bir kavramdır. D seçeneğindeki Q faktörü Lawson kriterinden türetilebilir ancak Lawson kriterinin kendisi değildir. E seçeneği ise nötronik bir kavramı tanımlamaktadır.",
+  "aciklama": "Lawson kriteri, bir füzyon plazmasında üretilen enerjinin kayıpları karşılayıp net kazanç ya da tutuşma sağlayabilmesi için gereken koşulu tanımlar. Bu koşul, plazma yoğunluğu ile enerji hapsolma süresinin çarpımının, sıcaklıkla birlikte ele alındığında belirli bir minimum değeri aşması olarak ifade edilir. Bu nedenle üçlü çarpıma dayanan minimum eşik tanımı doğrudur. \"Füzyon reaktörünün ticari uygulamaya geçebilmesi için Q faktörünün aşması gereken minimum değeri\" seçeneği farklı bir kavramdır; Q, çıkış gücünün giriş gücüne oranıdır ve ticari eşik Lawson kriterinin tanımı değildir. \"Tokamak tasarımında manyetik alan şiddetinin plazma basıncına oranını ifade eden beta parametresini\" seçeneği de yanlıştır; beta, plazma basıncının manyetik basınca oranıdır ve ayrı bir parametredir. Doğru cevap \"Plazma sıcaklığı, yoğunluğu ve hapsolma süresinin çarpımına dayanan ve net enerji kazancı için gerekli minimum eşiği\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -6284,7 +6268,7 @@
    "Türkiye, Venedik Bienali'ne ilk kez 1950'li yıllarda katılmıştır."
   ],
   "dogru": 3,
-  "aciklama": "Türkiye 1950'lerden beri Venedik Bienali'ne katılmaktadır (E doğru), buna karşılık kalıcı pavyon/Arsenale'de kalıcı mekân hakkı 1990'larda değil 2010'larda elde edilmiştir, dolayısıyla yanlış ifade D'dir. Doğru cevap D seçeneğidir.",
+  "aciklama": "Türkiye, Venedik Bienali'nde 1990'larda kalıcı bir ulusal pavyon hakkı elde etmemiştir. Uzun süre geçici mekânlarda yer almış, Arsenale'deki uzun vadeli pavyon mekânını ancak 2014 yılında, yirmi yıllık bir tahsisle edinmiştir. Bu nedenle soruda aranan yanlış ifade bu seçenektir. İtirazda öne sürülen 1938 tarihli ilk katılım iddiası yaygın kabul görmez; kaynaklar Türkiye'nin bienale ilk katılımını 1950'li yıllara tarihlendirir. Dolayısıyla \"Türkiye, Venedik Bienali'ne ilk kez 1950'li yıllarda katılmıştır.\" ifadesi doğrudur. Pavyon koordinasyonunun dönemlere göre bakanlık ve İKSV tarafından üstlenildiği de doğrudur. Canan Tolon'un Türkiye Pavyonu'nda yer alması ve Haluk Akakçe'nin uluslararası alanda tanınan bir sanatçı olması da doğru bilgilerdir. Doğru cevap \"Türkiye, Venedik Bienali'nde ulusal pavyon kurma hakkını kalıcı olarak 1990'larda elde etmiştir.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {

@@ -199,19 +199,19 @@
      "aciklama": "Stopaj (kaynakta kesinti), vergiyi doğuran ödemenin gerçekleştiği anda üçüncü bir taraf (işveren, banka vb.) aracılığıyla verginin kesilip hazineye aktarılmasını sağlar. Bu yöntemle tahsilat güvence altına alınır, gecikme riski azaltılır ve vergi idaresinin denetim maliyeti düşürülür. Aynı zamanda mükelleflerin nakit yönetimini kolaylaştırır."
     },
     {
-     "id": "48215",
+     "id": "48575",
      "dersId": "maliye",
      "konuId": "kamu_harcamalari",
-     "soru": "Kamu harcamalarının sınıflandırılmasında 'transfer harcamaları' ile 'reel (gerçek) harcamalar' arasındaki temel fark göz önüne alındığında, aşağıdaki senaryoların hangisinde söz konusu ayrım yanlış uygulanmış ve bu yanlışlığın millî gelir hesaplarına yansıması doğru tespit edilmiştir?",
+     "soru": "Kamu harcamalarının artışını açıklayan 'rant kollama' (rent seeking) yaklaşımının temel savı aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Sosyal güvenlik transferleri ve borç faiz ödemeleri reel harcama değil, transfer harcamasıdır; dolayısıyla GSYH hesabında devlet harcaması bileşenine dahil edilmezler ve bu doğru bir uygulamadır.",
-      "Faiz ödemeleri reel harcama niteliği taşıdığından kamu tüketim harcamaları içinde yer almalı; GSYH hesaplamalarında hükümet harcaması kalemi bu tutarlar dahil edilmeden hesaplanırsa ulusal gelir eksik ölçülür.",
-      "Askeri teçhizat alımları bir faktör karşılığı yapılmadığından transfer harcaması sayılmalı; GSYH hesaplamalarında yatırım kalemi içinde değil transfer kalemi içinde raporlanmalıdır.",
-      "Devletin kamu işçilerine ödediği ücretler transfer harcaması sayılmalıdır; çünkü devlet bu kişilere karşılıksız ödeme yapmaktadır. Bu nedenle söz konusu ödemeler GSYH hesaplamalarında dışlanmalıdır.",
-      "Yaşlılık aylıkları reel harcama sayılmalıdır; çünkü devlet bu ödemelerle kaynakları fiyat mekanizması dışında tahsis etmektedir. GSYH bu tutarlar kadar küçümsenmiş olur."
+      "Çıkar gruplarının devlet eliyle yaratılan ayrıcalıklardan pay almak için kaynak harcaması",
+      "Kamu harcamalarının yalnızca nüfus artışına bağlı olarak kendiliğinden ve sürekli biçimde yükselmesi",
+      "Devletin savunma harcamalarını azaltarak sosyal harcamaları artırma eğilimi göstermesi",
+      "Bürokrasinin bütçe büyüklüğünü sürekli olarak küçültmeye çalışması ve tasarruf etmesi",
+      "Kamu harcamalarının yalnızca teknolojik gelişmeye bağlı olarak değişkenlik göstermesi"
      ],
      "dogru": 0,
-     "aciklama": "Reel (gerçek) harcamalar; mal, hizmet ya da üretim faktörü satın alımlarını kapsar ve karşılığında ekonomiye doğrudan kaynak kullanımı gerçekleşir. Transfer harcamaları ise karşılıksız ödemeler olup kaynakların yeniden dağıtımını sağlar (sosyal yardımlar, faiz ödemeleri, sübvansiyonlar vb.). GSYH, yalnızca reel üretimi ölçtüğünden, transfer harcamaları hükümet harcaması (G) bileşenine dahil edilmez; ancak transferlerin tüketimi artırması dolaylı yoldan GSYH'yi etkiler. A şıkkında kamu ücretleri transfermiş gibi gösterilmiş; B'de yaşlılık aylıkları yanlış sınıflandırılmış; C'de faiz ödemeleri reel harcama sayılmış; E'de savunma alımları yanlış kategorize edilmiştir. Yalnızca D şıkkı hem sınıflandırmayı hem GSYH etkisini doğru biçimde açıklar.",
+     "aciklama": "Tullock ve Krueger'in geliştirdiği rant kollama yaklaşımına göre çıkar grupları; teşvik, imtiyaz ve koruma gibi devlet eliyle yaratılan rantlardan pay almak için lobi faaliyetine kaynak ayırır. Bu kaynaklar üretken kullanımdan çekildiğinden toplumsal refah kaybı doğar.",
      "zorluk": "zor"
     },
     {

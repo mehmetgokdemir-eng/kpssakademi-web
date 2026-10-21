@@ -1,0 +1,733 @@
+[
+ {
+  "ders": "cografya",
+  "id": "32291",
+  "konu": "harita_koordinat",
+  "soru": "Bir araştırmacı, aynı meridyen üzerinde bulunan iki şehir arasındaki gerçek mesafeyi bulmak için 1/1.000.000 ölçekli bir harita kullanıyor. Harita üzerinde iki şehir arasındaki mesafe 15 cm olarak ölçülmüştür. Ancak araştırmacı, haritanın %5 oranında yatay yönde baskı hatasına uğradığını (harita yatayda %5 büyümüş) fark etmiştir. Gerçek mesafe yaklaşık kaç km'dir?",
+  "secenekler": [
+   "150 km",
+   "143,75 km",
+   "142,86 km",
+   "160 km",
+   "157,5 km"
+  ],
+  "yeniAnahtar": "A",
+  "yeniMetin": "150 km",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Aynı meridyen üzerindeki iki şehir kuzey-güney doğrultusunda yer alır, dolayısıyla haritada aralarındaki çizgi dikey yöndedir. Baskı hatası yalnızca yatay yönde (%5 büyüme) olduğundan dikey ölçümler bu hatadan etkilenmez. 1/1.000.000 ölçekli haritada 1 cm, gerçekte 10 km'ye karşılık gelir. Buna göre 15 cm × 10 km = 150 km bulunur. \"142,86 km\" sonucu, ölçülen 15 cm'nin 1,05'e bölünmesiyle elde edilir; ancak bu düzeltme yalnızca doğu-batı doğrultusundaki ölçümlerde gerekir, meridyen boyunca yapılan bir ölçüme uygulanması hatalıdır. \"157,5 km\" ise ölçümün 1,05 ile çarpılmasıyla bulunur; bu sonuç hem işlem yönü hem de ölçüm doğrultusu bakımından yanlıştır. Doğru cevap \"150 km\" seçeneğidir."
+ },
+ {
+  "ders": "cografya",
+  "id": "32528",
+  "konu": "turkiye_i_klimi",
+  "soru": "Aşağıdaki tabloda dört istasyona ait bazı iklim verileri verilmiştir:\n\nİstasyon 1: En sıcak ay 28°C, en soğuk ay 6°C, yıllık yağış 620 mm, yağışın %70'i kış-ilkbaharda\nİstasyon 2: En sıcak ay 22°C, en soğuk ay –8°C, yıllık yağış 380 mm, yağışlar yıla düzenli dağılmış\nİstasyon 3: En sıcak ay 25°C, en soğuk ay 12°C, yıllık yağış 1.850 mm, yıl boyu yağışlı\nİstasyon 4: En sıcak ay 30°C, en soğuk ay –12°C, yıllık yağış 410 mm, yağışın %45'i ilkbaharda\n\nBu istasyonları doğru sırayla Antalya – Ankara – Rize – Erzurum olarak eşleştiren seçenek hangisidir?",
+  "secenekler": [
+   "1-Antalya, 4-Ankara, 3-Rize, 2-Erzurum",
+   "3-Antalya, 1-Ankara, 4-Rize, 2-Erzurum",
+   "2-Antalya, 1-Ankara, 4-Erzurum, 3-Rize",
+   "1-Ankara, 2-Antalya, 3-Erzurum, 4-Rize",
+   "1-Antalya, 2-Ankara, 3-Rize, 4-Erzurum"
+  ],
+  "yeniAnahtar": "A",
+  "yeniMetin": "1-Antalya, 4-Ankara, 3-Rize, 2-Erzurum",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "İstasyon 1'de yağışın büyük kısmı kış ve ilkbaharda düşüyor, yazlar sıcak, kışlar ılık; bu Akdeniz iklimine, yani Antalya'ya uyar. İstasyon 3 yıl boyu yağışlı ve 1.850 mm yağış alıyor; bu Rize'dir. İstasyon 4'te yağışın en çok ilkbaharda düşmesi ve yazın sıcak geçmesi İç Anadolu step iklimini, yani Ankara'yı gösterir. İstasyon 2'nin serin yazı ve sert kışı ise yükseltinin etkisiyle yazları serin geçen Erzurum'a uyar. \"1-Antalya, 2-Ankara, 3-Rize, 4-Erzurum\" seçeneği yanlıştır, çünkü 30°C'lik sıcak yaz, yüksek rakımlı Erzurum'un serin yaz özelliğiyle bağdaşmaz. \"3-Antalya, 1-Ankara, 4-Rize, 2-Erzurum\" seçeneği de yanlıştır, çünkü Rize'yi en az yağış alan istasyonlardan biriyle eşleştirir. Doğru cevap \"1-Antalya, 4-Ankara, 3-Rize, 2-Erzurum\" seçeneğidir."
+ },
+ {
+  "ders": "cografya",
+  "id": "32759",
+  "konu": "nufus_yerlesme",
+  "soru": "Aşağıda Türkiye'nin farklı bölgelerindeki dört ilin 2023 yılı tahmini net göç katsayıları (binde) verilmiştir:\n\n• İl 1: +42,3\n• İl 2: –18,7\n• İl 3: +6,1\n• İl 4: –31,5\n\nBu illerin sırasıyla hangi demografik özellikteki illerle eşleşmesi, Türkiye'nin iç göç dinamikleriyle en tutarlı sonucu verir?",
+  "secenekler": [
+   "İl 1: Kocaeli, İl 2: Nevşehir, İl 3: Bingöl, İl 4: Mersin",
+   "İl 1: Antalya, İl 2: Ağrı, İl 3: İzmir, İl 4: Muş",
+   "İl 1: Tekirdağ, İl 2: Ağrı, İl 3: Konya, İl 4: Şırnak",
+   "İl 1: Erzurum, İl 2: Antalya, İl 3: Kocaeli, İl 4: Nevşehir",
+   "İl 1: Muş, İl 2: İstanbul, İl 3: Samsun, İl 4: Ankara"
+  ],
+  "yeniAnahtar": "C",
+  "yeniMetin": "İl 1: Tekirdağ, İl 2: Ağrı, İl 3: Konya, İl 4: Şırnak",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Soru kökü dört ilin farklı bölgelerden olduğunu belirtiyor. Bu koşulu sağlayan ve göç dinamikleriyle de tutarlı tek eşleşme budur. Tekirdağ sanayi ve İstanbul'a yakınlığı nedeniyle yüksek göç alır. Ağrı ve Şırnak ekonomik nedenlerle göç verir. Konya ise dengeye yakın, hafif pozitif bir göç değerine sahiptir. Dört il Marmara, Doğu Anadolu, İç Anadolu ve Güneydoğu Anadolu olmak üzere farklı bölgelerdedir. \"İl 1: Antalya, İl 2: Ağrı, İl 3: İzmir, İl 4: Muş\" seçeneği göç yönleri bakımından makul görünse de Ağrı ve Muş'un ikisi de Doğu Anadolu'dadır, bu yüzden kök koşulunu bozar. \"İl 1: Muş, İl 2: İstanbul, İl 3: Samsun, İl 4: Ankara\" seçeneği ise göç veren Muş'a en yüksek pozitif değeri verdiği için yanlıştır. Doğru cevap \"İl 1: Tekirdağ, İl 2: Ağrı, İl 3: Konya, İl 4: Şırnak\" seçeneğidir."
+ },
+ {
+  "ders": "egitimbilimleri",
+  "id": "200427",
+  "konu": "gudulenme",
+  "soru": "Weiner'ın Yükleme Kuramı'na göre nedensellik boyutları 'yer' (içsel-dışsal), 'istikrar' (kararlı-değişken) ve 'kontrol edilebilirlik' olarak sınıflandırılmaktadır. Bir öğrencinin sınav başarısızlığını 'Sınav günü hastaydım, bu nadir başıma gelen bir durum ve benim kontrolümde değildi' şeklinde açıklaması hangi yükleme örüntüsüne karşılık gelmektedir?",
+  "secenekler": [
+   "İçsel – Kararlı – Kontrol edilemez",
+   "İçsel – Değişken – Kontrol edilemez",
+   "Dışsal – Kararlı – Kontrol edilemez",
+   "Dışsal – Değişken – Kontrol edilemez",
+   "Dışsal – Değişken – Kontrol edilebilir"
+  ],
+  "yeniAnahtar": "B",
+  "yeniMetin": "İçsel – Değişken – Kontrol edilemez",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Weiner'ın sınıflamasında hastalık, kişinin kendi bedeninden ve durumundan kaynaklandığı için içsel bir neden sayılır. Öğrenci bu durumun nadiren başına geldiğini belirtiyor; bu, nedenin zaman içinde değiştiğini, yani değişken olduğunu gösterir. Hastalığa iradeyle engel olunamadığından neden kontrol edilemez kabul edilir. \"Dışsal – Değişken – Kontrol edilemez\" seçeneği yanlıştır. Bu örüntü şans ya da beklenmedik çevresel engeller gibi kişinin dışında kalan nedenlere karşılık gelir. Hastalık ise dış dünyadan değil kişinin kendisinden kaynaklanır. \"İçsel – Kararlı – Kontrol edilemez\" seçeneği ise yetenek gibi süreklilik gösteren nedenleri tanımlar. Oysa öğrenci durumun nadir yaşandığını açıkça vurgulamaktadır. Doğru cevap \"İçsel – Değişken – Kontrol edilemez\" seçeneğidir."
+ },
+ {
+  "ders": "egitimbilimleri",
+  "id": "200749",
+  "konu": "aktif_ogrenme",
+  "soru": "Aktif öğrenme yaklaşımları incelendiğinde, 'İşbirlikli Öğrenme' ile 'Kubaşık Öğrenme' arasındaki en belirleyici yapısal fark aşağıdakilerden hangisinde doğru ifade edilmiştir?",
+  "secenekler": [
+   "İkisi arasında kavramsal bir fark yoktur; terminoloji farkı yalnızca çeviri kaynaklıdır",
+   "Kubaşık öğrenmede bireysel hesap verebilirlik ve olumlu bağımlılık yapısal olarak zorunludur; işbirlikli öğrenmede bu unsurlar sistematik biçimde kurgulanmaz",
+   "İşbirlikli öğrenmede grup üyeleri arasında rol dağılımı hiç yapılmazken kubaşık öğrenmede yapılmaktadır",
+   "İşbirlikli öğrenme daha çok yükseköğretim kademesine yönelikken kubaşık öğrenme ilköğretim kademesine yönelik olarak tasarlanmıştır ve bu ayrım öğrencilerin yaş düzeyine dayandırılmıştır",
+   "Kubaşık öğrenmede öğretmen sınıfın dışında kalırken işbirlikli öğrenmede aktif rol oynar"
+  ],
+  "yeniAnahtar": "A",
+  "yeniMetin": "İkisi arasında kavramsal bir fark yoktur; terminoloji farkı yalnızca çeviri kaynaklıdır",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Türk eğitim bilimleri alanyazınında ve KPSS kaynaklarında işbirlikli öğrenme ile kubaşık öğrenme aynı kavramın, yani İngilizcedeki cooperative learning yaklaşımının iki farklı Türkçe karşılığıdır. Olumlu bağımlılık, bireysel sorumluluk (hesap verebilirlik), yüz yüze etkileşim, sosyal beceriler ve grup sürecinin değerlendirilmesi bu yaklaşımın ortak temel öğeleri olarak sayılır. Bankadaki \"Kubaşık öğrenmede bireysel hesap verebilirlik ve olumlu bağımlılık yapısal olarak zorunludur; işbirlikli öğrenmede bu unsurlar sistematik biçimde kurgulanmaz\" ifadesi bu nedenle yanlıştır. Bu ifade, yabancı alanyazındaki cooperative ile collaborative ayrımını Türkçe terimlere hatalı biçimde aktarır. \"İşbirlikli öğrenme daha çok yükseköğretim kademesine yönelikken...\" ifadesi de yanlıştır, çünkü yaklaşım her kademede kullanılır. Rol dağılımına ilişkin seçenek de iki terimin aynı uygulamayı anlattığı gerçeğiyle çelişir. Doğru cevap \"İkisi arasında kavramsal bir fark yoktur; terminoloji farkı yalnızca çeviri kaynaklıdır\" seçeneğidir."
+ },
+ {
+  "ders": "egitimbilimleri",
+  "id": "201463",
+  "konu": "guvenirlik_gecerlik",
+  "soru": "Bir araştırmacı, geliştirdiği tutum ölçeğini iki farklı zaman diliminde aynı gruba uygulamış ve test-tekrar test güvenirlik katsayısını 0.85 olarak hesaplamıştır. Ancak iki uygulama arasında öğrencilerin söz konusu tutuma yönelik yoğun bir eğitim programına katıldığı öğrenilmiştir. Bu durumda araştırmacının güvenirlik katsayısına ilişkin yapabileceği en doğru yorum hangisidir?",
+  "secenekler": [
+   "Eğitim programı yalnızca tesadüfi hata kaynaklarını etkilediğinden katsayı sapmasızdır.",
+   "Ölçeğin güvenirliği yeterince yüksektir, sonuçlar güvenle kullanılabilir.",
+   "0.85 katsayısı gerçek güvenirliği olduğundan yüksek göstermektedir; çünkü eğitim her iki ölçümü de sistematik biçimde etkileyerek yanıltıcı bir tutarlılık yaratmış olabilir.",
+   "Test-tekrar test yöntemi dışsal değişkenlere karşı bağışık olduğundan elde edilen katsayı her koşulda geçerlidir.",
+   "0.85 katsayısı gerçek güvenirliği olduğundan daha düşük göstermektedir, çünkü verilen eğitim kişiler arasındaki farkı azaltmıştır. Bu durum katsayıyı olduğundan küçük göstermektedir."
+  ],
+  "yeniAnahtar": "E",
+  "yeniMetin": "0.85 katsayısı gerçek güvenirliği olduğundan daha düşük göstermektedir, çünkü verilen eğitim kişiler arasındaki farkı azaltmıştır. Bu durum katsayıyı olduğundan küçük göstermektedir.",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Test-tekrar test yönteminde iki uygulama arasında öğrenmeye yol açan bir müdahale olursa bireylerin gerçek puanları değişir. Eğitim kişileri farklı ölçüde etkiler ve aralarındaki farkı daraltır. Bu durum puanlar arasındaki ilişkiyi zayıflatır, dolayısıyla elde edilen katsayı ölçeğin gerçek güvenirliğinin altında kalır. Ölçme kuramında da araya giren öğrenmenin bu katsayıyı düşürdüğü kabul edilir. \"0.85 katsayısı gerçek güvenirliği olduğundan yüksek göstermektedir...\" seçeneği yanlıştır: yapay yükselmeye hatırlama ve alışkanlık etkisi yol açar, gerçek değişim yaratan eğitim ise katsayıyı düşürür. \"Ölçeğin güvenirliği yeterince yüksektir, sonuçlar güvenle kullanılabilir.\" seçeneği de müdahalenin katsayıyı bozduğunu göz ardı eder. Doğru cevap \"0.85 katsayısı gerçek güvenirliği olduğundan daha düşük göstermektedir, çünkü verilen eğitim kişiler arasındaki farkı azaltmıştır. Bu durum katsayıyı olduğundan küçük göstermektedir.\" seçeneğidir."
+ },
+ {
+  "ders": "egitimbilimleri",
+  "id": "201469",
+  "konu": "guvenirlik_gecerlik",
+  "soru": "Bir sınıf değerlendirmesinde 40 maddelik çoktan seçmeli testin standart hata ölçümü (SEM) 3.2 puan olarak hesaplanmıştır. Bir öğrenci bu testten 28 puan almıştır. Öğretmen bu öğrencinin gerçek puanına ilişkin %95 güven aralığını doğru olarak hesaplamak istediğinde aşağıdaki adımların hangisi yanlıştır?",
+  "secenekler": [
+   "Güven aralığını daraltmak için testin güvenirlik katsayısını artırmak yeterli değildir; puan varyansının da göz önüne alınması gerekir, dolayısıyla SEM = SD√(1-rxx) formülünde her iki bileşen de rol oynar.",
+   "SEM ne kadar küçükse ölçme o kadar hassastır.",
+   "%95 güven aralığı için z = 1.96 kullanılmalıdır.",
+   "Güven aralığı 28 ± (1.96 × 3.2) = [21.73, 34.27] olarak hesaplanır.",
+   "Bu güven aralığı 'gerçek puan bu aralıkta %95 olasılıkla yer almaktadır' şeklinde yorumlanmalıdır; gözlenen puanın dağılımıyla ilgili bir ifade değildir."
+  ],
+  "yeniAnahtar": "A",
+  "yeniMetin": "Güven aralığını daraltmak için testin güvenirlik katsayısını artırmak yeterli değildir; puan varyansının da göz önüne alınması gerekir, dolayısıyla SEM = SD√(1-rxx) formülünde her iki bileşen de rol oynar.",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "SEM = SD√(1-rxx) formülüne göre standart sapma sabitken güvenirlik katsayısı arttığında SEM küçülür ve güven aralığı daralır. Bu yüzden güvenirliği artırmanın aralığı daraltmaya \"yeterli olmadığı\" iddiası hatalıdır. Bu seçenek yanlış adımdır. \"Güven aralığı 28 ± (1.96 × 3.2) = [21.73, 34.27] olarak hesaplanır.\" seçeneği doğrudur, çünkü 1.96×3.2=6.27 eder. Bankanın yanlış saydığı \"Bu güven aralığı 'gerçek puan bu aralıkta %95 olasılıkla yer almaktadır' şeklinde yorumlanmalıdır...\" seçeneği ise klasik test kuramında ve KPSS kaynaklarında standart kabul edilen yorumdur, bu nedenle hatalı adım sayılamaz. \"%95 güven aralığı için z = 1.96 kullanılmalıdır.\" seçeneği de doğrudur. Doğru cevap \"Güven aralığını daraltmak için testin güvenirlik katsayısını artırmak yeterli değildir; puan varyansının da göz önüne alınması gerekir, dolayısıyla SEM = SD√(1-rxx) formülünde her iki bileşen de rol oynar.\" seçeneğidir."
+ },
+ {
+  "ders": "egitimbilimleri",
+  "id": "201473",
+  "konu": "guvenirlik_gecerlik",
+  "soru": "Bir başarı testi için yürütülen madde analizi sonucunda madde güçlük indeksi p = 0.15 ve madde ayırt edicilik indeksi r_pb = 0.55 bulunan bir madde için aşağıdaki değerlendirmelerden hangisi doğrudur?",
+  "secenekler": [
+   "Bu madde ortalamanın çok altındaki öğrencilere yönelik olduğundan sınıf düzeyinde ölçme için ideal sayılmaktadır. Bu güçlük düzeyi sınıf içi ölçmeler için en uygun aralık olarak kabul edilmektedir ve değiştirilmemelidir.",
+   "Güçlük ve ayırt edicilik değerleri birbiriyle çelişmektedir; bu nedenle madde testten çıkarılmalıdır.",
+   "p = 0.15 maddenin çok zor olduğunu gösterir; bu güçlük düzeyinde r_pb teorik maksimumunun altında olduğundan yüksek r_pb değeri yanıltıcı olabilir; madde psikometrik potansiyeline ulaşamıyor olabilir.",
+   "Madde hem zor hem de iyi ayırt etmektedir; olduğu gibi kullanılmalıdır.",
+   "r_pb = 0.55 mükemmel bir değer olduğundan p değeri önemsizdir."
+  ],
+  "yeniAnahtar": "D",
+  "yeniMetin": "Madde hem zor hem de iyi ayırt etmektedir; olduğu gibi kullanılmalıdır.",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Madde güçlük indeksi p = 0,15 olduğu için madde çok zordur. Klasik test kuramında ayırt edicilik indeksi 0,40 ve üzerindeyse madde çok iyi ayırt eder ve olduğu gibi teste alınabilir; r_pb = 0,55 bu ölçütü açıkça aşar. Uç p değerlerinde nokta çift serili korelasyonun ulaşabileceği üst sınır düşer. p = 0,15 için bu sınır yaklaşık 0,65'tir. Bu nedenle 0,55 değeri yanıltıcı değildir; tersine madde, güçlüğüne göre ulaşılabilecek ayırt ediciliğe çok yaklaşmıştır. \"p = 0.15 maddenin çok zor olduğunu gösterir; bu güçlük düzeyinde r_pb teorik maksimumunun altında olduğundan...\" seçeneği bu ilişkiyi ters yorumladığı için yanlıştır. \"Güçlük ve ayırt edicilik değerleri birbiriyle çelişmektedir; bu nedenle madde testten çıkarılmalıdır.\" seçeneği de yanlıştır, çünkü zor bir madde de yüksek ayırt edicilik gösterebilir. Doğru cevap \"Madde hem zor hem de iyi ayırt etmektedir; olduğu gibi kullanılmalıdır.\" seçeneğidir."
+ },
+ {
+  "ders": "egitimbilimleri",
+  "id": "202170",
+  "konu": "psikolojik_danisma",
+  "soru": "Okul psikolojik danışmanı, sınıfında zorbalık davranışı sergileyen bir öğrenciyle çalışmaktadır. Öğrenci, 'Onlara vurursam güçlü görünürüm, yoksa kimse beni ciddiye almaz' demektedir. Bu bilişsel çarpıtma aşağıdakilerden hangisine en çok uymaktadır?",
+  "secenekler": [
+   "Düşünce okuma",
+   "Keyfi çıkarım",
+   "Falcılık (geleceği okuma)",
+   "Seçici soyutlama",
+   "Kişiselleştirme"
+  ],
+  "yeniAnahtar": "C",
+  "yeniMetin": "Falcılık (geleceği okuma)",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Öğrenci, davranışının ve davranmamasının gelecekteki sonuçlarını kesin bilgi gibi öngörmektedir: Vurursa güçlü görüneceğini, vurmazsa kimsenin onu ciddiye almayacağını düşünmektedir. Gelecekteki olayların olumsuz sonuçlanacağını kanıt olmadan kesinlik gibi tahmin etmek falcılık (geleceği okuma) çarpıtmasıdır. \"Keyfi çıkarım\" seçeneği de kanıtsız sonuca varmayı ifade eder. Ancak bu geniş bir üst kategoridir ve falcılık ile düşünce okuma onun alt türleridir. Soru en çok uyan çarpıtmayı sorduğu için daha özgül olan falcılık tercih edilmelidir. \"Düşünce okuma\" seçeneği yanlıştır, çünkü öğrenci başkalarının şu anki düşüncelerini değil, gelecekteki tepkilerini tahmin etmektedir. \"Kişiselleştirme\" seçeneği de uygun değildir, çünkü öğrenci dış olayları kendisiyle ilişkilendirmemektedir. Doğru cevap \"Falcılık (geleceği okuma)\" seçeneğidir."
+ },
+ {
+  "ders": "hukuk",
+  "id": "44091",
+  "konu": "anayasa",
+  "soru": "Anayasa Mahkemesi, 2010 yılında gerçekleştirilen anayasa değişiklikleriyle bireysel başvuru yolunu Türk hukukuna kazandırmıştır. Buna göre aşağıdaki ifadelerden hangisi bireysel başvuru hakkının kapsamı ve sınırları bakımından yanlıştır?",
+  "secenekler": [
+   "Yasama işlemleri ile Anayasa Mahkemesi kararları bireysel başvuruya konu edilemez.",
+   "Bireysel başvuru hakkı, tüzel kişiler tarafından da kullanılabilir.",
+   "Bireysel başvuru yalnızca Avrupa İnsan Hakları Sözleşmesi kapsamındaki haklarla sınırlıdır; Anayasa'nın diğer maddeleri bireysel başvuruya konu olamaz.",
+   "Bireysel başvuruda bulunabilmek için olağan kanun yollarının tüketilmiş olması zorunludur.",
+   "Bireysel başvurunun incelenebilmesi için başvurucunun güncel ve kişisel menfaatinin ihlal edilmiş olması gerekir. Bu menfaatin ayrıca belgelendirilmesi de gerekir."
+  ],
+  "yeniAnahtar": "E",
+  "yeniMetin": "Bireysel başvurunun incelenebilmesi için başvurucunun güncel ve kişisel menfaatinin ihlal edilmiş olması gerekir. Bu menfaatin ayrıca belgelendirilmesi de gerekir.",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "6216 sayılı Kanun'un 46. maddesi, başvurucunun güncel ve kişisel bir hakkının doğrudan etkilenmiş olmasını arar. Ölçüt soyut bir menfaat değil, bir hakkın doğrudan etkilenmesidir. Menfaatin ayrıca belgelendirilmesi diye bağımsız bir kabul edilebilirlik şartı da yoktur. Bu nedenle menfaat ve belgelendirme şartı koşan ifade yanlıştır. AİHS'e ilişkin seçenek ise Anayasa'nın 148. maddesindeki ortak koruma alanı kuralını yansıtır. Anayasa'daki haklardan AİHS ve ek protokoller kapsamında kalmayanlar bireysel başvuruya konu olamaz, bu yüzden o ifade doğrudur. Yasama işlemleri ile Anayasa Mahkemesi kararlarının başvuruya konu edilememesi, tüzel kişilerin başvuru hakkı ve olağan kanun yollarının tüketilmesi şartı da Kanun'da açıkça yer alır. Doğru cevap \"Bireysel başvurunun incelenebilmesi için başvurucunun güncel ve kişisel menfaatinin ihlal edilmiş olması gerekir. Bu menfaatin ayrıca belgelendirilmesi de gerekir.\" seçeneğidir."
+ },
+ {
+  "ders": "hukuk",
+  "id": "44285",
+  "konu": "ceza",
+  "soru": "Aşağıdakilerden hangisi Türk Ceza Kanunu'nda düzenlenen 'haksız tahrik' indiriminin uygulanabilmesi için aranan şartlardan biri değildir?",
+  "secenekler": [
+   "Tahrik teşkil eden fiilin haksız bir fiil olması",
+   "Tahrik eden kişi ile suçtan zarar gören kişinin aynı kişi olması",
+   "Haksız fiilin mağdur tarafından faile yönelik gerçekleştirilmiş olması",
+   "Failin bu haksız fiil nedeniyle öfke veya şiddetli elemin etkisinde kalması",
+   "Suçun bu ruhi hal altında işlenmesi"
+  ],
+  "yeniAnahtar": "C",
+  "yeniMetin": "Haksız fiilin mağdur tarafından faile yönelik gerçekleştirilmiş olması",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "TCK m.29'a göre haksız tahrik indirimi için haksız bir fiilin bulunması, failin bu fiil nedeniyle hiddet veya şiddetli elemin etkisinde kalması ve suçun bu ruhi hal altında işlenmesi gerekir. Öğreti ve Yargıtay ayrıca tahrik eden ile suçtan zarar görenin aynı kişi olmasını, yani haksız fiilin mağdurdan kaynaklanmasını arar. Buna karşılık haksız fiilin bizzat faile yönelmesi gerekmez. Failin eşine, çocuğuna veya yakınına karşı işlenen haksız fiil de failde hiddet ya da şiddetli elem doğurarak tahrik oluşturabilir. Bu nedenle \"Tahrik eden kişi ile suçtan zarar gören kişinin aynı kişi olması\" bir şarttır ve iki seçenek aynı anlama gelmez. \"Failin bu haksız fiil nedeniyle öfke veya şiddetli elemin etkisinde kalması\" ise kanunun açıkça aradığı unsurdur. Doğru cevap \"Haksız fiilin mağdur tarafından faile yönelik gerçekleştirilmiş olması\" seçeneğidir."
+ },
+ {
+  "ders": "hukuk",
+  "id": "44307",
+  "konu": "ceza",
+  "soru": "Aşağıdakilerden hangisi TCK kapsamında zincirleme suç (müteselsil suç) hükümlerinin uygulanabilmesi için aranan koşullardan biri değildir?",
+  "secenekler": [
+   "Kanunda bu suç için zincirleme suç hükümlerinin uygulanabileceğine dair düzenleme bulunması",
+   "Mağdurun her eylemde aynı kişi olması",
+   "Birden fazla fiilin işlenmiş olması",
+   "Fiillerin bir suç işleme kararının icrası kapsamında gerçekleştirilmesi",
+   "Eylemlerin aynı suç tipini oluşturması"
+  ],
+  "yeniAnahtar": "A",
+  "yeniMetin": "Kanunda bu suç için zincirleme suç hükümlerinin uygulanabileceğine dair düzenleme bulunması",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Zincirleme suç TCK m.43'te genel hüküm olarak düzenlenmiştir. Bu nedenle uygulanması için ilgili suç tipinde ayrıca bir düzenleme bulunması gerekmez; m.43 nitelikleri elverişli tüm suçlara uygulanır. Kanunun aradığı koşullar şunlardır: birden fazla fiil işlenmesi, fiillerin bir suç işleme kararının icrası kapsamında gerçekleştirilmesi, aynı suçun birden fazla işlenmesi ve m.43/1 uyarınca bu fiillerin aynı kişiye karşı işlenmesi. Dolayısıyla \"Mağdurun her eylemde aynı kişi olması\" bir koşuldur. Aynı neviden fikri içtima (m.43/2) bu kuralın ayrık bir genişlemesidir ve bu koşulu ortadan kaldırmaz. \"Eylemlerin aynı suç tipini oluşturması\" da maddede açıkça aranır. Doğru cevap \"Kanunda bu suç için zincirleme suç hükümlerinin uygulanabileceğine dair düzenleme bulunması\" seçeneğidir."
+ },
+ {
+  "ders": "hukuk",
+  "id": "44319",
+  "konu": "ceza",
+  "soru": "Koşullu salıverilme (şartla tahliye) kurumuna ilişkin aşağıdaki değerlendirmelerden hangisi 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanun çerçevesinde YANLIŞTIR?",
+  "secenekler": [
+   "Koşullu salıverilme kararı, mahkemeler tarafından değil infaz hâkimi tarafından verilir.",
+   "Süreli hapis cezalarında kural olarak cezanın üçte ikisi infaz edildiğinde koşullu salıverilme hakkı doğar.",
+   "Denetim süresi içinde kasıtlı bir suç işleyen hükümlünün koşullu salıverilmesi mutlaka geri alınır ve kalan sürenin tamamı cezaevinde infaz edilir.",
+   "Tekerrür hâlinde koşullu salıverilme oranı artırılarak uygulanır.",
+   "Ağırlaştırılmış müebbet hapis cezasına mahkûm olanlar otuz yılını, müebbet hapis cezasına mahkûm olanlar yirmi dört yılını infaz kurumunda geçirdikten sonra koşullu salıverilmeden yararlanabilir."
+  ],
+  "yeniAnahtar": "B",
+  "yeniMetin": "Süreli hapis cezalarında kural olarak cezanın üçte ikisi infaz edildiğinde koşullu salıverilme hakkı doğar.",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "5275 sayılı Kanun'un 107. maddesi 7242 sayılı Kanun'la değiştirilmiştir. Bu değişiklikten sonra süreli hapis cezalarında koşullu salıverilme için genel kural, cezanın yarısının infaz kurumunda iyi halli olarak geçirilmesidir. Üçte iki oranı yalnızca kanunda sayılan belirli suçlar ve tekerrür gibi istisnai hâller için geçerlidir. Bu yüzden genel kuralı üçte iki olarak gösteren ifade yanlıştır. \"Denetim süresi içinde kasıtlı bir suç işleyen hükümlünün koşullu salıverilmesi mutlaka geri alınır ve kalan sürenin tamamı cezaevinde infaz edilir.\" ifadesi ise m.107/12'deki geri alma ve kalan cezanın aynen infazı düzenlemesine uygundur. Ağırlaştırılmış müebbet için otuz, müebbet için yirmi dört yıllık süreler de kanundaki sürelerle örtüşür. Doğru cevap \"Süreli hapis cezalarında kural olarak cezanın üçte ikisi infaz edildiğinde koşullu salıverilme hakkı doğar.\" seçeneğidir."
+ },
+ {
+  "ders": "hukuk",
+  "id": "44480",
+  "konu": "medeni",
+  "soru": "Gaiplik kararının hukuki sonuçları bakımından aşağıdaki ifadelerin hangisi yanlıştır?",
+  "secenekler": [
+   "Gaiplik kararı geriye yürür; kişinin fiilen öldüğü kabul edilen tarihten itibaren miras hükümleri uygulanır.",
+   "Gaiplik kararı kesinleşmeden önce mirasçılar terekeye sahip olamaz ve üçüncü kişilere devir yapamaz.",
+   "Gaip kişinin eşi, gaiplik kararına dayanarak mahkemeden evliliğin feshine karar verilmesini talep edebilir.",
+   "Gaibin ölümünden önce mahkeme kararıyla saptanmış tarihte sağ olduğu anlaşılırsa, mirasçılar terekeyi iade etmek zorunda kalabilir.",
+   "Gaiplik kararı, ölüm karinesine bağlı sonuçlar doğurur; eş, gaibin ölüm tarihinden itibaren yeniden evlenebilir."
+  ],
+  "yeniAnahtar": "E",
+  "yeniMetin": "Gaiplik kararı, ölüm karinesine bağlı sonuçlar doğurur; eş, gaibin ölüm tarihinden itibaren yeniden evlenebilir.",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Gaip kişinin evliliği, gaiplik kararıyla kendiliğinden sona ermez. TMK m.131 uyarınca eş, gaiplik kararıyla birlikte veya ayrıca evliliğin feshini istemelidir ve fesih kararı verilmedikçe yeniden evlenemez. Bu nedenle eşin gaibin ölüm tarihinden itibaren doğrudan yeniden evlenebileceğini söyleyen ifade yanlıştır. Bankadaki cevap ise doğru bir ifadedir: mirasçılar terekeyi ancak gaiplik kararı üzerine ve güvence göstererek alabilir, karardan önce terekeye sahip olamazlar. İtirazın yanlış saydığı evliliğin feshinin talep edilmesi de doğrudur, çünkü kanun eşe tam olarak bu imkânı tanır. Gaibin sağ çıkması hâlinde mirasçıların iade yükümlülüğü ve kararın geriye yürümesi de kanuna uygundur. Doğru cevap \"Gaiplik kararı, ölüm karinesine bağlı sonuçlar doğurur; eş, gaibin ölüm tarihinden itibaren yeniden evlenebilir.\" seçeneğidir."
+ },
+ {
+  "ders": "isletme",
+  "id": "52302",
+  "konu": "pazarlama",
+  "soru": "Bir B2B işletmesi, endüstriyel bir ürün için 'değer bazlı fiyatlandırma (value-based pricing)' stratejisi uygulamak istemektedir. Müşterinin ekonomik değer analizi (EVA) yapılmış ve referans ürün fiyatı 10.000 TL, farklılaştırıcı değer unsurlarının toplamı +3.500 TL, negatif farklılaştırıcıların toplamı -800 TL olarak hesaplanmıştır. İşletme bu ürünü 11.200 TL'ye satmak istemektedir. Bu fiyatlama kararının analizi aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Fiyat, hesaplanan ekonomik değerin (12.700 TL) belirgin biçimde altında kaldığından müşteriye ciddi bir değer paylaşımı sunulmaktadır; bu yönüyle geçerli bir değer bazlı fiyat stratejisi sayılır.",
+   "Değer bazlı fiyatlandırmada fiyat her zaman ekonomik değere eşit olmalıdır; 11.200 TL yanlış bir fiyattır.",
+   "Ekonomik değer 12.700 TL olduğundan 11.200 TL fiyat hem müşteriye 1.500 TL değer bırakmakta hem de işletmeye 1.200 TL referans üzeri fiyat sağlamaktadır; bu optimal bir stratejidir.",
+   "Fiyat referans fiyatın üzerinde olduğundan değer bazlı fiyatlandırma yanlış uygulanmaktadır; fiyat 10.000 TL olmalıdır.",
+   "Bu hesaplama maliyet bazlı fiyatlandırmanın bir türevi olduğundan değer bazlı fiyatlandırma olarak nitelendirilemez."
+  ],
+  "yeniAnahtar": "A",
+  "yeniMetin": "Fiyat, hesaplanan ekonomik değerin (12.700 TL) belirgin biçimde altında kaldığından müşteriye ciddi bir değer paylaşımı sunulmaktadır; bu yönüyle geçerli bir değer bazlı fiyat stratejisi sayılır.",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Ekonomik değer, referans fiyat ile pozitif ve negatif farklılaştırıcıların toplamıdır: 10.000 + 3.500 − 800 = 12.700 TL. Değer bazlı fiyatlandırmada fiyat referans fiyat ile ekonomik değer arasında belirlenir ve müşteriye satın alma teşviki olarak bir değer payı bırakılır. 11.200 TL bu aralıktadır, bu yüzden geçerli bir değer bazlı fiyattır. Bankadaki cevaptaki rakamlar doğrudur, ancak \"optimal\" iddiası rekabet, maliyet ve talep verisi olmadan kanıtlanamaz; bu fazla iddia seçeneği hatalı kılar. \"Değer bazlı fiyatlandırmada fiyat her zaman ekonomik değere eşit olmalıdır; 11.200 TL yanlış bir fiyattır.\" seçeneği yanlıştır, çünkü fiyatın ekonomik değere eşit olması müşteriye hiçbir teşvik bırakmaz. Doğru cevap \"Fiyat, hesaplanan ekonomik değerin (12.700 TL) belirgin biçimde altında kaldığından müşteriye ciddi bir değer paylaşımı sunulmaktadır; bu yönüyle geçerli bir değer bazlı fiyat stratejisi sayılır.\" seçeneğidir."
+ },
+ {
+  "ders": "isletme",
+  "id": "52395",
+  "konu": "finans",
+  "soru": "İşletme A'nın hisse senetlerinin beklenen getirisi %18, standart sapması %30; İşletme B'nin beklenen getirisi %12, standart sapması %20'dir. Hangi işletmenin hisse senedi görece daha risklidir ve değişim katsayısı (VK) nedir?",
+  "secenekler": [
+   "Her ikisi de eşit risklidir",
+   "B işletmesi, VK = 1,00",
+   "B işletmesi, VK = 1,67",
+   "A işletmesi, VK = 1,67",
+   "A işletmesi, VK = 0,60"
+  ],
+  "yeniAnahtar": "A",
+  "yeniMetin": "Her ikisi de eşit risklidir",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Değişim katsayısı, standart sapmanın beklenen getiriye bölünmesiyle bulunur ve birim getiri başına düşen riski gösterir. İşletme A için VK = 30 / 18 ≈ 1,67, İşletme B için VK = 20 / 12 ≈ 1,67'dir. İki değer eşit olduğundan hisseler görece aynı risk düzeyindedir. Bankadaki cevap A'nın VK değerini doğru hesaplasa da A'yı daha riskli göstererek B'nin de aynı katsayıya sahip olduğunu gözden kaçırır; mutlak standart sapmanın büyük olması görece riskin yüksek olduğu anlamına gelmez. \"A işletmesi, VK = 0,60\" seçeneği oranı ters kurarak getiriyi riske bölmüştür (18/30). \"B işletmesi, VK = 1,00\" seçeneğinin ise hiçbir hesaplama dayanağı yoktur. Doğru cevap \"Her ikisi de eşit risklidir\" seçeneğidir."
+ },
+ {
+  "ders": "maliye",
+  "id": "48077",
+  "konu": "kamu_maliyesi",
+  "soru": "Wagner Kanunu ile Keynesyen kamu harcaması görüşü karşılaştırıldığında temel epistemolojik fark aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Wagner Kanunu uzun dönemli yapısal bir ilişkiyi açıklarken Keynesyen yaklaşım kısa dönemli otomatik dengeleyicileri analiz eder ve konjonktüre odaklanır",
+   "Wagner Kanunu kamu harcamalarını bağımsız değişken, GSYH'yi bağımlı değişken olarak ele alırken Keynesyen yaklaşım bu ilişkiyi tersine çevirir",
+   "Her iki yaklaşım da kamu harcamalarını dışsal kabul eder; aradaki fark yalnızca harcama bileşenlerindedir",
+   "Keynesyen yaklaşım arz yönlü politikaları, Wagner ise talep yönlü politikaları ön plana çıkarır",
+   "Wagner Kanunu normatif, Keynesyen yaklaşım pozitif bir çerçeve sunar"
+  ],
+  "yeniAnahtar": "A",
+  "yeniMetin": "Wagner Kanunu uzun dönemli yapısal bir ilişkiyi açıklarken Keynesyen yaklaşım kısa dönemli otomatik dengeleyicileri analiz eder ve konjonktüre odaklanır",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Wagner Kanunu, sanayileşme ve kişi başına gelir arttıkça kamu harcamalarının da arttığını söyleyen uzun dönemli, yapısal bir ilişkidir. Bu yaklaşımda GSYH bağımsız değişken, kamu harcaması ise ondan türeyen bağımlı değişkendir. Keynesyen yaklaşım ise kamu harcamasını kısa dönemde talebi düzenleyen dışsal bir politika aracı olarak görür; yani konjonktüre odaklanır. Bankadaki cevap olan \"Wagner Kanunu kamu harcamalarını bağımsız değişken, GSYH'yi bağımlı değişken olarak ele alırken Keynesyen yaklaşım bu ilişkiyi tersine çevirir\" seçeneği nedenselliği tam tersinden kurduğu için yanlıştır. \"Keynesyen yaklaşım arz yönlü politikaları, Wagner ise talep yönlü politikaları ön plana çıkarır\" seçeneği de yanlıştır, çünkü Keynesyen yaklaşım talep yönlüdür. Doğru cevap \"Wagner Kanunu uzun dönemli yapısal bir ilişkiyi açıklarken Keynesyen yaklaşım kısa dönemli otomatik dengeleyicileri analiz eder ve konjonktüre odaklanır\" seçeneğidir."
+ },
+ {
+  "ders": "tarih",
+  "id": "30536",
+  "konu": "turk_i_slam_devletleri",
+  "soru": "Karahanlı Devleti'nin Türk-İslam medeniyeti tarihindeki özgün konumunu diğer çağdaş Türk devletlerinden (Gazneli, Selçuklu) ayıran en belirleyici özellik aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "İlk Türk-İslam devleti olması",
+   "Abbasi halifeliğiyle en uzun süreli ve en yakın siyasi ittifakı kurmuş olması ve bunu kesintisiz sürdürmesi",
+   "Yönetici hanedanın doğrudan Müslüman Türk kökenli olması ve Türkçeyi resmi idare dili düzeyine taşıması",
+   "En geniş coğrafi alana yayılmış Türk-İslam devleti olması",
+   "İlk defa medrese sistemini kuran devlet olması"
+  ],
+  "yeniAnahtar": "A",
+  "yeniMetin": "İlk Türk-İslam devleti olması",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Karahanlılar, Satuk Buğra Han'ın İslam'ı kabulü ve 10. yüzyılda halkın toplu olarak Müslüman olmasıyla ilk Türk-İslam devleti kabul edilir. Gazneliler ve Selçuklular bu konumu paylaşamaz; bu yüzden Karahanlıları çağdaşlarından ayıran en belirleyici özellik budur. Anahtardaki \"Yönetici hanedanın doğrudan Müslüman Türk kökenli olması ve Türkçeyi resmi idare dili düzeyine taşıması\" seçeneğinin ilk kısmı Gazneli ve Selçuklu hanedanları için de geçerlidir, dolayısıyla ayırt edici değildir. \"İlk defa medrese sistemini kuran devlet olması\" seçeneği de yanlıştır; medreseler Karahanlılarda görülse de sistemli medrese teşkilatı Büyük Selçuklu Nizamiye medreseleriyle ilişkilendirilir. Doğru cevap \"İlk Türk-İslam devleti olması\" seçeneğidir."
+ },
+ {
+  "ders": "tarih",
+  "id": "31411",
+  "konu": "i_dunya_savasi",
+  "soru": "Wilson'ın On Dört İlkesi'nden yola çıkıldığında, Paris Barış Konferansı'nda (1919) bu ilkelere en çok aykırı davranıldığı söylenebilecek karar aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Çekoslovakya ve Yugoslavya'nın bağımsız devletler olarak tanınması",
+   "Almanya'ya ağır savaş tazminatı ve toprak kayıplarının yanı sıra tek taraflı savaş suçluluğu yüklenmesi",
+   "Milletler Cemiyeti'nin kurulması",
+   "Polonya'ya bağımsızlık verilmesi",
+   "Osmanlı İmparatorluğu'nun tasfiyesi ve topraklarında mandater yönetimlerin kurulması; halkların iradesinin hiç sorulmaması"
+  ],
+  "yeniAnahtar": "E",
+  "yeniMetin": "Osmanlı İmparatorluğu'nun tasfiyesi ve topraklarında mandater yönetimlerin kurulması; halkların iradesinin hiç sorulmaması",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Wilson İlkeleri'nin özü milletlerin kendi geleceklerini belirleme hakkıdır. 12. madde, Osmanlı'daki Türk unsurlarının egemenliğini, diğer milletlerin ise özerk gelişme hakkını güvence altına alıyordu. Paris'te kabul edilen manda sistemi bu hakkı tanımak yerine bölge halklarını galip devletlerin yönetimine bıraktı. Bu nedenle sistem, gizli bir sömürgecilik olarak ilkelere en doğrudan aykırı karar sayılır. \"Almanya'ya ağır savaş tazminatı ve toprak kayıplarının yanı sıra tek taraflı savaş suçluluğu yüklenmesi\" de ilkelerin barışçı ruhuyla bağdaşmaz; ancak On Dört İlke tazminatı açıkça yasaklamaz, Alsas-Loren'in Fransa'ya verilmesi gibi bazı toprak düzenlemelerini ise bizzat öngörür. \"Çekoslovakya ve Yugoslavya'nın bağımsız devletler olarak tanınması\", \"Polonya'ya bağımsızlık verilmesi\" ve \"Milletler Cemiyeti'nin kurulması\" ise ilkelerle örtüşen kararlardır. Doğru cevap \"Osmanlı İmparatorluğu'nun tasfiyesi ve topraklarında mandater yönetimlerin kurulması; halkların iradesinin hiç sorulmaması\" seçeneğidir."
+ },
+ {
+  "ders": "tarih",
+  "id": "31845",
+  "konu": "cok_partili_donem",
+  "soru": "1946 seçimlerinde CHP'nin tek dereceli seçim sistemine geçmesinin temel nedeni aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Demokrat Parti'nin baskıları sonucunda meclisin bu yönde karar alması",
+   "İsmet İnönü'nün çok partili sisteme olan ideolojik bağlılığı",
+   "DP'nin seçimlere katılmadan önce sistemi değiştirme talebinde bulunması ve CHP'nin kontrollü bir geçişi yönetmek istemesi",
+   "ABD'nin Türkiye'ye demokratikleşme koşuluyla Marshall Yardımı teklif etmesi",
+   "Savaş sonrası koşullarda halk baskısının önüne geçmek ve meşruiyet sağlamak amacıyla sistemin erken değiştirilmesi"
+  ],
+  "yeniAnahtar": "C",
+  "yeniMetin": "DP'nin seçimlere katılmadan önce sistemi değiştirme talebinde bulunması ve CHP'nin kontrollü bir geçişi yönetmek istemesi",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Demokrat Parti kurulduktan sonra seçimlerin tek dereceli yapılmasını açıkça talep etti. CHP bu talebi Mayıs 1946 kurultayında kabul etti ve Haziran 1946'da seçim kanununu değiştirdi. Seçimleri de 1947'den Temmuz 1946'ya çekerek henüz örgütlenmesini tamamlamamış muhalefet karşısında geçişi kendi denetiminde yönetmeyi hedefledi. Değişikliğin doğrudan gerekçesi muhalefetin talebi ile CHP'nin kontrollü geçiş stratejisidir. \"Savaş sonrası koşullarda halk baskısının önüne geçmek ve meşruiyet sağlamak amacıyla sistemin erken değiştirilmesi\" seçeneği çok partili hayata geçişin genel ortamını anlatır, ancak tek dereceli sisteme geçişin somut nedenini vermez. \"Demokrat Parti'nin baskıları sonucunda meclisin bu yönde karar alması\" seçeneği de yanlıştır, çünkü mecliste çoğunluk CHP'deydi ve karar CHP'nin stratejik tercihiydi. Doğru cevap \"DP'nin seçimlere katılmadan önce sistemi değiştirme talebinde bulunması ve CHP'nin kontrollü bir geçişi yönetmek istemesi\" seçeneğidir."
+ },
+ {
+  "ders": "tarih",
+  "id": "31870",
+  "konu": "cok_partili_donem",
+  "soru": "Türkiye'de 1990'larda kurulan koalisyon hükümetlerinin ortak özelliği değerlendirildiğinde, bu dönemin siyasi istikrarsızlığını diğerlerinden daha iyi açıklayan yapısal etken hangisidir?",
+  "secenekler": [
+   "Cumhurbaşkanı Demirel'in hükümetlerin iç işleyişine aşırı müdahale etmesi",
+   "Refah Partisi'nin ittifak kurulamaz ilan edilmesinin hükümet formüllerini daraltması",
+   "Özelleştirme tartışmalarının koalisyon içi pazarlıkları sürekli sekteye uğratması",
+   "Yüzde onluk seçim barajının meclisi temsil açısından meşruiyet sorunuyla karşı karşıya bırakması",
+   "Kürt meselesinin tüm koalisyon ortakları arasında uzlaşmaz ideolojik ayrışmalara yol açması"
+  ],
+  "yeniAnahtar": "B",
+  "yeniMetin": "Refah Partisi'nin ittifak kurulamaz ilan edilmesinin hükümet formüllerini daraltması",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "1995 seçimlerinde birinci çıkan Refah Partisi'nin diğer partilerce koalisyon ortağı olarak dışlanması, olası hükümet formüllerini ciddi biçimde daralttı. Bu durum birbirine rakip merkez sağ partileri ANAYOL gibi kırılgan ortaklıklara, ardından dışarıdan destekli azınlık hükümetlerine zorladı. 28 Şubat sürecinden sonra da aynı dışlama devam etti. Bu nedenle koalisyonların kısa ömürlü olmasını en iyi bu yapısal daralma açıklar. \"Yüzde onluk seçim barajının meclisi temsil açısından meşruiyet sorunuyla karşı karşıya bırakması\" seçeneği temsil adaleti sorununa işaret eder, ancak hükümetlerin neden sık düştüğünü açıklamaz. Üstelik baraj, 1990'larda parçalı meclisi engelleyememiştir. \"Kürt meselesinin tüm koalisyon ortakları arasında uzlaşmaz ideolojik ayrışmalara yol açması\" seçeneği de genelleme içerir. Doğru cevap \"Refah Partisi'nin ittifak kurulamaz ilan edilmesinin hükümet formüllerini daraltması\" seçeneğidir."
+ },
+ {
+  "ders": "turkce",
+  "id": "38055",
+  "konu": "sozcukte_anlam",
+  "soru": "'Baş' sözcüğünün aşağıdaki cümlelerin hangisinde diğerlerinden farklı bir işlevle kullanıldığı görülmektedir?",
+  "secenekler": [
+   "Toplantıda baş köşeye oturtulmuştu. Sonra ayağa kalktı.",
+   "Başını kaldırıp pencereden dışarı baktı.",
+   "Ekibin başı her zaman o olurdu.",
+   "Projenin başına getirildi.",
+   "Bu işin başını o çekiyor."
+  ],
+  "yeniAnahtar": "A",
+  "yeniMetin": "Toplantıda baş köşeye oturtulmuştu. Sonra ayağa kalktı.",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Soru anlam farkını değil işlev farkını soruyor. \"Toplantıda baş köşeye oturtulmuştu. Sonra ayağa kalktı.\" cümlesinde \"baş\" sözcüğü \"köşe\" ismini nitelemektedir ve \"en önemli, en saygın\" anlamında sıfat işlevi görmektedir. Diğer dört cümlede \"baş\" isim soylu bir sözcüktür ve hal ya da iyelik eki alarak ad olarak kullanılmıştır. Bankadaki cevap olan \"Başını kaldırıp pencereden dışarı baktı.\" cümlesinde sözcük organ anlamıyla, yani temel anlamıyla kullanılmıştır. Bu bir anlam farkıdır, ancak sözcük yine isimdir ve işlevi değişmemiştir. \"Ekibin başı her zaman o olurdu.\" ile \"Projenin başına getirildi.\" cümlelerinde de \"baş\" yönetici anlamında isim olarak kullanılmıştır. Doğru cevap \"Toplantıda baş köşeye oturtulmuştu. Sonra ayağa kalktı.\" seçeneğidir."
+ },
+ {
+  "ders": "turkce",
+  "id": "38087",
+  "konu": "sozcukte_anlam",
+  "soru": "Aşağıdaki dizelerin hangisinde sözcük, yan anlamıyla değil temel (gerçek) anlamıyla kullanılmıştır?",
+  "secenekler": [
+   "Gönlüm bir yangın yeri, kül oldu her şey.",
+   "Sabah ışığı pencereden süzülüp odaya doldu.",
+   "Kökler derine tutunur, fırtına geçer gider.",
+   "Eller uzandı gökyüzüne, dualar sessiz aktı.",
+   "Yıllar taş gibi çöktü omuzlarıma."
+  ],
+  "yeniAnahtar": "C",
+  "yeniMetin": "Kökler derine tutunur, fırtına geçer gider.",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "\"Kökler derine tutunur, fırtına geçer gider.\" dizesinde bitki kökünün toprağa tutunması ve fırtınanın geçip gitmesi, sözcüklerin temel anlamlarıyla anlatılmıştır. Herhangi bir anlam aktarması yoktur. Bankadaki cevap olan \"Sabah ışığı pencereden süzülüp odaya doldu.\" dizesinde ise \"süzülmek\" ve \"dolmak\" fiilleri sıvı ya da madde için kullanılır. Bu fiiller ışığa aktarılmıştır, dolayısıyla temel anlam değil aktarmalı bir kullanım söz konusudur. \"Gönlüm bir yangın yeri, kül oldu her şey.\" dizesinde gönlün yangın yerine benzetilmesi açık bir mecazdır. \"Yıllar taş gibi çöktü omuzlarıma.\" dizesinde de zamanın ağırlık olarak çökmesi gerçek dışı bir anlatımdır. Doğru cevap \"Kökler derine tutunur, fırtına geçer gider.\" seçeneğidir."
+ },
+ {
+  "ders": "turkce",
+  "id": "38288",
+  "konu": "deyim_ve_atasozleri",
+  "soru": "Aşağıdaki atasözlerinden hangisinin altı çizili bölümü, atasözünün gerçek anlamından yanlış bir sonuç çıkarmaktadır?",
+  "secenekler": [
+   "'Sakla samanı, gelir zamanı' — Her şeyi biriktirmenin ödüllendirileceğini değil, günü gelince işe yarayacak olanın elden çıkarılmaması gerektiğini anlatır.",
+   "'Körle yatan şaşı kalkar' — Kötü alışkanlığı olan ya da yanlış düşünen biriyle yakın ilişki içinde bulunmanın kişiyi olumsuz etkileyeceğini anlatır.",
+   "'İt ürür, kervan yürür' — Boş eleştirilerin ilerlemeyi durduramayacağını anlatır; kararlı kişilerin dedikodulardan etkilenmemesi gerektiğini vurgular.",
+   "'Çivi çiviyi söker' — Bir sorunun benzer bir araçla çözülebileceğini anlatır; kötülüğü kötülükle yenebileceğini savunmak için kullanılır.",
+   "'Mum dibine ışık vermez' — Yakın çevresine yardım etmeyenler için söylenir; bu yüzden kişinin önce kendindekileri görememesi eleştirilir."
+  ],
+  "yeniAnahtar": "E",
+  "yeniMetin": "'Mum dibine ışık vermez' — Yakın çevresine yardım etmeyenler için söylenir; bu yüzden kişinin önce kendindekileri görememesi eleştirilir.",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "\"Mum dibine ışık vermez\" atasözü, başkalarına yararı dokunan birinin en yakınlarına yararlı olamayabileceğini anlatır. Açıklamanın ilk kısmı buna yakındır. Ancak \"bu yüzden\" ile bağlanan ikinci kısım, kişinin kendi kusurlarını görememesinin eleştirildiği sonucunu çıkarır ve atasözünün anlamından uzaklaşır. Atasözünde kendi kusurunu görmeme gibi bir eleştiri yoktur. Bu nedenle yanlış sonuç bu seçenektedir. \"Çivi çiviyi söker\" atasözü sözlükte de bir sıkıntının ya da kötülüğün ancak benzeriyle giderilebileceği biçiminde açıklanır. Dolayısıyla buradaki yorum atasözünün anlamıyla örtüşür. \"Sakla samanı, gelir zamanı\" ile ilgili açıklama da doğrudur, çünkü atasözünün her şeyi değil, işe yarayacak olanı saklamayı öğütlediğini doğru vurgular. Doğru cevap \"'Mum dibine ışık vermez' — Yakın çevresine yardım etmeyenler için söylenir; bu yüzden kişinin önce kendindekileri görememesi eleştirilir.\" seçeneğidir."
+ },
+ {
+  "ders": "turkce",
+  "id": "38306",
+  "konu": "deyim_ve_atasozleri",
+  "soru": "Aşağıdaki seçeneklerin hangisinde altı çizili deyim, cümlede yanlış anlamda kullanılmıştır?",
+  "secenekler": [
+   "Komşularla iyi geçinmek için her zaman iki yüzlü davranan adam, mahallenin sevgilisi oldu.",
+   "İki rakip şirket arasında yıllardır süren anlaşmazlık, masaya yatırılarak çözüme kavuşturuldu.",
+   "Patron, çalışanların tüm itirazlarını görmezden gelince herkes suya sabuna dokunmamayı tercih etti.",
+   "Tasarımcı, yıllarca üzerinde çalıştığı projeyi bir çırpıda bitirdi.",
+   "Mahkemede aleyhine dönen kanıtlar karşısında sanık, rengi attı."
+  ],
+  "yeniAnahtar": "D",
+  "yeniMetin": "Tasarımcı, yıllarca üzerinde çalıştığı projeyi bir çırpıda bitirdi.",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "\"Bir çırpıda\" deyimi, bir işi çok kısa sürede, hiç duraksamadan ve zahmetsizce yapmayı anlatır. Cümlede ise projenin yıllarca üzerinde çalışılarak tamamlandığı belirtiliyor. Uzun ve emek isteyen bir süreç, \"bir çırpıda\" deyimiyle anlatılamaz. Bu nedenle deyim cümlede yanlış anlamda kullanılmıştır. \"Komşularla iyi geçinmek için her zaman iki yüzlü davranan adam, mahallenin sevgilisi oldu.\" cümlesinde \"iki yüzlü\", yüze başka arkadan başka davranan kişiyi anlatır ve bu anlamda doğru kullanılmıştır. Cümlenin sonucu şaşırtıcı olabilir, ancak bu durum deyimin anlamını bozmaz. \"Patron, çalışanların tüm itirazlarını görmezden gelince herkes suya sabuna dokunmamayı tercih etti.\" cümlesinde de deyim, işe karışmaktan kaçınma anlamıyla yerindedir. Doğru cevap \"Tasarımcı, yıllarca üzerinde çalıştığı projeyi bir çırpıda bitirdi.\" seçeneğidir."
+ },
+ {
+  "ders": "turkce",
+  "id": "38512",
+  "konu": "yazim_kurallari",
+  "soru": "Aşağıdaki cümlelerden hangisinde noktalama işaretlerinin kullanımından kaynaklanan bir anlam belirsizliği söz konusudur?",
+  "secenekler": [
+   "Ali geldi, Veli gitti.",
+   "Kitabı okudum bitirdim.",
+   "Seni, seviyorum.",
+   "Ahmet, bugün okula gitmedi.",
+   "Kardeşim akıllı, çalışkan ve başarılıdır."
+  ],
+  "yeniAnahtar": "D",
+  "yeniMetin": "Ahmet, bugün okula gitmedi.",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "\"Ahmet, bugün okula gitmedi.\" cümlesinde \"Ahmet\" sözcüğünden sonra gelen virgül iki farklı okumaya izin verir. Birinci okumada Ahmet cümlenin öznesidir ve okula gitmeyen kişidir. İkinci okumada Ahmet bir hitaptır; konuşan, Ahmet'e başka birinin okula gitmediğini söylemektedir. Anlam belirsizliği doğrudan noktalamadan kaynaklandığı için soru köküne uyan seçenek budur. \"Seni, seviyorum.\" cümlesindeki virgül gereksizdir ama cümle tek bir anlama gelir. Gereksiz bir işaret, anlam belirsizliği yaratmak demek değildir. \"Kitabı okudum bitirdim.\" cümlesinde virgülün olmaması bir eksikliktir, ancak bu cümle de yalnızca bir biçimde anlaşılır. Doğru cevap \"Ahmet, bugün okula gitmedi.\" seçeneğidir."
+ },
+ {
+  "ders": "turkce",
+  "id": "38583",
+  "konu": "noktalama",
+  "soru": "Aşağıdaki cümlelerin hangisinde virgülün kaldırılması cümlenin anlamını köklü biçimde değiştirir?",
+  "secenekler": [
+   "Dün, sinemaya gittim.",
+   "Güzel, bir çiçek getirdi.",
+   "Kitabı okuyan, öğrenci değildi.",
+   "Ahmet, bugün erken kalktı.",
+   "Yavaş, yavaş ilerliyordu."
+  ],
+  "yeniAnahtar": "B",
+  "yeniMetin": "Güzel, bir çiçek getirdi.",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "\"Güzel, bir çiçek getirdi.\" cümlesinde virgül, \"Güzel\" sözcüğünün özne (kişi adı) olduğunu gösterir: çiçeği getiren Güzel adlı kişidir. Virgül kaldırıldığında \"Güzel bir çiçek getirdi.\" cümlesinde sözcük, \"çiçek\" adını niteleyen bir sıfata dönüşür ve getiren kişi belirsizleşir. Böylece anlam köklü biçimde değişir. \"Kitabı okuyan, öğrenci değildi.\" seçeneği karıştırılabilir. Ancak virgül kalktığında da cümle büyük ölçüde \"kitabı okuyan kişi öğrenci değildi\" biçiminde anlaşılır; ortaya çıkan şey yalnızca hafif bir belirsizliktir. \"Yavaş, yavaş ilerliyordu.\" seçeneğinde ikilemede virgül zaten gereksizdir; kaldırılması anlamı değiştirmez, aksine yazımı düzeltir. Doğru cevap \"Güzel, bir çiçek getirdi.\" seçeneğidir."
+ },
+ {
+  "ders": "turkce",
+  "id": "38707",
+  "konu": "sozcuk_turleri",
+  "soru": "\"Dün gece okuduğum romanın yazarı ülkemizin en önemli kalemlerinden biridir.\" cümlesinde sıfat görevinde kullanılmış kaç sözcük ya da sözcük grubu vardır?",
+  "secenekler": [
+   "5",
+   "2",
+   "1",
+   "3",
+   "4"
+  ],
+  "yeniAnahtar": "B",
+  "yeniMetin": "2",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Sıfat, ismi niteleyen ya da belirten sözcük veya sözcük grubudur. Bu cümlede iki sıfat görevli öbek bulunur. Birincisi \"dün gece okuduğum\" sıfat-fiil grubudur ve \"roman\" ismini niteler. İkincisi \"en önemli\" öbeğidir ve \"kalemler\" ismini niteler. \"Romanın yazarı\" ve \"ülkemizin kalemleri\" isim tamlamasıdır. Bu tamlamalarda tamlayanlar ilgi eki aldığı için sıfat değildir. \"Biri\" sözcüğü ise belgisiz zamirdir. \"3\" seçeneğini işaretleyenler genellikle \"ülkemizin\" sözcüğünü ya da \"dün gece\" ile \"okuduğum\" sözcüklerini ayrı sıfatlar gibi sayar. Oysa \"dün gece\" sıfat-fiile bağlı bir zarf öbeğidir ve ayrı bir sıfat oluşturmaz. \"1\" seçeneği ise iki öbekten birini gözden kaçırmak demektir. Doğru cevap \"2\" seçeneğidir."
+ },
+ {
+  "ders": "turkce",
+  "id": "38933",
+  "konu": "fiil_catisi",
+  "soru": "Bir fiilin çatısını belirlemede en güvenilir yöntem yapısal çözümleme yapmaktır. Aşağıdaki seçeneklerin hangisinde yapısal çözümleme ile anlam çözümlemesi birbirini çelişir biçimde verilmiştir?",
+  "secenekler": [
+   "'Koşturuldu': Yapı → ettirgen+edilgen / Anlam → biri koşturma eylemini yaptı",
+   "'Yıkandı': Yapı → dönüşlü (yıka+n+dı) / Anlam → edilgen olabilir",
+   "'Dövüştü': Yapı → işteş (döv+üş+tü) / Anlam → karşılıklı eylem",
+   "'Sevdirildi': Yapı → ettirgen+edilgen / Anlam → birinin sevmesi sağlandı ve bu işlem edilgen aktarıldı",
+   "'Giydirildi': Yapı → ettirgen+edilgen / Anlam → giydirme işlemi yapıldı"
+  ],
+  "yeniAnahtar": "B",
+  "yeniMetin": "'Yıkandı': Yapı → dönüşlü (yıka+n+dı) / Anlam → edilgen olabilir",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Soru, yapısal çözümle anlam çözümünün birbirini tutmadığı seçeneği istiyor. \"Yıkandı\" fiilinde yapı dönüşlü olarak gösterilmiştir. Oysa anlam bölümünde fiilin edilgen olabileceği söylenir, yani başkası tarafından yıkanma anlamı verilir. Dönüşlülükte eylem özneye döner, edilgenlikte ise fail gizlidir. Bu nedenle iki çözümleme birbiriyle çelişir. \"Koşturuldu\" seçeneğinde koş-tur-ul yapısı ettirgen ve edilgendir. \"Biri koşturma eylemini yaptı\" anlamı da bu yapıyla tam uyumludur. \"Dövüştü\" seçeneğinde işteş yapı ile karşılıklı eylem anlamı örtüşür. \"Giydirildi\" seçeneğinde de yapı ile anlam uyumludur. Doğru cevap \"'Yıkandı': Yapı → dönüşlü (yıka+n+dı) / Anlam → edilgen olabilir\" seçeneğidir."
+ },
+ {
+  "ders": "turkce",
+  "id": "38955",
+  "konu": "fiil_catisi",
+  "soru": "Bir fiilin çatısını belirlemede temel ölçüt özne-nesne ilişkisidir. Buna göre aşağıdakilerin hangisinde fiil, görünürde geçişli gibi kullanılmış; ancak gerçekte geçişsiz çatıda işlev görmektedir?",
+  "secenekler": [
+   "Çocuk topu kapıya vurdu.",
+   "Kuş yükseklere uçtu.",
+   "Sular yavaş yavaş çekildi.",
+   "Asker tüm gece yürüdü.",
+   "Adam dağa tırmandı."
+  ],
+  "yeniAnahtar": "D",
+  "yeniMetin": "Asker tüm gece yürüdü.",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Fiilin geçişli olup olmadığını anlamak için \"neyi, kimi\" sorusu sorulur. \"Asker tüm gece yürüdü.\" cümlesinde \"tüm gece\" belirtisiz nesne gibi görünür, ancak \"ne zaman, ne kadar süre\" sorusuna cevap veren bir zaman zarfıdır. \"Yürümek\" nesne almaz, yani fiil geçişsizdir. Soru kökündeki \"görünürde geçişli, gerçekte geçişsiz\" tanımına uyan tek cümle budur. \"Çocuk topu kapıya vurdu.\" cümlesinde \"topu\" \"neyi\" sorusuna cevap veren gerçek bir belirtili nesnedir, dolayısıyla fiil hem görünüşte hem gerçekte geçişlidir. \"Sular yavaş yavaş çekildi.\" cümlesinde nesne gibi görünen bir öğe yoktur; fiil yalnızca edilgen ekine benzeyen bir yapı taşır. \"Adam dağa tırmandı.\" cümlesinde de \"dağa\" yönelme durumunda bir dolaylı tümleçtir, nesne izlenimi vermez. Doğru cevap \"Asker tüm gece yürüdü.\" seçeneğidir."
+ },
+ {
+  "ders": "turkce",
+  "id": "39137",
+  "konu": "cumlede_anlam",
+  "soru": "Aşağıdaki cümlelerin hangisinde 'de/da' bağlacı, diğerlerinden farklı bir işlevde kullanılmıştır?",
+  "secenekler": [
+   "Kitabı okudu, beğendi de.",
+   "Güzel de konuşuyor, ikna edici de.",
+   "Hem akıllı hem de çalışkandır.",
+   "Sen de mi bu karara katılıyorsun?",
+   "Yağmur yağıyor, soğuk da var."
+  ],
+  "yeniAnahtar": "D",
+  "yeniMetin": "Sen de mi bu karara katılıyorsun?",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "\"Sen de mi bu karara katılıyorsun?\" cümlesinde \"de\", soru ekiyle birlikte kullanılarak cümleye şaşkınlık ve sitem anlamı katar. Konuşan, karşısındakinin de bu karara katılmasını beklemediğini ve buna şaşırdığını dile getirir. Diğer seçeneklerin hepsinde \"de\" ekleme, üstelik ya da sıralama işleviyle kullanılmıştır. Bankadaki cevap olan \"Kitabı okudu, beğendi de.\" cümlesinde \"de\", okumaya beğenmeyi ekleyerek \"üstelik\" anlamı verir. \"Yağmur yağıyor, soğuk da var.\" cümlesinde de aynı ekleme işlevi vardır. \"Güzel de konuşuyor, ikna edici de.\" ile \"Hem akıllı hem de çalışkandır.\" cümlelerinde ise \"de\" niteliklerin art arda sıralanmasını ve birbirine eklenmesini sağlar. Bu nedenle farklı işlevdeki tek kullanım soru cümlesindeki sitem bildiren \"de\"dir. Doğru cevap \"Sen de mi bu karara katılıyorsun?\" seçeneğidir."
+ },
+ {
+  "ders": "turkce",
+  "id": "39143",
+  "konu": "cumlede_anlam",
+  "soru": "Bir eleştirmen, bir roman hakkında şunları söylüyor:\n\n\"Yazar, karakterlerin iç dünyasını o denli derinden işlemiş ki okuyucu, sayfa sayfa ilerlerken kendini değil karakteri sorgulamaya başlıyor.\"\n\nBu değerlendirmeye göre romanın temel başarısı aşağıdakilerden hangisidir?",
+  "secenekler": [
+   "Karakterlerin gerçek hayattan alınmış olması",
+   "Okuyucunun karakterle özdeşleşerek kendini sorgulamasını sağlaması",
+   "Olayların okuyucuda merak uyandıracak biçimde sıralanması",
+   "Psikolojik çözümlemelerin bilimsel bir temele oturtulması",
+   "Kurgunun okuyucuyu kendi yerine başkasını yargılamaya yönlendirmesi"
+  ],
+  "yeniAnahtar": "E",
+  "yeniMetin": "Kurgunun okuyucuyu kendi yerine başkasını yargılamaya yönlendirmesi",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Eleştirmen, okuyucunun roman ilerledikçe \"kendini değil karakteri sorgulamaya\" başladığını açıkça söylüyor. Yani romanın başarısı, karakterlerin iç dünyasının derinden işlenmesi sayesinde okuyucunun dikkatini kendinden alıp karakteri sorgulamaya, başka bir deyişle başkasını yargılamaya yöneltmesidir. Bankadaki cevap olan \"Okuyucunun karakterle özdeşleşerek kendini sorgulamasını sağlaması\" seçeneği, metindeki \"kendini değil\" ifadesinin tam tersini söylediği için metinle çelişir. \"Karakterlerin gerçek hayattan alınmış olması\" ve \"Psikolojik çözümlemelerin bilimsel bir temele oturtulması\" seçenekleri metinde hiç geçmeyen yargılardır. \"Olayların okuyucuda merak uyandıracak biçimde sıralanması\" ise olay örgüsüne dikkat çeker; oysa eleştirmen iç dünyanın işlenişini ve okuyucudaki sorgulama etkisini öne çıkarıyor. Doğru cevap \"Kurgunun okuyucuyu kendi yerine başkasını yargılamaya yönlendirmesi\" seçeneğidir."
+ },
+ {
+  "ders": "turkce",
+  "id": "39236",
+  "konu": "noktalama",
+  "soru": "Aşağıdaki cümlelerin hangisinde noktalı virgül doğru kullanılmıştır?",
+  "secenekler": [
+   "Kardeşim İzmir'de yaşıyor; annem ise Bursa'da.",
+   "Sabah erken kalktı; çünkü işe geç kalmak istemiyordu.",
+   "Ankara'ya gidecek; orada akrabalarını ziyaret edecek.",
+   "Kitabı okudu; beğendi.",
+   "Masada ekmek; tabakta yemek vardı."
+  ],
+  "yeniAnahtar": "B",
+  "yeniMetin": "Sabah erken kalktı; çünkü işe geç kalmak istemiyordu.",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Yazım kurallarına göre noktalı virgül, kendinden önceki cümleye \"ama, fakat, ancak, çünkü, yoksa, bu sebeple\" gibi cümle başı bağlayıcılarıyla bağlanan cümleleri ayırmak için kullanılır. \"Sabah erken kalktı; çünkü işe geç kalmak istemiyordu.\" cümlesi bu kuralın doğrudan örneğidir. Bankadaki \"Kardeşim İzmir'de yaşıyor; annem ise Bursa'da.\" cümlesinde \"ise\" cümle başında bulunmaz, özneden sonra gelen bir karşıtlık sözcüğüdür. Bu sıralı cümleler virgülle ayrılmalıdır. \"Ankara'ya gidecek; orada akrabalarını ziyaret edecek.\" ve \"Kitabı okudu; beğendi.\" de içinde virgül bulunmayan basit sıralı cümlelerdir, bu nedenle virgül gerekir. \"Masada ekmek; tabakta yemek vardı.\" cümlesinde ise ortak yüklemli ögeler noktalı virgülle bölünmüştür, bu da yanlıştır. Doğru cevap \"Sabah erken kalktı; çünkü işe geç kalmak istemiyordu.\" seçeneğidir."
+ },
+ {
+  "ders": "turkce",
+  "id": "39270",
+  "konu": "sozcuk_turleri",
+  "soru": "Aşağıdaki cümlelerin hangisinde yer alan ilgeç (edat/son çekim edatı), cümleden çıkarıldığında cümlenin dilbilgisel yapısı bozulmaz fakat anlam ilişkisi köklü biçimde değişir?\n\nA) Sınava kadar her gün çalıştı.\nB) Seninle gelmek istiyorum.\nC) Ona göre bu iş kolaydır.\nD) Sabaha karşı uyuyakaldı.\nE) Bu kitabı senin için aldım.",
+  "secenekler": [
+   "Ona göre bu iş kolaydır.",
+   "Sınava kadar her gün çalıştı.",
+   "Bu kitabı senin için aldım.",
+   "Seninle gelmek istiyorum.",
+   "Sabaha karşı uyuyakaldı."
+  ],
+  "yeniAnahtar": "B",
+  "yeniMetin": "Sınava kadar her gün çalıştı.",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "\"Sınava kadar her gün çalıştı.\" cümlesinden \"kadar\" edatı çıkarıldığında \"Sınava her gün çalıştı\" cümlesi elde edilir. Bu cümle dilbilgisel olarak kusursuzdur, çünkü \"çalışmak\" fiili yönelme durumundaki bir ögeyi alabilir. Ancak anlam köklü biçimde değişir: \"kadar\" varken sınav bir zaman sınırıdır, edat çıkınca sınav çalışmanın amacı olur. \"Ona göre bu iş kolaydır.\" seçeneğinde \"göre\" çıkarılınca oluşan \"Ona bu iş kolaydır\" yapısı kurulabilir. Fakat \"onun görüşüne göre kolay\" ile \"onun için kolay\" anlamları birbirine çok yakındır, bu yüzden köklü bir anlam değişikliği yoktur. \"Seninle gelmek istiyorum.\" ve \"Bu kitabı senin için aldım.\" cümlelerinde ise edat çıkarıldığında \"Sen gelmek istiyorum\", \"Senin aldım\" gibi bozuk yapılar ortaya çıkar. Doğru cevap \"Sınava kadar her gün çalıştı.\" seçeneğidir."
+ },
+ {
+  "ders": "turkce",
+  "id": "40034",
+  "konu": "noktalama",
+  "soru": "Aşağıdaki seçeneklerin hangisinde ünlem işareti (!) yanlış ya da gereksiz kullanılmıştır?",
+  "secenekler": [
+   "Yangın var! Herkes dışarı çıksın!",
+   "Sana kaç kez söyledim! Artık anladın mı!",
+   "Ne güzel bir manzara!",
+   "Lütfen! Bu konuyu bir daha açmayalım.",
+   "Dur, bekle! Beni de al yanına."
+  ],
+  "yeniAnahtar": "B",
+  "yeniMetin": "Sana kaç kez söyledim! Artık anladın mı!",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "\"Artık anladın mı\" sözü \"mı\" soru ekiyle kurulmuş bir soru cümlesidir. Kızgınlık ve sitem taşısa da soru yapısını korur, bu yüzden sonuna soru işareti konmalıdır; ünlem işareti yanlış kullanılmıştır. Aynı seçenekteki \"Sana kaç kez söyledim!\" ise sitem bildirdiği için ünlemle yazılabilir. Anahtardaki \"Lütfen! Bu konuyu bir daha açmayalım.\" cümlesinde \"Lütfen\" tek başına kullanılmış, vurgulu bir rica ve yakarış ünlemidir; bu kullanımda ünlem işareti alabilir. \"Yangın var! Herkes dışarı çıksın!\" korku ve uyarı, \"Ne güzel bir manzara!\" hayranlık bildirdiği için ünlemle doğru yazılmıştır. \"Dur, bekle!\" de emir ve seslenme niteliği taşır. Doğru cevap \"Sana kaç kez söyledim! Artık anladın mı!\" seçeneğidir."
+ },
+ {
+  "ders": "turkce",
+  "id": "40339",
+  "konu": "fiil_catisi",
+  "soru": "Aşağıdaki cümlelerin hangisinde fiil çatısı bakımından bir sınıflandırma hatası yapılmıştır?",
+  "secenekler": [
+   "'Adam kendini duvara vurdu.' → Dönüşlü çatı",
+   "'Kapı rüzgârla kapandı.' → Edilgen çatı",
+   "'Kedi, fare tarafından kovalandı.' → Edilgen çatı",
+   "'O, saçını boyattırdı.' → Ettirgen çatı",
+   "'Çocuklar bahçede koşuştu.' → İşteş çatı"
+  ],
+  "yeniAnahtar": "A",
+  "yeniMetin": "'Adam kendini duvara vurdu.' → Dönüşlü çatı",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Dönüşlü çatı, fiile -n ya da -l ekinin getirilmesiyle kurulur ve eylemi yapanla eylemden etkilenenin aynı olduğunu gösterir. \"Adam kendini duvara vurdu.\" cümlesinde \"vurdu\" fiili hiçbir çatı eki almamıştır. \"Kendini\" ise ayrı bir nesne görevindedir. Bu nedenle fiil etken ve geçişlidir. Dönüşlülük anlamı dönüşlülük zamiriyle sağlanmıştır, çatı ekiyle değil. Dolayısıyla burada sınıflandırma hatası yapılmıştır. Banka cevabı olan \"'Kapı rüzgârla kapandı.' → Edilgen çatı\" ise yanlış değildir. \"Kapa-\" ünlüyle bittiği için -n ekiyle edilgenleşir. \"Rüzgârla\" ifadesi de eylemin dış bir etkiyle gerçekleştiğini gösterir. \"'O, saçını boyattırdı.' → Ettirgen çatı\" doğru bir sınıflandırmadır, çünkü fiil ettirgen ekleri almıştır. \"Koşuştu\" fiili de -ş ekiyle işteştir. Doğru cevap \"'Adam kendini duvara vurdu.' → Dönüşlü çatı\" seçeneğidir."
+ },
+ {
+  "ders": "turkce",
+  "id": "40358",
+  "konu": "fiil_catisi",
+  "soru": "Aşağıda verilen fiil kümesindeki tüm fiiller aynı çatı özelliğini taşıyorsa bu küme homojendir. Hangi küme homojen değildir?",
+  "secenekler": [
+   "Sevilmek, görülmek, bilinmek, çağrılmak",
+   "Giyinmek, yıkanmak, taranmak, soyunmak",
+   "Koşuşmak, bakışmak, tartışmak, itişmek",
+   "Okutmak, yazdırmak, pişirmek, uyutmak",
+   "Güreşmek, yarışmak, buluşmak, çarpışmak"
+  ],
+  "yeniAnahtar": "D",
+  "yeniMetin": "Okutmak, yazdırmak, pişirmek, uyutmak",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Bu kümede fiiller aynı çatı özelliğini taşımaz. \"Okutmak\" ve \"yazdırmak\" zaten geçişli olan \"okumak\" ve \"yazmak\" fiillerinden türemiştir; bunlar ettirgen çatılıdır. \"Pişirmek\" ve \"uyutmak\" ise geçişsiz olan \"pişmek\" ve \"uyumak\" fiillerini geçişli yapar; bunlar oldurgan çatılıdır. Bu nedenle küme homojen değildir. Bankadaki cevap olan \"Giyinmek, yıkanmak, taranmak, soyunmak\" kümesinde fiillerin hepsi öznenin eylemi kendine yaptığı dönüşlü fiillerdir ve küme homojendir. \"Koşuşmak, bakışmak, tartışmak, itişmek\" ile \"Güreşmek, yarışmak, buluşmak, çarpışmak\" kümelerindeki fiiller işteş çatılıdır. \"Sevilmek, görülmek, bilinmek, çağrılmak\" kümesi ise tümüyle edilgendir. Doğru cevap \"Okutmak, yazdırmak, pişirmek, uyutmak\" seçeneğidir."
+ },
+ {
+  "ders": "turkce",
+  "id": "40470",
+  "konu": "anlatim_bozukluklari",
+  "soru": "Aşağıdaki cümlelerin hangisinde 'deyim yanlış kullanımı'ndan kaynaklanan anlatım bozukluğu vardır?",
+  "secenekler": [
+   "Arkadaşının başarısına içi içine sığmadı.",
+   "Zor bir dönemde bile dizginleri elden bırakmadı.",
+   "Patronunun ağzından çıkan her söze kulak asıyordu.",
+   "Saatler geçmesine karşın göz kırpmadan bekledi.",
+   "Söylediğim her şeyi burun kıvırarak dinledi."
+  ],
+  "yeniAnahtar": "C",
+  "yeniMetin": "Patronunun ağzından çıkan her söze kulak asıyordu.",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "\"Kulak asmak\" deyimi kalıplaşmış olarak olumsuz biçimde, \"kulak asmamak\" şeklinde ve \"önemsememek, dikkate almamak\" anlamında kullanılır. Bu cümlede olumlu kullanılarak \"dikkate almak\" anlamı verilmeye çalışılmış, bu da deyimin yanlış kullanımına yol açmıştır. Doğrusu \"her sözü dikkate alıyordu\" ya da \"her sözü can kulağıyla dinliyordu\" olmalıdır. Bankanın cevabı olan \"Arkadaşının başarısına içi içine sığmadı.\" cümlesinde deyim, sevinçten yerinde duramamak anlamıyla doğru kullanılmıştır. \"Saatler geçmesine karşın göz kırpmadan bekledi.\" cümlesinde ise ifade, hiç uyumadan, dikkatle beklemek anlamıyla yerleşik bir kullanımdır. \"Söylediğim her şeyi burun kıvırarak dinledi.\" cümlesinde de beğenmeme anlamı yerindedir. Doğru cevap \"Patronunun ağzından çıkan her söze kulak asıyordu.\" seçeneğidir."
+ },
+ {
+  "ders": "vatandaslik",
+  "id": "34169",
+  "konu": "temel_haklar",
+  "soru": "Özel hayatın gizliliği ve konut dokunulmazlığına ilişkin aşağıdaki değerlendirmelerden hangisi Anayasa hükümleriyle örtüşmemektedir?",
+  "secenekler": [
+   "Konuta girme, arama ve el koyma ancak millî güvenlik, kamu düzeni, suç işlenmesinin önlenmesi gibi sebeplerle mümkündür.",
+   "Yetkili merciin kararı 24 saat içinde görevli hâkimin onayına sunulmalıdır.",
+   "Gecikmesinde sakınca bulunan hâllerde kanunla yetkili kılınmış merciin yazılı emriyle konuta girilebilir.",
+   "Konuta konut sahibinin rızası olmaksızın girilemez; bu kural kural olarak hâkim kararına dayanır.",
+   "Hâkim, yetkili merciin kararını en geç 48 saat içinde onaylamazsa el koyma ve arama işlemi kendiliğinden geçersiz hâle gelir."
+  ],
+  "yeniAnahtar": "E",
+  "yeniMetin": "Hâkim, yetkili merciin kararını en geç 48 saat içinde onaylamazsa el koyma ve arama işlemi kendiliğinden geçersiz hâle gelir.",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Anayasa'nın 21. maddesine göre yetkili merciin kararı yirmi dört saat içinde görevli hâkimin onayına sunulur. Hâkim, el koymanın yapılmasından itibaren kırk sekiz saat içinde kararını açıklar; aksi hâlde yalnızca el koyma kendiliğinden kalkar. Anayasa, aramanın kendiliğinden geçersiz hâle geleceğinden söz etmez; bu seçenek hükmü genişleterek metinden ayrılır. Bankada cevap olarak gösterilen \"Yetkili merciin kararı 24 saat içinde görevli hâkimin onayına sunulmalıdır.\" ifadesi ise Anayasa metninin neredeyse birebir tekrarıdır, dolayısıyla Anayasa'yla örtüşür. \"Gecikmesinde sakınca bulunan hâllerde kanunla yetkili kılınmış merciin yazılı emriyle konuta girilebilir.\" ifadesi de 21. maddedeki istisnayı doğru aktarır. Doğru cevap \"Hâkim, yetkili merciin kararını en geç 48 saat içinde onaylamazsa el koyma ve arama işlemi kendiliğinden geçersiz hâle gelir.\" seçeneğidir."
+ },
+ {
+  "ders": "vatandaslik",
+  "id": "34516",
+  "konu": "yargi_organlari",
+  "soru": "Olağanüstü hâl döneminde çıkarılan Cumhurbaşkanlığı kararnameleriyle ilgili Anayasa Mahkemesi denetimine ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+  "secenekler": [
+   "Olağanüstü hâl kararnameleri ancak yürürlükten kalktıktan sonra denetlenebilir.",
+   "Olağanüstü hâl kararnameleri yalnızca esas bakımından denetlenebilir.",
+   "Olağanüstü hâl kararnameleri Anayasa Mahkemesi'nin denetimi dışında tutulmuştur.",
+   "Olağanüstü hâl kararnameleri hem şekil hem esas bakımından Anayasa Mahkemesi denetimine tabidir.",
+   "Olağanüstü hâl kararnamelerine karşı bireysel başvuru yolu açıktır."
+  ],
+  "yeniAnahtar": "D",
+  "yeniMetin": "Olağanüstü hâl kararnameleri hem şekil hem esas bakımından Anayasa Mahkemesi denetimine tabidir.",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "1982 Anayasası'nın eski metninde olağanüstü hâl kanun hükmünde kararnameleri için Anayasa Mahkemesi'nde dava açılamayacağı öngörülüyordu. 2017 değişikliğiyle 148. maddedeki bu istisna kaldırıldı. Böylece olağanüstü hâl döneminde çıkarılan Cumhurbaşkanlığı kararnameleri de diğer kararnameler gibi hem şekil hem esas bakımından Anayasa Mahkemesi denetimine tabi hâle geldi. \"Olağanüstü hâl kararnameleri Anayasa Mahkemesi'nin denetimi dışında tutulmuştur.\" seçeneği yürürlükten kalkmış eski düzenlemeyi yansıttığı için yanlıştır. \"Olağanüstü hâl kararnamelerine karşı bireysel başvuru yolu açıktır.\" seçeneği de yanlıştır; bireysel başvuru düzenleyici işlemlere karşı doğrudan kullanılamaz, yalnızca bunlara dayanan bireysel işlem ve kararlar nedeniyle yapılabilir. Doğru cevap \"Olağanüstü hâl kararnameleri hem şekil hem esas bakımından Anayasa Mahkemesi denetimine tabidir.\" seçeneğidir."
+ },
+ {
+  "ders": "vatandaslik",
+  "id": "34537",
+  "konu": "yargi_organlari",
+  "soru": "Anayasa Mahkemesi'nde görülen 'siyasi parti kapatma davası'nda partinin kapatılmasına karar verilebilmesi için gereken nitelikli çoğunluk ve bu kararın sonuçları bakımından hangisi doğrudur?",
+  "secenekler": [
+   "Üçte iki çoğunlukla kapatma kararı verilebilir; kapatılan partinin malvarlığı Hazine'ye devredilir.",
+   "Üçte iki çoğunlukla kapatma kararı verilebilir; kapatma kararı verilememesi halinde partiye herhangi bir yaptırım uygulanamaz.",
+   "Beşte üç çoğunlukla kapatma kararı verilebilir; kapatma kararının kapsam ve sonuçlarını TBMM belirler.",
+   "Üçte iki çoğunluk sağlanamazsa parti kapatılamaz; ancak mahkeme devlet yardımından kısmen yoksun bırakma kararı verebilir.",
+   "Salt çoğunlukla kapatma kararı verilebilir; kapatılan partinin her üyesi bir daha siyasi faaliyette bulunamaz."
+  ],
+  "yeniAnahtar": "A",
+  "yeniMetin": "Üçte iki çoğunlukla kapatma kararı verilebilir; kapatılan partinin malvarlığı Hazine'ye devredilir.",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Anayasa'nın 149. maddesine göre siyasi partinin kapatılmasına karar verilebilmesi için Anayasa Mahkemesi üye tamsayısının üçte iki oy çokluğu gerekir. Siyasi Partiler Kanunu uyarınca da kapatılan partinin bütün malvarlığı Hazine'ye geçer; bu nedenle hem çoğunluk hem sonuç bakımından doğru olan seçenek budur. Bankadaki \"Üçte iki çoğunluk sağlanamazsa parti kapatılamaz; ancak mahkeme devlet yardımından kısmen yoksun bırakma kararı verebilir\" ifadesi yanıltıcıdır, çünkü aynı madde devlet yardımından yoksun bırakma kararı için de üçte iki çoğunluğu şart koşar. Bu çoğunluk sağlanamazsa yardım kesme kararı da verilemez. \"Beşte üç çoğunlukla kapatma kararı verilebilir\" seçeneği ise hem oran hem de sonuçları TBMM'nin belirlediği iddiası nedeniyle yanlıştır. Doğru cevap \"Üçte iki çoğunlukla kapatma kararı verilebilir; kapatılan partinin malvarlığı Hazine'ye devredilir.\" seçeneğidir."
+ },
+ {
+  "ders": "vatandaslik",
+  "id": "34794",
+  "konu": "yerel_yonetimler",
+  "soru": "5393 sayılı Belediye Kanunu'na göre, bir belediyenin stratejik planı hazırlamasında aşağıdaki ifadelerden hangisi yanlıştır?",
+  "secenekler": [
+   "Performans programları stratejik plana uygun olarak hazırlanmak zorundadır.",
+   "Stratejik plan, kent vizyonunu ve misyonunu da kapsamak zorundadır.",
+   "Büyükşehir belediyelerinde stratejik plan zorunlu iken nüfusu 50.000'in altındaki belediyelerde isteğe bağlıdır.",
+   "Stratejik plan, belediye başkanı tarafından hazırlanır ve belediye meclisince kabul edilerek yürürlüğe girer. Meclis kararı kesindir.",
+   "Stratejik planlar beş yıllık dönemler için hazırlanır."
+  ],
+  "yeniAnahtar": "D",
+  "yeniMetin": "Stratejik plan, belediye başkanı tarafından hazırlanır ve belediye meclisince kabul edilerek yürürlüğe girer. Meclis kararı kesindir.",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "5393 sayılı Kanun'un 41. maddesine göre stratejik planı belediye başkanı hazırlar. Plan, belediye meclisince kabul edildikten sonra yürürlüğe girer. Ancak Kanun'un 23. maddesine göre belediye başkanı, bütçe dışındaki meclis kararlarını yeniden görüşülmek üzere iade edebilir ve kararlar idari denetime açıktır. Bu nedenle \"Meclis kararı kesindir\" ifadesi yanlıştır. Bankadaki cevap ise yanlış bir ifade değildir. Kanun, büyükşehir belediyeleri ile nüfusu 50.000'i aşan belediyelere stratejik plan zorunluluğu getirir ve nüfusu 50.000'in altındaki belediyelerde planı zorunlu tutmaz. Dolayısıyla bu belediyeler için planın isteğe bağlı olduğu söylenebilir. Performans programının stratejik plana uygun hazırlanması da mevzuatla uyumludur. Doğru cevap \"Stratejik plan, belediye başkanı tarafından hazırlanır ve belediye meclisince kabul edilerek yürürlüğe girer. Meclis kararı kesindir.\" seçeneğidir."
+ },
+ {
+  "ders": "vatandaslik",
+  "id": "34803",
+  "konu": "yerel_yonetimler",
+  "soru": "Aşağıdaki tabloda bazı özelliklerin hangi yerel yönetim birimine ait olduğu karşılaştırılmaktadır. Hangi seçenek tüm eşleştirmeleri doğru vermektedir?\n\nÖzellik 1: Köy muhtarı seçiminde oy kullanabilmek için o köyde ikamet şartı aranır.\nÖzellik 2: İl özel idaresi genel sekreteri vali tarafından atanır.\nÖzellik 3: Büyükşehir belediye başkanı aynı zamanda belediye encümeninin başkanıdır.",
+  "secenekler": [
+   "Özellik 1 doğru, Özellik 2 yanlış, Özellik 3 doğru",
+   "Özellik 1 yanlış, Özellik 2 doğru, Özellik 3 doğru",
+   "Özellik 1 doğru, Özellik 2 doğru, Özellik 3 yanlış",
+   "Özellik 1 yanlış, Özellik 2 yanlış, Özellik 3 doğru",
+   "Özellik 1 doğru, Özellik 2 doğru, Özellik 3 doğru"
+  ],
+  "yeniAnahtar": "E",
+  "yeniMetin": "Özellik 1 doğru, Özellik 2 doğru, Özellik 3 doğru",
+  "hakemGerekcesi": "",
+  "yeniAciklama": "Köy muhtarı seçiminde seçmen, adres kayıt sistemine göre o köyde ikamet eden ve köyün seçmen kütüğüne kayıtlı kişidir. Bu nedenle ikamet şartı aranır ve birinci özellik doğrudur. 5302 sayılı İl Özel İdaresi Kanunu'nun 36. maddesine göre genel sekreter vali tarafından atanır, dolayısıyla ikinci özellik de doğrudur. 5216 sayılı Kanun'un 16. maddesine göre büyükşehir belediye encümeninin başkanı büyükşehir belediye başkanıdır, yani üçüncü özellik de doğrudur. Bankadaki \"Özellik 1 yanlış, Özellik 2 doğru, Özellik 3 doğru\" cevabı, köydeki ikamet şartını yok saydığı için hatalıdır. \"Özellik 1 doğru, Özellik 2 doğru, Özellik 3 yanlış\" seçeneği de encümen başkanlığını yanlış değerlendirir. Doğru cevap \"Özellik 1 doğru, Özellik 2 doğru, Özellik 3 doğru\" seçeneğidir."
+ }
+]

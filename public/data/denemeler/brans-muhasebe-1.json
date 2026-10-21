@@ -170,19 +170,20 @@
      "aciklama": "7/A Maliyet Hesapları seçeneğinde; 710 Direkt İlk Madde ve Malzeme Giderleri, 720 Direkt İşçilik Giderleri, 730 Genel Üretim Giderleri, 740 Hizmet Üretim Maliyeti, 750 Araştırma ve Geliştirme Giderleri, 760 Pazarlama Satış ve Dağıtım Giderleri, 770 Genel Yönetim Giderleri şeklinde sıralanır. Dolayısıyla Genel Üretim Giderleri 730 kodlu hesaptır."
     },
     {
-     "id": "50021",
+     "id": "50007",
      "dersId": "muhasebe",
      "konuId": "genel_muhasebe",
-     "soru": "Aşağıdaki işlemlerden hangisi işletmenin brüt satışlarını değil, net satışlarını doğrudan etkiler?",
+     "soru": "Muhasebede 'Dönemsellik İlkesi' ne anlama gelir?",
      "secenekler": [
-      "Hem satış iadesi hem de satış iskontosu gerçekleşmesi",
-      "Faturada hata nedeniyle müşteriye yapılan fiyat indirimi (satış iskontosu)",
-      "Müşteriye yapılan mal satışı",
-      "Hiçbiri; tüm bu işlemler brüt satışları etkiler.",
-      "Satılan malın bir kısmının iade alınması"
+      "Dönem sonlarında tüm borçların kapatılmasıdır.",
+      "Tüm işletmelerin aynı muhasebe dönemini kullanmasıdır.",
+      "İşletme faaliyetlerinin belirli dönemlere bölünerek her dönemin gelir ve giderlerinin o dönemde raporlanmasıdır.",
+      "Her işlemin, gerçekleştiği günkü piyasa fiyatı üzerinden kaydedilmesi ve sonradan değerinin güncellenmemesidir. Bu ilke tarihi maliyet esasının doğal sonucudur.",
+      "Mali tabloların yalnızca yıllık dönemler hâlinde hazırlanmasıdır."
      ],
-     "dogru": 0,
-     "aciklama": "Gelir tablosunda Net Satışlar şu şekilde hesaplanır: Brüt Satışlar – Satış İadeleri – Satış İskontoları = Net Satışlar. Satış iadesi ve satış iskontosu her ikisi de brüt satışları azaltan indirim kalemleridir ve net satışları doğrudan düşürür. Tek başına mal satışı brüt satışları artırır. Tek başına iade ya da iskonto brüt satışı değil, onu düzelterek net satışı etkiler. Her ikisinin birden gerçekleşmesi ise net satışı iki yönden etkileyen bir durumdur ve sorudaki ifadeyle en uyumlu yanıt D seçeneğidir. A, B ve C tek bir kalemi ifade ederken D her iki düzeltme kalemini kapsar."
+     "dogru": 2,
+     "aciklama": "Dönemsellik İlkesi, işletme faaliyetlerinin belirli zaman dilimlerine bölünmesini ve her dönemin gelir ile giderlerinin birbirinden bağımsız olarak o dönemde muhasebeleştirilmesini ifade eder. Bu ilke, tahakkuk eden gelir ve giderlerin ilgili olduğu dönemde kayıt altına alınmasını zorunlu kılar.",
+     "zorluk": "kolay"
     },
     {
      "id": "50212",
@@ -419,19 +420,20 @@
      "zorluk": "kolay"
     },
     {
-     "id": "50035",
+     "id": "50406",
      "dersId": "muhasebe",
      "konuId": "genel_muhasebe",
-     "soru": "Bir işletme 100.000 TL nominal değerli hisse senedini 120.000 TL'ye ihraç etmiştir. Bu işlemin muhasebeleştirilmesinde aşağıdaki hesaplardan hangisi alacaklandırılır?",
+     "soru": "Bir işletme, peşin bedelle üç yıllık sigorta poliçesi satın almıştır. Bu işlemin ilk kayıt anındaki doğru muhasebeleştirilmesi aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Yalnızca 500 Sermaye hesabı 120.000 TL",
-      "500 Sermaye hesabı 100.000 TL ve 679 Diğer Olağandışı Gelir ve Kârlar hesabı 20.000 TL",
-      "500 Sermaye hesabı 120.000 TL ve 523 Emisyon Primleri hesabı 20.000 TL borçlanır",
-      "500 Sermaye hesabı 100.000 TL ve 523 Emisyon Primleri hesabı 20.000 TL",
-      "520 Hisse Senedi İptal Kârları hesabı 20.000 TL"
+      "Bir yıllık kısım gelecek aylara ait giderlere, kalan kısım gelecek yıllara ait giderlere kaydedilir",
+      "Ödenen tutarın tamamı ödeme yapıldığı dönemde doğrudan genel yönetim gideri olarak kaydedilir",
+      "Ödenen tutarın tamamı maddi olmayan duran varlık olarak aktifleştirilip itfa payı ayrılarak izlenir",
+      "Ödenen tutar peşin ödenen vergiler ve fonlar hesabında izlenerek dönem sonunda mahsup edilir",
+      "Ödenen tutarın tamamı gelecek yıllara ait giderler hesabına alınır ve son yıl toptan gider yazılır"
      ],
-     "dogru": 3,
-     "aciklama": "Hisse senetleri nominal değerin üzerinde ihraç edildiğinde, nominal değer 500 Sermaye hesabına, aradaki fark (prim) ise 523 Emisyon Primleri hesabına alacak kaydedilir. Bu işlemde 100.000 TL'yi 500 Sermaye, 20.000 TL'yi ise 523 Emisyon Primleri hesabı alacaklandırır. Toplam 120.000 TL nakit girişi 100 Kasa veya 102 Bankalar hesabına borç yazılır. Doğru yanıt B şıkkıdır."
+     "dogru": 0,
+     "aciklama": "Peşin ödenen giderlerde dönemsellik gereği ayrım yapılır: içinde bulunulan dönemi izleyen bir yıllık kısım 180 Gelecek Aylara Ait Giderler, bir yılı aşan kısım ise 280 Gelecek Yıllara Ait Giderler hesabında izlenir ve her dönem ilgili tutar gidere dönüştürülür.",
+     "zorluk": "zor"
     },
     {
      "id": "50266",

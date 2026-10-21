@@ -265,19 +265,19 @@
      "zorluk": "zor"
     },
     {
-     "id": "38948",
+     "id": "40335",
      "dersId": "turkce",
      "konuId": "fiil_catisi",
-     "soru": "Aşağıdaki cümlelerin hangisinde geçişli bir fiilin edilgen çatıya sokulmasıyla oluşan yapı, Türkçe cümle kuralları açısından sorunsuz bir öznesizlik (failsizlik) ortamı oluşturmaktadır?",
+     "soru": "Aşağıdaki cümlelerin hangisinde '-l-' eki edilgen çatı değil, sözcük yapımı işleviyle kullanılmıştır?",
      "secenekler": [
-      "Kitap okunur.",
-      "Sınav kâğıtları dün dağıtıldı.",
-      "Tablo satıldı.",
-      "Bu yolda hızlı gidilmez.",
-      "Şehirde yeni binalar yapılıyor."
+      "Orman yangında sarıldı.",
+      "Bu sabah erken kalktı.",
+      "Mektup dün yazıldı.",
+      "Çocuk eve götürüldü.",
+      "Demir ısıtıldı."
      ],
-     "dogru": 3,
-     "aciklama": "'Bu yolda hızlı gidilmez.' cümlesinde 'git-' fiili geçişsiz olmasına karşın edilgen çatı eki almış ve ortaya gerçek bir failsizlik ortamı çıkmıştır; yani fiilin mantıksal öznesi tamamen belirsizleşmiş, cümle genel bir yargı bildiren soyut bir yapıya dönüşmüştür. Bu yapı, Türkçede geçişsiz fiillerin aldığı soyut edilgen yapının en net örneğidir ve fail tamamen silinmiştir. Diğer seçeneklerde edilgen yapı kullanılmış olsa da bağlamdan faille ilgili bilgi çıkarılabilmektedir; A seçeneğinde ise söylem genelleştirilmiş ve failden tümüyle soyutlanmıştır.",
+     "dogru": 0,
+     "aciklama": "'Sarıldı' fiilinin çözümlemesi 'sar-ıl-dı' biçimindedir. Burada '-ıl-' eki, 'sar-' fiiline edilgen anlamı katmıştır; yani orman (ateş tarafından) sarıldı. Ancak dilbilgisel açıdan bu fiil aynı zamanda 'sarıl-' (kucaklamak, yapışmak) anlamıyla bağımsız kullanılmakta ve bu kullanımda '-ıl-' artık çatı eki değil sözcükleşmiş bir yapım ekidir. Bu çift anlamlılık cümleyi derin çözümlemede en yanıltıcı seçenek kılar. Diğer fiillerde '-l-' ya da '-il-' eki açıkça edilgen çatı işlevi görür.",
      "zorluk": "zor"
     },
     {

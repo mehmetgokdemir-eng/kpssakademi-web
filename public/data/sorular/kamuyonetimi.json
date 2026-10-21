@@ -1468,7 +1468,7 @@
    "Sonuçlar, kontrol grubunun yokluğu nedeniyle yalnızca betimleyici düzeyde kalmış; herhangi bir nedensellik bağı kurulamamıştır."
   ],
   "dogru": 3,
-  "aciklama": "Hawthorne etkisinin özü, araştırmaya katılanların gözlendiklerini bildiklerinde davranışlarını değiştirmeleridir. Röle montaj odasında üretkenlik artışı yalnızca fiziksel koşullardaki iyileştirmeye değil, bireylerin 'özel ilgi gördüklerini' hissetmelerine bağlıdır. Bu durum, nedensellik ilişkisini bulanıklaştırmakta; bağımsız değişkenin (çalışma koşulları) etkisini, bir aracı değişkenden (gözlenme bilinci) ayırt etmeyi olanaksız kılmaktadır. B şıkkı bu metodolojik sorunu doğru biçimde özetlemektedir. D şıkkındaki arşiv araştırması iddiası gerçek olmakla birlikte (Franke & Kaul, 1978) eleştirinin 'özü' değil bir boyutudur.",
+  "aciklama": "Soru kökü, eleştiriyi açıkça 'Hawthorne etkisi' kavramına bağlamaktadır. Bu kavramın özü, gözlendiğini bilen bireylerin davranışlarını değiştirmesidir. Böylece üretkenlik artışının fiziksel çalışma koşullarından değil, ilgi görme ve gözlenme durumundan kaynaklandığı ileri sürülür ve araştırmanın nedensellik iddiası zayıflar. \"Sonuçlar, kontrol grubunun yokluğu nedeniyle yalnızca betimleyici düzeyde kalmış; herhangi bir nedensellik bağı kurulamamıştır.\" seçeneği yöntemsel bir eleştiriye değinse de 'Hawthorne etkisi' adlandırmasının içeriğini karşılamaz. Ayrıca hiçbir nedensellik kurulamadığı yönündeki kesin hükmü abartılıdır. Yalnızca kadın işçilerle yapılmasını öne çıkaran seçenek ise bu eleştirinin özü değildir. Verilerin çarpıtıldığını ileri süren seçenek de kanıtlanmamış bir iddiadır. Doğru cevap \"Araştırmacıların gözlem yaptığının farkında olan bireylerin davranışlarını değiştirmesi, artışın aydınlatma koşullarından değil gözlenmekten kaynaklandığını ortaya koyar ve bu durum nedensellik iddiasını çürütür.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -5616,22 +5616,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "54353",
-  "dersId": "kamuyonetimi",
-  "konuId": "personel_rejimi",
-  "soru": "657 sayılı Kanun kapsamında memurun görevden uzaklaştırılması kurumuna ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
-  "secenekler": [
-   "Görevden uzaklaştırma kararı, kesinleşmiş bir yargı kararına dayandırılmak zorunda olup bu olmaksızın idari makamlar bu tedbiri uygulayamaz.",
-   "Görevden uzaklaştırma, bir disiplin cezası olmayıp soruşturma süresince uygulanan geçici bir idari tedbir niteliğindedir.",
-   "Soruşturma sonucunda memurun suçsuz çıkması halinde, görevden uzaklaştırma süresince ödenmeyen aylık farkı geriye dönük olarak ödenir.",
-   "Görevden uzaklaştırma kararı, belirli koşulların varlığı halinde taraflarca veya soruşturmacı tarafından kaldırılabilir.",
-   "Görevden uzaklaştırılan memurun aylığının üçte ikisi ödenmeye devam edilir."
-  ],
-  "dogru": 0,
-  "aciklama": "657 sayılı Kanun'un 137. maddesi, görevden uzaklaştırmayı bir idari tedbir olarak düzenlemiş ve bu tedbirin uygulanabilmesi için kesinleşmiş yargı kararı aranmamıştır. Atamaya yetkili amir veya üst amir, gerekli koşulların varlığında bu tedbiri idari tasarrufla uygulayabilir. A şıkkı doğrudur, tedbir niteliğindedir. B şıkkı doğrudur; 2/3 oranında ödeme yapılır (140. madde). C şıkkı doğrudur; belirli koşullarda kaldırılabilir (138. madde). D şıkkı doğrudur; beraat halinde fark ödenir (143. madde).",
-  "zorluk": "zor"
- },
- {
   "id": "54354",
   "dersId": "kamuyonetimi",
   "konuId": "personel_rejimi",
@@ -5744,22 +5728,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "54361",
-  "dersId": "kamuyonetimi",
-  "konuId": "personel_rejimi",
-  "soru": "Türk kamu personel sisteminde 657 sayılı Devlet Memurları Kanunu'nun 68. maddesinde düzenlenen 'istisnai memuriyet' pozisyonları için aşağıdaki ifadelerden hangisi YANLIŞTIR?",
-  "secenekler": [
-   "Bu pozisyonlara atananlar, 657 sayılı Kanun'un genel hükümlerinden büyük ölçüde muaf tutulmuştur.",
-   "Cumhurbaşkanlığı Hükümet Sistemi'ne geçişle birlikte bu pozisyonların kapsamı genişlemiştir.",
-   "İstisnai memurların, kariyer ve liyakat ilkelerinden bağımsız biçimde değerlendirilmesi esastır.",
-   "İstisnai memurlar, sınav şartına tabi tutulmaksızın atanabilir.",
-   "İstisnai memurların kadro unvanları, diğer devlet memurlarıyla özdeş hukuki statüyü paylaşır."
-  ],
-  "dogru": 4,
-  "aciklama": "İstisnai memurlar (büyükelçi, müsteşar gibi pozisyonlar), 657 sayılı Kanun'un sınav, sınıflandırma ve kademe ilerlemesi gibi temel hükümlerinin dışında tutulmaktadır. Bu pozisyonlar, diğer devlet memurlarıyla aynı hukuki statüyü paylaşmaz; siyasi atama niteliği taşıyan özel pozisyonlardır. Dolayısıyla C şıkkındaki 'özdeş hukuki statü' ifadesi yanlıştır. Diğer şıklar, istisnai memuriyetin gerçek niteliklerine uygundur.",
-  "zorluk": "zor"
- },
- {
   "id": "54362",
   "dersId": "kamuyonetimi",
   "konuId": "personel_rejimi",
@@ -5804,7 +5772,7 @@
    "Her iki statüdeki personel de özlük hakları açısından 657 sayılı Kanun'a tamamen tabi olup aralarında fiiliyatta hiçbir fark bulunmamaktadır."
   ],
   "dogru": 3,
-  "aciklama": "4/B sözleşmeli personel, bir yılı aşmayan ve otomatik olarak yenilenen sözleşmelerle çalışır; kadrolu statüden yoksundur ve her iki tarafın bildirimiyle sözleşme sonlandırılabilir. Belediye sözleşmeli personeli de benzer bir esnekliğe tabidir; belediye meclisi onayıyla istihdam edilir ve kadro güvencesi bulunmaz. A şıkkı yanlıştır çünkü sözleşmeliler sendikaya üye olabilir. B şıkkı yanlıştır; belediye sözleşmelileri tam anlamıyla 657'ye tabi değildir. D şıkkı yanlıştır; belediye sözleşmelileri için de bazı hallerde KPSS aranabilir. E şıkkı açıkça yanlıştır.",
+  "aciklama": "657 sayılı Kanun'un 4/B maddesine göre sözleşmeli personel, kural olarak mali yılı aşmayan ve her yıl yenilenen sözleşmelerle istihdam edilir ve kadro güvencesine sahip değildir. 5393 sayılı Kanun'un 49. maddesine dayanan belediye sözleşmelileri de yıllık sözleşmelerle çalıştırılır ve kadrolu memur güvencesinden yararlanmaz. Bu nedenle iki statü esneklik ve güvencesizlik bakımından benzerdir. \"4/B sözleşmelileri KPSS puanına göre atanırken belediye sözleşmelileri için KPSS zorunluluğu hiçbir koşulda aranmaz.\" seçeneği yanlıştır, çünkü belediye sözleşmeli alımlarında da sınav ve KPSS şartı uygulanabilmektedir. Her iki statünün 657 sayılı Kanun'a bütünüyle tabi olduğunu ve kadro güvencesinden yararlandığını söyleyen seçenekler de sözleşmeli istihdamın niteliğiyle çelişir. Sendika üyeliğinin yasak olduğunu söyleyen seçenek de yanlıştır, çünkü sözleşmeli personel sendikaya üye olabilir. Doğru cevap \"4/B sözleşmelileri kural olarak bir yılı aşmayan sözleşmelerle istihdam edilirken belediye sözleşmelileri de benzer esneklikte sözleşme hükmüne tabi olup kadro güvencesinden yoksundur.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {

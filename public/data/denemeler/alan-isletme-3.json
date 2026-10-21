@@ -310,19 +310,19 @@
      "aciklama": "Du Pont Modeli: ROE = Net Kâr Marjı × Varlık Devir Hızı × Finansal Kaldıraç Çarpanı. ROE = %8 × 2,5 × 1,6 = 0,08 × 2,5 × 1,6 = 0,32 = %32. Bu model ROE'yi üç bileşene ayırarak kârlılığın kaynağını (operasyonel verimlilik, varlık kullanımı, finansal kaldıraç) analiz etmeye imkân tanır."
     },
     {
-     "id": "52324",
+     "id": "52299",
      "dersId": "isletme",
      "konuId": "pazarlama",
-     "soru": "Bir işletme, pazar araştırmasında müşteri tatmini ile müşteri sadakati arasındaki ilişkiyi incelemiştir. Araştırma sonuçlarına göre tatmin skoru 4/5 olan müşterilerin %40'ı, tatmin skoru 5/5 olan müşterilerin ise %85'i bir sonraki dönem aynı markayı tercih etmektedir. Xerox tarafından da gözlemlenen bu 'tatmin-sadakat uçurumu'nun pazarlama stratejisi açısından en kritik sonucu aşağıdakilerden hangisidir?",
+     "soru": "Porter'ın Beş Güç Modeli çerçevesinde değerlendirildiğinde, aşağıdaki hangi durum 'alıcıların pazarlık gücünü AZALTAN' bir faktördür?",
      "secenekler": [
-      "Tatmin-sadakat uçurumu yalnızca rekabet yoğunluğu yüksek sektörlerde gözlemlenir",
-      "Müşteri tatminini 4'ten 5'e çıkarmak, pazarlama harcamalarında %45 artış gerektirir",
-      "İşletmeler tatmin düzeyini ölçmek yerine doğrudan NPS (Net Promoter Score) kullanmalıdır",
-      "4/5 puan alan müşterilerin sadakati artırmak için fiyat indirimi uygulanmalıdır",
-      "Müşteri tatmini sadakat için yeterli ama gerekli koşul değildir; duygusal bağ oluşturmak zorunludur"
+      "Ürünün standartlaşmış ve farklılaşmamış olması",
+      "Alıcının satın aldığı ürün hakkında tam bilgiye sahip olması",
+      "Alıcıların satın aldıkları ürünün kendi toplam maliyetleri içindeki payının yüksek olması ve alıcının bu maliyete duyarlı olması",
+      "Alıcının geriye dönük dikey entegrasyon tehdidinin düşük ve geçiş maliyetlerinin yüksek olması",
+      "Sektördeki tedarikçi sayısının az, alıcı sayısının ise fazla olması"
      ],
-     "dogru": 4,
-     "aciklama": "Xerox araştırması ve Jones & Sasser (1995) tarafından akademik literatüre kazandırılan bu bulgu, 'tatmin-sadakat uçurumu'nun kritik bir pazarlama gerçeğini ortaya koyduğunu göstermektedir: Tatmin olan müşteriler illa ki sadık değildir. Rakip teklifler, kolaylık, fiyat baskısı veya inertia değişkeni müşteriyi alternatife yönlendirebilir. 4/5 tatmin skoru 'tatmin' anlamına gelir ancak bu duygusal bağlılık (commitment) ile eşdeğer değildir. Sadakati sağlamak için işletmelerin tatmin eşiğini aşan 'mükemmel deneyim', duygusal marka bağı ve algılanan değer yaratması gerekmektedir. A seçeneği araç değişikliği önerir; sorunu çözmez. C seçeneği fiyatçı bir yaklaşımdır ve duygusal bağı güçlendirmez. D yanlıştır; uçurum pek çok sektörde gözlemlenir. E spekülatiftir ve teorik dayanağı yoktur.",
+     "dogru": 3,
+     "aciklama": "Porter modelinde alıcıların pazarlık gücü, alıcıların seçenek bulabildiği ve geçiş yapabildiği ölçüde artar. Alıcının geriye doğru dikey entegrasyon tehdidi düşükse alıcı ürünü kendisi üretemez; geçiş maliyetleri yüksekse de tedarikçi değiştirmek zorlaşır. İkisi birlikte alıcının pazarlık gücünü azaltır. \"Ürünün standartlaşmış ve farklılaşmamış olması\" seçeneği yanlıştır, çünkü alıcı kolayca başka satıcıya geçebilir ve pazarlık gücü artar. \"Alıcının satın aldığı ürün hakkında tam bilgiye sahip olması\" seçeneği de yanlıştır, çünkü tam bilgi alıcıyı fiyat ve alternatifler konusunda güçlendirir. Doğru cevap \"Alıcının geriye dönük dikey entegrasyon tehdidinin düşük ve geçiş maliyetlerinin yüksek olması\" seçeneğidir.",
      "zorluk": "zor"
     },
     {

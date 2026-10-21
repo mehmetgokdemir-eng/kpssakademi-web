@@ -59,19 +59,20 @@
      "zorluk": "zor"
     },
     {
-     "id": "34168",
+     "id": "34163",
      "dersId": "vatandaslik",
      "konuId": "temel_haklar",
-     "soru": "Kişi dokunulmazlığı, bireysel özgürlük ve güvenlik hakkı kapsamında 'tutukluluk' konusunda Anayasa'nın öngördüğü usule ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+     "soru": "Anayasa'nın 36. maddesinde güvence altına alınan 'hak arama özgürlüğü' kapsamında aşağıdakilerden hangisi doğrudur?",
      "secenekler": [
-      "Tutukluluk süresi bireysel suçlarda kanunla belirlenmiş azami sınırı hiçbir koşulda aşamaz.",
-      "Gözaltına alınan kişi en geç 48 saat içinde, toplu suçlarda 4 güne kadar uzatılabilecek süre içinde hâkim önüne çıkarılmalıdır.",
-      "Yakalanan veya tutuklanan kişi, tutulma sebebi ve haklarındaki iddialar hakkında derhal bilgilendirilir.",
-      "Suçüstü hâllerinde bireyler hâkim kararı aranmaksızın yakalanabilir.",
-      "Hâkim kararı olmaksızın kişi özgürlüğünden yoksun bırakılamaz."
+      "Hak arama özgürlüğü yalnızca ceza davaları için geçerlidir.",
+      "Bireysel başvuru hakkı 36. madde kapsamındadır.",
+      "Bu özgürlük kapsamında adil yargılanma hakkı Anayasa'da açıkça yer almaktadır.",
+      "Mahkemeye erişim hakkı bu madde kapsamında güvence altındadır; ancak ücret ödeme koşulu bu hakkı ihlal etmez.",
+      "Hak arama özgürlüğü yalnızca Türk vatandaşlarına tanınmıştır."
      ],
-     "dogru": 0,
-     "aciklama": "Anayasa'nın 19. maddesi uyarınca bireysel suçlarda azami tutukluluk süresi kanunla belirlenir; ancak olağanüstü hâl ilan edilmesi durumunda bu süreler uzatılabilir. Dolayısıyla 'hiçbir koşulda aşamaz' ifadesi mutlak anlamda doğru değildir; anayasa bu konuda olağanüstü hâl istisnasına yer verir. Diğer seçeneklerdeki ifadeler Anayasa'nın 19. maddesiyle uyumludur. Doğru cevap D seçeneğidir."
+     "dogru": 2,
+     "aciklama": "1982 Anayasası'nın 36. maddesi başlangıçta sadece 'davacı ve davalı olarak hak arama' güvencesini içermekteydi. 2001 yılında yapılan değişiklikle 'adil yargılanma hakkı' da bu maddeye açıkça eklenmiştir. Böylece adil yargılanma hakkı artık anayasal güvence kapsamındadır. Hak arama özgürlüğü yalnızca Türk vatandaşlarına değil, Türkiye'deki herkese tanınmıştır. Bireysel başvuru hakkı ise 148. maddede düzenlenmiş ayrı bir anayasal güvencedir.",
+     "zorluk": "orta"
     },
     {
      "id": "34042",
@@ -233,19 +234,20 @@
      "zorluk": "kolay"
     },
     {
-     "id": "34268",
+     "id": "34275",
      "dersId": "vatandaslik",
      "konuId": "yasama_tbmm",
-     "soru": "Anayasa'ya göre TBMM'nin kanun yapma süreciyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+     "soru": "Olağanüstü hal döneminde çıkarılan Cumhurbaşkanlığı kararnameleri ile ilgili aşağıdakilerden hangisi doğrudur?",
      "secenekler": [
-      "Kanun teklifleri yalnızca milletvekilleri tarafından verilebilir.",
-      "Cumhurbaşkanı, kanun teklif etme yetkisine sahip değildir.",
-      "Komisyonların kabul ettiği kanun metni Genel Kurul'da değiştirilemez.",
-      "Bütçe kanun teklifi, Maliye Bakanlığı tarafından doğrudan TBMM'ye sunulur.",
-      "Kanun teklifleri Türkçe olmak zorunda değildir."
+      "TBMM bu kararnameleri hiçbir biçimde denetleyemez; çünkü olağanüstü hal süresince yasama yetkisi tümüyle askıya alınır ve Meclis toplanamaz",
+      "Bu kararnamelerin TBMM'ye sunulması zorunlu değildir",
+      "Olağanüstü hal kararnameleri ile temel haklar tamamen kaldırılabilir",
+      "Bu kararnameler yalnızca Anayasa Mahkemesi denetimine tabidir, TBMM denetleyemez",
+      "Bu kararnameler Resmî Gazete'de yayımlandığı gün yürürlüğe girer ve TBMM'ye sunulur; TBMM tarafından onaylanmazsa yürürlükten kalkar"
      ],
-     "dogru": 1,
-     "aciklama": "2017 Anayasa değişikliğiyle yürütme yetkisi Cumhurbaşkanı'na verilmiş, Bakanlar Kurulu kaldırılmıştır. Buna göre artık kanun tasarısı (hükümet tasarısı) usulü ortadan kalkmış ve kanun teklifleri yalnızca milletvekilleri tarafından verilebilir hâle gelmiştir. Cumhurbaşkanı'nın kanun teklif etme yetkisi Anayasa'da düzenlenmemiştir; dolayısıyla C şıkkı doğrudur. Bütçe teklifi ise Cumhurbaşkanı tarafından TBMM'ye sunulur (D yanlış). Komisyonların kabul ettiği metinler Genel Kurul'da değiştirilebilir (B yanlış)."
+     "dogru": 4,
+     "aciklama": "Anayasa'nın 119. maddesine göre olağanüstü hal süresince çıkarılan Cumhurbaşkanlığı kararnameleri Resmî Gazete'de yayımlanır ve aynı gün TBMM'nin onayına sunulur. TBMM tarafından onaylanmayan kararnameler yürürlükten kalkar. Ayrıca bu kararnamelerle temel haklar sınırlandırılabilir ancak tamamen kaldırılamaz; Anayasa'nın 15. maddesi bu konudaki sınırları belirler.",
+     "zorluk": "orta"
     },
     {
      "id": "34676",

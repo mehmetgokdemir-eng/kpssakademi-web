@@ -93,35 +93,35 @@
      "zorluk": "kolay"
     },
     {
-     "id": "40248",
+     "id": "40251",
      "dersId": "turkce",
      "konuId": "cumle_ogeleri",
-     "soru": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük, hem dolaylı tümleç hem de zarf tümleci işlevi görebilecek biçimde yorumlanabilir?",
+     "soru": "\"Müdür, çalışanların şikâyetlerini dinlemeksizin kararını açıkladı.\" cümlesinde 'dinlemeksizin' sözcüğünün cümle ögesi bakımından doğru çözümlenmesi hangisidir?",
      "secenekler": [
-      "Sabah erkenden okula gitti.",
-      "Kitabı masaya bıraktı.",
-      "Arkadaşına güldü.",
-      "Çocuklar bahçede saatlerce koştu.",
-      "Eve dönerken onu gördüm."
+      "Özne; eylemi gerçekleştireni belirtir.",
+      "Nesne; eylemin üzerinde gerçekleştiği varlığı karşılar.",
+      "Yüklem; cümleye yargı katar.",
+      "Dolaylı tümleç; '-e' hâl ekiyle ilişkili anlam taşır.",
+      "Zarf tümleci; eylemin nasıl gerçekleştiğini belirtir."
      ],
-     "dogru": 0,
-     "aciklama": "C seçeneğinde 'okula' sözcüğü yüzeysel yapıda dolaylı tümleç işlevi görür (-a hal eki almış). Ancak 'okula gitmek' eyleminde yönelme bildiren bu öge, eylemin nerede/ne yöne gerçekleştiğini belirttiğinden zarf tümleci (yer-yön) olarak da çözümlenebilir. Dilbilgisinde bu tür çakışma özellikle yer bildiren yönelme ögelerinde görülür. Diğer seçeneklerde böyle bir çift işlevli yorum yapısal açıdan mümkün değildir.",
+     "dogru": 4,
+     "aciklama": "'Dinlemeksizin' sözcüğü '-meksizin' zarf-fiil (ulaç) ekiyle türetilmiştir. Bu ek, eylemin gerçekleşme biçimini, koşulunu ya da olumsuz durumunu belirtir; dolayısıyla 'açıkladı' eylemine bağlanır ve zarf tümleci işlevi görür. 'Nasıl açıkladı?' sorusuna 'dinlemeksizin' yanıtı verilir. Zarf-fiil ekleriyle kurulan öbekler kural olarak zarf tümleci sayılır.",
      "zorluk": "zor"
     },
     {
-     "id": "40350",
+     "id": "38956",
      "dersId": "turkce",
      "konuId": "fiil_catisi",
-     "soru": "Aşağıdaki cümlelerin hangisinde özne, yüklem ilişkisi bakımından dönüşlü çatılı bir fiille kurulmuş cümle yapısı yanlış tanımlanmıştır?",
+     "soru": "Aşağıdaki cümlelerin hangisinde özne, hem eylemin yapıcısı hem de eylemden etkilenenidir; bu durum ise dönüşlü çatı yerine farklı bir yapıyla sağlanmıştır?",
      "secenekler": [
-      "'Çocuk yatağa sardı.' – özne eylemi kendine yaptı.",
-      "'Sporcu antrenmana hazırlandı.' – özne kendini hazırladı.",
-      "'Adam soğuktan büründü.' – özne bir şeye büründü.",
-      "'Kadın saçını taradı.' – özne eylemi başkasına yaptı.",
-      "'O aynaya bakındı.' – özne kendi etrafına bakındı."
+      "Sporcu kendini kampa kapattı.",
+      "Çocuk yavaşça uyudu.",
+      "Adam yorulunca dinlendi.",
+      "Öğrenci sınavdan önce hazırlandı.",
+      "Kadın saçlarını kendisi kesti."
      ],
-     "dogru": 3,
-     "aciklama": "D seçeneğinde 'taradı' fiili çatı eki içermez; 'tara-' köküne doğrudan zaman eki gelmiştir. 'Saçını taradı' cümlesinde özne eylemi bizzat gerçekleştirmiştir (saçını kendisi taramıştır). Bu nedenle 'özne eylemi başkasına yaptı' tanımı kesinlikle yanlıştır. Ayrıca 'taramak' dönüşlü çatı eki de içermediğinden bu fiil dönüşlü çatı örneği olarak bile gösterilemez. A'da 'sardı' yine ek içermez; ancak 'sardı' burada sarınma anlamında kullanılmıştır, yorum tartışmalıdır. B ve E seçeneklerinde '-n-' eki dönüşlülüğü doğru biçimde yansıtmaktadır. D'deki tanım hatası hem çatı ekinin yokluğunu hem de anlam tanımının tersyüz edilmesini kapsadığından en belirgin hatalı seçenektir.",
+     "dogru": 0,
+     "aciklama": "A'da 'kendini' dönüşlülük zamiriyle özne hem yapan hem etkilenendir (çatı eki yerine zamirle sağlanmış); E'de 'kendisi' pekiştirme olup etkilenen saçlardır. Doğru cevap Sporcu kendini kampa kapattı şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -284,19 +284,19 @@
      "zorluk": "zor"
     },
     {
-     "id": "39083",
+     "id": "39356",
      "dersId": "turkce",
      "konuId": "anlatim_bozukluklari",
-     "soru": "Aşağıdaki cümlelerin hangisinde anlam yinelenmesi (sözcük israfı/gereksiz sözcük kullanımı) bozukluğu en gizli/örtük biçimde yer almaktadır?",
+     "soru": "Aşağıdaki cümlelerin hangisinde, sözcüğün hem gerçek hem mecaz anlamının aynı anda kullanılmaya çalışılmasından kaynaklanan anlatım bozukluğu vardır?",
      "secenekler": [
-      "Sabahleyin erken saatlerde işe gitti.",
-      "Hukuk mahkemesinde dava açıldı.",
-      "Kendi öz kardeşi onu aramadı.",
-      "En başından itibaren bu konuyu biliyordu.",
-      "İlerleyen süreçte bu kararı gözden geçireceğiz."
+      "Soğuk bakışları odadaki sıcak atmosferi bir anda dağıttı.",
+      "Sözleri taş gibi sert olduğundan kimse ona yaklaşmak istemiyordu.",
+      "Kalbini açarak anlattığı bu hikâye, herkesi derinden etkiledi.",
+      "Bu şiir, okuyucunun yüreğini dağlayan derin bir acıyla yüklüdür.",
+      "Keskin zekâsı ve keskin tırnak makası onun en büyük silahlarıydı."
      ],
      "dogru": 4,
-     "aciklama": "A seçeneğinde 'sabahleyin' ve 'erken saatlerde' birbiriyle örtüşür. B'de 'hukuk mahkemesi' fazlalık içerir (mahkeme zaten hukuki bir kurumdur). C'de 'kendi' ve 'öz' aynı vurguyu tekrar eder. D'de 'en başından' ve 'itibaren' örtüşür. E seçeneğindeki 'ilerleyen süreçte' ifadesinde ise bozukluk en örtüktür: 'Süreç' zaten ilerleyen/akan bir kavramdır; 'ilerleyen' sıfatının 'süreç'e eklenmesi anlam yinelenmesidir. Ancak bu yineleme dilde o kadar yerleşmiş bir klişe haline gelmiştir ki fark edilmesi diğer seçeneklere kıyasla çok daha güçtür. ÖSYM bu tür yerleşik ama yanlış kullanımları sıklıkla sınar.",
+     "aciklama": "\"Keskin zekâsı ve keskin tırnak makası onun en büyük silahlarıydı.\" cümlesinde \"keskin\" sözcüğü aynı anda iki anlamda kullanılmıştır. \"Keskin zekâ\" ifadesinde sözcük mecaz anlamlıdır, \"keskin tırnak makası\" ifadesinde ise gerçek anlamlıdır. Tek bir sözcük iki farklı anlamda yan yana getirilerek ortak bir yüklemle bağlandığı için anlatım bozulmuştur. \"Soğuk bakışları odadaki sıcak atmosferi bir anda dağıttı.\" cümlesinde iki sözcük de mecaz anlamlıdır. \"Sözleri taş gibi sert olduğundan...\" cümlesinde ise tutarlı bir benzetme vardır. Doğru cevap \"Keskin zekâsı ve keskin tırnak makası onun en büyük silahlarıydı.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {

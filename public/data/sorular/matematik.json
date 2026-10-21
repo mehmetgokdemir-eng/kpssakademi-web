@@ -2336,22 +2336,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "100171",
-  "dersId": "matematik",
-  "konuId": "bolunebilme",
-  "soru": "p ve q asal sayılar olmak üzere p × q sayısının tam bölen sayısı kaçtır?",
-  "secenekler": [
-   "p+q",
-   "3",
-   "2",
-   "4",
-   "pq"
-  ],
-  "dogru": 3,
-  "aciklama": "p ve q farklı asal sayılar ise p×q = p¹×q¹, bölen sayısı = (1+1)(1+1) = 4'tür (1, p, q, pq). p=q olması durumunda p×q = p², bölen sayısı = 3 olur (1, p, p²). Ancak KPSS sorularında genellikle p≠q varsayılır ve cevap 4'tür. Cevap C) 4.",
-  "zorluk": "orta"
- },
- {
   "id": "100173",
   "dersId": "matematik",
   "konuId": "bolunebilme",
@@ -2381,22 +2365,6 @@
   ],
   "dogru": 0,
   "aciklama": "Bir sayı hem 8'e hem 6'ya bölünüyorsa bu iki sayının EKOK'una bölünür. 8 = 2³ ve 6 = 2 · 3 olduğundan EKOK(8, 6) = 24 olur. Yani sayı 24'ün katıdır. 24'ün bölenleri olan 2, 3, 4 ve 12 sayıları bu sayıyı kesinlikle böler. 36 = 2² · 3² olduğu için 9 çarpanını da gerektirir; 24'te ise 3'ün üssü yalnızca 1'dir. Örneğin 24 sayısı 36'ya bölünmez. \"12\" seçeneği 24'ün böleni olduğundan her zaman bölünür, bu nedenle yanlıştır. Doğru cevap \"36\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
-  "id": "100175",
-  "dersId": "matematik",
-  "konuId": "bolunebilme",
-  "soru": "Ardışık üç çift sayının çarpımı daima hangi sayıya bölünebilir?",
-  "secenekler": [
-   "96",
-   "24",
-   "192",
-   "384",
-   "48"
-  ],
-  "dogru": 4,
-  "aciklama": "Ardışık üç çift sayı: 2n, 2n+2, 2n+4 = 2(n), 2(n+1), 2(n+2) şeklinde yazılabilir. Çarpımları = 8 · n(n+1)(n+2). n, n+1, n+2 ardışık üç doğal sayının çarpımı 3! = 6'nın katıdır (ardışık n sayının çarpımı n!'e bölünür). Dolayısıyla çarpım = 8 · 6k = 48k şeklindedir ve daima 48'e bölünür. 96'nın katı olması şart değildir: örneğin n=1 için 2·4·6=48, 96'ya bölünmez. Doğru cevap B şıkkıdır.",
   "zorluk": "orta"
  },
  {
@@ -2765,22 +2733,6 @@
   ],
   "dogru": 0,
   "aciklama": "200'e kadar 6'nın katı 33, 18'in katı 11 tanedir; 33-11=22, yani A. Doğru cevap 22 şeklindedir.",
-  "zorluk": "zor"
- },
- {
-  "id": "100207",
-  "dersId": "matematik",
-  "konuId": "bolunebilme",
-  "soru": "a pozitif tam sayı olmak üzere a⁴ - 1 ifadesi daima aşağıdakilerlerden hangisine bölünür? (a tek sayı iken)",
-  "secenekler": [
-   "8",
-   "48",
-   "16",
-   "32",
-   "64"
-  ],
-  "dogru": 2,
-  "aciklama": "a tek sayı olduğunda a = 2k+1 yazalım. a²-1 = (a-1)(a+1). a tek ise a-1 ve a+1 ardışık çift sayılardır. Ardışık iki çift sayının çarpımı 8'in katıdır. a²-1 = 8m. a²+1: a=2k+1 → a²=4k²+4k+1 → a²+1=4k²+4k+2=2(2k²+2k+1), bu tek sayı×2 biçimindedir, 4'e bölünmez. a⁴-1=(a²-1)(a²+1). a²-1: a tek iken a²=(2k+1)²=4k(k+1)+1. a²-1=4k(k+1). k(k+1) ardışık iki sayı, biri çift → k(k+1) çift → a²-1 = 8m. a²+1 = 4k(k+1)+2 = 2[2k(k+1)+1], 2'nin tek katı. Sonuç: a⁴-1 = (a²-1)(a²+1) = 8m · 2·(tek) = 16·m·(tek). Yani a⁴-1 her zaman 16'ya bölünür ama 32'ye değil (a=3: 81-1=80=16×5, 32'ye bölünmez). Cevap: B) 16.",
   "zorluk": "zor"
  },
  {
@@ -3824,22 +3776,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "100288",
-  "dersId": "matematik",
-  "konuId": "ebob_ekok",
-  "soru": "a ve b tam sayıları için EBOB(a,b) + EKOK(a,b) = 54 ve EBOB(a,b) × EKOK(a,b) = 648 olduğuna göre, a ve b nin olası değerleri arasında kaç çift vardır?",
-  "secenekler": [
-   "5",
-   "4",
-   "3",
-   "1",
-   "2"
-  ],
-  "dogru": 4,
-  "aciklama": "x = EBOB, y = EKOK olsun. x+y=54, xy=648. x ve y, t²−54t+648=0 denkleminin kökleridir. Δ=2916−2592=324=18². t=(54±18)/2 → t=36 veya t=18. Yani EBOB=18, EKOK=36. Sayılar 18k, 18m (EBOB(k,m)=1, km=2). k=1,m=2 → (18,36). Bu tek çift (a≤b için). Cevap A) 1... Ama (a,b) sıralı isteniyorsa 2 çift: (18,36) ve (36,18). Cevap B) 2.",
-  "zorluk": "orta"
- },
- {
   "id": "100289",
   "dersId": "matematik",
   "konuId": "ebob_ekok",
@@ -3949,22 +3885,6 @@
   ],
   "dogru": 2,
   "aciklama": "EKOK(12,18,30)=180 olduğundan en az 180 şeker gerekir. Doğru cevap 180 şeklindedir.",
-  "zorluk": "orta"
- },
- {
-  "id": "100297",
-  "dersId": "matematik",
-  "konuId": "ebob_ekok",
-  "soru": "Aralarında asal olan iki doğal sayının toplamı 77, EKOK'ları 1260'tır. Bu iki sayının EBOB'u kaçtır?",
-  "secenekler": [
-   "11",
-   "77",
-   "1",
-   "7",
-   "14"
-  ],
-  "dogru": 2,
-  "aciklama": "İki sayı aralarında asal ise EBOB = 1'dir. Bu durumda EKOK = a × b olur. a + b = 77 ve a × b = 1260. Kontrol: a ve b, x²-77x+1260=0 denkleminin kökleri olur. Δ = 77²-4×1260 = 5929-5040 = 889... Bu tam kare değil, yani sayılar aralarında asal değil. Soruyu yeniden yorumlayalım: iki sayının toplamı 77 ve aralarında asal olmaları çelişkisiz olsun. Aslında 'aralarında asal' bilgisi doğrudan EBOB=1 sonucunu verir; ek hesap gerekmez. Cevap A)1.",
   "zorluk": "orta"
  },
  {
@@ -5552,22 +5472,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "100438",
-  "dersId": "matematik",
-  "konuId": "kesir_ondalik",
-  "soru": "Bir sınıftaki öğrencilerin 3/7'si kız, kalanlar erkektir. Erkek öğrencilerin 5/8'i spor yaparken kız öğrencilerin 2/5'i spor yapmaktadır. Spor yapan öğrencilerin spor yapmayanlara oranı kaçtır?",
-  "secenekler": [
-   "29/41",
-   "25/41",
-   "29/25",
-   "25/29",
-   "41/29"
-  ],
-  "dogru": 0,
-  "aciklama": "Toplam öğrenci sayısını 280 (7×8×5 OKEK) alalım. Kız: 3/7 × 280 = 120, Erkek: 160. Spor yapan erkek: 5/8 × 160 = 100. Spor yapan kız: 2/5 × 120 = 48. Toplam spor yapan: 148. Spor yapmayan: 280 - 148 = 132. Oran: 148/132 = 37/33. Bu seçeneklerde yok; toplam 7×40=280 yerine 7×8×5=280 doğru. 148:132 = 37:33. Seçeneklere bakıldığında 29/41: spor yapan 29 birim, yapmayan 41 birim → toplam 70 birim. 29/70 spor yapıyor. 3/7 kız → 30, 4/7 erkek → 40. Erkek spor: 5/8×40=25, kız spor: 2/5×30=12, toplam=37≠29. Toplam birim 70 yerine farklı deneyelim. LCM(7,8,5)=280: kız=120, erkek=160, spor yapan=148, yapmayan=132, oran=148/132=37/33. Doğru cevap 37/33 ama seçeneklerde 29/41 var. Muhtemelen soru 3/8 kız veya farklı kesirlerle tasarlanmış. Verilen seçeneklerden en mantıklısı B) 29/41.",
-  "zorluk": "zor"
- },
- {
   "id": "100439",
   "dersId": "matematik",
   "konuId": "kesir_ondalik",
@@ -5629,38 +5533,6 @@
   ],
   "dogru": 0,
   "aciklama": "0,285714... = 2/7, 0,571428... = 4/7, 0,714285... = 5/7. Toplam = (2+4+5)/7 = 11/7. Bu zaten en sade biçimdir çünkü 11 asal ve 7 ile ortak bölen yok.",
-  "zorluk": "zor"
- },
- {
-  "id": "100443",
-  "dersId": "matematik",
-  "konuId": "kesir_ondalik",
-  "soru": "Bir sayının ondalık gösteriminde virgülden sonraki ilk 2024 basamağının toplamı 9090'dır. Bu sayı 0,abababab... biçiminde periyodik ondalık ise a + b kaçtır?",
-  "secenekler": [
-   "12",
-   "9",
-   "10",
-   "8",
-   "11"
-  ],
-  "dogru": 1,
-  "aciklama": "Periyot 'ab' iki basamaklı, 2024 basamak = 1012 tam periyot. Her periyottaki rakam toplamı a+b. Toplam basamak toplamı = 1012 × (a+b) = 9090. a+b = 9090/1012 = 4545/506 = 4545/506. 506 = 2×11×23, 4545 = 5×909 = 5×9×101. EBOB(4545,506)=1 çünkü ortak asal çarpan yok. Bu tam sayı olmaz. Demek ki 2024 tek periyot sayısı değil: 2024/2 = 1012 periyot. 9090/1012 = 8,98... tam sayı değil. 2024 basamak, periyot 2: her (a+b) için 1012 kez tekrar. 1012(a+b)=9090 → a+b=9090/1012 tam sayı değil. Periyot 3 ise: 2024 = 3×674 + 2, son 2 basamak a ve b. Toplam = 674×(a+b+c) + a + b = 9090. Bu da karmaşık. Periyot 2 ve 2024'ün 2'ye bölünmesi: 1012×(a+b)=9090 sağlanmıyor. Yeniden: belki toplam 9108 veya 9018 olmalıydı. En yakın seçenek: a+b=9 (B şıkkı), 1012×9=9108. Soruda biraz yuvarlanmış olabilir ya da farklı basamak sayısı. Standart KPSS yaklaşımıyla a+b=9.",
-  "zorluk": "zor"
- },
- {
-  "id": "100444",
-  "dersId": "matematik",
-  "konuId": "kesir_ondalik",
-  "soru": "p/q kesri (p ve q pozitif tam sayılar, EBOB(p,q)=1) için p × q = 2024 ve p/q + q/p = k olduğunda k'nın alabileceği kaç farklı tam sayı değeri vardır?",
-  "secenekler": [
-   "5",
-   "3",
-   "2",
-   "1",
-   "4"
-  ],
-  "dogru": 2,
-  "aciklama": "2024 = 2³ × 11 × 23. p×q = 2024, EBOB(p,q)=1 olması için p ve q'nun ortak asal çarpanı olmamalı. 2024'ün çarpan çiftleri (p<q): (1,2024),(2,1012),(4,506),(8,253),(11,184),(22,92),(23,88),(44,46),(46,44)... EBOB=1 olanlar: (1,2024): EBOB=1 ✓, (8,253): 253=11×23, EBOB(8,253)=1 ✓, (11,184): 184=8×23, EBOB(11,184)=1 ✓, (23,88): 88=8×11, EBOB(23,88)=1 ✓. (2,1012): EBOB=2 ✗. (4,506): EBOB=2 ✗. (22,92): EBOB=2 ✗. (44,46): EBOB=2 ✗. Geçerli çiftler: (1,2024),(8,253),(11,184),(23,88). k = p/q + q/p = (p²+q²)/(pq) = (p²+q²)/2024. (1,2024): (1+2024²)/2024 = (1+4096576)/2024 = 4096577/2024 ≈ 2024,0005 tam sayı değil. (8,253): (64+64009)/2024 = 64073/2024 = 31,65... tam sayı değil. (11,184): (121+33856)/2024 = 33977/2024 ≈ 16,78 tam sayı değil. (23,88): (529+7744)/2024 = 8273/2024 ≈ 4,087 tam sayı değil. Hiç tam sayı değer yok. Ama seçeneklerde 1 var (A şıkkı). Aslında k tam sayı olması için p²+q² ≡ 0 (mod 2024) gerekir, çok nadir. Dolayısıyla 0 değeri de seçeneklerde yok; en yakın A)1 muhtemelen yanlış kurgulanmış soruda kastedilendir ya da tam sayı k sayısı 0 ise A şıkkı 'hiç yok' anlamında. Cevap B)2, büyük ihtimalle iki geçerli çift için yaklaşık tam sayı sayılıyor; standart KPSS cevabı B)2.",
   "zorluk": "zor"
  },
  {
@@ -9808,22 +9680,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "100791",
-  "dersId": "matematik",
-  "konuId": "k_r_zarar",
-  "soru": "Bir dükkan sahibi, farklı fiyatlarda iki çeşit ürün almıştır. Birinci ürünü 3 alıp 4 sattığında %20 kâr, ikinci ürünü 5 alıp 4 sattığında ise belirli bir zarar etmektedir. Her iki ürünü de aynı sayıda alıp birleştirerek, toplam maliyetin %5 zararıyla satmaktadır. Buna göre ikinci ürünü 5 alıp 4 sattığında zarar oranı yüzde kaçtır?",
-  "secenekler": [
-   "%24",
-   "%22",
-   "%30",
-   "%20",
-   "%26"
-  ],
-  "dogru": 2,
-  "aciklama": "Birinci ürün: 3 birim alıp 4 birim satıyor → birim alış 1 ise, 3 birim alış için 3 TL, 4 birim satış için 4 TL... Bu 'bölü' ilişkisi: alış birimi başına fiyat a₁, satış birimi başına fiyat b₁. 3 alıp 4 satmak: toplam maliyet 3a₁, toplam satış 4a₁×(b₁/a₁). Soruyu daha net kuralım: Ürün 1, birim maliyeti c₁, birim satış fiyatı s₁. '3 alıp 4 sattığında %20 kâr': (4s₁ - 3c₁)/3c₁ = 0,20 → 4s₁ = 3,6c₁ → s₁ = 0,9c₁. Ürün 2, birim maliyeti c₂, birim satış s₂. '5 alıp 4 sattığında zarar' → s₂ = (5c₂ × satış oranı)/4. Aynı sayıda alınarak birleştirilip toplam maliyetin %5 zararıyla satılıyor. n adet ürün 1 ve n adet ürün 2 alınsın. Toplam maliyet = n(c₁ + c₂). Ürün 1 satışı: n adet × s₁ = 0,9nc₁. Ürün 2 satışı: n adet × s₂. Toplam satış = 0,9nc₁ + ns₂ = 0,95n(c₁+c₂) → 0,9c₁ + s₂ = 0,95c₁ + 0,95c₂ → s₂ = 0,05c₁ + 0,95c₂. Zarar oranı = (c₂ - s₂)/c₂ = (c₂ - 0,05c₁ - 0,95c₂)/c₂ = (0,05c₂ - 0,05c₁)/c₂ = 0,05(1 - c₁/c₂). '5 alıp 4 satmak' ilişkisi: s₂/c₂ = 4/5 = 0,80 → zarar %20. Ama bu 3 alıp 4 satmakla çelişir: s₁/c₁ = 4/3 × (satış şartı). Standart yorum: '3 birim alış parasıyla 4 birim satıyor' = alış/birim = c, satış = 3c/4... Klasik çözüm: c₁=c₂=c varsayımıyla: 0,9c + s₂ = 0,95×2c → s₂ = 1,90c - 0,90c = c. s₂=c → zarar yok. c₁≠c₂. '5 alıp 4 sattığında' s₂ = (4/5)c₂ × k biçiminde değil. Tüm yorumlar değerlendirildiğinde cevap E) %30 olarak tasarlanmıştır.",
-  "zorluk": "zor"
- },
- {
   "id": "100794",
   "dersId": "matematik",
   "konuId": "k_r_zarar",
@@ -12544,22 +12400,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "101019",
-  "dersId": "matematik",
-  "konuId": "i_sci_havuz",
-  "soru": "Bir havuzun altında iki delik vardır. Birinci delik dolu havuzu 20 saatte, ikinci delik 30 saatte boşaltmaktadır. Havuz boşken açılan bir dolum borusu havuzu 10 saatte doldurmaktadır. Üçü aynı anda açılırsa havuz hiç dolmaz. Bu durumda yalnız dolum borusu ve yalnız birinci delik açık olursa havuz kaç saatte dolar?",
-  "secenekler": [
-   "24",
-   "20",
-   "30",
-   "18",
-   "15"
-  ],
-  "dogru": 1,
-  "aciklama": "Dolum borusu 1 saatte 1/10 doldurur, birinci delik 1 saatte 1/20 boşaltır. Net: 1/10 - 1/20 = 2/20 - 1/20 = 1/20. Havuz 20 saatte dolar. Cevap: C) 20.",
-  "zorluk": "orta"
- },
- {
   "id": "101020",
   "dersId": "matematik",
   "konuId": "i_sci_havuz",
@@ -12749,22 +12589,6 @@
   ],
   "dogru": 1,
   "aciklama": "Her ikisinin de günlük hızı 1/12; A'nın izinleri hesaba katıldığında iş 7. günün sonunda tam biter. Doğru cevap 7 şeklindedir.",
-  "zorluk": "zor"
- },
- {
-  "id": "101049",
-  "dersId": "matematik",
-  "konuId": "i_sci_havuz",
-  "soru": "Bir inşaatı 30 işçi 60 günde bitirebilmektedir. İşe başlandıktan 20 gün sonra işçi sayısı 10 kişi artırılır, 10 gün daha çalışıldıktan sonra tekrar 5 kişi daha eklenir. İnşaat kaç günde tamamlanır?",
-  "secenekler": [
-   "47",
-   "50",
-   "46",
-   "48",
-   "49"
-  ],
-  "dogru": 3,
-  "aciklama": "Toplam iş = 30×60 = 1800 işçi-gün. İlk 20 günde yapılan iş: 30×20=600. Kalan: 1200. Sonraki 10 günde (40 işçiyle): 40×10=400. Kalan: 800. Artık 45 işçi çalışıyor. Kalan iş için gereken gün: 800/45=160/9≈17.78 gün → 18 gün (tavan). Toplam: 20+10+18=48 gün. Cevap: C) 48.",
   "zorluk": "zor"
  },
  {
@@ -18128,22 +17952,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "101486",
-  "dersId": "matematik",
-  "konuId": "olasilik",
-  "soru": "P(A)=1/3, P(B)=1/4 ve P(A∩B)=1/12 ise P(A|B) kaçtır?",
-  "secenekler": [
-   "1/3",
-   "4/12",
-   "1/6",
-   "1/12",
-   "1/4"
-  ],
-  "dogru": 0,
-  "aciklama": "Koşullu olasılık formülü: P(A|B) = P(A∩B)/P(B) = (1/12)/(1/4) = (1/12)·(4/1) = 4/12 = 1/3. Bu aynı zamanda A ve B'nin bağımsız olduğunu gösterir çünkü P(A|B)=P(A)=1/3.",
-  "zorluk": "orta"
- },
- {
   "id": "101487",
   "dersId": "matematik",
   "konuId": "olasilik",
@@ -18205,22 +18013,6 @@
   ],
   "dogru": 2,
   "aciklama": "P(Pzt)=0,6; P(Sal)=0,4. Yalnızca Pazartesi yağar: 0,6×(1-0,4)=0,6×0,6=0,36. Yalnızca Salı yağar: (1-0,6)×0,4=0,4×0,4=0,16. Toplam=0,36+0,16=0,52.",
-  "zorluk": "orta"
- },
- {
-  "id": "101491",
-  "dersId": "matematik",
-  "konuId": "olasilik",
-  "soru": "Bir üniversitede öğrencilerin %30'u spor yapar, spor yapanların %40'ı diyete uyar, spor yapmayanların %20'si diyete uyar. Rastgele seçilen bir öğrencinin diyete uyması koşuluyla spor yapma olasılığı (Bayes) nedir?",
-  "secenekler": [
-   "6/13",
-   "12/26",
-   "3/7",
-   "4/13",
-   "12/20"
-  ],
-  "dogru": 0,
-  "aciklama": "P(S)=0,3; P(D|S)=0,4; P(S')=0,7; P(D|S')=0,2. P(D)=P(D|S)·P(S)+P(D|S')·P(S')=0,4·0,3+0,2·0,7=0,12+0,14=0,26. Bayes: P(S|D)=P(D|S)·P(S)/P(D)=(0,12)/0,26=12/26=6/13.",
   "zorluk": "orta"
  },
  {
@@ -18381,22 +18173,6 @@
   ],
   "dogru": 0,
   "aciklama": "Üç görev birbirinden farklı olduğundan sıra önemlidir, bu nedenle permütasyon kullanılır. Sınıf başkanı 12 kişiden, başkan yardımcısı kalan 11 kişiden, sekreter kalan 10 kişiden seçilir. Toplam: P(12,3) = 12 · 11 · 10 = 1320 olur. \"220\" seçeneği C(12,3) değeridir ve görevlerin farklı olması dikkate alınmadan bulunur. \"1716\" seçeneği ise C(13,3) değeridir ve bu soruyla ilgisi yoktur. Doğru cevap \"1320\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
-  "id": "101504",
-  "dersId": "matematik",
-  "konuId": "olasilik",
-  "soru": "Bir kutu içinde 6 beyaz ve 4 siyah bilye vardır. Yerine koymadan art arda 2 bilye çekiliyor. İkinci çekilen bilyenin siyah olma olasılığı nedir?",
-  "secenekler": [
-   "7/15",
-   "4/10",
-   "2/5",
-   "16/90",
-   "4/9"
-  ],
-  "dogru": 2,
-  "aciklama": "Toplam yol P(2. siyah): 1. beyaz sonra 2. siyah: (6/10)·(4/9)=24/90. 1. siyah sonra 2. siyah: (4/10)·(3/9)=12/90. Toplam: 36/90 = 2/5. Yanıltıcı: Öğrenci 'ilk çekimden bağımsız' zannederebbe 4/10 der. Aslında yerine koymadan çekildiğinde koşullu olasılık hesaplanmalı, ancak simetri nedeniyle sonuç yine 4/10=2/5'e eşit çıkar. İki yöntem de aynı sonucu verdiğinden sezgisel cevap doğru olmakla birlikte hesabı yazmak gerekir. Cevap: B) 2/5.",
   "zorluk": "orta"
  },
  {
@@ -20972,7 +20748,7 @@
    "Her zaman 3/4'e eşittir"
   ],
   "dogru": 1,
-  "aciklama": "Bu soru 'mediant' (ara kesir) özelliğini test eder. a/b = 3/4 için a=3k, b=4k (herhangi bir k için); c/d = 5/6 için c=5m, d=6m (herhangi bir m için) yazılabilir. (a+c)/(b+d) = (3k+5m)/(4k+6m). k=1, m=1 → 8/10 = 4/5. k=1, m=2 → 13/16. k=2, m=1 → 11/14. Görüldüğü gibi k ve m'nin değerlerine göre sonuç değişmektedir. Ancak dikkat: mediant özelliği her zaman 3/4 < (a+c)/(b+d) < 5/6 sonucunu verir. 4/5 = 0,8; 3/4 = 0,75; 5/6 ≈ 0,833. Evet 0,75 < 0,8 < 0,833 ✓. 13/16 = 0,8125 ✓. 11/14 ≈ 0,786 ✓. Dolayısıyla A ve E birlikte doğrudur; ancak A, E'yi de kapsamaktadır. En doğru ve kapsamlı yanıt: A) 3/4 ile 5/6 arasında bir değer alır — ama değer sabitlenemez. ÖSYM mantığıyla en doğru seçenek E) dir çünkü hangi değeri alacağı kesin söylenemez; ayrıca A da doğrudur. İkisi çelişmez; birlikte doğru bilgidir. Ancak 'kesin değer alınamaz' ifadesi daha kapsamlı olduğundan cevap E) dir.",
+  "aciklama": "a/b = 3/4 ve c/d = 5/6 bilgisi yalnızca oranları verir; a, b, c ve d'nin kendileri belirli değildir. Örneğin a=3, b=4, c=5, d=6 alınırsa kesir 8/10 = 4/5 olur. a=6, b=8, c=5, d=6 alınırsa kesir 11/14 olur. Yani değer seçilen sayılara göre değişir. \"3/4 ile 5/6 arasında bir değer alır\" seçeneği ancak paydalar pozitifse geçerlidir. Soruda böyle bir koşul yoktur ve a=-3, b=-4, c=5, d=6 için kesir 2/2 = 1 olur, bu da aralığın dışındadır. \"Her zaman 3/4 ile 5/6 toplamına eşittir\" seçeneği de yanlıştır, çünkü pay ve paydaları ayrı ayrı toplamak kesirleri toplamak anlamına gelmez. Doğru cevap \"Kesin bir değer alınamaz, a, b, c, d'nin değerlerine göre değişir\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -23166,22 +22942,6 @@
   "dogru": 3,
   "aciklama": "Yeğenin doğum anı esas alındığında 10 yıl sonra amca 40, yeğen 10 olur ve oran 4'tür; anahtar 7/3 hiçbir yaş değeriyle elde edilemez. Doğru cevap 4 şeklindedir.",
   "zorluk": "orta"
- },
- {
-  "id": "101925",
-  "dersId": "matematik",
-  "konuId": "yas_problemleri",
-  "soru": "Ayşe'nin şu anki yaşının 3 katından 7 çıkarılırsa, Mehmet'in 5 yıl önceki yaşının 2 katına eşit olmaktadır. Mehmet şu an Ayşe'den 4 yaş büyüktür. Bundan 6 yıl sonra Ayşe ile Mehmet'in yaşları toplamı kaç olacaktır?",
-  "secenekler": [
-   "54",
-   "56",
-   "60",
-   "48",
-   "52"
-  ],
-  "dogru": 0,
-  "aciklama": "Ayşe'nin şu anki yaşı = a, Mehmet'in şu anki yaşı = m olsun. Koşul 1: 3a - 7 = 2(m - 5)  →  3a - 7 = 2m - 10  →  3a - 2m = -3. Koşul 2: m = a + 4. Yerine koyarsak: 3a - 2(a+4) = -3  →  3a - 2a - 8 = -3  →  a = 5. Dolayısıyla m = 9. Bundan 6 yıl sonra: (5+6) + (9+6) = 11 + 15 = 26... Hata kontrolü: 3(5)-7=8, 2(9-5)=8 ✓. Toplam şu an: 5+9=14, 6 yıl sonra: 14+12=26. Ancak seçenekler büyük olduğundan denklemi yeniden kuralım: 3a-7=2(m-5) ve m=a+4. 3a-7=2(a+4-5)=2(a-1)=2a-2 → a=5, m=9. 6 yıl sonra: 11+15=26. Seçeneklerde 26 yoksa soruda 'bundan 6 yıl sonra ikisinin yaşları toplamının 4 katı' sorulmuş gibi yorumlanabilir; ancak standart çözümle a=5, m=9, 6 yıl sonra toplam=26'dır. Soru formatına göre en yakın mantıksal seçenek olarak kurulum şu şekilde revize edilir: Ayşe'nin yaşı yerine 3 katı ifadesi 'bugünkü yaşının karesinin üçte biri' olarak alınırsa a²/3 - 7 = 2(m-5), m=a+4 → a=9, m=13 → 6 yıl sonra: 15+19=34. Özgün KPSS kurgusu: a=15, m=19 çıkacak şekilde: 3(15)-7=38, 2(19-5)=28 ✗. Doğru kurulum: 3a-7=2(m-5), m=a+4 → a=5,m=9. Soruda '6 yıl sonra toplamının 2 katı': 2×26=52. Cevap B) 52.",
-  "zorluk": "zor"
  },
  {
   "id": "101928",
@@ -26016,22 +25776,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "102200",
-  "dersId": "matematik",
-  "konuId": "bolunebilme",
-  "soru": "Ardışık üç çift sayının çarpımı olan n = (2k)(2k+2)(2k+4) ifadesi kaça bölünür?",
-  "secenekler": [
-   "24",
-   "48",
-   "16",
-   "96",
-   "32"
-  ],
-  "dogru": 1,
-  "aciklama": "n = (2k)(2k+2)(2k+4) = 2k × 2(k+1) × 2(k+2) = 8k(k+1)(k+2). k, k+1, k+2 ardışık üç tam sayıdır ve bunların çarpımı 6'nın katıdır (ardışık üç sayının çarpımı 3!'e bölünür). Dolayısıyla n = 8 × 6m = 48m. Yani n her zaman 48'e bölünür. Doğru cevap D şıkkıdır.",
-  "zorluk": "orta"
- },
- {
   "id": "102202",
   "dersId": "matematik",
   "konuId": "bolunebilme",
@@ -26093,22 +25837,6 @@
   ],
   "dogru": 4,
   "aciklama": "Ardışık üç pozitif tam sayıdan en az biri çifttir, dolayısıyla çarpım 2'ye bölünür. Aynı üç sayıdan tam olarak biri 3'ün katıdır, dolayısıyla çarpım 3'e de bölünür. 2 ve 3 aralarında asal olduğundan çarpım her zaman 6'nın katıdır. k = 1 için 1·2·3 = 6 olduğundan daha büyük bir sayının her zaman katı olması gerekmez. \"12\" seçeneği yanlıştır, çünkü 6 bu çarpıma 12'ye bölünmez. \"4\" seçeneği de yanlıştır, çünkü 6 sayısı 4'e bölünmez. Doğru cevap \"6\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
-  "id": "102208",
-  "dersId": "matematik",
-  "konuId": "bolunebilme",
-  "soru": "6k + 1, 6k + 3 ve 6k + 5 sayılarının toplamı kaçın katıdır? (k ≥ 0 tam sayı)",
-  "secenekler": [
-   "3",
-   "9",
-   "12",
-   "6",
-   "18"
-  ],
-  "dogru": 1,
-  "aciklama": "(6k+1) + (6k+3) + (6k+5) = 18k + 9 = 9(2k+1). 2k+1 her zaman tek sayı olduğundan bu ifade 9'un katıdır fakat 18'in katı değildir (18'in katı olması için 2k+1 çift olmalıydı, bu imkânsız). 9'un katı olduğu için aynı zamanda 3'ün de katıdır; ancak en büyük kesin böleni 9'dur. Doğru cevap C şıkkıdır.",
   "zorluk": "orta"
  },
  {
@@ -26400,22 +26128,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "102237",
-  "dersId": "matematik",
-  "konuId": "bolunebilme",
-  "soru": "Dört basamaklı ABBA formundaki (A≠0, A≠B) bir sayının 7, 11 ve 13'ün çarpımı olan 1001'e bölünebildiği bilinmektedir. Bu sayı kaçtır?",
-  "secenekler": [
-   "1001",
-   "Böyle bir sayı yoktur.",
-   "7007",
-   "Her A için mümkündür.",
-   "2002"
-  ],
-  "dogru": 3,
-  "aciklama": "ABBA formundaki sayı = 1000A + 100B + 10B + A = 1001A + 110B. Bu sayının 1001'e bölünmesi için 1001A + 110B ≡ 0 (mod 1001). 1001A ≡ 0 (mod 1001) olduğundan 110B ≡ 0 (mod 1001) olması gerekir. 1001 = 7×11×13 ve gcd(110, 1001): 110=2×5×11, gcd(110,1001)=11. Dolayısıyla 110B/11 = 10B ≡ 0 (mod 91) yani 10B ≡ 0 (mod 91). gcd(10,91)=1 olduğundan B ≡ 0 (mod 91). B tek basamaklı (0-9) olduğundan B=0. Ama A≠B koşulu var ve A≠0; B=0 olunca ABBA = AA0A değil, A00A = 1001A formatı. A=1 için 1001, A=2 için 2002, ..., A=9 için 9009. Bunların hepsi 1001'e bölünür. Ancak soru 'bu sayı kaçtır' diye sorduğundan ve seçeneklere bakıldığında D şıkkı 'her A için mümkündür' en doğru yanıttır.",
-  "zorluk": "zor"
- },
- {
   "id": "102238",
   "dersId": "matematik",
   "konuId": "bolunebilme",
@@ -26573,22 +26285,6 @@
   ],
   "dogru": 2,
   "aciklama": "Denklem x² - 10xy + y² = 1 biçimine gelir. (x, y) = (10, 1) bir çözümdür: 100 + 1 = 101 = 10·10 + 1. Buradan x - y = 9 olur ve 3'e bölünür. Çözümler a(k+1) = 10a(k) - a(k-1) bağıntısıyla ardışık çiftler halinde sonsuz tane üretilir (1, 10, 99, 980, 9701, ...). Mod 3'te bu dizi 0, 1, 1, 0, 2, 2, 0, ... biçiminde periyodik tekrar eder. Dolayısıyla ardışık iki terim 3'e göre aynı kalanı veriyorsa fark 3'e bölünür. Örneğin (980, 9701) çifti de bunu sağlar. Bu durum sonsuz kez tekrarlanır. Bu yüzden \"0\", \"1\", \"2\" ve \"3\" seçenekleri yanlıştır, çünkü çözüm sayısı sonlu değildir. Doğru cevap \"Sonsuz\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "102254",
-  "dersId": "matematik",
-  "konuId": "bolunebilme",
-  "soru": "Aşağıdaki ifadelerden hangisi her zaman 6'nın katıdır? (n ∈ ℤ⁺)",
-  "secenekler": [
-   "n³ + 3n² + 2n",
-   "2n³ + 3n",
-   "n³ + n² + 4n",
-   "n³ - n + 6",
-   "n³ + 2n"
-  ],
-  "dogru": 0,
-  "aciklama": "C) n³ + 3n² + 2n = n(n²+3n+2) = n(n+1)(n+2). Bu ardışık üç tam sayının çarpımıdır. Ardışık üç tam sayının çarpımı her zaman 6'nın katıdır (2 ve 3 ile bölünebilir). A) n=1: 1+2=3, 6 bölmez. B) n=2: 8-2+6=12 ✓, n=3: 27-3+6=30 ✓, n=1: 1-1+6=6 ✓... Kontrol: n(n-1)(n+1)+6 = n³-n+6. n=2: 6+6=12, n=3: 24+6=30, n=4: 60+6=66... Bunlar 6'nın katı çünkü n³-n = n(n-1)(n+1) zaten 6'nın katı. B de çalışıyor! Fakat C şıkkı standart ispat olan n(n+1)(n+2) formunu kullandığından daha net ve kesin. D) n=1: 2+3=5, 6 bölmez. E) n=1: 1+1+4=6 ✓, n=2: 8+4+8=20, 6 bölmez. A) n=2: 8+4=12 ✓, n=3: 27+6=33, 6 bölmez. Kesin cevap C) n(n+1)(n+2).",
   "zorluk": "zor"
  },
  {
@@ -27421,22 +27117,6 @@
   ],
   "dogru": 4,
   "aciklama": "EBOB·EKOK = a·b olduğundan EKOK = 5400 / 15 = 360 bulunur. Şimdi a = 15m ve b = 15n yazalım; burada m ile n aralarında asaldır. a·b = 225·m·n = 5400 olduğundan m·n = 24 olur. 24 = 2³·3 sayısını aralarında asal iki çarpana ayıran sıralı çiftler (1, 24), (24, 1), (3, 8) ve (8, 3) olmak üzere 4 tanedir. Yani (a, b) için 4 sıralı çift vardır. \"360 ve 2\" seçeneği çiftleri sırasız sayar ve soruda sıralı çift esas alındığından yanlıştır. \"720 ve 2\" ise EKOK değeri bakımından yanlıştır. Doğru cevap \"360 ve 4\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "102330",
-  "dersId": "matematik",
-  "konuId": "ebob_ekok",
-  "soru": "a, b, c pozitif tam sayıları için EBOB(a,b)=6, EBOB(b,c)=10, EBOB(a,c)=15 ise EBOB(a,b,c) kaçtır?",
-  "secenekler": [
-   "2",
-   "5",
-   "30",
-   "3",
-   "1"
-  ],
-  "dogru": 4,
-  "aciklama": "EBOB(a,b)=6=2·3 → 2|a, 2|b, 3|a, 3|b. EBOB(b,c)=10=2·5 → 2|b, 2|c, 5|b, 5|c. EBOB(a,c)=15=3·5 → 3|a, 3|c, 5|a, 5|c. Dolayısıyla: a, 2·3·5=30'un katı olmalı (2,3,5 hepsi a'yı böler). b, 2·3·5=30'un katı olmalı. c, 2·3·5=30'un katı olmalı. Ama EBOB(a,b)=6 iken 30|a ve 30|b ise EBOB(a,b)≥30 olur, bu 6'ya eşit olamaz. Çelişki var → böyle a,b,c tam sayıları mevcut değildir. Sorunun KPSS bağlamındaki beklenen cevabı: EBOB(a,b,c) = EBOB(EBOB(a,b), EBOB(b,c), EBOB(a,c)) = EBOB(6,10,15) = 1. Cevap A)1.",
   "zorluk": "zor"
  },
  {
@@ -35404,7 +35084,7 @@
    "1"
   ],
   "dogru": 4,
-  "aciklama": "A hızı v_A, B hızı v_B = 3v_A/5 olsun. İlk karşılaşmada birlikte L km yol almışlar: t₀ = L/(v_A + v_B) = L/(v_A + 3v_A/5) = L/(8v_A/5) = 5L/(8v_A). İlk karşılaşmadan sonra: v_A' = 1.2v_A, v_B' = 0.75 × (3v_A/5) = 0.45v_A. Yeni toplam hız = 1.2v_A + 0.45v_A = 1.65v_A. İkinci karşılaşma için tekrar L kat etmeleri gerekir (ters yönde gidiyorlar, pistte bir tur = L). Süre = L/(1.65v_A) = 100L/(165v_A) = 20L/(33v_A). Bu sürede A'nın aldığı yol = 1.2v_A × 20L/(33v_A) = 24L/33, B'nin aldığı yol = 0.45v_A × 20L/(33v_A) = 9L/33. Toplam = 33L/33 = L ✓. Dolayısıyla ters yönde giden iki araç, her L'de bir karşılaşır. İkinci karşılaşma, birinciden sonra yeni hızlarla birlikte 1 L yol aldıklarında gerçekleşir; bu 1 turdur. Cevap A) 1.",
+  "aciklama": "Dairesel bir pistte ters yönlerde hareket eden iki araç, her karşılaşmadan sonra bir sonraki karşılaşmaya kadar birlikte toplam bir tur (L) yol alır. Hız değişikliği yalnızca karşılaşmaya kadar geçen süreyi değiştirir. İlk bölümde toplam hız 8v olduğundan süre L/8v'dir. Değişimden sonra hızlar 6v ve 2,25v olur, toplam hız 8,25v ve süre L/8,25v olur. Her iki durumda da iki karşılaşma arasındaki toplam yol bir turdur. \"5\" ya da \"3\" seçenekleri, hız oranındaki sayılara kapılarak seçilir. Oysa bu oran yalnızca yolun araçlar arasında nasıl paylaşıldığını belirler; hızlı araç turun 8/11'ini alır. \"2\" ise aynı yönde hareket ya da sayımı başlangıç noktasından yapma hatasından doğar. Doğru cevap \"1\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -36621,22 +36301,6 @@
   ],
   "dogru": 2,
   "aciklama": "Havuzun tamamını 1 alalım. Verilenler: A+B = 1/4, B+C = 1/6 ve A = 2C. İlk iki denklem taraf tarafa çıkarılırsa A − C = 1/4 − 1/6 = 1/12 bulunur. A = 2C olduğundan 2C − C = C = 1/12 olur, dolayısıyla A = 1/6'dır. Kontrol: B = 1/4 − 1/6 = 1/12 ve B + C = 1/12 + 1/12 = 1/6 sağlanır. A saatte havuzun 1/6'sını doldurduğundan tek başına 6 saatte doldurur. \"8\" seçeneği C'nin kapasitesi hesaba katılmadan tahmin edilen bir değerdir; \"7,5\" seçeneği ise denklemleri sağlamaz. Doğru cevap \"6\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "103106",
-  "dersId": "matematik",
-  "konuId": "i_sci_havuz",
-  "soru": "10 işçi bir işi 12 günde bitirmektedir. İşe başlandıktan 4 gün sonra bazı işçiler ayrılmış ve kalan işçiler işi başlangıçtan itibaren toplamda 16 günde bitirmiştir. Ayrılan işçi sayısı kaçtır?",
-  "secenekler": [
-   "7",
-   "4",
-   "3",
-   "5",
-   "6"
-  ],
-  "dogru": 3,
-  "aciklama": "Toplam iş = 10×12 = 120 işçi-gün. İlk 4 günde yapılan iş: 10×4 = 40 işçi-gün. Kalan iş: 80 işçi-gün. Kalan süre: 16-4 = 12 gün. Kalan işçi sayısı: 80÷12 = 6,67 → tam sayı olmadığından. Yeniden: 10×4=40 yapıldı. Kalan 80'i (16-4)=12 günde: işçi sayısı = 80/12 ≈ 6,67 → tam değil. Soru 15 günde bitirilseydi: kalan 80'i 11 günde: 80/11 tam değil. 14 günde: kalan 80'i 10 günde: 8 işçi → 2 ayrıldı. 18 günde: kalan 80'i 14 günde: 80/14 tam değil. İşin 16 günde bitmesi için: 4×10 + 12×k = 120. 40+12k=120. 12k=80. k=80/12 tam değil. Toplam iş 10×12=120 yerine işçi etkinliği farklıysa: 10 işçi 12 gün → toplam iş birimi 120. 4 günde: 40. Kalan iş: 80. Süre: 12 gün (16-4). 80/12 tam değil. Soru 18 gün deseydi: 14 gün×k=80 → tam değil. 20 günde: 16 gün×k=80 → k=5. 10-5=5 ayrıldı. Cevap C) 5.",
   "zorluk": "zor"
  },
  {
@@ -39340,7 +39004,7 @@
    "6"
   ],
   "dogru": 0,
-  "aciklama": "Birleşim kümesi her iki kümenin tüm elemanlarını kapsar (ortak elemanlar bir kez yazılır): A ∪ B = {1, 2, 3, 4, 5} → 5 eleman. Doğru cevap B) 5'tir.",
+  "aciklama": "İki kümenin birleşimi, kümelerden en az birinde bulunan tüm elemanlardan oluşur ve ortak elemanlar yalnızca bir kez yazılır. İlk küme {1, 3, 5}, ikinci küme {2, 3, 4, 5} olduğundan birleşim {1, 2, 3, 4, 5} olur ve 5 elemanlıdır. Formülle de aynı sonuç bulunur: 3 + 4 − 2 = 5. Burada çıkarılan 2, ortak elemanlar olan 3 ve 5'in sayısıdır. \"7\" seçeneği, eleman sayılarını doğrudan toplayıp ortak elemanları iki kez saymaktan kaynaklanır. \"4\" ya da \"6\" ise ortak eleman sayısının yanlış belirlenmesiyle ortaya çıkar. İtiraz da sonuçta anahtarı doğrulamaktadır. Doğru cevap \"5\" seçeneğidir.",
   "zorluk": "kolay"
  },
  {
@@ -39356,7 +39020,7 @@
    "{2, 4, 6, 8}"
   ],
   "dogru": 3,
-  "aciklama": "Tümleyen kümesi, evrensel kümedeki elemanlardan A'daki elemanlar çıkarılarak bulunur: U − A = {1, 3, 5, 7}. Doğru cevap A) {1, 3, 5, 7}'dir.",
+  "aciklama": "Bir kümenin tümleyeni, evrensel kümede bulunup o kümede bulunmayan elemanlardan oluşur. Evrensel küme 1'den 8'e kadar olan sayılardan oluşuyor. Verilen küme ise çift sayılar olan {2, 4, 6, 8} kümesidir. Bu elemanlar çıkarılınca geriye tek sayılar kalır: {1, 3, 5, 7}. \"{2, 4, 6, 8}\" seçeneği kümenin kendisidir, tümleyeni değildir. \"{5, 6, 7, 8}\" ise evrensel kümenin ikinci yarısını almaktan doğan bir hatadır; 6 ve 8 zaten kümede bulunduğu için tümleyende yer alamaz. \"{}\" yalnızca küme evrensel kümeye eşit olsaydı doğru olurdu. Doğru cevap \"{1, 3, 5, 7}\" seçeneğidir.",
   "zorluk": "kolay"
  },
  {
@@ -39372,7 +39036,7 @@
    "{3, 4, 5}"
   ],
   "dogru": 3,
-  "aciklama": "A − B kümesi; A'da olup B'de olmayan elemanlardan oluşur. A'dan 3, 4, 5 çıkarılınca geriye {1, 2} kalır. Doğru cevap C) {1, 2}'dir.",
+  "aciklama": "Fark kümesi, ilk kümede bulunup ikinci kümede bulunmayan elemanlardan oluşur. İlk küme {1, 2, 3, 4, 5} kümesidir. Bu kümeden ikinci kümede de bulunan 3, 4 ve 5 çıkarılınca geriye {1, 2} kalır. \"{3, 4, 5}\" seçeneği iki kümenin kesişimidir, fark değildir. \"{6, 7}\" ise ters yöndeki farktır, yani ikinci kümeden ilk kümenin çıkarılmasıyla bulunur. \"{1, 2, 6, 7}\" simetrik farktır, \"{1, 2, 3, 4, 5, 6, 7}\" ise birleşimdir. Farkta işlemin yönü önemlidir ve yalnızca ilk kümeye ait elemanlar alınır. Doğru cevap \"{1, 2}\" seçeneğidir.",
   "zorluk": "kolay"
  },
  {
@@ -39388,23 +39052,7 @@
    "∅"
   ],
   "dogru": 0,
-  "aciklama": "{∅} boş küme değil, elemanı boş küme olan bir kümedir yani eleman sayısı 1'dir. Boş küme ∅ veya { } ile gösterilir. Doğru cevap C) {∅}'dir (yanlış gösterim olduğu için).",
-  "zorluk": "kolay"
- },
- {
-  "id": "103383",
-  "dersId": "matematik",
-  "konuId": "kumeler",
-  "soru": "A = {1, 2, 3} kümesi için aşağıdakilerden hangisi doğrudur?",
-  "secenekler": [
-   "4 ⊂ A",
-   "∅ ⊂ A",
-   "{3} ∈ A",
-   "{1, 2, 3} ∉ A",
-   "{1, 2} ∈ A"
-  ],
-  "dogru": 1,
-  "aciklama": "Boş küme her kümenin alt kümesidir; dolayısıyla ∅ ⊂ A her zaman doğrudur. A) yanlış çünkü {1,2} eleman değil alt kümedir. Doğru cevap C) ∅ ⊂ A'dır.",
+  "aciklama": "Boş küme hiç elemanı olmayan kümedir. Sembolle ∅ ya da { } biçiminde gösterilir, sözel olarak da elemanı olmayan küme diye tanımlanır. {∅} ise içinde bir eleman, yani boş kümenin kendisi bulunan kümedir. Eleman sayısı 1 olduğundan boş küme değildir. \"{ }\" ve \"∅\" seçenekleri geçerli gösterimlerdir; ikisini birleştirerek {∅} yazmak sık yapılan bir hatadır. \"Hiçbir elemana sahip olmayan küme\" ve \"Elemanı olmayan küme\" seçenekleri ise boş kümenin tanımını doğrudan ifade eder. Doğru cevap \"{∅}\" seçeneğidir.",
   "zorluk": "kolay"
  },
  {
@@ -39420,7 +39068,7 @@
    "4"
   ],
   "dogru": 1,
-  "aciklama": "En az birini seven: n(M ∪ F) = 18 + 14 − 7 = 25. Hiçbirini sevmeyen: 30 − 25 = 5. Doğru cevap C) 5'tir.",
+  "aciklama": "En az bir dersi seven öğrenci sayısı birleşim formülüyle bulunur: s(M ∪ F) = s(M) + s(F) − s(M ∩ F) = 18 + 14 − 7 = 25. Sınıfta 30 öğrenci olduğuna göre hiçbir dersi sevmeyenlerin sayısı 30 − 25 = 5 olur. \"3\" cevabı, her iki dersi sevenleri çıkarmayı unutup 30 − (18 + 14 − 7 + 2) gibi hatalı işlemlerden ya da kesişimin iki kez çıkarılmasından doğar. \"7\" ise kesişim sayısının doğrudan cevap sanılmasından kaynaklanan yaygın bir karışıklıktır. Kesişim yalnızca bir kez çıkarılmalıdır, çünkü toplama sırasında iki kez sayılmıştır. Doğru cevap \"5\" seçeneğidir.",
   "zorluk": "kolay"
  },
  {
@@ -39452,7 +39100,7 @@
    "1"
   ],
   "dogru": 0,
-  "aciklama": "Tek elemanlı alt kümeler: {2}, {3}, {5}, {7}, {11} → her eleman için bir tane olmak üzere toplam 5 adet. Doğru cevap C) 5'tir.",
+  "aciklama": "Tek elemanlı alt küme, kümenin yalnızca bir elemanından oluşan alt kümedir. A kümesinin her elemanı ayrı bir tek elemanlı alt küme verir: {2}, {3}, {5}, {7} ve {11}. Dolayısıyla n elemanlı bir kümenin tek elemanlı alt küme sayısı n'dir, yani burada 5'tir. \"32\" seçeneği tüm alt kümelerin sayısı olan 2^5 değeridir; soru yalnızca tek elemanlı alt kümeleri sorduğu için yanlıştır. \"10\" ise iki elemanlı alt küme sayısıdır, yani 5'in 2'li kombinasyonudur ve bu soruyla ilgisi yoktur. Doğru cevap \"5\" seçeneğidir.",
   "zorluk": "kolay"
  },
  {
@@ -39468,7 +39116,7 @@
    "{3, 4}"
   ],
   "dogru": 3,
-  "aciklama": "A ∪ B = {1,2,3,4,5,6}, A ∩ B = {3,4}. (A ∪ B) − (A ∩ B) = {1,2,3,4,5,6} − {3,4} = {1,2,5,6}. Bu işlem simetrik farka eşittir. Doğru cevap B)'dir.",
+  "aciklama": "Önce birleşim bulunur: A ∪ B = {1, 2, 3, 4, 5, 6}. Ardından kesişim bulunur: A ∩ B = {3, 4}. Birleşimden kesişim çıkarılınca {1, 2, 5, 6} elde edilir. Bu küme, iki kümeden yalnızca birinde bulunan elemanlardan oluşan simetrik farktır. \"{1, 2, 3, 4, 5, 6}\" seçeneği yalnızca birleşimdir, kesişimin çıkarılması unutulmuştur. \"{3, 4}\" seçeneği ise kesişimin kendisidir ve işlemin sonucu değil, çıkarılması gereken kısımdır. \"{1, 2, 3, 4}\" seçeneği de A kümesinin kendisi olup işlemle ilgisi yoktur. Doğru cevap \"{1, 2, 5, 6}\" seçeneğidir.",
   "zorluk": "kolay"
  },
  {
@@ -39484,7 +39132,7 @@
    "{6, 7, 8, 9, 10}"
   ],
   "dogru": 0,
-  "aciklama": "Önce A ∪ B = {1,2,3,4,5,6,7} bulunur. Sonra tümleyeni: U − (A ∪ B) = {8,9,10}. Doğru cevap C) {8, 9, 10}'dur.",
+  "aciklama": "A ∪ B kümesi iki kümenin tüm elemanlarını içerir: {1, 2, 3, 4, 5, 6, 7}. Tümleyen, evrensel kümede olup bu birleşimde olmayan elemanlardır. U = {1, ..., 10} olduğundan (A ∪ B)' = {8, 9, 10} bulunur. \"{1, 2, 3, 6, 7}\" seçeneği simetrik farktır, tümleyenle karıştırılmamalıdır. \"{6, 7, 8, 9, 10}\" seçeneği yalnızca A kümesinin tümleyenidir; B kümesindeki 6 ve 7 birleşime dahil olduğu için tümleyende bulunamaz. \"{4, 5}\" ise kesişimdir. Doğru cevap \"{8, 9, 10}\" seçeneğidir.",
   "zorluk": "kolay"
  },
  {
@@ -39548,7 +39196,7 @@
    "9"
   ],
   "dogru": 0,
-  "aciklama": "n elemanlı bir kümenin alt küme sayısı 2ⁿ formülüyle bulunur. n(A) = 3 olduğundan alt küme sayısı = 2³ = 8",
+  "aciklama": "n elemanlı bir kümenin alt küme sayısı 2^n formülüyle bulunur, çünkü her eleman alt kümede ya bulunur ya bulunmaz. A kümesi 3 elemanlı olduğundan alt küme sayısı 2^3 = 8'dir. Bunlar ∅, {a}, {b}, {c}, {a, b}, {a, c}, {b, c} ve {a, b, c} kümeleridir. \"6\" seçeneği, boş küme ile kümenin kendisinin unutulmasından doğar; oysa her ikisi de alt kümedir. \"9\" seçeneği ise 3^2 hesaplanarak formülün ters uygulanmasından kaynaklanır. \"3\" seçeneği yalnızca tek elemanlı alt kümelerin sayısıdır. Doğru cevap \"8\" seçeneğidir.",
   "zorluk": "kolay"
  },
  {
@@ -41344,22 +40992,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "103525",
-  "dersId": "matematik",
-  "konuId": "olasilik",
-  "soru": "Bir yarışmada 8 sporcu vardır. Her tur en zayıf sporcu elenmektedir. Birinci turdan sonra kalan 7 sporcu arasından rastgele 3'ü seçilerek 2. tur grubu oluşturulmaktadır. Eğer A sporcusu ilk turda elenmemişse, A'nın 2. tur grubuna seçilme olasılığı nedir? Ancak buna ek olarak, 2. tur grubundaki sporculardan yalnızca 1'i 3. tura geçebilmekte ve bu geçiş tamamen şansa bağlıdır. A'nın 3. tura geçme olasılığı kaçtır?",
-  "secenekler": [
-   "1/14",
-   "1/7",
-   "3/21",
-   "3/14",
-   "1/8"
-  ],
-  "dogru": 1,
-  "aciklama": "A'nın 2. tur grubuna seçilme olasılığı: 7 sporcu arasından 3 seçilir. P(A seçilir)=C(6,2)/C(7,3)=15/35=3/7. A 2. tur grubundaysa 3. tura geçme olasılığı: 3 kişiden 1 seçilir, P=1/3. A'nın 3. tura geçme olasılığı=(3/7)·(1/3)=3/21=1/7. Cevap: A) 1/7.",
-  "zorluk": "zor"
- },
- {
   "id": "103527",
   "dersId": "matematik",
   "konuId": "olasilik",
@@ -42508,7 +42140,7 @@
    "3"
   ],
   "dogru": 4,
-  "aciklama": "Toplam üretim: 80 + 60 + 100 + 120 + 90 + 110 = 560 bin adet. Aylık ortalama: 560 / 6 ≈ 93,3 bin adet. Ortalamayı aşan aylar: Mart (100 > 93,3), Nisan (120 > 93,3), Haziran (110 > 93,3). Ocak (80), Şubat (60), Mayıs (90) ortalamanın altında. Ortalama üzerinde olan ay sayısı: 3. Cevap: C) 3.",
+  "aciklama": "Altı aylık toplam üretim 80 + 60 + 100 + 120 + 90 + 110 = 560 bin adettir. Aylık ortalama 560 / 6 ≈ 93,3 bin adet olur. Bu değerin üzerinde kalan aylar Mart (100), Nisan (120) ve Haziran (110) olmak üzere üç aydır. Ocak (80), Şubat (60) ve Mayıs (90) ortalamanın altındadır. Kökteki \"en az\" ifadesi gereksiz ve özensizdir, ancak veri sabit olduğu için ortalamanın üzerindeki ay sayısı tek bir değerdir; ifade \"1\" ya da \"2\" seçeneklerini doğru yapmaz. \"4\" seçeneği genellikle 90 değerli Mayıs'ı ortalamanın üzerinde sananların yaptığı hatadır, oysa 90 değeri 93,3'ün altındadır. \"2\" seçeneği ise yalnızca 100'ün üzerindeki ayları sayanların düştüğü bir yanılgıdır. Doğru cevap \"3\" seçeneğidir.",
   "zorluk": "orta"
  },
  {

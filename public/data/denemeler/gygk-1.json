@@ -125,19 +125,20 @@
      "zorluk": "zor"
     },
     {
-     "id": "39040",
+     "id": "39354",
      "dersId": "turkce",
      "konuId": "anlatim_bozukluklari",
-     "soru": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+     "soru": "\"Sanatçının yeni albümü, müzik dünyasında büyük yankı uyandırdı; eleştirmenler tarafından yılın en iyi yapıtı olarak değerlendirildi ve milyonlarca dinleyiciye ulaştı.\" cümlesindeki anlatım bozukluğunu gidermek için aşağıdakilerden hangisi yapılmalıdır?",
      "secenekler": [
-      "Yeni kurulan şirket, kısa sürede büyük bir başarı elde etti.",
-      "Toplantıya katılan herkes görüşlerini açıkça dile getirdi.",
-      "Müdür, çalışanlarına yeni projeyi anlattı ve fikirlerini aldı.",
-      "Öğrenciler sınava çalışmak için kütüphaneye gitti.",
-      "Bu sorunun çözümü için uzun süre uğraşmak gerekecek."
+      "Noktalı virgül yerine 'ancak' bağlacı kullanılmalıdır.",
+      "'Büyük yankı uyandırdı' yerine 'büyük ilgi gördü' ifadesi kullanılmalıdır.",
+      "'Yılın en iyi yapıtı' yerine 'yılın en iyi albümü' denmelidir.",
+      "'Milyonlarca dinleyiciye ulaştı' ifadesindeki öznenin cümlede açıkça belirtilmesi gerekir. Aksi hâlde cümlede özne belirsizliği doğar ve anlam kayması ortaya çıkar; bu durum sözdizimsel bir kusur oluşturur.",
+      "'Eleştirmenler tarafından' ve 'milyonlarca dinleyiciye ulaştı' yüklemleri aynı özneye (albüm) bağlanmış; ancak 'ulaştı' etken, 'değerlendirildi' edilgen çatılı olduğundan çatı tutarsızlığı giderilmelidir."
      ],
-     "dogru": 3,
-     "aciklama": "D seçeneğinde özne-yüklem uyumsuzluğu (çokluk uyumsuzluğu) vardır. 'Öğrenciler' çoğul öznedir; 'gitti' ise tekil yüklemdir. Türkçede insan öznelerde çoğul özneler çoğul yüklem alabilir; ancak bu cümlede asıl sorun değildir. Gerçek sorun şudur: 'kütüphaneye gitti' yerine doğal Türkçede 'kütüphaneye gittiler' kullanılır. Fakat ÖSYM sınavlarındaki temel sorun bu seçenekte 'sınava çalışmak için' ifadesindeki '-e çalışmak' yapısının yanlış kullanımıdır; doğrusu 'sınava hazırlanmak için' ya da 'sınav için çalışmak amacıyla' olmalıdır. Diğer seçeneklerde herhangi bir anlatım bozukluğu yoktur."
+     "dogru": 4,
+     "aciklama": "Cümlede 'albüm' hem 'değerlendirildi' (edilgen çatı) hem de 'ulaştı' (etken çatı) yüklemlerinin öznesidir. Edilgen yapıda özne işi yapan değil, işe konu olan konumdadır; etken yapıda ise özne eylemi bizzat gerçekleştirir. 'Albüm değerlendirildi' edilgen kullanım doğrudur; ancak 'albüm ulaştı' ifadesi albümü irade sahibi bir varlık gibi konumlandırır. Doğrusu 'milyonlarca dinleyiciye ulaşıldı' (edilgen) ya da özne değiştirilerek 'milyonlarca dinleyici tarafından dinlendi' biçiminde olmalıdır. Çatı tutarsızlığı bu cümlenin temel bozukluğudur.",
+     "zorluk": "orta"
     },
     {
      "id": "39791",
@@ -187,19 +188,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "40000",
+     "id": "38598",
      "dersId": "turkce",
      "konuId": "noktalama",
-     "soru": "Aşağıdaki cümlelerin hangisinde tırnak işareti, anlam değişikliğine yol açacak biçimde yanlış konumlandırılmıştır?",
+     "soru": "Aşağıdakilerin hangisinde üç nokta (...) yanlış işlevde kullanılmıştır?",
      "secenekler": [
-      "'Korkma' şiiri Türk edebiyatının en güzel şiirlerinden biridir.",
-      "'Çalışmak' kelimesi bu cümlede mecaz anlamda kullanılmış.",
-      "Bu sözlerin 'doğru' olduğunu kimse ispat edemez.",
-      "Bana 'aptal' dedi, bu söz çok canımı yaktı.",
-      "Öğretmen 'Yarın sınav var' dedi."
+      "Savaş bitti; ama izler... silindi mi dersiniz?",
+      "Ne diyeyim... bu işler böyle olur.",
+      "\"Bir gün sen de anlarsın...\" dedi ve döndü gitti.",
+      "Saat 09.00... 10.00... 11.00... derken öğle oldu.",
+      "Ahmet, Mehmet, Zeynep... hepsi toplantıya katılmıştı."
      ],
-     "dogru": 4,
-     "aciklama": "D seçeneğinde tırnak işareti yanlış konumlandırılmıştır. Aktarılan söz cümle sonunda nokta ile bitiyorsa nokta tırnak işaretinin içinde kalmalıdır: 'Yarın sınav var.' dedi. Nokta dışarıda bırakıldığında noktalama kuralı ihlal edilmiş olur; bu durum özellikle resmi metinlerde anlam belirsizliğine yol açabilir. Diğer seçeneklerde tırnak işareti doğru konumda kullanılmıştır.",
+     "dogru": 0,
+     "aciklama": "Üç nokta; duraksamayı, sayımın sürdüğünü ya da yarım bırakılan sözü gösterir. \"Ne diyeyim... bu işler böyle olur.\" cümlesinde duraksama, \"Saat 09.00... 10.00... 11.00... derken öğle oldu.\" ve \"Ahmet, Mehmet, Zeynep... hepsi toplantıya katılmıştı.\" cümlelerinde sürüp giden bir sayım vardır. \"Bir gün sen de anlarsın...\" sözü ise yarım bırakılmış bir sözdür. \"Savaş bitti; ama izler... silindi mi dersiniz?\" cümlesinde üç nokta, sözün ortasında ne duraksama ne eksiltme ne de sayım anlamı katar, yalnızca akışı böler; bu yüzden işlevsiz kullanılmıştır. Duraksama içeren \"Ne diyeyim... bu işler böyle olur.\" seçeneği sık karıştırılır, ancak orada kullanım yerindedir. Doğru cevap \"Savaş bitti; ama izler... silindi mi dersiniz?\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -360,19 +361,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "38498",
+     "id": "39920",
      "dersId": "turkce",
      "konuId": "yazim_kurallari",
-     "soru": "Aşağıdaki cümlelerin hangisinde kısaltmaların yazımı tamamen kurallara uygundur?",
+     "soru": "Hangisinde kesme işaretinin kullanımı yazım kurallarına aykırıdır?\n\nA) Atatürk'ün kurduğu cumhuriyet, yüz yıldır ayaktadır.\nB) İstanbul'un tarihi yarımadası, surlarla çevrilidir.\nC) 2024'te yapılan seçimler sonuçlandı.\nD) Türk Dil Kurumu'nun kararları bağlayıcıdır.\nE) Ahmet'in çantası kaybolmuş.",
      "secenekler": [
-      "TBMM'de bugün önemli bir oturum gerçekleşti.",
-      "NATO'nun aldığı karar, AB. üyesi ülkeleri doğrudan ilgilendiriyor.",
-      "TDK'nin hazırladığı sözlük, Türkçenin en kapsamlı başvuru kaynağıdır.",
-      "Prof. Dr. Ahmet Yıldız'ın kitabı bu yıl yayımlandı.",
-      "vb. kullanımlar Türkçede giderek yaygınlaşıyor."
+      "İstanbul'un tarihi yarımadası, surlarla çevrilidir.",
+      "Atatürk'ün kurduğu cumhuriyet, yüz yıldır ayaktadır.",
+      "Türk Dil Kurumu'nun kararları bağlayıcıdır.",
+      "2024'te yapılan seçimler sonuçlandı.",
+      "Ahmet'in çantası kaybolmuş."
      ],
-     "dogru": 3,
-     "aciklama": "D seçeneği doğrudur. 'Prof. Dr.' kısaltmaları noktalı biçimde doğru yazılmıştır; özel isme getirilen ek ise kesme işaretiyle ayrılmıştır. A seçeneğinde 'TDK'nin' yanlıştır; TDK kısaltması ünlüyle biten bir ses değerinde okunmadığından (Te-De-Ka okunur, son ses 'a') doğru ek 'nın' değil 'nın' olmalıdır; ancak TDK kısaltmasına gelen iyelik ekinde okunuşa göre ek belirlenir ve 'TDK'nın' doğrudur, 'TDK'nin' yanlıştır. B seçeneği doğru görünmektedir; TBMM'de okunuşa göre ek almıştır. C seçeneğinde 'AB.' yanlıştır; AB kısaltması nokta almaz (nokta kısaltma için kullanılır ama AB özel ad kısaltmasıdır ve ardından ek gelirken kesme işareti yeterlidir: AB'nin). E seçeneğinde 'vb.' cümle başında kullanılmıştır; kısaltmalar cümle başında kullanılmaz, ayrıca 'vb.' zaten cümle başına getirilmez. Dolayısıyla D doğrudur.",
+     "dogru": 2,
+     "aciklama": "Kurum adlarında kısaltma yoksa kesme işareti kullanılmaz: 'Türk Dil Kurumunun' şeklinde yazılmalıdır. Kesme işareti yalnızca özel ad kısaltmalarına gelen eklerde (TDK'nın) ya da özel adların kendisine gelen eklerde kullanılır; 'Türk Dil Kurumu' zaten açık yazılmış olduğundan kesme işareti gerekmez.",
      "zorluk": "zor"
     },
     {
@@ -1054,19 +1055,19 @@
      "zorluk": "zor"
     },
     {
-     "id": "30056",
+     "id": "30824",
      "dersId": "tarih",
      "konuId": "i_lk_turk_devletleri",
-     "soru": "Aşağıdaki eşleştirmelerden hangisi, İlk Türk devletlerindeki siyasi-idari yapı özellikleri açısından yanlış bir değerlendirme içermektedir?",
+     "soru": "Aşağıdaki tabloda İlk Türk Devletleri'ne ilişkin bilgiler verilmiştir. Tablodaki eşleştirmelerden hangisi kesinlikle yanlıştır?\n\nI. Asya Hun Devleti – Mete Han – Çin'e karşı büyük zaferler – Ordu-millet anlayışı\nII. I. Göktürk Devleti – Bumin Kağan – Avarları yıkması – İlk Türkçe yazıtlar\nIII. Uygur Devleti – Kutluk Bilge Kül Kağan – Maniheizm'i benimseme – Yerleşik kültüre geçiş\nIV. Kırgızlar – 840 yılı – Uygur Devleti'ne son verme – Göç dalgasına yol açma\nV. II. Göktürk Devleti – Bilge Kağan – Orhun Yazıtları – Yollug Tigin tarafından yazdırılma",
      "secenekler": [
-      "I. Göktürk Devleti – Kağanlığın Aşina soyuna özgü tutulması, oy birliğiyle toplanan kurultayın kağan seçimini biçimsel kılmıştır.",
-      "Büyük Hun Devleti – Mete Han'ın 'onluk sistem'i hem orduyu hem de idari bölünmeyi düzenleyen çift işlevli bir yapı oluşturmuştur.",
-      "Uygur Devleti – Maniheizm'i resmi din ilan etmesi, konar-göçer yaşam biçiminin terk edilip tamamen yerleşik düzene geçilmesini sağlamıştır.",
-      "Büyük Hun Devleti – İkili yönetim (Sol-Sağ kanatlar), batı kanadının doğuya bağımlılığı ilkesiyle hiyerarşik bir yapı oluşturmuştur.",
-      "Kök Türkçe – Orhun Yazıtları'nın henüz devlet idaresine girmeyen tamamen folklorik bir dil ürünü olduğu söylenebilir."
+      "Yalnızca III",
+      "II ve V",
+      "Yalnızca II",
+      "Yalnızca I",
+      "Yalnızca V"
      ],
-     "dogru": 4,
-     "aciklama": "Orhun Yazıtları; Bilge Kağan ve Köl Tigin adına devlet iradesiyle diktirilen, Türk milletine seslenen resmî devlet belgeleridir. Yönetim anlayışını, tarihi olayları ve devlete ilişkin mesajları içeren bu yazıtlar tamamen resmî bir karaktere sahiptir; folklorik değil devlet belgesi niteliğindedir. D seçeneğindeki bu tanım açıkça yanlıştır. C şıkkında ise Uygurların Maniheizm'i benimsemesiyle tarımsal faaliyetlere yöneldiği doğrudur; ancak 'tamamen yerleşik düzene geçiş' ifadesi abartılı olsa da diğer şıkla kıyaslandığında D şıkkı daha açık ve kesin biçimde yanlıştır.",
+     "dogru": 2,
+     "aciklama": "II. satırda 'İlk Türkçe yazıtlar' ifadesi hatalıdır. I. Göktürk Devleti döneminde Türkçe yazıtlar henüz kullanılmamıştır; mevcut en eski Türkçe yazıtlar (Orhun/Köktürk alfabesiyle yazılmış olanlar) II. Göktürk Devleti dönemine, 8. yüzyıla aittir. Bumin Kağan'ın Avarları yıkması doğrudur. V. satırda ise Bilge Kağan adına dikilen Orhun Yazıtları'nı Yollug Tigin'in kaleme aldığı bilinmektedir; bu bilgi doğrudur. I, III ve IV. satırlardaki bilgiler tarihsel açıdan doğrudur. Dolayısıyla yalnızca II. satır kesinlikle yanlıştır.",
      "zorluk": "zor"
     },
     {

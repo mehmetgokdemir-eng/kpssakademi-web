@@ -1724,7 +1724,7 @@
    "Görevlerin standartlaştırılabilir ve rutin olduğu durumlarda"
   ],
   "dogru": 2,
-  "aciklama": "Mintzberg beş koordinasyon mekanizması tanımlar: karşılıklı uyum, doğrudan denetim, süreç standardizasyonu, çıktı standardizasyonu ve beceri standardizasyonu. 'Doğrudan denetim', tek bir yöneticinin işleri koordine ettiği, örgütün küçük ve görece basit olduğu basit yapılarda (simple structure) en uygun mekanizmadır. Karmaşık ve belirsiz görevlerde karşılıklı uyum, rutin görevlerde süreç standardizasyonu, profesyonel yapılarda beceri standardizasyonu daha uygundur. Yatay birleşme sonrası örgütün küçük kalması koşulunda doğrudan denetim rasyoneldir. Soruda B seçeneği bu koşulu en doğru tanımlamaktadır.",
+  "aciklama": "Mintzberg'e göre doğrudan denetim, koordinasyonun tek bir yöneticinin emir ve talimatlarıyla sağlandığı mekanizmadır ve basit yapının temel koordinasyon aracıdır. Bu mekanizma, yöneticinin tüm çalışanları bizzat izleyebildiği küçük, basit ve az sayıda çalışandan oluşan örgütlerde etkili ve rasyoneldir. Örgüt büyüdükçe tek kişinin denetim kapasitesi yetersiz kalır ve standartlaştırmaya geçilir. \"Görevlerin standartlaştırılabilir ve rutin olduğu durumlarda\" seçeneği sık karıştırılır, ancak rutin görevler Mintzberg'de iş süreçlerinin standartlaştırılmasıyla, yani makine bürokrasisiyle ilişkilidir. \"Görevlerin son derece karmaşık, belirsiz ve birbirine sıkı sıkıya bağımlı olduğu durumlarda\" seçeneği ise tam tersine karşılıklı uyumun ve adhokrasinin koşuludur. Soru kökündeki birleşme kurgusu, sorulan koşulun Mintzberg çerçevesindeki karşılığını değiştirmez. Doğru cevap \"Örgütün küçük, basit ve az sayıda çalışandan oluştuğu durumlarda\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -3200,22 +3200,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "52213",
-  "dersId": "isletme",
-  "konuId": "uretim",
-  "soru": "MRP (Malzeme İhtiyaç Planlaması) sistemiyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-  "secenekler": [
-   "MRP II, MRP'nin finansal ve kapasite planlama boyutlarını da kapsayacak şekilde genişletilmiş halidir.",
-   "MRP, bağımlı talep kalemlerinin planlanmasında kullanılır ve ana üretim çizelgesinden türetilir.",
-   "Brüt ihtiyaç, eldeki stok ve planlanan makbuzlar düşüldükten sonra net ihtiyaç hesaplanır; bu nedenle brüt ihtiyaç her zaman net ihtiyaçtan büyük ya da eşittir.",
-   "MRP sisteminde ürün ağacının (BOM) derinliği arttıkça alt bileşenlerin teslim süresi ötelemesi kümülatif olarak uzar ve bu durum 'nervousness' sorununu beraberinde getirebilir.",
-   "Lot-for-lot sipariş politikasında stok tutma maliyeti sıfıra eşit olup her dönem net ihtiyaç kadar sipariş verilir."
-  ],
-  "dogru": 4,
-  "aciklama": "Net ihtiyaç = brüt ihtiyaç - stok - planlanan makbuz olduğundan C doğrudur; yanlış ifade, lot-for-lot'ta stok tutma maliyetinin sıfır olduğunu söyleyen E'dir (bu politika stok maliyetini minimize eder, sıfırlamaz). Doğru cevap E seçeneğidir.",
-  "zorluk": "zor"
- },
- {
   "id": "52214",
   "dersId": "isletme",
   "konuId": "uretim",
@@ -3260,7 +3244,7 @@
    "Ishikawa balık kılçığı (sebep-sonuç) diyagramını geliştirmiş ve kalite çemberlerini Japonya'da yaygınlaştırmıştır."
   ],
   "dogru": 0,
-  "aciklama": "C seçeneği yanlıştır: 'Amaca uygunluk (fitness for use/purpose)' tanımı Juran'a aittir. Philip Crosby'nin kalite tanımı 'gereksinimlere uygunluk (conformance to requirements)'tur. Crosby, 'sıfır hata' ve 'kalite bedavadır (quality is free)' kavramlarının öncüsüdür, bu kısım doğrudur. Ancak tanım yanlış atfedildiğinden C seçeneği hatalıdır. Diğer şıklar doğrudur: PDCA Deming/Shewhart'a ait (A); Juran'ın kalite üçlüsü doğru (B); Ishikawa balık kılçığı ve kalite çemberleri doğru (D); Feigenbaum TQC kavramını geliştirmiştir (E).",
+  "aciklama": "Philip Crosby kaliteyi \"gereksinimlere uygunluk\" olarak tanımlar ve \"sıfır hata\" kavramının öncüsüdür. \"Amaca (kullanıma) uygunluk\" tanımı ise Joseph Juran'a aittir. Bu nedenle Crosby'ye amaca uygunluk tanımını yükleyen ifade yanlıştır. Sıfır hata kısmının doğru olması ifadeyi doğru yapmaz, çünkü tanım kısmı hatalıdır. Sık karıştırılan \"Feigenbaum, Toplam Kalite Kontrol (TQC) kavramını ilk ortaya atan kişi olup kaliteyi yalnızca üretim departmanının sorumluluğu olarak değil tüm organizasyonun sorumluluğu olarak tanımlamıştır.\" ifadesi doğrudur; TQC kavramı Feigenbaum'a aittir. \"Deming'in PDCA döngüsü sürekli iyileştirmenin temelini oluşturur ve Shewhart döngüsü olarak da bilinir.\" ifadesi de doğrudur; döngü Shewhart'tan gelir ve Deming tarafından yaygınlaştırılmıştır. Doğru cevap \"Crosby'e göre kalite 'amaca uygunluk' olarak tanımlanır ve 'sıfır hata' kavramının öncüsüdür.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4300,7 +4284,7 @@
    "Fiyat artışının gelir kaybına yol açmaması için esnek talep koşullarında düşük fiyat politikası benimsenmeli, ancak toplam gelir etkisi analiz edilmelidir."
   ],
   "dogru": 4,
-  "aciklama": "Talep fiyat esnekliği yüksek (esnek talep) olan pazarlarda fiyat artışı toplam geliri düşürürken fiyat indirimi toplam geliri artırabilir. Ancak bu kararın kesin doğru olabilmesi için toplam gelir etkisinin (fiyat × miktar değişimi) analiz edilmesi gerekir. Skimming stratejisi esnek olmayan (inelastik) talep koşullarında uygulanır; bu nedenle E seçeneği yanlıştır. D seçeneği ise abartılı ve koşulsuz bir genelleme içerdiğinden yanıltıcıdır.",
+  "aciklama": "Fiyat duyarlılığının yüksek olması talebin esnek olduğu anlamına gelir. Esnek talepte fiyat artışı, talep edilen miktarı orantıdan fazla düşürür ve toplam geliri azaltır. Bu yüzden düşük fiyat politikası uygundur, ancak kararın toplam gelir ve kâr etkisi analiz edilerek verilmesi gerekir. Bu ilkeyi hem esneklik hem de gelir analiziyle birlikte veren tek seçenek bankadaki cevaptır; ifadesi biraz dolambaçlı olsa da anlamı doğrudur. \"Rakip fiyatlarının altında kalınarak pazar payı artırılmalıdır.\" seçeneği bir taktik önerir, fakat esneklik ilkesine ve gelir analizine dayanmaz. \"Fiyat duyarlılığı yüksek pazarlarda skimming (kaymak alma) stratejisi uygulanmalıdır.\" seçeneği ise yanlıştır, çünkü kaymak alma stratejisi düşük fiyat duyarlılığında işe yarar. Doğru cevap \"Fiyat artışının gelir kaybına yol açmaması için esnek talep koşullarında düşük fiyat politikası benimsenmeli, ancak toplam gelir etkisi analiz edilmelidir.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -4603,8 +4587,8 @@
    "Fiyat referans fiyatın üzerinde olduğundan değer bazlı fiyatlandırma yanlış uygulanmaktadır; fiyat 10.000 TL olmalıdır.",
    "Bu hesaplama maliyet bazlı fiyatlandırmanın bir türevi olduğundan değer bazlı fiyatlandırma olarak nitelendirilemez."
   ],
-  "dogru": 2,
-  "aciklama": "EVA'da: Ekonomik Değer = Referans Fiyat + Pozitif Farklılaştırıcılar - Negatif Farklılaştırıcılar = 10.000 + 3.500 - 800 = 12.700 TL. Değer bazlı fiyatlandırmada fiyat ekonomik değerin altında belirlenirse müşteriye 'değer artığı' bırakılır ve bu satın alma teşviki yaratır. 11.200 TL fiyatla müşteri 12.700 - 11.200 = 1.500 TL değer artığı elde eder; işletme ise referans ürüne göre 1.200 TL fazla fiyat alır. Bu hem müşteri hem işletme için kazanç sağlar. D seçeneği yanlıştır; değere eşit fiyat müşteriye teşvik bırakmaz. E seçeneği yanlıştır; EVA maliyet değil değer odaklıdır.",
+  "dogru": 0,
+  "aciklama": "Ekonomik değer, referans fiyat ile pozitif ve negatif farklılaştırıcıların toplamıdır: 10.000 + 3.500 − 800 = 12.700 TL. Değer bazlı fiyatlandırmada fiyat referans fiyat ile ekonomik değer arasında belirlenir ve müşteriye satın alma teşviki olarak bir değer payı bırakılır. 11.200 TL bu aralıktadır, bu yüzden geçerli bir değer bazlı fiyattır. Bankadaki cevaptaki rakamlar doğrudur, ancak \"optimal\" iddiası rekabet, maliyet ve talep verisi olmadan kanıtlanamaz; bu fazla iddia seçeneği hatalı kılar. \"Değer bazlı fiyatlandırmada fiyat her zaman ekonomik değere eşit olmalıdır; 11.200 TL yanlış bir fiyattır.\" seçeneği yanlıştır, çünkü fiyatın ekonomik değere eşit olması müşteriye hiçbir teşvik bırakmaz. Doğru cevap \"Fiyat, hesaplanan ekonomik değerin (12.700 TL) belirgin biçimde altında kaldığından müşteriye ciddi bir değer paylaşımı sunulmaktadır; bu yönüyle geçerli bir değer bazlı fiyat stratejisi sayılır.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4925,22 +4909,6 @@
   ],
   "dogru": 4,
   "aciklama": "Aynı mağazada ve aynı koşullarda yalnızca müzik değiştirildiği için sonucu müşteri profilindeki farklılıkla açıklayamayız. Bu, atmosfer değişkeninin davranışı doğrudan etkilediğini gösterir. Atmosfer pazarlaması çalışmalarında yavaş tempolu müzik, müşterinin hareket hızını azaltır ve mağazada kalma süresini uzatır. Daha uzun süre, daha fazla ürün inceleme ve plansız satın alma fırsatı demektir; sepet tutarı da artar. \"Klasik müzik daha yüksek gelirli tüketicileri çekmekte ve bu durum sepet tutarını artırmaktadır\" seçeneği yanlıştır, çünkü deneyde aynı mağaza ve aynı dönem koşulları kullanılmıştır, farklı müşteri çekilmesi söz konusu değildir. \"Atmosfer değişkenleri yalnızca duygusal tepkileri etkiler, satın alma kararlarını etkilemez\" seçeneği ise bulguyla doğrudan çelişir. Doğru cevap \"Yavaş tempo, mağazada geçirilen süreyi artırarak ürün inceleme fırsatı ve dolayısıyla satın alma olasılığını yükseltmektedir\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "52324",
-  "dersId": "isletme",
-  "konuId": "pazarlama",
-  "soru": "Bir işletme, pazar araştırmasında müşteri tatmini ile müşteri sadakati arasındaki ilişkiyi incelemiştir. Araştırma sonuçlarına göre tatmin skoru 4/5 olan müşterilerin %40'ı, tatmin skoru 5/5 olan müşterilerin ise %85'i bir sonraki dönem aynı markayı tercih etmektedir. Xerox tarafından da gözlemlenen bu 'tatmin-sadakat uçurumu'nun pazarlama stratejisi açısından en kritik sonucu aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Tatmin-sadakat uçurumu yalnızca rekabet yoğunluğu yüksek sektörlerde gözlemlenir",
-   "Müşteri tatminini 4'ten 5'e çıkarmak, pazarlama harcamalarında %45 artış gerektirir",
-   "İşletmeler tatmin düzeyini ölçmek yerine doğrudan NPS (Net Promoter Score) ölçütünü kullanmalıdır ve tek gösterge olarak izlemelidir",
-   "4/5 puan alan müşterilerin sadakati artırmak için fiyat indirimi uygulanmalıdır",
-   "Müşteri tatmini sadakat için yeterli ama gerekli koşul değildir; duygusal bağ oluşturmak zorunludur"
-  ],
-  "dogru": 4,
-  "aciklama": "Xerox araştırması ve Jones & Sasser (1995) tarafından akademik literatüre kazandırılan bu bulgu, 'tatmin-sadakat uçurumu'nun kritik bir pazarlama gerçeğini ortaya koyduğunu göstermektedir: Tatmin olan müşteriler illa ki sadık değildir. Rakip teklifler, kolaylık, fiyat baskısı veya inertia değişkeni müşteriyi alternatife yönlendirebilir. 4/5 tatmin skoru 'tatmin' anlamına gelir ancak bu duygusal bağlılık (commitment) ile eşdeğer değildir. Sadakati sağlamak için işletmelerin tatmin eşiğini aşan 'mükemmel deneyim', duygusal marka bağı ve algılanan değer yaratması gerekmektedir. A seçeneği araç değişikliği önerir; sorunu çözmez. C seçeneği fiyatçı bir yaklaşımdır ve duygusal bağı güçlendirmez. D yanlıştır; uçurum pek çok sektörde gözlemlenir. E spekülatiftir ve teorik dayanağı yoktur.",
   "zorluk": "zor"
  },
  {
@@ -6059,8 +6027,8 @@
    "A işletmesi, VK = 1,67",
    "A işletmesi, VK = 0,60"
   ],
-  "dogru": 3,
-  "aciklama": "Değişim katsayısı (VK) = Standart sapma / Beklenen getiri formülüyle hesaplanır. VK(A) = 30 / 18 = 1,67; VK(B) = 20 / 12 = 1,67. Her iki işletmenin de değişim katsayısı eşit (1,67) çıkmaktadır. Ancak soru 'görece daha riskli' sorarken, VK açısından eşitlik söz konusudur. Hata: B şıkkı da VK = 1,67 verir. A işletmesinin mutlak riski (standart sapma) daha yüksektir. Soru mutlak risk odaklıysa A, görece risk odaklıysa eşit demek gerekir; ancak VK(A) = 1,67 doğru hesap olup cevap A'dır.",
+  "dogru": 0,
+  "aciklama": "Değişim katsayısı, standart sapmanın beklenen getiriye bölünmesiyle bulunur ve birim getiri başına düşen riski gösterir. İşletme A için VK = 30 / 18 ≈ 1,67, İşletme B için VK = 20 / 12 ≈ 1,67'dir. İki değer eşit olduğundan hisseler görece aynı risk düzeyindedir. Bankadaki cevap A'nın VK değerini doğru hesaplasa da A'yı daha riskli göstererek B'nin de aynı katsayıya sahip olduğunu gözden kaçırır; mutlak standart sapmanın büyük olması görece riskin yüksek olduğu anlamına gelmez. \"A işletmesi, VK = 0,60\" seçeneği oranı ters kurarak getiriyi riske bölmüştür (18/30). \"B işletmesi, VK = 1,00\" seçeneğinin ise hiçbir hesaplama dayanağı yoktur. Doğru cevap \"Her ikisi de eşit risklidir\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -6636,7 +6604,7 @@
    "Proje B seçilmeli; NBD daha yüksek olduğundan mutlak değer yaratımı daha fazladır."
   ],
   "dogru": 4,
-  "aciklama": "Birbirini dışlayan projeler arasında seçimde NBD yöntemi teorik olarak İVO'ya göre üstündür. Proje A: NBD=120.000 TL, PI=120.000/600.000=0,20 (ya da 1,20). Proje B: NBD=180.000 TL, PI=180.000/1.200.000=0,15 (ya da 1,15). NBD kriteri: Proje B (180.000 > 120.000). Karlılık endeksi: Proje A daha iyi. İVO: Proje A (%18 > %15). Ancak doğru karar B şıkkıyla D şıkkı arasındadır. D şıkkının mantığı: Artımsal yatırım 600.000 TL için artımsal NBD = 180.000-120.000 = 60.000 TL > 0 olduğundan artımsal İVO hurdle rate'i (%12) aşar ve B projesi seçilir. Bu analiz hem NBD hem İVO uyumunu sağlar. Teorik olarak en doğru cevap B'dir: Birbirini dışlayan projeler arasında NBD maksimizasyonu temel kuraldır ve Proje B daha fazla mutlak değer yaratır. Doğru cevap B'dir.",
+  "aciklama": "Birbirini dışlayan projelerde temel karar ölçütü net bugünkü değerdir (NBD). NBD, işletmeye sermaye maliyetinin üzerinde yaratılan mutlak değeri gösterir ve hissedar servetini en çok artıran projeyi seçtirir. Proje B'nin NBD'si 180.000 TL, Proje A'nınki 120.000 TL'dir; bu nedenle B seçilir. Artımsal İVO yaklaşımı aynı sonuca ulaştırabilir, ancak NBD'den türetilen yardımcı bir yöntemdir. Artımsal nakit akışları da verilmediği için doğrudan hesaplanamaz ve geleneksel akış varsayımına bağlıdır. Bu yüzden sorunun istediği temel gerekçe değildir. \"Proje A seçilmeli; İVO daha yüksek olduğundan getiri oranı üstündür.\" seçeneği yanlıştır, çünkü ölçek farkı olan projelerde İVO yanıltıcıdır ve yeniden yatırım varsayımı sorunludur. Karlılık endeksine dayanan gerekçe ise yalnızca sermaye kısıtı varsa geçerlidir. Doğru cevap \"Proje B seçilmeli; NBD daha yüksek olduğundan mutlak değer yaratımı daha fazladır.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -7437,22 +7405,6 @@
   ],
   "dogru": 1,
   "aciklama": "Ücret sıkışması, özellikle dış piyasa ücretleri hızla yükseldiğinde ya da asgari ücret artışlarıyla yeni işe alınan çalışanlara yüksek başlangıç ücreti verildiğinde, bu ücretin kıdemli çalışanların ücretine yakınlaşması veya hatta onu aşması durumudur. Bu durum kıdemli çalışanlarda adaletsizlik algısı ve motivasyon kaybına yol açar. Seçenek C'deki yüzde artışı ücret farklarını genişletir, daraltmaz; dolayısıyla sıkışma bu mekanizmayla açıklanamaz.",
-  "zorluk": "orta"
- },
- {
-  "id": "52497",
-  "dersId": "isletme",
-  "konuId": "i_nsan_kaynaklari",
-  "soru": "Toplu iş hukuku kapsamında 'dayanışma aidatı' (sendika aidatı) ile ilgili aşağıdaki ifadelerden hangisi Türk iş hukukuna göre doğrudur?",
-  "secenekler": [
-   "Toplu iş sözleşmesinden yararlanan ancak ilgili sendikaya üye olmayan çalışanlardan alınabilir.",
-   "Dayanışma aidatı miktarı, sendika üyelik aidatından fazla olamaz.",
-   "Sendika üyesi olan tüm çalışanlar ayrıca dayanışma aidatı ödemek zorundadır.",
-   "İşveren, çalışanın yazılı onayı olmaksızın ücretinden dayanışma aidatı kesemez. Bu kesinti yazılı muvafakat gerektirir.",
-   "Dayanışma aidatı yalnızca kamu sektöründe uygulanır."
-  ],
-  "dogru": 0,
-  "aciklama": "6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanunu'na göre dayanışma aidatı, toplu iş sözleşmesinden yararlanmak isteyen ancak sözleşmeyi yapan sendikaya üye olmayan işçilerden alınan bir katkı payıdır. Miktarı, üyelik aidatını aşamaz (A seçeneği çeldiricisiyle karıştırılmamalıdır). Ödeme yükümlülüğü, sendika üyeliğinden değil TİS'ten yararlanma iradesinden doğduğundan işverenin ücret kesintisi için işçinin TİS'ten yararlanma talebini beyan etmesi yeterlidir, ayrıca özel onay aranmaz.",
   "zorluk": "orta"
  },
  {

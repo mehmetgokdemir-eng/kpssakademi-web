@@ -183,19 +183,19 @@
      "aciklama": "'Gözden düşmek' deyimi 'birinin gözündeki değerini, itibarını yitirmek; saygınlığını kaybetmek' anlamına gelir. A seçeneğinde 'herkesin sevgi ve saygısını yitirdi' ifadesi bu anlama tam olarak karşılık gelmektedir. B'de fiziksel bir düşürme olayı, C'de özlem, D'de sağlık sorunu, E'de ise görmezden gelinme anlamı söz konusudur."
     },
     {
-     "id": "38592",
+     "id": "38620",
      "dersId": "turkce",
      "konuId": "noktalama",
-     "soru": "Aşağıdaki cümlelerin hangisinde noktalama işaretlerinin tamamı doğru kullanılmıştır?",
+     "soru": "Aşağıdaki seçeneklerin hangisinde birden fazla farklı noktalama işareti hatasız ve birlikte doğru kullanılmıştır?",
      "secenekler": [
-      "Sabahın erken saatlerinde (henüz güneş doğmamıştı) yola çıktık; ama hava bozunca geri döndük.",
-      "Sabahın erken saatlerinde -henüz güneş doğmamıştı- yola çıktık; ama hava bozunca geri döndük.",
-      "Sabahın erken saatlerinde -henüz güneş doğmamıştı- yola çıktık, ama hava bozunca geri döndük.",
-      "Sabahın erken saatlerinde (henüz güneş doğmamıştı,) yola çıktık ama, hava bozunca geri döndük.",
-      "Sabahın erken saatlerinde, -henüz güneş doğmamıştı,- yola çıktık ama hava bozunca geri döndük."
+      "\"Yarın geleceğim\" dedi, ama gelmedi.",
+      "'Yarın geleceğim' dedi; ama gelmedi.",
+      "\"Yarın geleceğim.\" dedi, ama gelmedi.",
+      "\"Yarın geleceğim\" dedi; ama gelmedi.",
+      "\"Yarın geleceğim,\" dedi; ama gelmedi."
      ],
-     "dogru": 1,
-     "aciklama": "Ara cümle kısa çizgiyle ayrılırken ikinci kısa çizgiden sonra virgül gelmez. 'Ama' bağlacından önce virgül değil noktalı virgül kullanılması, cümlenin yargı genişliğini daha iyi yansıtır. A şıkkında kısa çizgi doğru kapanmış, noktalı virgül 'ama'dan önce doğru konmuş, ara cümle sonrasında gereksiz virgül yoktur.",
+     "dogru": 2,
+     "aciklama": "TDK'ya göre tırnak içindeki alıntının noktası tırnak içinde kalır ve 'ama' bağlacından önce virgül konur; E'deki İngilizce tarzı virgül+noktalı virgül kullanımı yanlıştır. Doğru cevap \"Yarın geleceğim.\" dedi, ama gelmedi şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -278,19 +278,20 @@
      "zorluk": "kolay"
     },
     {
-     "id": "40444",
+     "id": "40373",
      "dersId": "turkce",
      "konuId": "anlatim_bozukluklari",
-     "soru": "Aşağıdaki cümlelerin hangisinde 'deyim' yanlış anlamıyla kullanılmıştır?",
+     "soru": "Aşağıdaki cümlelerin hangisinde eylem (fiil) zamanı yanlış kullanılmıştır?",
      "secenekler": [
-      "Toplantıda söz alan müdür, çok geçmeden lafı dolandırmaya başladı.",
-      "Çocuk, oyun oynarken bacağını kırdı ve hastaneye kaldırıldı.",
-      "Öğretmen, başarısız öğrenciye göz yumdu.",
-      "Kardeşim sınav sonuçlarını öğrenince göğsü kabardı.",
-      "Komşumuz bu işten elini eteğini çekti."
+      "Şu an ders çalışıyorum.",
+      "Her sabah erken kalkıyorum.",
+      "Dün markete gidiyorum ve ekmek alıyorum.",
+      "Yarın okula gideceğim.",
+      "Geçen yıl ben de bu şehirde yaşıyordum. Çok mutluydum."
      ],
-     "dogru": 1,
-     "aciklama": "E seçeneğinde 'bacağını kırdı' ifadesi mecaz anlamda değil gerçek (temel) anlamda kullanılmıştır; bu nedenle deyim özelliği taşımaz. Deyimler, gerçek anlamlarından uzaklaşmış kalıplaşmış söz öbekleridir. Diğer seçeneklerdeki ifadeler ('lafı dolandırmak', 'göğsü kabarmak', 'elini eteğini çekmek', 'göz yummak') birer deyimdir."
+     "dogru": 2,
+     "aciklama": "'Dün markete gidiyorum ve ekmek alıyorum.' cümlesinde 'dün' zaman zarfı geçmiş zaman bildirirken yüklem olan 'gidiyorum' ve 'alıyorum' şimdiki zamanla çekimlenmiştir. Zaman zarfıyla yüklem zamanı uyuşmadığından bu cümle anlatım bozukluğu taşımaktadır. Doğrusu 'Dün markete gittim ve ekmek aldım.' olmalıdır.",
+     "zorluk": "kolay"
     },
     {
      "id": "39825",
@@ -341,35 +342,36 @@
      "zorluk": "kolay"
     },
     {
-     "id": "39231",
+     "id": "39938",
      "dersId": "turkce",
      "konuId": "noktalama",
-     "soru": "Aşağıdaki seçeneklerin hangisinde üç nokta doğru kullanılmıştır?",
+     "soru": "Aşağıdaki cümlelerin hangisinde tire (-) doğru kullanılmıştır?",
      "secenekler": [
-      "Bugün hava çok güzel… değil mi?",
-      "Toplantıya; Ahmet, Mehmet, Ali… ve diğerleri katıldı.",
-      "Kitap… kalem… defter… hepsini aldım.",
-      "Sana söyleyeceklerim var… ama nasıl anlatsam bilmiyorum.",
-      "O gün neler yaşandı… kimse bilmiyor."
+      "Kitap - kalem aldım.",
+      "Bugün hava - çok soğuktu.",
+      "O - benim arkadaşım.",
+      "Öğretmen sordu:\n— Dersini çalıştın mı?",
+      "Ankara - gerçekten çok güzel bir şehirdir."
      ],
      "dogru": 3,
-     "aciklama": "Üç nokta; sözün bir nedenle yarıda kesildiğini, düşüncenin tamamlanmadığını ya da anlatımın belirsiz bırakıldığını göstermek için kullanılır. B seçeneğinde konuşan kişi söyleyeceklerini tam olarak ifade edemeden duraksıyor; bu belirsizlik ve duraksamayı göstermek için üç nokta doğru biçimde kullanılmıştır. Diğer seçeneklerde üç nokta gereksiz ya da yanlış bağlamlarda kullanılmıştır.",
+     "aciklama": "Tire, diyalog yazımında konuşmanın başında konuşan kişinin sözünü göstermek için kullanılır. \"Öğretmen sordu:\" ifadesinden sonra yeni satırda \"— Dersini çalıştın mı?\" biçiminde yazılması bu kullanımdır. \"Kitap - kalem aldım.\" cümlesinde sözcükler arasına tire konulması gerekmez ve araya boşluk bırakmak da yanlıştır. \"Bugün hava - çok soğuktu.\", \"O - benim arkadaşım.\" ve \"Ankara - gerçekten çok güzel bir şehirdir.\" cümlelerinde de tire gereksizdir. Doğru cevap \"Öğretmen sordu: — Dersini çalıştın mı?\" seçeneğidir.",
      "zorluk": "kolay"
     },
     {
-     "id": "38454",
+     "id": "38511",
      "dersId": "turkce",
      "konuId": "yazim_kurallari",
-     "soru": "Aşağıdaki cümlelerin hangisinde noktalama işaretinin kullanımı yanlıştır?",
+     "soru": "Aşağıdaki seçeneklerin hangisinde özel adlardan türetilmiş sözcüklerin yazımıyla ilgili bir yanlışlık yapılmıştır?",
      "secenekler": [
-      "Kitabı aldım; ancak henüz okuyamadım.",
-      "Güzel, zeki ve çalışkan bir öğrenciydi.",
-      "'Bu işi sen mi yapacaksın?' diye sordu.",
-      "Ne kadar yorulmuşum, diye düşündü.",
-      "İstanbul, Ankara ve İzmir büyük şehirlerdir."
+      "Müslümanlığın temel ilkeleri beş şart üzerine kuruludur.",
+      "Avrupalı araştırmacılar bu konuda önemli çalışmalar yapmıştır.",
+      "Marxist düşünce, siyaset bilimini derinden etkilemiştir.",
+      "İstanbullu olmak ayrı bir gurur kaynağıdır.",
+      "Türkçe, dünyada en çok konuşulan diller arasındadır."
      ],
-     "dogru": 3,
-     "aciklama": "E seçeneğinde aktarılan düşünce doğrudan aktarma niteliği taşımaktadır: 'Ne kadar yorulmuşum' ifadesi karakterin iç sesi olduğundan tırnak içine alınmalı ya da virgülden önce noktalama düzenlenmesi gerekmektedir. Doğru yazım: 'Ne kadar yorulmuşum!' diye düşündü. — biçiminde ünlem işaretiyle veya 'Ne kadar yorulmuşum diye düşündü.' biçiminde virgülsüz olmalıdır. Virgülün yanlış yerde kullanılması noktalama hatasıdır."
+     "dogru": 2,
+     "aciklama": "Özel adlardan türetilen sözcüklerde, ad Türkçe okunuşa göre yazılır ve türetme eki gelirse sözcük küçük harfle başlar. \"Marksist\" bu kurala göre türemiş bir sözcüktür; \"Marx\" adının yabancı yazılışı korunmaz, Türkçe yazımla \"Marksist\" yazılır. Seçenekteki \"Marxist\" biçimi bu nedenle yanlıştır. \"Müslümanlığın\" ve \"Türkçe\" gibi sözcüklerde özel adlardan türeyen sözcük olarak küçük harf kuralı uygulanmıştır. \"Avrupalı\" ve \"İstanbullu\" sözcüklerinde ise yer adından gelen eklerle türeyen sözcük büyük harfle başlamamalıdır; bunlar da kuralla uyumludur. Doğru cevap \"Marxist düşünce, siyaset bilimini derinden etkilemiştir.\" seçeneğidir.",
+     "zorluk": "zor"
     },
     {
      "id": "39513",

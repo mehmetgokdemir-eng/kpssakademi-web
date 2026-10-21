@@ -376,19 +376,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "200299",
+     "id": "200300",
      "dersId": "egitimbilimleri",
      "konuId": "bilissel_ogrenme",
-     "soru": "Bloom taksonomisinin orijinal (1956) ve revize edilmiş (Anderson ve Krathwohl, 2001) versiyonları karşılaştırıldığında, aşağıdaki ifadelerden hangisi yanlıştır?",
+     "soru": "Gestalt öğrenme ilkeleri ile bilgi işleme kuramının bellek modelleri birlikte ele alındığında, bir öğrencinin dağınık matematik formüllerini anlamlı bir bütün olarak algılayıp uzun süreli belleğe kodlaması sürecinde aşağıdaki açıklamalardan hangisi en kapsamlı ve kuramsal açıdan en tutarlı açıklamayı sunar?",
      "secenekler": [
-      "Orijinal taksonomide en üst basamak olan sentez, revize versiyonda 'yaratma' adını almış ve hiyerarşinin en üstünde kalmıştır",
-      "Revize taksonomide analiz, uygulama ve kavrama basamakları muhafaza edilmiş; ancak kavrama 'anlama' olarak yeniden adlandırılmıştır",
-      "Revize taksonomide bilgi boyutu dört alt kategoriye ayrılmış ve prosedürel bilgi ile üstbilişsel bilgi ayrı kategoriler olarak eklenmiştir",
-      "Revize taksonomide bilişsel süreç boyutu isim yerine fiil formlarıyla ifade edilmiş; 'bilgi' basamağı 'hatırlama' olarak yeniden adlandırılmıştır",
-      "Revize taksonomide 'değerlendirme' basamağı hiyerarşide sentezin/yaratmanın üstüne taşınmış ve en üst düzey olarak konumlandırılmıştır"
+      "Gestalt ilkeleri yalnızca görsel algı alanı için geçerliyken bilgi işleme kuramı soyut sembolik içeriklere uygulanır; dolayısıyla matematik formülleri için Gestalt ilkelerinin kullanılması kavramsal bir hatadır",
+      "Öğrencinin formülleri bütün olarak algılaması otomatik olarak anlamlı kodlamayı garantiler; bu nedenle Gestalt algı süreçleri gerçekleştikten sonra ek bilişsel işleme gerekmez",
+      "Bilgi işleme kuramı Gestalt ilkelerini tamamen reddettiğinden, bu iki kuramın matematiksel öğrenmeye ortak bir açıklama sunması mümkün değildir",
+      "Gestalt'ın bütünlük ilkesi ve yakınlık ilkesi, ilgili formüllerin algısal olarak gruplandırılmasını sağlarken; bu gruplar işleyen bellekte şema aktivasyonunu tetikler ve elaboratif kodlama yoluyla uzun süreli bellekteki mevcut matematiksel şemalarla bütünleşir",
+      "Gestalt'ın pragnanz (iyi şekil) ilkesi algıyı düzenlerken, bellek modelinde bu düzenlenmiş yapı semantik kodlama yoluyla uzun süreli belleğe aktarılmaktadır; ancak her iki süreç de birbirinden tümüyle bağımsız biçimde işlemekte ve hiçbir noktada kesişmemektedir"
      ],
-     "dogru": 4,
-     "aciklama": "Anderson ve Krathwohl'un 2001 tarihli revize taksonomisinde en kritik yapısal değişikliklerden biri, orijinal taksonomide beşinci sırada yer alan 'sentez' ile altıncı sırada yer alan 'değerlendirme' basamaklarının yer değiştirmesidir. Revize versiyonda değerlendirme (evaluate) beşinci basamakta kalırken, sentezin karşılığı olan 'yaratma' (create) en üst basamağa — altıncı sıraya — taşınmıştır. D şıkkı ise 'değerlendirme'nin en üst düzeye taşındığını ileri sürmektedir; bu yanlıştır. Diğer seçenekler doğrudur: A'da prosedürel ve üstbilişsel bilgi eklenmesi, B'de sentezin yaratmaya dönüşmesi (ancak en üstte yer alması), C'de fiil formları ve 'hatırlama' adlandırması, E'de analiz ve kavrama-anlama korunumu doğrudur.",
+     "dogru": 3,
+     "aciklama": "Gestalt'ın bütünlük ve yakınlık ilkeleri, ilişkili formüllerin anlamlı gruplar hâlinde algılanmasını sağlar. Bilgi işleme kuramına göre bu düzenlenmiş gruplar işleyen bellekte ilgili şemaları harekete geçirir. Ardından elaboratif kodlama ile yeni bilgi, uzun süreli bellekteki matematiksel şemalara bağlanır. Bu açıklama algı, işleyen bellek ve uzun süreli bellek aşamalarını tutarlı biçimde birleştirir. \"Gestalt'ın pragnanz (iyi şekil) ilkesi algıyı düzenlerken\" seçeneği yanlıştır; süreçlerin hiç kesişmediği iddiası, algının kodlamayı beslemesiyle çelişir. \"Öğrencinin formülleri bütün olarak algılaması otomatik olarak anlamlı kodlamayı garantiler\" de yanlıştır; algısal gruplama tek başına kalıcı kodlamaya yetmez. Doğru cevap \"Gestalt'ın bütünlük ilkesi ve yakınlık ilkesi, ilgili formüllerin algısal olarak gruplandırılmasını sağlarken\" seçeneğidir.",
      "zorluk": "zor"
     },
     {

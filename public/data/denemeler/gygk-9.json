@@ -1608,19 +1608,20 @@
      "zorluk": "kolay"
     },
     {
-     "id": "33034",
+     "id": "33039",
      "dersId": "cografya",
      "konuId": "bolgeler_cografyasi",
-     "soru": "Karadeniz Bölgesi'nde tarım alanlarının dar ve dağlık olması nedeniyle ortaya çıkan aşağıdaki durumlardan hangisi diğerlerinden farklı bir sonuca yol açmıştır?",
+     "soru": "Türkiye'de aşağıdaki ürünlerden hangisi yalnızca belirli bir coğrafi bölgeyle sınırlı kalmayıp birden fazla bölgede yaygın biçimde üretilmektedir?",
      "secenekler": [
-      "Küçük aile işletmeciliğinin yaygınlaşması",
-      "Tarım alanlarının meyilli arazilerde oluşturulması",
-      "Bölgeden diğer bölgelere yoğun göç verilmesi",
-      "Hayvancılığın tarıma oranla daha fazla gelişmesi",
-      "Bölgede nüfusun sahil şeridinde yoğunlaşması"
+      "Çay",
+      "Zeytin",
+      "Pamuk",
+      "Fındık",
+      "Buğday"
      ],
-     "dogru": 2,
-     "aciklama": "Dar tarım alanları ve engebeli arazi; A, B, D ve E şıklarındaki durumları doğrudan bölge içinde ortaya çıkarmıştır. Ancak C şıkkındaki göç olgusu, insanların bölgeyi terk ederek başka yerlere gitmesine yol açmıştır, yani bölge dışına etkili bir sonuçtur. Bu nedenle C şıkkı diğerlerinden farklı bir sonuca işaret eder."
+     "dogru": 4,
+     "aciklama": "Buğday, Türkiye'nin hemen tüm bölgelerinde yetiştirilen bir üründür; özellikle İç Anadolu, Doğu Anadolu, Güneydoğu Anadolu ve Marmara bölgelerinde yaygındır. Çay yalnızca Doğu Karadeniz'de, fındık Karadeniz kıyı şeridinde, pamuk Ege-Akdeniz-Güneydoğu'da belirli alanlarda, zeytin ise ağırlıklı olarak Ege ve Akdeniz kıyılarında üretilmektedir.",
+     "zorluk": "orta"
     },
     {
      "id": "32636",
@@ -1655,19 +1656,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "32136",
+     "id": "32165",
      "dersId": "cografya",
      "konuId": "dunya_sekli_hareketleri",
-     "soru": "Dünya'nın gerçek şekli olan 'Geoid' ile ilgili aşağıdaki ifadelerden hangisi kesinlikle yanlıştır?",
+     "soru": "Dünya üzerinde bir X noktası seçiliyor. Bu noktadan geçen tüm büyük daireler düşünüldüğünde, bu büyük daireler hangi başka bir noktadan da geçmek zorundadır?",
      "secenekler": [
-      "Kutuplardaki basıklık, Dünya'nın kendi ekseni etrafındaki dönüş hızının fazla olmasından kaynaklanır.",
-      "Elipsoit, geoidin matematiksel yaklaşımı olarak kullanılmaktadır.",
-      "Kutup yarıçapı, ekvator yarıçapından yaklaşık 21 kilometre daha kısadır.",
-      "Kutuplarda basıklık, ekvatorda şişkinlik söz konusudur.",
-      "Yüzeyindeki düzensizlikler nedeniyle hiçbir matematiksel formülle tam olarak tanımlanamaz. Bu nedenle yalnızca yaklaşık modellerle ifade edilir."
+      "X noktasının bulunduğu meridyen üzerindeki herhangi bir noktadan",
+      "X noktasıyla aynı enlemi paylaşan (paralel üzerindeki) herhangi bir noktadan",
+      "X noktasından 90° uzakta olan herhangi bir noktadan",
+      "X noktasının antipodal noktasından (yani Dünya'nın tam karşı tarafındaki noktadan)",
+      "Yalnızca Ekvator'dan"
      ],
-     "dogru": 0,
-     "aciklama": "Kutuplardaki basıklık, Dünya'nın kendi ekseni etrafındaki dönüş hareketinin etkisiyle oluşan merkezkaç kuvvetinin etkisiyle ortaya çıkmıştır. Ancak bu basıklığın nedeni dönüş hızının 'fazla' olması değil, dönme hareketi sırasında ekvatora yakın bölgelerde merkezkaç kuvvetinin daha etkili olmasıdır. Dönüş hızı aslında görece yavaştır; hız fazla olsaydı basıklık çok daha belirgin olurdu. Bu nedenle D şıkkındaki 'hızının fazla olmasından' ifadesi kesinlikle yanlıştır. Diğer tüm şıklar doğru bilgiler içermektedir.",
+     "dogru": 3,
+     "aciklama": "Büyük daire, bir kürenin merkezinden geçen düzlemin küre yüzeyiyle kesişmesinden oluşur. X noktasından geçen herhangi bir büyük daire, küre merkezini içerdiğinden X'in tam karşısındaki noktadan (antipodal nokta) da geçmek zorundadır. Özellikle: X = (φ, λ) ise antipodu = (-φ, λ±180°)'dir ve X'ten geçen her büyük daire bu antipodal noktadan da geçer. Bu, geometrik bir zorunluluktur. Doğru cevap B'dir.",
      "zorluk": "zor"
     }
    ]
@@ -1677,19 +1678,19 @@
    "ad": "Vatandaşlık",
    "sorular": [
     {
-     "id": "34285",
+     "id": "34313",
      "dersId": "vatandaslik",
      "konuId": "yasama_tbmm",
-     "soru": "1982 Anayasası'na göre TBMM'nin olağanüstü toplantıya çağrılmasına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+     "soru": "Anayasa'nın 149. maddesi çerçevesinde Anayasa Mahkemesi'nin iptal kararlarının etkisi bakımından hangisi doğrudur?",
      "secenekler": [
-      "TBMM Başkanı, TBMM'yi olağanüstü toplantıya çağırabilir.",
-      "Bakanlar Kurulu kararıyla da TBMM olağanüstü toplantıya çağrılabilir.",
-      "Olağanüstü toplantıda yalnızca toplantıyı gerektiren konu görüşülür.",
-      "Üyelerin salt çoğunluğunun yazılı talebi üzerine TBMM olağanüstü toplanır.",
-      "Cumhurbaşkanı, TBMM'yi olağanüstü toplantıya çağırabilir."
+      "İptal kararları geriye yürür; iptal edilen norma dayanan tüm bireysel işlemler kendiliğinden hükümsüz hale gelir.",
+      "Anayasa Mahkemesi iptal kararlarının yürürlük tarihini hiçbir biçimde belirleyemez; bu tarih otomatik olarak kararın açıklandığı gün olarak kabul edilir. Bu kural mutlaktır.",
+      "İptal kararı Resmî Gazete'de yayımlanmadan önce Cumhurbaşkanı tarafından onaylanmak zorundadır.",
+      "İptal kararları yalnızca gelecekteki işlemlere uygulanır ve kesinlikle geriye yürütülemez; Mahkeme'nin bu konuda takdir yetkisi yoktur.",
+      "İptal kararları kural olarak geriye yürümez ve Resmî Gazete'de yayımlandığı tarihten itibaren hüküm doğurur; Mahkeme gerekli gördüğünde yürürlüğü erteleyebilir."
      ],
-     "dogru": 1,
-     "aciklama": "2017 anayasa değişiklikleriyle Bakanlar Kurulu kaldırılmıştır. Bunun yanı sıra anayasada TBMM'yi olağanüstü toplantıya çağırma yetkisi Cumhurbaşkanı, TBMM Başkanı ve üyelerin salt çoğunluğunun yazılı talebiyle sınırlandırılmıştır. Bakanlar Kurulu böyle bir yetkiye zaten sahip olmamıştır; dolayısıyla E seçeneği hem kurumsal hem de yetkisel açıdan yanlış bir ifadedir.",
+     "dogru": 4,
+     "aciklama": "Anayasa Mahkemesi'nin iptal kararlarının etkisi Anayasa'nın 153. maddesinde düzenlenir. Bu maddeye göre iptal kararları geriye yürümez; karar Resmî Gazete'de yayımlandığı günden itibaren hüküm doğurur. Mahkeme, gerekli gördüğü hâllerde iptal hükmünün yürürlüğe gireceği tarihi ayrıca belirleyerek yürürlüğü erteleyebilir. Bu nedenle \"İptal kararları geriye yürür; iptal edilen norma dayanan tüm bireysel işlemler kendiliğinden hükümsüz hale gelir.\" ifadesi yanlıştır; kural geriye yürümemedir. \"Anayasa Mahkemesi iptal kararlarının yürürlük tarihini hiçbir biçimde belirleyemez; bu tarih otomatik olarak kararın açıklandığı gün olarak kabul edilir. Bu kural mutlaktır.\" ifadesi de yanlıştır; çünkü Mahkeme yürürlük tarihini belirleyebilir. Ayrıca iptal kararı için Cumhurbaşkanı onayı aranmaz. Doğru cevap \"İptal kararları kural olarak geriye yürümez ve Resmî Gazete'de yayımlandığı tarihten itibaren hüküm doğurur\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -1786,19 +1787,19 @@
      "aciklama": "Anayasa md. 83'e göre milletvekilliği sorumsuzluğu (yasama sorumsuzluğu), yasama faaliyetleri nedeniyle verilen oylar ve yapılan açıklamalar için milletvekilliği sona erse bile devam eder. Dokunulmazlık ise yalnızca milletvekilliği sıfatı devam ettiği süre için geçerlidir; sıfat sona erince koruma kalkar. Doğru cevap D şıkkıdır."
     },
     {
-     "id": "34525",
+     "id": "34539",
      "dersId": "vatandaslik",
      "konuId": "yargi_organlari",
-     "soru": "Danıştay'ın hem ilk derece mahkemesi hem de temyiz mercii sıfatını taşıdığı dikkate alındığında, aşağıdaki davalardan hangisi Danıştay'ın doğrudan ilk derece sıfatıyla görüleceği davalar arasında yer ALMAZ?",
+     "soru": "Anayasa Mahkemesi'ne bireysel başvuru yoluna ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
      "secenekler": [
-      "Birden fazla idare mahkemesinin yargı çevresini ilgilendiren davalarda Danıştay'ın kendiliğinden dava alması",
-      "Bakanlar Kurulu kararnameleri ile Cumhurbaşkanlığı kararnamelerinin iptali talepleri",
-      "Birden fazla idare mahkemesinin yargı çevresini kapsayan uyuşmazlıklar",
-      "İl sınırlarını aşan, birden çok valiliği kapsayan idari işlemlerden doğan uyuşmazlıklar",
-      "Başbakanlık ve bakanlıklar ile bunlara bağlı kuruluşların müsteşar ve üstü makamlarının işlemleri"
+      "Bireysel başvuru, diğer başvuru yolları tüketilmeden yapılabilir.",
+      "Başvuru hakkı, Anayasa'da güvence altına alınan temel hak ve özgürlükleri ihlal edilen kişilere tanınmıştır.",
+      "Başvuru süresi, ihlale yol açtığı ileri sürülen işlem ya da kararın tebliğinden itibaren otuz gündür.",
+      "Tüzel kişiler de bireysel başvuru yapabilir ancak yalnızca tüzel kişiliğe özgü haklarla sınırlıdır.",
+      "Yabancı uyruklu kişiler, yalnızca Türkiye'ye özgü haklarla ilgili konularda başvuru yapamaz."
      ],
-     "dogru": 1,
-     "aciklama": "Cumhurbaşkanlığı kararnameleri de dahil olmak üzere normların anayasaya aykırılığı iddiasıyla açılan iptal davaları Anayasa Mahkemesi'nin görev alanındadır; Danıştay bu tür davalara ilk derece sıfatıyla bakamaz. Danıştay'ın ilk derece yargı yetkisi İdari Yargılama Usulü Kanunu'nun 24. maddesiyle sınırlı sayılmıştır: bakanlık ve üstü kademe işlemleri, birden fazla idare mahkemesinin yargı çevresini aşan uyuşmazlıklar ve benzeri durumlar bu kapsamdadır. Dolayısıyla B seçeneği, Danıştay'ın değil AYM'nin yetki alanındadır.",
+     "dogru": 0,
+     "aciklama": "Soru yanlış ifadeyi sorduğu için bireysel başvurunun şartlarına bakmak gerekir. Anayasa Mahkemesi'ne bireysel başvuruda temel şart, olağan kanun yollarının tüketilmiş olmasıdır. Başvurucu önce ilgili idari ve yargısal başvuru yollarını kullanmalıdır. Bu yüzden \"Bireysel başvuru, diğer başvuru yolları tüketilmeden yapılabilir.\" ifadesi yanlıştır. Başvuru süresi, kanun yollarının tüketildiği tarihten sonra ilgili kararın tebliğinden itibaren otuz gündür. Bu nedenle \"Başvuru süresi, ihlale yol açtığı ileri sürülen işlem ya da kararın tebliğinden itibaren otuz gündür.\" ifadesi, çoğu zaman karıştırılsa da, genel çerçeve olarak doğrudur. Tüzel kişilerin başvurusunun yalnızca tüzel kişiliğe özgü haklarla sınırlı olduğunu söyleyen ifade de doğrudur. Doğru cevap \"Bireysel başvuru, diğer başvuru yolları tüketilmeden yapılabilir.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {

@@ -125,19 +125,19 @@
      "zorluk": "zor"
     },
     {
-     "id": "39055",
+     "id": "39064",
      "dersId": "turkce",
      "konuId": "anlatim_bozukluklari",
-     "soru": "Aşağıdaki cümlelerin hangisinde özne-yüklem uyumsuzluğundan kaynaklanan bir anlatım bozukluğu vardır?",
+     "soru": "Aşağıdaki cümlelerin hangisinde 'yaklaşık' anlamındaki bir sözcük, kesinlik bildiren başka bir sözcükle çelişerek anlatım bozukluğu oluşturmaktadır?",
      "secenekler": [
-      "Ekip üyelerinin her biri görevlerini eksiksiz yerine getirdi.",
-      "Sınava giren öğrencilerin yarısından fazlası soruları çözebildi.",
-      "Çalışanların tümü maaşlarını zamanında almak istedi.",
-      "Toplantıya katılanların büyük çoğunluğu bu karara karşı çıktı.",
-      "Delegelerin büyük bir kısmı önergeyi destekledi."
+      "Bu yıl yaklaşık üç bin ürün ürettik.",
+      "Katılımcı sayısı en fazla elli kişiyle sınırlıydı.",
+      "Araştırma sonuçları tahminen mart ayında açıklanacak.",
+      "Proje kesinlikle yaklaşık altı ayda tamamlanacak.",
+      "Toplantıya tam olarak kırk kişi katıldı."
      ],
-     "dogru": 0,
-     "aciklama": "C seçeneğinde 'Ekip üyelerinin her biri' ifadesi tekil özne konumundadır; dolayısıyla yüklem tekil olmalıdır. Ancak 'görevlerini' sözcüğündeki '-leri' iyelik eki öznenin çoğulluğunu ima etmektedir; bu da 'her biri' yapısıyla çelişmekte ve örtük bir çoğul-tekil tutarsızlığına yol açmaktadır. 'Her biri görevini' biçiminde kullanılmalıydı. Diğer seçeneklerde bu tür bir uyumsuzluk bulunmamaktadır.",
+     "dogru": 3,
+     "aciklama": "\"Yaklaşık\" sözcüğü, verilen miktarın kesin olmadığını, tahmini olduğunu bildirir. \"Kesinlikle\" ise kesinlik anlatır. İkisi aynı yüklemi nitelediğinde \"kesinlikle yaklaşık altı ay\" gibi birbirini çürüten bir ifade ortaya çıkar ve anlatım bozukluğu doğar. \"Bu yıl yaklaşık üç bin ürün ürettik.\" cümlesinde yalnızca belirsizlik bildiren sözcük vardır, çelişki yoktur. \"Toplantıya tam olarak kırk kişi katıldı.\" cümlesinde ise yalnızca kesinlik bildirilir, onunla çelişen bir sözcük yoktur. Doğru cevap \"Proje kesinlikle yaklaşık altı ayda tamamlanacak.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -204,19 +204,19 @@
      "zorluk": "zor"
     },
     {
-     "id": "38526",
+     "id": "39918",
      "dersId": "turkce",
      "konuId": "yazim_kurallari",
-     "soru": "Aşağıdaki cümlelerin hangisinde kısaltmaların yazımına ilişkin bir yanlışlık yapılmamıştır?",
+     "soru": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük, yazım kurallarına göre yanlış yazılmıştır?\n\nA) Bugün okula gitmeyeceğim, zira başım ağrıyor.\nB) Türkiye'nin başkenti Ankara'dır.\nC) Bu iş için beşyüz lira ödedim.\nD) Cumhuriyet, 1923'te ilan edildi.\nE) Aynı fikirde değiliz, ama saygı duyuyorum.",
      "secenekler": [
-      "Şirketi, A.Ş olarak tescil ettirdi.",
-      "TBMM'de bugün önemli bir karar alındı.",
-      "Prof. Dr. Ayşe Hanım konuyu ayrıntılı biçimde anlattı.",
-      "Dr. Ahmet Bey toplantıya biraz geç kaldı.",
-      "TDK'nın yeni kılavuzu yayımlandı."
+      "Bugün okula gitmeyeceğim, zira başım ağrıyor.",
+      "Aynı fikirde değiliz, ama saygı duyuyorum.",
+      "Türkiye'nin başkenti Ankara'dır.",
+      "Bu iş için beşyüz lira ödedim.",
+      "Cumhuriyet, 1923'te ilan edildi."
      ],
-     "dogru": 1,
-     "aciklama": "A seçeneğinde 'TBMM'de' yazımı doğrudur: büyük harflerden oluşan kısaltmalara getirilen ekler, kısaltmanın son harfinin okunuşuna göre belirlenir ve kesme işaretiyle ayrılır. 'TBMM' → 'Türkiye Büyük Millet Meclisi' → son harf 'M' → okunuşu 'm' → bulunma eki '-de' → 'TBMM'de' doğrudur. B seçeneğinde 'Dr.' kısaltması unvan olarak kullanılmış; ancak 'Dr.' dan sonra gelen 'Ahmet Bey' ifadesinde unvanla birlikte 'Bey' hitabı kullanılmıştır; bu kabul edilebilir. C seçeneğinde 'A.Ş' yanlıştır; doğrusu 'A.Ş.' (noktalı) ya da 'AŞ'dir; nokta yanlış yerde bırakılmıştır. D seçeneğinde 'TDK'nın' yanlıştır; 'TDK' → son harf 'K' → okunuşu 'ka' → iyelik eki 'nın' değil; 'TDK' Türkçe okunuşuyla 'te-de-ka' → son harf 'a' ünlüsü → genitif eki 'nın' değil 'nın' → aslında 'TDK'nın' mı 'TDK'nın' mı? 'Ka' → 'a' ünlüsüyle biter → ek 'nın' değil 'nın' (ünlüden sonra 'nın' doğrudur): 'TDK'nın' doğrudur. O hâlde D'de sorun yoktur. E seçeneğine bakıldığında 'Prof. Dr. Ayşe Hanım' ifadesinde 'Hanım' hitabı ve unvanlar bir arada kullanılmış; bu Türkçe kullanımda kabul görmektedir. Yanıt A'dır.",
+     "dogru": 3,
+     "aciklama": "Sayılar yazıyla yazıldığında ayrı yazılır: 'beş yüz' şeklinde yazılmalıdır. Yüz, bin, milyon gibi basamak adları sayılarla birleşik yazılmaz. Diğer seçeneklerde yazım kuralı ihlali yoktur.",
      "zorluk": "zor"
     },
     {
@@ -345,19 +345,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "40015",
+     "id": "38616",
      "dersId": "turkce",
      "konuId": "noktalama",
-     "soru": "Aşağıdaki cümlelerin hangisinde bütün noktalama işaretleri doğru kullanılmıştır?",
+     "soru": "Aşağıdaki seçeneklerin hangisinde tırnak işaretinin kullanımı yanlıştır?",
      "secenekler": [
-      "\"Geleceğim\" dedi, ama gelmedi ve beni yıllarca bekletti.",
-      "Yıllarca çalıştı: emekliye ayrıldığında, ne parası ne de sağlığı kalmıştı.",
-      "Ahmet, Mehmet ve Ali – üç iyi arkadaş – parkta buluştular.",
-      "Kitabı okuyunca anladım ki; hayat hiç de düşündüğüm gibi değilmiş.",
-      "Sana şunu söyleyeyim: Çalışmadan başarı olmaz, bunun bilincinde ol."
+      "\"Ne mutlu Türküm diyene!\" sözü millî kimliğin simgesi olmuştur.",
+      "Gazetede yayımlanan \"haber\" aslında bir spekülasyondan ibaretti.",
+      "Öğretmen tahtaya \"Merhaba dünya\" yazdı.",
+      "Bu olayı 'tarihin en büyük felaketi' olarak nitelendirdiler.",
+      "Atatürk, \"Yurtta sulh, cihanda sulh\" ilkesini benimsemişti."
      ],
-     "dogru": 4,
-     "aciklama": "A seçeneğinde tüm noktalama işaretleri kurallara uygundur: iki nokta üst üste açıklama cümlesi getirmeden önce kullanılmış, virgül ise zincirleme cümleyi birbirinden ayırmıştır. B'de 'ki' bağlacından önce noktalı virgül kullanılamaz, virgül olmalıdır. C'de virgül ve 'ama' bağlacının birlikte kullanımı dilbilgisi açısından tartışmalı olmakla birlikte asıl sorun 've' bağlacından önceki virgülün gereksizliğidir. D'de tire kullanımı doğrudur ancak 'üç iyi arkadaş' ifadesi 'Ahmet, Mehmet ve Ali' açıklaması olduğundan buraya virgül de yeterlidir, tire seçimi stilistik olup yanlış değildir; yine de A en tutarlı seçenektir. E'de 'emekliye ayrıldığında' ifadesinden önce virgül değil iki nokta kullanılmış, bu da sözdizimini bozmuştur.",
+     "dogru": 3,
+     "aciklama": "Tek tırnak yalnızca tırnak içinde tırnak gerektiğinde kullanılır; D'de doğrudan alıntı için tek tırnak kullanılması yanlıştır, C'deki tahtaya yazılan sözün çift tırnakla gösterilmesi ise kurala uygundur. Doğru cevap Bu olayı 'tarihin en büyük felaketi' olarak nitelendirdiler şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -409,51 +409,51 @@
      "zorluk": "kolay"
     },
     {
-     "id": "39301",
+     "id": "40251",
      "dersId": "turkce",
      "konuId": "cumle_ogeleri",
-     "soru": "Türkçede dolaylı tümleç ile yer tamlayıcısı kavramları zaman zaman karıştırılır. Aşağıdaki cümlelerin hangisinde '-e' ekiyle kurulan öge, geleneksel anlamda dolaylı tümleç değil; yüklemin zorunlu tamamlayıcısı olan bir yer tamlayıcısıdır ve bu öge cümleden çıkarıldığında yüklem anlamsız kalır?",
+     "soru": "\"Müdür, çalışanların şikâyetlerini dinlemeksizin kararını açıkladı.\" cümlesinde 'dinlemeksizin' sözcüğünün cümle ögesi bakımından doğru çözümlenmesi hangisidir?",
      "secenekler": [
-      "Mektup, yanlış adrese gönderildi.",
-      "Soruyu öğretmene sorduk.",
-      "Kitabı kütüphaneye götürdü.",
-      "Arkadaşıma güzel bir hediye aldım.",
-      "Çocuk, annesine sarıldı."
-     ],
-     "dogru": 2,
-     "aciklama": "D seçeneğinde 'kitabı kütüphaneye götürdü' cümlesinde 'kütüphaneye' ögesi '-e' ekiyle kurulmuş olmakla birlikte bir dolaylı tümleç değil, 'götürmek' eyleminin zorunlu tamamlayıcısı olan yer tamlayıcısıdır. 'Götürmek' eylemi bir varış noktası olmadan anlam kazanamaz; bu nedenle öge çıkarıldığında cümle hem dilbilgisel hem anlamsal açıdan yetersiz kalır. A, C ve E seçeneklerindeki '-e'li ögeler ise dolaylı tümleci temsil etmekte olup yüklemin tamamlayıcısı zorunlu değildir.",
-     "zorluk": "zor"
-    },
-    {
-     "id": "40353",
-     "dersId": "turkce",
-     "konuId": "fiil_catisi",
-     "soru": "Aşağıdaki cümlelerin hangisinde hem ettirgen hem de dönüşlü çatı özellikleri aynı anda bir fiilde bulunmaktadır?",
-     "secenekler": [
-      "Yönetici raporu yazdırdı.",
-      "Adam köpeğini yıkattı.",
-      "Çocuk saçlarını taradı.",
-      "Asker kendini hazırlatıyor.",
-      "Ressam tablosunu çerçeveletti."
-     ],
-     "dogru": 3,
-     "aciklama": "'Hazırlatıyor' fiili incelendiğinde 'hazırla-' eylemine önce dönüşlü çatı eki değil, ettirgen çatı eki '-t-' getirilmiştir; ancak asıl çözüm C şıkkındadır: 'kendini hazırlatıyor' ifadesinde özne (asker) işi hem kendine yaptırmakta (dönüşlü anlam) hem de başkasına yaptırmaktadır (ettirgen yapı). Dönüşlü çatıda özne işi kendine yapar, ettirgende ise başkasına yaptırır. Bu cümlede özne işi 'kendine' yönelik olarak 'bir başkasına yaptırtmakta', dolayısıyla her iki çatı özelliği semantik düzeyde iç içe geçmektedir.",
-     "zorluk": "zor"
-    },
-    {
-     "id": "40396",
-     "dersId": "turkce",
-     "konuId": "anlatim_bozukluklari",
-     "soru": "Aşağıdaki cümlelerin hangisinde 'ile' bağlacı (veya eki) yanlış kullanılmıştır?",
-     "secenekler": [
-      "Hızla koşarak eve geldi.",
-      "Kalemle yazdım.",
-      "Arkadaşımla sinemaya gittim.",
-      "Korkuyla titredi.",
-      "Annesiyle kardeşi aynı okulda okur."
+      "Özne; eylemi gerçekleştireni belirtir.",
+      "Nesne; eylemin üzerinde gerçekleştiği varlığı karşılar.",
+      "Yüklem; cümleye yargı katar.",
+      "Dolaylı tümleç; '-e' hâl ekiyle ilişkili anlam taşır.",
+      "Zarf tümleci; eylemin nasıl gerçekleştiğini belirtir."
      ],
      "dogru": 4,
-     "aciklama": "C şıkkında 'Annesiyle kardeşi aynı okulda okur.' cümlesinde belirsizlik ve yanlışlık vardır. 'Annesiyle' ifadesi 'annesi ile (birlikte)' ya da 'annesinin' anlamı taşıyabilir. Cümle şu iki biçimde anlaşılabilir: (1) 'Annesi ve kardeşi aynı okulda okur.' (2) 'Annesiyle birlikte kardeşi aynı okulda okur.' Bu belirsizliği gidermek için 'annesi ile kardeşi' ya da 'hem annesi hem de kardeşi' ifadesi kullanılmalıdır. '-ile' eki burada birliktelik mi yoksa ortaklık mı bildirdiği anlaşılamamaktadır.",
+     "aciklama": "'Dinlemeksizin' sözcüğü '-meksizin' zarf-fiil (ulaç) ekiyle türetilmiştir. Bu ek, eylemin gerçekleşme biçimini, koşulunu ya da olumsuz durumunu belirtir; dolayısıyla 'açıkladı' eylemine bağlanır ve zarf tümleci işlevi görür. 'Nasıl açıkladı?' sorusuna 'dinlemeksizin' yanıtı verilir. Zarf-fiil ekleriyle kurulan öbekler kural olarak zarf tümleci sayılır.",
+     "zorluk": "zor"
+    },
+    {
+     "id": "40332",
+     "dersId": "turkce",
+     "konuId": "fiil_catisi",
+     "soru": "Türkçe dilbilgisinde 'oldurgan çatı' ve 'ettirgen çatı' ayrımı tartışmalıdır. Aşağıdaki seçeneklerin hangisinde bu ayrım en net biçimde gözlemlenir?",
+     "secenekler": [
+      "'Öğrenci sınavı geçti.' ile 'Hoca sınavı geçirdi.'",
+      "'Adam uyudu.' ile 'Hemşire hastayı uyuttu.'",
+      "'Annesi çocuğu uyuttu.' ile 'Müdür raporu yazdırdı.'",
+      "'Çocuk güldü.' ile 'Komedyen izleyiciyi güldürdü.'",
+      "'Kuş uçtu.' ile 'Çocuk uçurtmayı uçurdu.'"
+     ],
+     "dogru": 2,
+     "aciklama": "Ayrımın görülebilmesi için bir oldurgan (geçişsiz uyu- > uyut-) ile bir ettirgen (geçişli yaz- > yazdır-) örneğin yan yana bulunması gerekir; bu yalnızca C'de vardır, D'de iki taraf da oldurgandır. Doğru cevap 'Annesi çocuğu uyuttu.' ile 'Müdür raporu yazdırdı.' şeklindedir.",
+     "zorluk": "zor"
+    },
+    {
+     "id": "40377",
+     "dersId": "turkce",
+     "konuId": "anlatim_bozukluklari",
+     "soru": "Aşağıdaki cümlelerin hangisinde birden fazla anlama gelen (yapısal belirsizlik) bir kullanım vardır?",
+     "secenekler": [
+      "Kitabı masanın üzerine bıraktı.",
+      "Ahmet okula gitti.",
+      "Çiçekleri suladı ve eve girdi.",
+      "Güzel kızın annesi geldi.",
+      "Hava çok soğuktu."
+     ],
+     "dogru": 3,
+     "aciklama": "'Güzel kızın annesi geldi.' cümlesi yapısal belirsizlik taşır. Bu cümle 'güzel olan kızın annesi' ya da 'kızı güzel olan anne' biçiminde iki farklı anlama gelebilir. 'Güzel' sıfatı hem 'kız'ı hem 'anne'yi niteliyor olabileceğinden belirsizlik oluşur ve bu durum anlatım bozukluğuna yol açar.",
      "zorluk": "kolay"
     },
     {
@@ -1704,19 +1704,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "34209",
+     "id": "34200",
      "dersId": "vatandaslik",
      "konuId": "temel_haklar",
-     "soru": "Bireysel başvuru yolunun kabul edilebilirlik koşulları bakımından aşağıdaki ifadelerden hangisi yanlıştır?",
+     "soru": "Türkiye'nin taraf olduğu Avrupa İnsan Hakları Sözleşmesi ile 1982 Anayasası arasında temel hak güvencesi bakımından çatışma olduğunda, 2004 yılında yapılan Anayasa değişikliğinin (m.90/5) yarattığı sonuç aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Bireysel başvuruda süre, ihlale ilişkin nihai kararın tebliğinden itibaren altmış gündür.",
-      "Anayasa Mahkemesi'ne bireysel başvuru yolu, 2010 anayasa değişikliklerinin ardından 23 Eylül 2012 tarihinde işlemeye başlamıştır.",
-      "Başvurucunun ihlal nedeniyle güncel ve kişisel bir mağduriyetinin bulunması gerekir.",
-      "Olağan kanun yollarının tüketilmesi zorunludur; aksi hâlde başvuru kabul edilemez bulunur.",
-      "Bireysel başvuruda önem kriteri bulunmadığından her başvurunun esastan incelenmesi zorunludur."
+      "Her iki norm çatışırsa Anayasa hükmü her koşulda uygulanır.",
+      "Söz konusu anayasa değişikliği yalnızca AİHM kararlarını değil, Türkiye'nin taraf olduğu tüm uluslararası antlaşmaları anayasal statüye taşımıştır. Bu statü kanunların da üzerindedir.",
+      "Çatışma hâlinde uygulama önceliği ulusal kanuna tanınmıştır.",
+      "Temel haklara ilişkin usulünce yürürlüğe girmiş AİHM içtihadı doğrudan anayasal metin hükmündedir.",
+      "Temel haklara ilişkin usulünce yürürlüğe girmiş milletlerarası antlaşmalar kanunların üzerinde yer alır ve Anayasa'ya aykırılıkları öne sürülerek iptal davası açılamaz."
      ],
      "dogru": 4,
-     "aciklama": "6216 sayılı Kanun'un 48. maddesi uyarınca AYM, bireysel başvuruların açıkça dayanaktan yoksun olanlarını ya da anayasal açıdan önem taşımayanları kabul edilemez bulabilir. Dolayısıyla her başvurunun esastan incelenmesi zorunlu değildir; önem kriteri (açıkça dayanaktan yoksun olma, kabul edilemezlik) mevcuttur. E şıkkı bu nedenle yanlıştır. Diğer şıklar usul hukukuna uygun bilgiler içermektedir.",
+     "aciklama": "Anayasa'nın 90. maddesinin 2004'te değiştirilen son fıkrası iki sonuç doğurur. Usulüne göre yürürlüğe konulmuş milletlerarası antlaşmalar kanun hükmündedir ve bunlar hakkında Anayasa'ya aykırılık iddiasıyla Anayasa Mahkemesi'ne başvurulamaz. Temel hak ve özgürlüklere ilişkin antlaşmalarla kanunların aynı konuda farklı hükümler içermesi hâlinde ise antlaşma hükümleri esas alınır. Böylece temel hak antlaşmaları kanunların üzerinde bir konum kazanır. Anayasa'nın üzerine çıkmış değildir. \"Her iki norm çatışırsa Anayasa hükmü her koşulda uygulanır.\" ifadesi yanlıştır, çünkü değişiklik antlaşmalara uygulama önceliği tanımıştır. \"Çatışma hâlinde uygulama önceliği ulusal kanuna tanınmıştır.\" ifadesi de değişikliğin tam tersidir. Doğru cevap \"Temel haklara ilişkin usulünce yürürlüğe girmiş milletlerarası antlaşmalar kanunların üzerinde yer alır\" seçeneğidir.",
      "zorluk": "zor"
     },
     {

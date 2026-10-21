@@ -2448,22 +2448,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "200155",
-  "dersId": "egitimbilimleri",
-  "konuId": "ogrenme_kuramlari",
-  "soru": "Gagne'nin öğrenme koşulları kuramında 'kavram öğrenme' basamağının gerçekleşmesi için aşağıdakilerden hangisi önkoşuldur?",
-  "secenekler": [
-   "İlke öğrenme",
-   "Sözel bilgi",
-   "Zincirleme",
-   "Uyarıcı-tepki öğrenme (edimsel koşullanma)",
-   "Problem çözme"
-  ],
-  "dogru": 3,
-  "aciklama": "Gagne, öğrenme türlerini hiyerarşik bir sıra içinde düzenlemiştir: (1) Sinyal öğrenme, (2) Uyarıcı-tepki öğrenme, (3) Zincirleme, (4) Sözel zincirleme, (5) Ayrım yapma, (6) Kavram öğrenme, (7) İlke öğrenme, (8) Problem çözme. Bu hiyerarşiye göre kavram öğrenme (6. düzey), ayrım yapma (5. düzey) üzerine inşa edilir ve onun önkoşuludur; ancak soruda verilen seçenekler içinden uyarıcı-tepki öğrenme kavram öğrenmenin altında yer alır. Dikkat: Doğrudan önkoşul 'ayrım yapma'dır fakat seçeneklerde yoktur; hiyerarşinin altında yer alan ve kavramdan önce gelen seçenek 'uyarıcı-tepki öğrenme'dir (D).",
-  "zorluk": "orta"
- },
- {
   "id": "200156",
   "dersId": "egitimbilimleri",
   "konuId": "ogrenme_kuramlari",
@@ -4736,22 +4720,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "200299",
-  "dersId": "egitimbilimleri",
-  "konuId": "bilissel_ogrenme",
-  "soru": "Bloom taksonomisinin orijinal (1956) ve revize edilmiş (Anderson ve Krathwohl, 2001) versiyonları karşılaştırıldığında, aşağıdaki ifadelerden hangisi yanlıştır?",
-  "secenekler": [
-   "Orijinal taksonomide en üst basamak olan sentez, revize versiyonda 'yaratma' adını almış ve hiyerarşinin en üstünde kalmıştır",
-   "Revize taksonomide analiz, uygulama ve kavrama basamakları muhafaza edilmiş; ancak kavrama 'anlama' olarak yeniden adlandırılmıştır",
-   "Revize taksonomide bilgi boyutu dört alt kategoriye ayrılmış ve prosedürel bilgi ile üstbilişsel bilgi ayrı kategoriler olarak eklenmiştir",
-   "Revize taksonomide bilişsel süreç boyutu isim yerine fiil formlarıyla ifade edilmiş; 'bilgi' basamağı 'hatırlama' olarak yeniden adlandırılmıştır",
-   "Revize taksonomide 'değerlendirme' basamağı hiyerarşide sentezin/yaratmanın üstüne taşınmış ve en üst düzey olarak konumlandırılmıştır"
-  ],
-  "dogru": 4,
-  "aciklama": "Anderson ve Krathwohl'un 2001 tarihli revize taksonomisinde en kritik yapısal değişikliklerden biri, orijinal taksonomide beşinci sırada yer alan 'sentez' ile altıncı sırada yer alan 'değerlendirme' basamaklarının yer değiştirmesidir. Revize versiyonda değerlendirme (evaluate) beşinci basamakta kalırken, sentezin karşılığı olan 'yaratma' (create) en üst basamağa — altıncı sıraya — taşınmıştır. D şıkkı ise 'değerlendirme'nin en üst düzeye taşındığını ileri sürmektedir; bu yanlıştır. Diğer seçenekler doğrudur: A'da prosedürel ve üstbilişsel bilgi eklenmesi, B'de sentezin yaratmaya dönüşmesi (ancak en üstte yer alması), C'de fiil formları ve 'hatırlama' adlandırması, E'de analiz ve kavrama-anlama korunumu doğrudur.",
-  "zorluk": "zor"
- },
- {
   "id": "200300",
   "dersId": "egitimbilimleri",
   "konuId": "bilissel_ogrenme",
@@ -4957,22 +4925,6 @@
   ],
   "dogru": 2,
   "aciklama": "Miller'ın 7±2 ilkesi ve Baddeley'in modeli çalışma belleğinin sınırlı olduğunu vurgular. Bilişsel yük kuramı da bu nedenle gereksiz yükün azaltılmasını öngörür. Yeni bir konuda aynı anda birden fazla karmaşık görev vermek ve dikkati farklı kaynaklara bölmek, sınırlı kapasiteyi aşırı yükler ve dikkat bölünmesi (split-attention) etkisi yaratır. Bu strateji kuramla en az uyumlu olandır. \"Sözel açıklama ile görsel materyali eş zamanlı sunarak fonolojik döngü ve görsel-uzaysal alan kaynaklarını birlikte kullanmak\" uyumludur, çünkü iki kanalın ayrı kapasitesinden yararlanır (kip etkisi). \"Karmaşık bir konuyu öğretirken içeriği anlamlı bütünlere (chunk) bölerek sunmak\" ise kapasite sınırını gözeten temel bir stratejidir. Doğru cevap \"Yeni bir konuyu öğretirken aynı anda birden fazla karmaşık görevi öğrencilere yaptırmak\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "200313",
-  "dersId": "egitimbilimleri",
-  "konuId": "bilissel_ogrenme",
-  "soru": "Gagne'nin öğrenme koşulları kuramında 'entelektüel beceriler' (intellectual skills) hiyerarşik olarak sıralanmıştır. Bu hiyerarşide aşağıdaki öğrenme çıktılarından hangisi en üst düzeyde yer almakta ve diğerlerinin ön koşul öğrenmesi niteliğini taşımaktadır?",
-  "secenekler": [
-   "Uyarıcı-tepki öğrenmesi (signal learning): Belirli bir uyarıcıya koşullu tepki gösterebilme ve bunu sürdürebilme",
-   "Problem çözme (problem solving): İlkeleri yeni durumlara uygulayarak üst düzey kurallar geliştirme",
-   "Kavram öğrenmesi (concept learning): Nesneleri sınıflara ayırma",
-   "İlke öğrenmesi (rule learning): İki ya da daha fazla kavram arasında ilişki kurabilme",
-   "Zincirleme (chaining): Motor veya sözel davranış dizisi oluşturma"
-  ],
-  "dogru": 1,
-  "aciklama": "Gagne'nin öğrenme hiyerarşisinde problem çözme (problem solving) en üst düzeyde yer alır. Bu düzeyde öğrenci, daha önce öğrendiği ilkeleri birleştirerek yeni ve daha karmaşık durumları çözen üst düzey kurallar (higher-order rules) üretir. Hiyerarşi şu sırayla ilerler: Sinyal öğrenmesi → U-T öğrenmesi → Zincirleme → Sözel birleşim → Ayırt etme → Kavram öğrenmesi → İlke öğrenmesi → Problem çözme. Bu sıralamada problem çözme, ilke öğreniminin üzerinde konumlanır ve tüm alt düzeyleri ön koşul olarak gerektirir. D seçeneği bu tanıma tam olarak uymaktadır.",
   "zorluk": "zor"
  },
  {
@@ -6763,8 +6715,8 @@
    "Dışsal – Değişken – Kontrol edilemez",
    "Dışsal – Değişken – Kontrol edilebilir"
   ],
-  "dogru": 3,
-  "aciklama": "Hastalık dışsal bir faktördür (öğrencinin dışında). 'Nadir başıma gelen' ifadesi durumun değişken (unstable) olduğunu, yani her zaman tekrarlanmayacağını göstermektedir. Hastalık kişinin o an için kontrolünde değildir; bu nedenle kontrol edilemez olarak nitelendirilir. Doğru kombinasyon: Dışsal – Değişken – Kontrol edilemez (C).",
+  "dogru": 1,
+  "aciklama": "Weiner'ın sınıflamasında hastalık, kişinin kendi bedeninden ve durumundan kaynaklandığı için içsel bir neden sayılır. Öğrenci bu durumun nadiren başına geldiğini belirtiyor; bu, nedenin zaman içinde değiştiğini, yani değişken olduğunu gösterir. Hastalığa iradeyle engel olunamadığından neden kontrol edilemez kabul edilir. \"Dışsal – Değişken – Kontrol edilemez\" seçeneği yanlıştır. Bu örüntü şans ya da beklenmedik çevresel engeller gibi kişinin dışında kalan nedenlere karşılık gelir. Hastalık ise dış dünyadan değil kişinin kendisinden kaynaklanır. \"İçsel – Kararlı – Kontrol edilemez\" seçeneği ise yetenek gibi süreklilik gösteren nedenleri tanımlar. Oysa öğrenci durumun nadir yaşandığını açıkça vurgulamaktadır. Doğru cevap \"İçsel – Değişken – Kontrol edilemez\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -6813,22 +6765,6 @@
   ],
   "dogru": 3,
   "aciklama": "2x2 hedef yönelimi modelinde performans hedefleri başkalarına göre yeterlik göstermeye odaklanır. Bunun kaçınma boyutunda amaç, başkalarının gözünde yetersiz görünmekten kaçınmaktır. Sınıfta aptal görünmemek için zor sorulara el kaldırmayan öğrenci, sosyal karşılaştırmada olumsuz görünmekten kaçındığı için bu hedefi temsil eder. \"Öğrenci, yeni öğrendiği konuda hata yapmaktan kaçınmak için tekrar yapmaktadır.\" seçeneği yanlıştır; ölçüt başkaları değil kişinin kendi öğrenmesi olduğundan bu ustalık-kaçınma hedefidir. \"Öğrenci, sınıfta en yüksek notu almak için yoğun çalışmaktadır.\" seçeneği de yanlıştır; başkalarından üstün olmaya yaklaşmak performans-yaklaşma hedefidir. Doğru cevap \"Öğrenci, sınıfta aptal görünmemek için zor sorulara el kaldırmaktan kaçınmaktadır.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "200431",
-  "dersId": "egitimbilimleri",
-  "konuId": "gudulenme",
-  "soru": "Csikszentmihalyi'nin Akış (Flow) Kuramı'na göre akış deneyimi, zorluk düzeyi ile beceri düzeyinin dengede olduğu optimal bir bölgede ortaya çıkar. Aşağıdaki senaryolardan hangisinde akış deneyiminin ortaya çıkması en az olasıdır ve bu durumun teorik karşılığı nedir?",
-  "secenekler": [
-   "Orta beceri – Orta zorluk: Kontrol bölgesi",
-   "Düşük beceri – Düşük zorluk: Kayıtsızlık (apati) bölgesi",
-   "Yüksek beceri – Yüksek zorluk: Kaygı bölgesi",
-   "Düşük beceri – Yüksek zorluk: Kaygı (anxiety) bölgesi",
-   "Yüksek beceri – Düşük zorluk: Sıkıntı (boredom) bölgesi"
-  ],
-  "dogru": 3,
-  "aciklama": "Csikszentmihalyi'nin modelinde zorluk yüksek, beceri düşük olduğunda birey bunaltıcı bir kaygı yaşar ve akış deneyimi en uzak noktadadır. D seçeneği bu durumu doğru etiketlemektedir. A seçeneği yanlıştır; yüksek beceri-yüksek zorluk akışın tam kendisidir. Yüksek beceri-düşük zorluk sıkıntıya (C), düşük beceri-düşük zorluk kayıtsızlığa (B) yol açar. Akışın en uzak olduğu bölge kaygı bölgesidir (D).",
   "zorluk": "zor"
  },
  {
@@ -7884,7 +7820,7 @@
    "Hayatilik ilkesi, içeriğin yalnızca güncel ve gerçek yaşamla bağlantılı olmasıyla değil, öğrencinin ihtiyaçlarıyla örtüşmesiyle de ilgilidir."
   ],
   "dogru": 3,
-  "aciklama": "D şıkkı yanlış bir ifadedir çünkü bireysel farklılıklara göre öğretim ilkesi; tam tersine öğrencilerin farklı öğrenme hızlarını, stillerini ve hazırbulunuşluk düzeylerini dikkate alarak öğretim ve değerlendirmenin çeşitlendirilmesini öngörür. Tüm öğrencilere tek tip değerlendirme uygulamak bu ilkenin açık bir ihlalidir. Diğer şıklar doğru ifadeler içermektedir: A (evrensellik), B (iki ilkenin ayrı boyutlarda olması), C (somuttan soyuta ilkesinin her yaş grubuna uygulanabilirliği) ve E (hayatilik ilkesinin kapsamı) doğru bilgilerdir.",
+  "aciklama": "Bireysel farklılıklara göre öğretim ilkesi, öğrencilerin hazırbulunuşluk, ilgi, öğrenme hızı ve öğrenme stillerindeki farklılıkların dikkate alınmasını gerektirir. Bu nedenle öğretim de değerlendirme de çeşitlendirilmelidir. Herkesin aynı yöntemle değerlendirilmesinin zorunlu olduğunu söylemek ilkenin özüyle doğrudan çelişir ve açıkça yanlıştır. İtiraz edilen \"Öğretim ilkeleri evrenseldir; dolayısıyla her konu ve sınıf düzeyinde tutarlı biçimde uygulanabilir.\" ifadesi ise alanyazında yaygın kabul gören görüşü yansıtır. Öğretim ilkeleri genel geçer yol göstericilerdir ve öğretmenin uyarlamasıyla her derste ve her düzeyde kullanılabilir. Buradaki \"uygulanabilir\" sözcüğü bağlama göre esnekliği dışlamaz. \"Somuttan soyuta ilkesi yalnızca ilkokul düzeyinde değil, her yaş grubunda uygulanabilir.\" ifadesi de doğrudur, çünkü yetişkinler de yeni ve soyut konularda somut örneklerden yararlanır. Doğru cevap \"Bireysel farklılıklara göre öğretim ilkesi, tüm öğrencilerin aynı yöntemle değerlendirilmesini zorunlu kılar.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -8125,22 +8061,6 @@
   ],
   "dogru": 0,
   "aciklama": "Öğretmen, öğrencilerin önceden bildikleri bir deneyimi (borç-alacak) yeni kavrama (tam sayılar) köprü olarak kullanmaktadır. Bu doğrudan 'bilinenden bilinmeyene' ilkesinin uygulamasıdır. Somuttan soyuta ilkesi de akla gelebilir; ancak buradaki asıl vurgu öğrencinin mevcut bilgi birikiminin hareket noktası yapılmasıdır, dolayısıyla en doğru seçenek B'dir.",
-  "zorluk": "orta"
- },
- {
-  "id": "200514",
-  "dersId": "egitimbilimleri",
-  "konuId": "ogretim_i_lkeleri",
-  "soru": "Aşağıdaki öğretim durumlarından hangisi 'kolaydan zora' ilkesinin yanlış uygulandığını göstermektedir?",
-  "secenekler": [
-   "Müzik dersinde önce notaların değerleri, sonra ritim kalıpları öğretilmesi",
-   "Beden eğitimi dersinde öğrencilere önce temel duruşların, ardından kombinasyon hareketlerin öğretilmesi ve uygulatılması",
-   "Yabancı dil dersinde önce temel kalıpların, ardından bağlaç içeren karmaşık cümlelerin çalışılması",
-   "Öğrencilere önce tek basamaklı, sonra iki basamaklı toplama işlemleri öğretilmesi",
-   "Fen dersinde önce hücre organellerinin adları ezberlettirildikten sonra fotosentez denkleminin açıklanması"
-  ],
-  "dogru": 4,
-  "aciklama": "C seçeneğinde öğrenciler önce organellerin adını ezberlemekte, ardından fotosentez gibi ilişkisel ve karmaşık bir süreç açıklanmaktadır. Organellerin adını bilmek, fotosentez denklemini anlamak için yeterli bir temel değildir; işlevsel anlama atlanmış, yüzeysel ezberden doğrudan karmaşık kavrama sıçranmıştır. Bu durum 'kolaydan zora' ilkesinin yanlış uygulanmasına örnektir. Diğer seçeneklerde basamaklama doğru biçimde yapılmıştır.",
   "zorluk": "orta"
  },
  {
@@ -8525,22 +8445,6 @@
   ],
   "dogru": 3,
   "aciklama": "Deci ve Ryan'ın Öz Belirleme Kuramı'na göre dışsal ödüllerin sürekli ve kontrolcü biçimde kullanımı, başlangıçta içsel motivasyonu olan öğrencilerin bile bu motivasyonunu aşındırır (overjustification effect). Öğretim ilkeleri açısından bu durum çift yönlü bir ihlal üretir: Birincisi, kalıcı öğrenme yalnızca derin işlemleme ile sağlanır ve içsel motivasyon bu süreci besler; dışsal ödüle bağımlı öğrenci ödül kalktığında öğrenmekten vazgeçer. İkincisi, öğrencinin kendi öğrenme sürecini düzenleyebilmesi (öz düzenleme), içsel güdülenmeyle doğrudan ilişkilidir. Bu iki ilkenin eş zamanlı ihlali, seçenekler arasında en kapsamlı ve derin çelişkiyi temsil eder.",
-  "zorluk": "zor"
- },
- {
-  "id": "200540",
-  "dersId": "egitimbilimleri",
-  "konuId": "ogretim_i_lkeleri",
-  "soru": "Bir ortaöğretim öğretmeni, 'öğretimde basamaklılık' ilkesi gereğince bir üniteyi şu sırayla planlamıştır: kavram öğretimi → ilke öğretimi → problem çözme → yaratıcı uygulama. Ancak öğrencilerin ön değerlendirme sonuçları, sınıfın %60'ının kavramsal bilgiye sahip olduğunu, %30'unun ilke düzeyinde de yetkin olduğunu ortaya koymuştur. Bu durumda öğretmenin yapması gereken en doğru uygulama hangisidir ve bu uygulama hangi ilkeye dayanmaktadır?",
-  "secenekler": [
-   "%60 için kavram, %30 için ilke aşamasından, %10 için problem çözme aşamasından başlayan farklılaştırılmış bir plan hazırlamalı; 'bireysel farklılıklar' ve 'hazırbulunuşluk' ilkelerine dayanmalıdır.",
-   "Ön değerlendirme sonuçlarını tümüyle göz ardı etmeli; 'standart müfredat' ilkesi bütün öğrenciler için aynı başlangıç noktasını zorunlu kılmaktadır. Bu nedenle sınıf tek bir plana göre ilerlemelidir.",
-   "En yüksek düzeyden (yaratıcı uygulama) başlamalı, 'bütünden parçaya' ilkesi gereği önce son hedef gösterilmelidir.",
-   "Tüm sınıfı en düşük düzeyden başlatmalı; 'basamaklılık' ilkesi bütün öğrencilerin aynı sırayı izlemesini zorunlu kılmaktadır.",
-   "Tüm sınıf için planı değiştirmemeli, basamaklılık ilkesi sınıfın geneli için belirlenmiştir."
-  ],
-  "dogru": 0,
-  "aciklama": "Basamaklılık ilkesi, bilgilerin belirli bir hiyerarşik sırayla sunulmasını öngörür; ancak bu ilke, öğrencilerin zaten bildikleri basamaklardan başlatılmaları gerektiği anlamına gelmez. 'Hazırbulunuşluk' ilkesi, her öğrencinin kendi bilişsel hazırlık düzeyinden başlayarak öğrenmeye devam etmesini gerektirir. 'Bireysel farklılıklar' ilkesi ise farklı düzeylerdeki öğrenciler için farklılaştırılmış öğretim planlamasını zorunlu kılar. Bu iki ilkenin sentezi, öğretmenin her alt grup için farklı başlangıç noktaları belirlemesini gerektirir. B şıkkı bu dengeyi en doğru biçimde yansıtmakta; basamaklılık ilkesini bireysel farklılıklar ve hazırbulunuşluk ilkeleriyle bütünleştirmektedir.",
   "zorluk": "zor"
  },
  {
@@ -11883,8 +11787,8 @@
    "İşbirlikli öğrenme daha çok yükseköğretim kademesine yönelikken kubaşık öğrenme ilköğretim kademesine yönelik olarak tasarlanmıştır ve bu ayrım öğrencilerin yaş düzeyine dayandırılmıştır",
    "Kubaşık öğrenmede öğretmen sınıfın dışında kalırken işbirlikli öğrenmede aktif rol oynar"
   ],
-  "dogru": 1,
-  "aciklama": "Johnson & Johnson'ın tanımladığı kubaşık (cooperative) öğrenmenin beş temel unsuru vardır: olumlu karşılıklı bağımlılık, yüz yüze destekleyici etkileşim, bireysel hesap verebilirlik, sosyal beceriler ve grup sürecinin değerlendirilmesi. Genel anlamda 'işbirlikli öğrenme' ise bu yapısal güvenceleri içermeyen, daha gevşek tanımlı grup çalışmalarını da kapsayabilir. Dolayısıyla yapısal zorunluluk ayrımı esastır. E şıkkı sık yapılan bir hatadır; iki kavram birbirinin yerine kullanılsa da akademik literatürde ayrı tanımları bulunmaktadır.",
+  "dogru": 0,
+  "aciklama": "Türk eğitim bilimleri alanyazınında ve KPSS kaynaklarında işbirlikli öğrenme ile kubaşık öğrenme aynı kavramın, yani İngilizcedeki cooperative learning yaklaşımının iki farklı Türkçe karşılığıdır. Olumlu bağımlılık, bireysel sorumluluk (hesap verebilirlik), yüz yüze etkileşim, sosyal beceriler ve grup sürecinin değerlendirilmesi bu yaklaşımın ortak temel öğeleri olarak sayılır. Bankadaki \"Kubaşık öğrenmede bireysel hesap verebilirlik ve olumlu bağımlılık yapısal olarak zorunludur; işbirlikli öğrenmede bu unsurlar sistematik biçimde kurgulanmaz\" ifadesi bu nedenle yanlıştır. Bu ifade, yabancı alanyazındaki cooperative ile collaborative ayrımını Türkçe terimlere hatalı biçimde aktarır. \"İşbirlikli öğrenme daha çok yükseköğretim kademesine yönelikken...\" ifadesi de yanlıştır, çünkü yaklaşım her kademede kullanılır. Rol dağılımına ilişkin seçenek de iki terimin aynı uygulamayı anlattığı gerçeğiyle çelişir. Doğru cevap \"İkisi arasında kavramsal bir fark yoktur; terminoloji farkı yalnızca çeviri kaynaklıdır\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -14032,22 +13936,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "200884",
-  "dersId": "egitimbilimleri",
-  "konuId": "ogretim_teknolojileri",
-  "soru": "Bir araştırmacı, beş farklı öğretim yönteminin etkililiğini karşılaştıran meta-analitik bir çalışma yürütmektedir. Hattie'nin Görünür Öğrenme (Visible Learning) meta-analizinden elde edilen etki büyüklükleri (d değerleri) ile yorumları bağlamında aşağıdaki ifadelerden hangisi hem teorik hem de uygulama açısından hatalıdır?",
-  "secenekler": [
-   "d = 0.40 eşik değeri, 'menteş noktası' (hinge point) olarak kabul edilmekte ve bu değerin üzerindeki etkilerin öğrencinin gelişim hızını önemli ölçüde artırdığına işaret etmektedir.",
-   "Hattie'nin meta-analizine göre ödev verme (homework) uygulaması, ilkokul düzeyinde de lise düzeyiyle benzer düzeyde yüksek etki büyüklüğüne sahiptir.",
-   "Spaced practice (aralıklı tekrar) ve formativ değerlendirme gibi uygulamalar, d değeri açısından doğrudan öğretim yöntemlerinden çoğunlukla daha düşük etki büyüklüğü sergilemektedir.",
-   "Etki büyüklüğü yüksek olan bir yöntemin sınıf ortamına doğrudan aktarılması, bağlam-uygulama uyumluluğu gözetilmediğinde beklenen sonucu vermeyebilir.",
-   "Hattie'nin meta-analizini eleştiren araştırmacılar, farklı kalitedeki çalışmaların tek bir d değerinde birleştirilmesinin metodolojik sorunlar doğurabileceğini öne sürmektedir."
-  ],
-  "dogru": 1,
-  "aciklama": "Hattie'nin Visible Learning meta-analizinde ödev verme (homework) konusunda kritik bir bulgular vardır: İlkokul düzeyinde ödevin etki büyüklüğü düşük (d ≈ 0.15) iken lise düzeyinde anlamlı biçimde daha yüksektir (d ≈ 0.55-0.64). Dolayısıyla E seçeneğindeki 'ilkokul düzeyinde de lise düzeyiyle benzer yüksek etki' ifadesi yanlıştır. Bu ayrım, ödevin etkililiğinin yaş ve gelişim düzeyine göre değiştiğini ve küçük çocuklar için ek ev çalışmasının anlamlı akademik kazanım sağlamadığını ortaya koymaktadır. Diğer seçeneklerin tamamı Hattie'nin çalışmasıyla ve eleştirilerle tutarlıdır.",
-  "zorluk": "zor"
- },
- {
   "id": "200885",
   "dersId": "egitimbilimleri",
   "konuId": "program_temelleri",
@@ -15485,22 +15373,6 @@
   ],
   "dogru": 3,
   "aciklama": "Saylor-Alexander modeli 'öğrenme fırsatları planı' metaforunu kullanır ve dört temel işlev (amaçlar, program tasarımı, uygulama, değerlendirme) içerir; üç değil. Diğer eşleştirmeler doğrudur: Taba tümevarımsal olup öğretmen pilot çalışmalarıyla başlar; Tyler dört temel soruyla rasyonel-doğrusal yapı sunar; Oliva 12 bileşenlidir; CIPP (Bağlam-Girdi-Süreç-Ürün) Stufflebeam'e aittir ve karar odaklı program değerlendirmesi modelidir, salt süreç değil tüm aşamaları kapsar. Ancak IV. maddedeki 'üç temel işlev' ifadesi hatalıdır; doğrusu dört işlevdir.",
-  "zorluk": "zor"
- },
- {
-  "id": "200976",
-  "dersId": "egitimbilimleri",
-  "konuId": "program_temelleri",
-  "soru": "Bir eğitim araştırmacısı, uygulanan programın öğrencilerin eleştirel düşünme becerilerini geliştirmediğini tespit etmiştir. Ancak yazılı programda eleştirel düşünme açıkça hedef olarak yer almaktadır. Bu durum hangi program türleri arasındaki boşluğu en iyi açıklamaktadır?",
-  "secenekler": [
-   "Öğretilen program ile öğrenilen program arasındaki boşluk",
-   "Yazılı program ile öğretilen program arasındaki boşluk",
-   "Desteklenen program ile öğrenilen program arasındaki boşluk",
-   "Resmi program ile test edilen program arasındaki boşluk",
-   "Resmi program ile örtük program arasındaki boşluk"
-  ],
-  "dogru": 0,
-  "aciklama": "Goodlad'ın program düzeyleri bağlamında değerlendirildiğinde: Yazılı/resmi programda (ideal ve resmi program) eleştirel düşünme hedefi mevcuttur; bu hedefe uygun olarak öğretmen de sınıfta bu becerileri geliştirmeye yönelik etkinlikler yapmış olabilir (öğretilen program). Ancak öğrencilerin bu beceriyi kazanmadığı tespit edilmiştir. Sorun öğrencinin program çıktısında, yani 'öğrenilen program' düzeyindedir. Öğretilen ve öğrenilen program arasındaki bu boşluk; öğrenme stillerindeki farklılıklar, değerlendirme yöntemleri veya öğrencilerin bilişsel hazırbulunuşluklarıyla ilgili olabilir. B şıkkındaki yazılı-öğretilen boşluk olsaydı öğretmenin hedefi hiç uygulamaması gerekirdi.",
   "zorluk": "zor"
  },
  {
@@ -21440,22 +21312,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "201349",
-  "dersId": "egitimbilimleri",
-  "konuId": "olcme_turleri",
-  "soru": "Bir eğitim araştırmacısı, öğrencilerin matematik başarısını ölçmek için önce yazılı sınav, ardından sözlü müzakere ve son olarak öz değerlendirme formu uygulamıştır. Araştırmacının bu süreçte uyguladığı ölçme türlerini sırasıyla doğru biçimde sınıflandıran seçenek hangisidir?",
-  "secenekler": [
-   "Doğrudan – Dolaylı – Temel",
-   "Dolaylı – Doğrudan – Dolaylı",
-   "Objektif – Subjektif – Bağıl",
-   "Doğrudan – Doğrudan – Dolaylı",
-   "Temel – Türetilmiş – Dolaylı"
-  ],
-  "dogru": 3,
-  "aciklama": "Yazılı sınav, gözlenebilir ürüne doğrudan ulaşıldığı için doğrudan ölçmedir. Sözlü müzakere de performans doğrudan gözlemlendiği için doğrudan ölçme kapsamındadır. Öz değerlendirme formu ise bireyin kendi performansına ilişkin algısını ölçer; gerçek başarıya doğrudan ulaşılmaz, aksine başka bir değişken (öz algı) aracılık eder; bu nedenle dolaylı ölçmedir. Sıralama C şıkkında verilmiştir: Doğrudan – Doğrudan – Dolaylı.",
-  "zorluk": "zor"
- },
- {
   "id": "201350",
   "dersId": "egitimbilimleri",
   "konuId": "olcme_turleri",
@@ -21500,7 +21356,7 @@
    "Sınav kaygısının anket aracılığıyla ölçülmesini dolaylı ölçme olarak saymak. Bu ölçme biçimi dolaylıdır ve gösterge kullanılır."
   ],
   "dogru": 1,
-  "aciklama": "Dolaylı ölçme, ölçülmek istenen özelliğin başka bir değişken aracılığıyla gözlemlenmesidir (ör. tutumu davranışla ölçmek). Türetilmiş ölçme ise iki ya da daha fazla temel ölçümün matematiksel işlemle birleştirilmesidir (ör. yoğunluk = kütle/hacim). Termometre ile sıcaklık ölçümü, cıvanın genleşmesi gibi fiziksel bir aracı kullanır; bu dolaylı ölçmedir, türetilmiş ölçme değildir. E seçeneği bu iki kavramı yanlış biçimde eşitleyen örneği sunmaktadır.",
+  "aciklama": "Termometreyle sıcaklık ölçmek, sıcaklığın cıvanın genleşmesi gibi bir gösterge aracılığıyla belirlenmesi olduğundan dolaylı ölçmedir. Türetilmiş ölçme ise iki ya da daha fazla ölçümden bir formülle yeni bir büyüklük elde etmektir. Seçenekteki \"oysa bu aslında türetilmiş ölçmedir\" ifadesi, gösterge üzerinden yapılan dolaylı ölçmeyi türetilmiş ölçmeyle aynı şey sanan yanılgının ta kendisidir. Bu nedenle soru, yanlış anlamayı tam olarak bu seçenekte örneklemektedir. İtirazın yanlış bulduğu iddia, sorunun aradığı yanılgıdır. \"Yoğunluğun (kütle/hacim) ölçülmesini türetilmiş ölçme saymak\" doğru bir sınıflamadır, çünkü yoğunluk iki ölçümden hesaplanır. \"Tutumun davranış gözleminden elde edilmesini dolaylı ölçme saymak\" da doğrudur, çünkü tutum gözlenebilir davranışlar üzerinden ölçülür. Doğru cevap \"Bir bireyin sıcaklığının termometre ile ölçülmesini dolaylı ölçme saymak, oysa bu aslında türetilmiş ölçmedir.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -21676,7 +21532,7 @@
    "Bir cetvel kullanarak kitabın uzunluğunun ölçülmesi"
   ],
   "dogru": 3,
-  "aciklama": "Dolaylı ölçme, bir özelliğin doğrudan değil göstergeleri aracılığıyla ölçülmesidir (termometre ısı yoluyla sıcaklığı ölçer, sıcaklık doğrudan 'ateş'i temsil eder). Türetilmiş ölçme ise var olan ölçüm(ler)den yeni bir değişkenin hesaplanmasıdır (metabolik hızın ateşten tahmin edilmesi). C şıkkında hem termometrenin sıcaklık üzerinden vücut ısısını dolaylı ölçmesi (dolaylı ölçme) hem de bu ölçüm değerinden metabolik hızın türetilmesi (türetilmiş ölçme) söz konusudur. Diğer şıklarda iki özellik aynı anda tam olarak iç içe geçmemiştir: A doğrudan ölçmedir, B dolaylı ama türetilmiş değil, D dönüştürme işlemi standartlaştırmadır, E türetilmiş ancak dolaylı ölçme bileşeni baskın değildir.",
+  "aciklama": "Termometreyle ateş ölçmek dolaylı ölçmedir, çünkü sıcaklık cıvanın genleşmesi gibi bir gösterge üzerinden belirlenir. Ölçülen değerden metabolik hız gibi farklı ve yeni bir özelliğin hesaplanması da türetilmiş ölçmedir. Böylece iki ölçme türü bu seçenekte birlikte görülür. \"IQ testinden elde edilen ham puanların standart puana dönüştürülmesi ve zekâ düzeyinin sınıflandırılması\" seçeneğinde zekâ dolaylı ölçülür; ancak standart puana dönüştürme aynı ölçümün ölçek değiştirmesidir ve başka ölçümlerden yeni bir özellik türetmez. \"Öğrencilerin boy uzunluklarının ölçülüp beden kitle indeksinin hesaplanması\" seçeneğinde ise boy doğrudan ölçülür, yani dolaylı ölçme koşulu sağlanmaz. Doğru cevap \"Bir termometreyle ateş ölçülmesi ve ölçülen değerden hastanın metabolik hızının tahmin edilmesi\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -21853,22 +21709,6 @@
   ],
   "dogru": 0,
   "aciklama": "z=(85-70)/10=1,5 ve normal dağılımda z=1,5'in altındaki alan %93,3'tür (%91,9 z=1,4'e karşılık gelir). Doğru cevap z = 1,5; öğrenci yaklaşık %93,3'lük dilimde yer almaktadır şeklindedir.",
-  "zorluk": "zor"
- },
- {
-  "id": "201376",
-  "dersId": "egitimbilimleri",
-  "konuId": "olcme_turleri",
-  "soru": "Bir öğretmen, öğrencilerinin geometri başarısını ölçmek amacıyla hazırladığı testte her soruyu doğru cevaplayan öğrenciye 4 puan, yanlış cevaplayan öğrenciye -1 puan vereceğini açıklamaktadır. Bu testten Ali 60 puan, Veli 60 puan almıştır. Ali tüm soruları cevaplamış ve 20 soruyu doğru, 5 soruyu yanlış cevaplamışken; Veli yalnızca 20 soruyu cevaplamış ve tamamını doğru bilmiştir. Bu durum için aşağıdakilerden hangisi kesinlikle doğrudur?",
-  "secenekler": [
-   "Her iki öğrencinin ham puanları eşit olduğundan geometri başarıları da eşittir.",
-   "Düzeltme formülünün uygulanması her iki öğrencinin de puanını eşitleyeceğinden elde edilen sonuç hiç değişmeyecektir.",
-   "Veli'nin puanı şansa bağlı tahmin etkisinden arındırılmış olduğundan testin yapı geçerliği belirgin biçimde artmaktadır.",
-   "Düzeltme formülü kullanılmış olsa da puanlar aynı olacağından ölçme güvenilirdir. Bu nedenle iki öğrencinin puanları eşdeğer kabul edilmelidir ve ek bir çözümlemeye gerek yoktur.",
-   "Aynı ham puana sahip olmalarına karşın iki öğrencinin bilgi düzeyleri farklı olabilir; bu durum ölçmenin örtük varsayımlarından birinin ihlal edildiğini gösterir."
-  ],
-  "dogru": 4,
-  "aciklama": "Düzeltme formülü (D = D - Y/n-1) uygulandığında Ali'nin puanı 20 - 5/4 = 18,75; Veli'nin puanı ise 20 - 0 = 20 olur. Her ne kadar ham puanlar eşit görünse de bilgi düzeyleri farklıdır. Bu durum, klasik test teorisinin 'aynı puanın aynı yeteneği temsil etmesi' varsayımının ihlaliyle ilgilidir. Düzeltme formülü uygulanmadan eşit ham puanlar, farklı bilgi ve risk alma stratejilerini maskeleyebilir; bu da ölçmenin örtük eşitlik varsayımını zedeler. A ve E seçenekleri ham puanın tek başına yeterli olduğunu ima ettiğinden yanlıştır. D seçeneği geçerlik türünü yanlış kullanmaktadır.",
   "zorluk": "zor"
  },
  {
@@ -23227,8 +23067,8 @@
    "Test-tekrar test yöntemi dışsal değişkenlere karşı bağışık olduğundan elde edilen katsayı her koşulda geçerlidir.",
    "0.85 katsayısı gerçek güvenirliği olduğundan daha düşük göstermektedir, çünkü verilen eğitim kişiler arasındaki farkı azaltmıştır. Bu durum katsayıyı olduğundan küçük göstermektedir."
   ],
-  "dogru": 2,
-  "aciklama": "Test-tekrar test güvenirliğinde iki uygulama arasında geçen sürede bireylerin sistematik olarak değişmesi (burada eğitim programı) ciddi bir tehdit oluşturur. Eğitim tüm bireyleri benzer yönde değiştirdiğinde bireyler arası sıralama görece sabit kalabilir ve katsayı yapay olarak yüksek çıkabilir. Öte yandan bu durum aynı zamanda 'olgunlaşma' ve 'tarih' gibi iç geçerlik tehditlerini de barındırır. Asıl sorun, katsayının güvenirlikten çok 'eğitimin tutarlı etkisini' yansıtıyor olmasıdır; dolayısıyla C seçeneği en kapsamlı ve doğru yorumu sunmaktadır.",
+  "dogru": 4,
+  "aciklama": "Test-tekrar test yönteminde iki uygulama arasında öğrenmeye yol açan bir müdahale olursa bireylerin gerçek puanları değişir. Eğitim kişileri farklı ölçüde etkiler ve aralarındaki farkı daraltır. Bu durum puanlar arasındaki ilişkiyi zayıflatır, dolayısıyla elde edilen katsayı ölçeğin gerçek güvenirliğinin altında kalır. Ölçme kuramında da araya giren öğrenmenin bu katsayıyı düşürdüğü kabul edilir. \"0.85 katsayısı gerçek güvenirliği olduğundan yüksek göstermektedir...\" seçeneği yanlıştır: yapay yükselmeye hatırlama ve alışkanlık etkisi yol açar, gerçek değişim yaratan eğitim ise katsayıyı düşürür. \"Ölçeğin güvenirliği yeterince yüksektir, sonuçlar güvenle kullanılabilir.\" seçeneği de müdahalenin katsayıyı bozduğunu göz ardı eder. Doğru cevap \"0.85 katsayısı gerçek güvenirliği olduğundan daha düşük göstermektedir, çünkü verilen eğitim kişiler arasındaki farkı azaltmıştır. Bu durum katsayıyı olduğundan küçük göstermektedir.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -23323,8 +23163,8 @@
    "Güven aralığı 28 ± (1.96 × 3.2) = [21.73, 34.27] olarak hesaplanır.",
    "Bu güven aralığı 'gerçek puan bu aralıkta %95 olasılıkla yer almaktadır' şeklinde yorumlanmalıdır; gözlenen puanın dağılımıyla ilgili bir ifade değildir."
   ],
-  "dogru": 4,
-  "aciklama": "SEM temelli güven aralığının yorumu sık karıştırılan bir konudur. Klasik Test Kuramı'nda gerçek puan sabittir; olasılıksal olan gözlenen puandır. Bu nedenle doğru yorum şöyle olmalıdır: 'Aynı kişi bu testi çok sayıda kez alsaydı, gözlenen puanların %95'i bu aralıkta yer alırdı' ya da daha pragmatik yorumla 'gerçek puanın bu aralıkta bulunduğuna %95 güvenle inanabiliriz.' D seçeneğindeki 'gerçek puan bu aralıkta %95 olasılıkla yer almaktadır' ifadesi Bayesci bir çerçeve gerektirir ve Klasik Test Kuramı'nda teknik olarak hatalıdır; bu ifade sanki gerçek puan rastgele bir değişkenmiş gibi konumlandırılmaktadır. D seçeneği yanlış yorum sunmaktadır.",
+  "dogru": 0,
+  "aciklama": "SEM = SD√(1-rxx) formülüne göre standart sapma sabitken güvenirlik katsayısı arttığında SEM küçülür ve güven aralığı daralır. Bu yüzden güvenirliği artırmanın aralığı daraltmaya \"yeterli olmadığı\" iddiası hatalıdır. Bu seçenek yanlış adımdır. \"Güven aralığı 28 ± (1.96 × 3.2) = [21.73, 34.27] olarak hesaplanır.\" seçeneği doğrudur, çünkü 1.96×3.2=6.27 eder. Bankanın yanlış saydığı \"Bu güven aralığı 'gerçek puan bu aralıkta %95 olasılıkla yer almaktadır' şeklinde yorumlanmalıdır...\" seçeneği ise klasik test kuramında ve KPSS kaynaklarında standart kabul edilen yorumdur, bu nedenle hatalı adım sayılamaz. \"%95 güven aralığı için z = 1.96 kullanılmalıdır.\" seçeneği de doğrudur. Doğru cevap \"Güven aralığını daraltmak için testin güvenirlik katsayısını artırmak yeterli değildir; puan varyansının da göz önüne alınması gerekir, dolayısıyla SEM = SD√(1-rxx) formülünde her iki bileşen de rol oynar.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -23387,8 +23227,8 @@
    "Madde hem zor hem de iyi ayırt etmektedir; olduğu gibi kullanılmalıdır.",
    "r_pb = 0.55 mükemmel bir değer olduğundan p değeri önemsizdir."
   ],
-  "dogru": 2,
-  "aciklama": "Madde güçlüğü (p) ile ayırt edicilik (r_pb) arasında matematiksel bir bağımlılık vardır. Bir maddenin ulaşabileceği maksimum r_pb değeri, o maddenin p değeriyle sınırlıdır. p = 0.50 olan bir madde teorik olarak r_pb = 1.00'e ulaşabilirken p = 0.15 olan bir maddenin ulaşabileceği maksimum r_pb ≈ 0.55-0.60 düzeyindedir (p·(1-p) formülasyonu). Dolayısıyla p = 0.15 ile r_pb = 0.55 kombinasyonunda madde matematiksel tavanına yakın çalışıyor olabilir; ancak bu kadar zor bir madde tüm öğrenciler için bilgi sunmaz ve grup ortalaması üzerinde sınırlı etki yapar. C seçeneği bu psikometrik gerçeği doğru biçimde ifade etmektedir.",
+  "dogru": 3,
+  "aciklama": "Madde güçlük indeksi p = 0,15 olduğu için madde çok zordur. Klasik test kuramında ayırt edicilik indeksi 0,40 ve üzerindeyse madde çok iyi ayırt eder ve olduğu gibi teste alınabilir; r_pb = 0,55 bu ölçütü açıkça aşar. Uç p değerlerinde nokta çift serili korelasyonun ulaşabileceği üst sınır düşer. p = 0,15 için bu sınır yaklaşık 0,65'tir. Bu nedenle 0,55 değeri yanıltıcı değildir; tersine madde, güçlüğüne göre ulaşılabilecek ayırt ediciliğe çok yaklaşmıştır. \"p = 0.15 maddenin çok zor olduğunu gösterir; bu güçlük düzeyinde r_pb teorik maksimumunun altında olduğundan...\" seçeneği bu ilişkiyi ters yorumladığı için yanlıştır. \"Güçlük ve ayırt edicilik değerleri birbiriyle çelişmektedir; bu nedenle madde testten çıkarılmalıdır.\" seçeneği de yanlıştır, çünkü zor bir madde de yüksek ayırt edicilik gösterebilir. Doğru cevap \"Madde hem zor hem de iyi ayırt etmektedir; olduğu gibi kullanılmalıdır.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -23868,23 +23708,7 @@
    "'a' parametresi (ayırt edicilik): Madde karakteristik eğrisinin (MCE) eğimini belirler; yüksek 'a' değeri maddenin geniş bir yetenek aralığında eşit biçimde ayırt ettiğini gösterir."
   ],
   "dogru": 2,
-  "aciklama": "3PL modelde 'b' (güçlük) parametresi, doğru yanıt olasılığının (1+c)/2 değerine karşılık geldiği θ (yetenek) düzeyi olarak tanımlanır. Bu tanım tam olarak E seçeneğinde ifade edilmektedir: 'b', şans düzeyi (c) ile maksimum olasılık (1,0) arasındaki olasılık aralığının tam orta noktasına karşılık gelen yetenektir; yani P(θ=b) = (1+c)/2. A yanlıştır; yüksek 'a' değeri dar bir yetenek bandında keskin biçimde ayırt ettiğini gösterir, geniş aralıkta eşit değil. B kısmen doğru olmakla birlikte tanımı eksik ya da yanlış biçimde sunmaktadır. C yanlıştır; 'c' parametresinin 1/k'ya eşit olması teorik beklenti değildir; 'c' gerçek şans davranışını yansıtır ve sapma her zaman 'kusur' değildir. D kısmen doğru gözükse de 'çıkarılmasını gerektirmez' ifadesi savunulabilir olmakla birlikte madde bütünüyle tartışmalıdır; negatif 'a' her zaman testten çıkarma gerektirmez, ancak inceleme zorunludur. E en doğru ve teknik olarak eksiksiz ifadedir.",
-  "zorluk": "zor"
- },
- {
-  "id": "201507",
-  "dersId": "egitimbilimleri",
-  "konuId": "guvenirlik_gecerlik",
-  "soru": "Aşağıdaki durumların hangisinde yüksek güvenirlik düşük geçerliği garanti etmektedir?",
-  "secenekler": [
-   "Bir sınav, her yıl aynı soruları kullanarak test-tekrar test güvenirliği yüksek tutuyorsa, müfredattaki değişimleri yansıtamadığından kapsam geçerliği düşer.",
-   "Bir performans değerlendirme rubriği, tüm puanlayıcılar aynı sistematik önyargıyla puanlıyorsa (örneğin tüm puanlayıcılar herkese yüksek puan veriyorsa).",
-   "Bir anketin iç tutarlılığı çok yüksek (α = 0,98) olup tüm maddeleri neredeyse aynı içeriği ölçüyorsa, kapsam geçerliği bu durumda düşer.",
-   "Bir depresyon ölçeği, depresyonu kaygıdan ayırt edemiyorsa (düşük ıraksak geçerlik) fakat kendi içinde tutarlıysa.",
-   "Bir yetenek testi, aynı bireye iki kez uygulandığında benzer sonuçlar veriyorsa ancak gerçek yeteneği değil, test alma stratejilerini ölçüyorsa."
-  ],
-  "dogru": 1,
-  "aciklama": "Soru 'yüksek güvenirlik düşük geçerliği garanti eder' mi diye sormaktadır; bu çok özel ve güçlü bir koşuldur. C seçeneğinde tüm puanlayıcılar aynı sistematik önyargıyla (sabit hata) puanlıyorsa, puanlar hem kendi aralarında tutarlıdır (yüksek güvenirlik) hem de gerçek performansı ölçmemektedir (düşük geçerlik). Buradaki kritik nokta: sistematik hata güvenirliği bozmaz (çünkü tutarlıdır) ama geçerliği doğrudan tahrip eder. Bu durum güvenirliğin geçerliği mantıksal olarak zorunlu kılmadığının klasik örneğidir. A'da ıraksak geçerlik düşüklüğü güvenirlikten bağımsızdır; güvenirlik burada geçerlik düşüklüğünü 'garanti etmez.' B'de yüksek güvenirlik düşük yapı geçerliğine yol açabilir ancak bu garanti değil olasılıktır. D'de aşırı homojen içerik (α = 0,98) gerçekten kapsam geçerliğini düşürür; bu seçenek de güçlü bir adaydır ancak 'garanti' koşulunda C daha belirleyicidir çünkü sabit hata mekanizması doğrudan ve zorunlu biçimde geçerliği tahrip eder. E'de güvenirlik ve geçerlik arasındaki ilişki dolaylıdır; müfredat değişimi dış bir etkendir.",
+  "aciklama": "3PL modelde b parametresi, madde karakteristik eğrisinin büküm noktasındaki yetenek düzeyidir. Bu noktada doğru yanıt olasılığı c ile 1 arasındaki aralığın tam ortasına, yani (1+c)/2 değerine eşittir. Bankadaki cevap bunu doğru anlatır. İtirazın gösterdiği \"'b' parametresi (güçlük): Doğru yanıt olasılığının (1+c)/2 olduğu noktadaki yetenek düzeyini gösterir; 'c' şans parametresi sıfır olmadığında bu tanım değişir.\" seçeneğinin ilk kısmı doğrudur, ancak eklenen son yargı hatalıdır. (1+c)/2 tanımı c sıfırdan farklıyken de geçerlidir; c sıfır olduğunda yalnızca 0,5 değerine indirgenir. \"'a' parametresi (ayırt edicilik)...\" seçeneği de yanlıştır, çünkü yüksek a geniş değil dar bir yetenek aralığında keskin ayırt edicilik demektir. Negatif a değeri ise maddenin çıkarılmasını gerektirir. Doğru cevap \"'b' parametresi, maddeyi rastgele yanıtlamanın üzerinde (c'nin üzerinde) kalan olasılık aralığının tam ortasına karşılık gelen yetenek düzeyini gösterir.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -25341,22 +25165,6 @@
   ],
   "dogru": 1,
   "aciklama": "Formatif değerlendirme, öğrenme süreci devam ederken geri bildirim sağlamak ve öğretimi düzeltmek amacıyla yapılır. Dönem sonunda proje dosyalarının, öğrenme hedeflerine ulaşılıp ulaşılmadığını belirlemek için puanlanması ise sürecin sonunda bir karar vermeye yöneliktir. Bu, summatif (düzey belirleyici) değerlendirmedir. Bu nedenle formatif kapsamında sınıflandırılması yanlıştır. \"Öğretmenin ders ortasında öğrencilere 'çıkış bileti' uygulaması...\" seçeneği formatiftir; çünkü kavram yanılgıları belirlenir ve sonraki ders buna göre düzenlenir. \"Öğrencilerin birbirlerinin taslak yazılarını akran değerlendirme rubriğiyle değerlendirmesi...\" seçeneği de formatiftir; taslak aşamasında geri bildirim verilmektedir. Doğru cevap \"Öğretmenin dönem sonunda öğrencilerin proje dosyalarını 'öğrenme hedeflerine ulaşılıp ulaşılmadığını' belirlemek amacıyla puanlaması\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "201599",
-  "dersId": "egitimbilimleri",
-  "konuId": "degerlendirme_turleri",
-  "soru": "Bir ölçme aracının geliştirilmesi sürecinde yapılan pilot uygulamada şu veriler elde edilmiştir:\n\n- Madde güçlük indeksi (p): 0,15\n- Madde ayırt edicilik indeksi (r): 0,55\n- Üst %27 grubu doğru yanıt oranı: 0,72\n- Alt %27 grubu doğru yanıt oranı: 0,17\n\nBu verileri inceleyen iki uzman farklı görüşler öne sürmektedir. Uzman I: 'Bu madde oldukça zor olmakla birlikte ayırt edicilik indeksi oldukça yüksek olduğundan norma dayalı değerlendirme için kesinlikle teste alınmalıdır.' Uzman II: 'Bu madde güçlük indeksi açısından kritere dayalı değerlendirme için de uygun değildir; çünkü kritere dayalı testlerde maddeler öğretim sonrası yüksek p değeri almalıdır.' Aşağıdaki seçeneklerden hangisi iki uzmanın görüşünü birlikte doğru değerlendirmektedir?",
-  "secenekler": [
-   "Her iki uzman da doğrudur; norma dayalı testlerde yüksek ayırt edicilik, kritere dayalı testlerde ise yüksek güçlük indeksi aranır.",
-   "Uzman I doğru, Uzman II kısmen doğrudur; kritere dayalı testlerde güçlük indeksi 0,50 olmalıdır, ancak bu koşul sağlanmasa bile ayırt edicilik yüksekse madde teste alınabilir.",
-   "Uzman I doğru, Uzman II yanlıştır; kritere dayalı değerlendirmede güçlük indeksinin yorumu öğretim öncesi ve sonrası karşılaştırmasına dayanır, mutlak değere değil.",
-   "Uzman I yanlış, Uzman II doğrudur; norma dayalı testlerde de güçlük indeksinin 0,50 civarında olması beklenir ve p=0,15 değeri bu testler için de sorunludur.",
-   "Her iki uzman da yanlıştır; norma dayalı testlerde yüksek güçlük indeksi, kritere dayalı testlerde ise yüksek ayırt edicilik indeksi aranır."
-  ],
-  "dogru": 2,
-  "aciklama": "Uzman I kısmen doğrudur: Norma dayalı değerlendirme testlerinde yüksek ayırt edicilik (r=0,55) önemli bir kriterdir ve maddenin bu açıdan teste alınması düşünülebilir, ancak p=0,15 gibi çok düşük güçlük indeksinin norma dayalı testlerde de sorun yaratabileceği (madde çok zor, üst grup bile büyük ölçüde başarısız) göz ardı edilemez. Uzman II ise yanlıştır; kritere dayalı değerlendirmede güçlük indeksinin yorumu 'öğretim öncesi düşük, öğretim sonrası yüksek' şeklindeki değişime dayanır. Yani kritere dayalı testlerde p değerinin mutlak olarak yüksek olması değil, öğretim sonrasında artış göstermesi beklenir. Maddenin öğretim öncesi p=0,15 olması sorun teşkil etmez; asıl beklenti öğretim sonrası bu değerin yükselmesidir. Bu nedenle B seçeneği doğrudur.",
   "zorluk": "zor"
  },
  {
@@ -29248,22 +29056,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "201843",
-  "dersId": "egitimbilimleri",
-  "konuId": "i_letisim",
-  "soru": "Öğrencilerden biri öğretmenine 'Bu dersin hayatta ne işe yarayacak ki?' diye soran bir tutumla yaklaşmaktadır. Öğretmen önce 'Dersin gerçekten işe yaramaz göründüğünü düşünüyorsun' der, ardından konunun günlük hayattaki uygulamalarını anlatır. Bu iki aşamalı tepki hangi iletişim becerilerini sırasıyla yansıtır?",
-  "secenekler": [
-   "Etkin dinleme – doğrudan öğretim",
-   "Empati kurma – motivasyon stratejisi",
-   "Ben dili – problem çözme",
-   "Duygu yansıtma – bilişsel yeniden çerçeveleme",
-   "Yansıtıcı dinleme – içerik zenginleştirme"
-  ],
-  "dogru": 4,
-  "aciklama": "İlk aşamada öğretmen öğrencinin ifadesini kendi cümleleriyle yeniden söylemekte; bu, alıcının duygusunu ve düşüncesini geri yansıtan 'yansıtıcı (reflective) dinleme' tekniğidir. İkinci aşamada ise konunun günlük hayatla bağlantısını kurarak dersin içeriğini öğrenci için anlamlı kılmaya çalışmaktadır; bu 'içerik zenginleştirme' (content elaboration) ya da anlam kazandırma stratejisidir. A seçeneğindeki 'doğrudan öğretim' tek yönlü aktarımı ifade eder, bu senaryoya uymaz. D seçeneğindeki 'bilişsel yeniden çerçeveleme' psikolojik bir müdahale tekniğidir ve bu bağlamda doğrudan kullanılmaz.",
-  "zorluk": "orta"
- },
- {
   "id": "201844",
   "dersId": "egitimbilimleri",
   "konuId": "i_letisim",
@@ -29308,7 +29100,7 @@
    "Öğretmenin ses tonu bozulur ve paralingüistik mesajlar zayıflar."
   ],
   "dogru": 0,
-  "aciklama": "Edward Hall'un proxemics kuramına göre iletişimin niteliği büyük ölçüde fiziksel mesafeye bağlıdır: yakın mesafe (0-45 cm) samimi iletişimi, kişisel mesafe (45-120 cm) günlük etkileşimi, sosyal mesafe (120-360 cm) resmi iletişimi, kamusal mesafe (360 cm+) ise kalabalıkla iletişimi kapsar. Öğretmen yalnızca tahtanın önünde durursa, arka sıralardaki öğrenciler çok daha uzak bir mesafede kalır ve sözsüz iletişim (göz teması, mimik) etkisini yitirir; bu nedenle ancak sosyal ya da kamusal mesafedeki öğrencilerle sınırlı iletişim kurulabilir. D seçeneği cazip görünse de sınıf kontrolünün artması proxemics açısından değil yönetim stratejileri açısından ele alınır.",
+  "aciklama": "Proxemics, mesafenin iletişimi nasıl etkilediğini inceler. Tahtanın önünde sabit duran öğretmen yalnızca ön sıralardaki öğrencilere yakındır. Göz teması, jest ve yüz ifadesi gibi etkili iletişim öğeleri büyük ölçüde bu öğrencilerle sınırlı kalır. Arka sıralardaki öğrenciler sosyal ya da kamusal mesafede kaldıkları için iletişimden kopar. İtiraz da arka sıralar için bunu söylemektedir; bu durum seçeneğin ifade ettiği sorunun ta kendisidir. \"Öğretmenin sınıf kontrolü artar çünkü merkezi bir konum daha fazla otorite yansıtır.\" seçeneği yanlıştır, çünkü hareketsizlik sınıf kontrolünü zayıflatır. \"Sözsüz iletişim tamamen ortadan kalktığından anlatım tek boyutlu olur.\" seçeneği de yanlıştır; sözsüz iletişim azalır ama tamamen kaybolmaz. Ses tonu ise proxemics değil paralinguistik konusudur. Doğru cevap \"Öğretmen yalnızca kişisel mesafe bölgesindeki öğrencilerle etkili iletişim kurabilir.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -29772,7 +29564,7 @@
    "Öğretmenin sınıf kurallarını yeterince açıklamaması"
   ],
   "dogru": 1,
-  "aciklama": "Johari Penceresi dört alandan oluşur: açık alan (her ikisi de bilir), kör nokta (başkaları bilir, kişi bilmez), gizli alan (kişi bilir, başkaları bilmez) ve bilinmeyenler alanı. 'Kör nokta' alanı, başkalarının o kişi hakkında fark ettiği ancak kişinin kendisinin göremediği özellik ve davranışları içerir. Öğretmenin öğrencilerden aldığı geri bildirimleri dikkate almaması halinde kör nokta alanı genişler; öğretmen farkında olmadığı davranışlarını sürdürmeye devam eder. C seçeneği gizli alan, D seçeneği bilinmeyenler alanı ile ilişkilidir. A seçeneği ise açık alanın genişlemesiyle ilgilidir.",
+  "aciklama": "Johari Penceresi'nde kör nokta, kişinin kendisinin bilmediği ama başkalarının bildiği özelliklerden oluşur. Bu alan geri bildirimle daralır, çünkü başkaları kişiye görmediği yönlerini gösterir. Öğretmen öğrencilerin geri bildirimlerini dikkate almadığında başkalarının bildiği ama kendisinin bilmediği yönler artmaya devam eder ve kör nokta genişler. \"Öğretmenin öğrencilerle paylaşmadığı kişisel bilgilerin artması\" seçeneği kişinin bildiği ama başkalarından sakladığı gizli alanı tanımlar. \"Öğrencinin ne öğretmenin ne de kendisinin farkında olmadığı bir güce sahip olması\" seçeneği ise ne kişinin ne de başkalarının bildiği bilinmeyen alanı anlatır. \"Öğretmenin kendi güçlü ve zayıf yönlerinin farkında olması\" seçeneği öz farkındalığa işaret eder ve kör noktayı daraltır. İtiraz da sonuçta bankadaki cevabı destekler. Doğru cevap \"Öğrencinin öğretmene verdiği geri bildirimleri öğretmenin dikkate almaması\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -30208,22 +30000,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "201903",
-  "dersId": "egitimbilimleri",
-  "konuId": "i_letisim",
-  "soru": "Sınıf yönetiminde 'yakınlık' (immediacy) kavramını inceleyen araştırmacı Mehrabian, öğretmen yakınlığının sözel ve sözsüz bileşenlerini ayrıştırmıştır. Aşağıdaki senaryoların hangisinde sözsüz yakınlık yüksek olmasına karşın sözel yakınlık düşük olduğunda öğrenciler üzerindeki net etki en olumsuz olur ve bu etki hangi mekanizma aracılığıyla işler?",
-  "secenekler": [
-   "Öğretmenin sesini öğrencilere doğru yönlendirmesi ancak yazı tahtasına dönük konuşması; görsel ve işitsel kanalların yönelim tutarsızlığı mesajın kaybına yol açar.",
-   "Öğretmenin çok gülümsemesi ancak hiç soru sormadığı sınıflarda; öğrenciler gülümsemeyi samimiyetsiz olarak kodlayarak güven krizine girer.",
-   "Öğretmenin göz teması kurması ve jestler kullanması ancak yalnızca ders kitabından okuyarak konuşmaması; sözel katılıkla sözsüz açıklık arasındaki tutarsızlık bilişsel kargaşa yaratır.",
-   "Öğretmenin öğrencilere fiziksel olarak yakın durması ancak öğrenci adlarını hiç kullanmaması; öğrenciler bu fiziksel yakınlığı rahatsız edici bularak psikolojik mesafe koymaktadır.",
-   "Öğretmenin rahat bir vücut duruşu sergilemesi ancak derse sürekli geç gelmesi; sözsüz rahatlamanın sözel sorumsuzluğa eşlik etmesi öğrencilerde rol modeli karmaşası yaratmaktadır."
-  ],
-  "dogru": 2,
-  "aciklama": "Sözsüz yakınlık (göz teması, jestler, açık beden duruşu) öğrencilere 'size açığım, sizinle bağlantı kuruyorum' mesajı verirken sözel yakınlık (isim kullanma, öğrenci görüşüne atıfta bulunma, kapsayıcı dil) bu bağlantıyı sözel düzeyde de teyit eder. C seçeneğinde öğretmen güçlü sözsüz yakınlık sinyalleri vermekte (göz teması, jestler) ancak sözel içerik düzeyinde tamamen mekanik, kitap odaklı ve öğrenci katılımsız bir iletişim sürdürmektedir. Bu tutarsızlık özellikle üst sınıflardaki öğrenciler için ciddi bilişsel kargaşa yaratır: 'Bana ilgi gösteriyor ama beni görmüyor' paradoksu, güvensizlik ve anlam kaybına yol açar. Araştırmalar, tutarsız yakınlık sinyallerinin tutarlı olarak düşük yakınlık sinyallerinden daha olumsuz sonuçlar doğurduğunu ortaya koymaktadır çünkü öğrencinin yorumlama sistemi çelişkiyle başa çıkmakta zorlanır.",
-  "zorluk": "zor"
- },
- {
   "id": "201904",
   "dersId": "egitimbilimleri",
   "konuId": "i_letisim",
@@ -30284,7 +30060,7 @@
    "Öğretmenler aktif dinleme tekniklerini mekanik biçimde uyguladığından otantik iletişim bozulmuş ve öğrenciler bu sahteliği fark ederek kapanmıştır."
   ],
   "dogru": 4,
-  "aciklama": "Bu paradoksal bulgu, iletişim araştırmalarındaki 'otantiklik-teknik' gerilimini yansıtmaktadır. A seçeneğindeki hipotez, 'performatif dinleme' (performative listening) kavramıyla desteklenmektedir: Aktif dinleme teknikleri (başını sallama, 'anlıyorum' demek, duygu yansıtma vb.) öğretilen bir teknik olarak uygulandığında doğallığını ve güvenilirliğini yitirebilir. Öğrenciler, özellikle ergenlik döneminde, yetişkinlerin gerçek ilgisi ile yapay teknik uygulaması arasındaki farkı algılamaya son derece duyarlıdır. Mekanik uygulama, samimiyetsizlik sinyali verdiğinden öğrenciler içe kapanabilmektedir. Bu hipotez, Rogers'ın 'kongruans' (tutarlılık/samimiyet) ilkesiyle de desteklenir: Teknik düzeyde dinleme becerileri, içsel tutarlılık olmaksızın yeterli değildir. B seçeneği de mantıklı ancak sözsüz iletişimin olumsuz etkilendiğine dair doğrudan bir neden sunulmamaktadır. E seçeneği de kısmen geçerlidir; ancak kaygı artışının doğrudan katılımı azaltacağını varsaymak mekanizmayı tam açıklamaz.",
+  "aciklama": "Aktif dinleme; yansıtma, yeniden ifade etme ve duyguyu adlandırma gibi tekniklere dayanır, ancak etkisi içtenliğe bağlıdır. Eğitim sonrası teknikler kalıp cümlelerle, mekanik biçimde uygulandığında öğrenciler bunu yapay bir iletişim olarak algılar. Bu durum güveni zedeler ve katılımı azaltır. Katılımın yalnızca bazı sınıflarda düşmesi de öğretmenlerin uygulama biçimindeki farkla uyumludur. \"Hizmet içi eğitimin içeriği Türk kültürel bağlamına uyarlanmamış olduğundan Batı merkezli aktif dinleme teknikleri sınıf dinamikleriyle uyumsuz kalmıştır\" seçeneği geçerli olsaydı etki tüm sınıflarda benzer görülürdü. \"Aktif dinleme becerileri öğretmenlerin sorularını artırdığından bilişsel yük yükselmiş ve öğrenciler bu baskıdan kaçınmak için katılımı azaltmıştır\" seçeneği ise yanlış bir öncüle dayanır, çünkü aktif dinleme soru bombardımanı değil, dinleme ve yansıtmadır. Doğru cevap \"Öğretmenler aktif dinleme tekniklerini mekanik biçimde uyguladığından otantik iletişim bozulmuş ve öğrenciler bu sahteliği fark ederek kapanmıştır.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -31404,7 +31180,7 @@
    "Tokenların yedek pekiştireçlerle düzenli aralıklarla değiştirilmesi"
   ],
   "dogru": 3,
-  "aciklama": "Token ekonomisinde standart uygulama; istenilen davranışlar için token kazandırmak ve biriken tokenları yedek pekiştireçlerle değiştirmektir. Tokenları elinden almak (response cost) ayrı bir prosedürdür ve temel token ekonomisi anlayışının dışındadır; ayrıca yanlış uygulandığında motivasyonu ciddi biçimde düşürür. A, B, D ve E şıkları token ekonomisinin doğru uygulama ilkelerini yansıtır: hedef davranışların netliği, değiştirilebilirlik, şeffaflık ve pekiştireç çeşitliliği.",
+  "aciklama": "Token ekonomisi temelde olumlu pekiştirmeye dayanır. Hedef davranış gözlenince jeton verilir ve jetonlar yedek pekiştireçlerle değiştirilir. Jeton geri alma, yani tepki bedeli, isteğe bağlı bir eklentidir. Kullanılacaksa önceden tanımlanmalı ve orantılı olmalıdır; sistemin temel ilkesi değildir. Kötü davranışta jetonu doğrudan alıp ceza vermeyi sistemin özü gibi sunmak, ilkeleri yanlış yansıtır. Bu tür uygulama, jeton bakiyesi sıfırlanan öğrencide motivasyon kaybına da yol açabilir. \"Tokenların yedek pekiştireçlerle düzenli aralıklarla değiştirilmesi\" seçeneği jetonun değerini koruyan temel bir ilkedir. \"Öğrencinin hangi davranış için kaç token kazanacağını önceden bilmesi\" seçeneği de sistemin şeffaflık ilkesidir ve doğrudur. Doğru cevap \"Kötü davranışta tokenların direkt olarak elinden alınarak ceza verilmesi\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -31712,22 +31488,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "201998",
-  "dersId": "egitimbilimleri",
-  "konuId": "davranis_yonetimi",
-  "soru": "Öğretmen Selim, sınıfında tekrarlayan gürültü sorununu çözmek için Token Economy (jeton sistemi) uygulamıştır. İlk üç haftada sistem işe yaramış, dördüncü haftadan itibaren öğrenciler jetonları biriktirmek yerine hemen harcamaya başlamış ve istenmeyen davranışlar yeniden artmıştır. Bu durumu açıklayan en kapsamlı kavramsal çerçeve hangisidir?",
-  "secenekler": [
-   "Öğrenciler ödülü araçsal değil terminal değer olarak algılamaya başlamış; ödülün öğrencinin değer sistemiyle uyumsuzluğu ve olası doygunluk etkisi birlikte sistemi işlevsizleştirmiştir.",
-   "Öğrenciler klasik koşullanma yoluyla jetona koşullanmış, koşullu uyaran etkisi zayıflamıştır.",
-   "Öğrencilerde görünmez engel (glass ceiling) etkisi oluşmuş, öğrenciler ulaşılabilir ödül algısını yitirmiştir.",
-   "Jeton sistemi yanlış pekiştirme takvimine dayandığı için davranışsal kontrast ortaya çıkmıştır.",
-   "Jeton sistemi yalnızca dışsal düzenlemeyi desteklediğinden öz-belirleme ihtiyacı karşılanmamış, ancak içselleştirme gerçekleşmediği için sistem çökmüştür."
-  ],
-  "dogru": 4,
-  "aciklama": "Deci ve Ryan'ın Öz-Belirleme Kuramı'na göre dışsal pekiştireçler kısa vadede davranışı kontrol edebilir; ancak bireyin özerklik, yetkinlik ve ilişki ihtiyaçları karşılanmadığında ve davranış içselleştirilmediğinde sistem sürdürülebilir değildir. Jeton sistemi salt dışsal düzenleme düzeyinde kalmış, öğrenciler zamanla ödülü hemen almayı (terminal tüketim) tercih etmiş ve uzun vadeli birikimden kaynaklanan pekiştirme gücü ortadan kalkmıştır. C şıkkında 'araçsal/terminal değer' kavramı kısmen doğru olmakla birlikte doygunluk etkisini yeterince açıklar; ancak E şıkkı hem içselleştirme eksikliğini hem de teorik çerçeveyi en kapsamlı biçimde ortaya koymaktadır. Davranışsal kontrast (B) iki bağlamda zıt yanıt örüntülerini ifade eder ve burada geçerli değildir. Klasik koşullanma (A) bu bağlamda yeterli bir açıklama değildir.",
-  "zorluk": "zor"
- },
- {
   "id": "201999",
   "dersId": "egitimbilimleri",
   "konuId": "davranis_yonetimi",
@@ -31964,7 +31724,7 @@
    "3. öğrenci: Derin nefes egzersizleri bilişsel bir müdahale değil fizyolojik bir düzenleme stratejisi olduğundan bilişsel davranışçı terapi değil gevşeme terapisi kapsamında değerlendirilmelidir."
   ],
   "dogru": 2,
-  "aciklama": "5. öğrenci için uygulanan stratejide kritik bir kavramsal sorun bulunmaktadır: Şınav çektirme, tırnak yeme davranışıyla ne doğal ne de mantıksal bir ilişki içindedir. Doğal sonuçlarda davranışın kendi sonuçları, mantıksal sonuçlarda ise davranışla ilgili/orantılı yaptırımlar söz konusudur. Edimsel koşullanmada 'ceza' terimi doğrudur; ancak fiziksel egzersizin bazı bireyler için içsel olarak pekiştirici (dopamin salınımı, arkadaşça dikkat çekme vb.) işlev görebileceği gerçeği göz ardı edilmiştir. Bu durumda söz konusu müdahale, paradoks biçimde davranışı azaltmak yerine pekiştiriyor olabilir. Kuramsal dayanak olarak 'ceza' yazılmış olsa da uygulamanın fiilen pekiştirici işlev görmesi davranış-sonuç analizi açısından temel bir çelişkidir. A yanlıştır, stiker bir token ekonomisi aracıdır ve edimsel koşullanmayı temsil eder. B yanlıştır çünkü mantıksal sonuç zaten ceza kategorisinde değerlendirilemez. C yanlıştır; BDT fizyolojik teknikleri de kapsar (gevşeme BDT'nin bir bileşenidir). E yanlıştır çünkü sönme tek başına uygulandığında extinguished davranışın alternatifi pekiştirilmezse geri dönme ve genelleme sorunları yaşanır; ayırt edici pekiştirme ile kombinasyon standart uygulamadır.",
+  "aciklama": "Edimsel koşullanmada ceza, uygulamanın biçimiyle değil davranış üzerindeki etkisiyle tanımlanır. Bir uyaran davranışı azaltıyorsa cezadır. Şınav çektirme biçim olarak uyarıcı ceza gibi görünür. Ancak fiziksel aktivite bazı öğrencilerde pekiştireç işlevi görebilir ya da kaçınma dışı bir anlam kazanabilir. Bu durumda dayanak olarak gösterilen ceza işlevi gerçekleşmez; kuram ile uygulama arasındaki çelişki budur. \"4. öğrenci...\" seçeneği yanlıştır, çünkü sönmenin ayırt edici pekiştirmeyle birlikte kullanılması önerilen ve daha etkili bir uygulamadır. \"1. öğrenci...\" seçeneği de yanlıştır, çünkü davranış sonrası verilen stiker edimsel koşullanmanın tipik örneğidir. Mantıksal sonuçlar ve derin nefesle ilgili seçenekler de kuramları çarpıtmaktadır. Doğru cevap \"5. öğrenci: Şınav çektirme, davranışla mantıksal ya da doğal bir ilişki taşımadığından edimsel koşullanma kapsamında uyarıcı ceza (presentation punishment) olarak doğru sınıflandırılmış; ancak fiziksel aktivitenin pekiştireç işlevi görebileceği göz ardı edilmiştir.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -33020,7 +32780,7 @@
    "Yalnızca bireysel psikolojik danışma uygulanmıştır."
   ],
   "dogru": 2,
-  "aciklama": "Sınav kaygısı, doğrudan akademik başarıyı ve eğitim sürecini etkileyen bir sorundur; bu nedenle müdahalenin özü eğitsel rehberlik alanına girer. Ancak müdahalenin boyutları; bireysel görüşme (bireysel rehberlik), aile bilgilendirmesi (aile katılımı) ve öğretmenle iş birliği (sistem düzeyinde çalışma) olmak üzere çok katmanlıdır. Bu bütünleşik ve sistemik yapıyı en doğru tanımlayan seçenek C'dir. 'Yalnızca' ifadesi içeren A ve E seçenekleri süreci daraltmaktadır; B (kriz müdahalesi) ve D (sosyal rehberlik) ise sorunun asıl odağıyla örtüşmemektedir.",
+  "aciklama": "Sınav kaygısı, öğrencinin akademik başarısını ve sınav performansını doğrudan etkilediği için Türk rehberlik sınıflamasında eğitsel rehberliğin temel konuları arasında yer alır. Danışmanın bireysel görüşme yapması, aileyi bilgilendirmesi ve öğretmenle sınıf içi düzenlemeler için iş birliği kurması, birden fazla sistemi kapsayan çok boyutlu bir müdahale örüntüsüdür. Bu nedenle süreci en kapsamlı biçimde tanımlayan ifade bankadaki cevaptır. \"Yalnızca bireysel psikolojik danışma uygulanmıştır.\" seçeneği yanlıştır, çünkü aile ve öğretmenle yürütülen çalışmaları dışarıda bırakır. \"Sosyal rehberlik kapsamında aile ve okul sistemleri birleştirilmiştir. Bu nedenle yalnızca sosyaldir.\" seçeneği de yanlıştır, çünkü sorunun akademik niteliğini görmezden gelir ve süreci tek boyuta indirger. Kriz müdahalesi ya da yalnızca bilgilendirme ifadeleri de yapılan çalışmanın kapsamını karşılamaz. Doğru cevap \"Eğitsel rehberlik kapsamında çok boyutlu ve sistemik bir müdahale örüntüsü sergilenmiştir.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -33500,7 +33260,7 @@
    "İlgi envanterlerinin geçerlilik katsayısı öğrenme stilleri envanterlerinkinden her koşulda daha yüksektir çünkü mesleki ilgiler çok daha durağan bir yapı gösterir. Bu nedenle mesleki alanda yalnızca ilgi envanterlerinin kullanılması önerilmektedir."
   ],
   "dogru": 2,
-  "aciklama": "A seçeneği bu metodolojik ayrımı en doğru biçimde tanımlamaktadır. Öğrenme stilleri envanteri (örn. Kolb, VARK); bireyin bilgiyi nasıl işlediğini, tercih ettiği öğrenme modalitesini anlamaya yönelik olup eğitsel uyumu desteklemeyi amaçlar. İlgi envanteri ise (örn. Holland SDS, Strong Envanteri) bireyin neye ilgi duyduğunu ölçerek mesleki ortam-kişilik uyumunu belirlemeyi hedefler. Her iki ölçme aracı da psikometrik güvenilirlik, geçerlilik ve standardizasyon ilkelerine göre geliştirilir. B ve D seçenekleri mutlakiyetçi iddialar taşıdığından hatalıdır. C ve E seçenekleri ise alan yazınla çelişen yanlış öncüller içermektedir.",
+  "aciklama": "Öğrenme stilleri envanteri bireyin bilgiyi nasıl aldığını ve işlediğini, yani öğrenme biçimini anlamaya yöneliktir. İlgi envanteri ise bireyin hangi etkinliklerden hoşlandığını belirleyerek mesleki uyumu öngörmeyi amaçlar. Her ikisi de standart test olarak güvenirlik ve geçerlik gibi aynı psikometrik ilkelere dayanır. Bu nedenle ayrımı amaç ve odak düzleminde doğru veren tek seçenek bankadaki cevaptır. \"İlgi envanteri daha bilimsel veriye dayandığından öğrenme stilleri envanterinden her zaman daha güvenilir sonuçlar üretir.\" seçeneği yanlıştır, çünkü \"her zaman\" genellemesi bilimsel olarak savunulamaz. Geçerlik katsayısının her koşulda daha yüksek olduğunu ileri süren seçenek de aynı mutlak genelleme hatasını taşır. Öğrenme stilleri envanterinin yalnızca öğretmenler için tasarlandığı iddiası da yanlıştır, çünkü bu envanter doğrudan öğrenciye uygulanır. Doğru cevap \"Öğrenme stilleri envanteri bireyin nasıl öğrendiğini anlamaya yönelirken ilgi envanteri bireyin ne yapmaktan zevk aldığını belirleyerek mesleki uyumu öngörmeye çalışır; ancak her ikisi de aynı psikometrik ilkelere dayanır.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -34443,8 +34203,8 @@
    "Seçici soyutlama",
    "Kişiselleştirme"
   ],
-  "dogru": 1,
-  "aciklama": "Keyfi çıkarım (arbitrary inference), yeterli kanıt bulunmaksızın ya da kanıtlara rağmen bir sonuca ulaşmayı ifade eder. Öğrenci, 'vurmazsam kimse ciddiye almaz' sonucuna herhangi bir gerçek kanıta dayanmadan ulaşmaktadır. Seçici soyutlama (A), bütünden yalnızca olumsuz bir ayrıntıyı seçip odaklanmaktır. Düşünce okuma (B), başkalarının ne düşündüğünü bildiğini sanmaktır. Kişiselleştirme (D), dışsal olayları kendine bağlamaktır. Falcılık (E) ise geleceği olumsuz öngörmektir.",
+  "dogru": 2,
+  "aciklama": "Öğrenci, davranışının ve davranmamasının gelecekteki sonuçlarını kesin bilgi gibi öngörmektedir: Vurursa güçlü görüneceğini, vurmazsa kimsenin onu ciddiye almayacağını düşünmektedir. Gelecekteki olayların olumsuz sonuçlanacağını kanıt olmadan kesinlik gibi tahmin etmek falcılık (geleceği okuma) çarpıtmasıdır. \"Keyfi çıkarım\" seçeneği de kanıtsız sonuca varmayı ifade eder. Ancak bu geniş bir üst kategoridir ve falcılık ile düşünce okuma onun alt türleridir. Soru en çok uyan çarpıtmayı sorduğu için daha özgül olan falcılık tercih edilmelidir. \"Düşünce okuma\" seçeneği yanlıştır, çünkü öğrenci başkalarının şu anki düşüncelerini değil, gelecekteki tepkilerini tahmin etmektedir. \"Kişiselleştirme\" seçeneği de uygun değildir, çünkü öğrenci dış olayları kendisiyle ilişkilendirmemektedir. Doğru cevap \"Falcılık (geleceği okuma)\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -34524,7 +34284,7 @@
    "Güvenli ve destekleyici bir ilişki olmaksızın bireyin krize ilişkin bilişlerini ve duygularını açması güçleşir; sonraki aşamalar işlevsiz kalır."
   ],
   "dogru": 4,
-  "aciklama": "Roberts'ın yedi aşamalı modelinde güvenlik ve raportmanın kurulması kritiktir çünkü kriz içindeki birey duygusal olarak bunalmış ve savunmacı olabilir. Güvenli bir terapötik ittifak (raportman) sağlanmadan bireyin duygu ve düşüncelerini açık biçimde paylaşması, çözüm odaklı çalışma yapılması ve müdahalenin sonraki aşamalarına geçilmesi mümkün olmaz. İntihar riski değerlendirmesi yalnızca bu aşamaya sıkışmış değildir (C yanlış). Danışman kriz müdahalesi boyunca aktif kalır (E yanlış). Model güvenlik aşamasıyla değil, krizi tanımlama aşamasıyla başlar (D kısmen yanlış).",
+  "aciklama": "Roberts'ın modelinde ilk aşama ölümcüllük ve psikososyal değerlendirmedir. Psikolojik güvenliğin sağlanması ve raportmanın kurulması ikinci aşamadır. Soru kökü bu aşamanın önemini sorduğu için sıralama bilgisi soruyu bozmaz. Güvenli ve destekleyici bir ilişki kurulmadan birey krize ilişkin duygu ve düşüncelerini açamaz. Bu durumda sorunun tanımlanması, duyguların ele alınması ve seçeneklerin araştırılması gibi sonraki aşamalar işlevsiz kalır. \"Raport kurulmadan davranışsal çözümler önerilemez; bu nedenle model doğrudan bu aşamayla başlamaktadır.\" seçeneği yanlıştır, çünkü model bu aşamayla değil, risk değerlendirmesiyle başlar. \"Bu aşama, bireyin intihar riskini değerlendirmek için kullanılan tek fırsattır.\" seçeneği de yanlıştır, çünkü risk değerlendirmesi ilk aşamada yapılır ve süreç boyunca sürer. Doğru cevap \"Güvenli ve destekleyici bir ilişki olmaksızın bireyin krize ilişkin bilişlerini ve duygularını açması güçleşir; sonraki aşamalar işlevsiz kalır.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -34556,7 +34316,7 @@
    "Tüm eşleştirmeler doğrudur."
   ],
   "dogru": 4,
-  "aciklama": "I: Freud'un sinyal anksiyetesi kuramına göre ego, bastırılmış içeriklerin bilinç düzeyine çıkma tehlikesini sinyalleyen anksiyete yaşar — doğru. II: Adler'de aşağılık duygusu telafi edilemediğinde yetersizlik ve anksiyete ortaya çıkar; bu Adler literatürüyle uyumludur — doğru. III: Rogers'ın öz uyumsuzluk (incongruence) kavramı, benlik kavramı ile organizmik deneyim arasındaki uçuruma işaret eder — doğru. IV: Beck'in bilişsel modelinde olumsuz otomatik düşünceler ve tehlike şemaları anksiyetenin bilişsel temelidir — doğru. V: Glasser'ın Seçim Kuramı'nda beş temel ihtiyacın (hayatta kalma, sevgi/ait olma, güç, özgürlük, eğlence) karşılanamaması psikolojik sıkıntının kaynağıdır; anksiyete de bu çerçevede değerlendirilir — doğru. Dolayısıyla tüm eşleştirmeler doğrudur, yanıt D'dir. A, B ve E'de öne sürülen 'yanlışlık' iddiaları kuramlara yanlış atıflar içermektedir.",
+  "aciklama": "Beş eşleştirmenin tamamı ilgili kuramlarla uyumludur. Freud'a göre anksiyete, bastırılmış dürtülerin egoyu tehdit etmesiyle ortaya çıkar. Adler'de aşağılık duygusu ve telafi edilememesi uyum sorunlarının temelidir. Rogers'ta benlik kavramı ile organizmik deneyim arasındaki uyumsuzluk tehdit ve kaygı doğurur. Beck'te otomatik düşünceler ve olumsuz şemalar tehlike yorumlarına yol açar. Glasser'da ise temel ihtiyaçların karşılanamaması etkin olmayan davranış seçimlerine ve kontrol kaybı yaşantısına neden olur. \"Yalnızca II yanlıştır; Adler'de anksiyete, aşağılık duygusundan değil, sosyal ilgi eksikliğinden kaynaklanır.\" seçeneği yanlıştır, çünkü aşağılık duygusu Adler'in temel kavramıdır. \"Yalnızca V yanlıştır; Glasser'ın Seçim Kuramı'nda anksiyetenin kaynağı ihtiyaç karşılanamaması değil, dışsal kontrolün içselleştirilmesidir.\" seçeneği de kuramı ters yorumlar. Doğru cevap \"Tüm eşleştirmeler doğrudur.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -34924,7 +34684,7 @@
    "Bu profil geçerlilik ölçekleri incelenmeden yorumlanamaz; ancak Ölçek 1 ve 3'ün eş zamanlı yükselmesi şizofreniform bozukluğun göstergesidir."
   ],
   "dogru": 0,
-  "aciklama": "MMPI-2'de 1 (Hs-Hipokondri), 2 (D-Depresyon) ve 3 (Hy-Histeri) ölçeklerinin birlikte yükselmesi ile özellikle Ölçek 3'ün Ölçek 2'den belirgin biçimde yüksek olması, 'dönüşüm V' (conversion V ya da V yapılandırması) olarak adlandırılan klasik bir örüntüdür. Bu örüntü; somatizasyon, duyguları bastırma ve psikolojik çatışmaların bedensel belirtilere dönüştürülmesi ile karakterizedir. Kişi bedensel şikâyetler yaşamakta ancak bu şikâyetlerin psikolojik temelini inkâr etmektedir. MMPI-2 hiçbir zaman tek başına tanı koyma aracı değildir (A ve E şıkları bu nedenle hatalıdır). C şıkkındaki 'Ölçek 2 diğerlerini geçersiz kılar' ifadesi psikometrik açıdan tamamen yanlıştır. D şıkkında şizofreniform atfı ise bu profilin klinik literatürdeki anlamıyla örtüşmemektedir.",
+  "aciklama": "Profilde Ölçek 1 (78T) ve Ölçek 3 (80T) en yüksek iki ölçektir. Ölçek 2 (72T) ise ikisinden de düşük kalarak V biçimli bir örüntü oluşturur. Bu dönüşüm V örüntüsü, psikolojik sıkıntının bedensel belirtilerle ifade edildiğini ve inkâr savunmasının kullanıldığını gösterir. Ölçek 2'nin de yükselmiş olması klasik örneğe göre daha fazla sıkıntı bulunduğunu düşündürse de örüntünün temel anlamını değiştirmez. \"Bu profil geçerlilik ölçekleri incelenmeden yorumlanamaz; ancak Ölçek 1 ve 3'ün eş zamanlı yükselmesi şizofreniform bozukluğun göstergesidir.\" seçeneği yanlıştır, çünkü 1-3 yükselmesi psikoz değil, somatizasyon eğilimi gösterir. Antisosyal kişilik bozukluğu ile kesin psikopatoloji iddialarını içeren seçenekler de MMPI-2 yorumlama ilkeleriyle bağdaşmaz. Doğru cevap \"Bu profil 'dönüşüm V' (conversion V) örüntüsünü oluşturmaktadır; Ölçek 3'ün Ölçek 2'den belirgin biçimde yüksek olması somatik belirti ve psikolojik inkârın birlikte işlediğine, duygu ifadesinin bedensel yollarla gerçekleştiğine işaret eder.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {

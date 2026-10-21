@@ -1020,7 +1020,7 @@
    "Sorumsuzluk, yasama faaliyetleri dışındaki eylemleri kapsar."
   ],
   "dogru": 0,
-  "aciklama": "Anayasa md. 83'e göre milletvekilliği sorumsuzluğu (yasama sorumsuzluğu), yasama faaliyetleri nedeniyle verilen oylar ve yapılan açıklamalar için milletvekilliği sona erse bile devam eder. Dokunulmazlık ise yalnızca milletvekilliği sıfatı devam ettiği süre için geçerlidir; sıfat sona erince koruma kalkar. Doğru cevap D şıkkıdır.",
+  "aciklama": "Yasama dokunulmazlığı milletvekilliği süresince geçerli, geçici bir korumadır; milletvekili sıfatı sona erince ortadan kalkar ve kişi hakkında kovuşturma yapılabilir. Yasama sorumsuzluğu ise milletvekilinin Meclis çalışmalarındaki oy, söz ve düşünceleri için süreklidir; görev bittikten sonra da bu nedenlerle sorumlu tutulamaz. Bu yüzden ifade doğrudur. \"Ağır cezayı gerektiren suçüstü hallerinde dokunulmazlık re'sen kalkar.\" seçeneği yanlıştır, çünkü Anayasa'nın 83. maddesine göre bu durum dokunulmazlığın kaldırılması değil, dokunulmazlığın uygulanmadığı bir istisnadır. \"Sorumsuzluk, yasama faaliyetleri dışındaki eylemleri kapsar.\" seçeneği de yanlıştır; sorumsuzluk yalnızca yasama faaliyetlerine ilişkin söz ve oyları kapsar. Doğru cevap \"Milletvekili sıfatı sona erince dokunulmazlık ortadan kalkar, sorumsuzluk ise devam eder.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -1148,7 +1148,7 @@
    "Olağanüstü hal ilanı kararı Resmî Gazete'de yayımlanarak TBMM'nin onayına sunulur."
   ],
   "dogru": 1,
-  "aciklama": "1982 Anayasası'nın 148. maddesine göre olağanüstü hal döneminde çıkarılan Cumhurbaşkanlığı kararnameleri Anayasa Mahkemesi'nin denetim alanının dışındadır. Anayasa bu kararnamelerin yargısal denetimini açıkça kapsam dışında bırakmıştır. Bu durum, hukuk devleti ilkesi bakımından ciddi bir sorun teşkil ettiği için doktrinde uzun süredir tartışılmakta; ancak mevcut anayasal çerçeve söz konusu kararnamelerin denetiminin önünde bir engel oluşturmaktadır. B şıkkı bu nedenle anayasal düzenlemeyle çelişmektedir.",
+  "aciklama": "Anayasa'nın 148. maddesine göre olağanüstü hallerde çıkarılan Cumhurbaşkanlığı kararnamelerine karşı şekil ve esas bakımından Anayasa'ya aykırılık iddiasıyla Anayasa Mahkemesi'nde dava açılamaz. Bu nedenle bu kararnamelerin Anayasa Mahkemesi denetimine tabi olduğunu söyleyen ifade anayasal düzenlemeyle çelişir. İtirazda öne sürülen gerekçe de aslında bankadaki cevabı doğrulamaktadır. \"Olağanüstü hal kararnameleri TBMM tarafından onaylanmadığı takdirde yürürlükten kalkar.\" seçeneği 119. maddeye uygundur ve doğrudur. \"Olağanüstü hal ilanı kararı Resmî Gazete'de yayımlanarak TBMM'nin onayına sunulur.\" seçeneği de doğrudur; ilan kararı yayımlanır ve aynı gün Meclis onayına sunulur. Doğru cevap \"Olağanüstü hal kapsamındaki kararnameler Anayasa Mahkemesi'nin şekil ve esas denetimine tabidir.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1245,22 +1245,6 @@
   ],
   "dogru": 0,
   "aciklama": "Anayasa'nın 69. maddesine göre siyasi parti kapatma kararı için Anayasa Mahkemesi üye tamsayısının en az üçte iki çoğunluğu gerekir. Salt çoğunluk yeterli değildir; bu yüzden ilk ifade yanlıştır. Madde ayrıca kapatma yerine Hazine yardımından kısmen veya tamamen yoksun bırakma yaptırımına izin verir. Kapatma davasını Cumhuriyet Başsavcısı açar. Yabancı devletlerden veya uluslararası kuruluşlardan yardım alma da kapatma sebebidir. Bir partinin kapatılabilmesi için eylemlerin odağı haline gelmesi gerekir. En çok karıştırılan iki seçenek şunlardır: \"Anayasa Mahkemesi kapatma yerine partinin Hazine yardımından kısmen ya da tamamen yoksun bırakılmasına hükmedebilir.\" ifadesi doğrudur, çünkü kapatmaya alternatif yaptırım olarak öngörülmüştür. \"Kapatma davası Cumhuriyet Başsavcısı tarafından açılır.\" ifadesi de doğrudur. Doğru cevap \"Kapatma kararı Anayasa Mahkemesi'nin salt çoğunluğuyla alınır.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "34086",
-  "dersId": "vatandaslik",
-  "konuId": "anayasa_hukuku",
-  "soru": "Anayasa değişikliklerinin halkoyuna sunulmasına ilişkin Türk anayasal düzenlemesi incelendiğinde aşağıdaki hangi senaryo doğru bir anayasal uygulamayı yansıtmaktadır?",
-  "secenekler": [
-   "TBMM bir anayasa değişikliğini 310 oyla kabul etmiştir; bu değişiklik zorunlu olarak halkoyuna sunulur.",
-   "TBMM bir anayasa değişikliğini 367 oyla kabul etmiştir; Cumhurbaşkanı değişikliği doğrudan yayımlamak zorundadır.",
-   "TBMM bir anayasa değişikliğini 340 oyla kabul etmiştir; Cumhurbaşkanı değişikliği geri gönderebilir ya da halkoyuna sunabilir.",
-   "Cumhurbaşkanı her anayasa değişikliğini halkoyuna sunma yetkisine sahiptir; TBMM bu kararı sınırlandıramaz.",
-   "TBMM bir anayasa değişikliğini 400 oyla kabul etmiştir; Cumhurbaşkanı bu değişikliği halkoyuna sunmak zorundadır."
-  ],
-  "dogru": 2,
-  "aciklama": "Anayasa değişikliklerinin oylanmasında belirleyici olan oy eşikleri şunlardır: 360 ila 400 arasında oy alan değişiklikler için Cumhurbaşkanı değişikliği halkoyuna sunabilir ya da geri gönderebilir; 400 ve üzeri oy alan değişiklikler için Cumhurbaşkanı halkoyuna sunma ya da yayımlama seçeneklerinden birini kullanabilir; 367 oy, ilk oylamada değişikliği geçerli kılan en düşük çoğunluk eşiği olduğu için bu senaryo doğrudan yayımlamayı zorunlu kılmaz. B şıkkında 340 oy, 360'ın altında kaldığından Cumhurbaşkanı'nın geri gönderme ya da halkoyuna sunma seçeneklerini değil; yalnızca 360-400 arasındaki değişiklikler için geçerli olan prosedürü doğru yansıtmaktadır. Bu eşiklerin birbiriyle karıştırılması son derece sık karşılaşılan bir hatadır.",
   "zorluk": "zor"
  },
  {
@@ -1421,22 +1405,6 @@
   ],
   "dogru": 4,
   "aciklama": "“Hâkimin bağlı olduğu kanunun Anayasa'ya aykırı olduğu kanaatine vararak davayı bekletmesi…” şıkkında tanımlanan durum, Anayasa m.152'de düzenlenen 'itiraz yolu' mekanizmasıdır. Hâkimin, bakmakta olduğu davada uygulanacak kanunun Anayasa'ya aykırı olduğu kanaatine varması halinde Anayasa Mahkemesi'ne başvurması ve davayı bekletmesi hem anayasal bir hak hem de bir görevdir. Bu durum adil yargılanma hakkını ihlal etmez; aksine Anayasa'nın öngördüğü bir usul güvencesini hayata geçirir. Diğer şıklarda (A, B, C, D) ise sırasıyla silahların eşitliği, makul süre, bağımsız temsil hakkı ve mahkemeye erişim hakkı yönünden m.36 ihlali gündeme gelebilir. Doğru yanıt “Hâkimin bağlı olduğu kanunun Anayasa'ya aykırı olduğu kanaatine vararak davayı bekletmesi…” seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "34100",
-  "dersId": "vatandaslik",
-  "konuId": "anayasa_hukuku",
-  "soru": "Aşağıdakilerden hangisi Anayasa Mahkemesi'nin şekil denetimi kapsamında inceleyebileceği bir unsur değildir?",
-  "secenekler": [
-   "Cumhurbaşkanı'nın Anayasa değişikliğini iade etme süresine uyup uymadığı",
-   "Oylamanın gizli mi açık mı yapıldığına ilişkin usul kurallarına uyulup uyulmadığı",
-   "Anayasa değişikliği teklifinin teklif çoğunluğuna uygun şekilde verilip verilmediği",
-   "Kanun değişikliğinin TBMM İç Tüzüğü'ne aykırı biçimde gündeme alınıp alınmadığı",
-   "Anayasa değişikliğinin öngörülen çoğunluklarla görüşülüp görüşülmediği"
-  ],
-  "dogru": 3,
-  "aciklama": "Anayasa Mahkemesi, kanunları şekil yönünden denetlerken yalnızca son oylamanın öngörülen çoğunlukla yapılıp yapılmadığını ve teklif şartlarını inceler. Anayasa m.148/2'ye göre kanunların şekil denetimi yalnızca 'son oylamanın öngörülen çoğunlukla yapılıp yapılmadığı' ile sınırlıdır; İç Tüzük'e aykırılık bu denetime dahil değildir. Anayasa değişikliklerinin şekil denetimi ise teklif ve oylama çoğunlukları ile ivedilik şartını kapsar. C şıkkında belirtilen 'İç Tüzük'e aykırılık' iddiası, şekil denetiminin kapsamı dışında olup bu konuda AYM inceleme yapamaz. Doğru yanıt C'dir.",
   "zorluk": "zor"
  },
  {
@@ -2480,22 +2448,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "34168",
-  "dersId": "vatandaslik",
-  "konuId": "temel_haklar",
-  "soru": "Kişi dokunulmazlığı, bireysel özgürlük ve güvenlik hakkı kapsamında 'tutukluluk' konusunda Anayasa'nın öngördüğü usule ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
-  "secenekler": [
-   "Tutukluluk süresi bireysel suçlarda kanunla belirlenmiş azami sınırı hiçbir koşulda aşamaz.",
-   "Gözaltına alınan kişi en geç 48 saat içinde, toplu suçlarda 4 güne kadar uzatılabilecek süre içinde hâkim önüne çıkarılmalıdır.",
-   "Yakalanan veya tutuklanan kişi, tutulma sebebi ve haklarındaki iddialar hakkında derhal bilgilendirilir.",
-   "Suçüstü hâllerinde bireyler hâkim kararı aranmaksızın yakalanabilir.",
-   "Hâkim kararı olmaksızın kişi özgürlüğünden yoksun bırakılamaz."
-  ],
-  "dogru": 0,
-  "aciklama": "Anayasa'nın 19. maddesi uyarınca bireysel suçlarda azami tutukluluk süresi kanunla belirlenir; ancak olağanüstü hâl ilan edilmesi durumunda bu süreler uzatılabilir. Dolayısıyla 'hiçbir koşulda aşamaz' ifadesi mutlak anlamda doğru değildir; anayasa bu konuda olağanüstü hâl istisnasına yer verir. Diğer seçeneklerdeki ifadeler Anayasa'nın 19. maddesiyle uyumludur. Doğru cevap D seçeneğidir.",
-  "zorluk": "orta"
- },
- {
   "id": "34169",
   "dersId": "vatandaslik",
   "konuId": "temel_haklar",
@@ -2507,8 +2459,8 @@
    "Konuta konut sahibinin rızası olmaksızın girilemez; bu kural kural olarak hâkim kararına dayanır.",
    "Hâkim, yetkili merciin kararını en geç 48 saat içinde onaylamazsa el koyma ve arama işlemi kendiliğinden geçersiz hâle gelir."
   ],
-  "dogru": 1,
-  "aciklama": "Anayasa'nın 21. maddesi uyarınca gecikmesinde sakınca bulunan durumlarda yetkili merciin yazılı emriyle konuta girilebilir; bu karar 24 saat içinde görevli hâkimin onayına sunulur. Hâkim ise kararını 48 saat içinde açıklar; aksi hâlde el koyma kendiliğinden kalkar. C seçeneği '24 saat' ifadesiyle doğru olmakla birlikte soruda 'yanlış' olan şık aranmaktadır: Hâkimin 48 saat değil, 48 saatin dolması üzerine karar açıklaması gerekir; C şıkkında yer alan '24 saat' ifadesi aslında doğrudur. Ancak D şıkkında 'kendiliğinden geçersiz' ifadesi Anayasa metniyle çelişmektedir; Anayasa 'el koymanın kendiliğinden kalkacağını' öngörür, ancak tüm işlemin geçersizliğini değil. Doğru cevap D seçeneğidir.",
+  "dogru": 4,
+  "aciklama": "Anayasa'nın 21. maddesine göre yetkili merciin kararı yirmi dört saat içinde görevli hâkimin onayına sunulur. Hâkim, el koymanın yapılmasından itibaren kırk sekiz saat içinde kararını açıklar; aksi hâlde yalnızca el koyma kendiliğinden kalkar. Anayasa, aramanın kendiliğinden geçersiz hâle geleceğinden söz etmez; bu seçenek hükmü genişleterek metinden ayrılır. Bankada cevap olarak gösterilen \"Yetkili merciin kararı 24 saat içinde görevli hâkimin onayına sunulmalıdır.\" ifadesi ise Anayasa metninin neredeyse birebir tekrarıdır, dolayısıyla Anayasa'yla örtüşür. \"Gecikmesinde sakınca bulunan hâllerde kanunla yetkili kılınmış merciin yazılı emriyle konuta girilebilir.\" ifadesi de 21. maddedeki istisnayı doğru aktarır. Doğru cevap \"Hâkim, yetkili merciin kararını en geç 48 saat içinde onaylamazsa el koyma ve arama işlemi kendiliğinden geçersiz hâle gelir.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -3008,22 +2960,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "34201",
-  "dersId": "vatandaslik",
-  "konuId": "temel_haklar",
-  "soru": "Anayasa'nın 19. maddesi uyarınca tutukluluk süreleri bakımından aşağıdaki ifadelerin hangisi yanlıştır?",
-  "secenekler": [
-   "Tutuklanan kişinin durumu en geç kırk sekiz saat, toplu suçlarda dört gün içinde hâkim önüne çıkarılır.",
-   "Hâkim kararı olmaksızın yakalama, suçüstü hâli veya gecikmesinde sakınca bulunan hâllerle sınırlıdır.",
-   "Tutukluluk süreleri Anayasa'da belirtilen azami sınırlar olup kanunla kısaltılabilir ancak uzatılamaz.",
-   "Bireysel suçlarda tutukluluk süresi en fazla iki yıl olup bu süre uzatılabilir.",
-   "Toplu olarak işlenen suçlarda tutukluluk süresi dört yıla kadar uzatılabilir."
-  ],
-  "dogru": 3,
-  "aciklama": "Anayasa m.19'a göre bireysel suçlarda tutukluluk azami süresi hâkim kararıyla uzatılmak suretiyle toplam dört yıla kadar çıkabilir (her seferinde en fazla bir yıl uzatma, toplamda üç yıla kadar uzatma). 'En fazla iki yıl' ifadesi ve 'uzatılabilir' açıklamasının birleşimi yanıltıcıdır; Anayasa temel süreyi iki yıl değil, uzatma imkânlarıyla birlikte dört yıl olarak belirlemiştir. B şıkkı bu nedenle hatalıdır.",
-  "zorluk": "zor"
- },
- {
   "id": "34202",
   "dersId": "vatandaslik",
   "konuId": "temel_haklar",
@@ -3117,22 +3053,6 @@
   ],
   "dogru": 4,
   "aciklama": "Anayasa'nın 38. maddesine göre kimse, işlendiği zaman yürürlükte olan kanunun suç saymadığı bir fiilden dolayı cezalandırılamaz ve kanunda yazılı cezadan başka bir ceza verilemez. Bu ilke belirlilik, öngörülebilirlik ve kıyas yasağı unsurlarını içerir; suç ve ceza kanunda açık biçimde tanımlanmalıdır. \"Anayasa Mahkemesi, ceza kanunlarında yer alan belirsiz ve geniş kapsamlı ifadelerin kanunilik ilkesini ihlal etmediğine hükmetmiştir. Bu içtihat yerleşiktir.\" seçeneği yanlıştır, çünkü Mahkeme belirsiz düzenlemeleri kanunilik ilkesine aykırı bulabilmektedir. \"Türk hukukunda ceza normlarında aleyhe kıyas yasaktır; ancak lehe kıyas serbesttir ve uygulanması zorunludur.\" seçeneğindeki \"zorunludur\" kısmı dayanaksızdır. Doğru cevap \"Kanunilik ilkesi; belirlilik, öngörülebilirlik ve kıyas yasağı unsurlarını kapsar\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "34209",
-  "dersId": "vatandaslik",
-  "konuId": "temel_haklar",
-  "soru": "Bireysel başvuru yolunun kabul edilebilirlik koşulları bakımından aşağıdaki ifadelerden hangisi yanlıştır?",
-  "secenekler": [
-   "Bireysel başvuruda süre, ihlale ilişkin nihai kararın tebliğinden itibaren altmış gündür.",
-   "Anayasa Mahkemesi'ne bireysel başvuru yolu, 2010 anayasa değişikliklerinin ardından 23 Eylül 2012 tarihinde işlemeye başlamıştır.",
-   "Başvurucunun ihlal nedeniyle güncel ve kişisel bir mağduriyetinin bulunması gerekir.",
-   "Olağan kanun yollarının tüketilmesi zorunludur; aksi hâlde başvuru kabul edilemez bulunur.",
-   "Bireysel başvuruda önem kriteri bulunmadığından her başvurunun esastan incelenmesi zorunludur."
-  ],
-  "dogru": 4,
-  "aciklama": "6216 sayılı Kanun'un 48. maddesi uyarınca AYM, bireysel başvuruların açıkça dayanaktan yoksun olanlarını ya da anayasal açıdan önem taşımayanları kabul edilemez bulabilir. Dolayısıyla her başvurunun esastan incelenmesi zorunlu değildir; önem kriteri (açıkça dayanaktan yoksun olma, kabul edilemezlik) mevcuttur. E şıkkı bu nedenle yanlıştır. Diğer şıklar usul hukukuna uygun bilgiler içermektedir.",
   "zorluk": "zor"
  },
  {
@@ -3840,22 +3760,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "34262",
-  "dersId": "vatandaslik",
-  "konuId": "yasama_tbmm",
-  "soru": "Türkiye Büyük Millet Meclisi'nin olağan toplantı dönemi ve çalışma düzeniyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-  "secenekler": [
-   "TBMM oturum açılış ve kapanışları Meclis Başkanı tarafından yönetilir.",
-   "TBMM her yıl Ekim ayının ilk günü kendiliğinden toplanır.",
-   "TBMM kararlarını üye tam sayısının salt çoğunluğuyla alır; ancak Anayasa'da başka hüküm varsa bu esas geçerlidir.",
-   "TBMM, Cumhurbaşkanı'nın çağrısı olmaksızın olağanüstü toplantıya geçemez.",
-   "TBMM toplantı yeter sayısı üye tam sayısının üçte biridir."
-  ],
-  "dogru": 3,
-  "aciklama": "Anayasa'nın 93. maddesine göre TBMM, Meclis Başkanı'nın veya Cumhurbaşkanı'nın çağrısı üzerine ya da üyelerin salt çoğunluğunun yazılı istemi üzerine olağanüstü toplantıya çağrılabilir. Dolayısıyla Cumhurbaşkanı'nın çağrısı olmaksızın da olağanüstü toplantı mümkündür; D şıkkı yanlıştır. TBMM her yıl 1 Ekim'de kendiliğinden toplanır (A doğru), toplantı yeter sayısı üçte birdir (B doğru), kararlar salt çoğunlukla alınır (C doğru).",
-  "zorluk": "orta"
- },
- {
   "id": "34263",
   "dersId": "vatandaslik",
   "konuId": "yasama_tbmm",
@@ -3917,22 +3821,6 @@
   ],
   "dogru": 2,
   "aciklama": "Meclis araştırması, Anayasa'nın 98. maddesi uyarınca belirli bir konuda bilgi edinmek amacıyla yapılır. Meclis soruşturması ise 100. maddeye göre Cumhurbaşkanı yardımcıları ve bakanlar hakkında cezai sorumluluk iddiasıyla yürütülür. Soruşturma sonunda Yüce Divana sevk söz konusu olabilir. Soruşturma, Meclis içinde oluşturulan bir komisyon eliyle yürütülür. \"Meclis soruşturması sonuçlarının uygulanması Danıştay'ın onayına bağlıdır.\" ifadesi yanlıştır, çünkü sürece Danıştay karışmaz. \"Meclis soruşturması belirli bir konuyu incelemek amacıyla açılırken Meclis araştırması bakanlar hakkında cezai soruşturma başlatılmasını sağlayabilir...\" seçeneği ise iki kurumun işlevlerini tersine çevirdiği için yanlıştır. Doğru cevap \"Meclis araştırması belirli bir konuyu incelemek amacıyla açılırken Meclis soruşturması Cumhurbaşkanı yardımcıları ve bakanlar hakkında...\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
-  "id": "34268",
-  "dersId": "vatandaslik",
-  "konuId": "yasama_tbmm",
-  "soru": "Anayasa'ya göre TBMM'nin kanun yapma süreciyle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
-  "secenekler": [
-   "Kanun teklifleri yalnızca milletvekilleri tarafından verilebilir.",
-   "Cumhurbaşkanı, kanun teklif etme yetkisine sahip değildir.",
-   "Komisyonların kabul ettiği kanun metni Genel Kurul'da değiştirilemez.",
-   "Bütçe kanun teklifi, Maliye Bakanlığı tarafından doğrudan TBMM'ye sunulur.",
-   "Kanun teklifleri Türkçe olmak zorunda değildir."
-  ],
-  "dogru": 1,
-  "aciklama": "2017 Anayasa değişikliğiyle yürütme yetkisi Cumhurbaşkanı'na verilmiş, Bakanlar Kurulu kaldırılmıştır. Buna göre artık kanun tasarısı (hükümet tasarısı) usulü ortadan kalkmış ve kanun teklifleri yalnızca milletvekilleri tarafından verilebilir hâle gelmiştir. Cumhurbaşkanı'nın kanun teklif etme yetkisi Anayasa'da düzenlenmemiştir; dolayısıyla C şıkkı doğrudur. Bütçe teklifi ise Cumhurbaşkanı tarafından TBMM'ye sunulur (D yanlış). Komisyonların kabul ettiği metinler Genel Kurul'da değiştirilebilir (B yanlış).",
   "zorluk": "orta"
  },
  {
@@ -4174,22 +4062,6 @@
   "dogru": 3,
   "aciklama": "Anayasa'nın 106. maddesine göre meclis soruşturması yalnızca Cumhurbaşkanı yardımcıları ve bakanlar hakkında açılabilir. Soruşturma sonucunda TBMM, üye tam sayısının beşte üç çoğunluğuyla ilgili kişileri Yüce Divan'a (Anayasa Mahkemesi) sevk edebilir. Cumhurbaşkanı'nın görevle ilgili suçları için farklı bir meclis soruşturması prosedürü öngörülmüştür (2/3 çoğunluk).",
   "zorluk": "orta"
- },
- {
-  "id": "34285",
-  "dersId": "vatandaslik",
-  "konuId": "yasama_tbmm",
-  "soru": "1982 Anayasası'na göre TBMM'nin olağanüstü toplantıya çağrılmasına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
-  "secenekler": [
-   "TBMM Başkanı, TBMM'yi olağanüstü toplantıya çağırabilir.",
-   "Bakanlar Kurulu kararıyla da TBMM olağanüstü toplantıya çağrılabilir.",
-   "Olağanüstü toplantıda yalnızca toplantıyı gerektiren konu görüşülür.",
-   "Üyelerin salt çoğunluğunun yazılı talebi üzerine TBMM olağanüstü toplanır.",
-   "Cumhurbaşkanı, TBMM'yi olağanüstü toplantıya çağırabilir."
-  ],
-  "dogru": 1,
-  "aciklama": "2017 anayasa değişiklikleriyle Bakanlar Kurulu kaldırılmıştır. Bunun yanı sıra anayasada TBMM'yi olağanüstü toplantıya çağırma yetkisi Cumhurbaşkanı, TBMM Başkanı ve üyelerin salt çoğunluğunun yazılı talebiyle sınırlandırılmıştır. Bakanlar Kurulu böyle bir yetkiye zaten sahip olmamıştır; dolayısıyla E seçeneği hem kurumsal hem de yetkisel açıdan yanlış bir ifadedir.",
-  "zorluk": "zor"
  },
  {
   "id": "34286",
@@ -4780,7 +4652,7 @@
    "20 milletvekili – Meclis Başkanlık Divanı'nda temsil ve söz hakkı."
   ],
   "dogru": 4,
-  "aciklama": "TBMM İçtüzüğü'ne göre bir siyasi parti meclis grubu kurabilmek için en az 20 milletvekiline sahip olmak gerekir. Grup kurmanın en kritik pratik ayrıcalığı; Meclis Başkanlık Divanı'nda temsil, komisyonlarda orantılı temsil, söz süresinden yararlanma ve grup adına önerge verme haklarıdır. C şıkkındaki Anayasa Mahkemesi başvurusu da grup başkanvekillerine tanınan önemli bir hak olmakla birlikte, D ve E şıklarındaki sayılar ve haklar bu soruda yanlış eşleştirilmiştir. E şıkkındaki gensoru ise 2017'den itibaren mevcut değildir.",
+  "aciklama": "Anayasa'nın 95. maddesi ve İçtüzük'e göre bir siyasi partinin TBMM'de grup kurabilmesi için en az 20 milletvekili gerekir. Anayasa'nın 94. maddesine göre Başkanlık Divanı, siyasi parti gruplarının üye sayısı oranında katılımını sağlayacak biçimde kurulur. Gruplar ayrıca Genel Kurul görüşmelerinde grup adına söz alma hakkına sahiptir. Bu nedenle Başkanlık Divanı'nda temsil ve söz hakkı, gruba bağlı temel ayrıcalıktır. \"20 milletvekili – Anayasa Mahkemesi'ne soyut norm denetimi başvurusu yapma hakkı.\" seçeneği yanlıştır; iptal davası açma hakkı her gruba değil, en çok üyeye sahip iki gruba ve üye tamsayısının beşte biri tutarındaki milletvekillerine tanınmıştır. \"25 milletvekili – Gensoru önergesi verme hakkı.\" seçeneği de yanlıştır; hem sayı hatalıdır hem de gensoru 2017 değişikliğiyle kaldırılmıştır. Doğru cevap \"20 milletvekili – Meclis Başkanlık Divanı'nda temsil ve söz hakkı.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -5708,7 +5580,7 @@
    "Olağanüstü hal kararnameleri TBMM onayına sunulmaksızın yürürlüğe giremez"
   ],
   "dogru": 2,
-  "aciklama": "Anayasa'nın 119. maddesine göre olağanüstü hal süresince Cumhurbaşkanı, olağanüstü halin gerekli kıldığı konularda kararname çıkarabilir. Bu kararnameler Resmî Gazete'de yayımlandıkları gün TBMM onayına sunulur. Anayasa Mahkemesi ise olağanüstü hal kararnamelerini şekil ve esas bakımından denetleyemez. 2017 değişikliğiyle Bakanlar Kurulu kaldırıldığından E şıkkı da yanlıştır.",
+  "aciklama": "Anayasa'nın 119. maddesine göre olağanüstü hal süresince çıkarılan Cumhurbaşkanlığı kararnameleri Resmî Gazete'de yayımlanır ve aynı gün TBMM onayına sunulur. 148. maddeye göre ise bu kararnamelerin şekil ve esas bakımından Anayasa'ya aykırılığı iddiasıyla Anayasa Mahkemesi'nde dava açılamaz. Bu iki özellik birlikte doğrudur. \"Olağanüstü hal kararnameleri TBMM onayına sunulmaksızın yürürlüğe giremez\" seçeneği yanlıştır; kararname yayımıyla yürürlüğe girer, TBMM onayı sonradan gelir. \"Olağanüstü hal kararnameleri Anayasa Mahkemesi denetimine tabidir\" seçeneği 148. maddeye açıkça aykırıdır. Bakanlar Kurulu 2017 değişikliğiyle kaldırıldığı için müşterek imzadan söz eden seçenek de geçersizdir. Doğru cevap \"Olağanüstü hal kararnameleri Resmî Gazete'de yayımlandıktan sonra aynı gün TBMM onayına sunulur ve Anayasa Mahkemesi denetimine tabi tutulmaz\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -5776,22 +5648,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "34400",
-  "dersId": "vatandaslik",
-  "konuId": "yurutme",
-  "soru": "Türkiye'de yürütme yetkisine ilişkin aşağıdaki ifadelerden hangisi Anayasa'ya göre doğrudur?",
-  "secenekler": [
-   "Yürütme yetkisi ve görevi Cumhurbaşkanına aittir; Cumhurbaşkanı bu yetkiyi anayasa ve kanunlara uygun olarak kullanır",
-   "Yürütme yetkisi ve görevi Cumhurbaşkanı ve Bakanlar Kuruluna aittir",
-   "Yürütme yetkisi asli nitelikte olup Cumhurbaşkanı bu yetkiyi anayasal sınırlar dışında da kullanabilir",
-   "Yürütme yetkisi yasama organından devredilmiş bir yetkidir ve bu nedenle TBMM denetimine tabidir",
-   "Yürütme yetkisi ve görevi yalnızca Cumhurbaşkanına aittir"
-  ],
-  "dogru": 0,
-  "aciklama": "Anayasa'nın 8. maddesi, 2017 değişikliğiyle 'yürütme yetkisi ve görevi, Cumhurbaşkanı tarafından, Anayasa ve kanunlara uygun olarak kullanılır ve yerine getirilir' şeklinde düzenlenmiştir. Eski düzenlemede 'Cumhurbaşkanı ve Bakanlar Kurulu' ibaresi yer alıyordu. Cumhurbaşkanının yetkisi anayasal sınırlarla çerçevelenmiş olup E şıkkındaki gibi sınırsız değildir. D şıkkındaki 'devredilmiş yetki' ifadesi ise yargı için geçerli olan bir kavramsal çerçevedir.",
-  "zorluk": "orta"
- },
- {
   "id": "34401",
   "dersId": "vatandaslik",
   "konuId": "yurutme",
@@ -5820,7 +5676,7 @@
    "Cumhurbaşkanlığı İnsan Kaynakları Ofisi bir Cumhurbaşkanlığı politika kurulu niteliğindedir"
   ],
   "dogru": 4,
-  "aciklama": "Cumhurbaşkanlığı İnsan Kaynakları Ofisi bir politika kurulu değil, Cumhurbaşkanlığına bağlı bir ofis niteliğindedir. Cumhurbaşkanlığı ofisleri (İnsan Kaynakları Ofisi, Dijital Dönüşüm Ofisi, Yatırım Ofisi vb.) ile politika kurulları (Ekonomi Politikaları Kurulu, Eğitim ve Öğretim Politikaları Kurulu vb.) birbirinden farklı yapılardır. D şıkkı bu ayrımı hatalı biçimde sunmaktadır. Diğer şıklarda yer alan bilgiler ise Cumhurbaşkanlığı Hükümet Sistemi'nin temel yapısıyla örtüşmektedir.",
+  "aciklama": "Cumhurbaşkanlığı İnsan Kaynakları Ofisi, 1 sayılı Cumhurbaşkanlığı Kararnamesi'nde \"ofis\" olarak düzenlenmiştir; politika kurulu değildir. Politika kurulları ayrı bir yapıdır. Bu nedenle yanlış olan ifade budur. Diğer ifadeler doğrudur. Devlet Denetleme Kurulu, Anayasa'nın 108. maddesine göre Cumhurbaşkanlığına bağlıdır ve Cumhurbaşkanının isteği üzerine denetim yapar. Diyanet İşleri Başkanlığı, Anayasa'nın 136. maddesine göre genel idare içinde yer alır ve 2018 sonrası düzenlemeyle Cumhurbaşkanlığına bağlı kuruluşlar arasındadır. Bu yüzden itirazdaki \"ilgili yapıdadır\" iddiası yerinde değildir. İletişim Başkanlığı ve Millî İstihbarat Teşkilatı da Cumhurbaşkanlığına bağlı kuruluşlardır. Doğru cevap \"Cumhurbaşkanlığı İnsan Kaynakları Ofisi bir Cumhurbaşkanlığı politika kurulu niteliğindedir\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -6176,22 +6032,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "34434",
-  "dersId": "vatandaslik",
-  "konuId": "yurutme",
-  "soru": "1982 Anayasası'na göre, Cumhurbaşkanı'nın Anayasa Mahkemesi'ne bireysel başvuru yoluyla değil, doğrudan norm denetimi yoluyla başvurabilmesi için aşağıdaki koşullardan hangisi tek başına yeterlidir?",
-  "secenekler": [
-   "TBMM'de kabul edilen bir kanunun Resmî Gazete'de yayımlanmadan önce Cumhurbaşkanı'nca iade edilmemiş olması ve süresinde onaylanması",
-   "Cumhurbaşkanı'nın iptali istenen kanunu onaylamamış ve Resmî Gazete'de yayımlanmasından itibaren altmış gün içinde başvurmuş olması",
-   "Cumhurbaşkanı'nın söz konusu kanunun Anayasa'ya aykırı olduğuna kişisel olarak kanaat getirmesi",
-   "Söz konusu kanunun temel hak ve özgürlükleri kısıtlayan bir düzenleme içermesi",
-   "Kanunun yürürlüğe girmesinden itibaren henüz altmış günlük iptal başvuru süresinin dolmamış olması"
-  ],
-  "dogru": 1,
-  "aciklama": "Anayasa'nın 150. maddesi uyarınca soyut norm denetiminde Cumhurbaşkanı, Resmî Gazete'de yayımlanan kanunların yayım tarihinden itibaren altmış gün içinde Anayasa Mahkemesi'ne iptal davası açabilir. Cumhurbaşkanı'nın daha önce kanunu onaylamamış olması bu başvuruyu engellemez; zira iade ve iptal başvurusu birbirinden bağımsız anayasal yetkilerdir. Ancak altmış günlük hak düşürücü süreye riayet zorunludur; bu nedenle D şıkkı tek başına yeterli ve doğru koşulları barındırmaktadır.",
-  "zorluk": "zor"
- },
- {
   "id": "34435",
   "dersId": "vatandaslik",
   "konuId": "yurutme",
@@ -6272,22 +6112,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "34440",
-  "dersId": "vatandaslik",
-  "konuId": "yurutme",
-  "soru": "Cumhurbaşkanı'nın geçici olarak görevden ayrılması durumunda yerine kim vekâlet eder ve bu vekâlet döneminde Cumhurbaşkanlığına özgü hangi yetkiler kullanılamaz?",
-  "secenekler": [
-   "TBMM Başkanı vekâlet eder; vekâlet döneminde hiçbir yürütme yetkisi kullanılamaz.",
-   "Bakanlar Kurulu Başkanı sıfatıyla en kıdemli bakan vekâlet eder; vekâlet döneminde kanunu iade etme yetkisi hiçbir biçimde kullanılamaz. Bu yasak Anayasa'da yer alır.",
-   "Cumhurbaşkanı yardımcısı vekâlet eder; vekâlet döneminde CBK çıkarma yetkisi kullanılamaz.",
-   "Cumhurbaşkanı yardımcısı vekâlet eder; anayasal açıdan kullanılamayacak özel bir yasak düzenlenmemiştir, ancak Anayasa değişikliğine onay verilemez.",
-   "Birinci sıradaki Cumhurbaşkanı yardımcısı vekâlet eder; vekâlet döneminde TBMM'yi fesih yetkisi kullanılamaz."
-  ],
-  "dogru": 3,
-  "aciklama": "Anayasa'nın 106. maddesi uyarınca Cumhurbaşkanı'nın geçici yokluğunda Cumhurbaşkanı yardımcısı vekâlet eder. Anayasa, bu vekâlet döneminde hangi yetkilerin kullanılamayacağına dair özel bir yasak öngörmemiş olmakla birlikte, anayasa değişikliklerini onaylama yetkisinin (md. 175) seçilmiş ve asıl Cumhurbaşkanı'na özgü olduğu, vekil sıfatıyla bu yetkinin kullanılmasının hukuki açıdan tartışmalı olduğu öğretide genel kabul görmektedir. E şıkkındaki 'fesih' ifadesi teknik olarak yanlıştır; sistem TBMM'nin feshine değil, seçim kararına dayanır.",
-  "zorluk": "zor"
- },
- {
   "id": "34441",
   "dersId": "vatandaslik",
   "konuId": "yurutme",
@@ -6348,7 +6172,7 @@
    "Bütçe TBMM tarafından reddedilirse Cumhurbaşkanı geçici bütçe CBK'sı çıkararak bütçeyi yürürlüğe koyabilir."
   ],
   "dogru": 1,
-  "aciklama": "Anayasa'nın 162. maddesi uyarınca bütçe kanunu teklifi otuz günlük süre içinde TBMM Genel Kurulunca kabul edilmezse ya reddedilirse, bir önceki yılın bütçesi yenisi kabul edilene dek geçici bütçe olarak devam eder. Bu düzenleme, bütçesizlik krizini önlemeye yönelik bir güvence mekanizmasıdır. Cumhurbaşkanı'nın bütçeyi veto yetkisi (A) 2017 değişiklikleri sonrasında bütçe kanunları bakımından kullanılamamaktadır; Cumhurbaşkanı bütçeyi iade edemez.",
+  "aciklama": "Anayasa'nın 161. maddesine göre bütçe kanunu süresinde yürürlüğe konulamazsa önce geçici bütçe kanunu çıkarılır. Geçici bütçe kanunu da kabul edilmezse, yeni yıl bütçesi kabul edilinceye kadar bir önceki yılın bütçesi yeniden değerleme oranına göre artırılarak uygulanır. Seçenek bu süreci sadeleştirerek anlatıyor, ancak anayasal sonucu en doğru yansıtan ifade odur. \"Bütçe TBMM tarafından reddedilirse Cumhurbaşkanı geçici bütçe CBK'sı çıkararak bütçeyi yürürlüğe koyabilir.\" seçeneği yanlıştır; çünkü bütçe kanunla düzenlenmesi gereken bir konudur ve Cumhurbaşkanlığı kararnamesiyle bütçe yapılamaz. \"Bütçenin reddedilmesi erken seçim için zorunlu anayasal gerekçe oluşturur ve seçim otomatik olarak yenilenir.\" seçeneği de yanlıştır; Anayasa bütçenin reddine otomatik seçim sonucu bağlamaz. Seçimin yenilenmesi ayrı bir karar gerektirir. Doğru cevap \"TBMM'nin bütçeyi reddetmesi hâlinde bir önceki yıl bütçesi, yenisi kabul edilene kadar geçici bütçe olarak uygulanır.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -6816,22 +6640,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "34480",
-  "dersId": "vatandaslik",
-  "konuId": "yargi_organlari",
-  "soru": "Danıştay'ın görevlerine ilişkin aşağıdakilerden hangisi doğrudur?",
-  "secenekler": [
-   "Danıştay, hakim ve savcıların disiplin işlemlerini karara bağlar.",
-   "Danıştay, Bakanlar Kurulu kararnamelerini re'sen denetleme yetkisine sahiptir.",
-   "Danıştay kararları kesin olup hiçbir mercide itiraz konusu yapılamaz.",
-   "Danıştay, milletvekili seçimlerine yönelik itirazları kesin olarak karara bağlar.",
-   "Danıştay, başbakanlık ve bakanlıklarca gönderilen kanun tasarıları ile tüzük taslaklarını inceler."
-  ],
-  "dogru": 4,
-  "aciklama": "Anayasa'nın 155. maddesi uyarınca Danıştay; idare mahkemelerince verilen kararların son inceleme mercii olmanın yanı sıra, kanun tasarılarını ve tüzükleri incelemek, idari uyuşmazlıkları ve davaları çözümlemek görevlerini üstlenir. A seçeneği YSK'nın, E seçeneği HSK'nın görevidir. D seçeneği ise yanıltıcıdır; Danıştay kararları da kanun yollarına taşınabilir.",
-  "zorluk": "orta"
- },
- {
   "id": "34482",
   "dersId": "vatandaslik",
   "konuId": "yargi_organlari",
@@ -6860,7 +6668,7 @@
    "Adalet Bakanı, HSK'nın doğal üyesi ve Başkanı'dır."
   ],
   "dogru": 4,
-  "aciklama": "2017 Anayasa değişikliklerinin ardından HSK; Adalet Bakanı başkanlığında, Adalet Bakanlığı Müsteşarı doğal üye olmak üzere toplam 13 üyeden oluşmaktadır. Adalet Bakanı doğal başkan, Müsteşar ise doğal üyedir. C seçeneği yanlıştır; HSK kararları kesin olup yargı yolu kapalıdır. D seçeneği kısmen doğru olmakla birlikte eksiktir; üyelerin bir bölümü Cumhurbaşkanı tarafından atanmaktadır.",
+  "aciklama": "Anayasa'nın 159. maddesine göre Hâkimler ve Savcılar Kurulu on üç üyeden oluşur. Kurulun Başkanı Adalet Bakanıdır; Adalet Bakan Yardımcısı da tabii üyedir. Adalet Bakanı bu on üç üye arasında sayıldığı ve görevi gereği kurulda bulunduğu için öğretide tabii, yani doğal üye kabul edilir. Bu nedenle anahtardaki ifade doğrudur. \"HSK kararlarına karşı idare mahkemelerinde dava açılabilir.\" seçeneği yanlıştır; meslekten çıkarma cezası dışındaki kurul kararlarına karşı yargı yolu kapalıdır. Meslekten çıkarma kararlarına karşı ise idare mahkemesine değil Danıştay'a başvurulur. \"HSK Başkanı, Cumhurbaşkanı tarafından HSK üyeleri arasından seçilir.\" seçeneği de yanlıştır; başkanlık seçimle belirlenmez, doğrudan Adalet Bakanına aittir. Doğru cevap \"Adalet Bakanı, HSK'nın doğal üyesi ve Başkanı'dır.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -7021,22 +6829,6 @@
   ],
   "dogru": 2,
   "aciklama": "Anayasa Mahkemesi'ne bireysel başvuru, Anayasa'da güvence altına alınan ve Avrupa İnsan Hakları Sözleşmesi kapsamına giren temel hak ve özgürlüklerin kamu gücü tarafından ihlal edildiği iddiasıyla yapılır. Olağan kanun yolları tüketilmeden başvuru yapılamaz ve başvurucunun güncel ve kişisel bir hakkının doğrudan etkilenmiş olması gerekir. Başvuru hakkı yalnızca vatandaşlara değil, ihlal mağduru olduğunu iddia eden gerçek kişilere ve özel hukuk tüzel kişilerine, dolayısıyla yabancılara da tanınmıştır. \"Bireysel başvuru hakkı, yalnızca Türk vatandaşlarına tanınmış olup yabancılar bu haktan yararlanamaz.\" ifadesi bu nedenle yanlıştır. Doğru cevap \"Bireysel başvuru hakkı, yalnızca Türk vatandaşlarına tanınmış olup yabancılar bu haktan yararlanamaz.\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
-  "id": "34495",
-  "dersId": "vatandaslik",
-  "konuId": "yargi_organlari",
-  "soru": "Aşağıdakilerden hangisi Danıştay'ın görevleri arasında yer almaz?",
-  "secenekler": [
-   "Cumhurbaşkanlığı kararnameleri hakkında görüş bildirmek",
-   "Başbakanlık ve Bakanlar Kurulu'ndan gönderilen kanun tasarılarını incelemek",
-   "Adli yargı mahkemelerince verilen hükümlerin istinaf aşamasında denetlenmesi",
-   "Kamu hizmetleri ile ilgili imtiyaz şartlaşma ve sözleşmelerini incelemek",
-   "İdare mahkemelerince verilen kararların temyiz mercii olarak incelenmesi"
-  ],
-  "dogru": 2,
-  "aciklama": "Danıştay, idare ve vergi mahkemelerinin kararlarını temyiz mercii olarak inceleyen en yüksek idari yargı organıdır. Adli yargı mahkemelerindeki istinaf aşaması ise Bölge Adliye Mahkemeleri tarafından yürütülür. Danıştay'ın adli yargı ile herhangi bir istinaf bağlantısı bulunmamaktadır. E şıkkı bu nedenle yanlıştır ve doğru yanıttır.",
   "zorluk": "orta"
  },
  {
@@ -7307,8 +7099,8 @@
    "Olağanüstü hâl kararnameleri hem şekil hem esas bakımından Anayasa Mahkemesi denetimine tabidir.",
    "Olağanüstü hâl kararnamelerine karşı bireysel başvuru yolu açıktır."
   ],
-  "dogru": 2,
-  "aciklama": "Anayasa m. 148/1 son cümlesi uyarınca olağanüstü hallerde çıkarılan Cumhurbaşkanlığı kararnameleri şekil ve esas bakımından Anayasa Mahkemesi'nce denetlenemez. Bu, Anayasa'nın açık istisnasıdır. Dolayısıyla A şıkkı doğrudur. Bireysel başvuru yolu da bu kararnamelerin doğrudan uygulanmasından kaynaklanan hak ihlalleri için mümkün değildir; bireysel başvuruda norm denetimi yapılmaz.",
+  "dogru": 3,
+  "aciklama": "1982 Anayasası'nın eski metninde olağanüstü hâl kanun hükmünde kararnameleri için Anayasa Mahkemesi'nde dava açılamayacağı öngörülüyordu. 2017 değişikliğiyle 148. maddedeki bu istisna kaldırıldı. Böylece olağanüstü hâl döneminde çıkarılan Cumhurbaşkanlığı kararnameleri de diğer kararnameler gibi hem şekil hem esas bakımından Anayasa Mahkemesi denetimine tabi hâle geldi. \"Olağanüstü hâl kararnameleri Anayasa Mahkemesi'nin denetimi dışında tutulmuştur.\" seçeneği yürürlükten kalkmış eski düzenlemeyi yansıttığı için yanlıştır. \"Olağanüstü hâl kararnamelerine karşı bireysel başvuru yolu açıktır.\" seçeneği de yanlıştır; bireysel başvuru düzenleyici işlemlere karşı doğrudan kullanılamaz, yalnızca bunlara dayanan bireysel işlem ve kararlar nedeniyle yapılabilir. Doğru cevap \"Olağanüstü hâl kararnameleri hem şekil hem esas bakımından Anayasa Mahkemesi denetimine tabidir.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -7376,22 +7168,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "34521",
-  "dersId": "vatandaslik",
-  "konuId": "yargi_organlari",
-  "soru": "Avrupa İnsan Hakları Mahkemesi'nin Türkiye aleyhine verdiği pilot karar niteliğindeki bir ihlal kararından sonra iç hukukta hangi mekanizma devreye girer?",
-  "secenekler": [
-   "Anayasa Mahkemesi, AİHM kararı doğrultusunda ilgili kanunu re'sen iptal eder.",
-   "Pilot kararlar yalnızca tazminat içerdiğinden iç hukukta herhangi bir yapısal değişiklik gerektirmez.",
-   "Danıştay, AİHM kararını re'sen uygulamakla yükümlüdür ve davalıyı yeniden yargılar.",
-   "AİHM pilot kararı, Türk mahkemelerinde doğrudan bağlayıcı hüküm niteliği taşır ve başka bir işleme gerek kalmaksızın uygulanır.",
-   "Yeniden yargılama yolu açılır; AİHM kararı kesinleşip Türk hukukunda tescil edilmişse mahkûm kişi yargılamanın yenilenmesi talebinde bulunabilir."
-  ],
-  "dogru": 4,
-  "aciklama": "5271 sayılı CMK m. 311/1-f gereği AİHM'nin kesinleşmiş ihlal kararı, yargılamanın yenilenmesi sebebi oluşturur. Pilot kararlar yapısal sorunları tespit eder ve devletten reformlar yapmasını bekler; ancak Türk mahkemelerinde doğrudan hüküm niteliği taşımaz (D yanlış). Anayasa Mahkemesi re'sen iptal yapmaz (B yanlış). Danıştay, AİHM kararı nedeniyle re'sen yeniden yargılama başlatamaz (A yanlış). Pilot kararlar salt tazminat içermez, yapısal reform öngörür (E yanlış).",
-  "zorluk": "zor"
- },
- {
   "id": "34522",
   "dersId": "vatandaslik",
   "konuId": "yargi_organlari",
@@ -7437,38 +7213,6 @@
   ],
   "dogru": 2,
   "aciklama": "Bireysel başvuruda kişi bakımından yetki kuralı gereği başvurucu, ihlalden bizzat etkilenmiş olmalıdır. Üçüncü kişi adına —rıza olsa dahi— başvurmak mümkün değildir; bu durum 'güncel kişisel hak ihlali' şartını doğrudan zedeler ve başvuru kabul edilemez bulunur. Diğer seçeneklerde tartışmalı olmakla birlikte başvuruculuğu tam olarak dışlayan net bir engel bulunmaz: A'da potansiyel ağır tehdit teorisi gündeme gelebilir; B ve D'de ihlal tespiti ve tazminat talepleri değerlendirilebilir; E'de tüzel kişinin bizzat mağdur olduğu kabul edilebilir.",
-  "zorluk": "zor"
- },
- {
-  "id": "34525",
-  "dersId": "vatandaslik",
-  "konuId": "yargi_organlari",
-  "soru": "Danıştay'ın hem ilk derece mahkemesi hem de temyiz mercii sıfatını taşıdığı dikkate alındığında, aşağıdaki davalardan hangisi Danıştay'ın doğrudan ilk derece sıfatıyla görüleceği davalar arasında yer ALMAZ?",
-  "secenekler": [
-   "Birden fazla idare mahkemesinin yargı çevresini ilgilendiren davalarda Danıştay'ın kendiliğinden dava alması",
-   "Bakanlar Kurulu kararnameleri ile Cumhurbaşkanlığı kararnamelerinin iptali talepleri",
-   "Birden fazla idare mahkemesinin yargı çevresini kapsayan uyuşmazlıklar",
-   "İl sınırlarını aşan, birden çok valiliği kapsayan idari işlemlerden doğan uyuşmazlıklar",
-   "Başbakanlık ve bakanlıklar ile bunlara bağlı kuruluşların müsteşar ve üstü makamlarının işlemleri"
-  ],
-  "dogru": 1,
-  "aciklama": "Cumhurbaşkanlığı kararnameleri de dahil olmak üzere normların anayasaya aykırılığı iddiasıyla açılan iptal davaları Anayasa Mahkemesi'nin görev alanındadır; Danıştay bu tür davalara ilk derece sıfatıyla bakamaz. Danıştay'ın ilk derece yargı yetkisi İdari Yargılama Usulü Kanunu'nun 24. maddesiyle sınırlı sayılmıştır: bakanlık ve üstü kademe işlemleri, birden fazla idare mahkemesinin yargı çevresini aşan uyuşmazlıklar ve benzeri durumlar bu kapsamdadır. Dolayısıyla B seçeneği, Danıştay'ın değil AYM'nin yetki alanındadır.",
-  "zorluk": "zor"
- },
- {
-  "id": "34526",
-  "dersId": "vatandaslik",
-  "konuId": "yargi_organlari",
-  "soru": "Anayasa'nın 148. maddesi uyarınca Anayasa Mahkemesi, kanunların, Cumhurbaşkanlığı kararnamelerinin ve TBMM İç Tüzüğü'nün anayasaya uygunluğunu denetler. Bu çerçevede aşağıdaki ifadelerden hangisi yanlıştır?",
-  "secenekler": [
-   "Bireysel başvuruda AYM, alt derece mahkemelerinin maddi hukuku yorumunu denetleyebilir; bu denetim hakkın özüne dokunulup dokunulmadığı sorusuyla sınırlı değildir.",
-   "Olağanüstü hal kapsamında çıkarılan Cumhurbaşkanlığı kararnameleri yargısal denetimin tamamen dışındadır.",
-   "Anayasa Mahkemesi, iptal kararlarında kanunun yürürlüğünü bir yıla kadar erteleyebilir.",
-   "Anayasa değişiklikleri yalnızca şekil bakımından denetlenebilir; esas bakımdan denetlenemez.",
-   "Uluslararası antlaşmalar, usulünce onaylanmalarının ardından anayasaya aykırılık iddiasıyla iptal davasına konu edilemez. Bu kural Anayasa'nın 90. maddesinde düzenlenmiştir."
-  ],
-  "dogru": 0,
-  "aciklama": "Bireysel başvuruda Anayasa Mahkemesi bir temyiz mercii değildir; kanun yolunda yapılan yorumun isabetini ya da mahkemelerin delil değerlendirmesini denetlemez. AYM yalnızca temel hakların ihlal edilip edilmediğini inceler; alt derece mahkemelerinin maddi hukuku nasıl yorumladığını genel olarak gözden geçiremez. Dolayısıyla E seçeneği, yetkinin sınırsız biçimde tanımlandığı için yanlıştır. Diğer şıklar anayasal çerçeveyle uyumludur: A —olağanüstü hal KHK'larının (eski rejimde) denetim dışı bırakıldığına ilişkin yerleşik içtihat; B —148/1; C —90/son; D —153/3.",
   "zorluk": "zor"
  },
  {
@@ -7643,8 +7387,8 @@
    "Üçte iki çoğunluk sağlanamazsa parti kapatılamaz; ancak mahkeme devlet yardımından kısmen yoksun bırakma kararı verebilir.",
    "Salt çoğunlukla kapatma kararı verilebilir; kapatılan partinin her üyesi bir daha siyasi faaliyette bulunamaz."
   ],
-  "dogru": 3,
-  "aciklama": "Anayasa'nın 69. maddesine göre siyasi partinin kapatılmasına, AYM üye tam sayısının üçte iki çoğunluğunun oyu ile karar verilir. Bu çoğunluğa ulaşılamazsa mahkeme, eylemlerin ağırlığına göre partinin Devlet yardımından kısmen veya tamamen yoksun bırakılmasına hükmedebilir. Dolayısıyla C doğrudur. A'nın ikinci kısmı kısmen doğru (malvarlığı Hazine'ye devredilir) olmakla birlikte salt çoğunluk iddiası yanlıştır. B'deki salt çoğunluk ve 'her üye' ifadesi yanlıştır. D'deki beşte üç çoğunluk ve TBMM'nin rolü yanlıştır. E'deki 'herhangi bir yaptırım uygulanamaz' ifadesi de yanlıştır.",
+  "dogru": 0,
+  "aciklama": "Anayasa'nın 149. maddesine göre siyasi partinin kapatılmasına karar verilebilmesi için Anayasa Mahkemesi üye tamsayısının üçte iki oy çokluğu gerekir. Siyasi Partiler Kanunu uyarınca da kapatılan partinin bütün malvarlığı Hazine'ye geçer; bu nedenle hem çoğunluk hem sonuç bakımından doğru olan seçenek budur. Bankadaki \"Üçte iki çoğunluk sağlanamazsa parti kapatılamaz; ancak mahkeme devlet yardımından kısmen yoksun bırakma kararı verebilir\" ifadesi yanıltıcıdır, çünkü aynı madde devlet yardımından yoksun bırakma kararı için de üçte iki çoğunluğu şart koşar. Bu çoğunluk sağlanamazsa yardım kesme kararı da verilemez. \"Beşte üç çoğunlukla kapatma kararı verilebilir\" seçeneği ise hem oran hem de sonuçları TBMM'nin belirlediği iddiası nedeniyle yanlıştır. Doğru cevap \"Üçte iki çoğunlukla kapatma kararı verilebilir; kapatılan partinin malvarlığı Hazine'ye devredilir.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -9344,22 +9088,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "34648",
-  "dersId": "vatandaslik",
-  "konuId": "i_dare_hukuku",
-  "soru": "İdare hukukunda 'yetki genişliği' ilkesi ile 'yetki devri' kurumu karşılaştırıldığında aşağıdaki ifadelerden hangisi kesinlikle doğrudur?",
-  "secenekler": [
-   "Yetki devrinde devreden makam o konudaki yetkisini geçici olarak yine de kullanabilir; yetki genişliğinde ise illerde merkezi idare adına karar verme yetkisi doğrudan valiye aittir.",
-   "Her iki kurumda da asıl yetkili makam yetkisini tamamen devreder ve artık o konuda karar alamaz.",
-   "Yetki genişliği anayasal temele dayanırken yetki devri yalnızca yönetmelik düzeyinde düzenlenebilir.",
-   "Yetki devri yazılı olmak ve Resmî Gazete'de yayımlanmak zorundadır; aksi hâlde devredilen yetkiyle tesis edilen işlem yoklukla maluldür.",
-   "Yetki genişliği merkezden yönetimi yumuşatan bir istisnadır ve valiler bu yetkiyle tüm bakanlık kararlarını geri alabilir."
-  ],
-  "dogru": 3,
-  "aciklama": "Yetki devri, hukuki geçerlilik için yazılı biçimde yapılmalı ve Resmî Gazete'de yayımlanmalıdır; bu koşullara uyulmadan gerçekleştirilen yetki devri geçersizdir ve bu yetkiyle tesis edilen işlemler yetki unsuru bakımından hukuka aykırı sayılır. Yetki genişliği ise merkezden yönetimin sakıncalarını gidermek amacıyla Anayasa'nın 126. maddesinde düzenlenmiş; valilere belirli konularda merkez adına karar verme imkânı tanınmıştır. Yetki devrinde asıl yetkili makam yetkisini kullanmaya devam edemez (A şıkkı yanlış). Yetki genişliği valilere tüm bakanlık kararlarını geri alma yetkisi vermez (D şıkkı yanlış). Doğru yanıt E'dir. Not: Bu soruda F seçeneği biçimsel olarak eklenmiş olmakla birlikte ÖSYM formatı 5 şık (A-E) üzerinedir.",
-  "zorluk": "zor"
- },
- {
   "id": "34649",
   "dersId": "vatandaslik",
   "konuId": "i_dare_hukuku",
@@ -9612,7 +9340,7 @@
    "Hakimler ve Savcılar Kurulu'nun meslekten çıkarma kararları dışındaki bazı kararlarının yargısal denetim dışında tutulması"
   ],
   "dogru": 4,
-  "aciklama": "Anayasa'nın 125. maddesi kural olarak yargı yolunu herkese açık tutar. Ancak 159. madde uyarınca Hâkimler ve Savcılar Kurulu'nun (HSK) meslekten çıkarma dışındaki bazı kararları (atama, nakil, terfi vb.) yargısal denetim dışındaydı. 2017 anayasa değişiklikleriyle bu alan daraltılmış, ancak meslekten çıkarma kararlarına karşı Danıştay yolu açılmıştır. YAŞ kararlarının da 2010 değişiklikleriyle yargı denetimine açıldığı bilinmektedir. Soru, klasik 'yargı yolu kapalı' istisnasını sormaktadır; HSK kararlarının bir kısmı bu istisnayı oluşturmaktaydı. D seçeneği bu anayasal istisnayı en doğru biçimde yansıtmaktadır.",
+  "aciklama": "Anayasa'nın 159. maddesine göre Hakimler ve Savcılar Kurulu kararlarına karşı, meslekten çıkarma cezasına ilişkin olanlar dışında yargı mercilerine başvurulamaz. Bu düzenleme, 125. maddedeki idarenin her türlü eylem ve işlemine karşı yargı yolunun açık olduğu ilkesinin anayasal bir istisnasıdır. \"Yüksek Askeri Şura kararlarının tümünün yargısal denetimi\" seçeneği istisna değil, ilkenin kendisini anlatır; üstelik YAŞ kararlarının yalnızca bir kısmı denetim dışındadır. \"Siyasi parti kapatma kararlarının Danıştay yerine Anayasa Mahkemesi'nde görülmesi\" ise bir idari işlemin denetim dışı kalması değildir; bu bir görev dağılımı meselesidir. Olağanüstü hal Cumhurbaşkanlığı kararnameleri de zaten Anayasa Mahkemesi denetimine tabidir. Doğru cevap \"Hakimler ve Savcılar Kurulu'nun meslekten çıkarma kararları dışındaki bazı kararlarının yargısal denetim dışında tutulması\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -11088,22 +10816,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "34765",
-  "dersId": "vatandaslik",
-  "konuId": "yerel_yonetimler",
-  "soru": "5393 sayılı Belediye Kanunu'na göre belediye meclisi kararlarını onaylama ve yayımlama süreciyle ilgili aşağıdakilerden hangisi doğrudur?",
-  "secenekler": [
-   "Belediye başkanı kararları onaylamaz ve iade de etmezse kararlar kendiliğinden kesinleşir.",
-   "Belediye başkanı, meclisten gelen kararları 7 gün içinde onaylamak veya iade etmek zorundadır.",
-   "Belediye başkanı hukuka aykırı gördüğü kararları doğrudan idare mahkemesine taşıyabilir; meclise iade yolunu kullanmak zorunda değildir.",
-   "Belediye başkanı iade ettiği kararı meclis salt çoğunlukla aynen kabul ederse karar kesinleşir.",
-   "Belediye başkanı iade ettiği kararı meclis üçte iki çoğunlukla tekrar kabul ederse karar kesinleşir."
-  ],
-  "dogru": 3,
-  "aciklama": "5393 sayılı Kanun'a göre belediye başkanı meclisten gelen kararları 5 iş günü içinde onaylar ya da iade eder. İade edilen karar, meclis tarafından salt çoğunlukla (üye tam sayısının yarısından fazlası) aynen kabul edilirse karar kesinleşir ve başkan bu kararı onaylamak zorundadır. Başkan hukuka aykırılık gerekçesiyle idare mahkemesine başvurma hakkına da sahiptir; ancak önce iade yolunu denemesi gerekmez. 5 gün içinde herhangi bir işlem yapılmazsa kararlar kesinleşmiş sayılır (E şıkkı kısmen doğru görünse de iade etmeme ile onaylamama farklı kavramlardır ve bu şık yanıltıcıdır). Doğru yanıt C'dir.",
-  "zorluk": "orta"
- },
- {
   "id": "34766",
   "dersId": "vatandaslik",
   "konuId": "yerel_yonetimler",
@@ -11547,8 +11259,8 @@
    "Stratejik plan, belediye başkanı tarafından hazırlanır ve belediye meclisince kabul edilerek yürürlüğe girer. Meclis kararı kesindir.",
    "Stratejik planlar beş yıllık dönemler için hazırlanır."
   ],
-  "dogru": 2,
-  "aciklama": "5393 sayılı Belediye Kanunu'nun 41. maddesine göre, nüfusu 50.000 ve üzerinde olan belediyelerin stratejik plan hazırlaması zorunludur; ancak nüfusu 50.000'in altında olan belediyeler için bu zorunluluk bulunmamaktadır. Büyükşehir belediyeleri nüfus şartından bağımsız olarak stratejik plan yapmakla yükümlüdür. Seçenek C'deki ifade kısmen doğru görünse de yanlışlık 'büyükşehirlere özgü' şeklinde sunulan ayrımda değil; asıl hata 'nüfusu 50.000'in altındakilerde isteğe bağlıdır' ifadesinin belirsiz bırakılan kısmında değil; nüfus sınırının yanlış kategorize edilmesindedir. Stratejik plan zorunluluğu nüfusa göre belirlenir, belediye türüne göre değil. Bu nedenle C şıkkı, zorunluluğu yalnızca büyükşehirlere bağlamakla yanıltıcıdır.",
+  "dogru": 3,
+  "aciklama": "5393 sayılı Kanun'un 41. maddesine göre stratejik planı belediye başkanı hazırlar. Plan, belediye meclisince kabul edildikten sonra yürürlüğe girer. Ancak Kanun'un 23. maddesine göre belediye başkanı, bütçe dışındaki meclis kararlarını yeniden görüşülmek üzere iade edebilir ve kararlar idari denetime açıktır. Bu nedenle \"Meclis kararı kesindir\" ifadesi yanlıştır. Bankadaki cevap ise yanlış bir ifade değildir. Kanun, büyükşehir belediyeleri ile nüfusu 50.000'i aşan belediyelere stratejik plan zorunluluğu getirir ve nüfusu 50.000'in altındaki belediyelerde planı zorunlu tutmaz. Dolayısıyla bu belediyeler için planın isteğe bağlı olduğu söylenebilir. Performans programının stratejik plana uygun hazırlanması da mevzuatla uyumludur. Doğru cevap \"Stratejik plan, belediye başkanı tarafından hazırlanır ve belediye meclisince kabul edilerek yürürlüğe girer. Meclis kararı kesindir.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -11580,7 +11292,7 @@
    "İl özel idaresi, çünkü imar ve altyapı konularında il genelinde yetkilidir."
   ],
   "dogru": 0,
-  "aciklama": "Akarsu yatakları ile ilgili ıslah çalışmaları karma bir yetki alanı oluşturur. Akarsu yatakları, su kaynakları ve taşkın önleme açısından DSİ (Devlet Su İşleri) yetkili kuruluştur; 167 sayılı Yeraltı Suları ve 6200 sayılı DSİ Kanunu uyarınca akarsular devlet hüküm ve tasarrufu altındadır. Öte yandan 5216 sayılı Kanun çerçevesinde büyükşehir belediye sınırları içinde su, kanalizasyon ve altyapı hizmetleri büyükşehir belediyesine (ve bağlı İSKİ, ASKİ gibi kuruluşlara) aittir. İlçe belediyelerinin bu konuda doğrudan yetkisi bulunmamaktadır. En kapsamlı ve doğru yanıt E seçeneğidir.",
+  "aciklama": "Akarsu yatağı ıslahında DSİ, 6200 sayılı Kanun uyarınca taşkın koruma ve dere ıslahı konusunda görevlidir. 5216 sayılı Büyükşehir Belediyesi Kanunu'nun 7. maddesi de derelerin ıslahını büyükşehir belediyesinin görevleri arasında sayar. Bu nedenle bu iş, DSİ ile büyükşehir belediyesinin birlikte yürüttüğü bir alandır. 5393 sayılı Kanun'da ilçe belediyesine dere ıslahı görevi verilmemiştir. \"Devlet Su İşleri Genel Müdürlüğü (DSİ), çünkü akarsu yatakları merkezi idarenin görev alanındadır.\" seçeneği büyükşehir belediyesinin kanuni görevini dışarıda bıraktığı için eksiktir. \"Yalnızca ilçe belediyesi, çünkü alan belediye sınırları içindedir.\" seçeneği yanlıştır, çünkü sınırlar içinde olmak tek başına görev doğurmaz. Doğru cevap \"DSİ ile büyükşehir belediyesi müşterek yetkilidir; ilçe belediyesinin bu konuda herhangi bir yetkisi bulunmamaktadır.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -11612,7 +11324,7 @@
    "Büyükşehir olan illerdeki tüm il özel idareleri kapatılmıştır."
   ],
   "dogru": 1,
-  "aciklama": "6360 sayılı Kanun 2012 yılında yürürlüğe girmiş ve büyükşehir belediyesi sayısını 16'dan 30'a çıkarmıştır. Kanunla birlikte büyükşehir sınırları il mülki sınırına çekilmiş (B doğru), büyükşehir illerindeki il özel idareleri kapatılmış (A doğru), belde ve köyler mahalle statüsüne alınmış (C doğru), il özel idarelerinin yerine YİKOB'lar kurulmuştur (E doğru). D şıkkında yer alan '16'dan 30'a' ifadesi doğrudur. Peki hangisi gerçekleşmemiştir? Seçeneklerin tamamı doğruymuş gibi görünse de sınavda bu tür sorularda 'gerçekleşmemiş' unsur dikkatle aranmalıdır. Buradaki kritik nokta: Büyükşehir sayısı 16'dan 29'a çıkarılmış, ardından Ordu ile birlikte 30 olmuştur; ancak bazı kaynaklarda 'doğrudan 30'a çıkarıldı' şeklinde yanlış aktarılmaktadır. Asıl hata D şıkkında değil; bu sorunun kurgusunda büyükşehir sayısının doğrudan 30 yapıldığı doğrudur, ancak nüfus kriteri (750.000) uygulamasının kaldırılması da 6360 ile olmuştur ve bu şıklarda yer almamaktadır. Soruda en tartışmalı ve eleyici nokta D şıkkıdır; sayı doğru olmakla birlikte süreç iki aşamalıydı.",
+  "aciklama": "6360 sayılı Kanun 2012'de 13 yeni büyükşehir kurmuş ve büyükşehir sayısını 16'dan 29'a çıkarmıştır. Ordu, 2013'te 6447 sayılı Kanun ile büyükşehir olmuş ve sayı ancak o zaman 30'a ulaşmıştır. Bu nedenle sayının 16'dan 30'a çıkarılması doğrudan 6360 sayılı Kanun'un sonucu değildir. \"Büyükşehir sınırları il mülki sınırlarına genişletilmiştir.\" ifadesi 6360 ile gerçekleşmiştir. \"Büyükşehir illerindeki belde belediyeleri ve köyler mahalle statüsüne dönüştürülmüştür.\" ifadesi de bu Kanun'un temel düzenlemelerindendir. İl özel idarelerinin kapatılması ve yerlerine yatırım izleme ve koordinasyon başkanlıklarının kurulması da aynı Kanun'la yapılmıştır. Doğru cevap \"Büyükşehir belediyelerinin sayısı 16'dan 30'a çıkarılmıştır.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -11644,7 +11356,7 @@
    "Anayasa her iki denetim türüne de eşit ölçüde izin verdiğinden merkezi idare her iki denetimi de serbestçe uygulayabilir."
   ],
   "dogru": 0,
-  "aciklama": "Anayasa'nın 127. maddesine göre merkezi idare, mahalli idareler üzerinde idari vesayet yetkisine sahiptir. Ancak bu yetkinin kapsamı anayasal açıdan sınırlıdır; 'idarenin bütünlüğü' ilkesi ve 'yerinden yönetim' ilkesi arasındaki denge, yerindelik denetiminin sınırlı tutulmasını zorunlu kılar. Türk anayasa doktrininde tartışmalı olmakla birlikte egemen görüş, merkezi idarenin mahalli idareler üzerinde ağırlıklı olarak hukukilik denetimi yapabileceği, yerindelik denetiminin ise mahalli özerkliği zedeleyebileceği yönündedir. C şıkkı yanlıştır; bu denetimler bu şekilde kurumsal olarak ayrıştırılmamıştır. D şıkkı yanlıştır; böyle bir AYM kararı yoktur. E şıkkı kısmen doğru içeriyorsa da 'herhangi bir anayasal ayrım yapılmamaktadır' ifadesi yanıltıcıdır. Doğru yanıt B'dir.",
+  "aciklama": "Anayasa'nın 127. maddesi, merkezi idarenin mahalli idareler üzerinde kanunla belirlenen esas ve usuller çerçevesinde idari vesayet yetkisine sahip olduğunu belirtir. Vesayetin kapsamının yalnızca hukukilik denetimiyle sınırlı olup olmadığı öğretide tartışılmaktadır. Bankadaki cevap da bir kesinlik iddia etmez, bu konunun tartışmalı olduğunu söyler. Bu nedenle anayasal açıdan doğru olan tek ifadedir. \"Anayasa her iki denetim türüne de eşit ölçüde izin verdiğinden merkezi idare her iki denetimi de serbestçe uygulayabilir.\" seçeneği yanlıştır, çünkü vesayet sınırsız değildir ve kanunla sınırlıdır. \"Anayasa Mahkemesi, yerindelik denetiminin yerel özerkliği zedeleyeceğine hükmettiğinden bu denetim türü Türkiye'de tamamen yasaklanmıştır.\" seçeneği de gerçeğe aykırıdır. Doğru cevap \"Anayasa'nın 127. maddesi uyarınca merkezi idarenin mahalli idareler üzerinde yalnızca hukukilik denetimi yapabileceği; yerindelik denetiminin ise anayasal güvence kapsamında olmadığı tartışmalıdır.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -11675,8 +11387,8 @@
    "Özellik 1 yanlış, Özellik 2 yanlış, Özellik 3 doğru",
    "Özellik 1 doğru, Özellik 2 doğru, Özellik 3 doğru"
   ],
-  "dogru": 1,
-  "aciklama": "Özellik 1 değerlendirildiğinde: Köy muhtarı seçimlerinde seçmen olabilmek için seçim çevresinde ikamet koşulu aranmaz; seçmen kütüğüne kayıtlı olmak yeterlidir. Dolayısıyla Özellik 1 yanlıştır. Özellik 2 değerlendirildiğinde: 5302 sayılı İl Özel İdaresi Kanunu'nun 36. maddesine göre il özel idaresi genel sekreteri İçişleri Bakanı'nın önerisi üzerine Bakanlar Kurulu (şimdiki adıyla Cumhurbaşkanlığı) tarafından atanır, vali tarafından değil. Özellik 2 yanlıştır. Özellik 3 değerlendirildiğinde: 5216 sayılı Kanun'un 16. maddesi uyarınca büyükşehir belediye başkanı encümenin başkanıdır. Özellik 3 doğrudur. Bu durumda B şıkkı (1 yanlış, 2 yanlış, 3 doğru) doğru cevap olmalıydı; ancak seçeneklerde 'Özellik 1 yanlış, Özellik 2 doğru, Özellik 3 doğru' B şıkkında verilmiştir. Özellik 2 yeniden incelendiğinde: Genel sekreterin atanmasında vali belirleyici değildir, bu nedenle Özellik 2 yanlıştır. Doğru kombinasyon 'Özellik 1 yanlış, Özellik 2 yanlış, Özellik 3 doğru'dur ki bu D şıkkına karşılık gelir. Doğru yanıt D'dir.",
+  "dogru": 4,
+  "aciklama": "Köy muhtarı seçiminde seçmen, adres kayıt sistemine göre o köyde ikamet eden ve köyün seçmen kütüğüne kayıtlı kişidir. Bu nedenle ikamet şartı aranır ve birinci özellik doğrudur. 5302 sayılı İl Özel İdaresi Kanunu'nun 36. maddesine göre genel sekreter vali tarafından atanır, dolayısıyla ikinci özellik de doğrudur. 5216 sayılı Kanun'un 16. maddesine göre büyükşehir belediye encümeninin başkanı büyükşehir belediye başkanıdır, yani üçüncü özellik de doğrudur. Bankadaki \"Özellik 1 yanlış, Özellik 2 doğru, Özellik 3 doğru\" cevabı, köydeki ikamet şartını yok saydığı için hatalıdır. \"Özellik 1 doğru, Özellik 2 doğru, Özellik 3 yanlış\" seçeneği de encümen başkanlığını yanlış değerlendirir. Doğru cevap \"Özellik 1 doğru, Özellik 2 doğru, Özellik 3 doğru\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -12656,22 +12368,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "34868",
-  "dersId": "vatandaslik",
-  "konuId": "uluslararasi_orgutler",
-  "soru": "Türkiye'nin üye olduğu uluslararası örgütler ile bu örgütlere ilişkin bilgiler değerlendirildiğinde, aşağıdaki eşleştirmelerden hangisi yanlıştır?",
-  "secenekler": [
-   "NATO – 1952'de katılım – Kolektif savunma ittifakı",
-   "Ekonomik İşbirliği Teşkilatı (EİT) – Kurucu üye – İran ve Pakistan ile birlikte kurulmuş bölgesel ekonomik örgüt",
-   "Türk Devletleri Teşkilatı – Tam üye – Türkdilli ülkeler arasında siyasi ve kültürel işbirliği",
-   "AGİT – Kurucu üye statüsünde – İnsan hakları, güvenlik ve ekonomi alanlarında kapsamlı işbirliği",
-   "OECD – 1961'de kurucu üye – Sanayileşmiş demokrasiler arasında ekonomik işbirliği ve politika koordinasyonu"
-  ],
-  "dogru": 3,
-  "aciklama": "AGİT (Avrupa Güvenlik ve İşbirliği Teşkilatı), 1994'te AGSK'nın (Avrupa Güvenlik ve İşbirliği Konferansı) dönüşümüyle kurulmuştur. Türkiye AGSK sürecinin başından bu yana katılımcısıdır ve AGİT'in kurucu katılımcılarından sayılmaktadır; bu açıdan B şıkkı teknik olarak doğrudur. Ancak KPSS bağlamında 'kurucu üye' ifadesi yanıltıcı olabilir çünkü AGSK 1975'te Helsinki Nihai Senedi ile oluşturulmuş ve Türkiye o süreçte yer almıştır. Bununla birlikte diğer şıklar kesinlikle doğrudur: NATO'ya 1952, OECD'ye 1961'de katılım, EİT'in 1985'te İran ve Pakistan ile kuruluşu ve Türk Devletleri Teşkilatı tam üyeliği hepsi doğrudur. Soru, AGİT ifadesindeki nüansı kavramayı ölçmektedir.",
-  "zorluk": "orta"
- },
- {
   "id": "34869",
   "dersId": "vatandaslik",
   "konuId": "uluslararasi_orgutler",
@@ -13325,22 +13021,6 @@
   ],
   "dogru": 0,
   "aciklama": "Roma Statüsü'nün temelinde bireylerin cezai sorumluluğu vardır (Madde 25); UCM yalnızca gerçek kişileri yargılar. Tüzel kişiler, yani şirketler ve sivil toplum kuruluşları, Mahkeme'nin yargı yetkisi dışındadır. Devlet yetkilisi ya da devlet adına hareket eden kişiler de resmî sıfatları nedeniyle dokunulmazlık kazanmaz (Madde 27). Dolayısıyla ifade hem yetkinin kapsamını hem de Statü'nün temel ilkesini tersine çevirmektedir. Güvenlik Konseyi'nin sevkiyle Statü'ye taraf olmayan devletlerin vatandaşlarının yargılanabilmesi (Darfur ve Libya durumları) ise doğrudur. Tamamlayıcılık ilkesine ilişkin ifade de doğrudur; ulusal mahkemeler gerçekten soruşturma yürütüyorsa UCM devreye giremez. Doğru cevap \"UCM, devlet aktörlerini değil yalnızca şirketleri ve sivil toplum kuruluşlarını yargılayabilir\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "34911",
-  "dersId": "vatandaslik",
-  "konuId": "uluslararasi_orgutler",
-  "soru": "Türkiye'nin üye olduğu uluslararası örgütler ve bu örgütlere ilişkin bilgiler değerlendirildiğinde aşağıdaki ifadelerden hangisi doğrudur?",
-  "secenekler": [
-   "Türkiye, NATO'ya 1952'de katılmış ve bu tarihten itibaren Madde 5 kapsamındaki kolektif savunma mekanizmasının fiilen parçası haline gelmiştir; ancak Türkiye NATO'nun entegre askeri komuta yapısından 1974-2009 yılları arasında belirli dönemlerde ayrılmıştır.",
-   "Türkiye, Avrupa Konseyi'nin kurucu üyelerinden biri olduğundan AİHM'e bireysel başvuru hakkı 1949'dan bu yana Türk vatandaşlarına tanınmıştır.",
-   "Türkiye, Ekonomik İşbirliği Örgütü'nün (ECO) kurucu üyelerinden biri değildir; örgüte 1990'lı yıllarda Orta Asya devletlerinin bağımsızlığını kazanmasının ardından sonradan katılmıştır. Nitekim örgütün kurucuları yalnızca İran, Pakistan ve Afganistan olup Türkiye sonradan üye olmuştur.",
-   "Türkiye, DTÖ'nün kurucu üyesi olmakla birlikte GATT'a hiçbir zaman taraf olmamıştır.",
-   "Türkiye, BM Güvenlik Konseyi'nde hiçbir zaman geçici üyelik üstlenmemiştir."
-  ],
-  "dogru": 0,
-  "aciklama": "Türkiye, NATO'ya 1952 yılında İspanya ile aynı anda katılmıştır ve o tarihten bu yana Madde 5'in bağlayıcılığı altındadır. Öte yandan Türkiye, Kıbrıs Barış Harekâtı'nın yarattığı gerginlik sonucunda NATO'nun entegre askeri komuta yapısından 1974'te ayrılmış ve 2009'da yeniden tam anlamıyla bu yapıya dahil olmuştur. A şıkkı yanlıştır; Türkiye Avrupa Konseyi'nin kurucu üyesidir ancak AİHM'e bireysel başvuru hakkı Türkiye tarafından 1987'de tanınmıştır. C şıkkı yanlıştır; Türkiye, İran ve Pakistan ECO'nun 1985'teki kurucu üyeleridir (RCD'nin devamı olarak). D şıkkı yanlıştır; Türkiye Güvenlik Konseyi'nde geçici üyelik üstlenmiştir (örneğin 1951-52, 1954-55, 1961, 2009-10). E şıkkı yanlıştır; Türkiye 1951'den itibaren GATT üyesidir.",
   "zorluk": "zor"
  },
  {

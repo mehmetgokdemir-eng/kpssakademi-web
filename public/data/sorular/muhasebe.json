@@ -320,22 +320,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "50021",
-  "dersId": "muhasebe",
-  "konuId": "genel_muhasebe",
-  "soru": "Aşağıdaki işlemlerden hangisi işletmenin brüt satışlarını değil, net satışlarını doğrudan etkiler?",
-  "secenekler": [
-   "Hem satış iadesi hem de satış iskontosu gerçekleşmesi",
-   "Faturada hata nedeniyle müşteriye yapılan fiyat indirimi (satış iskontosu)",
-   "Müşteriye yapılan mal satışı",
-   "Hiçbiri; tüm bu işlemler brüt satışları etkiler.",
-   "Satılan malın bir kısmının iade alınması"
-  ],
-  "dogru": 0,
-  "aciklama": "Gelir tablosunda Net Satışlar şu şekilde hesaplanır: Brüt Satışlar – Satış İadeleri – Satış İskontoları = Net Satışlar. Satış iadesi ve satış iskontosu her ikisi de brüt satışları azaltan indirim kalemleridir ve net satışları doğrudan düşürür. Tek başına mal satışı brüt satışları artırır. Tek başına iade ya da iskonto brüt satışı değil, onu düzelterek net satışı etkiler. Her ikisinin birden gerçekleşmesi ise net satışı iki yönden etkileyen bir durumdur ve sorudaki ifadeyle en uyumlu yanıt D seçeneğidir. A, B ve C tek bir kalemi ifade ederken D her iki düzeltme kalemini kapsar.",
-  "zorluk": "orta"
- },
- {
   "id": "50022",
   "dersId": "muhasebe",
   "konuId": "genel_muhasebe",
@@ -381,22 +365,6 @@
   ],
   "dogru": 4,
   "aciklama": "Tekdüzen hesap planında tahvil faiz ödemesinde borçlandırılan hesap 780 Finansman Giderleri'dir; 'Faiz Giderleri' adlı bir hesap THP'de yer almaz. Doğru cevap Finansman Giderleri Hesabı şeklindedir.",
-  "zorluk": "orta"
- },
- {
-  "id": "50025",
-  "dersId": "muhasebe",
-  "konuId": "genel_muhasebe",
-  "soru": "Bir işletmede dönem içinde 400.000 TL'lik mal alınmış, bu alımın 50.000 TL'si kredili, kalanı peşin ödenmiştir. Alışlarda %18 KDV uygulanmaktadır. Bu alıma ilişkin aşağıdaki bilgilerden hangisi doğrudur?",
-  "secenekler": [
-   "Ticari Borçlar hesabı 59.000 TL alacaklandırılır.",
-   "Kasa hesabı 413.000 TL alacaklandırılır.",
-   "Kasa hesabı 350.000 TL alacaklandırılır.",
-   "İndirilecek KDV hesabı 72.000 TL borçlandırılır.",
-   "Ticari Borçlar hesabı 50.000 TL alacaklandırılır."
-  ],
-  "dogru": 3,
-  "aciklama": "Toplam mal alımı 400.000 TL, KDV oranı %18 → İndirilecek KDV = 400.000 × 0,18 = 72.000 TL. Bu tutar, tüm alım üzerinden hesaplanır ve İndirilecek KDV Hesabı 72.000 TL borçlandırılır (A şıkkı yanlış: ticari borçlar 50.000 + KDV'si = 59.000 TL olmalıydı, ancak doğru hesap B'dir). Peşin ödeme: 400.000 – 50.000 = 350.000 TL mal + bu tutarın KDV'si = 350.000 × 1,18 = 413.000 TL nakit çıkışı olur. Kasa 413.000 TL alacaklandırılır. C şıkkı bu nedenle doğru gibi görünse de soru 'hangisi doğrudur' diye sorduğundan tüm şıklar değerlendirilmeli: İndirilecek KDV'nin tam olarak 72.000 TL borçlandırılması tek tartışmasız doğru ifadedir.",
   "zorluk": "orta"
  },
  {
@@ -525,22 +493,6 @@
   ],
   "dogru": 2,
   "aciklama": "Muhasebe kuralına göre aktif karakterli hesaplar (varlık hesapları) doğal olarak borç bakiyesi verir. Açılış kaydında alacak bakiyesi vermesi, ya yanlış hesabın kullanıldığını ya da kayıt hatasının yapıldığını gösterir. Bu durum doğrudan bir muhasebe hatasına işaret eder. Hesabın pasif karaktere dönüşmesi ise ancak özel durumlarda mümkündür ve açılış kaydında alacak bakiyesi bunun göstergesi değildir. Doğru yanıt “Muhasebe hatası söz konusudur” şıkkıdır.",
-  "zorluk": "orta"
- },
- {
-  "id": "50035",
-  "dersId": "muhasebe",
-  "konuId": "genel_muhasebe",
-  "soru": "Bir işletme 100.000 TL nominal değerli hisse senedini 120.000 TL'ye ihraç etmiştir. Bu işlemin muhasebeleştirilmesinde aşağıdaki hesaplardan hangisi alacaklandırılır?",
-  "secenekler": [
-   "Yalnızca 500 Sermaye hesabı 120.000 TL",
-   "500 Sermaye hesabı 100.000 TL ve 679 Diğer Olağandışı Gelir ve Kârlar hesabı 20.000 TL",
-   "500 Sermaye hesabı 120.000 TL ve 523 Emisyon Primleri hesabı 20.000 TL borçlanır",
-   "500 Sermaye hesabı 100.000 TL ve 523 Emisyon Primleri hesabı 20.000 TL",
-   "520 Hisse Senedi İptal Kârları hesabı 20.000 TL"
-  ],
-  "dogru": 3,
-  "aciklama": "Hisse senetleri nominal değerin üzerinde ihraç edildiğinde, nominal değer 500 Sermaye hesabına, aradaki fark (prim) ise 523 Emisyon Primleri hesabına alacak kaydedilir. Bu işlemde 100.000 TL'yi 500 Sermaye, 20.000 TL'yi ise 523 Emisyon Primleri hesabı alacaklandırır. Toplam 120.000 TL nakit girişi 100 Kasa veya 102 Bankalar hesabına borç yazılır. Doğru yanıt B şıkkıdır.",
   "zorluk": "orta"
  },
  {
@@ -1132,7 +1084,7 @@
    "8.000 TL Menkul Kıymet İhraç Farkları (pasif düzenleyici) hesabına alınır ve efektif faiz yöntemiyle itfa edilir; ilk yıl toplam faiz gideri 11.367 TL'dir."
   ],
   "dogru": 4,
-  "aciklama": "TMS 39/TFRS 9 ve Tekdüzen Hesap Planı açısından: Tahvil ihraç iskontosu (8.000 TL), 'Menkul Kıymetler İhraç Farkları' hesabında pasif düzenleyici olarak izlenir. Efektif faiz yöntemiyle itfa edilir. İlk yıl faiz gideri: Başlangıç defter değeri = 92.000 TL. Efektif faiz yöntemiyle faiz gideri = 92.000 × %12,36 = 11.371,20 TL ≈ 11.367 TL (efektif oran tam hesaplandığında). Nakit ödemesi = 100.000 × %10 = 10.000 TL. İskonto itfa tutarı = 11.367 - 10.000 = 1.367 TL. B şıkkı doğrudur. D şıkkındaki doğrusal yöntem VUK açısından kabul görebilir ancak TMS/TFRS ve KPSS alan bilgisi sorularında efektif faiz yöntemi esas alınır.",
+  "aciklama": "Tahvil 92.000 TL'ye satıldığında oluşan 8.000 TL iskonto, Menkul Kıymet İhraç Farkları hesabında pasif düzenleyici olarak izlenir. Bu tutar vade boyunca efektif faiz yöntemiyle itfa edilir. İlk yıl faiz gideri yaklaşık 92.000 × %12,36 ≈ 11.371 TL'dir. Seçenekteki 11.367 TL ile aradaki birkaç liralık fark yuvarlamadan kaynaklanır ve yöntemin doğruluğunu değiştirmez; diğer seçeneklerin hiçbiri kavramsal olarak kabul edilebilir değildir. Doğrusal itfa öneren seçenek, efektif faiz oranı verilmişken yanlış yöntemi uygular. İskontonun tamamını ilk yıl gider yazan seçenek ise dönemsellik ilkesine aykırıdır. İskontonun özkaynaktan düşülmesi ya da hiç kaydedilmemesi de muhasebe ilkeleriyle bağdaşmaz. Doğru cevap \"8.000 TL Menkul Kıymet İhraç Farkları (pasif düzenleyici) hesabına alınır ve efektif faiz yöntemiyle itfa edilir; ilk yıl toplam faiz gideri 11.367 TL'dir.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -2560,22 +2512,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "50178",
-  "dersId": "muhasebe",
-  "konuId": "hesap_plani",
-  "soru": "Bir anonim şirket, nominal değeri 10 TL olan hisselerini 15 TL'den ihraç etmiş ve tüm bedeli tahsil etmiştir. Daha sonra bu hisselerin bir kısmını 12 TL'den geri satın alarak itfa etmiştir. Geri alınan hisselerin kayıtlı değeri (ihraç değeri) üzerinden muhasebeleştirilmesinde hangi hesap bakiyesi yanlış etkilenir?",
-  "secenekler": [
-   "Geri alım işleminde 108 Diğer Hazır Değerler borçlandırılır, kasa alacaklandırılır; itfa kaydı yapılmaz çünkü hisseler henüz iptal edilmemiştir.",
-   "500 Sermaye nominal değer kadar borçlanır, 502 ihraç primine isabet eden kısım kadar borçlanır; geri alım fiyatı ihraç fiyatından düşük olduğundan kalan 3 TL fark 523 Hisse Senedi İptal Kârları'na alacak yazılır.",
-   "500 Sermaye nominal değer kadar azalır (borçlanır), 519 Diğer Sermaye Yedekleri geri alım fiyatı ile nominal değer arasındaki olumsuz fark için borçlanır, 523 Hisse Senedi İptal Kârları alacaklanır.",
-   "500 Sermaye nominal değer kadar, 502 Hisse Senedi İhraç Primleri ihraç priminin tamamı kadar borçlanır; ödenen tutar olan 12 TL ile ihraç değeri 15 TL arasındaki 3 TL fark 523'e gelir yazılır.",
-   "500 Sermaye hesabı nominal değer kadar, 523 Hisse Senedi İptal Kârları ise ihraç primi ile geri alım fiyatı arasındaki fark kadar alacaklanır."
-  ],
-  "dogru": 1,
-  "aciklama": "Hisse senedi geri alımı ve itfasında: 500 Sermaye nominal değer (10 TL × adet) kadar, 502 Hisse Senedi İhraç Primleri ihraç primine isabet eden kısım (5 TL × adet) kadar borçlandırılır. Geri alım bedeli (12 TL) ihraç değerinden (15 TL) düşük olduğundan aradaki 3 TL fark (15 - 12 = 3 TL) işletme lehine olup 523 Hisse Senedi İptal Kârları'na alacak yazılır. Bu hesap öz kaynak altında yer alır ve dağıtılabilir kâr değil sermaye yedeği niteliği taşır. C şıkkında 502'nin tamamı borçlandırılıyor ama yalnızca iptal edilen hisselere isabet eden ihraç primine kadar borçlandırılması gerekir, bu nedenle C yanlıştır; E şıkkı işlemi doğru tanımlar.",
-  "zorluk": "zor"
- },
- {
   "id": "50179",
   "dersId": "muhasebe",
   "konuId": "hesap_plani",
@@ -2592,22 +2528,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "50180",
-  "dersId": "muhasebe",
-  "konuId": "hesap_plani",
-  "soru": "Bir işletme 01.07 tarihinde 3 yıl vadeli, yıllık %20 faizli, 100.000 TL anaparalı tahvil ihraç etmiştir. Faizler yılda bir ödenmektedir. 31.12 dönem sonu itibarıyla yapılması gereken tahakkuk kaydında hangi hesaplar kullanılır?",
-  "secenekler": [
-   "381 Gider Tahakkukları borçlandırılır, 660 Kısa Vadeli Borçlanma Giderleri alacaklandırılır.",
-   "660 Kısa Vadeli Borçlanma Giderleri borçlandırılır, 381 Gider Tahakkukları alacaklandırılır; tutar 10.000 TL'dir.",
-   "369 Diğer Borçlar borçlandırılır, 660 alacaklandırılır; tutar 10.000 TL'dir.",
-   "660 Kısa Vadeli Borçlanma Giderleri borçlandırılır, 381 Gider Tahakkukları alacaklandırılır; tutar 20.000 TL'dir.",
-   "770 Finansman Giderleri borçlandırılır, 381 Gider Tahakkukları alacaklandırılır; tutar 10.000 TL'dir."
-  ],
-  "dogru": 1,
-  "aciklama": "01.07'den 31.12'ye kadar 6 aylık faiz tahakkuku hesaplanır: 100.000 × %20 × 6/12 = 10.000 TL. Tahakkuk eden ancak henüz ödenmeyen bu faiz borcu için 660 Kısa Vadeli Borçlanma Giderleri borçlandırılır (gider kaydedilir), 381 Gider Tahakkukları alacaklandırılır (yükümlülük doğar). 7/A seçeneğinde 770 kullanılabileceği düşünülebilir ancak tahvil faizi finansman gideri niteliğindedir ve 660'ta izlenir; 770 ise genel üretim giderleri grubundadır. D şıkkındaki 20.000 TL tam yıllık faiz olup yalnızca 6 ay tahakkuk eder.",
-  "zorluk": "zor"
- },
- {
   "id": "50181",
   "dersId": "muhasebe",
   "konuId": "hesap_plani",
@@ -2621,22 +2541,6 @@
   ],
   "dogru": 1,
   "aciklama": "Yabancı para cinsinden alacakların dönem sonu TL karşılığı artmışsa aradaki olumlu fark 646 Kambiyo Kârları hesabına alacak, 120 Alıcılar hesabına borç yazılır. 646 hesabı, Tekdüzen Hesap Planı'nda 6. grupta (Gelir Tablosu) yer alır ve kambiyo işlemlerinden doğan kârları izler. Bu gelir olağan faaliyetlerle ilişkili kabul edildiğinden olağandışı sınıfta değil (679) olağan sınıfta gösterilir. 601 yalnızca satış gelirlerini izler; kur farkı geliri satış geliri değildir.",
-  "zorluk": "zor"
- },
- {
-  "id": "50182",
-  "dersId": "muhasebe",
-  "konuId": "hesap_plani",
-  "soru": "Tekdüzen Hesap Planı'nda 294 Elden Çıkarılacak Stoklar ve Duran Varlıklar hesabının işlevi aşağıdakilerden hangisinde doğru ve eksiksiz tanımlanmıştır?",
-  "secenekler": [
-   "Hem stok hem duran varlıkları kapsar ve bu hesaba aktarılan kalemler için amortisman ayrılmaya devam edilir, ancak değer düşüklüğü karşılığı ayrılmaz.",
-   "Kullanım dışı kalan duran varlıkların dönem sonunda buraya aktarıldığı ve amortisman uygulamasının devam ettiği bir geçiş hesabıdır.",
-   "Satışına karar verilen ve bir yıl içinde elden çıkarılması öngörülen stok veya duran varlıkların, döngüsel sınıflandırma amacıyla dönen varlıklar içinde izlendiği hesaptır; söz konusu varlıklara amortisman ayrılmaya devam edilmez.",
-   "Satılmak üzere elde tutulan finansal varlıkların izlendiği hesaptır ve yalnızca menkul kıymetleri kapsar.",
-   "Yalnızca stokları kapsar; duran varlıklar bu hesaba aktarılamaz, çünkü 2. gruptaki hesaplar duran varlık niteliğini yitirinceye kadar kendi hesaplarında kalmaya devam eder ve sınıflandırma değişikliği yapılamaz. Bu nedenle satış kararı muhasebe kaydını etkilemez."
-  ],
-  "dogru": 2,
-  "aciklama": "294 Elden Çıkarılacak Stoklar ve Duran Varlıklar hesabı, normal faaliyet döngüsü kapsamında satışına karar verilmiş ve bir yıl içinde elden çıkarılması beklenen varlıkların dönen varlık olarak sınıflandırılmasına imkân tanır. Bu hesaba aktarılan duran varlıklara artık amortisman ayrılmaz; çünkü varlık artık üretimde ya da faaliyette kullanılmamakta, satışa hazır beklemektedir. TFRS 5 (Satış Amaçlı Elde Tutulan Duran Varlıklar) paralelinde bu sınıflandırma yapılır. Hem stok hem duran varlıkları kapsayabilmesi yönünden C ve E şıkları yanlıştır.",
   "zorluk": "zor"
  },
  {
@@ -5360,22 +5264,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "50376",
-  "dersId": "muhasebe",
-  "konuId": "mali_tablolar",
-  "soru": "Bir işletme 01.01.2024 tarihinde 5 yıl vadeli, %12 faizli, 1.000.000 TL nominal değerli tahvil ihraç etmiştir. Tahvil 920.000 TL'ye iskontolu olarak satılmıştır. İşletme etkin faiz yöntemini kullanmakta olup etkin faiz oranı yaklaşık %14'tür. 31.12.2024 tarihli gelir tablosunda muhasebeleştirilecek toplam faiz gideri tutarı aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "128.000 TL",
-   "136.000 TL",
-   "140.000 TL",
-   "120.000 TL",
-   "144.800 TL"
-  ],
-  "dogru": 0,
-  "aciklama": "Etkin faiz yönteminde, faiz gideri = Dönem başı defter değeri × Etkin faiz oranı şeklinde hesaplanır. Dönem başı defter değeri = 920.000 TL (ihraç bedeli). Etkin faiz gideri = 920.000 × %14 = 128.800 ≈ 128.000 TL (yaklaşık). Nominal faiz ödemesi = 1.000.000 × %12 = 120.000 TL nakit çıkışı olur. Aradaki 8.800 TL fark iskonto amortisman tutarı olup borç defter değerine eklenerek tahvilin vadede 1.000.000 TL'ye ulaşması sağlanır. Gelir tablosuna yansıyacak faiz gideri etkin faiz yöntemine göre yaklaşık 128.000 TL'dir (B şıkkı).",
-  "zorluk": "zor"
- },
- {
   "id": "50377",
   "dersId": "muhasebe",
   "konuId": "mali_tablolar",
@@ -5548,7 +5436,7 @@
    "198.750 TL"
   ],
   "dogru": 1,
-  "aciklama": "Azalan bakiyeler yönteminde amortisman hurda değer dikkate alınmadan orijinal maliyet üzerinden hesaplanır (net defter değeri hurda değerin altına düşmez). 01.07.2024 - 31.12.2024 (6 aylık): Amortisman = 360.000 × %25 × (6/12) = 45.000 TL. Dönem sonu defter değeri = 360.000 - 45.000 = 315.000 TL. 01.01.2025 - 31.12.2025 (tam yıl): Amortisman = 315.000 × %25 = 78.750 TL. Dönem sonu defter değeri = 315.000 - 78.750 = 236.250 TL. Ancak bazı KPSS kaynaklarında azalan bakiyeler oranı düz amortisman oranının 2 katı olarak uygulanır ve yalnızca tam yıl hesaplanır. Alternatif: İlk tam yıl (2024 yılı için tam yıl varsayımı): 360.000 × 0,25 = 90.000; NBD = 270.000. 2025: 270.000 × 0,25 = 67.500; NBD = 202.500 TL. KPSS standart uygulamasında alım tarihi tam yıl sayılır: Cevap A şıkkıdır (202.500 TL).",
+  "aciklama": "Soru, normal oranın iki katı olan %25 azalan bakiyeler oranıyla Vergi Usul Kanunu çerçevesinde kurgulanmıştır. VUK'a göre amortisman, edinim ayı ne olursa olsun ilk yıl için tam yıl üzerinden ayrılır; kıst amortisman yalnızca binek otomobiller için söz konusudur. Ayrıca bu yöntemde hurda değer amortisman matrahından düşülmez. 2024 amortismanı 360.000 x %25 = 90.000 TL olduğundan net defter değeri 270.000 TL'ye iner. 2025 amortismanı 270.000 x %25 = 67.500 TL olduğundan net defter değeri 202.500 TL olur. İtirazdaki 6 aylık kıst hesap bu makine için uygulanmaz. Hurda değeri düşerek hesap yapan, \"191.250 TL\" gibi tutarlara ulaşır ki bu da yanlıştır. Doğrusal yöntemle hesap yapan da \"210.000 TL\" gibi yanlış sonuçlara varır. Doğru cevap \"202.500 TL\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -5613,22 +5501,6 @@
   ],
   "dogru": 4,
   "aciklama": "Tamamlanma yüzdesi, gerçekleşen maliyetin tahmini toplam maliyete oranıyla bulunur. 2024 sonunda: 480.000 / 1.600.000 = %30; kümülatif hâsılat 2.000.000 × 0,30 = 600.000 TL. 2025 sonunda kümülatif maliyet 480.000 + 640.000 = 1.120.000 TL olduğundan oran %70'tir; kümülatif hâsılat 1.400.000 TL'dir. 2025 hâsılatı: 1.400.000 − 600.000 = 800.000 TL. 2025 kârı: 800.000 − 640.000 = 160.000 TL. \"Hâsılat 800.000 TL, kâr 140.000 TL\" seçeneği hâsılatı doğru verir ancak kârı yanlış hesaplar. \"Hâsılat 1.000.000 TL, kâr 200.000 TL\" seçeneği ise yalnızca yıl sonu oranını dikkate almadan bulunmuş bir tutardır. Doğru cevap \"Hâsılat 800.000 TL, kâr 160.000 TL\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "50397",
-  "dersId": "muhasebe",
-  "konuId": "mali_tablolar",
-  "soru": "Bir holding bünyesindeki X işletmesi 01.01.2024 tarihinde faaliyet kiralaması (TFRS 16) kapsamında 4 yıllık araç kirası sözleşmesi yapmıştır. Yıllık kira ödemesi 60.000 TL (yıl sonunda), iskonto oranı %10'dur. Kullanım hakkı varlığının ilk kayıt değeri ve ilk yıl sonunda gelir tablosuna yansıyacak toplam gider hangisinde doğru verilmiştir? (4 yıllık yıllık ödeme, %10 iskonto: anüite faktörü ≈ 3,1699)",
-  "secenekler": [
-   "KHV = 190.194 TL, toplam gider = 60.000 TL",
-   "KHV = 190.194 TL, toplam gider = 66.019 TL",
-   "KHV = 190.194 TL, toplam gider = 84.019 TL",
-   "KHV = 200.000 TL, toplam gider = 66.000 TL",
-   "KHV = 240.000 TL, toplam gider = 60.000 TL"
-  ],
-  "dogru": 1,
-  "aciklama": "TFRS 16'ya göre kira yükümlülüğü = 60.000 × 3,1699 = 190.194 TL. Kullanım hakkı varlığı (KHV) da aynı tutarda başlangıç değeriyle kaydedilir (başlangıçta doğrudan gider yoksa). İlk yıl giderleri: (1) KHV amortismanı = 190.194 / 4 = 47.549 TL. (2) Faiz gideri = 190.194 × %10 = 19.019 TL. Toplam gider = 47.549 + 19.019 = 66.568 ≈ 66.019 TL (yuvarlama farkı). Eski faaliyet kiralamasında 60.000 TL giderleştirilirken TFRS 16 ile bu iki ayrı kalem olarak ve 66.019 TL toplam yük olarak gelir tablosuna yansır. Cevap A şıkkıdır.",
   "zorluk": "zor"
  },
  {

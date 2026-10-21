@@ -449,35 +449,36 @@
      "zorluk": "kolay"
     },
     {
-     "id": "44689",
+     "id": "44695",
      "dersId": "hukuk",
      "konuId": "i_s_hukuku",
-     "soru": "Toplu iş hukuku bağlamında, sendikaların kuruluş aşamasında ve faaliyetlerinde 6356 sayılı Kanun çerçevesinde aşağıdaki hangisi yanlıştır?",
+     "soru": "Alt işveren (taşeron) ilişkisinde asıl işveren ile alt işveren arasındaki sorumluluk rejimine ilişkin aşağıdakilerden hangisi hukuki açıdan yanlıştır?",
      "secenekler": [
-      "İşkolu barajını aşan sendikalar, herhangi bir işyerinde salt çoğunluğu sağlamaksızın toplu sözleşme yapabilir.",
-      "Sendika yöneticilerinin işyerinden ayrılması hâlinde iş sözleşmeleri askıya alınmış sayılır ve kıdem hakları korunur.",
-      "Sendikaların üye sayısı şartı, toplu iş sözleşmesi yapabilmek için yetki aşamasında değerlendirilir.",
-      "Sendikalar tüzel kişiliği, kuruluş bildiriminin Bakanlığa yapılmasıyla kazanır.",
-      "Bir işçi aynı anda birden fazla sendikaya üye olamaz; aksi hâlde sonraki üyelik geçersizdir."
+      "Alt işveren ilişkisinin muvazaalı olduğunun tespiti hâlinde alt işverenin işçileri, asıl işverenin işçisi sayılır.",
+      "Asıl işveren, alt işverenin işçilerine doğrudan iş talimatı veremez; bu durum muvazaa karinesini doğurur.",
+      "Alt işveren, asıl işin bölünerek verilmesinde de kurulabilir; yeter ki bu bölünme teknolojik ve uzmanlık gerektiren bir nitelik taşısın.",
+      "Muvazaalı alt işveren sözleşmesinde asıl işveren, alt işverene ödediği bedeli geçmeyecek şekilde sorumlu tutulur.",
+      "Asıl işveren, alt işverenin işçilerine karşı alt işverenle birlikte müteselsilen sorumludur."
      ],
-     "dogru": 0,
-     "aciklama": "6356 sayılı Kanun'a göre bir sendikanın toplu iş sözleşmesi akdedebilmesi için iki ayrı yetki koşulunun birlikte sağlanması gerekir: (1) ilgili işkolunda çalışan işçilerin en az yüzde birini temsil etmek (işkolu barajı) ve (2) toplu iş sözleşmesi yapılacak işyeri ya da işletmede çalışan işçilerin yarısından fazlasını temsil etmek (işyeri/işletme çoğunluğu). D şıkkında ileri sürülen 'işyeri çoğunluğu aranmaksızın' ifadesi yasaya aykırıdır; her iki koşulun da karşılanması zorunludur. A, B, C ve E seçenekleri kanunun ilgili maddeleriyle örtüşmektedir.",
+     "dogru": 3,
+     "aciklama": "Muvazaalı alt işveren ilişkisinde alt işveren işçileri, işe başlatıldıkları andan itibaren asıl işverenin işçisi sayılır. Asıl işverenin sorumluluğu bu nedenle alt işverene ödediği bedelle sınırlı değildir. Asıl işveren, işçinin bütün haklarından işveren sıfatıyla sorumlu olur. Bu yüzden \"Muvazaalı alt işveren sözleşmesinde asıl işveren, alt işverene ödediği bedeli geçmeyecek şekilde sorumlu tutulur.\" ifadesi hukuken yanlıştır. \"Alt işveren ilişkisinin muvazaalı olduğunun tespiti hâlinde alt işverenin işçileri, asıl işverenin işçisi sayılır.\" ifadesi bu sonucu doğru yansıtır. \"Asıl işveren, alt işverenin işçilerine karşı alt işverenle birlikte müteselsilen sorumludur.\" ifadesi de kanuna uygundur. Doğru cevap \"Muvazaalı alt işveren sözleşmesinde asıl işveren, alt işverene ödediği bedeli geçmeyecek şekilde sorumlu tutulur.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
-     "id": "44416",
+     "id": "44469",
      "dersId": "hukuk",
      "konuId": "medeni",
-     "soru": "Aile konutu şerhi bakımından aşağıdakilerden hangisi yanlıştır?",
+     "soru": "Olağanüstü kazandırıcı zamanaşımı (TMK m.713) hükmüne göre mülkiyet iddiasıyla dava açabilmek için aşağıdaki koşulların tümünün birlikte gerçekleşmesi gerekmektedir. Ancak bu koşullardan biri yanlış verilmiştir. Hangisidir?",
      "secenekler": [
-      "Aile konutu üzerindeki şerh, yalnızca ev sahibi olan eşin talebiyle tapu siciline işlenebilir.",
-      "Aile konutu şerhi, taşınmazı kiralayan eş için de talep edilebilir.",
-      "Aile konutu şerhi, eşin ölümü veya boşanma kararının kesinleşmesiyle sona erer.",
-      "Eşlerden biri diğerinin açık rızası olmaksızın aile konutunu devredemez.",
-      "Rızayı vermeyen eş, hâkimden bu rızanın yerine geçecek bir karar alabilir."
+      "Mahkeme kararı tapu kütüğüne tescil için esas teşkil eder.",
+      "Dava, Hazine ve ilgili kamu tüzel kişilerine karşı açılır.",
+      "Taşınmazın tapu kütüğünde kayıtlı olmaması ya da malikinin kim olduğunun bilinememesi gerekir.",
+      "Zilyedin taşınmazı davasız ve aralıksız yirmi yıl süreyle malik sıfatıyla zilyet bulunması gerekir.",
+      "Zilyedin iyi niyetli olması şarttır; kötü niyetle başlayan zilyetlik süreyi işletmez."
      ],
-     "dogru": 0,
-     "aciklama": "TMK m. 194/3 uyarınca aile konutu şerhini, taşınmaz mülkiyeti kendi üzerinde bulunmayan eş de tapu müdürlüğüne başvurarak işletebilir. Hatta kiracı eş bile aile konutunu kiralayan sıfatıyla şerh koydurabilir (C şıkkı doğrudur). A yanlıştır çünkü şerh talebi her iki eşe de tanınmıştır; yalnızca malik olan eşe özgü değildir. B (m. 194/1), D (m. 194/2) ve E (evliliğin sona ermesiyle birlikte) doğru ifadelerdir."
+     "dogru": 4,
+     "aciklama": "Medeni Kanunun 713. maddesindeki olağanüstü kazandırıcı zamanaşımında aranan koşullar şunlardır. Taşınmaz tapuda kayıtlı olmamalı ya da malikinin kim olduğu anlaşılamamalıdır. Zilyet taşınmaza davasız ve aralıksız yirmi yıl malik sıfatıyla zilyet olmalıdır. Dava Hazine ve ilgili kamu tüzel kişilerine karşı açılır. Mahkeme kararı da tescile esas olur. Bu maddede zilyedin iyi niyetli olması aranmaz, çünkü olağanüstü zamanaşımı iyi niyet şartına bağlı değildir. İyi niyet şartı olağan kazandırıcı zamanaşımı ve tapuya güven ilkesi için geçerlidir. Bu iki rejimin karıştırılması en sık yapılan hatadır. Doğru cevap \"Zilyedin iyi niyetli olması şarttır\" seçeneğidir.",
+     "zorluk": "zor"
     }
    ]
   }

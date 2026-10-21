@@ -13,19 +13,20 @@
    "ad": "Hukuk",
    "sorular": [
     {
-     "id": "44669",
+     "id": "44642",
      "dersId": "hukuk",
      "konuId": "i_s_hukuku",
-     "soru": "Toplu işçi çıkarmaya ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+     "soru": "4857 sayılı İş Kanunu'na göre, belirsiz süreli iş sözleşmesinde altı aydan az kıdemi olan bir işçi için bildirim süresi kaç haftadır?",
      "secenekler": [
-      "Otuz günlük dönemde 10-29 işçi çıkarılması, toplu işçi çıkarma sayılır; ancak bu sayı işyerinde çalışan toplam işçi sayısının yüzde onundan az olamaz.",
-      "İşveren toplu işçi çıkarmadan en az otuz gün önce durumu Çalışma ve İş Kurumu İl Müdürlüğü ile işçi temsilcilerine bildirmek zorundadır.",
-      "İşveren, toplu işçi çıkarma bildirimi yaptıktan sonra çıkarılacak işçi sayısını artırabilir ancak azaltamaz.",
-      "Toplu işçi çıkarma, bildirimin yapıldığı tarihten otuz gün sonra hüküm ifade eder.",
-      "Toplu işçi çıkarmanın sendikal nedenlere dayandığı işçi tarafından kanıtlanırsa, işçi sendikal tazminat talep edebilir."
+      "8 hafta",
+      "4 hafta",
+      "2 hafta",
+      "1 hafta",
+      "6 hafta"
      ],
      "dogru": 2,
-     "aciklama": "4857 sayılı İş Kanunu'nun 29. maddesi uyarınca toplu işçi çıkarma yapacak işveren, bu işlemden en az otuz gün önce ilgili kurum ve işçi temsilcilerine bildirmek zorundadır ve bildirimden otuz gün sonra fesihler geçerlilik kazanır. İşveren bildirim sonrasında çıkarılacak işçi sayısını azaltabilir ya da uygulamadan vazgeçebilir; sayıyı artıramayacağına dair bir kural yoktur, ancak süreci yeniden başlatması gerekebilir. D seçeneğindeki 'azaltamaz' ifadesi yanlıştır; azaltmak serbesttir. Doğru cevap D'dir."
+     "aciklama": "4857 sayılı İş Kanunu'nun 17. maddesine göre belirsiz süreli iş sözleşmelerinde; işi altı aydan az sürmüş işçi için bildirim süresi iki haftadır. Altı aydan bir buçuk yıla kadar sürmüş işçiler için dört hafta, bir buçuk yıldan üç yıla kadar sürmüş işçiler için altı hafta, üç yıldan fazla sürmüş işçiler için sekiz haftadır.",
+     "zorluk": "kolay"
     },
     {
      "id": "44397",
@@ -248,19 +249,20 @@
      "zorluk": "zor"
     },
     {
-     "id": "44165",
+     "id": "44210",
      "dersId": "hukuk",
      "konuId": "i_dare",
-     "soru": "2709 sayılı Türkiye Cumhuriyeti Anayasası'na göre, olağanüstü hal döneminde çıkarılan Cumhurbaşkanlığı kararnameleri hakkında aşağıdakilerden hangisi doğrudur?",
+     "soru": "İdare hukukunda 'yetki genişliği' ilkesi çerçevesinde, bir ilin valisi olağan dönemde hangi koşulların bir arada bulunması hâlinde, bakanlık onayı aranmaksızın re'sen işlem tesis edebilir?",
      "secenekler": [
-      "Bu kararnameler yürürlüğe girdiği tarihten itibaren üç ay içinde TBMM tarafından onaylanmazsa kendiliğinden yürürlükten kalkar.",
-      "Bu kararnameler, TBMM onayından geçtikten sonra kanun niteliği kazanır ve aleyhine Anayasa Mahkemesi'ne bireysel başvuru yapılamaz.",
-      "Bu kararnamelerle temel haklar, kişi hakları ve ödevleri ile siyasi haklar ve ödevler sınırlanabilir.",
-      "Olağanüstü hal kararnameleri yalnızca Cumhurbaşkanı tarafından değil, Bakanlar Kurulu tarafından da çıkarılabilir.",
-      "Bu kararnameler Anayasa Mahkemesi denetimine tabi değildir."
+      "İşlemin sadece il özel idaresini ilgilendirmesi ve il genel meclisinin onayının alınmış olması",
+      "Bakanlar Kurulu kararıyla o il için olağanüstü hal ilan edilmiş olması",
+      "İşlemin merkezi idare tarafından başlatılmış olması ve valinin imza yetkisine sahip bulunması",
+      "İşlemin yalnızca o ile özgü olması, gecikmesinde sakınca bulunması ve kanunla verilmiş görev alanına girmesi",
+      "İşlemin ivedilik gerektirmesi ve yetki devri kararnamesiyle açıkça yetkilendirilmiş olması"
      ],
-     "dogru": 2,
-     "aciklama": "Anayasa'nın 119. maddesine göre olağanüstü hal süresince Cumhurbaşkanı, olağanüstü halin gerekli kıldığı konularda, temel haklar, kişi hakları ve ödevleri ile siyasi haklar ve ödevleri kısıtlayan kararnameler çıkarabilir. Bu kararnameler Resmî Gazete'de yayımlanır ve aynı gün TBMM onayına sunulur. Onaylanmazlarsa yürürlükten kalkar; ancak bu süre 'üç ay' değil, TBMM'nin toplanarak görüşmesiyle ilgilidir. Seçenek C, madde metnine doğrudan uygundur ve doğru yanıttır. A yanlıştır; Anayasa Mahkemesi bu kararnameleri denetleyebilir. B yanlıştır; 'üç ay' gibi belirli bir süre öngörülmemiştir, TBMM aynı gün onaya alır. D yanlıştır; 2017 reformuyla Bakanlar Kurulu kaldırılmıştır. E yanlıştır; TBMM onayıyla kanun niteliği kazanmaz, ayrıca bireysel başvuru hakları ayrı bir meseledir."
+     "dogru": 3,
+     "aciklama": "Yetki genişliği ilkesi (1700 sayılı Kanun ve Anayasa m.126), ilin özelliklerinden kaynaklanan, yalnızca o ile özgü işlerde, gecikmesinde sakınca bulunan ve valinin asli görev alanına giren meselelerde merkez onayı aranmaksızın işlem yapılabilmesine olanak tanır. Seçenek B bu üç koşulu eksiksiz barındırmaktadır. Yetki devri ayrı bir kurumdur; olağanüstü hal ise yetki genişliğinin dışında, farklı bir hukuki rejim oluşturur.",
+     "zorluk": "zor"
     },
     {
      "id": "44505",
