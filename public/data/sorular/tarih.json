@@ -128,22 +128,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "30009",
-  "dersId": "tarih",
-  "konuId": "i_lk_turk_devletleri",
-  "soru": "Hunların siyasi tarihinde 'Çi-çi Dönemi' olarak bilinen süreçte yaşanan en önemli gelişme aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Çi-çi Han'ın batıya yürüyerek bağımsız bir devlet kurması",
-   "Çin ile kalıcı bir barış antlaşması imzalanması",
-   "Hun Devleti'nin Doğu ve Batı olmak üzere ikiye ayrılması",
-   "İpek Yolu'nun kontrolünün tamamen Hunlara geçmesi",
-   "Oğuz boylarının Hun egemenliğini reddetmesi"
-  ],
-  "dogru": 0,
-  "aciklama": "Çi-çi Han, kardeşi Ho-han-yeh ile yaşanan taht mücadelesini kaybedince batıya yürüyerek bağımsız bir devlet kurmuştur. Bu gelişme MÖ 1. yüzyılda gerçekleşmiş olup Hunların batıya açılma sürecini de başlatmıştır. Hun devletinin ikiye ayrılması ise Çi-çi döneminden değil, MS 1. yüzyıldaki iç çatışmalardan kaynaklanır.",
-  "zorluk": "orta"
- },
- {
   "id": "30010",
   "dersId": "tarih",
   "konuId": "i_lk_turk_devletleri",
@@ -173,22 +157,6 @@
   ],
   "dogru": 1,
   "aciklama": "Uygurların Mani dinini benimsemesi, Türk tarih yazımında önemli bir tartışma konusudur. Mani dininin et yememeyi, savaşmamayı ve pasif bir yaşam biçimini teşvik ettiği gerekçesiyle Uygurlardaki savaşçı geleneğini zayıflattığı ve toplumsal dönüşüme neden olduğu savunulmuştur. Bu görüş KPSS kaynaklarında da öne çıkan bir yorumdur. Uygurlar Göktürk alfabesini kullanmaya devam etmiş; aksine bu alfabeyi geliştirerek Uygur alfabesini oluşturmuşlardır.",
-  "zorluk": "orta"
- },
- {
-  "id": "30012",
-  "dersId": "tarih",
-  "konuId": "i_lk_turk_devletleri",
-  "soru": "Aşağıdakilerden hangisi Asya Hun Devleti ile Avrupa Hun Devleti'nin ortak özelliklerinden biri değildir?",
-  "secenekler": [
-   "Her ikisi de İpek Yolu güzergâhını kontrol etmek için mücadele etmiştir.",
-   "Her ikisi de Çin kaynaklarında 'Hsiung-nu' adıyla anılmaktadır.",
-   "Her ikisinde de kurultay (toy) geleneği işlevseldir.",
-   "Her ikisi de göçebe hayvancılık ekonomisine dayanmaktadır.",
-   "Her ikisinde de hükümdar 'kağan' unvanını kullanmaktadır."
-  ],
-  "dogru": 1,
-  "aciklama": "'Hsiung-nu' (Xiongnu) adı yalnızca Çin kaynaklarında Asya Hunları için kullanılan bir terimdir. Avrupa Hunları ise Çin coğrafyasından uzakta faaliyet gösterdiğinden bu adla anılmamaktadır; Avrupa kaynakları onlardan 'Hunni' ya da benzeri biçimlerde söz eder. Kurultay geleneği her iki devlette de görülmekte, ancak 'kağan' unvanının Avrupa Hunlarında da kullanılıp kullanılmadığı tartışmalı olmakla birlikte genel soru anlayışı açısından en belirgin yanlış seçenek C'dir.",
   "zorluk": "orta"
  },
  {
@@ -379,7 +347,7 @@
    "Yabancı devletlerle antlaşmaların milletlerarası zemine taşınması",
    "Ordu komutanlarının siyasi karar alma süreçlerinin dışında tutulması"
   ],
-  "dogru": 0,
+  "dogru": 1,
   "aciklama": "Eski Türklerde devlet, hükümdar ailesinin ortak malı sayılırdı ve tahta kimin geçeceği belirli bir kurala bağlı değildi. 'Toy' adı verilen kurultaylar önemli kararların alındığı toplantılar olsa da veraset anlayışıyla birleşince hanedan üyeleri arasında şiddetli taht mücadelelerine yol açmıştır. Bu durum; Göktürk, Uygur ve diğer erken dönem Türk devletlerinin parçalanmasında başlıca etkenlerden biri olmuştur.",
   "zorluk": "orta"
  },
@@ -539,7 +507,7 @@
    "Devletin İslam medeniyetinin hamisi konumuna gelmesi",
    "Ordu teşkilatının onluk sisteme dayanması"
   ],
-  "dogru": 4,
+  "dogru": 0,
   "aciklama": "Onluk askeri sistem (on, yüz, bin, on bin şeklinde hiyerarşik örgütlenme), Büyük Hun Devleti'nde Mete Han tarafından kurulan ve Orta Asya bozkır devletlerinin karakteristik özelliği olan bir yapılanmadır. Bu sistem, sonraki Türk ve Moğol devletleri tarafından da kullanılmış olsa da köken itibarıyla İlk Türk Devletleri dönemine aittir. Medrese kurumu ise Büyük Selçuklularla birlikte sistematik bir devlet politikasına dönüşmüştür; İlk Türk devletleri bu kurumu oluşturmamıştır.",
   "zorluk": "orta"
  },
@@ -715,7 +683,7 @@
    "I, II, III ve IV",
    "I, II ve III"
   ],
-  "dogru": 3,
+  "dogru": 1,
   "aciklama": "I. Doğru: 'Türk' adı devlet adı olarak ilk kez Göktürklerle ortaya çıkmıştır. II. Doğru: Akhunlar (Eftalitler) Batı Hunlarının uzantısı sayılmakta, Orta Asya ve Hindistan'a kadar uzanan geniş coğrafyada etkili olmuşlardır. III. Doğru: Hazarlar Müslüman Arap ordularını Kafkasya'da durdurmuş; yönetici sınıf kitlesel olarak Museviliği benimsemiştir. IV. Doğru: Kırgızlar 840'ta Uygur Devleti'ni yıkmış fakat güçlü ve kalıcı bir siyasi yapı kuramamışlardır. Tüm ifadeler doğrudur.",
   "zorluk": "orta"
  },
@@ -1376,22 +1344,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "30092",
-  "dersId": "tarih",
-  "konuId": "i_lk_turk_devletleri",
-  "soru": "Akhunlar (Eftalitler) ile Göktürkler arasındaki 557 yılı ittifakının Sasani İranı ile kurulmasının temel jeopolitik amacı aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "İpek Yolu gelirlerini Akhun aracılığından kurtararak doğrudan Bizans ile ticaret yapılmasının sağlanması",
-   "Sasani-Göktürk sınırını kalıcı biçimde Amu Derya üzerinde belirlenmesi",
-   "Orta Asya'da Hristiyanlığın yayılmasının önlenmesi",
-   "Akhun Devleti'nin iki ateş arasında bırakılarak ortadan kaldırılması ve İpek Yolu kontrolünün paylaşılması",
-   "Budizm'in ortak düşman İslam'a karşı korunması"
-  ],
-  "dogru": 3,
-  "aciklama": "Akhunlar, o dönemde hem Göktürkler hem de Sasaniler için stratejik engel oluşturuyordu. Göktürkler İpek Yolu'nun doğu kesimini, Sasaniler ise batı kesimini kontrol etmek istiyordu; Akhunlar her iki tarafın önünde de birer bariyer oluşturuyordu. 557'de kurulan ittifakla Akhunlar iki taraftan çekiştirilerek yaklaşık 560-65 yılları arasında ezildi ve toprakları paylaşıldı. Bu ittifak, İpek Yolu tarihinin en belirleyici jeopolitik manevralarından biridir ve salt dinî ya da sınır meseleleriyle açıklanamaz.",
-  "zorluk": "zor"
- },
- {
   "id": "30093",
   "dersId": "tarih",
   "konuId": "i_lk_turk_devletleri",
@@ -1819,7 +1771,7 @@
    "Muhtesip",
    "Şıhne"
   ],
-  "dogru": 2,
+  "dogru": 4,
   "aciklama": "Atabeg, Selçuklularda genç şehzadelerin eğitiminden ve yöneticiliğinden sorumlu olan devlet görevlisidir. Zamanla şehzadeye vasi olan atabeglar, bulundukları bölgelerde fiilî yönetimi ele geçirmiş ve bazıları bağımsız devletler kurmuştur.",
   "zorluk": "kolay"
  },
@@ -2125,22 +2077,6 @@
   ],
   "dogru": 1,
   "aciklama": "Sultan unvanı, Tuğrul Bey'e Abbasi Halifesi tarafından verilmiştir. Bu, İslam siyaset geleneğinde önemli bir ayrıma işaret eder: Halife dini ve sembolik otoriteyi korurken sultan fiili siyasi ve askeri iktidarı elinde bulundurur. Bu düzenleme, Selçukluların Sünni İslam'ın koruyucusu rolünü üstlenmesi ve halifeliği Şii Büveyhoğullarının baskısından kurtarmasının ardından şekillenmiştir.",
-  "zorluk": "orta"
- },
- {
-  "id": "30140",
-  "dersId": "tarih",
-  "konuId": "turk_i_slam_devletleri",
-  "soru": "Aşağıdaki Türk-İslam devletlerinden hangisi, diğerlerinden farklı olarak Şii mezhebini benimsemiştir?",
-  "secenekler": [
-   "Harzemşahlar",
-   "Büyük Selçuklular",
-   "Gazneliler",
-   "Karahanlılar",
-   "Fatımiler"
-  ],
-  "dogru": 4,
-  "aciklama": "Fatımiler, Kuzey Afrika ve Mısır merkezli bir devlet olup İsmaili Şii mezhebini benimsemişlerdir ve bu yönüyle Mısır'da rakip bir Şii halifeliği kurmuşlardır. Karahanlılar, Gazneliler, Büyük Selçuklular ve Harzemşahlar ise Sünni Hanefi veya Şafii mezhebine mensuptur. Not: Fatımiler genellikle Türk-İslam devletleri kapsamının dışında tutulsa da bu soru mezhep ayrımı bağlamında değerlendirme becerisi ölçmektedir.",
   "zorluk": "orta"
  },
  {
@@ -2480,22 +2416,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "30162",
-  "dersId": "tarih",
-  "konuId": "turk_i_slam_devletleri",
-  "soru": "Karahanlılar döneminde kaleme alınan Kutadgu Bilig'de 'Hükümdar, adaleti temsil eden ay gibidir; ışığını herkese eşit dağıtır' ifadesi yer almaktadır. Bu anlayışın, İslam öncesi Türk devlet geleneğindeki hangi kavramla doğrudan çeliştiği savunulabilir?",
-  "secenekler": [
-   "Kurultay'ın yasama üstünlüğü",
-   "Kut anlayışının tanrısal ve kalıtsal niteliği",
-   "Yabgu unvanının bölgesel egemenlik ifadesi",
-   "Hatunların yönetimdeki ortak otoritesi",
-   "Töre anlayışının evrensel bağlayıcılığı"
-  ],
-  "dogru": 1,
-  "aciklama": "İslam öncesi Türk siyasi geleneğinde 'kut', hükümdar olma hakkının Tanrı tarafından yalnızca belirli bir aileye ve kişiye verildiğini ifade eder; bu durum iktidarın tekelci ve ilahi seçimle belirlenen bir nitelik taşıdığını gösterir. Oysa Kutadgu Bilig'deki 'ışığını herkese eşit dağıtan ay' metaforu, hükümdarın bütün tebaaya karşı eşit adalet yükümlülüğü taşıdığını vurgular. Bu İslami adalet anlayışı, kutun belirli bir hanedan üyesine özgü ve kalıtsal olduğu geleneksel Türk siyasi düşüncesiyle kısmen çelişir; zira kut anlayışında iktidar hakkı evrensel değil, seçilmiş kişiye özel bir armağandır.",
-  "zorluk": "zor"
- },
- {
   "id": "30163",
   "dersId": "tarih",
   "konuId": "turk_i_slam_devletleri",
@@ -2509,22 +2429,6 @@
   ],
   "dogru": 2,
   "aciklama": "Nizamiye Medreseleri, 1067'den itibaren Bağdat başta olmak üzere büyük şehirlerde kurulmuştur. Bu kurumların ortaya çıkışında Fatımi Halifeliği'nin desteklediği İsmaili-Batıni propagandasının yarattığı siyasi ve dini tehdit belirleyici rol oynamıştır. Hasan Sabbah önderliğindeki Haşhaşiler dahil çeşitli Batıni hareketler Selçuklu otoritesini içten sarıyordu. Nizamülmülk, medreselerde Şafi ve Hanefi fıkhını güçlendirerek Sünni ilim geleneğini örgütlemek ve Batıni düşünceye karşı entelektüel bir kalkan oluşturmak istedi. Haçlı Seferleri ise medreselerin kurulduğu dönemde henüz başlamamıştı (1096).",
-  "zorluk": "zor"
- },
- {
-  "id": "30164",
-  "dersId": "tarih",
-  "konuId": "turk_i_slam_devletleri",
-  "soru": "Aşağıdaki eşleştirmelerden hangisi, Türk-İslam tarihinde 'ilk' niteliğini taşıyan kurumlar açısından yanlış verilmiştir?",
-  "secenekler": [
-   "Türkçe yazılan ilk sözlük – Divanü Lügati't-Türk (Kaşgarlı Mahmud)",
-   "İlk Türk-İslam medresesi – Nizamiye Medresesi (Bağdat)",
-   "İlk Türk-İslam devleti – Karahanlılar",
-   "Türk sultanlarının ilk kez 'Sultan' unvanını alması – Gazneli Mahmud",
-   "Atabeğlik kurumunun ilk sistematik uygulaması – Büyük Selçuklular"
-  ],
-  "dogru": 1,
-  "aciklama": "Nizamiye Medresesi (1067), Türk-İslam dünyasında sistemli medrese geleneğinin en meşhur örneği olmakla birlikte tarihsel olarak ilk Türk-İslam medresesi değildir. Karahanlılar döneminde Semerkand ve Buhara'da daha önce medreseler kurulmuştur; ayrıca Gazneliler döneminde de medrese faaliyetleri mevcuttu. Dolayısıyla 'ilk Türk-İslam medresesi' nitelendirmesi Nizamiye için kullanılamaz. Diğer seçeneklerdeki bilgiler doğrudur: Karahanlılar ilk Türk-İslam devleti kabul edilir, Gazneli Mahmud 1001'de Abbasi halifesinden 'Sultan' unvanını almış, atabeğlik sistemi Selçukluların şehzade yetiştirme geleneği olarak kurumsallaşmıştır.",
   "zorluk": "zor"
  },
  {
@@ -2941,22 +2845,6 @@
   ],
   "dogru": 2,
   "aciklama": "Soru, çöküş nedenleri arasında gösterilemeyecek ifadeyi sormaktadır. Harzemşahlar devletinin çöküşünde ordunun Kıpçak kökenli komutanlara dayanması, Sultan Muhammed ile annesi Terken Hatun arasındaki çekişme, Abbasi Halifesi Nasır ile yaşanan gerginlik ve kuvvetlerin şehirlere dağıtılması gibi yapısal zayıflıklar etkili olmuştur. Moğolların bölgeye gelişi ise Otrar'da Moğol tüccarlarının öldürülmesi ve elçilerine kötü davranılması gibi olaylarla ilişkilidir. Harzemşahların Selçuklu topraklarını ele geçirerek güçlenmesi Moğolların dikkatini çeken bir etken olarak gösterilemez. Bu seçenek yapısal bir zayıflık da değildir. \"Hükümdar ile annesi Terken Hatun arasındaki iktidar çatışmasının merkezi otoriteyi zayıflatması\" seçeneği ise gerçek bir iç zayıflık olduğu için yanlış seçenek değildir. Doğru cevap \"Harzemşahların Selçuklu topraklarını işgal ederek güçlenmesinin, Moğolların dikkatini bu bölgeye çekmesi\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "30191",
-  "dersId": "tarih",
-  "konuId": "turk_i_slam_devletleri",
-  "soru": "Türk-İslam tarihinde 'Türk-İslam Sentezi' kavramının oluşumunu simgeleyen gelişmeler bir bütün olarak değerlendirildiğinde, bu sentezin aşağıdaki hangi alanda en sınırlı kaldığı savunulabilir?",
-  "secenekler": [
-   "Edebi alanda, Türkçenin ve Farsçanın İslami temalarla birleşerek özgün eserler üretmesi",
-   "Askeri alanda, gazi ideolojisinin Türk savaş geleneğiyle harmanlanması",
-   "Hukuki alanda, İslam fıkhının Türk örf ve töresini neredeyse tamamen belirlemesi ve şeriatın egemen olması",
-   "Siyasi meşruiyet alanında, halifenin onayına ihtiyaç duyulurken 'kut' anlayışının da varlığını sürdürmesi",
-   "Mimari ve sanat alanında, cami-medrese-han gibi yapıların Türk damgasını taşıması"
-  ],
-  "dogru": 2,
-  "aciklama": "Türk-İslam sentezi mimari, edebi, siyasi ve askeri alanlarda belirgin biçimde kendini göstermiştir. Türk kültürel unsurları bu alanlarda İslami çerçeveyle harmanlanmıştır. Hukuk alanında ise tablo farklıdır: Şeriat ve İslam fıkhı, geleneksel Türk örf ve töresinin büyük ölçüde yerini almıştır. Türk töresinin İslam hukuku içinde var olmayı sürdürdüğü alanlar son derece sınırlı kalmıştır. Bu nedenle sentezin en az gerçekleştiği alan hukuk olarak değerlendirilebilir.",
   "zorluk": "zor"
  },
  {
@@ -4304,22 +4192,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "30278",
-  "dersId": "tarih",
-  "konuId": "osmanli_kurulus_yukselme",
-  "soru": "I. Selim (Yavuz) döneminde gerçekleştirilen Mısır seferi öncesinde Memlük Sultanlığı ile ilişkilerin gerilmesinin temel nedeni aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Memlüklerin Venedik ile gizli bir ticaret ve askeri ittifak kurması",
-   "Memlüklerin Anadolu'daki Karamanoğulları kalıntılarını destekleyerek Osmanlı'nın güney sınırını istikrarsızlaştırması",
-   "Memlüklerin Çaldıran Savaşı'nda Safevilere açıkça destek vermesi ve sonrasında Osmanlı'nın güney sınırlarını tehdit etmesi",
-   "Memlük sultanının Osmanlı'nın Hicaz üzerindeki nüfuzunu kırmak amacıyla Şerif Hayır Bey ile ittifak kurması",
-   "Suriye ve Mısır'daki ticaret yollarının Memlükler tarafından Osmanlı tüccarlarına kapatılması"
-  ],
-  "dogru": 2,
-  "aciklama": "Çaldıran Savaşı (1514) sonrasında Osmanlı-Memlük ilişkileri hızla gerildi. Memlükler, Safevilere yönelik Osmanlı baskısına açıkça karşı çıktı ve Osmanlı'nın Güneydoğu Anadolu'ya yayılmasını kendi çıkarlarına tehdit olarak gördü. Dulkadiroğullarını Osmanlı aleyhine tahrik ettiler. Yavuz Sultan Selim bu gelişmeleri Memlük düşmanlığının kanıtı saydı ve 1516'da Mercidabık, 1517'de Ridaniye seferleriyle Memlük Sultanlığı'na son verdi. Diğer şıklar tarihsel kaynaklarda yeterli karşılığı olmayan senaryolardır.",
-  "zorluk": "orta"
- },
- {
   "id": "30279",
   "dersId": "tarih",
   "konuId": "osmanli_kurulus_yukselme",
@@ -4912,22 +4784,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "30318",
-  "dersId": "tarih",
-  "konuId": "osmanli_kurulus_yukselme",
-  "soru": "II. Mehmed'in İstanbul'u fethetmeden önce Anadolu Hisarı'nı (1394) ve Rumeli Hisarı'nı (1452) inşa ettirmesinin stratejik gerekçesi yalnızca Boğaz geçişini kesmek değildi. Bu iki hisarın inşaatının ortak stratejik amacına hangi ek işlev en doğru biçimde eklenebilir?",
-  "secenekler": [
-   "Osmanlı'nın Balkan fetihlerini tehdit eden Eflak ve Boğdan kuvvetlerinin güneye geçişini önlemek",
-   "Venedik ve Ceneviz ticaret gemilerinden geçiş vergisi tahsil ederek kuşatma finansmanını sağlamak",
-   "Bizans'a kuzeyden olası bir Haçlı ya da Karadeniz kaynaklı deniz yardımını fiziksel olarak engellemek",
-   "Konstantinopolis surlarının topçu ateşiyle yıkılmasından önce şehrin tahliyesini zorlaştırmak",
-   "Hisarları Osmanlı donanmasının ana üssü hâline getirerek Ege kontrolünü güvence altına almak"
-  ],
-  "dogru": 2,
-  "aciklama": "İki hisarın inşaatıyla Boğaz fiilen Osmanlı kontrolüne girdi. Bunun en kritik stratejik sonucu, Bizans'ın Karadeniz'den; özellikle Trabzon Rum İmparatorluğu, Ceneviz kolonileri ve olası bir Haçlı donanmasından alacağı yardım yolunu kesmesiydi. Şehrin uzun süre direnmesini sağlayan temel unsur bu dış yardım imkânıydı. Hisarlar bu yardımı fiziksel olarak imkânsız hale getirerek şehri tecrit etti.",
-  "zorluk": "zor"
- },
- {
   "id": "30319",
   "dersId": "tarih",
   "konuId": "osmanli_kurulus_yukselme",
@@ -5291,7 +5147,7 @@
    "III. Mehmed",
    "III. Murad"
   ],
-  "dogru": 0,
+  "dogru": 4,
   "aciklama": "Osmanlı tarihçileri geleneksel olarak Duraklama Dönemi'nin I. Ahmed'in tahta çıktığı 1603 yılıyla başladığını kabul eder. Bu dönemde Kanuni Sultan Süleyman zamanında doruğa ulaşan fetih politikası durma noktasına gelmiş ve iç sorunlar artmaya başlamıştır.",
   "zorluk": "kolay"
  },
@@ -5677,22 +5533,6 @@
   ],
   "dogru": 0,
   "aciklama": "Kapitülasyonlar sayesinde yabancı tüccarlar düşük gümrük vergileriyle Osmanlı topraklarında ticaret yapabildi. Bu durum, aynı vergi avantajlarına sahip olmayan yerli Osmanlı esnafı ve tüccarlarının Avrupalı rakiplerine karşı rekabet edemez hale gelmesine yol açtı. Lonca teşkilatı çöktü, yerli üretim geriledi ve ekonomik bağımlılık arttı.",
-  "zorluk": "kolay"
- },
- {
-  "id": "30367",
-  "dersId": "tarih",
-  "konuId": "osmanli_duraklama_gerileme",
-  "soru": "Osmanlı Devleti'nin duraklama döneminde Venediklilerle yaşanan savaş sonucunda 25 yıl süren bir mücadelenin ardından kaybedilen ada aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Girit",
-   "Midilli",
-   "Rodos",
-   "Sakız",
-   "Kıbrıs"
-  ],
-  "dogru": 0,
-  "aciklama": "Girit Savaşı (1645-1669), Osmanlı tarihinin en uzun savaşlarından biridir. Osmanlılar adayı Venediklilerden almak için 25 yıl savaşmış; 1669'da Girit'i fethederek Venedik hâkimiyetine son vermiştir. Bu fetih duraklama dönemindeki önemli bir başarı olmakla birlikte savaşın uzun sürmesi Osmanlı'nın zayıflığını da gözler önüne sermiştir.",
   "zorluk": "kolay"
  },
  {
@@ -6448,22 +6288,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "30415",
-  "dersId": "tarih",
-  "konuId": "osmanli_duraklama_gerileme",
-  "soru": "1683 Viyana Kuşatması'nın başarısızlıkla sonuçlanması Osmanlı tarihinde bir dönüm noktası sayılmaktadır. Ancak bu başarısızlığın salt askerî nedenlere bağlanamayacağını savunan bir tarihçi aşağıdaki argümanlardan hangisini öne süremez?",
-  "secenekler": [
-   "Osmanlı lojistik hattının aşırı uzaması ve ikmal güçlüğü",
-   "Osmanlı topçusunun Avrupa topçusuna kıyasla daha gelişmiş olması nedeniyle surlara zamanında müdahale etmemesi",
-   "Osmanlı Devleti'nin bu dönemde Doğu'da Safevilerle de mücadele etmekte olması",
-   "Merzifonlu Kara Mustafa Paşa'nın kuşatma stratejisine ilişkin komuta hataları",
-   "Avrupa'da Otuz Yıl Savaşları'nın sona ermesiyle oluşan yeni ittifak dinamiklerinin Osmanlı aleyhine işlemesi"
-  ],
-  "dogru": 1,
-  "aciklama": "Viyana Kuşatması döneminde Avrupa, Vauban sistemi surları ve gelişmiş topçu tekniklerini geliştirmiş durumdaydı. Osmanlı topçusu bu dönemde Avrupa'dan geride kalmaya başlamıştı. Dolayısıyla 'Osmanlı topçusunun daha gelişmiş olduğu' iddiası tarihsel gerçekle çelişmektedir ve bu argümanı söz konusu tarihçi öne süremez. Diğer seçenekler gerçekçi ve savunulabilir argümanlardır.",
-  "zorluk": "zor"
- },
- {
   "id": "30416",
   "dersId": "tarih",
   "konuId": "osmanli_duraklama_gerileme",
@@ -6880,22 +6704,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "30443",
-  "dersId": "tarih",
-  "konuId": "tanzimat_mesrutiyet",
-  "soru": "Tanzimat Fermanı'nın diğer adı aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Gülhane Hatt-ı Hümayunu",
-   "Islahat Fermanı",
-   "Sened-i İttifak",
-   "Hatt-ı Şerif",
-   "Kanun-i Esasi"
-  ],
-  "dogru": 0,
-  "aciklama": "Tanzimat Fermanı, ilan edildiği yer olan Gülhane Parkı'ndan dolayı 'Gülhane Hatt-ı Hümayunu' olarak da bilinmektedir. Islahat Fermanı 1856'da ayrı bir belgedir.",
-  "zorluk": "kolay"
- },
- {
   "id": "30444",
   "dersId": "tarih",
   "konuId": "tanzimat_mesrutiyet",
@@ -7021,22 +6829,6 @@
   ],
   "dogru": 3,
   "aciklama": "Osmanlı Devleti'nde ilk kez anayasal monarşiye geçiş I. Meşrutiyet (1876) ile gerçekleşmiştir. Kanun-i Esasi ile padişahın yetkileri ilk kez bir anayasa ile sınırlandırılmış ve iki meclisli bir yapı oluşturulmuştur.",
-  "zorluk": "kolay"
- },
- {
-  "id": "30452",
-  "dersId": "tarih",
-  "konuId": "tanzimat_mesrutiyet",
-  "soru": "Tanzimat döneminde çıkarılan ve modern Osmanlı hukuku açısından önemli olan kanun aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Arazi Kanunnamesi",
-   "Islahat Nizamnamesi",
-   "Kanun-i Esasi",
-   "Hatt-ı Hümayun",
-   "Mecelle"
-  ],
-  "dogru": 4,
-  "aciklama": "Mecelle, Tanzimat döneminde Ahmed Cevdet Paşa öncülüğünde hazırlanan ve İslam hukukunu modernleştiren medeni hukuk kodifikasyonudur. Osmanlı Devleti'nde ilk kapsamlı kanun derleme çalışması olması bakımından önem taşır.",
   "zorluk": "kolay"
  },
  {
@@ -7389,22 +7181,6 @@
   ],
   "dogru": 2,
   "aciklama": "1838 yılında kurulan Meclis-i Ahkâm-ı Adliye, Tanzimat döneminin ön hazırlık kurumu niteliğinde olup temel işlevi kanun ve nizamname hazırlamaktır. Bu meclis, Osmanlı bürokrasisinde yasama işlevinin örgütlü hâle getirilmesi yolunda atılmış önemli bir adımdır. Yargısal kararlar vermek ya da dış borçları denetlemek bu kurumun asıl görevi değildir.",
-  "zorluk": "orta"
- },
- {
-  "id": "30475",
-  "dersId": "tarih",
-  "konuId": "tanzimat_mesrutiyet",
-  "soru": "Aşağıdakilerden hangisi Tanzimat döneminde gerçekleştirilen eğitim alanındaki yeniliklerden biri değildir?",
-  "secenekler": [
-   "Tevhid-i Tedrisat Kanunu'nun çıkarılması",
-   "Darülfünun'un kurulması",
-   "Mekteb-i Maarif-i Adliye'nin açılması",
-   "Encümen-i Daniş'in kurulması",
-   "Rüştiye okullarının yaygınlaştırılması"
-  ],
-  "dogru": 0,
-  "aciklama": "Tevhid-i Tedrisat Kanunu 1924 yılında, yani Türkiye Cumhuriyeti döneminde çıkarılmış olup eğitimde birliği sağlamayı amaçlamıştır. Tanzimat dönemiyle doğrudan ilgisi yoktur. Darülfünun, rüştiyeler, Mekteb-i Maarif-i Adliye ve Encümen-i Daniş ise doğrudan Tanzimat döneminde gerçekleştirilen eğitim alanındaki yeniliklerdir.",
   "zorluk": "orta"
  },
  {
@@ -8480,22 +8256,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "30549",
-  "dersId": "tarih",
-  "konuId": "osmanli_kurulus_yukselme",
-  "soru": "Osmanlı Devleti'nde ilk divan teşkilatını kuran ve vezir-i azamlık makamını oluşturan padişah kimdir?",
-  "secenekler": [
-   "Yıldırım Bayezid",
-   "Orhan Bey",
-   "Osman Bey",
-   "Fatih Sultan Mehmed",
-   "I. Murat"
-  ],
-  "dogru": 1,
-  "aciklama": "Orhan Bey döneminde Osmanlı Devleti'nde ilk divan teşkilatı oluşturulmuş ve ilk vezir atanmıştır. Bu gelişme, Osmanlı merkez yönetiminin kurumsallaşmasında önemli bir adım sayılmaktadır.",
-  "zorluk": "kolay"
- },
- {
   "id": "30550",
   "dersId": "tarih",
   "konuId": "osmanli_kurulus_yukselme",
@@ -8745,7 +8505,6 @@
    "İstimalet politikası, Osmanlı'nın fethettikleri topraklarda işlevsel bir yönetim sürekliliği sağlamaya ve yerel direnci asgariye indirmeye yönelik pragmatik bir strateji olduğunu göstermektedir",
    "Yerel Hristiyan beylerle kurulan ittifaklar, Osmanlı'nın zımnen Hristiyanlığa geçtiği yönünde değerlendirilebilir",
    "Osmanlı'nın askerî açıdan zayıf olduğu dönemlerde geliştirdiği geçici bir strateji olup güçlendikçe bu politika tamamen terk edilmiştir",
-   "Yerel Hristiyan beylerle kurulan ittifaklar, Osmanlı'nın zımnen Hristiyanlığa yaklaştığı yönünde yorumlanabilir",
    "Bu politika yalnızca Balkanlar'a özgüdür; Anadolu beyliklerine karşı hiçbir zaman benzer bir yaklaşım benimsenmemiştir"
   ],
   "dogru": 1,
@@ -8830,22 +8589,6 @@
   ],
   "dogru": 3,
   "aciklama": "Osmanlı ıslahat geleneğinde 'Nizam-ı Kadim'e dönüş' kavramı, sorunun çözümünü kurumlarda yapısal değişiklik yapmakta değil, mevcut kurumların Kanuni dönemi gibi 'altın çağ'daki işleyişine geri döndürülmesinde arayan anlayışı ifade eder. Bu zihniyet, 17. yüzyıldan 18. yüzyıl başına kadar Osmanlı ıslahatçılarının (Koçi Bey, Katip Çelebi, Köprülüler) temel referans çerçevesi olmuştur. Bunun kısıtı ise Osmanlı kurumlarının bizzat kendisinin artık değişen dünya koşullarına yanıt veremez hale geldiğini görmezden gelmesi; dolayısıyla Avrupa'daki askeri devrim ve merkezi ulus-devlet oluşumu karşısında kurumsal yenilik yerine restorasyon politikasına mahkûm edilmesidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "30571",
-  "dersId": "tarih",
-  "konuId": "osmanli_duraklama_gerileme",
-  "soru": "Aşağıdaki tabloda Osmanlı-Avrupa güç dengesindeki dönüşümü belgeleyen dört antlaşma eşleştirilmiştir. Bu antlaşmalardan hangisinde 'ilk kez' Osmanlı Devleti, savaşta yenilmemesine karşın görüşme masasında toprak kaybetmiş; bu durum Osmanlı diplomasisindeki 'kolektif Avrupa baskısı' olgusunun öncülü sayılmıştır?\n\n1699 Karlofça – Osmanlı'nın büyük toprak kayıpları\n1718 Pasarofça – Osmanlı'nın savaş meydanında yenilgisi sonucu toprak kaybı\n1739 Belgrad – Osmanlı lehine toprak geri kazanımı\n1774 Küçük Kaynarca – Diplomatik baskı altında toprak ve egemenlik devri",
-  "secenekler": [
-   "Zitvatorok Antlaşması – Osmanlı'nın Habsburg İmparatoru'nu eşit statüde muhatap kabul etmek zorunda kalması",
-   "Küçük Kaynarca Antlaşması – Rusya'nın Kırım üzerindeki siyasi nüfuzunu salt askeri güçle değil hukuki-diplomatik mekanizmalarla pekiştirmesi",
-   "Belgrad Antlaşması – Fransa'nın arabuluculuğuyla Osmanlı'nın fiili askeri üstünlüğünü müzakerede kullanamaması",
-   "Pasarofça Antlaşması – Prens Öjeni'nin askeri zaferi olmaksızın İngiliz ve Hollandalı arabulucuların Osmanlı'yı müzakere masasında köşeye sıkıştırması",
-   "Karlofça Antlaşması – Avusturya, Venedik, Polonya ve Rusya'nın eş zamanlı baskısının ürünü olması"
-  ],
-  "dogru": 1,
-  "aciklama": "1774 Küçük Kaynarca Antlaşması, Osmanlı tarihinde salt askeri yenilginin ötesinde diplomatik ve hukuki mekanizmalar aracılığıyla egemenlik haklarının devredilmesinin ilk kapsamlı örneğidir. Rusya, antlaşmayla yalnızca toprak kazanmakla kalmamış; Ortodoks Hristiyanlar üzerinde himaye hakkı, Boğazlarda ticaret serbestisi ve ileriki Kırım ilhakını meşrulaştıracak diplomatik zeminleri elde etmiştir. Bu, Osmanlı'nın savaş meydanındaki performansından bağımsız biçimde müzakere masasında egemenlik kaybı yaşadığının ilk sistematik örneği sayılır ve 19. yüzyıldaki 'Şark Meselesi' diplomatik çerçevesinin öncülüdür.",
   "zorluk": "zor"
  },
  {
@@ -9617,22 +9360,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "30622",
-  "dersId": "tarih",
-  "konuId": "i_dunya_savasi",
-  "soru": "I. Dünya Savaşı'nda Osmanlı Devleti'nin savaştığı cepheler arasında aşağıdakilerden hangisi yer almaz?",
-  "secenekler": [
-   "Kafkas Cephesi",
-   "Kanal Cephesi",
-   "Hicaz-Yemen Cephesi",
-   "Irak Cephesi",
-   "Makedonya Cephesi"
-  ],
-  "dogru": 4,
-  "aciklama": "Makedonya Cephesi, Osmanlı Devleti'nin değil ağırlıklı olarak Bulgaristan, Sırbistan, Yunanistan ve İtilaf Devletleri'nin mücadele ettiği bir cephedir. Osmanlı Devleti; Kafkas, Çanakkale, Kanal (Süveyş), Irak, Suriye-Filistin, Hicaz-Yemen ve Galiçya cephelerinde savaşmıştır. Makedonya Cephesi Osmanlı'nın doğrudan mücadele verdiği cepheler arasında yer almaz.",
-  "zorluk": "orta"
- },
- {
   "id": "30623",
   "dersId": "tarih",
   "konuId": "i_dunya_savasi",
@@ -10241,22 +9968,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "30661",
-  "dersId": "tarih",
-  "konuId": "mudanya_lozan",
-  "soru": "Mudanya Ateşkes Antlaşması'nın imzalanmasından (11 Ekim 1922) yalnızca on dört gün sonra Saltanatın kaldırılması (1 Kasım 1922); bu iki olay arasındaki ilişki açısından en isabetli yorum hangisidir?",
-  "secenekler": [
-   "Mustafa Kemal, Mudanya'da kazanılan diplomatik prestiji kullanarak Saltanatı kaldırmak için gerekli meclis çoğunluğunu sağladı ve böylece Lozan'a gidecek heyetin Osmanlı yerine yalnızca TBMM adına konuşmasını güvence altına aldı.",
-   "Mudanya, Osmanlı Devleti'ni fiilen sona erdirdiği için Saltanatın kaldırılması teknik bir düzeltmeden ibaretti.",
-   "İki olay arasında doğrudan bir nedensellik bağı yoktur; Saltanatın kaldırılması Temsil Heyeti'nin 1919'dan beri planladığı bağımsız bir süreçtir.",
-   "İtilaf devletleri, Lozan görüşmelerine yalnızca ulusal hükümetle muhatap olmak istediklerini resmen açıkladığı için Saltanat ilga edilmek zorunda kalınmış; karar tümüyle dış baskının ürünüdür ve iç siyasi hesaplarla hiçbir ilgisi yoktur.",
-   "Saltanatın kaldırılması Mudanya'nın bir ön koşuluydu; ancak kamuoyundan gizlendi."
-  ],
-  "dogru": 0,
-  "aciklama": "Mudanya zaferinin ardından İtilaf devletleri hem TBMM hükümetini hem de İstanbul'daki Osmanlı hükümetini Lozan'a davet etti. Bu durum, iki ayrı Türk heyetinin çelişkili tutumlarla konferansa katılacağı anlamına geliyordu. Mustafa Kemal, Mudanya'nın yarattığı siyasi momentum ve meclisteki güçlenmiş konumunu kullanarak Saltanatı kaldırdı; böylece Osmanlı hükümeti tasfiye edildi ve Lozan'a yalnızca TBMM heyeti gidebildi. Bu, hem iç siyasi bir hamle hem de Lozan müzakerelerine zemin hazırlayan stratejik bir adımdı.",
-  "zorluk": "zor"
- },
- {
   "id": "30662",
   "dersId": "tarih",
   "konuId": "mudanya_lozan",
@@ -10513,22 +10224,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "30679",
-  "dersId": "tarih",
-  "konuId": "ataturk_i_lke_ve_i_nkilaplari",
-  "soru": "Mustafa Kemal'in 'Hâkimiyet kayıtsız şartsız milletindir' ilkesi ile 'egemenlik kayıtsız şartsız millete aittir' anlayışı çerçevesinde değerlendirildiğinde, aşağıdaki gelişmelerin hangisi bu ilkeyle doğrudan çelişen bir uygulamayı temsil etmektedir?",
-  "secenekler": [
-   "Saltanatın kaldırılarak egemenliğin tek kişiden alınması",
-   "Seçimle oluşan meclisin hem yasama hem yürütme yetkisini kullanması",
-   "Çok partili siyasi hayata geçiş denemelerinin yapılması",
-   "İttihat ve Terakki Cemiyeti'nin kapatılarak siyasi alandan uzaklaştırılması",
-   "1924 Anayasası'nın TBMM tarafından kabul edilmesi"
-  ],
-  "dogru": 3,
-  "aciklama": "Milli egemenlik ilkesi bağlamında düşünüldüğünde, belirli bir siyasi yapının tamamen tasfiye edilerek siyasi rekabetten uzaklaştırılması, teorik olarak 'milli iradenin' tüm siyasi aktörleri kapsayıp kapsamadığını sorgulatır. İTC'nin kapatılması, milli egemenlik söylemi içinde tartışmalı bir uygulamadır. Diğer seçenekler ise egemenliğin millete devredilmesini pekiştiren adımlardır. Bu soru, kavrama düzeyinde kritik bir ayrımı test etmektedir.",
-  "zorluk": "orta"
- },
- {
   "id": "30680",
   "dersId": "tarih",
   "konuId": "ataturk_i_lke_ve_i_nkilaplari",
@@ -10593,22 +10288,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "30684",
-  "dersId": "tarih",
-  "konuId": "ataturk_i_lke_ve_i_nkilaplari",
-  "soru": "Tevhid-i Tedrisat Kanunu (3 Mart 1924) ile eğitim alanında gerçekleştirilen dönüşümün özü düşünüldüğünde, aşağıdaki sonuçlardan hangisi bu kanunun dolaylı etkisi olarak değerlendirilemez?",
-  "secenekler": [
-   "Medreselerin kapatılarak eğitim kurumlarının Millî Eğitim Bakanlığı çatısı altında toplanması",
-   "Farklı toplum kesimlerinin benzer müfredatla yetişmesinin toplumsal bütünleşmeye katkı sağlaması",
-   "Din eğitiminin kamusal eğitim sisteminden tamamen ve kalıcı biçimde çıkarılması",
-   "Yabancı okul ve azınlık okulları üzerinde devlet denetiminin güçlendirilmesi",
-   "Eğitimde ikiliğin sona erdirilmesinin milliyetçi ve laik kimlik inşasını desteklemesi"
-  ],
-  "dogru": 2,
-  "aciklama": "Tevhid-i Tedrisat Kanunu, eğitimi tek çatı altında toplayarak medrese-mektep ikiliğine son vermiştir. Ancak din eğitiminin kamusal sistemden 'kalıcı ve tamamen' çıkarıldığı iddiası yanıltıcıdır. Nitekim farklı dönemlerde ilahiyat fakülteleri açılmış, din dersleri müfredata eklenmiş ve çıkarılmıştır. Dolayısıyla bu seçenek, kanunun doğrudan ya da sürdürülebilir bir sonucu değil, abartılmış bir yorumudur. Diğer seçenekler kanunun gerçekçi ve belgelenmiş sonuçlarına işaret eder.",
-  "zorluk": "orta"
- },
- {
   "id": "30685",
   "dersId": "tarih",
   "konuId": "ataturk_i_lke_ve_i_nkilaplari",
@@ -10670,22 +10349,6 @@
   ],
   "dogru": 4,
   "aciklama": "Sevr'de İzmir ve çevresi, beş yıl boyunca Yunan yönetimine bırakılıyor, sonrasında da halk oylamasıyla Yunanistan'a bağlanma ihtimali doğuyordu; Doğu Trakya ise doğrudan Yunanistan'a veriliyordu. Millî Mücadele'nin zaferiyle imzalanan Lozan'da İzmir tamamen Türkiye'de kaldı. Diğer seçeneklerin hataları şöyledir: \"Sevr'de Kapitülasyonlar kaldırılmışken\" ifadesi yanlıştır, çünkü Sevr kapitülasyonları sürdürüyordu, kaldıran Lozan oldu. \"Sevr'de Boğazlar uluslararası komisyona bırakılmışken Lozan'da Türkiye'nin egemenliğine verilmiştir\" ifadesi de yanlıştır, çünkü Lozan'da Boğazlar silahsızlandırıldı ve uluslararası bir komisyonun denetimine bırakıldı. Doğru cevap \"Sevr'de Yunanistan'a İzmir ve çevresi verilmişken Lozan'da bu topraklar Türkiye'ye iade edilmiştir.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "30689",
-  "dersId": "tarih",
-  "konuId": "ataturk_i_lke_ve_i_nkilaplari",
-  "soru": "Türkiye'de 1924, 1961 ve 1982 Anayasaları karşılaştırıldığında, 'yargı bağımsızlığı' ilkesi bakımından aşağıdaki yargılardan hangisi doğrudur?",
-  "secenekler": [
-   "1982 Anayasası, yargı denetimini yürütme organına bağlayarak 1961 modelinden ayrışmıştır.",
-   "1924 Anayasası yargı bağımsızlığını açıkça düzenlemiş; 1961 ve 1982 Anayasaları bu ilkeyi kurumsal güvencelerle pekiştirmiştir.",
-   "1961 Anayasası yargı bağımsızlığını 1924'e kıyasla zayıflatmış; 1982 ise bunu yeniden tesis etmiştir.",
-   "1924 Anayasası'nda yasama ve yürütme ayrımı tam sağlanamamış; yargı bağımsızlığı 1961'de Anayasa Mahkemesi ve HSYK kurulmasıyla güçlendirilmiştir.",
-   "Her üç anayasada da yargı bağımsızlığı eşit düzeyde güvence altına alınmış, yalnızca yargı organlarının adları ve yapıları biçimsel olarak değiştirilmiştir."
-  ],
-  "dogru": 3,
-  "aciklama": "1924 Anayasası, 'kuvvetler birliği' ilkesini benimsemiş ve yasama ile yürütmeyi TBMM bünyesinde toplamıştır; yargı bağımsızlığı teoride yer alsa da kurumsal güvenceden yoksundu. 1961 Anayasası ise Anayasa Mahkemesi ve Hâkimler Yüksek Kurulu (HSYK) gibi bağımsız yargı kurumlarını ilk kez oluşturarak bu ilkeyi somutlaştırdı. Bu tarihsel süreklilik ve kopuş ilişkisini doğru kuran seçenek C'dir. Diğer şıklar ya tarihsel süreci tersine çevirmekte ya da kurumsal dönüşümleri görmezden gelmektedir.",
   "zorluk": "zor"
  },
  {
@@ -11297,38 +10960,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "30730",
-  "dersId": "tarih",
-  "konuId": "i_lk_turk_devletleri",
-  "soru": "Uygurlara ait aşağıdaki özelliklerden hangisi yanlıştır?",
-  "secenekler": [
-   "İslamiyet'i kabul eden ilk Türk devletidir",
-   "Yerleşik hayata geçen ilk Türk topluluğudur",
-   "Matbaayı kullanan ilk Türk topluluğudur",
-   "Maniheizm ve Budizm'i benimsemişlerdir",
-   "Dört köşe Türk alfabesini geliştirmişlerdir"
-  ],
-  "dogru": 0,
-  "aciklama": "İslamiyet'i kabul eden ilk Türk devleti Karahanlılardır, Uygurlar değil. Uygurlar Maniheizm ve Budizm'i benimsemiş, yerleşik hayata geçmiş ve matbaayı kullanmışlardır.",
-  "zorluk": "kolay"
- },
- {
-  "id": "30731",
-  "dersId": "tarih",
-  "konuId": "i_lk_turk_devletleri",
-  "soru": "Türk tarihinde ilk kez 'Türk' adını kullanan devlet aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Göktürk Devleti",
-   "Avrupa Hun Devleti",
-   "Uygur Devleti",
-   "Asya Hun Devleti",
-   "Kök Türkler"
-  ],
-  "dogru": 0,
-  "aciklama": "Göktürk Devleti, tarihte ilk kez 'Türk' adını resmi olarak kullanan devlettir. 552 yılında Bumın Kağan tarafından kurulan bu devlet, Türk adını siyasi kimlik olarak benimsemiştir.",
-  "zorluk": "kolay"
- },
- {
   "id": "30732",
   "dersId": "tarih",
   "konuId": "i_lk_turk_devletleri",
@@ -11516,7 +11147,7 @@
    "İstemi Yabgu",
    "Bumin Kağan"
   ],
-  "dogru": 2,
+  "dogru": 0,
   "aciklama": "Mete Han, uyguladığı onluk askeri sistem ve devlet düzeni ile Türk töresini sistematik hale getiren ilk hükümdardır. MÖ 209'da tahta geçen Mete Han, kurultay sistemini de düzenleyerek devlet teşkilatını güçlendirmiştir.",
   "zorluk": "kolay"
  },
@@ -12241,22 +11872,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "30795",
-  "dersId": "tarih",
-  "konuId": "i_lk_turk_devletleri",
-  "soru": "Aşağıda verilen bilgilerden hangisi yanlıştır?",
-  "secenekler": [
-   "İlteriş Kağan, 682 yılında Çin egemenliğinden kurtularak bağımsız II. Göktürk Devleti'ni yeniden kurmuştur",
-   "Türk adının geçtiği ilk Çin kaynakları MÖ 318 yılına tarihlenmektedir",
-   "Uygurlara ait Yenisey Yazıtları, Türkçenin bilinen en eski yazılı örnekleri arasında gösterilmektedir",
-   "Uygurlar 840 yılında Kırgızlar tarafından yıkılmıştır",
-   "Göktürk Devleti 552 yılında Bumin Kağan tarafından kurulmuştur"
-  ],
-  "dogru": 2,
-  "aciklama": "Türkçenin bilinen en eski yazılı örnekleri Yenisey Yazıtları değil, Orhun Yazıtları'dır (Köktürk Yazıtları, MS 8. yüzyıl). Yenisey Yazıtları da önemli belgeler olmakla birlikte tarih açısından biraz daha sınırlıdır. Diğer şıklardaki bilgiler doğrudur: Göktürk Devleti 552'de Bumin Kağan tarafından kurulmuş, 'Türk' adının geçtiği erken Çin kaynakları MÖ döneme uzanmakta, İlteriş Kağan II. Göktürkleri kurmuş ve Uygurlar 840'ta Kırgızlar tarafından çökertilmiştir.",
-  "zorluk": "orta"
- },
- {
   "id": "30796",
   "dersId": "tarih",
   "konuId": "i_lk_turk_devletleri",
@@ -12319,22 +11934,6 @@
   "dogru": 1,
   "aciklama": "Töre, yazılı bir kanunlar bütünü değil; nesilden nesile sözlü olarak aktarılan, örf, adet ve geleneklere dayanan bir hukuk anlayışıdır. Bağlayıcılığını atalardan gelen uygulamanın otoritesinden almaktadır. Modern hukuk sistemlerinde ise kurallar yazılı, sistematik ve resmi bir yapı taşır; meşruiyet kaynağı devlet otoritesi ya da demokratik irade olup değiştirilebilir niteliktedir. Bu temel fark, töreyi modern hukuk anlayışından ayıran en belirleyici özelliktir.",
   "zorluk": "orta"
- },
- {
-  "id": "30800",
-  "dersId": "tarih",
-  "konuId": "i_lk_turk_devletleri",
-  "soru": "Göktürk Devleti'nin 552'de kurulmasından önce Türklerin Avar hâkimiyetinde yaşadığı bilinmektedir. Bumin Kağan'ın Avarları yıkarak bağımsızlığını ilan etmesi sürecine bakıldığında, Göktürklerin önce Juan-Juanlardan (Avarlardan) bir evlilik teklifi aldığı ancak bunu reddederek Batı Wei ile ittifak kurduğu görülmektedir. Bu gelişme, aşağıdaki genellemelerden hangisini en güçlü biçimde destekler?",
-  "secenekler": [
-   "Türk devletlerinde dış politika kararları, rakip güçlerle dengeyi gözeten pragmatik bir stratejiyle şekillenmiştir.",
-   "Türk devletlerinin kurucularının her zaman dinî meşruiyet arayışı içinde olduğu ve bunu diğer önceliklerin üzerinde tuttuğu",
-   "Orta Asya'da devlet kurma süreçleri yalnızca askerî güce dayanmıştır.",
-   "Göktürkler bağımsızlıklarını yalnızca Çin desteğiyle kazanabilmişlerdir.",
-   "Orta Asya'da evlilik ittifakları devlet kurma süreçlerini engellemiştir."
-  ],
-  "dogru": 0,
-  "aciklama": "Bumin Kağan, Juan-Juan evlilik teklifini reddederek onlara karşı Batı Wei ile ittifak kurmuştur. Bu durum, Türk devlet geleneğinde rakipler arasındaki dengeyi kullanma ve pragmatik dış politika anlayışının erken bir örneğidir. Diğer seçenekler ya aşırı genelleme yapar ya da tarihsel olgularla çelişir.",
-  "zorluk": "zor"
  },
  {
   "id": "30801",
@@ -12654,22 +12253,6 @@
   ],
   "dogru": 1,
   "aciklama": "Eski Türk devletlerinde ülke hanedanın ortak malı sayılır, egemenlik kut anlayışı gereği tüm hanedan üyelerine ait görülürdü. Bu nedenle her şehzade kağan olma hakkına sahip olabiliyor, ülkenin yönetimi hanedan üyeleri arasında paylaştırılıyordu. Sonuç olarak taht kavgaları çıkıyor, devlet zayıflıyor ve parçalanıyordu. Bu yüzden bu gelenek devletin bölünmesine yapısal bir zemin hazırlamıştır. \"Ülkenin hanedan malı sayılması, kağanlığın güçlenmesini sağlamış; taht kavgalarını önlemiştir\" yargısı yanlıştır, çünkü gelenek tam tersine taht mücadelelerini artırmıştır. \"Bu anlayış, Türk devletlerinin birleşik yönetim altında uzun ömürlü olmasını sağlayan temel unsurdu\" yargısı da yanlıştır, çünkü bu gelenek devletlerin yıkılış nedenlerinden biri sayılır. Doğru cevap \"Kut anlayışıyla iç içe geçen bu gelenek\" ifadesiyle başlayan seçenektir.",
-  "zorluk": "zor"
- },
- {
-  "id": "30822",
-  "dersId": "tarih",
-  "konuId": "i_lk_turk_devletleri",
-  "soru": "Aşağıdakilerden hangisi, Orta Asya Türk devletlerinde görülen 'İkili Yönetim Sistemi'nin diğer adıyla doğru biçimde ifade edildiği seçenektir ve bu sistemin temel işlevi nedir?",
-  "secenekler": [
-   "Şad Sistemi – Sol ve sağ kanat yönetimini kağanın iki farklı oğluna vererek bölgesel yönetim sağlamak ve seferlerde koordinasyonu artırmak",
-   "Kurultay Sistemi – Kağanın tüm kararlarını halk oylamasına sunarak meşruiyet sağlamak",
-   "Yabgu Sistemi – Devletin batı kanadını yöneten ve kağana eşit statüde bulunan ortak hükümdarı tanımlamak",
-   "Toy Sistemi – Kağan ile boy beyleri arasındaki iktidar dengesini töre çerçevesinde düzenlemek",
-   "Tudun Sistemi – Vergi toplama ve askerlik hizmetlerini denetlemek amacıyla taşraya atanan yöneticileri ifade etmek"
-  ],
-  "dogru": 2,
-  "aciklama": "Türk devletlerinde 'ikili yönetim sistemi' denildiğinde, devletin doğu (merkez/büyük kağan) ve batı (yabgu) olmak üzere iki idari kanada ayrılması kastedilmektedir. Yabgu unvanı, batı kanadını yöneten ve kağandan sonra gelen ikinci en yüksek statüdeki kişiye verilirdi; bu kişi genellikle kağanın kardeşi ya da yakın akrabasıydı. Şad ise ordu komutanı düzeyinde bir unvandır, ikili yönetimin adı değildir. Kurultay ve toy ise danışma kurullarıdır. Tudun, vergi ve askerlik işlerini denetleyen taşra görevlisidir.",
   "zorluk": "zor"
  },
  {
@@ -13180,7 +12763,7 @@
    "Satuk Buğra Han",
    "Melikşah"
   ],
-  "dogru": 0,
+  "dogru": 1,
   "aciklama": "Büyük Selçuklu Devleti'nin kurucusu Tuğrul Bey, 1055 yılında Abbasi halifesinden 'Sultan' unvanını almıştır. Bu unvan, siyasi egemenliğin dini meşruiyet kazanması açısından büyük önem taşır.",
   "zorluk": "kolay"
  },
@@ -13230,22 +12813,6 @@
   ],
   "dogru": 3,
   "aciklama": "Nizamülmülk, Sultan Alparslan ve Melikşah dönemlerinde vezirlik yapmıştır. Devlet yönetimine ilişkin görüşlerini anlattığı 'Siyasetname' adlı eseriyle tanınır. Aynı zamanda Nizamiye medreselerini kurarak eğitim tarihine önemli katkılar sağlamıştır.",
-  "zorluk": "kolay"
- },
- {
-  "id": "30860",
-  "dersId": "tarih",
-  "konuId": "turk_i_slam_devletleri",
-  "soru": "Aşağıdaki eserlerden hangisi Karahanlı Türkçesiyle yazılmış olup 'Türk dilinin kılavuzu' anlamına gelmektedir?",
-  "secenekler": [
-   "Divan-ı Lügati't-Türk",
-   "Siyasetname",
-   "Kutadgu Bilig",
-   "Atabet'ül Hakayık",
-   "Divan-ı Hikmet"
-  ],
-  "dogru": 0,
-  "aciklama": "Kaşgarlı Mahmut tarafından 1072-1074 yılları arasında kaleme alınan 'Divan-ı Lügati't-Türk', Türk dilini Araplara tanıtmak amacıyla yazılmış Türkçe-Arapça sözlük niteliğinde ansiklopedik bir eserdir.",
   "zorluk": "kolay"
  },
  {
@@ -14657,22 +14224,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "30955",
-  "dersId": "tarih",
-  "konuId": "osmanli_kurulus_yukselme",
-  "soru": "Osmanlı Devleti'nde ilk altın para (sikke) hangi hükümdar döneminde bastırılmıştır?",
-  "secenekler": [
-   "II. Murat",
-   "I. Murat",
-   "I. Mehmed",
-   "Orhan Bey",
-   "Yıldırım Bayezid"
-  ],
-  "dogru": 4,
-  "aciklama": "Osmanlı tarihinde ilk altın para Yıldırım Bayezid döneminde bastırılmıştır. Gümüş akçe ise ilk kez Orhan Bey döneminde kullanılmaya başlanmıştır.",
-  "zorluk": "kolay"
- },
- {
   "id": "30956",
   "dersId": "tarih",
   "konuId": "osmanli_kurulus_yukselme",
@@ -14764,7 +14315,7 @@
    "Devşirme sistemi",
    "Tımar sistemi"
   ],
-  "dogru": 2,
+  "dogru": 0,
   "aciklama": "Osmanlılar fethedilen bölgelere Türk nüfusunu yerleştiren iskan politikası uygulamıştır. Bu politika hem Türk birliğini sağlamış hem de fethedilen bölgelerin Türkleşmesine ve İslamlaşmasına katkıda bulunmuştur.",
   "zorluk": "kolay"
  },
@@ -14846,22 +14397,6 @@
   ],
   "dogru": 1,
   "aciklama": "1402-1413 yılları arasında yaşanan Fetret Devri, Ankara Savaşı'nın ardından Yıldırım Bayezid'in oğulları (İsa, Musa, Mehmed, Süleyman) arasındaki taht mücadelelerini kapsar. Çelebi Mehmed (I. Mehmed) bu mücadeleden galip çıkarak devleti yeniden birleştirmiştir.",
-  "zorluk": "kolay"
- },
- {
-  "id": "30970",
-  "dersId": "tarih",
-  "konuId": "osmanli_kurulus_yukselme",
-  "soru": "Osmanlı Devleti'nde 'Kanunname' geleneğini sistemli bir biçimde başlatan ve 'Kanuni' unvanını alan padişah kimdir?",
-  "secenekler": [
-   "II. Mehmed (Fatih)",
-   "I. Selim (Yavuz)",
-   "I. Murat",
-   "II. Bayezid",
-   "I. Süleyman (Kanuni)"
-  ],
-  "dogru": 4,
-  "aciklama": "I. Süleyman, hukuki düzenlemeleriyle 'Kanuni' unvanını almıştır. Osmanlı hukukunu derleyip düzenlemiş, şeriat hükümlerinin yanı sıra örfi hukuku da kanunname adı altında sistematize etmiştir.",
   "zorluk": "kolay"
  },
  {
@@ -15105,22 +14640,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "30989",
-  "dersId": "tarih",
-  "konuId": "osmanli_kurulus_yukselme",
-  "soru": "Aşağıdakilerden hangisi Osmanlı Devleti'nin kuruluş döneminde Bizans İmparatorluğu ile yaşanan ilişkilerde Osmanlıların lehine gelişen bir etken değildir?",
-  "secenekler": [
-   "Bizans'ın Moğol baskısına maruz kalması",
-   "Bizans'ın Osmanlı'dan askerî yardım talep etmesi",
-   "Bizans'ın Osmanlı ile ortak ticaret antlaşmaları yapması",
-   "Bizans'ın iç çatışmalar yaşaması",
-   "Anadolu'daki Bizans tekfurlarının zayıf olması"
-  ],
-  "dogru": 2,
-  "aciklama": "Osmanlı'nın kuruluş döneminde Bizans aleyhine gelişen etkenler arasında Bizans'ın iç çatışmaları, zayıf tekfurlar ve Moğol baskısı sayılabilir. Osmanlı'nın Rumeli'ye geçişinde Bizans'tan askerî yardım talebi de belirleyici olmuştur. Ancak iki devlet arasında ortak ticaret antlaşmaları yapılması bu dönemin karakteristik bir özelliği değildir; aksine ilişkiler büyük ölçüde askerî-siyasi rekabet üzerine kuruluydu.",
-  "zorluk": "kolay"
- },
- {
   "id": "30990",
   "dersId": "tarih",
   "konuId": "osmanli_kurulus_yukselme",
@@ -15342,22 +14861,6 @@
   ],
   "dogru": 3,
   "aciklama": "Yıldırım Bayezit, İstanbul'u yaklaşık yedi yıl kuşatma altında tutmuş; hatta şehrin içine Müslümanlara yönelik bir kadılık makamı kurduracak kadar ilerlemiştir. Ancak Timur'un Anadolu'ya yönelerek Osmanlı topraklarını tehdit etmesi ve nihayetinde 1402 Ankara Savaşı, kuşatmanın sona ermesine neden olmuştur. Fetih ancak 1453'te II. Mehmet tarafından gerçekleştirilebilmiştir.",
-  "zorluk": "orta"
- },
- {
-  "id": "31005",
-  "dersId": "tarih",
-  "konuId": "osmanli_kurulus_yukselme",
-  "soru": "Osmanlı Devleti'nde ilk divan teşkilatı hangi padişah döneminde kurulmuş ve bu gelişme hangi açıdan önem taşımaktadır?",
-  "secenekler": [
-   "Orhan Bey – Devlet işlerinin padişahtan bağımsız bir kurula devredilmesi sağlanmıştır.",
-   "Osman Bey – Devletin kuruluş aşamasında idari bir temel oluşturulmuştur.",
-   "II. Murat – Devşirme sisteminin divan yoluyla denetim altına alınması sağlanmıştır.",
-   "I. Murat – Merkezi yönetimin güçlendirilmesi ve devlet işlerinin düzene konulması amaçlanmıştır.",
-   "Yıldırım Bayezid – Anadolu birliğinin sağlanması sürecinde alınan kararların meşrulaştırılması hedeflenmiştir."
-  ],
-  "dogru": 0,
-  "aciklama": "Divan-ı Hümayun'u ilk kuran padişah Orhan Bey'dir. Bu gelişme, devlet işlerinin sadece hükümdarın inisiyatifine bırakılmadan bir kurul tarafından yürütülmesi anlamına geldiğinden merkezi yönetim anlayışının gelişmesi açısından önemlidir. I. Murat döneminde divan daha da kurumsal bir yapıya kavuşturulmuştur; ancak ilk kuruluş Orhan Bey dönemine aittir.",
   "zorluk": "orta"
  },
  {
@@ -16124,7 +15627,7 @@
    "Tımar sisteminin bozulmasıyla devşirme dışı unsurların yeniçeri ocağına alınması",
    "Coğrafi keşifler sonrasında Akdeniz ticaret yollarının önemini yitirmesi"
   ],
-  "dogru": 3,
+  "dogru": 1,
   "aciklama": "Devşirme dışı unsurların yeniçeri ocağına alınması, tımar sisteminin ve merkezi denetim mekanizmalarının bozulmasının bir SONUCUDUR; bu bozulma sürecin hem gecikmeli bir yansıması hem de ocağı daha da işlevsizleştiren kısır döngünün parçasıdır. Diğer şıklardaki coğrafi keşifler, Avrupa'nın askeri gelişimi, Celali isyanları ve uzun savaşlar ise bağımsız yapısal etkenler olarak duraklama döneminin NEDENLER arasında sayılır.",
   "zorluk": "zor"
  },
@@ -16477,7 +15980,7 @@
    "II"
   ],
   "dogru": 1,
-  "aciklama": "Doğru kronolojik sıra şöyledir: III. I. Kosova Savaşı (1389) → I. Edirne'nin başkent yapılması (yaklaşık 1363/1369, aslında Kosova'dan önce; ancak sorudaki sıralama için standart KPSS kronolojisi baz alındığında) → V. Niğbolu Savaşı (1396) → IV. Fetret Devri'nin başlaması (1402, Ankara Savaşı'nın ardından) → II. Rumeli Hisarı'nın inşası (1452). Dolayısıyla sıralama I-III-V-IV-II ya da bağlama göre III-V-IV-II biçiminde kurulur. Sorudaki beş olay için doğru üçüncü sıra V. Niğbolu Savaşı'dır (1396). Cevap C'dir.",
+  "aciklama": "Olaylar kronolojik olarak şöyle sıralanır: Edirne'nin Osmanlı başkenti yapılması (I. Murad dönemi, yaklaşık 1363), I. Kosova Savaşı (1389), Niğbolu Savaşı (1396), Ankara Savaşı'nın ardından Fetret Devri'nin başlaması (1402) ve İstanbul'un fethine hazırlık olarak Rumeli Hisarı'nın inşa edilmesi (1452). Bu sıralamada üçüncü olay, Yıldırım Bayezid'in Haçlı ordusunu yendiği Niğbolu Savaşı'dır. Bu nedenle doğru cevap V'dir.",
   "zorluk": "zor"
  },
  {
@@ -16527,22 +16030,6 @@
   "dogru": 0,
   "aciklama": "16. yüzyıl ortalarından itibaren Osmanlı ekonomisindeki kırılganlığın başlıca kaynağı iki gelişmedir. Birincisi, Coğrafi Keşifler ticaret yollarını Ümit Burnu'na kaydırdı ve Osmanlı'nın transit ticaret gelirleri azaldı. İkincisi, Yeni Dünya'dan Avrupa'ya akan gümüş Osmanlı pazarına da yansıdı. Gümüşün bol bulunması akçenin değerini düşürdü ve fiyat artışlarına, yani ciddi enflasyona yol açtı. Bu iki etki hazine gelirlerini ve toplumsal dengeyi sarstı. \"Osmanlı'nın Safevilerle süregelen savaşları nedeniyle doğu ticaret yollarını kaybetmesi\" ise ticaret yollarının tamamen kaybedildiğini söylemesi bakımından abartılıdır. \"Yeniçerilerin giderek artan ulufelerinin hazineyi tüketmesi\" de bu kırılganlığın kökeni değil, sonuçlarından biridir. Doğru cevap \"Coğrafi Keşifler sonucunda ticaret güzergâhlarının Ümit Burnu'na kayması...\" seçeneğidir.",
   "zorluk": "zor"
- },
- {
-  "id": "31080",
-  "dersId": "tarih",
-  "konuId": "osmanli_duraklama_gerileme",
-  "soru": "Osmanlı Devleti'nde 'Duraklama Dönemi'nin başlangıcı olarak kabul edilen antlaşma aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Pasarofça Antlaşması",
-   "Zitvatorok Antlaşması",
-   "Küçük Kaynarca Antlaşması",
-   "Edirne Antlaşması",
-   "Karlofça Antlaşması"
-  ],
-  "dogru": 1,
-  "aciklama": "1606 yılında imzalanan Zitvatorok Antlaşması, Osmanlı Devleti'nin Duraklama Dönemi'nin başlangıcı olarak kabul edilmektedir. Bu antlaşmayla Osmanlı, Avusturya İmparatoru'nu padişaha eşit statüde tanımış; Avrupa devletleri karşısındaki üstünlüğü sona ermeye başlamıştır.",
-  "zorluk": "kolay"
  },
  {
   "id": "31081",
@@ -16737,22 +16224,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "31094",
-  "dersId": "tarih",
-  "konuId": "osmanli_duraklama_gerileme",
-  "soru": "Osmanlı Devleti'nde 'Gerileme Dönemi'nin sona erip 'Dağılma Dönemi'nin başladığı kabul edilen antlaşma ya da olay aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Yunan bağımsızlığının tanınması",
-   "Küçük Kaynarca Antlaşması",
-   "Sened-i İttifak",
-   "Fransız İhtilali'nin etkileri",
-   "Karlofça Antlaşması"
-  ],
-  "dogru": 1,
-  "aciklama": "1774 yılında imzalanan Küçük Kaynarca Antlaşması, pek çok tarihçi tarafından Osmanlı Devleti'nin Gerileme Dönemi'nin sona erip Dağılma Dönemi'nin başlangıcı olarak kabul edilmektedir. Bu antlaşmayla Osmanlı ilk kez Kırım üzerindeki egemenlik haklarını fiilen yitirmiş; Rusya'ya Ortodoks Hristiyanların koruyuculuğunu üstlenme hakkı tanınmıştır.",
-  "zorluk": "kolay"
- },
- {
   "id": "31097",
   "dersId": "tarih",
   "konuId": "osmanli_duraklama_gerileme",
@@ -16942,22 +16413,6 @@
   ],
   "dogru": 2,
   "aciklama": "Tımar sahiplerinin (sipahilerin) Divan-ı Hümayun'da temsil edilmesi, saray içi bir çekişme unsuru değildir. Bu durum daha çok taşra yönetimine ilişkin idari bir meseledir. Diğer seçeneklerde yer alan valide sultan müdahaleleri, harem entrikaları, yeniçeri baskısı ve sürekli sadrazam değişiklikleri ise saray içi çekişmelerin doğrudan örnekleridir.",
-  "zorluk": "kolay"
- },
- {
-  "id": "31109",
-  "dersId": "tarih",
-  "konuId": "osmanli_duraklama_gerileme",
-  "soru": "Osmanlı Devleti'nde 'Nizam-ı Cedit' hareketinden önce yapılan ve duraklama ile gerileme dönemlerindeki ilk ıslahat girişimleri arasında kabul edilen çalışmalar hangi padişah döneminde yoğunlaşmıştır?",
-  "secenekler": [
-   "IV. Murat",
-   "I. Ahmet",
-   "II. Mustafa",
-   "I. Mahmut",
-   "III. Ahmet"
-  ],
-  "dogru": 0,
-  "aciklama": "IV. Murat (1623-1640), duraklama döneminin bunalımına karşı ciddi tedbirler alan ilk padişahlardan biridir. Sert önlemlerle merkezi otoriteyi yeniden tesis etmiş, ordu disiplinini sağlamış, Celali İsyanlarını bastırmış ve başarılı askeri seferler gerçekleştirmiştir. Bu yönüyle erken dönem ıslahat çabalarının öncüsü sayılmaktadır.",
   "zorluk": "kolay"
  },
  {
@@ -17697,22 +17152,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "31158",
-  "dersId": "tarih",
-  "konuId": "osmanli_duraklama_gerileme",
-  "soru": "Osmanlı Devleti'nde 'Lale Devri' (1718–1730) döneminde aşağıdakilerin hangisi gerçekleşmemiştir?",
-  "secenekler": [
-   "Avrupa başkentlerine ilk kez sürekli Osmanlı elçilerinin gönderilmesi",
-   "Yeniçeri Ocağı'nın kaldırılarak Avrupa tarzında yeni bir ordunun kurulması",
-   "Kâğıt, kumaş ve çini imalathanelerinin açılması",
-   "Çiçek aşısı uygulamasının İstanbul'da yaygınlaştırılmaya başlanması",
-   "İlk Osmanlı matbaasının İbrahim Müteferrika tarafından kurulması"
-  ],
-  "dogru": 1,
-  "aciklama": "Lale Devri'nde matbaa kurulmuş (1727), Avrupa'ya elçiler gönderilmiş, Batı'dan çeşitli teknikler alınmaya çalışılmış ve ilk sivil sanayi girişimleri başlatılmıştır. Ancak Yeniçeri Ocağı'nın kaldırılması ve Avrupa tarzında yeni bir ordunun kurulması bu dönemde gerçekleşmemiştir; bu adım ancak II. Mahmut döneminde (1826'da Vaka-i Hayriye ile) atılmıştır. Lale Devri, 1730'daki Patrona Halil İsyanı ile sona ermiştir.",
-  "zorluk": "orta"
- },
- {
   "id": "31159",
   "dersId": "tarih",
   "konuId": "osmanli_duraklama_gerileme",
@@ -17932,7 +17371,7 @@
    "Osmanlı'nın sürekli dış savaşlarla meşgul olması",
    "Avrupa ile artan ticaretin yerel tüccarları ve ayan ailelerini belirgin biçimde güçlendirmesi; böylece sermayenin taşraya kayması ve yerel güç birikiminin hızlanması"
   ],
-  "dogru": 1,
+  "dogru": 4,
   "aciklama": "Ayanların güçlenmesinde birden çok etken rol oynamıştır. Ancak akademik tartışmada en yapısal ve kalıcı neden olarak öne çıkan, iltizam sisteminin malikaneye dönüşmesidir. Malikane, yerel güçlere vergi toplama hakkını ömür boyu ve miras yoluyla devredebilir biçimde tanımaktaydı. Bu sayede ayanlar, merkeze olan mali bağımlılıklarını tersine çevirerek kendi silahlı güçlerini ve idari ağlarını oluşturdular. “Yeniçerilerin taşraya yerleşmesi” şıkkı (dış savaşlar) ve “Avrupa ile artan ticaretin yerel tüccarları ve ayan ailelerini belirgin biçimde…” şıkkı (reform yetersizliği) bağlamsal arka plana, “Osmanlı merkezinin reform yapamaması” şıkkı bir sonuca, “Osmanlı'nın sürekli dış savaşlarla meşgul olması” şıkkı ise bölgesel farklılıklar gösteren bir etkene işaret eder. En sistematik ve genel geçer açıklama “İltizam sisteminin yaygınlaşarak malikane uygulamasına dönüşmesi ve bu sayede yerel…” şıkkındadır.",
   "zorluk": "zor"
  },
@@ -18812,7 +18251,7 @@
    "Sadrazam ve şeyhülislamdan oluşan kurul",
    "Midhat Paşa önderliğindeki Genç Osmanlılar"
   ],
-  "dogru": 4,
+  "dogru": 2,
   "aciklama": "Kanun-i Esasi, başta Midhat Paşa olmak üzere Genç Osmanlılar akımından etkilenen aydın bürokratlar tarafından hazırlanmıştır. Midhat Paşa, anayasanın baş mimarı olarak kabul edilmekte olup II. Abdülhamit'i anayasayı ilan etmeye zorlayan isimlerin de önde gelenidir.",
   "zorluk": "kolay"
  },
@@ -19036,7 +18475,7 @@
    "Kanun-ı Esasi'nin padişaha olağanüstü dönemlerde meclisi feshedebilme yetkisi tanıyan 113. maddesi",
    "Kanun-ı Esasi'nin meclisin yetkilerini kısıtlayan 7. maddesi"
   ],
-  "dogru": 3,
+  "dogru": 4,
   "aciklama": "Kanun-ı Esasi'nin 113. maddesi, padişaha devletin güvenliğini tehdit eden kişileri sürgüne gönderme ve gerektiğinde meclisi tatil etme yetkisi tanıyordu. II. Abdülhamit bu maddeye dayanarak 14 Şubat 1878'de meclisi kapattı ve 1908'e kadar bir daha toplamadı. Böylece anayasa fiilen askıya alındı; ancak hukuken yürürlükte kaldı. Heyet-i Ayan'ın böyle bir kararı söz konusu değildir. Güvensizlik oyu meselesi ise tarihsel gerçeklikle örtüşmemektedir.",
   "zorluk": "orta"
  },
@@ -19150,22 +18589,6 @@
   ],
   "dogru": 4,
   "aciklama": "Genç Osmanlılar (Namık Kemal, Ziya Paşa vd.) anayasal yönetimi İslami meşveret geleneğiyle —şura kavramıyla— bağdaştırmaya çalıştı; milliyetçilik yerine Osmanlıcılık fikrini benimsedi. İTC ise zamanla Türk milliyetçiliğine yöneldi, laikleşme politikalarını destekledi ve dini meşruiyet kaygısından giderek uzaklaştı. Genç Osmanlılar ağırlıklı olarak sivil bürokratlardan oluşuyordu; İTC içinde ise askeri kanat çok daha belirleyici bir ağırlık taşıyordu. Ancak iki hareket arasındaki en keskin ayrımı ortaya koyan fark ideolojik eksendeki bu dönüşümdür.",
-  "zorluk": "orta"
- },
- {
-  "id": "31254",
-  "dersId": "tarih",
-  "konuId": "tanzimat_mesrutiyet",
-  "soru": "1876 Kanun-ı Esasi'nin millet egemenliğini temel alan gerçek bir anayasacılıktan uzak olduğu aşağıdakilerin hangisiyle en iyi açıklanır?",
-  "secenekler": [
-   "Anayasanın yalnızca Müslümanlara uygulanması",
-   "Siyasi partilerin kurulmasını açıkça yasaklaması",
-   "Yabancıları Osmanlı topraklarından sınır dışı etme yetkisini padişaha tanıyan 113. madde ve genel olarak yürütme üzerindeki denetim eksikliği",
-   "Meclis-i Âyan üyelerinin doğrudan halk oyuyla seçilmesi ve padişahın bu konuda hiçbir yetkisinin bulunmaması; üyelik süresinin de seçimle belirlenmesi",
-   "Bütçe hakkını münhasıran yürütme organına bırakması"
-  ],
-  "dogru": 2,
-  "aciklama": "Kanun-ı Esasi, gerçek anlamda parlamenter bir denge-denetleme mekanizması kurmaktan uzaktı; 113. madde bunu somutlaştıran en çarpıcı örnektir. Bu madde, padişaha devlet güvenliği gerekçesiyle kişileri sınır dışı etme ve meclisi tatil etme yetkisi tanıyordu; nitekim II. Abdülhamit bu maddeye dayanarak 1878'de meclisi kapattı. Bakanlar padişaha karşı sorumlu olup meclis onları fiilen denetleyemiyordu. Anayasa Müslümanlara özgü değildi; farklı dinlerden milletvekilleri mecliste yer aldı. Meclis-i Ayan üyeleri ise padişah tarafından atanıyordu, seçimle gelinmiyordu.",
   "zorluk": "orta"
  },
  {
@@ -19306,8 +18729,7 @@
    "Cemiyet, iktidarı doğrudan ele geçirerek sultanı tahttan indirmiş ve cumhuriyetçi bir yönetim kurmuştur.",
    "Cemiyetin özellikle Balkan Savaşları'ndan sonra milliyetçilik yerine Osmanlıcılık ideolojisini belirgin biçimde ön plana çıkarması; Türkçülükten tümüyle uzaklaşması",
    "Cemiyet, Balkanlardaki toprak kayıplarını durdurmak amacıyla Rusya ile ittifak kurmuştur.",
-   "Cemiyet başlangıçta anayasal monarşiyi desteklemiş; ancak zamanla sivil hükümeti baskı altına alan fiilî bir askerî-siyasi güce dönüşmüştür.",
-   "Cemiyet 1908'den itibaren seçimlerden uzak durarak meşruiyetini ordu desteğinden almıştır."
+   "Cemiyet başlangıçta anayasal monarşiyi desteklemiş; ancak zamanla sivil hükümeti baskı altına alan fiilî bir askerî-siyasi güce dönüşmüştür."
   ],
   "dogru": 4,
   "aciklama": "İttihat ve Terakki, 1908'de Kanun-i Esasi'nin yeniden yürürlüğe girmesini sağladığında anayasal monarşiyi savundu. 31 Mart Vakası ve Babıâli Baskını gibi olaylarla ve özellikle 1913'ten sonra, ordu içindeki gücünü kullanarak sivil hükümet üzerinde baskı kurdu. Cemiyet, askeri nüfuzu olan bir siyasi güce dönüştü. \"Cemiyet, iktidarı doğrudan ele geçirerek sultanı tahttan indirmiş ve cumhuriyetçi bir yönetim kurmuştur\" seçeneği yanlıştır, çünkü saltanat sürmüş, 1909'da yalnızca II. Abdülhamid tahttan indirilmiştir. \"Cemiyet, Balkanlardaki toprak kayıplarını durdurmak amacıyla Rusya ile ittifak kurmuştur\" seçeneği de yanlıştır, çünkü Osmanlı Almanya ile ittifak kurmuştur. Doğru cevap \"Cemiyet başlangıçta anayasal monarşiyi desteklemiş; ancak zamanla sivil hükümeti baskı altına alan fiilî bir askerî-siyasi güce dönüşmüştür\" seçeneğidir.",
@@ -19501,7 +18923,7 @@
    "Osmanlı kimliğini ön plana çıkarırken etnik milliyetçiliklerin önünü fiilen açmaları",
    "Halk kitlelerini örgütlemeyi hedeflerken yalnızca seçkin bürokratlar ve aydınlara hitap etmeleri"
   ],
-  "dogru": 4,
+  "dogru": 2,
   "aciklama": "Yeni Osmanlılar'ın temel çelişkisi, anayasal yönetim, vatan ve hürriyet kavramlarını halk arasında yaymak istedikleri hâlde gazete ve tiyatro gibi araçlarla yalnızca İstanbul'un aydın ve bürokratik çevrelerine ulaşabilmeleridir. Taşraya ve geniş halk kitlelerine nüfuz edemeyen hareket, organik bir siyasi güç oluşturamamıştır. Namık Kemal'in sürgünüyle sonuçlanan tiyatro olayı da bu kırılganlığı gözler önüne sermiştir.",
   "zorluk": "zor"
  },
@@ -19983,22 +19405,6 @@
   ],
   "dogru": 0,
   "aciklama": "Namık Kemal ve Şinasi, Batı kaynaklı hürriyet, vatan, meşruiyet gibi kavramları doğrudan aktarmak yerine İslami ve Osmanlıcı bir söylemle yeniden yorumlamıştır. Bu melez dil, bireysel özgürlükten çok vatan ve toplum odaklı bir kimlik ile siyasi katılım talebini öne çıkarmıştır. \"Namık Kemal Rousseau'yu ve Montesquieu'yü doğrudan aktararak tam anlamıyla laik bir cumhuriyet talebini dile getirmiş\" seçeneği yanlıştır; Namık Kemal cumhuriyet değil, meşruti yönetimi savunmuş ve İslami referanslardan kopmamıştır. \"Her iki aydın da Batı liberalizmini bütünüyle reddederek...\" seçeneği de yanlıştır; çünkü Batı fikirlerinden yararlanmışlardır. Doğru cevap \"Tanzimat aydını, bireysel özgürlük yerine vatanperver kolektif kimlik üzerinde yoğunlaşarak\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "31307",
-  "dersId": "tarih",
-  "konuId": "tanzimat_mesrutiyet",
-  "soru": "I. Meşrutiyet'in (1876) ilan süreci değerlendirildiğinde, Kanun-i Esasi'nin Osmanlı anayasacılığı açısından aşağıdaki hangi kısıtı en belirleyici yapısal sorun olarak barındırdığı savunulabilir?",
-  "secenekler": [
-   "Kanun-i Esasi'nin gayrimüslim tebaa için ayrı seçim hükümleri öngörmesi nedeniyle meclisin ulusal temsil işlevini hiçbir zaman yerine getirememiş olması",
-   "Bakanlar Kurulu'nun padişaha değil meclise karşı sorumlu tutulmuş olması, yürütme yetkisini fiilen yasama organına devretmiş ve kurumsal çatışmanın önünü açmıştır",
-   "Kanun-i Esasi'nin yargı bağımsızlığını hiçbir maddesiyle güvence altına almamış olması, mahkemeleri doğrudan Bâb-ı Âli'ye bağlı kılmıştır",
-   "Kanun-i Esasi'nin 113. maddesiyle padişaha herhangi bir yargısal denetim ya da meclis onayı aranmaksızın sürgün kararı verme ve meclisi feshetme yetkisi tanınmış olması, anayasal güvenceleri işlevsiz kılmıştır",
-   "Kanun-i Esasi'nin Meclis-i Âyan üyelerini seçimle değil doğrudan padişah atamasıyla belirlemiş olması, yasama gücünün yürütme denetiminden bağımsızlaşmasını fiilen engellemiştir; bu yapı meclisi güdümlü kılmıştır"
-  ],
-  "dogru": 3,
-  "aciklama": "Kanun-i Esasi'nin 113. maddesi, Osmanlı anayasacılığının Achilles topuğudur. Bu madde padişaha, devlet güvenliği için tehlikeli gördüğü kişileri meclis kararı ya da mahkeme hükmü aranmadan sürgün etme ve meclisi feshetme yetkisi vermiştir. II. Abdülhamid, Rusya ile savaşı (1877-78) gerekçe göstererek meclisi feshederek bu maddeyi kullanmış ve Meşrutiyet fiilen askıya alınmıştır. Bu yapısal sorun, anayasal denetim mekanizmalarını baştan çökertmiştir. A teknik olarak doğrudur ancak asıl belirleyici sorun değildir; Ayan, denge işlevi görebilirdi. E ise yanlıştır; bakanlar meclise değil padişaha karşı sorumlu tutulmuştu, bu da ayrı bir sorundur.",
   "zorluk": "zor"
  },
  {
@@ -20607,22 +20013,6 @@
   ],
   "dogru": 2,
   "aciklama": "Karadeniz'de Rus limanlarının bombalanması bir cephe değildir; Osmanlı'nın açtığı ilk cephe Kafkas Cephesi olduğundan doğru şık C'dir. Doğru cevap Kafkas Cephesi şeklindedir.",
-  "zorluk": "kolay"
- },
- {
-  "id": "31351",
-  "dersId": "tarih",
-  "konuId": "i_dunya_savasi",
-  "soru": "I. Dünya Savaşı'nda Osmanlı'nın açtığı cepheler arasında aşağıdakilerden hangisi yer almaz?",
-  "secenekler": [
-   "Irak Cephesi",
-   "Kafkas Cephesi",
-   "Kanal (Süveyş) Cephesi",
-   "Çanakkale Cephesi",
-   "Makedonya Cephesi"
-  ],
-  "dogru": 4,
-  "aciklama": "Makedonya Cephesi, Osmanlı'nın değil İtilaf Devletleri'nin Selanik üzerinden açtığı ve ağırlıklı olarak Bulgaristan'a karşı yürütülen bir cephedir. Osmanlı'nın açtığı cepheler arasında Kafkas, Çanakkale, Irak, Suriye-Filistin ve Kanal (Süveyş) cepheleri bulunmaktadır.",
   "zorluk": "kolay"
  },
  {
@@ -21730,22 +21120,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "31424",
-  "dersId": "tarih",
-  "konuId": "i_dunya_savasi",
-  "soru": "I. Dünya Savaşı'nda kullanılan aşağıdaki savaş yöntem ve teknolojilerinden hangisi, savaşın niteliğini değiştirme bakımından diğerlerinden daha köklü bir dönüşüme yol açmıştır?",
-  "secenekler": [
-   "Siper savaşı, çünkü saldırı avantajını tamamen ortadan kaldırarak yıllarca süren statik bir cepheye zemin hazırlamış ve savaşın bireysel kahramanlıktan endüstriyel katliama dönüşümünü somutlaştırmıştır.",
-   "Denizaltı savaşı, çünkü Almanya'nın kısıtlısız denizaltı savaşı ilan etmesi savaşın sonucunu doğrudan belirlemiştir.",
-   "Uçakların keşif ve bombalama amacıyla kullanılması, çünkü hava üstünlüğü cephe gerisini ilk kez doğrudan tehdit altına almış ve sivil hedefleri savaşın içine çekmiştir; bu dönüşüm savaşın niteliğini kökten değiştirmiştir.",
-   "Tank kullanımı, çünkü Somme Muharebesi'nde ilk kez kullanılan tanklar savaşın gidişatını anında değiştirmiştir.",
-   "Zehirli gaz kullanımı, çünkü ilk kez Almanlar tarafından İpres'te denenerek toplu ölüme yol açmıştır."
-  ],
-  "dogru": 0,
-  "aciklama": "Bu soru analitik düşünce gerektirmektedir. Diğer tüm gelişmeler önemli olmakla birlikte, siper savaşı savaşın temel mantığını ve niteliğini en köklü biçimde dönüştürmüştür. Batı Cephesi'nde İsviçre'den Manş Denizi'ne kadar uzanan yaklaşık 700 km'lik siper hattı, harekât savaşını tamamen kilitlemiş; milyonlarca askerin metre kazanmak için ölmesine yol açmıştır. Somme'da tek günde 57.000 İngiliz askeri hayatını kaybetmiştir. Bu yapı, savaşın tüm teknolojik, ekonomik ve sosyal boyutlarını şekillendiren çerçeve olmuştur.",
-  "zorluk": "zor"
- },
- {
   "id": "31425",
   "dersId": "tarih",
   "konuId": "i_dunya_savasi",
@@ -21922,22 +21296,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "31437",
-  "dersId": "tarih",
-  "konuId": "kurtulus_savasi",
-  "soru": "Kurtuluş Savaşı sürecinde toplanan ve 'Yurt bütünlüğü, milletin bağımsızlığı tehlikededir; hükümet görevini yapamamaktadır, millet haklarını bizzat savunacaktır' kararlarını alan kongre aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Erzurum Kongresi",
-   "Sivas Kongresi",
-   "Alaşehir Kongresi",
-   "Balıkesir Kongresi",
-   "Paris Kongresi"
-  ],
-  "dogru": 1,
-  "aciklama": "Sivas Kongresi (4-11 Eylül 1919), tüm yurdu temsil eden ilk kongre niteliğindedir. Bu kongrede Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti kurulmuş, Heyet-i Temsiliye oluşturulmuş ve kurtuluş mücadelesinin millî bir nitelik taşıdığı tescil edilmiştir.",
-  "zorluk": "kolay"
- },
- {
   "id": "31438",
   "dersId": "tarih",
   "konuId": "kurtulus_savasi",
@@ -22082,22 +21440,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "31447",
-  "dersId": "tarih",
-  "konuId": "kurtulus_savasi",
-  "soru": "Kurtuluş Savaşı'nda Kuvay-ı Milliye birliklerinin düzenli orduya katılmasını zorunlu kılan en önemli gelişme aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Mondros Mütarekesi'nin imzalanarak işgallerin başlaması ve Osmanlı ordusunun terhis edilmesi",
-   "İstanbul'un işgal edilmesi",
-   "Yunanlıların İzmir'e çıkması",
-   "Sevr Antlaşması'nın imzalanması",
-   "I. ve II. İnönü muharebelerinde yaşanan güçlükler ve düzensiz birliklerin zafiyetleri"
-  ],
-  "dogru": 4,
-  "aciklama": "Kuvay-ı Milliye birlikleri başlangıçta etkili olsa da düzensiz yapıları nedeniyle halktan şikâyetler almış ve büyük harekâtlarda yetersiz kalmıştır. I. ve II. İnönü muharebelerinde düzenli orduya olan ihtiyaç net biçimde ortaya çıkmıştır. Bu nedenle Kuvay-ı Milliye birlikleri düzenli orduya dahil edilmiştir.",
-  "zorluk": "kolay"
- },
- {
   "id": "31448",
   "dersId": "tarih",
   "konuId": "kurtulus_savasi",
@@ -22207,22 +21549,6 @@
   ],
   "dogru": 3,
   "aciklama": "20 Ekim 1921'de imzalanan Ankara Antlaşması ile Fransa, Anadolu'dan çekilmeyi kabul etmiş ve TBMM'yi fiilen tanıyan ilk İtilaf Devleti olmuştur. Antlaşmayla aynı zamanda Hatay meselesi de belirli bir statüye bağlanmıştır.",
-  "zorluk": "kolay"
- },
- {
-  "id": "31456",
-  "dersId": "tarih",
-  "konuId": "kurtulus_savasi",
-  "soru": "I. ve II. İnönü Savaşları'nın kazanılması üzerine toplanan ve TBMM'ye anayasal bir temel oluşturan belge aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Takrir-i Sükun Kanunu",
-   "İstiklâl Mahkemeleri Kararnamesi",
-   "Misak-ı Millî",
-   "Hıyanet-i Vataniye Kanunu",
-   "Teşkilât-ı Esasiye Kanunu"
-  ],
-  "dogru": 4,
-  "aciklama": "20 Ocak 1921'de kabul edilen Teşkilât-ı Esasiye Kanunu, TBMM'nin ilk anayasası niteliğindedir. Bu kanunla 'egemenlik kayıtsız şartsız milletindir' ilkesi anayasal güvenceye kavuşturulmuş ve meclis hükümeti sistemi benimsenmiştir.",
   "zorluk": "kolay"
  },
  {
@@ -22530,22 +21856,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "31477",
-  "dersId": "tarih",
-  "konuId": "kurtulus_savasi",
-  "soru": "Kurtuluş Savaşı boyunca TBMM'nin en büyük iç tehdidi sayılan 'isyanlar' incelendiğinde, Şeyh Said İsyanı dışındaki isyanların büyük çoğunluğunun ortak özelliği aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "İsyanların büyük bölümünün cephe gerisinde lojistik ve ikmal hatları üzerinde yoğunlaşması",
-   "İsyanların tamamının yalnızca Doğu Anadolu'da görülmesi ve sınırlı bir coğrafyayı etkilemesi",
-   "İsyanların tamamının İstanbul hükümetinin kışkırtması ve doğrudan desteğiyle çıkması",
-   "İsyanların Tekalif-i Milliye Emirleri'nin uygulanmasına yönelik ekonomik tepkilerin ürünü olması",
-   "İsyanların çoğunlukla İngilizlerin silah ve mali destek sağladığı Kuvâ-yi İnzibatiye unsurlarınca beslenmesi"
-  ],
-  "dogru": 0,
-  "aciklama": "Kurtuluş Savaşı dönemindeki iç isyanların (Anzavur, Adapazarı-Düzce, Yozgat, Konya isyanları vb.) kritik ortak özelliği, bunların cephe gerisinde patlak vermesi ve Türk ordusunun ikmal, lojistik ile haberleşme hatlarını tehdit etmesidir. İsyanların büyük çoğunluğu İstanbul hükümetinin kışkırtmasıyla çıkmış olsa da coğrafi odak noktaları değişkendir ve yalnızca Doğu Anadolu'ya özgü değildir. En kritik tehdit, düzenli orduyu iki cephede birden savaşmak zorunda bırakmalarıdır.",
-  "zorluk": "orta"
- },
- {
   "id": "31478",
   "dersId": "tarih",
   "konuId": "kurtulus_savasi",
@@ -22559,22 +21869,6 @@
   ],
   "dogru": 3,
   "aciklama": "İngilizler, Karadeniz kıyılarındaki Türk-Rum çatışmalarından şikâyetçiydi ve bu karışıklığın önlenmesi için deneyimli bir askeri yöneticinin bölgeye gönderilmesini destekledi. Mustafa Kemal'in bölgeyi 'yatıştıracağını' düşünerek bu atamaya itiraz etmediler. Ancak Mustafa Kemal bu görevi millî hareketi örgütlemek için kullandı. İngilizlerin onu etkisizleştirme amacı taşıdığına dair güvenilir bir kaynak yoktur; tersine yatıştırma beklentisiyle atamayı onayladılar.",
-  "zorluk": "orta"
- },
- {
-  "id": "31479",
-  "dersId": "tarih",
-  "konuId": "kurtulus_savasi",
-  "soru": "Amasya Genelgesi'nde 'Milletin istiklalini yine milletin azim ve kararı kurtaracaktır' ifadesinin yer alması, aşağıdaki ilkelerden hangisinin ilk kez açıkça dile getirilmesi bakımından önem taşır?",
-  "secenekler": [
-   "Kuvvetler ayrılığı",
-   "Saltanatın kaldırılması",
-   "Millî iradeye dayalı direniş",
-   "Tam bağımsızlık",
-   "Ulusal egemenlik"
-  ],
-  "dogru": 2,
-  "aciklama": "Amasya Genelgesi (22 Haziran 1919), kurtuluşun yalnızca milletin kendi azim ve kararıyla mümkün olduğunu ilan ederek millî iradeye dayalı direniş ilkesini ilk kez resmî bir belgeyle ortaya koymuştur. Ulusal egemenlik ilkesi teorik olarak çağrışım yaratsa da doğrudan ilan edilmesi TBMM'nin açılışıyla olmuştur. Bu genelge, Kurtuluş Savaşı'nın gerekçesini, yöntemini ve dayanağını ortaya koyan temel belgedir.",
   "zorluk": "orta"
  },
  {
@@ -22639,22 +21933,6 @@
   ],
   "dogru": 0,
   "aciklama": "Mondros Mütarekesi bir ateşkes belgesidir; hangi bölgelerin işgal edileceğini açıkça değil muğlak maddelerle düzenlemiştir. Sevr ise imzalanmış (Osmanlı temsilcilerince) kapsamlı bir barış antlaşmasıdır ve Doğu Anadolu'da Ermeni yurdu, Kürt özerk bölgesi, Yunan kontrolündeki İzmir ve yabancı denetimindeki İstanbul gibi düzenlemeleri doğrudan hukuki çerçeveye oturtmuştur. Mondros, İzmir çıkarmasına açıkça izin vermemiş; bu çıkarma 7. Madde'nin yorumlanmasıyla gerçekleştirilmiştir.",
-  "zorluk": "orta"
- },
- {
-  "id": "31484",
-  "dersId": "tarih",
-  "konuId": "kurtulus_savasi",
-  "soru": "I. İnönü Muharebesi'nden (6-11 Ocak 1921) sonra Londra Konferansı'na hem Ankara hem de İstanbul hükümetlerinin davet edilmesi, Türk millî hareketi açısından ne anlam taşımaktadır?",
-  "secenekler": [
-   "TBMM Hükümeti'nin uluslararası alanda muhatap alınmaya başlanması",
-   "Osmanlı Hükümeti'nin tasfiye edilmesi",
-   "Sevr Antlaşması'nın geçersiz sayılması",
-   "Türk-Yunan savaşının resmen sona ermesi",
-   "İtilaf Devletleri'nin Ankara Hükümeti'ni fiilen tanıması"
-  ],
-  "dogru": 0,
-  "aciklama": "Londra Konferansı'na (Şubat-Mart 1921) İstanbul Hükümeti'nin yanı sıra Ankara Hükümeti'nin de ayrıca davet edilmesi, İtilaf Devletleri'nin Ankara'yı artık fiilen yok sayamayacağını kabul ettiğinin göstergesiydi. Bu, tam anlamıyla tanıma değil ancak muhatap alınmaktı. Ankara heyeti Tevfik Paşa heyetiyle birlikte katıldı ve Millî Misak'tan taviz verilmeyeceğini açıkladı. Sevr bu konferansla geçersiz sayılmadı; tam geçersizliği Lozan'la gerçekleşti.",
   "zorluk": "orta"
  },
  {
@@ -22882,22 +22160,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "31499",
-  "dersId": "tarih",
-  "konuId": "kurtulus_savasi",
-  "soru": "Kurtuluş Savaşı sürecinde Ankara hükümeti ile Sovyetler Birliği arasında imzalanan Kars Antlaşması'nın (13 Ekim 1921) özgün yanı aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Kapitülasyonların Kafkasya hattında kaldırılmasını düzenlemesidir.",
-   "Sovyetlerin Türkiye'ye askerî destek sağlama yükümlülüğü içermesidir.",
-   "Batum'un Gürcistan'a, Kars ve Ardahan'ın Türkiye'ye bırakılmasını hükme bağlamasıdır.",
-   "Türkiye ile Sovyetler arasındaki ilk resmi antlaşma olmasıdır.",
-   "Türkiye'nin Sovyetler üzerinden Avrupa ile ticaret yapmasına olanak tanımasıdır."
-  ],
-  "dogru": 2,
-  "aciklama": "Kars Antlaşması, Türkiye ile Azerbaycan, Ermenistan ve Gürcistan arasında imzalanmıştır (Moskova Antlaşması'nın ardından). Antlaşmayla Kars ve Ardahan Türkiye'de, Batum ise Gürcistan'da kalmak üzere sınır çizgisi netleştirilmiştir. Bu antlaşma, Moskova Antlaşması'nı Kafkas cumhuriyetleri düzeyinde onaylayan ve sınırları kesinleştiren belgedir.",
-  "zorluk": "orta"
- },
- {
   "id": "31500",
   "dersId": "tarih",
   "konuId": "kurtulus_savasi",
@@ -23103,22 +22365,6 @@
   ],
   "dogru": 2,
   "aciklama": "Mudanya'da Doğu Trakya'nın Türklere bırakılması Ankara'nın askeri zaferini diplomatik zemine taşıdı. Ancak İstanbul ve Boğazlar'ın statüsü Lozan'a ertelendi; bu durum Osmanlı hükümetinin artık fiilen işlevsiz olduğunu ortaya koyuyordu. Lozan'a kimin katılacağı meselesi, iki hükümet arasındaki çelişkiyi gün yüzüne çıkardı. Mustafa Kemal, bu durumu fırsat bilerek 1 Kasım 1922'de saltanatı kaldırdı; böylece İstanbul hükümeti tarihe karıştı ve Türkiye Lozan'a tek meşru hükümet olarak katıldı.",
-  "zorluk": "zor"
- },
- {
-  "id": "31514",
-  "dersId": "tarih",
-  "konuId": "kurtulus_savasi",
-  "soru": "Lozan Antlaşması'nda Türk-Yunan nüfus mübadelesi, 'Ortodoks Hristiyanlar' ile 'Müslümanlar' esas alınarak düzenlenmiş; etnik değil dinî kimlik belirleyici kılınmıştır. Bu yaklaşımın pratik sonuçları açısından en doğru değerlendirme hangisidir?",
-  "secenekler": [
-   "Türkçe konuşan Ortodoks Hristiyanların Yunanistan'a gönderilmesine yol açmıştır",
-   "Karamanlılar olarak bilinen Türkçe konuşan Ortodoksların Yunanistan'a gönderilmesine yol açmıştır",
-   "Yunanistan'daki Müslüman Türklerin bir bölümünün Türkiye'ye gitmeyip yerinde kalmasını mümkün kılması",
-   "Ermeni topluluklarının mübadele kapsamına alınmasına neden olmuştur",
-   "Patrikhane mensuplarının tamamının Türkiye'den çıkarılmasını zorunlu kılmıştır"
-  ],
-  "dogru": 1,
-  "aciklama": "Lozan Mübadelesi'nde kimlik ölçütü olarak etnisite değil din kullanılmıştır. Bu yaklaşımın en çarpıcı sonucu, Karamanlılar üzerinde görülmüştür: Türkçe konuşan, Türk kültürüyle yoğrulmuş Ortodoks Hristiyanlar etnik kimliklerine bakılmaksızın Yunanistan'a gönderilmiştir. Benzer şekilde Rumca konuşan bazı Müslümanlar (Girit'tekiler gibi) Türkiye'ye gelmiştir. Bu durum, mübadelenin dilsel veya etnik değil tamamen dinsel bir mantıkla biçimlendirildiğini somut olarak ortaya koyar.",
   "zorluk": "zor"
  },
  {
@@ -24146,22 +23392,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "31584",
-  "dersId": "tarih",
-  "konuId": "mudanya_lozan",
-  "soru": "Lozan Konferansı'nda İsmet Paşa ile Lord Curzon arasındaki en sert tartışma konularından birini oluşturan 'kapitülasyonlar' meselesi, Türk tarafının tutumu bakımından aşağıdakilerden hangisiyle doğru özetlenmiştir?",
-  "secenekler": [
-   "Kapitülasyonların uluslararası tahkim denetimine bırakılması",
-   "Kapitülasyonların belirli bir geçiş süreci tanınarak kademeli biçimde kaldırılması",
-   "Kapitülasyonların tamamının, hiçbir uzlaşmaya yer bırakmaksızın, müzakere gündemine bile alınmadan reddedilmesi",
-   "Kapitülasyonların yalnızca Almanya ve Avusturya'ya karşı sürdürülmesi",
-   "Kapitülasyonların yalnızca ticari boyutuyla kaldırılması, yargısal boyutunun ise korunarak aynen sürdürülmesi ve geçerliliğini koruması"
-  ],
-  "dogru": 2,
-  "aciklama": "İsmet Paşa, Lozan'da kapitülasyonların hiçbir şekilde müzakere konusu yapılmayacağını, bunların tamamen ve derhal kaldırılması gerektiğini kararlılıkla savunmuştur. Türk tarafı için bu mesele ulusal egemenlikle özdeşleştirilmiş, herhangi bir geçiş dönemi ya da kısmi uygulama kabul edilemez bulunmuştur. Lozan Antlaşması ile kapitülasyonlar kesin olarak ilga edilmiştir.",
-  "zorluk": "orta"
- },
- {
   "id": "31585",
   "dersId": "tarih",
   "konuId": "mudanya_lozan",
@@ -24365,7 +23595,7 @@
    "Boğazlara asker konuşlandırmaması",
    "Yunan kuvvetleriyle ayrı bir ikili antlaşma imzalaması"
   ],
-  "dogru": 1,
+  "dogru": 3,
   "aciklama": "Mudanya Ateşkesi'nde (11 Ekim 1922) İtilaf Devletleri, Doğu Trakya'nın Türkiye'ye devrini kabul ederken Türk kuvvetlerinin İstanbul ve Boğazlar bölgesine girmemesini, müttefik kuvvetler çekilmeden bu bölgeleri işgal etmemesini talep etmiştir. Bu sayede fiilî barış sağlanana kadar geçiş dönemi yönetimi belirli ilkeler çerçevesinde düzenlenmiştir.",
   "zorluk": "orta"
  },
@@ -24594,22 +23824,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "31613",
-  "dersId": "tarih",
-  "konuId": "mudanya_lozan",
-  "soru": "Lozan Konferansı'nda (1922-1923) Türk heyetinin en çok direniş gösterdiği ve sonuçta tam bir uzlaşı sağlanamayıp çözümün 'Musul meselesinde olduğu gibi' dokuz aylık ikili görüşmeye bırakıldığı sorun aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Kapitülasyonların kaldırılması",
-   "Boğazlar meselesi",
-   "Nüfus mübadelesi koşulları",
-   "Osmanlı borçlarının paylaşımı",
-   "Musul meselesi"
-  ],
-  "dogru": 4,
-  "aciklama": "Musul meselesi Lozan'da kesin bir sonuca bağlanamadı. Antlaşmada Musul'un statüsünün dokuz ay içinde Türkiye ile İngiltere arasında ikili görüşmelerle çözülmesi, anlaşma sağlanamazsa meselenin Milletler Cemiyeti'ne götürülmesi kararlaştırıldı. Nitekim 1926'da Milletler Cemiyeti Musul'un İngiliz mandası altındaki Irak'a bırakılmasına karar verdi ve Türkiye bu durumu kabul etti.",
-  "zorluk": "orta"
- },
- {
   "id": "31614",
   "dersId": "tarih",
   "konuId": "mudanya_lozan",
@@ -24751,38 +23965,6 @@
   ],
   "dogru": 1,
   "aciklama": "Kapitülasyonların en temel sorunu, yabancı uyrukluların Türk mahkemelerinde yargılanamaması, kendi konsolosluk mahkemelerinde yargılanması ve böylece tam bir yargı egemenliğinin bulunmamasıydı. Bu durum Türkiye'nin 'tam bağımsız devlet' olma niteliğiyle doğrudan çelişiyordu. Vergi muafiyetleri ve ekonomik ayrıcalıklar da önemliydi; ancak Türk tezinin özü, kapitülasyonların egemenlik hakkını zedelemesi meselesiydi. İsmet Paşa bu konuda hiçbir uzlaşıya yanaşmadı ve kapitülasyonların tamamen kaldırılmasını sağladı.",
-  "zorluk": "orta"
- },
- {
-  "id": "31623",
-  "dersId": "tarih",
-  "konuId": "mudanya_lozan",
-  "soru": "I. Yunanistan Doğu Trakya'yı 30 gün içinde Türk makamlarına devredecektir. \nII. İstanbul ve Çanakkale'deki Türk kuvvetleri mevcut konumlarında tutulacaktır. \nIII. Yunan kuvvetleri Çanakkale'nin 15 km doğusundaki hattan geride kalacaktır. \nIV. Türk Kurtuluş Savaşı sona erdiği için Türk ordusu Doğu Trakya'ya hemen girebilecektir. \nYukarıdaki ifadelerden hangisi ya da hangileri Mudanya Mütarekesi'nin hükümlerine uymamaktadır?",
-  "secenekler": [
-   "I, II ve IV",
-   "I ve III",
-   "II ve IV",
-   "Yalnızca IV",
-   "Yalnızca II"
-  ],
-  "dogru": 3,
-  "aciklama": "Mudanya Mütarekesi'ne göre Doğu Trakya 30 gün içinde devredilecekti (I doğru). Türk kuvvetlerinin İstanbul ve Boğazlar bölgesine girmesi kısıtlandı; İtilaf kuvvetleri burada kalmaya devam etti (II yanlış değil ancak daha ince bir ayrım var). IV numaralı ifade açıkça yanlıştır: Türk ordusu Doğu Trakya'ya hemen giremedi; mütarekeye göre düzenli Türk askeri kuvvetleri değil, yalnızca jandarma ve idari personel girebilecekti, o da kademeli olarak. Düzenli ordunun bölgeye girişi Lozan'a kadar beklemek zorunda kaldı. IV kesinlikle yanlış olduğundan ve en açık hatayı içerdiğinden cevap IV'tür.",
-  "zorluk": "orta"
- },
- {
-  "id": "31624",
-  "dersId": "tarih",
-  "konuId": "mudanya_lozan",
-  "soru": "Lozan Antlaşması'nda Onikiadalar (Rodos ve çevresi) hangi devlete bırakılmıştır ve Türkiye bu durumu hangi gerekçeyle kabul etmek zorunda kalmıştır?",
-  "secenekler": [
-   "İngiltere'ye bırakılmıştır; İngiltere'nin Musul meselesindeki uzlaşıya karşılık bu ada grubu teklif edilmiştir.",
-   "İtalya'ya bırakılmıştır; İtalya'nın Kurtuluş Savaşı sürecinde Türkiye'ye sempatiyle yaklaşması karşılığında bu taviz verilmiştir.",
-   "Uluslararası yönetim altında kalmıştır; Milletler Cemiyeti'nin arabuluculuğuyla bu statü kabul edilmiştir.",
-   "Bağımsız bir yönetime kavuşturulmuştur; ada halkının referandumla verdiği karar doğrultusunda bu statü benimsenmiştir.",
-   "Yunanistan'a bırakılmıştır; Türkiye, Yunanistan ile olan nüfus mübadelesi anlaşmasının bir parçası olarak bunu kabul etmiştir."
-  ],
-  "dogru": 1,
-  "aciklama": "Onikiadalar, Lozan Antlaşması ile İtalya'ya bırakıldı. İtalya adaları 1912 Osmanlı-İtalyan Savaşı sırasında işgal etmişti. Lozan'da İtalya'nın müzakere masasındaki konumu ve Türkiye'nin Kurtuluş Savaşı döneminde İtalya ile kurduğu görece olumlu ilişkiler nedeniyle Türkiye bu durumu kabul etmek zorunda kaldı. Adalar ancak İkinci Dünya Savaşı sonrasında (1947 Paris Antlaşması ile) İtalya'dan Yunanistan'a geçmiştir.",
   "zorluk": "orta"
  },
  {
@@ -24930,22 +24112,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "31634",
-  "dersId": "tarih",
-  "konuId": "mudanya_lozan",
-  "soru": "Lozan Antlaşması'nın kapitülasyonların kaldırılmasına ilişkin hükmü, yalnızca hukuki bir düzenleme değil, aynı zamanda derin bir ekonomik dönüşümü de temsil etmektedir. Bu dönüşümün kavranmasında aşağıdaki hangi analiz en bütünlüklü yaklaşımı sergiler?",
-  "secenekler": [
-   "Kapitülasyonların kaldırılması yalnızca yabancı mahkemelerin Türkiye'deki yetkisini sona erdirmiş; ekonomik boyutu bulunmamaktadır.",
-   "Lozan'da kapitülasyonlar kaldırılmış olmakla birlikte Osmanlı borçlarına ilişkin hükümler nedeniyle fiilî ekonomik bağımsızlık ancak 1954'te sağlanabilmiştir.",
-   "Kapitülasyonlar zaten Birinci Dünya Savaşı sırasında Osmanlı tarafından tek taraflı olarak ilga edilmişti; Lozan bu durumu yalnızca uluslararası alanda tescil etmiştir. Ne var ki gümrük özerkliğinin yeniden kazanılması ve demiryolu imtiyazları gibi meseleler ekonomik bağımsızlık açısından Lozan'ın asıl kazanımını oluşturmaktadır.",
-   "Lozan kapitülasyonları kalıcı olarak kaldırmış; ancak Düyun-u Umumiye benzeri bir yapı yeni adlarla varlığını sürdürmüştür.",
-   "Kapitülasyonların kaldırılması Türkiye'nin yabancı sermayeye kapılarını bütünüyle kapatması anlamına gelmiş; bu nedenle 1920'ler boyunca yabancı yatırım tamamen durmuş, sanayileşme hamlesi sekteye uğramış ve ülke ağır bir ekonomik daralma dönemine girmiştir. Gümrük özerkliğinin yeniden kazanılması da bu nedenle uzun yıllar boyunca işlevsiz kalmıştır."
-  ],
-  "dogru": 2,
-  "aciklama": "Bu seçenek tarihsel sürecin katmanlarını doğru biçimde yansıtmaktadır. Osmanlı, 1914'te Birinci Dünya Savaşı'na girerken kapitülasyonları tek taraflı olarak kaldırmıştı; ancak bu karar Batılı devletlerce tanınmamış ve antlaşmayla resmileştirilmemişti. Lozan, bu ilgayı uluslararası alanda hukuken tescil etti. Asıl önemlisi: Türkiye'nin gümrük tarifelerini bağımsız olarak belirleyebilmesi (1916'dan itibaren kısmi esneklik kazanılmış olsa da Lozan bunu tam olarak sağladı), demiryolu ve liman imtiyazlarının yeniden düzenlenmesi ve yabancı yargı yetkisinin kaldırılması, Lozan'ın gerçek ekonomik dönüşümünü simgeliyordu.",
-  "zorluk": "zor"
- },
- {
   "id": "31635",
   "dersId": "tarih",
   "konuId": "mudanya_lozan",
@@ -25055,22 +24221,6 @@
   ],
   "dogru": 1,
   "aciklama": "İngiltere, Lozan Konferansı'na daveti hem Ankara Hükümeti'ne hem de İstanbul'daki Osmanlı hükümetine gönderdi. Bu, Ankara'yı açıkça köşeye sıkıştırmaya yönelik stratejik bir hamliydi. Ancak Mustafa Kemal, TBMM'yi harekete geçirerek 1 Kasım 1922'de saltanatı kaldırdı. Vahdettin ülkeyi terk etti; İstanbul hükümeti fiilen çöktü. Böylece Lozan'da tek meşru Türk muhatap Ankara Hükümeti oldu. Bu gelişme, konferansa büyük damgasını vurdu ve yıllar içinde yerleşik devlet kurumlarıyla müzakere eden Batılı diplomasilerin, artık bütünüyle Ankara'nın belirlediği koşullarla yüzleşmek zorunda kalacağını açıkça ortaya koydu.",
-  "zorluk": "zor"
- },
- {
-  "id": "31642",
-  "dersId": "tarih",
-  "konuId": "mudanya_lozan",
-  "soru": "Mudanya Mütarekesi'nde (11 Ekim 1922) Doğu Trakya'nın boşaltılması için Yunan kuvvetlerine verilen süre 30 gün olarak belirlenmişti. Bu hükmün müzakerelerde ayrı bir tartışma konusu olmasının temel nedeni aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "İngiltere'nin Doğu Trakya'nın İtilaf yönetiminde kalmasını savunarak Türk taleplerini sınırlamaya çalışması",
-   "Türk heyetinin kısa süre talep etmesi, İtilaf devletlerinin ise Yunanistan'a süre tanıyarak bölgede yönetim boşluğu oluşturmak istemesi",
-   "Yunanistan'ın Doğu Trakya'yı fiilen terk etmek istememesi ve toprak pazarlığı yapması",
-   "Mudanya'nın deniz üssü statüsü nedeniyle tahliye takvimine İngiliz Donanması'nın doğrudan müdahil olmasının gerekli görülmesi ve sürenin donanma hareket planına göre belirlenmesi",
-   "Fransız ve İtalyan delegelerin, sürenin uzatılması için İngiltere'ye karşı Türkiye ile ortak tutum sergilemesi"
-  ],
-  "dogru": 1,
-  "aciklama": "Mudanya görüşmelerinde Türk heyeti (İsmet Paşa başkanlığında) Doğu Trakya'nın olabildiğince hızlı tahliyesini isterken, İtilaf devletleri daha uzun bir geçiş süreci önermiştir. Uzun süre, bölgede fiilî bir otorite boşluğu yaratabilir ve kalıcı Türk egemenliğini belirsiz kılabilirdi. Bu çelişki müzakerelerin en tartışmalı gündem maddelerinden birini oluşturmuş; sonuçta 30 günlük tahliye-15 günlük jandarma geçişi formülüyle uzlaşılmıştır.",
   "zorluk": "zor"
  },
  {
@@ -25202,22 +24352,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "31651",
-  "dersId": "tarih",
-  "konuId": "mudanya_lozan",
-  "soru": "Lozan Antlaşması'nın 'Osmanlı borçlarının paylaştırılması' hükümleri (md. 46-63) incelendiğinde, bu düzenlemenin Türkiye açısından en elverişsiz boyutu aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Yeni kurulan devletlerin (Irak, Suriye, vb.) paylarına düşen borçları ödememeleri durumunda Türkiye'nin müteselsil sorumlu tutulması",
-   "Kapitülasyonların kaldırılması karşılığında Türkiye'nin tüm Osmanlı borçlarını tek başına devralmayı kabul etmesi",
-   "Osmanlı Borçları için kurulan Düyun-u Umumiye İdaresi'nin Lozan sonrasında da varlığını sürdürmesi",
-   "Borç miktarının Batılı alacaklılar tarafından tek taraflı belirlenmesi ve Türkiye'nin itiraz mekanizmasından yararlanamaması",
-   "Borçların faizinin Türkiye tarafından altın olarak ödenmesi zorunluluğu ve bunun döviz rezervlerini tüketme riski"
-  ],
-  "dogru": 0,
-  "aciklama": "Lozan borç hükümleri, Osmanlı'nın halef devletleri arasında borcun paylaştırılmasını öngörüyordu. Ancak Irak (İngiliz mandası) ve Suriye (Fransız mandası) gibi devletlerin paylarını ödememe ya da geç ödeme olasılığı karşısında, bazı antlaşma maddelerinin Türkiye'yi müteselsil sorumlu tutabilecek yorumlara açık olması önemli bir mali risk unsuru oluşturuyordu. Fiiliyatta Türkiye, özellikle 1940'a kadar büyük bir bölümü yabancı alacaklılara olan bu borçları ödemeye devam etmek zorunda kalmıştır.",
-  "zorluk": "zor"
- },
- {
   "id": "31652",
   "dersId": "tarih",
   "konuId": "mudanya_lozan",
@@ -25245,7 +24379,7 @@
    "Mustafa Kemal, Fransız ve İtalyan kuvvetlerine yönelik askeri operasyon başlatılması için İsmet Paşa'dan onay istemiş; bu talep Ankara'ya yansımamıştır",
    "Mustafa Kemal, mütarekeyi mümkün olan en kısa sürede imzalatmak için toprak konusunda azami taviz yetkisi vermiş, yalnızca İstanbul'u sınır dışı tutmuştur"
   ],
-  "dogru": 2,
+  "dogru": 0,
   "aciklama": "Mudanya müzakerelerinde Mustafa Kemal, telgraf trafiğiyle süreci yakından yönetmiştir. Temel kırmızı çizgiler, Türk kuvvetlerinin Boğazlar bölgesine girişi, İstanbul ve Doğu Trakya'nın Türk egemenliğine geçişiydi. Başta İngilizlerin kabul etmek istemediği Boğazlar'a Türk jandarma ve kuvvetlerinin geçişi meselesi, Ankara'nın sert telgraflarıyla kesin tavır olarak ortaya konmuş ve nihayetinde kabul ettirilmiştir. Bu sıkı direktif yapısı, İsmet Paşa'nın takdir yetkisini oldukça sınırlı tutuyordu.",
   "zorluk": "zor"
  },
@@ -25906,22 +25040,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "31702",
-  "dersId": "tarih",
-  "konuId": "ataturk_i_lke_ve_i_nkilaplari",
-  "soru": "1924 Anayasası'nda din işlerini yürütmek amacıyla kurulan Diyanet İşleri Başkanlığı'nın laiklik ilkesiyle çelişip çelişmediği tartışmalarında Atatürk dönemindeki resmi tutum aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Diyanet, hem Sünni hem Alevi inanç pratiklerini kapsayan bir yapı olarak örgütlenmiştir",
-   "Diyanet kurumu, tarikatların devlet bünyesine dahil edilmesini sağlamıştır",
-   "Diyanet İşleri Başkanlığı laikliği pekiştirmek amacıyla yurt dışındaki Türklere yönelik kurulmuştur",
-   "Diyanet, devlet denetimindeki bir kurum olarak dinin siyasete alet edilmesini önleme işlevi görmüştür",
-   "Diyanet'in varlığı laiklikle çeliştiği için 1937'de anayasadan çıkarılmıştır"
-  ],
-  "dogru": 3,
-  "aciklama": "Diyanet İşleri Başkanlığı, dini devlet kontrolünde tutarak siyasi araçsallaşmasını engellemek amacıyla kurulmuştur. Laiklik ilkesi din-devlet ayrılığını değil, devletin dini kurumlar üzerindeki denetimini de içerir; bu sayede tekke ve tarikatların siyasete müdahalesi önlenmek istenmiştir. 1937'de laiklik anayasaya girmiş, ancak Diyanet kaldırılmamıştır. Diyanet yalnızca Sünni ibadet hizmetlerini kapsamakta olup Alevi inanç pratiklerini yönetmemektedir.",
-  "zorluk": "orta"
- },
- {
   "id": "31703",
   "dersId": "tarih",
   "konuId": "ataturk_i_lke_ve_i_nkilaplari",
@@ -26146,22 +25264,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "31717",
-  "dersId": "tarih",
-  "konuId": "ataturk_i_lke_ve_i_nkilaplari",
-  "soru": "Sevr Antlaşması (10 Ağustos 1920) ile Lozan Antlaşması (24 Temmuz 1923) karşılaştırıldığında, Lozan'ın Türkiye açısından en kritik kazanımı hangisidir?",
-  "secenekler": [
-   "Doğu Anadolu'da Ermeni yurdu kurulması projesinin tamamen rafa kaldırılması",
-   "Misak-ı Millî sınırlarının eksiksiz biçimde tanınması ve tazminat yükümlülüklerinin sıfırlanması",
-   "Boğazlar üzerindeki egemenliğin uluslararası komisyon yerine tamamen Türkiye'ye bırakılması",
-   "İstanbul ve Trakya'nın Türkiye'de kalması ile Yunanistan ile nüfus mübadelesinin düzenlenmesi",
-   "Kapitülasyonların kaldırılması ve tam ekonomik bağımsızlığın sağlanması"
-  ],
-  "dogru": 4,
-  "aciklama": "Kapitülasyonların tamamen kaldırılması, Lozan'ın ekonomik bağımsızlık açısından en kritik kazanımıdır. Kapitülasyonlar, yüzyıllardır süren yabancı ayrıcalıklarını ve ekonomik boyunduruğu temsil ediyordu. Seçenek B kısmen yanlıştır; Lozan'da Boğazlar Komisyonu kurulmuş, tam egemenlik ancak 1936 Montrö Sözleşmesi'yle gelmiştir. Seçenek D de tam doğru değildir çünkü Musul Misak-ı Millî kapsamındaydı ancak Türkiye'ye bırakılmadı. Seçenek E önemli olmakla birlikte Sevr'de bu proje zaten tartışmalı bir konumundaydı.",
-  "zorluk": "orta"
- },
- {
   "id": "31718",
   "dersId": "tarih",
   "konuId": "ataturk_i_lke_ve_i_nkilaplari",
@@ -26191,22 +25293,6 @@
   ],
   "dogru": 1,
   "aciklama": "1924 Anayasası, egemenliğin kayıtsız şartsız millete ait olduğunu belirtir. Yasama ve yürütme yetkisini TBMM'de toplar, yani teoride kuvvetler birliğini benimser. Cumhurbaşkanı Meclis tarafından seçilir ve hükümeti kurar. Ancak tek parti dönemi koşullarında Meclis, partinin ve onun başkanı olan Cumhurbaşkanı'nın ağırlığı altında kalmıştır. Bu nedenle kuvvetler birliği ilkesi pratikte yürütmenin, özellikle Cumhurbaşkanı'nın güçlenmesiyle sonuçlanmıştır. Bu çelişkiyi en iyi açıklayan ifade budur. \"Anayasa, Cumhurbaşkanı'na kanun hükmünde kararname çıkarma yetkisi tanımış\" ifadesi yanlıştır, çünkü böyle bir hüküm 1924 Anayasası'nda yoktur. \"Kuvvetler birliği ilkesi, yürütme organının yasamaya tümüyle bağımlı kılınmasını sağlamış ve güçlü bir denetim mekanizması oluşmuştur\" ifadesi de pratikteki tabloyla çelişir. Doğru cevap \"Meclis, hem yasama hem yürütme yetkisini elinde tutmuş\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
-  "id": "31720",
-  "dersId": "tarih",
-  "konuId": "ataturk_i_lke_ve_i_nkilaplari",
-  "soru": "Türk inkılabının laikleşme sürecinde gerçekleştirilen adımlar kronolojik sıraya konulduğunda, hangisi diğerlerinden önce atılmıştır?",
-  "secenekler": [
-   "Şeriye mahkemelerinin kaldırılması",
-   "Tekke, zaviye ve türbelerin kapatılması",
-   "Diyanet İşleri Başkanlığı'nın kurulması",
-   "Hilafetin kaldırılması",
-   "Medreselerin kapatılması"
-  ],
-  "dogru": 3,
-  "aciklama": "Hilafetin kaldırılması 3 Mart 1924'te gerçekleşmiştir. Aynı gün Şeriye mahkemeleri ve Şeyhülislamlık da kaldırılmış, Diyanet İşleri Başkanlığı kurulmuştur (3 Mart 1924). Medreseler de yine 3 Mart 1924'te Tevhid-i Tedrisat Kanunu ile kapatılmıştır. Tekke, zaviye ve türbeler ise 30 Kasım 1925'te kapatılmıştır. Dolayısıyla hepsi yakın tarihlerde olsa da Hilafetin kaldırılması (3 Mart 1924) ile Şeriye mahkemelerinin kaldırılması (3 Mart 1924) eş zamanlıdır. Ancak bu seçenekler arasında Tekke ve zaviyelerin kapatılması (1925) en geç olandır; en erken olan ise 1924 tarihli düzenlemelerdir. Hile: Sorulan en erken adım Hilafetin kaldırılmasıdır çünkü teknik olarak aynı gün yapılan birden fazla düzenleme arasında hilafet kaldırma kararı önceden gündeme taşınmış ve ilk oylamaya sunulmuştur.",
   "zorluk": "orta"
  },
  {
@@ -26335,22 +25421,6 @@
   ],
   "dogru": 4,
   "aciklama": "Misak-ı Millî, Mondros Ateşkesi'nin imzalandığı 30 Ekim 1918 tarihi esas alınarak o tarihte Müslüman Türk ve Müslüman Arap nüfusun fiilen hâkim olduğu toprakları bütün olarak belirlemiştir. Osmanlı döneminin en geniş sınırları ya da salt etnik Türk bölgeleri değil, mütareke anındaki fiilî hâkimiyet durumu kriter alınmıştır. Bu yaklaşım, hem halkların kendi kaderini tayin ilkesiyle uyumlu olmayı hem de savunulabilir gerçekçi bir sınır çizmeyi hedeflemiştir.",
-  "zorluk": "zor"
- },
- {
-  "id": "31729",
-  "dersId": "tarih",
-  "konuId": "ataturk_i_lke_ve_i_nkilaplari",
-  "soru": "1923'te Lozan Antlaşması müzakerelerinde İsmet Paşa'nın, nüfus mübadelesi meselesini Batı Trakya Türkleri yerine yalnızca Yunanistan'daki Rum Ortodoks Hristiyanlar ve Türkiye'deki Müslümanlar çerçevesinde ele almasının ardındaki birincil diplomatik gerekçe hangisidir?",
-  "secenekler": [
-   "Mübadelenin din esasına bağlanmasıyla Batı Trakya Türklerinin Yunanistan'da azınlık statüsünü korumasını sağlayarak Türkiye'nin bu bölge üzerindeki diplomatik baskı aracını canlı tutmak",
-   "Batı Trakya Türklerinin kendi iradeleriyle Yunanistan'da kalmayı tercih etmiş olması",
-   "Lozan'da nüfus mübadelesinin yalnızca İzmir ve çevresini kapsayan yerel bir düzenleme olarak tasarlanmış olması ve Batı Trakya'nın bu çerçeveye hiçbir biçimde dahil edilmemesi ve konunun konferans gündemine hiç taşınmamış olması",
-   "Büyük Güçlerin Batı Trakya'yı Bulgaristan'a bırakma yönündeki baskısına boyun eğmek",
-   "Batı Trakya'nın zaten Türk egemenliğinde bulunması nedeniyle mübadele kapsamı dışında tutulması"
-  ],
-  "dogru": 0,
-  "aciklama": "Lozan'da nüfus mübadelesi etnisite değil din kriteri üzerine kurulmuştur: Türkiye'deki Rum Ortodoks Hristiyanlar ile Yunanistan'daki Müslümanlar mübadele edilecek, İstanbul Rumları ve Batı Trakya Türkleri ise mübadele dışında tutulacaktı. Bu çerçeve Türk tarafına iki kritik avantaj sağlamıştır: Batı Trakya'da azınlık olarak kalan Müslüman Türkler, Türkiye'nin bölge üzerinde sürekli diplomatik zemin elde tutmasını sağlamış; İstanbul'da Rum nüfusunun kalması ise karşılıklı koz işlevi görmüştür. Dolayısıyla bu düzenleme salt insani değil, stratejik bir tercihti.",
   "zorluk": "zor"
  },
  {
@@ -26690,22 +25760,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "31752",
-  "dersId": "tarih",
-  "konuId": "ataturk_i_lke_ve_i_nkilaplari",
-  "soru": "Türkiye'nin 1932'de Milletler Cemiyeti'ne, 1934'te ise Balkan Antantı'na katılması, Atatürk'ün dış politika anlayışının hangi boyutuyla doğrudan çelişmektedir?",
-  "secenekler": [
-   "Batı ittifaklarına katılmanın 'tam bağımsızlık' ilkesiyle gerilimine rağmen güvenlik kaygılarının öne çıkarılması",
-   "İrredantist taleplerin (Musul, Hatay) ittifak içi sürtüşmeye yol açması",
-   "'Yurtta sulh, cihanda sulh' ilkesiyle açık biçimde çelişen saldırgan ve yayılmacı bir dış politika çizgisinin benimsenmiş olması",
-   "Panturkizm politikasının SSCB ile ilişkileri bozması",
-   "Dinî dayanışma arayışının İslam dünyasıyla entegrasyonu zorunlu kılması"
-  ],
-  "dogru": 0,
-  "aciklama": "Atatürk'ün dış politika söylemi 'tam bağımsızlık' ve manda ya da kapitülasyon karşıtlığı üzerine kuruluydu. Ne var ki Milletler Cemiyeti ve Balkan Antantı gibi çok taraflı yapılara katılmak, belirli ölçüde egemenlik paylaşımını gerektiriyordu. Bu gerilimi çözen mantık şuydu: söz konusu yapılar eşit devletler arasında gönüllü işbirliğine dayanıyor; kapitülasyonlar gibi bir devletin diğerine egemenliğini dayatması anlamına gelmiyordu. Yine de teorik 'tam bağımsızlık' ile pratik 'ittifak zorunluluğu' arasındaki gerilim gerçektir. Diğer şıklar ya Atatürk politikasıyla bağdaşmıyor (A panturkizmi, E dini dayanışma) ya da o dönemin öncelikli sorunu değildir.",
-  "zorluk": "zor"
- },
- {
   "id": "31753",
   "dersId": "tarih",
   "konuId": "ataturk_i_lke_ve_i_nkilaplari",
@@ -26815,22 +25869,6 @@
   ],
   "dogru": 4,
   "aciklama": "27 Mayıs 1960 darbesinin ardından Milli Birlik Komitesi yönetimi devraldı. 1961 Anayasası'nı hazırlamak amacıyla bir Kurucu Meclis oluşturuldu. Kurucu Meclis, hazırladığı anayasayı halkoyuna sundu ve 1961 Anayasası kabul edildi.",
-  "zorluk": "kolay"
- },
- {
-  "id": "31761",
-  "dersId": "tarih",
-  "konuId": "cok_partili_donem",
-  "soru": "Demokrat Parti lideri Adnan Menderes, 27 Mayıs 1960 darbesi sonrasında kurulan mahkemede yargılanarak idam edildiği yer aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "İstanbul",
-   "İzmir",
-   "Bursa",
-   "Yassıada",
-   "Ankara"
-  ],
-  "dogru": 3,
-  "aciklama": "Yassıada (İstanbul açıklarında bir ada), darbe sonrasında kurulan Yüksek Adalet Divanı'nın yargılamalarının yapıldığı yerdir. Adnan Menderes, Fatin Rüştü Zorlu ve Hasan Polatkan burada yargılanmış; Menderes 17 Eylül 1961'de İmralı Adası'nda idam edilmiştir.",
   "zorluk": "kolay"
  },
  {
@@ -27410,38 +26448,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "31802",
-  "dersId": "tarih",
-  "konuId": "cok_partili_donem",
-  "soru": "Demokrat Parti iktidarı döneminde 1954'te çıkarılan 'Matbuat Kanunu' ve akabinde uygulanan basın kısıtlamaları, hangi anayasal ilkeyle doğrudan çelişmiştir?",
-  "secenekler": [
-   "Kuvvetler ayrılığı ilkesi",
-   "Basın özgürlüğü güvencesi",
-   "Laiklik ilkesi",
-   "Eşitlik ilkesi",
-   "Yargı bağımsızlığı ilkesi"
-  ],
-  "dogru": 1,
-  "aciklama": "1954 yılında çıkarılan basın kanunu değişiklikleriyle hükümeti eleştiren gazeteciler 'hakaret' ve 'asılsız haber' gibi gerekçelerle yargılanabilir hale getirilmiştir. Bu düzenleme, 1924 Anayasası'nın güvence altına aldığı basın özgürlüğüyle çelişmiş; Ahmet Emin Yalman, Hüseyin Cahit Yalçın gibi köklü gazeteciler davalarla karşılaşmıştır. Basın özgürlüğüne getirilen bu kısıtlamalar, muhalefet partilerinin ve aydın kesimin DP'ye yönelik eleştirilerinin odak noktalarından biri olmuştur.",
-  "zorluk": "orta"
- },
- {
-  "id": "31803",
-  "dersId": "tarih",
-  "konuId": "cok_partili_donem",
-  "soru": "1960 askeri müdahalesinin ardından kurulan Milli Birlik Komitesi'nin en önemli icraatlarından biri olarak kabul edilen 1961 Anayasası hangi temel yeniliği getirmiştir?",
-  "secenekler": [
-   "Siyasi partilerin anayasal güvenceye alınması",
-   "Anayasa Mahkemesi'nin kurulması",
-   "Tek meclisli parlamenter sisteme geçilmesi",
-   "Başbakanlık kurumunun kaldırılması",
-   "Cumhurbaşkanı'nın halk tarafından seçilmesi"
-  ],
-  "dogru": 1,
-  "aciklama": "1961 Anayasası, Türk anayasa tarihinin en köklü yeniliklerinden birini getirerek Anayasa Mahkemesi'ni kurmuştur. Bu mahkeme, yasaların anayasaya uygunluğunu denetleme yetkisine sahip olup hukuk devleti ilkesinin güçlendirilmesi açısından kritik öneme sahiptir. Bunun yanı sıra 1961 Anayasası, çift meclisli yapıyı (TBMM + Cumhuriyet Senatosu) benimsemiş, temel hak ve özgürlükleri genişletmiş, özerk radyo-televizyon kurumu ile Devlet Planlama Teşkilatı gibi anayasal kuruluşların önünü açmıştır. Cumhurbaşkanı halk tarafından değil, parlamento tarafından seçilmeye devam etmiştir.",
-  "zorluk": "orta"
- },
- {
   "id": "31804",
   "dersId": "tarih",
   "konuId": "cok_partili_donem",
@@ -27602,22 +26608,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "31817",
-  "dersId": "tarih",
-  "konuId": "cok_partili_donem",
-  "soru": "Demokrat Parti'nin 1950 seçimlerinde büyük bir zafer kazanmasının temel nedenleri arasında aşağıdakilerden hangisi gösterilemez?",
-  "secenekler": [
-   "DP'nin liberal ekonomi politikalarıyla köylü ve tüccar kesimlerden güçlü destek alması",
-   "Adnan Menderes'in Sovyet Sosyalist Cumhuriyetler Birliği ile kurulan ittifakı seçim malzemesi olarak kullanması",
-   "1946'dan itibaren geçerli olan gizli oy, açık tasnif uygulamasının kaldırılarak yerine gizli tasnifin getirilmesi",
-   "CHP iktidarı döneminde yaşanan ekonomik sıkıntılar ve kıtlık ortamı",
-   "Tek parti uygulamalarına duyulan toplumsal tepkinin oy davranışına yansıması"
-  ],
-  "dogru": 1,
-  "aciklama": "DP'nin 1950 zaferinin ardında İkinci Dünya Savaşı döneminin ekonomik buhranı, tek parti baskısından duyulan hoşnutsuzluk, yeni seçim yasasının getirdiği güvenceler ve liberal ekonomi vaatleri yatmaktadır. Ancak Adnan Menderes'in Sovyetler Birliği ile ittifak kurması gibi bir durum söz konusu değildir; aksine DP iktidarı döneminde Türkiye, NATO'ya (1952) katılmış ve Batı bloğuyla bütünleşme politikası izlenmiştir. Dolayısıyla doğru yanıt E'dir.",
-  "zorluk": "orta"
- },
- {
   "id": "31818",
   "dersId": "tarih",
   "konuId": "cok_partili_donem",
@@ -27630,7 +26620,7 @@
    "Çok partili sisteme dönüş amacıyla 1961 yılında genel seçimlerin yapılması ve yönetimin sivillere devredilmesi"
   ],
   "dogru": 2,
-  "aciklama": "27 Mayıs 1960 sonrasında MBK; DP'yi kapattı, Kurucu Meclis aracılığıyla 1961 Anayasası'nı hazırlattı, Yassıada duruşmaları neticesinde Menderes ve iki bakanı idam etti ve 1961'de genel seçimlere giderek sivil yönetime geçişi sağladı. Millî Güvenlik Kurulu ise bu dönemde kaldırılmamış, bilakis 1961 Anayasası ile anayasal bir kurum olarak düzenlenmiştir. Doğru yanıt E'dir.",
+  "aciklama": "Millî Birlik Komitesi Demokrat Parti'yi kapatmış, Yassıada yargılamaları sonucunda Adnan Menderes ile bazı bakanların idamını onaylamış, yeni anayasayı hazırlamak için Kurucu Meclis'i oluşturmuş ve 1961 seçimleriyle yönetimi sivillere devretmiştir. Buna karşılık \"Millî Güvenlik Kurulu'nun (MGK) MBK kararıyla kaldırılarak yerine Genelkurmay Başkanlığı'nın getirilmesi\" gerçekleşmemiştir. Aksine Millî Güvenlik Kurulu, bu dönemde hazırlanan 1961 Anayasası ile ilk kez anayasal bir kurum olarak düzenlenmiş ve ordunun siyasetteki etkisi güçlendirilmiştir. Bu nedenle MBK uygulamaları arasında yer almayan seçenek budur.",
   "zorluk": "orta"
  },
  {
@@ -27646,7 +26636,7 @@
    "1961 Anayasası tek meclisli sistemi benimseyerek yasama gücünü güçlendirmiştir."
   ],
   "dogru": 2,
-  "aciklama": "1961 Anayasası, 1924 Anayasası'ndan pek çok açıdan ayrışmaktadır: İkinci meclis olarak Cumhuriyet Senatosu kurulmuş, yasaların anayasaya uygunluğunu denetleyen Anayasa Mahkemesi oluşturulmuş, sosyal ve ekonomik haklar anayasal güvenceye kavuşturulmuş, Devlet Planlama Teşkilatı kurulmuştur. Cumhurbaşkanı doğrudan halk tarafından değil, parlamento tarafından seçilmiştir. Doğru yanıt B'dir.",
+  "aciklama": "1924 Anayasası yalnızca klasik hak ve özgürlüklere yer verirken, 1961 Anayasası sosyal devlet ilkesini benimseyerek çalışma, sosyal güvenlik ve eğitim gibi sosyal hakları ilk kez anayasal güvence altına almıştır. 1924'teki tek meclisli yapının yerine Millet Meclisi ve Cumhuriyet Senatosu'ndan oluşan çift meclisli bir sistem kurmuş, kanunların anayasaya uygunluğunu denetlemek için Anayasa Mahkemesi'ni de ilk kez oluşturmuştur. Bu nedenle doğru yargı, '1961 Anayasası sosyal hakları ilk kez anayasal güvence altına almış, çift meclisli sistemi ve Anayasa Mahkemesi'ni getirmiştir' ifadesidir. Diğer ifadeler hatalıdır: 1961'de cumhurbaşkanı halk tarafından değil TBMM tarafından seçilmiş ve başbakanlık kaldırılmamıştır, sıkıyönetim 1924 Anayasası'nda da düzenlenmiştir, tek meclisli sistem ise 1924 Anayasası'na aittir.",
   "zorluk": "orta"
  },
  {
@@ -27662,7 +26652,7 @@
    "Sol görüşlü, işçi sınıfını temsil eden bir parti"
   ],
   "dogru": 3,
-  "aciklama": "Adalet Partisi, 1961'de kuruluşundan itibaren kapatılan Demokrat Parti'nin siyasi mirasını devralan, merkez sağda konumlanan, serbest piyasa ekonomisini ve özel girişimi destekleyen bir çizgi izlemiştir. Süleyman Demirel'in liderliğinde 1965'te tek başına iktidar olan AP, ağırlıklı olarak köylü, esnaf, tüccar ve Anadolu burjuvazisinin desteğini almıştır. Doğru yanıt C'dir.",
+  "aciklama": "Adalet Partisi, 1961'de kuruluşundan itibaren kapatılan Demokrat Parti'nin siyasi mirasını devralan, merkez sağda konumlanan, serbest piyasa ekonomisini ve özel girişimi destekleyen bir çizgi izlemiştir. Süleyman Demirel'in liderliğinde 1965'te tek başına iktidar olan AP, ağırlıklı olarak köylü, esnaf, tüccar ve Anadolu burjuvazisinin desteğini almıştır. Doğru cevap: «Merkez sağda, DP'nin devamı niteliğinde liberal-muhafazakâr bir parti».",
   "zorluk": "orta"
  },
  {
@@ -27678,7 +26668,7 @@
    "1971 muhtırasının arkasından yeni bir anayasa yapılması"
   ],
   "dogru": 3,
-  "aciklama": "27 Mayıs 1960'ta ordu yönetime fiilen el koymuş, hükümeti ve meclisi askıya almıştır. 12 Mart 1971'de ise Genelkurmay Başkanı ve kuvvet komutanları imzalı bir muhtıra yayımlanmış; bu muhtıra ile Süleyman Demirel hükümeti istifaya zorlanmıştır. Meclis kapatılmamış, ordunun doğrudan yönetim üstlenmediği bu model 'muhtıra yoluyla müdahale' ya da 'dolaylı müdahale' olarak adlandırılmaktadır. Doğru yanıt A'dır.",
+  "aciklama": "27 Mayıs 1960'ta ordu yönetime doğrudan el koymuş, TBMM'yi kapatmış, Demokrat Parti'yi kapatmış, Adnan Menderes'i yargılayıp idam ettirmiş ve 1961 Anayasası'nı hazırlatmıştır. 12 Mart 1971'de ise bunların hiçbiri yaşanmamış; 1971'de ordunun yönetime doğrudan el koymaması, bunun yerine hükümeti istifaya zorlayan bir muhtıra yayımlaması söz konusu olmuştur. Muhtıra üzerine Süleyman Demirel hükümeti istifa etmiş, Meclis açık kalmaya devam etmiş ve partiler üstü hükümetler kurulmuştur. Bu dönemde yeni anayasa yapılmamış, yalnızca 1961 Anayasası'nda değişiklikler gerçekleştirilmiştir; bu nedenle iki müdahaleyi en belirgin biçimde ayıran yön, 1971'de yönetime doğrudan el konulmamasıdır.",
   "zorluk": "orta"
  },
  {
@@ -27694,23 +26684,7 @@
    "Bu yıllarda seçimlerin hiç yapılmamış olması"
   ],
   "dogru": 3,
-  "aciklama": "1970'li yıllar, Türk siyasi tarihinin en çalkantılı dönemlerinden biridir. Dört yıl arayla yapılan 1973 ve 1977 seçimlerinde hiçbir parti tek başına iktidar olacak çoğunluğu elde edememiştir. CHP-MSP, AP-MSP-MHP-MGP (I. Milliyetçi Cephe) ve CHP azınlık hükümeti gibi farklı koalisyon ya da azınlık hükümetleri kısa aralıklarla birbirini izlemiştir. Bu siyasi istikrarsızlık, artan toplumsal şiddet ortamıyla birleşerek 12 Eylül 1980 müdahalesine zemin hazırlamıştır. Doğru yanıt C'dir.",
-  "zorluk": "orta"
- },
- {
-  "id": "31823",
-  "dersId": "tarih",
-  "konuId": "cok_partili_donem",
-  "soru": "Milliyetçi Cephe (MC) hükümetlerine ilişkin aşağıdakilerden hangisi doğrudur?",
-  "secenekler": [
-   "İki ayrı MC hükümeti kurulmuş olup her ikisi de AP, MSP, MHP ve MGP'nin katılımıyla oluşturulmuştur.",
-   "Tek bir MC hükümeti kurulmuş ve bu hükümet beş yıl görev yapmıştır.",
-   "MC hükümetleri CHP ile MHP'nin oluşturduğu bir koalisyona dayanmaktadır.",
-   "MC hükümetleri, Türkiye'nin Avrupa Birliği'ne katılım sürecini hızlandırmak amacıyla kurulmuştur. Bu amaç hükümet programlarında açıkça yer almıştır.",
-   "MC hükümetleri döneminde Kıbrıs Barış Harekâtı gerçekleştirilmiştir."
-  ],
-  "dogru": 0,
-  "aciklama": "Milliyetçi Cephe hükümetleri; birincisi 1975-1977, ikincisi 1977-1978 yıllarında olmak üzere iki kez kurulmuştur. Her iki hükümet de AP (Süleyman Demirel), MSP (Necmettin Erbakan), MHP (Alparslan Türkeş) ve MGP'nin (Türkiye'nin Millet Partisi - Ferruh Bozbeyli) oluşturduğu sağ koalisyona dayanmaktaydı. Kıbrıs Barış Harekâtı ise 1974 yılında CHP-MSP koalisyon hükümeti döneminde gerçekleştirilmiştir. Doğru yanıt C'dir.",
+  "aciklama": "1970'li yıllar, Türk siyasi tarihinin en çalkantılı dönemlerinden biridir. Dört yıl arayla yapılan 1973 ve 1977 seçimlerinde hiçbir parti tek başına iktidar olacak çoğunluğu elde edememiştir. CHP-MSP, AP-MSP-MHP-MGP (I. Milliyetçi Cephe) ve CHP azınlık hükümeti gibi farklı koalisyon ya da azınlık hükümetleri kısa aralıklarla birbirini izlemiştir. Bu siyasi istikrarsızlık, artan toplumsal şiddet ortamıyla birleşerek 12 Eylül 1980 müdahalesine zemin hazırlamıştır. Doğru cevap: «Kısa ömürlü ve istikrarsız koalisyon hükümetlerinin arka arkaya kurulması».",
   "zorluk": "orta"
  },
  {
@@ -27726,7 +26700,7 @@
    "1982 Anayasası yürütmeyi güçlendirmiş, temel hakları kısıtlamış ve siyasi katılımı daraltmıştır."
   ],
   "dogru": 4,
-  "aciklama": "1982 Anayasası, 12 Eylül sürecinin ürünü olarak hazırlanmış ve genel itibarıyla kısıtlayıcı bir nitelik taşımaktadır. Yürütme organı güçlendirilmiş, Cumhurbaşkanlığı yetkileri genişletilmiş; buna karşılık sendikal haklar, siyasi örgütlenme ve ifade özgürlüğü gibi alanlarda ciddi kısıtlamalar getirilmiştir. Siyasi partilerin üniversitelerle bağı koparılmış, siyasi yasaklar uygulanmış, Cumhuriyet Senatosu kaldırılarak tek meclisli sisteme geri dönülmüştür. Doğru yanıt C'dir.",
+  "aciklama": "1982 Anayasası, 12 Eylül sürecinin ürünü olarak hazırlanmış ve genel itibarıyla kısıtlayıcı bir nitelik taşımaktadır. Yürütme organı güçlendirilmiş, Cumhurbaşkanlığı yetkileri genişletilmiş; buna karşılık sendikal haklar, siyasi örgütlenme ve ifade özgürlüğü gibi alanlarda ciddi kısıtlamalar getirilmiştir. Siyasi partilerin üniversitelerle bağı koparılmış, siyasi yasaklar uygulanmış, Cumhuriyet Senatosu kaldırılarak tek meclisli sisteme geri dönülmüştür. Doğru cevap: «1982 Anayasası yürütmeyi güçlendirmiş, temel hakları kısıtlamış ve siyasi katılımı daraltmıştır».",
   "zorluk": "orta"
  },
  {
@@ -27742,7 +26716,7 @@
    "Millî Güvenlik Konseyi'nin yalnızca ANAP'ı seçime sokmak amacıyla diğer partileri yasaklaması"
   ],
   "dogru": 4,
-  "aciklama": "1983 seçimlerinde MGK; Milliyetçi Demokrasi Partisi (MDP) ve Halkçı Parti (HP) ile birlikte ANAP'ı da seçime sokmuş, dolayısıyla sadece ANAP'ın katılmasına izin veren bir uygulama söz konusu değildir. Eski siyasetçilere getirilen yasaklar nedeniyle köklü partilerin seçime girememesi, Özal'ın etkili liderliği, serbest piyasa söylemi ve rakip partilerin yeterli seçmen tabanı oluşturamaması ANAP'ın zaferini belirleyen gerçek etkenlerdir. Doğru yanıt D'dir.",
+  "aciklama": "1983 seçimlerinde MGK; Milliyetçi Demokrasi Partisi (MDP) ve Halkçı Parti (HP) ile birlikte ANAP'ı da seçime sokmuş, dolayısıyla sadece ANAP'ın katılmasına izin veren bir uygulama söz konusu değildir. Eski siyasetçilere getirilen yasaklar nedeniyle köklü partilerin seçime girememesi, Özal'ın etkili liderliği, serbest piyasa söylemi ve rakip partilerin yeterli seçmen tabanı oluşturamaması ANAP'ın zaferini belirleyen gerçek etkenlerdir. Doğru cevap: «Millî Güvenlik Konseyi'nin yalnızca ANAP'ı seçime sokmak amacıyla diğer partileri yasaklaması».",
   "zorluk": "orta"
  },
  {
@@ -27758,7 +26732,7 @@
    "Siyasi partilerin Anayasa Mahkemesi kararıyla değil, askerî emir ve talimatla kapatılması"
   ],
   "dogru": 0,
-  "aciklama": "28 Şubat süreci, literatürde 'postmodern darbe' ya da 'sivil toplum darbesi' kavramlarıyla tanımlanmaktadır. Askerî yönetime el konulmamış, meclis feshedilmemiş, anayasa askıya alınmamıştır. Bunun yerine; 28 Şubat 1997 tarihli MGK toplantısında alınan ve irticai tehlikelere karşı alınması istenilen tedbirleri listeleyen bir bildiri, asker gezi ve tatbikatları, basın yayın organlarına yapılan brifinglerin etkisiyle Necmettin Erbakan liderliğindeki RP-DYP koalisyon hükümeti dolaylı yollarla istifaya zorlanmıştır. Bu nedenle doğru yanıt B'dir.",
+  "aciklama": "28 Şubat 1997 süreci, 'postmodern darbe' olarak anılır; çünkü 1960, 1971 ve 1980 müdahalelerinden farklı olarak Meclis feshedilmemiş, anayasa askıya alınmamış ve sıkıyönetim ilan edilmemiştir. Bu süreçte doğrudan askerî yönetim kurulmaksızın yayımlanan MGK kararları ve çeşitli baskı mekanizmaları aracılığıyla hükümetin istifaya zorlanması söz konusudur. Refah-Yol hükümeti; MGK bildirisi, medya, yargı, sivil toplum ve iş dünyası üzerinden oluşturulan kamuoyu baskısıyla 1997 yazında istifa etmek durumunda kalmıştır. Refah Partisi'nin kapatılması da askerî emirle değil, 1998'de Anayasa Mahkemesi kararıyla gerçekleşmiştir.",
   "zorluk": "orta"
  },
  {
@@ -27774,7 +26748,7 @@
    "İki farklı partinin aynı seçim bölgesinde ortaklaşa aday göstermesi"
   ],
   "dogru": 2,
-  "aciklama": "Kohabitasyon, köken itibarıyla Fransız siyasi sistemine ait bir kavram olmakla birlikte Türk siyasetinde de kullanılmaktadır. Cumhurbaşkanı'nın bir partiden, başbakanın ise farklı bir siyasi yapıdan olduğu ve bu durumun yürütme içinde gerilim yarattığı dönemleri tanımlar. Türkiye'de bu olgu özellikle 2000'li yıllarda, Ahmet Necdet Sezer ile AKP hükümeti arasındaki ilişkiler bağlamında tartışılmıştır. Doğru yanıt B'dir.",
+  "aciklama": "Kohabitasyon, Fransız siyasetinden gelen ve yürütmenin iki kanadının farklı siyasi çizgilerden kişilerce yönetildiği durumu anlatan bir kavramdır. Türk siyasi tarihinde de bu kavram, farklı siyasi partilerden gelen cumhurbaşkanı ile başbakanın aynı dönemde görev yapması durumunu tanımlamak için kullanılır. Buna en çok verilen örnek, ANAP kökenli Cumhurbaşkanı Turgut Özal ile DYP Genel Başkanı Başbakan Süleyman Demirel'in 1991-1993 yılları arasında birlikte görev yaptığı dönemdir. Diğer seçenekler ise ittifak, ortak adaylık ya da askerî-sivil yönetim gibi farklı kavramlarla ilgilidir ve kohabitasyonun anlamını karşılamaz.",
   "zorluk": "orta"
  },
  {
@@ -27790,7 +26764,7 @@
    "AKP, Refah Partisi'nin doğrudan devamı niteliğinde, İslamcı çizgisini aynen sürdüren bir partidir."
   ],
   "dogru": 3,
-  "aciklama": "AKP, 2001 yılında Recep Tayyip Erdoğan, Abdullah Gül ve eski FP/RP çevresinden gelen isimler tarafından kurulmuştur. Ancak parti, kendisini İslamcı değil 'muhafazakâr demokrat' olarak tanımlamış; Avrupa Birliği üyeliğini stratejik bir hedef olarak benimsemiş ve geniş bir seçmen kitlesine ulaşmayı başarmıştır. 2002 seçimlerinde %34,3 oranında oy alarak tek başına iktidar olan AKP, mecliste de güçlü bir çoğunluk kurmuştur. Seçmen tabanı yalnızca dinî muhafazakâr kesimle sınırlı kalmayıp milliyetçi, liberal ve merkez seçmenlerden de destek görmüştür. Doğru yanıt B'dir.",
+  "aciklama": "AKP, Recep Tayyip Erdoğan ve Abdullah Gül gibi kurucularının geçmişte Millî Görüş geleneğine bağlı Refah Partisi (RP) ve Fazilet Partisi (FP) içinde yer almasına rağmen, bu gelenekten ayrışarak kendisini 'muhafazakâr demokrat' olarak tanımlamıştır. Parti, özellikle ilk iktidar yıllarında Avrupa Birliği üyeliğini öncelikli hedef olarak benimsemiş ve bu doğrultuda kapsamlı uyum reformları gerçekleştirmiştir. Bu nedenle en doğru yargı, 'AKP, liderlerinin geçmişte RP ve FP içinde yer almasına karşın kendisini muhafazakâr demokrat çizgide tanımlamış ve AB üyeliğini öncelikli hedef olarak benimsemiştir' ifadesidir. Partinin RP'nin doğrudan devamı olduğu, yalnızca dinî muhafazakâr seçmene hitap ettiği ya da ağırlıklı olarak DSP ve CHP kökenli isimlerden oluştuğu yönündeki yargılar ise partinin kuruluş kadrosu ve kendini tanımlama biçimiyle örtüşmemektedir.",
   "zorluk": "orta"
  },
  {
@@ -27806,24 +26780,8 @@
    "Yeni düzenlemeyle birlikte Türkiye Büyük Millet Meclisi yürütme üzerindeki denetim yetkisini önemli ölçüde güçlendirmiştir."
   ],
   "dogru": 0,
-  "aciklama": "2017 anayasa değişiklikleri; Türkiye'yi parlamenter sistemden başkanlık sistemine taşımış, başbakanlık makamını kaldırmış, yürütme yetkisini bütünüyle doğrudan halk tarafından seçilen cumhurbaşkanında toplamıştır. Cumhurbaşkanı kanun hükmünde kararname çıkarma, bakanları atama ve görevden alma, yargı atamalarını belirleme gibi geniş yetkilere sahip olmuştur. Söz konusu değişiklikler; yürütme-yasama arasındaki denge-denetleme mekanizmalarını zayıflattığı gerekçesiyle muhalefetin yoğun eleştirilerine konu olmuştur. ABD başkanlık sistemiyle belirli benzerlikler bulunsa da iki sistem arasında önemli yapısal farklar mevcuttur. Doğru yanıt B'dir.",
+  "aciklama": "2017 anayasa referandumuyla kabul edilen cumhurbaşkanlığı hükümeti sisteminde cumhurbaşkanı doğrudan halk tarafından seçilmekte, yürütme yetkisi tek elde toplanmakta ve başbakanlık makamı kaldırılmaktadır; bu nedenle doğru değerlendirme budur. Parlamenter sistemde yürütme cumhurbaşkanı ve Bakanlar Kurulu arasında paylaşılırken ve hükümet meclisin güvenine dayanırken, yeni sistemde yürütmenin tek başı cumhurbaşkanıdır ve bakanlar ile cumhurbaşkanı yardımcılarını o atar. Sistem ABD başkanlık sisteminin birebir kopyası değildir; cumhurbaşkanı törensel bir konumda bulunmaz ve başbakan olmadığı için yürütme paylaşılmaz. Ayrıca gensoru gibi araçların kaldırılmasıyla TBMM'nin yürütme üzerindeki denetim yetkisi güçlenmemiş, aksine daralmıştır.",
   "zorluk": "orta"
- },
- {
-  "id": "31830",
-  "dersId": "tarih",
-  "konuId": "cok_partili_donem",
-  "soru": "1950 seçimlerinde DP'nin CHP karşısında büyük bir zafer kazanmasının ardından bazı tarihçiler bu seçimi 'gerçek anlamda ilk demokratik iktidar değişimi' olarak nitelendirirken, bazıları ise 'Türk siyasi kültüründeki otoriter eğilimlerin farklı bir aktörle devamı' olarak yorumlamaktadır. Bu iki yorumun ortak paydası aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Her iki yorum da askerin sivil siyaset üzerindeki belirleyiciliğini ön plana çıkarır.",
-   "Her iki yorum da 27 Mayıs 1960 darbesinin kaçınılmaz olduğunu öngörür.",
-   "Her iki yorum da seçim sonucunun meşruiyetini tartışmaya açar.",
-   "Her iki yorum da Türkiye'de demokrasinin kurumsal değil kültürel bir sorun taşıdığını ima eder.",
-   "Her iki yorum da 1950'yi çok partili hayatın başlangıcı kabul eder."
-  ],
-  "dogru": 3,
-  "aciklama": "Birinci yorum demokratik prosedürün işlediğini kabul ederken DP'nin zamanla otoriter uygulamalara yöneldiğine dikkat çeker; ikinci yorum ise CHP döneminden miras kalan otoriter kültürün DP eliyle sürdüğünü savunur. Her iki yaklaşım da Türkiye'de demokratik kurumların yerleşmesinin önünde kültürel-siyasi bir engelin varlığına işaret etmekte, dolayısıyla kurumsal yapıdan çok siyasi kültürü merkeze almaktadır. Seçimin meşruiyetini tartışmak, askeri müdahaleyi öngörmek veya çok partili hayatın başlangıcını belirlemek bu iki yorumun ortak noktası değildir.",
-  "zorluk": "zor"
  },
  {
   "id": "31831",

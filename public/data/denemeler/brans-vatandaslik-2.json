@@ -25,7 +25,7 @@
       "330 kabul oyuyla geçen bir değişiklik, Anayasa Mahkemesi onayından sonra yürürlüğe girer."
      ],
      "dogru": 1,
-     "aciklama": "1982 Anayasası'na göre anayasa değişikliği teklifleri TBMM üye tam sayısının en az beşte üçü (360 oy) ile kabul edilmelidir. 360-400 oy aralığında kabul edilen değişikliği Cumhurbaşkanı halkoyuna sunabilir veya bir kez daha görüşülmek üzere Meclis'e iade edebilir ya da yayımlar. 400 veya daha fazla oyla (üçte iki) kabul edilen değişikliği ise Cumhurbaşkanı halkoyuna sunabilir ya da doğrudan yayımlayabilir; zorunlu halkoylaması yoktur. Dolayısıyla C seçeneği doğru prosedürü tanımlamaktadır.",
+     "aciklama": "Anayasa'nın 175. maddesine göre Anayasa değişikliği teklifi, TBMM üye tam sayısının en az üçte iki çoğunluğuyla kabul edilebilir; bu sayı 400 oyu ifade eder. Üye tam sayısının beşte üçü olan 360 ile 400 arasındaki oyla kabul edilen değişikliği Cumhurbaşkanı halkoyuna sunabilir. Cumhurbaşkanı sunmazsa değişiklik 400 oya ulaşmadığı için yürürlüğe giremez. \"400 milletvekilinin kabul oyuyla kesinleşen değişiklik, halkoyuna sunulmak zorundadır.\" ifadesi yanlıştır, çünkü 400 ve üzeri oyla kabul edilen değişiklik için halkoylaması zorunlu değildir. \"Anayasa değişiklikleri için her durumda 400 kabul oyu ve ardından zorunlu halkoylaması şarttır.\" ifadesi de yanlıştır. Doğru cevap \"400 ile 360 arasında kalan kabul oyuyla geçen değişikliği Cumhurbaşkanı halkoyuna sunabilir.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -50,14 +50,15 @@
      "konuId": "uluslararasi_orgutler",
      "soru": "Aşağıdakilerden hangisi Avrupa Konseyi hakkında doğru bir bilgi içermektedir?",
      "secenekler": [
-      "Avrupa Konseyi Avrupa İnsan Hakları Mahkemesi kararları üye devletler için bağlayıcı değil tavsiye niteliğindedir.",
+      "Avrupa Konseyi bünyesindeki Avrupa İnsan Hakları Mahkemesi kararları üye devletler için bağlayıcı değil yalnızca tavsiye niteliğindedir. Bu nedenle icra edilmeleri zorunlu değildir.",
       "Avrupa Konseyi, Rusya'nın 2022'de Ukrayna'yı işgali öncesinde bu ülkeyi örgütten ihraç etmiştir.",
       "Türkiye, Avrupa Konseyi'ne üye değildir; yalnızca gözlemci statüsüyle katılım sağlamaktadır.",
       "Avrupa Konseyi, Avrupa Birliği'nin en üst karar organı olup üye devletlerin devlet başkanlarından oluşur.",
       "Avrupa Konseyi, AB üyesi olmayan ülkeleri de kapsayan; merkezi Strasbourg'da bulunan ve Avrupa İnsan Hakları Sözleşmesi'ni denetleyen bir örgüttür."
      ],
      "dogru": 4,
-     "aciklama": "Avrupa Konseyi (Council of Europe), 1949'da Strasbourg merkezli olarak kurulan ve AB'den tamamen bağımsız olan bir insan hakları örgütüdür. 46 üyesiyle AB dışındaki ülkeleri de kapsar; Türkiye 1949'dan bu yana tam üyedir. Örgütün en önemli belgesi Avrupa İnsan Hakları Sözleşmesi'dir ve bu sözleşmenin denetim organı Avrupa İnsan Hakları Mahkemesi'dir (AİHM). AİHM kararları üye devletler için hukuken bağlayıcıdır. Rusya, Ukrayna'yı işgal etmesinin ardından Mart 2022'de Avrupa Konseyi'nden ihraç edilmiştir. Sınavlarda 'Avrupa Konseyi' ile 'AB Konseyi' çok sık karıştırılmaktadır."
+     "aciklama": "Avrupa Konseyi (Council of Europe), 1949'da Strasbourg merkezli olarak kurulan ve AB'den tamamen bağımsız olan bir insan hakları örgütüdür. 46 üyesiyle AB dışındaki ülkeleri de kapsar; Türkiye 1949'dan bu yana tam üyedir. Örgütün en önemli belgesi Avrupa İnsan Hakları Sözleşmesi'dir ve bu sözleşmenin denetim organı Avrupa İnsan Hakları Mahkemesi'dir (AİHM). AİHM kararları üye devletler için hukuken bağlayıcıdır. Rusya, Ukrayna'yı işgal etmesinin ardından Mart 2022'de Avrupa Konseyi'nden ihraç edilmiştir. Sınavlarda 'Avrupa Konseyi' ile 'AB Konseyi' çok sık karıştırılmaktadır.",
+     "zorluk": "orta"
     },
     {
      "id": "34401",
@@ -66,13 +67,14 @@
      "soru": "Cumhurbaşkanının uluslararası antlaşmaları onaylamasına ilişkin aşağıdaki ifade hangisi doğrudur?",
      "secenekler": [
       "Türkiye adına yabancı devletlerle ve uluslararası kuruluşlarla yapılan antlaşmaların onaylanması TBMM'nin uygun bulmasına bağlıdır; ancak kanun hükmünde olmayan ekonomik, ticari, teknik veya idari antlaşmalar bu kuralın istisnasını oluşturabilir",
-      "Ekonomik, ticari ve teknik nitelikteki ikili antlaşmalar, TBMM onayı aranmaksızın Cumhurbaşkanlığı kararnamesiyle yürürlüğe girer",
+      "Ekonomik, ticari ve teknik nitelikteki bütün ikili antlaşmalar, TBMM onayı hiçbir biçimde aranmaksızın doğrudan Cumhurbaşkanlığı kararnamesiyle yürürlüğe girer ve uygun bulma kanunu gerekmez Nitekim bu antlaşmalarda Meclis'in herhangi bir denetim yetkisi bulunmaz.",
       "Uluslararası antlaşmalar Cumhurbaşkanlığı kararnamesiyle onaylanır ve Anayasa Mahkemesi denetimine tabidir",
       "Tüm uluslararası antlaşmalar TBMM'nin üçte iki çoğunluğunun onayıyla yürürlüğe girer",
       "Cumhurbaşkanı tüm uluslararası antlaşmaları tek başına onaylayabilir"
      ],
      "dogru": 0,
-     "aciklama": "Anayasa'nın 90. maddesine göre Türkiye adına yabancı devletlerle ve milletlerarası kuruluşlarla yapılan antlaşmaların onaylanması TBMM'nin uygun bulmasına bağlıdır. Ancak kanun hükmünde olmayan, ekonomik, ticari, teknik veya idari antlaşmaların yürürlüğe girmesi için belirli koşullar altında TBMM onayı gerekmeyebilir. TBMM onayı için salt çoğunluk yeterlidir; üçte iki çoğunluk aranmaz."
+     "aciklama": "Anayasa'nın 90. maddesine göre Türkiye adına yabancı devletlerle ve milletlerarası kuruluşlarla yapılan antlaşmaların onaylanması TBMM'nin uygun bulmasına bağlıdır. Ancak kanun hükmünde olmayan, ekonomik, ticari, teknik veya idari antlaşmaların yürürlüğe girmesi için belirli koşullar altında TBMM onayı gerekmeyebilir. TBMM onayı için salt çoğunluk yeterlidir; üçte iki çoğunluk aranmaz.",
+     "zorluk": "orta"
     },
     {
      "id": "34768",
@@ -87,7 +89,8 @@
       "Belediye başkanının görevden alınması yalnızca Danıştay kararıyla mümkündür."
      ],
      "dogru": 1,
-     "aciklama": "5393 sayılı Kanun ve ilgili mevzuata göre haklarında soruşturma açılan belediye başkanları, soruşturmanın selameti bakımından İçişleri Bakanı tarafından geçici olarak görevden uzaklaştırılabilir. Bu tedbir niteliğinde bir işlemdir ve kesin görevden alma değildir. Belediye meclisinin güvensizlik oyuyla veya Danıştay kararıyla görevden alma gibi mekanizmalar Türk hukukunda mevcut değildir. Doğru yanıt A'dır."
+     "aciklama": "5393 sayılı Kanun ve ilgili mevzuata göre haklarında soruşturma açılan belediye başkanları, soruşturmanın selameti bakımından İçişleri Bakanı tarafından geçici olarak görevden uzaklaştırılabilir. Bu tedbir niteliğinde bir işlemdir ve kesin görevden alma değildir. Belediye meclisinin güvensizlik oyuyla veya Danıştay kararıyla görevden alma gibi mekanizmalar Türk hukukunda mevcut değildir. Doğru cevap: «Belediye başkanı hakkında soruşturma açılması hâlinde İçişleri Bakanı başkanı geçici olarak görevden uzaklaştırabilir».",
+     "zorluk": "orta"
     },
     {
      "id": "34122",
@@ -122,19 +125,20 @@
      "zorluk": "kolay"
     },
     {
-     "id": "34489",
+     "id": "34504",
      "dersId": "vatandaslik",
      "konuId": "yargi_organlari",
-     "soru": "Anayasa Mahkemesi'nin çalışma usulüne ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+     "soru": "Yargı bağımsızlığını güvence altına almak amacıyla Anayasa'da yer alan düzenlemelerden hangisi yanlış verilmiştir?",
      "secenekler": [
-      "İptal davalarına Genel Kurul bakar.",
-      "Anayasa Mahkemesi üye tam sayısının salt çoğunluğuyla toplanır.",
-      "Anayasa Mahkemesi, Genel Kurul ve bölümler hâlinde çalışır.",
-      "Siyasi parti kapatma davalarında karar yeter sayısı üye tam sayısının salt çoğunluğudur.",
-      "Bireysel başvurular öncelikle komisyonlarca incelenir."
+      "Hâkimlerin özlük işleri, Hâkimler ve Savcılar Kurulu tarafından yürütülür.",
+      "Hâkimler görevlerinde bağımsızdır; hiçbir organ, makam, merci veya kişi yargı yetkisinin kullanılmasında onlara emir ve talimat veremez.",
+      "Hâkimler, idarenin hiçbir işlemine tabi tutulamazlar ve tutuklanamazlar.",
+      "Hâkimler, Anayasa'da belirlenen istisnalar dışında devlet memurluğu ve diğer kamu görevlerini üstlenemez.",
+      "Hâkimler, mahkûmiyet kararı olmadıkça görevden alınamaz."
      ],
-     "dogru": 3,
-     "aciklama": "Siyasi partilerin kapatılmasına karar verilebilmesi için Anayasa'nın 69. maddesi uyarınca Anayasa Mahkemesi üye tam sayısının üçte iki çoğunluğu (en az 10 üye) aranmaktadır; salt çoğunluk yeterli değildir. Diğer seçenekler doğrudur: Mahkeme Genel Kurul ve iki bölüm hâlinde çalışır, bireysel başvurular önce komisyon aşamasından geçer, toplanma yeter sayısı ise salt çoğunluktur."
+     "dogru": 2,
+     "aciklama": "Anayasa'nın 139. maddesine göre hâkimler azledilemez, kendileri istemedikçe Anayasa'da gösterilen yaştan önce emekliye ayrılamaz; mahkeme kurulu veya kadrolarının kaldırılması hâlinde de maaş ve özlük haklarından yoksun bırakılamaz. Ancak hâkimler, ağır cezalık suçüstü hâli gibi Anayasa'da gösterilen istisnai durumlarda tutuklanabilir. Bu nedenle \"tutuklanamazlar\" ifadesi mutlak biçimde yazıldığı için yanlıştır. Ayrıca hâkimler idarenin işlemlerine tabi değildir demek de doğru değildir; özlük işleri HSK eliyle yürütülür. \"Hâkimler, mahkûmiyet kararı olmadıkça görevden alınamaz.\" ifadesi ise Anayasa'daki güvence mantığına uygun olduğundan bu soruda doğru kabul edilir. Doğru cevap \"Hâkimler, idarenin hiçbir işlemine tabi tutulamazlar ve tutuklanamazlar.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "34246",
@@ -144,12 +148,13 @@
      "secenekler": [
       "Bu kararnameler TBMM denetimine tabi değildir.",
       "Bu kararnameler Resmî Gazete'de yayımlandıktan sonra TBMM'nin onayına sunulur; TBMM'nin üç ay içinde onaylamaması durumunda kararname kendiliğinden yürürlükten kalkar.",
-      "Bu kararnameler derhal TBMM onayına sunulur; bir ay içinde onaylanmadığında yürürlükten kalkar.",
-      "Bu kararnameler Anayasa Mahkemesi denetimine tabi olmakla birlikte TBMM denetimine tabi değildir.",
+      "Bu kararnameler derhâl TBMM onayına sunulur; bir ay içinde onaylanmadığında kendiliğinden yürürlükten kalkar.",
+      "Bu kararnameler Anayasa Mahkemesi'nin denetimine tabi olmakla birlikte TBMM'nin herhangi bir denetimine tabi değildir ve süresiz yürürlükte kalır. Denetim yalnızca yargısaldır.",
       "Bu kararnameler sadece temel hakları kısıtlayan düzenlemeler içerdiğinde TBMM onayına sunulur."
      ],
      "dogru": 1,
-     "aciklama": "Anayasa'nın 119. maddesine göre olağanüstü hal kapsamında çıkarılan Cumhurbaşkanlığı kararnameleri Resmî Gazete'de yayımlandıktan sonra aynı gün TBMM'ye sunulur. TBMM tatilde ise derhal toplantıya çağrılır. Meclis onayına sunulan kararname, üç ay içinde TBMM tarafından görüşülüp onaylanmadığı takdirde yürürlükten kalkar."
+     "aciklama": "Anayasa'nın 119. maddesine göre olağanüstü hal kapsamında çıkarılan Cumhurbaşkanlığı kararnameleri Resmî Gazete'de yayımlandıktan sonra aynı gün TBMM'ye sunulur. TBMM tatilde ise derhal toplantıya çağrılır. Meclis onayına sunulan kararname, üç ay içinde TBMM tarafından görüşülüp onaylanmadığı takdirde yürürlükten kalkar.",
+     "zorluk": "orta"
     },
     {
      "id": "34620",
@@ -164,7 +169,8 @@
       "Genel idari kolluğun en üst mercii İçişleri Bakanlığı'dır."
      ],
      "dogru": 1,
-     "aciklama": "İdari kolluk yalnızca önleme değil aynı zamanda idari yaptırım uygulama yetkisine de sahiptir. İdari para cezaları, mühürleme, kapatma kararları gibi işlemler idari kolluğun yaptırım araçlarıdır. 'İdari kolluk yaptırım uygulamaya yetkili değildir' ifadesi yanlıştır. Diğer şıklar idari kolluğa ilişkin doğru bilgiler içermektedir."
+     "aciklama": "İdari kolluk yalnızca önleme değil aynı zamanda idari yaptırım uygulama yetkisine de sahiptir. İdari para cezaları, mühürleme, kapatma kararları gibi işlemler idari kolluğun yaptırım araçlarıdır. 'İdari kolluk yaptırım uygulamaya yetkili değildir' ifadesi yanlıştır. Diğer şıklar idari kolluğa ilişkin doğru bilgiler içermektedir.",
+     "zorluk": "orta"
     },
     {
      "id": "34817",
@@ -195,7 +201,7 @@
       "Cumhurbaşkanı yardımcıları TBMM'ye karşı siyasi sorumluluk taşır"
      ],
      "dogru": 4,
-     "aciklama": "Anayasa m.106 uyarınca Cumhurbaşkanı yardımcıları ve bakanlar yalnızca Cumhurbaşkanı'na karşı sorumludur; TBMM'ye karşı siyasi sorumlulukları yoktur. Bu, cumhurbaşkanlığı hükümet sisteminin temel özelliğidir: yürütmenin yasama organı önünde güven ilişkisi söz konusu değildir. Meclis soruşturması (D şıkkı) ise Anayasa m.106/son uyarınca mümkündür; bu cezai sorumlulukla ilgilidir, siyasi sorumlulukla değil.",
+     "aciklama": "Anayasa'nın 106. maddesine göre Cumhurbaşkanı yardımcıları ve bakanlar Cumhurbaşkanı tarafından atanır ve görevden alınır. Bunlar yalnızca Cumhurbaşkanı'na karşı sorumludur, TBMM'ye karşı siyasi sorumlulukları yoktur. Milletvekili olmaları zorunlu değildir. Görevleriyle ilgili suçlarda TBMM yoluyla soruşturma açılabilir. Cumhurbaşkanlığı makamı boşaldığında 45 gün içinde seçim yapılır ve o zamana kadar Cumhurbaşkanı yardımcısı vekâlet eder. Bu nedenle \"Cumhurbaşkanı yardımcıları Cumhurbaşkanı tarafından atanır ve görevden alınır\" ile \"Cumhurbaşkanı yardımcıları milletvekili sıfatını taşımak zorunda değildir\" ifadeleri anayasaya uygundur. Anayasa'ya aykırı olan tek ifade, siyasi sorumluluğun TBMM'ye karşı olduğunu söyleyendir. Doğru cevap \"Cumhurbaşkanı yardımcıları TBMM'ye karşı siyasi sorumluluk taşır\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -204,11 +210,11 @@
      "konuId": "yerel_yonetimler",
      "soru": "Belediye başkanı, belediye meclisinin aldığı bir kararı hukuka aykırı bulursa aşağıdaki süreçlerden hangisini izlemelidir?",
      "secenekler": [
-      "Kararı İçişleri Bakanlığı'na bildirir; bakanlık onaylamamışsa karar yürürlüğe girmez",
+      "Kararı İçişleri Bakanlığı'na bildirir; bakanlık onaylamadığı sürece karar yürürlüğe girmez Bakanlık kararı kesin olup yargı denetimine tabi değildir",
       "Kararı yeniden görüşülmek üzere meclise iade eder; meclis kararında ısrar ederse karar kesinleşir ve başkan idare mahkemesine başvurabilir",
       "Kararı veto eder; meclisin 3/4 çoğunluğu kararı geçirirse yürürlüğe girer",
       "Kararı kaymakama bildirir; kaymakam gerekli gördüğünde Danıştay'a itiraz eder",
-      "Kararı doğrudan idare mahkemesine götürür, karar iptal edilene kadar askıya alınır"
+      "Kararı doğrudan idare mahkemesine götürür; karar iptal edilene kadar askıya alınır"
      ],
      "dogru": 1,
      "aciklama": "5393 sayılı Kanun'a göre belediye başkanı, hukuka aykırı gördüğü meclis kararını bir sonraki meclis toplantısında yeniden görüşülmek üzere meclise iade eder. Meclis kararında ısrar ederse (aynı kararı yeniden alırsa) karar kesinleşir ve başkan bu kararın iptali için idare mahkemesine başvurabilir. Kararın iptali için meclis kararının kesinleşmesi ön koşuldur; doğrudan mahkemeye gidilmez.",
@@ -291,7 +297,7 @@
       "Takdir yetkisinin hukuka aykırı kullanılması ancak açık ve belirgin bir hata hâlinde yargısal denetime konu olabilir; makul takdir alanı yargı dışındadır."
      ],
      "dogru": 0,
-     "aciklama": "Bağlı yetkide kanun, belirli koşullar gerçekleştiğinde idarenin ne yapacağını açıkça ve tek bir seçenek olarak belirlemiştir; idare bu durumda herhangi bir seçim hakkına sahip değildir. Takdir yetkisinde ise kanun idarenin hareket alanını çizer ancak bu alan içinde idarenin birden fazla seçeneği bulunmaktadır. Takdir yetkisi kullanılarak tesis edilen işlemler yargı denetimine tamamen kapalı değildir; yetki aşımı, amaç sapması veya açık takdir hatası hâllerinde yargısal denetim mümkündür. Bu nedenle C şıkkı doğrudur.",
+     "aciklama": "Bağlı yetkide kanun, koşullar oluştuğunda idarenin ne yapacağını ve işlemin içeriğini önceden belirler; idarenin seçim imkânı yoktur. Takdir yetkisinde ise kanun idareye, belirlediği sınırlar içinde işlem yapıp yapmama, zaman ve içerik bakımından seçim imkânı tanır. Takdir yetkisi yargı denetiminden bağışık değildir; yargı yerindelik denetimi yapamaz ama yetki, sebep, konu, şekil ve maksat yönünden hukuka uygunluğu denetler. Bu yüzden \"Takdir yetkisinin kullanıldığı durumlarda yargısal denetim mümkün değildir\" seçeneği yanlıştır. \"Bağlı yetkide idare işlem yapıp yapmama konusunda serbesttir\" seçeneği de kavramları tersine çevirir. Doğru cevap \"Bağlı yetkide kanun koşulların gerçekleşmesi hâlinde idarenin yapacağı işlemi ve içeriğini belirler\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -323,7 +329,7 @@
       "İlk tur oylamadan sonra TBMM, birinci gelen adayı Cumhurbaşkanı olarak onaylar."
      ],
      "dogru": 3,
-     "aciklama": "Anayasa'nın 101. maddesi gereğince: Cumhurbaşkanı seçiminde hiçbir aday ilk turda geçerli oyların salt çoğunluğunu alamazsa, ilk turdan sonraki on dördüncü gün en fazla oy alan iki aday arasında ikinci tur seçimi yapılır. İkinci turda en fazla oy alan aday Cumhurbaşkanı seçilir; bu turda salt çoğunluk aranmaz, göreli çoğunluk yeterlidir. Dolayısıyla A seçeneği doğrudur.",
+     "aciklama": "Anayasa'nın 101. maddesine göre Cumhurbaşkanı halk tarafından seçilir ve ilk turda geçerli oyların salt çoğunluğunu alan aday seçilmiş olur. Hiçbir aday salt çoğunluğu alamazsa ilk turu izleyen ikinci pazar günü ikinci tur yapılır. İkinci tura ilk turda en çok oy alan iki aday katılır. İkinci turda en fazla oyu alan aday Cumhurbaşkanı seçilir ve bu turda yeniden salt çoğunluk aranmaz. TBMM'nin seçime müdahalesi söz konusu değildir. \"En fazla oy alan iki aday arasında ikinci tur yapılır; ikinci turda da salt çoğunluk aranır.\" ifadesi yanlıştır, çünkü ikinci turda salt çoğunluk şartı yoktur. \"İlk tur oylamadan sonra TBMM, birinci gelen adayı Cumhurbaşkanı olarak onaylar.\" ifadesi de yanlıştır, çünkü seçimi halk yapar. Doğru cevap \"İlk iki aday arasında ikinci tur yapılır; en fazla oy alan Cumhurbaşkanı seçilir.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -339,7 +345,8 @@
       "Belediyeler, yurt içi ve yurt dışı kaynaklardan borçlanabilir."
      ],
      "dogru": 0,
-     "aciklama": "5393 sayılı Kanun'a göre belediyelerin borçlanması belli kurallara ve üst sınırlara tabidir. Örneğin belediyenin toplam borç stoku en son kesinleşmiş bütçe gelirlerinin belirli bir katını geçemez. Meclis kararı gerekli olmakla birlikte tek başına yeterli değildir; borçlanma miktarı ve türüne göre çeşitli sınırlamalar ve onay mercileri mevcuttur. Bu nedenle 'hiçbir üst sınıra tabi değildir' ifadesi yanlıştır."
+     "aciklama": "5393 sayılı Kanun'a göre belediyelerin borçlanması belli kurallara ve üst sınırlara tabidir. Örneğin belediyenin toplam borç stoku en son kesinleşmiş bütçe gelirlerinin belirli bir katını geçemez. Meclis kararı gerekli olmakla birlikte tek başına yeterli değildir; borçlanma miktarı ve türüne göre çeşitli sınırlamalar ve onay mercileri mevcuttur. Bu nedenle 'hiçbir üst sınıra tabi değildir' ifadesi yanlıştır.",
+     "zorluk": "orta"
     },
     {
      "id": "34171",
@@ -354,7 +361,8 @@
       "Kanunla yasaklanmış olan bir yayın, hâkim kararı aranmaksızın yayımlanmadan önce toplatılabilir."
      ],
      "dogru": 4,
-     "aciklama": "Anayasa'nın 30. maddesi uyarınca basın özgürlüğü kapsamında bir yayın, hâkim kararı olmaksızın önleyici tedbir niteliğinde toplatılamaz. Toplatma ancak yetkili hâkim kararıyla mümkündür; gecikmesinde sakınca bulunan hâllerde ise kanunla yetkili kılınmış merci bu yetkiyi kullanabilir ancak 24 saat içinde hâkim onayı gerekir. Hâkim kararı aranmaksızın yayın toplatmak anayasaya aykırıdır. Doğru cevap C seçeneğidir."
+     "aciklama": "Anayasa'nın 28. maddesi basının hür olduğunu ve sansür edilemeyeceğini hükme bağlar. Yayına önceden yapılan idari müdahale sansür yasağıyla bağdaşmaz. Toplatma gibi tedbirler de hâkim kararına bağlanmıştır. Bu kararın ancak gecikmesinde sakınca bulunan hâllerde, kanunla yetkili kılınan merci tarafından alınması mümkündür ve bu karar ardından hâkimin onayına sunulur. Dolayısıyla yayımlanmadan önce, hâkim kararı aranmaksızın toplatma yapılabileceğini söyleyen ifade Anayasa'ya aykırıdır. Devletin basın ve haber alma özgürlüklerini sağlayacak tedbirleri alması 28. maddede, cevap ve düzeltme hakkı ise 32. maddede yer alır. En çok karıştırılan \"Basın hürdür; sansür edilemez.\" ifadesi Anayasa metninin kendisidir, bu yüzden doğrudur. \"Devlet, basın ve haber alma özgürlüklerini sağlayacak tedbirleri alır.\" ifadesi de doğrudur. Doğru cevap \"Kanunla yasaklanmış olan bir yayın, hâkim kararı aranmaksızın yayımlanmadan önce toplatılabilir.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "34064",
@@ -369,7 +377,7 @@
       "40 yaş – yükseköğrenim görmüş olmak"
      ],
      "dogru": 4,
-     "aciklama": "Anayasa m.101'e göre Cumhurbaşkanı seçilebilmek için kırk yaşını doldurmuş ve yükseköğrenim yapmış olmak gerekir, bu da E şıkkıdır. Doğru cevap E) 40 yaş – yükseköğrenim görmüş olmak şeklindedir.",
+     "aciklama": "Anayasa m.101'e göre Cumhurbaşkanı seçilebilmek için kırk yaşını doldurmuş ve yükseköğrenim yapmış olmak gerekir, bu da “40 yaş – yükseköğrenim görmüş olmak” şıkkıdır. Doğru cevap 40 yaş – yükseköğrenim görmüş olmak şeklindedir.",
      "zorluk": "orta"
     },
     {
@@ -414,7 +422,7 @@
       "Hiyerarşik denetimde üst makam astın işlemlerini re'sen değiştirebilir, iptal edebilir ve ast yerine işlem tesis edebilir; idari vesayette ise vesayet makamının yetkileri kanunla sınırlıdır ve kural olarak vesayet makamı denetlenen makam yerine işlem tesis edemez.",
       "Vesayet makamı, denetlenen işlemi uygun bulmadığında her durumda re'sen iptal edebilir.",
       "İdari vesayet, merkezden yönetimin doğal sonucu iken hiyerarşik denetim yerinden yönetim birimlerine özgüdür.",
-      "Hiyerarşik denetim yalnızca işlemler üzerinde; idari vesayet ise hem işlemler hem de kişiler üzerinde uygulanır."
+      "Hiyerarşik denetim yalnızca işlemler üzerinde uygulanabilirken; idari vesayet hem işlemler hem de kişiler üzerinde uygulanabilir ve vesayet makamı ast yerine işlem tesis edebilir. Nitekim vesayet makamının yetkileri kanunla ayrıca sınırlandırılmamış olup genel nitelik taşır."
      ],
      "dogru": 1,
      "aciklama": "Hiyerarşik denetim, aynı tüzel kişilik içindeki üst-ast ilişkisine dayalıdır. Üst makam, astın işlemini re'sen iptal edebilir, değiştirebilir ve ast yerine bizzat işlem tesis edebilir. İdari vesayet ise farklı tüzel kişilikler (merkezi idare ile yerel yönetimler) arasındaki bir dış denetimdir. Vesayet makamının yetkileri kanunla açıkça belirlenmek zorundadır (Anayasa m.127) ve vesayet makamı kural olarak denetlenen makam yerine işlem yapamaz; yalnızca onaylama, erteleme veya iptal için yargıya başvurma gibi sınırlı yetkiler kullanabilir. Doğru yanıt B'dir.",
@@ -433,7 +441,8 @@
       "Çekimser oy, yalnızca geçici üyeler için mümkün olup daimi üyeler ret ya da kabul oyu kullanmak zorundadır."
      ],
      "dogru": 3,
-     "aciklama": "BM Şartı'nın 27. maddesi, esasa ilişkin kararlarda beş daimi üyenin 'olumlu oylarını' şart koşar. Ancak BM'nin kuruluşundan bu yana yerleşen yoruma göre daimi üyenin çekimser oy kullanması veto sayılmamaktadır. Bu uygulama antlaşma metni dışında gelişmiş ve Uluslararası Adalet Divanı içtihadıyla da doğrulanmıştır. Dolayısıyla daimi üyeler ret oyu kullanmadan çekimser kalarak karar alınmasına fiilî olarak izin verebilmektedir."
+     "aciklama": "BM Şartı'nın 27. maddesi, esasa ilişkin kararlarda beş daimi üyenin 'olumlu oylarını' şart koşar. Ancak BM'nin kuruluşundan bu yana yerleşen yoruma göre daimi üyenin çekimser oy kullanması veto sayılmamaktadır. Bu uygulama antlaşma metni dışında gelişmiş ve Uluslararası Adalet Divanı içtihadıyla da doğrulanmıştır. Dolayısıyla daimi üyeler ret oyu kullanmadan çekimser kalarak karar alınmasına fiilî olarak izin verebilmektedir.",
+     "zorluk": "orta"
     },
     {
      "id": "34416",
@@ -448,7 +457,7 @@
       "Anayasa – kanun – tüzük – Cumhurbaşkanlığı kararnamesi – yönetmelik"
      ],
      "dogru": 1,
-     "aciklama": "2017 değişiklikleriyle tüzük (nizamname) kaldırılmıştır; artık Türk hukukunda tüzük çıkarılamamaktadır. Güncel hiyerarşi: Anayasa → Kanun → Cumhurbaşkanlığı kararnamesi → Yönetmelik → Genelge/Tebliğ/Sirküler şeklindedir. A ve D seçeneklerinde tüzüğe yer verilmesi hatalıdır; B'de kanun ile Cumhurbaşkanlığı kararnamesi yer değiştirmiştir ki bu da hatalıdır. Doğru hiyerarşi C'dir.",
+     "aciklama": "2017 değişikliğinden sonra tüzük kaldırılmış, yürütmenin düzenleyici işlemleri Cumhurbaşkanlığı kararnamesi, yönetmelik ve genelge olarak şekillenmiştir. Kanun bu işlemlerin üstündedir. Cumhurbaşkanlığı kararnamesi kanunun açıkça düzenlediği alanlarda çıkarılamaz. Yönetmelik kanun ve kararnameye dayanarak çıkarılır, genelge ise kural olarak idare içi bir işlemdir ve en altta yer alır. Bu nedenle sıralama kanun, Cumhurbaşkanlığı kararnamesi, yönetmelik, genelge şeklindedir. \"Kanun – tüzük – Cumhurbaşkanlığı kararnamesi – yönetmelik\" sıralaması yanlıştır, çünkü tüzük artık düzenleyici işlem türü olarak yer almaz. \"Cumhurbaşkanlığı kararnamesi – kanun – yönetmelik – genelge\" sıralaması da kanunu kararnamenin altına koyduğu için yanlıştır. Doğru cevap \"Kanun – Cumhurbaşkanlığı kararnamesi – yönetmelik – genelge\" seçeneğidir.",
      "zorluk": "zor"
     },
     {

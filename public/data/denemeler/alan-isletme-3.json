@@ -25,7 +25,7 @@
       "Performansın ödüle dönüşüp dönüşmeyeceğinin araçsallık algısına bağlı olması"
      ],
      "dogru": 1,
-     "aciklama": "Porter-Lawler modelinde tatmin; performans → ödül → algılanan adil ödül zinciriyle oluşur. Çalışan yüksek performans sergilese bile, aldığı ödülleri (içsel: başarı duygusu; dışsal: maaş, terfi) hak ettiği düzeyde algılamazsa tatmin gerçekleşmez. Bu nedenle 'ödüllerin algılanan eşitliği' en belirleyici ve kapsamlı ara değişkendir. Diğer seçenekler modelin parçalarını doğru tanımlasa da sorulan 'neden tatmin garantilenemez?' sorusuna en bütünlüklü yanıtı B seçeneği verir.",
+     "aciklama": "Porter-Lawler modelinde tatmin, performansın kendisinden değil, kişinin elde ettiği ödüllerin kendi gözünde adil olup olmadığından doğar. Performans sonucunda alınan içsel ve dışsal ödüller, algılanan adil ödül düzeyiyle karşılaştırılır; fark varsa yüksek performansa rağmen tatmin düşük kalabilir. Bu da performans-tatmin ilişkisinin doğrudan olmadığını en kapsamlı biçimde açıklar. \"Tatminin ileriki çabaları etkileyerek döngüsel bir süreç oluşturması\" seçeneği modelin doğru bir özelliğidir; ancak yüksek performansın neden tatmini garanti etmediğini açıklamaz. \"Performansın ödüle dönüşüp dönüşmeyeceğinin araçsallık algısına bağlı olması\" seçeneği ise çaba ve performans aşamasına ilişkin bir açıklamadır; tatmin aşamasındaki asıl belirleyiciyi vermez. Doğru cevap \"İçsel ve dışsal ödüllerin algılanan eşitliğinin tatmin üzerinde belirleyici rol oynaması\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -41,7 +41,8 @@
       "Şirketin ürün veya hizmetini satın alan son kullanıcı"
      ],
      "dogru": 1,
-     "aciklama": "İç müşteri kavramı, toplam kalite yönetimi ve stratejik insan kaynakları yönetimi anlayışının bir uzantısıdır. İnsan kaynakları departmanı açısından iç müşteri, IKY hizmetlerini kullanan işletme içindeki diğer departmanlar, yöneticiler ve çalışanlardır. Bu anlayışa göre IKY, dış müşteriye değer yaratan hizmetleri sunan iç paydaşlara (iç müşterilere) kaliteli destek sunmakla yükümlüdür. İç müşteri memnuniyeti, dolaylı olarak dış müşteri memnuniyetini ve işletme performansını etkiler."
+     "aciklama": "İç müşteri kavramı, toplam kalite yönetimi ve stratejik insan kaynakları yönetimi anlayışının bir uzantısıdır. İnsan kaynakları departmanı açısından iç müşteri, IKY hizmetlerini kullanan işletme içindeki diğer departmanlar, yöneticiler ve çalışanlardır. Bu anlayışa göre IKY, dış müşteriye değer yaratan hizmetleri sunan iç paydaşlara (iç müşterilere) kaliteli destek sunmakla yükümlüdür. İç müşteri memnuniyeti, dolaylı olarak dış müşteri memnuniyetini ve işletme performansını etkiler.",
+     "zorluk": "orta"
     },
     {
      "id": "52147",
@@ -72,7 +73,8 @@
       "121.000 TL"
      ],
      "dogru": 1,
-     "aciklama": "Bugünkü değer = Gelecekteki değer / (1 + faiz oranı)^n = 133.100 / (1,10)^3 = 133.100 / 1,331 = 100.000 TL. Paranın zaman değerinde bileşik iskonto hesabının doğru uygulanması bu soruyu çözmek için yeterlidir. Sık yapılan hata, basit faiz iskontosunun kullanılmasıdır."
+     "aciklama": "Bugünkü değer = Gelecekteki değer / (1 + faiz oranı)^n = 133.100 / (1,10)^3 = 133.100 / 1,331 = 100.000 TL. Paranın zaman değerinde bileşik iskonto hesabının doğru uygulanması bu soruyu çözmek için yeterlidir. Sık yapılan hata, basit faiz iskontosunun kullanılmasıdır.",
+     "zorluk": "orta"
     },
     {
      "id": "52327",
@@ -87,7 +89,7 @@
       "Maksimum fiyat 170 TL'dir; diferansiyasyon değerinin yarısı müşteriye paylaştırılmalıdır"
      ],
      "dogru": 2,
-     "aciklama": "EVC (Economic Value to the Customer) analizi: EVC = Rakip referans fiyatı + Diferansiyasyon değeri = 150 + 70 = 220 TL. Bu, ürünün teorik olarak talep edebileceği maksimum üst sınırı verir; çünkü müşteri bu fiyata kadar rakipe kıyasla ekonomik olarak kayıptan korunmuş olur. Ancak WTP (ödeme isteği) 200 TL olarak belirlenmiştir ve bu psikolojik/davranışsal bir kısıttır. EVC 220 TL olsa da müşteri 200 TL'nin üzerini ödemeye yanaşmayacağından gerçek maksimum fiyat 200 TL olur. Doğru analiz: EVC teorik tavanı 220 TL, WTP pratik tavanı 200 TL, dolayısıyla bağlayıcı kısıt WTP'dir ve uygulanabilir maksimum fiyat 200 TL'dir. C seçeneği her iki değeri de doğru hesaplayıp doğru yorumlamaktadır. B seçeneğinde WTP'nin göz ardı edilmesi pratik bir hata olur.",
+     "aciklama": "Değere dayalı fiyatlamada ekonomik değer müşteriye (EVC), referans (rakip) fiyatı ile diferansiyasyon değerinin toplamıdır: 150 + 70 = 220 TL. Ancak hedef müşterinin ödemeye razı olduğu maksimum tutar (WTP) 200 TL'dir. Müşteri 200 TL'nin üzerinde ödemeyi kabul etmeyeceğinden uygulanabilecek en yüksek fiyat, bağlayıcı olan sınır yani 200 TL olur. Bu nedenle EVC hesabı tek başına yeterli değildir; WTP kısıtı da dikkate alınmalıdır. \"Maksimum fiyat 220 TL'dir; EVC = rakip fiyat + diferansiyasyon değeri formülüyle hesaplanır ve WTP'den bağımsızdır\" seçeneği yanlıştır, çünkü fiyat müşterinin ödeme istekliliğini aşamaz. \"Maksimum fiyat 150 TL'dir; rakip fiyatının üzerine çıkmak pazar payını riske atar\" seçeneği de yanlıştır, çünkü ürün 70 TL'lik ek değer sağladığı için rakip fiyatının üzerine çıkmak savunulabilir. Doğru cevap \"Maksimum fiyat 200 TL'dir; EVC = 150+70 = 220 TL olmakla birlikte WTP kısıtı bağlayıcıdır\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -119,7 +121,7 @@
       "CIT davranış odaklıdır, nitel veri üretir ve seçim/eğitim kriterlerinin belirlenmesinde güçlüdür; PAQ işgören odaklıdır, nicel/yapılandırılmış veriyle farklı işleri karşılaştırma ve ücret yapılandırmada üstündür"
      ],
      "dogru": 4,
-     "aciklama": "CIT (Flanagan, 1954): Gözlemcilerden son derece başarılı veya başarısız davranış örnekleri toplanır. Nitel, davranış odaklı, subjektif ama zengin veri sağlar. Eğitim ihtiyacı analizi, performans kriteri geliştirme ve seçim süreçleri için güçlüdür. PAQ (McCormick): 195 standart madde içeren yapılandırılmış anket; işgören (worker-oriented) odaklıdır. Nicel skor üretir, farklı işleri karşılaştırmaya ve punta (benchmark) ücret yapılandırmaya olanak tanır. B şıkkı bu ayrımı doğru biçimde özetlemektedir. A ve D yöntemlerin odağını ve veri türünü tam tersine çevirmektedir.",
+     "aciklama": "Kritik olay tekniği, çalışanların ve yöneticilerin etkili ya da etkisiz bulunan somut davranış örneklerini anlatmasına dayanır; bu nedenle davranış odaklıdır ve nitel veri üretir. Elde edilen davranışlar seçim ve eğitim kriterlerinin belirlenmesinde işe yarar. Pozisyon analizi anketi ise standart maddelerle işin insan davranışı boyutlarını puanlayan, işgören odaklı yapılandırılmış bir ankettir. Nicel puanlar sayesinde farklı işler karşılaştırılabilir ve ücret yapılandırmada kullanılabilir. \"CIT iş odaklıdır ve nicel veri üretir; PAQ işgören odaklıdır ve nitel veri üretir\" seçeneği, niteliklerin yerini değiştirdiği için yanlıştır. \"PAQ nitel hikâye anlatımına dayalıdır; CIT ise standart maddeler içeren bir ankettir\" seçeneği de iki yöntemi birbiriyle karıştırmaktadır. Doğru cevap \"CIT davranış odaklıdır, nitel veri üretir ve seçim/eğitim kriterlerinin belirlenmesinde güçlüdür\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -150,8 +152,9 @@
       "19.200 birim",
       "24.000 birim"
      ],
-     "dogru": 4,
-     "aciklama": "Hedef kâr = Satış Geliri × %25 = 50Q × 0,25 = 12,5Q. Kâr = Toplam Gelir - Toplam Maliyet = 50Q - 30Q - 240.000. Hedef: 20Q - 240.000 = 12,5Q → 7,5Q = 240.000 → Q = 32.000 birim. Kontrol: Satış = 1.600.000, VC = 960.000, Sabit = 240.000, Kâr = 400.000, Kâr Marjı = 400.000/1.600.000 = %25. ✓"
+     "dogru": 1,
+     "aciklama": "20Q-240.000=0,25·50Q → 7,5Q=240.000 → Q=32.000 birim. Doğru cevap 32.000 birim şeklindedir.",
+     "zorluk": "orta"
     },
     {
      "id": "52265",
@@ -198,7 +201,8 @@
       "Çalışanın işletmede kalmak için başka seçeneği olmadığını düşünmesi nedeniyle devam etmesi"
      ],
      "dogru": 0,
-     "aciklama": "Allen ve Meyer'in üç boyutlu bağlılık modelinde; duygusal bağlılık (affective commitment) çalışanın işletmeyle duygusal özdeşleşmesi ve orada kalmak istemesi; devam bağlılığı (continuance commitment) örgütten ayrılmanın maliyetlerinin yüksekliği nedeniyle kalmak zorunda hissetmek; normatif bağlılık (normative commitment) ise işletmeye karşı bir yükümlülük veya ahlaki borç hissiyle kalma zorunluluğu duymak olarak tanımlanır. Normatif bağlılığın temelinde genellikle kurum tarafından yapılan yatırımlar (eğitim bursu, kariyer yatırımı) karşılığında duyulan minnettarlık ve yükümlülük duygusu yatmaktadır."
+     "aciklama": "Allen ve Meyer'in üç boyutlu bağlılık modelinde; duygusal bağlılık (affective commitment) çalışanın işletmeyle duygusal özdeşleşmesi ve orada kalmak istemesi; devam bağlılığı (continuance commitment) örgütten ayrılmanın maliyetlerinin yüksekliği nedeniyle kalmak zorunda hissetmek; normatif bağlılık (normative commitment) ise işletmeye karşı bir yükümlülük veya ahlaki borç hissiyle kalma zorunluluğu duymak olarak tanımlanır. Normatif bağlılığın temelinde genellikle kurum tarafından yapılan yatırımlar (eğitim bursu, kariyer yatırımı) karşılığında duyulan minnettarlık ve yükümlülük duygusu yatmaktadır.",
+     "zorluk": "orta"
     },
     {
      "id": "52175",
@@ -210,10 +214,11 @@
       "Kritik yol, projede en kısa süreyi gösteren yoldur.",
       "PERT'ten farklı olarak CPM yalnızca olasılıksal süre tahminleri kullanır.",
       "Kritik yol üzerindeki herhangi bir faaliyetin gecikmesi projenin tamamlanma süresini uzatır.",
-      "Kritik yol üzerindeki faaliyetlerin toplam boş zamanı (float) sıfırdan büyüktür."
+      "Kritik yol üzerinde yer alan faaliyetlerin toplam boş zamanı (float) her zaman sıfırdan büyüktür."
      ],
      "dogru": 3,
-     "aciklama": "Kritik yol, projenin başından sonuna uzanan ve toplam float'ı sıfır olan en uzun yoldur. Kritik yol üzerindeki herhangi bir faaliyetin gecikmesi doğrudan projenin bitiş tarihini erteler. Diğer şıklar yanlıştır: Kritik yoldaki faaliyetlerin float'ı sıfırdır; kritik yol en uzun yoldur, en kısa değil; CPM deterministik süre tahminleri kullanırken PERT olasılıksal kullanır; CPM her sektörde uygulanabilir."
+     "aciklama": "Kritik yol, projenin başından sonuna uzanan ve toplam float'ı sıfır olan en uzun yoldur. Kritik yol üzerindeki herhangi bir faaliyetin gecikmesi doğrudan projenin bitiş tarihini erteler. Diğer şıklar yanlıştır: Kritik yoldaki faaliyetlerin float'ı sıfırdır; kritik yol en uzun yoldur, en kısa değil; CPM deterministik süre tahminleri kullanırken PERT olasılıksal kullanır; CPM her sektörde uygulanabilir.",
+     "zorluk": "orta"
     },
     {
      "id": "52334",
@@ -244,7 +249,8 @@
       "Paketleme, Konumlandırma, Performans"
      ],
      "dogru": 1,
-     "aciklama": "Klasik pazarlama karması 4P: Ürün (Product), Fiyat (Price), Dağıtım (Place), Tutundurma (Promotion). Hizmetlerin soyutluk, ayrılmazlık, değişkenlik ve dayanıksızlık gibi kendine özgü özellikleri nedeniyle hizmet pazarlamasında üç unsur daha eklenmiştir: People (İnsanlar – hizmet sunan personel), Process (Süreç – hizmetin sunulma biçimi) ve Physical Evidence (Fiziksel Kanıtlar – fiziksel ortam ve görsel unsurlar). Bu modele 7P modeli denir."
+     "aciklama": "Klasik pazarlama karması 4P: Ürün (Product), Fiyat (Price), Dağıtım (Place), Tutundurma (Promotion). Hizmetlerin soyutluk, ayrılmazlık, değişkenlik ve dayanıksızlık gibi kendine özgü özellikleri nedeniyle hizmet pazarlamasında üç unsur daha eklenmiştir: People (İnsanlar – hizmet sunan personel), Process (Süreç – hizmetin sunulma biçimi) ve Physical Evidence (Fiziksel Kanıtlar – fiziksel ortam ve görsel unsurlar). Bu modele 7P modeli denir.",
+     "zorluk": "orta"
     },
     {
      "id": "52001",
@@ -271,8 +277,8 @@
       "İş tanımlarını basitleştirmek",
       "İşgücü maliyetlerini azaltmak",
       "Çalışanların farklı alanlarda deneyim kazanarak çok yönlü hale gelmesini sağlamak",
-      "Çalışanın tek bir alanda uzmanlaşmasını sağlamak",
-      "Performans değerlendirme sürecini kolaylaştırmak"
+      "Çalışanın tek bir alanda derinlemesine uzmanlaşmasını sağlamak",
+      "Performans değerlendirme sürecini kolaylaştırmak ve standartlaştırmak ile ücret sistemini basitleştirmek"
      ],
      "dogru": 2,
      "aciklama": "İş rotasyonu, çalışanın belirli aralıklarla farklı görev veya departmanlara geçirilmesi esasına dayanır. Bu yöntem çalışanın çok yönlü beceri kazanmasını, monotonluktan uzaklaşmasını ve işletmenin esnek bir iş gücüne sahip olmasını sağlar.",
@@ -307,7 +313,8 @@
       "%36,8"
      ],
      "dogru": 1,
-     "aciklama": "Du Pont Modeli: ROE = Net Kâr Marjı × Varlık Devir Hızı × Finansal Kaldıraç Çarpanı. ROE = %8 × 2,5 × 1,6 = 0,08 × 2,5 × 1,6 = 0,32 = %32. Bu model ROE'yi üç bileşene ayırarak kârlılığın kaynağını (operasyonel verimlilik, varlık kullanımı, finansal kaldıraç) analiz etmeye imkân tanır."
+     "aciklama": "Du Pont Modeli: ROE = Net Kâr Marjı × Varlık Devir Hızı × Finansal Kaldıraç Çarpanı. ROE = %8 × 2,5 × 1,6 = 0,08 × 2,5 × 1,6 = 0,32 = %32. Bu model ROE'yi üç bileşene ayırarak kârlılığın kaynağını (operasyonel verimlilik, varlık kullanımı, finansal kaldıraç) analiz etmeye imkân tanır.",
+     "zorluk": "orta"
     },
     {
      "id": "52299",
@@ -350,8 +357,8 @@
       "Bu uygulama yasal olarak serbesttir; tarafların anlaşması yeterlidir",
       "Yıllık izin hakkının nakde çevrilmesi, ancak iş sözleşmesinin sona ermesi halinde mümkündür; aksi uygulama yasaya aykırıdır",
       "İzin ücreti ödemesi geçerlidir ancak çalışan yine de izni kullanma hakkını korur",
-      "İzin nakde çevrilebilir ancak bu durumda ödeme miktarı %50 fazlasıyla yapılmak zorundadır",
-      "Sendika üyesi işçiler için yasak, sendika üyesi olmayan işçiler için serbest bir uygulamadır"
+      "İzin nakde çevrilebilir; ancak bu durumda ödeme %50 fazlasıyla yapılmak zorundadır",
+      "Sendika üyesi işçiler için yasak, sendika üyesi olmayan işçiler için ise serbest bir uygulamadır Bu ayrım toplu iş sözleşmesiyle belirlenir."
      ],
      "dogru": 1,
      "aciklama": "4857 sayılı İş Kanunu'nun 59. maddesi açıkça düzenlemiştir: Yıllık ücretli izin hakkı, iş sözleşmesi devam ederken nakit ödemeye dönüştürülemez. Bu hak ancak ve ancak iş sözleşmesinin herhangi bir nedenle sona ermesi durumunda, kullanılmayan izin günleri ücreti olarak ödenir. Bunun gerekçesi, izin hakkının çalışanın dinlenme ve sağlık hakkı kapsamında değerlendirilen, vazgeçilemeyen bir sosyal hak olmasıdır. İş sözleşmesi sürerken izni nakde çeviren işveren idari para cezasıyla karşılaşır.",
@@ -369,8 +376,8 @@
       "60 TL",
       "48 TL"
      ],
-     "dogru": 3,
-     "aciklama": "Taguchi kayıp fonksiyonu: L(y) = k(y - T)² formülüne göre önce k katsayısı bulunur. Tolerans sınırında (y = 55 mm, sapma = 5 mm) kayıp = 200 TL: 200 = k × 5² = 25k → k = 8. Ürün ölçüsü 53 mm, sapma = 53 - 50 = 3 mm. L(53) = k × 3² = 8 × 9 = 72 TL. Doğru yanıt E'dir.",
+     "dogru": 1,
+     "aciklama": "Taguchi kayıp fonksiyonu: L(y) = k(y - T)² formülüne göre önce k katsayısı bulunur. Tolerans sınırında (y = 55 mm, sapma = 5 mm) kayıp = 200 TL: 200 = k × 5² = 25k → k = 8. Ürün ölçüsü 53 mm, sapma = 53 - 50 = 3 mm. L(53) = k × 3² = 8 × 9 = 72 TL. Doğru cevap 72 TL şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -386,7 +393,7 @@
       "Proje B seçilmeli; NBD daha yüksek olduğundan mutlak değer yaratımı daha fazladır."
      ],
      "dogru": 4,
-     "aciklama": "Birbirini dışlayan projeler arasında seçimde NBD yöntemi teorik olarak İVO'ya göre üstündür. Proje A: NBD=120.000 TL, PI=120.000/600.000=0,20 (ya da 1,20). Proje B: NBD=180.000 TL, PI=180.000/1.200.000=0,15 (ya da 1,15). NBD kriteri: Proje B (180.000 > 120.000). Karlılık endeksi: Proje A daha iyi. İVO: Proje A (%18 > %15). Ancak doğru karar B şıkkıyla D şıkkı arasındadır. D şıkkının mantığı: Artımsal yatırım 600.000 TL için artımsal NBD = 180.000-120.000 = 60.000 TL > 0 olduğundan artımsal İVO hurdle rate'i (%12) aşar ve B projesi seçilir. Bu analiz hem NBD hem İVO uyumunu sağlar. Teorik olarak en doğru cevap B'dir: Birbirini dışlayan projeler arasında NBD maksimizasyonu temel kuraldır ve Proje B daha fazla mutlak değer yaratır. Doğru cevap B'dir.",
+     "aciklama": "Birbirini dışlayan projelerde temel karar ölçütü net bugünkü değerdir (NBD). NBD, işletmeye sermaye maliyetinin üzerinde yaratılan mutlak değeri gösterir ve hissedar servetini en çok artıran projeyi seçtirir. Proje B'nin NBD'si 180.000 TL, Proje A'nınki 120.000 TL'dir; bu nedenle B seçilir. Artımsal İVO yaklaşımı aynı sonuca ulaştırabilir, ancak NBD'den türetilen yardımcı bir yöntemdir. Artımsal nakit akışları da verilmediği için doğrudan hesaplanamaz ve geleneksel akış varsayımına bağlıdır. Bu yüzden sorunun istediği temel gerekçe değildir. \"Proje A seçilmeli; İVO daha yüksek olduğundan getiri oranı üstündür.\" seçeneği yanlıştır, çünkü ölçek farkı olan projelerde İVO yanıltıcıdır ve yeniden yatırım varsayımı sorunludur. Karlılık endeksine dayanan gerekçe ise yalnızca sermaye kısıtı varsa geçerlidir. Doğru cevap \"Proje B seçilmeli; NBD daha yüksek olduğundan mutlak değer yaratımı daha fazladır.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -401,8 +408,8 @@
       "Maliyet artı fiyatlama ile bulunan fiyat, algılanan değer sınırını aşmaktadır; strateji revize edilmelidir",
       "Hedef kâr marjı elde etmek için satış hacminin artırılması yeterlidir"
      ],
-     "dogru": 2,
-     "aciklama": "Önce maliyet artı fiyatlamayı hesaplayalım: Birim sabit maliyet = 2.000.000 / 50.000 = 40 TL. Toplam birim maliyet = 80 + 40 = 120 TL. %25 kâr marjı için fiyat = 120 / (1 - 0,25) = 160 TL. Ancak bu hesaplama yanlış kurgulanmış; doğru maliyet artı fiyatlama: 120 × 1,25 = 150 TL. Her iki hesaplamada da fiyat 120 TL'nin üzerindedir. Sorunun mantığına göre: Birim toplam maliyet = 120 TL, hedef fiyat = 120 × 1,25 = 150 TL. Bu fiyat, tüketicilerin 'pahalı' eşiği olan 120 TL'yi aşmaktadır. Bu nedenle doğru cevap B'dir. Ancak A seçeneği 'fiyat sınırının altında' demektedir; bu yanlıştır. Doğru yanıt B'dir: Maliyet artı yöntemle ulaşılan fiyat (150 TL) tüketici algı eşiğini (120 TL) aşmaktadır, dolayısıyla işletme maliyet düşürme, hacim artırma veya değer iletişimini güçlendirme gibi alternatif stratejileri değerlendirmelidir. (Not: Soru 'answer:0' formatında A=0 olduğundan şık sıralamasına göre B=1'dir.)",
+     "dogru": 3,
+     "aciklama": "Birim maliyet 80 + (2.000.000/50.000) = 120 TL olup %25 marjla fiyat 150-160 TL'ye çıkar, yani 120 TL'lik algı sınırını aşar. Doğru cevap “Maliyet artı fiyatlama ile bulunan fiyat, algılanan değer sınırını aşmaktadır; strateji…” seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -427,7 +434,7 @@
      "konuId": "i_nsan_kaynaklari",
      "soru": "Bir insan kaynakları uzmanı, işe alım sürecinde yapılandırılmamış mülakatın geçerlilik katsayısını (.20) ve yapılandırılmış davranışsal mülakatın geçerlilik katsayısını (.51) karşılaştırmaktadır. Bu farkın temel metodolojik nedeni hangisidir?",
      "secenekler": [
-      "Yapılandırılmış mülakatlarda değerlendirmeci sayısı daha fazla olduğundan güvenilirlik artar ve geçerliliği doğrudan yükseltir.",
+      "Yapılandırılmış mülakatlarda değerlendirmeci sayısı daha fazla olduğundan güvenilirlik kendiliğinden artar ve bu artış geçerliliği doğrudan yükseltir. Soru standardizasyonunun bu artışta bir payı bulunmaz.",
       "Yapılandırılmış mülakatlarda standartlaştırılmış sorular, puanlama rubriği ve değerlendirmeciler arası güvenilirlik artışı, ölçüm hatasını azaltarak kritere geçerliliği yükseltir.",
       "Her iki yöntem de eşit geçerliliğe sahiptir; fark yalnızca sektörel değişkenlerden kaynaklanır.",
       "Yapılandırılmamış mülakatlar yalnızca kişilik özelliklerini ölçerken yapılandırılmış mülakatlar zihinsel yetenekleri ölçer.",
@@ -450,7 +457,7 @@
       "%84 ve %16"
      ],
      "dogru": 2,
-     "aciklama": "Denge Etkinliği = Toplam iş süresi / (İstasyon sayısı × Çevrim süresi) = 38 / (5 × 10) = 38/50 = 0,76 = %76. Atıl zaman oranı = 1 - 0,76 = 0,24 = %24. Atıl zaman (mutlak) = 50 - 38 = 12 dakika. İstasyon başına ortalama atıl zaman = 12/5 = 2,4 dakika. Doğru yanıt A'dır.",
+     "aciklama": "Denge Etkinliği = Toplam iş süresi / (İstasyon sayısı × Çevrim süresi) = 38 / (5 × 10) = 38/50 = 0,76 = %76. Atıl zaman oranı = 1 - 0,76 = 0,24 = %24. Atıl zaman (mutlak) = 50 - 38 = 12 dakika. İstasyon başına ortalama atıl zaman = 12/5 = 2,4 dakika. Doğru cevap: «%76 ve %24».",
      "zorluk": "zor"
     },
     {
@@ -466,7 +473,7 @@
       "Kamuya açık finansal tabloları analiz ederek değeri düşük hisse senetlerini belirlemek"
      ],
      "dogru": 1,
-     "aciklama": "Etkin Piyasalar Hipotezi'nin üç formu vardır: Zayıf form (geçmiş fiyat bilgisi fiyatlara yansımıştır → teknik analiz işe yaramaz), Yarı-güçlü form (kamuya açık tüm bilgiler fiyatlara yansımıştır → temel analiz, F/K oranları, temettü verimi gibi kamuya açık verilerle anormal getiri elde edilemez), Güçlü form (içeriden bilgi dahil tüm bilgiler yansımıştır). Yarı-güçlü formda A, B, D ve E şıkları anormal getiri sağlayamaz çünkü bunlar kamuya açık bilgiye dayanır. Sadece C şıkkındaki içeriden bilgi (insider trading) yarı-güçlü formda henüz fiyatlara yansımadığından teorik olarak anormal getiri sağlayabilir; ancak bu yasal açıdan yasaktır. Doğru cevap C'dir.",
+     "aciklama": "Yarı-güçlü formda fiyatlar kamuya açık tüm bilgiyi zaten yansıtır. Bu yüzden F/K, temettü verimi, finansal tablolar veya geçmiş fiyat hareketleri gibi herkesin erişebildiği verilerle sürekli üstün getiri sağlanamaz. Yalnızca kamuya açıklanmamış, yani içsel bilgi fiyatlara yansımadığı için bu bilgiye dayanarak işlem yapan kişi piyasayı yenebilir. Bu, yarı-güçlü formun kapsamı dışında kalır. Ancak içeriden öğrenenlerin ticareti yasa dışıdır. \"Kamuya açık finansal tabloları analiz ederek değeri düşük hisse senetlerini belirlemek\" temel analizdir ve yarı-güçlü formda sürekli üstün getiri sağlamaz. \"Teknik analiz yöntemiyle geçmiş fiyat hareketlerini incelemek\" de geçmiş fiyat bilgisine dayandığı için aynı şekilde sonuçsuz kalır. Doğru cevap \"Henüz kamuoyuna açıklanmamış birleşme bilgisine dayanarak işlem yapmak\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -479,7 +486,7 @@
       "Tüketici farkındalık araştırması yapılarak reklam etkinliği ölçülmelidir",
       "Satış ekibi ile reklam harcamalarının sinerjisi modellenmelidir",
       "Mevcut harcama seviyesinin S eğrisindeki tam konumu ve marjinal getiri değişimi belirlenmelidir",
-      "Rakiplerin reklam/satış oranları karşılaştırmalı olarak analiz edilmelidir"
+      "Rakiplerin reklam/satış oranları karşılaştırmalı biçimde analiz edilmelidir ve sektör ortalamasıyla kıyaslanmalıdır"
      ],
      "dogru": 3,
      "aciklama": "S eğrisi modelinde reklam harcaması üç bölgede değerlendirilir: düşük harcama bölgesinde (artan getiri), orta bölgede (en yüksek marjinal getiri) ve yüksek harcama bölgesinde (azalan getiri). İşletme azalan getiri bölgesinde olduğunu söylüyor; ancak bu bilgi tek başına yeterli değildir. Azalan getirinin 'ne kadar' azaldığı ve marjinal getirinin hâlâ pozitif mi olduğu (yani bütçe kesmek mi yoksa korumak mı gerektiği) belirleyicidir. Eğer marjinal getiri hâlâ pozitifse bütçe kesmek mantıksız, eğer sıfıra yaklaşmışsa kesim doğrudur. Bu nedenle S eğrisindeki tam konumun ve marjinal getiri değişiminin modellenmesi öncelikli analizdir. Diğer seçenekler (rakip karşılaştırması, farkındalık araştırması) ikincil değerlendirmelerdir ve yatırım kararının temel mantığını açıklamaz.",
@@ -494,11 +501,11 @@
       "Sonuçların farklılaşması tesadüfidir; yeterli örneklem genişledikçe başarı oranı dengelenecektir",
       "Yetki devri başarısız olmuştur çünkü klinik yöneticileri yeterince eğitilmemiştir",
       "Ademi merkeziyetçiliğin başarısı yöneticilerin kapasite ve hesap verebilirlik mekanizmalarıyla birleştiğinde ortaya çıkar; tek başına yetki devri yeterli değildir",
-      "Hastane gibi profesyonel bürokratik yapılarda ademi merkeziyetçilik yapısal olarak uyumsuz bir modeldir",
+      "Hastane gibi profesyonel bürokratik yapılarda ademi merkeziyetçilik yapısal olarak uyumsuz bir model olduğundan sonuç baştan öngörülebilirdi ve bu nedenle uygulamadan vazgeçilmelidir",
       "Ademi merkeziyetçilik her zaman verimsizliğe yol açar; merkezi yapıya dönülmelidir"
      ],
      "dogru": 2,
-     "aciklama": "Ademi merkeziyetçilik (decentralization) literatüründe yetki devrinin başarısı; yöneticilerin yetkinliği, uygun hesap verebilirlik sistemleri (performans ölçümü, raporlama), bilgi asimetrisi düzeyi ve teşvik yapısıyla doğrudan ilişkilidir. Yalnızca yetki devretmek, bu destekleyici mekanizmalar olmadan hem israf hem de başarı üretebilir; nitekim bu örnekte de her ikisi aynı anda gerçekleşmiştir. Bu durum 'ya tamamen merkezi ya tamamen özerk' gibi ikili bir sonuç değil, koşullu başarıyı göstermektedir. A yanlış genellemedir; B kısmi açıklamadır; D ampirik dayanaktan yoksundur; E ise Mintzberg'e göre hatalıdır zira profesyonel bürokrasilerde operatif çekirdek zaten geniş özerkliğe sahiptir.",
+     "aciklama": "Yetki devri, kararların daha hızlı ve yerel bilgiye dayalı alınmasını sağlar; ancak sonuçlar klinik yöneticilerinin kapasitesine ve karar sonuçlarının izlenip hesap sorulmasına bağlıdır. Bu nedenle bazı kliniklerin israf yapması, bazılarının başarılı olması bu iki koşulun klinikler arasında farklı düzeyde sağlanmasıyla açıklanır. \"Ademi merkeziyetçilik her zaman verimsizliğe yol açar; merkezi yapıya dönülmelidir\" seçeneği, karışık sonuçları tek yönlü ve genelleyici biçimde yorumladığı için yanlıştır. \"Yetki devri başarısız olmuştur çünkü klinik yöneticileri yeterince eğitilmemiştir\" seçeneği ise yalnızca eğitim eksikliğine odaklanır ve başarılı klinikleri ile hesap verebilirlik boyutunu açıklamaz. Doğru cevap \"Ademi merkeziyetçiliğin başarısı yöneticilerin kapasite ve hesap verebilirlik mekanizmalarıyla birleştiğinde ortaya çıkar\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -507,7 +514,7 @@
      "konuId": "i_nsan_kaynaklari",
      "soru": "Yetenek yönetimi (talent management) stratejisi tasarlayan bir İK direktörü, 'yetenek havuzu' (talent pool) yaklaşımını 'anahtar pozisyon planlaması' (key position planning) yaklaşımıyla karşılaştırmaktadır. Bu iki yaklaşım arasındaki stratejik fark aşağıdakilerden hangisiyle en doğru biçimde ifade edilir?",
      "secenekler": [
-      "Yetenek havuzu yaklaşımı maliyeti düşürmek için, pozisyon planlaması ise işveren markasını güçlendirmek için kullanılır",
+      "Yetenek havuzu yaklaşımı yalnızca maliyeti düşürmek amacıyla, pozisyon planlaması ise yalnızca işveren markasını güçlendirmek amacıyla kullanılır Bu nedenle iki yaklaşım aynı anda uygulanamaz ve birbirini dışlayan stratejiler sayılır",
       "Pozisyon planlaması stratejik İK'nın modern biçimi; yetenek havuzu ise geleneksel ve artık kullanılmayan bir yöntemdir",
       "Yetenek havuzu yaklaşımı yalnızca dışarıdan işe alım için, pozisyon planlaması ise içeriden terfi için kullanılır",
       "Yetenek havuzu yaklaşımı kişi merkezlidir ve yüksek potansiyelli bireyleri örgütsel ihtiyaçtan bağımsız geliştirirken pozisyon planlaması pozisyon merkezlidir ve belirli kritik rollere halef yetiştirmeyi hedefler",
@@ -530,7 +537,7 @@
       "İç başarısızlık maliyetlerini kabul edilebilir kalite düzeyinde sabitlemek"
      ],
      "dogru": 3,
-     "aciklama": "Kalite maliyet optimizasyonunun temel ilkesine göre önleme maliyetlerine yapılan her 1 birimlik yatırım, başarısızlık maliyetlerinde 4-10 birimlik tasarruf sağlar. Mevcut durumda iç+dış başarısızlık maliyetleri %60 gibi çok yüksek bir oran oluşturmaktadır; bu, önleme yatırımlarının yetersiz kaldığına işaret eder. A seçeneği yanlıştır; değerlendirme maliyetlerini artırmak hataları bulmayı kolaylaştırır ama hataların oluşmasını engellemez. B seçeneği Kabul Edilebilir Kalite Düzeyi (AQL) anlayışını yansıtır; TKY bu yaklaşımı reddeder. D seçeneği toplam maliyeti düşürmez. E seçeneği sistematik değildir. Önleme maliyetlerini artırmak (eğitim, süreç tasarımı, hata önleme sistemleri) uzun vadede tüm başarısızlık maliyetlerini düşürür. Doğru yanıt C'dir.",
+     "aciklama": "Kalite maliyetlerinde toplam başarısızlık payı %60'tır (iç %35 + dış %25), önleme payı ise yalnızca %15'tir. TKY yaklaşımına göre kusurun oluştuktan sonra bulunması ve düzeltilmesi, oluşmasının önlenmesinden çok daha pahalıdır. Bu nedenle önleme faaliyetlerine (eğitim, tasarım iyileştirme, süreç planlama) yapılan yatırım artırılmalıdır. Böylece başarısızlık ve değerlendirme maliyetleri düşer, toplam kalite maliyeti azalır. \"Değerlendirme maliyetlerini artırarak dış başarısızlıkları sıfıra indirmek\" seçeneği yanlıştır. Muayene kusuru önlemez, yalnızca bulur; dış başarısızlığı da tümüyle sıfırlayamaz. \"Dış başarısızlık maliyetlerini iç başarısızlıklara dönüştürerek müşteri kaybını önlemek\" seçeneği ise kusurun kaynağını gidermediği için kalıcı çözüm değildir. Doğru cevap \"Önleme maliyetlerine yapılan yatırımı artırarak toplam kalite maliyetini düşürmek\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -546,7 +553,7 @@
       "Borç ödeme süresi = 36 gün; Ticari borç = 230.400 TL"
      ],
      "dogru": 0,
-     "aciklama": "NDD = Stok bulundurma süresi + Alacak tahsil süresi - Borç ödeme süresi. Stok bulundurma süresi = 360/Stok devir hızı = 360/8 = 45 gün. Alacak tahsil süresi = 360/Alacak devir hızı = 360/10 = 36 gün. NDD = 45 + 36 - Borç ödeme süresi = 45 → Borç ödeme süresi = 45 + 36 - 45 = 36 gün. Ticari borç tutarı = (Satışların maliyeti / 360) × Borç ödeme süresi = (2.880.000/360) × 36 = 8.000 × 36 = 288.000 TL. Cevap: A) Borç ödeme süresi = 36 gün; Ticari borç = 288.000 TL. Adayların sık yaptığı hata: Ticari borç hesabında satışların maliyeti yerine net satışları kullanmaktır; bu durumda 3.600.000/360×36 = 360.000 TL çıkar ve yanlış şık seçilir.",
+     "aciklama": "NDD = Stok bulundurma süresi + Alacak tahsil süresi - Borç ödeme süresi. Stok bulundurma süresi = 360/Stok devir hızı = 360/8 = 45 gün. Alacak tahsil süresi = 360/Alacak devir hızı = 360/10 = 36 gün. NDD = 45 + 36 - Borç ödeme süresi = 45 → Borç ödeme süresi = 45 + 36 - 45 = 36 gün. Ticari borç tutarı = (Satışların maliyeti / 360) × Borç ödeme süresi = (2.880.000/360) × 36 = 8.000 × 36 = 288.000 TL. Cevap: Borç ödeme süresi = 36 gün; Ticari borç = 288.000 TL. Adayların sık yaptığı hata: Ticari borç hesabında satışların maliyeti yerine net satışları kullanmaktır; bu durumda 3.600.000/360×36 = 360.000 TL çıkar ve yanlış şık seçilir.",
      "zorluk": "zor"
     },
     {
@@ -574,11 +581,12 @@
       "Karar alma esnekliği artar.",
       "Davranışlar standart yöntemler ve yazılı kurallarla daha fazla belirlenir.",
       "Örgüt organik bir nitelik kazanır.",
-      "Çalışanların inisiyatif kullanma alanı genişler.",
-      "Üst yönetim denetim ihtiyacı azalır."
+      "Çalışanların inisiyatif kullanma alanı ile takdir yetkisi belirgin biçimde genişler ve sorumlulukları artar.",
+      "Üst yönetimin denetim ihtiyacı belirgin biçimde azalır."
      ],
      "dogru": 1,
-     "aciklama": "Biçimselleşme; işlerin, prosedürlerin ve davranışların yazılı kural, politika ve standart yöntemlerle ne ölçüde belirlendiğini ifade eder. Biçimselleşme arttıkça çalışanların takdir yetkisi daralır, standartlaşma yükselir ve öngörülebilirlik artar. Yüksek biçimselleşme mekanik yapının özelliğidir; organik yapılarda ise biçimselleşme düşüktür. Üst yönetimin denetim ihtiyacı biçimselleşmeyle azalmak yerine kural yoğunluğu arttığı için başka biçimler alabilir."
+     "aciklama": "Biçimselleşme; işlerin, prosedürlerin ve davranışların yazılı kural, politika ve standart yöntemlerle ne ölçüde belirlendiğini ifade eder. Biçimselleşme arttıkça çalışanların takdir yetkisi daralır, standartlaşma yükselir ve öngörülebilirlik artar. Yüksek biçimselleşme mekanik yapının özelliğidir; organik yapılarda ise biçimselleşme düşüktür. Üst yönetimin denetim ihtiyacı biçimselleşmeyle azalmak yerine kural yoğunluğu arttığı için başka biçimler alabilir.",
+     "zorluk": "orta"
     },
     {
      "id": "52462",
@@ -604,7 +612,7 @@
      "secenekler": [
       "Hammadde tedarik süreçlerinin planlanması",
       "İşletmenin finansal kaynaklarının belirlenmesi",
-      "Ürün fiyatlandırma stratejisinin oluşturulması",
+      "Ürün fiyatlandırma stratejisinin ve indirim politikasının oluşturulması ile kampanya takvimi",
       "Çalışanların yetkinliklerinin ölçülmesi",
       "Belirli bir dönemde üretilebilecek maksimum çıktı miktarının belirlenmesi"
      ],

@@ -48,13 +48,13 @@
      "id": "39918",
      "dersId": "turkce",
      "konuId": "yazim_kurallari",
-     "soru": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük, yazım kurallarına göre yanlış yazılmıştır?\n\nA) Bugün okula gitmeyeceğim, zira başım ağrıyor.\nB) Türkiye'nin başkenti Ankara'dır.\nC) Bu iş için beşyüz lira ödedim.\nD) Cumhuriyet, 1923'te ilan edildi.\nE) Aynı fikirde değiliz, ama saygı duyuyorum.",
+     "soru": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük, yazım kurallarına göre yanlış yazılmıştır? A) Bugün okula gitmeyeceğim, «zira» başım ağrıyor. B) Türkiye'nin başkenti «Ankara'dır». C) Bu iş için «beşyüz» lira ödedim. D) Cumhuriyet, «1923'te» ilan edildi. E) Aynı fikirde değiliz, «ama» saygı duyuyorum.",
      "secenekler": [
-      "Bugün okula gitmeyeceğim, zira başım ağrıyor.",
-      "Aynı fikirde değiliz, ama saygı duyuyorum.",
-      "Türkiye'nin başkenti Ankara'dır.",
-      "Bu iş için beşyüz lira ödedim.",
-      "Cumhuriyet, 1923'te ilan edildi."
+      "Bugün okula gitmeyeceğim, «zira» başım ağrıyor.",
+      "Aynı fikirde değiliz, «ama» saygı duyuyorum.",
+      "Türkiye'nin başkenti «Ankara'dır».",
+      "Bu iş için «beşyüz» lira ödedim.",
+      "Cumhuriyet, «1923'te» ilan edildi."
      ],
      "dogru": 3,
      "aciklama": "Sayılar yazıyla yazıldığında ayrı yazılır: 'beş yüz' şeklinde yazılmalıdır. Yüz, bin, milyon gibi basamak adları sayılarla birleşik yazılmaz. Diğer seçeneklerde yazım kuralı ihlali yoktur.",
@@ -104,8 +104,8 @@
       "2",
       "6"
      ],
-     "dogru": 0,
-     "aciklama": "Cümle şöyle katmanlara ayrılır: Ana cümle yüklemi: 'değildi' (farkında değildi). İçindeki yan cümleler/bağımlı yargılar: (1) 'sorduğun her soruya' → 'sorduğun': sıfat-fiil yan cümlesi ('sen her soruyu sordun' → sıfat-fiil). (2) 'doğru cevap verdiğini' → 'verdiğini': isim-fiil yan cümlesi (nesne görevinde, 'sanan' eyleminin nesnesi). (3) 'sanan kişi' → 'sanan': sıfat-fiil yan cümlesi ('kişi' ismini niteler). (4) 'gördüğünün' → 'gördüğünün': isim-fiil yan cümlesi ('farkında' sözcüğüne bağlı). Toplam: 4 bağımlı yan cümle/yargı. Cevap C'dir.",
+     "dogru": 1,
+     "aciklama": "'Sorduğun', 'doğru cevap verdiğini', 'sanan' ve 'meselenin yüzeyini gördüğünün' olmak üzere 4 bağımlı yargı vardır. Doğru cevap 4 şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -121,7 +121,8 @@
       "Çocuklar parkta koştu."
      ],
      "dogru": 4,
-     "aciklama": "'Koştu' fiili etken çatıdadır (özne eylemi bizzat yapıyor), nesne almadığı için geçişsizdir. A seçeneğinde geçişli etken, B seçeneğinde edilgen, D seçeneğinde dönüşlü ve E seçeneğinde işteş çatı bulunmaktadır."
+     "aciklama": "Fiilin etken geçişsiz olması için çatı eki almaması ve nesne almaması gerekir. \"Çocuklar parkta koştu.\" cümlesinde \"koştu\" fiili ek almamıştır, \"ne?\" ya da \"kimi?\" sorusuna cevap veren bir nesne de yoktur. \"Parkta\" yer tamlayıcısıdır, nesne değildir. Bu yüzden fiil etken çatılıdır ve geçişsizdir. \"Arkadaşlar uzun süre tartıştı.\" cümlesinde \"tartıştı\" fiili işteş çatı eki (-ş-) taşıdığı için etken geçişsiz sayılmaz. \"Bahçıvan çiçekleri suladı.\" cümlesinde \"çiçekleri\" nesnesi bulunduğundan fiil geçişlidir. Doğru cevap \"Çocuklar parkta koştu.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "39032",
@@ -135,8 +136,9 @@
       "Konuşmanın ardından salonda şiddetli bir alkış koptu.",
       "Bu sorunun cevabını bilmiyorum."
      ],
-     "dogru": 0,
-     "aciklama": "'Ret cevabı vermek' ifadesinde 'ret' sözcüğü reddetme anlamını taşır; ancak 'teklifi kabul etmeyerek ret cevabı verdi' cümlesinde 'ret' ve 'kabul etmeyerek' anlam olarak örtüşmekte, bu durum anlam yinelenmesi oluşturmaktadır. Ayrıca 'ret' sözcüğü yanlış yazılmıştır (doğrusu 'ret' değil 'red'dir). Temel anlatım bozukluğu ise 'kabul etmeyerek' ve 'ret cevabı' ifadelerinin anlam çakışması nedeniyle gereksiz sözcük kullanımıdır."
+     "dogru": 3,
+     "aciklama": "A'daki kusur gereksiz sözcük/anlatım tekrarıdır; sözcüğün yanlış anlamda kullanılması 'şiddetli bir alkış' (coşkulu/gürültülü olmalı) ifadesiyle D'dedir. Doğru cevap Konuşmanın ardından salonda şiddetli bir alkış koptu şeklindedir.",
+     "zorluk": "orta"
     },
     {
      "id": "39792",
@@ -151,7 +153,8 @@
       "Sanatın estetik ve toplumsal boyutları birbiriyle çelişmez; aksine birbirini besleyebilir."
      ],
      "dogru": 4,
-     "aciklama": "Paragrafın akışı, iki karşıt görüşü sunmakta ve son olarak bu ayrımın 'ya-ya da' seçimine indirgenmesinin sanatı daralttığını belirtmektedir. Bu noktadan sonra gelmesi beklenen sonuç cümlesi, iki boyutun birbiriyle çelişmediğini, hatta birbirini beslediğini ifade etmelidir. B şıkkı bu mantıksal sonucu taşır. D şıkkı da bir sonuç içermekle birlikte 'kesin yanıt bulunamaz' ifadesi tartışmayı kapatmakta; paragrafın yapıcı bir sentez arayan tonuyla örtüşmemektedir."
+     "aciklama": "Parça sanatın işlevi konusunda iki görüşü sunar: estetik haz ve toplumsal dönüşüm. Sonra her iki görüşün de güçlü argümanları olduğunu kabul eder, ama tartışmayı bir \"ya - ya da\" seçimine indirgemenin sanatın doğasını daralttığını söyler. Bu çizgiyi tamamlayan son cümle, iki boyutu uzlaştıran bir cümle olmalıdır. \"Estetik kaygıyla üretilen yapıtlar, toplumsal değişime katkıda bulunamazlar.\" seçeneği yanlıştır. Yalnızca estetik görüşü savunur ve parçanın bu seçimi reddeden tavrıyla çelişir. \"Bu nedenle sanatçılar, eserlerini herhangi bir ideolojiye hizmet etmeden üretmelidir.\" seçeneği de yanlıştır. Tek bir uca kayar ve iki görüşü dengeleyen akışı bozar. Doğru cevap \"Sanatın estetik ve toplumsal boyutları birbiriyle çelişmez; aksine birbirini besleyebilir.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "39650",
@@ -166,7 +169,8 @@
       "O kadar kılı kırk yarıyor ki en basit işi bile saatlerce uzatıyor."
      ],
      "dogru": 1,
-     "aciklama": "'Kılı kırk yarmak' deyimi, bir şeyi aşırı ince eleyip sık dokumak, gereğinden fazla titiz davranmak anlamına gelir. E şıkkında 'kılı kırk yarıp sonunda işi bitirdi' ifadesinde deyim anlamsız bir şekilde kullanılmıştır; çünkü kılı kırk yaran biri işi verimli şekilde bitirmez, aksine işi uzatır. Bu bağlamda deyimin cümleye kattığı anlam çelişkilidir ve yanlış kullanımı oluşturmaktadır."
+     "aciklama": "\"Kılı kırk yarmak\" aşırı titizlikle, ince eleyip sık dokuyarak davranmak anlamındadır. Doğru cevapta \"kılı kırk yarıp\" işi bitirmek ile \"artık kimseye ihtiyacı yoktu\" ifadesi arasında titizlikle ilgili bir bağ yoktur; cümle bu yönüyle deyimi anlamına uygun kullanmamıştır. \"Müdür, sözleşmeyi imzalamadan önce her maddeyi kılı kırk yararak inceledi.\" cümlesi deyimi doğru kullanır, çünkü her maddeyi titizlikle incelemek deyimin anlamıdır. \"O kadar kılı kırk yarıyor ki en basit işi bile saatlerce uzatıyor.\" cümlesi de aşırı titizliği anlatır. Doğru cevap \"Kılı kırk yarıp sonunda işi bitirdi, artık kimseye ihtiyacı yoktu.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "38073",
@@ -181,7 +185,8 @@
       "Akşam yemeği için erken geldiler."
      ],
      "dogru": 3,
-     "aciklama": "A seçeneğinde 'yemek yemek' ifadesinin ilk 'yemek' sözcüğü ad (yiyecek, sofra), ikinci 'yemek' ise fiil (yeme eylemi) görevindedir. Böylece aynı sözcük aynı cümle içinde hem isim hem de fiil olarak iki farklı anlam ve görev üstlenmiştir. Diğer seçeneklerde 'yemek' ya yalnızca ad ya da yalnızca eylem olarak kullanılmıştır."
+     "aciklama": "İlk \"yemek\" sözcüğü cümlede nesne konumundadır ve yiyecek anlamıyla addır. İkinci \"yemek\" ise yeme eylemini bildirir; bu yüzden fiildir (mastar). Böylece aynı sözcük aynı cümlede hem ad hem fiil olarak kullanılmıştır. \"Güzel yemek pişirmesini biliyordu.\" cümlesinde \"yemek\" yalnızca addır, fiil olan sözcük \"pişirmek\" tir. \"Akşam yemeği için erken geldiler.\" cümlesinde de \"yemeği\" yalnızca ad görevindedir. Diğer cümlelerde \"yemek\" sözcüğü fiil olarak geçmez. Doğru cevap \"Yemek yemek en büyük zevkimdir.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "38601",
@@ -228,7 +233,8 @@
       "Bu dava lehimize sonuçlandı."
      ],
      "dogru": 4,
-     "aciklama": "A, B, C ve E seçeneklerinin tamamı davanın hâlâ çözüme kavuşturulmadığını, belirsizliğini sürdürdüğünü ifade etmektedir. D seçeneği ise davanın sonuçlandığını ve sonucun olumlu olduğunu belirtmektedir. Bu nedenle D seçeneği anlam bakımından diğerlerinden tamamen ayrışmaktadır."
+     "aciklama": "İlk dört cümle davanın henüz bir sonuca bağlanmadığını, sürecin devam ettiğini anlatır. \"Bu dava henüz karara bağlanmadı.\", \"Bu dava hâlâ sonuçlanmadı.\", \"Bu davanın sonucu belirsizliğini koruyor.\" ve \"Bu dava sürüncemede kalmaya devam ediyor.\" cümleleri belirsizlik ve bekleyiş anlamında ortaktır. \"Bu dava lehimize sonuçlandı.\" cümlesi ise davanın bittiğini ve sonucun olumlu çıktığını bildirir. Bu yüzden anlam bakımından diğerlerinden ayrılır. Burada karıştırılabilecek \"Bu dava hâlâ sonuçlanmadı.\" cümlesi de 'sonuç' sözcüğünü içerir; ancak olumsuz yapıdadır ve bitmemişliği bildirir. Doğru cevap \"Bu dava lehimize sonuçlandı.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "40093",
@@ -243,7 +249,8 @@
       "Onun arabası çok pahalı."
      ],
      "dogru": 3,
-     "aciklama": "B seçeneğindeki 'birini' sözcüğünde '-i' ekinin işlevi tartışmalıdır: '-i' belgisiz zamiri 'biri'nin üzerine belirtme hâli eki mi almıştır, yoksa 'biri' zaten iyelik eki içeren bir yapı mıdır? 'Biri = bir + i (iyelik, belirsiz kişi)' biçiminde çözümlenir; ardından belirtme hâli eki '-i' daha gelir: 'bir-i-ni'. Bu iç içe geçmiş ek yapısı öğrencilerin iyelik eki ile zamir ekini karıştırmasına en sık yol açan örnektir. Doğru yanıt B'dir."
+     "aciklama": "İyelik eki, bir varlığın aitliğini bildirir (kitab-ı, çanta-sı). Belgisiz zamir eki ise \"biri, kimi, kimisi\" gibi sözcüklerde zamirin yapısında bulunur. \"Birini bu işe koymak lazım.\" cümlesinde \"birini\" sözcüğü hem \"bir + -i (belgisiz zamir eki) + -ni (belirtme hâli)\" hem de iyelikli bir yapı gibi görünebilir. Bu yüzden iki eki ayırt etmek güçleşir. \"Çantasını kaybetmiş.\", \"Kitabını getirmeyi unutma.\" ve \"Kalemini masaya koy.\" cümlelerinde \"-sı\" ve \"-ın\" açıkça iyelik ekidir; belgisiz zamirle karışma olmaz. \"Onun arabası çok pahalı.\" cümlesinde de \"-ı\" iyelik ekidir ve \"onun\" sözcüğü aitliği açıkça gösterir. Doğru cevap \"Birini bu işe koymak lazım.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "40206",
@@ -258,7 +265,8 @@
       "Zarf tümleci"
      ],
      "dogru": 3,
-     "aciklama": "'Bana' sözcüğü '-e' yönelme hâl ekini almıştır. Yükleme (alır) sorduğumuzda 'kime alır? → bana' sorusuna yanıt verir. Bu durum onu dolaylı tümleç yapar. Zarf tümleci zaman, yer, durum, miktar bilgisi verir; 'bana' bunların hiçbirini karşılamaz. Nesne ise '-i' hâl ekiyle ya da eksiz gelir; 'bana' bu kalıba uymaz."
+     "aciklama": "'Bana' sözcüğü '-e' yönelme hâl ekini almıştır. Yükleme (alır) sorduğumuzda 'kime alır? → bana' sorusuna yanıt verir. Bu durum onu dolaylı tümleç yapar. Zarf tümleci zaman, yer, durum, miktar bilgisi verir; 'bana' bunların hiçbirini karşılamaz. Nesne ise '-i' hâl ekiyle ya da eksiz gelir; 'bana' bu kalıba uymaz.",
+     "zorluk": "orta"
     },
     {
      "id": "38868",
@@ -289,7 +297,7 @@
       "Yaşlı adam yavaş yavaş yürüdü."
      ],
      "dogru": 2,
-     "aciklama": "B seçeneğinde 'küçük' ve 'dev' sözcükleri anlam bakımından birbirine zıttır; ikisi birlikte kullanıldığında çelişki oluşur. 'Küçük dev' bir anlatım bozukluğudur çünkü 'dev' büyük, 'küçük' ise büyüklük bakımından az olanı ifade eder. Diğer seçeneklerde böyle bir çelişki yoktur.",
+     "aciklama": "Anlamca çelişen sözcükler, birbirinin tersi anlam taşıyan sözcüklerin aynı ifadede kullanılmasıdır. \"Küçük dev adam sahaya çıktı.\" cümlesinde \"küçük\" ve \"dev\" sözcükleri birbiriyle çelişir. Çünkü bir varlık aynı anda hem küçük hem dev olamaz. Cümledeki \"küçük dev\" tamlaması bu yüzden mantıksal bir tutarsızlık yaratır. \"Yaşlı adam yavaş yavaş yürüdü.\" cümlesinde ise sözcükler birbiriyle uyumludur, çelişki yoktur. \"Bu konu hakkında bilgisizliğini kabul etti.\" cümlesi de anlamca çelişen sözcük içermez. Doğru cevap \"Küçük dev adam sahaya çıktı.\" seçeneğidir.",
      "zorluk": "kolay"
     },
     {
@@ -314,7 +322,7 @@
      "konuId": "deyim_ve_atasozleri",
      "soru": "\"İt ürür kervan yürür\" atasözü hangi durumda kullanılmak için uygundur?",
      "secenekler": [
-      "Bir topluluğun dağınık hareket ettiğini anlatmak için",
+      "Bir topluluğun dağınık biçimde hareket ettiğini anlatmak için ve düzensiz davrandığını",
       "Köpeklerin tehlikeli olduğunu vurgulamak için",
       "Başkalarının eleştirilerine aldırmadan yoluna devam eden biri için",
       "Hayvanların insanlara zarar verdiğini belirtmek için",
@@ -330,14 +338,14 @@
      "konuId": "sozcukte_anlam",
      "soru": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük, yapısı itibarıyla terim niteliği kazanmıştır?",
      "secenekler": [
-      "Havanın birdenbire <u>soğuması</u> herkesi şaşırttı.",
-      "Sınıfın en <u>parlak</u> öğrencisiydi.",
-      "Annesinin sözleri onu çok <u>duygulandırdı</u>.",
-      "Mahkeme, davanın <u>düşmesine</u> karar verdi.",
-      "Bu meseleyi bir an önce <u>çözmek</u> şarttır."
+      "Havanın birdenbire «soğuması» herkesi şaşırttı.",
+      "Sınıfın en «parlak» öğrencisiydi.",
+      "Annesinin sözleri onu çok «duygulandırdı».",
+      "Mahkeme, davanın «düşmesine» karar verdi.",
+      "Bu meseleyi bir an önce «çözmek» şarttır."
      ],
      "dogru": 3,
-     "aciklama": "B seçeneğinde 'düşmek' fiili hukuk terimi olarak kullanılmıştır. 'Davanın düşmesi', yargı dilinde belirli hukuki koşullar altında bir davanın geçersiz sayılması ya da sonlandırılması anlamına gelir ve bu kullanım terimlerin tanımlayıcı özelliği olan 'tek ve sabit anlam' ilkesini karşılamaktadır. Diğer seçeneklerdeki kullanımlar mecaz ya da gündelik anlam taşımaktadır, terminolojik bir değer edinmemiştir.",
+     "aciklama": "Terim, belirli bir bilim, sanat veya meslek alanında özel ve kesin bir kavramı karşılayan sözcüktür. Hukukta \"davanın düşmesi\", davanın belirli bir sebeple sona ermesini anlatan özel bir kavramdır. \"Düşmesine\" sözcüğü bu cümlede günlük anlamından ayrılıp hukuk terimi niteliği kazanmıştır. \"Soğuması\" ve \"çözmek\" sözcükleri ise günlük dilde genel anlamlarıyla kullanılmıştır, belirli bir alanın kavramı değildir. \"Parlak\" burada öğrenci için kullanılmış mecaz bir niteleme, \"duygulandırdı\" ise sıradan bir fiildir. Bunların hiçbiri özel bir alanın terimi sayılmaz. Doğru cevap \"Mahkeme, davanın düşmesine karar verdi.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -352,8 +360,8 @@
       "Kitabı, masanın üstüne koy.",
       "Seni, dün gördüm zaten."
      ],
-     "dogru": 0,
-     "aciklama": "B seçeneğinde 'Ahmet Mehmet'ten daha çalışkandır' biçiminde yazıldığında 'Ahmet Mehmet' diye birinden söz edildiği anlaşılabilir. Virgülün kullanılması bu belirsizliği ortadan kaldırır ve iki ayrı kişiden bahsedildiğini netleştirir. Diğer seçeneklerdeki virgüller ise anlam belirsizliği değil, farklı dilbilgisel işlevler (seslenme, ara söz vb.) için kullanılmıştır.",
+     "dogru": 2,
+     "aciklama": "Virgül asıl olarak \"Ali öğretmenin\" biçimindeki yanlış tamlama okumasını engellediği için anlam belirsizliğini gideren cümle C'dir; A'da da B'de de virgül olmadan belirsizlik doğmaz. Doğru cevap Ali, öğretmenin dediğine göre başarılıdır şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -373,19 +381,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "38136",
+     "id": "38140",
      "dersId": "turkce",
      "konuId": "cumlede_anlam",
-     "soru": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük mecaz anlamıyla kullanılmıştır?\n'Bahçedeki ağaçların ____ döküldü.'",
+     "soru": "Aşağıdaki cümlelerin hangisinde koşul-sonuç ilişkisi vardır?",
      "secenekler": [
-      "Sonbaharda yaprakları döküldü.",
-      "Kışın tohumları döküldü.",
-      "Meyvelerinin büyük kısmı döküldü.",
-      "Sevinci yüzünden döküldü.",
-      "Fırtınada dalları döküldü."
+      "Çok yorulmuştum, yine de çalışmaya devam ettim.",
+      "Hava soğuktu ama dışarı çıktı.",
+      "Hem ders çalıştı hem de müzikle ilgilendi.",
+      "Erken yattım, sabah erken kalktım.",
+      "Düzenli antrenman yaparsan maçı kazanabilirsin."
      ],
-     "dogru": 3,
-     "aciklama": "'Sevinci yüzünden döküldü' ifadesinde 'dökülmek' fiili mecaz anlamda kullanılmıştır; sevinç somut bir nesne olmadığından yüze yansıması ancak mecazi bir anlatımla ifade edilebilir. Diğer seçeneklerde somut nesnelerin fiziksel olarak düşmesi anlatılmaktadır.",
+     "dogru": 4,
+     "aciklama": "Koşul-sonuç ilişkisinde ilk yargı gerçekleşirse ikinci yargı gerçekleşebilir. \"Düzenli antrenman yaparsan maçı kazanabilirsin.\" cümlesinde \"yaparsan\" koşul ekidir; maçı kazanma ihtimali bu koşula bağlıdır. \"Çok yorulmuştum, yine de çalışmaya devam ettim.\" cümlesinde karşıtlık vardır, koşul yoktur. \"Hava soğuktu ama dışarı çıktı.\" cümlesi de beklenenin tersini söyleyen bir karşıtlık cümlesidir. Doğru cevap \"Düzenli antrenman yaparsan maçı kazanabilirsin.\" seçeneğidir.",
      "zorluk": "kolay"
     },
     {
@@ -401,7 +409,7 @@
       "'Sabah' isim, 'erken' sıfat, 'hızlıca' zarf"
      ],
      "dogru": 4,
-     "aciklama": "D seçeneğinde 'sabah' zaman zarfı olarak değil isim, 'erken' ise zarf olarak değil sıfat olarak belirlenmiştir. Cümlede 'yarın sabah erken' zinciri tamamen zaman zarfı öbeği işlevi görmektedir; 'sabah' burada 'erken sabah' tamlamasında sıfat almış bir isim değil, zaman zarfı olarak kullanılmıştır; 'erken' de herhangi bir ismi nitelemeyip 'kalkıp' eylemine bağlandığından zarf olarak değerlendirilmelidir. Dolayısıyla D'de hem 'sabah' hem 'erken' için yanlış tür verilmiş, birden fazla hata yapılmıştır.",
+     "aciklama": "Cümlede \"yarın\", \"sabah\" ve \"erken\" fiili zaman bakımından belirttiği için zarftır. \"Kalkıp\" zarf-fiil, \"hızlıca\" durum zarfıdır. \"Hazırlanacağım\" ise kişinin kendi işini kendine yapması anlamıyla dönüşlü çatılıdır. \"Sabah\" burada isim değil, zaman zarfı olarak kullanılmıştır. \"Erken\" de bir ismi niteleyen sıfat değil, fiili niteleyen zarftır. Bu seçenekte iki sözcük türü birden yanlıştır. \"'Erken' durum zarfı, 'kalkıp' zarf-fiil, 'hazırlanacağım' dönüşlü çatılı fiil\" seçeneğinde ise yalnızca \"erken\" yanlış belirlenmiştir, çünkü \"erken\" durum değil zaman zarfıdır. Doğru cevap \"'Sabah' isim, 'erken' sıfat, 'hızlıca' zarf\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -465,7 +473,8 @@
       "Ancak bazı araştırmacılar, dil çeşitliliğinin iletişimi zorlaştırdığını öne sürmektedir."
      ],
      "dogru": 0,
-     "aciklama": "Parçanın öncesinde 'bir dili yitirmek, düşünce biçimlerini de yitirmektir' fikri işlenmektedir. Boşluktan sonra 'bu nedenle' bağlacıyla bir sonuç cümlesi gelmektedir. Bu yapıya hem anlam hem de mantıksal bağ açısından en uygun cümle, önceki fikri pekiştirip sonuç cümlesine zemin hazırlayan B seçeneğidir. A seçeneği zıtlık yaratarak akışı bozar, C ve D seçenekleri konuyu dağıtır, E seçeneği ise parçanın ana tezine aykırı bir görüş sunar."
+     "aciklama": "Parçada önce dilin toplumun hafızası olduğu, bir dili yitirmenin düşünce biçimlerini de yitirmek anlamına geldiği söylenmiştir. Boşluktan sonra \"Bu nedenle\" ifadesiyle dil koruma çalışmalarının kültürel bir zorunluluk olduğu sonucuna varılır. Dolayısıyla boşluğa, önceki düşünceyi pekiştiren ve bu sonuca zemin hazırlayan bir cümle gelmelidir. \"Bir dilin ölümü, o toplumun dünyayı algılayış biçiminin de silinmesi anlamına gelir.\" cümlesi, düşünce biçimlerinin yitirilmesi fikrini sürdürür ve sonuca bağlanır. \"Oysa bazı diller, konuşur sayısı azaldığında bile yazılı edebiyatlarıyla varlığını sürdürebilir.\" cümlesi ise \"Oysa\" ile akışı tersine çevirir ve sonuç cümlesiyle uyuşmaz. \"Ancak bazı araştırmacılar, dil çeşitliliğinin iletişimi zorlaştırdığını öne sürmektedir.\" cümlesi de aynı biçimde karşıt bir görüş getirir. Doğru cevap \"Bir dilin ölümü, o toplumun dünyayı algılayış biçiminin de silinmesi anlamına gelir.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "38259",
@@ -480,7 +489,8 @@
       "Ülke dışında çok tanınan bir bilim insanının kendi şehrinde takdir görmemesi."
      ],
      "dogru": 3,
-     "aciklama": "\"Mum dibine ışık vermez\" atasözü mecazi anlam taşır; başkalarına yararlı olan kişinin kendi yakın çevresine ya da kendisine aynı özeni gösterememesini anlatır. A, B, C ve D seçeneklerinin tamamında bu mecazi anlam mevcuttur. E seçeneğinde ise durum gerçek ve somuttur; atasözünün mecazi işleviyle örtüşmez, sadece yüzeysel bir sözcük benzerliği vardır."
+     "aciklama": "\"Mum dibine ışık vermez.\" atasözü, yakınındakilere yararı dokunmayan ya da en çok yakınlarına ihtiyaç duyulan yerde yardımı esirgeyen kişiler için kullanılır. Kendi çocuğuna vakit ayıramayan öğretmen, kendi sorunlarını çözemeyen yardımsever kişi ve kendi şehrinde takdir görmeyen bilim insanı bu duruma örnektir. Annenin kendi ihtiyaçlarını ihmal etmesi de bu çerçeveye girer. Aydınlatma uzmanının evindeki lambaların yanmaması ise sözcük anlamıyla ışık meselesidir. Burada bir kişinin yakınına yararı değil, kendi evindeki bir aksaklık söz konusudur. Bu yüzden atasözünü örneklendirmek için kullanılamaz. Doğru cevap \"Bir aydınlatma uzmanının evindeki lambaların büyük bölümünün yanmaması.\" seçeneğidir.",
+     "zorluk": "orta"
     }
    ]
   },
@@ -501,13 +511,14 @@
       "4"
      ],
      "dogru": 2,
-     "aciklama": "OKEK(8,12,15): 8=2³, 12=2²×3, 15=3×5 → OKEK=2³×3×5=120. 120'nin 300–500 arasındaki katları: 120×3=360 ✓, 120×4=480 ✓, 120×5=600 ✗. 2 tane. Cevap: B) 2."
+     "aciklama": "Ürün sayısı 8, 12 ve 15'in hepsine tam bölünüyorsa bu sayıların EKOK'unun katıdır. 8 = 2³, 12 = 2² · 3, 15 = 3 · 5 olduğundan EKOK = 2³ · 3 · 5 = 120'dir. 120'nin katları 120, 240, 360, 480, 600 şeklinde gider. 300 ile 500 arasında kalanlar 360 ve 480'dir. Bu durumda 2 değer vardır. \"3\" seçeneği, 240 veya 600 gibi aralık dışındaki katların da sayılmasından doğar; 240 300'ün altında, 600 ise 500'ün üstündedir. \"4\" seçeneği de aynı hatayla elde edilir. Doğru cevap \"2\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "101085",
      "dersId": "matematik",
      "konuId": "yas_problemleri",
-     "soru": "Bir sınıftaki 20 öğrencinin yaş ortalaması 14'tür. Sınıfa yaşı 19 olan bir öğrenci katılırsa yeni ortalama kaç olur?",
+     "soru": "Bir sınıftaki 20 öğrencinin yaş ortalaması 14'tür. Sınıfa yaşı 19 olan bir öğrenci katılırsa yeni ortalama yaklaşık kaç olur?",
      "secenekler": [
       "14,4",
       "14,0",
@@ -515,8 +526,8 @@
       "14,2",
       "14,1"
      ],
-     "dogru": 2,
-     "aciklama": "20 öğrencinin yaşları toplamı 20 × 14 = 280'dir. Yeni öğrenci katılınca toplam 280 + 19 = 299, öğrenci sayısı 21 olur. Yeni ortalama 299 ÷ 21 = 14,238... ≈ 14,2. En yakın şık C) 14,2. Tam hesap: 299/21 = 14,238, bu 14,2'ye en yakın. Cevap C) 14,2 (index 2).",
+     "dogru": 3,
+     "aciklama": "20 öğrencinin yaşları toplamı 20 × 14 = 280'dir. Yaşı 19 olan öğrenci katıldığında toplam 280 + 19 = 299, öğrenci sayısı ise 21 olur. Yeni ortalama 299 ÷ 21 = 14,238… değerine eşittir; virgülden sonra bir basamağa yuvarlandığında 14,2 bulunur. Doğru yanıt 14,2'dir.",
      "zorluk": "kolay"
     },
     {
@@ -532,7 +543,7 @@
       "En az %10, en fazla %40"
      ],
      "dogru": 4,
-     "aciklama": "P(A∪B) = P(A) + P(B) − P(A∩B) ≤ 1 olduğundan: P(A∩B) ≥ 0,60 + 0,50 − 1 = 0,10 → en az %10. Her iki kulübe de üye olmayanlar: 1 − P(A∪B). P(A∪B) en büyük olduğunda (= min(P(A)+P(B), 1) = 1 olamaz çünkü P(A∩B)≥%10), P(A∪B) en fazla 1 olabilir fakat kesişim en az %10 olduğundan P(A∪B) = %60+%50−%10 = %100 max. Üye olmayanlar: 1 − P(A∪B). P(A∪B) minimum değeri: kesişim maksimum olduğunda, kesişim en fazla min(%60,%50) = %50, P(A∪B) = %60+%50−%50 = %60. Üye olmayanlar maksimum: 1 − 0,60 = %40. Cevap A: en az %10 kesişim, en fazla %40 hiçbirine üye olmayan.",
+     "aciklama": "Öğrencilerin %60'ı birinci kulübe, %50'si ikinci kulübe üyedir. Toplam üyelik %110 eder, bu da %100'ü aşan %10'luk kısmın iki kulüpte birden yer alması gerektiği anlamına gelir. Dolayısıyla her iki kulübe üye olanlar en az %10'dur. Hiçbir kulübe üye olmayanların oranı, kesişim x olduğunda 100 − (110 − x) = x − 10 olur. Kesişim en çok %50 olabilir (ikinci kulüp tamamen birinci kulübün içindeyse), bu durumda hiçbirine üye olmayanlar en fazla 50 − 10 = %40 olur. Kesişimi %20 alıp \"%30\" sonucunu bulmak, bu en uç durumu hesaba katmamaktır. Doğru cevap \"En az %10, en fazla %40\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -548,7 +559,8 @@
       "42"
      ],
      "dogru": 3,
-     "aciklama": "A'nın 1 saatteki işi: 1/12, B'nin: 1/18, C'nin (boşaltma): -1/9. Net 1 saatteki iş = 1/12 + 1/18 - 1/9. Ortak payda 36: 3/36 + 2/36 - 4/36 = 1/36. Havuz 36 saatte dolar."
+     "aciklama": "A'nın 1 saatteki işi: 1/12, B'nin: 1/18, C'nin (boşaltma): -1/9. Net 1 saatteki iş = 1/12 + 1/18 - 1/9. Ortak payda 36: 3/36 + 2/36 - 4/36 = 1/36. Havuz 36 saatte dolar.",
+     "zorluk": "orta"
     },
     {
      "id": "102559",
@@ -563,7 +575,8 @@
       "420"
      ],
      "dogru": 1,
-     "aciklama": "Bu bir bileşik orantı sorusudur. Makine sayısı ve süreyle üretim doğru orantılıdır. 1 makine 1 saatte ürettiği parça: 200/(5×8) = 200/40 = 5 parça. 8 makine 10 saatte: 8×10×5 = 400 parça. Cevap C) 400."
+     "aciklama": "Önce bir makinenin bir saatteki üretimini bulalım. 5 makine 8 saatte 200 parça ürettiğine göre toplam makine-saat 5 × 8 = 40'tır ve bir makine-saatte 200/40 = 5 parça üretilir. 8 makine 10 saatte 8 × 10 = 80 makine-saat çalışır. Üretim 80 × 5 = 400 parça olur. Makine sayısı ve süre ile üretim doğru orantılıdır. \"450\" seçeneği süre ve makine oranlarını toplayarak, \"360\" seçeneği ise yalnızca makine sayısını artırıp süreyi sabit tutarak bulunan hatalı değerlerdir. Doğru cevap \"400\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "102940",
@@ -578,7 +591,8 @@
       "8"
      ],
      "dogru": 2,
-     "aciklama": "Mesafe d, zamanında varma süresi t olsun (saat cinsinden). d/5 = t + 12/60 → d/5 = t + 1/5. d/6 = t - 3/60 → d/6 = t - 1/20. İki denklem çıkarılırsa: d/5 - d/6 = 1/5 + 1/20 → d/30 = 4/20 + 1/20 = 5/20 = 1/4 → d = 30/4 = 7,5 km."
+     "aciklama": "Mesafe d, zamanında varma süresi t olsun (saat cinsinden). d/5 = t + 12/60 → d/5 = t + 1/5. d/6 = t - 3/60 → d/6 = t - 1/20. İki denklem çıkarılırsa: d/5 - d/6 = 1/5 + 1/20 → d/30 = 4/20 + 1/20 = 5/20 = 1/4 → d = 30/4 = 7,5 km.",
+     "zorluk": "orta"
     },
     {
      "id": "103310",
@@ -593,7 +607,8 @@
       "21"
      ],
      "dogru": 4,
-     "aciklama": "Sayı x olsun. 4(x + 3) = 5x - 9 → 4x + 12 = 5x - 9 → x = 21. Cevap: B) 21."
+     "aciklama": "Sayıya x diyelim. Sayının 3 fazlasının 4 katı 4(x + 3) olur. Bu ifade, sayının 5 katından 9 eksiktir; yani 4(x + 3) = 5x - 9. Parantezi açarsak 4x + 12 = 5x - 9 olur. Sabitleri bir tarafa toplayınca x = 12 + 9 = 21 bulunur. Kontrol: 4(21 + 3) = 96 ve 5·21 - 9 = 96 olduğundan eşitlik sağlanır. \"19\" seçeneği sağlamaz, çünkü 4(22) = 88 iken 5·19 - 9 = 86 çıkar. \"23\" seçeneği de sağlamaz; 4(26) = 104 iken 5·23 - 9 = 106 olur. Doğru cevap \"21\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "101966",
@@ -608,7 +623,7 @@
       "{1, 4, 5}"
      ],
      "dogru": 0,
-     "aciklama": "A ∪ B (A birleşim B), her iki kümede bulunan tüm elemanların bir araya gelmesiyle oluşur; ortak elemanlar yalnızca bir kez yazılır. A ∪ B = {1, 2, 3, 4, 5} olur.",
+     "aciklama": "Birleşim kümesi, iki kümeden en az birinde bulunan elemanların tek tek yazılmasıyla oluşur. A = {1, 2, 3} ve B = {2, 3, 4, 5} kümelerinin elemanlarını birlikte alırsak 1, 2, 3, 4, 5 elde ederiz. Ortak elemanlar olan 2 ve 3 kümede yalnızca bir kez yazılır. Böylece A ∪ B = {1, 2, 3, 4, 5} olur. \"{2, 3}\" seçeneği yanlıştır, çünkü bu küme birleşimi değil kesişimi (A ∩ B) verir. \"{1, 4, 5}\" seçeneği ise ortak olmayan elemanları gösterir; bu da simetrik farktır ve birleşim değildir. \"{1, 2, 3, 4, 5, 6}\" seçeneğindeki 6 iki kümede de yoktur. Doğru cevap \"{1, 2, 3, 4, 5}\" seçeneğidir.",
      "zorluk": "kolay"
     },
     {
@@ -623,24 +638,24 @@
       "Başa baş",
       "%1,5 kâr"
      ],
-     "dogru": 0,
-     "aciklama": "Kâr marjı %20 → satış fiyatı = M / 0.80. M = 180 TL ise satış fiyatı = 180 / 0.80 = 225 TL/kasa. 5 kasa için: Maliyet = 5 × 180 = 900 TL. Satılan kasa sayısı = 4 (1 tanesi kiraya verildi). Satış geliri = 4 × 225 = 900 TL. Net kâr = 900 - 900 = 0 TL → Başa baş. Ancak manavın sattığı 4 kasanın maliyeti kadar gelir elde ettiği için B) Başa baş cevabı doğru görünüyor. Kontrol: Maliyet 900, gelir 900 → fark 0. Cevap B şıkkıdır. — Ancak burada kira ödemesi için kasanın piyasa satış fiyatı değil manavın satış fiyatı mı esas alınmalı? Kira = 1 kasa × 225 TL değerinde mal. 4 kasa satışı = 900 TL. Toplam maliyet = 900 TL. Gerçek kira gideri değer olarak = 225 TL (piyasa), maliyet olarak 180 TL. Net durum: 4 × 225 - 5 × 180 = 900 - 900 = 0. Cevap B.",
+     "dogru": 2,
+     "aciklama": "5 kasa için maliyet 900 TL, 1 kasa kiraya gittiğinden gelir 4x216=864 TL olup 36 TL zarar doğar (kira satılan kasa üzerinden sayılsa da sonuç yine zarardır). Doğru cevap Zarar ediyor şeklindedir.",
      "zorluk": "zor"
     },
     {
-     "id": "100437",
+     "id": "101751",
      "dersId": "matematik",
      "konuId": "kesir_ondalik",
-     "soru": "p ve q birbirinden farklı asal sayılar olmak üzere 1/p + 1/q = 7/pq + 1/12 eşitliği sağlanıyorsa p² + q² değeri kaçtır?",
+     "soru": "1/x + 1/y = 1/12 denklemini sağlayan pozitif tam sayı çiftlerinin (x, y) sayısı kaçtır? (x ≤ y koşulu aranmıyor, x=y dahil tüm sıralı çiftler)",
      "secenekler": [
-      "52",
-      "58",
-      "40",
-      "61",
-      "85"
+      "10",
+      "15",
+      "8",
+      "17",
+      "13"
      ],
-     "dogru": 0,
-     "aciklama": "1/p + 1/q = 7/pq + 1/12. Sol taraf: (p+q)/pq. (p+q)/pq - 7/pq = 1/12 → (p+q-7)/pq = 1/12 → 12(p+q-7) = pq. 12p + 12q - 84 = pq. pq - 12p - 12q = -84. pq - 12p - 12q + 144 = 60. (p-12)(q-12) = 60. p ve q asal, p-12 ve q-12 çarpımı 60. 60 = 1×60 → p=13, q=72(asal değil). 60 = 2×30 → p=14(asal değil). 60 = 3×20 → p=15(asal değil). 60 = 4×15 → p=16(asal değil). 60 = 5×12 → p=17(asal), q=24(asal değil). 60 = 6×10 → p=18(asal değil). Negatif: (-1)×(-60)→p=11(asal), q=-48(negatif olmaz). (-2)×(-30)→p=10. (-3)×(-20)→p=9. (-4)×(-15)→p=8. (-5)×(-12)→p=7(asal), q=0(olmaz). (-6)×(-10)→p=6. Hmm, tekrar: 60=1×60→(13,72), 60=2×30→(14,42), 60=3×20→(15,32), 60=4×15→(16,27), 60=5×12→(17,24), 60=6×10→(18,22), negatifler: (-1)(-60)→(11,-48) olmaz. Farklı yaklaşım: p=2 ise (2-12)(q-12)=-10(q-12)=60 → q-12=-6 → q=6 asal değil. p=3: (-9)(q-12)=60 → q-12=-60/9 tam sayı değil. p=5: (-7)(q-12)=60 → q-12=-60/7 tam sayı değil. p=7: (-5)(q-12)=60 → q-12=-12 → q=0 olmaz. p=17: (5)(q-12)=60 → q-12=12 → q=24 asal değil. p=13: (1)(q-12)=60 → q=72 asal değil. Yeniden: p=2, q=?: 12(2+q-7)=2q → 12q-60=2q → 10q=60 → q=6 asal değil. p=3: 12(3+q-7)=3q → 12q-48=3q → 9q=48 → q=16/3 olmaz. p=5: 12(5+q-7)=5q → 12q-24=5q → 7q=24 olmaz. p=7: 12(7+q-7)=7q → 12q=7q → 5q=0 olmaz. p=11: 12(11+q-7)=11q → 12q+48=11q → q=-48 olmaz. p=13: 12(13+q-7)=13q → 12q+72=13q → q=72 asal değil. p=17: 12(17+q-7)=17q → 12q+120=17q → 5q=120 → q=24 asal değil. p=19: 12(19+q-7)=19q → 12q+144=19q → 7q=144 olmaz. p=23: 12(23+q-7)=23q → 12q+192=23q → 11q=192 olmaz. p=29: 12(29+q-7)=29q → 12q+264=29q → 17q=264 olmaz. p=31: 12(31+q-7)=31q → 12q+288=31q → 19q=288 olmaz. p=37: 12(37+q-7)=37q → 12q+360=37q → 25q=360 → q=14,4 olmaz. p=43: 12(43+q-7)=43q → 12q+432=43q → 31q=432 olmaz. p=47: 12(47+q-7)=47q → 12q+480=47q → 35q=480 → q=96/7 olmaz. p=53: 12(53+q-7)=53q → 12q+552=53q → 41q=552 olmaz. p=2, q=2: 12(2+2-7)=4 → 12(-3)=-36≠4. Doğru çözüm: (p-12)(q-12)=60, p=q=asal. 60 çarpan çiftleri: p=16→değil, p=13,q=72→değil. Muhtemelen p=2 veya q=2 ile küçük asal: p=2: (2-12)(q-12)=-10(q-12)=60 → q-12=-6 → q=6, değil. Cevap seçeneklerinden p²+q²=52=4+48 olmaz, =16+36=52 ise p=4,q=6 asal değil. p²+q²=4+49=53 değil. 4+9=13, 9+49=58→p=3,q=7: (3-12)(7-12)=(-9)(-5)=45≠60. 4+49=53. 49+9=58. p=3,q=7 kontrol: 1/3+1/7=10/21; 7/21+1/12=1/3+1/12=5/12≠10/21. p=2,q=?: denklemden q=6 çıkıyor ama asal değil. En yakın: p²+q²=52, seçenek B.",
+     "dogru": 1,
+     "aciklama": "(x-12)(y-12)=144 ve 144'ün 15 böleni olduğundan 15 sıralı çift vardır. Doğru cevap 15 şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -660,19 +675,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "102231",
+     "id": "102220",
      "dersId": "matematik",
      "konuId": "bolunebilme",
-     "soru": "Birbirinden farklı a, b, c pozitif tam sayıları için (a - b)(b - c)(c - a) çarpımının 2'ye bölünebilmesi için hangi koşul kesinlikle yeterlidir?",
+     "soru": "n! + (n+1)! ifadesinin (n+2) ile tam bölünebilmesi için n kaç olmalıdır? (n pozitif tam sayı)",
      "secenekler": [
-      "a, b, c'nin en az biri çift sayıdır.",
-      "a + b + c tek sayıdır.",
-      "a, b, c ardışık tam sayılardır.",
-      "a·b·c çift sayıdır.",
-      "(a-b)(b-c)(c-a) her zaman 2'ye bölünür, ek koşul gerekmez."
+      "Yalnızca tek n değerleri",
+      "(n+2) asal olduğunda hiçbir n",
+      "Yalnızca n=1",
+      "Yalnızca çift n değerleri",
+      "Tüm pozitif tam sayı n değerleri"
      ],
      "dogru": 4,
-     "aciklama": "a, b, c farklı tam sayılar alındığında parite (çift-tek) analizine bakılır. Üç sayı ya (ÇÇÇ), (TTT), (ÇÇT), (ÇTT) paritesindedir. ÇÇÇ durumunda: farklar çift-çift-çift, çarpım çift. TTT durumunda: farklar çift-çift-çift, çarpım çift. ÇÇT durumunda: a-b çift, b-c tek, c-a tek; çarpım = çift×tek×tek = çift. ÇTT durumunda: a-b tek, b-c çift, c-a tek; çarpım = tek×çift×tek = çift. Tüm durumlarda çarpım çifttir. Dolayısıyla (a-b)(b-c)(c-a) ek bir koşul olmaksızın her zaman 2'ye bölünür.",
+     "aciklama": "n!+(n+1)! = n!(n+2) olduğundan ifade her pozitif tam sayı n için (n+2) ile tam bölünür. Doğru cevap Tüm pozitif tam sayı n değerleri şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -688,7 +703,8 @@
       "3/10"
      ],
      "dogru": 2,
-     "aciklama": "5 rakamdan 3'ü seçerek sırayla yazılan toplam üç basamaklı sayı = P(5,3) = 5×4×3 = 60. Başında 5 olan sayılar: ilk basamak 5 (sabit), kalan 2 basamak 4 farklı rakamdan seçilir = P(4,2) = 4×3 = 12. Olasılık = 12/60 = 1/5."
+     "aciklama": "5 rakamdan 3'ü seçerek sırayla yazılan toplam üç basamaklı sayı = P(5,3) = 5×4×3 = 60. Başında 5 olan sayılar: ilk basamak 5 (sabit), kalan 2 basamak 4 farklı rakamdan seçilir = P(4,2) = 4×3 = 12. Olasılık = 12/60 = 1/5.",
+     "zorluk": "orta"
     },
     {
      "id": "100255",
@@ -719,7 +735,7 @@
       "1"
      ],
      "dogru": 4,
-     "aciklama": "6'ya bölündüğünde kalan 4 olan sayılar: 10, 16, 22, 28, 34... Bunlar arasında 9'a bölündüğünde kalan 7 olanlar: 16÷9=1 kalan 7 ✓. 16÷3=5 kalan 1. Dolayısıyla cevap B) 1'dir.",
+     "aciklama": "Sayı n olsun. n, 6'ya bölündüğünde kalan 4 ise n = 6k + 4 yazılır. 6k her zaman 3'ün katıdır, 4'ün 3'e bölümünden kalan ise 1'dir. Dolayısıyla n'nin 3'e bölümünden kalan 1'dir. Kontrol için 9'a bölümü de bakılabilir: n = 9m + 7 ve 9m, 3'ün katı olduğundan 7'nin 3'e bölümünden kalan yine 1'dir. n = 16 sayısı iki koşulu da sağlar ve 16 = 3 × 5 + 1'dir. \"4\" seçeneği, 6'ya bölümden kalan olduğu için yanlıştır; 3'e bölümde kalan 3'ten küçük olmalıdır. Doğru cevap \"1\" seçeneğidir.",
      "zorluk": "kolay"
     },
     {
@@ -734,8 +750,8 @@
       "5/2",
       "3"
      ],
-     "dogru": 2,
-     "aciklama": "Oğul=x, Baba=4x. n yıl sonra: 4x+n = 3(x+n) → x=2n → n=x/2. Baba=4x, Oğul=x. 2n=x yıl sonra: Baba=4x+x=5x, Oğul=x+x=2x. Oran=5x/2x=5/2. Hata: 2n=2·(x/2)=x. Baba=5x, Oğul=2x. 5x/2x=5/2. Cevap: A) 5/2.",
+     "dogru": 3,
+     "aciklama": "x=2n olduğundan 2n yıl sonra oran 5x/2x=5/2, yani “5/2” şıkkı. Doğru cevap 5/2 şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -751,7 +767,8 @@
       "%100"
      ],
      "dogru": 1,
-     "aciklama": "2021 nüfusu = 100 birim. 2022 = 100 × 1,10 = 110. 2023 = 110 × 0,90 = 99. 2023 nüfusu, 2021 nüfusunun %99'udur."
+     "aciklama": "2021 nüfusu = 100 birim. 2022 = 100 × 1,10 = 110. 2023 = 110 × 0,90 = 99. 2023 nüfusu, 2021 nüfusunun %99'udur.",
+     "zorluk": "orta"
     },
     {
      "id": "101870",
@@ -782,7 +799,7 @@
       "7/9"
      ],
      "dogru": 2,
-     "aciklama": "Gemi hızı=9k, akıntı=2k. Gidişte (akıntıyla): hız=9k+2k=11k. Dönüşte (akıntıya karşı): hız=9k-2k=7k. Aynı mesafe için süre hızla ters orantılı: t_gidiş/t_dönüş = (110/11k)/(110/7k) = 7k/11k = 7/11.",
+     "aciklama": "Gemi hızı=9k, akıntı=2k. Gidişte (akıntıyla): hız=9k+2k=11k. Dönüşte (akıntıya karşı): hız=9k-2k=7k. Aynı mesafe için süre hızla ters orantılı: t«gidiş/t»dönüş = (110/11k)/(110/7k) = 7k/11k = 7/11.",
      "zorluk": "zor"
     },
     {
@@ -798,7 +815,7 @@
       "%84"
      ],
      "dogru": 0,
-     "aciklama": "Nehirde 5d/48, gölde d/10; oran 0,96 yani %96. Doğru cevap A) %96 şeklindedir.",
+     "aciklama": "Nehirde 5d/48, gölde d/10; oran 0,96 yani %96. Doğru cevap %96 şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -814,7 +831,8 @@
       "30"
      ],
      "dogru": 2,
-     "aciklama": "Toplam öğrenci sayısı x olsun. x/4 + x/3 + 10 = x → 3x/12 + 4x/12 + 10 = x → 7x/12 + 10 = x → 10 = x - 7x/12 → 10 = 5x/12 → x = 24. Cevap A seçeneğidir."
+     "aciklama": "Sınıftaki öğrenci sayısına x diyelim. Erkekler x/4, kızlar x/3 olduğundan ikisi birlikte x/4 + x/3 = 3x/12 + 4x/12 = 7x/12 eder. Geriye kalan kısım x - 7x/12 = 5x/12 olur ve bu kısım karma gruptaki 10 öğrenciye eşittir. 5x/12 = 10 denkleminden x = 10·12/5 = 24 bulunur. Kontrol: erkek 6, kız 8, karma 10 öğrenci eder ve toplam 24 olur. \"40\" seçeneği, 10 öğrencinin sınıfın 1/4'ü olduğunu varsayanların vardığı hatalı sonuçtur, oysa 10 öğrenci kalan 5/12'lik kısmı gösterir. Doğru cevap \"24\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "101978",
@@ -829,7 +847,8 @@
       "6"
      ],
      "dogru": 4,
-     "aciklama": "n(B) = n(U) - n(B') = 20 - 8 = 12. A ⊂ B olduğundan A ∩ B = A, yani n(A ∩ B) = n(A) = 6. n(B \\ A) = n(B) - n(A ∩ B) = 12 - 6 = 6. Doğru cevap C seçeneğidir."
+     "aciklama": "Önce n(B) bulunur. n(B') = 8 ve n(U) = 20 olduğundan n(B) = 20 − 8 = 12 olur. A ⊂ B olduğu için A'nın bütün elemanları B'nin içindedir. Bu yüzden B \\ A kümesinin eleman sayısı n(B) − n(A) = 12 − 6 = 6 bulunur. \"8\" seçeneği, B' kümesinin eleman sayısını B \\ A ile karıştırmaktan doğar. \"4\" seçeneği ise 20'den 6 ve 8 çıkarılıp bazı elemanların yanlış yorumlanmasından gelir. Oysa 20 − 6 − 8 = 6 değeri aslında doğru sonucu verir, ancak \"4\" seçeneği bu işlemin sonucu değildir. Doğru cevap \"6\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "100693",
@@ -860,7 +879,7 @@
       "9"
      ],
      "dogru": 4,
-     "aciklama": "Teleskopik seri: 1/(k×(k+1)) = 1/k - 1/(k+1). Toplam = (1-1/2) + (1/2-1/3) + ... + (1/n-1/(n+1)) = 1 - 1/(n+1) = n/(n+1). n/(n+1) = 9/10 → 10n = 9(n+1) = 9n+9 → n=9. Cevap: C) 9",
+     "aciklama": "Her terim 1/(k(k+1)) = 1/k - 1/(k+1) biçiminde yazılırsa toplam teleskopik olarak sadeleşir: (1 - 1/2) + (1/2 - 1/3) + ... + (1/n - 1/(n+1)) = 1 - 1/(n+1) = n/(n+1). Bu değer 9/10'a eşit olduğundan n/(n+1) = 9/10 ve n = 9 bulunur. Kontrol: 9/(9+1) = 9/10. \"10\" seçeneği paydadaki n+1 = 10 değerini n sanmaktan doğar; n = 10 için toplam 10/11 olurdu. Doğru cevap \"9\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -876,7 +895,7 @@
       "21,15"
      ],
      "dogru": 3,
-     "aciklama": "Her ulaşım aracı için toplam dakika-kişi: Metro: 35 × 120.000 = 4.200.000, Otobüs: 50 × 204.000 = 10.200.000, Taksi: 20 × 40.000 = 800.000, Bisiklet: 25 × 30.000 = 750.000, Özel Araç: 55 × 80.000 = 4.400.000. Toplam: 4.200.000 + 10.200.000 + 800.000 + 750.000 + 4.400.000 = 20.350.000 dakika-kişi = 20,35 milyon dakika-kişi. Cevap: C) 20,35.",
+     "aciklama": "Toplam süre, her araç için süre ile kullanıcı sayısının çarpımlarının toplamıdır. Metro: 35 x 120.000 = 4,20 milyon. Otobüs: 50 x 204.000 = 10,20 milyon. Taksi: 20 x 40.000 = 0,80 milyon. Bisiklet: 25 x 30.000 = 0,75 milyon. Özel Araç: 55 x 80.000 = 4,40 milyon. Toplam: 4,20 + 10,20 + 0,80 + 0,75 + 4,40 = 20,35 milyon dakika-kişi olur. Bisiklet çarpımı olan 0,75 milyon unutulursa sonuç 19,60 çıkar; Bisiklet ve Taksi birlikte unutulursa ise 18,80 bulunur. Bu değerler seçeneklerle tam uyuşmaz. Doğru cevap \"20,35\" seçeneğidir.",
      "zorluk": "orta"
     },
     {
@@ -892,7 +911,8 @@
       "180"
      ],
      "dogru": 0,
-     "aciklama": "72 = 2³ × 3². Bölenlerin toplamı formülü: (2⁰+2¹+2²+2³)(3⁰+3¹+3²) = (1+2+4+8)(1+3+9) = 15 × 13 = 195."
+     "aciklama": "72 = 2³ × 3². Bölenlerin toplamı formülü: (2⁰+2¹+2²+2³)(3⁰+3¹+3²) = (1+2+4+8)(1+3+9) = 15 × 13 = 195.",
+     "zorluk": "orta"
     },
     {
      "id": "103490",
@@ -922,8 +942,8 @@
       "16",
       "14"
      ],
-     "dogru": 0,
-     "aciklama": "Her grupta aynı sayıda ağaç olacak ve grup sayısı en az olacaksa, gruptaki ağaç sayısı en büyük olmalıdır. Bu da EBOB(48, 64, 80) = 16 ağaçtır. Toplam ağaç: 48 + 64 + 80 = 192. Grup sayısı: 192 ÷ 16 = 12. Cevap A) 12.",
+     "dogru": 2,
+     "aciklama": "EBOB(48,64,80)=16 olduğundan en az grup sayısı 192/16=12'dir. Doğru cevap 12 şeklindedir.",
      "zorluk": "kolay"
     },
     {
@@ -939,7 +959,8 @@
       "4"
      ],
      "dogru": 1,
-     "aciklama": "n³ - n = n(n²-1) = n(n-1)(n+1) = (n-1)·n·(n+1). Bu ifade ardışık üç tam sayının çarpımıdır. Ardışık üç tam sayının çarpımı her zaman 2'ye ve 3'e bölünür, dolayısıyla 6'ya bölünür."
+     "aciklama": "n³ - n = n(n²-1) = n(n-1)(n+1) = (n-1)·n·(n+1). Bu ifade ardışık üç tam sayının çarpımıdır. Ardışık üç tam sayının çarpımı her zaman 2'ye ve 3'e bölünür, dolayısıyla 6'ya bölünür.",
+     "zorluk": "orta"
     },
     {
      "id": "103141",
@@ -953,8 +974,8 @@
       "4",
       "8"
      ],
-     "dogru": 1,
-     "aciklama": "Şu anki yaşlar: 10+2=12 ve 6+2=8. Şu anki toplam 12+8=20. Her yıl toplam 2 artar. 30 - 20 = 10 fark, 10 / 2 = 5 yıl daha gerekir. Ama soru 'kaç yıl sonra' diye soruyor ve cevap 5'tir; ancak şıklara bakıldığında B) 5 doğrudur. Dikkat: 5 yıl sonra 12+5=17 ve 8+5=13 → toplam 30. ✓ Cevap B) 5, yani answer indeksi 1.",
+     "dogru": 0,
+     "aciklama": "Şimdiki yaşlar 12 ve 8, toplam 20; 20+2x=30 denkleminden x=5 bulunur. Doğru cevap 5 şeklindedir.",
      "zorluk": "kolay"
     }
    ]
@@ -986,13 +1007,13 @@
      "soru": "Kanuni Sultan Süleyman döneminde imzalanan Fransız Kapitülasyonları (1535-1536), aşağıdaki değerlendirmelerden hangisi çerçevesinde en doğru biçimde yorumlanabilir?",
      "secenekler": [
       "Kanuni'nin İslam hukukuna göre gayrimüslimlere tanınması zorunlu olan zimmî haklarının Batılı devletlere uyarlanmasından ibarettir.",
-      "Osmanlı'nın ekonomik zafiyetini gösteren ilk belge niteliğindedir; çünkü Fransa'ya tek taraflı ticaret ayrıcalıkları verilmesi Osmanlı tüccarlarını dezavantajlı konuma düşürmüştür.",
+      "Osmanlı'nın ekonomik zafiyetini gösteren ilk belge niteliğindedir; çünkü Fransa'ya tek taraflı ticaret ayrıcalıkları verilmesi Osmanlı tüccarlarını dezavantajlı konuma düşürmüş, üstelik iç pazarı kalıcı biçimde yabancı rekabete açmıştır.",
       "Osmanlı'nın Akdeniz ticaretinde Venedik ve Ceneviz'in etkisini kırmak amacıyla oluşturduğu bilinçli bir ticaret stratejisinin ürünüdür.",
       "Avrupa devletleriyle eşit egemenlik esasına dayalı ilk modern diplomasi örneğidir ve Westfalya öncesi dönemde benzeri görülmemiş bir uluslararası hukuk düzenlemesidir.",
       "Hasburglara karşı ortak cephe oluşturmak amacıyla Fransa ile kurulan siyasi ittifakın somut çıktısıdır ve dönem koşullarında Osmanlı için rasyonel bir dış politika aracıdır; ekonomik uzun vadeli maliyetleri ise öngörülmemiştir."
      ],
      "dogru": 4,
-     "aciklama": "1535-1536 Kapitülasyonları, Osmanlı'nın Habsburglara (hem İspanya hem Kutsal Roma İmparatorluğu) karşı Fransa'yı müttefik tutma stratejisinin ürünüdür. Dönem koşullarında bu, rasyonel bir güç dengesi politikasıdır. Ekonomik ayrıcalıkların (düşük gümrük, konsolosluk hakları) uzun vadede Osmanlı ekonomisine zarar vereceği o dönemde öngörülmemiştir; kapitülasyonların tahribatı özellikle 18-19. yüzyıllarda belirginleşmiştir. A yanlış çünkü ilk kapitülasyonlar Fatih döneminde Venedik'e verilmiştir. C kapitülasyonların amacını hatalı çerçevelemektedir. D hukuki açıdan zorlama bir yorumdur. E abartılıdır ve tarihsel karşılaştırma açısından hatalıdır.",
+     "aciklama": "1535-1536 kapitülasyonları, Kanuni döneminde Fransa ile Habsburglara karşı kurulan siyasi yakınlaşmanın ürünüdür. Fransa Kralı I. François, Kutsal Roma-Germen İmparatoru V. Karl'a karşı Osmanlı desteği arıyordu. Osmanlı için bu ayrıcalıklar, güçlü olduğu bir dönemde müttefik kazanmayı sağlayan rasyonel bir dış politika aracıydı. Uzun vadeli ekonomik sonuçlar o dönemde öngörülmemiştir. \"Osmanlı'nın ekonomik zafiyetini gösteren ilk belge niteliğindedir\" ile başlayan seçenek yanlıştır; çünkü Osmanlı bu dönemde zayıf değil, güçlü bir konumdaydı. \"Avrupa devletleriyle eşit egemenlik esasına dayalı ilk modern diplomasi örneğidir\" ile başlayan seçenek de yanlıştır; kapitülasyonlar padişahın tek taraflı bir lütfu (ahidname) olarak verilmiştir. Doğru cevap \"Hasburglara karşı ortak cephe oluşturmak amacıyla Fransa ile kurulan siyasi ittifakın somut çıktısıdır\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -1008,7 +1029,8 @@
       "Büyük Selçuklu Devleti, halife unvanını da benimseyerek dini ve siyasi otoriteyi tek elde toplamıştır"
      ],
      "dogru": 3,
-     "aciklama": "Karahanlılar, Satuk Buğra Han'ın (ölümü yaklaşık 955) önderliğinde İslamiyet'i resmi din olarak benimseyen ilk Türk devleti olarak kabul edilmektedir. Diğer şıklar yanlış bilgi içermektedir: Karahanlılar Arap alfabesini benimsedi ve Türkçeyi bu alfabeyle yazdı (A yanlış). Harzemşahlar Moğol istilasına direnemeyerek 1231'de yıkıldı (B yanlış). Gazneli Devleti, Alptekin'in Sâmânilere bağlı bir komutan olarak kurduğu bir yapıdan doğdu; Sâmânilerle bağı başlangıçta güçlüydü (D yanlış). Büyük Selçuklular sultan unvanı kullandı, halife unvanını almadı; halifelik Abbasilerde kaldı (E yanlış)."
+     "aciklama": "Karahanlılar, Satuk Buğra Han döneminde İslamiyet'i devlet dini olarak kabul eden ilk Türk devletidir. Satuk Buğra Han'ın Müslüman olması, İslamiyet'in Türkler arasında yayılması bakımından dönüm noktasıdır. Karahanlılar Arap alfabesini kullanmaya başlamış, Kutadgu Bilig gibi eserler Karahanlı sahasında yazılmıştır. \"Karahanlılar, İslamiyet'i Türk boyları arasında yayan ilk Türk-İslam devleti olmakla birlikte Arap alfabesini hiçbir zaman benimsememiştir\" yargısı bu yüzden yanlıştır. \"Gazneli Devleti, kuruluşundan itibaren tamamen bağımsız hareket etmiş, hiçbir zaman Sâmânilere bağlı kalmamıştır\" yargısı da yanlıştır; Gazneliler Sâmânilerin komutanları tarafından kurulmuştur. Ayrıca Harzemşahlar Moğol istilasına karşı devletlerini koruyamamıştır. Doğru cevap \"İlk Müslüman Türk devleti kabul edilen Karahanlılar, kurucusu Satuk Buğra Han önderliğinde İslamiyet'i benimsemiştir\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "31339",
@@ -1039,7 +1061,8 @@
       "Azınlıkların dini ve hayır kurumları kurma hakkı antlaşmayla güvence altına alınmıştır."
      ],
      "dogru": 1,
-     "aciklama": "Lozan Antlaşması'nın azınlık hakları bölümü (madde 38-44), gayrimüslim azınlıklara din, eğitim, dil ve vakıf kurma alanlarında çeşitli haklar tanımaktadır. Ancak antlaşma, azınlıklara parlamento ya da herhangi bir siyasi organda ayrılmış sandalye (kota) hakkı tanımamaktadır. Yani 'siyasi temsil kotası' şeklinde bir düzenleme antlaşmada yer almaz. Diğer şıklar (kendi dilinde eğitim, dini kurumlar, denetimin Milletler Cemiyeti'nde olması) antlaşmanın gerçek hükümlerine uymaktadır."
+     "aciklama": "Lozan Antlaşması'nın azınlık hakları bölümü (madde 38-44), gayrimüslim azınlıklara din, eğitim, dil ve vakıf kurma alanlarında çeşitli haklar tanımaktadır. Ancak antlaşma, azınlıklara parlamento ya da herhangi bir siyasi organda ayrılmış sandalye (kota) hakkı tanımamaktadır. Yani 'siyasi temsil kotası' şeklinde bir düzenleme antlaşmada yer almaz. Diğer şıklar (kendi dilinde eğitim, dini kurumlar, denetimin Milletler Cemiyeti'nde olması) antlaşmanın gerçek hükümlerine uymaktadır.",
+     "zorluk": "orta"
     },
     {
      "id": "31696",
@@ -1063,10 +1086,10 @@
      "konuId": "i_lk_turk_devletleri",
      "soru": "Türk devlet geleneğinde 'Kut' anlayışı ne anlama gelmektedir?",
      "secenekler": [
-      "Toprak genişliği ve zenginlik",
+      "Hükümdarın sahip olduğu toprak genişliği ve maddi zenginlik",
       "Halk meclisinin onayı",
       "Hükümdarın askeri gücü",
-      "Hükümdarın soyundan gelmesi",
+      "Hükümdarın hanedan soyundan gelmesi",
       "Tanrı tarafından verildiğine inanılan hükmetme yetkisi"
      ],
      "dogru": 4,
@@ -1096,7 +1119,7 @@
      "soru": "Mudanya Mütarekesi (11 Ekim 1922) ile Lozan Antlaşması'nın imzalanması (24 Temmuz 1923) arasında geçen yaklaşık dokuz aylık dönem, Türk diplomatik stratejisi açısından değerlendirildiğinde hangi yapısal güçlüğü en açık biçimde ortaya koymaktadır?",
      "secenekler": [
       "Bu dönem, savaş meydanında kazanılan zaferin kalıcı siyasi ve hukuki kazanımlara dönüştürülmesinin hiç de otomatik olmadığını göstermektedir; zira İngiltere başta olmak üzere İtilaf devletleri Türkiye'nin tutumunu müzakerede yavaşlatmak, kapitülasyonlar ile azınlık hakları gibi kırmızı çizgileri yumuşatmak için kaldıraç olarak kullandı.",
-      "Mudanya'dan Lozan'a uzanan bu dönemde Türkiye, Fransa ve İtalya'nın arabuluculuğuna muhtaç kaldı; bu iki devletin desteği olmaksızın müzakere sürdürülebilir nitelikte değildi.",
+      "Mudanya'dan Lozan'a uzanan bu dönemde Türkiye, Fransa ve İtalya'nın arabuluculuğuna muhtaç kaldı; bu iki devletin desteği olmaksızın müzakere sürdürülebilir nitelikte değildi; Türkiye bağımsız bir müzakere hattı kuramamış, her aşamada bu iki devletin desteğine bağımlı kalmış ve kendi tezlerini ancak onların onayıyla gündeme getirebilmiştir.",
       "Bu dönem, Türkiye'nin Sovyetler Birliği'nden yeterli diplomatik destek alamaması sonucunda müzakerelerde tamamen yalnız kaldığı süreci kapsamaktadır.",
       "Bu dönemin asıl güçlüğü Yunanistan ile yaşanan gerginliklerden kaynaklanmakta olup Yunanistan Lozan sürecinde zaman zaman barış masasını terk etmekle tehdit etmiştir.",
       "Bu dönemin temel güçlüğü, Mustafa Kemal'in İsmet Paşa'yı baş müzakereci olarak seçmesiyle ortaya çıkan iç muhalefeti yönetmektir."
@@ -1113,7 +1136,7 @@
      "secenekler": [
       "Dış baskının demokratik reformu her koşulda mümkün kıldığının kanıtı",
       "Dış koşulluluğun iç siyasi aktörlerin çıkarlarıyla örtüşmesi halinde köklü kurumsal dönüşümü mümkün kıldığının bir örneği",
-      "Türkiye'de demokratik konsolidasyonun yalnızca dış dinamikler tarafından sağlanabileceğinin ispatı",
+      "Türkiye'de demokratik konsolidasyonun yalnızca dış dinamikler tarafından sağlanabileceğinin ve iç aktörlerin belirleyici olmadığının ispatı",
       "Ulusal egemenliğin AB normlarına tamamen devredildiğinin göstergesi",
       "Ordu-sivil ilişkilerinin kalıcı olarak AB standartlarına kavuştuğunun belgesi"
      ],
@@ -1134,7 +1157,8 @@
       "Fuat Paşa"
      ],
      "dogru": 3,
-     "aciklama": "1876 Kanun-i Esasisi'nin hazırlanmasında en etkin rol Midhat Paşa'ya aittir. Anayasanın baş mimarı olarak bilinen Midhat Paşa, Osmanlı meşrutiyet hareketinin önde gelen isimlerinden biridir. Mustafa Reşit Paşa Tanzimat Fermanı'nın, Ali Paşa ile Fuat Paşa ise Islahat Fermanı sürecinin önemli isimleridir. Kâmil Paşa ise II. Meşrutiyet döneminin sadrazamlarından biridir."
+     "aciklama": "1876 Kanun-i Esasisi'nin hazırlanmasında en etkin rol Midhat Paşa'ya aittir. Anayasanın baş mimarı olarak bilinen Midhat Paşa, Osmanlı meşrutiyet hareketinin önde gelen isimlerinden biridir. Mustafa Reşit Paşa Tanzimat Fermanı'nın, Ali Paşa ile Fuat Paşa ise Islahat Fermanı sürecinin önemli isimleridir. Kâmil Paşa ise II. Meşrutiyet döneminin sadrazamlarından biridir.",
+     "zorluk": "orta"
     },
     {
      "id": "30262",
@@ -1149,7 +1173,8 @@
       "Yeniçeri ocağının yeniden örgütlenerek şehzadelere destek vermesi"
      ],
      "dogru": 0,
-     "aciklama": "Fetret Devri (1402-1413), Yıldırım Bayezid'in oğulları arasındaki taht mücadelesiyle geçti. Şehzadelerden Çelebi Mehmed (I. Mehmed), sırasıyla İsa, Süleyman ve Musa Çelebileri etkisiz hale getirerek 1413'te tek hükümdar oldu. Bu tarihle birlikte Fetret Devri kapandı ve Osmanlı Devleti'nin toparlanma süreci başladı."
+     "aciklama": "Fetret Devri (1402-1413), Yıldırım Bayezid'in oğulları arasındaki taht mücadelesiyle geçti. Şehzadelerden Çelebi Mehmed (I. Mehmed), sırasıyla İsa, Süleyman ve Musa Çelebileri etkisiz hale getirerek 1413'te tek hükümdar oldu. Bu tarihle birlikte Fetret Devri kapandı ve Osmanlı Devleti'nin toparlanma süreci başladı.",
+     "zorluk": "orta"
     },
     {
      "id": "30145",
@@ -1160,11 +1185,12 @@
       "Hükümdarın dini liderlik yetkisini gösteren unvan",
       "Genellikle hükümdar soyundan gelen ve taşra yönetiminde görevlendirilen prens ya da vali",
       "Devletin baş komutanına verilen askeri unvan",
-      "Bağımsız küçük Türkmen beyliklerinin liderlerine verilen unvan",
-      "Abbasi halifesinin Selçuklu hükümdarına verdiği en yüksek onur unvanı"
+      "Bağımsız küçük Türkmen beyliklerinin liderlerine verilen geleneksel unvan",
+      "Abbasi halifesinin Selçuklu hükümdarına verdiği en yüksek düzeydeki onur ve saygınlık unvanı"
      ],
      "dogru": 1,
-     "aciklama": "Selçuklu yönetim geleneğinde 'melik', hanedan soyundan gelen ve büyük sultanın taşra valisi ya da yarı bağımsız yöneticisi konumundaki prensler için kullanılırdı. Her melik genellikle önemli bir bölgeden sorumluydu ve yanında atabeyler bulunurdu. Bu uygulama, zaman içinde merkeziyetçiliği zayıflatan bir unsur haline geldi ve devletin parçalanmasında belirleyici bir rol oynadı."
+     "aciklama": "Selçuklu yönetim geleneğinde 'melik', hanedan soyundan gelen ve büyük sultanın taşra valisi ya da yarı bağımsız yöneticisi konumundaki prensler için kullanılırdı. Her melik genellikle önemli bir bölgeden sorumluydu ve yanında atabeyler bulunurdu. Bu uygulama, zaman içinde merkeziyetçiliği zayıflatan bir unsur haline geldi ve devletin parçalanmasında belirleyici bir rol oynadı.",
+     "zorluk": "orta"
     },
     {
      "id": "31376",
@@ -1179,7 +1205,8 @@
       "Almanya'ya yüklenen ağır ekonomik koşullar, milliyetçi ve aşırı siyasi hareketlerin güçlenmesine zemin hazırlamıştır."
      ],
      "dogru": 3,
-     "aciklama": "C seçeneği yanlıştır. Savaş sonrası dönemde kurulan yeni ulus-devletler ve sınır çizimi, Avrupa'daki milliyetçi gerilimleri çözmek bir yana büyük ölçüde yeni sorunlar yaratmıştır. Azınlıkların sınır ötesinde kalması, toprak anlaşmazlıkları ve özellikle Almanya'nın duyduğu derin haksızlık hissi, II. Dünya Savaşı'nın zeminini hazırlamıştır. Kalıcı barış tesis edilememiş; aksine savaşlar arasındaki dönem (1919-1939) yeni krizlerle dolup taşmıştır."
+     "aciklama": "I. Dünya Savaşı sonrasında Avrupa'da kurulan yeni ulus-devletler milliyetçi gerilimleri ortadan kaldırmamış, aksine azınlık sorunları ve sınır anlaşmazlıkları nedeniyle yeni gerilimler doğurmuştur. Barış da kalıcı olmamış, yirmi yıl içinde II. Dünya Savaşı başlamıştır. Diğer yargılar doğrudur: İspanyol Gribi savaş koşullarında yayılarak milyonlarca ölüme yol açmış, savaş Avrupa'nın ekonomik üstünlüğünü zayıflatıp ABD ve Japonya'yı güçlendirmiş, kadınların çalışma hayatına katılımı oy hakkı gibi kazanımlara katkı sağlamıştır. Almanya'ya yüklenen ağır koşullar da aşırı akımların güçlenmesine zemin hazırlamıştır. Karıştırılabilecek \"Almanya'ya yüklenen ağır ekonomik koşullar\" seçeneği tarihsel olarak doğrudur. Doğru cevap \"Savaş sonrası dönemde Avrupa'da kurulan yeni ulus-devletler, milliyetçi gerilimleri tamamen ortadan kaldırmış\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "30654",
@@ -1205,8 +1232,8 @@
      "secenekler": [
       "Basın sansürünün Lozan sonrasında yasal zemine oturtulması",
       "Takrir-i Sükun Kanunu ile İstiklal Mahkemelerinin muhalefeti bastırmakta araç olarak kullanılması",
-      "Üniversitelerin Maarif Bakanlığı'na bağlanarak akademik özerkliğin kısıtlanması",
-      "Cumhurbaşkanlığı makamının anayasal yetki genişliğiyle tasarlanması",
+      "Üniversitelerin doğrudan Maarif Bakanlığı'na bağlanarak akademik özerkliğin köklü biçimde kısıtlanması",
+      "Cumhurbaşkanlığı makamının geniş anayasal yetkilerle tasarlanması",
       "Yargı bağımsızlığının 1924 Anayasası'nda güvence altına alınmaması"
      ],
      "dogru": 1,
@@ -1242,7 +1269,8 @@
       "Yeniçeri sayısının fiili savaşan asker yerine kadrolu maaşlıya dönüşerek şişmesi"
      ],
      "dogru": 2,
-     "aciklama": "Devşirme sisteminin bozulmasının sonuçları arasında ocağa Müslüman Türklerin alınması, çocukların kayıtlara geçirilmesi, yeniçerilerin sivil meslek edinmesi ve kadro şişmesi sayılabilir. Sipahi sınıfının merkezi otorite üzerinde baskı kurması ise devşirme sisteminin değil tımar sisteminin bozulmasıyla ilgili bir gelişmedir. Sipahiler kapıkulu değil eyalet kuvvetleri olduğundan devşirme sisteminin çöküşüyle doğrudan bağlantılandırılamaz."
+     "aciklama": "Devşirme sisteminin bozulmasının sonuçları arasında ocağa Müslüman Türklerin alınması, çocukların kayıtlara geçirilmesi, yeniçerilerin sivil meslek edinmesi ve kadro şişmesi sayılabilir. Sipahi sınıfının merkezi otorite üzerinde baskı kurması ise devşirme sisteminin değil tımar sisteminin bozulmasıyla ilgili bir gelişmedir. Sipahiler kapıkulu değil eyalet kuvvetleri olduğundan devşirme sisteminin çöküşüyle doğrudan bağlantılandırılamaz.",
+     "zorluk": "orta"
     },
     {
      "id": "31529",
@@ -1257,23 +1285,24 @@
       "Gümrü, doğu sınırının hukuki temelini atmış; Moskova ve Kars bu temeli çok taraflı güvence altına almıştır"
      ],
      "dogru": 4,
-     "aciklama": "Gümrü Antlaşması (3 Aralık 1920), henüz Sovyetleşmemiş bağımsız Ermenistan ile imzalanmış ve doğu sınırının Türk lehine temel çerçevesini çizmiştir. Ancak Ermenistan'ın kısa süre sonra Sovyetler Birliği'ne katılması bu antlaşmanın statüsünü tartışmalı hale getirmiştir. Moskova Antlaşması (Mart 1921) TBMM ile Sovyet Rusya arasında imzalanarak Kafkasya'daki yeni siyasi gerçekliği tescil etmiş; Kars Antlaşması (Ekim 1921) ise Transkafkasya Sovyet cumhuriyetlerini de dahil ederek sınırları çok taraflı güvence altına almıştır. Bu üç belge birbirini geçersiz kılmaz; aksine birbiri üzerine inşa edilmiştir. E seçeneği ise tarihsel olarak hatalıdır: Gümrü imzalandığında Ermenistan henüz resmen bağımsızdı, Sovyetleşme Aralık 1920'nin sonlarında gerçekleşmiştir.",
+     "aciklama": "Kronolojiye bakalım. Gümrü Antlaşması Aralık 1920'de TBMM ile Ermenistan arasında imzalandı ve doğu sınırının ilk hukuki çerçevesini oluşturdu. Moskova Antlaşması Mart 1921'de Sovyet Rusya ile imzalandı ve Kafkasya'daki sınırı Sovyet tarafıyla da güvence altına aldı. Kars Antlaşması Ekim 1921'de Kafkasya cumhuriyetlerinin de katılımıyla bu düzenlemeyi çok taraflı hâle getirdi. \"Kars, Gümrü'yü hükümsüz kılmış; doğu sınırının tek geçerli kaynağı Kars Antlaşması'dır\" seçeneği en çok karıştırılandır. Ancak Kars sınırı yeniden kurmamış, Gümrü'deki çizgiyi büyük ölçüde teyit etmiştir. \"Moskova, Sovyetler'in Ermenistan üzerindeki vesayetini onaylatmış...\" seçeneği ise TBMM'nin kazanımını görmezden gelir. Doğru cevap \"Gümrü, doğu sınırının hukuki temelini atmış; Moskova ve Kars...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
-     "id": "31802",
+     "id": "30711",
      "dersId": "tarih",
      "konuId": "cok_partili_donem",
-     "soru": "Demokrat Parti iktidarı döneminde 1954'te çıkarılan 'Matbuat Kanunu' ve akabinde uygulanan basın kısıtlamaları, hangi anayasal ilkeyle doğrudan çelişmiştir?",
+     "soru": "1980 askeri darbesinin ardından siyasi partiler kapatılmış, parti liderlerine çeşitli yasaklar getirilmiştir. 1983 seçimlerinde kurulan Anavatan Partisi'nin bu ortamda başarı kazanmasının temel nedeni aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Kuvvetler ayrılığı ilkesi",
-      "Basın özgürlüğü güvencesi",
-      "Laiklik ilkesi",
-      "Eşitlik ilkesi",
-      "Yargı bağımsızlığı ilkesi"
+      "Seçim kanununun yalnızca ANAP'ın lehine olacak biçimde düzenlenmesi",
+      "ANAP'ın hem liberal hem muhafazakâr hem milliyetçi hem de sosyal demokrat eğilimleri bünyesinde barındırması",
+      "Sol partilerin ve CHP'nin seçimleri boykot etmesi",
+      "Turgut Özal'ın güçlü kişisel karizması ve teknokratik kimliğinin seçmen üzerindeki etkisi",
+      "Askerî yönetimin ANAP'ı açıkça desteklemesi ve diğer partilerin seçime katılmasını tümüyle engellemesi ve seçim sürecini tek yanlı biçimde şekillendirmesi"
      ],
      "dogru": 1,
-     "aciklama": "1954 yılında çıkarılan basın kanunu değişiklikleriyle hükümeti eleştiren gazeteciler 'hakaret' ve 'asılsız haber' gibi gerekçelerle yargılanabilir hale getirilmiştir. Bu düzenleme, 1924 Anayasası'nın güvence altına aldığı basın özgürlüğüyle çelişmiş; Ahmet Emin Yalman, Hüseyin Cahit Yalçın gibi köklü gazeteciler davalarla karşılaşmıştır. Basın özgürlüğüne getirilen bu kısıtlamalar, muhalefet partilerinin ve aydın kesimin DP'ye yönelik eleştirilerinin odak noktalarından biri olmuştur."
+     "aciklama": "ANAP'ın 1983 zaferinin en temel açıklaması, partinin dört siyasi eğilimi (liberalizm, muhafazakârlık, milliyetçilik, sosyal demokrasi) tek çatı altında toplayarak geniş bir seçmen kitlesine hitap etmesidir. Bu 'dört eğilim' söylemi, toplumun farklı kesimlerini ANAP çatısında buluşturdu. Askeri yönetim aslında ANAP'a mesafeli durarak Milliyetçi Demokrasi Partisi'ni destekliyordu; solun boykotu söz konusu değildi, seçim kanunu ise tüm partilere eşit biçimde uygulanıyordu.",
+     "zorluk": "orta"
     },
     {
      "id": "31287",
@@ -1285,7 +1314,7 @@
       "Almanya ile yapılan ittifak müzakerelerinde Alman tarafının Osmanlı'nın milliyetçi bir kimlik benimsemesini ön koşul olarak öne sürmesi",
       "Balkan topraklarının yitirilmesinin Hristiyan ve Müslüman Osmanlı tebaasını bütünleştirme projesini fiilen çöküşe uğratması; geriye kalan homojen Müslüman-Türk nüfusun Türkçü kimliği işlevsel kılması",
       "İTC'nin Arap vilayetlerindeki nüfuzunu yitirmesi sonucunda Türk seçkinlerinin kendi dar siyasi çıkarları doğrultusunda Türkçülüğü benimsemesi",
-      "Ziya Gökalp'in Türk Ocakları aracılığıyla İTC üst yönetimini ideolojik olarak dönüştürmesi ve bu dönüşümün savaştan bağımsız biçimde gerçekleşmesi"
+      "Ziya Gökalp'in Türk Ocakları aracılığıyla İTC üst yönetimini ideolojik olarak dönüştürmesi ve bu dönüşümün savaştan tümüyle bağımsız biçimde gerçekleşmesi; Balkan yenilgisinin hiçbir etkisinin olmaması"
      ],
      "dogru": 2,
      "aciklama": "Balkan Savaşları, Osmanlıcılık projesinin fiilen sonunu getirmiştir. Ortodoks Hristiyanların yoğun bulunduğu Balkan vilayetlerinin büyük bölümünün yitirilmesi, Osmanlı nüfusunu demografik açıdan Müslüman ve giderek daha Türkçe konuşan bir yapıya doğru yöneltmiştir. Bu demografik gerçek, Türkçü kimlik siyasetini hem ideolojik hem de pratik açıdan daha cazip kılmıştır. Böylece Türkçülük, soyut bir ülkü olmaktan çıkıp mevcut durumla örtüşen işlevsel bir ideolojiye dönüşmüştür.",
@@ -1298,13 +1327,14 @@
      "soru": "Osmanlı Devleti'nde 'istimalet politikası'nın uygulanmasının fetih süreçlerine temel katkısı nedir?",
      "secenekler": [
       "Fethedilen bölgelerdeki halkın zorla İslamlaştırılmasını sağlamak",
-      "Yerel yöneticileri devşirme yoluyla merkezi yönetime entegre etmek",
-      "Balkanlardaki feodal beyleri Osmanlı ordusuna paralı asker olarak bağlamak",
+      "Yerel yöneticileri devşirme yoluyla merkezî yönetime entegre etmek",
+      "Balkanlardaki feodal beyleri Osmanlı ordusuna paralı asker olarak bağlamak ve denetim altına almak",
       "Fethedilen bölge halkını hoşgörü ile kazanarak direnci azaltmak ve kalıcı egemenlik kurmak",
       "Kilise ve manastır gelirlerine el koyarak hazineyi güçlendirmek"
      ],
      "dogru": 3,
-     "aciklama": "İstimalet politikası; fethedilen bölgelerde halka din, dil ve yaşam biçimi konusunda hoşgörü gösterilmesi anlamına gelir. Bu politika sayesinde yerel halk Osmanlı egemenliğine karşı direnç göstermemiş, hatta kimi zaman Osmanlı idaresini tercih etmiştir. Böylece fetihler hem hızlanmış hem de kalıcı hale gelmiştir."
+     "aciklama": "İstimalet politikası; fethedilen bölgelerde halka din, dil ve yaşam biçimi konusunda hoşgörü gösterilmesi anlamına gelir. Bu politika sayesinde yerel halk Osmanlı egemenliğine karşı direnç göstermemiş, hatta kimi zaman Osmanlı idaresini tercih etmiştir. Böylece fetihler hem hızlanmış hem de kalıcı hale gelmiştir.",
+     "zorluk": "orta"
     },
     {
      "id": "30131",
@@ -1331,11 +1361,11 @@
       "Balfour Deklarasyonu Filistin'in Fransız mandası olacağını öngörürken Sykes-Picot bu bölgeyi doğrudan İngiliz egemenliğine bıraktı",
       "Rusya'nın antlaşmayı deşifre etmesiyle Şerif Hüseyin'e verilen sözler geçersiz sayıldı ve İngiltere yalnızca Sykes-Picot'u tanıdı",
       "Sykes-Picot, Fransız nüfuzunu sınırlarken Balfour bağımsız Arap devletlerini tanıdığından iki belge Fransız-İngiliz çıkarlarını çatıştırdı",
-      "İki belge çelişmez; Sykes-Picot askeri işgal bölgelerini, Balfour ise barış sonrası kalıcı sınırları düzenlediğinden tamamlayıcı niteliktedir",
+      "İki belge çelişmez; Sykes-Picot askerî işgal bölgelerini, Balfour ise barış sonrası kalıcı sınırları düzenlediğinden birbirini tamamlayıcı niteliktedir; bu nedenle İngiliz politikasında hiçbir tutarsızlık yoktur ve verilen vaatler tümüyle uyumludur",
       "İngiltere, Sykes-Picot ile Fransızlara ve Ruslara bölge üzerinde nüfuz alanları tanırken Balfour ile Filistin'de Yahudi yurdu kurulacağını vaat etti; oysa aynı topraklarda Şerif Hüseyin'e bağımsız Arap devleti kurma sözü de vermişti"
      ],
      "dogru": 4,
-     "aciklama": "İngiltere, 1915-1916'da Şerif Hüseyin ile yürüttüğü McMahon yazışmalarında Arap bölgelerinde bağımsız Arap devletinin kurulmasını destekledi. Aynı dönemde Fransızlarla Sykes-Picot Antlaşması'nı imzalayarak bölgeyi İngiliz ve Fransız nüfuz alanlarına böldü. 1917'de ise Balfour Deklarasyonu ile Filistin'de Yahudi ulusal yurdu kurulmasına destek vereceğini açıkladı. Bu üç taahhüt birbirleriyle açıkça çelişmektedir ve günümüz Ortadoğu sorunlarının temel kaynaklarından biri olarak değerlendirilir. Rusya, Bolşevik Devrimi'nin ardından Sykes-Picot belgesini kamuoyuna açıkladı; ancak bu deşifre İngiltere'nin yükümlülüklerini değiştirmedi (E yanıltıcı). D şıkkı tarihsel çelişkiyi gizleyen yanlış bir yaklaşımdır.",
+     "aciklama": "Sykes-Picot Antlaşması (1916), İngiltere, Fransa ve Rusya arasında Osmanlı topraklarının nüfuz alanlarına bölünmesini öngörüyordu. Balfour Deklarasyonu (1917) ise İngiltere'nin Filistin'de bir Yahudi ulusal yurdu kurulmasını desteklediğini açıkladı. Buna karşılık İngiltere, Hüseyin-McMahon yazışmalarında Şerif Hüseyin'e Arap bağımsızlığı sözü vermişti. Aynı bölge için birbiriyle bağdaşmayan vaatler verilmesi çelişkinin özünü oluşturur. \"İki belge çelişmez; Sykes-Picot askerî işgal bölgelerini, Balfour ise barış sonrası kalıcı sınırları düzenlediğinden birbirini tamamlayıcı niteliktedir\" seçeneği yanlıştır; belgeler farklı vaatler içerir ve tutarsızlık barizdir. \"Balfour Deklarasyonu Filistin'in Fransız mandası olacağını öngörürken Sykes-Picot bu bölgeyi doğrudan İngiliz egemenliğine bıraktı\" seçeneği de yanlıştır; belgelerin içeriği tersine çevrilmiştir. Doğru cevap \"İngiltere, Sykes-Picot ile Fransızlara ve Ruslara bölge üzerinde nüfuz alanları tanırken Balfour ile Filistin'de Yahudi yurdu kurulacağını vaat etti\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -1351,7 +1381,8 @@
       "İki hükümetin ortak bir heyet oluşturarak konferansa katılmasıyla"
      ],
      "dogru": 1,
-     "aciklama": "Lozan Konferansı'na her iki Türk hükümetinin çağrılması, TBMM'yi harekete geçirmiştir. TBMM, 1 Kasım 1922'de saltanatı kaldırarak Osmanlı Hükümeti'ni hukuken sona erdirmiş; böylece konferansa yalnızca TBMM Hükümeti'nin temsilci göndereceği netleşmiştir. Bu gelişme, Türk siyasi tarihinin dönüm noktalarından birini oluşturmaktadır."
+     "aciklama": "Lozan Konferansı'na her iki Türk hükümetinin çağrılması, TBMM'yi harekete geçirmiştir. TBMM, 1 Kasım 1922'de saltanatı kaldırarak Osmanlı Hükümeti'ni hukuken sona erdirmiş; böylece konferansa yalnızca TBMM Hükümeti'nin temsilci göndereceği netleşmiştir. Bu gelişme, Türk siyasi tarihinin dönüm noktalarından birini oluşturmaktadır.",
+     "zorluk": "orta"
     },
     {
      "id": "31703",
@@ -1359,14 +1390,15 @@
      "konuId": "ataturk_i_lke_ve_i_nkilaplari",
      "soru": "Türk Tarih Tezi'nin 1930'lu yıllarda geliştirilmesinin Atatürk döneminin milliyetçilik anlayışı açısından hangi işlevi üstlendiği söylenebilir?",
      "secenekler": [
-      "Türk-İslam sentezini tarihsel temele oturtarak laikleşme sürecine meşruiyet kazandırmak",
+      "Türk-İslam sentezini tarihsel bir temele oturtarak laikleşme sürecine meşruiyet kazandırmak ve dinî kurumların dönüşümünü kolaylaştırmak",
       "Bizans ve Roma uygarlıklarının Türk etkisiyle şekillendiğini kanıtlamak",
       "Anadolu'nun Türk yurdu olmadığını ileri süren Batılı tezlere tarihsel veri sunmak",
       "Osmanlı tarihinin Türk kimliğinin temeli olarak yeniden yorumlanması",
       "Türklerin Orta Asya kökenlerini ve uygarlığa katkılarını ön plana çıkararak ulusal özgüveni pekiştirmek"
      ],
      "dogru": 4,
-     "aciklama": "Türk Tarih Tezi, Türklerin Orta Asya'dan dünyaya yayılarak büyük uygarlıklar kurduğunu, dolayısıyla köklü bir tarihe sahip olduğunu savunur. Bu yaklaşım, Osmanlı kimliğinden kopuşun yaşandığı bir dönemde yeni Türk kimliğine tarihsel derinlik ve özgüven kazandırmayı hedeflemiştir. İslam vurgusunu değil Türk-Orta Asya geleneğini öne çıkarması, laikleşme süreciyle de örtüşmektedir. Bizans ya da Roma'nın Türk etkisiyle şekillendiği tezi ise Türk Tarih Tezi'nin iddiası değildir."
+     "aciklama": "Türk Tarih Tezi, Türklerin Orta Asya'dan dünyaya yayılarak büyük uygarlıklar kurduğunu, dolayısıyla köklü bir tarihe sahip olduğunu savunur. Bu yaklaşım, Osmanlı kimliğinden kopuşun yaşandığı bir dönemde yeni Türk kimliğine tarihsel derinlik ve özgüven kazandırmayı hedeflemiştir. İslam vurgusunu değil Türk-Orta Asya geleneğini öne çıkarması, laikleşme süreciyle de örtüşmektedir. Bizans ya da Roma'nın Türk etkisiyle şekillendiği tezi ise Türk Tarih Tezi'nin iddiası değildir.",
+     "zorluk": "orta"
     },
     {
      "id": "30047",
@@ -1380,8 +1412,9 @@
       "I, II, III ve IV",
       "I, II ve III"
      ],
-     "dogru": 3,
-     "aciklama": "I. Doğru: 'Türk' adı devlet adı olarak ilk kez Göktürklerle ortaya çıkmıştır. II. Doğru: Akhunlar (Eftalitler) Batı Hunlarının uzantısı sayılmakta, Orta Asya ve Hindistan'a kadar uzanan geniş coğrafyada etkili olmuşlardır. III. Doğru: Hazarlar Müslüman Arap ordularını Kafkasya'da durdurmuş; yönetici sınıf kitlesel olarak Museviliği benimsemiştir. IV. Doğru: Kırgızlar 840'ta Uygur Devleti'ni yıkmış fakat güçlü ve kalıcı bir siyasi yapı kuramamışlardır. Tüm ifadeler doğrudur."
+     "dogru": 1,
+     "aciklama": "I. Doğru: 'Türk' adı devlet adı olarak ilk kez Göktürklerle ortaya çıkmıştır. II. Doğru: Akhunlar (Eftalitler) Batı Hunlarının uzantısı sayılmakta, Orta Asya ve Hindistan'a kadar uzanan geniş coğrafyada etkili olmuşlardır. III. Doğru: Hazarlar Müslüman Arap ordularını Kafkasya'da durdurmuş; yönetici sınıf kitlesel olarak Museviliği benimsemiştir. IV. Doğru: Kırgızlar 840'ta Uygur Devleti'ni yıkmış fakat güçlü ve kalıcı bir siyasi yapı kuramamışlardır. Tüm ifadeler doğrudur.",
+     "zorluk": "orta"
     }
    ]
   },
@@ -1418,7 +1451,8 @@
       "16.00"
      ],
      "dogru": 4,
-     "aciklama": "Dünya 24 saatte 360° döndüğünden her 1°'lik boylam farkı 4 dakikalık zaman farkına karşılık gelir. 60°D ile 30°D arasındaki fark 30°'dir. 30 × 4 = 120 dakika = 2 saattir. Doğuya gidildikçe saat ilerler; dolayısıyla 60°D'deki saat 14.00 + 2 = 16.00 olur."
+     "aciklama": "Dünya 24 saatte 360° döndüğünden her 1°'lik boylam farkı 4 dakikalık zaman farkına karşılık gelir. 60°D ile 30°D arasındaki fark 30°'dir. 30 × 4 = 120 dakika = 2 saattir. Doğuya gidildikçe saat ilerler; dolayısıyla 60°D'deki saat 14.00 + 2 = 16.00 olur.",
+     "zorluk": "orta"
     },
     {
      "id": "32737",
@@ -1426,10 +1460,10 @@
      "konuId": "nufus_yerlesme",
      "soru": "Türkiye'de kentsel nüfus oranı 1950'de yaklaşık %25 iken 2023'te %93'ü aşmıştır. Ancak bu kentleşme oranındaki artışın 'gerçek kentleşme'yi tam olarak yansıtmadığını savunan görüşe göre aşağıdaki argümanlardan hangisi en güçlü kanıtı oluşturur?",
      "secenekler": [
-      "Doğu illerindeki kentlerin nüfusunun hızla artması",
+      "Doğu illerindeki kentlerin nüfusunun son yıllarda hızla artması",
       "İç göçlerin batı illerinde yoğunlaşması",
       "Belediye sınırlarının genişletilerek kırsal nitelikli yerleşmelerin kentsel statüye alınması",
-      "Kentlerdeki işsizlik oranının kırsal alanlara göre daha düşük olması",
+      "Kentlerdeki işsizlik oranının kırsal alanlardakine göre belirgin biçimde daha düşük olması ve istihdam olanağı sunması",
       "Kentlerde konut fiyatlarının sürekli yükselmesi"
      ],
      "dogru": 2,
@@ -1459,13 +1493,13 @@
      "soru": "Türkiye'nin doğu kesimlerinde kışın yüksek basınç alanı yerleşirken batı kesimlerinde alçak basınç sistemleri hâkim olabilmektedir. Bu koşullar altında oluşan hava hareketi örüntüsü ve bunun Anadolu üzerindeki yağış dağılımına etkisi hangisi olur?",
      "secenekler": [
       "Batı rüzgârları İç Anadolu'ya yoğun kar yağışı taşırken Karadeniz kıyısı yüksek basıncın etkisinde kalır",
-      "Batıdan doğuya doğru siklonik hava; Akdeniz'den gelen ılık ve nemli hava kütlesi cephesel yağış oluşturarak Güneydoğu'ya taşınır",
-      "Doğu Anadolu yüksek basıncı çöker, siklonal faaliyet İç Anadolu'da gelişir ve kuvvetli konvektif yağış oluşur",
+      "Batıdan doğuya doğru siklonik hava hareketi gelişir; Akdeniz'den gelen ılık ve nemli hava kütlesi cephesel yağış oluşturarak Güneydoğu Anadolu'ya kadar taşınır",
+      "Doğu Anadolu üzerindeki yüksek basınç çöker, siklonal faaliyet İç Anadolu'da gelişir ve bölgede kuvvetli konvektif yağışlar oluşur",
       "Doğudan batıya doğru hava akışı; Ege ve Marmara'ya kuzey yönlü soğuk ve kuru hava taşır, yağışları azaltır",
       "Doğu Anadolu'daki soğuk ve yoğun hava kütlesi batıya akarak Ege'de sert poyraz koşulları oluşturur; İç Anadolu'da karasal kuru soğuk hâkim kalır"
      ],
      "dogru": 4,
-     "aciklama": "Türkiye'nin doğusunda kışın Sibirya Yüksek Basıncı'nın bir kolu yerleşir ve bölgedeki soğuk, yoğun hava kütleleri rüzgâr basınç gradyanına uyarak batıya doğru hareket eder. Bu hava hareketi İç Anadolu ve Ege-Marmara üzerinde poyraz (kuzey-kuzeydoğu yönlü) soğuk ve kuru hava etkisine yol açar. İç Anadolu ise kaynak bölgeye yakın olduğundan karasal kuru soğuk hava altında kalır. Akdeniz kökenli nemli hava sistemleri bu dönemde daha güneyde konumlanır. C seçeneği bu dinamiği en doğru biçimde açıklamaktadır.",
+     "aciklama": "Hava yüksek basınçtan alçak basınca doğru akar. Kışın doğuda yerleşen yüksek basınç, Doğu Anadolu üzerinde birikmiş soğuk ve yoğun karasal havadan oluşur. Batıda alçak basınç bulunduğu için bu soğuk hava batıya doğru akar ve Ege'ye kuzeydoğulu sert, soğuk rüzgârlar, yani poyraz koşulları olarak ulaşır. Hava kütlesi karasal kökenli olduğundan nem taşımaz. Bu nedenle İç Anadolu'da kuru ve soğuk hava hâkim kalır. \"Batıdan doğuya doğru siklonik hava hareketi gelişir...\" seçeneği akış yönünü ters vermiştir. \"Doğudan batıya doğru hava akışı; Ege ve Marmara'ya kuzey yönlü...\" seçeneği yönü doğru saptasa da akışın kaynağını ve İç Anadolu üzerindeki etkisini açıklamaz, \"kuzey yönlü\" ifadesi de akış yönüyle çelişir. Doğru cevap \"Doğu Anadolu'daki soğuk ve yoğun hava kütlesi batıya akarak Ege'de sert poyraz koşulları oluşturur...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -1481,7 +1515,8 @@
       "Akdeniz Bölgesi – Yazları kurak, kışları yağışlı iklim"
      ],
      "dogru": 2,
-     "aciklama": "Ege Bölgesi, Akdeniz iklimine benzer özellikler taşır; yazlar kurak ve sıcak, kışlar ılık ve yağışlı geçer. Her mevsim yağışlı iklim Karadeniz Bölgesi'nin özelliğidir. Bu nedenle 'Ege Bölgesi – Her mevsim yağışlı iklim' eşleştirmesi yanlıştır."
+     "aciklama": "Ege Bölgesi, Akdeniz iklimine benzer özellikler taşır; yazlar kurak ve sıcak, kışlar ılık ve yağışlı geçer. Her mevsim yağışlı iklim Karadeniz Bölgesi'nin özelliğidir. Bu nedenle 'Ege Bölgesi – Her mevsim yağışlı iklim' eşleştirmesi yanlıştır.",
+     "zorluk": "orta"
     },
     {
      "id": "32659",
@@ -1512,7 +1547,7 @@
       "Batı kıyılarında subtropikal yüksek basıncın alçalmalı hareketleri ve soğuk akıntılar yağışı baskılar"
      ],
      "dogru": 0,
-     "aciklama": "Batı kıyısı çöllerinin oluşmasında okyanus akıntısının sıcaklığı, hakim rüzgar yönünden çok daha belirleyicidir. Subtropikal yüksek basıncın alçalmalı hareketi zaten yağışı engeller; ancak aynı enlemlerde soğuk akıntının olmadığı batı kıyılarında çöl değil, Akdeniz iklimi görülür. Soğuk akıntı, yüzeyi soğutarak nemin yoğunlaşma düzeyini düşürür; denizden karaya gelen hava nemini sis ve alçak bulut olarak bırakır ama konvektif yağış oluşturamaz. Bu nedenle E şıkkı yanlış bir çıkarım içermektedir: hakim rüzgar yönü önemli olmakla birlikte soğuk akıntının rolünü ikincil kılmak hatalıdır.",
+     "aciklama": "Soru yanlış çıkarımı istemektedir. Batı kıyılarındaki kuraklık iki etkenin ortak sonucudur: subtropikal yüksek basıncın doğu kenarındaki alçalıcı hava hareketi ve soğuk akıntıların alt hava katmanını soğutarak kararlı hale getirmesi. Soğuk akıntının etkisini dışlayıp tek belirleyici etken olarak rüzgâr yönünü göstermek bu nedenle yanlıştır. \"Batı kıyılarında soğuk akıntılar sis oluştursa da alçalmalı hareket konvektif yağışı önlediğinden yağış olmaz\" seçeneği doğrudur; sis oluşur ama kararlı hava yağışa izin vermez. \"Doğu kıyılarında sıcak okyanus akıntıları, yüksek nem...\" seçeneği de doğrudur, çünkü sıcak akıntılar havayı nemlendirip kararsızlaştırır. Doğru cevap \"Batı kıyılarındaki çöl ikliminin oluşmasında en belirleyici etken okyanus akıntısının sıcaklığı değil, hakim rüzgarların yönüdür\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -1528,7 +1563,8 @@
       "Ay tutulması sırasında Ay yüzeyine düşen Dünya gölgesinin daima yuvarlak olması"
      ],
      "dogru": 2,
-     "aciklama": "Güneş tutulması, Ay'ın Güneş ile Dünya arasına girmesiyle oluşur ve Dünya'nın şeklinden değil, üç cismin hizalanmasından kaynaklanır. Diğer şıklarda verilen kanıtların hepsi Dünya'nın küresel yapısıyla doğrudan ilgilidir: gölgenin yuvarlak olması, ufkun eşit uzaklıkta görünmesi, gemilerin ufukta görünümden kaybolma sırası ve yıldız açılarının enleme göre değişimi Dünya'nın küre biçimli olduğunun kanıtları arasında sayılır."
+     "aciklama": "Güneş tutulması, Ay'ın Güneş ile Dünya arasına girmesiyle oluşur ve Dünya'nın şeklinden değil, üç cismin hizalanmasından kaynaklanır. Diğer şıklarda verilen kanıtların hepsi Dünya'nın küresel yapısıyla doğrudan ilgilidir: gölgenin yuvarlak olması, ufkun eşit uzaklıkta görünmesi, gemilerin ufukta görünümden kaybolma sırası ve yıldız açılarının enleme göre değişimi Dünya'nın küre biçimli olduğunun kanıtları arasında sayılır.",
+     "zorluk": "orta"
     },
     {
      "id": "32906",
@@ -1563,19 +1599,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "32677",
+     "id": "32665",
      "dersId": "cografya",
      "konuId": "nufus_yerlesme",
-     "soru": "Aşağıdaki yerleşim birimlerinden hangisi 'köy' statüsünde değerlendirilemez?",
+     "soru": "Nüfus piramidinde taban genişliği neyi ifade eder?",
      "secenekler": [
-      "Divan",
-      "Oba",
-      "Kom",
-      "Mezra",
-      "İlçe"
+      "Ölüm oranının düşüklüğünü",
+      "Yaşlı nüfusun fazlalığını",
+      "Genç nüfusun fazlalığını",
+      "Ortalama yaşam süresini",
+      "Göç oranının yüksekliğini"
      ],
-     "dogru": 4,
-     "aciklama": "Mezra, divan, oba ve kom gibi birimler köy altı yerleşme birimleridir. İlçe ise kentsel/yarı kentsel idari bir birim olup köy statüsünde değil, daha üst bir idari kademede yer almaktadır.",
+     "dogru": 2,
+     "aciklama": "Nüfus piramidinde her çubuk bir yaş grubunu temsil eder. Tabanın geniş olması 0-14 yaş grubunun (genç nüfusun) fazla olduğunu gösterir. Bu durum genellikle gelişmekte olan ülkelerde, doğum oranlarının yüksek olduğu toplumlarda görülür.",
      "zorluk": "kolay"
     },
     {
@@ -1591,7 +1627,8 @@
       "Türkiye'nin toplam yüzölçümünün yaklaşık üçte biri tarım arazisi niteliği taşır."
      ],
      "dogru": 1,
-     "aciklama": "Türkiye'de çayır ve mera arazileri yaklaşık 14-15 milyon hektar iken bağ ve bahçe arazileri bunun çok altında kalır. Dolayısıyla bağ ve bahçe arazilerinin oranı çayır-mera arazilerinden fazla değil, aksine daha azdır. Bu nedenle B şıkkı yanlıştır. Nadas alanları tarla tarımı kapsamında sayılır, bu doğrudur."
+     "aciklama": "Türkiye'de tarım arazileri içinde en büyük payı tarla arazileri alır. Nadas alanları da tarla arazisi içinde sayılır. Bu arazilerden sonra çayır ve mera alanları gelir. Bağ ve bahçe arazileri ise bunlardan belirgin biçimde daha küçüktür. Bu nedenle bağ ve bahçe oranının çayır ve meradan fazla olduğunu söyleyen ifade yanlıştır. \"Nadas alanları, tarla tarımı yapılan araziler içinde değerlendirilir.\" ifadesi doğrudur, çünkü nadas, tarlanın dinlendirilmesidir. \"Türkiye'nin toplam yüzölçümünün yaklaşık üçte biri tarım arazisi niteliği taşır.\" ifadesi de genel kabulle uyumludur. Doğru cevap \"Bağ ve bahçe arazilerinin oranı, çayır ve mera arazilerinden fazladır.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "32510",
@@ -1622,7 +1659,8 @@
       "Nem oranı"
      ],
      "dogru": 3,
-     "aciklama": "Türkiye'de bölgeden bölgeye en belirgin farklılık yağış rejimi ve miktarında görülür. Karadeniz Bölgesi'nde yağışlar her mevsim düzenli dağılırken, Akdeniz ve Ege'de yazlar kurak geçer, İç ve Doğu Anadolu karasallaştıkça yağışlar azalır, Güneydoğu Anadolu'da yıllık yağış 300-400 mm'ye kadar düşebilir. Bu farklılık tarım, bitki örtüsü ve yerleşim üzerinde doğrudan belirleyici etkiye sahiptir."
+     "aciklama": "Türkiye'de bölgeden bölgeye en belirgin farklılık yağış rejimi ve miktarında görülür. Karadeniz Bölgesi'nde yağışlar her mevsim düzenli dağılırken, Akdeniz ve Ege'de yazlar kurak geçer, İç ve Doğu Anadolu karasallaştıkça yağışlar azalır, Güneydoğu Anadolu'da yıllık yağış 300-400 mm'ye kadar düşebilir. Bu farklılık tarım, bitki örtüsü ve yerleşim üzerinde doğrudan belirleyici etkiye sahiptir.",
+     "zorluk": "orta"
     },
     {
      "id": "32631",
@@ -1637,7 +1675,7 @@
       "Hepsinin yalnızca iç kuvvetlerin hazırladığı ortamlarda etkin olması"
      ],
      "dogru": 0,
-     "aciklama": "Dış kuvvetler (erozyon, karst, buzul, rüzgâr, dalga vb.) yüzey üzerindeki pürüzleri aşındırarak, taşıyarak ve biriktirerek zamanla yeryüzünü düzleştirme eğilimindedir. I'deki dolin, II'deki moren sırtı, III'teki kum tepesi (dün) ve IV'teki dalga oyu tüm bu farklı etkenler tarafından oluşturulsa da hepsinin nihai etkisi rölyefi peneple/peneplane koşullarına yaklaştırmaktır. A seçeneği yanlıştır çünkü moren sırtı ve dolin yalnızca birikim ya da çözünme ağırlıklıdır; dalga oyu ise saf aşındırma sürecidir. D ve E kısmen doğru görünse de buzul için sıfır altı zorunlu iken diğerleri için değil; ayrıca dalga enerjisinin kaynağı rüzgâr, dolayısıyla dolaylı olarak Güneş'tir ama başlangıç enerjisi için 'doğrudan' ifadesi hatalıdır.",
+     "aciklama": "Verilen şekiller farklı dış kuvvetlerin ürünüdür. I karstik çözünmeyle (aşındırma), II buzul birikimiyle, III rüzgâr birikimiyle, IV dalga aşındırmasıyla oluşur. Bu şekillerin bazıları aşındırma, bazıları birikim ürünüdür. Ancak tüm dış kuvvetler yüksek yerleri aşındırıp çukur alanları doldurarak yeryüzünü düzleştirme yönünde çalışır. Bu, iç kuvvetlerin yarattığı engebeye karşı dış kuvvetlerin ortak sonucudur. \"Hepsinin aşındırma ile birikim süreçlerini birlikte içermesi\" seçeneği yanlıştır; I ve IV yalnızca aşındırma, II ve III ise birikim ürünüdür. \"Hepsinin başlangıç enerjisini doğrudan Güneş ışınımından alması\" seçeneği de yanlıştır; süreçlerde yerçekimi de belirleyicidir ve Güneş enerjisinin etkisi dolaylıdır. Doğru cevap \"Hepsinin sonuçta rölyefi düzleştirme yönünde etki yapması\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -1653,7 +1691,8 @@
       "Şehrin kara içlerinde yer alması nedeniyle kışların daha sert geçmesi"
      ],
      "dogru": 4,
-     "aciklama": "Soru, ortalama sıcaklığı artıran değil, yıllık ortalamayı açıklayamayan bir faktörü sormaktadır. C seçeneğinde belirtilen 'kara içinde kışların daha sert geçmesi' durumu, yazların da daha sıcak geçmesine yol açar; bu nedenle yıllık ortalama üzerindeki net etkisi belirsizdir ve tek başına 'daha yüksek yıllık ortalama' için yeterli açıklama değildir. Diğer seçenekler, yıllık ortalama sıcaklığı doğrudan artırabilecek faktörleri içermekte ve bu nedenle tek başlarına tutarlı birer açıklama olabilmektedir."
+     "aciklama": "Soruda bir şehrin yıllık ortalama sıcaklığının daha yüksek olmasının nedeni aranıyor. Rakımın düşük olması, şehri daha sıcak yapar. Yansıtma oranının düşük olduğu arazi örtüsü daha fazla ısı soğurur. Isı adası etkisi kenti çevresinden daha sıcak tutar. Sıcak okyanus akıntısı da kıyıyı ısıtır. Bunların hepsi daha yüksek sıcaklığı tek başına açıklayabilir. Kara içinde yer alma ise kışların sert geçmesine yol açar ve yıllık ortalamayı düşürme eğilimindedir. Dolayısıyla daha yüksek ortalamayı açıklayamaz. \"Sıcak okyanus akıntısının bir kıyıya daha yakın geçmesi\" ılıtıcı etkisiyle yeterli bir açıklamadır. \"Isı adası etkisiyle kentsel alanın çevresine göre daha sıcak olması\" da doğrudan sıcaklık artışı sağlar. Doğru cevap \"Şehrin kara içlerinde yer alması nedeniyle kışların daha sert geçmesi\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "32131",
@@ -1668,7 +1707,8 @@
       "Ekvator yarıçapı ile kutup yarıçapı birbirine eşittir."
      ],
      "dogru": 0,
-     "aciklama": "Dünya kutuplarda basık, Ekvator'da şişkin bir elipsoid (geoid) şeklindedir. Ekvator yarıçapı (~6.378 km) kutup yarıçapından (~6.357 km) yaklaşık 21 km daha büyüktür. Bu nedenle Ekvator çevresi (~40.075 km), meridyen çevresinden (~40.008 km) daha büyüktür — C şıkkı doğrudur. Ekvator'da yerçekimi daha azdır (merkezden uzaklık fazla, merkezkaç kuvveti de büyük). Kutuplar, Dünya merkezine daha yakındır."
+     "aciklama": "Dünya Ekvator'da şişkin, kutuplarda basıktır. Bu nedenle Ekvator çevresi yaklaşık 40.075 km, kutuplardan geçen meridyen çevresi ise yaklaşık 40.008 km'dir; yani Ekvator çevresi daha büyüktür. \"Ekvator'daki yerçekimi kutuplara göre daha büyüktür\" seçeneği yanlıştır. Ekvator merkeze daha uzaktır ve merkezkaç etkisi burada en büyüktür, bu yüzden yerçekimi Ekvator'da daha azdır. \"Kutuplardaki yüzey, Ekvator'daki yüzeye göre Dünya merkezine daha uzaktır\" seçeneği de yanlıştır; basıklık nedeniyle kutuplar merkeze daha yakındır. Doğru cevap \"Ekvator çevresi, meridyen çevresinden (kutuplar arası) daha büyüktür.\" seçeneğidir.",
+     "zorluk": "orta"
     }
    ]
   },
@@ -1689,7 +1729,7 @@
       "Adalet Bakanlığı soruşturur, Danıştay onaylar."
      ],
      "dogru": 1,
-     "aciklama": "Hâkim ve savcıların özlük işlemleri ile disiplin soruşturmaları HSK'ya bağlı Teftiş Kurulu tarafından yürütülür; meslekten çıkarma kararı ise HSK Genel Kurulu tarafından alınır. Anayasa, bu kararları yargı denetimi dışında tutmakla birlikte meslekten çıkarma kararlarına karşı Anayasa Mahkemesi'ne bireysel başvuru yolu açık tutulmuştur; ancak bu soruşturma ve karar sürecinin kendisi E seçeneğinde yanlış kurgulanmıştır.",
+     "aciklama": "Hâkim ve savcılar hakkındaki disiplin soruşturmaları, Hâkimler ve Savcılar Kurulu'nun (HSK) görev alanına girer. Soruşturmayı HSK'nın teftiş birimi yürütür. Meslekten çıkarma gibi ağır disiplin yaptırımları ise Kurulun kendi organlarınca karara bağlanır. Bu nedenle soruşturma ve karar aşamaları HSK içinde kalır. \"Yargıtay Birinci Başkanlık Kurulu soruşturur ve karara bağlar.\" seçeneği yanlıştır, çünkü Yargıtay'ın hâkimler üzerinde disiplin yetkisi yoktur. \"Adalet Bakanlığı soruşturur, Danıştay onaylar.\" seçeneği de yanlıştır, çünkü hâkimlerin disiplin süreci Danıştay onayına bağlı değildir. Verilen seçenekler arasında soruşturmayı HSK Teftiş Kurulu'na, kararı ise HSK'ya bağlayan seçenek en doğrusudur. Doğru cevap \"HSK Teftiş Kurulu soruşturur, HSK Genel Kurulu karara bağlar.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -1721,7 +1761,8 @@
       "Yetki devri herhangi bir kanun dayanağına ihtiyaç duymaz."
      ],
      "dogru": 3,
-     "aciklama": "Yetki devrinde yetkiyi devreden makam artık o konuda işlem yapamaz; sorumluluk devralan makama geçer ve yetki devri için kanuni dayanak şarttır. İmza yetkisi devrinde (yetki tevdiinde) ise yetkiyi devreden makam her zaman o yetkiyi geri alabilir ve işlemin siyasi-hukuki sorumluluğu devreden makamda kalmaya devam eder; sadece imzalama işlemi devredilmiştir."
+     "aciklama": "Yetki devrinde yetkiyi devreden makam artık o konuda işlem yapamaz; sorumluluk devralan makama geçer ve yetki devri için kanuni dayanak şarttır. İmza yetkisi devrinde (yetki tevdiinde) ise yetkiyi devreden makam her zaman o yetkiyi geri alabilir ve işlemin siyasi-hukuki sorumluluğu devreden makamda kalmaya devam eder; sadece imzalama işlemi devredilmiştir.",
+     "zorluk": "orta"
     },
     {
      "id": "34925",
@@ -1731,28 +1772,29 @@
      "secenekler": [
       "ŞİÖ, NATO'ya paralel askeri ittifak olup kolektif savunma maddesi içerir; üyeler birbirine karşı savaş açmama taahhüdü vermiştir.",
       "ŞİÖ, terörle mücadele, ayrılıkçılık ve aşırıcılığa karşı bölgesel güvenlik iş birliğini önceliklendiren bir örgüttür; NATO gibi 5. Madde eşdeğeri kolektif savunma yükümlülüğü öngörmez ve ekonomik iş birliği ile siyasi koordinasyonu da kapsayan çok boyutlu bir yapıya sahiptir.",
-      "ŞİÖ, Çin ve Rusya'nın ABD'ye karşı oluşturdukları resmi bir askeri savunma örgütüdür; tüm üyeler eşit oy hakkına sahip olup kararlar bağlayıcıdır.",
+      "ŞİÖ, Çin ve Rusya'nın ABD'ye karşı kurdukları resmî nitelikte bir askerî savunma örgütüdür; bütün üyeler eşit oy hakkına sahip olup alınan kararlar üye devletler bakımından doğrudan bağlayıcıdır. Nitekim örgüt, NATO'nun 5. Maddesi ile tamamen aynı içerikte bir kolektif savunma yükümlülüğü öngörmektedir.",
       "ŞİÖ üyeleri arasında Hindistan ve Pakistan da bulunmakta olup bu iki devlet örgütün kolektif savunma mekanizmasını birbirine karşı işletmiştir.",
       "ŞİÖ yalnızca ekonomik entegrasyon amacıyla kurulmuştur; güvenlik boyutu sonradan ve üye devletlerin talebi dışında eklenmiştir."
      ],
      "dogru": 1,
-     "aciklama": "ŞİÖ 2001'de kurulmuş olup üç kötülük (terör, ayrılıkçılık, aşırıcılık) olarak tanımlanan tehditlere karşı bölgesel güvenlik iş birliğini ön plana çıkarır. NATO'nun 5. Maddesi'ne eşdeğer kolektif savunma yükümlülüğü içermez. Ekonomik iş birliği, kültürel boyut ve siyasi koordinasyon da örgütün faaliyet alanındadır. Hindistan ve Pakistan 2017'de tam üye olmuştur; ancak örgüt kolektif savunma mekanizması işletilmemiştir. E şıkkındaki iddia fiilen gerçekleşmemiş ve hukuken öngörülmemiş bir durumu tanımlamaktadır.",
+     "aciklama": "Şanghay İşbirliği Örgütü, Orta Asya'da sınır ve güvenlik iş birliğinden doğmuş; terörizm, ayrılıkçılık ve aşırıcılığa karşı mücadeleyi öncelikleyen bir örgüttür. Zamanla ekonomik iş birliği ve siyasi koordinasyon alanlarına da genişlemiştir. NATO'nun Washington Antlaşması'ndaki 5. Madde gibi bir kolektif savunma yükümlülüğü ise ŞİÖ'de yoktur. Bu yüzden örgütü NATO'ya paralel askerî ittifak olarak niteleyen ya da 5. Madde ile aynı içerikte yükümlülük öngördüğünü söyleyen seçenekler yanlıştır. Yalnızca ekonomik entegrasyon amacıyla kurulduğunu söyleyen seçenek de örgütün güvenlik kökenini yok sayar. Doğru cevap \"ŞİÖ, terörle mücadele, ayrılıkçılık ve aşırıcılığa karşı bölgesel güvenlik iş birliğini önceliklendiren bir örgüttür\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
-     "id": "34373",
+     "id": "34333",
      "dersId": "vatandaslik",
      "konuId": "yurutme",
-     "soru": "Cumhurbaşkanı'nın milletlerarası antlaşmaları onaylamasıyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+     "soru": "Aşağıdakilerden hangisi Cumhurbaşkanı'nın yasama alanındaki yetkilerinden biridir?",
      "secenekler": [
-      "Milletlerarası antlaşmaların onaylanması TBMM'nin uygun bulma kanununa bağlıdır; ekonomik ve ticari antlaşmalar bu zorunluluktan muaftır.",
-      "Tüm milletlerarası antlaşmalar yalnızca Cumhurbaşkanı kararnamesiyle onaylanır; TBMM'ye sunulmaları zorunlu değildir.",
-      "Milletlerarası antlaşmaların onaylanması TBMM'nin uygun bulma kanununa bağlıdır; yalnızca teknik ve idari konuları düzenleyen antlaşmalar TBMM onayı aranmaksızın Cumhurbaşkanlığı kararnamesiyle onaylanabilir.",
-      "Milletlerarası antlaşmalar önce Danıştay'ın görüşüne sunulur, ardından TBMM onayından geçer.",
-      "Tüm antlaşmalar Cumhurbaşkanı tarafından onaylanır; TBMM daha sonra iptal kararı alabilir."
+      "Kanun hükmünde kararname çıkarmak",
+      "Gensoru açmak",
+      "Kanunları Meclis'e geri göndermek",
+      "Kanun teklif etmek",
+      "Bütçe kanununu hazırlamak"
      ],
      "dogru": 2,
-     "aciklama": "Anayasa'nın 90. maddesine göre milletlerarası antlaşmaların onaylanması TBMM'nin uygun bulma kanununa bağlıdır. Ancak yalnızca teknik veya idari konuları düzenleyen ve kanun hükmü taşımayan antlaşmalar, TBMM onayı aranmaksızın Cumhurbaşkanlığı kararnamesiyle onaylanabilir ve bu antlaşmalar Resmî Gazete'de yayımlanır. Ekonomik ve ticari antlaşmalar bu muafiyetin kapsamında değildir; TBMM onayı gerektirir."
+     "aciklama": "Cumhurbaşkanı, Meclis tarafından kabul edilen kanunları bir kez daha görüşülmek üzere Meclis'e geri gönderebilir. Bu, Cumhurbaşkanı'nın yasama alanındaki temel yetkilerinden biridir.",
+     "zorluk": "kolay"
     },
     {
      "id": "34705",
@@ -1766,8 +1808,8 @@
       "10 gün",
       "3 gün"
      ],
-     "dogru": 0,
-     "aciklama": "5393 sayılı Belediye Kanunu'na göre belediye başkanı, meclisçe alınan kararları 5 gün içinde yeniden görüşülmek üzere meclise iade edebilir. Meclis kararı üçte iki çoğunlukla aynen kabul ederse karar kesinleşir.",
+     "dogru": 2,
+     "aciklama": "5393 sayılı Kanun md.23'e göre başkan kararı 7 gün içinde gerekçesiyle meclise iade edebilir, dolayısıyla doğru şık C'dir. Doğru cevap 7 gün şeklindedir.",
      "zorluk": "kolay"
     },
     {
@@ -1777,13 +1819,14 @@
      "soru": "Sendika kurma hakkına ilişkin aşağıdakilerden hangisi Anayasa'ya göre doğrudur?",
      "secenekler": [
       "İşçiler ve kamu görevlileri sendika kurabilir; ancak kamu görevlilerinin grev hakkı anayasal güvence altında değildir.",
-      "Türk Silahlı Kuvvetleri mensupları dahil tüm kamu görevlileri sendika kurabilir.",
+      "Türk Silahlı Kuvvetleri mensupları dâhil olmak üzere bütün kamu görevlileri sendika kurabilir. Bu hakta herhangi bir istisna öngörülmemiştir.",
       "Sendika kurma hakkı yalnızca özel sektör çalışanlarına tanınmıştır.",
       "Sendikalara üyelik zorunlu tutulabilir.",
       "Tüm kamu görevlileri sendika kurabilir ve grev hakkına sahiptir."
      ],
      "dogru": 0,
-     "aciklama": "Anayasa'nın 51. maddesi çalışanlara ve işverenlere sendika kurma hakkı tanımaktadır. 53. madde ise kamu görevlilerine de sendika kurma hakkını güvence altına almıştır. Bununla birlikte kamu görevlilerinin grev hakkı Anayasa'nın 54. maddesinde güvence altına alınmamış; bu hak yalnızca işçilere tanınmıştır. Türk Silahlı Kuvvetleri mensupları, hâkimler ve savcılar ise sendika kurma hakkından yararlanamamaktadır. Sendikaya üyelik serbesttir; kimse üye olmaya zorlanamaz."
+     "aciklama": "Anayasa'nın 51. maddesi çalışanlara ve işverenlere sendika kurma hakkı tanımaktadır. 53. madde ise kamu görevlilerine de sendika kurma hakkını güvence altına almıştır. Bununla birlikte kamu görevlilerinin grev hakkı Anayasa'nın 54. maddesinde güvence altına alınmamış; bu hak yalnızca işçilere tanınmıştır. Türk Silahlı Kuvvetleri mensupları, hâkimler ve savcılar ise sendika kurma hakkından yararlanamamaktadır. Sendikaya üyelik serbesttir; kimse üye olmaya zorlanamaz.",
+     "zorluk": "orta"
     },
     {
      "id": "34089",
@@ -1814,7 +1857,7 @@
       "Yabancı uyruklu kişiler, yalnızca Türkiye'ye özgü haklarla ilgili konularda başvuru yapamaz."
      ],
      "dogru": 0,
-     "aciklama": "Bireysel başvuru, ikincil nitelikte istisnai bir başvuru yoludur; ancak olağan kanun yolları tüketilmeden yapılamaz. Bireysel başvuru hakkından yararlanabilmek için önce ilgili idari ve yargısal başvuru yollarının eksiksiz tüketilmiş olması zorunludur. Bu nedenle A seçeneği açıkça yanlıştır.",
+     "aciklama": "Soru yanlış ifadeyi sorduğu için bireysel başvurunun şartlarına bakmak gerekir. Anayasa Mahkemesi'ne bireysel başvuruda temel şart, olağan kanun yollarının tüketilmiş olmasıdır. Başvurucu önce ilgili idari ve yargısal başvuru yollarını kullanmalıdır. Bu yüzden \"Bireysel başvuru, diğer başvuru yolları tüketilmeden yapılabilir.\" ifadesi yanlıştır. Başvuru süresi, kanun yollarının tüketildiği tarihten sonra ilgili kararın tebliğinden itibaren otuz gündür. Bu nedenle \"Başvuru süresi, ihlale yol açtığı ileri sürülen işlem ya da kararın tebliğinden itibaren otuz gündür.\" ifadesi, çoğu zaman karıştırılsa da, genel çerçeve olarak doğrudur. Tüzel kişilerin başvurusunun yalnızca tüzel kişiliğe özgü haklarla sınırlı olduğunu söyleyen ifade de doğrudur. Doğru cevap \"Bireysel başvuru, diğer başvuru yolları tüketilmeden yapılabilir.\" seçeneğidir.",
      "zorluk": "zor"
     }
    ]
@@ -1836,7 +1879,8 @@
       "Şanghay İşbirliği Örgütü (ŞİÖ)"
      ],
      "dogru": 0,
-     "aciklama": "Karadeniz Tahıl Koridoru Anlaşması; Türkiye, BM, Ukrayna ve Rusya arasında İstanbul'da imzalanmıştır. BM'nin etkin arabuluculuğuyla hayata geçirilen bu anlaşma, Ukrayna'nın tahıl ihracatının sürdürülmesini sağlamayı amaçlamıştır. Türkiye bu süreçte tarafsız arabulucu rolünü üstlenmiştir."
+     "aciklama": "Karadeniz Tahıl Koridoru Anlaşması; Türkiye, BM, Ukrayna ve Rusya arasında İstanbul'da imzalanmıştır. BM'nin etkin arabuluculuğuyla hayata geçirilen bu anlaşma, Ukrayna'nın tahıl ihracatının sürdürülmesini sağlamayı amaçlamıştır. Türkiye bu süreçte tarafsız arabulucu rolünü üstlenmiştir.",
+     "zorluk": "orta"
     },
     {
      "id": "36158",
@@ -1845,13 +1889,14 @@
      "soru": "Yapay zeka yönetişimi alanında 2023 yılında İngiltere'nin ev sahipliği yaptığı Bletchley Zirvesi'nin temel çıktısı nedir ve bu zirveye katılım bakımından dikkat çekici olan ülke hangisidir?",
      "secenekler": [
       "Zirve, yapay zekanın yalnızca demokratik ülkeler tarafından kullanımını öngören bir 'Demokratik AI Şartı'yla sonuçlanmış; Çin ve Rusya dışlanmıştır.",
-      "Zirve, G7 ülkelerinin yapay zeka geliştirme harcamalarını eşit biçimde paylaşmasını öngören bir fon anlaşmasıyla tamamlanmış; Japonya koordinatör ülke seçilmiştir.",
+      "Zirve, G7 ülkelerinin yapay zekâ geliştirme harcamalarını eşit biçimde paylaşmasını öngören bir fon anlaşmasıyla tamamlanmış; Japonya koordinatör ülke seçilmiştir.",
       "Zirve, OECD bünyesinde bağımsız bir yapay zeka denetim kurulunun kurulması kararıyla sonuçlanmış; Rusya da bu kurula gözlemci sıfatıyla dahil edilmiştir.",
-      "Zirve, yapay zekayı askeri amaçlarla kullanmayı yasaklayan bağlayıcı bir uluslararası antlaşmayla sonuçlanmış; Hindistan antlaşmayı imzalamayan tek büyük güç olmuştur.",
+      "Zirve, yapay zekâyı askerî amaçlarla kullanmayı yasaklayan bağlayıcı bir uluslararası antlaşmayla sonuçlanmış; Hindistan bu antlaşmayı imzalamayan tek büyük güç olarak kalmış ve denetim mekanizmasının dışında bırakılmıştır.",
       "Zirve, bağlayıcı olmayan 'Bletchley Bildirisi'yle sonuçlanmış; sınır yapay zekası modellerinin getirdiği ciddi riskleri kabul eden bu bildirgede dikkat çekici biçimde Çin de imzacılar arasında yer almıştır."
      ],
      "dogru": 4,
-     "aciklama": "Kasım 2023'te Bletchley Park'ta düzenlenen yapay zeka güvenliği zirvesi, bağlayıcı olmayan 'Bletchley Bildirisi' ile sonuçlanmıştır. Bildiride sınır yapay zeka modellerinin biyolojik silah geliştirme ya da dezenformasyon gibi alanlarda ciddi riskler doğurabileceği kabul edilmiştir. Çin'in imzacılar arasında yer alması, Batılı-Çinli diyaloğun yapay zeka güvenliği konusunda mümkün olabileceğini göstermesi bakımından özellikle dikkat çekici bulunmuştur."
+     "aciklama": "Kasım 2023'te Bletchley Park'ta düzenlenen yapay zeka güvenliği zirvesi, bağlayıcı olmayan 'Bletchley Bildirisi' ile sonuçlanmıştır. Bildiride sınır yapay zeka modellerinin biyolojik silah geliştirme ya da dezenformasyon gibi alanlarda ciddi riskler doğurabileceği kabul edilmiştir. Çin'in imzacılar arasında yer alması, Batılı-Çinli diyaloğun yapay zeka güvenliği konusunda mümkün olabileceğini göstermesi bakımından özellikle dikkat çekici bulunmuştur.",
+     "zorluk": "orta"
     },
     {
      "id": "36209",
@@ -1882,7 +1927,8 @@
       "Kemal Tahir"
      ],
      "dogru": 2,
-     "aciklama": "'Bereketli Topraklar Üzerinde' romanı Orhan Kemal'e aittir. Roman, 1954 yılında yayımlanmış ve köyden kente göç eden işçilerin dramını anlatmaktadır. Yaşar Kemal 'İnce Memed' romanıyla, Fakir Baykurt 'Yılanların Öcü' ile, Kemal Tahir ise 'Devlet Ana' ile tanınır. Rıfat Ilgaz 'Hababam Sınıfı' ile bilinir. Toplumsal gerçekçi çizgide birden fazla yazar olduğundan seçenekler güçlü çeldirici niteliği taşır."
+     "aciklama": "'Bereketli Topraklar Üzerinde' romanı Orhan Kemal'e aittir. Roman, 1954 yılında yayımlanmış ve köyden kente göç eden işçilerin dramını anlatmaktadır. Yaşar Kemal 'İnce Memed' romanıyla, Fakir Baykurt 'Yılanların Öcü' ile, Kemal Tahir ise 'Devlet Ana' ile tanınır. Rıfat Ilgaz 'Hababam Sınıfı' ile bilinir. Toplumsal gerçekçi çizgide birden fazla yazar olduğundan seçenekler güçlü çeldirici niteliği taşır.",
+     "zorluk": "orta"
     },
     {
      "id": "36086",
@@ -1891,13 +1937,13 @@
      "soru": "Türkiye'de 2023 yılında hayata geçirilen Bireysel Emeklilik Sistemi (BES) reformları değerlendirildiğinde, 'otomatik katılım' uygulamasının uzun vadeli sürdürülebilirliğine ilişkin en güçlü yapısal risk aşağıdakilerden hangisidir?",
      "secenekler": [
       "Sistemin yalnızca kayıtlı istihdamı kapsaması ve kayıt dışı çalışanların dışarıda kalmasının demografik baskıyı daha da artırması",
-      "Kamu emeklilik sistemiyle çakışan hak sahipliği kuralları nedeniyle ikili sigorta güvencesi sorunları yaşanması",
+      "Kamu emeklilik sistemiyle çakışan hak sahipliği kuralları nedeniyle ikili sigorta güvencesi sorunlarının yaşanması ve mükerrer prim ödemelerinin ortaya çıkması",
       "Sistemden çıkış oranlarının yüksek seyretmesi nedeniyle fon birikiminin hedeflerin altında kalması",
       "Fon yönetim şirketlerinin konsolidasyonu nedeniyle rekabetin azalması ve getiri oranlarının düşmesi",
       "Devlet katkısının bütçe üzerinde yarattığı sürdürülemez yük"
      ],
-     "dogru": 0,
-     "aciklama": "Türkiye'de kayıt dışı istihdam oranının %30'un üzerinde seyretmesi, BES'in otomatik katılım mekanizmasının en temel yapısal açığını oluşturmaktadır. Sistem yalnızca kayıtlı çalışanları kapsadığından, en fazla sosyal güvenlik açığı taşıyan kesimler birikimsiz yaşlılık dönemine girmektedir. Bu durum, zaten baskı altındaki kamu emeklilik sistemi üzerindeki yükü sürdürülemez biçimde artırmakta; demografik değişimle birleştiğinde yapısal bir sürdürülebilirlik krizi riski doğurmaktadır.",
+     "dogru": 2,
+     "aciklama": "Otomatik katılımın bilinen ve ölçülen temel yapısal zaafı %60'ları aşan cayma/çıkış oranları nedeniyle fon birikiminin hedefin altında kalmasıdır; kayıt dışılık sistemin kapsam sorunudur, sürdürülebilirlik riskinin kendisi değildir. Doğru cevap “Sistemden çıkış oranlarının yüksek seyretmesi nedeniyle fon birikiminin hedeflerin…” seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -1907,13 +1953,13 @@
      "soru": "Sahel bölgesinde 2021-2023 yılları arasında gerçekleşen askeri darbeler zinciri değerlendirildiğinde, aşağıdaki ülke-darbe tarihi eşleştirmelerinden hangisi doğrudur?",
      "secenekler": [
       "Mali (2021), Gine (2022), Nijer (2023), Gabon (2023)",
-      "Mali (2021), Burkina Faso (2022), Nijer (2023), Gabon (2023)",
+      "Mali (2021), Burkina Faso (2022), Nijer (2023), Gabon (2023), Çad (2023) ve Çad (2021)",
       "Gine (2021), Mali (2022), Nijer (2023), Kamerun (2023)",
       "Mali (2020 ve 2021), Gine (2021), Burkina Faso (2022), Nijer (2023), Gabon (2023)",
       "Burkina Faso (2021), Nijer (2022), Mali (2023), Gana (2023)"
      ],
      "dogru": 3,
-     "aciklama": "Doğru kronoloji şöyledir: Mali'de Ağustos 2020 ve Mayıs 2021'de iki aşamalı darbe yaşanmış; Gine'de Eylül 2021'de darbe gerçekleşmiş; Burkina Faso'da Ocak ve Eylül 2022'de iki ayrı darbe meydana gelmiş; Nijer'de Temmuz 2023'te ve Gabon'da Ağustos 2023'te darbeler yaşanmıştır. Bu darbeler dalgasının ardından ECOWAS'ın yaptırım tehditleri ile bölgedeki Fransız ve Batı varlığının sorgulanması önemli gelişmeler olarak öne çıkmaktadır. B seçeneği bu kronolojiye en yakın doğru ifadedir.",
+     "aciklama": "Sahel ve çevresindeki darbe dalgasının doğru kronolojisi şöyledir: Mali'de Ağustos 2020 ve Mayıs 2021'de iki aşamalı darbe yaşanmış, Gine'de Eylül 2021'de askerler yönetimi devralmış, Burkina Faso'da Ocak ve Eylül 2022'de iki ayrı darbe meydana gelmiş, Nijer'de Temmuz 2023'te ve Gabon'da Ağustos 2023'te darbeler gerçekleşmiştir. Bu sıralamayı eksiksiz veren seçenek D'dir. Diğer seçeneklerde ülke ya da yıl eşleştirmeleri hatalıdır. Darbe dalgasının ardından ECOWAS'ın yaptırım tehditleri ve bölgedeki Batı askerî varlığının sorgulanması öne çıkan gelişmeler olmuştur.",
      "zorluk": "zor"
     }
    ]

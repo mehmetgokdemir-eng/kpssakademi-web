@@ -32,22 +32,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "46003",
-  "dersId": "iktisat",
-  "konuId": "mikro_i_ktisat",
-  "soru": "Piyasada oluşan denge fiyatının altına yasal bir sınır konulmasına ne denir?",
-  "secenekler": [
-   "Gölge fiyat",
-   "Fiyat tavanı",
-   "Denge fiyatı",
-   "Taban fiyat değil üst fiyat sınırı",
-   "Fiyat tabanı"
-  ],
-  "dogru": 1,
-  "aciklama": "Fiyat tavanı (price ceiling), hükümetin piyasa denge fiyatının altında belirlediği yasal azami fiyat sınırıdır. Fiyat tavanı uygulandığında talep miktarı arz miktarını aşar ve piyasada eksik arz (kıtlık) oluşur. Kira kontrolü bu uygulamanın klasik örneğidir.",
-  "zorluk": "kolay"
- },
- {
   "id": "46004",
   "dersId": "iktisat",
   "konuId": "mikro_i_ktisat",
@@ -1475,16 +1459,16 @@
   "id": "46095",
   "dersId": "iktisat",
   "konuId": "mikro_i_ktisat",
-  "soru": "Bir Edgeworth kutusunda iki birey (A ve B) ve iki mal (X ve Y) bulunmaktadır. A'nın başlangıç donanımı (6,2), B'nin başlangıç donanımı (4,8)'dir. A'nın marjinal ikame oranı MRS_A = Y/X ve B'nin MRS_B = 2Y/X ise Pareto optimal dağılım için hangi koşul sağlanmalıdır?",
+  "soru": "Bir Edgeworth kutusunda iki birey (A ve B) ve iki mal (X ve Y) bulunmaktadır. A'nın başlangıç donanımı (6,2), B'nin başlangıç donanımı (4,8)'dir. A'nın marjinal ikame oranı MRS«A = Y/X ve B'nin MRS»B = 2Y/X ise Pareto optimal dağılım için hangi koşul sağlanmalıdır?",
   "secenekler": [
-   "2Y_A / X_A = Y_B / X_B",
-   "Y_A / X_A = Y_B / X_B",
-   "X_A / Y_A = 2X_B / Y_B",
-   "X_A * Y_A = X_B * Y_B",
-   "Y_A / X_A = 2Y_B / X_B"
+   "2Y«A / X»A = Y«B / X»B",
+   "Y«A / X»A = Y«B / X»B",
+   "X«A / Y»A = 2X«B / Y»B",
+   "X«A * Y»A = X«B * Y»B",
+   "Y«A / X»A = 2Y«B / X»B"
   ],
   "dogru": 4,
-  "aciklama": "Pareto optimallik koşulu; MRS_A = MRS_B olmasını gerektirir. MRS_A = Y_A/X_A ve MRS_B = 2Y_B/X_B olduğundan Pareto optimal dağılım için Y_A/X_A = 2Y_B/X_B eşitliği sağlanmalıdır. Bu eşitlik sözleşme eğrisini tanımlar. Donanım kısıtları: X_A + X_B = 10 ve Y_A + Y_B = 10 kullanılarak sözleşme eğrisinin denklemi türetilebilir.",
+  "aciklama": "Pareto optimallik koşulu; MRS«A = MRS»B olmasını gerektirir. MRS«A = Y»A/X«A ve MRS»B = 2Y«B/X»B olduğundan Pareto optimal dağılım için Y«A/X»A = 2Y«B/X»B eşitliği sağlanmalıdır. Bu eşitlik sözleşme eğrisini tanımlar. Donanım kısıtları: X«A + X»B = 10 ve Y«A + Y»B = 10 kullanılarak sözleşme eğrisinin denklemi türetilebilir.",
   "zorluk": "zor"
  },
  {
@@ -1571,7 +1555,7 @@
   "id": "46103",
   "dersId": "iktisat",
   "konuId": "mikro_i_ktisat",
-  "soru": "Bir ekonomide kamusal mal üretimi söz konusudur. Bireysel talep fonksiyonları P_A = 60 - Q ve P_B = 40 - Q şeklindedir. Kamusal malın marjinal maliyeti MC = 50 sabit ise Samuelson koşuluna göre optimal kamusal mal miktarı kaç birimdir?",
+  "soru": "Bir ekonomide kamusal mal üretimi söz konusudur. Bireysel talep fonksiyonları P«A = 60 - Q ve P»B = 40 - Q şeklindedir. Kamusal malın marjinal maliyeti MC = 50 sabit ise Samuelson koşuluna göre optimal kamusal mal miktarı kaç birimdir?",
   "secenekler": [
    "30",
    "50",
@@ -1580,14 +1564,14 @@
    "20"
   ],
   "dogru": 3,
-  "aciklama": "Kamusal mallarda Samuelson koşulu: Σ MRS_i = MRT, yani bireysel talep fiyatlarının toplamı marjinal maliyete eşit olmalıdır. Kamusal malda bireyler aynı miktarı tükettiğinden dikey toplama yapılır: P_toplam = P_A + P_B = (60-Q) + (40-Q) = 100 - 2Q. Samuelson koşulu: 100-2Q = 50 → 2Q = 50 → Q* = 25. Optimal kamusal mal miktarı 25 birimdir. Özel mallarda yatay toplama yapılırken kamusal mallarda dikey toplama bu farkın temelidir.",
+  "aciklama": "Kamusal mallarda Samuelson koşulu: Σ MRS_i = MRT, yani bireysel talep fiyatlarının toplamı marjinal maliyete eşit olmalıdır. Kamusal malda bireyler aynı miktarı tükettiğinden dikey toplama yapılır: P«toplam = P»A + P_B = (60-Q) + (40-Q) = 100 - 2Q. Samuelson koşulu: 100-2Q = 50 → 2Q = 50 → Q* = 25. Optimal kamusal mal miktarı 25 birimdir. Özel mallarda yatay toplama yapılırken kamusal mallarda dikey toplama bu farkın temelidir.",
   "zorluk": "zor"
  },
  {
   "id": "46105",
   "dersId": "iktisat",
   "konuId": "mikro_i_ktisat",
-  "soru": "Bir ekonomide X malının çapraz fiyat esnekliği Y malına göre E_xy = +0,8 ve gelir esnekliği E_M = -1,2'dir. Aynı anda Y malının fiyatı %10 artarken tüketicinin geliri %5 azalırsa X malına olan talep yüzde kaç değişir?",
+  "soru": "Bir ekonomide X malının çapraz fiyat esnekliği Y malına göre E«xy = +0,8 ve gelir esnekliği E»M = -1,2'dir. Aynı anda Y malının fiyatı %10 artarken tüketicinin geliri %5 azalırsa X malına olan talep yüzde kaç değişir?",
   "secenekler": [
    "%14 azalır",
    "%14 artar",
@@ -1596,7 +1580,7 @@
    "%2 artar"
   ],
   "dogru": 1,
-  "aciklama": "Talep değişimi birden fazla faktörün bileşimiyle hesaplanır. Çapraz fiyat esnekliği etkisi: E_xy * %ΔP_y = 0,8 * (+10) = +%8 (Y'nin fiyatı artınca X'e talep artar, çünkü ikame maldır). Gelir esnekliği etkisi: E_M * %ΔM = (-1,2) * (-5) = +%6 (gelir azalıyor, ama E_M negatif olduğundan düşük mal; gelir düşünce talep artar). Toplam etki: +8 + 6 = +%14 artış. X malı hem Y'nin ikamesi (E_xy>0) hem de düşük/inferior maldır (E_M<0). İki etki de talebi artırdığından toplam %14 artış gerçekleşir.",
+  "aciklama": "Talep değişimi birden fazla faktörün bileşimiyle hesaplanır. Çapraz fiyat esnekliği etkisi: E«xy * %ΔP»y = 0,8 * (+10) = +%8 (Y'nin fiyatı artınca X'e talep artar, çünkü ikame maldır). Gelir esnekliği etkisi: E_M * %ΔM = (-1,2) * (-5) = +%6 (gelir azalıyor, ama E_M negatif olduğundan düşük mal; gelir düşünce talep artar). Toplam etki: +8 + 6 = +%14 artış. X malı hem Y'nin ikamesi (E«xy>0) hem de düşük/inferior maldır (E»M<0). İki etki de talebi artırdığından toplam %14 artış gerçekleşir.",
   "zorluk": "zor"
  },
  {
@@ -1619,23 +1603,23 @@
   "id": "46110",
   "dersId": "iktisat",
   "konuId": "mikro_i_ktisat",
-  "soru": "İki tüketicili (A ve B) ve iki mallı (X ve Y) bir mübadele ekonomisinde Edgeworth kutusu analizi yapılmaktadır. Başlangıç tahsisinde A'nın marjinal ikame oranı (MRS_A) = 3 ve B'ninki MRS_B = 1'dir. Bu durumda Pareto iyileştirme sağlamak için aşağıdakilerden hangisi doğrudur?",
+  "soru": "İki tüketicili (A ve B) ve iki mallı (X ve Y) bir mübadele ekonomisinde Edgeworth kutusu analizi yapılmaktadır. Başlangıç tahsisinde A'nın marjinal ikame oranı (MRS«A) = 3 ve B'ninki MRS»B = 1'dir. Bu durumda Pareto iyileştirme sağlamak için aşağıdakilerden hangisi doğrudur?",
   "secenekler": [
-   "A, B'ye X malı verip karşılığında Y almalıdır; çünkü MRS_A > MRS_B olduğunda A, X malına B'den görece daha fazla değer vermektedir.",
-   "B, A'ya Y malı verip karşılığında X almalıdır; bu süreç MRS_A = MRS_B olana dek sürer ve bu noktada Pareto optimum sağlanır.",
+   "A, B'ye X malı verip karşılığında Y almalıdır; çünkü MRS«A > MRS»B olduğunda A, X malına B'den görece daha fazla değer vermektedir.",
+   "B, A'ya Y malı verip karşılığında X almalıdır; bu süreç MRS«A = MRS»B olana dek sürer ve bu noktada Pareto optimum sağlanır.",
    "Mevcut tahsis zaten Pareto etkin olduğundan herhangi bir mübadele refahı artırmaz.",
-   "B, A'ya X malı verip karşılığında Y almalıdır; bu süreç MRS_A = MRS_B = 2 noktasına kadar devam eder.",
+   "B, A'ya X malı verip karşılığında Y almalıdır; bu süreç MRS«A = MRS»B = 2 noktasına kadar devam eder.",
    "A, B'ye Y malı verip karşılığında X almalıdır çünkü A, Y malına B'den daha az değer vermektedir."
   ],
   "dogru": 4,
-  "aciklama": "MRS_A=3>MRS_B=1 olduğundan A, X'e görece daha çok değer verir; A, Y verip X almalıdır, yani “A, B'ye Y malı verip karşılığında X almalıdır çünkü A, Y malına B'den daha az değer…” seçeneği doğrudur. Doğru cevap “A, B'ye Y malı verip karşılığında X almalıdır çünkü A, Y malına B'den daha az değer…” seçeneğidir.",
+  "aciklama": "MRS«A=3>MRS»B=1 olduğundan A, X'e görece daha çok değer verir; A, Y verip X almalıdır, yani “A, B'ye Y malı verip karşılığında X almalıdır çünkü A, Y malına B'den daha az değer…” seçeneği doğrudur. Doğru cevap “A, B'ye Y malı verip karşılığında X almalıdır çünkü A, Y malına B'den daha az değer…” seçeneğidir.",
   "zorluk": "zor"
  },
  {
   "id": "46111",
   "dersId": "iktisat",
   "konuId": "mikro_i_ktisat",
-  "soru": "Fiyat ayrımı (fiyat diskriminasyonu) yapan bir tekelci, A piyasasında talep esnekliği |e_A| = 3 ve B piyasasında |e_B| = 1,5 olmak üzere iki ayrı piyasada satış yapmaktadır. Birinci dereceden fiyat ayrımı yapılamadığı ve MC = 10 TL olduğu varsayımıyla A ve B piyasalarındaki fiyatlar arasındaki oran P_B / P_A aşağıdakilerden hangisidir?",
+  "soru": "Fiyat ayrımı (fiyat diskriminasyonu) yapan bir tekelci, A piyasasında talep esnekliği |e«A| = 3 ve B piyasasında |e»B| = 1,5 olmak üzere iki ayrı piyasada satış yapmaktadır. Birinci dereceden fiyat ayrımı yapılamadığı ve MC = 10 TL olduğu varsayımıyla A ve B piyasalarındaki fiyatlar arasındaki oran P«B / P»A aşağıdakilerden hangisidir?",
   "secenekler": [
    "4/3",
    "2/1",
@@ -1644,7 +1628,7 @@
    "3/2"
   ],
   "dogru": 1,
-  "aciklama": "Lerner kuralıyla P_A=10/(1-1/3)=15, P_B=10/(1-1/1,5)=30 olup oran 2/1'dir. Doğru cevap 2/1 şeklindedir.",
+  "aciklama": "Lerner kuralıyla P«A=10/(1-1/3)=15, P»B=10/(1-1/1,5)=30 olup oran 2/1'dir. Doğru cevap 2/1 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -1660,7 +1644,7 @@
    "Q1 = Q2 = 30; P = 40"
   ],
   "dogru": 4,
-  "aciklama": "Cournot modelinde Firma 1'in tepki fonksiyonu: Kâr_1 = (100 - Q1 - Q2)Q1 - 10Q1. ∂Kâr_1/∂Q1 = 100 - 2Q1 - Q2 - 10 = 0 → Q1 = (90 - Q2)/2. Simetri nedeniyle Q1 = Q2 = Q: Q = (90 - Q)/2 → 2Q = 90 - Q → 3Q = 90 → Q = 30. Toplam Q = 60, P = 100 - 60 = 40 TL. Her firma 30 birim üretir. Doğru cevap B'dir.",
+  "aciklama": "Cournot modelinde Firma 1'in tepki fonksiyonu: Kâr«1 = (100 - Q1 - Q2)Q1 - 10Q1. ∂Kâr»1/∂Q1 = 100 - 2Q1 - Q2 - 10 = 0 → Q1 = (90 - Q2)/2. Simetri nedeniyle Q1 = Q2 = Q: Q = (90 - Q)/2 → 2Q = 90 - Q → 3Q = 90 → Q = 30. Toplam Q = 60, P = 100 - 60 = 40 TL. Her firma 30 birim üretir. Doğru cevap: «Q1 = Q2 = 30; P = 40».",
   "zorluk": "zor"
  },
  {
@@ -1676,7 +1660,7 @@
    "600 TL"
   ],
   "dogru": 0,
-  "aciklama": "Vergi öncesi denge: 200 - Q = 40 + Q → 160 = 2Q → Q* = 80, P* = 120. Tüketici vergisi 40 TL sonrası: Tüketicinin ödediği fiyat Pd, üreticinin aldığı fiyat Ps = Pd - 40. Arz koşulu: Pd - 40 = 40 + Q → Pd = 80 + Q. Talep koşulu: Pd = 200 - Q. Denge: 80 + Q = 200 - Q → 2Q = 120 → Q_t = 60. ΔQ = 80 - 60 = 20. Ölü ağırlık kaybı = (1/2) × vergi × ΔQ = (1/2) × 40 × 20 = 400 TL. Doğru cevap C'dir.",
+  "aciklama": "Vergi öncesi denge: 200 - Q = 40 + Q → 160 = 2Q → Q* = 80, P* = 120. Tüketici vergisi 40 TL sonrası: Tüketicinin ödediği fiyat Pd, üreticinin aldığı fiyat Ps = Pd - 40. Arz koşulu: Pd - 40 = 40 + Q → Pd = 80 + Q. Talep koşulu: Pd = 200 - Q. Denge: 80 + Q = 200 - Q → 2Q = 120 → Q_t = 60. ΔQ = 80 - 60 = 20. Ölü ağırlık kaybı = (1/2) × vergi × ΔQ = (1/2) × 40 × 20 = 400 TL. Doğru cevap: «400 TL».",
   "zorluk": "zor"
  },
  {
@@ -1692,7 +1676,7 @@
    "Q=8; LAC=44"
   ],
   "dogru": 1,
-  "aciklama": "LAC = LTC/Q = Q² - 12Q + 60. LAC minimumunu bulmak için dLAC/dQ = 0: 2Q - 12 = 0 → Q = 6. LAC(6) = 36 - 72 + 60 = 24. LMC = dLTC/dQ = 3Q² - 24Q + 60. LMC(6) = 108 - 144 + 60 = 24. LMC = LAC = 24 koşulu da doğrulanmaktadır. Doğru cevap C'dir.",
+  "aciklama": "LAC = LTC/Q = Q² - 12Q + 60. LAC minimumunu bulmak için dLAC/dQ = 0: 2Q - 12 = 0 → Q = 6. LAC(6) = 36 - 72 + 60 = 24. LMC = dLTC/dQ = 3Q² - 24Q + 60. LMC(6) = 108 - 144 + 60 = 24. LMC = LAC = 24 koşulu da doğrulanmaktadır. Doğru cevap: «Q=6; LAC=24».",
   "zorluk": "zor"
  },
  {
@@ -1715,16 +1699,16 @@
   "id": "46117",
   "dersId": "iktisat",
   "konuId": "mikro_i_ktisat",
-  "soru": "Bir firma hem emek (L) hem de sermaye (K) kullanmaktadır. Emek için marjinal ürün MP_L = 20, sermaye için marjinal ürün MP_K = 30'dur. Ücret w = 10 TL ve kira r = 20 TL'dir. Bu firma maliyet minimizasyonu sağlıyor mu? Sağlamıyorsa ne yapmalıdır?",
+  "soru": "Bir firma hem emek (L) hem de sermaye (K) kullanmaktadır. Emek için marjinal ürün MP«L = 20, sermaye için marjinal ürün MP»K = 30'dur. Ücret w = 10 TL ve kira r = 20 TL'dir. Bu firma maliyet minimizasyonu sağlıyor mu? Sağlamıyorsa ne yapmalıdır?",
   "secenekler": [
    "Firma maliyet minimizasyonu sağlıyor; çünkü üretim teknolojisi sabittir.",
    "Firma maliyet minimizasyonu sağlamıyor; daha fazla sermaye, daha az emek kullanmalıdır.",
-   "Firma maliyet minimizasyonu sağlıyor; çünkü MP_L/w = MP_K/r.",
+   "Firma maliyet minimizasyonu sağlıyor; çünkü MP«L/w = MP»K/r.",
    "Firma maliyet minimizasyonu sağlamıyor; daha fazla emek, daha az sermaye kullanmalıdır.",
    "Firma maliyet minimizasyonu sağlamıyor; her iki girdinin kullanımını eşit oranda artırmalıdır."
   ],
   "dogru": 3,
-  "aciklama": "Maliyet minimizasyonu koşulu: MP_L/w = MP_K/r. MP_L/w = 20/10 = 2. MP_K/r = 30/20 = 1,5. MP_L/w > MP_K/r olduğundan firma emeğin marjinal verimliliğinden görece daha fazla yararlanmaktadır. Her harcanan TL başına emek, sermayeden daha fazla çıktı üretmektedir. Bu durumda firma maliyetleri düşürmek için sermayeyi azaltıp emeği artırmalıdır. Emek arttıkça azalan marjinal verimlilik nedeniyle MP_L düşer, sermaye azaldıkça MP_K yükselir; bu süreç iki oran eşitleninceye dek devam eder. Doğru cevap B'dir.",
+  "aciklama": "Maliyet minimizasyonu koşulu: MP«L/w = MP»K/r. MP«L/w = 20/10 = 2. MP»K/r = 30/20 = 1,5. MP«L/w > MP»K/r olduğundan firma emeğin marjinal verimliliğinden görece daha fazla yararlanmaktadır. Her harcanan TL başına emek, sermayeden daha fazla çıktı üretmektedir. Bu durumda firma maliyetleri düşürmek için sermayeyi azaltıp emeği artırmalıdır. Emek arttıkça azalan marjinal verimlilik nedeniyle MP«L düşer, sermaye azaldıkça MP»K yükselir; bu süreç iki oran eşitleninceye dek devam eder. Doğru cevap: «Firma maliyet minimizasyonu sağlamıyor; daha fazla emek, daha az sermaye kullanmalıdır».",
   "zorluk": "zor"
  },
  {
@@ -1740,7 +1724,7 @@
    "Riskten kaçan; Piyango A'yı tercih eder."
   ],
   "dogru": 3,
-  "aciklama": "U(x) = √x fonksiyonu içbükey (konkav) bir fonksiyondur; dolayısıyla birey riskten kaçandır. Piyango A'nın beklenen faydası: EU_A = 0,5×U(0) + 0,5×U(400) = 0,5×0 + 0,5×20 = 10. Piyango B'nin faydası: U(150) = √150 ≈ 12,25. EU_B = 12,25 > EU_A = 10. Birey riskten kaçtığı için kesin olan ve daha yüksek beklenen fayda sağlayan Piyango B'yi tercih eder. Ayrıca Piyango A'nın kesinlik eşdeğeri: √CE = 10 → CE = 100 TL < 150 TL, bu da bireyin risk priminin 100 - 100 = (Piyango A beklenen değeri 200, CE=100) 100 TL olduğunu gösterir. Doğru cevap C'dir.",
+  "aciklama": "U(x) = √x fonksiyonu içbükey (konkav) bir fonksiyondur; dolayısıyla birey riskten kaçandır. Piyango A'nın beklenen faydası: EU_A = 0,5×U(0) + 0,5×U(400) = 0,5×0 + 0,5×20 = 10. Piyango B'nin faydası: U(150) = √150 ≈ 12,25. EU«B = 12,25 > EU»A = 10. Birey riskten kaçtığı için kesin olan ve daha yüksek beklenen fayda sağlayan Piyango B'yi tercih eder. Ayrıca Piyango A'nın kesinlik eşdeğeri: √CE = 10 → CE = 100 TL < 150 TL, bu da bireyin risk priminin 100 - 100 = (Piyango A beklenen değeri 200, CE=100) 100 TL olduğunu gösterir. Doğru cevap: «Riskten kaçan; Piyango B'yi tercih eder».",
   "zorluk": "zor"
  },
  {
@@ -1804,7 +1788,7 @@
    "P = 10, Q = 2"
   ],
   "dogru": 2,
-  "aciklama": "Uzun dönem tam rekabet dengesinde P = LMC = LAC koşulu sağlanmalıdır. LAC minimumu: dLAC/dQ = 2Q - 4 = 0 → Q = 2. LAC(2) = 4 - 8 + 12 = 8. LMC = dLAC×Q/dQ değil; LTC = LAC×Q = Q³ - 4Q² + 12Q. LMC = dLTC/dQ = 3Q² - 8Q + 12. LMC(2) = 12 - 16 + 12 = 8. Hem LAC = LMC = 8 koşulu Q=2'de sağlanmaktadır. Dolayısıyla uzun dönem denge fiyatı P=8, üretim miktarı Q=2'dir. Cevap A'dır.",
+  "aciklama": "Uzun dönem tam rekabet dengesinde P = LMC = LAC koşulu sağlanmalıdır. LAC minimumu: dLAC/dQ = 2Q - 4 = 0 → Q = 2. LAC(2) = 4 - 8 + 12 = 8. LMC = dLAC×Q/dQ değil; LTC = LAC×Q = Q³ - 4Q² + 12Q. LMC = dLTC/dQ = 3Q² - 8Q + 12. LMC(2) = 12 - 16 + 12 = 8. Hem LAC = LMC = 8 koşulu Q=2'de sağlanmaktadır. Dolayısıyla uzun dönem denge fiyatı P=8, üretim miktarı Q=2'dir. Doğru cevap: «P = 8, Q = 2».",
   "zorluk": "zor"
  },
  {
@@ -1843,7 +1827,7 @@
   "id": "46126",
   "dersId": "iktisat",
   "konuId": "mikro_i_ktisat",
-  "soru": "Bir oligopol piyasasında iki firma (A ve B) fiyat koyma stratejisi oynayan bir Bertrand oyunu oynamaktadır. Her iki firmanın da sabit maliyeti yoktur ve marjinal maliyetleri sırasıyla MC_A = 4 TL ve MC_B = 6 TL'dir. Piyasa talebi P = 20 - Q ise Nash dengesi fiyatı kaç TL'dir?",
+  "soru": "Bir oligopol piyasasında iki firma (A ve B) fiyat koyma stratejisi oynayan bir Bertrand oyunu oynamaktadır. Her iki firmanın da sabit maliyeti yoktur ve marjinal maliyetleri sırasıyla MC«A = 4 TL ve MC»B = 6 TL'dir. Piyasa talebi P = 20 - Q ise Nash dengesi fiyatı kaç TL'dir?",
   "secenekler": [
    "8 TL",
    "6 TL",
@@ -1884,7 +1868,7 @@
    "%20 azalır"
   ],
   "dogru": 3,
-  "aciklama": "Talep fonksiyonu Q = 200P^(-2) × I^(0,5) formundan doğrudan esneklikler okunabilir. Fiyat esnekliği: εp = -2 (P'nin üssü). Gelir esnekliği: εI = 0,5 (I'nın üssü). Talepteki yüzde değişim ≈ εp × (%ΔP) + εI × (%ΔI) = (-2)(+10%) + (0,5)(+4%) = -20% + 2% = -18%. Talep yaklaşık %18 azalır. Cevap A'dır.",
+  "aciklama": "Talep fonksiyonu Q = 200P^(-2) × I^(0,5) formundan doğrudan esneklikler okunabilir. Fiyat esnekliği: εp = -2 (P'nin üssü). Gelir esnekliği: εI = 0,5 (I'nın üssü). Talepteki yüzde değişim ≈ εp × (%ΔP) + εI × (%ΔI) = (-2)(+10%) + (0,5)(+4%) = -20% + 2% = -18%. Talep yaklaşık %18 azalır. Doğru cevap: «%18 azalır».",
   "zorluk": "zor"
  },
  {
@@ -1900,7 +1884,7 @@
    "%44"
   ],
   "dogru": 3,
-  "aciklama": "Sabit ölçek getirisi (CRS) olan üretim fonksiyonunda tüm girdiler λ katına çıkınca çıktı da λ katına çıkar. Her iki girdi de %20 artınca CRS nedeniyle çıktı %20 artar. Teknolojik ilerlemeyle %5 ek verimlilik artışı var. Toplam artış: (1+0,20)×(1+0,05) = 1,20×1,05 = 1,26 → %26 artış. Cevap C'dir.",
+  "aciklama": "Sabit ölçek getirisi (CRS) olan üretim fonksiyonunda tüm girdiler λ katına çıkınca çıktı da λ katına çıkar. Her iki girdi de %20 artınca CRS nedeniyle çıktı %20 artar. Teknolojik ilerlemeyle %5 ek verimlilik artışı var. Toplam artış: (1+0,20)×(1+0,05) = 1,20×1,05 = 1,26 → %26 artış. Doğru cevap: «%26».",
   "zorluk": "zor"
  },
  {
@@ -2029,22 +2013,6 @@
   ],
   "dogru": 3,
   "aciklama": "Miktar Teorisi denklemi MV = PY'dir. V ve Y sabit kabul edildiğinde M iki katına çıkarsa P de iki katına çıkar. Bu durum paranın yalnızca fiyatları etkilediğini, reel değişkenleri etkilemediğini savunan 'paranın yansızlığı' ilkesini yansıtır ve Klasik görüşün temelidir.",
-  "zorluk": "kolay"
- },
- {
-  "id": "46142",
-  "dersId": "iktisat",
-  "konuId": "makro_i_ktisat",
-  "soru": "Aşağıdakilerden hangisi 'fırsat maliyeti enflasyonu' olarak da bilinen talep çekişli enflasyonun değil, maliyet itişli enflasyonun nedenidir?",
-  "secenekler": [
-   "Para arzının hızla artması",
-   "Ham petrol fiyatlarının yükselmesi",
-   "Kamu harcamalarının genişlemesi",
-   "Tüketim harcamalarının artması",
-   "İhracat talebinin artması"
-  ],
-  "dogru": 1,
-  "aciklama": "Maliyet itişli enflasyon, üretim maliyetlerindeki artışın toplam arzı azaltması ve fiyatları yükseltmesiyle ortaya çıkar. Ham petrol fiyatlarının yükselmesi nakliye ve üretim maliyetlerini artırarak tipik bir maliyet itişli enflasyon örneğidir. Diğer seçenekler toplam talebi artıran unsurlardır ve talep çekişli enflasyona neden olur.",
   "zorluk": "kolay"
  },
  {
@@ -2832,22 +2800,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "46194",
-  "dersId": "iktisat",
-  "konuId": "makro_i_ktisat",
-  "soru": "Bir ülkede cari işlemler açığı GSYİH'nin %6'sına ulaşmıştır. Mundell-Fleming modeli çerçevesinde, bu açığı kapatmak amacıyla uygulanan daraltıcı maliye politikasının esnek döviz kuru rejiminde etkileri aşağıdakilerden hangisinde doğru verilmiştir?",
-  "secenekler": [
-   "Gelir düşer, faiz yükselir, döviz kuru değer kazanır, cari açık daralır",
-   "Gelir düşer, faiz düşer, döviz kuru değer kaybeder, cari açık daralır",
-   "Gelir artar, faiz yükselir, döviz kuru değer kaybeder, cari açık büyür",
-   "Gelir ve faiz değişmez, yalnızca döviz kuru etkilenir",
-   "Gelir artar, faiz düşer, döviz kuru değer kazanır, cari açık daralır"
-  ],
-  "dogru": 1,
-  "aciklama": "Mundell-Fleming modelinde esnek kur rejiminde maliye politikası etkisizdir. Daraltıcı maliye politikası (kamu harcamalarının azaltılması veya vergi artışı) IS eğrisini sola kaydırır. Toplam talep düşer, gelir azalır. Faiz oranı düşer (IS sola kayınca). Düşen faiz oranı sermaye çıkışına yol açar, yerli paraya talep azalır ve döviz kuru değer kaybeder. Paranın değer kaybetmesi net ihracatı artırır (Marshall-Lerner koşulu sağlanıyorsa), cari açık daralır. Ancak bu dışlama etkisi tam dengeleme sağlar ve maliye politikasının gelir üzerindeki etkisi sıfıra yaklaşır. Doğru seçenek B'dir.",
-  "zorluk": "orta"
- },
- {
   "id": "46195",
   "dersId": "iktisat",
   "konuId": "makro_i_ktisat",
@@ -3036,7 +2988,7 @@
    "%80"
   ],
   "dogru": 2,
-  "aciklama": "Harrod-Domar modelinde garantili büyüme oranı g_w = s / v formülüyle hesaplanır. g_w = %20 / 4 = %5 olur. Bu oran, yatırımcıların beklentilerinin tam olarak gerçekleştiği, yani sermaye stoku ile talep artışının uyumlu olduğu büyüme hızıdır. Fiilî büyüme bu değerin üzerindeyse kümülatif enflasyona, altındaysa kronik durgunluğa yol açar ('bıçak sırtı dengesi' sorunu).",
+  "aciklama": "Harrod-Domar modelinde garantili büyüme oranı g«w = s / v formülüyle hesaplanır. g»w = %20 / 4 = %5 olur. Bu oran, yatırımcıların beklentilerinin tam olarak gerçekleştiği, yani sermaye stoku ile talep artışının uyumlu olduğu büyüme hızıdır. Fiilî büyüme bu değerin üzerindeyse kümülatif enflasyona, altındaysa kronik durgunluğa yol açar ('bıçak sırtı dengesi' sorunu).",
   "zorluk": "orta"
  },
  {
@@ -3724,7 +3676,7 @@
    "Döviz kurundaki değer kaybı enflasyona yol açar; reel kur değişmediğinden cari denge sabit kalır ve korunur."
   ],
   "dogru": 2,
-  "aciklama": "Marshall-Lerner koşulu |ε_x| + |ε_m| > 1 olduğunda devalüasyon cari açığı iyileştirir. Koşul sağlanmıyorsa (< 1), ihracat miktarı fiyat düşüşüne yeterince tepki vermez ve ihracat gelirleri azalabilir; ithalat da fiyat artışına rağmen yeterince azalmaz. Net sonuç cari dengenin bozulmasıdır. J-eğrisi etkisi ise esnekliklerin kısa dönemde düşük uzun dönemde yüksek olduğu durumu açıklar; bu ML koşulunun sağlandığı ancak gecikmeli çalıştığı senaryodur.",
+  "aciklama": "Marshall-Lerner koşulu |ε«x| + |ε»m| > 1 olduğunda devalüasyon cari açığı iyileştirir. Koşul sağlanmıyorsa (< 1), ihracat miktarı fiyat düşüşüne yeterince tepki vermez ve ihracat gelirleri azalabilir; ithalat da fiyat artışına rağmen yeterince azalmaz. Net sonuç cari dengenin bozulmasıdır. J-eğrisi etkisi ise esnekliklerin kısa dönemde düşük uzun dönemde yüksek olduğu durumu açıklar; bu ML koşulunun sağlandığı ancak gecikmeli çalıştığı senaryodur.",
   "zorluk": "zor"
  },
  {
@@ -3804,7 +3756,7 @@
    "0,45"
   ],
   "dogru": 3,
-  "aciklama": "Solow modelinde y = k^α olduğunda altın kural koşulu MPK = δ + n şeklindedir. MPK = αk^(α-1) = 0,5·k^(-0,5). Durağan durumda sy = (δ+n)k → 0,5·k^0,5 = 0,10·k → k^0,5 = 0,10·k/0,5 → k* = (s/0,10)^2. Altın kural için MPK = δ+n: 0,5·k_gr^(-0,5) = 0,10 → k_gr^0,5 = 5 → k_gr = 25. Altın kural tasarruf oranı: s_gr·y_gr = (δ+n)·k_gr → s_gr·5 = 0,10·25 = 2,5 → s_gr = 0,50. Cevap C'dir. Bu aynı zamanda y = k^α modelinde s_gr = α koşuluyla da örtüşür (s_gr = 0,5 = α).",
+  "aciklama": "Solow modelinde y = k^α olduğunda altın kural koşulu MPK = δ + n şeklindedir. MPK = αk^(α-1) = 0,5·k^(-0,5). Durağan durumda sy = (δ+n)k → 0,5·k^0,5 = 0,10·k → k^0,5 = 0,10·k/0,5 → k* = (s/0,10)^2. Altın kural için MPK = δ+n: 0,5·k«gr^(-0,5) = 0,10 → k»gr^0,5 = 5 → k«gr = 25. Altın kural tasarruf oranı: s»gr·y«gr = (δ+n)·k»gr → s«gr·5 = 0,10·25 = 2,5 → s»gr = 0,50. Doğru cevap: «0,50». Bu aynı zamanda y = k^α modelinde s«gr = α koşuluyla da örtüşür (s»gr = 0,5 = α).",
   "zorluk": "zor"
  },
  {
@@ -3820,7 +3772,7 @@
    "Reel gelir artar, faiz oranı düşer, döviz rezervleri değişmez"
   ],
   "dogru": 3,
-  "aciklama": "Tam sermaye hareketliliği ve sabit kur altında para politikası tamamen etkisizdir. LM eğrisinin sağa kayması faizi dünya faizinin altına iter; bu durum sermaye çıkışına ve döviz kuruna baskıya yol açar. Merkez bankası kuru korumak için döviz satar (rezerv kaybı) ve yerli para çeker; bu süreç LM eğrisini başlangıç noktasına geri döndürür. Sonuç: Gelir ve faiz değişmez, yalnızca döviz rezervleri azalır. Cevap B.",
+  "aciklama": "Tam sermaye hareketliliği ve sabit kur altında para politikası tamamen etkisizdir. LM eğrisinin sağa kayması faizi dünya faizinin altına iter; bu durum sermaye çıkışına ve döviz kuruna baskıya yol açar. Merkez bankası kuru korumak için döviz satar (rezerv kaybı) ve yerli para çeker; bu süreç LM eğrisini başlangıç noktasına geri döndürür. Sonuç: Gelir ve faiz değişmez, yalnızca döviz rezervleri azalır. Doğru cevap: «Reel gelir değişmez, faiz oranı değişmez, döviz rezervleri azalır».",
   "zorluk": "zor"
  },
  {
@@ -3900,7 +3852,7 @@
    "Kamu bütçe açığının kapatılması, özel tasarruf ve yatırımın değişmemesi"
   ],
   "dogru": 4,
-  "aciklama": "CA = (S_özel - I_özel) + (T - G) denkleminden; cari açık, özel kesim ile kamu kesimi tasarruf-yatırım dengesine bağlıdır. A'da vergi düşer, kamu açığı artar → CA kötüleşir. B'de yatırım artar, S sabit → CA kötüleşir. D'de tüketim artar, özel tasarruf azalır → CA kötüleşir. E'de kur değer kazanır, ithalat artar → CA kötüleşir. C'de bütçe açığı kapanır (T-G artar), özel denge değişmez → CA tam olarak bütçe fazlası kadar iyileşir. Cevap C. (İkiz açıklar hipotezinin tersine çalışan bir düzeltme sürecidir.)",
+  "aciklama": "CA = (S«özel - I»özel) + (T - G) denkleminden; cari açık, özel kesim ile kamu kesimi tasarruf-yatırım dengesine bağlıdır. A'da vergi düşer, kamu açığı artar → CA kötüleşir. B'de yatırım artar, S sabit → CA kötüleşir. D'de tüketim artar, özel tasarruf azalır → CA kötüleşir. E'de kur değer kazanır, ithalat artar → CA kötüleşir. C'de bütçe açığı kapanır (T-G artar), özel denge değişmez → CA tam olarak bütçe fazlası kadar iyileşir. Doğru cevap: «Kamu bütçe açığının kapatılması, özel tasarruf ve yatırımın değişmemesi». (İkiz açıklar hipotezinin tersine çalışan bir düzeltme sürecidir.)",
   "zorluk": "zor"
  },
  {
@@ -3932,7 +3884,7 @@
    "Kamu malı niteliğindeki bilginin yetersiz üretimi; devlet sübvansiyonu"
   ],
   "dogru": 0,
-  "aciklama": "Akerlof modelinde satıcı arabanın kalitesini bilirken alıcı bilmemektedir (asimetrik bilgi). Alıcılar ortalama kalite için ortalama fiyat teklif eder; bu fiyat iyi arabaların sahibini piyasadan çekilmeye iter, yalnızca düşük kaliteli ('limon') araçlar kalır, bu da fiyatı daha da düşürür — piyasa çökebilir. Çözüm: Satıcıların kalite hakkında güvenilir sinyal vermesi (garanti, bağımsız inceleme, sertifikasyon). Bu mekanizmalar bilgi asimetrisini azaltarak ters seçimi çözer. Diğer seçenekler farklı piyasa başarısızlıklarına (dışsallık, tekel, kamu malı, yapışkan fiyat) işaret eder. Cevap B.",
+  "aciklama": "Akerlof'un 'limonlar' modelinde satıcı aracın kalitesini bilirken alıcı bilmez; bu nedenle alıcı yalnızca ortalama kaliteye göre fiyat teklif eder ve bu fiyat kaliteli araç sahiplerini piyasadan uzaklaştırır. Sonuçta piyasada giderek düşük kaliteli araçlar kalır ve piyasa çökme noktasına gelir; yani temel neden, alıcı ve satıcı arasındaki bilgi asimetrisi nedeniyle ters seçim (adverse selection) sorununun ortaya çıkmasıdır. Sorunun kaynağı bilgi eksikliği olduğundan en etkin çözüm, kaliteyi alıcıya inandırıcı biçimde aktaran güvenilir sinyal mekanizmalarının (garanti, sertifikasyon) piyasaya sokulmasıdır; çünkü düşük kaliteli araç satıcısı garanti vermenin maliyetini üstlenemez ve böylece kaliteli ile kalitesiz araçlar ayrışır. Tekelci rekabet, fiyat yapışkanlığı, dışsallıklar veya kamu malı gibi seçenekler ise farklı piyasa başarısızlıklarına aittir ve limonlar sorununun özünü açıklamaz.",
   "zorluk": "zor"
  },
  {
@@ -3948,7 +3900,7 @@
    "Kur kısa dönemde değer kazanır, uzun dönemde denge değerine döner"
   ],
   "dogru": 3,
-  "aciklama": "Dornbusch (1976) modelinde mal fiyatları kısa dönemde yapışkan, döviz kuru ise tam esnek ve anlık uyum sağlayandır. Para arzı artışı faizi düşürür; faiz paritesi koşulunun (UIP) sağlanması için piyasa kurun ileride değer kazanacağını bekler, bu da kurun şu an aşırı değer kaybetmesini zorunlu kılar. Kur, uzun dönem denge değerinin ötesine geçerek 'aşırı tepki' verir (overshooting). Mal fiyatları yavaşça yükselip reel para arzı dengeye gelirken kur kademeli olarak uzun dönem değerine (satın alma gücü paritesinin öngördüğü düzeye) döner. Cevap C.",
+  "aciklama": "Dornbusch modelinde mal fiyatları kısa dönemde yapışkan olduğundan, kalıcı parasal genişleme reel para arzını artırır ve yurt içi faiz oranını düşürür. Faiz paritesi koşulunun sağlanabilmesi için piyasaların yerli paranın ileride değer kazanmasını beklemesi gerekir; bu da ancak kurun ilk anda uzun dönem denge değerinin de ötesinde değer kaybetmesiyle mümkündür. Zamanla fiyatlar ayarlandıkça faizler yükselir ve yerli para kademeli olarak değer kazanarak yeni uzun dönem dengesine yaklaşır. Bu nedenle doğru cevap \"Kur kısa dönemde uzun dönem denge değerinin ötesinde aşırı değer kaybeder, ardından uzun dönemde kademeli olarak denge değerine yükselir\" şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -3971,7 +3923,7 @@
   "id": "46268",
   "dersId": "iktisat",
   "konuId": "makro_i_ktisat",
-  "soru": "Harrod-Domar büyüme modelinde garantili büyüme hızı (g_w), doğal büyüme hızından (g_n) küçük olduğunda ekonomide hangi süreç gözlemlenir?",
+  "soru": "Harrod-Domar büyüme modelinde garantili büyüme hızı (g«w), doğal büyüme hızından (g»n) küçük olduğunda ekonomide hangi süreç gözlemlenir?",
   "secenekler": [
    "Garantili büyüme hızı doğal büyüme hızına kendiliğinden yakınsar; denge istikrarlıdır",
    "Emek ve sermaye tam kullanılır; ekonomi optimum büyüme yolunda ilerler",
@@ -3980,7 +3932,7 @@
    "Kronik sermaye birikimi fazlası ortaya çıkar; işletmeler kapasitelerini aşan yatırım planlarını gerçekleştiremez"
   ],
   "dogru": 3,
-  "aciklama": "Harrod-Domar'da g_w = s/v (garantili büyüme = tasarruf/sermaye-hasıla katsayısı) ve g_n = n + λ (doğal büyüme = nüfus artışı + teknoloji büyümesi). g_w < g_n durumunda sermayenin büyüme kapasitesi, işgücü arzının büyümesinin gerisinde kalır. Yeterli sermaye oluşmadığından işgücü tam olarak istihdam edilemez; yapısal işsizlik kronikleşir. Bu Harrod-Domar'ın gelişmekte olan ülkelere yönelik temel kaygısıdır. g_w > g_n ise kronik sermaye kıtlığını ve enflasyon baskısını doğurur. D ve E ise modelin 'bıçak sırtı' (knife-edge) sorunuyla çelişen iyimser senaryolardır. Cevap C.",
+  "aciklama": "Harrod-Domar'da g_w = s/v (garantili büyüme = tasarruf/sermaye-hasıla katsayısı) ve g_n = n + λ (doğal büyüme = nüfus artışı + teknoloji büyümesi). g«w < g»n durumunda sermayenin büyüme kapasitesi, işgücü arzının büyümesinin gerisinde kalır. Yeterli sermaye oluşmadığından işgücü tam olarak istihdam edilemez; yapısal işsizlik kronikleşir. Bu Harrod-Domar'ın gelişmekte olan ülkelere yönelik temel kaygısıdır. g«w > g»n ise kronik sermaye kıtlığını ve enflasyon baskısını doğurur. D ve E ise modelin 'bıçak sırtı' (knife-edge) sorunuyla çelişen iyimser senaryolardır. Doğru cevap: «İşgücü arzı sermayenin büyüme kapasitesini aştığından yapısal işsizlik kronik hale gelir; ekonomi emek fazlasıyla büyür».",
   "zorluk": "zor"
  },
  {
@@ -3996,7 +3948,7 @@
    "Enflasyon hedeflemesinde geçmiş sapmalar hafızadan silinirken fiyat düzeyi hedeflemesinde geçmiş enflasyon hataları telafi edilmek zorunda olduğundan beklentiler daha iyi çıpalanır ve uzun dönem belirsizliği azalır"
   ],
   "dogru": 4,
-  "aciklama": "Enflasyon hedeflemesinde merkez bankası her dönem sıfır (veya hedef) enflasyonu amaçlar; geçmiş dönemin enflasyon hataları geçmişte kalmıştır (bygones are bygones). Bu durum uzun dönemde fiyat düzeyi belirsizliğini (price level drift) artırır. Fiyat düzeyi hedeflemesinde ise bankaya, geçmişte aşılan enflasyonu gelecekte telafi etme yükümlülüğü getirilir; bu 'telafi mekanizması' uzun vadeli beklentileri güçlü biçimde çıpalandırır. Svensson (1999) ve Woodford gibi iktisatçılar bu özelliğin enflasyon hedeflemesine kıyasla uzun dönem refah kaybını azalttığını teorik olarak göstermiştir. Diğer seçenekler ya yanlış ya da konu dışıdır. Cevap B.",
+  "aciklama": "Enflasyon hedeflemesinde geçmiş sapmalar hafızadan silinir: merkez bankası hedefin üzerinde gerçekleşen bir enflasyonu sonraki dönemlerde telafi etmez, bu nedenle fiyat düzeyi rastgele yürüyüş gibi kalıcı biçimde kayar ve uzun vadeli fiyat belirsizliği artar. Fiyat düzeyi hedeflemesinde ise geçmiş enflasyon hataları telafi edilmek zorundadır; hedefin üzerindeki bir enflasyonun ardından hedefin altında bir enflasyon dönemi gelir. Yeni Keynesyen modelde ileriye dönük davranan ajanlar bu telafiyi beklediği için beklentiler daha iyi çıpalanır, şoklar karşısında enflasyon beklentileri otomatik dengeleyici gibi çalışır ve uzun dönem belirsizliği azalır. Diğer şıklardaki senyoraj geliri, döviz kurunun sabitlenmesi ya da şeffaflıktan vazgeçme gibi gerekçeler, fiyat düzeyi hedeflemesinin teorik üstünlüğünü açıklayan mekanizmalar değildir.",
   "zorluk": "zor"
  },
  {
@@ -4717,22 +4669,6 @@
   ],
   "dogru": 0,
   "aciklama": "Politika faizinin artırılması sıkılaştırıcı bir etki yaratırken zorunlu karşılık oranının düşürülmesi bankaların elindeki serbest rezervleri artırır. Bu iki aracın eş zamanlı kullanımı, faiz kanalı üzerinden enflasyonla mücadele edilirken bankaların likidite sıkışıklığına girip kredi piyasasının aşırı daralmasının önüne geçmek amacıyla uygulanır. Bu politika, parasal aktarım mekanizmasında faiz kanalının işlevselliğini korurken bankacılık sisteminin fonksiyonelliğini sürdürür.",
-  "zorluk": "zor"
- },
- {
-  "id": "46317",
-  "dersId": "iktisat",
-  "konuId": "para_banka",
-  "soru": "Fisher Etki'sine göre nominal faiz oranı = reel faiz + beklenen enflasyon ilişkisi geçerlidir. X ülkesinde nominal faiz %12, beklenen enflasyon %8 iken Y ülkesinde nominal faiz %5, beklenen enflasyon %1 olarak gerçekleşmiştir. Satın Alma Gücü Paritesi ve Uluslararası Fisher Etkisi birlikte değerlendirildiğinde, sermaye hareketleri bakımından aşağıdaki yargılardan hangisi doğrudur?",
-  "secenekler": [
-   "Her iki ülkenin reel faizi eşit olduğundan net sermaye hareketi gerçekleşmez",
-   "Uluslararası Fisher Etkisi gereği Y ülkesinin kurunda değerlenme beklenir",
-   "Y ülkesinin nominal faizi düşük olduğundan sermaye Y'den kaçar",
-   "X ülkesinin reel faizi yüksek olduğundan sermaye X'e akar",
-   "X ülkesinin nominal faizi yüksek olduğundan sermaye X'e akar ve kur değerlenir"
-  ],
-  "dogru": 0,
-  "aciklama": "X ülkesi: Reel faiz = 12 - 8 = %4. Y ülkesi: Reel faiz = 5 - 1 = %4. Her iki ülkenin reel faiz oranı eşittir. Uluslararası Fisher Etkisi'ne göre reel faizlerin eşitlendiği durumda sermaye hareketleri arbitraj sağlamaz ve net sermaye transferi olmaz. Uluslararası Fisher Etkisi zaten reel faizlerin uzun dönemde uluslararası düzeyde eşitleneceğini (reel faiz paritesi) öngörür. Nominal farkların döviz kuru beklentileriyle dengeleneceği varsayılır.",
   "zorluk": "zor"
  },
  {
@@ -6028,7 +5964,7 @@
    "Uzun dönemde nominal döviz kurları ülkeler arasındaki faiz oranı farklılıklarını tam olarak yansıtır."
   ],
   "dogru": 3,
-  "aciklama": "Satın alma gücü paritesi teorisine göre uzun dönemde ülkeler arasındaki nominal döviz kuru değişimi, ülkeler arasındaki enflasyon oranı farkına eşit olma eğilimindedir. Yüksek enflasyon yaşayan ülkenin parası değer kaybeder. Göreceli SGP bu farkı döviz kuru değişimiyle ifade eder: e = π_yurt içi − π_yurt dışı. Faiz farklılıklarını döviz kuru değişimine bağlayan teori ise faiz paritesi teorisidir.",
+  "aciklama": "Satın alma gücü paritesi teorisine göre uzun dönemde ülkeler arasındaki nominal döviz kuru değişimi, ülkeler arasındaki enflasyon oranı farkına eşit olma eğilimindedir. Yüksek enflasyon yaşayan ülkenin parası değer kaybeder. Göreceli SGP bu farkı döviz kuru değişimiyle ifade eder: e = π«yurt içi − π»yurt dışı. Faiz farklılıklarını döviz kuru değişimine bağlayan teori ise faiz paritesi teorisidir.",
   "zorluk": "orta"
  },
  {
@@ -6140,7 +6076,7 @@
    "Yaklaşık %16 değer kazanır."
   ],
   "dogru": 1,
-  "aciklama": "SGP teorisinin göreli versiyonuna göre, iki ülke arasındaki döviz kuru değişimi enflasyon farkına eşittir. Türkiye'de enflasyon %20, ABD'de %4 ise yaklaşık fark %16'dır. Bu durum Türk lirasının dolar karşısında yaklaşık %16 değer kaybedeceğine işaret eder. Formül: (π_TR - π_US) = Δe → %20 - %4 = %16 değer kaybı.",
+  "aciklama": "SGP teorisinin göreli versiyonuna göre, iki ülke arasındaki döviz kuru değişimi enflasyon farkına eşittir. Türkiye'de enflasyon %20, ABD'de %4 ise yaklaşık fark %16'dır. Bu durum Türk lirasının dolar karşısında yaklaşık %16 değer kaybedeceğine işaret eder. Formül: (π«TR - π»US) = Δe → %20 - %4 = %16 değer kaybı.",
   "zorluk": "orta"
  },
  {
@@ -6332,7 +6268,7 @@
    "CIP, kısa vadeli; UIP, uzun vadeli yatırımlar için geçerlidir."
   ],
   "dogru": 0,
-  "aciklama": "Örtülü faiz paritesi (CIP): Yatırımcı, döviz kurunu forward sözleşmeyle sabitleyerek kur riskini ortadan kaldırır. Denge koşulu: i_TR = i_ABD + (F - S)/S. Burada F forward kur, S spot kurdur. Arbitraj fırsatı kalmaması nedeniyle ampirik olarak güçlü biçimde desteklenir. Örtüsüz faiz paritesi (UIP): Yatırımcı kur riskini üstlenir ve beklenen kur değişimine göre hareket eder. Denge koşulu: i_TR = i_ABD + E(ΔS). Risk primi ve kur beklentilerinin doğrulanmaması nedeniyle ampirik destek daha zayıftır. UIP aynı zamanda döviz kurlarının gelecekteki değerinin tahmininde kullanılır.",
+  "aciklama": "Örtülü faiz paritesi (CIP): Yatırımcı, döviz kurunu forward sözleşmeyle sabitleyerek kur riskini ortadan kaldırır. Denge koşulu: i«TR = i»ABD + (F - S)/S. Burada F forward kur, S spot kurdur. Arbitraj fırsatı kalmaması nedeniyle ampirik olarak güçlü biçimde desteklenir. Örtüsüz faiz paritesi (UIP): Yatırımcı kur riskini üstlenir ve beklenen kur değişimine göre hareket eder. Denge koşulu: i«TR = i»ABD + E(ΔS). Risk primi ve kur beklentilerinin doğrulanmaması nedeniyle ampirik destek daha zayıftır. UIP aynı zamanda döviz kurlarının gelecekteki değerinin tahmininde kullanılır.",
   "zorluk": "orta"
  },
  {
@@ -7005,22 +6941,6 @@
   ],
   "dogru": 4,
   "aciklama": "5502 sayılı Kanun ile 2006 yılında kurulan SGK; SSK (Sosyal Sigortalar Kurumu), Bağ-Kur (Esnaf ve Sanatkârlar ile Diğer Bağımsız Çalışanlar Sosyal Sigortalar Kurumu) ve Emekli Sandığı'nın birleştirilmesiyle oluşturulmuştur. Bu birleşme, sosyal güvenlik sisteminde norm ve standart birliğini sağlamayı amaçlamıştır.",
-  "zorluk": "kolay"
- },
- {
-  "id": "46465",
-  "dersId": "iktisat",
-  "konuId": "turkiye_ekonomisi",
-  "soru": "Türkiye'de Cumhuriyet döneminin ilk beş yıllık kalkınma planı hangi yılda uygulamaya konulmuştur?",
-  "secenekler": [
-   "1950",
-   "1934",
-   "1963",
-   "1938",
-   "1970"
-  ],
-  "dogru": 1,
-  "aciklama": "Türkiye'de ilk Beş Yıllık Sanayi Planı 1934-1938 yıllarını kapsayan Birinci Beş Yıllık Sanayi Planı'dır. Devlet eliyle sanayileşme politikasının bir ürünü olan bu plan, 1934 yılında uygulamaya konulmuştur.",
   "zorluk": "kolay"
  },
  {
@@ -8061,22 +7981,6 @@
   ],
   "dogru": 4,
   "aciklama": "Borç dinamiği denklemine göre borç/GSYH oranını sabit tutan birincil fazla, faiz oranı ile büyüme oranı arasındaki farka (r-g) ve başlangıç borç oranına bağlıdır. 2003-2007 döneminde yüksek birincil fazla, güçlü büyüme ve gerileyen reel faiz birlikte r-g farkını daraltmış, borç/GSYH oranı hızla düşmüştür. Bu olumlu tablo reformlara olduğu kadar elverişli küresel finansman koşullarına da dayandığından kırılgandı. \"Borç/GSYH oranını sabit tutmak için birincil fazla vermek her zaman yeterlidir...\" seçeneği yanlıştır; gerekli fazla r-g farkına göre değişir. \"Faiz oranı ile büyüme oranı arasındaki fark her koşulda negatiftir...\" seçeneği de yanlıştır; çünkü fark her zaman negatif değildir ve Türkiye bu dönemde yüksek birincil fazla vermiştir. Doğru cevap \"Borç dinamiği denklemine göre birincil fazlanın yanı sıra faiz oranı-büyüme oranı farkı (r-g) belirleyicidir...\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "46534",
-  "dersId": "iktisat",
-  "konuId": "turkiye_ekonomisi",
-  "soru": "Türkiye'de uygulanan özelleştirme politikalarının 1985-2023 dönemi bütünü ele alındığında, birden fazla teorik gerekçe (etkinlik kazanımı, kamu maliyesine katkı, rekabet) ile pratik sonuçlar (fiyatlandırma, istihdam, piyasa yapısı) arasındaki ilişki analiz edildiğinde hangisi en kapsamlı ve doğru sentezi sunar?",
-  "secenekler": [
-   "Türkiye'de özelleştirme uygulamalarının en büyük başarısı tarımsal KİT'lerin tasfiye edilmesinde gerçekleşmiştir; sanayi ve telekomünikasyon alanındaki özelleştirmeler ise kayda değer bir ekonomik dönüşüm sağlamamış, verimlilik artışı yaratmamış ve kamu maliyesine anlamlı bir katkı sunmamıştır. Bu nedenle Türkiye özelleştirme deneyiminin bütünü değerlendirildiğinde, uygulamanın ne kaynak dağılımında etkinlik sağladığı ne de sektörel yatırımları artırdığı; yalnızca mülkiyet yapısını değiştirdiği ileri sürülmektedir.",
-   "Türkiye'deki özelleştirmeler tam rekabetçi piyasalar yaratmış; eski kamu tekellerinin özelleştirilmesi, piyasaya giriş engellerini ortadan kaldırarak tüketici refahını artırmıştır.",
-   "Türk özelleştirme modeli, Doğu Avrupa ülkelerinde yaygın biçimde uygulanan 'kupon özelleştirmesi' yöntemini benimsemiştir; bu sayede mülkiyet geniş biçimde tabana yayılmış, yabancı sermayeye olan bağımlılık azalmış ve piyasa derinliği artmıştır.",
-   "Özelleştirmelerden elde edilen gelirler kamu borcunun tamamen tasfiyesinde kullanılmış; bu sayede Türkiye 2010'larda borçsuz bir ekonomi konumuna gelmiştir.",
-   "Türkiye özelleştirme deneyimi, teorik beklentilerle pratik sonuçlar arasında önemli bir sapma sergilemiştir: pek çok sektörde kamu tekeli yerini özel tekele ya da oligopole bırakmış, düzenleyici kurumların yetki ve bağımsızlığı sınırlı kalmış, bazı varlıklar piyasa değerinin altında satılmış; ancak kamu maliyesine katkı (200 milyar doları aşan birikimli gelir) ve sektörel yatırım artışı (telekomünikasyon, enerji) açısından kısmi kazanımlar elde edilmiştir."
-  ],
-  "dogru": 4,
-  "aciklama": "Türkiye'de özelleştirme 1985'te Başbakanlık Toplu Konut ve Kamu Ortaklığı İdaresi ile başlamış, 1994'te Özelleştirme İdaresi Başkanlığı kurulmuş ve 2000'lerden itibaren hız kazanmıştır (TÜPRAŞ, Telekom, Türk Hava Yolları hisseleri, elektrik dağıtım şirketleri vb.). Toplam özelleştirme geliri 2020'li yıllara kadar birikimli 200 milyar doları aşmıştır. Ancak eleştirmenler şu sorunları öne çıkarmaktadır: doğal tekel niteliğindeki sektörlerde (elektrik dağıtımı, doğalgaz) özel tekel yapıları oluşmuştur; BOTAŞ ve TCDD gibi alanlarda özelleştirme süreci tamamlanamamış ya da gecikmeli kalmıştır; bazı satışlarda şeffaflık tartışmaları yaşanmıştır; bağımsız düzenleyici kurumların (EPDK, BTK vb.) bağımsızlığı uygulamada zaman zaman sorgulanmıştır. Öte yandan Turkcell'in ve özel enerji yatırımcılarının sektöre girişiyle yatırım ve hizmet kalitesinin arttığı da gözlemlenmektedir. Dolayısıyla Şık B karma ama gerçekçi bir tabloyu yansıtmaktadır. Şık E tamamen yanlıştır; Türkiye kupon/voucher modelini kullanmamıştır.",
   "zorluk": "zor"
  },
  {

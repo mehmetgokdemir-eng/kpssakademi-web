@@ -1436,7 +1436,7 @@
    "Dışlanabilirlik özelliği taşımaları nedeniyle serbest binicilik sorununa yol açmaları; bu durum ayrıca aşırı arz sorununu da beraberinde getirir. Bu nedenle ortak havuz kaynakları özel mal sayılır."
   ],
   "dogru": 2,
-  "aciklama": "Ortak havuz kaynakları (balık avcılığı, yer altı suyu vb.) dışlanamaz ancak rakiptir. Saf kamu malları ise hem dışlanamaz hem de rakip değildir. Ortak havuz kaynaklarının rakip olması, bir kişinin kullanımının diğerlerinin kullanımını azaltması anlamına gelir. Dışlanamazlık ise herkesin erişimini engellemeyi zorlaştırır. Bu kombinasyon Garrett Hardin'in 'Ortak Alanın Trajedisi'nde tanımladığı aşırı kullanım sorununa yol açar. Doğru cevap B'dir.",
+  "aciklama": "Ortak havuz kaynakları (balıkçılık alanları, meralar, yeraltı suları gibi) saf kamu mallarıyla dışlanamazlık özelliğini paylaşır, ancak tüketimde rakiptirler. Yani rakip tüketim özelliği taşımaları nedeniyle birinin tüketimi diğerlerinin tüketimini azaltır; bu durum aşırı kullanım (trajedisi) sorununa yol açar. Kimse kaynaktan dışlanamadığı ve her birey kullanımının maliyetinin bir kısmını diğerlerine yüklediği için kaynak hızla tükenir; Garrett Hardin bu durumu 'ortak malların trajedisi' olarak adlandırmıştır. Saf kamu mallarında ise tüketim rakip olmadığından böyle bir tükenme sorunu doğmaz, temel sorun serbest biniciliktir.",
   "zorluk": "zor"
  },
  {
@@ -1500,7 +1500,7 @@
    "Yedek ödenek ile olağanüstü hal ödeneği arasında hukuki açıdan hiçbir fark bulunmaz; yalnızca terminoloji farklılığı söz konusudur."
   ],
   "dogru": 2,
-  "aciklama": "5018 sayılı Kanun'un 23. maddesi uyarınca yedek ödenek, bütçe kanununa konulur, merkezi yönetim bütçesinde yer alır ve öngörülemeyen harcamalar için Cumhurbaşkanlığı kararıyla ilgili kurumlara aktarılır. Olağanüstü hal ödeneği ise 2935 sayılı Olağanüstü Hal Kanunu gibi ayrı mevzuata dayanır ve doğal afet, savaş, salgın gibi belirli olağanüstü koşullara özgüdür. İki mekanizma hem dayanak mevzuatı hem de kullanım koşulları bakımından birbirinden ayrılır. Doğru cevap B'dir.",
+  "aciklama": "Doğru cevap \"Yedek ödenek öngörülemeyen harcamalar için bütçeye konulur ve Cumhurbaşkanlığı kararıyla diğer kurumlara aktarılırken; olağanüstü hal ödeneği doğal afet ve benzeri olağanüstü durumlara özgüdür ve ayrı bir mevzuata dayanır.\" ifadesidir. 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu'na göre yedek ödenek, bütçede öngörülmeyen hizmetler ile ödeneği yetersiz kalan hizmetler için Hazine ve Maliye Bakanlığı bütçesine konulan genel nitelikli bir ödenektir ve Cumhurbaşkanı kararıyla ihtiyaç duyan kurumların bütçelerine aktarılır. Olağanüstü hal ödeneği ise genel öngörülemeyen giderleri değil, yalnızca doğal afet, savaş ve benzeri olağanüstü durumların gerektirdiği harcamaları karşılamaya yöneliktir ve kendine özgü mevzuata dayanır. Dolayısıyla iki ödenek arasındaki temel fark kullanım amacı ve dayandığı hukuki düzenlemedir; cari-sermaye ayrımı, bütçe dışı olma, TBMM onayı ya da yalnızca terminoloji farkı gibi iddialar bu farkı doğru yansıtmaz.",
   "zorluk": "zor"
  },
  {
@@ -1532,7 +1532,7 @@
    "pb = (r – g) × b olmalıdır ve r > g ise faiz dışı fazla zorunludur."
   ],
   "dogru": 4,
-  "aciklama": "Borç dinamiği denklemi: Δb = (r – g) × b – pb şeklinde ifade edilir. Borç/GSYİH oranının değişmemesi (Δb = 0) için pb = (r – g) × b koşulu sağlanmalıdır. Eğer reel faiz oranı (r) reel büyüme oranını (g) aşıyorsa (r > g), pozitif faiz dışı fazla (pb > 0) gerekir. Eğer r < g ise borç oranı faiz dışı açıkla bile düşebilir. Bu denklem IMF ve Dünya Bankası sürdürülebilirlik analizlerinin temelini oluşturur. Doğru cevap B'dir.",
+  "aciklama": "Borç dinamiği denklemi: Δb = (r – g) × b – pb şeklinde ifade edilir. Borç/GSYİH oranının değişmemesi (Δb = 0) için pb = (r – g) × b koşulu sağlanmalıdır. Eğer reel faiz oranı (r) reel büyüme oranını (g) aşıyorsa (r > g), pozitif faiz dışı fazla (pb > 0) gerekir. Eğer r < g ise borç oranı faiz dışı açıkla bile düşebilir. Bu denklem IMF ve Dünya Bankası sürdürülebilirlik analizlerinin temelini oluşturur. Doğru cevap: «pb = (r – g) × b olmalıdır ve r > g ise faiz dışı fazla zorunludur».",
   "zorluk": "zor"
  },
  {
@@ -1580,7 +1580,7 @@
    "Ricardo denkliği: Garantilerin borç eşdeğeri olduğunun bilinmesi nedeniyle ekonomik ajanların davranışlarını değiştirmemesi"
   ],
   "dogru": 0,
-  "aciklama": "Hazine garantisi, garanti verilen kurumun (kamu iktisadi teşebbüsü, özel sektör ortağı vb.) riski Hazine'ye yüklediğinin bilincinde daha riskli kararlar almasına zemin hazırlar. Bu ahlaki tehlike (moral hazard) sorunudur. Bu riski sınırlamak için garanti ücretleri (garantinin fiyatlandırılması), garanti limitleri, karşılık/tazmin fonları ve garanti koşullarına uyum izleme mekanizmaları oluşturulur. Türk mevzuatında da 4749 sayılı Kanun garanti ücretini ve dış borç üst limitini düzenlemekte; böylece ahlaki tehlikeyi sınırlamayı hedeflemektedir. Doğru cevap B'dir.",
+  "aciklama": "Hazine garantisi, garanti alan kurumun borcunu ödeyememesi hâlinde yükün Hazine'ye geçeceği anlamına geldiğinden, bu kurumun riski daha az izlemesine ve daha riskli projelere yönelmesine yol açabilir; bu durum ekonomi teorisinde ahlaki tehlike (moral hazard) olarak adlandırılır. 4749 sayılı Kanun çerçevesinde garanti ücreti alınması ve Riskli Hesap gibi karşılık fonu mekanizmalarının öngörülmesi, garanti verilen tarafı riskin bir kısmına ortak ederek bu davranışsal sapmayı sınırlamayı ve koşullu yükümlülüğün gerçekleşmesi hâlinde ödeme kaynağı oluşturmayı amaçlar. Bu nedenle doğru cevap \"Ahlaki tehlike (moral hazard): Garanti verilen kurumun riski daha az izlemesi ve daha riskli projelere yönelmesi, bu nedenle garanti ücretleri ve karşılık fonu zorunluluğunun getirilmesi\" ifadesidir. Diğer seçenekler ise bu riskin teorik temelini açıklamaz: ters seçim önlem gerektirmeyen bir durum olarak yanlış tanımlanmıştır, senyoraj ve dışlama etkisi garanti riskine karşı alınan tedbirle ilgili değildir, Ricardo denkliği de davranış değişikliğini değil davranışın değişmemesini öngörür.",
   "zorluk": "zor"
  },
  {
@@ -1612,7 +1612,7 @@
    "Bütçe açıklarının vatandaşlar tarafından vergi olarak algılanması (Ricardian Equivalence), mali yanılsamanın en güçlü kanıtıdır."
   ],
   "dogru": 1,
-  "aciklama": "Mali yanılsama, Puviani'nin temel argümanında vergi yükünün gizlendiği, parçalandığı veya belirsizleştirildiği durumlarda mükelleflerin fiili vergi yüklerini olduğundan düşük algıladığını öne sürer. Dolaylı vergilerde (KDV, ÖTV, gümrük vergisi) yük nihai fiyata dahil edilir ve tüketici tarafından fark edilmez. Bu durum vergi direncini azaltırken bireylerin kamu hizmetlerine talebini yapay olarak artırır. Ampirik olarak dolaylı vergi oranlarındaki artışların doğrudan vergi artışlarına kıyasla daha az siyasi tepki görmesi bu yanılsamanın en somut kanıtıdır. Doğru cevap C'dir.",
+  "aciklama": "Puviani'ye göre mali yanılsama, vergi yükünün mükellefler tarafından olduğundan düşük algılanmasıdır ve bu algı en çok verginin görünürlüğü azaldığında ortaya çıkar. Dolaylı vergilerin (KDV, ÖTV gibi) nihai fiyat içine gizlenmesi nedeniyle vergi yükünün görünürlüğünün düşmesi, doğrudan ödenen gelir vergisine kıyasla daha az siyasi direnç yaratması ve kamu harcamaları talebini görece şişirmesi mali yanılsamanın somut göstergesidir; çünkü tüketici ödediği vergiyi ayrıca fark etmediği için kamu hizmetlerinin maliyetini düşük algılar. Dolaysız vergiler ve bordroda açıkça görülen stopaj kesintileri ise yükü görünür kıldığından yanılsamayı artırmaz, aksine azaltır. Ricardian Denklik de bütçe açıklarının gelecekteki vergi olarak doğru algılandığını savunduğu için mali yanılsamanın tam tersini ifade eder.",
   "zorluk": "zor"
  },
  {
@@ -2336,22 +2336,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "48153",
-  "dersId": "maliye",
-  "konuId": "kamu_harcamalari",
-  "soru": "Aşağıdaki kamu harcaması türlerinden hangisi doğrudan bir kaynak transferi olmaksızın özel ekonomik birimlerin davranışlarını yönlendirmeyi amaçlar ve karşılıksız bir nitelik taşır?",
-  "secenekler": [
-   "Borç faiz ödemeleri",
-   "Transfer harcamaları",
-   "Cari harcamalar",
-   "Mal ve hizmet alım harcamaları",
-   "Yatırım harcamaları"
-  ],
-  "dogru": 1,
-  "aciklama": "Transfer harcamaları, devletin üretim faktörü satın almaksızın yaptığı ve karşılıksız olan ödemelerdir. Emekli maaşları, sosyal yardımlar, sübvansiyonlar bu gruba girer. Gayri safi milli hasıla hesaplamasında transfer harcamaları doğrudan yer almaz; harcanan bu kaynakların özel bireylerce harcanmasıyla GSYH'ye katkı sağlanır. Mal ve hizmet alım harcamaları ile yatırım harcamaları ise kaynakları piyasadan çekerek doğrudan GSYH'yi etkiler.",
-  "zorluk": "orta"
- },
- {
   "id": "48154",
   "dersId": "maliye",
   "konuId": "kamu_harcamalari",
@@ -2589,22 +2573,6 @@
   ],
   "dogru": 2,
   "aciklama": "Kamu harcamalarındaki artışın gerçek (reel) mi yoksa fiyat artışlarından kaynaklanan görünürde (nominal) bir artış mı olduğunu anlamak için nominal harcama rakamlarının fiyat endeksleriyle (örneğin GSYİH deflatörü ya da TÜFE) deflate edilmesi gerekir. Yalnızca nominal artışa bakarak kamu harcamalarının büyüdüğü sonucuna varılması yanıltıcıdır. GSYH'ye oran da önemli bir göstergedir ancak sorunun odağı reel/nominal ayrımıdır.",
-  "zorluk": "orta"
- },
- {
-  "id": "48169",
-  "dersId": "maliye",
-  "konuId": "kamu_harcamalari",
-  "soru": "Aşağıdakilerden hangisi 'yarı-kamusal mal' (quasi-public good) özelliği taşıdığı için kamu harcamasıyla desteklenmesinin iktisat teorisi açısından gerekçesi en zayıftır?",
-  "secenekler": [
-   "Karayolu aydınlatması",
-   "Aşılama kampanyaları",
-   "Lüks turistik tesisler",
-   "Ulusal savunma",
-   "Temel eğitim hizmetleri"
-  ],
-  "dogru": 2,
-  "aciklama": "Ulusal savunma tam kamusal mal; temel eğitim, aşılama ve karayolu aydınlatması ise dışsallık ve bölünemezlik özellikleri nedeniyle yarı-kamusal mal sayılarak kamu müdahalesine teorik dayanak oluşturur. Lüks turistik tesisler ise ne tam kamusal mal ne de yarı-kamusal mal niteliği taşır; bu hizmetler piyasada özel sektör tarafından etkin biçimde sunulabilir ve kamu harcamasıyla desteklenmesinin iktisat teorisi açısından gerekçesi en zayıf olandır.",
   "zorluk": "orta"
  },
  {
@@ -3245,22 +3213,6 @@
   ],
   "dogru": 3,
   "aciklama": "Armey Eğrisi (ters U hipotezi), kamu sektörünün küçük olduğu durumlarda mülkiyet hakları, hukuk düzeni, altyapı gibi temel kamu hizmetlerinin genişlemesinin büyümeyi güçlü biçimde artırdığını; ancak kamu sektörü belirli bir büyüklüğü (optimum noktayı) geçtikten sonra vergi yükü, bürokratik atalet, dışlama etkisi ve kaynak israfının büyümeyi azaltmaya başladığını öne sürer. Düşük gelirli ülkeler genellikle bu eğrinin yükselen kolunda, yüksek gelirli ülkeler ise tepe noktasını geçmiş alçalan kolunda yer alır. Bu hipotez söz konusu asimetrik bulguyu en tutarlı ve bütünlüklü biçimde açıklayan teorik çerçevedir. Keynesyen çarpan mekanizması yanlış biçimde çerçevelenmiş olup yüksek tasarruf eğilimi sıfır değil pozitif bir çoğaltan yaratır.",
-  "zorluk": "zor"
- },
- {
-  "id": "48210",
-  "dersId": "maliye",
-  "konuId": "kamu_harcamalari",
-  "soru": "Musgrave'in kamu maliyesi fonksiyonları çerçevesinde değerlendirildiğinde, aşağıdaki hangi politika bileşimi hem kaynak tahsisi hem de bölüşüm fonksiyonu kapsamında eş anlı etkinlik sağlamaya çalışır?",
-  "secenekler": [
-   "Negatif dışsallıkların vergilendirilmesi + gelir testine tabi sosyal yardımlar",
-   "Kamu malı finansmanı + orantılı katkı payı uygulaması",
-   "Düz oranlı vergi + evrensel temel gelir transferi",
-   "Piyogo vergisi + Rawlsçı fark ilkesine dayalı transfer sistemi",
-   "Doğal tekel düzenlemesi + artan oranlı vergi"
-  ],
-  "dogru": 3,
-  "aciklama": "Pigou vergisi, negatif dışsallıkları içselleştirerek piyasa başarısızlığını gidermekte ve kaynak tahsisi etkinliğini sağlamaktadır. Rawlsçı 'fark ilkesi' ise en dezavantajlı grupların refahını maksimize etmeyi hedefleyen bir bölüşüm ilkesidir. Bu iki araç birlikte hem tahsis hem bölüşüm fonksiyonunu aynı anda hedefler. Diğer seçeneklerde ya yalnızca bir fonksiyon hedeflenmekte ya da fonksiyon eşleştirmesi hatalı yapılmaktadır. Düz oranlı vergi bölüşüm açısından nötr ya da gerilemelidir; negatif dışsallık vergisi tek başına tahsis fonksiyonuna hizmet eder.",
   "zorluk": "zor"
  },
  {
@@ -4576,22 +4528,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "48295",
-  "dersId": "maliye",
-  "konuId": "vergi_teorisi",
-  "soru": "Ödeme gücü ilkesi açısından değerlendirildiğinde, aşağıdaki araçlardan hangisi subjektif ödeme gücüne ulaşmayı hedefler?",
-  "secenekler": [
-   "Artan oranlı vergi tarifesi",
-   "Servet vergisi uygulaması",
-   "Oransal (düz oranlı) vergi",
-   "Asgari geçim indirimi ve kişisel indirimler",
-   "İstihdam vergilerinde tavan uygulaması"
-  ],
-  "dogru": 3,
-  "aciklama": "Ödeme gücü ilkesi iki boyutta incelenir. Objektif ödeme gücü, kişinin toplam ekonomik kapasitesini (gelir, servet, harcama) esas alır ve artan oranlı tarife bu kapsamdadır. Subjektif ödeme gücü ise kişinin bireysel koşullarını (aile büyüklüğü, sağlık giderleri, zorunlu geçim harcamaları) dikkate alarak vergi yükünü kişiselleştirir. Asgari geçim indirimi, engelli indirimi, bakmakla yükümlü olunan kişi indirimleri gibi uygulamalar, subjektif ödeme gücüne ulaşmanın araçlarıdır.",
-  "zorluk": "orta"
- },
- {
   "id": "48296",
   "dersId": "maliye",
   "konuId": "vergi_teorisi",
@@ -4640,22 +4576,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "48299",
-  "dersId": "maliye",
-  "konuId": "vergi_teorisi",
-  "soru": "Aşağıdaki mallardan hangisine uygulanan vergi hem gelir hem de ikame etkisi yaratır ve bu iki etki aynı yönde çalışarak toplam çalışma arzını kesin olarak azaltır?",
-  "secenekler": [
-   "Çalışanların ücret gelirlerine uygulanan düşük oranlı gelir vergisi ve buna eşlik eden damga vergisi",
-   "Serbest zaman (leisure) malına uygulanan Pigou vergisi",
-   "İşverenin ödediği sosyal güvenlik primlerine uygulanan ek vergi",
-   "Götürü usulde belirlenen sabit tutarlı gelir vergisi",
-   "Çalışma saatine bağlı kazanç üzerinden uygulanan yüksek oranlı marjinal gelir vergisi"
-  ],
-  "dogru": 4,
-  "aciklama": "Ücret geliri üzerine uygulanan yüksek marjinal gelir vergisi hem gelir hem de ikame etkisi yaratır. İkame etkisi: vergiden sonra çalışmanın fırsat maliyeti düşer, boş zaman görece ucuzlar, birey daha az çalışmayı tercih eder. Gelir etkisi: reel gelir düşer, birey daha fazla çalışarak bunu telafi etmek ister. Bu iki etki çoğunlukla zıt yönde işler. Ancak yüksek marjinal oranlar söz konusu olduğunda ikame etkisi baskın hale gelip net çalışma arzını azaltabilir; bu durum Laffer Eğrisi'nin sağ bölgesiyle de uyumludur. Diğer şıklarda iki etki bu kadar belirgin ve örtük değildir.",
-  "zorluk": "orta"
- },
- {
   "id": "48300",
   "dersId": "maliye",
   "konuId": "vergi_teorisi",
@@ -4684,7 +4604,7 @@
    "Y malına X malından daha yüksek oranlı vergi uygulanmalıdır"
   ],
   "dogru": 1,
-  "aciklama": "Ramsey kuralı (ters esneklik kuralı), refah kaybını minimize etmek için talep esnekliği düşük mallara daha yüksek, esnekliği yüksek mallara daha düşük vergi oranı uygulanmasını öngörür. Matematiksel ifadeyle: t_i/p_i ∝ 1/|ε_i|. X malının esnekliği -0,4 (inelastik), Y malının esnekliği -1,8 (elastik) olduğundan, X malına daha yüksek oranlı vergi konulmalıdır. Bu kural etkinlik odaklı olup gelir dağılımı adaletini göz ardı ettiği için eleştirilmektedir. Doğru cevap C'dir.",
+  "aciklama": "Ramsey kuralı (ters esneklik kuralı), refah kaybını minimize etmek için talep esnekliği düşük mallara daha yüksek, esnekliği yüksek mallara daha düşük vergi oranı uygulanmasını öngörür. Matematiksel ifadeyle: t«i/p»i ∝ 1/|ε_i|. X malının esnekliği -0,4 (inelastik), Y malının esnekliği -1,8 (elastik) olduğundan, X malına daha yüksek oranlı vergi konulmalıdır. Bu kural etkinlik odaklı olup gelir dağılımı adaletini göz ardı ettiği için eleştirilmektedir. Doğru cevap: «X malına Y malından daha yüksek oranlı vergi uygulanmalıdır».",
   "zorluk": "zor"
  },
  {
@@ -4700,7 +4620,7 @@
    "Boş zaman miktarı azalır çünkü gelir kaybını telafi etmek için daha fazla çalışılır"
   ],
   "dogru": 3,
-  "aciklama": "Vergi oranı artışı ücretin net değerini düşürür, bu da boş zamanın fırsat maliyetini azaltır (ikame etkisi: boş zaman görece ucuzlar, çalışma azalır). Gelir etkisi ise vergi artışının kişiyi daha yoksul hissettirmesiyle çalışmayı artırma yönünde baskı yapar. Soru gelir etkisinin sıfır olduğunu belirttiğinden, yalnızca ikame etkisi devreye girer. İkame etkisi boş zamanı artırma, çalışma arzusunu azaltma yönündedir. Dolayısıyla mükellef daha az çalışır. Doğru cevap B'dir.",
+  "aciklama": "Vergi oranı artışı ücretin net değerini düşürür, bu da boş zamanın fırsat maliyetini azaltır (ikame etkisi: boş zaman görece ucuzlar, çalışma azalır). Gelir etkisi ise vergi artışının kişiyi daha yoksul hissettirmesiyle çalışmayı artırma yönünde baskı yapar. Soru gelir etkisinin sıfır olduğunu belirttiğinden, yalnızca ikame etkisi devreye girer. İkame etkisi boş zamanı artırma, çalışma arzusunu azaltma yönündedir. Dolayısıyla mükellef daha az çalışır. Doğru cevap: «Yalnızca ikame etkisi devreye girer ve çalışma arzusu azalır».",
   "zorluk": "zor"
  },
  {
@@ -4716,7 +4636,7 @@
    "Ticari kazanç beyan edilirken menkul sermaye iradı da zorunlu olarak beyana dahil edilir"
   ],
   "dogru": 2,
-  "aciklama": "Türk Gelir Vergisi Kanunu'na göre bazı menkul sermaye iratları (örneğin GVK Geçici 67 kapsamındaki menkul kıymet gelirleri) için stopaj nihai vergi niteliği taşır; bu gelirler beyan edilmez ve başka gelirlerle birleştirilmez. Mükellefin menkul sermaye iradı stopaja tabi tutulmuş ve stopaj nihai vergi ise beyan dışında kalır; yalnızca ticari kazanç beyan edilir. Bu ayrım, gelir vergisinde 'gerçek usulde beyan' ile 'stopajla vergileme' rejimlerinin farklılığını yansıtır. Doğru cevap B'dir.",
+  "aciklama": "Türk Gelir Vergisi Kanunu'na göre bazı menkul sermaye iratları (örneğin GVK Geçici 67 kapsamındaki menkul kıymet gelirleri) için stopaj nihai vergi niteliği taşır; bu gelirler beyan edilmez ve başka gelirlerle birleştirilmez. Mükellefin menkul sermaye iradı stopaja tabi tutulmuş ve stopaj nihai vergi ise beyan dışında kalır; yalnızca ticari kazanç beyan edilir. Bu ayrım, gelir vergisinde 'gerçek usulde beyan' ile 'stopajla vergileme' rejimlerinin farklılığını yansıtır. Doğru cevap: «Menkul sermaye iradı beyan edilmez; stopaj nihai vergi sayılır».",
   "zorluk": "zor"
  },
  {
@@ -4748,7 +4668,7 @@
    "İkisi de yalnızca tam mükellef kurumlar için geçerlidir; dar mükellef kurumlar kapsam dışındadır"
   ],
   "dogru": 0,
-  "aciklama": "Örtülü sermaye (KVK md.12), şirketin ilişkili kişilerden öz sermayesinin 3 katını aşan borçlanmalarına ilişkin faiz, kur farkı vb. giderlerin matrahtan indirilmesini engeller; borç/özkaynak oranı aşıldığında bu giderler kanunen kabul edilmeyen gider sayılır. Örtülü kazanç dağıtımı (KVK md.13) ise transfer fiyatlandırması kapsamında ilişkili kişilerle emsale aykırı fiyatlarla yapılan işlemler yoluyla kârın kurumdan çekilmesini ifade eder; bu durumda gerçek matrah yeniden hesaplanır. İki kavram farklı mekanizmalarla matrah aşınmasını önlemeye çalışır. Doğru cevap C'dir.",
+  "aciklama": "Doğru ifade 'Örtülü sermayede yüksek faiz gideriyle matrah aşındırılırken, örtülü kazanç dağıtımında ilişkili kişilerle emsalsiz fiyatlar üzerinden işlem yapılarak kâr aktarımı gerçekleşir' şeklindedir. Kurumlar Vergisi Kanunu'nun 12. maddesine göre örtülü sermayede kurum, ortaklarından veya ilişkili kişilerden özsermayesinin üç katını aşan borç alır ve bu borca ödediği faiz ve benzeri giderlerle vergi matrahını düşürür. Bu nedenle aşan kısma ait giderler kanunen kabul edilmeyen gider sayılır. Kanunun 13. maddesindeki transfer fiyatlandırması yoluyla örtülü kazanç dağıtımında ise kâr, ilişkili kişilerle emsallere uygun olmayan fiyat veya bedel üzerinden yapılan mal ve hizmet alım-satımlarıyla örtülü biçimde aktarılır. Her iki düzenleme de tam ve dar mükellef kurumlara, yurt içi ve yurt dışı ilişkili kişilerle yapılan işlemlere uygulandığından diğer seçeneklerdeki kapsam sınırlamaları yanlıştır.",
   "zorluk": "zor"
  },
  {
@@ -4780,7 +4700,7 @@
    "Düşük gelirli bireylere vergi iadesi yapılmasıyla gelirin yeniden dağıtımının sağlanması sayesinde"
   ],
   "dogru": 3,
-  "aciklama": "Artan oranlı (progresif) gelir vergisi, konjonktürel dalgalanmalara karşı herhangi bir politik karar almaksızın otomatik olarak dengeleyici etki yaratır. Ekonomi genişleme döneminde gelirler arttıkça mükellefler daha yüksek dilimlere geçer; vergi yükü gelirden daha hızlı büyüyerek aşırı ısınmayı frenler. Daralma döneminde ise gelirler düştükçe mükellefler daha düşük dilimlere iner; vergi yükü gelirden daha hızlı azalarak satın alma gücünü korur. Bu mekanizma yasama organının müdahalesine gerek kalmaksızın çalışır; bu nedenle 'otomatik' stabilizatör olarak adlandırılır. Doğru cevap B'dir.",
+  "aciklama": "Artan oranlı gelir vergisi tarifesinde gelir yükseldikçe daha yüksek vergi dilimlerine geçildiği için, ekonomi genişlerken vergi yükünün gelirden daha hızlı artması ve daralırken gelirden daha hızlı azalması sayesinde otomatik stabilizatör işlevi gerçekleşir. Genişleme döneminde vergi tahsilatı orantıdan fazla arttığından harcanabilir gelir ve toplam talep frenlenir, aşırı ısınma ve enflasyon baskısı sınırlanır. Daralma döneminde ise vergi yükü orantıdan fazla azaldığından harcanabilir gelir korunur ve talebin çöküşü yumuşatılır. Bu süreç herhangi bir Parlamento kararı ya da merkez bankası müdahalesi gerektirmeden kendiliğinden işlediği için, Musgrave'in istikrar işlevinin otomatik bir aracı olarak değerlendirilir.",
   "zorluk": "zor"
  },
  {
@@ -4828,7 +4748,7 @@
    "Her iki araç da vergi tabanını genişletir ve bu nedenle optimal vergi teorisiyle tam uyumludur"
   ],
   "dogru": 0,
-  "aciklama": "Artan oranlı tarifede vergi muafiyeti (deduction) matrahı azaltır; ancak yüksek gelirli mükellefler daha yüksek marjinal oranda vergilendiği için aynı muafiyetten elde ettikleri vergi tasarrufu daha büyük olur (100 TL muafiyet, %40 dilimindeki birey için 40 TL, %20 dilimindeki için 20 TL katkı sağlar). Buna karşın vergi indirimi (credit/iade) vergiden doğrudan düşüldüğünden tüm mükelleflere aynı nominal faydayı sağlar. Bu asimetri vergi muafiyetlerinin dağılımsal açıdan regresif etki yaratabileceğini ortaya koyar. Doğru cevap C'dir.",
+  "aciklama": "Vergi muafiyeti matrahtan indirildiği için sağladığı fayda, mükellefin tabi olduğu marjinal vergi oranına bağlıdır. Artan oranlı tarifede yüksek gelirliler daha yüksek dilimlerde yer aldığından aynı tutardaki muafiyetten daha fazla vergi tasarrufu elde eder. Buna karşılık sabit tutarlı bir vergi iadesi, gelir düzeyinden bağımsız olarak herkese aynı nominal yararı sağlar. Bu nedenle doğru ifade, vergi muafiyetinin artan oranlı tarifeyle birleştiğinde yüksek gelirli mükelleflere oransal olarak daha büyük fayda sağlarken vergi iadesinin tüm mükelleflere eşit nominal fayda sunabileceğidir; diğer seçenekler vergi harcamalarının bütçe yükünü ve dağılımsal etkilerini hatalı yansıtmaktadır.",
   "zorluk": "zor"
  },
  {
@@ -4844,7 +4764,7 @@
    "Yurt dışı iştirakteki Türk pay oranının %25'i geçmesi ve iştirak kazancının Türkiye'de beyan edilmemesi"
   ],
   "dogru": 3,
-  "aciklama": "KVK'nın 7. maddesi uyarınca Kontrol Edilen Yabancı Kurum uygulaması için üç temel koşulun birlikte gerçekleşmesi gerekir: (1) Türkiye'de tam mükellef kurumların, doğrudan ya da dolaylı olarak ayrı ayrı veya birlikte yurt dışı iştirakteki kontrol oranının en az %50 olması, (2) Söz konusu iştirakin gayrisafi hasılatının %25'inden fazlasının pasif nitelikli gelirlerden (faiz, kira, temettü, gayri maddi hak gibi) oluşması, (3) Yurt dışındaki fiili vergi yükünün %10'un altında kalması. Bu üç koşul birlikte gerçekleşmediği sürece KEK hükümleri uygulanmaz. Doğru cevap B'dir.",
+  "aciklama": "5520 sayılı Kurumlar Vergisi Kanunu'nun 7. maddesine göre yurt dışı iştirak kazancının KEK kapsamında değerlendirilebilmesi için temel koşullar şunlardır: Türk ortakların paya, kâra veya oy hakkına doğrudan ya da dolaylı olarak en az %50 oranında sahip olması, iştirakin hasılatının %25 veya fazlasının faiz, kâr payı, kira, lisans ücreti ve menkul kıymet satış kazancı gibi pasif nitelikli gelirlerden oluşması ve yurt dışındaki fiili vergi yükünün %10'un altında kalması. Bu nedenle doğru cevap \"Türk ortakların iştirakteki payının en az %50 olması, iştirakin aktif karının %25'inden fazlasının pasif nitelikli gelirlerden oluşması ve yurt dışındaki fiili vergi yükünün %10'un altında kalması\" şıkkıdır. Kanun metninde %25 oranı brüt hasılat üzerinden hesaplanır ve ayrıca yıllık brüt hasılatın 100.000 TL karşılığı yabancı parayı aşması koşulu da aranır. Diğer şıklardaki OECD üyeliği, aynı sektörde faaliyet, 10 milyon TL aktif büyüklüğü veya %25 pay oranı gibi ölçütler mevzuatta yer almaz.",
   "zorluk": "zor"
  },
  {
@@ -4860,7 +4780,7 @@
    "Vergi tam rekabet piyasasında her zaman eşit olarak paylaşılır"
   ],
   "dogru": 1,
-  "aciklama": "Vergi yansımasında hem talep hem arz esnekliği belirleyicidir. Tüketicilerin yük payı (t_d) = ε_s / (ε_s - ε_d), üreticilerin yük payı (t_s) = -ε_d / (ε_s - ε_d) formülleriyle ifade edilir. Arz görece daha esnek, talep görece daha inelastik olduğunda vergi yükü daha fazla tüketiciye yansır. Arz tamamen esnek (ε_s → ∞) olduğunda verginin tamamı tüketiciye, arz tamamen inelastik (ε_s = 0) olduğunda verginin tamamı üreticiye yansır. Bu nedenle yansıma iki esnekliğin göreli büyüklüğüne bağlıdır. Doğru cevap C'dir.",
+  "aciklama": "Vergi yansıması teorisine göre yük, piyasanın iki tarafının fiyat değişimine verdiği tepkinin göreli büyüklüğüne göre paylaşılır. Tüketicinin yük payı Ea/(Ea+Et), üreticinin yük payı ise Et/(Ea+Et) formülüyle bulunur. Bu nedenle \"Talep esnekliğinin arz esnekliğine oranı yansımayı belirler; arz görece daha esnek olduğunda üreticinin yük payı azalır\" ifadesi doğrudur, çünkü esnek olan taraf vergiden kaçabilir ve yük daha esnek olmayan tarafa kayar. Diğer ifadeler hatalıdır. Arz esnekliği sıfır olduğunda verginin tamamı tüketiciye değil üreticiye yansır, arz esnekliği yük paylaşımını doğrudan etkiler ve tam rekabet piyasasında yükün eşit paylaşılması zorunlu değildir.",
   "zorluk": "zor"
  },
  {
@@ -5392,22 +5312,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "48347",
-  "dersId": "maliye",
-  "konuId": "butce",
-  "soru": "Aşağıdakilerden hangisi bütçe açığını kapatmak için kullanılan iç borçlanma araçlarından biridir?",
-  "secenekler": [
-   "Eurobond",
-   "Hazine bonosu",
-   "Dövize endeksli tahvil",
-   "SDR tahsisatı",
-   "Dış proje kredisi"
-  ],
-  "dogru": 1,
-  "aciklama": "Hazine bonosu, devletin iç piyasada borçlanmak amacıyla çıkardığı ve vadesi 1 yılın altında olan kısa vadeli borçlanma aracıdır. Bütçe açıklarının finansmanında kullanılan iç borçlanma araçları arasında hazine bonosu ve devlet tahvili yer alır. Eurobond ve dış proje kredileri ise dış borçlanma araçlarıdır.",
-  "zorluk": "kolay"
- },
- {
   "id": "48348",
   "dersId": "maliye",
   "konuId": "butce",
@@ -5501,22 +5405,6 @@
   ],
   "dogru": 0,
   "aciklama": "Klasik maliye anlayışı, devletin bütçesini her yıl dengeli tutmasını yani harcamaların gelirlere eşit olmasını savunur. Bu görüşe göre bütçe açıkları enflasyona ve ekonomik istikrarsızlığa yol açar. Buna karşılık Keynesyen anlayış, konjonktüre göre açık ya da fazla verilebileceğini savunur; fonksiyonel maliye ise bütçenin dengesinden çok ekonomik istikrarı sağlama işlevini ön plana çıkarır.",
-  "zorluk": "kolay"
- },
- {
-  "id": "48354",
-  "dersId": "maliye",
-  "konuId": "butce",
-  "soru": "Aşağıdakilerden hangisi 'transfer harcaması' kapsamında değerlendirilemez?",
-  "secenekler": [
-   "Kamulaştırma bedelleri",
-   "Kamu personelinin maaşları",
-   "Öğrenim bursları",
-   "Emekli maaşları",
-   "Sosyal güvenlik prim ödemeleri"
-  ],
-  "dogru": 1,
-  "aciklama": "Transfer harcamaları, karşılığında mal veya hizmet üretimi olmaksızın yapılan ödemelerdir. Emekli maaşları, sosyal yardımlar, burslar ve kamulaştırma bedelleri transfer harcaması niteliğindedir. Buna karşılık kamu personelinin maaşları, devlet adına üretilen hizmetin bedeli olarak ödenen karşılıklı bir işlemi ifade ettiğinden 'cari harcama' kapsamında değerlendirilir; transfer harcaması değildir.",
   "zorluk": "kolay"
  },
  {
@@ -6176,22 +6064,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "48397",
-  "dersId": "maliye",
-  "konuId": "butce",
-  "soru": "Aşağıda verilen bütçe açığı tanımlarından hangisi 'birincil (primary) bütçe dengesi' kavramını doğru biçimde açıklar?",
-  "secenekler": [
-   "Merkezi yönetim gelirlerinin sosyal güvenlik gelirleri dahil edilmeksizin giderlerle karşılaştırılması",
-   "Bütçe nakit dengesinden kur farkı giderlerinin arındırılmış hali",
-   "Toplam kamu gelirlerinin toplam kamu giderlerinden çıkarılmasıyla bulunan denge",
-   "Faiz ödemeleri düşüldükten sonra kalan kamu gelirlerinin, faiz ödemeleri hariç kamu giderleriyle karşılaştırılması",
-   "Faiz hariç kamu gelirlerinin faiz dahil kamu giderlerinden farkı"
-  ],
-  "dogru": 3,
-  "aciklama": "Birincil (primary) bütçe dengesi, faiz ödemeleri gider tarafından çıkarıldıktan sonra hesaplanan dengedir. Başka bir deyişle: Birincil Denge = (Faiz hariç gelirler) – (Faiz hariç giderler) ya da eşdeğer olarak Genel Denge + Faiz Ödemeleri. Bu ölçüt, hükümetin mevcut borç yükünden bağımsız olarak mali performansını değerlendirmek için kullanılır.",
-  "zorluk": "orta"
- },
- {
   "id": "48398",
   "dersId": "maliye",
   "konuId": "butce",
@@ -6205,22 +6077,6 @@
   ],
   "dogru": 1,
   "aciklama": "5018 sayılı Kanun'un 58. maddesine göre ön mali kontrol; harcama birimlerinde işlemlerin gerçekleştirilmesi aşamasında yapılır ve mali hizmetler birimi tarafından yürütülür. Ancak ön mali kontrole tabi tutulmayan işlemler de belirli limitler dahilinde gerçekleştirilebilir; her ödemenin mutlaka ön mali kontrolden geçmesi zorunlu değildir. Kanun'da bazı işlemler için vize ya da uygun görüş şartı aranmakla birlikte bu kapsamın dışında kalan ödeme türleri de mevcuttur.",
-  "zorluk": "orta"
- },
- {
-  "id": "48399",
-  "dersId": "maliye",
-  "konuId": "butce",
-  "soru": "Keynesyen yaklaşıma göre ekonomik durgunluk döneminde uygulanan genişletici maliye politikasının etkinliği aşağıdaki hangi koşulda en yüksek olur?",
-  "secenekler": [
-   "LM eğrisinin yatay, IS eğrisinin dik olması",
-   "Döviz kurunun sabit ve sermaye hareketlerinin tam serbest olması",
-   "Marjinal tüketim eğiliminin düşük, faizin gelir esnekliğinin yüksek olması",
-   "Marjinal tüketim eğiliminin yüksek, yatırımın faiz esnekliğinin düşük olması",
-   "Para talebinin faiz esnekliğinin düşük, yatırımın faiz esnekliğinin yüksek olması"
-  ],
-  "dogru": 3,
-  "aciklama": "IS-LM çerçevesinde maliye politikasının çoğaltan etkisi; marjinal tüketim eğilimi (MPC) yükseldikçe ve yatırımın faiz esnekliği azaldıkça büyür. Yüksek MPC, kamu harcama artışının çarpan etkisiyle daha fazla gelir yaratmasını sağlar. Düşük yatırım-faiz esnekliği ise dışlama etkisini sınırlar. Para talebinin faiz esnekliği yüksekse (yatay LM) maliye politikası da etkin olur; ancak temel etkinlik koşulu MPC yüksekliği ve dışlama etkisinin zayıflığıdır.",
   "zorluk": "orta"
  },
  {
@@ -6283,7 +6139,7 @@
    "TBMM, bütçeyi değiştirerek giderleri artırabilir; ancak bu artış için gelir artışını da bütçede göstermek zorundadır.",
    "TBMM, bütçeyi görüşür; ancak değişiklik önergesi verilmesi anayasal olarak yasaktır."
   ],
-  "dogru": 1,
+  "dogru": 3,
   "aciklama": "Anayasa'nın 162. maddesine göre TBMM, Bütçe Komisyonu aşamasında kurumlar arasında ödenek aktarması yapabilir; ancak bu aşamada da toplam gider miktarını artıramaz. Genel Kurul ise gider artırıcı veya gelirleri azaltıcı öneride bulunamaz. Bu hüküm, bütçe kanununda parlamentonun 'sınırlı değiştirme yetkisi' ilkesini ifade eder ve mali disiplin açısından önemli bir anayasal güvencedir.",
   "zorluk": "orta"
  },
@@ -6461,22 +6317,6 @@
   ],
   "dogru": 4,
   "aciklama": "Ricardocu denklik teoremi, kamu açığının tüketimi etkilememesi için şu koşulları gerektirir: kusursuz sermaye piyasaları ve borçlanma kısıtının olmaması, götürü (lump-sum) vergiler, rasyonel beklentilerle bugünkü ve gelecekteki bütçe kısıtlarının içselleştirilmesi, hanehalklarının sonsuz ufuklu olması veya bağış güdüsüyle nesiller arası bağ kurması. Devlet harcamalarının özel tüketimin yerine geçmesi ya da onu tamamlaması bu koşullar arasında değildir. Teoremde devlet harcamalarının düzeyi sabit kabul edilir ve yalnızca finansman biçimi (vergi veya borç) değişir. En çok karıştırılan \"Vergilerin lump-sum (götürü) nitelik taşıması ve geleceğe yayılan vergi artışını dengeleyen bir fark yaratmaması\" seçeneği teoremin standart koşuludur, dolayısıyla teoreme dahildir. Doğru cevap \"Devlet harcamalarının özel tüketimi doğrudan ikame etmesi veya tamamlaması\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "48416",
-  "dersId": "maliye",
-  "konuId": "butce",
-  "soru": "Türkiye'de 'stratejik plan' ile 'performans programı' arasındaki hiyerarşik ilişki ve bütçeyle bağlantısı değerlendirildiğinde, aşağıdaki ifadelerden hangisi yanlıştır?",
-  "secenekler": [
-   "Performans programı, stratejik plandaki amaç ve hedefleri bütçeyle ilişkilendiren yıllık bir belgedir.",
-   "İdare faaliyet raporları, performans programındaki hedeflerin gerçekleşme düzeyini kamuoyuyla paylaşır.",
-   "Stratejik planlar en az beş yıllık bir dönemi kapsar ve üst politika belgelerine uygun olmak zorundadır. Bu planlar kamuoyuyla paylaşılır ve her yıl izleme raporuyla güncellenir.",
-   "Kamu idareleri, bütçe tekliflerini performans programlarıyla uyumlu biçimde hazırlamakla yükümlüdür.",
-   "Performans programında yer alan performans hedeflerine ulaşılmaması, kamu görevlileri hakkında otomatik olarak mali yaptırım uygulanmasını gerektirir."
-  ],
-  "dogru": 4,
-  "aciklama": "5018 sayılı Kanun ve Kamu İdarelerinde Stratejik Planlamaya İlişkin Usul ve Esaslar Hakkında Yönetmelik çerçevesinde; performans hedeflerine ulaşılamaması başlı başına otomatik mali veya cezai yaptırım doğurmaz. Hedef sapmaları faaliyet raporlarında açıklanır ve değerlendirmeye tabi tutulur, ancak bunun bireysel yaptırıma dönüşmesi için ayrıca ihmal, kasıt veya usulsüzlük gibi ek koşulların varlığı aranır. Diğer şıklar mevzuata uygundur.",
   "zorluk": "zor"
  },
  {
@@ -6859,7 +6699,7 @@
    "Mukayyet değer",
    "Vergi değeri"
   ],
-  "dogru": 1,
+  "dogru": 4,
   "aciklama": "7338 sayılı Veraset ve İntikal Vergisi Kanunu'na göre intikal eden malların değerlenmesinde esas olarak rayiç bedel kullanılır. Rayiç bedel, bir iktisadi kıymetin değerleme günündeki normal alım satım değeridir. Gayrimenkuller için vergi değeri veya rayiç bedelden yüksek olanı esas alınmaktadır.",
   "zorluk": "kolay"
  },
@@ -7003,7 +6843,7 @@
    "%1",
    "%18"
   ],
-  "dogru": 4,
+  "dogru": 0,
   "aciklama": "KDV Kanunu'na göre vergi oranı, vergi konusu işlemler için %18 olarak belirlenmiştir. Bununla birlikte Bakanlar Kurulu (Cumhurbaşkanı) bazı mal ve hizmetler için bu oranı indirme yetkisine sahiptir; örneğin temel gıda maddelerinde %1, bazı gıda ve hizmetlerde %8 oranı uygulanmaktadır.",
   "zorluk": "kolay"
  },
@@ -7099,7 +6939,7 @@
    "Özel usulsüzlük cezası",
    "Ağır usulsüzlük cezası"
   ],
-  "dogru": 2,
+  "dogru": 4,
   "aciklama": "VUK'ta düzenlenen idari vergi cezaları; vergi ziyaı cezası, usulsüzlük cezası ve özel usulsüzlük cezasıdır. Usulsüzlük cezası genel ve özel usulsüzlük olarak ikiye ayrılır. Hapis cezası ise idari bir yaptırım değil, adli bir yaptırım olup VUK'ta değil Türk Ceza Kanunu'nda düzenlenmektedir.",
   "zorluk": "kolay"
  },
@@ -7664,22 +7504,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "48494",
-  "dersId": "maliye",
-  "konuId": "turk_vergi_sistemi",
-  "soru": "Kurumlar vergisinde 'iştirak kazançları istisnası'nın uygulanabilmesi için aşağıdaki koşullardan hangisi aranmaz?",
-  "secenekler": [
-   "İştirak payının en az %10 olması",
-   "Kâr payının elde edildiği tarihte iştirak payının en az bir yıl süreyle elde tutulmuş olması",
-   "Kâr payının tam mükellef bir kurumdan elde edilmiş olması",
-   "Kâr dağıtımının kurumlar vergisine tabi kazançtan yapılmış olması",
-   "İştirak edilen kurumun hisse senetlerinin nama yazılı olması"
-  ],
-  "dogru": 4,
-  "aciklama": "KVK'nın 5/1-a maddesi uyarınca iştirak kazançları istisnasından yararlanabilmek için; kâr payının tam mükellef kurumdan elde edilmesi, iştirak payının en az %10 olması ve bu payın kâr payı elde edildiği tarihte en az bir yıl süreyle elde bulundurulmuş olması gerekir. Hisse senetlerinin nama yazılı olması ise bu istisna için aranan bir koşul değildir; anonim, hamiline ya da nama yazılı ayrımı istisna uygulamasını etkilemez.",
-  "zorluk": "orta"
- },
- {
   "id": "48495",
   "dersId": "maliye",
   "konuId": "turk_vergi_sistemi",
@@ -7805,22 +7629,6 @@
   ],
   "dogru": 0,
   "aciklama": "Kurumlar Vergisi Kanunu'nun 5. maddesi uyarınca tam mükellef kurumlardan elde edilen ve kaynağında kurumlar vergisine tabi tutulmuş iştirak kâr payları, alan kurumun matrahından istisna edilir. Herhangi bir asgari hisse oranı veya elde tutma süresi şartı aranmaz; temel koşul, kâr payını dağıtan kurumun Türkiye'de tam mükellef bir kurum olmasıdır.",
-  "zorluk": "orta"
- },
- {
-  "id": "48503",
-  "dersId": "maliye",
-  "konuId": "turk_vergi_sistemi",
-  "soru": "Aşağıdaki vergi uygulamalarından hangisi 'verginin yasallığı ilkesi' ile doğrudan çelişir?",
-  "secenekler": [
-   "Maliye Bakanlığı'nın tebliğle verginin matrahını yeniden belirlemesi",
-   "Anayasa Mahkemesi kararıyla vergi düzenlemesinin iptal edilmesi",
-   "Kanunla kurulan bir vergi için muafiyetlerin yönetmelikle düzenlenmesi",
-   "TBMM'nin bütçe kanunuyla o yıla özgü yeni bir vergi ihdas etmesi",
-   "Bakanlar Kurulu'nun kanunun öngördüğü sınırlar içinde vergi oranını değiştirmesi"
-  ],
-  "dogru": 0,
-  "aciklama": "Verginin yasallığı ilkesi (Anayasa m. 73), vergi, resim, harç ve benzeri yükümlülüklerin ancak kanunla konulup kaldırılabileceğini öngörür. Maliye Bakanlığı'nın yönetim tasarrufu niteliğindeki tebliğle verginin matrahını belirlemesi, yasama yetkisinin devri yasağı ve verginin yasallığı ilkesine açıkça aykırıdır. Kanun sınırları içinde Bakanlar Kurulu'na oran belirleme yetkisi verilmesi ise Anayasa'nın m. 73/4 kapsamında mümkündür.",
   "zorluk": "orta"
  },
  {
@@ -8236,7 +8044,7 @@
    "Beyanname vermek zorunda olduğu hâlde vermemiş mükelleflerin bu beyannameleri pişmanlıkla vermesi"
   ],
   "dogru": 3,
-  "aciklama": "VUK'un 371. maddesi uyarınca pişmanlık müessesesi, kaçakçılık suçlarını düzenleyen 359. madde kapsamındaki fiiller için uygulanmaz. Sahte belge (naylon fatura) düzenlemek VUK 359. madde kapsamında kaçakçılık suçu oluşturduğundan, bu fiil nedeniyle oluşan vergi kaybı için pişmanlık hükümlerinden yararlanmak mümkün değildir. Diğer şıklardaki durumlar ise pişmanlık kapsamında değerlendirilebilir. Doğru cevap B'dir.",
+  "aciklama": "VUK'un 371. maddesi uyarınca pişmanlık müessesesi, kaçakçılık suçlarını düzenleyen 359. madde kapsamındaki fiiller için uygulanmaz. Sahte belge (naylon fatura) düzenlemek VUK 359. madde kapsamında kaçakçılık suçu oluşturduğundan, bu fiil nedeniyle oluşan vergi kaybı için pişmanlık hükümlerinden yararlanmak mümkün değildir. Diğer şıklardaki durumlar ise pişmanlık kapsamında değerlendirilebilir. Doğru cevap: «Sahte belge düzenlemekten doğan vergi kaybının pişmanlıkla giderilmek istenmesi».",
   "zorluk": "zor"
  },
  {
@@ -8252,7 +8060,7 @@
    "Ortakla ilişkili sayılan kişilerden temin edilen ve öz sermayenin üç katını aşan borçlar"
   ],
   "dogru": 2,
-  "aciklama": "KVK'nın 12. maddesinde örtülü sermayenin istisnalarına yer verilmiştir. Buna göre banka veya finans kurumlarından temin edilen borçların, bu kurumların borç verme işlemlerinde uyguladığı şartlarla aynı koşullarla üçüncü kişilere aktarılması hâlinde söz konusu borç örtülü sermaye sayılmaz. Bu özellik 'back-to-back' finansman olarak bilinir. Diğer seçeneklerdeki durumlar örtülü sermaye kapsamına girebilir. Doğru cevap B'dir.",
+  "aciklama": "KVK'nın 12. maddesinde örtülü sermayenin istisnalarına yer verilmiştir. Buna göre banka veya finans kurumlarından temin edilen borçların, bu kurumların borç verme işlemlerinde uyguladığı şartlarla aynı koşullarla üçüncü kişilere aktarılması hâlinde söz konusu borç örtülü sermaye sayılmaz. Bu özellik 'back-to-back' finansman olarak bilinir. Diğer seçeneklerdeki durumlar örtülü sermaye kapsamına girebilir. Doğru cevap: «Banka ve finans kurumlarından temin edilen ve aynı şartlarla üçüncü kişilere aktarılan borçlar».",
   "zorluk": "zor"
  },
  {
@@ -8268,7 +8076,7 @@
    "Yalnızca uygulanan stopaj oranı ve gelirin yurt içi ya da yurt dışı kaynaklı olması ile elde edildiği takvim yılı"
   ],
   "dogru": 2,
-  "aciklama": "GVK'ya göre menkul sermaye iratlarının beyan dışı kalıp kalmayacağı değerlendirilirken birden fazla unsurun birlikte incelenmesi gerekmektedir: (1) İrat üzerinden stopaj yapılıp yapılmadığı ve stopaj oranı, (2) İndirim oranı uygulamasına tabi tutulup tutulmadığı, (3) İlgili yıl için belirlenen beyan sınırının aşılıp aşılmadığı. Örneğin stopaja tabi tutulmuş ve indirim oranı uygulanmış bazı iratlar belli koşulları sağladığında beyan dışı kalabilir. Bu nedenle doğru cevap B'dir.",
+  "aciklama": "Gelir Vergisi Kanunu'na göre menkul sermaye iradının beyan dışı kalıp kalmayacağı tek bir ölçüte bağlı değildir; gelirin kaynağında stopaja tabi tutulup tutulmadığı, beyan sınırını aşıp aşmadığı ve varsa indirim oranı (istisna ya da indirim) uygulamasının yapılıp yapılmadığı birlikte incelenir. Örneğin tevkifata tabi tutulmuş bazı gelirler belirli bir tutarı aşmadıkça beyan edilmezken, stopaja tabi olmayan gelirler kural olarak beyana konu olur. Bu nedenle doğru cevap 'Stopaja tabi tutulup tutulmadığı, beyan sınırı ve indirim oranı uygulamasının yapılıp yapılmadığı' şıkkıdır. Menkul kıymetin ihraç tarihi, mükellefin medeni hâli ya da yalnızca beyan sınırı gibi tek başına unsurlar bu değerlendirme için yeterli veya belirleyici değildir.",
   "zorluk": "zor"
  },
  {
@@ -8332,7 +8140,7 @@
    "Ar-Ge indirimi tutar olarak temsil giderlerini aştığında temsil giderleri KKEG olmaktan çıkar."
   ],
   "dogru": 2,
-  "aciklama": "GVK'nın 41. maddesinde temsil ve ağırlama giderleri kanunen kabul edilmeyen gider olarak sınırlandırılmıştır; ticari kazancın tespitinde bu giderler matrahtan indirilememektedir. Ar-Ge indirimi ise 5746 sayılı Araştırma, Geliştirme ve Tasarım Faaliyetlerinin Desteklenmesi Hakkında Kanun ile KVK'nın 10. maddesi çerçevesinde tamamen farklı koşullara ve hesaplama yöntemlerine tabi bir teşvik mekanizmasıdır. İki müessese birbirini etkilemez ve bağımsız biçimde uygulanır. Doğru cevap B'dir.",
+  "aciklama": "Doğru cevap şudur: Temsil ve ağırlama giderleri GVK 41. madde kapsamında kanunen kabul edilmeyen gider (KKEG) sayılırken Ar-Ge indirimi, Kurumlar Vergisi Kanunu ve 5746 sayılı Kanun kapsamında ayrı bir müessesedir; bu iki düzenleme birbirinden bağımsız olarak uygulanır. Temsil ve ağırlama giderlerine ilişkin sınırlama, ticari kazancın tespitinde hangi ödemelerin gider yazılamayacağını belirleyen bir kuraldır. Ar-Ge indirimi ise yenilik ve araştırma faaliyetlerini teşvik amacıyla matrahtan ayrıca yapılan bir indirimdir. Bu nedenle birinin tutarı ya da varlığı diğerinin uygulanmasını değiştirmez; Ar-Ge indiriminin temsil giderlerini KKEG olmaktan çıkardığı veya iki düzenlemenin eş zamanlı tek bir sınırlama gibi işlediği yönündeki ifadeler yanlıştır.",
   "zorluk": "zor"
  },
  {
@@ -8380,7 +8188,7 @@
    "Şirketin iflas etmesi ve iflas idaresinin atanması hâlinde"
   ],
   "dogru": 1,
-  "aciklama": "VUK'un 10. maddesi uyarınca kanuni temsilciler, tüzel kişi adına ödenmeyen vergi ve cezalardan şahsen sorumludur; ancak bu sorumluluk kendi görev dönemleriyle sınırlıdır. Kanuni temsilcinin göreve başlamasından önce doğan vergi borçları için -bu borçlar o dönemdeki yetkili temsilciler tarafından oluşturulduğundan- yeni temsilciye birincil ve doğrudan sorumluluk yükletilemez; söz konusu borçlar için öncelikle o dönemin temsilcisi sorumlu tutulur. Diğer şıklardaki durumlarda ise kanuni temsilcinin sorumluluğuna gidilebilecek yasal dayanaklar mevcuttur. Doğru cevap C'dir.",
+  "aciklama": "VUK'un 10. maddesi uyarınca kanuni temsilciler, tüzel kişi adına ödenmeyen vergi ve cezalardan şahsen sorumludur; ancak bu sorumluluk kendi görev dönemleriyle sınırlıdır. Kanuni temsilcinin göreve başlamasından önce doğan vergi borçları için -bu borçlar o dönemdeki yetkili temsilciler tarafından oluşturulduğundan- yeni temsilciye birincil ve doğrudan sorumluluk yükletilemez; söz konusu borçlar için öncelikle o dönemin temsilcisi sorumlu tutulur. Diğer şıklardaki durumlarda ise kanuni temsilcinin sorumluluğuna gidilebilecek yasal dayanaklar mevcuttur. Doğru cevap: «Kanuni temsilcinin göreve başlamadan önce doğan vergi borçları için».",
   "zorluk": "zor"
  },
  {

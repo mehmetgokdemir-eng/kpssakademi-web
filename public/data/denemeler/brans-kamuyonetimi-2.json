@@ -19,13 +19,14 @@
      "soru": "Herbert Simon'ın 'sınırlı rasyonellik' (bounded rationality) kavramına göre karar alıcılar gerçekte nasıl davranır?",
      "secenekler": [
       "Sezgilerine tamamen güvenerek analitik süreçleri dışlarlar.",
-      "Tüm alternatifleri eksiksiz değerlendirerek en yüksek faydayı sağlayan seçeneği tercih ederler.",
+      "Tüm alternatifleri eksiksiz biçimde değerlendirerek en yüksek faydayı sağlayan seçeneği tercih ederler. Bu süreç eksiksiz işler.",
       "Karar almaktan kaçınarak sorunu bir üst kademeye havale ederler.",
       "Sınırlı bilgi, zaman ve bilişsel kapasite nedeniyle 'yeterince iyi' olan ilk tatmin edici seçeneği benimserler.",
       "Grup kararlarına bireysel kararlardan her zaman daha fazla güvenirler."
      ],
      "dogru": 3,
-     "aciklama": "Simon'ın sınırlı rasyonellik kavramı, klasik rasyonel karar modelinin varsayımlarını reddeder. Gerçekte karar alıcılar tüm alternatifleri bilmez, hesaplama kapasiteleri ve zamanları kısıtlıdır. Bu nedenle optimal olanı değil 'tatmin edici' (satisficing) olanı, yani kabul edilebilir eşiği aşan ilk seçeneği tercih ederler."
+     "aciklama": "Simon'ın sınırlı rasyonellik kavramı, klasik rasyonel karar modelinin varsayımlarını reddeder. Gerçekte karar alıcılar tüm alternatifleri bilmez, hesaplama kapasiteleri ve zamanları kısıtlıdır. Bu nedenle optimal olanı değil 'tatmin edici' (satisficing) olanı, yani kabul edilebilir eşiği aşan ilk seçeneği tercih ederler.",
+     "zorluk": "orta"
     },
     {
      "id": "54222",
@@ -33,14 +34,14 @@
      "konuId": "turk_kamu_yonetimi",
      "soru": "Türkiye'de 'e-devlet' dönüşümünün kamu yönetimi reformu perspektifinden değerlendirilmesinde, bu dönüşümün salt teknolojik bir yeniden yapılanmadan öte bir anlam taşıdığını savunan en güçlü argüman hangisidir?",
      "secenekler": [
-      "Dijital devlet kapısının devreye girmesiyle birlikte tüm kamu hizmetleri vatandaşa eşit erişim hakkı tanıyacak biçimde tek merkezden sunulmaktadır",
+      "Dijital devlet kapısının devreye girmesiyle birlikte istisnasız tüm kamu hizmetleri vatandaşa eşit erişim hakkı tanıyacak biçimde tek merkezden sunulmakta, dijital uçurum sorunu ortadan kalkmaktadır Nitekim bu sayede vatandaş-devlet ilişkisinde hesap verebilirlik mekanizmaları da kendiliğinden güçlenmiştir.",
       "E-devlet altyapısı sayesinde Türkiye'deki tüm kamu kurumları ortak veri tabanında birleşmiş ve veri tekrarı ortadan kalkmıştır",
       "E-devlet uygulamaları kamu harcamalarını kısa vadede dramatik biçimde azaltmış ve bütçe açıklarını kapatmıştır",
       "E-devlet dönüşümü, vatandaş-devlet ilişkisini 'izin verici bürokratik süreç' modelinden 'talep üzerine hizmet' modeline taşıyarak idarenin hizmet anlayışını, hesap verebilirlik mekanizmalarını ve vatandaşın kamu yönetimiyle etkileşim biçimini kökten dönüştürme potansiyeli taşımaktadır",
       "E-devlet uygulamaları merkezi denetimi ortadan kaldırmış ve yerel yönetimlerin özerkliğini pekiştirmiştir"
      ],
      "dogru": 3,
-     "aciklama": "E-devlet dönüşümünün yalnızca bir 'teknoloji projesi' olmadığını savunan argümanlar, bu dönüşümün devlet-vatandaş ilişkisinin özünü değiştirme kapasitesini ön plana çıkarır. Geleneksel bürokratik modelde vatandaş kuruma fiziksel olarak başvurmak, farklı kademelerde onay almak ve süreci takip etmek zorundaydı; hizmet 'kurumun sürecine' tabiiydi. E-devlet modeli ise vatandaşın hizmeti talep anında ve çoklu kanaldan alabilmesini; süreçlerin şeffaf, sorgulanabilir ve izlenebilir olmasını hedefler. Bu dönüşüm 'NPM (Yeni Kamu İşletmeciliği)' ve 'Neo-Weberyan Devlet' tartışmalarıyla da örtüşmektedir. B, D ve E şıkları aşırı genelleme içermekte ve olgusal açıdan tartışmalıdır.",
+     "aciklama": "Soruda e-devlet dönüşümünün salt teknik bir yenilenmeden fazlası olduğunu gösteren argüman aranıyor. E-devlet, hizmetin 'izin verici' bürokratik anlayıştan 'talep üzerine' sunulan anlayışa geçmesini sağlar. Böylece idarenin hizmet anlayışı, şeffaflık ve hesap verebilirlik mekanizmaları ile vatandaşın idareyle etkileşimi değişir. Bu, kurumsal ve yönetsel bir dönüşümü anlatır. \"Dijital devlet kapısının devreye girmesiyle birlikte istisnasız tüm kamu hizmetleri...\" ile başlayan seçenek yanlıştır, çünkü 'istisnasız tüm hizmetler' ve 'dijital uçurum ortadan kalktı' iddiaları aşırı genellemedir. Dijital uçurum hâlâ sürmektedir. \"E-devlet uygulamaları kamu harcamalarını kısa vadede dramatik biçimde azaltmış ve bütçe açıklarını kapatmıştır\" seçeneği de dayanaksız bir iddiadır. Doğru cevap \"E-devlet dönüşümü, vatandaş-devlet ilişkisini 'izin verici bürokratik süreç' modelinden 'talep üzerine hizmet' modeline taşıyarak...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -50,10 +51,10 @@
      "soru": "Türk kamu personel sisteminde 'pozisyon sınıflandırması' yerine 'rütbe (rank) sınıflandırması' sisteminin benimsenmesinin temel sonucu aşağıdakilerden hangisidir?",
      "secenekler": [
       "Her iş için ayrı bir ücret belirlenmesi",
-      "Memurların özel sektörle aynı ücret sistemine tabi tutulması",
+      "Memurların özel sektör çalışanlarıyla aynı ücret sistemine tabi tutulması ve aynı sosyal güvenlik rejimine bağlanması",
       "Memurların belirli bir pozisyona değil, genel bir kadro statüsüne atanması ve kurumlar arası geçişin kolaylaşması",
       "Memurların atanmasında sınavın zorunlu olmaması",
-      "Her memurun yalnızca bir tek kurumda çalışabilmesi"
+      "Her memurun yalnızca tek bir kurumda çalışabilmesi"
      ],
      "dogru": 2,
      "aciklama": "Türk kamu personel sistemi ağırlıklı olarak rütbe (rank) sınıflandırması sistemini benimsemiştir. Bu sistemde memur, belirli bir pozisyona değil, kariyer güvencesi olan genel bir statüye atanır; bu durum memurların kurumlar arası geçişini ve hareketliliğini kolaylaştırır. Pozisyon sınıflandırması sisteminde ise her görev için ayrı ücret ve nitelik belirlenir.",
@@ -72,7 +73,7 @@
       "İsveç – Özerk ajans geleneğinin YKY öncesinde de var olması nedeniyle sınırlı reform"
      ],
      "dogru": 1,
-     "aciklama": "E seçeneği yanlıştır çünkü Margaret Thatcher, Fransa'nın değil İngiltere'nin başbakanıdır. Fransa, YKY reformlarını diğer Anglo-Sakson ülkelerine kıyasla çok daha temkinli ve geç benimsemiş; güçlü devlet geleneği (Jakoben-Napoleonik idari kültür) ve grandes écoles elitiyle şekillenen bürokrasi yapısı nedeniyle özelleştirme ve ajanslaşma konusunda yavaş ilerlemiştir. Diğer eşleştirmelerin hepsi tarihsel ve literatür bakımından doğrudur.",
+     "aciklama": "Yeni Kamu Yönetimi reformları ülkeden ülkeye farklılaşmıştır. İngiltere'de Next Steps ajansları ve Vatandaş Tüzüğü uygulanmıştır. Yeni Zelanda, 1986 tarihli Devlet İşletmeleri Yasası ile radikal piyasalaştırma reformlarını gerçekleştirmiştir. ABD'de Gore Raporu ve Ulusal Performans İncelemesi (NPR) öne çıkar. İsveç'te ise özerk ajans geleneği reform ihtiyacını sınırlamıştır. Margaret Thatcher, 1979-1990 arasında Birleşik Krallık'ın başbakanıdır ve 1980'lerdeki özelleştirme dalgasıyla İngiltere'yi simgeler; Fransa ile ilişkilendirilemez. Bu nedenle yanlış eşleştirme \"Fransa – 1980'lerde Margaret Thatcher liderliğinde başlatılan köklü özelleştirme dalgası\" ifadesidir. Doğru cevap \"Fransa – 1980'lerde Margaret Thatcher liderliğinde başlatılan köklü özelleştirme dalgası\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -99,7 +100,7 @@
      "secenekler": [
       "Performans denetimi sonucunda Sayıştay tazminata hükmedebilirken, düzenlilik denetimi yalnızca öneri raporu üretir.",
       "Her iki denetim türü de Sayıştay yargılamasına konu olabilir; bu nedenle aralarında pratikte herhangi bir fark bulunmamaktadır.",
-      "Düzenlilik denetimi yargısal nitelik taşırken performans denetimi sadece danışma raporu niteliğindedir; her iki denetim türü de Türkiye'de 5018 sayılı Kanun'dan önce uygulanmaktaydı.",
+      "Düzenlilik denetimi yargısal nitelik taşırken performans denetimi yalnızca danışma raporu niteliğindedir; ayrıca her iki denetim türü de Türkiye'de 5018 sayılı Kanun'dan çok önce uygulanmaya başlanmıştır. Bu nedenle iki denetim türü arasında hukuki bir fark yoktur.",
       "Türkiye'de Sayıştay yalnızca düzenlilik denetimi yapabilir; performans denetimi yetkisi Hazine ve Maliye Bakanlığı'na aittir.",
       "Performans denetimi; ekonomiklik, etkinlik ve verimlilik ölçütleriyle kamu kaynaklarının ne denli amacına uygun kullanıldığını sorgular. Düzenlilik denetimi ise mali işlemlerin mevzuata ve muhasebe standartlarına uygunluğunu inceler."
      ],
@@ -120,7 +121,7 @@
       "Memur, savunmasını yazılı olarak yapmak zorunda olmayıp sözlü savunma da hukuken geçerlidir."
      ],
      "dogru": 1,
-     "aciklama": "Danıştay içtihadı ve idare hukuku genel ilkeleri uyarınca disiplin kurulunun kararında memurun savunmasına atıfta bulunulmaması tek başına iptal gerekçesi oluşturmaz. Önemli olan, savunma hakkının fiilen kullandırılmış olmasıdır; kararın gerekçesinde savunmaya birebir atıf yapılmaması, savunma hakkının ihlal edildiği anlamına gelmez. D şıkkı bu nedenle yanlış bir tespittir. A şıkkı doğrudur (savunma hakkı tanınmadan ceza verilemez). B şıkkı doğrudur (yedi günlük asgari süre). C şıkkı doğrudur. E şıkkı da esasa etkisi olmayan şekil eksikliklerine ilişkin yerleşik içtihadı yansıtmaktadır.",
+     "aciklama": "Soru yanlış ifadeyi aramaktadır. Savunma hakkı disiplin hukukunun temel güvencesidir ve savunma alınmadan ceza verilemez. Ancak her şekil veya gerekçe eksikliği tek başına iptal sebebi sayılmaz. Danıştay, savunma hakkının özüne dokunmayan ve sonucu etkilemeyen eksiklikleri iptal nedeni olarak görmeyebilir. Bu nedenle \"Disiplin kurulunun kararı, memurun savunmasına atıfta bulunmaksızın tesis edilmişse bu durum tek başına iptal gerekçesi oluşturur.\" ifadesi kesin ve mutlak bir sonuç içerdiği için yanlıştır. \"Memura savunma hakkı tanınmadan tesis edilen disiplin cezası, hukuka aykırılık gerekçesiyle iptal edilebilir.\" ifadesi ise doğrudur, çünkü savunma alınmaması esaslı bir usul eksikliğidir. Doğru cevap \"Disiplin kurulunun kararı, memurun savunmasına atıfta bulunmaksızın tesis edilmişse bu durum tek başına iptal gerekçesi oluşturur.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -145,8 +146,8 @@
      "konuId": "yonetim_teorileri",
      "soru": "Aşağıdakilerden hangisi Neo-klasik (İnsan İlişkileri) yönetim anlayışının klasik teoriden temel farkını doğru biçimde ifade etmektedir?",
      "secenekler": [
-      "Neo-klasik yaklaşım, verimliği artırmak için çalışanların fiziksel çalışma koşullarını ön plana çıkarmıştır.",
-      "Neo-klasik yaklaşım, çalışanların ücretlerinin temel motivasyon kaynağı olduğunu bilimsel olarak kanıtlamıştır.",
+      "Neo-klasik yaklaşım, verimliliği artırmak için çalışanların fiziksel çalışma koşullarını ön plana çıkarmıştır.",
+      "Neo-klasik yaklaşım, çalışanların aldıkları ücretin temel motivasyon kaynağı olduğunu bilimsel deneylerle kanıtlamış ve ücret sistemini yeniden tasarlamıştır.",
       "Neo-klasik yaklaşım, bürokrasiyi daha da güçlendirerek hiyerarşik yapıyı katılaştırmıştır.",
       "Neo-klasik yaklaşım, çalışanları yalnızca üretim aracı olarak gören mekanik anlayışın yerine sosyal ve psikolojik faktörleri ön plana çıkarmıştır.",
       "Neo-klasik yaklaşım, örgütlerin kapalı sistemler olduğunu ve çevreden etkilenmediğini savunmuştur."
@@ -197,7 +198,7 @@
       "Kamu sektörü çalışanlarının sendika üyeliği",
       "Yasama organının yürütme üzerindeki denetim yetkisi",
       "Kamu hizmetlerinin çıktılarının (özellikle sosyal etki boyutunun) ölçülmesinin ve tam olarak tanımlanmasının güçlüğü",
-      "Bürokratik personelin sözleşme hukukundan yeterince haberdar olmaması"
+      "Bürokratik personelin sözleşme hukukundan yeterince haberdar olmaması ve eğitim eksikliği ve kurumsal kapasite yetersizliği"
      ],
      "dogru": 3,
      "aciklama": "Sözleşme teorisinde 'tam sözleşme', tarafların karşılıklı yükümlülüklerinin eksiksiz tanımlandığı ve ölçülebildiği bir ilişkiyi varsayar. Kamu hizmetlerinde ise sağlık çıktısı, eğitimde uzun vadeli insan gelişimi veya adalet hizmetlerinin kalitesi gibi boyutlar yalnızca nicel göstergelerle yakalanamaz. Bu ölçüm ve tanımlama güçlüğü, taraflar arasında bilgi asimetrisi ve fırsatçılık sorununu besler; dolayısıyla kamu sektöründe tam sözleşme yapılabilmesi teorik olarak mümkün değildir. Bu, YKY'nin sözleşmeci mantığının kamu alanında işlevselliğini sınırlayan yapısal bir kısıttır.",
@@ -210,13 +211,13 @@
      "soru": "Peter Senge'nin 'beşinci disiplin' olarak tanımladığı 'sistem düşüncesi' kavramı, geleneksel problem çözme yaklaşımlarından hangi epistemolojik ayrımla ayrışır ve bu ayrım kamu yönetiminde hangi pratik sonucu doğurur?",
      "secenekler": [
       "Sistem düşüncesi nedensellik ilişkisini bütünüyle reddeder; kamu politikasında bu, ampirik veri yerine sezgisel yargının esas alınması gerektiğini ima eder.",
-      "Senge'nin sistem düşüncesi, karar alıcıların bilişsel sınırlılıklarından bağımsız olarak nesnel sistem haritaları üretebileceğini varsayar; bu durum Simon'ın sınırlı rasyonellik bulgularını pratikte geçersiz kılar.",
+      "Senge'nin sistem düşüncesi, karar alıcıların bilişsel sınırlılıklarından tamamen bağımsız biçimde nesnel sistem haritaları üretilebileceğini varsayar; bu durum Simon'ın sınırlı rasyonellik bulgularını pratikte geçersiz kılar ve döngüsel nedenselliği gereksiz hale getirir. Harita üretimi nesneldir.",
       "Sistem düşüncesi karmaşıklığı basitleştirmeye odaklanır; kamu yönetiminde bu, politikaların olabildiğince az değişken içermesi gerektiğini ima eder.",
       "Sistem düşüncesi analitik ayrıştırmayı (Kartezyen yöntemi) benimser; kamu yönetiminde bu, her birimin kendi performansını ayrı optimize etmesinin bütünsel etkinliği artıracağını öngörür.",
       "Sistem düşüncesi, olaylar arasındaki doğrusal nedensellik yerine döngüsel geri besleme ilişkilerini ve gecikme etkilerini öne çıkarır; kamu yönetiminde bu, kısa vadeli semptom giderici müdahalelerin sorunu çözmek yerine pekiştiren arkaik döngüler yaratabileceğini ortaya koyar."
      ],
      "dogru": 4,
-     "aciklama": "Senge'nin sistem düşüncesi, gerçekliğin doğrusal neden-etki zincirleriyle değil, döngüsel geri besleme ilişkileriyle (feedback loops) ve gecikme etkileriyle (delays) şekillendiğini öne sürer. Geleneksel problem çözme semptomu hedefe alır: bir sorun ortaya çıktığında en görünür müdahaleyi yapar. Oysa sistem düşüncesi, bu müdahalenin gecikmeli telafi döngüleriyle sorunu derinleştirebileceğini (kompansasyon, bumerang etkileri) gösterir. Kamu yönetiminde pratik sonuç: ilaç politikasında arzı kısıtlayan bir müdahalenin kaçakçılığı artırabileceği; ya da bütçe kesintilerinin uzun vadeli maliyetleri yükseltebileceği gibi sistemik etkiler öngörülmeden yapılan müdahaleler işlevsiz kalır ya da zararlı olur. B şıkkı bu analizi doğru özetlemektedir.",
+     "aciklama": "Senge'ye göre sistem düşüncesi, olayları birbirinden kopuk ve doğrusal neden-sonuç zincirleri olarak değil, geri besleme döngüleri, gecikmeler ve karşılıklı ilişkiler içeren bütün olarak görmeyi sağlar. Geleneksel problem çözme ise sorunu parçalara ayırıp yakın nedenlerine odaklanır. Kamu yönetiminde bunun pratik sonucu şudur: Gecikmeli etkiler ve döngüsel ilişkiler görülmezse, belirtiyi hızlıca gideren kısa vadeli müdahaleler sorunun altındaki yapıyı çözmez, hatta sorunu pekiştiren döngüler yaratabilir. \"Sistem düşüncesi analitik ayrıştırmayı (Kartezyen yöntemi) benimser\" ifadesi yanlıştır, çünkü sistem düşüncesi bütüncül bakışı savunur ve her birimi ayrı optimize etmenin bütünün etkinliğini artırmayacağını gösterir. \"Sistem düşüncesi karmaşıklığı basitleştirmeye odaklanır\" ifadesi de yanlıştır, çünkü amaç karmaşıklığı olduğu gibi anlamaktır. Doğru cevap \"Sistem düşüncesi, olaylar arasındaki doğrusal nedensellik yerine döngüsel geri besleme ilişkilerini ve gecikme etkilerini öne çıkarır\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -232,7 +233,7 @@
       "Takdir yetkisinin kullanılmasında idarenin tamamen özgür olduğu söylenemez; takdir yetkisi kamu yararı ve hizmetin gerekleri ile sınırlıdır."
      ],
      "dogru": 3,
-     "aciklama": "Türk idare yargısında Danıştay yalnızca hukuka uygunluk denetimi yapar; yerindelik denetimi yapamaz. Bu, yargı organının idare yerine geçerek takdir yetkisinin nasıl kullanılması gerektiğine karar verememesi anlamına gelir. Danıştay yalnızca takdir yetkisinin hukuki sınırlar içinde kullanılıp kullanılmadığını (yetki saptırması, eşitlik ihlali vb.) denetleyebilir. D seçeneği 'her durumda' ifadesiyle yanlış bir genelleme yapmaktadır.",
+     "aciklama": "Soruda yanlış ifade aranıyor. İdari yargı yalnızca hukuka uygunluk denetimi yapar. İdarenin takdir yetkisini kullanırken yaptığı seçimin isabetini, yani yerindeliğini denetleyemez. Takdir yetkisinin sınırı kamu yararı, hizmetin gerekleri ve eşitlik gibi hukuki ilkelerdir. Yargı, bu sınırların aşılıp aşılmadığına bakar. Bu nedenle \"Danıştay, yerindelik denetimi yapma yetkisine sahip olduğundan takdir yetkisinin isabetliliğini her durumda denetleyebilir.\" ifadesi yanlıştır. \"Bağlı yetkide idarenin koşullar gerçekleştiğinde ilgili işlemi yapmaktan kaçınma imkânı yoktur.\" ifadesi ise doğrudur, çünkü bağlı yetkide idarenin seçme serbestisi yoktur. Doğru cevap \"Danıştay, yerindelik denetimi yapma yetkisine sahip olduğundan takdir yetkisinin isabetliliğini her durumda denetleyebilir.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -280,7 +281,8 @@
       "Çalışanların karar alma süreçlerine katılımı motivasyonu artırır."
      ],
      "dogru": 0,
-     "aciklama": "Taylor'ın bilimsel yönetimi, her işi en iyi tek yöntemle standartlaştırmayı; Weber'in bürokrasisi ise kurallara, hiyerarşiye ve yazılı prosedürlere dayalı rasyonel örgütlenmeyi savunur. Her ikisi de duygusallığı, keyfiligi ve geleneksel uygulamaları dışlayarak rasyonelliği ve sistematik yaklaşımı ön plana çıkarır. A şıkkı yalnızca Taylor'a atfedilebilecek bir varsayımdır; B ve E şıkları ise insan ilişkileri yaklaşımına aittir."
+     "aciklama": "Taylor, iş süreçlerinin bilimsel yöntemlerle standartlaştırılmasını, en iyi çalışma yolunun belirlenmesini ve iş bölümünü savunur. Weber'in bürokrasi modeli ise yazılı kurallara, hiyerarşiye, uzmanlaşmaya ve kişisel olmayan işleyişe dayanır. Her ikisi de duygusal ve keyfî yönetimi reddederek rasyonel, kurallı ve sistemli çalışmayı verimliliğin temeli sayar. \"İnsan davranışı yalnızca ekonomik teşviklerle açıklanabilir.\" seçeneği Taylor için kısmen geçerli olsa da Weber'in modelinin temel varsayımı değildir, bu yüzden ortak payda olamaz. \"Örgütlerde gayri resmi grupların işlevleri resmi yapıdan daha belirleyicidir.\" seçeneği ise İnsan İlişkileri yaklaşımına aittir ve her iki klasik yaklaşıma da terstir. Doğru cevap \"Rasyonellik ve kurallara dayalı sistemli çalışma örgütsel verimliliğin anahtarıdır.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "54146",
@@ -291,8 +293,8 @@
       "Mahkemelerin idareyi denetlemesi",
       "Merkezi yönetimin yerel yönetimler üzerindeki denetim yetkisi",
       "Bakanların memurları denetlemesi",
-      "Sayıştay'ın kamu kurumlarını denetlemesi",
-      "Parlamentonun hükümeti denetlemesi"
+      "Sayıştay'ın kamu kurumlarının hesaplarını denetlemesi",
+      "Parlamentonun hükümeti soru ve gensoruyla denetlemesi ve gensoru vermesi"
      ],
      "dogru": 1,
      "aciklama": "İdari vesayet, merkezi idarenin yerinden yönetim kuruluşları (belediyeler, il özel idareleri) üzerinde kullandığı denetim yetkisidir. Bu denetim; işlemler, personel ve bütçe gibi alanlarda gerçekleştirilebilir. Anayasa'nın 127. maddesi idari vesayetin yasal çerçevesini çizmekte ve ölçülülük ilkesine bağlamaktadır.",
@@ -305,13 +307,14 @@
      "soru": "Aşağıdaki ifadelerden hangisi Türkiye'de üst düzey kamu yöneticilerinin atanma sistemini doğru biçimde tanımlar?",
      "secenekler": [
       "Kaymakam ve vali gibi mülki idare amirleri dahil tüm atamalar TBMM onayına tabidir.",
-      "Anayasa Mahkemesi, üst düzey yönetici atamalarını önceden denetleme yetkisine sahiptir.",
-      "Tüm üst düzey kamu yöneticileri merkezi sınav sonuçlarına göre otomatik olarak atanır.",
+      "Anayasa Mahkemesi, üst düzey kamu yöneticisi atamalarını önceden denetleme yetkisine sahiptir. Bu denetim atama kararnamesi yayımlanmadan önce yapılır.",
+      "Tüm üst düzey kamu yöneticileri merkezî sınav sonuçlarına göre otomatik olarak atanır.",
       "Üst düzey yöneticiler sendika önerisi doğrultusunda atanır.",
       "Üst düzey yönetici atamaları büyük ölçüde siyasi takdir yetkisi barındırır; Cumhurbaşkanlığı hükümet sisteminde bu yetki daha da merkezileşmiştir."
      ],
      "dogru": 4,
-     "aciklama": "Türk kamu personel sisteminde üst düzey yöneticilerin (müsteşar, genel müdür, vali vb.) atanması siyasi takdir yetkisini barındırır ve merkezi-siyasi mekanizmaları içerir. 2017 anayasa değişikliğiyle kurulan Cumhurbaşkanlığı hükümet sisteminde atama yetkileri daha da merkezileşmiş; birçok üst düzey atama doğrudan Cumhurbaşkanlığı kararnamesiyle yapılır hâle gelmiştir. Merkezi sınav sonuçları bu atamalarda doğrudan ve otomatik belirleyici değildir. TBMM onayı, Anayasa Mahkemesi denetimi veya sendika önerisi bu sürecin zorunlu unsuru değildir."
+     "aciklama": "Türk kamu personel sisteminde üst düzey yöneticilerin (müsteşar, genel müdür, vali vb.) atanması siyasi takdir yetkisini barındırır ve merkezi-siyasi mekanizmaları içerir. 2017 anayasa değişikliğiyle kurulan Cumhurbaşkanlığı hükümet sisteminde atama yetkileri daha da merkezileşmiş; birçok üst düzey atama doğrudan Cumhurbaşkanlığı kararnamesiyle yapılır hâle gelmiştir. Merkezi sınav sonuçları bu atamalarda doğrudan ve otomatik belirleyici değildir. TBMM onayı, Anayasa Mahkemesi denetimi veya sendika önerisi bu sürecin zorunlu unsuru değildir.",
+     "zorluk": "orta"
     },
     {
      "id": "54403",
@@ -335,14 +338,15 @@
      "konuId": "yonetim_teorileri",
      "soru": "Elton Mayo ve arkadaşlarının Hawthorne araştırmaları, yönetim düşüncesi açısından hangi temel sonucu ortaya koymuştur?",
      "secenekler": [
-      "Çalışma sürelerinin uzatılmasının verimlilik üzerinde doğrudan pozitif etkisi vardır.",
+      "Çalışma sürelerinin uzatılmasının verimlilik üzerinde doğrudan ve kalıcı pozitif etkisi vardır. Bu ilişki deneyle doğrulanmıştır.",
       "Ücret düzeyinin yükseltilmesi motivasyonu artırmak için tek yeterli araçtır.",
       "Çalışanlar gözlemlendiklerini bildiklerinde davranışlarını değiştirirler ve bu durum araştırma bulgularını etkiler.",
-      "Resmi örgüt yapısı, gayri resmi grup ilişkilerinden her zaman daha belirleyicidir.",
+      "Resmî örgüt yapısı, gayri resmî grup ilişkilerinden her zaman daha belirleyicidir.",
       "Fiziksel çalışma koşullarının iyileştirilmesi her durumda verimliliği artırır."
      ],
      "dogru": 2,
-     "aciklama": "Hawthorne araştırmaları, deneklerin izlendiklerinin farkında olmalarının davranışlarını değiştirdiğini (Hawthorne Etkisi) ve gayri resmi grup normlarının çalışan davranışı üzerinde resmi kurallar kadar etkili olduğunu göstermiştir. Aydınlatma koşulları değiştirildiğinde üretim artışının sürmesi, fiziksel koşulların değil sosyal ve psikolojik faktörlerin belirleyici olduğuna işaret etmiştir. Bu bulgular, İnsan İlişkileri Ekolü'nün doğmasına zemin hazırlamıştır."
+     "aciklama": "Hawthorne araştırmaları, deneklerin izlendiklerinin farkında olmalarının davranışlarını değiştirdiğini (Hawthorne Etkisi) ve gayri resmi grup normlarının çalışan davranışı üzerinde resmi kurallar kadar etkili olduğunu göstermiştir. Aydınlatma koşulları değiştirildiğinde üretim artışının sürmesi, fiziksel koşulların değil sosyal ve psikolojik faktörlerin belirleyici olduğuna işaret etmiştir. Bu bulgular, İnsan İlişkileri Ekolü'nün doğmasına zemin hazırlamıştır.",
+     "zorluk": "orta"
     },
     {
      "id": "54188",
@@ -350,14 +354,15 @@
      "konuId": "turk_kamu_yonetimi",
      "soru": "Yönetimde 'subsidiarite' (yerindenlik) ilkesi aşağıdakilerden hangisini ifade eder?",
      "secenekler": [
-      "Merkezi idarenin taşra birimlerini denetlemesi",
-      "Kamu hizmetlerinin özel sektöre devredilmesi",
+      "Merkezî idarenin taşra birimlerini düzenli biçimde denetlemesi ve yönlendirmesi",
+      "Kamu hizmetlerinin bütünüyle özel sektöre devredilmesi",
       "Kamu harcamalarında tasarrufa gidilmesi",
       "Kamu kararlarının mümkün olan en alt yönetim kademesinde alınması",
       "Yönetimde şeffaflığın artırılması"
      ],
      "dogru": 3,
-     "aciklama": "Subsidiarite ilkesi, kamu hizmetlerine ilişkin kararların vatandaşa en yakın ve kapasiteli olan yönetim kademesinde alınması gerektiğini öngörür. Avrupa Yerel Yönetimler Özerklik Şartı başta olmak üzere pek çok uluslararası belgede yer alan bu ilke, yerelleşme ve adem-i merkeziyetin teorik temellerinden birini oluşturur. İlke, üst kademelerin ancak alt kademelerin yetersiz kaldığı durumlarda devreye girmesini savunur."
+     "aciklama": "Subsidiarite ilkesi, kamu hizmetlerine ilişkin kararların vatandaşa en yakın ve kapasiteli olan yönetim kademesinde alınması gerektiğini öngörür. Avrupa Yerel Yönetimler Özerklik Şartı başta olmak üzere pek çok uluslararası belgede yer alan bu ilke, yerelleşme ve adem-i merkeziyetin teorik temellerinden birini oluşturur. İlke, üst kademelerin ancak alt kademelerin yetersiz kaldığı durumlarda devreye girmesini savunur.",
+     "zorluk": "orta"
     },
     {
      "id": "54317",
@@ -372,7 +377,8 @@
       "Üst görevlere atama yalnızca dış kaynaktan yapılır."
      ],
      "dogru": 1,
-     "aciklama": "Kariyer ilkesi; devlet memurlarının yaptıkları hizmetler için gerekli bilgi ve niteliklere sahip olabilmeleri amacıyla gerekli şartları taşımaları kaydıyla haklarında uygulanacak çeşitli hükümler sayesinde meslek içinde ilerleyebilmelerini ifade eder. Bu ilkeye göre memur, giriş sınavını kazandıktan sonra bilgi ve becerilerini geliştirerek hiyerarşi içinde yukarı doğru ilerleme hakkına sahiptir. Kariyer ilkesi dış kaynaktan atamayı değil, iç terfiyi esas alır; kıdem tek başına yeterli bir ölçüt değildir."
+     "aciklama": "Kariyer ilkesi; devlet memurlarının yaptıkları hizmetler için gerekli bilgi ve niteliklere sahip olabilmeleri amacıyla gerekli şartları taşımaları kaydıyla haklarında uygulanacak çeşitli hükümler sayesinde meslek içinde ilerleyebilmelerini ifade eder. Bu ilkeye göre memur, giriş sınavını kazandıktan sonra bilgi ve becerilerini geliştirerek hiyerarşi içinde yukarı doğru ilerleme hakkına sahiptir. Kariyer ilkesi dış kaynaktan atamayı değil, iç terfiyi esas alır; kıdem tek başına yeterli bir ölçüt değildir.",
+     "zorluk": "orta"
     },
     {
      "id": "54407",
@@ -397,13 +403,13 @@
      "soru": "Postmodern yönetim teorisyenlerinin (örn. Robert Denhardt, Charles Fox ve Hugh Miller) geleneksel kamu yönetimi söylemine yönelik eleştirisi hangisidir ve bu eleştiri normatif açıdan hangi paradoksu barındırır?",
      "secenekler": [
       "Postmodern kamu yönetimi teorisi Weberyen bürokrasiyi etkin bulmakla birlikte meşru saymaz; paradoks, etkinliği meşruiyetsiz bir araçla elde etmenin etik tutarsızlığıdır.",
-      "Postmodern teorisyenler bürokrasiyi tamamen reddetmiş ve yerine doğrudan demokrasi modelini önermiştir; paradoks, doğrudan demokrasinin büyük ölçekli kamu kurumlarında uygulanabilirliğinin tartışmalı olmasıdır.",
+      "Postmodern teorisyenler bürokrasiyi bütünüyle reddetmiş ve yerine doğrudan demokrasi modelini önermiştir; paradoks ise doğrudan demokrasinin büyük ölçekli kamu kurumlarında uygulanabilirliğinin son derece tartışmalı olması ve bu önerinin kendisinin de evrensel bir reçeteye dönüşmesinde yatmaktadır.",
       "Postmodern teorisyenler evrensel yönetim ilkelerini ve büyük anlatıları reddederek söylemin iktidar ilişkilerini yeniden ürettiğini savunur; paradoks, bu eleştirinin kendisinin de bir büyük anlatı konumuna düşmesi ve eleştirdiği totalizan mantığı yeniden üretme riskiyle karşı karşıya kalmasıdır.",
       "Postmodern teorisyenlerin eleştirisi temelde betimleyici değil normatiftir; paradoks ise normatif bir söylemin pozitivist ampirik kanıt talep edememesinde yatar.",
       "Postmodern teorisyenler rasyonel bürokrasinin verimsizliğini eleştirir; paradoks, verimliliği artırmak için piyasa mekanizmalarını benimsemelerinin NPM ile örtüşmesinde yatar."
      ],
      "dogru": 2,
-     "aciklama": "Postmodern kamu yönetimi teorisyenleri (Fox ve Miller'ın 'postmodern kamu yönetimi', Denhardt'ın 'kamu hizmeti değerleri') evrenselci büyük anlatıları, nesnellik iddiasını ve söylemin iktidar üretimini reddeder. Foucaultcu hat üzerinden kamu yönetimi söylemi, belirli iktidar biçimlerini normalleştiren ve ötekileştiren yapılar olarak analiz edilir. Paradoks şudur: postmodernizmin kendisi de 'her şey söylemsel yapıdır', 'evrensel doğru yoktur' gibi evrensel iddialarda bulunur. Bu, kendi metodolojik tutarsızlığını — performatif çelişkiyi — barındırır: iddianın kendisi reddettiği evrenselcilik biçimine düşer. B şıkkı hem eleştiriyi hem de bu içkin paradoksu doğru biçimde ortaya koymaktadır.",
+     "aciklama": "Postmodern kamu yönetimi yazarları (Fox ve Miller, Denhardt gibi) geleneksel kamu yönetimi söyleminin evrensel ilkeler ve büyük anlatılar üzerine kurulduğunu, bunların da söylem aracılığıyla iktidar ilişkilerini yeniden ürettiğini savunur. Eleştirinin paradoksu şudur: büyük anlatıları reddeden bir yaklaşım, kendi önermelerini genelleştirdiğinde kendisi de bir büyük anlatıya dönüşebilir ve eleştirdiği totalleştirici mantığı yeniden üretebilir. \"Postmodern teorisyenler bürokrasiyi bütünüyle reddetmiş ve yerine doğrudan demokrasi modelini önermiştir...\" seçeneği yanlıştır; çünkü doğrudan demokrasi, postmodern yaklaşımın ortak ve evrensel reçetesi değildir. \"Postmodern teorisyenler rasyonel bürokrasinin verimsizliğini eleştirir...\" seçeneği de yanlıştır; çünkü eleştirinin ekseni verimlilik ve piyasa değil, söylem ve iktidardır. Doğru cevap \"Postmodern teorisyenler evrensel yönetim ilkelerini ve büyük anlatıları reddederek...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -414,8 +420,8 @@
      "secenekler": [
       "Belediye başkanının görevden uzaklaştırılması yalnızca Anayasa Mahkemesi kararıyla mümkündür; bu nedenle söz konusu yetki hiçbir zaman kullanılmamıştır.",
       "Belediye başkanı yalnızca meclis kararıyla görevden alınabilir; bu usul demokratik meşruiyet açısından herhangi bir sorun doğurmaz.",
-      "Danıştay, belediye başkanının görevden uzaklaştırılması kararını re'sen durdurabilir; bu nedenle pratikte idari görevden uzaklaştırma uygulanamaz hale gelmiştir.",
-      "Görevden uzaklaştırma ancak kesinleşmiş mahkûmiyet kararının ardından Cumhurbaşkanı kararnamesiyle gerçekleşebilir; bu prosedür Avrupa Yerel Yönetimler Özerklik Şartı ile tam uyum içindedir.",
+      "Danıştay, belediye başkanının görevden uzaklaştırılması kararını re'sen durdurabilir; bu nedenle pratikte idari görevden uzaklaştırma uygulanamaz hâle gelmiştir.",
+      "Görevden uzaklaştırma işlemi ancak kesinleşmiş bir mahkûmiyet kararının ardından Cumhurbaşkanı kararnamesiyle gerçekleştirilebilir; bu prosedür Avrupa Yerel Yönetimler Özerklik Şartı ile tam bir uyum içinde olup masumiyet karinesini eksiksiz biçimde korur. Nitekim bu usul sayesinde seçilmiş yerel yöneticiler yargı kararı olmadan görevlerinden hiçbir biçimde uzaklaştırılamamaktadır.",
       "İçişleri Bakanı, hakkında soruşturma veya kovuşturma açılan belediye başkanını geçici olarak görevden uzaklaştırabilir. Bu düzenleme; henüz mahkûmiyet kararı olmaksızın halk tarafından seçilmiş bir yöneticinin görevine son verilebilmesi nedeniyle masumiyet karinesi ve demokratik temsil ilkeleriyle çeliştiği gerekçesiyle eleştirilmektedir."
      ],
      "dogru": 4,
@@ -448,7 +454,7 @@
       "Kamu kurumlarının özel şirket statüsüne kavuşturulması",
       "Kurumların kendi bütçelerini siyasi süreçten bağımsız belirlemesi",
       "Yöneticilere operasyonel konularda geniş hareket serbestisi tanınırken stratejik hedefler merkezden belirlenir.",
-      "Yerel yönetimlerin merkezi hükümetten tamamen bağımsız hale gelmesi"
+      "Yerel yönetimlerin merkezî hükümetten tamamen bağımsız hâle gelmesi ve özerkleşmesi ve kendi kaynaklarını yaratması"
      ],
      "dogru": 3,
      "aciklama": "NPM'deki adem-i merkeziyetçilik anlayışı, tam bir serbestleşme anlamına gelmez. Genel çerçeve şudur: merkez (bakanlık ya da üst kurum) stratejik hedefleri, performans göstergelerini ve bütçeyi belirler; kurumlar ve yöneticiler ise bu hedeflere nasıl ulaşacakları konusunda geniş bir hareket özgürlüğüne sahiptir. Bu yaklaşım 'kontrollü özerklik' olarak da adlandırılabilir. Sonuçta hesap verebilirlik mekanizması aracılığıyla merkezi denetim sürdürülür.",
@@ -460,7 +466,7 @@
      "konuId": "yonetim_teorileri",
      "soru": "Herbert Simon'ın 'yönetim atasözleri' (proverbs of administration) eleştirisi, Fayol ve Gulick'in klasik ilkelerini hangi epistemolojik gerekçeyle geçersiz ilan etmiştir?",
      "secenekler": [
-      "Klasik teorinin örgütsel amaç-araç zincirini doğru kurgulamadığını ve karar ağaçlarıyla yeniden tanımlanması gerektiğini savunmuştur.",
+      "Klasik teorinin örgütsel amaç-araç zincirini doğru kurgulamadığını ve bu zincirin karar ağaçlarıyla baştan yeniden tanımlanması gerektiğini savunmuştur.",
       "Klasik ilkelerin bürokrasi teorisiyle sentezlenemeyeceğini ve Weber'in ideal tip modelini işlevsiz kıldığını ileri sürmüştür.",
       "Her klasik ilkenin pratikte kendisiyle çelişen eşdeğer bir karşı-ilkesi bulunduğunu göstererek ilkelerin bilimsel ölçüt sunmadığını ortaya koymuştur.",
       "İlkelerin rasyonel ekonomik insan varsayımına dayandığını ve bu varsayımın davranışsal verilerle çürütüldüğünü kanıtlamıştır.",
@@ -480,10 +486,10 @@
       "Sayıştay hem iç hem dış denetim işlevi gördüğü için iç denetim birimlerinin kurulduğu idarelerde Sayıştay'ın aynı konuları denetleme yetkisi ortadan kalkar",
       "Sayıştay denetimi yasama adına yapılan bağımsız bir dış denetim olup kamu idarelerinin hesap verme sorumluluğunu parlamento aracılığıyla hayata geçirirken iç denetim birimleri ise yürütme içinde kalır ve yönetim süreçlerini iyileştirmeye odaklanır",
       "Sayıştay denetimi yürütme organı bünyesinde bir iç denetim mekanizması olup sonuçlarını doğrudan kamuoyuyla paylaşır",
-      "Sayıştay, yargı yetkisi de kullandığı için kamu zararına yol açan sorumluların yargılanmasında nihai karar mercii olmakla birlikte denetim raporları danışma niteliğindedir"
+      "Sayıştay, yargı yetkisi de kullandığından kamu zararına yol açan sorumluların yargılanmasında nihai karar mercii konumundadır; buna karşın düzenlediği denetim raporları yalnızca danışma niteliği taşır ve bağlayıcı değildir. Bu nedenle raporlar uygulanmayabilir."
      ],
      "dogru": 2,
-     "aciklama": "Sayıştay, Türkiye Büyük Millet Meclisi adına kamu idarelerinin gelir, gider ve mallarını denetleyen bağımsız bir yüksek denetim organıdır; bu yönüyle 'dış denetim' kurumudur ve yasama organının yürütme üzerindeki mali denetim fonksiyonunu üstlenir. İç denetim birimleri ise kurumların kendi bünyesinde kurulmuş olup yönetim kalitesini geliştirme, risk yönetimi ve iç kontrol sistemlerinin işlerliğini sağlama görevine odaklanır; dışsal bağımsızlıktan yoksundur. Sayıştay'ın yargılama yetkisi de bulunmaktadır; ancak bu yetki sınırlı ve özel niteliktedir. B ve E şıkları olgusal açıdan yanlıştır.",
+     "aciklama": "Sayıştay, TBMM adına çalışan bağımsız bir dış denetim organıdır. Kamu idarelerinin hesap verme sorumluluğunun parlamento aracılığıyla yerine getirilmesini sağlar ve yasama organının bütçe hakkının bir uzantısıdır. İç denetim birimleri ise idarenin kendi bünyesinde, yürütme içinde yer alır ve yönetim süreçlerinin iyileştirilmesine yönelik danışmanlık ve güvence hizmeti verir. Sayıştay mali denetimin yanında uygunluk ve performans denetimi de yapar. \"Sayıştay denetimi yalnızca performans denetimiyle sınırlı olup mali uygunluk denetimi yerel idarelerin iç denetim birimlerine bırakılmıştır\" seçeneği yanlıştır, çünkü Sayıştay'ın denetimi bu kadar dar değildir. \"Sayıştay hem iç hem dış denetim işlevi gördüğü için iç denetim birimlerinin kurulduğu idarelerde Sayıştay'ın aynı konuları denetleme yetkisi ortadan kalkar\" seçeneği de yanlıştır, çünkü iç denetimin varlığı Sayıştay yetkisini kaldırmaz. Doğru cevap \"Sayıştay denetimi yasama adına yapılan bağımsız bir dış denetim olup kamu idarelerinin hesap verme sorumluluğunu parlamento aracılığıyla hayata geçirirken\" seçeneğidir.",
      "zorluk": "zor"
     }
    ]

@@ -80,22 +80,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "54006",
-  "dersId": "kamuyonetimi",
-  "konuId": "yonetim_teorileri",
-  "soru": "Yönetim teorilerinde 'sistem yaklaşımı' ile ilgili aşağıdaki ifadelerden hangisi YANLIŞTIR?",
-  "secenekler": [
-   "Sistem yaklaşımı, örgütlerdeki alt sistemler arasındaki sinerjiye dikkat çeker.",
-   "Örgütü, birbiriyle etkileşim hâlinde olan alt sistemlerden oluşan bir bütün olarak ele alır.",
-   "Açık sistem yaklaşımı, örgütün çevreden girdi alıp çevreye çıktı verdiğini savunur.",
-   "Kapalı sistem anlayışına göre örgütler çevreden bağımsız ele alınmalıdır.",
-   "Örgütlerin çevresiyle sürekli etkileşim içinde olduğunu kabul eder."
-  ],
-  "dogru": 3,
-  "aciklama": "Sistem yaklaşımında öne çıkan ve modern yönetim anlayışına hâkim olan görüş, örgütlerin çevreyle sürekli etkileşim içinde olduğunu kabul eden 'açık sistem' anlayışıdır. 'Kapalı sistem' anlayışı eski ve yetersiz bulunan bir yaklaşımdır; sistem teorisyenleri örgütlerin çevreden bağımsız ele alınması gerektiğini değil, aksine çevreyle ilişkili incelenmesi gerektiğini savunmuştur.",
-  "zorluk": "kolay"
- },
- {
   "id": "54007",
   "dersId": "kamuyonetimi",
   "konuId": "yonetim_teorileri",
@@ -1931,7 +1915,7 @@
    "Herbert Simon – Sınırlı rasyonellik (bounded rationality) ve tatmin edici karar alma modeli ile",
    "Mary Parker Follett – Durumun yasası (law of the situation) kavramı ve bütünleşik çatışma çözümü anlayışıyla"
   ],
-  "dogru": 4,
+  "dogru": 3,
   "aciklama": "Mary Parker Follett, 'durumun yasası' kavramıyla yöneticinin otoritesinin kişiden değil, durumdan kaynaklandığını savunmuş; komuta birliği ve tek yönlü otorite anlayışını reddederek 'en iyi yol'un bağlama göre değiştiğini göstermiştir. Bu, klasik teorinin evrensel ilkeler anlayışına yapılan en erken ve sistematik meydan okumadır. Hawthorne çalışmaları teknik verimliliğin sınırlarını değil, sosyal faktörlerin etkisini göstermiştir; Simon ise klasik teorinin rasyonel insan varsayımını eleştirmiştir. Follett'in eleştirisi daha kökten ve doğrudan 'tek en iyi yol' ilkesini hedef almaktadır.",
   "zorluk": "zor"
  },
@@ -2971,7 +2955,7 @@
    "Disiplin kurulu ve disiplin amirinin birlikte karar alması",
    "Disiplin amiri tek başına"
   ],
-  "dogru": 1,
+  "dogru": 4,
   "aciklama": "657 sayılı Kanun'un 125. maddesi uyarınca kademe ilerlemesinin durdurulması cezası, fiilin ağırlığına göre memurun bağlı olduğu kurumun disiplin kurulunun kararı alınmak suretiyle atamaya yetkili amir tarafından verilir. Bu ceza, disiplin amirinin tek başına verebileceği uyarma veya kınama cezalarından farklı olarak kurulun görüşünü zorunlu kılar. Yüksek Disiplin Kurulu ise devlet memurluğundan çıkarma cezasında devreye girer.",
   "zorluk": "orta"
  },
@@ -3376,22 +3360,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "54213",
-  "dersId": "kamuyonetimi",
-  "konuId": "turk_kamu_yonetimi",
-  "soru": "Türk idare hukukunda 'yetki genişliği' ilkesini 'yetki devri' ve 'yerinden yönetim' kavramlarından ayıran temel unsur aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Yetki genişliği coğrafi bir ayrışmayı ifade etmezken yetki devri işlevsel bir ayrışmayı, yerinden yönetim ise demografik bir ayrışmayı ifade eder ve bu ayrımlar tüzel kişilikten bağımsızdır ve tüzel kişilik unsurunu içermez.",
-   "Yetki genişliği yalnızca il valilerine tanınan anayasal bir ayrıcalık olup diğer taşra birimlerine uygulanamaz",
-   "Yetki genişliğinde yetki merkezi idarenin tüzel kişiliği içinde kalır ve vali merkez adına işlem tesis ederken, yetki devrinde yetki devreden makam ile devralan makam arasında farklı tüzel kişilikler söz konusudur",
-   "Yetki genişliğinde valiler Bakanlar Kurulu kararıyla atanırken yetki devrinde alt kademedeki memurlar doğrudan kanunla yetkilendirilir",
-   "Yetki genişliğinde merkezi idare denetim yetkisini tamamen yitirir ve taşra makamları bağımsız karar alır"
-  ],
-  "dogru": 2,
-  "aciklama": "Yetki genişliği, merkeziyetçiliği yumuşatan ancak ondan vazgeçmeyen bir tekniktir; vali devlet adına işlem tesis eder ve bu işlemler merkezi idarenin tüzel kişiliğine atfedilir. Yetki devrinde ise devreden makam yetkisini geçici olarak devreder ve sorumluluk da devralana geçer, ancak tüzel kişilik ayrılığı söz konusu olmayabilir. Yerinden yönetimde ise ayrı tüzel kişilikler bulunur ve bu birimler özerk karar alma yetkisine sahiptir. Yetki genişliğinin temel ayırt edici özelliği, işlemin merkezi idarenin tüzel kişiliğine mal edilmesidir; vali kendi adına değil, devlet adına işlem yapar.",
-  "zorluk": "zor"
- },
- {
   "id": "54214",
   "dersId": "kamuyonetimi",
   "konuId": "turk_kamu_yonetimi",
@@ -3421,22 +3389,6 @@
   ],
   "dogru": 2,
   "aciklama": "Kamu Denetçiliği Kurumu idarenin eylem ve işlemlerini hukuka uygunluğun yanında hakkaniyet ve insan hakları esaslarına uygunluk açısından da inceler. Yargı organları ise esas olarak hukuka uygunluğu denetler. KDK iptal etme, hüküm kurma gibi yetkilere sahip değildir. Yaptığı iş, idareye tavsiye kararı vermektir ve bu yönüyle yargısal denetimden ayrılır. \"KDK kararlarının kesin hüküm niteliği taşıması ve idarenin bu kararları uygulamakla yükümlü olması\" seçeneği yanlıştır, çünkü kararlar tavsiye niteliğindedir. \"KDK'nın idari işlemleri iptal etme yetkisine sahip olması ancak tazminata hükmedememesi\" seçeneği de yanlıştır, çünkü KDK'nın iptal yetkisi yoktur. Doğru cevap \"KDK'nın yalnızca hukuka aykırılık değil aynı zamanda hakkaniyete aykırılık ve iyi yönetim ilkelerinin ihlali gerekçesiyle de idarenin eylem ve işlemlerini inceleyebilmesi\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "54216",
-  "dersId": "kamuyonetimi",
-  "konuId": "turk_kamu_yonetimi",
-  "soru": "Türkiye'de 2011 yılında gerçekleştirilen bakanlık reorganizasyonu ile 'bakan yardımcılığı' makamının ihdas edilip müsteşarlık makamının kaldırılmasının kamu yönetimi açısından en kapsamlı sonucu aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Memurluk statüsüne dayalı güvencenin üst düzey yöneticilere de tanınmasıyla kariyer sisteminin pekişmesi",
-   "Bakanlıkların uluslararası müzakerelerde daha etkin temsil kapasitesi kazanması",
-   "Siyasi ve bürokratik sorumluluk arasındaki sınırın bulanıklaşması; teknik-idari liderlik işlevinin kariyer bürokratlardan siyasi atamacılara kayması",
-   "Bakanlık harcamalarının merkezî bütçeye bağımlılığının azalması ve bakanlıkların mali özerklik kazanması ile kendi gelir kaynaklarını oluşturabilmesi",
-   "Merkezi planlama işlevinin güçlendirilmesi ve bakanlıklar arası koordinasyonun kolaylaşması"
-  ],
-  "dogru": 2,
-  "aciklama": "Müsteşarlık makamı, kariyer bürokratların en üst mesleki kademesi olarak teknik uzmanlık ve idari süreklilik işlevi görüyordu. 2011 reorganizasyonuyla bu makam kaldırılarak yerine 'bakan yardımcılığı' getirildi; bu makama siyasi atamayla ve güvencesiz statüde atama yapılabilmektedir. Bu dönüşüm, bakanlıkların tepesindeki teknik-idari liderliğin kalıcı kariyer bürokratlardan siyasi iradeye bağlı isimlere geçmesi anlamına gelir. Kamu yönetimi literatüründe bu durum, 'politizasyon' (siyasallaşma) eğiliminin güçlenmesi olarak değerlendirilir ve siyasi-bürokratik sorumluluk sınırının muğlaklaşması en kritik sonuçtur.",
   "zorluk": "zor"
  },
  {
@@ -3709,22 +3661,6 @@
   ],
   "dogru": 0,
   "aciklama": "233 sayılı KHK uyarınca KİT'ler; iktisadi devlet teşekkülleri (İDT) ve kamu iktisadi kuruluşları (KİK) olmak üzere ikiye ayrılır. İDT'ler ticari esaslarla kâr amacıyla faaliyette bulunurken; KİK'ler doğal tekel niteliğindeki mal ve hizmetleri piyasa koşullarından bağımsız biçimde, kâr amacı gütmeksizin üretmektedir. Bu ayrım 233 sayılı KHK'nın 2. maddesinde açıkça düzenlenmiştir. Diğer seçeneklerde yer alan bilgiler ise yanlış ya da yanıltıcıdır.",
-  "zorluk": "zor"
- },
- {
-  "id": "54234",
-  "dersId": "kamuyonetimi",
-  "konuId": "turk_kamu_yonetimi",
-  "soru": "Türk kamu yönetiminde 'ombudsman' işlevi üstlenen Kamu Denetçiliği Kurumu'nun (KDK) idari yargı karşısındaki konumu bakımından aşağıdaki ifadelerden hangisi doğrudur?",
-  "secenekler": [
-   "KDK, idari yargı yolunu tüketmeksizin doğrudan başvuruya kapalıdır ve kararları bağlayıcı nitelik taşır.",
-   "KDK yalnızca tavsiye kararı verebilir; kararları bağlayıcı değildir ve idari yargı yolunu tüketme ön koşuluna bağlı olarak başvuru kabul edilir.",
-   "KDK'ya başvuru idari yargı yolunu kapatmaz; ancak KDK'nın tavsiye kararları idare mahkemelerini bağlar.",
-   "KDK başvurusu idari dava açma süresini durdurmaz; bu nedenle vatandaşların idari yargı ve KDK'ya eş zamanlı başvurması gerekmektedir.",
-   "KDK kararları bağlayıcı nitelikte olup idare bu kararları uygulamak zorundadır; uygulamayan idare hakkında idari para cezası uygulanır."
-  ],
-  "dogru": 1,
-  "aciklama": "6328 sayılı Kamu Denetçiliği Kurumu Kanunu'na göre KDK'ya başvurabilmek için zorunlu idari yolu tüketmek gerekmektedir. KDK kararları tavsiye niteliğinde olup idarenin bu kararları uygulama zorunluluğu yoktur; ancak idare kararı uygulayıp uygulamayacağını 30 gün içinde bildirmek zorundadır. Öte yandan KDK'ya başvuru idari dava açma süresini durdurur; bu özellik kurumun idari yargı ile ilişkisini belirleyen kritik unsurdur.",
   "zorluk": "zor"
  },
  {
@@ -4320,22 +4256,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "54272",
-  "dersId": "kamuyonetimi",
-  "konuId": "personel_rejimi",
-  "soru": "657 Sayılı Devlet Memurları Kanunu'na göre devlet memurluğunun temel ilkeleri arasında yer almayan kavram aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Güvence",
-   "Liyakat",
-   "Kariyer",
-   "Sendikacılık",
-   "Sınıflandırma"
-  ],
-  "dogru": 3,
-  "aciklama": "657 Sayılı DMK'nın temel ilkeleri sınıflandırma, kariyer ve liyakattir. Güvence bu ilkelerin doğal bir sonucu olarak kabul edilse de kanunda sayılan üç temel ilke arasında sendikacılık yer almamaktadır.",
-  "zorluk": "kolay"
- },
- {
   "id": "54273",
   "dersId": "kamuyonetimi",
   "konuId": "personel_rejimi",
@@ -4668,7 +4588,7 @@
    "Ticaret yapmak veya ticari faaliyette bulunmak"
   ],
   "dogru": 3,
-  "aciklama": "657 sayılı Kanun'un çeşitli maddeleriyle memurlara grev yapma, ticaret yapma, ikinci görev yasağı kapsamındaki işleri ücret karşılığı yürütme ve siyasi partilerin yönetim organlarında yer alma yasaklanmıştır. Ancak sendikaya üye olmak bir yasak kapsamında değildir; aksine 4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu ile memurların sendika kurma ve üye olma hakları güvence altına alınmıştır. Doğru yanıt C'dir.",
+  "aciklama": "657 sayılı Kanun'un çeşitli maddeleriyle memurlara grev yapma, ticaret yapma, ikinci görev yasağı kapsamındaki işleri ücret karşılığı yürütme ve siyasi partilerin yönetim organlarında yer alma yasaklanmıştır. Ancak sendikaya üye olmak bir yasak kapsamında değildir; aksine 4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu ile memurların sendika kurma ve üye olma hakları güvence altına alınmıştır. Doğru cevap: «Sendikaya üye olmak».",
   "zorluk": "orta"
  },
  {
@@ -4700,7 +4620,7 @@
    "Memur eski kadrosundaki özlük haklarını kaybeder; yeni kadronun haklarından yararlanır"
   ],
   "dogru": 0,
-  "aciklama": "Devlet memurları naklen atamaya karşı idari yargı yoluna başvurabilir. İdare, kural olarak memuru rızası olmaksızın da nakledebilir; ancak nakil işlemi hukuka aykırı ise memur idare mahkemesinde iptal davası açma hakkına sahiptir. Memur nakilde onay vermek zorunda değildir, ama dava açabilir. Nakil üst sınıfa geçiş koşuluna bağlı değildir; özlük hakları ise yeni kadroya göre belirlenir. Doğru yanıt D'dir.",
+  "aciklama": "Devlet memurları naklen atamaya karşı idari yargı yoluna başvurabilir. İdare, kural olarak memuru rızası olmaksızın da nakledebilir; ancak nakil işlemi hukuka aykırı ise memur idare mahkemesinde iptal davası açma hakkına sahiptir. Memur nakilde onay vermek zorunda değildir, ama dava açabilir. Nakil üst sınıfa geçiş koşuluna bağlı değildir; özlük hakları ise yeni kadroya göre belirlenir. Doğru cevap: «Memur nakle karşı idare mahkemesinde iptal davası açabilir».",
   "zorluk": "orta"
  },
  {
@@ -4716,23 +4636,7 @@
    "Belirli suçlardan mahkûm olmamak"
   ],
   "dogru": 1,
-  "aciklama": "657 sayılı DMK'nın 48. maddesi devlet memurluğuna alınmanın genel koşullarını düzenlemiştir. Bu koşullar arasında Türk vatandaşlığı, kamu haklarından mahrumiyet bulunmaması, belirli suçlardan mahkûm olmama ve askerlikle ilişik bulunmama sayılmaktadır. 'Belirli bir dini inanca sahip olmamak' ise memuriyete alımın koşulları arasında yer almaz; din özgürlüğü Anayasa güvencesi altındadır ve bu tür bir koşul hem anayasaya hem de uluslararası insan hakları standartlarına aykırı olur. Doğru yanıt E'dir.",
-  "zorluk": "orta"
- },
- {
-  "id": "54297",
-  "dersId": "kamuyonetimi",
-  "konuId": "personel_rejimi",
-  "soru": "Türk kamu personel rejiminde 'yardımcılık' uygulaması hakkında aşağıdakilerden hangisi doğrudur?",
-  "secenekler": [
-   "Yardımcılık döneminde memura asil unvanı verilmekte, ancak tam yetki kullandırılmamaktadır",
-   "Yardımcılık süresi tüm kurumlar için 657 sayılı Kanun'da tek tip olarak 2 yıl şeklinde belirlenmiştir",
-   "Yardımcılık uygulaması kariyer uzmanlık sisteminin bir parçasıdır ve yeterlik sınavına bağlanmıştır",
-   "Yardımcılık dönemi tamamlandıktan sonra yapılan yeterlik sınavından başarısız olan memur kendi kurumunda farklı bir kadroya atanabilir",
-   "Yardımcılık sistemi yalnızca Sayıştay ve Danıştay'da uygulanmakta olup diğer kurumlarda yasal dayanağı yoktur"
-  ],
-  "dogru": 2,
-  "aciklama": "Yardımcılık uygulaması; uzman yardımcısı, müfettiş yardımcısı, araştırmacı gibi unvanlarla başlayan kariyer uzmanlık sisteminin temel unsurudur. Yardımcılar belirli bir süre (genellikle 3 yıl, kuruma göre farklılık gösterir) çalıştıktan sonra yeterlik sınavına tabi tutulur. Sınavda başarılı olanlar asil unvana atanır. Yardımcılık döneminde asil unvan verilmez, yetki de kısıtlıdır. Başarısız olan memurun akıbeti ilgili özel kanunda düzenlenir; bazı durumlarda farklı bir kadroya atanabilirler. Doğru yanıt D'dir.",
+  "aciklama": "657 sayılı DMK'nın 48. maddesi devlet memurluğuna alınmanın genel koşullarını düzenlemiştir. Bu koşullar arasında Türk vatandaşlığı, kamu haklarından mahrumiyet bulunmaması, belirli suçlardan mahkûm olmama ve askerlikle ilişik bulunmama sayılmaktadır. 'Belirli bir dini inanca sahip olmamak' ise memuriyete alımın koşulları arasında yer almaz; din özgürlüğü Anayasa güvencesi altındadır ve bu tür bir koşul hem anayasaya hem de uluslararası insan hakları standartlarına aykırı olur. Doğru cevap: «Belirli bir dini inanca sahip olmamak».",
   "zorluk": "orta"
  },
  {
@@ -4748,7 +4652,7 @@
    "Bu sistemde iktidar değişimi, kamu görevlilerinin de değişmesi sonucunu doğurur"
   ],
   "dogru": 4,
-  "aciklama": "Spoil sistemi (ya da ganimet sistemi), seçimde galip gelen siyasi partinin kamu görevlerini kendi taraftarlarıyla doldurması anlayışına dayanır. Bu sistemde iktidar değişikliği, kamu personelinde de köklü değişikliklere yol açar. ABD'de spoil sistemine tepki olarak 1883'te Pendleton Yasası çıkarılmış ve liyakat esaslı kamu personel sistemi güçlendirilmiştir (yani Pendleton Yasası spoil sistemini getirmemiş, sınırlamıştır). Kariyer ve liyakat ilkeleriyle çelişen bu sistem Türkiye'de de çeşitli dönemlerde tartışma konusu olmuştur. Doğru yanıt B'dir.",
+  "aciklama": "Spoil sistemi (ya da ganimet sistemi), seçimde galip gelen siyasi partinin kamu görevlerini kendi taraftarlarıyla doldurması anlayışına dayanır. Bu sistemde iktidar değişikliği, kamu personelinde de köklü değişikliklere yol açar. ABD'de spoil sistemine tepki olarak 1883'te Pendleton Yasası çıkarılmış ve liyakat esaslı kamu personel sistemi güçlendirilmiştir (yani Pendleton Yasası spoil sistemini getirmemiş, sınırlamıştır). Kariyer ve liyakat ilkeleriyle çelişen bu sistem Türkiye'de de çeşitli dönemlerde tartışma konusu olmuştur. Doğru cevap: «Bu sistemde iktidar değişimi, kamu görevlilerinin de değişmesi sonucunu doğurur».",
   "zorluk": "orta"
  },
  {
@@ -4764,7 +4668,7 @@
    "Toplu sözleşme hakkı 2010 Anayasa değişikliğiyle kaldırılmış, yerine kolektif pazarlık usulü getirilmiştir"
   ],
   "dogru": 0,
-  "aciklama": "4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu'na göre toplu sözleşme görüşmeleri, Kamu İşveren Kurulu (kamu işveren heyeti) ile yetkili konfederasyona bağlı sendikalar arasında yapılmaktadır. Grev hakkı kamu görevlilerine tanınmamıştır. Yüksek Hakem Kurulu kararları bağlayıcı niteliktedir; tavsiye niteliğinde değildir. Tüm sendikalar değil, yeterli üye sayısını sağlayan yetkili sendikalar masaya oturabilmektedir. 2010 değişikliğiyle toplu sözleşme hakkı anayasal güvenceye kavuşturulmuş, kaldırılmamıştır. Doğru yanıt B'dir.",
+  "aciklama": "4688 sayılı Kamu Görevlileri Sendikaları ve Toplu Sözleşme Kanunu'na göre toplu sözleşme görüşmeleri, Kamu İşveren Kurulu (kamu işveren heyeti) ile yetkili konfederasyona bağlı sendikalar arasında yapılmaktadır. Grev hakkı kamu görevlilerine tanınmamıştır. Yüksek Hakem Kurulu kararları bağlayıcı niteliktedir; tavsiye niteliğinde değildir. Tüm sendikalar değil, yeterli üye sayısını sağlayan yetkili sendikalar masaya oturabilmektedir. 2010 değişikliğiyle toplu sözleşme hakkı anayasal güvenceye kavuşturulmuş, kaldırılmamıştır. Doğru cevap: «Toplu sözleşme görüşmeleri, kamu işveren heyeti ile kamu görevlileri sendikaları arasında yürütülür».",
   "zorluk": "orta"
  },
  {
@@ -5035,7 +4939,7 @@
    "İlgili bakanın onayının bulunması",
    "Aylıktan kesme cezasını gerektiren bir fiilin aynı yıl içinde tekrar işlenmiş olması ve disiplin kuruluna sevk edilmiş olması"
   ],
-  "dogru": 2,
+  "dogru": 4,
   "aciklama": "657 sayılı DMK'nın 125. maddesine göre kademe ilerlemesinin durdurulması cezası; fiilin ağırlığına göre memurun bulunduğu kademede 1-3 yıl süreyle ilerlemesinin durdurulması şeklinde uygulanır. Bu cezanın verilebilmesi için kanunda öngörülen fiillerin yanı sıra, bir takvim yılında aynı veya farklı fiillerden birden fazla uyarma veya kınama cezası almak da bu cezayı gerektiren hâller arasında sayılmaktadır. Diğer şıklarda belirtilen koşullar kanunda bu cezanın ön koşulu olarak öngörülmemiştir.",
   "zorluk": "orta"
  },
@@ -5262,22 +5166,6 @@
   "dogru": 2,
   "aciklama": "Hizmet içi eğitim, 657 sayılı DMK'nın 214-220. maddeleri ile bu maddelere dayanan Hizmet İçi Eğitim Yönetmeliği çerçevesinde düzenlenmektedir. Temel amacı, memurların mesleki bilgi ve becerilerini güncelleyerek hem kariyer ilkesini desteklemek hem de kamu hizmetlerinin etkinliğini artırmaktır. Eğitime katılmama ihracın otomatik sonucu değildir; her kurum kendi personeline yönelik hizmet içi eğitim programları düzenleyebilir; sadece MEB yetkili değildir.",
   "zorluk": "orta"
- },
- {
-  "id": "54331",
-  "dersId": "kamuyonetimi",
-  "konuId": "personel_rejimi",
-  "soru": "Türkiye'de 657 sayılı Devlet Memurları Kanunu'nun 4. maddesinde sayılan istihdam biçimlerinden hangisi, diğerlerinden farklı olarak sözleşme hukukunun özel hukuk hükümlerine kısmen tabi olma özelliği taşımakta ve bu statüdeki kişilerin sendikal haklarının kapsamı diğer memurlardan ayrışmaktadır?",
-  "secenekler": [
-   "Sözleşmeli personel",
-   "Memur",
-   "Geçici personel",
-   "Yardımcı hizmetler sınıfı personeli",
-   "İşçi"
-  ],
-  "dogru": 0,
-  "aciklama": "657 sayılı Kanun'un 4/B maddesi kapsamındaki sözleşmeli personel, statü hukukuna değil kısmen sözleşme serbestisine dayanan bir istihdam modeline tabi tutulmaktadır. Bu personelin çalışma koşulları Bakanlar Kurulu/Cumhurbaşkanlığı kararnamesiyle belirlenen tip sözleşmelerle düzenlenmekte; 4688 sayılı Kanun'daki toplu sözleşme hakları bakımından kapsamları diğer devlet memurlarından farklılaşmaktadır. İşçiler zaten 4857 sayılı İş Kanunu'na tabidir ve ayrı bir kategoridir.",
-  "zorluk": "zor"
  },
  {
   "id": "54332",
@@ -5869,22 +5757,6 @@
   ],
   "dogru": 1,
   "aciklama": "Soru yanlış ifadeyi aramaktadır. Savunma hakkı disiplin hukukunun temel güvencesidir ve savunma alınmadan ceza verilemez. Ancak her şekil veya gerekçe eksikliği tek başına iptal sebebi sayılmaz. Danıştay, savunma hakkının özüne dokunmayan ve sonucu etkilemeyen eksiklikleri iptal nedeni olarak görmeyebilir. Bu nedenle \"Disiplin kurulunun kararı, memurun savunmasına atıfta bulunmaksızın tesis edilmişse bu durum tek başına iptal gerekçesi oluşturur.\" ifadesi kesin ve mutlak bir sonuç içerdiği için yanlıştır. \"Memura savunma hakkı tanınmadan tesis edilen disiplin cezası, hukuka aykırılık gerekçesiyle iptal edilebilir.\" ifadesi ise doğrudur, çünkü savunma alınmaması esaslı bir usul eksikliğidir. Doğru cevap \"Disiplin kurulunun kararı, memurun savunmasına atıfta bulunmaksızın tesis edilmişse bu durum tek başına iptal gerekçesi oluşturur.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "54371",
-  "dersId": "kamuyonetimi",
-  "konuId": "personel_rejimi",
-  "soru": "Kamu personel yönetiminde 'merkezi personel idaresi' ile 'yerinden personel yönetimi' modellerini karşılaştıran bir analist, Türkiye'nin 2011 sonrası yerelleşme reformları bağlamında aşağıdaki tespitlerden hangisinin ampirik gerçekliği yansıtmadığını tespit eder?",
-  "secenekler": [
-   "2011 sonrasında il özel idarelerinin kapatılmasıyla birlikte taşra teşkilatına devredilmesi öngörülen personel yetkileri tam anlamıyla il belediyelerine aktarılmıştır.",
-   "Devlet Personel Başkanlığı'nın merkezi koordinasyon işlevi, yerelleşme reformlarına karşın personel rejimine ilişkin standart belirleme yetkisini korumaya devam etmiştir.",
-   "Büyükşehir belediyeleri ile diğer belediyeler arasında personel yönetimi kapasitesi bakımından önemli fiilî farklılıklar gözlemlenmektedir.",
-   "5393 sayılı Belediye Kanunu, belediyelere kendi personel yönetmelikleri çerçevesinde sözleşmeli personel istihdam etme yetkisi vermiş; ancak ücret tavanları merkezi olarak belirlenmektedir.",
-   "Türkiye'de atama yetkisi, tarihsel olarak merkezi idarede yoğunlaşmış; yerel yönetimlere personel politikası belirleme konusunda sınırlı özerklik tanınmıştır."
-  ],
-  "dogru": 0,
-  "aciklama": "İl özel idarelerinin 2012-2014 yılları arasında kademeli olarak kapatılması sürecinde bu idarelere ait personel ve görevlerin büyük ölçüde il özel idare hizmetlerinin devredildiği bakanlıklara, valiliklere ve büyükşehir belediyelerine aktarıldığı görülmüştür. Ancak bu süreç, yerinden yönetim açısından tutarlı bir güçlendirme olmamış; aksine pek çok yetki merkeze çekilmiştir. 'Yetkiler tam anlamıyla il belediyelerine aktarılmıştır' iddiası ampirik olarak yanlıştır; personel ve yetki devri eksik ve dağınık kalmıştır. Diğer şıklar fiiliyata uygun tespitler içermektedir.",
   "zorluk": "zor"
  },
  {

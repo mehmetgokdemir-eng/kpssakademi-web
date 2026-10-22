@@ -25,7 +25,8 @@
       "Cumhurbaşkanının Yüce Divan'a sevk edilmesi için TBMM üye tam sayısının beşte üçünün gizli oyu gerekir."
      ],
      "dogru": 2,
-     "aciklama": "Anayasa'nın 105. maddesi uyarınca Cumhurbaşkanı hakkında soruşturma açılması için TBMM üye tam sayısının salt çoğunluğunun (301 oy) teklifi, Yüce Divan'a sevk için ise üye tam sayısının beşte üçünün (360 oy) gizli oyuyla karar alınması gerekmektedir. Cumhurbaşkanı, göreviyle ilgili suçlar nedeniyle Anayasa Mahkemesi bünyesindeki Yüce Divan'da yargılanır. D şıkkı bu düzenlemeyi doğru biçimde yansıtmaktadır. C şıkkı ise soruşturma ve sevk oranlarını karıştırmaktadır."
+     "aciklama": "Anayasa'nın 105. maddesine göre Cumhurbaşkanı hakkında göreviyle ilgili suç iddiası, TBMM üye tamsayısının salt çoğunluğunun verdiği önergeyle gündeme gelir. Soruşturma açılması üye tamsayısının beşte üç çoğunluğunun gizli oyunu gerektirir. Yüce Divan'a sevk için üye tamsayısının üçte iki çoğunluğunun gizli oyu aranır. Yüce Divan sıfatıyla yargılamayı Anayasa Mahkemesi yapar. \"Cumhurbaşkanı, göreviyle ilgili suçlar nedeniyle Yargıtay'da yargılanır.\" seçeneği yanlıştır, çünkü bu yargılama Yargıtay'ın değil Yüce Divan'ın görevidir. \"Cumhurbaşkanının Yüce Divan'a sevk edilmesi için TBMM üye tamsayısının beşte üçünün gizli oyu gerekir.\" seçeneği de yanlıştır. Beşte üç çoğunluk soruşturma açılması içindir, sevk için üçte iki gerekir. Doğru cevap \"Cumhurbaşkanı, göreviyle ilgili suçlamalar nedeniyle Anayasa Mahkemesi bünyesindeki Yüce Divan'da yargılanır.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "44139",
@@ -56,7 +57,8 @@
       "Ölenin yakınlarının manevi tazminat talebi, yalnızca ölenin birinci derece akrabaları ile sınırlıdır."
      ],
      "dogru": 3,
-     "aciklama": "TBK m. 53 uyarınca ölüm halinde uğranılan zararlar; cenaze giderleri, ölüm hemen gerçekleşmemişse ölüme kadar olan tedavi giderleri ve çalışma gücünün yitirilmesinden ya da azalmasından doğan kayıplar ile ölenin desteğinden yoksun kalanların bu sebeple uğradıkları kayıplardır. C şıkkı bu unsurları doğru biçimde özetlemektedir. A şıkkındaki 'yalnızca yasal mirasçılar' ifadesi yanlıştır; fiilen destek gören kişiler (nişanlı, evlilik dışı birlikte yaşanan kişi gibi) de destekten yoksun kalma tazminatı isteyebilir. Manevi tazminat ise TBK m. 56 kapsamında yakınları için de mümkündür ve birinci derece ile sınırlı değildir."
+     "aciklama": "TBK m. 53'e göre ölüm halinde zarar kalemleri şunlardır: cenaze giderleri, ölüm hemen gerçekleşmemişse tedavi giderleri, çalışma gücünün kaybından doğan kazanç kayıpları ve ölenin desteğinden yoksun kalanların zararları. Bunlar maddi tazminat kapsamındadır. \"Ölenin desteğinden yoksun kalanlar destek tazminatı isteyebilir; ancak bu kişilerin yalnızca ölenin yasal mirasçıları olması gerekir.\" ifadesi yanlıştır, çünkü destekten yoksun kalan kişinin mirasçı olması şart değildir. \"Destek tazminatına hak kazanmak için ölenin, mirasçılarına düzenli olarak maddi yardım yapmış olması şarttır.\" ifadesi de yanlıştır, çünkü destek, düzenli yardımın yanında desteğin ileride sağlanacağı durumlarda da söz konusu olabilir. Doğru cevap \"Cenaze giderleri, ölüm anına kadar yapılan tedavi giderleri ve çalışma gücünün yitirilmesinden doğan zararlar maddi tazminat kapsamındadır.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "44230",
@@ -103,7 +105,7 @@
       "Evlenme töreni sırasında yanılma veya korkutma ile irade sakatlığına uğrayan eş, bu durumu öğrenmesinden itibaren altı ay ve her halde beş yıl içinde iptal davası açabilir."
      ],
      "dogru": 3,
-     "aciklama": "TMK m. 148-160 hükümleri değerlendirildiğinde, nisbî butlan hallerinde (yanılma, aldatma, korkutma) TMK m. 152 uyarınca hak düşürücü süre geçtikten sonra artık evlilik iptali istenemez. B şıkkında 'evlilik geçersizliğini kaybetmez' ifadesi yanlıştır; zira nisbî butlan hallerinde dava açma süresi geçince evlilik geçerli bir evliliğe dönüşmekte, geçersizlik tasfiye edilmektedir. Süre geçtikten sonra artık ne dava açılabilir ne de geçersizlikten söz edilebilir. Bu nedenle B şıkkı yanlıştır.",
+     "aciklama": "Evliliğin butlanı konusunda mutlak butlan nedenleri TMK m. 145'te sayılmıştır; akıl hastalığı da bunlardandır ve dava süresi sınırlı değildir, savcı da dava açabilir. Nisbî butlan (iptal) halleri ise TMK m. 150-151'dedir; hata ve hile, korkutma gibi hallerde dava, öğrenmeden itibaren altı ay ve her halde evlenmeden itibaren beş yıl içinde açılmalıdır. Bu süre geçtikten sonra evlilik geçerli hale gelir, yani iptal davası artık açılamaz ve evlilik geçersizliğini kaybeder. Bu yüzden \"evlilik geçersizliğini kaybetmez\" ifadesi hatalıdır. \"Mutlak butlan hallerinde evliliğin iptali için dava açma hakkı, süreyle sınırlandırılmamıştır.\" ifadesi doğrudur. Doğru cevap \"Nisbî butlan hallerinde dava açma süresi geçtikten sonra evlilik geçersizliğini kaybetmez; ancak iptal davası artık açılamaz.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -118,8 +120,8 @@
       "6 ay – 6 ay",
       "3 ay – 3 ay"
      ],
-     "dogru": 4,
-     "aciklama": "Anayasa'nın 119. maddesine göre Cumhurbaşkanı; olağanüstü hal ilan edebilir. Olağanüstü halin süresi altı ayı geçemez. Türkiye Büyük Millet Meclisi, olağanüstü hal süresini her seferinde dört aya kadar uzatabilir. Savaş halinde ise bu dört aylık üst sınır aranmaz. Bu sorunun doğru cevabı 'A) 3 ay – 3 ay' değil 'B) 6 ay – 4 ay' seçeneğidir; ancak KPSS'de bu ayrıntı sıkça sorulduğundan dikkatli olunmalıdır.",
+     "dogru": 0,
+     "aciklama": "Anayasa m.119'a göre OHAL en çok altı ay için ilan edilir ve TBMM her defasında en fazla dört ay uzatabilir. Doğru cevap 6 ay – 4 ay şeklindedir.",
      "zorluk": "kolay"
     },
     {
@@ -135,7 +137,8 @@
       "Yetki devri yalnızca merkezi idare içinde gerçekleşir; yetki genişliği ise yalnızca yerinden yönetim kuruluşlarında uygulanır"
      ],
      "dogru": 0,
-     "aciklama": "Yetki devri, üst makamın belirli bir yetkisini yazılı biçimde alt makama bırakmasıdır; bu durumda devreden makam söz konusu yetkiyi artık kural olarak kullanamaz ve yetki devreden alt makamda bulunur. Yetki genişliği ise il genel idaresinde valilere tanınan ve kanundan doğan bir yetkidir; bu yetkide merkezin yetkisi devredilmez, valiye özgü bölgesel bir uygulama yetkisi tanınır, merkez de yetki alanında işlem yapabilir. Dolayısıyla temel fark, devreden makamın yetkisini yitirip yitirmediğidir."
+     "aciklama": "Yetki devri, üst makamın belirli bir yetkisini yazılı biçimde alt makama bırakmasıdır; bu durumda devreden makam söz konusu yetkiyi artık kural olarak kullanamaz ve yetki devreden alt makamda bulunur. Yetki genişliği ise il genel idaresinde valilere tanınan ve kanundan doğan bir yetkidir; bu yetkide merkezin yetkisi devredilmez, valiye özgü bölgesel bir uygulama yetkisi tanınır, merkez de yetki alanında işlem yapabilir. Dolayısıyla temel fark, devreden makamın yetkisini yitirip yitirmediğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "44585",
@@ -166,7 +169,8 @@
       "Failin şekeri zehir sanarak mağdura vermesi ve bu durumu bilmemesi."
      ],
      "dogru": 4,
-     "aciklama": "Elverişsiz teşebbüste fail, suçu işlemeye elverişli olmayan araç ya da konu üzerinde hareket eder; nesnel değerlendirmede suçun gerçekleşmesi mümkün değildir. E şıkkında fail, şekeri zehir sanmaktadır; ancak şeker nesnel olarak hiçbir biçimde ölüme yol açamaz. Bu nedenle elverişsiz teşebbüs söz konusudur ve TCK m. 35 kapsamında ceza verilemez. C şıkkında ise dikkat edilmelidir: fail zehrin dozajını bilmemektedir, ancak zehrin niteliği itibarıyla öldürücü olması mümkündür; bu elverişli teşebbüse girer. A ve B şıklarında silah elverişli bir araçtır; teşebbüs hükümleri uygulanır. D şıkkında ise suç tamamlanmıştır."
+     "aciklama": "Elverişsiz teşebbüste kullanılan araç ya da hareketin yöneldiği konu, suçun işlenmesine hiçbir şekilde elverişli değildir. Bu durumda TCK m. 35/3 uyarınca ceza verilmez. Fail şekeri zehir sanarak vermiştir. Şeker ölüme mutlak olarak elverişsiz bir araçtır, dolayısıyla elverişsiz teşebbüs vardır. \"Failin, mağduru öldürmek için koyduğu zehrin dozajının ölüme yetmeyecek kadar az olduğunu bilmeksizin vermesi.\" seçeneğinde araç esasen elverişlidir. Yalnızca doz yetersizdir, bu da göreceli elverişsizlik sayılır ve teşebbüsten sorumluluk doğurur. \"Failin, mağduru öldürmek amacıyla ateş etmesi; ancak merminin hedefe isabet etmemesi.\" seçeneğinde silah ve hareket elverişlidir, yalnızca sonuç gerçekleşmemiştir. Doğru cevap \"Failin şekeri zehir sanarak mağdura vermesi ve bu durumu bilmemesi.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "44619",
@@ -197,7 +201,8 @@
       "Seçimlik yerleşim yeri, yalnızca belirli işlemler için hüküm doğurur."
      ],
      "dogru": 0,
-     "aciklama": "TMK m. 21 uyarınca vesayet altındaki kişilerin yasal yerleşim yeri, vasi tarafından değil, kısıtlının vasi atanmadan önceki son yerleşim yeri ya da kısıtlama kararını veren mahkemenin bulunduğu yer esas alınarak belirlenir. Vasi, yerleşim yerini tek başına belirleyemez. Diğer şıklar TMK'nın ilgili maddelerine (m. 19-22) uygun ve doğrudur."
+     "aciklama": "TMK m. 21 uyarınca vesayet altındaki kişilerin yasal yerleşim yeri, vasi tarafından değil, kısıtlının vasi atanmadan önceki son yerleşim yeri ya da kısıtlama kararını veren mahkemenin bulunduğu yer esas alınarak belirlenir. Vasi, yerleşim yerini tek başına belirleyemez. Diğer şıklar TMK'nın ilgili maddelerine (m. 19-22) uygun ve doğrudur.",
+     "zorluk": "orta"
     },
     {
      "id": "44074",
@@ -212,7 +217,8 @@
       "Olağanüstü hâl kararnameleri, yalnızca TBMM'nin üçte iki çoğunluğuyla onaylanmak zorundadır."
      ],
      "dogru": 0,
-     "aciklama": "Anayasa'nın 119. maddesi uyarınca olağanüstü hâl süresince Cumhurbaşkanı, olağanüstü hâlin gerekli kıldığı konularda Cumhurbaşkanlığı kararnamesi çıkarabilir. Bu kararnameler Resmî Gazete'de yayımlanır ve aynı gün TBMM'nin onayına sunulur. TBMM'nin onaylamaması halinde kararname yürürlükten kalkar. Olağanüstü hâl kararnameleri hakkında Anayasa Mahkemesi'ne esas yönünden iptal davası açılamaz; yalnızca şekil yönünden denetim mümkündür. B şıkkı bu hükmü doğru biçimde yansıtmaktadır."
+     "aciklama": "Anayasa'ya göre olağanüstü hâl ilanı sırasında Cumhurbaşkanı, olağanüstü hâlin gerektirdiği konularda Cumhurbaşkanlığı kararnamesi çıkarabilir. Bu kararnameler Resmî Gazete'de yayımlanır ve aynı gün TBMM'nin onayına sunulur. Yani kararnameler Meclis denetimine tabidir. \"Olağanüstü hâl kararnameleri, TBMM tarafından denetlenemez.\" seçeneği yanlıştır, çünkü kararnameler zorunlu olarak Meclis'in onayına sunulur. \"Olağanüstü hâl kararnameleri, yalnızca TBMM'nin üçte iki çoğunluğuyla onaylanmak zorundadır.\" seçeneği de yanlıştır. Anayasa onay için üçte iki gibi nitelikli bir çoğunluk öngörmez. Doğru cevap \"Olağanüstü hâl kararnameleri, Resmî Gazete'de yayımlanarak yürürlüğe girer ve aynı gün TBMM'nin onayına sunulur.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "44180",
@@ -227,7 +233,8 @@
       "Asliye ticaret mahkemesinde tazminat davası"
      ],
      "dogru": 1,
-     "aciklama": "2942 sayılı Kamulaştırma Kanunu'na göre kamulaştırma bedelinin tespiti ve taşınmazın idare adına tescili davası, asliye hukuk mahkemesinde açılır. Bu dava adli yargıya aittir; idare mahkemelerinin görev alanına girmez. Mülk sahibinin bedele itirazı da aynı mahkemede görülmektedir."
+     "aciklama": "2942 sayılı Kamulaştırma Kanunu'na göre kamulaştırma bedelinin tespiti ve taşınmazın idare adına tescili davası, asliye hukuk mahkemesinde açılır. Bu dava adli yargıya aittir; idare mahkemelerinin görev alanına girmez. Mülk sahibinin bedele itirazı da aynı mahkemede görülmektedir.",
+     "zorluk": "orta"
     },
     {
      "id": "44499",
@@ -258,7 +265,7 @@
       "Neticesi sebebiyle ağırlaşan suçlarda, ağır neticeye ilişkin taksirin varlığı zorunludur; salt nedensellik bağı yeterli sayılmaz."
      ],
      "dogru": 4,
-     "aciklama": "TCK m.23'e göre neticesi sebebiyle ağırlaşan suçlarda failin bu ağır netice bakımından en azından taksirli bir kusur taşıması zorunludur. Yani ağır netice bakımından salt nedensellik bağının kurulması yeterli değildir; failin bu sonucu öngörebilir olması ve öngöremese de kaçınma yükümlülüğünü ihlal etmesi gerekir. C şıkkı bu kuralı doğru ifade etmektedir. A yanlıştır: Nitelikli hal bağımsız suç tipi değil, aynı suçun ağırlaştırılmış biçimidir. B yanlıştır: Nitelikli haller kastın kapsamında olmalıdır; fail bu unsuru bilmelidir. D yanlıştır: Nitelikli haller fail sıfatı, işleniş biçimi ve mağdurun durumuna göre de belirlenebilir. E yanlıştır: TCK m.40/3 uyarınca cezayı artıran şahsi sebepler yalnızca ilgili faile uygulanır.",
+     "aciklama": "Neticesi sebebiyle ağırlaşan suçlarda failin ağır neticeden sorumlu tutulabilmesi için TCK m.23 uyarınca o neticeye ilişkin en azından taksirinin bulunması gerekir. Failin hareketiyle ağır netice arasında yalnızca nedensellik bağı olması yetmez, çünkü kusursuz sorumluluk ceza hukukunda kabul edilmez. Bu nedenle \"Neticesi sebebiyle ağırlaşan suçlarda, ağır neticeye ilişkin taksirin varlığı zorunludur\" ifadesi doğrudur. \"Cezayı artıran şahsi sebepler, iştirak halinde işlenen suçlarda diğer faillere de yansır\" ifadesi yanlıştır; TCK m.40/2 uyarınca şahsi nedenler yalnızca ilgili kişiye uygulanır. \"Nitelikli hal, bağımsız bir suç tipi oluşturur\" ifadesi de yanlıştır, çünkü nitelikli hal temel suçun cezasını değiştiren bir unsurdur ve temel suçla gerçek içtima oluşturmaz. Doğru cevap \"Neticesi sebebiyle ağırlaşan suçlarda, ağır neticeye ilişkin taksirin varlığı zorunludur\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -268,13 +275,13 @@
      "soru": "4857 sayılı İş Kanunu'nun 41. maddesi kapsamında fazla çalışma ücreti hesabında aşağıdaki ifadelerden hangisi doğrudur?",
      "secenekler": [
       "Fazla çalışma yapıldığında işçi, bu ücreti yıllık olarak toplu biçimde talep etmek zorundadır.",
-      "Parça başı veya götürü iş yapan işçilere fazla çalışma ücreti ödenmez; bunun yerine üretim primi uygulanır.",
+      "Parça başı veya götürü usulde iş yapan işçilere fazla çalışma ücreti ödenmez; bunun yerine yalnızca üretim primi uygulanır ve saat hesabı yapılmaz. Saat üzerinden hesap yapılmaz.",
       "Yıllık 270 saati aşan fazla çalışmalar için işçiye ek prim ödenmesi zorunludur.",
       "Fazla çalışma ücreti, normal saatlik ücretin yüzde elli fazlasıdır ve bu oran hiçbir koşulda artırılamaz.",
       "İşçi, fazla çalışma ücreti yerine serbest zaman kullanmayı tercih edebilir; bu durumda her bir fazla çalışma saati karşılığında bir buçuk saat serbest zaman hakkı doğar."
      ],
      "dogru": 4,
-     "aciklama": "4857 sayılı Kanun'un 41. maddesine göre fazla çalışma karşılığında işçi, ücret almak yerine serbest zaman kullanmayı tercih edebilir. Bu durumda her bir saat fazla çalışma için bir saat otuz dakika (1,5 saat) serbest zaman tanınır. A şıkkındaki 'hiçbir koşulda artırılamaz' ifadesi yanlıştır; toplu iş sözleşmesiyle veya bireysel iş sözleşmesiyle daha yüksek oran belirlenebilir. C şıkkındaki '270 saati aşan fazla çalışmalara ek prim' yükümlülüğü Kanunda yer almamaktadır; 270 saat yıllık azami sınırdır. D ve E seçenekleri de kanuni dayanaktan yoksundur.",
+     "aciklama": "4857 sayılı Kanun'un 41. maddesine göre işçi isterse fazla çalışma ücreti yerine serbest zaman kullanabilir. Bu durumda çalıştığı her bir fazla saat için bir saat otuz dakika serbest zaman hakkı kazanır. Bu serbest zaman, talep tarihinden itibaren altı ay içinde işçinin normal ücretinde kesinti yapılmadan kullandırılır. Fazla çalışma ücreti normal saatlik ücretin yüzde elli fazlasıdır. Ancak bu oran sözleşmeyle artırılabilir, bu nedenle \"hiçbir koşulda artırılamaz\" ifadesi yanlıştır. Yıllık 270 saatlik sınır, ek prim değil fazla çalışmanın üst sınırıdır. Doğru cevap \"İşçi, fazla çalışma ücreti yerine serbest zaman kullanmayı tercih edebilir...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -338,7 +345,7 @@
       "Borçlulardan birinin ödeme güçsüzlüğü hâlinde bu payın yükü, diğer müteselsil borçlular arasında paylaşılır."
      ],
      "dogru": 0,
-     "aciklama": "TBK m. 148 kapsamında rücu hakkı, borcun tamamını ifa eden müteselsil borçluya tanınan bir haktır. Seçenek B 'yanlış' olan şıktır çünkü rücu hakkının kullanılabilmesi için alacaklının yalnızca tatmin edilmesi değil, aynı zamanda borcun tamamen sona ermiş olması da gerekmez — kısmi ödeme yapan borçlu da kendi payını aşan kısım için rücu edebilir. Öte yandan seçenek B'de 'borç sona ermiş olmalıdır' şeklindeki ek koşul hatalıdır. TBK m. 148/2 uyarınca ifa eden borçlu, yasal haleflik yoluyla alacaklının haklarını kullanabilir. Ödeme güçsüzlüğünün diğerleri arasında paylaşılacağı (D) ve eşit pay karinesinin (E) uygulanacağı ise doğrudur.",
+     "aciklama": "Borcun tamamını ifa eden müteselsil borçlu, kendi payını aşan kısım için diğer borçlulara rücu edebilir. Payların eşit olduğu karine olarak kabul edilir ve aksi kanıtlanmadıkça rücu eşit paylar üzerinden yapılır. İfa eden borçlu kanun gereği alacaklının yerine geçer. Borçlulardan biri ödeme gücünden yoksunsa onun payı diğerleri arasında paylaşılır. Bu hükümlerin hepsi doğrudur. Yanlış olan, rücu için borcun tamamen sona ermiş olması gerektiğini söyleyen ifadedir. Rücu hakkı, borçlunun kendi payını aşan bir ödeme yapmasına dayanır. Borcun tümünün sönmesi şart değildir, ifade de kendi içinde çelişir. \"İç ilişkide payların eşit olduğu karine olarak kabul edilir; aksi kanıtlanmadıkça rücu eşit pay oranında gerçekleşir.\" seçeneği bu yüzden doğrudur. Doğru cevap \"Rücu davasının açılması için alacaklıya yapılan ödemenin alacaklıyı tatmin etmesi yeterlidir\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -354,7 +361,8 @@
       "Kişinin kendisine yönelik haksız bir saldırıyı def etmesi"
      ],
      "dogru": 3,
-     "aciklama": "TCK m. 25'e göre meşru müdafaa, gerek kendisine gerek başkasına yönelmiş, gerçekleşen, gerçekleşmesi kesin olan ya da tekrar edebilecek haksız bir saldırıyı o anda hâl ve takdire göre saldırı ile orantılı biçimde defetmek amacıyla işlenen fiiller bakımından uygulanır. Meşru müdafaanın temel koşullarından biri saldırının 'haksız' olmasıdır. D şıkkında, kişinin kendisinin başlattığı haksız saldırıya karşı meşru müdafaa iddiasında bulunması söz konusudur. Kendi haksız eyleminden kaynaklanan bir tehlikeyi def etmek için karşı tarafa zarar verilmesi meşru müdafaa kapsamında değerlendirilemez; zira ortada failin kendisinin yarattığı bir tehlike durumu mevcuttur ve saldırı 'haksız' nitelik taşımamaktadır."
+     "aciklama": "Meşru müdafaa, kişinin kendisine ya da başkasına yönelik haksız bir saldırıyı def etmesidir ve saldırının hâlen devam ediyor veya muhakkak olması gerekir. Kişi kendi haksız saldırısını def etmek amacıyla karşı tarafa zarar verirse, savunduğu bir hak ve karşı karşıya olduğu haksız bir saldırı yoktur. Böyle bir kişi meşru müdafaaya dayanamaz. \"Kişinin kendisine yönelik haksız bir saldırıyı def etmesi\" seçeneği meşru müdafaanın temel hâlidir. \"Kişinin üçüncü bir kişiye yönelik haksız saldırıyı def etmesi\" seçeneği de kanunun açıkça kabul ettiği başkasını savunma hâlidir. Bu nedenle bu iki seçenekte meşru müdafaa hükümleri uygulanır. Doğru cevap \"Kişinin kendi haksız saldırısını def etmek amacıyla karşı tarafa zarar vermesi\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "44641",
@@ -401,7 +409,7 @@
       "Meclis üye tam sayısının üçte ikisiyle (400 oy) soruşturma açılır ve Meclis üye tam sayısının dörtte üçüyle (450 oy) Yüce Divan'a sevk edilir."
      ],
      "dogru": 2,
-     "aciklama": "Anayasa m.105'e göre önerge 301, soruşturma açılması 360 (beşte üç), Yüce Divana sevk 400 (üçte iki) oy gerektirir; bu C şıkkıdır. Doğru cevap C seçeneğidir.",
+     "aciklama": "Anayasa m.105'e göre önerge 301, soruşturma açılması 360 (beşte üç), Yüce Divana sevk 400 (üçte iki) oy gerektirir; bu “Meclis üye tam sayısının beşte üçüyle (360 oy) soruşturma açılır ve üçte iki çoğunlukla…” şıkkıdır. Doğru cevap “Meclis üye tam sayısının beşte üçüyle (360 oy) soruşturma açılır ve üçte iki çoğunlukla…” seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -412,12 +420,13 @@
      "secenekler": [
       "İmtiyaz yoluyla yürütmede hizmetin ifası özel kişiye bırakılır; ancak devlet denetim ve yaptırım yetkisini korur, sözleşme karma nitelikte idari sözleşmedir.",
       "Devlet eliyle yürütmede idare hukuku kuralları uygulanır; imtiyazda ise Türk Ticaret Kanunu hükümleri geçerlidir.",
-      "İmtiyaz yoluyla yürütmede hizmetin finansmanı devlet tarafından karşılanır; özel kişi yalnızca operasyonel işlevi üstlenir.",
+      "İmtiyaz yoluyla yürütmede hizmetin finansmanı tümüyle devlet tarafından karşılanır; özel kişi yalnızca operasyonel işlevi üstlenir ve hiçbir risk taşımaz. Bu nedenle sözleşme özel hukuka tabidir.",
       "İmtiyaz sözleşmelerinde özel hukuk hükümleri uygulanır; bu nedenle uyuşmazlıklar adli yargıda görülür.",
       "İmtiyaz yolu, yalnızca belediye hizmetleri için kullanılabilen bir usuldür."
      ],
      "dogru": 0,
-     "aciklama": "Kamu hizmetinin imtiyaz yoluyla yürütülmesinde hizmet, özel kişi ya da şirkete bırakılır; ancak hizmet sahibi ve sorumlusu devlet olmayı sürdürür. Devlet denetim, gözetim, fiyat düzenleme ve gerektiğinde müsadere yetkilerini elinde tutar. İmtiyaz sözleşmesi, karma nitelikte bir idari sözleşme olup tek taraflı idari hükümler içerir. Bu sözleşmelerden doğan uyuşmazlıklar Danıştay'ın veya idare mahkemelerinin görev alanındadır."
+     "aciklama": "Kamu hizmetinin imtiyaz yoluyla yürütülmesinde hizmet, özel kişi ya da şirkete bırakılır; ancak hizmet sahibi ve sorumlusu devlet olmayı sürdürür. Devlet denetim, gözetim, fiyat düzenleme ve gerektiğinde müsadere yetkilerini elinde tutar. İmtiyaz sözleşmesi, karma nitelikte bir idari sözleşme olup tek taraflı idari hükümler içerir. Bu sözleşmelerden doğan uyuşmazlıklar Danıştay'ın veya idare mahkemelerinin görev alanındadır.",
+     "zorluk": "orta"
     },
     {
      "id": "44539",
@@ -432,7 +441,8 @@
       "Culpa in contrahendo kapsamında yalnızca fiili zarar tazmin edilir, yoksun kalınan kâr talep edilemez."
      ],
      "dogru": 0,
-     "aciklama": "TBK m. 35'e göre sözleşme görüşmeleri başladığında taraflar arasında bir güven ilişkisi doğar. Bu aşamada dürüstlük kuralına aykırı davranan taraf, karşı tarafın uğradığı zararı tazmin etmekle yükümlüdür. Bu sorumluluk, kanuni bir borç ilişkisi niteliği taşıdığından sözleşme sorumluluğuna ilişkin hükümler kıyasen uygulanır. Kusur aranmakla birlikte ispat yükü ters çevrilmiştir; sorumluluk hem sözleşmenin kurulmaması hem de geçersizlik halinde gündeme gelebilir."
+     "aciklama": "TBK m. 35'e göre sözleşme görüşmeleri başladığında taraflar arasında bir güven ilişkisi doğar. Bu aşamada dürüstlük kuralına aykırı davranan taraf, karşı tarafın uğradığı zararı tazmin etmekle yükümlüdür. Bu sorumluluk, kanuni bir borç ilişkisi niteliği taşıdığından sözleşme sorumluluğuna ilişkin hükümler kıyasen uygulanır. Kusur aranmakla birlikte ispat yükü ters çevrilmiştir; sorumluluk hem sözleşmenin kurulmaması hem de geçersizlik halinde gündeme gelebilir.",
+     "zorluk": "orta"
     },
     {
      "id": "44269",
@@ -440,14 +450,15 @@
      "konuId": "ceza",
      "soru": "Türk Ceza Kanunu'na göre, bir kimsenin kendisine karşı işlenmekte olan haksız bir saldırıyı defetmek için saldırgana zarar vermesi durumunda meşru müdafaanın şartlarından biri olan 'orantılılık' ilkesi bakımından aşağıdaki ifadelerden hangisi doğrudur?",
      "secenekler": [
-      "Orantılılık ilkesi yalnızca kişilere karşı saldırılarda aranır; mala karşı saldırılarda bu ilke uygulanmaz.",
+      "Orantılılık ilkesi yalnızca kişilere karşı gerçekleştirilen saldırılarda aranır; mala karşı saldırılarda bu ilke hiçbir biçimde uygulanmaz.",
       "Savunmanın saldırıyı aşması hâlinde faile her koşulda ceza verilir.",
       "Saldırının koşullarını bilmeksizin savunmada sınırı aşmak, haksız tahrik hükmü kapsamında değerlendirilir.",
       "Savunma, saldırıyla tam olarak eşit güçte olmalıdır; aksi hâlde meşru müdafaa şartları oluşmaz.",
       "Savunmanın saldırıyı zorunluluktan aşması hâlinde fail cezalandırılmaz; ancak sınırın aşılması kasten yapılmışsa sorumluluk doğar."
      ],
      "dogru": 4,
-     "aciklama": "TCK m. 25/2 uyarınca, meşru müdafaada sınırın aşılması hâlinde bu aşım kasten değil de panik, korku veya telaş nedeniyle gerçekleşmişse fail cezalandırılmaz. Sınırın kasten aşılması ise sorumluluk doğurur. Savunmanın saldırıyla eşit olması şart değildir; gerekli olan saldırıyı bertaraf etmeye elverişli en hafif araç ve güçle karşılık verilmesidir. A şıkkı bu nedenle yanlıştır. D şıkkındaki karıştırma tuzağına dikkat edilmelidir: mazeret ya da hata hükümleri ayrı bir değerlendirme konusudur."
+     "aciklama": "TCK m.25 ve m.27 uyarınca meşru müdafaada savunmanın saldırıyla orantılı olması gerekir. Savunma saldırıyı aşarsa fail, aşmanın nedenine göre sorumlu tutulur. Aşma mazur görülebilecek heyecan, korku veya telaştan ileri gelmişse fail cezalandırılmaz. Aşma bu nedenlerle olmamış, kasten yapılmışsa sorumluluk doğar. Verilen seçenekler arasında en doğrusu bu yöndeki ifadedir. Diğer seçenekler hatalıdır. Orantılılık, saldırının niteliğine göre sınırlıdır; \"her koşulda ceza verilir\" ya da \"tam olarak eşit güçte olmalıdır\" demek yanlıştır, çünkü aşma halinde bile cezasızlık mümkündür. Sınırın bilinmeden aşılması haksız tahrik kapsamında da değerlendirilmez. Doğru cevap \"Savunmanın saldırıyı zorunluluktan aşması hâlinde fail cezalandırılmaz\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "44629",
@@ -475,10 +486,10 @@
       "Saklı pay mirasçısı, tenkis davasında lehine kazandırma yapılan kişiyi değil, mirası reddeden diğer mirasçıları davalı göstermek zorundadır.",
       "Mirasbırakanın sağlığında yaptığı bağışlar bakımından tenkis, bağışlananın bağışı aynen iade etmesiyle gerçekleşir; ayni iade mümkün değilse tenkis bedele dönüşür.",
       "Tenkiste sıra önce ölüme bağlı tasarruflardan, bunlar yetmezse sağlararası kazandırmalardan başlanarak geriye doğru uygulanır.",
-      "Tenkis, saklı payı침해한 kazandırmayı baştan itibaren geçersiz kılmaz; yalnızca saklı payı aşan kısmı etkiler."
+      "Tenkis, saklı payı ihlal eden kazandırmayı baştan itibaren geçersiz kılmaz; yalnızca saklı payı aşan kısmı etkiler."
      ],
      "dogru": 1,
-     "aciklama": "Tenkis davasında davalı, lehine kazandırma yapılan kişidir (üçüncü kişi, vasiyet alacaklısı vb.). Mirası reddeden diğer mirasçılar tenkis davasının tarafı değildir; ret, o mirasçının mirası hiç kazanmamış sayılmasını sağlar. D şıkkındaki ifade yanlıştır. Diğer seçenekler: TMK m.571'deki hak düşürücü süreler (A doğru); tenkis sırası önce ölüme bağlı tasarruflar sonra sağlararası kazandırmalar (TMK m.570 - B doğru); ayni iade - bedele dönüşme kuralı (C doğru); tenkisin yalnızca aşan kısmı etkilemesi (E doğru).",
+     "aciklama": "Tenkis davası, saklı payı ihlal eden kazandırmadan yararlanan kişiye karşı açılır. Bu kişi bağışlanan, vasiyet alacaklısı ya da mirasçı olabilir. Mirası reddeden diğer mirasçılar bu davanın zorunlu hasmı değildir, çünkü onlar kazandırmadan yararlanmış kişi sayılmaz. Bu nedenle \"Saklı pay mirasçısı, tenkis davasında lehine kazandırma yapılan kişiyi değil, mirası reddeden diğer mirasçıları davalı göstermek zorundadır\" ifadesi yanlıştır. Tenkis davasının süresi, öğrenmeden itibaren bir yıl ve her hâlde on yıldır. Tenkis sırası önce ölüme bağlı tasarruflardan başlar. Tenkis, kazandırmayı baştan geçersiz kılmaz, yalnızca saklı payı aşan kısmı etkiler. Doğru cevap \"Saklı pay mirasçısı, tenkis davasında lehine kazandırma yapılan kişiyi değil\" seçeneğidir.",
      "zorluk": "zor"
     }
    ]

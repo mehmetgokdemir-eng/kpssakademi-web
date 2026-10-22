@@ -38,7 +38,7 @@
       "Türkiye Selçuklularının saltanatı doğrudan sultandan bağımsız bir meşveret meclisiyle yönetmesi",
       "Türkiye Selçuklularının Oğuz boylarını değil, ağırlıklı olarak Kıpçak ve Karluk unsurlarını bünyesinde barındırması",
       "Türkiye Selçuklularının, diğer kolların aksine ağırlıklı olarak Bizans gibi Hristiyan bir devletle sınır tutarak yeni bir İslam-Hristiyan temas bölgesi oluşturması",
-      "Türkiye Selçuklularının Moğol istilasından en geç etkilenerek Orta Asya göç dalgasının tampon bölgesi işlevi görmesi"
+      "Türkiye Selçuklularının Moğol istilasından en geç etkilenerek Orta Asya'dan gelen göç dalgasının tampon bölgesi işlevini üstlenmesi ve gelen nüfusu soğurması; bu işlev diğer kollarda hiç görülmez"
      ],
      "dogru": 3,
      "aciklama": "Büyük Selçuklu'nun diğer kolları; Kirman, Suriye, Irak gibi hâlihazırda İslamlaşmış bölgelerde kurulmuştu. Türkiye Selçukluları ise Anadolu'da Bizans gibi köklü bir Hristiyan medeniyetiyle doğrudan sınır oluşturdu. Bu durum, gazi ve uç kültürünün gelişmesine, Türkmen boylarının Anadolu'ya yerleşmesine ve ilerleyen süreçte Osmanlı öncesi siyasi-kültürel zeminin oluşmasına katkıda bulundu. Moğol istilasına karşı tampon rolü kısmen doğru olmakla birlikte bu durum Türkiye Selçuklularını işlevsel olarak ayıran birincil özellik değildir. Abbasi'yi tanımama ve meşveret meclisi iddiaları olgusal olarak yanlıştır.",
@@ -66,14 +66,15 @@
      "konuId": "mudanya_lozan",
      "soru": "Aşağıdakilerden hangisi Lozan Antlaşması'nın Sevr Antlaşması'ndan temel farkını en doğru biçimde ifade etmektedir?",
      "secenekler": [
-      "Lozan, Osmanlı Devleti ile değil TBMM Hükümeti ile imzalandığından uluslararası hukuki geçerliliği Sevr'den üstündür.",
+      "Lozan, Osmanlı Devleti ile değil doğrudan TBMM Hükümeti ile imzalandığından uluslararası hukuki geçerliliği Sevr'den üstündür; bu nedenle iki belge hukuken kıyaslanamaz niteliktedir.",
       "Sevr'de Boğazlar meselesi çözümsüz kalırken Lozan Boğazları kesin olarak Türkiye'nin egemenliğine bırakmıştır.",
       "Lozan, Sevr'e kıyasla Türkiye'ye daha az toprak bıraktığından daha ağır koşullar içermektedir.",
       "Sevr galip devletlerin Osmanlı'ya dikte ettirdiği ve hiçbir zaman yürürlüğe girmemiş bir antlaşmayken, Lozan Türkiye'nin savaş alanında elde ettiği zaferin diplomatik belgesidir.",
       "Lozan, Sevr'in aksine Ermeni yurdunun kurulmasına dair hükümler içermektedir."
      ],
      "dogru": 3,
-     "aciklama": "Sevr Antlaşması (1920), galip devletlerin Osmanlı temsilcilerine imzalattığı ancak TBMM tarafından tanınmayan ve hiçbir zaman yürürlüğe girmemiş bir antlaşmadır. Lozan ise Kurtuluş Savaşı'nın askerî zaferini diplomatik alana taşıyan, egemen ve bağımsız Türkiye'nin uluslararası alanda tanınmasını sağlayan bir antlaşmadır. Bu temel fark, Lozan'ı Türk diplomasi tarihinin en önemli belgelerinden biri yapmaktadır."
+     "aciklama": "Sevr Antlaşması (1920), galip devletlerin Osmanlı temsilcilerine imzalattığı ancak TBMM tarafından tanınmayan ve hiçbir zaman yürürlüğe girmemiş bir antlaşmadır. Lozan ise Kurtuluş Savaşı'nın askerî zaferini diplomatik alana taşıyan, egemen ve bağımsız Türkiye'nin uluslararası alanda tanınmasını sağlayan bir antlaşmadır. Bu temel fark, Lozan'ı Türk diplomasi tarihinin en önemli belgelerinden biri yapmaktadır.",
+     "zorluk": "orta"
     },
     {
      "id": "30671",
@@ -108,19 +109,20 @@
      "zorluk": "zor"
     },
     {
-     "id": "31158",
+     "id": "30402",
      "dersId": "tarih",
      "konuId": "osmanli_duraklama_gerileme",
-     "soru": "Osmanlı Devleti'nde 'Lale Devri' (1718–1730) döneminde aşağıdakilerin hangisi gerçekleşmemiştir?",
+     "soru": "Osmanlı ordusunda tımar sisteminin bozulmasının doğrudan neden olduğu gelişme aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Avrupa başkentlerine ilk kez sürekli Osmanlı elçilerinin gönderilmesi",
-      "Yeniçeri Ocağı'nın kaldırılarak Avrupa tarzında yeni bir ordunun kurulması",
-      "Kâğıt, kumaş ve çini imalathanelerinin açılması",
-      "Çiçek aşısı uygulamasının İstanbul'da yaygınlaştırılmaya başlanması",
-      "İlk Osmanlı matbaasının İbrahim Müteferrika tarafından kurulması"
+      "Kapıkulu sayısının azaltılması",
+      "Yeniçeri Ocağı'nın kapatılması",
+      "Deniz kuvvetlerinin kara kuvvetleri aleyhine güçlenmesi",
+      "Merkezi hazineye olan yükün artması ve eyalet düzeninin bozulması",
+      "Devşirme sisteminin işlevsiz hale gelmesi"
      ],
-     "dogru": 1,
-     "aciklama": "Lale Devri'nde matbaa kurulmuş (1727), Avrupa'ya elçiler gönderilmiş, Batı'dan çeşitli teknikler alınmaya çalışılmış ve ilk sivil sanayi girişimleri başlatılmıştır. Ancak Yeniçeri Ocağı'nın kaldırılması ve Avrupa tarzında yeni bir ordunun kurulması bu dönemde gerçekleşmemiştir; bu adım ancak II. Mahmut döneminde (1826'da Vaka-i Hayriye ile) atılmıştır. Lale Devri, 1730'daki Patrona Halil İsyanı ile sona ermiştir."
+     "dogru": 3,
+     "aciklama": "Tımar sistemi, sipahilerin toprağın gelirleri karşılığında devlete asker beslemesi esasına dayanıyordu. Bu sistemin bozulmasıyla birlikte sipahiler işlevsiz kaldı, eyaletlerdeki asayiş ve vergi düzeni çöktü. Boşalan görevi doldurmak için merkezi hazineden ücret alan kapıkulu ve paralı asker sayısı arttı; bu durum hazine üzerinde büyük baskı yarattı. Yeniçeri Ocağı'nın kapatılması çok daha sonraki bir dönemin (1826) ürünüdür.",
+     "zorluk": "orta"
     },
     {
      "id": "31464",
@@ -135,7 +137,8 @@
       "Müdafaa-i Hukuk cemiyetlerinin tek çatı altında birleştirilmesi"
      ],
      "dogru": 4,
-     "aciklama": "Erzurum Kongresi bölgesel nitelikte olup yalnızca doğu illerini temsil ediyordu; Temsil Heyeti bu kongrede kurulmuştu. Sivas Kongresi ise ulusal nitelikte olup tüm yurdu temsil eden ilk kongredir. Bölgesel nitelikteki tüm Müdafaa-i Hukuk cemiyetleri 'Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti' adı altında Sivas Kongresi'nde birleştirilmiştir. Bu, Sivas'a özgü en belirgin karardır. Manda ve himayenin reddi her iki kongrede de ele alınmıştır."
+     "aciklama": "Erzurum Kongresi bölgesel nitelikte olup yalnızca doğu illerini temsil ediyordu; Temsil Heyeti bu kongrede kurulmuştu. Sivas Kongresi ise ulusal nitelikte olup tüm yurdu temsil eden ilk kongredir. Bölgesel nitelikteki tüm Müdafaa-i Hukuk cemiyetleri 'Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti' adı altında Sivas Kongresi'nde birleştirilmiştir. Bu, Sivas'a özgü en belirgin karardır. Manda ve himayenin reddi her iki kongrede de ele alınmıştır.",
+     "zorluk": "orta"
     },
     {
      "id": "31763",
@@ -160,13 +163,13 @@
      "soru": "Namık Kemal'in 'Hürriyet Kasidesi'nde dile getirdiği düşünceler ile Şinasi'nin 'Tercüman-ı Ahval' gazetesindeki yazıları karşılaştırıldığında, Tanzimat aydınının Batı liberalizmini nasıl özümsediğine dair aşağıdaki çıkarımlardan hangisi en savunulabilir olanıdır?",
      "secenekler": [
       "Tanzimat aydını, bireysel özgürlük yerine vatanperver kolektif kimlik üzerinde yoğunlaşarak liberalizmi İslamcı ve Osmanlıcı söylemle yoğuran melez bir dil kurmuş; bu da Batılı anlamda sivil toplum talebinden ziyade siyasi katılım talebine yönelmesine yol açmıştır",
-      "Şinasi'nin gazetecilik faaliyetleri yalnızca edebi amaçlar taşıdığından siyasi liberalizmin yaygınlaşmasına herhangi bir katkı sağlamamış; asıl siyasallaşma Namık Kemal'in ardından gelen kuşakta gerçekleşmiştir",
+      "Şinasi'nin gazetecilik faaliyetleri yalnızca edebî amaçlar taşıdığından siyasi liberalizmin yaygınlaşmasına herhangi bir katkı sağlamamış; asıl siyasallaşma Namık Kemal'in ardından gelen kuşakta gerçekleşmiştir ve bu iki isim arasında düşünsel bir süreklilik yoktur",
       "Her iki aydın da Batı liberalizmini bütünüyle reddederek özgünlük söylemini Osmanlı-İslam geleneğine dayandırmış; hürriyeti Batılı değil tasavvufi bir kavram olarak konumlandırmıştır",
       "Namık Kemal Rousseau'yu ve Montesquieu'yü doğrudan aktararak tam anlamıyla laik bir cumhuriyet talebini dile getirmiş; Şinasi ise bunu anayasal monarşi çerçevesinde savunmuştur",
       "Her iki aydının Batı liberalizmine yaklaşımı özünde aynıdır; aralarındaki tek fark üslup ve yayın organı seçiminde gözlemlenebilmektedir"
      ],
      "dogru": 0,
-     "aciklama": "Tanzimat dönemi aydınları Batılı hürriyet ve anayasa kavramlarını kendi toplumsal zeminlerine uyarlamıştır. Namık Kemal'de 'vatan', 'millet' ve 'hürriyet' kavramları liberalizmin bireyci zemininden koparılarak kolektif/vatanperver bir çerçeveye oturtulmuştur. Hürriyet, kişisel özgürlükten çok siyasi katılım ve ulusal bağımsızlık anlamında kullanılmıştır. Şinasi ise modernleşmeyi dil ve basın aracılığıyla tabana yaymaya çalışmıştır. Bu melez yapı, Batılı liberalizmin bütünüyle aktarılmadığını; İslami ve Osmanlıcı söylemle yoğrulduğunu gösterir. A yanlıştır çünkü her ikisi de Batılı kavramlardan beslendi. E ise Namık Kemal'in cumhuriyetçi değil meşrutiyetçi olduğunu göz ardı etmektedir.",
+     "aciklama": "Namık Kemal ve Şinasi, Batı kaynaklı hürriyet, vatan, meşruiyet gibi kavramları doğrudan aktarmak yerine İslami ve Osmanlıcı bir söylemle yeniden yorumlamıştır. Bu melez dil, bireysel özgürlükten çok vatan ve toplum odaklı bir kimlik ile siyasi katılım talebini öne çıkarmıştır. \"Namık Kemal Rousseau'yu ve Montesquieu'yü doğrudan aktararak tam anlamıyla laik bir cumhuriyet talebini dile getirmiş\" seçeneği yanlıştır; Namık Kemal cumhuriyet değil, meşruti yönetimi savunmuş ve İslami referanslardan kopmamıştır. \"Her iki aydın da Batı liberalizmini bütünüyle reddederek...\" seçeneği de yanlıştır; çünkü Batı fikirlerinden yararlanmışlardır. Doğru cevap \"Tanzimat aydını, bireysel özgürlük yerine vatanperver kolektif kimlik üzerinde yoğunlaşarak\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -177,12 +180,12 @@
      "secenekler": [
       "Fetih, esas olarak Venedik'in Ege'deki üstünlüğüne son vermek amacıyla planlanmıştır",
       "Fetih, Osmanlı'nın Abbasilerin halefi olduğunu ilan etmesi açısından belirleyicidir",
-      "Fatih, fethi yalnızca Akdeniz ticaretini denetim altına almak amacıyla gerçekleştirmiştir",
+      "Fatih'in fethi yalnızca Akdeniz ticaretini denetim altına almak amacıyla gerçekleştirmiş olması",
       "Fetih, Osmanlı'nın İslam dünyasındaki manevi otoritesini pekiştirirken Doğu Roma İmparatorluğu mirasını devraldığı iddiasını da güçlendirmiştir",
-      "İstanbul'un fethi sonrası Fatih, Ortodoks kilisesini lağvederek Hristiyan nüfusu göçe zorlamıştır"
+      "İstanbul'un fethi sonrasında Fatih'in Ortodoks kilisesini lağvederek Hristiyan nüfusu toplu göçe zorlaması ve şehri yalnızca Müslümanlara açması"
      ],
      "dogru": 3,
-     "aciklama": "Fatih, İstanbul'u fethederek hem İslami 'Gaza' geleneğini sürdürmüş (Peygamber hadisindeki 'o ordu ne güzel ordu') hem de 'Kayser-i Rum' unvanını benimseyerek Bizans İmparatorluğu'nun evrensel mirasını devraldığını ileri sürmüştür. Bu çifte meşruiyet arayışı, Fatih'i döneminin en özgün siyasi aktörlerinden biri yapar. Patrikhanenin kaldırılmadığı, aksine yeni Ortodoks Patriği Gennadios'un Fatih tarafından atandığı bilinmektedir; D şıkkı bu nedenle yanlıştır.",
+     "aciklama": "Fetih, askerî başarının yanında Osmanlı'ya iki yönlü bir meşruiyet kazandırdı. İslam dünyasında İstanbul'un fethi, hadislerde müjdelenen bir olay olarak görüldüğünden Osmanlı'nın manevi saygınlığını artırdı. Fatih'in kendini 'Kayser-i Rum' olarak da nitelendirmesi, Doğu Roma mirasının devralındığı iddiasını güçlendirdi. \"Fetih, Osmanlı'nın Abbasilerin halefi olduğunu ilan etmesi açısından belirleyicidir\" seçeneği yanlıştır, çünkü Osmanlı'nın halifelik iddiası bu dönemde ortaya konmadı. \"İstanbul'un fethi sonrasında Fatih'in Ortodoks kilisesini lağvederek Hristiyan nüfusu toplu göçe zorlaması ve şehri yalnızca Müslümanlara açması\" seçeneği de yanlıştır, çünkü Fatih patrikhaneyi yeniden kurdu ve Hristiyanların şehirde kalmasını sağladı. Doğru cevap \"Fetih, Osmanlı'nın İslam dünyasındaki manevi otoritesini pekiştirirken Doğu Roma İmparatorluğu mirasını devraldığı iddiasını da güçlendirmiştir\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -214,7 +217,7 @@
       "Her üçünün de bölge halkının katılımıyla gerçekleştirilen uluslararası konferanslarda imzalanmış bağlayıcı antlaşmalar olması"
      ],
      "dogru": 0,
-     "aciklama": "Huseyni-McMahon Yazışmaları (1915-1916) Araplara bağımsız bir devlet vaat ederken; Sykes-Picot Antlaşması (1916) Orta Doğu'yu İngiliz ve Fransız nüfuz bölgelerine ayırıyordu; Balfour Deklarasyonu (1917) ise Filistin'de Yahudi yurdu kurulmasını destekliyordu. Bu üç belge birbiriyle açıkça çelişen vaatler içermekte ve hepsinin savaş koşullarının dayattığı stratejik hesaplarla şekillendiği görülmektedir. Diğer şıklar yanlıştır: üçü birden bağlayıcı uluslararası antlaşma statüsünde değildi (A), Fransız önceliklerini değil İngiliz stratejisini yansıtıyordu (C), Filistin dışındaki toprakları da kapsıyordu (D) ve Milletler Cemiyeti tarafından geçersiz sayılmadı (E).",
+     "aciklama": "Hüseyin-McMahon Yazışmaları (1915-1916) Araplara savaş sonrası bağımsızlık vaadi içerir. Sykes-Picot Antlaşması (1916) bölgeyi İngiltere ve Fransa arasında nüfuz alanlarına ayırır. Balfour Deklarasyonu (1917) ise Filistin'de Yahudi yurdu kurulmasını destekler. Üçü de savaş koşullarında şekillenmiştir ve birbiriyle çelişen vaatler içerir. Sykes-Picot İngiliz-Fransız-Rus görüşmeleriyle yapılmış gizli bir anlaşmadır, Balfour ise İngiliz hükûmetinin bir beyanıdır. Hiçbiri Paris'te hazırlanmış, bölge halkının katıldığı bir konferansta imzalanmış bağlayıcı metin değildir. \"Her üçünün de bölge halkının katılımıyla gerçekleştirilen uluslararası konferanslarda imzalanmış bağlayıcı antlaşmalar olması\" bu yüzden yanlıştır. Doğru cevap \"Her üçünün de savaş koşullarında şekillenmiş ve birbiriyle çelişen vaatler ya da düzenlemeler içeren belgeler olması\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -225,9 +228,9 @@
      "secenekler": [
       "Mübadele tamamen gönüllülük esasına dayandırılmış; hiçbir kimse zorunlu olarak yerinden edilmemiştir.",
       "Mübadele yalnızca Ege adalarındaki nüfusları kapsayan sınırlı bir uygulama olarak hayata geçirilmiştir.",
-      "İstanbul Rumları ve Batı Trakya Müslümanları mübadele kapsamına alınmış, yalnızca İzmir Rumları muaf tutulmuştur.",
+      "İstanbul Rumları ile Batı Trakya Müslümanları mübadele kapsamına alınmış, yalnızca İzmir Rumları muaf tutulmuştur.",
       "Mübadelede din temel kriter olarak belirlenmiş; bu yüzden Türkçe konuşan Ortodoks Hristiyanlar (Karamanlılar) Türkiye'den, Rumca konuşan Müslümanlar ise Yunanistan'dan göçe tabi tutulmuştur.",
-      "Mübadelede din değil, etnisite (dil/köken) esas kriter olarak kullanılmış; bu nedenle Türkçe konuşan Ortodokslar mübadeleden muaf tutulmuştur."
+      "Mübadelede din değil etnisite (dil ve köken) esas kriter olarak kullanıldığından Türkçe konuşan Ortodoks Hristiyanlar mübadele kapsamı dışında tutulmuş, yalnızca Rumca konuşan topluluklar göçe tabi tutulmuştur."
      ],
      "dogru": 3,
      "aciklama": "Lozan Sözleşmesi'nde nüfus mübadelesinin kriteri etnisite değil, din olarak belirlendi. Bu tercih son derece önemli ve tartışmalı sonuçlar doğurdu: Türkçeyi ana dil olarak kullanan ve kendini Türk olarak hisseden Ortodoks Hristiyanlar (Karamanlılar), Türkiye'den Yunanistan'a gönderildi. Öte yandan Rumca konuşan Müslümanlar (Giritliler gibi) Yunanistan'dan Türkiye'ye kabul edildi. İstanbul Rumları ve Heybeliada-Büyükada sakinleri ile Batı Trakya Müslümanları ise mübadeleden muaf tutuldu. Dinin etnik kimliğin önüne geçirilmesi, mübadeleyi hem insani hem de kimlik tartışmaları açısından son derece karmaşık bir süreç haline getirdi.",
@@ -240,13 +243,13 @@
      "soru": "Atatürk'ün kişisel belirleyiciliği, Türk modernleşmesinde lider faktörünü yapısal faktörlerin önüne geçiren 'büyük adam tarih anlayışı'nı doğrulamaktadır şeklindeki tarih tezi değerlendirildiğinde, bu görüşe en güçlü karşı argümanı hangisi oluşturur?",
      "secenekler": [
       "Atatürk'ün ideolojik mirasının salt bireysel bir tasarım değil, İttihat ve Terakki Cemiyeti'nin kolektif ürünü olması",
-      "Atatürk'ün Kurtuluş Savaşı sürecinde yalnızca bürokratik kararlar almış olması ve gerçek liderin Kazım Karabekir olması",
-      "Benzer modernleşme hamlelerinin Atatürk'ün sahneye çıkmasından önce İran ve Mısır'da da denenmiş ve başarıyla tamamlanmış olması",
+      "Atatürk'ün Kurtuluş Savaşı sürecinde yalnızca bürokratik kararlar almış olması ve gerçek liderin Kâzım Karabekir olması",
+      "Benzer modernleşme hamlelerinin Atatürk'ün siyaset sahnesine çıkmasından çok önce İran ve Mısır'da da denenmiş, üstelik bu ülkelerde başarıyla tamamlanarak kalıcı kurumsal sonuçlar doğurmuş olması; bu nedenle Türk deneyiminin özgün sayılamayacağı",
       "Atatürk'ün reformlarının çoğunun onun ölümünün ardından geri alınmış olması",
       "Tanzimat'tan bu yana süregelen bürokratik modernleşme birikiminin, Jön Türklerin kurumsal altyapısının ve birinci Dünya Savaşı'nın tetiklediği toplumsal dönüşümün bu reformlar için zorunlu yapısal zemini daha önceden hazırlamış olması"
      ],
      "dogru": 4,
-     "aciklama": "Yapısalcı tarih yorumu açısından en güçlü karşı argüman şudur: Osmanlı bürokrasisi, Tanzimat'tan (1839) bu yana Batılaşma yönünde kurumsal kapasite inşa etmekteydi; İttihat ve Terakki Cemiyeti laikleşme sürecini fiilen başlatmıştı; Birinci Dünya Savaşı ise geleneksel kurumları sarsarak yeniden yapılanmayı tarihsel bir zorunluluk haline getirdi. Bu açıdan Atatürk bu dönüşümü tek başına yaratan değil, onu hızlandırıp biçimlendiren ve kişisel kararlılığıyla siyasi olarak mümkün kılan isim olarak değerlendirilebilir. E seçeneği kısmen geçerlidir, ancak İTC'nin Atatürk'ün başardıklarının tümünü gerçekleştirebileceğini varsaymak fazla iddialıdır. C ve D seçenekleri ise tarihsel açıdan doğru değildir.",
+     "aciklama": "Büyük adam tarih anlayışı, tarihsel dönüşümü büyük ölçüde tek bir liderin iradesine bağlar. Buna en güçlü itiraz yapısal sürekliliği gösteren argümandır. Tanzimat'tan beri süren bürokratik modernleşme, askerî ve eğitim kurumlarında oluşan kadrolar, Jön Türklerin deneyimi ve Birinci Dünya Savaşı'nın yarattığı toplumsal dönüşüm, Cumhuriyet reformlarının zeminini önceden hazırlamıştır. Bu durum liderin etkisini yok saymaz ama yapısal faktörlerin belirleyici olduğunu gösterir. \"Atatürk'ün Kurtuluş Savaşı sürecinde yalnızca bürokratik kararlar almış olması ve gerçek liderin Kâzım Karabekir olması\" seçeneği yanlıştır; tarihsel olarak dayanaksızdır. \"Atatürk'ün reformlarının çoğunun onun ölümünün ardından geri alınmış olması\" seçeneği de yanlıştır; reformların çoğu kalıcı olmuştur. Doğru cevap \"Tanzimat'tan bu yana süregelen bürokratik modernleşme birikiminin...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -262,7 +265,8 @@
       "Komşu devletlerle sınır anlaşmazlıkları yerine iç göç dalgaları"
      ],
      "dogru": 3,
-     "aciklama": "İkili teşkilat (doğu-batı ya da kağan-yabgu gibi ikili yönetim), geniş Orta Asya bozkırlarının tek merkezden yönetilmesinin güçlüğünü aşmak amacıyla geliştirilmiş bir çözümdür. Ancak bu sistem, zamanla doğu ve batı kanatları arasında iktidar rekabetine, kağanı ve yabguyu destekleyen farklı hanedan grupları arasında çatışmalara yol açmış; böylece çözmek istediği merkezi otorite sorunundan çok daha yıkıcı bir hanedan içi parçalanma sorununu beraberinde getirmiştir."
+     "aciklama": "İkili teşkilat (doğu-batı ya da kağan-yabgu gibi ikili yönetim), geniş Orta Asya bozkırlarının tek merkezden yönetilmesinin güçlüğünü aşmak amacıyla geliştirilmiş bir çözümdür. Ancak bu sistem, zamanla doğu ve batı kanatları arasında iktidar rekabetine, kağanı ve yabguyu destekleyen farklı hanedan grupları arasında çatışmalara yol açmış; böylece çözmek istediği merkezi otorite sorunundan çok daha yıkıcı bir hanedan içi parçalanma sorununu beraberinde getirmiştir.",
+     "zorluk": "orta"
     },
     {
      "id": "31188",
@@ -277,7 +281,7 @@
       "Batı tekniğini alma → Batı kurumlarını alma → Eski kurumları diriltme"
      ],
      "dogru": 3,
-     "aciklama": "Osmanlı ıslahat tarihi üç aşamalı klasik bir seyir izler: (1) XVII. yüzyılda Koçi Bey, Katib Çelebi gibi düşünürler ve Köprülüler döneminde 'altın çağ'a dönüş' (eski kurumları diriltme), (2) XVIII. yüzyılda Lale Devri ve III. Selim ile teknik ve askeri yenilikler (Batı tekniğini alma), (3) XIX. yüzyılda Tanzimat ve Islahat Fermanları ile hukuki-idari Batı kurumlarının benimsenmesi. Bu çizgi A şıkkına karşılık gelir. Diğer sıralamalar tarihsel kronoloji ile çelişir.",
+     "aciklama": "Osmanlı ıslahat anlayışı üç aşamada gelişmiştir. 17. yüzyılda çözüm, bozulduğu düşünülen kanun-ı kadim düzenine, yani eski kurumların diriltilmesine dönmekte aranıyordu. 18. yüzyılda, özellikle Lale Devri ve sonrasında, yenilgilerin ardından Batı'nın askerî tekniği (matbaa, topçu, mühendislik) alınmaya başlandı. III. Selim'in Nizam-ı Cedid'i ve Tanzimat'la birlikte Batı'nın kurumları ve hukuku örnek alındı. \"Batı kurumlarını alma → Eski kurumları diriltme → Batı tekniğini alma\" seçeneği yanlıştır, çünkü Batı kurumlarının alınmasıyla başlamak, Osmanlı'nın önce geleneksel çözümlere sarıldığı gerçeğine ters düşer. \"Eski kurumları diriltme → Batı kurumlarını alma → Batı tekniğini alma\" seçeneği de teknik ile kurumların sırasını yanlış kurar. Doğru cevap \"Eski kurumları diriltme → Batı tekniğini alma → Batı kurumlarını alma\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -325,7 +329,8 @@
       "Osmanlıcılık yerine Türk milliyetçiliğinin temel ideoloji olarak kabul edilmesi"
      ],
      "dogru": 3,
-     "aciklama": "Namık Kemal, meşveret (danışma) ve hürriyet (özgürlük) gibi kavramların aslında İslam ilkelerinde de mevcut olduğunu savunmuştur. Batı'dan alınacak kurumların İslami değerlerle çelişmediğini, hatta bu değerlerin özüne uygun olduğunu göstermeye çalışmıştır. Bu düşünce yapısı onu hem Batıcılardan hem de salt gelenekçilerden ayırmaktadır. Osmanlıcılığı savunmuş, milliyetçiliğe karşı çıkmış; halifeliğin kaldırılmasını hiçbir zaman savunmamıştır."
+     "aciklama": "Namık Kemal, meşveret (danışma) ve hürriyet (özgürlük) gibi kavramların aslında İslam ilkelerinde de mevcut olduğunu savunmuştur. Batı'dan alınacak kurumların İslami değerlerle çelişmediğini, hatta bu değerlerin özüne uygun olduğunu göstermeye çalışmıştır. Bu düşünce yapısı onu hem Batıcılardan hem de salt gelenekçilerden ayırmaktadır. Osmanlıcılığı savunmuş, milliyetçiliğe karşı çıkmış; halifeliğin kaldırılmasını hiçbir zaman savunmamıştır.",
+     "zorluk": "orta"
     },
     {
      "id": "30562",
@@ -356,7 +361,8 @@
       "Hint Okyanusu'nda Gazneli deniz hakimiyetinin kurulması"
      ],
      "dogru": 1,
-     "aciklama": "Sultan Mahmud'un 1001-1027 yılları arasında gerçekleştirdiği 17 Hindistan seferi, siyasi açıdan kalıcı bir hâkimiyet sağlayamamış; ancak İslam'ın Hindistan'da yayılmasına önemli ölçüde zemin hazırlamıştır. Bu seferler sayesinde Müslüman nüfus artmış, medreseler inşa edilmiş ve İslam kültürü Hint alt kıtasında kök salmaya başlamıştır. Gazneliler deniz gücü bakımından zayıf bir devletti."
+     "aciklama": "Sultan Mahmud'un 1001-1027 yılları arasında gerçekleştirdiği 17 Hindistan seferi, siyasi açıdan kalıcı bir hâkimiyet sağlayamamış; ancak İslam'ın Hindistan'da yayılmasına önemli ölçüde zemin hazırlamıştır. Bu seferler sayesinde Müslüman nüfus artmış, medreseler inşa edilmiş ve İslam kültürü Hint alt kıtasında kök salmaya başlamıştır. Gazneliler deniz gücü bakımından zayıf bir devletti.",
+     "zorluk": "orta"
     },
     {
      "id": "31337",
@@ -380,9 +386,9 @@
      "konuId": "mudanya_lozan",
      "soru": "Lozan Konferansı'nın birinci oturumu (Kasım 1922 - Şubat 1923) başarısızlıkla kapanmış ve müzakereler kesilmiştir. Bu kesintinin en temel nedeni aşağıdakilerden hangisidir?",
      "secenekler": [
-      "ABD'nin konferansa tam üye olarak katılmak istemesi ve bunun diğer devletler tarafından reddedilmesi",
+      "ABD'nin konferansa tam üye olarak katılmak istemesi ve bu talebin diğer devletlerce reddedilmesi",
       "Yunanistan'ın nüfus mübadelesi konusunda müzakereyi tek taraflı olarak askıya alması",
-      "Fransa ile İtalya'nın konferansa yönelik tutumlarını değiştirerek İngiltere ile ortak cephe oluşturması",
+      "Fransa ile İtalya'nın konferansa yönelik tutumlarını ani biçimde değiştirerek İngiltere ile ortak bir cephe oluşturması ve Türk heyetini üç büyük devlet karşısında yalnız bırakması",
       "Türk heyetinin konferansı terk etmesi ve Ankara'ya dönmesi",
       "Özellikle kapitülasyonlar ve yabancı şirketlerin haklarına ilişkin İngiliz tasarısının Türk heyetince kabul edilemez bulunması ve uzlaşının sağlanamaması"
      ],
@@ -398,12 +404,12 @@
      "secenekler": [
       "Hilafet kurumunun saltanatla özdeşleştiği için cumhuriyet ilkeleriyle bağdaşmadığı",
       "Halifenin varlığının yabancı güçlere Türkiye'nin iç işlerine müdahale fırsatı tanıdığı",
-      "Halifenin İngilizlerle iş birliği yaparak ulusal egemenliği zedelediğine dair kaygıların bulunduğu",
+      "Halifenin İngilizlerle iş birliği yaparak ulusal egemenliği zedelediğine dair yaygın kaygıların bulunması ve bu kaygıların meclis kürsüsünde dile getirilmesi",
       "İslam dünyasının birleşik bir hilafet altında toplanması gerektiği ve Türkiye'nin bu liderliği üstlenebileceği",
-      "Halifeliğin fiilen işlevsiz kaldığı ve Türkiye Büyük Millet Meclisi'nin otoritesiyle çeliştiği"
+      "Halifeliğin fiilen işlevsiz kaldığı ve TBMM'nin otoritesiyle doğrudan çeliştiği"
      ],
      "dogru": 3,
-     "aciklama": "Mustafa Kemal halifeliğin kaldırılması sürecinde 'İslam dünyası Türkiye liderliğinde birleşmeli' argümanını hiçbir zaman sahiplenmemiştir; aksine bu tür bir Pan-İslamcı yaklaşımı açıkça reddetmiştir. Öne çıkardığı gerekçeler şunlardır: Halifenin egemen bir devlet gücüne sahip olmaksızın varlığını sürdürmesinin kurumu işlevsiz kıldığı (A ve D), yabancı müdahaleye kapı araladığı (A) ve TBMM egemenliğiyle çeliştiği (D). Halife Abdülmecid'in İngilizlerle temas içinde olduğuna dair kaygılar da tartışmalarda yer almıştır (E). Pan-İslamcı bir 'Türk halifeliği' projesi ise Kemalist laiklik anlayışıyla doğrudan çeliştiğinden hiçbir zaman savunulmamıştır.",
+     "aciklama": "Halifeliğin kaldırılmasında öne sürülen gerekçeler, kurumun cumhuriyet ve ulusal egemenlik ilkeleriyle bağdaşmaması üzerine kuruluydu. Hilafetin saltanatla özdeşleşmesi, yabancı güçlerin halifelik üzerinden iç işlere karışma ihtimali ve kurumun fiilen işlevsiz kalıp TBMM otoritesiyle çelişmesi öne sürülen argümanlardandır. Buna karşılık Türkiye'nin İslam dünyasını birleşik bir hilafet altında toplayıp bu liderliği üstlenmesi, kaldırma gerekçesiyle zaten çelişir; çünkü amaç kurumu sona erdirmekti. Bu nedenle bu argüman öne çıkarılmamıştır. \"Hilafet kurumunun saltanatla özdeşleştiği için cumhuriyet ilkeleriyle bağdaşmadığı\" seçeneği öne sürülen gerekçelerden biridir, bu yüzden sorunun kökündeki \"öne çıkarmadığı\" ifadesine uymaz. \"Halifenin varlığının yabancı güçlere Türkiye'nin iç işlerine müdahale fırsatı tanıdığı\" seçeneği de aynı şekilde kullanılan bir gerekçedir. Doğru cevap \"İslam dünyasının birleşik bir hilafet altında toplanması gerektiği ve Türkiye'nin bu liderliği üstlenebileceği\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -412,14 +418,14 @@
      "konuId": "i_lk_turk_devletleri",
      "soru": "Türk devlet geleneğinde 'ülüş' (miras bölüşümü) ilkesi, ölen kağanın topraklarının erkek evlatları arasında paylaştırılmasını öngörür. Bu ilkenin işlevsel sonuçları değerlendirildiğinde aşağıdaki çıkarımların hangisi yanlıştır?",
      "secenekler": [
-      "Merkezi otoritenin her kuşakta yeniden yapılanma baskısıyla karşı karşıya kalması",
+      "Merkezî otoritenin her kuşakta yeniden yapılanma ve meşruiyet baskısıyla karşı karşıya kalması",
       "Hanedan içi taht mücadelelerinin yapısal bir zemine kavuşması",
       "Türk devletlerinin bu ilkeyi terk etmelerinin ardından kalıcı merkezi monarşiler kurduğunu tarihsel verilerin açıkça ortaya koyması",
       "Devletin ömrünü uzatmak yerine kısaltan kurumsal bir zafiyet üretmesi",
-      "Komşu güçlerin (özellikle Çin'in) bu bölünmeleri dış müdahale fırsatı olarak kullanması"
+      "Komşu güçlerin, özellikle Çin'in, bu bölünmeleri sistematik biçimde dış müdahale ve kışkırtma fırsatı olarak kullanarak parçalanmayı derinleştirmesi"
      ],
      "dogru": 2,
-     "aciklama": "D şıkkı yanlıştır; Türk devletlerinin 'ülüş' ilkesini terk etmelerinin ardından kalıcı merkezi monarşiler kurduğuna dair genel ve net bir tarihsel örüntü yoktur. Öte yandan, 'ülüş'ün merkezi otoriteyi zayıflattığı (A ve C), taht çatışmalarına zemin hazırladığı (B) ve Çin tarafından istismar edildiği (E) iyi belgelenmiş tarihsel çıkarımlardır. D şıkkındaki 'açıkça ortaya koyma' ifadesi hem aşırı geneldir hem de tarihsel kanıtlarla desteklenmez.",
+     "aciklama": "Ülüş anlayışında egemenlik hanedanın ortak hakkı sayıldığı için kağanın ölümü taht mücadelelerine ve bölünmelere yol açabiliyordu. Bu nedenle her kuşakta otorite yeniden kurulmak zorunda kalıyor, devletin ömrü kısalıyor ve dış güçlere müdahale fırsatı doğuyordu. Bu çıkarımlar ilkenin işlevsel sonuçlarıyla uyumludur. Yanlış olan çıkarım \"Türk devletlerinin bu ilkeyi terk etmelerinin ardından kalıcı merkezi monarşiler kurduğunu tarihsel verilerin açıkça ortaya koyması\" yargısıdır. Tarihsel veriler bu genellemeyi açıkça ortaya koymaz. Ülüş anlayışının terk edilmesiyle kalıcı merkezî monarşilerin kurulması arasında kesin bir sebep-sonuç ilişkisi gösterilemez, çünkü sonraki dönemlerde de bölünmeler yaşanmıştır. Doğru cevap \"Türk devletlerinin bu ilkeyi terk etmelerinin ardından kalıcı merkezi monarşiler kurduğunu\" ifadesini taşıyan seçenektir.",
      "zorluk": "zor"
     },
     {
@@ -430,7 +436,7 @@
      "secenekler": [
       "Topçu birliklerinin oluşturulması",
       "Yeniçeri Ocağı'na Müslüman Türklerin alınmaya başlanması ve ocağın disiplinini yitirmesi",
-      "Eyalet idaresinde Hristiyan nüfusun azalması",
+      "Eyalet idaresinde Hristiyan nüfusun belirgin biçimde azalması ve demografik dengenin değişmesi",
       "Osmanlı donanmasının zayıflaması",
       "Vergi gelirlerinin düşmesi"
      ],
@@ -461,13 +467,14 @@
      "soru": "Türk siyasi tarihinde 'kohabitasyon' (birlikte yaşama) kavramı hangi durumu tanımlamak için kullanılmaktadır?",
      "secenekler": [
       "Askerî ve sivil yönetimin aynı anda görevde bulunması",
-      "Bir siyasi partinin hem iktidarda hem de muhalefette temsil edilmesi",
+      "Bir siyasi partinin aynı dönemde hem iktidarda hem de muhalefette temsil edilmesi durumu",
       "Farklı siyasi partilerden gelen cumhurbaşkanı ile başbakanın aynı dönemde görev yapması",
       "İki büyük siyasi partinin seçimlerden önce resmî ittifak kurması",
       "İki farklı partinin aynı seçim bölgesinde ortaklaşa aday göstermesi"
      ],
      "dogru": 2,
-     "aciklama": "Kohabitasyon, köken itibarıyla Fransız siyasi sistemine ait bir kavram olmakla birlikte Türk siyasetinde de kullanılmaktadır. Cumhurbaşkanı'nın bir partiden, başbakanın ise farklı bir siyasi yapıdan olduğu ve bu durumun yürütme içinde gerilim yarattığı dönemleri tanımlar. Türkiye'de bu olgu özellikle 2000'li yıllarda, Ahmet Necdet Sezer ile AKP hükümeti arasındaki ilişkiler bağlamında tartışılmıştır. Doğru yanıt B'dir."
+     "aciklama": "Kohabitasyon, Fransız siyasetinden gelen ve yürütmenin iki kanadının farklı siyasi çizgilerden kişilerce yönetildiği durumu anlatan bir kavramdır. Türk siyasi tarihinde de bu kavram, farklı siyasi partilerden gelen cumhurbaşkanı ile başbakanın aynı dönemde görev yapması durumunu tanımlamak için kullanılır. Buna en çok verilen örnek, ANAP kökenli Cumhurbaşkanı Turgut Özal ile DYP Genel Başkanı Başbakan Süleyman Demirel'in 1991-1993 yılları arasında birlikte görev yaptığı dönemdir. Diğer seçenekler ise ittifak, ortak adaylık ya da askerî-sivil yönetim gibi farklı kavramlarla ilgilidir ve kohabitasyonun anlamını karşılamaz.",
+     "zorluk": "orta"
     },
     {
      "id": "30459",
@@ -482,7 +489,8 @@
       "Kanun yapımını padişahın tek taraflı iradesinden kısmen bağımsızlaştırması"
      ],
      "dogru": 4,
-     "aciklama": "Meclis-i Ahkâm-ı Adliye, kanunları padişahın tek başına değil belirli bir kurul aracılığıyla hazırlanmasını sağlayarak yürütme ve yasama işlevlerini fiilen birbirinden ayırmaya başlamıştır. Bu yönüyle Osmanlı'da 'hukuk devleti' anlayışına geçişin ilk adımlarından biri sayılır. Seçimle oluşturulmamış, şer'i mahkemeleri kaldırmamış; Hristiyan tebaaya eşit temsil vermemiştir. Anayasa hazırlamakla da görevlendirilmemiştir."
+     "aciklama": "Meclis-i Ahkâm-ı Adliye, kanunları padişahın tek başına değil belirli bir kurul aracılığıyla hazırlanmasını sağlayarak yürütme ve yasama işlevlerini fiilen birbirinden ayırmaya başlamıştır. Bu yönüyle Osmanlı'da 'hukuk devleti' anlayışına geçişin ilk adımlarından biri sayılır. Seçimle oluşturulmamış, şer'i mahkemeleri kaldırmamış; Hristiyan tebaaya eşit temsil vermemiştir. Anayasa hazırlamakla da görevlendirilmemiştir.",
+     "zorluk": "orta"
     }
    ]
   }

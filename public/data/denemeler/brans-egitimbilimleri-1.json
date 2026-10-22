@@ -19,10 +19,10 @@
      "soru": "Aşağıdakilerden hangisi 'öğrenci merkezli program' anlayışının temel özelliğidir?",
      "secenekler": [
       "Konuların akademik disiplinlere göre sıralanması",
-      "İçeriğin merkezi otorite tarafından belirlenmesi",
+      "İçeriğin merkezî otorite tarafından belirlenmesi",
       "Ulusal sınav başarısının esas alınması",
       "Öğrencinin ilgi, ihtiyaç ve deneyimlerinin ön plana çıkarılması",
-      "Öğretmenin bilgi aktarıcı rolünün güçlendirilmesi"
+      "Öğretmenin bilgi aktarıcı rolünün güçlendirilmesi ve öne çıkarılması"
      ],
      "dogru": 3,
      "aciklama": "Öğrenci merkezli program anlayışında programın odak noktası akademik disiplinler ya da toplumsal beklentiler değil, öğrencinin kendisidir. Öğrencinin ilgileri, ihtiyaçları, yaşantıları ve aktif katılımı ön planda tutulur. Bu anlayış ilericicilik (progressivism) felsefesiyle örtüşür.",
@@ -50,14 +50,14 @@
      "konuId": "davranis_yonetimi",
      "soru": "Öğretmen Aylin, sınıfında olumlu pekiştirme kullandığını düşünmektedir. Ancak sınıf gözlemi sırasında şu tablo dikkat çekmektedir: Öğretmen, bir öğrencinin soru sormasının ardından 'Evet, güzel soru' demekte; ancak öğrencilerin soru sorma sıklığı haftalarca değişmemektedir. Bu durumun nedeni ve öğretmenin yapması gereken değişiklik aşağıdakilerden hangisinde en doğru biçimde açıklanmıştır?",
      "secenekler": [
-      "'Güzel soru' ifadesi kişisel övgü içerdiğinden öğrencilerde değerlendirme kaygısı oluşturmaktadır; pekiştireç kaldırılmalıdır.",
+      "'Güzel soru' ifadesi kişisel bir övgü içerdiğinden öğrencilerde değerlendirilme kaygısı oluşturmaktadır; bu nedenle pekiştireç tümüyle kaldırılmalıdır.",
       "Sözel onay dışsal bir pekiştireç olduğundan içsel motivasyonu baskılamaktadır; ödüller tamamen kaldırılmalıdır.",
       "Sabit oranlı pekiştirme takvimi uygulandığından davranış plato yapmıştır; değişken oranlı takvime geçilmelidir.",
-      "Öğrenciler alışma (habituation) geliştirdiğinden sözel pekiştireç etkisiz hale gelmiştir; sönme sonrası geri kazanım beklenerek beklenmesi gerekir.",
+      "Öğrenciler alışma (habituation) geliştirdiğinden sözel pekiştireç etkisiz hâle gelmiştir; sönme sonrası kendiliğinden geri kazanım olacağı düşünülerek beklenmesi gerekmektedir. Bu süreçte öğretmenin ek bir düzenleme yapmasına gerek bulunmamaktadır. Bu süreçte öğretmenin herhangi bir ek düzenleme yapmasına gerek bulunmamaktadır.",
       "Sözel onay gerçek anlamda pekiştireç işlevi görmüyor olabilir; çünkü pekiştireç tanımı davranış sıklığını artıran uyarıcıdır. Öğretmen davranışa özgü, anlamlı ve zamanında geri bildirim vermeli; işlevsel pekiştireç türlerini sistematik biçimde belirlemelidir."
      ],
      "dogru": 4,
-     "aciklama": "Operant koşullanma ilkesine göre pekiştireç, yalnızca hedef davranışın sıklığını, yoğunluğunu ya da süresini artıran uyarıcı olarak tanımlanır. Davranış sıklığı değişmiyorsa kullanılan uyarıcı işlevsel bir pekiştireç değildir; bu bir korelasyon yanılsamasıdır. Öğretmen 'pekiştirme yaptığını' düşünse de sonuç bunu doğulamamaktadır. Etkili pekiştirme için uyarıcının davranışa özgü (behavior-specific praise), hemen verilmiş ve öğrenci için gerçekten değer taşıyan bir şey olması gerekir. A şıkkı aşırı yorum içermekte, pekiştireçlerin tamamen kaldırılması önermesi yanlıştır. D şıkkındaki habituation (alışma) kavramı pekiştireç için değil duyusal uyarıcılar için kullanılır. E şıkkı takvim sorununu gündeme getirmektedir; ancak asıl sorun takvimleme değil, kullanılan uyarıcının pekiştireç niteliği taşıyıp taşımadığıdır.",
+     "aciklama": "Pekiştireç, işlevi ile tanımlanır: kendinden sonra gelen davranışın sıklığını artıran sonuçtur. Öğrencilerin soru sorma sıklığı haftalarca değişmediğine göre \"Evet, güzel soru\" ifadesi bu öğrenciler için işlevsel bir pekiştireç olmayabilir. Ayrıca ifade genel ve ayrıntısızdır. Öğretmen davranışa özgü, anlamlı ve zamanında geri bildirim vermeli, hangi sonuçların gerçekten işlev gördüğünü sistematik biçimde belirlemelidir. \"Sabit oranlı pekiştirme takvimi uygulandığından davranış plato yapmıştır; değişken oranlı takvime geçilmelidir.\" seçeneği yanlıştır; çünkü senaryoda bir takvim tanımlanmamıştır ve öğretmen her soruya aynı yanıtı vermektedir. \"Sözel onay dışsal bir pekiştireç olduğundan içsel motivasyonu baskılamaktadır; ödüller tamamen kaldırılmalıdır.\" seçeneği de yanlıştır; çünkü sözel geri bildirim çoğu zaman bilgilendirici işlev görür ve kaldırılması gerekmez. Doğru cevap \"Sözel onay gerçek anlamda pekiştireç işlevi görmüyor olabilir\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -85,8 +85,8 @@
       "Doll'un 'özyineleme (recursion)' kriteri, Tyler'ın hedef-değerlendirme hattındaki doğrusal ilerlemenin tam tersine, bilginin yinelemeli ve spiral biçimde yapılandırılmasını savunur.",
       "Postmodern kuram, programın önceden tasarlanmasına karşı çıkmadığı için Tyler modeliyle temelden bir çelişki yaşanmaz.",
       "Doll'un 'aşırılık (rigor)' kriteri, Tyler'ın psikoloji süzgecindeki ölçme-değerlendirme anlayışıyla birebir örtüşmektedir.",
-      "Doll'un 'zenginlik (richness)' kriteri, Tyler'daki içerik kapsamıyla (scope) eşdeğerdir; dolayısıyla iki model bu boyutta örtüşür.",
-      "Tyler'ın modeli Doll'un 'ilişkisellik (relation)' kriterini örtülü biçimde karşılar çünkü her ikisi de disiplinler arası bağlantıları esas alır."
+      "Doll'un 'zenginlik (richness)' ölçütü, Tyler'ın modelindeki içerik kapsamıyla (scope) eşdeğerdir; dolayısıyla iki model bu boyutta tümüyle örtüşmektedir.",
+      "Tyler'ın modeli Doll'un 'ilişkisellik (relation)' ölçütünü örtülü biçimde karşılamaktadır; çünkü her iki yaklaşım da disiplinler arası bağlantıları esas almaktadır; dolayısıyla iki model arasında gerçek bir karşıtlık yoktur."
      ],
      "dogru": 0,
      "aciklama": "William Doll'un postmodern 4R çerçevesi (Richness, Recursion, Relations, Rigor), Tyler rasyonelinin doğrusal hedef-içerik-yöntem-değerlendirme hattına karşı çıkar. 'Özyineleme (recursion)' kriteri, öğrenmenin doğrusal değil, önceki bilgilere geri dönerek ve onları dönüştürerek gerçekleştiğini savunur; bu da Tyler'ın hedeften değerlendirmeye uzanan tek yönlü akışıyla çelişir. Diğer seçenekler iki modeli yanlış biçimde ilişkilendirmekte ya da çelişkiyi gizlemektedir.",
@@ -100,9 +100,9 @@
      "secenekler": [
       "Bireyin sosyal çevresiyle etkileşiminden doğan değişimler",
       "Genetik programlama sonucunda ortaya çıkan, çevrenin etkisinden büyük ölçüde bağımsız olan biyolojik gelişim süreci",
-      "Öğrenme yoluyla gerçekleşen kalıcı davranış değişiklikleri",
+      "Öğrenme ve yaşantı yoluyla gerçekleşen kalıcı davranış değişiklikleri",
       "Bireyin kendi çabasıyla geliştirdiği beceriler",
-      "Çevresel uyarıcıların etkisiyle kazanılan davranış değişiklikleri"
+      "Çevresel uyarıcıların etkisiyle kazanılan kalıcı davranış değişiklikleri ve bunların çevre tarafından biçimlendirilmesi süreci"
      ],
      "dogru": 1,
      "aciklama": "Olgunlaşma, bireyin genetik mirasının belirlediği ve biyolojik bir takvime göre kendiliğinden ortaya çıkan gelişim süreçlerini kapsar. Örneğin yürüme, konuşma ve ergenlik bu süreçlere dahildir. Olgunlaşma için uygun çevresel koşullar gerekli olsa da sürecin kendisi ağırlıklı olarak içten kontrol edilir. Öğrenme ise çevreyle etkileşim sonucu oluşan kalıcı davranış değişikliklerini ifade eder.",
@@ -153,7 +153,8 @@
       "Soru-cevap yöntemi"
      ],
      "dogru": 0,
-     "aciklama": "Problem çözme yöntemi; problemi tanıma, hipotez kurma, veri toplama, hipotezi test etme ve sonuca ulaşma basamaklarını içerir. Dewey'in yansıtıcı düşünme anlayışıyla örtüşen bu yöntemde öğrenci bilimsel süreç becerilerini aktif olarak kullanır. Anlatım ve soru-cevap yöntemleri daha pasif bir öğrenci rolü öngörür; rol oynama ise duyuşsal ve sosyal becerilere yönelik farklı bir uygulamadır."
+     "aciklama": "Problem çözme yöntemi; problemi tanıma, hipotez kurma, veri toplama, hipotezi test etme ve sonuca ulaşma basamaklarını içerir. Dewey'in yansıtıcı düşünme anlayışıyla örtüşen bu yöntemde öğrenci bilimsel süreç becerilerini aktif olarak kullanır. Anlatım ve soru-cevap yöntemleri daha pasif bir öğrenci rolü öngörür; rol oynama ise duyuşsal ve sosyal becerilere yönelik farklı bir uygulamadır.",
+     "zorluk": "orta"
     },
     {
      "id": "201748",
@@ -168,7 +169,8 @@
       "Demokratik öğretmen, otoriter öğretmen, pasif öğretmen."
      ],
      "dogru": 1,
-     "aciklama": "Canter'ın modelinde öğretmenler üç şekilde sınıflandırılır: kararlı (assertive) öğretmen haklar konusunda net sınır koyar ve tutarlıdır; düşmanca (hostile) öğretmen olumsuz, baskıcı ve cezacıdır; çekingen (non-assertive) öğretmen ise kuralları uygulamakta kararsız ve etkisizdir. Doğru yanıt B'dir."
+     "aciklama": "Canter'ın modelinde öğretmenler üç şekilde sınıflandırılır: kararlı (assertive) öğretmen haklar konusunda net sınır koyar ve tutarlıdır; düşmanca (hostile) öğretmen olumsuz, baskıcı ve cezacıdır; çekingen (non-assertive) öğretmen ise kuralları uygulamakta kararsız ve etkisizdir. Doğru yanıt B'dir.",
+     "zorluk": "orta"
     },
     {
      "id": "200852",
@@ -176,8 +178,8 @@
      "konuId": "ogretim_teknolojileri",
      "soru": "Bir öğretim tasarımcısı, uzaktan eğitim ortamı için bir kurs hazırlamaktadır. Merrill'in İlk İlkeler Modeli'ni (First Principles of Instruction) temel almaktadır. Tasarımcı aşağıdaki unsurların hepsini kursa eklemiştir, ancak Merrill'in modeliyle doğrudan çelişen tek bir karar almıştır. Bu karar hangisidir?",
      "secenekler": [
-      "Öğrenciler öğrendiklerini gerçek yaşama transfer eden bütünleştirme etkinliklerine katılmıştır.",
-      "Yeni bilgi, öğrencilerin önceki yaşantılarıyla ilişkilendirilerek etkinleştirilmiştir.",
+      "Öğrenciler öğrendiklerini gerçek yaşama transfer eden bütünleştirme etkinliklerine etkin biçimde katılmış ve süreci tamamlamıştır.",
+      "Yeni bilgi, öğrencilerin önceki yaşantılarıyla ilişkilendirilerek başarılı biçimde etkinleştirilmiştir.",
       "Tüm içerik öğretmen tarafından doğrudan aktarılmış, öğrenciler herhangi bir uygulama veya gösteri ile karşılaştırılmamıştır.",
       "Öğrencilere yeni bilgi hem sözel hem de görsel örneklerle gösterilmiştir.",
       "Kursun başında öğrencilerin çözecekleri gerçek bir problem sunulmuştur."
@@ -199,7 +201,8 @@
       "Velinin çocuğunu daha sıkı denetlemesini sağlayarak olumlu davranış değişimine yol açar."
      ],
      "dogru": 1,
-     "aciklama": "İletişimde 'asla', 'hiçbir zaman', 'her zaman' gibi mutlakiyetçi genellemeler, alıcıda savunmacılık ve direnç yaratır. Veli bu tür ifadeleri duyduğunda çocuğunu koruma güdüsüyle öğretmene karşı savunmacı bir tutum benimser ve işbirliği kurmaktan kaçınabilir. Etkili aile-okul iletişiminde öğretmenin somut, gözlemlenebilir davranışlara odaklanması; 'Bu haftaki üç ödevden ikisini teslim etmedi' gibi spesifik ifadeler kullanması, velinin işbirliğine yönelik motivasyonunu artırır. Mutlakiyetçi ifadeler, iletişimde yıkıcı bir işlev üstlenir."
+     "aciklama": "İletişimde 'asla', 'hiçbir zaman', 'her zaman' gibi mutlakiyetçi genellemeler, alıcıda savunmacılık ve direnç yaratır. Veli bu tür ifadeleri duyduğunda çocuğunu koruma güdüsüyle öğretmene karşı savunmacı bir tutum benimser ve işbirliği kurmaktan kaçınabilir. Etkili aile-okul iletişiminde öğretmenin somut, gözlemlenebilir davranışlara odaklanması; 'Bu haftaki üç ödevden ikisini teslim etmedi' gibi spesifik ifadeler kullanması, velinin işbirliğine yönelik motivasyonunu artırır. Mutlakiyetçi ifadeler, iletişimde yıkıcı bir işlev üstlenir.",
+     "zorluk": "orta"
     },
     {
      "id": "202188",
@@ -209,12 +212,12 @@
      "secenekler": [
       "Zeynep iç çatışma yaşadığından psikanalitik bir çerçevede id-superego çatışması incelenmeli ve serbest çağrışım tekniğiyle bilinçdışı kariyer motivasyonları keşfedilmelidir.",
       "Zeynep'in kariyer kararındaki belirsizlik bir gelişim görevi olarak ele alınmalı; Super'ın araştırma (exploration) evresinde olduğu kabul edilmeli ve kimlik keşfine odaklanılmalıdır.",
-      "Zeynep'in ilgi alanları kalıcı ve değişmez kişilik özellikleri olduğundan, danışman Holland'ın RIASEC tipolojisini kullanarak sanat tipini doğrulamalı ve bu doğrultuda meslek seçmesini önermedir.",
+      "Zeynep'in ilgi alanları kalıcı ve değişmez kişilik özellikleri olduğundan, danışman Holland'ın RIASEC tipolojisini kullanarak sanat tipini doğrulamalı ve bu doğrultuda bir meslek seçmesini önermelidir.",
       "Zeynep'in mühendisliğe yönelik olumsuz inançları, muhtemelen geçmişteki gözlem deneyimleri ve pekiştireç tarihçesinin ürünüdür; danışman bu öğrenilmiş inançları ve aile baskısının nasıl bir genelleme (generalization) yarattığını keşfetmeli, ardından bu inançların test edilmesine yardımcı olmalıdır.",
-      "Zeynep'in aile ile çatışması, bağlanma sisteminin tehdit altına girdiğini göstermektedir; danışman bu bağlanma örüntüsüne odaklanmalı ve Zeynep'in güvenli bağlanma geliştirmesine yardım etmelidir."
+      "Zeynep'in ailesiyle yaşadığı çatışma, bağlanma sisteminin tehdit altına girdiğini göstermektedir; danışman bu bağlanma örüntüsüne odaklanmalı ve Zeynep'in güvenli bağlanma geliştirmesine yardımcı olmalıdır. Bu çalışma, Zeynep'in aile ilişkilerini yeniden düzenlemesine ve kaygısını azaltmasına da katkı sağlayacaktır."
      ],
      "dogru": 3,
-     "aciklama": "Krumboltz'un Sosyal Öğrenme Kariyer Karar Verme Kuramı'na göre kariyer kararları; genetik-doğuştan özellikler, çevresel koşullar ve olaylar, öğrenme deneyimleri (araçsal ve gözlemsel) ve görev yaklaşım becerileri tarafından şekillendirilir. Birey çevresini gözlemleyerek ve sosyal pekiştirme yoluyla kendisi ve dünya hakkında inançlar (self-observation generalizations ve world-view generalizations) geliştirir. Bu çerçevede Zeynep'in mühendisliğe ya da sanat alanına yönelik inançları ailesinin pekiştirme örüntüleri ve gözlem deneyimlerinin ürünüdür. Danışmanın görevi bu inançların kökenini keşfetmek ve doğruluğunu sorgulamaktır. A Holland kuramına aittir. B Super kuramına aittir. D bağlanma kuramına aittir. E psikanalize aittir. Doğru yanıt C'dir.",
+     "aciklama": "Krumboltz'un Sosyal Öğrenme Kariyer Karar Verme Kuramı, kariyer tercihlerinin doğuştan ve değişmez özelliklerden değil; genetik etkenler, çevresel koşullar, doğrudan ve dolaylı (gözleme dayalı) öğrenme deneyimleri ile pekiştireç geçmişinden doğduğunu savunur. Bu nedenle doğru yaklaşım şudur: Zeynep'in mühendisliğe yönelik olumsuz inançları, muhtemelen geçmişteki gözlem deneyimleri ve pekiştireç tarihçesinin ürünüdür; danışman bu öğrenilmiş inançları ve aile baskısının nasıl bir genelleme (generalization) yarattığını keşfetmeli, ardından bu inançların test edilmesine yardımcı olmalıdır. Kuramdaki 'öz-gözlem genellemeleri' ve 'dünya görüşü genellemeleri' kavramları, bireyin kendisi ve meslekler hakkında öğrenme yoluyla edindiği inançları anlatır; danışmanın görevi de bu inançları fark ettirip yeni öğrenme fırsatlarıyla sınamaktır. Diğer seçenekler ise psikanalitik kurama, Super'ın gelişimsel kuramına, Holland'ın tipoloji kuramına ve bağlanma kuramına aittir; bu nedenle Krumboltz'un bakış açısını yansıtmaz.",
      "zorluk": "zor"
     },
     {
@@ -230,7 +233,7 @@
       "IRT'de madde parametreleri (güçlük, ayırt edicilik, şans) teorik olarak örnekten bağımsızdır (sample-free calibration); bu özellik KTT'de bulunmaz."
      ],
      "dogru": 2,
-     "aciklama": "C şıkkı yanlıştır. IRT, öğrencilerin aynı yanıt örüntüsünü göstereceğini varsaymaz; tam tersine IRT'nin temel amacı her bireyin yetenek düzeyi (theta) ile her maddenin özellikleri (güçlük, ayırt edicilik, şans parametreleri) arasındaki olasılıksal ilişkiyi modellemektir. Farklı yetenek düzeyindeki bireylerin belirli bir maddeyi doğru yanıtlama olasılıkları, madde karakteristik eğrisi (ICC) ile gösterilir. IRT bireysel farklılıkları KTT'den çok daha ayrıntılı biçimde modelleyebilir. Diğer şıklar (A, B, D, E) IRT ve KTT arasındaki farklara ilişkin doğru ifadeler içermektedir.",
+     "aciklama": "Madde Tepki Teorisi, bireyin örtük özelliği ile maddeye doğru yanıt verme olasılığı arasındaki ilişkiyi modeller. Her öğrencinin tüm maddelere aynı yanıt örüntüsünü göstereceğini varsaymaz. Tersine, yanıt olasılığı yetenek düzeyine göre değişir. Bu nedenle bireysel farklılıkları KTT'den daha iyi modelleyemeyeceği iddiası yanlıştır. Tek boyutluluk varsayımı IRT'nin temel varsayımlarındandır. KTT'de yetenek tahmininin teste bağlı olması doğrudur. IRT'de madde parametrelerinin örnekten bağımsız olması, modelin uyduğu durumda teorik olarak doğrudur. Doğru cevap \"IRT, her öğrencinin tüm maddelere aynı yanıt örüntüsünü göstereceğini varsayar\" ifadesini içeren seçenektir.",
      "zorluk": "zor"
     },
     {
@@ -243,10 +246,10 @@
       "Posterlerin içerik kalitesinin düşük olduğuna ve öğrencilerin ilgisini çekmediğine",
       "Öğretmenin süreci yeterince yapılandırmadığına ve açık uçlu bıraktığına",
       "Öğrencilerin galeri yürüyüşü tekniğine yönelik yeterli ön hazırlık yapmadığına",
-      "Tekniğin sınıf boyutu için uygun olmadığına ve fiziksel düzenlemenin yetersizliğine"
+      "Tekniğin sınıf mevcudu için uygun olmadığına ve fiziksel düzenlemenin yetersiz kaldığına ve süre planlamasının hatalı yapıldığına"
      ],
      "dogru": 0,
-     "aciklama": "Aktif öğrenmede bilişsel angajmanın gerçekleşmesi için öğrencilerin bilgiyi üretmeleri, sorgulamaları veya dönüştürmeleri gerekir. Gözlemde öğrenciler posterlerden not almaktadır; bu pasif bilgi tüketimidir. Soru üretmeme ve eleştiri yazmama, öğrencilerin bilgiyi işlemek yerine yalnızca almakla yetindiklerini göstermektedir. Sorun tekniğin kendisinde değil, görev tasarımında yatmaktadır: 'Posterleri incele ve soru üret', 'Bir posta notu yapıştır' gibi üretici görevler eklenseydi aynı teknik aktif öğrenmeyi desteklerdi. A ve D seçenekleri fiziksel/içerik sorunlarına odaklanır; ancak asıl sorun zihinsel katılımın tasarımlanmamasıdır. E seçeneği kısmen doğrudur ancak 'açık uçlu bırakma' aktif öğrenmenin tam karşıtı değildir; sorun görevin bilişsel düzeyindedir.",
+     "aciklama": "Gözlemde öğrenciler posterlerin önünde kısa süre durmakta ve not almaktadır. Ancak hiçbir poster için soru üretmemekte ya da eleştiri yazmamaktadır. Bu davranış, bilginin yalnızca alınıp kaydedildiğini, yani tüketildiğini gösterir. Galeri yürüyüşünün aktif öğrenme değeri, öğrencilerin posterlere yorum yapması, soru sorması ve geri bildirim üretmesinden gelir. Görev bu üretici süreçleri zorunlu kılacak biçimde tasarlanmadığı için öğrenciler bilişsel olarak pasif kalmıştır. \"Posterlerin içerik kalitesinin düşük olduğuna...\" yanlıştır; gözlemde içerik kalitesine ilişkin bir veri yoktur. \"Öğrencilerin galeri yürüyüşü tekniğine yönelik yeterli ön hazırlık yapmadığına\" da yanlıştır; sorun öğrenci hazırlığından çok görevin ne istediğiyle ilgilidir. Doğru cevap \"Görev tasarımının bilgiyi tüketim nesnesi olarak sunduğuna ve üretici bilişsel angajmanı tetiklemediğine\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -294,7 +297,8 @@
       "Bilinenden bilinmeyene ilkesi"
      ],
      "dogru": 3,
-     "aciklama": "Basitten karmaşığa ilkesi; öğretimin önce kolay, anlaşılır içeriklerle başlaması, giderek güçleşen ve karmaşıklaşan içeriklere doğru ilerlemesini gerektirir. Soruda öğretmenin basit devre → karmaşık devre şeklinde ilerlemesi bu ilkeyi yansıtmaktadır. Bilinenden bilinmeyene (B) ilkesiyle karıştırılabilir; ancak o ilkede vurgu öğrencinin ön bilgisinden hareket etmektir, buradaki vurgu ise içeriğin güçlük düzeyinin kademeli artışıdır."
+     "aciklama": "Öğretmen, tek pil ve tek ampulden oluşan en yalın bağlantıyla başlıyor. Ardından birden çok elemanın farklı biçimlerde bağlandığı seri ve paralel devrelere geçiyor. Konuyu öğe sayısı ve ilişki düzeyi az olandan çok olana doğru sıralamak, basitten karmaşığa ilkesinin tanımıdır. \"Somuttan soyuta ilkesi\" sık karıştırılır, ancak burada her iki aşamada da somut devreler kullanılmaktadır. Geçiş somutluk düzeyinde değil, karmaşıklık düzeyinde yapılmaktadır. \"Bütünden parçaya ilkesi\" de uygun değildir, çünkü önce bütün sistem gösterilip sonra parçalarına ayrılmamaktadır. Doğru cevap \"Basitten karmaşığa ilkesi\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "200379",
@@ -319,13 +323,14 @@
      "soru": "Türk eğitim sisteminde rehberlik servislerinin yapılandırılmasına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
      "secenekler": [
       "Rehberlik servisi yalnızca özel eğitime ihtiyaç duyan öğrencilere hizmet sunmakla yükümlüdür.",
-      "Okul rehber öğretmenleri aynı zamanda sınıf rehberlik saatlerinde öğretmen olarak ücret alır.",
+      "Okul rehber öğretmenleri aynı zamanda sınıf rehberlik saatlerinde öğretmen olarak görev yapıp ek ücret almaktadır.",
       "RAM'lar ilçe düzeyinde örgütlenmiş olup okullara rehberlik, tanıma ve yönlendirme konularında destek sağlar.",
       "Ram (Rehberlik ve Araştırma Merkezi) yalnızca ortaöğretim okullarına hizmet verir.",
       "Okul psikolojik danışmanları RAM'a değil doğrudan Millî Eğitim Bakanlığı'na bağlıdır."
      ],
      "dogru": 2,
-     "aciklama": "RAM'lar (Rehberlik ve Araştırma Merkezleri) ilçe düzeyinde örgütlenmiş olup okul düzeyinde sunulamayan psikolojik ölçme, tanılama, yönlendirme ve özel eğitim hizmetlerini koordine ederek okullara destek sağlar. RAM'lar hem ilk hem ortaöğretime, hem de özel eğitime ihtiyaç duyan bireylere hizmet verir. Okul psikolojik danışmanları, göreve atandıkları okul müdürlüğüne bağlı çalışır."
+     "aciklama": "RAM'lar (Rehberlik ve Araştırma Merkezleri) ilçe düzeyinde örgütlenmiş olup okul düzeyinde sunulamayan psikolojik ölçme, tanılama, yönlendirme ve özel eğitim hizmetlerini koordine ederek okullara destek sağlar. RAM'lar hem ilk hem ortaöğretime, hem de özel eğitime ihtiyaç duyan bireylere hizmet verir. Okul psikolojik danışmanları, göreve atandıkları okul müdürlüğüne bağlı çalışır.",
+     "zorluk": "orta"
     },
     {
      "id": "201628",
@@ -350,10 +355,10 @@
      "soru": "Bir program değerlendirmecisi, uygulanan yapılandırmacı ilkelere dayalı fen bilimleri programının 'planlanan program', 'uygulanan program' ve 'öğrenilen program' boyutlarını karşılaştırmalı olarak incelemiştir. Gözlemler, planlanan programda sorgulamaya dayalı öğretimin esas alındığını; ancak uygulanan programda öğretmenlerin büyük çoğunluğunun düz anlatım yöntemini kullandığını ortaya koymuştur. Öğrenilen programda ise öğrencilerin olgusal bilgileri hatırlayabildiği ancak kavramsal anlamayı gösteremedikleri saptanmıştır. Bu tablo aşağıdaki çözüm önerilerinden hangisini öncelikli kılmaktadır?",
      "secenekler": [
       "Planlanan programın hedefleri gerçekçi olmadığından tüm program baştan yazılmalıdır",
-      "Sorun değerlendirme araçlarından kaynaklandığından ölçme-değerlendirme sisteminin tamamen yenilenmesi önceliklendirilmelidir",
+      "Sorun tümüyle değerlendirme araçlarından kaynaklandığından ölçme-değerlendirme sisteminin baştan sona yenilenmesi önceliklendirilmelidir",
       "Uygulanan program ile planlanan program arasındaki uygulama açığı (implementation gap) ele alınmadan ürün değerlendirmesi yanıltıcı olacağından, öncelikle öğretmenlerin yapılandırmacı pedagoji yeterlilikleri geliştirilmeli ve uygulama desteği (coaching, mesleki topluluklar) yapılandırılmalıdır",
       "Öğrenilen programdaki olgu-kavram dengesi yeniden düzenlenerek olgusal hedefler artırılmalıdır",
-      "Öğrenilen programdaki başarısızlık öğrenci motivasyonundan kaynaklandığından ödül-ceza sisteminin yeniden düzenlenmesi önceliklendirilmelidir"
+      "Öğrenilen programdaki başarısızlık doğrudan öğrenci motivasyonundan kaynaklandığından ödül-ceza sisteminin yeniden düzenlenmesi öncelikli olarak ele alınmalıdır Bu nedenle öğretim sürecine ve öğretmen yeterliliklerine ilişkin herhangi bir düzenleme yapılmasına gerek bulunmamaktadır, sorun yalnızca güdülenme düzeyindedir"
      ],
      "dogru": 2,
      "aciklama": "Bu durum 'uygulama açığı (implementation gap)' olarak tanımlanır: tasarımdaki ideal (sorgulamaya dayalı öğretim) ile sınıftaki gerçeklik (düz anlatım) arasındaki derin ayrışma. Öğrenilen programdaki olgusal-kavramsal dengesizlik de bu açığın doğrudan sonucudur; kavramsal anlayış sorgulamaya dayalı öğretimle inşa edilir, düz anlatımla ezberlenmiş olgular elde edilir. Çözüm kaynakta yatmaktadır: öğretmen yeterliliğini ve pedagojik uygulamayı dönüştürmeden ne programı yeniden yazmak ne de değerlendirme sistemini değiştirmek sonuç verir. Program değerlendirme kuramında 'uygulama sadakati (fidelity)' eksikliği varlığında ürün değerlendirmesi programı değil uygulamayı yargılar.",
@@ -371,8 +376,8 @@
       "DNA'yı öğretmeden önce öğrencilerin bildiği 'şifreli mesaj' benzetmesini kullanan öğretmen — karşılaştırıcı organizatör kullanmaktadır",
       "Bağımsız değişken kavramını öğretmeden önce öğrencilerin 'sebep-sonuç' bilgisini hatırlatan öğretmen — örgütleyici organizatör kullanmaktadır"
      ],
-     "dogru": 3,
-     "aciklama": "Ausubel'e göre örgütleyici organizatörler, öğrencinin bilişsel yapısında ilgili bilgi bulunmadığında yeni materyale zemin oluşturmak için kullanılan daha genel ve soyut kavramsal çerçevelerdir. Karşılaştırıcı organizatörler ise öğrencinin hâlihazırda sahip olduğu bilgi ile yeni bilgi arasındaki benzerlik ve farklılıkları öne çıkararak anlam bağlantısı kurar. 'Şifreli mesaj' benzetmesi, DNA'nın öğrenciye tanıdık gelen bir kavramla ilişkilendirilmesini sağladığından karşılaştırıcı organizatör değil; öğrencide daha önce olmayan bir zihinsel yapı oluşturmaya çalışan örgütleyici organizatördür. Karşılaştırıcı organizatörün işlev görebilmesi için öğrencinin bellekte benzer bir bilişsel yapıya sahip olması gerekmektedir; bu nedenle seçenek B yanlış sınıflandırma içermektedir.",
+     "dogru": 4,
+     "aciklama": "Öğrencinin mevcut \"sebep-sonuç\" bilgisini hatırlatmak karşılaştırıcı organizatördür, örgütleyici değil; D'deki benzetme ise doğru sınıflandırılmıştır. Doğru cevap “Bağımsız değişken kavramını öğretmeden önce öğrencilerin 'sebep-sonuç' bilgisini…” seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -399,9 +404,9 @@
      "secenekler": [
       "χ²/df oranı 2.1 olduğundan model reddedilmeli ve tümüyle yeniden tasarlanmalıdır.",
       "Yüksek modifikasyon indeksleri, teorik modelin bazı maddeler arasındaki hata kovaryanslarını ya da çapraz yüklemeleri açıklayamadığına işaret eder; bu durum küresel uyum istatistikleriyle birlikte değerlendirilmeli ve teorik gerekçe olmaksızın modifikasyon yapılmamalıdır.",
-      "RMSEA 0.05'in altında olduğu sürece diğer indeksler ve modifikasyon önerileri dikkate alınmaz.",
+      "RMSEA değeri 0.05'in altında olduğu sürece diğer uyum indeksleri ve modifikasyon önerileri hiç dikkate alınmaz.",
       "CFI değeri 0.95'i geçtiğinde yapı geçerliği kanıtlanmış sayılır; ek analizlere gerek yoktur.",
-      "Tüm uyum indeksleri kabul edilebilir sınırlar içinde olduğundan model mükemmel biçimde doğrulanmıştır; modifikasyon indeksleri görmezden gelinebilir."
+      "Tüm uyum indeksleri kabul edilebilir sınırlar içinde olduğundan model mükemmel biçimde doğrulanmıştır; modifikasyon indeksleri tümüyle görmezden gelinebilir ve rapora yazılmasına gerek yoktur. Model bu hâliyle doğrudan raporlanabilir ve yayımlanabilir. Model bu hâliyle doğrudan raporlanabilir, yayımlanabilir ve ek bir sınamaya gerek duyulmaz."
      ],
      "dogru": 1,
      "aciklama": "DFA'da küresel uyum indeksleri (CFI, RMSEA, SRMR, χ²/df) modelin genel uyumunu yansıtır; ancak bu indeksler yerel misfit'i her zaman tespit edemez. Yüksek modifikasyon indeksleri (MI > 10 zaten dikkate alınır; 30+ ciddi bir uyarıdır), belirli madde çiftleri arasında model tarafından açıklanamayan kovaryans bulunduğuna işaret eder. Bu, ölçeğin varsayılan boyut yapısının ilgili maddeler için geçerli olmadığı anlamına gelebilir. Teorik gerekçe olmaksızın yalnızca model-veri uyumunu iyileştirmek amacıyla yapılan modifikasyonlar kapitalizasyon hatasına (capitalization on chance) yol açar. Doğru yaklaşım, küresel uyum ile yerel uyumu birlikte değerlendirmek ve teorik çerçeveye dayanmaktır.",
@@ -429,10 +434,10 @@
      "konuId": "gelisim_psikolojisi",
      "soru": "Vygotsky'nin kuramında 'Yakınsak Gelişim Alanı (ZPD)' kavramı aşağıdakilerden hangisini ifade eder?",
      "secenekler": [
-      "Çocuğun tek başına gerçekleştirebileceği en üst düzey performans",
+      "Çocuğun hiçbir yardım almadan tek başına gerçekleştirebileceği en üst düzey performans",
       "Çocuğun bağımsız performansı ile rehberlikle ulaşabileceği performans arasındaki fark",
       "Akranlar arasındaki ortalama bilişsel gelişim düzeyi",
-      "Çocuğun biyolojik olgunlaşmasıyla belirlenen gelişim sınırları",
+      "Çocuğun biyolojik olgunlaşma düzeyiyle belirlenen gelişim sınırları",
       "Öğretmenin sınıf yönetiminde kullandığı destek stratejileri"
      ],
      "dogru": 1,
@@ -468,7 +473,8 @@
       "Öğrencinin engel derecesi ve türü"
      ],
      "dogru": 3,
-     "aciklama": "En az kısıtlayıcı ortam ilkesine göre engelli öğrenciler, mümkün olan en yüksek düzeyde genel eğitim ortamına dahil edilmelidir. Engel derecesi ya da müfredat uyumu bu kararın belirleyicisi değil, yalnızca göz önüne alınan faktörlerden biridir. Temel ölçüt, öğrencinin genel eğitim ortamından azami ölçüde yararlanabilmesidir. Aile tercihi önemli olmakla birlikte tek başına belirleyici değildir."
+     "aciklama": "En az kısıtlayıcı ortam ilkesine göre engelli öğrenciler, mümkün olan en yüksek düzeyde genel eğitim ortamına dahil edilmelidir. Engel derecesi ya da müfredat uyumu bu kararın belirleyicisi değil, yalnızca göz önüne alınan faktörlerden biridir. Temel ölçüt, öğrencinin genel eğitim ortamından azami ölçüde yararlanabilmesidir. Aile tercihi önemli olmakla birlikte tek başına belirleyici değildir.",
+     "zorluk": "orta"
     },
     {
      "id": "200649",
@@ -479,11 +485,11 @@
       "Özgün değerlendirme – Üst bilişsel farkındalık geliştirme",
       "Biçimlendirici değerlendirme – Öğretimi öğrenciye göre uyarlama (diferansiyasyon)",
       "Ölçüt bağımlı değerlendirme – Mastery öğrenme ilkesi",
-      "Özetleyici değerlendirme – Bireysel farklılıklara duyarlılık",
+      "Özetleyici değerlendirme – Bireysel farklılıklara karşı duyarlılık ve esneklik sağlama",
       "Tanılayıcı değerlendirme – Ön öğrenmeleri harekete geçirme"
      ],
      "dogru": 1,
-     "aciklama": "Tanımlanan uygulama, öğretim sürecinin tam ortasında gerçekleşen ve öğrencilerden gelen anlık verilere göre öğretimi yeniden şekillendiren bir süreçtir; bu biçimlendirici (formative) değerlendirmedir. Öğretmenin yüz ifadesi, soru ve cevap örüntülerini izleyerek hızı, derinliği ve açıklama biçimini değiştirmesi ise öğretimi öğrencinin o anki durumuna göre uyarlaması, yani diferansiyasyondur. Tanılayıcı değerlendirme (B) öğretimden ÖNCE ön öğrenmeleri belirlemek amacıyla yapılır. Özetleyici değerlendirme (C) öğretim sonrasında bütünü değerlendirmek için kullanılır. Özgün değerlendirme (D) gerçek yaşam bağlamında performans göstermeyi ölçer. Ölçüt bağımlı değerlendirme (E) öğrencinin belirlenen ölçütlere ulaşıp ulaşmadığını ölçmektir ve mastery öğrenmeyle ilişkili olsa da verilen tanımla doğrudan eşleşmez.",
+     "aciklama": "Öğretmen, öğretim sürecinin içinde anlık verilerle öğrencinin öğrenme durumunu izler ve bu bilgiyi öğretimi düzeltmek için kullanır. Süreç içinde yapılan ve öğretimi yönlendiren değerlendirme, biçimlendirici (izleme) değerlendirmedir. Öğretim hızının, soru derinliğinin ve açıklama biçiminin öğrencilerin ihtiyacına göre değiştirilmesi ise öğretimi öğrenciye göre uyarlama, yani farklılaştırma ilkesidir. \"Özetleyici değerlendirme – Bireysel farklılıklara karşı duyarlılık ve esneklik sağlama\" seçeneği yanlıştır; özetleyici değerlendirme süreç sonunda yapılır ve anlık düzeltmeye imkân tanımaz. \"Tanılayıcı değerlendirme – Ön öğrenmeleri harekete geçirme\" seçeneği de yanlıştır; tanılama genellikle öğretim başında hazır bulunuşluğu belirlemek ya da süreğen güçlükleri saptamak için yapılır. Doğru cevap \"Biçimlendirici değerlendirme – Öğretimi öğrenciye göre uyarlama (diferansiyasyon)\" seçeneğidir.",
      "zorluk": "zor"
     }
    ]

@@ -41,7 +41,8 @@
       "25 – 253 Tesis, Makine ve Cihazlar"
      ],
      "dogru": 0,
-     "aciklama": "Maddi Duran Varlıklar grubu '25' kodu ile başlar ve 250 Arazi ve Arsalar, 251 Yer Altı ve Yer Üstü Düzenlemeleri, 252 Binalar, 253 Tesis, Makine ve Cihazlar, 254 Taşıtlar, 255 Demirbaşlar, 256 Diğer Maddi Duran Varlıklar, 257 Birikmiş Amortismanlar (-) ve 258 Yapılmakta Olan Yatırımlar hesaplarını içerir. 260 Haklar ise '26' kodu ile Maddi Olmayan Duran Varlıklar grubunda yer alır; dolayısıyla 25 grubuna dahil değildir."
+     "aciklama": "Maddi Duran Varlıklar grubu '25' kodu ile başlar ve 250 Arazi ve Arsalar, 251 Yer Altı ve Yer Üstü Düzenlemeleri, 252 Binalar, 253 Tesis, Makine ve Cihazlar, 254 Taşıtlar, 255 Demirbaşlar, 256 Diğer Maddi Duran Varlıklar, 257 Birikmiş Amortismanlar (-) ve 258 Yapılmakta Olan Yatırımlar hesaplarını içerir. 260 Haklar ise '26' kodu ile Maddi Olmayan Duran Varlıklar grubunda yer alır; dolayısıyla 25 grubuna dahil değildir.",
+     "zorluk": "orta"
     },
     {
      "id": "50034",
@@ -56,7 +57,8 @@
       "Hesap pasif karaktere dönüşmüştür"
      ],
      "dogru": 2,
-     "aciklama": "Muhasebe kuralına göre aktif karakterli hesaplar (varlık hesapları) doğal olarak borç bakiyesi verir. Açılış kaydında alacak bakiyesi vermesi, ya yanlış hesabın kullanıldığını ya da kayıt hatasının yapıldığını gösterir. Bu durum doğrudan bir muhasebe hatasına işaret eder. Hesabın pasif karaktere dönüşmesi ise ancak özel durumlarda mümkündür ve açılış kaydında alacak bakiyesi bunun göstergesi değildir. Doğru yanıt C şıkkıdır."
+     "aciklama": "Muhasebe kuralına göre aktif karakterli hesaplar (varlık hesapları) doğal olarak borç bakiyesi verir. Açılış kaydında alacak bakiyesi vermesi, ya yanlış hesabın kullanıldığını ya da kayıt hatasının yapıldığını gösterir. Bu durum doğrudan bir muhasebe hatasına işaret eder. Hesabın pasif karaktere dönüşmesi ise ancak özel durumlarda mümkündür ve açılış kaydında alacak bakiyesi bunun göstergesi değildir. Doğru yanıt “Muhasebe hatası söz konusudur” şıkkıdır.",
+     "zorluk": "orta"
     },
     {
      "id": "50201",
@@ -86,8 +88,8 @@
       "Gelir tablosu: +15.000 TL kâr; Net kâr etkisi: +15.000 TL; Öz kaynaklar: +15.000 TL",
       "Gelir tablosu: +15.000 TL kâr, -7.000 TL zarar; Net kâr etkisi: +8.000 TL; Öz kaynaklar: +15.000 TL"
      ],
-     "dogru": 0,
-     "aciklama": "FVOCI sınıfındaki A hissesinin değer artışı (95.000 - 80.000 = 15.000 TL) gelir tablosuna değil, doğrudan öz kaynaklar altında 'diğer kapsamlı gelir' olarak raporlanır. Dolayısıyla net kârı etkilemez. FVTPL sınıfındaki B hissesinin değer düşüklüğü (43.000 - 50.000 = -7.000 TL) doğrudan gelir tablosunda 'gerçeğe uygun değer zararı' olarak raporlanır ve net kârı 7.000 TL azaltır. Toplam öz kaynaklar değişimi: Diğer kapsamlı gelirden +15.000 TL, net kâr etkisinden -7.000 TL → Net öz kaynak artışı = +8.000 TL. Ancak soru 'öz kaynaklar' derken yalnızca FVOCI etkisini (diğer kapsamlı gelir) soruyor olabilir: +15.000 TL. Buna göre B şıkkı: gelir tablosu -7.000, net kâr -7.000, öz kaynaklar (sadece DKG olarak) +15.000 TL doğrudur. Cevap B şıkkıdır.",
+     "dogru": 2,
+     "aciklama": "FVOCI'de +15.000 yalnızca öz kaynakta, FVTPL'de -7.000 kâr/zararda izlenir; öz kaynaklara toplam etki 15.000-7.000=+8.000 olduğundan doğru şık C'dir. Doğru cevap “Gelir tablosu: -7.000 TL zarar; Net kâr etkisi: -7.000 TL; Öz kaynaklar: +8.000 TL” seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -119,23 +121,24 @@
       "50.000 TL"
      ],
      "dogru": 1,
-     "aciklama": "İlk kayıtta 153 Ticari Mallar hesabına 50.000 TL borç yazılmıştır. İade kaydında: 102 Bankalar 5.000 (Borç) / 153 Ticari Mallar 5.000 (Alacak). 153 Ticari Mallar hesabının bakiyesi: 50.000 − 5.000 = 45.000 TL. Cevap C.",
+     "aciklama": "İlk kayıtta 153 Ticari Mallar hesabına 50.000 TL borç yazılmıştır. İade kaydında: 102 Bankalar 5.000 (Borç) / 153 Ticari Mallar 5.000 (Alacak). 153 Ticari Mallar hesabının bakiyesi: 50.000 − 5.000 = 45.000 TL. Doğru cevap: «45.000 TL».",
      "zorluk": "zor"
     },
     {
-     "id": "50236",
+     "id": "50198",
      "dersId": "muhasebe",
      "konuId": "donem_sonu",
-     "soru": "Bir işletmenin 31.12.2024 tarihli bilançosunda Alacak Senetleri hesabı 120.000 TL olarak görünmektedir. Dönem sonunda yapılan incelemede bu senetlerin 18.000 TL'lik kısmının değerini yitirdiği tahmin edilmektedir. Ancak daha önceki dönemden gelen Alacak Senetleri Reeskontu hesabının alacak bakiyesi 4.500 TL'dir. Bu bilgilere göre dönem sonunda yapılacak düzeltme kaydında 'Reeskont Faiz Giderleri' hesabına kaydedilecek tutar kaç TL'dir?",
+     "soru": "Tek düzen hesap planına göre 'Gelecek Yıllara Ait Gelirler' hangi hesap grubunda yer alır?",
      "secenekler": [
-      "16.200",
-      "13.500",
-      "18.000",
-      "22.500",
-      "4.500"
+      "Duran Varlıklar",
+      "Öz Kaynaklar",
+      "Dönen Varlıklar",
+      "Kısa Vadeli Yabancı Kaynaklar",
+      "Uzun Vadeli Yabancı Kaynaklar"
      ],
-     "dogru": 1,
-     "aciklama": "Alacak senetleri reeskontu işleminde, önceki dönemden gelen reeskont bakiyesi önce iptal edilir (Alacak Senetleri Reeskontu borçlandırılır, Reeskont Faiz Gelirleri alacaklandırılır). Ardından yeni dönem reeskontu hesaplanır. Ancak soru 'Reeskont Faiz Giderleri' hesabına kaydedilecek tutarı sormaktadır. Dönem sonu reeskont kaydında Reeskont Faiz Giderleri 18.000 TL borçlandırılır, Alacak Senetleri Reeskontu 18.000 TL alacaklandırılır. Önceki dönem reeskontunun iptali ayrı bir kayıttır ve Reeskont Faiz Gelirleri hesabını etkiler. Bu nedenle Reeskont Faiz Giderleri hesabına kaydedilen tutar 18.000 - 4.500 = 13.500 TL net etki değil, brüt olarak 18.000 TL'dir. Ancak pek çok KPSS kaynağı net etkiyi esas alarak 18.000 - 4.500 = 13.500 TL'yi doğru kabul etmektedir; zira önceki dönem reeskontunun iptali gelir kaydedilir ve net gider 13.500 TL olur. Doğru cevap B) 13.500 TL'dir."
+     "dogru": 4,
+     "aciklama": "480 Gelecek Yıllara Ait Gelirler hesabı, uzun vadeli yabancı kaynaklar grubunda yer alır. 380 Gelecek Aylara Ait Gelirler ise kısa vadeli yabancı kaynaklarda yer alır. İkisi arasındaki fark zaman boyutudur.",
+     "zorluk": "kolay"
     },
     {
      "id": "50364",
@@ -150,7 +153,7 @@
       "192.000 TL ve %30"
      ],
      "dogru": 2,
-     "aciklama": "ROA = Net Kâr / Toplam Aktif = %12. Net Kâr = 0,12 × 2.000.000 = 240.000 TL. Finansal Kaldıraç Çarpanı = Toplam Aktif / Öz Sermaye = 2,5. Öz Sermaye = 2.000.000 / 2,5 = 800.000 TL. ROE = Net Kâr / Öz Sermaye = 240.000 / 800.000 = %30. Doğru cevap D'dir. (Not: Vergi oranı ve net satışlar dikkat dağıtmak için eklenmiş yanıltıcı verilerdir.)",
+     "aciklama": "ROA = Net Kâr / Toplam Aktif = %12. Net Kâr = 0,12 × 2.000.000 = 240.000 TL. Finansal Kaldıraç Çarpanı = Toplam Aktif / Öz Sermaye = 2,5. Öz Sermaye = 2.000.000 / 2,5 = 800.000 TL. ROE = Net Kâr / Öz Sermaye = 240.000 / 800.000 = %30. Doğru cevap: «240.000 TL ve %30». (Not: Vergi oranı ve net satışlar dikkat dağıtmak için eklenmiş yanıltıcı verilerdir.)",
      "zorluk": "zor"
     },
     {
@@ -182,7 +185,8 @@
       "191 İndirilecek KDV borç / 157 Diğer Stoklar alacak"
      ],
      "dogru": 0,
-     "aciklama": "Stokların değerini yitirdiği tespit edildiğinde Tek Düzen Hesap Planı'na göre 158 Stok Değer Düşüklüğü Karşılığı hesabı kullanılır. Bu karşılık, stok hesabından doğrudan düşülmez; karşılık hesabı alacaklandırılır ve karşılık gideri (654) borçlandırılır. Böylece stoğun defter değeri dolaylı yoldan düşürülmüş olur ve stok hesabının brüt tutarı korunur. Doğru yanıt A şıkkıdır."
+     "aciklama": "Stokların değerini yitirdiği tespit edildiğinde Tek Düzen Hesap Planı'na göre 158 Stok Değer Düşüklüğü Karşılığı hesabı kullanılır. Bu karşılık, stok hesabından doğrudan düşülmez; karşılık hesabı alacaklandırılır ve karşılık gideri (654) borçlandırılır. Böylece stoğun defter değeri dolaylı yoldan düşürülmüş olur ve stok hesabının brüt tutarı korunur. Doğru yanıt “654 Karşılık Giderleri borç / 158 Stok Değer Düşüklüğü Karşılığı alacak” şıkkıdır.",
+     "zorluk": "orta"
     },
     {
      "id": "50259",
@@ -190,7 +194,7 @@
      "konuId": "donem_sonu",
      "soru": "İşletme yıl boyunca yapılan araştırma-geliştirme harcamalarının tamamını (180.000 TL) aktifleştirmiştir. Dönem sonunda yapılacak doğru muhasebe uygulaması ve gerekçesi aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Araştırma giderleri gider yazılmalı (90.000 TL), geliştirme giderleri aktifleştirilmelidir (90.000 TL)",
+      "Araştırma giderleri doğrudan gider yazılmalı (90.000 TL), geliştirme giderleri ise koşulsuz biçimde aktifleştirilmelidir (90.000 TL); ayrım harcamanın yapıldığı tarihe göre belirlenir",
       "Tüm Ar-Ge harcamaları aktifleştirilebilir; amortisman uygulanmaz",
       "Ar-Ge harcamalarının tamamı olağandışı gider olarak kaydedilmelidir",
       "Araştırma giderleri oluştukları dönemde gider yazılmalı; geliştirme giderleri ise belirli koşullar sağlanıyorsa aktifleştirilerek faydalı ömrü boyunca amortismana tabi tutulabilir",
@@ -229,7 +233,7 @@
       "654 hesabı 60.000 TL borç bakiye verir; 128 hesabında 60.000 TL alacak bakiye kalır."
      ],
      "dogru": 2,
-     "aciklama": "Karşılık ayrılmasında: 654 Karşılık Giderleri 10.000 TL (Borç) / 128 Şüpheli Alacaklar Karşılığı 10.000 TL (Alacak). 70.000 TL değersiz hale gelince: 128 Karşılık 10.000 TL (Borç), 654 (ek gider) 60.000 TL (Borç) / 127 Şüpheli Alacaklar 70.000 TL (Alacak). Kalan 30.000 TL tahsilinde: 100 Kasa 30.000 (Borç) / 127 Şüpheli Alacaklar 30.000 (Alacak). Sonuç: 654 hesabı toplam 10.000 + 60.000 = 70.000 TL borç olarak görünüyorsa da ilk 10.000 TL önceden ayrılmış karşılıkla karşılandığından net ek gider yükü 60.000 TL'dir; ancak toplam 654 borç hareketi 70.000 TL olup 128 hesabı tamamen kapanmıştır. Soru karşılık giderinin baştan sonuna toplam kaydını sorduğundan 654'ün toplam borç hareketi 10.000 TL'dir (yalnızca ilk karşılık ayrımında gider kaydı yapılmıştır, silinme 128 ile karşılanmıştır). Doğru cevap A'dır.",
+     "aciklama": "Alacağın %10'u için ayrılan karşılık 10.000 TL olup 654 Karşılık Giderleri hesabına yalnızca bu tutar borç olarak yazılır. Değersiz hale gelen 70.000 TL'nin karşılıkla kapatılamayan 60.000 TL'lik kısmı 654 hesabına değil, ilgili zarar hesabına (örneğin 689 Diğer Olağandışı Gider ve Zararlar) aktarılır; bu nedenle 654'ün bakiyesi 10.000 TL'de kalır. 100.000 TL'lik şüpheli alacağın 70.000 TL'si silindiği, 30.000 TL'si de tahsil edildiği için alacağın tamamı kapanır ve 128 hesabında bakiye kalmaz (Tekdüzen Hesap Planı'nda 128 aslında Şüpheli Ticari Alacaklar hesabıdır, karşılık hesabı ise 129'dur). Bu yüzden doğru cevap \"654 hesabı 10.000 TL borç bakiye verir; 128 hesabı tamamen kapatılmıştır.\" şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -292,8 +296,9 @@
       "254 Taşıtlar – Aktif",
       "257 Birikmiş Amortismanlar (-) – Pasif düzenleyici"
      ],
-     "dogru": 4,
-     "aciklama": "Maddi duran varlıklara ait birikmiş amortismanlar 257 Birikmiş Amortismanlar (-) hesabında izlenir. Bu hesap, pasif karakterli bir düzenleyici hesaptır; ilgili varlık hesabından (örn. 254 Taşıtlar) indirim kalemi olarak bilançoda gösterilir. 268 kodu ise maddi olmayan duran varlıklara ait birikmiş amortismanlar içindir."
+     "dogru": 0,
+     "aciklama": "257 Birikmiş Amortismanlar aktifi düzenleyici (eksi aktif) bir hesap olduğundan doğru şık A'dır. Doğru cevap 257 Birikmiş Amortismanlar (-) – Aktif düzenleyici şeklindedir.",
+     "zorluk": "orta"
     },
     {
      "id": "50033",
@@ -308,7 +313,8 @@
       "Kredili mal alışı"
      ],
      "dogru": 3,
-     "aciklama": "153 Ticari Mallar hesabı, malın elde etme maliyetini kapsar. Bu maliyet; satın alma bedeli, nakliye, gümrük vergisi ve benzeri elde etme giderlerini içerir. Tüm bu kalemler 153 hesabının borcuna yazılır. Ancak alınan iskonto (satıcının sağladığı fiyat indirimi), mal maliyetini düşürdüğünden 153 hesabının alacağına kaydedilir, borcuna değil. Doğru yanıt D şıkkıdır."
+     "aciklama": "153 Ticari Mallar hesabı, malın elde etme maliyetini kapsar. Bu maliyet; satın alma bedeli, nakliye, gümrük vergisi ve benzeri elde etme giderlerini içerir. Tüm bu kalemler 153 hesabının borcuna yazılır. Ancak alınan iskonto (satıcının sağladığı fiyat indirimi), mal maliyetini düşürdüğünden 153 hesabının alacağına kaydedilir, borcuna değil. Doğru yanıt “Alınan mal iskontosu” şıkkıdır.",
+     "zorluk": "orta"
     },
     {
      "id": "50233",
@@ -320,7 +326,7 @@
       "Kurumlar vergisi veya gelir vergisi tahakkukunu gerçekleştirmek ve ödenecek ya da iade alınacak vergiyi belirlemek",
       "Damga vergisi hesaplamak",
       "Kıdem tazminatı karşılığını hesaplamak",
-      "Amortisman giderini vergi matrahından düşmek"
+      "Dönem içinde ayrılan amortisman giderini vergi matrahından düşmek ve matrahı azaltmak ve böylece ödenecek kurumlar vergisi tutarını azaltmak"
      ],
      "dogru": 1,
      "aciklama": "Dönem içinde ödenen geçici vergiler ve stopajlar 193 hesapta izlenir. Dönem sonunda hesaplanan kurumlar/gelir vergisi 371 Dönem Kârının Peşin Ödenen Vergi ve Diğer Yükümlülükleri hesabına aktarılır. 193 hesap bakiyesi bu tutardan büyükse iade hakkı doğar, küçükse ödenecek vergi çıkar. Bu karşılaştırma vergi tahakkukunu tamamlar.",
@@ -338,8 +344,8 @@
       "%13 ve 2,5",
       "%10 ve 2,0"
      ],
-     "dogru": 3,
-     "aciklama": "ROA = (Net Kâr + Faiz Giderleri) / Toplam Aktifler = (96.000 + 36.000) / 1.200.000 = 132.000 / 1.200.000 = %11. Alternatif hesaplamada faiz+vergi sonrası: Net Kâr / Toplam Aktif = 96.000 / 1.200.000 = %8. KPSS'de ROA genellikle EBIT/Aktif veya Net Kâr/Aktif olarak hesaplanır. EBIT = Net Kâr + Vergi + Faiz = 96.000 + 24.000 + 36.000 = 156.000. EBIT/Aktif = 156.000/1.200.000 = %13. Finansal Kaldıraç = Toplam Aktif / Öz Kaynaklar = 1.200.000 / 480.000 = 2,5. Buna göre ROA (%13) ve kaldıraç (2,5) D şıkkını vermektedir.",
+     "dogru": 2,
+     "aciklama": "ROA=96.000/1.200.000=%8, kaldıraç=1.200.000/480.000=2,5 olduğundan doğru şık C'dir. Doğru cevap %8 ve 2,5 şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -350,8 +356,8 @@
      "secenekler": [
       "371 hesabı bilanço dışı kalemdir; yalnızca dipnotlarda gösterilir ve bilançoda ayrıca raporlanmaz.",
       "193 hesabındaki bakiye doğrudan 371'e aktarılarak kapatılır; dönem sonunda her ikisi de sıfır bakiyeyle kapanır.",
-      "193, tüm vergi alacaklarını; 371 yalnızca kurumlar vergisi avansını izler; KDV alacakları 193'te yer almaz, 190 Devreden KDV'de izlenir.",
-      "İki hesap aynı tutarı gösterir; 193 aktif düzenleyici, 371 pasif düzenleyicidir ve bilançoda birbirini sıfırlar.",
+      "193 hesabı işletmenin tüm vergi alacaklarını, 371 hesabı ise yalnızca kurumlar vergisi avansını izler; KDV alacakları 193'te yer almaz, bunlar 190 Devreden KDV hesabında izlenir ve dönem sonunda 371 ile karşılaştırılarak mahsup edilir. Dönem sonunda iki hesap arasındaki fark doğrudan özkaynaklara aktarılır ve gelir tablosunu etkilemez.",
+      "İki hesap her zaman aynı tutarı gösterir; 193 aktif düzenleyici, 371 ise pasif düzenleyicidir ve bilançoda birbirini sıfırlar.",
       "193 hesabı dönem içinde ödenen geçici vergi ve stopajları izler (aktif); 371 hesabı ise dönem kârı üzerinden hesaplanan vergi yükümlülüğünün peşin ödenen kısmını pasifte düzenleyici olarak gösterir; ikisi arasındaki fark 370 Dönem Kârı Vergi ve Diğer Yasal Yükümlülük Karşılıkları'ndan indirilir."
      ],
      "dogru": 4,
@@ -371,7 +377,8 @@
       "Önceden Tahsil Edilmiş Gelirler Hesabı borçlandırılır, Kira Gelirleri Hesabı alacaklandırılır."
      ],
      "dogru": 2,
-     "aciklama": "İşletme 3 aylık (Mart, Nisan, Mayıs) kira bedelini peşin tahsil edip tamamını gelir yazmıştır. Dönem sonu olan 31 Mart itibarıyla yalnızca 1 aylık (6.000 TL) kira döneme aittir; kalan 2 aylık 12.000 TL ise henüz kazanılmamış olup gelecek dönemlere aittir. Bu nedenle Kira Gelirleri Hesabı 12.000 TL borçlandırılarak azaltılır, Gelecek Aylara Ait Gelirler Hesabı (380) 12.000 TL alacaklandırılır. Önceden Tahsil Edilmiş Gelirler hesabı MSUGT'ta yer almayan, bazı kaynaklarda kullanılan alternatif bir isim olsa da TEKDÜZEN hesap planında kullanılan doğru hesap 'Gelecek Aylara Ait Gelirler'dir."
+     "aciklama": "İşletme 3 aylık (Mart, Nisan, Mayıs) kira bedelini peşin tahsil edip tamamını gelir yazmıştır. Dönem sonu olan 31 Mart itibarıyla yalnızca 1 aylık (6.000 TL) kira döneme aittir; kalan 2 aylık 12.000 TL ise henüz kazanılmamış olup gelecek dönemlere aittir. Bu nedenle Kira Gelirleri Hesabı 12.000 TL borçlandırılarak azaltılır, Gelecek Aylara Ait Gelirler Hesabı (380) 12.000 TL alacaklandırılır. Önceden Tahsil Edilmiş Gelirler hesabı MSUGT'ta yer almayan, bazı kaynaklarda kullanılan alternatif bir isim olsa da TEKDÜZEN hesap planında kullanılan doğru hesap 'Gelecek Aylara Ait Gelirler'dir.",
+     "zorluk": "orta"
     },
     {
      "id": "50224",
@@ -402,7 +409,8 @@
       "Öz kaynak değişim tablosu, nakit akış tablosunun bir alt bölümüdür."
      ],
      "dogru": 1,
-     "aciklama": "Gelir tablosunda hesaplanan dönem net kârı, öz kaynak değişim tablosuna aktarılır ve buradan bilançodaki dağıtılmamış kârlar (geçmiş yıl kârları) kalemi aracılığıyla öz kaynaklara yansır. Bu sayede mali tablolar birbirine bağlanmış olur. Diğer seçenekler yanlış ilişkiler içermektedir. Doğru cevap C şıkkıdır."
+     "aciklama": "Mali tablolar birbirine bağlıdır. Gelir tablosunda bulunan dönem net kârı, kâr dağıtımı yapılmadıysa öz kaynak değişim tablosuna taşınır. Bu tablo dönem başı öz kaynaklara net kârı ekler, temettü ve sermaye hareketlerini düşer ve dönem sonu öz kaynak bakiyesini bulur. Bu bakiye bilançodaki öz kaynaklar kalemlerini oluşturur. \"Nakit akış tablosundaki dönem sonu nakit, gelir tablosundaki net kâra eşittir.\" ifadesi yanlıştır, çünkü net kâr tahakkuk esasına göre bulunur ve nakit hareketinden farklıdır. \"Bilanço dönem sonu öz kaynakları, öz kaynak değişim tablosunun başlangıç bakiyesini oluşturur.\" ifadesi de yanlıştır, çünkü dönem sonu bakiye aynı tablonun kapanış bakiyesidir; ancak bir sonraki dönemin açılış bakiyesi olur. Doğru cevap \"Dönem net kârı, öz kaynak değişim tablosu aracılığıyla bilançodaki öz kaynaklara aktarılır.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "50123",
@@ -449,7 +457,8 @@
       "57.000"
      ],
      "dogru": 0,
-     "aciklama": "Dönem başında Şüpheli Ticari Alacaklar Karşılığı hesabının alacak bakiyesi 12.000 TL'dir. Dönem sonunda 45.000 TL'lik şüpheli alacağın tamamı için karşılık ayrılacaktır. Karşılık hesabı zaten 12.000 TL içerdiğinden ek olarak ayrılması gereken tutar: 45.000 − 12.000 = 33.000 TL. Kayıt: 654 Karşılık Giderleri 33.000 BORÇ / 122 Şüpheli Ticari Alacaklar Karşılığı 33.000 ALACAK. Doğru cevap B) 33.000 TL'dir."
+     "aciklama": "Karşılık gideri, ayrılması gereken toplam karşılıktan mevcut karşılık bakiyesinin düşülmesiyle bulunur. Yönetim 45.000 TL'nin tamamı için karşılık ayırmaya karar vermiştir. Karşılık hesabında dönem başından kalan 12.000 TL alacak bakiyesi vardır. Bu durumda dönem gideri 45.000 - 12.000 = 33.000 TL olur. \"45.000\" seçeneği mevcut karşılığın dikkate alınmaması nedeniyle yanlıştır. \"57.000\" seçeneği ise mevcut karşılığın yanlışlıkla eklenmesiyle bulunur. Doğru cevap \"33.000\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "50346",
@@ -464,7 +473,8 @@
       "1,33"
      ],
      "dogru": 1,
-     "aciklama": "Cari oran = Dönen varlıklar / Kısa vadeli yabancı kaynaklar = 400.000 / 250.000 = 1,60. Duran varlıklar ve uzun vadeli yabancı kaynaklar cari oran hesabına dahil edilmez. Doğru cevap D şıkkıdır."
+     "aciklama": "Cari oran, dönen varlıkların kısa vadeli yabancı kaynaklara bölünmesiyle bulunur. Dönen varlıklar 400.000 TL, kısa vadeli yabancı kaynaklar 250.000 TL olduğundan cari oran = 400.000 / 250.000 = 1,60 olur. Duran varlıklar ve uzun vadeli yabancı kaynaklar cari oranın hesabına girmez. Sık yapılan hata, kısa vadeli yabancı kaynaklar yerine toplam yabancı kaynakları kullanmaktır: 400.000 / 600.000 = 0,67 gibi sonuçlar çıkar. Bir diğer hata, toplam varlıkları (1.000.000) toplam yabancı kaynaklara (600.000) bölmektir; bu da yaklaşık 1,67 verir. Cari oran için doğru payda yalnızca kısa vadeli kaynaklardır. Doğru cevap \"1,60\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "50128",
@@ -495,7 +505,7 @@
       "Amortisman: 17.280 TL, Net defter değeri: 25.920 TL"
      ],
      "dogru": 3,
-     "aciklama": "%40 oranla 80.000-48.000-28.800 amortisman hesaplanır; 3. yıl gideri 28.800 TL, net defter değeri 43.200 TL'dir. Doğru cevap D) Amortisman: 28.800 TL, Net defter değeri: 43.200 TL şeklindedir.",
+     "aciklama": "%40 oranla 80.000-48.000-28.800 amortisman hesaplanır; 3. yıl gideri 28.800 TL, net defter değeri 43.200 TL'dir. Doğru cevap Amortisman: 28.800 TL, Net defter değeri: 43.200 TL şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -527,7 +537,8 @@
       "Aktif tarafta, dönen varlıklar bölümünde"
      ],
      "dogru": 1,
-     "aciklama": "Birikmiş amortismanlar, Tekdüzen Muhasebe Sistemi'ne göre bilançonun aktif tarafında ilgili maddi duran varlık kaleminin altında (-) eksi değer olarak gösterilir. Bu düzenleyici hesaplar, varlığın net defter değerinin görülmesini sağlar. Pasif tarafında değil, aktif tarafında yer alır."
+     "aciklama": "Birikmiş amortismanlar, Tekdüzen Muhasebe Sistemi'ne göre bilançonun aktif tarafında ilgili maddi duran varlık kaleminin altında (-) eksi değer olarak gösterilir. Bu düzenleyici hesaplar, varlığın net defter değerinin görülmesini sağlar. Pasif tarafında değil, aktif tarafında yer alır.",
+     "zorluk": "orta"
     },
     {
      "id": "50179",
@@ -562,19 +573,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "50265",
+     "id": "50257",
      "dersId": "muhasebe",
      "konuId": "donem_sonu",
-     "soru": "Bir işletmenin 31.12.2024 tarihli mizanında Alacak Senetleri Reeskontu hesabının borç kalanı 18.000 TL'dir. İşletme dönem başında 15.000 TL reeskont hesaplamış, dönem içinde vadesi gelen senetler için herhangi bir düzeltme yapmamıştır. Dönem sonunda senet portföyüne ilişkin faiz oranı %20 ve kalan gün sayısı dikkate alındığında hesaplanan reeskont tutarı 18.000 TL'dir. Bu durumda dönem sonu muhasebe kaydında kullanılacak hesaplar ve tutarlar aşağıdakilerden hangisidir?",
+     "soru": "Bir ticaret işletmesinin gelir tablosu verileri şöyledir: Net Satışlar 1.200.000 TL, Satılan Ticari Mal Maliyeti 800.000 TL, Faaliyet Giderleri 250.000 TL, Diğer Faaliyetlerden Olağan Gelir 30.000 TL, Finansman Giderleri 60.000 TL, Vergi Karşılığı 36.000 TL. Bu verilere göre 'Olağan Kâr' kaç TL'dir?",
      "secenekler": [
-      "Alacak Senetleri Reeskontu 15.000 TL borç, Reeskont Faiz Gelirleri 15.000 TL alacak; ardından Reeskont Faiz Giderleri 18.000 TL borç, Alacak Senetleri Reeskontu 18.000 TL alacak",
-      "Alacak Senetleri Reeskontu 3.000 TL borç, Reeskont Faiz Gelirleri 3.000 TL alacak",
-      "Hiçbir kayıt yapılmaz; çünkü reeskont tutarı değişmemiştir",
-      "Reeskont Faiz Giderleri 18.000 TL borç, Alacak Senetleri Reeskontu 18.000 TL alacak",
-      "Reeskont Faiz Giderleri 3.000 TL borç, Alacak Senetleri Reeskontu 3.000 TL alacak"
+      "84.000 TL",
+      "156.000 TL",
+      "150.000 TL",
+      "180.000 TL",
+      "120.000 TL"
      ],
-     "dogru": 0,
-     "aciklama": "Dönem başında ayrılmış 15.000 TL reeskont, dönem sonunda önce iptal edilir: Alacak Senetleri Reeskontu 15.000 TL borç / Reeskont Faiz Gelirleri 15.000 TL alacak. Ardından yeni dönem sonu reeskontu hesaplanarak kaydedilir: Reeskont Faiz Giderleri 18.000 TL borç / Alacak Senetleri Reeskontu 18.000 TL alacak. Mizan bakiyesi 18.000 TL borç göstermektedir çünkü dönem içinde iptal kaydı yapılmamıştır; dolayısıyla önce iptal, sonra yeniden hesaplama şeklinde iki ayrı kayıt yapılması gerekmektedir. 'Net fark' yöntemiyle kayıt yapılması MSUGT'a aykırıdır.",
+     "dogru": 4,
+     "aciklama": "Brüt Satış Kârı = 1.200.000 - 800.000 = 400.000 TL. Faaliyet Kârı = 400.000 - 250.000 = 150.000 TL. Olağan Kâr = Faaliyet Kârı + Diğer Faaliyetlerden Olağan Gelirler - Finansman Giderleri = 150.000 + 30.000 - 60.000 = 120.000 TL. Vergi karşılığı 'Dönem Net Kârı'nı hesaplamada kullanılır; Olağan Kâr'a dahil edilmez. Dönem Net Kârı = 120.000 - 36.000 = 84.000 TL.",
      "zorluk": "zor"
     },
     {
@@ -589,8 +600,8 @@
       "1.520 TL",
       "5.240 TL"
      ],
-     "dogru": 1,
-     "aciklama": "Kupon faizi = 200.000 × %18 = 36.000 TL. Etkin faiz yöntemiyle finansman gideri = 187.600 × %20 = 37.520 TL. İskonto amortismanı (fark) = 37.520 - 36.000 = 1.520 TL değil; dikkat: Soru, iki değer arasındaki farkı soruyor. Etkin faiz gideri - Kupon faizi = 37.520 - 36.000 = 1.520 TL. Ancak KPSS mantığıyla 'finansman gideri ile ödenecek faiz arasındaki fark' iskonto amortismanı olup 1.520 TL'dir. Bu nedenle doğru cevap A) 1.520 TL'dir. Seçeneklere bakıldığında A şıkkının doğru olduğu anlaşılır.",
+     "dogru": 3,
+     "aciklama": "Kupon faizi 36.000 TL, etkin faiz gideri 187.600×0,20=37.520 TL, fark 1.520 TL. Doğru cevap 1.520 TL şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -622,7 +633,7 @@
       "Makine maliyeti 360.000 TL, finansman gideri 72.000 TL"
      ],
      "dogru": 3,
-     "aciklama": "Vadeli alımlarda varlık, peşin değeri üzerinden kaydedilir. Peşin değer = Taksit × Anüite faktörü = 120.000 × 2,1065 = 252.780 TL. İlk yıl finansman gideri = 252.780 × %20 = 50.556 TL. Birinci yıl ödenen faiz niteliğindeki tutar budur; makine maliyeti 252.780 TL olarak aktifleştirilir. Doğru cevap B'dir.",
+     "aciklama": "Vadeli alımlarda varlık, peşin değeri üzerinden kaydedilir. Peşin değer = Taksit × Anüite faktörü = 120.000 × 2,1065 = 252.780 TL. İlk yıl finansman gideri = 252.780 × %20 = 50.556 TL. Birinci yıl ödenen faiz niteliğindeki tutar budur; makine maliyeti 252.780 TL olarak aktifleştirilir. Doğru cevap: «Makine maliyeti 252.780 TL, finansman gideri 50.556 TL».",
      "zorluk": "zor"
     },
     {

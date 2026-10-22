@@ -57,7 +57,8 @@
       "Kanun teklifleri yalnızca milletvekilleri tarafından verilebilir; Cumhurbaşkanı'nın kanun teklifi hakkı yoktur."
      ],
      "dogru": 2,
-     "aciklama": "Anayasa'nın 89. maddesine göre Cumhurbaşkanı, onaylamadığı kanunları bir daha görüşülmek üzere TBMM'ye geri gönderebilir. TBMM, geri gönderilen kanunu salt çoğunlukla (yani 301 oy) aynen kabul ederse Cumhurbaşkanı kanunu yayımlamak zorundadır. A şıkkı hatalıdır; 2017 değişiklikleriyle Bakanlar Kurulu kaldırıldığından hükümetin kanun tasarısı verme yetkisi de sona ermiş ve bu yetki Cumhurbaşkanı'na devredilmiştir. B şıkkındaki 'üçte iki' eşiği ise yanlıştır."
+     "aciklama": "Anayasa'nın 89. maddesine göre Cumhurbaşkanı, TBMM'ce kabul edilen kanunu on beş gün içinde yayımlar veya bir daha görüşülmek üzere geri gönderir. TBMM geri gönderilen kanunu üye tamsayısının salt çoğunluğuyla aynen kabul ederse Cumhurbaşkanı kanunu yayımlamak zorundadır. \"Cumhurbaşkanı, bir kanunu bir daha görüşülmek üzere TBMM'ye geri gönderebilir; TBMM bu kanunu üçte iki çoğunlukla aynen kabul ederse Cumhurbaşkanı kanunu yayımlamak zorundadır.\" seçeneği yanlıştır, çünkü aranan çoğunluk üçte iki değil salt çoğunluktur. \"Bütçe kanunu, diğer kanunlardan farklı bir usule tabi değildir.\" seçeneği de yanlıştır. Bütçe kanunu Anayasa'nın 161. maddesinde düzenlenen özel bir usule tabidir. Doğru cevap \"Cumhurbaşkanı, geri gönderilen kanunu TBMM salt çoğunluğuyla aynen kabul ederse Cumhurbaşkanı kanunu yayımlamak zorundadır.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "44117",
@@ -103,8 +104,8 @@
       "Fiillerin bir suç işleme kararının icrası kapsamında gerçekleştirilmesi",
       "Eylemlerin aynı suç tipini oluşturması"
      ],
-     "dogru": 1,
-     "aciklama": "TCK m. 43/1 uyarınca zincirleme suç için aranan koşullar: (1) birden fazla fiil, (2) aynı suç tipinin ihlali, (3) bir suç işleme kararının icrası kapsamında olma ve (4) mağdurun aynı kişi olması (malvarlığına karşı suçlar hariç) şeklindedir. Ancak bu son koşul her suç tipi için aranmaz; malvarlığı suçlarında farklı mağdurlar olsa bile zincirleme suç uygulanabilir. Dolayısıyla 'her eylemde mağdurun aynı kişi olması' mutlak bir koşul değildir; C seçeneği yanlış ifade içermektedir.",
+     "dogru": 0,
+     "aciklama": "Zincirleme suç TCK m.43'te genel hüküm olarak düzenlenmiştir. Bu nedenle uygulanması için ilgili suç tipinde ayrıca bir düzenleme bulunması gerekmez; m.43 nitelikleri elverişli tüm suçlara uygulanır. Kanunun aradığı koşullar şunlardır: birden fazla fiil işlenmesi, fiillerin bir suç işleme kararının icrası kapsamında gerçekleştirilmesi, aynı suçun birden fazla işlenmesi ve m.43/1 uyarınca bu fiillerin aynı kişiye karşı işlenmesi. Dolayısıyla \"Mağdurun her eylemde aynı kişi olması\" bir koşuldur. Aynı neviden fikri içtima (m.43/2) bu kuralın ayrık bir genişlemesidir ve bu koşulu ortadan kaldırmaz. \"Eylemlerin aynı suç tipini oluşturması\" da maddede açıkça aranır. Doğru cevap \"Kanunda bu suç için zincirleme suç hükümlerinin uygulanabileceğine dair düzenleme bulunması\" seçeneğidir.",
      "zorluk": "orta"
     },
     {
@@ -115,12 +116,12 @@
      "secenekler": [
       "Deneme süresi içinde yapılan her türlü fesih kesinlikle hukuka uygundur; mahkeme denetimi söz konusu olamaz",
       "4857 sayılı Kanun'a göre deneme süresi bireysel iş sözleşmesiyle en fazla 2 ay, toplu iş sözleşmesiyle en fazla 4 ay olarak kararlaştırılabilir; 4. ayda fesih serbesttir ancak sendikal nedenin varlığı halinde 6356 sayılı Kanun güvenceleri devreye girer",
-      "4857 sayılı Kanun'a göre deneme süresi en fazla 2 ay olabilir, dolayısıyla 4. ayda artık deneme süresi bitmiş olup işveren ihbar öneline uymak zorundadır",
+      "4857 sayılı Kanun'a göre deneme süresi en fazla iki ay olabilir; dolayısıyla dördüncü ayda deneme süresi bitmiş olup işveren ihbar önellerine uymak zorundadır",
       "Toplu iş sözleşmesiyle deneme süresi 4 aya çıkarılabileceğinden fesih hukuken geçerlidir; sendikal güvenceler deneme süresinde işlemez",
-      "Toplu iş sözleşmesiyle deneme süresi en fazla 4 aya çıkarılabilir; fesih hukuken geçerlidir ancak sendikal nedenle yapılan fesihlerde iş güvencesi hükümleri kıyasen uygulanır"
+      "Toplu iş sözleşmesiyle deneme süresi en fazla dört aya çıkarılabilir; bu nedenle yapılan fesih hukuken geçerlidir, ancak sendikal nedenle yapılan fesihlerde iş güvencesi hükümleri kıyasen uygulanır ve işçi lehine sonuç doğurabilir Yargıtay bu yönde karar vermektedir."
      ],
      "dogru": 1,
-     "aciklama": "4857 sayılı İş Kanunu'nun 15. maddesine göre, iş sözleşmelerine en çok 2 aylık deneme süresi konulabilir; toplu iş sözleşmeleriyle bu süre 4 aya kadar uzatılabilir. Dolayısıyla toplu iş sözleşmesiyle belirlenmiş 4 aylık deneme süresi kanuna uygundur ve bu süre içinde taraflar bildirim sürelerine uymak zorunda olmaksızın ve tazminatsız olarak sözleşmeyi feshedebilir. Ancak 6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanunu'nun 25. maddesi, sendika üyeliği veya sendikal faaliyetler nedeniyle yapılan fesihleri ayrıca yasaklamakta; bu yasak, iş güvencesi şartlarını taşımayan işçiler için de sendikal tazminat hakkı doğurduğundan deneme süresinin varlığı tek başına bu korumayı ortadan kaldırmamaktadır. Yargıtay kararlarında da sendikal nedenle yapılan deneme süresi fesihlerine karşı 6356 sayılı Kanun güvencelerinin uygulanacağı kabul edilmektedir. Bu nedenle D şıkkı doğrudur.",
+     "aciklama": "4857 sayılı Kanun'un 15. maddesine göre deneme süresi en çok iki aydır. Toplu iş sözleşmesiyle bu süre dört aya çıkarılabilir. Dolayısıyla dördüncü ayda yapılan fesih, deneme süresi içinde bildirimsiz ve tazminatsız yapılabilir. Ancak fesih sendikaya üyelik nedeniyle yapılmışsa 6356 sayılı Kanun'un sendikal güvenceleri devreye girer ve işçi sendikal tazminat talep edebilir. \"4857 sayılı Kanun'a göre deneme süresi en fazla iki ay olabilir; dolayısıyla dördüncü ayda deneme süresi bitmiş olup işveren ihbar önellerine uymak zorundadır\" seçeneği yanlıştır, çünkü toplu iş sözleşmesiyle uzatma mümkündür. \"Toplu iş sözleşmesiyle deneme süresi 4 aya çıkarılabileceğinden fesih hukuken geçerlidir; sendikal güvenceler deneme süresinde işlemez\" seçeneği de yanlıştır. Doğru cevap \"4857 sayılı Kanun'a göre deneme süresi bireysel iş sözleşmesiyle en fazla 2 ay\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -136,22 +137,23 @@
       "Tenkis davasında önce ölüme bağlı tasarruflar, yetmezse sağlararası kazandırmalar tenkis edilir."
      ],
      "dogru": 4,
-     "aciklama": "TMK m. 570 ve devamına göre tenkis sırasında önce ölüme bağlı tasarruflar orantılı biçimde tenkis edilir; bu yetmezse mirasbırakanın sağlığında yaptığı kazandırmalar, en sonuncusundan başlanmak üzere geriye doğru tenkise tabi tutulur. A yanlıştır; tenkis sağlararası kazandırmalar için de mümkündür. B yanlıştır; sıralama tersine belirtilmiştir. D tartışmalı olmakla birlikte TMK m. 528 miras sözleşmesi kapsamında bazı feragat imkânları tanır. E yanlıştır; mirası reddeden mirasçı miras hakkından vazgeçmiş sayılır, tenkis davası açamaz."
+     "aciklama": "Tenkis, saklı payı zedelenen mirasçıların kazandırmaları saklı pay oranında azaltmasıdır. Medeni Kanun'a göre tenkis sırası şöyledir: önce mirasbırakanın ölüme bağlı tasarrufları tenkis edilir. Bunlar yetmezse sağlararası kazandırmalar, en son yapılandan başlanarak geriye doğru tenkise tabi tutulur. \"Tenkis davasında önce sağlararası kazandırmalar, ardından ölüme bağlı tasarruflar tenkise tabi tutulur.\" seçeneği sırayı tersine çevirdiği için yanlıştır. \"Tenkis davası, yalnızca ölüme bağlı tasarruflara karşı açılabilir; sağlararası kazandırmalara karşı açılamaz.\" seçeneği de yanlıştır. Belirli sağlararası kazandırmalar da tenkis konusu olabilir. Doğru cevap \"Tenkis davasında önce ölüme bağlı tasarruflar, yetmezse sağlararası kazandırmalar tenkis edilir.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
-     "id": "44008",
+     "id": "44044",
      "dersId": "hukuk",
      "konuId": "anayasa",
-     "soru": "Aşağıdakilerden hangisi 1982 Anayasası'na göre yasama soybağışıklığı (dokunulmazlığı) kapsamında değerlendirilemez?",
+     "soru": "Anayasa'ya göre aşağıdaki ifadelerden hangisi yargı bağımsızlığına ilişkin doğru bir bilgi içermektedir?",
      "secenekler": [
-      "Milletvekilinin komisyon çalışmalarındaki görüşleri",
-      "Milletvekilinin Meclis'teki oy kullanma eylemi",
-      "Milletvekilinin Meclis soruşturması sırasındaki ifadeleri",
-      "Milletvekilinin seçim öncesi mitingde söylediği sözler",
-      "Milletvekilinin Meclis'teki açıklamaları"
+      "Hâkimler, vicdani kanaatlerine göre değil yalnızca kanun hükümlerine göre karar verir",
+      "Hâkimler görevlerinde bağımsızdır, Anayasa, kanun ve hukuka göre karar verirler",
+      "Hâkimler, Cumhurbaşkanı'nın onayı olmadan karar veremez",
+      "Hâkimler, TBMM kararlarıyla görevden alınabilir",
+      "Hâkimler, Adalet Bakanlığı'nın talimatlarıyla bağlıdır"
      ],
-     "dogru": 3,
-     "aciklama": "Anayasa'nın 83. maddesine göre yasama soybağışıklığı (mutlak dokunulmazlık); Meclis çalışmalarındaki oy ve sözleri ile ilgili olup milletvekilleri bu nedenle sorumlu tutulamazlar. Seçim öncesi mitingde söylenen sözler Meclis çalışmaları kapsamında olmadığından bu güvenceden yararlanamaz. Milletvekilliği sıfatı taşısa dahi Meclis dışındaki eylemler soybağışıklığı kapsamı dışındadır.",
+     "dogru": 1,
+     "aciklama": "Anayasa'nın 138. maddesine göre hâkimler görevlerinde bağımsız olup Anayasa'ya, kanuna ve hukuka uygun olarak vicdani kanaatlerine göre hüküm verirler. Hiçbir organ, makam veya kişi yargı yetkisinin kullanılmasında mahkemelere emir ve talimat veremez.",
      "zorluk": "kolay"
     },
     {
@@ -183,7 +185,8 @@
       "Üçüncü kişi yararına sözleşme"
      ],
      "dogru": 0,
-     "aciklama": "Bu işlemde Ali'nin Veli'ye olan borcunu sona erdirmek amacıyla Ahmet'in Ali'ye olan alacağı Veli'ye devredilmektedir. Alacağın temliki, alacaklının değişmesi anlamına gelir: artık Ahmet'in borcunu Veli tahsil edecektir. Borcun nakli (A) borçlunun değişmesidir. Yenileme (C) ise mevcut borcun yeni bir borçla ikame edilmesidir. Bu olayda Ali'nin borcu sona ererken Ahmet-Veli arasında yeni bir ilişki doğmaktadır; TBK m. 183 vd. kapsamında alacağın temliki söz konusudur."
+     "aciklama": "Olayda Ali, Veli'ye borçludur. Ali aynı zamanda Ahmet'e karşı 10.000 TL tutarında bir alacağa sahiptir. Ali, borcunu ödemek yerine bu alacağını Veli'ye devretmiştir. Alacaklı olan Ali, alacağını sözleşmeyle üçüncü kişiye (Veli'ye) geçirmiştir. Bu işlem alacağın temlikidir. Devir, ifa yerine geçtiği için edim yerine ifa niteliği de taşır. Alacağın temlikinde borçlu Ahmet'in değil, alacaklının (Ali'nin) devri esastır. \"Borcun üstlenilmesi\" yanlıştır, çünkü bu işlemde borçlu taraf değişirdi. Burada Ali'nin borcu bir başkasına geçmemiş, onun alacağı devredilmiştir. \"Borcun yenilenmesi (tecdit)\" de yanlıştır, çünkü mevcut borç sona erdirilip yerine yeni bir borç doğurulmamıştır. Doğru cevap \"Alacağın temliki\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "44357",
@@ -198,7 +201,7 @@
       "Geçmişteki sabıkasının bulunmamasının takdiri indirimde dikkate alınması"
      ],
      "dogru": 1,
-     "aciklama": "TCK m. 62 kapsamındaki takdiri indirim, hâkimin sanığın kişiliği, duruşmadaki tutumu, geçmişi ve pişmanlığı gibi unsurları değerlendirerek uyguladığı bir indirim mekanizmasıdır. Yargıtay içtihadına göre sanığın suçu inkâr etmesi, anayasal susma ve savunma haklarının doğal bir yansımasıdır. Bu nedenle inkâr etme hâli, tek başına takdiri indirimin uygulanmamasına gerekçe olamaz; aksi yorum sanığı savunmasından vazgeçmeye zorlamak anlamına gelir ve adil yargılanma hakkını zedeler. D seçeneğindeki yorum hukuka aykırı bir yaklaşım sergilemektedir.",
+     "aciklama": "TCK m. 62'ye göre hâkim, failin geçmişini, sosyal ilişkilerini, suçtan sonraki ve yargılama sürecindeki davranışlarını ve cezanın failin geleceği üzerindeki etkisini gözeterek cezayı indirebilir. Suçu inkâr etmek savunma hakkının kullanılmasıdır. Bu yüzden inkârın tek başına takdiri indirimi engellemesi, hatalı bir değerlendirmedir. \"Sanığın pişmanlık duyduğunu ifade etmesinin takdiri indirime esas alınması\" ifadesi doğrudur, çünkü yargılamadaki tutum ve pişmanlık gözetilebilir. \"Geçmişteki sabıkasının bulunmamasının takdiri indirimde dikkate alınması\" ifadesi de m. 62'deki geçmiş ölçütüne uygundur. Doğru cevap \"Sanığın suçu inkâr etmesinin tek başına takdiri indirimi engellemesi\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -230,7 +233,8 @@
       "İntifa hakkı"
      ],
      "dogru": 3,
-     "aciklama": "Mülkiyet hakkı, bir eşya üzerindeki en geniş ve tam hakimiyeti ifade eden asli bir ayni haktır; sınırlı ayni hak değildir. Sınırlı ayni haklar; irtifak hakları (intifa, üst hakkı, kaynak hakkı vb.), taşınmaz yükü ve taşınmaz rehin hakları (ipotek, ipotekli borç senedi, irat senedi) olmak üzere üçe ayrılır. İntifa (A), üst hakkı (B), taşınmaz yükü (C) ve ipotek (E) sınırlı ayni haklardır."
+     "aciklama": "Eşya hukukunda ayni haklar, mülkiyet hakkı ve sınırlı ayni haklar olarak ikiye ayrılır. Mülkiyet, eşya üzerindeki en geniş ve asli haktır. Sınırlı ayni haklar ise mülkiyetten türeyen ve eşya üzerinde belirli yetkiler veren haklardır. Bunlar irtifak hakları (intifa, oturma, üst hakkı gibi), taşınmaz yükü ve rehin haklarıdır (ipotek, taşınır rehni gibi). Soruda sınırlı ayni hak olmayan seçenek aranmaktadır. \"İpotek\" bir rehin hakkıdır. \"Üst hakkı\" bir irtifak hakkıdır. \"İntifa hakkı\" bir irtifak hakkıdır. \"Taşınmaz yükü\" de sınırlı ayni haklar arasında sayılır. Dolayısıyla bunların hepsi sınırlı ayni haktır. Doğru cevap \"Mülkiyet hakkı\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "44103",
@@ -244,8 +248,8 @@
       "Gensoru görüşmeleri sırasında açılan güven oylamasında salt çoğunluk gerekmeksizin güvensizlik oyu kullanılması, ilgili bakanın görevden alınmasını zorunlu kılar.",
       "Gensoru önergesi en az yirmi milletvekili tarafından imzalanmalı ve Cumhurbaşkanı'na sunulmalıdır."
      ],
-     "dogru": 2,
-     "aciklama": "2017 Anayasa değişiklikleriyle Türkiye parlamenter sistemden cumhurbaşkanlığı hükümet sistemine geçmiş; bakanlar kurulu kaldırılmış ve Cumhurbaşkanı'na karşı gensoru mekanizması uygulanamaz hale gelmiştir. Ancak gensoru kurumu tamamen kaldırılmamış; yeni sistemde Cumhurbaşkanı yardımcıları ve bakanlara yönelik olarak korunmuştur. Anayasa'nın 98. maddesi uyarınca gensoru Cumhurbaşkanı yardımcıları ve bakanlara yöneltilebilir; güvensizlik oyu alan bakan Cumhurbaşkanı tarafından görevden alınır (Meclis doğrudan görevden düşürmez, ancak güvensizlik oyu meclis üye tam sayısının salt çoğunluğuyla alınmalıdır). D seçeneği bu durumu en doğru biçimde ifade etmektedir. Doğru cevap D'dir.",
+     "dogru": 1,
+     "aciklama": "Gensoru 2017 değişiklikleriyle tümüyle kaldırıldığından bakanlara gensoru yöneltilmesini anlatan “Gensoru yalnızca Cumhurbaşkanı yardımcıları ve bakanlara yöneltilebilir; görüşme sonunda…” seçeneği yanlış, kaldırıldığını belirten “Gensoru, 2017 anayasa değişiklikleriyle kaldırılmış; bu denetim yetkisi yazılı soru ve…” seçeneği doğrudur. Doğru cevap “Gensoru, 2017 anayasa değişiklikleriyle kaldırılmış; bu denetim yetkisi yazılı soru ve…” seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -292,8 +296,8 @@
       "A; B'ye yönelik kasten öldürmeye teşebbüs ile C'ye yönelik olası kastla öldürmeden fikri içtima hükümleriyle sorumludur.",
       "A; B'ye yönelik kasten öldürmeye teşebbüs ile C'ye yönelik taksirle öldürmeden sorumludur."
      ],
-     "dogru": 2,
-     "aciklama": "Bu olayda sapma (aberratio ictus) söz konusudur. Yargıtay içtihadı ve öğretideki ağırlıklı görüş; aynı neviden sapmalarda fikri içtima değil, gerçek içtima kurallarının uygulanması gerektiği yönündedir. A, B'ye yönelik kasten öldürmeye teşebbüsten sorumludur (TCK m.81, 35). C'ye gelince; kalabalık bir ortamda silah kullanan A, C'nin zarar görebileceğini öngörmesi gerekirken bu sonucu kabullenerek hareket ettiğinden olası kast söz konusudur. C'nin ölmesi halinde olası kastla öldürme (TCK m.81 ile m.21/2 bağlantısı) gündeme gelir. İki ayrı eylem ve iki ayrı kişi hedef alındığından fikri içtima değil, ayrı sorumluluk esastır. E şıkkı bu değerlendirmeyi en doğru biçimde yansıtmaktadır.",
+     "dogru": 0,
+     "aciklama": "Hedefte sapma tek fiille işlendiğinden ayrı ayrı sorumluluk değil fikri içtima (m.44) uygulanır ve C'ye yönelik netice kast kapsamında öngörülmediğinden taksirle öldürme söz konusudur. Doğru cevap “A; B'ye yönelik kasten öldürmeye teşebbüs ile C'ye yönelik taksirle öldürmeden fikri…” seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -325,7 +329,7 @@
       "Hakkın kötüye kullanılması yasağı, mutlak haklar dahil tüm subjektif haklar bakımından uygulanabilir."
      ],
      "dogru": 1,
-     "aciklama": "TMK m. 2 kapsamında hakkın kötüye kullanılması yasağı, kamu düzenine ilişkin bir norm niteliği taşıdığından hâkim bunu resen (kendiliğinden) dikkate almak zorundadır; taraflarca ileri sürülmesini beklemesi gerekmez. Bu nedenle A şıkkındaki 'resen gözetemez' ifadesi yanlıştır. Diğer şıklar doktrinde ve Yargıtay içtihadında kabul gören doğru ifadelerdir.",
+     "aciklama": "TMK m. 2'ye göre hakkın açıkça kötüye kullanılmasını hukuk düzeni korumaz. Hâkim, hakkın kötüye kullanılması yasağını taraflarca ileri sürülmese de kendiliğinden (resen) gözetmek zorundadır; çünkü bu kural kamu düzenine ilişkindir ve itiraz olarak ileri sürülmesi şart değildir. Bu nedenle hâkimin resen gözetemeyeceğini söyleyen ifade yanlıştır. Kötüye kullanım, olayın objektif koşullarına göre değerlendirilir; \"Bir hakkın kötüye kullanılıp kullanılmadığı, somut olayın objektif koşullarına göre değerlendirilir; hak sahibinin subjektif kastı belirleyici olmak zorunda değildir.\" ifadesi doğrudur. \"Hakkın kötüye kullanılması yasağı, mutlak haklar dahil tüm subjektif haklar bakımından uygulanabilir.\" ifadesi de doğrudur. Doğru cevap \"Hakkın kötüye kullanılması halinde hâkim, talepte bulunulmaksızın resen bu durumu gözetemez; ancak itiraz olarak ileri sürüldüğünde buna göre karar vermek zorundadır.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -354,7 +358,7 @@
       "Yüksek Askeri Şura (YAŞ) kararları anayasal güvence gereği yargı dışıdır.",
       "Anayasa'nın 159. maddesi kapsamındaki Hâkimler ve Savcılar Kurulu meslekten çıkarma dışındaki kararları, anayasal düzenleme nedeniyle yargı denetimi dışında bırakılmıştır; ancak bu durum Avrupa normlarıyla tartışmalıdır.",
       "Cumhurbaşkanının takdir yetkisine dayanarak yaptığı atamalar hiçbir koşulda yargı denetimine tabi değildir.",
-      "Danıştay'ın danışma görüşleri, bağlayıcı olmadığından zaten dava konusu edilemez ve bu durum m.125 kapsamında bir istisna değildir."
+      "Danıştay'ın verdiği danışma görüşleri bağlayıcı nitelik taşımadığından zaten dava konusu edilememekte; bu durum Anayasa'nın 125. maddesi bakımından açık bir istisna oluşturmaktadır. Bu nedenle danışma görüşleri ayrı bir kategori oluşturmaz."
      ],
      "dogru": 2,
      "aciklama": "Anayasa m.159/10 (eski düzenleme ve 2017 değişikliği sonrası), HSK'nın meslekten çıkarma kararları dışındaki kararlarını yargı denetimi dışında tutmuş; bu durum hukuk devleti ve etkili başvuru hakkı bakımından doktrinde yoğun eleştiri almıştır. AİHM de Volkov/Ukrayna ve Denisov/Ukrayna kararlarında yargı organlarının kendi iç disiplin mekanizmalarında etkili başvuru hakkına (m.6 ve m.13 ECHR) uyulmasını zorunlu kılmıştır. Seçenek E teknik olarak doğrudur ancak sorunun sorduğu 'meşru anayasal istisna' kriterine uymaz; o nedenle C en doğru cevaptır.",
@@ -432,8 +436,8 @@
      "secenekler": [
       "Yalnızca Danıştay veya Yargıtay başvurabilir",
       "Bir davaya bakan mahkeme, uygulanacak kanunun Anayasa'ya aykırı olduğu kanısına varmalı ya da taraflardan biri bu yönde ciddi bir itiraz ileri sürmeli ve mahkeme bunu ciddi bulmalıdır",
-      "Herhangi bir vatandaş doğrudan Anayasa Mahkemesi'ne başvurabilir",
-      "Sadece savcılar tarafından başvuru yapılabilir",
+      "Herhangi bir vatandaş, menfaat ilişkisi aranmaksızın doğrudan Anayasa Mahkemesi'ne başvurabilir ve kanunun iptalini isteyebilir Bu başvuru için herhangi bir süre koşulu da aranmaz ve derdest bir dava bulunması gerekmez",
+      "Başvuru yalnızca Cumhuriyet savcıları tarafından yapılabilir",
       "Yalnızca Cumhurbaşkanı başvurabilir"
      ],
      "dogru": 1,
@@ -447,7 +451,7 @@
      "soru": "İdare hukukunda 'yetki genişliği' ilkesine göre aşağıdakilerden hangisi doğrudur?",
      "secenekler": [
       "Valiler, merkezi idarenin taşradaki temsilcisi sıfatıyla bazı konularda merkeze danışmaksızın karar alabilir.",
-      "Yetki genişliği, il idaresinin merkezden bağımsız tüzel kişiliğe kavuşmasını sağlar.",
+      "Yetki genişliği, il idaresinin merkezden bağımsız ayrı bir tüzel kişiliğe kavuşmasını sağlar. Bu tüzel kişilik il özel idaresinden ayrıdır.",
       "Belediye başkanları, il genelinde idari karar alma yetkisine sahiptir.",
       "Yetki genişliği, yerel yönetimlere tanınan özerk karar alma hakkını ifade eder.",
       "Yetki genişliği ilkesi yalnızca büyükşehir belediyelerinde uygulanır."
@@ -469,7 +473,8 @@
       "Tarafların arabuluculuk görüşmelerine başlaması"
      ],
      "dogru": 0,
-     "aciklama": "TBK m. 154 uyarınca zamanaşımı; borçlunun borcu ikrar etmesi (kısmen ifa, faiz ödemesi, rehin vermesi vb.) veya alacaklının dava açması, icra takibi başlatması gibi hallerde kesilir. Borçlunun borcunu kısmen ifa etmesi, borcu zımnen ikrar ettiğinden zamanaşımını keser ve süre sıfırdan işlemeye başlar. İhtarname (D) zamanaşımını durdurmaz, sadece keser ama yalnızca yazılı başvuru/ihtarda TBK m. 154/II-3 hükmü dikkate alınmalıdır. Arabuluculuk başvurusu ise zamanaşımını durdurur (kesmez). Dikkat: Kısmi ifa kesin bir kesme nedenidir."
+     "aciklama": "TBK'ya göre zamanaşımını kesen, yani süreyi sıfırlayarak yeniden başlatan hallerden biri borçlunun borcu tanımasıdır. Kısmen ifa borcun varlığının kabulü anlamına geldiği için zamanaşımını keser. Kesilmeden sonra süre yeniden işlemeye başlar. Bu nedenle \"Borçlunun borcunu kısmen ifa etmesi\" doğru seçenektir. \"Alacaklının borçluya ihtarname göndermesi\" seçeneği en çok karıştırılandır. İhtar borçluyu temerrüde düşürebilir, ancak zamanaşımını kesen sebepler arasında sayılmaz. \"Tarafların arabuluculuk görüşmelerine başlaması\" seçeneği de yanlıştır. Arabuluculuk süreci zamanaşımını durdurabilir, ancak süreyi yeniden başlatmaz. \"Alacaklının dava açmak üzere avukat tutması\" ve \"Alacaklının borcunu ispat eden belgeyi kaybetmesi\" seçeneklerinin zamanaşımına etkisi yoktur. Doğru cevap \"Borçlunun borcunu kısmen ifa etmesi\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "44270",
@@ -484,22 +489,24 @@
       "Sanığın, suç kastıyla başkasının mülküne zarar vermesi."
      ],
      "dogru": 0,
-     "aciklama": "TCK m. 30/1 gereğince, suçun oluşumunu sağlayan maddî unsurlar konusunda yanılma kastı ortadan kaldırır. B şıkkında sanık, başkasının malını almakta olduğunu bilmemektedir; suçun maddî unsuru olan 'başkasına ait mal' konusunda yanılma söz konusu olduğundan kast bulunmamaktadır. A şıkkı meşru müdafaada sınır aşımı ya da hayali müdafaa meselesidir ve farklı hükümler uygulanır. D şıkkında yanılgının kaçınılabilir olması taksir sorumluluğunu doğurabilir, kastı ortadan kaldırmaz. E şıkkında ise yaralama kastı ile hareket birlikte gerçekleştiğinden kast varlığını korur."
+     "aciklama": "TCK m.30/1 uyarınca suçun kanuni tanımındaki maddi unsurları bilmeden hareket eden kişi kasten hareket etmiş sayılmaz. Şemsiye örneğinde sanık, aldığı şeyin başkasına ait olduğunu bilmemektedir. Bu bir unsur hatasıdır ve kast ortadan kalkar. \"Sanığın, mağdurun kendisine saldıracağını yanlış değerlendirerek onu yaralaması.\" seçeneği m.30/3 kapsamında sebeplerin hatasıdır; kaçınılabilir bir hata varsa taksirle sorumluluk doğabilir ve kast bu seçenekte tartışmalıdır. \"Sanığın, öfke hâlinde kasıtlı olarak bir kişiyi yaraladıktan sonra bu hareketi hatırlamadığını beyan etmesi.\" seçeneğinde ise hareket kasıtlıdır, hatırlamamak kastı ortadan kaldırmaz. Doğru cevap \"Sanığın, alışveriş sırasında başkasının şemsiyesini yanlışlıkla kendi şemsiyesi sanarak alması.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
-     "id": "44683",
+     "id": "44617",
      "dersId": "hukuk",
      "konuId": "i_s_hukuku",
-     "soru": "Aşağıdaki çalışma süresi düzenlemelerinden hangisi 4857 sayılı İş Kanunu'nda öngörülen denkleştirme uygulaması kapsamında değerlendirilemez?",
+     "soru": "İş sözleşmesinin işveren tarafından haksız yere feshedilmesi durumunda işçinin açabileceği 'işe iade' davası için öngörülen hak düşürücü süre kaç gündür?",
      "secenekler": [
-      "Toplu iş sözleşmesiyle denkleştirme süresinin 4 aya çıkarılması",
-      "Günlük çalışma süresinin 11 saati aşmaması koşuluyla haftalık ortalama çalışma süresinin 45 saat olması",
-      "İşçinin herhangi bir haftada 11 saati aşan çalışma yapması",
-      "Denkleştirme süresinin 2 ayı aşmaması",
-      "Bazı haftalarda 45 saatin altında, bazı haftalarda üstünde çalışma yapılması"
+      "15 gün",
+      "30 gün",
+      "20 gün",
+      "60 gün",
+      "45 gün"
      ],
-     "dogru": 2,
-     "aciklama": "4857 sayılı İş Kanunu'nun 63. maddesi uyarınca, tarafların anlaşması koşuluyla haftalık normal çalışma süresi işyerlerinde haftalar itibarıyla farklı biçimde dağıtılabilir (denkleştirme). Bu uygulamada günlük çalışma süresi 11 saati aşamaz ve denkleştirme 2 aylık süre içinde tamamlanır (toplu iş sözleşmesiyle 4 aya uzatılabilir). Herhangi bir haftada 11 saatin aşılması, denkleştirme uygulamasının çerçevesinin dışına çıkar; zira bu süre hem günlük hem de denkleştirmeye ilişkin mutlak üst sınırdır ve aşılması hâlinde fazla çalışma hükümleri devreye girer."
+     "dogru": 1,
+     "aciklama": "4857 sayılı İş Kanunu'nun 20. maddesine göre iş sözleşmesi feshedilen işçi, fesih bildiriminde sebep gösterilmediği veya gösterilen sebebin geçerli bir sebep olmadığı iddiasıyla fesih bildiriminin tebliği tarihinden itibaren bir ay içinde işe iade davası açabilir. Bu süre 30 gün olup hak düşürücü niteliktedir.",
+     "zorluk": "kolay"
     },
     {
      "id": "44396",
@@ -530,7 +537,8 @@
       "Uyuşmazlık Mahkemesi"
      ],
      "dogru": 3,
-     "aciklama": "2017 anayasa değişiklikleriyle Askeri Yargıtay ve Askeri Yüksek İdare Mahkemesi kaldırılmıştır. Dolayısıyla Askeri Yüksek İdare Mahkemesi artık mevcut anayasal düzende yer almamaktadır. Anayasa'nın 155. maddesi kapsamındaki yüksek mahkemeler; Anayasa Mahkemesi, Yargıtay, Danıştay ve Uyuşmazlık Mahkemesi'dir. Askeri Yüksek İdare Mahkemesi, mevcut Anayasa kapsamında 'yüksek mahkeme' olarak sayılmamaktadır."
+     "aciklama": "2017 anayasa değişiklikleriyle Askeri Yargıtay ve Askeri Yüksek İdare Mahkemesi kaldırılmıştır. Dolayısıyla Askeri Yüksek İdare Mahkemesi artık mevcut anayasal düzende yer almamaktadır. Anayasa'nın 155. maddesi kapsamındaki yüksek mahkemeler; Anayasa Mahkemesi, Yargıtay, Danıştay ve Uyuşmazlık Mahkemesi'dir. Askeri Yüksek İdare Mahkemesi, mevcut Anayasa kapsamında 'yüksek mahkeme' olarak sayılmamaktadır.",
+     "zorluk": "orta"
     },
     {
      "id": "44190",
@@ -545,7 +553,8 @@
       "İdari Yargılama Usulü Kanunu'nun 13. maddesine dayandırılır; kusur, zarar ve illiyet bağı aranır."
      ],
      "dogru": 2,
-     "aciklama": "İdarenin kusursuz sorumluluğu, Anayasa'nın 125/son maddesindeki 'idarenin kendi eylem ve işlemlerinden doğan zararları ödemekle yükümlü olduğu' hükmüne ve yargısal içtihatla geliştirilmiş sosyal risk ile fedakârlığın denkleştirilmesi ilkelerine dayandırılmaktadır. Bu sorumlulukta kusur aranmaz; yalnızca zarar ve uygun illiyet bağının varlığı yeterlidir. Terör olayları, aşı zararları, yangın söndürme çalışmaları gibi durumlarda uygulanmaktadır."
+     "aciklama": "İdarenin kusursuz sorumluluğu, Anayasa'nın 125/son maddesindeki 'idarenin kendi eylem ve işlemlerinden doğan zararları ödemekle yükümlü olduğu' hükmüne ve yargısal içtihatla geliştirilmiş sosyal risk ile fedakârlığın denkleştirilmesi ilkelerine dayandırılmaktadır. Bu sorumlulukta kusur aranmaz; yalnızca zarar ve uygun illiyet bağının varlığı yeterlidir. Terör olayları, aşı zararları, yangın söndürme çalışmaları gibi durumlarda uygulanmaktadır.",
+     "zorluk": "orta"
     },
     {
      "id": "44557",
@@ -556,11 +565,12 @@
       "Sözleşmeden dönme hakkı yalnızca yazılı sözleşmelerde kullanılabilir.",
       "Sözleşmeden dönme, bozucu yenilik doğuran bir hak olup sözleşmeyi geçmişe etkili (ex tunc) olarak ortadan kaldırır ve taraflar verdiklerini iade eder.",
       "Sözleşmeden dönme, sadece ileriye yönelik hüküm doğurur ve tazminat talebini ortadan kaldırır.",
-      "Sözleşmeden dönme, sözleşmeyi ileriye etkili (ex nunc) olarak sona erdirir; geçmişe yönelik tasfiye yapılmaz.",
+      "Sözleşmeden dönme, sözleşmeyi yalnızca ileriye etkili (ex nunc) biçimde sona erdirir; geçmişe yönelik herhangi bir tasfiye yapılmaz. Taraflar aldıklarını iade etmez.",
       "Sözleşmeden dönme beyanı mahkeme kararına gerek olmaksızın sonuç doğurmaz."
      ],
      "dogru": 1,
-     "aciklama": "TBK m. 125 vd. uyarınca sözleşmeden dönme, bozucu yenilik doğuran (inşai) bir haktır ve karşı tarafa yöneltilen tek taraflı bir beyanla kullanılır; mahkeme kararına gerek yoktur. Türk Borçlar Kanunu'nun benimsediği görüşe göre sözleşmeden dönme, sözleşmeyi geçmişe etkili (ex tunc) olarak ortadan kaldırır ve taraflar birbirlerine verdiklerini iade etmek zorundadır (TBK m. 125/3). Ayrıca dönme, tazminat talebini ortadan kaldırmaz; alacaklı menfi zararını ve müspet zararını talep edebilir."
+     "aciklama": "TBK m. 125 vd. uyarınca sözleşmeden dönme, bozucu yenilik doğuran (inşai) bir haktır ve karşı tarafa yöneltilen tek taraflı bir beyanla kullanılır; mahkeme kararına gerek yoktur. Türk Borçlar Kanunu'nun benimsediği görüşe göre sözleşmeden dönme, sözleşmeyi geçmişe etkili (ex tunc) olarak ortadan kaldırır ve taraflar birbirlerine verdiklerini iade etmek zorundadır (TBK m. 125/3). Ayrıca dönme, tazminat talebini ortadan kaldırmaz; alacaklı menfi zararını ve müspet zararını talep edebilir.",
+     "zorluk": "orta"
     },
     {
      "id": "44306",
@@ -571,11 +581,12 @@
       "Bir kimse hakkında soruşturma ve kovuşturma başlatılmasını sağlayacak biçimde gerçeğe aykırı beyanda bulunmak ya da delil uydurmak",
       "Bir kimse hakkında asılsız dedikodu yaymak",
       "Bir kimse hakkında gerçek dışı ihbarda bulunmak",
-      "Bir kimsenin şeref ve saygınlığını zedeleyecek olgular ileri sürmek",
+      "Bir kimsenin şeref ve saygınlığını zedeleyecek nitelikte somut olgular ileri sürmek ve bunları yaymak ve bu beyanları kamuya açık ortamda tekrarlamak",
       "Yetkililere gerçeğe aykırı bilgi vermek"
      ],
      "dogru": 0,
-     "aciklama": "TCK m. 267'ye göre iftira suçu; yetkili makamlara ihbar veya şikâyette bulunarak ya da basın ve yayın yoluyla, işlemediğini bildiği hâlde hakkında soruşturma ve kovuşturma başlatılmasını ya da idari bir yaptırım uygulanmasını sağlamak amacıyla bir kimseye hukuka aykırı bir fiil isnat etmek veya bu suç nedeniyle kullanılabilecek delil uydurmakla oluşur. Soyut asılsız beyan ya da dedikodu bu suçu oluşturmaz."
+     "aciklama": "TCK m. 267'ye göre iftira suçu; yetkili makamlara ihbar veya şikâyette bulunarak ya da basın ve yayın yoluyla, işlemediğini bildiği hâlde hakkında soruşturma ve kovuşturma başlatılmasını ya da idari bir yaptırım uygulanmasını sağlamak amacıyla bir kimseye hukuka aykırı bir fiil isnat etmek veya bu suç nedeniyle kullanılabilecek delil uydurmakla oluşur. Soyut asılsız beyan ya da dedikodu bu suçu oluşturmaz.",
+     "zorluk": "orta"
     },
     {
      "id": "44650",
@@ -589,8 +600,8 @@
       "18 yaşını doldurmuş olmak",
       "14 yaşını doldurmuş olmak"
      ],
-     "dogru": 2,
-     "aciklama": "6356 sayılı Sendikalar ve Toplu İş Sözleşmesi Kanunu'nun 17. maddesi uyarınca on beş yaşını dolduran ve bir iş sözleşmesine dayalı olarak çalışan işçiler sendikaya üye olabilir. Ancak on beş ile on sekiz yaş arasındaki işçilerin sendika kurucusu olabilmesi için on sekiz yaşını doldurmuş olmaları gerekmektedir. Bu nedenle üyelik için gerekli asgari yaş on beştir.",
+     "dogru": 0,
+     "aciklama": "6356 sayılı Kanun m.17 uyarınca on beş yaşını dolduran işçiler sendikaya üye olabilir, bu nedenle doğru şık A'dır. Doğru cevap 15 yaşını doldurmuş olmak şeklindedir.",
      "zorluk": "kolay"
     },
     {
@@ -599,14 +610,15 @@
      "konuId": "medeni",
      "soru": "Türk Borçlar Kanunu'na göre sözleşmenin yorumunda esas alınan ilke aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Sözleşmede belirsizlik varsa hâkim re'sen tarafların iradesini tamamlar.",
+      "Sözleşmede belirsizlik bulunması hâlinde hâkim re'sen tarafların iradesini tamamlar ve boşluğu doldurur. Bu yetki hâkime kanunla tanınmıştır.",
       "Tarafların karşılıklı ve gerçek iradeleri esas alınır; bu tespit edilemezse dürüstlük kuralına göre yorum yapılır.",
-      "Lafzi yorum ilkesi: sözleşme metni her zaman kesin sınırı belirler.",
+      "Lafzi yorum ilkesi uyarınca sözleşme metni her zaman kesin sınırı belirler.",
       "Sözleşme, borçlu lehine yorumlanır.",
       "Sözleşme, alacaklı lehine yorumlanır."
      ],
      "dogru": 1,
-     "aciklama": "TBK m. 19'a göre sözleşmenin yorumunda tarafların kullandıkları sözcüklere değil, gerçek ve ortak iradelerine bakılır. Gerçek irade tespit edilemezse dürüstlük kuralı devreye girer (TBK m. 2 ve m. 19). 'Borçlu lehine yorum' ilkesi bazı sözleşme türleri (genel işlem koşulları gibi) için özel bir kural olup genel kural değildir. Hâkim re'sen iradesini ikame edemez, eksik sözleşmeleri yorum yoluyla tamamlayabilir ancak bu da taraf iradesinden hareketle olur."
+     "aciklama": "TBK m. 19'a göre sözleşmenin yorumunda tarafların kullandıkları sözcüklere değil, gerçek ve ortak iradelerine bakılır. Gerçek irade tespit edilemezse dürüstlük kuralı devreye girer (TBK m. 2 ve m. 19). 'Borçlu lehine yorum' ilkesi bazı sözleşme türleri (genel işlem koşulları gibi) için özel bir kural olup genel kural değildir. Hâkim re'sen iradesini ikame edemez, eksik sözleşmeleri yorum yoluyla tamamlayabilir ancak bu da taraf iradesinden hareketle olur.",
+     "zorluk": "orta"
     },
     {
      "id": "44059",
@@ -621,7 +633,8 @@
       "Aynı hukuki durumda olanlar arasındaki farklı muamelenin nesnel ve makul bir amaca dayanmasını"
      ],
      "dogru": 4,
-     "aciklama": "Anayasa Mahkemesi'nin yerleşik içtihadına göre eşitlik ilkesi, benzer durumda olanların mutlak biçimde aynı kurallara tabi tutulmasını değil; farklı muamelenin nesnel, makul ve haklı bir amaca dayanmasını gerektirir. Eşitlik ilkesine aykırılık, aynı hukuki durumda olanlar arasındaki farklı muamelenin haklı ve nesnel bir nedene dayandırılamaması hâlinde söz konusu olur. Bu ölçüt Avrupa İnsan Hakları Mahkemesi içtihadıyla da örtüşmektedir."
+     "aciklama": "Anayasa Mahkemesi'nin yerleşik içtihadına göre eşitlik ilkesi, benzer durumda olanların mutlak biçimde aynı kurallara tabi tutulmasını değil; farklı muamelenin nesnel, makul ve haklı bir amaca dayanmasını gerektirir. Eşitlik ilkesine aykırılık, aynı hukuki durumda olanlar arasındaki farklı muamelenin haklı ve nesnel bir nedene dayandırılamaması hâlinde söz konusu olur. Bu ölçüt Avrupa İnsan Hakları Mahkemesi içtihadıyla da örtüşmektedir.",
+     "zorluk": "orta"
     },
     {
      "id": "44125",

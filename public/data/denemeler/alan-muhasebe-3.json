@@ -25,7 +25,8 @@
       "Bilanço"
      ],
      "dogru": 4,
-     "aciklama": "Bilanço (finansal durum tablosu), işletmenin belirli bir tarih itibarıyla sahip olduğu varlıkları ve bu varlıkların finansman kaynaklarını gösteren statik bir mali tablodur. Gelir tablosu ve nakit akış tablosu ise belirli bir dönemin akışlarını gösteren dinamik tablolardır. Doğru cevap D şıkkıdır."
+     "aciklama": "Bilanço, işletmenin belirli bir tarihteki varlıklarını, yabancı kaynaklarını ve öz kaynaklarını gösterir. Bu nedenle bir döneme değil, tek bir ana ait durumu yansıtır ve anlık fotoğrafa benzetilir. Gelir tablosu ise bir dönemdeki gelir ve giderleri kapsayan akış tablosudur. \"Gelir tablosu\" seçeneği en çok karıştırılandır; çünkü o bir dönem boyunca oluşan performansı gösterir, bir an için durumu değil. \"Nakit akış tablosu\" da bir dönemdeki nakit giriş ve çıkışlarını gösterdiği için anlık değildir. Bilanço ise stok tablosu niteliğindedir. Doğru cevap \"Bilanço\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "50126",
@@ -56,7 +57,7 @@
       "70.000 TL zarar"
      ],
      "dogru": 1,
-     "aciklama": "Yıllık amortisman: 1.200.000 / 5 = 240.000 TL. 2024 yılı amortismanı (6 ay, Temmuz–Aralık): 240.000 × (6/12) = 120.000 TL. 2025 yılı amortismanı (tam yıl): 240.000 TL. Toplam birikmiş amortisman (01.01.2026 itibarıyla): 120.000 + 240.000 = 360.000 TL. Defter değeri: 1.200.000 − 360.000 = 840.000 TL. Satış bedeli 850.000 TL → Kâr: 850.000 − 840.000 = 10.000 TL kâr. Cevap A.",
+     "aciklama": "Yıllık amortisman: 1.200.000 / 5 = 240.000 TL. 2024 yılı amortismanı (6 ay, Temmuz–Aralık): 240.000 × (6/12) = 120.000 TL. 2025 yılı amortismanı (tam yıl): 240.000 TL. Toplam birikmiş amortisman (01.01.2026 itibarıyla): 120.000 + 240.000 = 360.000 TL. Defter değeri: 1.200.000 − 360.000 = 840.000 TL. Satış bedeli 850.000 TL → Kâr: 850.000 − 840.000 = 10.000 TL kâr. Doğru cevap: «10.000 TL kâr».",
      "zorluk": "zor"
     },
     {
@@ -68,7 +69,7 @@
       "Dönem Kârı Vergi Karşılığı 55.000 TL borç / Ödenecek Vergi 25.000 TL borç / Kasa 80.000 TL alacak",
       "Vergi Giderleri 80.000 TL borç / Peşin Ödenen Vergiler 80.000 TL alacak",
       "Dönem Kârı Vergi ve Yasal Yükümlülük Karşılıkları 25.000 TL borç / Ödenecek Vergi ve Fonlar 25.000 TL alacak",
-      "Dönem Kârı Vergi ve Yasal Yükümlülük Karşılıkları 80.000 TL borç / Ödenecek Vergi ve Fonlar 80.000 TL alacak",
+      "Dönem Kârı Vergi ve Yasal Yükümlülük Karşılıkları 80.000 TL borç / Ödenecek Vergi ve Fonlar 80.000 TL alacak; peşin ödenen vergiler ayrıca mahsup edilmez ve fark ertesi dönemde mahsup edilir",
       "Dönem Kârı Vergi ve Yasal Yükümlülük Karşılıkları 80.000 TL borç / Peşin Ödenen Vergi ve Fonlar 55.000 TL alacak / Ödenecek Vergi ve Fonlar 25.000 TL alacak"
      ],
      "dogru": 4,
@@ -88,7 +89,7 @@
       "198.750 TL"
      ],
      "dogru": 1,
-     "aciklama": "Azalan bakiyeler yönteminde amortisman hurda değer dikkate alınmadan orijinal maliyet üzerinden hesaplanır (net defter değeri hurda değerin altına düşmez). 01.07.2024 - 31.12.2024 (6 aylık): Amortisman = 360.000 × %25 × (6/12) = 45.000 TL. Dönem sonu defter değeri = 360.000 - 45.000 = 315.000 TL. 01.01.2025 - 31.12.2025 (tam yıl): Amortisman = 315.000 × %25 = 78.750 TL. Dönem sonu defter değeri = 315.000 - 78.750 = 236.250 TL. Ancak bazı KPSS kaynaklarında azalan bakiyeler oranı düz amortisman oranının 2 katı olarak uygulanır ve yalnızca tam yıl hesaplanır. Alternatif: İlk tam yıl (2024 yılı için tam yıl varsayımı): 360.000 × 0,25 = 90.000; NBD = 270.000. 2025: 270.000 × 0,25 = 67.500; NBD = 202.500 TL. KPSS standart uygulamasında alım tarihi tam yıl sayılır: Cevap A şıkkıdır (202.500 TL).",
+     "aciklama": "Soru, normal oranın iki katı olan %25 azalan bakiyeler oranıyla Vergi Usul Kanunu çerçevesinde kurgulanmıştır. VUK'a göre amortisman, edinim ayı ne olursa olsun ilk yıl için tam yıl üzerinden ayrılır; kıst amortisman yalnızca binek otomobiller için söz konusudur. Ayrıca bu yöntemde hurda değer amortisman matrahından düşülmez. 2024 amortismanı 360.000 x %25 = 90.000 TL olduğundan net defter değeri 270.000 TL'ye iner. 2025 amortismanı 270.000 x %25 = 67.500 TL olduğundan net defter değeri 202.500 TL olur. İtirazdaki 6 aylık kıst hesap bu makine için uygulanmaz. Hurda değeri düşerek hesap yapan, \"191.250 TL\" gibi tutarlara ulaşır ki bu da yanlıştır. Doğrusal yöntemle hesap yapan da \"210.000 TL\" gibi yanlış sonuçlara varır. Doğru cevap \"202.500 TL\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -120,7 +121,8 @@
       "105.000 TL"
      ],
      "dogru": 2,
-     "aciklama": "Net satışlar = 500.000 – 20.000 – 10.000 = 470.000 TL. Brüt satış kârı = 470.000 – 300.000 = 170.000 TL. Faaliyet kârı = Brüt satış kârı + Diğer faaliyetlerden olağan gelirler – Faaliyet giderleri = 170.000 + 15.000 – 80.000 – 15.000 = 90.000 TL. Not: Gelir tablosu yapısına göre 'diğer faaliyetlerden olağan gelirler' faaliyet kârı hesaplamasına dahil edilir. Doğru yanıt A şıkkıdır."
+     "aciklama": "Önce net satışlar bulunur: 500.000 – 20.000 (satış iadeleri) – 10.000 (satış iskontoları) = 470.000 TL. Brüt satış kârı, net satışlardan satılan malın maliyetinin çıkarılmasıyla hesaplanır: 470.000 – 300.000 = 170.000 TL. Faaliyet kârı için brüt kârdan faaliyet giderleri düşülür: 170.000 – 80.000 = 90.000 TL. Diğer faaliyetlerden olağan gelirler faaliyet kârından sonra gelir; bu nedenle faaliyet kârına dahil edilmez. \"105.000 TL\" seçeneği bu geliri ekleyip iade ve iskontoyu dikkate almadığı için yanlıştır. Doğru cevap \"90.000 TL\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "50277",
@@ -135,7 +137,7 @@
       "Finansman gideri: 62.092 TL; Defter değeri: 683.013 TL"
      ],
      "dogru": 4,
-     "aciklama": "Sıfır kuponlu tahvilde dönem başı defter değeri = ihraç bedeli = 620.921 TL. Efektif faiz yöntemiyle finansman gideri = 620.921 × %10 = 62.092,10 TL ≈ 62.092 TL. Nakit faiz ödemesi = 0 (sıfır kuponlu). Dönem sonu defter değeri = 620.921 + 62.092 = 683.013 TL. Kayıt: 780 Finansman Giderleri 62.092 TL borç / 405 Çıkarılmış Tahviller (iskonto itfası) 62.092 TL alacak. Defter değeri her yıl %10 artarak 1.000.000 TL'ye ulaşır. B şıkkındaki 100.000 TL nominal değer üzerinden hesaplama yapan adayları, E şıkkı ise yanlış oran uygulayan adayları yanıltmak için konulmuştur. Doğru cevap A'dır.",
+     "aciklama": "Etkin faiz yönteminde finansman gideri, dönem başı defter değeri ile efektif faiz oranının çarpımıdır: 620.921 × %10 = 62.092 TL. Sıfır kuponlu tahvilde nakit faiz ödemesi olmadığından bu tutar tahvilin defter değerine eklenir. Dönem sonu defter değeri 620.921 + 62.092 = 683.013 TL olur. \"Finansman gideri: 100.000 TL; Defter değeri: 720.921 TL\" seçeneği yanlıştır, çünkü faiz hesabında nominal değerin %10'u alınmıştır; oysa faiz, iskontolu defter değeri üzerinden hesaplanır. \"Finansman gideri: 62.092 TL; Defter değeri: 620.921 TL\" seçeneği de yanlıştır, çünkü hesaplanan faizi defter değerine eklemez. Doğru cevap \"Finansman gideri: 62.092 TL; Defter değeri: 683.013 TL\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -151,7 +153,8 @@
       "145.000 TL"
      ],
      "dogru": 2,
-     "aciklama": "Faaliyet Kârı = Brüt Satış Kârı - Faaliyet Giderleri = 200.000 - 80.000 = 120.000 TL. Finansman giderleri ve olağandışı gelirler faaliyet kârı hesaplamasına dahil edilmez; bunlar olağan kâr ve dönem kârı aşamalarında dikkate alınır."
+     "aciklama": "Faaliyet Kârı = Brüt Satış Kârı - Faaliyet Giderleri = 200.000 - 80.000 = 120.000 TL. Finansman giderleri ve olağandışı gelirler faaliyet kârı hesaplamasına dahil edilmez; bunlar olağan kâr ve dönem kârı aşamalarında dikkate alınır.",
+     "zorluk": "orta"
     },
     {
      "id": "50121",
@@ -182,7 +185,7 @@
       "Cari oran"
      ],
      "dogru": 4,
-     "aciklama": "Cari oran = Dönen varlıklar / KVYK = 900.000 / 400.000 = 2,25. Asit-test oranı = (Dönen varlıklar − Stoklar) / KVYK = 700.000 / 400.000 = 1,75. Nakit oran = Hazır değerler / KVYK = 100.000 / 400.000 = 0,25. Kaldıraç oranı = Toplam yabancı kaynaklar / Toplam varlıklar = 1.100.000 / 2.500.000 = 0,44. Özsermaye oranı = Özsermaye / Toplam varlıklar = 1.400.000 / 2.500.000 = 0,56. En büyük değer: Cari oran = 2,25. Cevap A.",
+     "aciklama": "Cari oran = Dönen varlıklar / KVYK = 900.000 / 400.000 = 2,25. Asit-test oranı = (Dönen varlıklar − Stoklar) / KVYK = 700.000 / 400.000 = 1,75. Nakit oran = Hazır değerler / KVYK = 100.000 / 400.000 = 0,25. Kaldıraç oranı = Toplam yabancı kaynaklar / Toplam varlıklar = 1.100.000 / 2.500.000 = 0,44. Özsermaye oranı = Özsermaye / Toplam varlıklar = 1.400.000 / 2.500.000 = 0,56. En büyük değer: Cari oran = 2,25. Doğru cevap: «Cari oran».",
      "zorluk": "zor"
     },
     {
@@ -214,7 +217,8 @@
       "Makine-teçhizat alımı için yapılan ödeme"
      ],
      "dogru": 0,
-     "aciklama": "Nakit akış tablosunda müşterilerden tahsilat işletme faaliyetidir. Fabrika binası satışı ve makine alımı yatırım faaliyetidir. Banka kredisi alınması ve temettü ödemesi ise finansman faaliyetidir."
+     "aciklama": "Nakit akış tablosunda müşterilerden tahsilat işletme faaliyetidir. Fabrika binası satışı ve makine alımı yatırım faaliyetidir. Banka kredisi alınması ve temettü ödemesi ise finansman faaliyetidir.",
+     "zorluk": "orta"
     },
     {
      "id": "50169",
@@ -249,19 +253,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "50276",
+     "id": "50270",
      "dersId": "muhasebe",
      "konuId": "donem_sonu",
-     "soru": "Bir işletmenin 31.12.2024 tarihli bilançosunda Genel Geçici Kabul Yöntemi'ne göre düzenlenen vergi karşılığı hesabında 180.000 TL bulunmaktadır. Dönem içinde ödenen geçici vergiler toplamı 130.000 TL'dir. İşletmenin 2024 yılı dönem kârı üzerinden hesaplanan kurumlar vergisi (vergi matrahı 800.000 TL, oran %25) ve bu bilgilere dayalı dönem sonu muhasebe kaydı aşağıdakilerden hangisidir?",
+     "soru": "Bir işletme 01.01.2024'te 240.000 TL maliyetle bir makine satın almış ve 10 yıl faydalı ömür, %0 hurda değeri ile doğrusal amortisman uygulamaya başlamıştır. 01.01.2026'da makinenin faydalı ömrü gözden geçirilerek kalan süre 6 yıl (toplam 8 yıla indirilmiş) olarak revize edilmiştir. Aynı tarihte makine için 30.000 TL tutarında bileşen değiştirmesi yapılmış ve bu harcama aktifleştirilmiştir. Bileşenin kalan ömrü 3 yıldır. 2026 yılı amortisman gideri toplamı kaç TL'dir?",
      "secenekler": [
-      "691 hesap 200.000 TL borç / 370 hesap 70.000 TL alacak / 193 hesap 130.000 TL alacak",
-      "691 hesap 180.000 TL borç / 370 hesap 50.000 TL alacak / 193 hesap 130.000 TL alacak",
-      "691 hesap 20.000 TL borç / 193 Peşin Ödenen Vergiler 20.000 TL alacak",
-      "370 hesap 130.000 TL borç / 193 hesap 130.000 TL alacak; 691 hesap 200.000 TL borç / 370 hesap 200.000 TL alacak",
-      "691 Dönem Kârı Vergi ve Yasal Yükümlülük Karşılıkları 200.000 TL borç / 370 Dönem Kârı Vergi ve Diğer Yasal Yükümlülük Karşılıkları 200.000 TL alacak; ardından 370 hesap 20.000 TL iade alacağı gösterir"
+      "42.000 TL",
+      "38.000 TL",
+      "40.000 TL",
+      "35.000 TL",
+      "36.000 TL"
      ],
      "dogru": 0,
-     "aciklama": "Hesaplanan kurumlar vergisi = 800.000 × 0,25 = 200.000 TL. Dönem sonu kaydı: 691 Dönem Kârı Vergi ve Yasal Yükümlülük Karşılıkları 200.000 TL (borç) / 370 Dönem Kârı Vergi ve Diğer Yasal Yükümlülük Karşılıkları 200.000 TL (alacak). Bu kayıtta 193 Peşin Ödenen Vergiler ve 370 hesabın mahsubu ayrı bir süreçte yapılır. Ancak tek yevmiye kaydında 370 hesap net tutar (200.000 – 130.000 = 70.000 TL ödenecek vergi) ve 193 hesap (130.000 TL mahsup) şeklinde gösterilir: 691 borç 200.000 / 370 alacak 70.000 / 193 alacak 130.000. Bu yapı C şıkkına uymaktadır. D şıkkı mevcut karşılık tutarını (180.000) baz almakta ve hatalıdır. Doğru cevap C'dir.",
+     "aciklama": "2024-25'te yıllık 24.000 TL amortisman sonrası net defter değeri 192.000 TL olup kalan 6 yıla bölününce 32.000 TL, bileşen için 30.000/3=10.000 TL eklenince toplam 42.000 TL eder. Doğru cevap 42.000 TL şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -277,7 +281,8 @@
       "%30"
      ],
      "dogru": 2,
-     "aciklama": "Öz kaynaklar = Toplam varlıklar - Toplam yabancı kaynaklar = 800.000 - 320.000 = 480.000 TL. Öz kaynak oranı = Öz kaynaklar / Toplam varlıklar = 480.000 / 800.000 = 0,60 = %60. Doğru cevap D şıkkıdır."
+     "aciklama": "Öz kaynak, toplam varlıklardan yabancı kaynaklar çıkarılarak bulunur: 800.000 − 320.000 = 480.000 TL. Öz kaynak oranı, öz kaynakların toplam varlıklara bölünmesiyle hesaplanır: 480.000 / 800.000 = 0,60, yani %60. \"%40\" seçeneği yanlıştır, çünkü bu değer yabancı kaynak oranıdır (320.000 / 800.000). \"%30\" seçeneği de yanlıştır, çünkü hiçbir doğru hesaba karşılık gelmez. Doğru cevap \"%60\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "50165",
@@ -292,7 +297,7 @@
       "50.000 TL"
      ],
      "dogru": 1,
-     "aciklama": "I. tertip yasal yedek akçe, net dönem kârının %5'i olarak hesaplanır: 800.000 × 0,05 = 40.000 TL. Ancak yasal yedek akçe, sermayenin %20'sine (4.000.000 × 0,20 = 800.000 TL) ulaşana kadar ayrılır. Mevcut yasal yedek akçe bakiyesi 150.000 TL olduğundan henüz 800.000 TL tavanına ulaşılmamıştır (150.000 + 40.000 = 190.000 < 800.000). Bu nedenle 40.000 TL'nin tamamı ayrılır. Doğru cevap A'dır.",
+     "aciklama": "I. tertip yasal yedek akçe, net dönem kârının %5'i olarak hesaplanır: 800.000 × 0,05 = 40.000 TL. Ancak yasal yedek akçe, sermayenin %20'sine (4.000.000 × 0,20 = 800.000 TL) ulaşana kadar ayrılır. Mevcut yasal yedek akçe bakiyesi 150.000 TL olduğundan henüz 800.000 TL tavanına ulaşılmamıştır (150.000 + 40.000 = 190.000 < 800.000). Bu nedenle 40.000 TL'nin tamamı ayrılır. Doğru cevap: «40.000 TL».",
      "zorluk": "zor"
     },
     {
@@ -308,7 +313,7 @@
       "Faiz gideri: 8.000 TL, İskonto amortismanı: 1.242 TL"
      ],
      "dogru": 3,
-     "aciklama": "Etkin faiz yönteminde faiz gideri = Dönem başı defter değeri × Etkin faiz oranı = 92.418 × %10 = 9.241,8 ≈ 9.242 TL. Kupon faizi ödemesi = 100.000 × %8 = 8.000 TL. İskonto amortismanı = Faiz gideri - Kupon faizi = 9.242 - 8.000 = 1.242 TL. Bu fark, tahvil iskonto hesabından düşülerek tahvilin defter değeri artırılır. Doğru cevap B'dir.",
+     "aciklama": "Etkin faiz yönteminde faiz gideri = Dönem başı defter değeri × Etkin faiz oranı = 92.418 × %10 = 9.241,8 ≈ 9.242 TL. Kupon faizi ödemesi = 100.000 × %8 = 8.000 TL. İskonto amortismanı = Faiz gideri - Kupon faizi = 9.242 - 8.000 = 1.242 TL. Bu fark, tahvil iskonto hesabından düşülerek tahvilin defter değeri artırılır. Doğru cevap: «Faiz gideri: 9.242 TL, İskonto amortismanı: 1.242 TL».",
      "zorluk": "zor"
     },
     {
@@ -324,7 +329,7 @@
       "Envanter ve kapanış kayıtları yapıldıktan sonra düzenlenir"
      ],
      "dogru": 4,
-     "aciklama": "Kesin mizan; tüm envanter ve düzeltme kayıtları ile dönem kârının ilgili hesaplara aktarılması (kapanış kayıtları) yapıldıktan sonra düzenlenir. Geçici mizan ise envanter kayıtlarından önce hazırlanır. Kesin mizan hem bilanço hem de gelir tablosu hesaplarını içerir, dolayısıyla A, B, D ve E seçenekleri yanlıştır.",
+     "aciklama": "Kesin mizan, dönem sonu işlemlerinin tamamlanmasından sonra çıkarılan mizandır. Önce dönem içi kayıtlardan geçici mizan alınır. Ardından envanter işlemleri yapılır: değerleme, karşılıklar ve tahakkuklar kaydedilir. Sonra gelir ve gider hesapları kapatılır. Bu işlemler hesap bakiyelerini değiştirdiği için kesin mizan, geçici mizandan farklı bir içeriğe sahiptir. \"Dönem sonu envanter kayıtlarından önce düzenlenir\" ifadesi geçici mizanın özelliğidir, kesin mizanın değil. \"Geçici mizanla aynı içeriğe sahiptir\" seçeneği de yanlıştır, çünkü envanter kayıtları bakiyeleri değiştirir. Doğru cevap \"Envanter ve kapanış kayıtları yapıldıktan sonra düzenlenir\" seçeneğidir.",
      "zorluk": "kolay"
     },
     {
@@ -356,7 +361,8 @@
       "Uzun Vadeli Yabancı Kaynaklar"
      ],
      "dogru": 0,
-     "aciklama": "Hesap planında 3'lü kodlar 'Kısa Vadeli Yabancı Kaynaklar' bölümünü temsil eder. 300 Banka Kredileri, vadesi bir yıl veya daha kısa olan banka borçlarını izler ve Kısa Vadeli Yabancı Kaynaklar (3) ana hesap grubunda yer alır. Vadesi bir yıldan uzun banka borçları için 400 Banka Kredileri hesabı (Uzun Vadeli Yabancı Kaynaklar) kullanılır."
+     "aciklama": "Hesap planında 3'lü kodlar 'Kısa Vadeli Yabancı Kaynaklar' bölümünü temsil eder. 300 Banka Kredileri, vadesi bir yıl veya daha kısa olan banka borçlarını izler ve Kısa Vadeli Yabancı Kaynaklar (3) ana hesap grubunda yer alır. Vadesi bir yıldan uzun banka borçları için 400 Banka Kredileri hesabı (Uzun Vadeli Yabancı Kaynaklar) kullanılır.",
+     "zorluk": "orta"
     },
     {
      "id": "50047",
@@ -371,7 +377,7 @@
       "Net kâr 4.500 TL azalır, vergi 1.500 TL azalır"
      ],
      "dogru": 4,
-     "aciklama": "FIFO'dan Ağırlıklı Ortalama'ya geçişte dönem sonu stok 50.000'den 44.000'e düşer (6.000 TL azalır). Stok azalması → SMM artışı → Kâr azalır. Kâr azalışı = 6.000 TL. Vergi azalışı = 6.000 × %25 = 1.500 TL. Net kâr üzerindeki etki = 6.000 × (1 - 0,25) = 4.500 TL azalış. Doğru cevap A'dır.",
+     "aciklama": "FIFO'dan Ağırlıklı Ortalama'ya geçişte dönem sonu stok 50.000'den 44.000'e düşer (6.000 TL azalır). Stok azalması → SMM artışı → Kâr azalır. Kâr azalışı = 6.000 TL. Vergi azalışı = 6.000 × %25 = 1.500 TL. Net kâr üzerindeki etki = 6.000 × (1 - 0,25) = 4.500 TL azalış. Doğru cevap: «Net kâr 4.500 TL azalır, vergi 1.500 TL azalır».",
      "zorluk": "zor"
     },
     {
@@ -387,7 +393,7 @@
       "Gelir tablosu: Net 5.000 TL gider artışı; Bilanço: Peşin ödenen giderler 20.000 TL (aktif), Ertelenmiş gelirler 15.000 TL (pasif)"
      ],
      "dogru": 3,
-     "aciklama": "Kira ödemesi 50.000 TL nakit ödenmiş; 2024'e ait kısım 30.000 TL gider yazılır, 20.000 TL ise 'Gelecek Aylara Ait Giderler' (180) hesabına aktarılır (aktif). Abonelik geliri 15.000 TL 2025'e ait olduğundan 2024 gelir tablosuna alınmaz; 'Gelecek Aylara Ait Gelirler' (380) hesabında pasif olarak gösterilir. 2024 gelir tablosuna yansıyan: Kira gideri 30.000 TL (gider artışı), abonelik geliri 0 TL. Bilanço: Gelecek aylara ait giderler 20.000 TL (aktif), Gelecek aylara ait gelirler 15.000 TL (pasif). C şıkkı bu durumu tam doğru biçimde açıklamaktadır. A şıkkındaki '15.000 TL net gider artışı' ifadesi yanlıştır; kira ve gelir birbirinden bağımsız düzeltilir, netleştirilmez. Doğru cevap C'dir.",
+     "aciklama": "Kira ödemesi 50.000 TL'dir; bunun yalnızca 30.000 TL'si 2024'e aittir, 20.000 TL'lik kısım 2025'e ait olup dönem sonunda gelecek aylara ait gider olarak aktife alınır. 2024 gelir tablosunda 30.000 TL kira gideri kalır. Tahsil edilen 15.000 TL abonelik geliri 2025'e ait olduğundan 2024 gelirine yazılmaz; gelecek aylara ait gelir olarak pasifte izlenir. Dolayısıyla 2024 abonelik geliri 0 TL'dir. \"Gelir tablosu: Net 5.000 TL gider artışı; Bilanço: Peşin ödenen giderler 20.000 TL (aktif), Ertelenmiş gelirler 15.000 TL (pasif)\" seçeneği yanlıştır, çünkü gelir tablosundaki net etki 30.000 TL gider olup 5.000 TL değildir ve hesap adları da uygun değildir. \"Gelir tablosu: Kira gideri 50.000 TL, abonelik geliri 15.000 TL; Bilanço: Hiçbir geçici hesap yer almaz\" seçeneği de yanlıştır, çünkü dönemsellik ilkesine aykırıdır. Doğru cevap \"Gelir tablosu: Kira gideri 30.000 TL, abonelik geliri 0 TL\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -400,7 +406,7 @@
       "Brüt satışlar × Kâr marjı",
       "Brüt satışlar − Satıştan iadeler − Satış iskontoları − Satıştan indirimler",
       "Brüt satışlar + Satışların maliyeti",
-      "Brüt satışlar + Satıştan iadeler + Satış iskontoları"
+      "Brüt satışlar + Satıştan iadeler + Satış iskontoları + Satıştan indirimler"
      ],
      "dogru": 2,
      "aciklama": "Net satışlar = Brüt satışlar − Satıştan iadeler − Satış iskontoları − Satıştan indirimler formülüyle hesaplanır. Brüt satışlardan müşterilere yapılan iade, iskonto ve indirimler düşülerek işletmenin gerçek satış hasılatı olan net satış rakamına ulaşılır.",
@@ -419,7 +425,8 @@
       "Her ikisi de 6. sınıfta; aralarında kaynak açısından fark yoktur."
      ],
      "dogru": 0,
-     "aciklama": "Hem Sermaye Yedekleri (52) hem de Kâr Yedekleri (54) 5. sınıf olan Öz Kaynaklar içinde yer alır. Sermaye yedekleri; hisse senedi ihraç primleri, iptal edilen ortaklık payları gibi sermaye işlemlerinden elde edilen kaynaklardan oluşur. Kâr yedekleri ise işletme faaliyetleri sonucunda elde edilen kârın dağıtılmayarak işletmede bırakılan kısmından oluşur."
+     "aciklama": "Hem Sermaye Yedekleri (52) hem de Kâr Yedekleri (54) 5. sınıf olan Öz Kaynaklar içinde yer alır. Sermaye yedekleri; hisse senedi ihraç primleri, iptal edilen ortaklık payları gibi sermaye işlemlerinden elde edilen kaynaklardan oluşur. Kâr yedekleri ise işletme faaliyetleri sonucunda elde edilen kârın dağıtılmayarak işletmede bırakılan kısmından oluşur.",
+     "zorluk": "orta"
     },
     {
      "id": "50424",
@@ -465,24 +472,24 @@
       "42 puan",
       "100 puan"
      ],
-     "dogru": 4,
-     "aciklama": "2022 Brüt Kârı = 2.000.000 - 1.400.000 = 600.000 TL (baz: %100). 2024 Brüt Kârı = 3.000.000 - 2.400.000 = 600.000 TL. 2024 Brüt Kâr Trend % = (600.000 / 600.000) × 100 = %100. 2022 Satışların Maliyeti = 1.400.000 TL (baz: %100). 2024 Satışların Maliyeti Trend % = (2.400.000 / 1.400.000) × 100 ≈ %171,4. Fark = 171,4 - 100 = 71,4 ≈ 71 puan. Doğru cevap C'dir. (Brüt kâr 2024'te 2022 ile aynı kalmış; maliyetlerin trendi ise %171 ile oldukça yüksek artış göstermiştir. Bu tablo işletmenin kârlılığının görünürde korunduğunu ancak maliyet baskısının arttığını ortaya koymaktadır.)",
+     "dogru": 1,
+     "aciklama": "2024 brüt kâr 600.000 olup baz yılla aynı (trend %100), SMM trendi 2.400.000/1.400.000=%171,43; fark yaklaşık 71 puandır. Doğru cevap 71 puan şeklindedir.",
      "zorluk": "zor"
     },
     {
-     "id": "50189",
+     "id": "50172",
      "dersId": "muhasebe",
      "konuId": "hesap_plani",
-     "soru": "Bir işletme 01.01.2024 tarihinde 5 yıl vadeli, nominal değeri 500.000 TL olan ve %10 kupon faizli tahvil ihraç etmiş; ancak tahvili 480.000 TL'ye satmıştır. İskontolu ihraçtan doğan 20.000 TL fark hangi hesapta izlenir ve nasıl muhasebeleştirilir?",
+     "soru": "Tekdüzen Hesap Planı'nda 391 Hesaplanan KDV ile 190 Devreden KDV arasındaki fark negatif olduğunda (191 İndirilecek KDV > 391 Hesaplanan KDV) dönem sonu kaydı nasıl yapılır?",
      "secenekler": [
-      "20.000 TL, 301 Kısa Vadeli Banka Kredileri hesabına aktarılır; tahvil borçlanma aracı olduğundan kısa vadeli kredi gibi muhasebeleştirilir.",
-      "20.000 TL, 382 Risk için Ayrılan Karşılıklar hesabında bekletilir; tahvil itfa edildiğinde ters kayıtla kapatılır.",
-      "20.000 TL doğrudan 659 Diğer Gider ve Zararlar hesabına kaydedilir ve tek seferde gider yazılır.",
-      "20.000 TL, 405 Çıkarılmış Tahviller hesabına alacak yazılarak tahvil nominal değerden kayıtlanır; iskonto muhasebeleştirilmez.",
-      "20.000 TL, 407 Çıkarılmış Tahvillere İlişkin Borç Senetleri İskontolar (-) hesabına borç yazılır; tahvilin vadesi boyunca (5 yılda) itfa edilerek 660 Kısa Vadeli Borçlanma Giderleri'ne aktarılır."
+      "391 Hesaplanan KDV borçlandırılır, 191 İndirilecek KDV alacaklandırılır, fark 190 Devreden KDV hesabına borç kaydedilir.",
+      "191 İndirilecek KDV borçlandırılır, 391 Hesaplanan KDV alacaklandırılır, fark 190 Devreden KDV hesabına borç kaydedilir.",
+      "391 Hesaplanan KDV borçlandırılır, 191 İndirilecek KDV alacaklandırılır, fark 360 Ödenecek Vergi hesabına alacak kaydedilir.",
+      "391 Hesaplanan KDV borçlandırılır, 191 İndirilecek KDV alacaklandırılır, aradaki fark 136 Diğer Çeşitli Alacaklar hesabına alacak kaydedilir.",
+      "391 Hesaplanan KDV borçlandırılır, 191 İndirilecek KDV alacaklandırılır, fark kaydedilmez; ertesi döneme devredilir."
      ],
-     "dogru": 4,
-     "aciklama": "Tahvil iskontolu ihraç edildiğinde, nominal değer ile ihraç bedeli arasındaki fark (20.000 TL) bir finansman maliyetidir. Tekdüzen Muhasebe Sistemi'nde bu iskonto, 407 Çıkarılmış Tahvillere İlişkin Borç Senetleri İskontolar (-) hesabına borç yazılır ve söz konusu hesap 405 Çıkarılmış Tahviller'in düzenleyicisi olarak çalışır. İskonto tutarı tahvilin ömrü boyunca (5 yılda, her yıl 4.000 TL) etkin faiz yöntemi veya düz-line yöntemiyle 660 Kısa Vadeli Borçlanma Giderleri'ne aktarılarak itfa edilir. Tek seferde gider yazmak dönem giderini olduğundan fazla gösterir.",
+     "dogru": 0,
+     "aciklama": "KDV tasfiye kaydında her zaman 391 Hesaplanan KDV borçlandırılır, 191 İndirilecek KDV alacaklandırılır. Eğer indirilecek KDV > hesaplanan KDV ise iade veya sonraki döneme devir söz konusu olup fark 190 Devreden KDV hesabına borç kaydedilir. 360 Ödenecek Vergi hesabı ise hesaplanan KDV'nin indirilecek KDV'den büyük olduğu, yani ödenecek KDV çıktığı durumda kullanılır. Doğru cevap A'dır.",
      "zorluk": "zor"
     },
     {
@@ -498,7 +505,7 @@
       "+30.000 TL, -50.000 TL, -40.000 TL"
      ],
      "dogru": 0,
-     "aciklama": "Nakit akış sınıflandırması: İşletme faaliyetleri (dolaylı yöntemde): Net kar = 80.000 - 55.000 - 10.000 = 15.000 TL kar (amortisman ayrı satır). Dolaylı yöntem: Net kar 15.000 + Amortisman 10.000 + Alacak tahsilatı 30.000 (alacak azalışı) - Alacak artışı (kredi satış 80.000 TL, tahsil edilmedi): İşletme faaliyetleri = Net kar 15.000 + Amortisman 10.000 + Alacak azalışı 30.000 - Alacak artışı (kredi satış: -80.000 değil, alacaklar 80.000 arttı) = 15.000 + 10.000 + 30.000 - 80.000 = -25.000 TL. Bu yaklaşım farklı sonuç verir. Doğrudan yöntemde: Nakit girişi = 30.000 (tahsilat). Nakit çıkışı = 0 (amortisman nakit değil, satış nakit değil, alacak nakit değil). İşletme faaliyeti = +30.000 TL. Yatırım faaliyetleri: Makine alımı = -50.000 TL. Finansman faaliyetleri: Kredi geri ödeme = -40.000, Temettü = -20.000, toplam = -60.000 TL. A şıkkı doğrudur: +30.000 TL, -50.000 TL, -60.000 TL.",
+     "aciklama": "Nakit akış sınıflandırması: İşletme faaliyetleri (dolaylı yöntemde): Net kar = 80.000 - 55.000 - 10.000 = 15.000 TL kar (amortisman ayrı satır). Dolaylı yöntem: Net kar 15.000 + Amortisman 10.000 + Alacak tahsilatı 30.000 (alacak azalışı) - Alacak artışı (kredi satış 80.000 TL, tahsil edilmedi): İşletme faaliyetleri = Net kar 15.000 + Amortisman 10.000 + Alacak azalışı 30.000 - Alacak artışı (kredi satış: -80.000 değil, alacaklar 80.000 arttı) = 15.000 + 10.000 + 30.000 - 80.000 = -25.000 TL. Bu yaklaşım farklı sonuç verir. Doğrudan yöntemde: Nakit girişi = 30.000 (tahsilat). Nakit çıkışı = 0 (amortisman nakit değil, satış nakit değil, alacak nakit değil). İşletme faaliyeti = +30.000 TL. Yatırım faaliyetleri: Makine alımı = -50.000 TL. Finansman faaliyetleri: Kredi geri ödeme = -40.000, Temettü = -20.000, toplam = -60.000 TL. “+30.000 TL, -50.000 TL, -60.000 TL” şıkkı doğrudur: +30.000 TL, -50.000 TL, -60.000 TL.",
      "zorluk": "zor"
     },
     {
@@ -546,7 +553,8 @@
       "108 Diğer Hazır Değerler"
      ],
      "dogru": 1,
-     "aciklama": "102 Bankalar hesabı; işletmenin bankadaki vadesiz mevduatları ile vadesi ne olursa olsun yatırılan ancak bilançonun düzenlendiği tarihten itibaren en geç bir yıl içinde geri alınacak vadeli mevduatları kapsar. Üç aydan uzun, bir yıldan kısa vadeli mevduatlar dönen varlık niteliğinde olduğundan 102 Bankalar hesabında izlenir. Bir yılı aşan vadeli mevduatlar ise Duran Varlıklar (Uzun Vadeli) 222 Bankalar hesabında izlenir."
+     "aciklama": "102 Bankalar hesabı; işletmenin bankadaki vadesiz mevduatları ile vadesi ne olursa olsun yatırılan ancak bilançonun düzenlendiği tarihten itibaren en geç bir yıl içinde geri alınacak vadeli mevduatları kapsar. Üç aydan uzun, bir yıldan kısa vadeli mevduatlar dönen varlık niteliğinde olduğundan 102 Bankalar hesabında izlenir. Bir yılı aşan vadeli mevduatlar ise Duran Varlıklar (Uzun Vadeli) 222 Bankalar hesabında izlenir.",
+     "zorluk": "orta"
     },
     {
      "id": "50071",
@@ -560,8 +568,8 @@
       "390.000 TL",
       "330.000 TL"
      ],
-     "dogru": 2,
-     "aciklama": "Toplam üretim maliyeti: 180.000 + 120.000 + 90.000 = 390.000 TL. Tamamlanan mamul maliyeti: 390.000 + Dönem başı YM − Dönem sonu YM = 390.000 + 40.000 − 70.000 = 360.000 TL. SMM = Tamamlanan mamul maliyeti + Dönem başı mamul − Dönem sonu mamul = 360.000 + 50.000 − 80.000 = 330.000 TL. Cevap A.",
+     "dogru": 4,
+     "aciklama": "Üretim maliyeti 390.000 + 40.000 - 70.000 = 360.000 ÜMM, + 50.000 - 80.000 = 330.000 TL SMM, yani E. Doğru cevap 330.000 TL şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -609,7 +617,7 @@
       "120 Alıcılar 300.000 TL (Borç) / 646 Kambiyo Kârları 300.000 TL (Alacak)"
      ],
      "dogru": 4,
-     "aciklama": "İşlem tarihinde alacak 100.000 × 32 = 3.200.000 TL olarak kayıtlara alınmıştır. Bilanço tarihinde kur 35 TL olduğundan alacağın TL karşılığı 3.500.000 TL'ye yükselmiştir. Aradaki fark 300.000 TL kur artışını ifade eder. Bu artış 120 Alıcılar hesabının borcuna, 646 Kambiyo Kârları hesabının alacağına kaydedilir. Kur yükselmesi dövizli alacak için kâr doğurur. Doğru cevap B'dir.",
+     "aciklama": "İşlem tarihinde alacak 100.000 × 32 = 3.200.000 TL olarak kayıtlara alınmıştır. Bilanço tarihinde kur 35 TL olduğundan alacağın TL karşılığı 3.500.000 TL'ye yükselmiştir. Aradaki fark 300.000 TL kur artışını ifade eder. Bu artış 120 Alıcılar hesabının borcuna, 646 Kambiyo Kârları hesabının alacağına kaydedilir. Kur yükselmesi dövizli alacak için kâr doğurur. Doğru cevap: «120 Alıcılar 300.000 TL (Borç) / 646 Kambiyo Kârları 300.000 TL (Alacak)».",
      "zorluk": "zor"
     },
     {
@@ -625,23 +633,23 @@
       "%50, 2,50 ve 1,50"
      ],
      "dogru": 3,
-     "aciklama": "Özkaynak = 200.000 + 50.000 + 80.000 + 70.000 = 400.000 TL. Toplam yabancı kaynak = 120.000 + 280.000 = 400.000 TL. Toplam aktif kontrolü: 400.000 + 400.000 = 800.000 TL (doğru). Finansal kaldıraç oranı (Borç/Aktif) = 400.000/800.000 = %50. Özkaynak çarpanı (Aktif/Özkaynak) = 800.000/400.000 = 2,00. Borç/Özkaynak oranı = 400.000/400.000 = 1,00. A şıkkı doğrudur.",
+     "aciklama": "Özkaynak = 200.000 + 50.000 + 80.000 + 70.000 = 400.000 TL'dir. Kontrol: 800.000 - (120.000 + 280.000) = 400.000 TL. Toplam yabancı kaynak 400.000 TL'dir. Finansal kaldıraç oranı = yabancı kaynak / aktif = 400.000 / 800.000 = %50. Özkaynak çarpanı = aktif / özkaynak = 800.000 / 400.000 = 2,00. Borç/özkaynak oranı = 400.000 / 400.000 = 1,00. \"%50, 2,50 ve 1,50\" seçeneği özkaynağı 320.000 TL almıştır, yani kâr yedeklerini dışarıda bırakmıştır. Bu yüzden oranlar yanlış çıkar. Doğru cevap \"%50, 2,00 ve 1,00\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
-     "id": "50191",
+     "id": "50224",
      "dersId": "muhasebe",
      "konuId": "donem_sonu",
-     "soru": "Dönem sonunda stokların sayımı yapılmış ve defterdeki kayıtlı değerden fazla olduğu tespit edilmiştir. Bu durumda yapılacak muhasebe kaydında hangi hesap alacaklı yazılır?",
+     "soru": "Dönem sonunda alacaklar için ayrılan şüpheli alacak karşılığı hangi hesaba borç kaydedilir?",
      "secenekler": [
-      "600 Yurt İçi Satışlar",
-      "197 Sayım ve Tesellüm Noksanları",
-      "671 Önceki Dönem Gelir ve Kârları",
-      "153 Ticari Mallar",
-      "197 Sayım ve Tesellüm Fazlaları"
+      "647 Reeskont Faiz Gelirleri",
+      "128 Şüpheli Ticari Alacaklar",
+      "689 Diğer Olağandışı Gider ve Zararlar",
+      "129 Şüpheli Ticari Alacaklar Karşılığı",
+      "654 Karşılık Giderleri"
      ],
      "dogru": 4,
-     "aciklama": "Stok sayımında fazlalık tespit edildiğinde, 153 Ticari Mallar hesabı borçlu, 197 Sayım ve Tesellüm Fazlaları hesabı alacaklı yazılır. Fazlalığın nedeni araştırılarak ilgili hesaba aktarılır.",
+     "aciklama": "Şüpheli alacak karşılığı ayrılırken 654 Karşılık Giderleri hesabı borçlandırılır, 129 Şüpheli Ticari Alacaklar Karşılığı hesabı alacaklandırılır. 654 hesabı bir gider hesabıdır ve kâr-zarar tablosunu etkiler. 129 hesabı ise bilançoda 128 hesabından düşülerek gösterilir.",
      "zorluk": "kolay"
     }
    ]

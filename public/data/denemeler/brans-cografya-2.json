@@ -19,8 +19,8 @@
      "soru": "Türkiye'de kıl keçisi yetiştiriciliğinin son on yılda önemli ölçüde gerilediği bilinmektedir. Bu gerilemede etkili olan temel faktörlerin başında aşağıdakilerden hangisi gösterilmektedir?",
      "secenekler": [
       "Doğu Anadolu'daki mera alanlarının hızla genişlemesi",
-      "Kıl keçisine yönelik salgın hastalıkların yaygınlaşması",
-      "Kıl keçisi sütünün endüstride kullanım alanı bulmaması",
+      "Kıl keçisine yönelik salgın hastalıkların son yıllarda yaygınlaşması ve sürüleri azaltması ve verimin düşmesine yol açması",
+      "Kıl keçisi sütünün endüstride herhangi bir kullanım alanı bulamaması",
       "Ormanlık alanlarda otlatma yasağının getirilmesi ve yerine tiftik/süt keçisi yetiştiriciliğinin teşvik edilmesi",
       "Kıl keçisi etinin piyasa değerinin düşmesi"
      ],
@@ -35,8 +35,8 @@
      "soru": "Karadeniz kıyılarında yağışların her mevsim görülmesinde aşağıdakilerden hangisi en belirleyici faktördür?",
      "secenekler": [
       "Güneş ışınlarının dik açıyla gelmesi",
-      "Yüksek nüfus yoğunluğunun mikro iklim oluşturması",
-      "Kıyı dağlarının denize paralel uzanması",
+      "Yüksek nüfus yoğunluğunun bölgede mikro iklim oluşturması ve nemi artırması",
+      "Kıyı dağlarının denize paralel biçimde uzanarak rüzgârı engellemesi",
       "Bölgedeki geniş ormanların nem tutması",
       "Karadeniz'den gelen nemli hava ve dağların oluşturduğu orografik yağış"
      ],
@@ -52,12 +52,13 @@
      "secenekler": [
       "Bölge, hem Karadeniz'e hem de Ege Denizi'ne kıyısı olan tek bölgedir.",
       "Türkiye'nin en büyük yüzölçümüne sahip bölgesidir.",
-      "Sanayi üretiminde Ege Bölgesi'nin gerisinde kalır.",
-      "Orman varlığı bakımından Türkiye'nin en zengin bölgesidir.",
+      "Sanayi üretiminde Ege Bölgesi'nin belirgin biçimde gerisinde kalır.",
+      "Orman varlığı bakımından Türkiye'nin en zengin bölgesi konumundadır ve orman ürünleri üretir.",
       "Nüfus yoğunluğu İç Anadolu Bölgesi'ne yakındır."
      ],
      "dogru": 0,
-     "aciklama": "Marmara Bölgesi, Türkiye'nin coğrafi bölgeleri arasında hem Karadeniz'e (kuzey kesimi) hem de Ege Denizi'ne (güney ve batı kesimi) ve aynı zamanda Marmara Denizi'ne kıyısı olan tek bölgedir. Yüzölçümü en büyük bölge değildir (Doğu Anadolu en büyüktür), sanayi üretiminde de Türkiye'nin lider bölgesidir. Orman varlığı en fazla Karadeniz Bölgesi'ndedir. Nüfus yoğunluğu ise Türkiye'nin en yükseklerinden biridir."
+     "aciklama": "Marmara Bölgesi, Türkiye'nin coğrafi bölgeleri arasında hem Karadeniz'e (kuzey kesimi) hem de Ege Denizi'ne (güney ve batı kesimi) ve aynı zamanda Marmara Denizi'ne kıyısı olan tek bölgedir. Yüzölçümü en büyük bölge değildir (Doğu Anadolu en büyüktür), sanayi üretiminde de Türkiye'nin lider bölgesidir. Orman varlığı en fazla Karadeniz Bölgesi'ndedir. Nüfus yoğunluğu ise Türkiye'nin en yükseklerinden biridir.",
+     "zorluk": "orta"
     },
     {
      "id": "32544",
@@ -88,7 +89,8 @@
       "Orografik yağış"
      ],
      "dogru": 4,
-     "aciklama": "Orografik (dağ) yağışı, nemli hava kütlelerinin dağ yamaçlarına çarparak yukarı doğru yükselmesiyle oluşur. Yükselen hava soğur, su buharı yoğunlaşır ve yağış meydana gelir. Bu yağışlar genellikle rüzgâr alan yamaçlarda yoğunken, dağın diğer yakasında (lodos yamacında) hava alçalarak ısındığından yağış miktarı azalır (föhn etkisi). Türkiye'de Karadeniz kıyılarındaki yüksek yağış büyük ölçüde orografik kökenlidir."
+     "aciklama": "Orografik (dağ) yağışı, nemli hava kütlelerinin dağ yamaçlarına çarparak yukarı doğru yükselmesiyle oluşur. Yükselen hava soğur, su buharı yoğunlaşır ve yağış meydana gelir. Bu yağışlar genellikle rüzgâr alan yamaçlarda yoğunken, dağın diğer yakasında (rüzgâr altı yamacında) hava alçalarak ısındığından yağış miktarı azalır (föhn etkisi). Türkiye'de Karadeniz kıyılarındaki yüksek yağış büyük ölçüde orografik kökenlidir.",
+     "zorluk": "orta"
     },
     {
      "id": "32062",
@@ -129,13 +131,14 @@
      "soru": "Aynı bölge için çizilen 1/25.000 ile 1/100.000 ölçekli iki harita karşılaştırıldığında, aşağıdaki ifadelerden hangisi doğrudur?",
      "secenekler": [
       "İki haritada da aynı düzeyde ayrıntı bulunur.",
-      "1/25.000 ölçekli harita kağıt üzerinde daha büyük alan kapsar.",
+      "1/25.000 ölçekli harita kağıt üzerinde çok daha büyük bir alan kapsar. Bu nedenle tercih edilir.",
       "1/100.000 ölçekli haritanın paydası daha büyük olduğundan ölçeği küçüktür.",
       "1/100.000 ölçekli harita daha büyük ölçeklidir.",
-      "1/25.000 ölçekli harita daha az ayrıntılı gösterim yapar."
+      "1/25.000 ölçekli harita ayrıntıları çok daha az gösterir."
      ],
      "dogru": 2,
-     "aciklama": "Ölçek kesri küçüldükçe (payda büyüdükçe) harita küçük ölçekli olur; ayrıntı azalır ama kapsanan gerçek alan büyür. 1/100.000 paydası 1/25.000'den büyük olduğu için daha küçük ölçekli haritadır. 1/25.000 ise büyük ölçekli, ayrıntılı haritadır. Doğru cevap E şıkkıdır."
+     "aciklama": "Kesirli ölçekte pay sabitken payda büyüdükçe kesrin değeri, yani ölçek küçülür. 1/100.000 kesri 1/25.000 kesrinden küçüktür, bu yüzden 1/100.000 ölçekli harita küçük ölçeklidir. Küçük ölçekli harita daha geniş bir alanı daha az ayrıntıyla gösterir. Buna karşılık 1/25.000 ölçekli harita aynı bölgeyi daha büyük çizer ve daha çok ayrıntı verir. \"1/100.000 ölçekli harita daha büyük ölçeklidir.\" seçeneği yanlıştır, çünkü büyük payda küçük ölçek demektir. \"1/25.000 ölçekli harita ayrıntıları çok daha az gösterir.\" seçeneği de yanlıştır, çünkü büyük ölçekli harita daha fazla ayrıntı içerir. Doğru cevap \"1/100.000 ölçekli haritanın paydası daha büyük olduğundan ölçeği küçüktür.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "32724",
@@ -150,7 +153,8 @@
       "Tarımsal üretimde verimin artmasıyla daha fazla çocuğa ihtiyaç duyulması"
      ],
      "dogru": 4,
-     "aciklama": "Nüfus artış hızının düşmesinin sosyal nedenleri arasında kadınların toplumsal hayata katılımı, kentleşme, yasal düzenlemeler ve aile planlaması hizmetleri sayılabilir. Oysa tarımsal verim artışı, tarımsal nüfusun azalması anlamına gelir (makineleşme); bu da çocuğa tarımda iş gücü olarak duyulan ihtiyacı azaltır ve doğurganlığı düşürür. Verim artışının daha fazla çocuğa ihtiyaç doğurması mantıksal açıdan geçersizdir; aksine bu durum nüfus artış hızını düşüren bir etkendir, yükseltmez. D şıkkı nüfus artışını açıklayan değil azaltmayı engelleyen yanlış bir önerme olduğundan gösterilemez."
+     "aciklama": "Nüfus artış hızındaki düşüş birkaç sosyal etkenle açıklanır: kentleşme, kadınların eğitim ve iş hayatına katılımı, aile planlaması hizmetlerine erişim ve evlilik yaşının yükselmesi. Kentte çocuk yetiştirmenin maliyeti artar. Eğitimli kadınlar daha geç evlenir ve daha az çocuk sahibi olur. Tarımda verim artışı genellikle makineleşmeyle sağlanır; bu da iş gücüne, dolayısıyla çocuğa duyulan ihtiyacı azaltır. Üstelik daha fazla çocuğa ihtiyaç duyulması nüfus artışını hızlandırır, düşüşü açıklayamaz. \"Erken yaşta evliliklerin yasal düzenlemelerle sınırlandırılması\" yasal bir adım olsa da evlilik yaşını yükselterek doğurganlığı azaltır ve geçerli bir nedendir. Doğru cevap \"Tarımsal üretimde verimin artmasıyla daha fazla çocuğa ihtiyaç duyulması\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "32844",
@@ -176,8 +180,8 @@
      "secenekler": [
       "İç kesimler kıyılara göre daha yağışlıdır",
       "Kıyılarda yıllık sıcaklık farkı az ve yağış fazla, iç kesimlerde yıllık sıcaklık farkı büyük ve yağış azdır",
-      "Kıyılarda sıcaklık farkı çok fazla, iç kesimlerde azdır",
-      "Kıyı ve iç kesimler arasında iklim farkı yoktur",
+      "Kıyılarda yıllık sıcaklık farkı çok fazla, iç kesimlerde ise oldukça azdır ve bu durum yağış dağılımına da yansımaktadır",
+      "Kıyı kesimleri ile iç kesimler arasında herhangi bir iklim farkı yoktur",
       "İç kesimler kıyılara göre daha ılımandır"
      ],
      "dogru": 1,
@@ -213,7 +217,8 @@
       "Kıyı oku"
      ],
      "dogru": 3,
-     "aciklama": "Peneplen, aşınım sonucunda dağlık ve engebeli bir arazinin uzun jeolojik süreçler içinde yavaş yavaş aşındırılarak neredeyse düzlük hale gelmesiyle oluşan bir yeryüzü şeklidir. Dış kuvvetlerin aşındırma faaliyetiyle meydana gelir. Delta, alüvyal yelpaze, tombolo ve kıyı oku ise taşınan malzemelerin biriktirilmesiyle oluşan şekillerdir."
+     "aciklama": "Peneplen, aşınım sonucunda dağlık ve engebeli bir arazinin uzun jeolojik süreçler içinde yavaş yavaş aşındırılarak neredeyse düzlük hale gelmesiyle oluşan bir yeryüzü şeklidir. Dış kuvvetlerin aşındırma faaliyetiyle meydana gelir. Delta, alüvyal yelpaze, tombolo ve kıyı oku ise taşınan malzemelerin biriktirilmesiyle oluşan şekillerdir.",
+     "zorluk": "orta"
     },
     {
      "id": "32396",
@@ -228,7 +233,7 @@
       "İki kent arasındaki yıllık sıcaklık farkı farkı (38°C - 16°C = 22°C) yalnızca enlem değişimine bağlanabilir"
      ],
      "dogru": 3,
-     "aciklama": "B kentinin yıllık sıcaklık farkı 18-(-20)=38°C, A kentinin farkı ise 14-(-2)=16°C'dir. B'nin 38°C'lik genliği kıta içi konumunu ve şiddetli karasallığı yansıtır; bu Subarktik/Boreal kuşakla örtüşür. A kentinin ılıman kıyı iklimi ise okyanus etkisiyle mevsimlerin yumuşadığını gösterir. Ancak Okyanus kıyısında olmak otomatik olarak mevsimsel dengeli yağış anlamına gelmez; özellikle 60° kuzey enlemlerinde batı kıyıları çok yağışlı, doğu kıyıları görece az yağışlı olabilir. D şıkkı bu nüansı doğru biçimde yakalamaktadır. A şıkkı tamamen ters yorumlanmıştır; C şıkkı bitki örtüsü eşleştirmesini karıştırmaktadır.",
+     "aciklama": "İki kent aynı enlemdedir, bu yüzden aralarındaki farklar enlemle değil okyanusa uzaklıkla açıklanır. İç kesimdeki kentin yıllık sıcaklık farkı 18 − (−20) = 38°C, kıyıdaki kentinki ise 14 − (−2) = 16°C'dir. Büyük termik genlik karasallığın tipik göstergesidir. Seçeneğin ikinci kısmı \"dengeli dağılmayabilir\" biçiminde ihtiyatlı bir ifadedir ve verilerle çelişmez. \"İki kent arasındaki yıllık sıcaklık farkı farkı (38°C - 16°C = 22°C) yalnızca enlem değişimine bağlanabilir\" seçeneği yanlıştır, çünkü kentler aynı enlemdedir. Tayga ile soğuk ılıman ormanı eşleştiren seçenek de yanlıştır; tayga daha çok karasal iç kesimlerde görülür ve eşleştirme ters kurulmuştur. Doğru cevap \"B kentinin yıllık sıcaklık farkı yaklaşık 38°C olup bu değer karasallık ilkesiyle örtüşür\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -237,10 +242,10 @@
      "konuId": "dunya_sekli_hareketleri",
      "soru": "21 Mart ve 23 Eylül tarihlerinde gece ve gündüzün eşit uzunlukta olmasının temel nedeni nedir?",
      "secenekler": [
-      "Dünya'nın Güneş'e en yakın olması",
+      "Dünya'nın Güneş'e en yakın konumda bulunması",
       "Güneş ışınlarının Ekvator'a dik açıyla gelmesi",
       "Güneş'in küçülmesi",
-      "Dünya'nın dönüş hızının artması",
+      "Dünya'nın kendi ekseni etrafındaki dönüş hızının artması",
       "Ay'ın Dünya'ya yaklaşması"
      ],
      "dogru": 1,
@@ -269,8 +274,8 @@
      "konuId": "harita_koordinat",
      "soru": "Paraleller hakkında aşağıdakilerden hangisi doğrudur?",
      "secenekler": [
-      "En uzun paralel 90° paraleli olan kutup noktasıdır",
-      "Paraleller birbirini çeşitli açılarda kesmektedir",
+      "En uzun paralel, 90° paraleli olan kutup noktasıdır ve uzunluğu en fazla olandır",
+      "Paraleller birbirini çeşitli açılarla kesmektedir",
       "Ekvator, en uzun paralel olup yaklaşık 40.076 km uzunluğundadır",
       "Ekvatordan kutuplara doğru uzunlukları artar",
       "Hepsi birbirini dik açıyla keser"
@@ -308,7 +313,8 @@
       "Mısır"
      ],
      "dogru": 1,
-     "aciklama": "Zeytin ve zeytinyağı, Akdeniz ikliminin hâkim olduğu alanlarda yetişir. Türkiye'de hem Ege (İzmir, Aydın, Muğla, Manisa, Balıkesir) hem de Akdeniz (Hatay, Mersin, Adana) bölgeleri önemli zeytin üretim merkezleridir. Zeytin ve zeytinyağı Türkiye'nin önemli ihracat kalemleri arasındadır. Şeker pancarı İç Anadolu'da, ayçiçeği Trakya'da, çeltik ise Karadeniz kıyıları ile İç Batı Anadolu'da daha fazla üretilmektedir."
+     "aciklama": "Zeytin ve zeytinyağı, Akdeniz ikliminin hâkim olduğu alanlarda yetişir. Türkiye'de hem Ege (İzmir, Aydın, Muğla, Manisa, Balıkesir) hem de Akdeniz (Hatay, Mersin, Adana) bölgeleri önemli zeytin üretim merkezleridir. Zeytin ve zeytinyağı Türkiye'nin önemli ihracat kalemleri arasındadır. Şeker pancarı İç Anadolu'da, ayçiçeği Trakya'da, çeltik ise Karadeniz kıyıları ile İç Batı Anadolu'da daha fazla üretilmektedir.",
+     "zorluk": "orta"
     },
     {
      "id": "32432",
@@ -343,19 +349,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "32549",
+     "id": "32562",
      "dersId": "cografya",
      "konuId": "yeryuzu_sekilleri",
-     "soru": "Aşağıdaki dağlardan hangisi kıvrım dağlarına örnek gösterilemez?",
+     "soru": "Buzulların aşındırıp taşıdığı malzemeleri bırakmasıyla oluşan birikinti yer şekline ne ad verilir?",
      "secenekler": [
-      "Skandinavya Dağları",
-      "Kayalık Dağlar",
-      "Alpler",
-      "Himalayalar",
-      "And Dağları"
+      "Moren",
+      "Polye",
+      "Kum tümseci",
+      "Teras",
+      "Alüvyon yelpazesi"
      ],
      "dogru": 0,
-     "aciklama": "Skandinavya Dağları, levha hareketleri sonucu kıvrılmadan ziyade Paleozoyik'te oluşmuş eski kütlelerden oluşmakta olup tektonik kırılma ve aşındırma ile şekillenmiştir; genellikle kırık dağlarına ya da eski masif dağlara örnek verilir. Alpler, Himalayalar, And Dağları ve Kayalık Dağlar genç kıvrım dağlarıdır.",
+     "aciklama": "Morenler, buzulların taşıdığı kaya parçaları, çakıl ve kum gibi malzemelerin buzulun kenarına veya ucuna birikmesiyle oluşan şekillerdir. Buzul kökenli birikim yer şekillerindendir. Teras ve alüvyon yelpazesi akarsu, kum tümseci rüzgâr kökenlidir.",
      "zorluk": "kolay"
     },
     {
@@ -387,7 +393,7 @@
       "II ve V"
      ],
      "dogru": 3,
-     "aciklama": "Eksen eğikliği 0° olsaydı: I. Gerçekleşirdi; mevsimler ortadan kalkardı (doğru). II. Gerçekleşirdi; Güneş her zaman ekvator düzleminde olacağından tüm enlemlerde gece-gündüz 12'şer saat olurdu (doğru). III. Gerçekleşirdi; Güneş yalnızca ekvatorun üzerinde olurdu, yalnızca ekvator tam dik ışık alırdı (doğru). IV. Gerçekleşirdi; kutuplarda artık 24 saatlik gündüz/gece yaşanmazdı (doğru). V. GERÇEKLEŞMEZDİ; Coriolis kuvveti eksen eğikliğinden değil, Dünya'nın kendi ekseni etrafındaki dönüşünden (günlük hareket) kaynaklanır. Eksen eğikliği 0° olsa bile Dünya dönmeye devam edeceğinden Coriolis kuvveti var olmaya devam ederdi. Dolayısıyla kesinlikle gerçekleşmeyecek olan yalnızca V'tir; cevap A şıkkıdır.",
+     "aciklama": "Eksen eğikliği 0° olsaydı Güneş ışınları yıl boyunca ekvatora dik düşerdi. Bu durumda mevsimler ortadan kalkardı (I). Aydınlanma çemberi her zaman kutuplardan geçeceği için tüm enlemlerde gece ve gündüz eşit olurdu (II). Güneş yalnızca ekvatorda tepeden geçerdi (III). Kutuplarda 24 saatlik gündüz ya da gece oluşmazdı (IV). Bu dört sonuç gerçekleşirdi. Coriolis etkisi ise eksen eğikliğine değil, Dünya'nın kendi ekseni etrafında dönmesine bağlıdır. Dönme sürdüğü için Coriolis ortadan kalkmazdı (V). \"II ve V\" yanlıştır, çünkü II eğiklik olmayınca gerçekleşir. \"I, III ve V\" de yanlıştır, çünkü I ve III gerçekleşen sonuçlardır. Doğru cevap \"Yalnızca V\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -403,22 +409,23 @@
       "Türkiye, ileri teknoloji ürünleri ihracatında dünya sıralamasında üst gruplarda yer almaktadır"
      ],
      "dogru": 4,
-     "aciklama": "Türkiye, ileri teknoloji ürünleri ihracatında (savunma sanayii hariç) dünya sıralamasında henüz üst gruplarda değildir. İhracat yapısı incelendiğinde, düşük ve orta teknolojili ürünlerin (tekstil, gıda, otomotiv parçaları gibi) ağırlığı hâlâ yüksektir. Diğer şıklar Türkiye'nin sanayi yapısını doğru biçimde yansıtmaktadır."
+     "aciklama": "Türkiye, ileri teknoloji ürünleri ihracatında (savunma sanayii hariç) dünya sıralamasında henüz üst gruplarda değildir. İhracat yapısı incelendiğinde, düşük ve orta teknolojili ürünlerin (tekstil, gıda, otomotiv parçaları gibi) ağırlığı hâlâ yüksektir. Diğer şıklar Türkiye'nin sanayi yapısını doğru biçimde yansıtmaktadır.",
+     "zorluk": "orta"
     },
     {
-     "id": "32275",
+     "id": "32045",
      "dersId": "cografya",
      "konuId": "harita_koordinat",
-     "soru": "Gnomik (merkezi) projeksiyonda çizilen bir haritada, iki nokta arasındaki en kısa yol (ortodrom) düz çizgi olarak görünür. Bu projeksiyonla ilgili aşağıdaki ifadelerden hangisi kesinlikle yanlıştır?",
+     "soru": "Eşyükselti eğrilerinin (izohips) sıklaştığı bir bölgede haritayı okuyan bir coğrafyacı, aşağıdaki yorumlardan hangisini kesinlikle yapabilir?",
      "secenekler": [
-      "Loksodromlar (sabit pusula yönü) bu haritada düz çizgi olarak görünür.",
-      "Kutup bölgeleri bu projeksiyonla gösterilemez.",
-      "Harita alan bakımından doğru değildir.",
-      "Ekvator ve bütün meridyenler düz çizgi olarak görünür.",
-      "Büyük daire yayları her zaman düz çizgi olarak gösterilir. Bu durum her ölçekte geçerlidir."
+      "O bölgede eğim fazladır",
+      "O bölgede bitki örtüsü seyrektir",
+      "O bölgede akarsu hızı yüksektir",
+      "O bölge dağlık karakterdedir",
+      "O bölgede erozyon şiddetlidir"
      ],
      "dogru": 0,
-     "aciklama": "Gnomik projeksiyonda büyük daire yayları (ortodromlar) düz çizgi olarak gösterilir; ancak loksodromlar (sabit pusula yönü/rumb hattı) bu projeksiyonda eğri çizgiler olarak görünür. Loksodromların düz çizgi olarak görüldüğü projeksiyon Mercator projeksiyonudur. Gnomik projeksiyonun alan bozulması büyüktür ve kutup noktaları gösterilemez.",
+     "aciklama": "Eşyükselti eğrilerinin sıklaşması, birim yatay mesafedeki yükselti farkının arttığını gösterir; bu da doğrudan eğimin fazla olduğunu ifade eder. Erozyon, akarsu hızı, dağlık karakter ve bitki örtüsü gibi unsurlar eğimle ilişkili olsa da yalnızca eğimin fazlalığı izohipslerin sıklaşmasından kesin olarak çıkarılan yorumdur. Diğer seçenekler dolaylı çıkarımlardır ve her durumda geçerli olmayabilir.",
      "zorluk": "zor"
     },
     {
@@ -434,7 +441,8 @@
       "Kervansaray çevresinde gelişen şehirler"
      ],
      "dogru": 1,
-     "aciklama": "Dağınık (dispersed) yerleşme, çiftçilerin tarım arazilerinin başına ya da su kaynağına yakın, birbirinden uzak münferit konutlar kurduğu bir yerleşme biçimidir. Bu tür yerleşme Ege'deki zeytinlik ve bağ tarım alanlarında yaygındır; zira tarım parselleri geniş alanlara yayılmış olup çiftçi arazisinin yanında kalmak ister. İç Anadolu steplerinde ise su kıtlığı ve güvenlik kaygısıyla toplu köy yerleşmeleri egemendir. Dağınık yerleşme İç Anadolu'ya özgü bir form değildir."
+     "aciklama": "Dağınık (dispersed) yerleşme, çiftçilerin tarım arazilerinin başına ya da su kaynağına yakın, birbirinden uzak münferit konutlar kurduğu bir yerleşme biçimidir. Bu tür yerleşme Ege'deki zeytinlik ve bağ tarım alanlarında yaygındır; zira tarım parselleri geniş alanlara yayılmış olup çiftçi arazisinin yanında kalmak ister. İç Anadolu steplerinde ise su kıtlığı ve güvenlik kaygısıyla toplu köy yerleşmeleri egemendir. Dağınık yerleşme İç Anadolu'ya özgü bir form değildir.",
+     "zorluk": "orta"
     },
     {
      "id": "32769",
@@ -464,7 +472,7 @@
       "Güneydoğu Anadolu – Mezopotamya'dan gelen sıcak hava kütlelerinin bölgede ısı adası oluşturması",
       "İç Anadolu – Zaten yarı kurak olan bölgede buharlaşmanın artması ve yağışların azalması"
      ],
-     "dogru": 2,
+     "dogru": 4,
      "aciklama": "İklim değişikliği bağlamında Doğu Anadolu'nun su kaynakları açısından özel bir kırılganlığı vardır: Bölgedeki dağlık alanlar (Ağrı, Süphan, Erciyes gibi volkanik koniler ve yüksek dağlar) hem Türkiye'nin hem de komşu ülkelerin önemli akarsularını besleyen kar ve buz rezervlerine sahiptir. İklim ısınmasıyla bu kaynaklar hızla eriyor; kısa vadede taşkın ve sel riski artarken uzun vadede mevsimlik akış azalıyor ve bölge ile aşağı havzalar ciddi kuraklıkla karşı karşıya kalıyor. Bu dinamik, diğer seçeneklerdeki bölgelere kıyasla çok daha dramatik ve geri dönüşü güç bir değişim sürecini temsil etmektedir.",
      "zorluk": "zor"
     },
@@ -481,7 +489,8 @@
       "Antalya-Alanya kıyı şeridi"
      ],
      "dogru": 4,
-     "aciklama": "Türkiye'de seracılık en yoğun biçimde Antalya ve Alanya kıyı şeridinde yapılmaktadır. Bu alan kışları ılıman ve güneşli olması nedeniyle örtü altı sebze ve meyve yetiştiriciliğine son derece elverişlidir. Türkiye sera ihracatının büyük bölümü bu alandan karşılanmaktadır."
+     "aciklama": "Türkiye'de seracılık en yoğun biçimde Antalya ve Alanya kıyı şeridinde yapılmaktadır. Bu alan kışları ılıman ve güneşli olması nedeniyle örtü altı sebze ve meyve yetiştiriciliğine son derece elverişlidir. Türkiye sera ihracatının büyük bölümü bu alandan karşılanmaktadır.",
+     "zorluk": "orta"
     }
    ]
   }

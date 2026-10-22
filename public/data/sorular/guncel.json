@@ -512,22 +512,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "36038",
-  "dersId": "guncel",
-  "konuId": "turkiye_guncel",
-  "soru": "Türkiye'nin NATO bünyesinde yürüttüğü ve komuta yapısını üstlendiği deniz operasyonu aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Deniz Zaferi Harekâtı",
-   "Operasyon Okyanuslar Kalkanı",
-   "Operasyon Deniz Kalkanı",
-   "Operasyon Aktif Çaba",
-   "NATO Daimi Deniz Kuvvetleri-2 (SNMG-2)"
-  ],
-  "dogru": 4,
-  "aciklama": "Türkiye, NATO bünyesindeki SNMG-2 (Standing NATO Maritime Group 2 – NATO Daimi Deniz Kuvvetleri-2) görev grubunun komutasını dönemsel olarak üstlenmektedir. Bu yapı, Akdeniz ve çevre denizlerde NATO'nun sürekli deniz varlığını sağlayan iki kalıcı deniz görev grubundan biridir. Türk deniz kuvvetleri bu yapıda etkin rol oynamaktadır.",
-  "zorluk": "orta"
- },
- {
   "id": "36039",
   "dersId": "guncel",
   "konuId": "turkiye_guncel",
@@ -576,38 +560,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "36044",
-  "dersId": "guncel",
-  "konuId": "turkiye_guncel",
-  "soru": "Türkiye'de 2022 yılında yürürlüğe giren ve kadına yönelik şiddetle mücadele kapsamındaki temel yasal düzenlemelerden biri olan uygulama aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Nafaka sürelerini sınırlayan kanun değişikliği",
-   "Boşanma davalarında zorunlu arabuluculuk uygulamasının tamamen kaldırılması ve dava sürelerinin kısaltılması",
-   "Aile içi şiddeti ayrı bir suç olarak TCK'ya ekleyen düzenleme",
-   "Şiddet Önleme ve İzleme Merkezleri'nin (ŞÖNİM) tüm illerde zorunlu hale getirilmesi",
-   "Türkiye'nin İstanbul Sözleşmesi'ne yeniden katılması"
-  ],
-  "dogru": 3,
-  "aciklama": "Şiddet Önleme ve İzleme Merkezleri (ŞÖNİM), 6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun kapsamında kurulmuştur. Bu merkezlerin tüm il merkezlerinde zorunlu hizmet vermesi öngörülmüş; kurumlar, şiddet mağdurlarına psikososyal destek, hukuki rehberlik ve barınma yönlendirmesi sağlamaktadır. Türkiye, İstanbul Sözleşmesi'nden 2021 yılında çekilmiş olup yeniden katılım henüz gerçekleşmemiştir.",
-  "zorluk": "orta"
- },
- {
-  "id": "36045",
-  "dersId": "guncel",
-  "konuId": "turkiye_guncel",
-  "soru": "Türkiye'nin 2023 yılında açıkladığı 'Yeşil Mutabakat Eylem Planı' kapsamında 2053 yılına kadar ulaşmayı hedeflediği karbon nötrlüğü hedefi doğrultusunda hangi alanda en kapsamlı dönüşüm programı başlatılmıştır?",
-  "secenekler": [
-   "Konut sektöründe kömür yakıtının kaldırılması",
-   "Sanayide doğalgaz kullanımının tamamen yasaklanması",
-   "Ulaşımda elektrikli araç kullanım zorunluluğu",
-   "Enerji sektöründe yenilenebilir kaynaklara geçiş",
-   "Tarım sektöründe organik üretim zorunluluğu"
-  ],
-  "dogru": 3,
-  "aciklama": "Türkiye'nin 2053 net sıfır emisyon hedefi çerçevesinde en kapsamlı dönüşüm programı enerji sektöründe yürütülmektedir. Güneş, rüzgâr ve hidroelektrik kapasitesinin artırılması öncelikli alan olarak belirlenmiş; YEKA (Yenilenebilir Enerji Kaynak Alanları) ihaleleri bu kapsamda genişletilmiştir.",
-  "zorluk": "orta"
- },
- {
   "id": "36046",
   "dersId": "guncel",
   "konuId": "turkiye_guncel",
@@ -621,38 +573,6 @@
   ],
   "dogru": 3,
   "aciklama": "2017 Anayasa referandumu ile milletvekili sayısı 550'den 600'e çıkarılmıştır. Türkiye'de milletvekili seçimlerinde d'Hondt yöntemi esas alınan nispi temsil sistemi uygulanmakta, seçim çevreleri il bazında belirlenmektedir.",
-  "zorluk": "orta"
- },
- {
-  "id": "36048",
-  "dersId": "guncel",
-  "konuId": "turkiye_guncel",
-  "soru": "Türkiye'nin TEKNOFEST kapsamında geliştirilen ve 2023-2024 döneminde operasyonel kabiliyete ulaştığı ilan edilen insansız deniz aracı hangisidir?",
-  "secenekler": [
-   "ULAQ",
-   "ATMACA",
-   "GEZGIN",
-   "AKINCILAR",
-   "BAYRAKTAR TB3"
-  ],
-  "dogru": 0,
-  "aciklama": "ULAQ, Türkiye'nin yerli imkânlarla geliştirdiği ilk silahlı insansız deniz yüzey aracıdır (İDYA). METEKSAN Savunma ve ARES Tersanesi iş birliğiyle üretilen ULAQ, deniz güvenliği ve asimetrik tehditlere karşı kullanılmak üzere tasarlanmış olup operasyonel yeteneklere kavuşması savunma sanayii açısından önemli bir dönüm noktasıdır.",
-  "zorluk": "orta"
- },
- {
-  "id": "36049",
-  "dersId": "guncel",
-  "konuId": "turkiye_guncel",
-  "soru": "Türkiye'de 2024 yılında yürürlüğe giren 'Dezenformasyon Yasası' olarak da bilinen düzenleme hangi kanun kapsamında ele alınmaktadır ve temel hedef kitlesi kimlerdir?",
-  "secenekler": [
-   "Türk Ceza Kanunu – yalnızca yabancı uyruklu gazeteciler",
-   "TCK 217/A maddesi – kamuoyunu yanıltıcı bilgi yayan herkes",
-   "İnternet Kanunu – sosyal medya şirketleri",
-   "Radyo ve Televizyon Kanunu – yayıncı kuruluşlar",
-   "Basın Kanunu – yalnızca yazılı basın mensupları"
-  ],
-  "dogru": 1,
-  "aciklama": "7418 sayılı Kanun ile Türk Ceza Kanunu'na eklenen 217/A maddesi 'halk arasında korku ve panik yaratmaya elverişli yanlış bilgiyi alenen yaymak' eylemini suç olarak tanımlamaktadır. Düzenleme, sosyal medya kullanıcıları dahil kamuoyunu yanıltıcı bilgi yayan herkesi kapsamakta olup basın özgürlüğü tartışmalarının odağında yer almaktadır.",
   "zorluk": "orta"
  },
  {
@@ -912,22 +832,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "36066",
-  "dersId": "guncel",
-  "konuId": "turkiye_guncel",
-  "soru": "Türkiye'nin savunma sanayii alanında geliştirdiği ve 2023 yılında envantere giren, yerli üretim muharip insansız hava aracı (MIUS) olarak bilinen proje aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "AKINCI",
-   "AKSUNGUR",
-   "KIZILELMA",
-   "BAYRAKTAR TB3",
-   "ANKA-3"
-  ],
-  "dogru": 2,
-  "aciklama": "KIZILELMA (MIUS - Muharip İnsansız Uçak Sistemi), Baykar tarafından geliştirilen, jet motorlu, füze atışı yapabilen ve insansız savaş uçağı kategorisindeki ilk yerli platformdur. 2023 yılında ilk uçuşunu gerçekleştirmiştir. AKINCI ve BAYRAKTAR TB3 de insansız sistemler olmakla birlikte KIZILELMA, muharip uçak sınıfında konumlandırılmasıyla ayrışmaktadır.",
-  "zorluk": "orta"
- },
- {
   "id": "36067",
   "dersId": "guncel",
   "konuId": "turkiye_guncel",
@@ -939,7 +843,7 @@
    "Sosyal Güvenlik Transferleri",
    "Faiz Ödemeleri"
   ],
-  "dogru": 4,
+  "dogru": 2,
   "aciklama": "Yüksek enflasyon ve faiz artışları sonucunda Türkiye'nin 2024 bütçesinde faiz ödemeleri, toplam harcamalar içinde tarihin en yüksek payına ulaşmıştır. Bütçe açığının ve iç borç stoğunun genişlemesiyle birlikte faiz giderleri, savunma, eğitim ve sağlık harcamalarının önüne geçmiş; bu durum maliye politikasında ciddi bir kırılganlık unsuru olarak öne çıkmıştır.",
   "zorluk": "orta"
  },
@@ -1056,38 +960,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "36077",
-  "dersId": "guncel",
-  "konuId": "turkiye_guncel",
-  "soru": "Türkiye'nin taraf olduğu TEKNOFEST kapsamında geliştirilen insansız hava araçlarının ihracatında yaşanan artışın geopolitik yansımaları değerlendirildiğinde, aşağıdaki çıkarımlardan hangisi analitik açıdan en tutarlıdır?",
-  "secenekler": [
-   "İnsansız hava aracı teknolojisi yalnızca çatışma bölgelerinde talep görmekte, barış dönemlerinde ekonomik değeri bulunmamaktadır.",
-   "Savunma sanayii ihracatı, dış politikadan bağımsız salt ticari bir faaliyet niteliğindedir.",
-   "SİHA ihracatı yalnızca ekonomik kazanım sağlamakta, stratejik bağımlılık ilişkisi yaratmamaktadır.",
-   "Türkiye, savunma sanayii ihracatı aracılığıyla asimetrik güç kullanımı kapasitesi elde etmektedir.",
-   "SİHA ihracatındaki artış, Türkiye'nin NATO ile ilişkilerini doğrudan zayıflatmaktadır."
-  ],
-  "dogru": 3,
-  "aciklama": "Türkiye'nin Bayraktar TB2 başta olmak üzere SİHA sistemlerini Ukrayna, Azerbaycan, Somali ve pek çok başka ülkeye ihraç etmesi; salt ekonomik bir ilişkinin ötesinde stratejik bağımlılık ve etki alanı oluşturma işlevi görmektedir. Alıcı devletlerin sistemin bakım, eğitim ve aksam temini için Türkiye'ye bağımlı hale gelmesi, Türkiye'nin asimetrik bir güç konumu elde etmesini sağlamaktadır. Bu durum savunma ihracatının dış politika aracına dönüştüğünün somut göstergesidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "36078",
-  "dersId": "guncel",
-  "konuId": "turkiye_guncel",
-  "soru": "Türkiye'nin 2023 yılında imzaladığı Tahıl Koridoru Anlaşması'nın çöküşü ve sonrasında sürdürülen arabuluculuk girişimleri, Türkiye'nin dış politika kimliğini tanımlamak açısından aşağıdaki kavramlardan hangisiyle en doğru biçimde açıklanabilir?",
-  "secenekler": [
-   "Tek kutuplu güvenlik bağımlılığı modeli modeli ve tek blok yanlısı hizalanma",
-   "Çok vektörlü denge politikası (multi-vector balancing)",
-   "İzolasyonist dış politika",
-   "Revizyonist bölgesel hegemonya arayışı",
-   "Pasif ittifak yönetimi"
-  ],
-  "dogru": 1,
-  "aciklama": "Türkiye'nin Karadeniz Tahıl Girişimi'ndeki rolü; hem Rusya hem Ukrayna hem de Batı ile eş anlı diyalog sürdürebilme kapasitesini yansıtmaktadır. Bu yaklaşım, çok vektörlü denge politikası (multi-vector balancing) olarak tanımlanmakta; Türkiye'nin çatışan taraflar arasında arabulucu ve geçiş aktörü olarak konumlanmasına olanak tanımaktadır. Türkiye bu politika sayesinde hem NATO üyeliğini hem de Rusya ile işlevsel ilişkilerini sürdürebilmektedir.",
-  "zorluk": "zor"
- },
- {
   "id": "36079",
   "dersId": "guncel",
   "konuId": "turkiye_guncel",
@@ -1101,22 +973,6 @@
   ],
   "dogru": 4,
   "aciklama": "Ortodoks para politikası, piyasa mekanizmasının faiz oluşumuna serbestçe yansımasını gerektirir. Faiz artışlarının yanı sıra mevduat ve kredi faizleri üzerinde idari yönlendirme ve tavan uygulamalarının sürdürülmesi, piyasa mekanizmasının işleyişini kısıtlamakta ve politikanın 'tam ortodoks' olarak nitelendirilemeyeceğini göstermektedir. Bu durum, faiz artışlarının yarı-ortodoks bir çerçevede yürütüldüğüne işaret etmektedir.",
-  "zorluk": "zor"
- },
- {
-  "id": "36080",
-  "dersId": "guncel",
-  "konuId": "turkiye_guncel",
-  "soru": "Türkiye'nin 2023 yılı nüfus verilerine göre demografik geçiş sürecindeki konumu değerlendirildiğinde, aşağıdaki tespitlerden hangisi hem iç göç dinamikleri hem de yaşlanan nüfus baskısı açısından politika üretimi için en kritik veriyi içermektedir?",
-  "secenekler": [
-   "Ortanca yaşın 33,5 olması ve hızla artmakta olması",
-   "Toplam doğurganlık hızının 2,1 eşiğinin üzerinde seyretmesi",
-   "Kırsal-kentsel nüfus oranının %8-%92 düzeyine ulaşması",
-   "Genç bağımlılık oranının yaşlı bağımlılık oranından hâlâ yüksek olması",
-   "İstanbul'un nüfusunun 16 milyonu geçmiş olması"
-  ],
-  "dogru": 0,
-  "aciklama": "Demografik geçiş açısından en kritik politika göstergesi ortanca yaştır. Türkiye'de ortanca yaşın 33,5 civarında olması ve hızla yükselmesi; yakın vadede sosyal güvenlik sistemleri üzerinde artan baskı, emeklilik reformu gerekliliği ve aktif nüfusun görece daralması anlamına gelmektedir. Bu eğilim, hem kısa vadeli iç göç politikaları hem de uzun vadeli demografik planlama açısından birincil referans noktası olmaktadır.",
   "zorluk": "zor"
  },
  {
@@ -1149,22 +1005,6 @@
   ],
   "dogru": 3,
   "aciklama": "İki turlu cumhurbaşkanlığı sistemi; çok adaylı yarışlarda seçmenlerin birinci turda tercih ettikleri adayı desteklerken ikinci turda koşullu tercihlerini yeniden düzenlemelerine imkân tanır. Bu mekanizma, seçim öncesi koalisyon kurmanın yerine geçer: birinci turda aday kaldırmak isteyen partiler, ikinci turda daha güçlü adaya destek vererek etkilerini pazarlık aracına dönüştürmektedir. 2023 seçimlerinde bu dinamik açıkça gözlemlenmiştir.",
-  "zorluk": "zor"
- },
- {
-  "id": "36083",
-  "dersId": "guncel",
-  "konuId": "turkiye_guncel",
-  "soru": "Türkiye'nin 2023'ten itibaren hayata geçirdiği 'Mavi Vatan' doktrinine dayalı Doğu Akdeniz politikasının uluslararası hukuk açısından tartışmalı yönü, aşağıdakilerden hangisinde en doğru biçimde özetlenmiştir?",
-  "secenekler": [
-   "Türkiye'nin Yunanistan ile daha önce imzaladığı ikili denizcilik anlaşmasından tek taraflı biçimde çekilmesi ve yeni sınır hattı ilan etmesi ve yeni bir kıta sahanlığı sınır hattı ilan etmesi",
-   "Türkiye'nin uluslararası tahkime başvurarak hak iddialarını meşrulaştırmaya çalışması",
-   "Mavi Vatan doktrininin yalnızca Karadeniz'deki Türk egemenlik haklarını kapsıyor olması",
-   "Türkiye'nin UNCLOS'a taraf olduğu hâlde bu sözleşmeye aykırı tutum sergilemesi",
-   "Türkiye'nin UNCLOS'a taraf olmaksızın adaların münhasır ekonomik bölge oluşturduğu görüşünü reddetmesi ve kıta sahanlığı hakkını ön plana çıkarması"
-  ],
-  "dogru": 4,
-  "aciklama": "Türkiye, UNCLOS'u (BM Deniz Hukuku Sözleşmesi) imzalamamış olup bu sözleşmenin adaların tam münhasır ekonomik bölge ve kıta sahanlığı hakkı doğurduğu kuralını kabul etmemektedir. Mavi Vatan doktrini çerçevesinde Türkiye, Yunan adalarının Türkiye'nin kıta sahanlığı sınırlamasını daraltamayacağını savunmakta; kendi kıta sahanlığı hesaplamalarını örf ve adet uluslararası hukukuna dayandırmaktadır. Bu yaklaşım, UNCLOS rejimini benimseyen Yunanistan, Kıbrıs ve AB ile köklü bir hukuki çelişki yaratmaktadır.",
   "zorluk": "zor"
  },
  {
@@ -1261,38 +1101,6 @@
   ],
   "dogru": 2,
   "aciklama": "Afet ekonomisi literatürü, yeniden yapım süreçlerinde kamu kaynaklarının belirli bölgelere yoğunlaşmasının 'fırsat maliyeti' aracılığıyla diğer bölgelerdeki yatırımları dışladığını ortaya koymaktadır. Türkiye'de Doğu Anadolu ve Güneydoğu Anadolu gibi halihazırda göç veren ve kalkınmada öncelikli sayılan bölgeler, kaynakların deprem bölgesine yönelmesiyle görece dezavantajlı konuma düşebilir. Üstelik geçici 'inşaat patlaması', nitelikli işgücü çekmeksizin sürdürülebilir ekonomik dönüşümü garanti etmemektedir.",
-  "zorluk": "zor"
- },
- {
-  "id": "36090",
-  "dersId": "guncel",
-  "konuId": "turkiye_guncel",
-  "soru": "Türkiye'nin 2023 yılında açıkladığı 'Yeşil Mutabakat Eylem Planı' kapsamında 2053 net sıfır emisyon hedefine ulaşmak için benimsenen temel strateji aşağıdakilerden hangisinde doğru olarak eşleştirilmiştir?",
-  "secenekler": [
-   "Karbon fiyatlandırma mekanizması – AB Emisyon Ticaret Sistemi'ne 2025'te tam entegrasyon",
-   "Nükleer enerji kapasitesini artırma – Akkuyu NGS'nin 6 reaktöre çıkarılması",
-   "Hidrojen ekonomisi – 2030'a kadar toplam elektrik üretiminin %40'ını yeşil hidrojenden karşılama",
-   "Enerji verimliliği ve yenilenebilir enerji – fosil yakıt sübvansiyonlarının kademeli azaltılması",
-   "Yenilenebilir enerji önceliği – 2035'e kadar kömür santrallerinin tamamen kapatılması"
-  ],
-  "dogru": 3,
-  "aciklama": "Türkiye'nin Yeşil Mutabakat Eylem Planı; enerji verimliliğini artırmayı, yenilenebilir enerji kapasitesini genişletmeyi ve fosil yakıt sübvansiyonlarını kademeli olarak azaltmayı temel eksenler olarak belirlemiştir. Kömür santrallerinin 2035'te tamamen kapatılması henüz resmî taahhüt değil, AB'nin talep ettiği bir hedef niteliğindedir. Yeşil hidrojen %40 hedefi ve AB ETS'ye 2025 entegrasyonu ise güncel politika belgelerinde yer almayan abartılı ifadelerdir.",
-  "zorluk": "zor"
- },
- {
-  "id": "36091",
-  "dersId": "guncel",
-  "konuId": "turkiye_guncel",
-  "soru": "Türkiye'nin 2022'de onayladığı Paris İklim Anlaşması çerçevesinde sunduğu Ulusal Katkı Beyanı (NDC) incelendiğinde, aşağıdaki değerlendirmelerden hangisi analitik açıdan doğrudur?",
-  "secenekler": [
-   "NDC, enerji sektörünü kapsam dışı bırakarak yalnızca sanayi ve ulaşım sektörlerini hedeflemiştir.",
-   "Türkiye, 2053 sıfır emisyon hedefini resmî olarak NDC metnine işlemiş ve BM'ye bildirmiştir.",
-   "Türkiye, AB üyelik süreci nedeniyle kendi NDC'sini AB'nin kolektif NDC'sine bağlamış ve bireysel ulusal hedef belirlemekten tümüyle vazgeçmiştir. Bu tercih Türkiye'yi AB'nin iklim mevzuatına doğrudan tabi kılmıştır.",
-   "Türkiye, mutlak emisyon azaltımı taahhüt etmiş; 2030'da 2012 seviyesine göre %30 azaltım öngörülmüştür.",
-   "Türkiye, gelişmekte olan ülke statüsünü koruyarak koşulsuz azaltım yerine koşullu azaltım taahhüdü vermiş; bu durum iç kaynaklarla değil dış finansmanla hedefe ulaşmayı öne çıkarmaktadır."
-  ],
-  "dogru": 4,
-  "aciklama": "Türkiye, NDC'sinde %41 oranında emisyon azaltımını öngörmüş ancak bu taahhüdü koşullu olarak sunmuştur; yani hedefe ulaşmak uluslararası iklim finansmanı, teknoloji transferi ve kapasite artırımına bağlıdır. Türkiye'nin Ek-1 dışı statüsünü koruma çabası ve bu çerçevede mutlak değil yoğunluk bazlı taahhüt eğilimi NDC'nin belirleyici özelliğidir. 2053 hedefi siyasi bir beyan olup resmî NDC metnine tam olarak entegre edilmemiştir.",
   "zorluk": "zor"
  },
  {
@@ -1696,38 +1504,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "36117",
-  "dersId": "guncel",
-  "konuId": "turkiye_guncel",
-  "soru": "Türkiye'nin 2023-2024 döneminde hem İsrail'i soykırımla suçlayan Güney Afrika'nın ICJ davasına müdahil olması hem de Hamas'la aktif diplomasi kanallarını sürdürmesi, ancak buna karşın tarihsel İsrail ticaret ilişkilerine tek taraflı son vermemesi; bu tutumun bütünü değerlendirildiğinde aşağıdaki dış politika yaklaşımlarından hangisi en isabetli tanımlamayı sunmaktadır?",
-  "secenekler": [
-   "Batı ile diplomatik ilişkilerin tamamen kopmasına zemin hazırlayan bir kopuş stratejisi",
-   "İslam dünyasına yönelik saf ideolojik bir dış politika",
-   "BM Güvenlik Konseyi'nde daimi üyelik hedefini destekleyen pozisyon alımı",
-   "Kamuoyu söylemi ve hukuki adımlarla iç siyasi taban yönetimi yapılırken ekonomik ilişkilerin pragmatizm çerçevesinde korunması",
-   "Türkiye'nin Filistin davasını uluslararası arenada defalarca tanımış olmasının ve bu tutumu sürdürmesinin doğal uzantısı ve bu çizginin kesintisiz sürdürülmesi"
-  ],
-  "dogru": 3,
-  "aciklama": "Türkiye'nin Gazze konusundaki tutumu, retorik ve hukuki adımların dini-milliyetçi seçmen tabanına yönelik iç siyasi konumlanmayla iç içe geçtiği, buna karşın ekonomik pragmatizmin gözetildiği çok katmanlı bir yapı sergilemektedir. Ticaret ilişkilerinin geç ve seçici biçimde kısıtlanması, söylemin fiili ekonomik bedel ödeme iradesiyle her zaman örtüşmediğini göstermektedir. Bu tutum, Türkiye'nin Filistin meselesinde tarihsel olarak güçlü bir duruş sergilemesine karşın ekonomik ve stratejik hesapların politikayı dizginlediği örüntüyle de uyum içindedir.",
-  "zorluk": "zor"
- },
- {
-  "id": "36118",
-  "dersId": "guncel",
-  "konuId": "turkiye_guncel",
-  "soru": "Türkiye'de 2023 yılında kapsamlı biçimde yeniden düzenlenen seçim mevzuatı — seçim çevrelerinin yeniden belirlenmesi, ittifak hükümleri ve seçilmiş cumhurbaşkanının referanduma başvurmadan üçüncü döneme gidebileceği koşullar dahil — değerlendirildiğinde, söz konusu değişiklikler akademisyenler tarafından ağırlıklı olarak hangi kavram çerçevesinde ele alınmıştır?",
-  "secenekler": [
-   "Yargısal aktivizm",
-   "Federal yapılanmaya doğru kademeli yetki devri süreci ve idari özerkliğin genişletilmesi",
-   "Parlamenter sistem restorasyonu",
-   "Seçimsel otoriter anayasacılık ya da 'demokratik geri çekilme'",
-   "Normatif anayasal konsolidasyonun tamamlanması"
-  ],
-  "dogru": 3,
-  "aciklama": "Türkiye'nin seçim mevzuatındaki değişiklikler, karşılaştırmalı siyaset yazınında iktidar partisinin orantısız avantaj elde ettiği, kurumsal denetim mekanizmalarının zayıfladığı ve iktidarın meşruiyetini seçim usulünden türetmeye devam ettiği 'seçimsel otoriter' sistemlere ilişkin geniş bir literatür çerçevesinde değerlendirilmektedir. Steven Levitsky ve Lucan Way'den beslenilen bu 'demokratik geri çekilme' veya 'rekabetçi otoriterleşme' perspektifi, Freedom House ve V-Dem gibi uluslararası endekslerin Türkiye değerlendirmelerine de yansımıştır. Seçim sistemleri ve zamanlamasındaki değişikliklerin toplumsal meşruiyetle örtüşmesi, tartışmanın odak noktasını oluşturmaktadır.",
-  "zorluk": "zor"
- },
- {
   "id": "36120",
   "dersId": "guncel",
   "konuId": "uluslararasi_guncel",
@@ -1837,22 +1613,6 @@
   ],
   "dogru": 2,
   "aciklama": "İsveç'in NATO üyeliği sürecinde Türkiye'nin ardından Macaristan da onay konusunda direnmişti. İsveç, Mart 2024'te Macaristan'ın onayıyla resmen NATO'ya katılmıştır.",
-  "zorluk": "kolay"
- },
- {
-  "id": "36127",
-  "dersId": "guncel",
-  "konuId": "uluslararasi_guncel",
-  "soru": "Aşağıdaki ülkelerden hangisi BRICS grubunun kurucu üyelerinden biri değildir?",
-  "secenekler": [
-   "Güney Afrika",
-   "Hindistan",
-   "Meksika",
-   "Rusya",
-   "Brezilya"
-  ],
-  "dogru": 2,
-  "aciklama": "BRICS, Brezilya, Rusya, Hindistan, Çin ve Güney Afrika'dan oluşan bir ekonomik gruptur. Meksika bu grubun üyesi değildir.",
   "zorluk": "kolay"
  },
  {
@@ -2352,22 +2112,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "36163",
-  "dersId": "guncel",
-  "konuId": "uluslararasi_guncel",
-  "soru": "2023 yılında imzalanan ve 'küresel plastik kirliliğini sona erdirmek' amacıyla müzakere edilen uluslararası anlaşma hangi BM organının koordinasyonuyla hazırlanmaktadır?",
-  "secenekler": [
-   "BM Çevre Programı (UNEP)",
-   "BM Sanayi Kalkınma Örgütü (UNIDO)",
-   "BM Gıda ve Tarım Örgütü (FAO)",
-   "BM Ticaret ve Kalkınma Konferansı (UNCTAD)",
-   "BM Kalkınma Programı (UNDP)"
-  ],
-  "dogru": 0,
-  "aciklama": "Küresel plastik kirliliğini sona erdirmeye yönelik bağlayıcı uluslararası anlaşma müzakereleri, BM Çevre Programı (UNEP) koordinasyonunda yürütülmektedir. 2022'de Nairobi'de başlayan bu süreç, 2024'e kadar tamamlanması hedeflenen 'Küresel Plastik Anlaşması' çerçevesinde devam etmiştir.",
-  "zorluk": "orta"
- },
- {
   "id": "36164",
   "dersId": "guncel",
   "konuId": "uluslararasi_guncel",
@@ -2397,22 +2141,6 @@
   ],
   "dogru": 1,
   "aciklama": "IMF'nin Özel Çekme Hakları (SDR) sepetinde beş para birimi yer almaktadır: ABD Doları, Euro, Çin Yuanı (Renminbi), Japon Yeni ve İngiliz Sterlini. Hindistan Rupisi SDR sepetine henüz dahil edilmemiştir. Çin Yuanı, 2016 yılında bu sepete eklenmiştir.",
-  "zorluk": "orta"
- },
- {
-  "id": "36166",
-  "dersId": "guncel",
-  "konuId": "uluslararasi_guncel",
-  "soru": "Aşağıdakilerden hangisi, NATO'nun 2022 Madrid Zirvesi'nde kabul edilen Stratejik Konsept'inde önceki konseptten farklı olarak ilk kez açıkça 'stratejik tehdit' olarak nitelendirilen unsurları doğru biçimde ifade etmektedir?",
-  "secenekler": [
-   "Çin ve Terorizm",
-   "Siber Saldırılar ve İklim Değişikliği",
-   "Rusya ve Çin",
-   "Rusya ve İklim Değişikliği",
-   "Çin ve Kuzey Kore"
-  ],
-  "dogru": 2,
-  "aciklama": "NATO'nun 2022 Madrid Zirvesi'nde kabul edilen Stratejik Konsept, Rusya'yı 'en önemli ve doğrudan tehdit' olarak nitelendirirken Çin'i de ilk kez resmi bir NATO belgesinde 'ciddi bir meydan okuma' olarak tanımlamıştır. Çin'in önceki konseptlerde (2010) bu şekilde doğrudan ele alınmamış olması, belgenin dikkat çeken yeniliği olmuştur.",
   "zorluk": "orta"
  },
  {
@@ -2592,22 +2320,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "36178",
-  "dersId": "guncel",
-  "konuId": "uluslararasi_guncel",
-  "soru": "2023 yılında yürürlüğe giren AB Yapay Zeka Yasası (AI Act), yapay zeka sistemlerini risk düzeylerine göre sınıflandırmaktadır. Bu çerçevede aşağıdaki eşleştirmelerden hangisi yanlıştır?",
-  "secenekler": [
-   "Kritik altyapıları etkileyen YZ sistemleri - Yüksek risk",
-   "Derin sahte (deepfake) içerik oluşturan sistemler - Düşük risk",
-   "Biometrik uzaktan tanımlama sistemleri - Kabul edilemez risk (yasaklı)",
-   "Sohbet robotları ve sanal asistanlar - Sınırlı risk",
-   "Eğitim ve mesleki değerlendirme sistemleri - Yüksek risk"
-  ],
-  "dogru": 1,
-  "aciklama": "AB Yapay Zeka Yasası kapsamında derin sahte (deepfake) içerik oluşturan sistemler 'düşük risk' olarak değil, 'sınırlı risk' kategorisinde değerlendirilmekte ve bu sistemlerin kullanıcıları yapay zeka tarafından üretildiği konusunda bilgilendirme yükümlülüğü bulunmaktadır. Biyometrik uzaktan tanımlama sistemlerinin kamuya açık alanlarda gerçek zamanlı kullanımı yasak kapsamındadır. Diğer eşleştirmeler yasanın sınıflandırmasıyla örtüşmektedir.",
-  "zorluk": "zor"
- },
- {
   "id": "36179",
   "dersId": "guncel",
   "konuId": "uluslararasi_guncel",
@@ -2621,22 +2333,6 @@
   ],
   "dogru": 0,
   "aciklama": "2023 Johannesburg Zirvesi'nde Suudi Arabistan, BAE, Mısır, Etiyopya, İran ve Arjantin BRICS'e davet edilmiştir. Ancak Javier Milei hükümetinin iktidara gelmesiyle Arjantin, 1 Ocak 2024'teki resmi katılımdan önce üyelikten çekilmiştir. Ortak para birimi için somut bir takvim belirlenmemiş, Hindistan genişlemeyi desteklemiştir. Diğer seçenekler olgusal açıdan yanlıştır.",
-  "zorluk": "zor"
- },
- {
-  "id": "36180",
-  "dersId": "guncel",
-  "konuId": "uluslararasi_guncel",
-  "soru": "Rusya-Ukrayna Savaşı bağlamında 2023 yılında imzalanan Tahıl Koridoru Anlaşması'nın (Karadeniz Tahıl Girişimi) sona ermesi üzerine Ukrayna'nın tahıllarını ihraç etmek için geliştirdiği alternatif rotaya verilen isim aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Adriyatik-Baltık-Karadeniz Ekseni",
-   "Orta Koridor",
-   "Üç Deniz Girişimi Hattı",
-   "Kuzey Deniz Yolu",
-   "Dayanışma Şeritleri"
-  ],
-  "dogru": 4,
-  "aciklama": "AB öncülüğünde hayata geçirilen 'Dayanışma Şeritleri' (Solidarity Lanes), Karadeniz Tahıl Girişimi'nin işlevsiz kalmasından çok önce, 2022'de Rusya'nın Ukrayna limanlarını abluka altına alması üzerine oluşturulmuştur. Ukrayna tahılları bu şeritler aracılığıyla Polonya, Romanya ve diğer kara/nehir/demir yolu güzergâhları üzerinden ihraç edilmiştir. Orta Koridor ise ağırlıklı olarak Hazar-Kafkasya-Türkiye üzerinden geçen ayrı bir ticaret güzergâhıdır.",
   "zorluk": "zor"
  },
  {
@@ -2829,22 +2525,6 @@
   ],
   "dogru": 1,
   "aciklama": "Silahlaştırılmış karşılıklı bağımlılık (weaponized interdependence) kavramı, Farrell ve Newman tarafından geliştirilen ve küresel ağlardaki asimetrik bağımlılık ilişkilerinin güç aracına dönüştürülmesini açıklayan bir çerçevedir. Rusya'nın tahıl koridorunu çökerterek küresel gıda fiyatları üzerinde baskı oluşturması, Batı ülkelerine dolaylı diplomatik maliyet yükleme stratejisidir; bu durum karşılıklı bağımlılığı değil, bu bağımlılığın asimetrik kullanımını öne çıkarır.",
-  "zorluk": "zor"
- },
- {
-  "id": "36194",
-  "dersId": "guncel",
-  "konuId": "uluslararasi_guncel",
-  "soru": "ABD'nin 2023'te Çin menşeli ürünlere uyguladığı ek gümrük tarifelerinin genişletilmesi ve CHIPS Act kapsamında yarı iletken üretimine verilen sübvansiyonlar birlikte değerlendirildiğinde, bu politika bütününün WTO'nun hangi temel ilkesiyle doğrudan çeliştiği ve ABD'nin bunu meşrulaştırmak için hangi WTO istisnasına başvurduğu doğru eşleştirilmiştir?",
-  "secenekler": [
-   "Gümrük bağlayıcılığı ilkesi — GATT Madde XIX korunma önlemleri",
-   "Şeffaflık ilkesi — GATS Madde XIV genel istisnalar",
-   "En fazla gözetilen ulus (MFN) ilkesi — GATT Madde XXI ulusal güvenlik istisnası",
-   "Gelişmekte olan ülkelere özel ve farklı muamele — Doha taahhütleri",
-   "Ulusal muamele ilkesi — GATT Madde XX genel istisnalar"
-  ],
-  "dogru": 2,
-  "aciklama": "ABD'nin Çin'e yönelik seçici tarifeleri, aynı ürün için farklı ülkelere farklı tarife uygulamasını yasaklayan MFN (En Fazla Gözetilen Ulus) ilkesini çiğnemektedir. Washington ise bu politikayı GATT Madde XXI'in 'ulusal güvenlik' istisnası altında meşrulaştırmaktadır. Yarı iletken sübvansiyonları da ulusal güvenlik söylemiyle çerçevelenmiştir. WTO Temyiz Organı'nın işlevsiz olması bu ihlallerin yaptırımsız kalmasına yol açmaktadır.",
   "zorluk": "zor"
  },
  {
@@ -4272,22 +3952,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "36287",
-  "dersId": "guncel",
-  "konuId": "bilim_teknoloji",
-  "soru": "Türkiye'de 2023 yılında fırlatılan ve ülkenin ilk yerli haberleşme uydusu olan uydu aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "RASAT",
-   "TÜRKSAT 5B",
-   "GÖKTÜRK-1",
-   "TÜRKSAT 6A",
-   "BİLSAT-1"
-  ],
-  "dogru": 3,
-  "aciklama": "TÜRKSAT 6A, Türkiye'nin yerli ve milli imkânlarla üretilen ilk haberleşme uydusudur. 2023 yılında SpaceX'in Falcon 9 roketi ile uzaya fırlatılmıştır. GÖKTÜRK-1 ve RASAT birer gözlem uydusu, BİLSAT-1 ise araştırma amaçlı bir uydudur. TÜRKSAT 5B ise Fransa'da üretilerek 2021'de fırlatılan bir haberleşme uydusudur.",
-  "zorluk": "orta"
- },
- {
   "id": "36288",
   "dersId": "guncel",
   "konuId": "bilim_teknoloji",
@@ -4848,22 +4512,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "36324",
-  "dersId": "guncel",
-  "konuId": "bilim_teknoloji",
-  "soru": "Türkiye'nin 2023 yılında uzaya fırlattığı ilk yerli ve milli haberleşme uydusu olan TÜRKSAT 5B'nin ardından 2024 yılında gerçekleştirilen TÜRKSAT 6A misyonunun en temel farkını ve bu farkın Türkiye'nin uzay sanayii açısından ifade ettiği stratejik önemi değerlendiren aşağıdaki ifadelerden hangisi doğrudur?",
-  "secenekler": [
-   "TÜRKSAT 6A, Türkiye'nin tamamen yerli imkânlarla tasarlayıp ürettiği ilk haberleşme uydusu olup bu durum dışa bağımlılığı azaltma hedefi açısından kritik bir eşik teşkil etmektedir.",
-   "TÜRKSAT 5B tamamen yerli imkânlarla üretilmiş bir uydudur; TÜRKSAT 6A ise yabancı iş birliğiyle üretilmiş olup bu durum Türkiye'nin uydu teknolojisindeki dışa bağımlılığını belirgin biçimde artırmıştır.",
-   "TÜRKSAT 6A, askeri amaçlı ilk yerli uydu olup sivil haberleşme misyonu taşımamaktadır.",
-   "TÜRKSAT 6A, Airbus tarafından üretilmiş olup TÜRKSAT 5B'den farkı yalnızca kapsama alanının genişliğidir.",
-   "Her iki uydu da SpaceX Falcon 9 roketi ile fırlatılmış olduğundan aralarında stratejik bir fark bulunmamaktadır."
-  ],
-  "dogru": 0,
-  "aciklama": "TÜRKSAT 6A, Türkiye'nin TUSAŞ (Türk Havacılık ve Uzay Sanayii A.Ş.) tarafından tasarlanıp üretilen ilk yerli ve milli haberleşme uydusudur. 2024 yılında SpaceX Falcon 9 roketi ile fırlatılmıştır. TÜRKSAT 5A ve 5B Airbus Defence & Space tarafından üretilmişti; dolayısıyla 6A bu anlamda dışa bağımlılığı azaltan stratejik bir milattır. Diğer şıklar ya ters olgular içermekte ya da yanlış nitelendirme yapmaktadır.",
-  "zorluk": "zor"
- },
- {
   "id": "36325",
   "dersId": "guncel",
   "konuId": "bilim_teknoloji",
@@ -5120,22 +4768,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "36341",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "Türkiye'de modern anlamda ilk opera binası olarak kabul edilen Ankara Devlet Opera ve Balesi hangi yılda kurulmuştur?",
-  "secenekler": [
-   "1936",
-   "1952",
-   "1958",
-   "1947",
-   "1940"
-  ],
-  "dogru": 3,
-  "aciklama": "Ankara Devlet Opera ve Balesi 1947 yılında kurulmuştur. Atatürk'ün direktifleriyle başlayan opera kurma çalışmaları sonucunda Türkiye'nin ilk devlet opera kurumu olma özelliğini taşımaktadır.",
-  "zorluk": "kolay"
- },
- {
   "id": "36342",
   "dersId": "guncel",
   "konuId": "kultur_sanat_spor",
@@ -5277,22 +4909,6 @@
   ],
   "dogru": 2,
   "aciklama": "Muhsin Ertuğrul, 1932 yılında Türkiye'nin ilk sesli filmi olan 'İstanbul Sokaklarında'yı yönetmiştir. Ayrıca İstanbul Şehir Tiyatrolarının (eski adıyla Darülbedayi) gelişiminde de çok önemli bir rol üstlenmiştir. Darülbedayi ise 1914'te Cemil Topuzlu döneminde kurulmuştur.",
-  "zorluk": "kolay"
- },
- {
-  "id": "36352",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "Türkiye'nin uluslararası alanda tanınan geleneksel el sanatı 'çini' üretiminin merkezi olarak hangi şehir öne çıkmaktadır?",
-  "secenekler": [
-   "Konya",
-   "Kütahya",
-   "Bursa",
-   "İznik",
-   "Edirne"
-  ],
-  "dogru": 3,
-  "aciklama": "İznik, Osmanlı döneminden bu yana çini sanatının en önemli merkezi olarak bilinmektedir. 16. ve 17. yüzyıllarda üretilen İznik çinileri ve seramikleri dünyaca ünlüdür; Topkapı Sarayı ve pek çok Osmanlı yapısı bu çinilerle süslenmiştir.",
   "zorluk": "kolay"
  },
  {
@@ -5472,22 +5088,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "36365",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "Aşağıdaki kitaplardan hangisi Orhan Pamuk'a Nobel Edebiyat Ödülü'nü kazandıran eserler arasında değildir?",
-  "secenekler": [
-   "İstanbul – Hatıralar ve Şehir",
-   "Benim Adım Kırmızı",
-   "Masumiyet Müzesi",
-   "Tutunamayanlar",
-   "Kar"
-  ],
-  "dogru": 3,
-  "aciklama": "Tutunamayanlar, Orhan Pamuk'a değil Oğuz Atay'a aittir. Oğuz Atay'ın bu romanı, Türk edebiyatının önemli eserlerinden biri olarak kabul edilir. Orhan Pamuk 2006 yılında Nobel Edebiyat Ödülü'nü kazanmıştır.",
-  "zorluk": "kolay"
- },
- {
   "id": "36366",
   "dersId": "guncel",
   "konuId": "kultur_sanat_spor",
@@ -5518,22 +5118,6 @@
   "dogru": 1,
   "aciklama": "Kırkpınar Yağlı Güreş Festivali, her yıl Edirne'de düzenlenen ve dünyanın en eski spor organizasyonlarından biri kabul edilen geleneksel bir turnuvadır. 1346'dan bu yana düzenlenen festival, 2010 yılında UNESCO tarafından Somut Olmayan Kültürel Miras Listesi'ne alınmıştır.",
   "zorluk": "kolay"
- },
- {
-  "id": "36368",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "Türkiye'de 2005 yılında UNESCO Dünya Mirası Listesi'ne alınan ve Hitit dönemine ait başkent kalıntılarını barındıran alan aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Çatalhöyük",
-   "Göbekli Tepe",
-   "Hattuşa",
-   "Perge",
-   "Afrodisias"
-  ],
-  "dogru": 2,
-  "aciklama": "Hattuşa (Boğazköy), Hitit İmparatorluğu'nun başkenti olup Çorum iline bağlı Boğazkale ilçesindedir. 1986 yılında UNESCO Dünya Mirası Listesi'ne alınmıştır. Çatalhöyük 2012'de, Göbekli Tepe ise 2018'de listeye girmiştir. Soru 2005 yılını verdiği için Hattuşa yanıltıcı gibi görünse de doğru cevaptır; zira Çatalhöyük ve Göbekli Tepe bu tarihten sonra listeye eklenmiştir.",
-  "zorluk": "orta"
  },
  {
   "id": "36371",
@@ -5677,22 +5261,6 @@
   ],
   "dogru": 2,
   "aciklama": "Cumhurbaşkanlığı Senfoni Orkestrası'nın temeli, 1924 yılında Ankara'da kurulan 'Riyaset-i Cumhur Musiki Heyeti'ne dayanmaktadır. Bu topluluk zamanla gelişerek bugünkü Cumhurbaşkanlığı Senfoni Orkestrası'na dönüşmüştür. Osmanlı Muzıka-yı Hümayun ise Osmanlı döneminde kurulan ve Batı müziği tarzında kurulan saray orkestrası olup farklı bir yapıdır. Darülbedayi ise tiyatroyla ilgilidir.",
-  "zorluk": "orta"
- },
- {
-  "id": "36382",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "Türkiye'de modern tiyatronun kurucusu olarak kabul edilen ve 1914 yılında Darülbedayi'yi (bugünkü İstanbul Şehir Tiyatroları) kuran sanatçı kimdir?",
-  "secenekler": [
-   "Refik Ahmet Sevengil",
-   "Muhsin Ertuğrul",
-   "Reşat Nuri Güntekin",
-   "Vasfi Rıza Zobu",
-   "Halit Fahri Ozansoy"
-  ],
-  "dogru": 1,
-  "aciklama": "Muhsin Ertuğrul (1892-1979), Türk tiyatro ve sinema sanatının öncüsü olarak kabul edilmektedir. 1914'te kurulan Darülbedayi'nin uzun yıllar boyunca yöneticiliğini yaparak kurumun şekillenmesinde belirleyici rol oynamıştır. Vasfi Rıza Zobu da önemli bir tiyatro sanatçısı olsa da Darülbedayi'nin kurucu kimliği Muhsin Ertuğrul'a aittir.",
   "zorluk": "orta"
  },
  {
@@ -5886,38 +5454,6 @@
   "dogru": 2,
   "aciklama": "Celî sülüste zirve kabul edilen hattat Kazasker Mustafa İzzet Efendi'dir; Şeyh Hamdullah aklâm-ı sitte, Karahisarî ise müsennâ/celî sülüs öncesi ekolle anılır. Doğru cevap Kazasker Mustafa İzzet Efendi şeklindedir.",
   "zorluk": "orta"
- },
- {
-  "id": "36397",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "Türkiye'de 1950'li yıllarda başlayan ve devlet desteğiyle şekillenen sinema hareketine verilen ad ile bu dönemde ortaya çıkan 'köy filmleri' türünün temel özelliği arasındaki ilişkiyi en doğru biçimde açıklayan seçenek hangisidir?",
-  "secenekler": [
-   "Köy filmleri Yeşilçam'ın melodram formülünü köy mekânına taşıyan yapıtlardır; toplumsal gerçekçilik iddiası taşıyan köy filmleri ise 1960 sonrasında Hababam Sınıfı geleneğinden ayrışarak güçlenmiştir.",
-   "Köy filmleri yalnızca Yılmaz Güney'in yönetmenliğinde çekilen yapıtları kapsamakta olup Yeşilçam estetiğiyle doğrudan bir bağlantısı bulunmamaktadır.",
-   "Yeşilçam sineması, köy filmlerinde Anadolu halkının romantik bir bakış açısıyla idealize edilmesini esas almış; bu durum dönemin CHP ideolojisiyle birebir örtüşmüştür.",
-   "Yeşilçam sineması ticari kaygılarla şekillenirken köy filmleri, Türk Sineması'nın uluslararası arenaya taşınmasını sağlayan toplumsal gerçekçi bir alt tür olarak eleştirel bir nitelik kazanmıştır.",
-   "Yeşilçam sineması devlet destekli bir yapıya sahip olduğundan köy filmlerinde sansür mekanizması hiçbir zaman işlememiş, yönetmenler tam bir özgürlükle üretim yapmıştır."
-  ],
-  "dogru": 3,
-  "aciklama": "Yeşilçam sineması ağırlıklı olarak ticari kaygılarla melodram, komedi ve aksiyon türlerinde üretim yapmıştır. Köy filmleri ise özellikle 1960 anayasasının getirdiği görece özgürlük ortamında Yılmaz Güney, Lütfi Ömer Akad ve Memduh Ün gibi yönetmenler eliyle toplumsal gerçekçi bir nitelik kazanmış; Türk sinemasının uluslararası festivallerde tanınmasını sağlamıştır. Bu iki eğilim arasındaki gerilim, Türk sinema tarihinin temel tartışma eksenlerinden birini oluşturmaktadır.",
-  "zorluk": "zor"
- },
- {
-  "id": "36398",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "Aşağıdaki eşleştirmelerden hangisi 'yapıt – sanatçı – akım' bütünlüğü açısından yanlıştır?",
-  "secenekler": [
-   "'Huzur' romanı – Ahmet Hamdi Tanpınar – Toplumcu gerçekçilik",
-   "'İnce Memed' romanı – Yaşar Kemal – Yeni Türk edebiyatının epik geleneği",
-   "'Kuyucaklı Yusuf' romanı – Sabahattin Ali – Toplumcu gerçekçilik",
-   "'Çalıkuşu' romanı – Halide Edib Adıvar – Milli Edebiyat akımı",
-   "Sarayburnu Konseri (1934) – Mustafa Kemal Atatürk'ün girişimiyle – Türk müziğinin modernleşme politikası"
-  ],
-  "dogru": 0,
-  "aciklama": "'Huzur' (1949), Ahmet Hamdi Tanpınar'ın en olgun yapıtlarından biridir; ancak Tanpınar toplumcu gerçekçilik akımıyla değil, Doğu-Batı sentezi, zaman felsefesi ve psikolojik derinlik ekseninde değerlendirilen 'saf edebiyat' ya da 'estetizm' geleneğiyle ilişkilendirilir. Toplumcu gerçekçilik Sabahattin Ali, Orhan Kemal ve Fakir Baykurt gibi isimlerle anılır; Tanpınar bu çizgiden hem estetik hem ideolojik açıdan uzak durmuştur.",
-  "zorluk": "zor"
  },
  {
   "id": "36399",
@@ -6224,22 +5760,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "36419",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "Anadolu'da Hitit uygarlığına ait sanat eserlerinin özellikleri incelendiğinde, aşağıdaki ifadelerden hangisi arkeolojik bulgularla çelişmektedir?",
-  "secenekler": [
-   "Hitit kabartmalarında kral figürleri genellikle profilden, tanrılar ise cepheden betimlenmiştir.",
-   "Yazılıkaya açık hava tapınağındaki kabartmalar MÖ 13. yüzyıla tarihlenmektedir.",
-   "Hitit sanatında gümüş, altına kıyasla çok daha nadir kullanılmış ve yalnızca dini törenlere ayrılmıştır.",
-   "Hitit heykeltraşlığında aslan ve sfenks figürleri kapı bekçisi işlevi görmüştür.",
-   "Alacahöyük standartları, Hitit öncesi Tunç Çağı'na ait olup Hitit sanatının erken bir öncülü olarak değerlendirilmektedir."
-  ],
-  "dogru": 2,
-  "aciklama": "Hitit sanatında gümüşün altından daha nadir kullanıldığı ve yalnızca dini törenlere ayrıldığı iddiası arkeolojik bulgularla örtüşmemektedir. Hitit metinleri ve buluntuları, gümüşün hem dini hem de dünyevi amaçlarla yoğun biçimde kullanıldığını göstermektedir; nitekim ticaret antlaşmalarında bile gümüş standart ödeme birimi olarak yer almaktadır. Yazılıkaya kabartmalarının tarihi, kapı bekçisi figürleri ve Alacahöyük standartlarına dair bilgiler arkeolojik gerçeklerle uyuşmaktadır.",
-  "zorluk": "zor"
- },
- {
   "id": "36420",
   "dersId": "guncel",
   "konuId": "kultur_sanat_spor",
@@ -6317,22 +5837,6 @@
   ],
   "dogru": 3,
   "aciklama": "Barok dönemde müziğin temelini basso continuo oluşturur. Bas çizgisini klavyeli ve bas çalgılar birlikte çalar, armoni ise bas üzerindeki rakamlarla doğaçlama tamamlanır. Klasik dönemde besteciler armoniyi doğrudan yazılı partilere aktardığından bu uygulama giderek bırakılmıştır. \"Barok dönemin en büyük bestecileri Mozart ve Haydn olup...\" seçeneği yanlıştır; Mozart ve Haydn Klasik dönem bestecileridir. \"Opera türü Klasik dönemde ortaya çıkmış...\" seçeneği de yanlıştır; opera 1600 civarında Barok dönemin başında doğmuştur. Doğru cevap \"Barok dönemde basso continuo (sürekli bas) uygulaması vazgeçilmezken, Klasik dönemde bu uygulama terkedilmiş\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "36425",
-  "dersId": "guncel",
-  "konuId": "kultur_sanat_spor",
-  "soru": "Türkiye'de kültürel miras koruma alanında 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu ve uygulamalarına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
-  "secenekler": [
-   "Kanun kapsamında tescillenen taşınmaz kültür varlıkları I., II. ve III. grup olmak üzere derecelendirilebilir.",
-   "Türkiye'de arkeolojik sit, doğal sit ve kentsel sit alanı olmak üzere üç temel sit türü tanımlanmaktadır.",
-   "2863 sayılı Kanun'a göre yurt dışına çıkarılan kültür varlıkları için zaman aşımı süresi beş yıl olarak belirlenmiştir.",
-   "Koruma Bölge Kurulları, sit alanlarına ilişkin kararları almakla yetkili idari organlardır.",
-   "Özel mülkiyetteki taşınmaz kültür varlıklarının onarımı için devlet katkısı sağlanması mümkündür."
-  ],
-  "dogru": 2,
-  "aciklama": "2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu'nda yurt dışına kaçırılan kültür varlıklarının iadesi için beş yıllık zaman aşımı süresi öngörülmemiştir. Aksine Türkiye, 1970 tarihli UNESCO Sözleşmesi ve çeşitli ikili antlaşmalar çerçevesinde bu tür taleplerde zaman aşımı uygulamaksızın diplomatik girişimlerde bulunmaktadır. Kanun'un ruhunda kültür varlıklarının mülkiyetinin devlete ait olduğu ilkesi egemendir; bu nedenle zaman aşımı uygulaması sınırlıdır. Diğer şıklardaki bilgiler 2863 sayılı Kanun ve ilgili mevzuatla örtüşmektedir.",
   "zorluk": "zor"
  },
  {

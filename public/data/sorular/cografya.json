@@ -160,38 +160,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "32011",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Ekvator'da güneş ışınları, yıl boyunca hiçbir zaman tam olarak dik açıyla gelmez. Bu durumun temel nedeni aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Dünya'nın yıllık hareketi",
-   "Dünya'nın ekseninin yörünge düzlemine dik olmaması",
-   "Dünya'nın günlük hareketi",
-   "Güneş'in Dünya'ya olan uzaklığının değişmesi",
-   "Ekvator'un 0° enleminde bulunması"
-  ],
-  "dogru": 1,
-  "aciklama": "Dünya'nın ekseni, yörünge düzlemine (ekliptik düzlemi) dik değil, 23°27' eğik durmaktadır. Bu nedenle güneş ışınları Ekvator'a yılda yalnızca iki kez (21 Mart ve 23 Eylül) dik açıyla gelir; diğer zamanlarda ışınlar biraz eğik gelir. Eğer eksen dik olsaydı, güneş ışınları Ekvator'a her gün dik gelirdi.",
-  "zorluk": "orta"
- },
- {
-  "id": "32012",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Aşağıdaki enlem değerlerinden hangisinde, yılın belirli dönemlerinde güneş hiç batmaz ya da hiç doğmaz?",
-  "secenekler": [
-   "70° K enleminde",
-   "60° K enleminde",
-   "80° K enleminde",
-   "45° K enleminde",
-   "66°33' K enleminde"
-  ],
-  "dogru": 4,
-  "aciklama": "Kuzey Kutup Dairesi (66°33' K), kutup günü ve kutup gecesinin yaşandığı en düşük enlem sınırıdır. Bu enlemde yılda tam olarak bir gün güneş batmaz (yaz gündönümü) ve bir gün hiç doğmaz (kış gündönümü). Bu enlemin kuzeyinde kalan bölgelerde ise bu olaylar daha uzun süre yaşanır. 60° K'de bu olaylar yaşanmaz; 70° ve 80° K'de ise daha uzun süreli kutup gecesi/gündüzü görülür.",
-  "zorluk": "orta"
- },
- {
   "id": "32013",
   "dersId": "cografya",
   "konuId": "dunya_sekli_hareketleri",
@@ -1072,22 +1040,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "32073",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Aşağıdaki paralel dairelerinden hangisi iklimlerin belirlenmesinde temel sınır niteliği taşımaz?",
-  "secenekler": [
-   "Oğlak Dönencesi",
-   "Yengeç Dönencesi",
-   "Ekvator",
-   "Kuzey Kutup Dairesi",
-   "Başlangıç Meridyeni"
-  ],
-  "dogru": 4,
-  "aciklama": "Başlangıç Meridyeni (0° boylamı / Greenwich Meridyeni) bir paralel değil, bir meridyendir ve iklim kuşaklarının belirlenmesinde değil, saat dilimlerinin ve coğrafi koordinatların belirlenmesinde kullanılır. Diğer seçenekler iklim kuşaklarını sınırlandıran paralel daireleridir.",
-  "zorluk": "kolay"
- },
- {
   "id": "32074",
   "dersId": "cografya",
   "konuId": "dunya_sekli_hareketleri",
@@ -1840,22 +1792,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "32125",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Aşağıdakilerden hangisi Dünya'nın şeklinin geoid (elipsoid) olduğunun kanıtları arasında gösterilemez?",
-  "secenekler": [
-   "Güneş'in her yerde aynı anda doğup batmaması",
-   "Farklı enlemlerde sarkaç salınım sürelerinin farklı olması",
-   "Gemilerin ufukta önce direklerinin görünmesi",
-   "Ay tutulmalarında Dünya'nın Ay üzerine düşürdüğü gölgenin daima yuvarlak olması",
-   "Uzaydan çekilen fotoğraflarda Dünya'nın yuvarlak görünmesi"
-  ],
-  "dogru": 0,
-  "aciklama": "Güneş'in her yerde aynı anda doğup batmaması, Dünya'nın şeklini değil günlük hareketini (kendi ekseni etrafında dönmesini) kanıtlar. Eğer Dünya dönmeseydi tüm noktalar aynı anda aydınlanırdı. Öte yandan: Ay tutulmasındaki yuvarlak gölge, gemilerin ufukta görünme sırası ve uzay fotoğrafları küreselliği; sarkaç sürelerinin enlemle değişmesi ise geoid (kutuplarda basık) yapıyı kanıtlar.",
-  "zorluk": "orta"
- },
- {
   "id": "32127",
   "dersId": "cografya",
   "konuId": "dunya_sekli_hareketleri",
@@ -2028,7 +1964,7 @@
    "Model 2 > Model 3 > Model 4 > Model 1"
   ],
   "dogru": 0,
-  "aciklama": "Gerçeğe en yakın model, Dünya'nın dağlar, ovalar ve okyanuslarıyla birlikte tüm pürüzlülüklerini kapsayan topografik yüzeydir (Model 4). İkinci sırada geoid gelir; geoid, ortalama deniz seviyesini ve bunun karalara uzantısını temsil eden eşpotansiyel yüzeydir ve gerçek şekle çok yakındır. Üçüncü sırada elipsoit gelir; matematiksel olarak tanımlanabilir ve polar basıklığı yansıtır ama pürüzlülükleri yok sayar. En uzak model ise mükemmel küredir; hem basıklığı hem de pürüzlülükleri göz ardı eder. Dolayısıyla doğru sıralama: Model 4 > Model 3 > Model 2 > Model 1 şeklindedir ve cevap B'dir.",
+  "aciklama": "Gerçeğe en yakın model, Dünya'nın dağlar, ovalar ve okyanuslarıyla birlikte tüm pürüzlülüklerini kapsayan topografik yüzeydir (Model 4). İkinci sırada geoid gelir; geoid, ortalama deniz seviyesini ve bunun karalara uzantısını temsil eden eşpotansiyel yüzeydir ve gerçek şekle çok yakındır. Üçüncü sırada elipsoit gelir; matematiksel olarak tanımlanabilir ve polar basıklığı yansıtır ama pürüzlülükleri yok sayar. En uzak model ise mükemmel küredir; hem basıklığı hem de pürüzlülükleri göz ardı eder. Doğru cevap: «Model 4 > Model 3 > Model 2 > Model 1».",
   "zorluk": "zor"
  },
  {
@@ -2080,22 +2016,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "32146",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Bir gemi, 0° boylamından (Greenwich) doğuya doğru yola çıkarak 24 saatte tam olarak Dünya'yı dolaşmış ve başlangıç noktasına dönmüştür. Bu gemi hem kendi kronometresine hem de takip ettiği yerel saatlere göre 24 saat kaydettiyse, dönüş noktasında yerel saate göre kaç saat fark yaşar?",
-  "secenekler": [
-   "Hiç fark yaşamaz, saat yine aynıdır.",
-   "12 saat geride olur.",
-   "24 saat ilerde olur (bir gün kazanır).",
-   "24 saat geride olur (bir gün kaybeder).",
-   "12 saat ilerde olur."
-  ],
-  "dogru": 2,
-  "aciklama": "Bu soru, Jules Verne'in '80 Günde Devriâlem' romanında geçen klasik paradoksa dayanmaktadır. Doğuya doğru seyahat eden gemi, Güneş'in hareketine karşı ilerlediğinden her boylamda yerel saate göre biraz öne geçer. Tam bir tur tamamlandığında toplam 24 saatlik fark birikir. Yani gemi başlangıç noktasına döndüğünde kendi kronometresinde 24 saat geçmiş olsa da yerel saate göre bir tam gün (24 saat) kazanmış olur. Uluslararası Tarih Değişim Hattı (180° boylamı) bu sorunun pratik çözümü için tasarlanmıştır; bu hattı doğudan batıya geçenler bir gün ekler, batıdan doğuya geçenler ise bir gün çıkarır. Cevap C'dir.",
-  "zorluk": "zor"
- },
- {
   "id": "32148",
   "dersId": "cografya",
   "konuId": "dunya_sekli_hareketleri",
@@ -2140,7 +2060,7 @@
    "Sarkaç her iki yarımkürede de saat yönünün tersine döner; kutuplarda dönüş süresi en uzundur."
   ],
   "dogru": 3,
-  "aciklama": "Foucault sarkacı, Dünya'nın kendi ekseni etrafındaki dönüşünü kanıtlayan bir deneyde kullanılır. Sarkaç salınım düzlemini sabit tutarken altındaki Dünya döner; bu durum gözlemciye göre sarkaç düzleminin döndüğü izlenimini verir. Kuzey yarımkürede Coriolis etkisi nedeniyle yönelim saat yönünde (doğudan güneye), güney yarımkürede ise saat yönünün tersine (doğudan kuzeye) gerçekleşir. Ekvatorda ise sarkaç düzlemi hiç dönmez çünkü Coriolis parametresi (2Ω sinφ) φ=0'da sıfırdır. Kutuplarda bir tam tur 24 saatte tamamlanır. Doğru cevap A'dır.",
+  "aciklama": "Foucault sarkacı, Dünya'nın kendi ekseni etrafındaki dönüşünü kanıtlayan bir deneyde kullanılır. Sarkaç salınım düzlemini sabit tutarken altındaki Dünya döner; bu durum gözlemciye göre sarkaç düzleminin döndüğü izlenimini verir. Kuzey yarımkürede Coriolis etkisi nedeniyle yönelim saat yönünde (doğudan güneye), güney yarımkürede ise saat yönünün tersine (doğudan kuzeye) gerçekleşir. Ekvatorda ise sarkaç düzlemi hiç dönmez çünkü Coriolis parametresi (2Ω sinφ) φ=0'da sıfırdır. Kutuplarda bir tam tur 24 saatte tamamlanır. Doğru cevap: «Sarkaç kuzey yarımkürede saat yönünde, güney yarımkürede saat yönünün tersine döner; ekvatorda ise hiç dönmez».",
   "zorluk": "zor"
  },
  {
@@ -2188,7 +2108,7 @@
    "İki yarımkürenin yazları arasında sıcaklık ve süre bakımından hiçbir fark yoktur; belirleyici olan yalnızca eksen eğikliğidir."
   ],
   "dogru": 0,
-  "aciklama": "Dünya yörüngesi eliptik olup 3 Ocak'ta Güneş'e en yakın noktada (günehre/perihelyum, ~147 milyon km) ve 4 Temmuz'da en uzak noktada (apheli/aphelium, ~152 milyon km) bulunur. Kepler'in ikinci yasasına göre Dünya perihelyumda daha hızlı, apheliumda daha yavaş hareket eder. Güney Yarımküresi'nin yazı Aralık-Ocak dönemine denk gelir ve bu dönemde Dünya perihelyuma yakındır, yani daha hızlı hareket eder. Bu durum iki sonuç doğurur: (1) Astronomik yaz mevsimi (güneş dönencesi ile ekinoks arası) daha kısadır. (2) Dünya Güneş'e daha yakın olduğundan biraz daha fazla radyasyon alır, ancak Güney Yarımküresi'nde okyanus oranı fazla olduğu için bu etki dengelenir. Ayrıca Kuzey Yarımküresi'nin yazı aphelium dönemine denk geldiğinden daha uzun sürer. Doğru cevap C'dir: Güney yazında Dünya perihelyumdadır, hız yüksektir ve yaz daha kısadır.",
+  "aciklama": "Dünya yörüngesi eliptik olup 3 Ocak'ta Güneş'e en yakın noktada (günehre/perihelyum, ~147 milyon km) ve 4 Temmuz'da en uzak noktada (apheli/aphelium, ~152 milyon km) bulunur. Kepler'in ikinci yasasına göre Dünya perihelyumda daha hızlı, apheliumda daha yavaş hareket eder. Güney Yarımküresi'nin yazı Aralık-Ocak dönemine denk gelir ve bu dönemde Dünya perihelyuma yakındır, yani daha hızlı hareket eder. Bu durum iki sonuç doğurur: (1) Astronomik yaz mevsimi (güneş dönencesi ile ekinoks arası) daha kısadır. (2) Dünya Güneş'e daha yakın olduğundan biraz daha fazla radyasyon alır, ancak Güney Yarımküresi'nde okyanus oranı fazla olduğu için bu etki dengelenir. Ayrıca Kuzey Yarımküresi'nin yazı aphelium dönemine denk geldiğinden daha uzun sürer. Doğru cevap: «Güney Yarımküresi yazında Dünya günehre (perihelyum) yakınındadır, bu nedenle yörünge hızı yüksektir ve Güney Yarımküresi yazı astronomik olarak daha kısadır».",
   "zorluk": "zor"
  },
  {
@@ -2300,7 +2220,7 @@
    "Yalnızca Ekvator'dan"
   ],
   "dogru": 3,
-  "aciklama": "Büyük daire, bir kürenin merkezinden geçen düzlemin küre yüzeyiyle kesişmesinden oluşur. X noktasından geçen herhangi bir büyük daire, küre merkezini içerdiğinden X'in tam karşısındaki noktadan (antipodal nokta) da geçmek zorundadır. Özellikle: X = (φ, λ) ise antipodu = (-φ, λ±180°)'dir ve X'ten geçen her büyük daire bu antipodal noktadan da geçer. Bu, geometrik bir zorunluluktur. Doğru cevap B'dir.",
+  "aciklama": "Büyük daire, bir kürenin merkezinden geçen düzlemin küre yüzeyiyle kesişmesinden oluşur. X noktasından geçen herhangi bir büyük daire, küre merkezini içerdiğinden X'in tam karşısındaki noktadan (antipodal nokta) da geçmek zorundadır. Özellikle: X = (φ, λ) ise antipodu = (-φ, λ±180°)'dir ve X'ten geçen her büyük daire bu antipodal noktadan da geçer. Bu, geometrik bir zorunluluktur. Doğru cevap: «X noktasının antipodal noktasından (yani Dünya'nın tam karşı tarafındaki noktadan)».",
   "zorluk": "zor"
  },
  {
@@ -2653,22 +2573,6 @@
   ],
   "dogru": 0,
   "aciklama": "Haritada gösterilen alan büyüdükçe harita ölçeği küçülür. Örneğin bir il haritası (büyük ölçek) yerine Türkiye haritası (küçük ölçek) kullanmak gerekir. Alan büyüdükçe aynı kâğıt üzerinde göstermek için daha küçük ölçek seçilmesi zorunludur.",
-  "zorluk": "kolay"
- },
- {
-  "id": "32194",
-  "dersId": "cografya",
-  "konuId": "harita_koordinat",
-  "soru": "Ekvator'un özellikleri arasında aşağıdakilerden hangisi yer almaz?",
-  "secenekler": [
-   "Dünyayı Kuzey ve Güney yarım küreye böler",
-   "En uzun paralel çizgisidir",
-   "Ekvator üzerindeki tüm noktalar aynı boylamda bulunur",
-   "Güneş ışınlarını yıl boyunca dik açıyla alır",
-   "0° enleminde yer alır"
-  ],
-  "dogru": 2,
-  "aciklama": "Ekvator, Dünya'yı kuzey ve güney yarım küreye bölen en uzun paralel çizgisidir ve 0° enlemiyle temsil edilir. Ancak Ekvator üzerindeki noktalar farklı boylamlarda bulunabilir; boylam ekvatorla değil meridyenlerle belirlenir. Güneş ışınları ise yalnızca ekinoks dönemlerinde Ekvator'a dik gelir, yıl boyunca değil.",
   "zorluk": "kolay"
  },
  {
@@ -3888,22 +3792,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "32273",
-  "dersId": "cografya",
-  "konuId": "harita_koordinat",
-  "soru": "Aşağıdaki koordinat çiftlerinden hangisi, gece ile gündüzün eş zamanlı olarak birlikte (aynı anda) hem yaşandığı hem de sürelerinin tam eşit olduğu bir günde (21 Mart) güneş ışınlarını dik açıyla alan noktaya en yakın konumdadır?",
-  "secenekler": [
-   "90° K – 0°",
-   "23° 27' K – 0° B",
-   "23° 27' G – 180°",
-   "0° – 0°",
-   "0° – 90° D"
-  ],
-  "dogru": 3,
-  "aciklama": "21 Mart ilkbahar ekinoksunda Güneş ışınları Ekvator'a (0° enlemi) dik açıyla gelir. Bu tarihte tüm dünyada gece ve gündüz süresi 12'şer saattir. Güneş ışınlarını tam dik açıyla alan nokta Ekvator üzerinde herhangi bir meridyende olabilir. Seçenekler içinde tam olarak 0° enlemi – 0° meridyeni olan nokta bu tanıma en uygun koordinattır.",
-  "zorluk": "zor"
- },
- {
   "id": "32274",
   "dersId": "cografya",
   "konuId": "harita_koordinat",
@@ -3917,22 +3805,6 @@
   ],
   "dogru": 2,
   "aciklama": "Dünya 24 saatte 360° döndüğünden 1° boylam farkı 4 dakika saat farkına karşılık gelir. 19° 8' ≈ 19,13° × 4 dk = yaklaşık 76,5 dakika ≈ 1 saat 16 dakikadır. Doğu boylamları daha önce güneşe döndüğünden doğuda gün doğumu daha erken gerçekleşir. Türkiye'nin doğusu batısından yaklaşık 1 saat 16 dakika ileridedir.",
-  "zorluk": "zor"
- },
- {
-  "id": "32275",
-  "dersId": "cografya",
-  "konuId": "harita_koordinat",
-  "soru": "Gnomik (merkezi) projeksiyonda çizilen bir haritada, iki nokta arasındaki en kısa yol (ortodrom) düz çizgi olarak görünür. Bu projeksiyonla ilgili aşağıdaki ifadelerden hangisi kesinlikle yanlıştır?",
-  "secenekler": [
-   "Loksodromlar (sabit pusula yönü) bu haritada düz çizgi olarak görünür.",
-   "Kutup bölgeleri bu projeksiyonla gösterilemez.",
-   "Harita alan bakımından doğru değildir.",
-   "Ekvator ve bütün meridyenler düz çizgi olarak görünür.",
-   "Büyük daire yayları her zaman düz çizgi olarak gösterilir. Bu durum her ölçekte geçerlidir."
-  ],
-  "dogru": 0,
-  "aciklama": "Gnomik projeksiyonda büyük daire yayları (ortodromlar) düz çizgi olarak gösterilir; ancak loksodromlar (sabit pusula yönü/rumb hattı) bu projeksiyonda eğri çizgiler olarak görünür. Loksodromların düz çizgi olarak görüldüğü projeksiyon Mercator projeksiyonudur. Gnomik projeksiyonun alan bozulması büyüktür ve kutup noktaları gösterilemez.",
   "zorluk": "zor"
  },
  {
@@ -4032,22 +3904,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "32283",
-  "dersId": "cografya",
-  "konuId": "harita_koordinat",
-  "soru": "Türkiye'nin başlangıç meridyeni olan Greenwich (0°) ile yerel saat farkı 2 saat olan İstanbul (yaklaşık 29° D) için aşağıdaki değerlendirmelerden hangisi coğrafi açıdan kesinlikle yanlıştır?",
-  "secenekler": [
-   "İstanbul, UTC+2 saat dilimindedir ve Londra'dan 2 saat öndedir.",
-   "Greenwich'te saat 12.00 olduğunda 29° D'de yerel saat de 12.00'dir, çünkü aynı kıtadadırlar.",
-   "İstanbul'un bulunduğu dilim merkezi 30° D boylamıdır.",
-   "29° D boylamında yerel öğle saati, Greenwich'te öğleden 1 saat 56 dakika sonradır.",
-   "Türkiye yaz saati uygulamasında resmi saat UTC+3 olarak belirlendiyse yerel saatle arasında fark oluşur."
-  ],
-  "dogru": 1,
-  "aciklama": "Yerel saat enlem ile değil boylam ile belirlenir; aynı kıtada olmak saat farkını ortadan kaldırmaz. 29° D boylamındaki yerel öğle saati, Greenwich'ten 29 × 4 dk = 116 dakika = 1 saat 56 dakika önde olduğundan Greenwich'te 12.00 olduğunda 29° D'de yerel saat 13.56'dır. 'Aynı kıtada olduklarından saat farkı yoktur' ifadesi tamamen yanlıştır.",
-  "zorluk": "zor"
- },
- {
   "id": "32284",
   "dersId": "cografya",
   "konuId": "harita_koordinat",
@@ -4077,22 +3933,6 @@
   ],
   "dogru": 4,
   "aciklama": "Güneş'in zenit açısı (güneş ışınlarının dik geldiği paralel) 21 Haziran'da maksimuma ulaşır ve bu değer 23°27'K (Yengeç Dönencesi) olur. 38°K'da bulunan bir noktada güneş hiçbir zaman tam tepe noktasına gelemez. 21 Haziran'da bu noktaya güneş ışınları (90° - 38° + 23°27') hesabıyla yaklaşık 75°33' açıyla gelir. Güneş yalnızca Yengeç (23°27'K) ile Oğlak (23°27'G) dönencesi arasında kalan bölgelerde zenit açısına ulaşabilir.",
-  "zorluk": "zor"
- },
- {
-  "id": "32287",
-  "dersId": "cografya",
-  "konuId": "harita_koordinat",
-  "soru": "Aşağıdaki meridyen ve paralel bilgilerinden yola çıkarak, 60°D meridyeni ile 30°K paraleli üzerindeki bir noktanın yerel saati öğle (12.00) olduğunda, 30°B meridyeni ile 60°G paraleli üzerindeki noktanın yerel saati ve bu iki nokta arasındaki mesafeye ilişkin hangisi doğrudur?",
-  "secenekler": [
-   "Yerel saat 18.00; iki nokta arasındaki en kısa büyük daire mesafesi, iki enlem farkından bağımsız olarak yalnızca boylam farkına göre hesaplanır.",
-   "Yerel saat 06.00; 30°K ile 60°G arasındaki meridyen yay mesafesi 90° olup iki nokta arasındaki en kısa (büyük daire) güzergâh Ekvator üzerinden geçmez.",
-   "Yerel saat 18.00; iki nokta arasındaki meridyen yayı boyunca ölçülen mesafe eşittir çünkü her ikisi de aynı büyük daire üzerindedir.",
-   "Yerel saat 00.00; iki nokta arasındaki büyük daire mesafesi 90° meridyen farkından dolayı Ekvator'un çeyreğine eşittir.",
-   "Yerel saat 06.00; iki nokta arasındaki paralel dairesi boyunca ölçülen doğrusal mesafe eşittir çünkü aynı yaydayı paylaşırlar."
-  ],
-  "dogru": 1,
-  "aciklama": "60°D ile 30°B arasındaki boylam farkı 90°'dir (60+30=90). Her 15° boylam farkı 1 saate karşılık geldiğinden 90°÷15=6 saat fark eder. 60°D'de öğlen 12.00 iken, batıya doğru gidildiğinde 30°B'de 12.00 - 6 = 06.00 olur. İki nokta arasındaki meridyen üzerinden hesaplanan kuzey-güney mesafesi ise (30°K'dan 0°'ye 30° + 0°'den 60°G'ye 60°=) 90° olup bu yaklaşık 10.000 km'ye karşılık gelir. En kısa güzergâh (büyük daire) Ekvator üzerinden geçmez, iki nokta farklı yarımkürelerde ve farklı meridyenlerdedir.",
   "zorluk": "zor"
  },
  {
@@ -4251,8 +4091,8 @@
    "250 km",
    "200 km"
   ],
-  "dogru": 3,
-  "aciklama": "Anahtar nokta şudur: Harita %20 küçültülerek çoğaltılmıştır. Bu durumda hem mesafe cetveli hem de haritadaki şehirler arasındaki mesafe aynı oranda küçülmüştür. Ölçek çubuğu da haritayla birlikte küçüldüğünden, ölçek çubuğu kullanılarak yapılan ölçme yine doğru sonuç verir! Haritada 8 cm ölçülen mesafe; ölçek çubuğuna göre: 8 cm ÷ 2 cm × 50 km = 4 × 50 = 200 km olur. Ancak bu cevap, ölçek çubuğu fotokopi sonrası küçüldüğü için otomatik olarak düzeltilmiş bir değerdir. Eğer ölçek çubuğu olmadan sayısal ölçek kullanılsaydı, büyütme/küçültme faktörünü hesaba katmak gerekirdi. Burada ölçek çubuğu haritayla birlikte küçüldüğünden ve 2 cm'nin 50 km ettiği gözlemlenmişse, bu gözlem küçültülmüş haritada yapılmıştır ve gerçek mesafe doğrudan 8/2 × 50 = 200 km'dir. Dikkat: Soru kurgusunda çubuğun da küçüldüğü ve ölçümün çoğaltılmış haritada yapıldığı varsayıldığında doğru cevap A (200 km) değil, orijinal haritaya göre hesaplanırsa B (250 km) olur çünkü orijinalde 2 cm → 50 km iken küçültülmüş hâlde 2×0,8=1,6 cm → 50 km, yani 8 cm → 8/1,6 × 50 = 250 km.",
+  "dogru": 4,
+  "aciklama": "Anahtar nokta şudur: Harita %20 küçültülerek çoğaltılmıştır. Bu durumda hem mesafe cetveli hem de haritadaki şehirler arasındaki mesafe aynı oranda küçülmüştür. Ölçek çubuğu da haritayla birlikte küçüldüğünden, ölçek çubuğu kullanılarak yapılan ölçme yine doğru sonuç verir! Haritada 8 cm ölçülen mesafe; ölçek çubuğuna göre: 8 cm ÷ 2 cm × 50 km = 4 × 50 = 200 km olur. Ancak bu cevap, ölçek çubuğu fotokopi sonrası küçüldüğü için otomatik olarak düzeltilmiş bir değerdir. Eğer ölçek çubuğu olmadan sayısal ölçek kullanılsaydı, büyütme/küçültme faktörünü hesaba katmak gerekirdi. Burada ölçek çubuğu haritayla birlikte küçüldüğünden ve 2 cm'nin 50 km ettiği gözlemlenmişse, bu gözlem küçültülmüş haritada yapılmıştır ve gerçek mesafe doğrudan 8/2 × 50 = 200 km'dir. Dikkat: Soru kurgusunda çubuğun da küçüldüğü ve ölçümün çoğaltılmış haritada yapıldığı varsayıldığında doğru cevap «250 km» (200 km) değil, orijinal haritaya göre hesaplanırsa B (250 km) olur çünkü orijinalde 2 cm → 50 km iken küçültülmüş hâlde 2×0,8=1,6 cm → 50 km, yani 8 cm → 8/1,6 × 50 = 250 km.",
   "zorluk": "zor"
  },
  {
@@ -4275,7 +4115,7 @@
   "id": "32299",
   "dersId": "cografya",
   "konuId": "harita_koordinat",
-  "soru": "Türkiye'de iki şehrin koordinatları şöyle verilmiştir: Şehir X: 40°K, 33°D — Şehir Y: 37°K, 36°D. Bu iki şehir arasındaki yaklaşık kuş uçuşu mesafesini bulmak için hangi formül ve yaklaşım uygulanmalıdır ve sonuç hangi aralıktadır? (1° ≈ 111 km, cos40° ≈ 0,766, cos37° ≈ 0,799 alınız; küresel yüzey mesafesi formülü: d = R × arccos[sinφ₁sinφ₂ + cosφ₁cosφ₂cos(Δλ)] kullanılacak)",
+  "soru": "Türkiye'de iki şehrin koordinatları şöyle verilmiştir: Şehir X: 40°K, 33°D — Şehir Y: 37°K, 36°D. Bu iki şehir arasındaki yaklaşık kuş uçuşu mesafesini bulmak için hangi formül ve yaklaşım uygulanmalıdır ve sonuç hangi aralıktadır? (1° ≈ 111 km, cos40° ≈ 0,766, cos37° ≈ 0,799 alınız; küresel yüzey mesafesi formülü: d = R × arccos«sinφ₁sinφ₂ + cosφ₁cosφ₂cos(Δλ)» kullanılacak)",
   "secenekler": [
    "450-500 km arasında",
    "200-250 km arasında",
@@ -4507,7 +4347,7 @@
    "İç Anadolu Bölgesi",
    "Marmara Bölgesi"
   ],
-  "dogru": 2,
+  "dogru": 3,
   "aciklama": "Türkiye'de Güneydoğu Anadolu Bölgesi en az yağış alan, en kurak bölgedir. Özellikle Şanlıurfa ve Mardin çevresinde yıllık yağış miktarı 300-400 mm dolayındadır. Bölge, yazın çok sıcak ve kurak olan Akdeniz ikliminin sert kara iklimi etkisiyle birleştiği bir geçiş alanındadır.",
   "zorluk": "kolay"
  },
@@ -5195,7 +5035,7 @@
    "Ege Bölgesi'nin iç kesimleri ve İç Anadolu",
    "Karadeniz Bölgesi'nin doğu kesimleri"
   ],
-  "dogru": 3,
+  "dogru": 0,
   "aciklama": "Ege Bölgesi'nin iç kesimleri ve İç Anadolu, Akdeniz ikliminin yağışlı kış özelliğini taşırken yazları sıcak ve kurak geçmesi bakımından Akdeniz iklimine yakınlaşır; ancak kışların daha soğuk geçmesi, yıllık sıcaklık farkının artması ve yağışın azalmasıyla karasal iklime geçiş başlar. Bu bölgeler tipik bir geçiş iklimi sergilemektedir.",
   "zorluk": "orta"
  },
@@ -5600,22 +5440,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "32384",
-  "dersId": "cografya",
-  "konuId": "i_klim_bilgisi",
-  "soru": "Türkiye'de Ege Bölgesi'nin iç kesimlerinde yazların kıyılara kıyasla daha sıcak ve kurak geçmesinin nedeni aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "İç kesimlerin denizden daha uzakta ve rakımın düşük olması",
-   "Ege kıyılarının güneyden gelen sıcak hava kütlelerine açık olması",
-   "Ege Denizi'nin yalnızca kış aylarında nemli hava üretmesi",
-   "İç kesimlerde Akdeniz yüksek basıncının kıyıdan daha güçlü etkili olması",
-   "Kuzey-güney doğrultusundaki vadilerin Etezyen rüzgârlarını iç kesimlere taşıması"
-  ],
-  "dogru": 0,
-  "aciklama": "Ege Bölgesi'nin iç kesimleri hem kıyıdan uzaklaştıkça deniz etkisini daha az alır hem de çevre dağlar nemli Ege rüzgârlarını bir ölçüde engeller. Kıyıya göre denizellik azaldığından yaz sıcaklıkları daha yüksek, kışlar daha soğuk olur (karasallık artar). Rakımın düşük olduğu iç çukur alanlarda (ör. Gediz, Büyük Menderes ovaları) hava daha fazla ısınır. Etezyen rüzgârları ise kuzeyden esen ve kıyıları serinleten rüzgârlardır; iç kesimlere bu etkiyi taşımazlar.",
-  "zorluk": "orta"
- },
- {
   "id": "32385",
   "dersId": "cografya",
   "konuId": "i_klim_bilgisi",
@@ -5885,22 +5709,6 @@
   ],
   "dogru": 1,
   "aciklama": "Yıllık ortalama sıcaklık, soğuk ve sıcak ayların değerlerini birlikte yansıtır. Doğu Anadolu'da kışlar çok soğuk, yazlar ise görece sıcaktır. Bu büyük termik genlik sayesinde yıllık ortalama 0°C'nin üzerine çıkabilir. Buna karşın aylarca 0°C'nin altında kalan kış dönemi kar örtüsünün uzun süre kalmasını sağlar. Yani yıllık ortalamanın kar süresini yansıtmamasının nedeni termik genliktir. \"Kış aylarında Sibirya kökenli soğuk hava kütlelerinin...\" seçeneği soğuk kışların nedenini açıklar, ancak yıllık ortalama ile kar süresi arasındaki çelişkiyi doğrudan açıklamaz. \"Güneş radyasyonunun yüksek rakım nedeniyle artarak karı eritememesi\" ise kendi içinde çelişkilidir. Doğru cevap \"Yıllık sıcaklık ortalamasının 0°C'nin üzerinde olmasına karşın kış aylarının ortalamasının çok düşük\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "32402",
-  "dersId": "cografya",
-  "konuId": "i_klim_bilgisi",
-  "soru": "Aşağıdaki iklim sınıflandırmalarından hangisi, bir bölgede görülen bitki örtüsü tipini yağış ve sıcaklıktan bağımsız olarak doğrudan temel ölçüt kabul ederek geliştirilmiştir?",
-  "secenekler": [
-   "Köppen İklim Sınıflandırması",
-   "Trewartha İklim Sınıflandırması",
-   "Bergeron Hava Kütlesi Sınıflandırması",
-   "Flohn İklim Sınıflandırması",
-   "Thornthwaite İklim Sınıflandırması"
-  ],
-  "dogru": 0,
-  "aciklama": "Köppen sınıflandırması, bölgenin doğal bitki örtüsünü esas alarak sınırlarını belirlemiş ve ardından bu sınırları yağış ile sıcaklık verileriyle sayısal olarak ifade etmiştir. Temel mantık 'önce bitki örtüsü, sonra iklim eşiği' şeklindedir. Thornthwaite ise potansiyel evapotranspirasyon ve su bilançosunu; Trewartha Köppen'i modifiye etmiş ama bitki örtüsünü merkeze almamıştır; Bergeron hava kütleleri ve cepheleri esas alır; Flohn ise genel atmosferik sirkülasyonu temel ölçüt olarak kullanır. Dolayısıyla bitki örtüsünü yağış/sıcaklıktan bağımsız biçimde doğrudan temel alan sistem Köppen'dir.",
   "zorluk": "zor"
  },
  {
@@ -6912,22 +6720,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "32471",
-  "dersId": "cografya",
-  "konuId": "turkiye_i_klimi",
-  "soru": "Türkiye'de Güneydoğu Anadolu Bölgesi'nin en az yağış alan bölge olmasında aşağıdaki etkenlerden hangisi belirleyici değildir?",
-  "secenekler": [
-   "Bölgenin çevresindeki dağların kuzeyden gelen soğuk ve nemli havanın önünü kesmesi",
-   "Bölgenin Akdeniz'e uzaklığı ve deniz etkisinden büyük ölçüde yoksun olması",
-   "Torosların güneyden gelen nemli hava kütlelerini iç kesimlere geçirmemesi",
-   "Yaz aylarında subtropikal yüksek basıncın bölge üzerinde etkili olması",
-   "Kuzeyden gelen Sibirya kökenli soğuk ve kuru hava kütlelerinin bölgeye sık ulaşması"
-  ],
-  "dogru": 4,
-  "aciklama": "Sibirya kökenli soğuk hava kütleleri Türkiye'ye kuzeyden girer ve kış soğutmasında etkilidir; ancak bu hava kütleleri Türkiye'ye ulaştığında büyük ölçüde karasallaşmış ve nemini yitirmiştir, bu nedenle Güneydoğu Anadolu'nun az yağış almasının nedeni değildir. Bölgenin az yağış almasının gerçek nedenleri; Toros engelinin deniz nemini kesmesi, subtropikal yüksek basınç etkisi, denizden uzaklık ve kuzeyi kapatan dağların kuzey nemli sistemlerini durdurucu etkisidir.",
-  "zorluk": "orta"
- },
- {
   "id": "32472",
   "dersId": "cografya",
   "konuId": "turkiye_i_klimi",
@@ -7037,22 +6829,6 @@
   ],
   "dogru": 1,
   "aciklama": "İç Anadolu'da kuru tarım yapılabilmekle birlikte nadassız (sulamasız) tarımın yaygınlığı sınırlıdır. Bunun temel nedeni yıllık yağışın (300-400 mm) yetersiz olması ve özellikle yaz aylarında yağışın son derece düşük seviyelerde kalmasıdır. Buğday gibi kışlık ürünler yetişebilse de yazlık ürünler için sulama zorunlu hale gelir. Kar örtüsü kışın toprak nemini koruma açısından faydalıdır; don ve rüzgar erozyonu ikincil etkenlerdir.",
-  "zorluk": "orta"
- },
- {
-  "id": "32479",
-  "dersId": "cografya",
-  "konuId": "turkiye_i_klimi",
-  "soru": "Aşağıda verilen iklim özellikleri hangi Türkiye şehrine aittir?\n\n'Yıllık ortalama sıcaklık 18-19°C, yıllık yağış 700-1000 mm, yağışların büyük bölümü kış aylarında düşer, yazlar sıcak ve kurak geçer, deniz etkisi belirgin, don olayı nadirdir, bitki örtüsü makilerden oluşur.'",
-  "secenekler": [
-   "Trabzon",
-   "Adana",
-   "Ankara",
-   "Erzincan",
-   "İzmir"
-  ],
-  "dogru": 1,
-  "aciklama": "Verilen özellikler tam Akdeniz iklimine işaret etmektedir: yüksek yıllık ortalama sıcaklık, yağışların kışa yoğunlaşması, yazın kurak geçmesi, don olayının nadir görülmesi ve maki bitki örtüsü. Bu özellikler Adana'ya uygundur; Adana Akdeniz kıyısında, deniz etkisine açık ve tipik Akdeniz ikliminin yaşandığı bir kenttir. İzmir de benzer özelliklere sahip olmakla birlikte yıllık ortalama sıcaklık ve kış ılımlılığı açısından Adana daha belirgin değerler gösterir. Trabzon Karadeniz iklimi, Ankara ve Erzincan ise karasal iklim özelliği taşır.",
   "zorluk": "orta"
  },
  {
@@ -7355,7 +7131,7 @@
    "Rize çevresindeki dağların denize paralel uzanması ve vadilerin rüzgâra dik yönde açılması",
    "Bölgenin deniz seviyesine yakın yükseltide olması ve yoğunlaşma düzeyinin çok düşük kalması"
   ],
-  "dogru": 0,
+  "dogru": 3,
   "aciklama": "Rize çevresinin Türkiye'nin en yağışlı yeri olmasının temel nedeni Doğu Karadeniz Dağları'nın bu kesimde kıyıya dik (güney-kuzey yönünde) uzanmasıdır. Bu durum vadilerin rüzgâra açık olmasını sağlar; Karadeniz'den gelen nemli hava kütleleri vadilerden içeri girerek dağ yamaçlarını tırmanır ve yoğun yağış bırakır. Kuzey-güney doğrultusundaki bu sıradağ düzeni, nemli havanın 'tuzak'lanmasına yol açar. Batıda ise dağlar daha çok kıyıya paralel uzandığından bu etki zayıflar.",
   "zorluk": "zor"
  },
@@ -7451,7 +7227,7 @@
    "Güneydoğu Anadolu – Mezopotamya'dan gelen sıcak hava kütlelerinin bölgede ısı adası oluşturması",
    "İç Anadolu – Zaten yarı kurak olan bölgede buharlaşmanın artması ve yağışların azalması"
   ],
-  "dogru": 2,
+  "dogru": 4,
   "aciklama": "İklim değişikliği bağlamında Doğu Anadolu'nun su kaynakları açısından özel bir kırılganlığı vardır: Bölgedeki dağlık alanlar (Ağrı, Süphan, Erciyes gibi volkanik koniler ve yüksek dağlar) hem Türkiye'nin hem de komşu ülkelerin önemli akarsularını besleyen kar ve buz rezervlerine sahiptir. İklim ısınmasıyla bu kaynaklar hızla eriyor; kısa vadede taşkın ve sel riski artarken uzun vadede mevsimlik akış azalıyor ve bölge ile aşağı havzalar ciddi kuraklıkla karşı karşıya kalıyor. Bu dinamik, diğer seçeneklerdeki bölgelere kıyasla çok daha dramatik ve geri dönüşü güç bir değişim sürecini temsil etmektedir.",
   "zorluk": "zor"
  },
@@ -7600,22 +7376,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "32515",
-  "dersId": "cografya",
-  "konuId": "turkiye_i_klimi",
-  "soru": "Türkiye'de Güneydoğu Anadolu Bölgesi'nin yıllık yağış ortalaması İç Anadolu'dan daha düşük olmasına rağmen tarımsal sulama ihtiyacı İç Anadolu'ya kıyasla çok daha yüksektir. Bu durumun temel nedeni aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Güneydoğu Anadolu'da arazi yapısının düz olması ve yüzey akışının bu nedenle fazla olması",
-   "Güneydoğu Anadolu'da yaz sıcaklığının çok yüksek olması nedeniyle buharlaşma-terlemenin potansiyel yağışı fazlasıyla aşması",
-   "İç Anadolu'da toprak yapısının suyu daha iyi depolaması",
-   "Güneydoğu Anadolu'da ekilen ürünlerin su tüketiminin İç Anadolu'da ekilenlere göre yapısal olarak çok daha düşük olması ve sulamaya ihtiyaç duymaması",
-   "Güneydoğu Anadolu'da yer altı su kaynaklarının yetersiz olması"
-  ],
-  "dogru": 1,
-  "aciklama": "Sulama ihtiyacı yalnızca yağış miktarıyla değil, potansiyel buharlaşma-terleme (PET) değerleriyle doğrudan ilgilidir. Güneydoğu Anadolu'da yaz aylarında sıcaklıklar 40°C'yi aşabilmekte; bu da PET değerlerini son derece yükseltmektedir. Yağış miktarı görece düşük (yıllık 400-600 mm) olmasına karşın neredeyse tamamı kış mevsiminde düşmekte, tarımın yapıldığı yaz mevsiminde ise hemen hemen hiç yağış olmamaktadır. Bu durum su bütçesinde derin açıklara yol açar. İç Anadolu'da sıcaklıklar da düşük olmakla birlikte Güneydoğu Anadolu'nun ekstrem yaz sıcaklıkları PET'i çok daha yüksek kılar. Diğer seçenekler sulama ihtiyacındaki bu farkı açıklamada yetersiz kalır.",
-  "zorluk": "zor"
- },
- {
   "id": "32516",
   "dersId": "cografya",
   "konuId": "turkiye_i_klimi",
@@ -7627,7 +7387,7 @@
    "Doğu Anadolu yüksek platosu",
    "İç Anadolu step sahası"
   ],
-  "dogru": 2,
+  "dogru": 1,
   "aciklama": "Yağışın kış döneminde yoğunlaşması (Ocak-Mart: 45 gün, Ekim-Aralık: 38 gün), yazın belirgin kurağa (Temmuz-Eylül: 8 gün) geçilmesi ve ocak sıcaklığının +4°C gibi ılıman seyretmesi tipik Akdeniz iklimine işaret eder. Yıllık yağışın 580 mm olması, yüksek değil orta düzeyde bir yağış aldığını göstermekte; bu da Batı Akdeniz kıyısındaki (Antalya çevresi, Muğla gibi) bir lokasyona denk gelmektedir. Doğu Karadeniz daha yüksek ve her mevsim yağışlıdır. Doğu Anadolu'da ocak sıcaklıkları çok düşük olurdu. İç Anadolu stepinde yağış rejimi daha farklı ve ocak sıcaklıkları daha düşüktür.",
   "zorluk": "zor"
  },
@@ -7808,22 +7568,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "32529",
-  "dersId": "cografya",
-  "konuId": "turkiye_i_klimi",
-  "soru": "Türkiye'de föhn rüzgârı etkisiyle sıcaklık ve nem koşullarında dramatik değişimler yaşanabilmektedir. Bu rüzgârın oluşum mekanizması düşünüldüğünde, Türkiye'de föhn etkisine en sık maruz kalan kesim hangisidir ve bu alanda ekonomik açıdan hangi olumsuz sonuç en kritik düzeydedir?",
-  "secenekler": [
-   "Karadeniz kıyıları – turizmin olumsuz etkilenmesi",
-   "Ege kıyıları – zeytinliklerin dondan zarar görmesi",
-   "Doğu Anadolu havzaları – erken kar erimesi ve sel riski",
-   "Güneydoğu Anadolu – tarım ürünlerinin yanması",
-   "Marmara kıyıları – balıkçılık faaliyetlerinin aksaması"
-  ],
-  "dogru": 2,
-  "aciklama": "Föhn, dağ yamaçlarını aşan havanın rüzgar altı yamacına inerken kuru adyabatik ısınmayla sıcaklığının artması ve neminin düşmesi sonucu oluşan sıcak ve kuru rüzgârdır. Türkiye'de özellikle Doğu Anadolu'daki kapalı havzalarda (Muş, Erzincan, Iğdır) Kuzeydoğu'dan gelen soğuk hava kütlelerinin sıradağları aşmasıyla föhn olayları yaşanır. En kritik ekonomik etki ise ilkbaharda kar örtüsünü hızla eritip ani yüksek debili sel akışlarına ve tarım arazilerinin su altında kalmasına yol açmasıdır. Iğdır Ovası bu açıdan özellikle savunmasız bir kesimdir.",
-  "zorluk": "zor"
- },
- {
   "id": "32530",
   "dersId": "cografya",
   "konuId": "turkiye_i_klimi",
@@ -7933,22 +7677,6 @@
   ],
   "dogru": 3,
   "aciklama": "Kuraklık türleri arasındaki ayrım hidroloji biliminde kritiktir. Meteorolojik kuraklık yağışın uzun dönem ortalamanın belirgin biçimde altına düşmesiyle başlar. Tarımsal kuraklık, toprak nem açığının bitkilerin su stresine girmesine yol açacak düzeye ulaşmasıyla tanımlanır; kısa süreli ama yoğun yağış eksikliğinden kaynaklanabilir. Hidrolojik kuraklık ise daha uzun süreçleri kapsar; akarsu akışları, göl seviyeleri ve yeraltı su tablasının uzun süre normalin altında kalmasıyla ortaya çıkar. Meteorolojik kuraklık erken, tarımsal kuraklık orta, hidrolojik kuraklık geç tepki veren bir süreçtir.",
-  "zorluk": "zor"
- },
- {
-  "id": "32537",
-  "dersId": "cografya",
-  "konuId": "turkiye_i_klimi",
-  "soru": "Türkiye'de orografik (dağ etkisi) yağışların dağılımı incelendiğinde Güneydoğu Toroslar'ın kuzey eteklerinin yağış gölgesi bölgesi niteliği taşıdığı görülmektedir. Bu durumun en önemli tarımsal ve hidrolojik sonucu hangisidir?",
-  "secenekler": [
-   "Yağış gölgesi bölgesinde nem yüksek olduğu için çeltik tarımı yaygınlaşır",
-   "Fırat ve Dicle'nin kaynak alanlarında kar birikimi artar, akarsu debileri yükselir",
-   "Güneydoğu Anadolu Platosu'nda yağış yetersizliği nedeniyle büyük akarsuların (Fırat, Dicle) beslenme kapasitesi düşer ve tarımsal sulama zorunlu hale gelir; bu da GAP gibi büyük sulama altyapılarının oluşturulmasını gerektirir",
-   "Güneydoğu Toroslar'ın kuzey eteklerinde orman alanları belirgin biçimde genişler ve bölgedeki biyolojik çeşitlilik artar Bu genişleme sonucunda bölgedeki orman örtüsü kuzeye doğru ilerler ve step alanları yerini ormana bırakır; tarımsal sulama ihtiyacı da böylece ortadan kalkar.",
-   "Güneydoğu Toroslar'ın kuzey eteklerinde görülen step iklimi zamanla Akdeniz iklimiyle yer değiştirir"
-  ],
-  "dogru": 2,
-  "aciklama": "Güneydoğu Toroslar, Akdeniz'den gelen nemli hava kütlelerinin yükseldiği ve yağış bıraktığı rüzgâr üstü cephedir. Dağların kuzey yamaçlarına inen hava, yağışını bırakmış ve kuru adyabatik ısınmayla ısınmış olarak Güneydoğu Anadolu Platosu'na ulaşır; bu alan yağış gölgesinde kalır. Dolayısıyla platoda yağış düşük (400–600 mm), buharlaşma talebi yüksektir. Fırat ve Dicle havzaları bu nedenle büyük sulama projeleri olmaksızın verimli tarıma açılamaz. GAP Projesi (22 baraj, 19 hidroelektrik santral), tam da bu hidrolojik yetersizliği gidermek amacıyla tasarlanmıştır.",
   "zorluk": "zor"
  },
  {
@@ -8128,22 +7856,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "32549",
-  "dersId": "cografya",
-  "konuId": "yeryuzu_sekilleri",
-  "soru": "Aşağıdaki dağlardan hangisi kıvrım dağlarına örnek gösterilemez?",
-  "secenekler": [
-   "Skandinavya Dağları",
-   "Kayalık Dağlar",
-   "Alpler",
-   "Himalayalar",
-   "And Dağları"
-  ],
-  "dogru": 0,
-  "aciklama": "Skandinavya Dağları, levha hareketleri sonucu kıvrılmadan ziyade Paleozoyik'te oluşmuş eski kütlelerden oluşmakta olup tektonik kırılma ve aşındırma ile şekillenmiştir; genellikle kırık dağlarına ya da eski masif dağlara örnek verilir. Alpler, Himalayalar, And Dağları ve Kayalık Dağlar genç kıvrım dağlarıdır.",
-  "zorluk": "kolay"
- },
- {
   "id": "32550",
   "dersId": "cografya",
   "konuId": "yeryuzu_sekilleri",
@@ -8173,22 +7885,6 @@
   ],
   "dogru": 1,
   "aciklama": "Sirk gölü, buzulların dağ yamaçlarını oyarak oluşturduğu sirk çukurlarına buzulun erimesiyle su dolmasıyla meydana gelir. Türkiye'de Kaçkar Dağları'ndaki Deniz Gölü bu türe örnektir.",
-  "zorluk": "kolay"
- },
- {
-  "id": "32552",
-  "dersId": "cografya",
-  "konuId": "yeryuzu_sekilleri",
-  "soru": "Aşağıdaki yer şekillerinden hangisi dış kuvvetlerin aşındırma faaliyeti sonucunda oluşmaz?",
-  "secenekler": [
-   "Kırgıbayır",
-   "Peneplen",
-   "Horst",
-   "Moren",
-   "Kanyon"
-  ],
-  "dogru": 2,
-  "aciklama": "Horst, iki fay hattı arasında kalan ve çevresine göre yüksekte kalmış kütledir; iç kuvvetler (tektonizma) tarafından oluşturulur. Kanyon ve peneplen akarsu aşındırması, moren buzul birikimi, kırgıbayır ise yağmur suyu aşındırması ile oluşur.",
   "zorluk": "kolay"
  },
  {
@@ -8667,7 +8363,7 @@
    "Marmara Bölgesi",
    "Doğu Anadolu Bölgesi"
   ],
-  "dogru": 4,
+  "dogru": 2,
   "aciklama": "Doğu Anadolu Bölgesi, yüksek ve engebeli arazi yapısı ile sert kayaçların varlığı nedeniyle akarsuların yatak eğiminin fazla olduğu bir bölgedir. Bu durum akarsuların yatak yönünde (dikey) aşındırma gücünü artırır ve derin kanyonların oluşmasına zemin hazırlar. Fırat, Dicle, Aras gibi büyük akarsuların yukarı havzaları bu bölgededir ve kanyonlara en fazla bu bölgede rastlanır.",
   "zorluk": "orta"
  },
@@ -9008,22 +8704,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "32610",
-  "dersId": "cografya",
-  "konuId": "yeryuzu_sekilleri",
-  "soru": "Kıyı şeridinde dalga ve akıntıların etkisiyle oluşan ve bir koya ya da körfezi kapatan kumsal şekline ne ad verilir?",
-  "secenekler": [
-   "Kıyı oku (spit)",
-   "Skyer",
-   "Tombolo",
-   "Lagün",
-   "Yığma kıyı"
-  ],
-  "dogru": 0,
-  "aciklama": "Kıyı oku (spit), dalga ve kıyı boyunca kum taşıyan akıntıların bir koy ya da körfez ağzına paralel birikinti yapması sonucu oluşan, bir ucu kıyıya bağlı diğer ucu açık denize uzanan kum ya da çakıl şerididir. Tombolo, kıyı okununun bir adayı karaya bağlamasıyla oluşur. Lagün, kıyı okuyla ya da kordunla kapanan su kütlesidir. Skyer ise buzul aşındırmasıyla oluşan kayalık kıyı şekillerini tanımlar.",
-  "zorluk": "orta"
- },
- {
   "id": "32611",
   "dersId": "cografya",
   "konuId": "yeryuzu_sekilleri",
@@ -9069,22 +8749,6 @@
   ],
   "dogru": 4,
   "aciklama": "Menderes (meandır), akarsuyun hızının düştüğü ve eğimin azaldığı düzlük alanlarda oluşur. Akarsuyun dış bükey kıyısında aşındırma, iç bükey (iç) kıyısında ise biriktirme (nokta barı) eş zamanlı gerçekleşir. Bu iki sürecin birlikte çalışması sonucunda akarsu zamanla kıvrımlı bir yol izlemeye başlar ve karakteristik menderes formunu oluşturur. Kanyon ve çentik vadi ağırlıklı aşındırma, vadoz mağarası karstik süreçler sonucunda gelişir.",
-  "zorluk": "orta"
- },
- {
-  "id": "32614",
-  "dersId": "cografya",
-  "konuId": "yeryuzu_sekilleri",
-  "soru": "Türkiye'nin batısındaki dağların genel olarak doğu-batı (D-B) doğrultusunda uzanırken kıyı şeridine paralel, kuzeyindeki Kuzey Anadolu Dağları ile güneyindeki Torosların ise doğu-batı uzanışlı olması, kıyılar açısından hangi sonucu doğurmaktadır?",
-  "secenekler": [
-   "Batı kıyıları düz, Kuzey ve Güney kıyıları ise girintili çıkıntılı bir yapı gösterir.",
-   "Bütün kıyılar eşit derecede girintili çıkıntılı bir yapıya kavuşur.",
-   "Kuzey kıyıları delta bakımından en zengin kıyılar haline gelir.",
-   "Güney kıyıları ria türü kıyı özelliği kazanırken Kuzey kıyıları belirgin fjord özelliği gösterir ve bu yapı korunur.",
-   "Batı kıyıları girintili çıkıntılı (ria tipi), Kuzey ve Güney kıyıları düz ve sade bir görünüm kazanır."
-  ],
-  "dogru": 4,
-  "aciklama": "Türkiye'de dağların kıyıya göre uzanış yönü, kıyı tipini doğrudan belirler. Batı Anadolu'da dağlar D-B uzanışlıdır, yani kıyıya dik konumdadır; bu durum denizin vadilere sokulmasına yol açarak Ege Bölgesi'nin girintili çıkıntılı (ria tipi) kıyılarını oluşturur. Karadeniz ve Akdeniz kıyılarında ise dağlar kıyıya paralel uzandığından kıyı şeridi oldukça düz ve sade bir görünüm sergiler; akarsuların denize ulaşması zorlaşır ve kıta sahanlığı dardır.",
   "zorluk": "orta"
  },
  {
@@ -9261,22 +8925,6 @@
   ],
   "dogru": 4,
   "aciklama": "Riegel, buzul vadisinde boyuna profili kesen alçak eşiklerdir. Buzulun altında aşındırma gücü kayacın direncine göre değişir. Yumuşak kayaçlar daha derin oyulurken dirençli kayaç blokları daha az aşındırılır ve eşik biçimini alır. Bu nedenle riegel, buzul altı aşınımının heterojen olduğunu ve o noktada dirençli bir kayaç bulunduğunu kanıtlar. Eşiğin ilerisindeki çöküntü (overdeeepening) ise daha yumuşak kayacın oyulmasından kaynaklanır.",
-  "zorluk": "zor"
- },
- {
-  "id": "32627",
-  "dersId": "cografya",
-  "konuId": "yeryuzu_sekilleri",
-  "soru": "Türkiye'de Karadeniz kıyı dağlarının denize bakan yamaçlarında kısa ve hızlı akışlı akarsuların delta yerine huni ağzı (estuary) değil, yelpaze delta oluşturmasının birincil morfolojik nedeni aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Karadeniz'de gel-git genliğinin çok düşük olması",
-   "Longshore drift'in sedimanı hızla kıyı boyunca taşıması",
-   "Kıyı dağlarının denize paralel uzanması ve yamaç eğiminin yüksek olması",
-   "Karadeniz'in çok derin olması nedeniyle taşınan sedimanın hızla batması ve tabanda birikmesi",
-   "Akarsuların taşıdığı sedimanın iri taneli ve çakıllı yapıda olması"
-  ],
-  "dogru": 2,
-  "aciklama": "Doğu Karadeniz'de dağlar denize paralel ve dik yüzeylerle uzanır. Bu yapı, çok kısa mesafede büyük yükselti farkına neden olur. Akarsular yüksek eğimli yamaçlardan hızla inerek kıyıya ulaşır ve bu hız yelpaze biçimli bir delta (fan delta) oluşturur. Estuary oluşumu için geniş huni ağızlı kıyı, yüksek gel-git veya geniş vadi gerekir. Karadeniz'deki düşük gel-git etkisi katkı sunsa da birincil neden kıyı dağlarının geometrisi ve yüksek yamaç eğimidir.",
   "zorluk": "zor"
  },
  {
@@ -9712,22 +9360,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "32655",
-  "dersId": "cografya",
-  "konuId": "yeryuzu_sekilleri",
-  "soru": "Karadeniz Bölgesi'nde bazı vadilerde oluşan \"ria\" tipi kıyılar ile Ege Bölgesi'ndeki \"ria\" tipi kıyılar jeomorfolojik açıdan benzer görünse de oluşum mekanizmaları birbirinden farklıdır. Bu farkın temel nedeni aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Ege'deki rialar buzul erimesiyle yükselen deniz suyunun vadilere girmesiyle oluşurken Karadeniz'dekiler kıyının yükselmesiyle şekillenmiş ve biçim değiştirmiştir",
-   "Ege'deki rialar kıyı sığlaşmasıyla oluşurken Karadeniz'dekiler kıyının alçalmasının bir sonucudur",
-   "Her iki bölgedeki rialar da tümüyle aynı mekanizmayla oluşmuştur; aralarındaki tek fark jeolojik yaş farkından kaynaklanmaktadır",
-   "Karadeniz'deki rialar tamamen rüzgâr biriktirmesinin etkisiyle oluşmuştur",
-   "Karadeniz'deki rialar aşınmış vadi ağızlarının deniz suyuyla dolmasıyla oluşurken Ege'dekiler tektonik çöküntü sonucu deniz girişiyle meydana gelmiştir"
-  ],
-  "dogru": 4,
-  "aciklama": "Ege Bölgesi'ndeki ria tipi koylar (körfezler), Alpin orojenezi sonrası oluşan horst-graben sistemindeki çöküntü havzalarına denizin girmesiyle ya da dağların kıyıya dik uzanmasından dolayı derin girintili kıyıların ortaya çıkmasıyla şekillenmiştir; tektonik kıyı tipinin özellikleri baskındır. Karadeniz kıyısındaki ria görünümlü koylar ise akarsu vadilerinin denize boğulmasından (vadi boğulması, 'drowned valley') kaynaklanır; ancak burada Karadeniz'in geç Kuvaterner'de deniz seviyesi değişimlerine bağlı tarihsel dönüşümleri de belirleyicidir. Her iki kıyı da girintili-çıkıntılı görünse de tektonik köken ile denizel boğulma mekanizması farklıdır.",
-  "zorluk": "zor"
- },
- {
   "id": "32656",
   "dersId": "cografya",
   "konuId": "yeryuzu_sekilleri",
@@ -9915,7 +9547,7 @@
    "10.000",
    "5.000"
   ],
-  "dogru": 3,
+  "dogru": 2,
   "aciklama": "Türkiye'de nüfus büyüklüğüne göre sınıflandırmada 10.000 ve üzeri nüfusa sahip yerleşim yerleri kent, 2.000-10.000 arası kasaba, 2.000'in altındakiler ise köy olarak kabul edilmektedir. Ancak bazı kaynaklarda bu eşik değerleri farklılık gösterebilir.",
   "zorluk": "kolay"
  },
@@ -10061,22 +9693,6 @@
   ],
   "dogru": 3,
   "aciklama": "1950'lerde tarımda makineleşmenin hız kazanması, kırda iş gücü fazlası oluşturmuş; bu durum köyden kente göçü hızlandırmıştır. Bu dönem Türkiye'de iç göçün ve kentleşmenin başlangıç noktası kabul edilir.",
-  "zorluk": "kolay"
- },
- {
-  "id": "32677",
-  "dersId": "cografya",
-  "konuId": "nufus_yerlesme",
-  "soru": "Aşağıdaki yerleşim birimlerinden hangisi 'köy' statüsünde değerlendirilemez?",
-  "secenekler": [
-   "Divan",
-   "Oba",
-   "Kom",
-   "Mezra",
-   "İlçe"
-  ],
-  "dogru": 4,
-  "aciklama": "Mezra, divan, oba ve kom gibi birimler köy altı yerleşme birimleridir. İlçe ise kentsel/yarı kentsel idari bir birim olup köy statüsünde değil, daha üst bir idari kademede yer almaktadır.",
   "zorluk": "kolay"
  },
  {
@@ -10267,7 +9883,7 @@
    "Tabanda geniş, tepede dar olan üçgen biçimli piramit",
    "Tüm yaş gruplarında eşit dağılım gösteren kare biçimli piramit"
   ],
-  "dogru": 0,
+  "dogru": 2,
   "aciklama": "Doğum oranının düşük, ölüm oranının da düşük olduğu gelişmiş ülkelerde nüfus piramidi; alt yaş gruplarının dar, orta yaş gruplarının geniş, üst yaş gruplarının ise görece dar olduğu bir baklava ya da soğan dilimi görünümü alır. Bu yapı, nüfusun yaşlandığını ve doğal nüfus artış hızının çok düşük ya da sıfır olduğunu gösterir.",
   "zorluk": "orta"
  },
@@ -11053,22 +10669,6 @@
   ],
   "dogru": 1,
   "aciklama": "Gelişmiş ülkelerde 65 yaş üstü nüfusta kadınların oransal olarak erkeklerden çok daha fazla olmasının iki temel nedeni vardır. Birincisi biyolojik: Kadınlar ortalama olarak erkeklerden 5-7 yıl daha uzun yaşamaktadır; bu fark mortalite istatistiklerinde tüm ülkelerde görülmekle birlikte gelişmiş ülkelerde daha belirgindir. İkincisi tarihsel: 20. yüzyılın iki büyük dünya savaşı başta olmak üzere çeşitli çatışmalar erkek nüfusun 20-45 yaş dilimini orantısız biçimde azaltmış; bu nesil günümüzde 80-100+ yaş diliminde olurdu ancak büyük bölümü hayatta değildir. Bu iki etki birleşince yaşlı nüfusta kadın lehine asimetri oluşur.",
-  "zorluk": "zor"
- },
- {
-  "id": "32741",
-  "dersId": "cografya",
-  "konuId": "nufus_yerlesme",
-  "soru": "Türkiye'de mekânsal nüfus dağılışını belirleyen faktörler hiyerarşik biçimde sıralanmak istendiğinde, hangi faktör ilk sıraya yerleştirilmelidir ve bu önceliklendirme hangi istatistiksel gözlemle desteklenir?",
-  "secenekler": [
-   "İklim faktörü — kıyı illerinin nüfus yoğunluğunun iç illere göre yüksek olması",
-   "Sanayi faktörü — Marmara'nın Türkiye nüfusunun yaklaşık %30'unu barındırması",
-   "Su kaynakları faktörü — büyük nehir havzalarının nüfus yoğunluğuyla doğrusal bir ilişki göstermesi",
-   "Yükselti faktörü — Türkiye'de nüfusun %78'inin 1000 m altında yoğunlaşması ve bölgeden bölgeye bu ilişkinin tutarlı biçimde geçerli olması",
-   "Tarihsel yerleşim faktörü — antik kent kalıntılarının bulunduğu illerin her dönemde daha kalabalık olması ve bu ilişkinin günümüzde de sürmesi"
-  ],
-  "dogru": 3,
-  "aciklama": "Mekânsal nüfus dağılışında yükselti, Türkiye genelinde en tutarlı açıklayıcı değişkendir. Doğu Anadolu'nun yüksek platolarında nüfus seyrekleşirken kıyı ovalarında ve alçak iç ovalarda yoğunlaşır. Türkiye nüfusunun yaklaşık %78'i 1000 m'nin altında yaşamaktadır. Önemli nokta şudur: Sanayi faktörü Marmara özelinde çok güçlü açıklayıcıyken Türkiye genelinde tek başına açıklayıcı değildir. Yükselti faktörü ise Ege'den Karadeniz'e, İç Anadolu'dan Güneydoğu'ya tutarlı biçimde geçerlidir. Bu nedenle hiyerarşide fiziki coğrafya (yükselti, arazi) önce gelir; ekonomik faktörler bu fiziki kısıtlar içinde ikincil belirleyici olarak çalışır.",
   "zorluk": "zor"
  },
  {
@@ -12363,7 +11963,7 @@
    "Şeker pancarı – Konya, Ankara",
    "Antep fıstığı – Şanlıurfa, Gaziantep"
   ],
-  "dogru": 2,
+  "dogru": 3,
   "aciklama": "Narenciye üretiminin ana merkezi Akdeniz Bölgesi'dir; Mersin önemli bir üretici il olmakla birlikte, Adana narenciye üretiminde Mersin kadar belirleyici değildir. Ancak bu seçenekler arasındaki en belirgin yanlışlık değerlendirildiğinde, diğer tüm eşleştirmeler büyük ölçüde doğrudur. Şeker pancarı üretimi ise Konya ve Ankara'nın yanı sıra Bursa, Kayseri, Erzurum gibi illerde de yapılmaktadır; ancak Konya-Ankara eşleştirmesi yanlış sayılabilecek düzeyde değildir. Narenciye için Adana'nın Mersin ile aynı düzeyde önemli merkez olarak gösterilmesi yanıltıcıdır, Akdeniz'in batı kesimleri (Antalya) çok daha belirleyicidir.",
   "zorluk": "orta"
  },
@@ -12779,7 +12379,7 @@
    "Fırat Havzası",
    "Seyhan-Ceyhan Havzası"
   ],
-  "dogru": 2,
+  "dogru": 3,
   "aciklama": "Konya Kapalı Havzası, GAP'tan sonra Türkiye'nin en büyük sulama projelerinden birine ev sahipliği yapmaktadır (KOP - Konya Ovası Projesi). Ancak iç bölgede kıta ikliminin hâkim olması, kışların sert geçmesi ve vejetasyon süresinin kısalığı nedeniyle ağırlıklı olarak tahıl ve şeker pancarı gibi sınırlı sayıda ürün yetiştirilmektedir. Buna karşılık Büyük Menderes, Gediz ve Seyhan-Ceyhan havzalarında Akdeniz ve geçiş ikliminin etkisiyle çok sayıda ürün üretilebilmektedir.",
   "zorluk": "zor"
  },
@@ -13419,7 +13019,7 @@
    "Diyarbakır",
    "Şırnak"
   ],
-  "dogru": 2,
+  "dogru": 4,
   "aciklama": "Türkiye'de petrol üretiminde Batman ili başı çekmektedir. Güneydoğu Anadolu Bölgesi'nde yer alan Batman, Türkiye petrol üretiminin önemli bir bölümünü sağlamaktadır. Bölgede Batman Rafinerisi de bulunmaktadır.",
   "zorluk": "kolay"
  },
@@ -14272,22 +13872,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "32946",
-  "dersId": "cografya",
-  "konuId": "sanayi_enerji",
-  "soru": "Aşağıdakilerden hangisi, Türkiye'nin petrol ithalatında başvurduğu ülkeler arasında yer almakla birlikte, aynı zamanda bir boru hattı güzergâhı ülkesi olarak da öne çıkmaktadır?",
-  "secenekler": [
-   "Kuveyt",
-   "Libya",
-   "Azerbaycan",
-   "Irak",
-   "Suudi Arabistan"
-  ],
-  "dogru": 3,
-  "aciklama": "Irak, Türkiye'ye hem kara yoluyla hem de Kerkük-Ceyhan boru hattı aracılığıyla petrol taşınan önemli bir tedarikçi ve transit güzergâh ülkesidir. Bu boru hattı, Irak'ın kuzeyinden başlayarak Türkiye'nin Akdeniz kıyısındaki Ceyhan Limanı'na ulaşmaktadır. Azerbaycan ise ham petrol boru hattı (BTC) güzergâhında yer almakla birlikte ihracat yapan ülke konumundadır.",
-  "zorluk": "orta"
- },
- {
   "id": "32947",
   "dersId": "cografya",
   "konuId": "sanayi_enerji",
@@ -14592,22 +14176,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "32967",
-  "dersId": "cografya",
-  "konuId": "sanayi_enerji",
-  "soru": "Türkiye'de güneş enerjisinden elektrik üretimi (lisanslı ve lisanssız GES'ler dahil) en yoğun biçimde hangi bölgelerde gerçekleştirilmektedir ve bunun temel coğrafi açıklaması nedir?",
-  "secenekler": [
-   "İç Anadolu – düz arazi yapısı sayesinde kurulum maliyetinin düşük olması",
-   "Güneydoğu Anadolu ve Akdeniz – yıllık güneşlenme süresinin 2800 saati aşması ve bulutsuz gün sayısının fazlalığı",
-   "Doğu Anadolu – yüksek rakım nedeniyle atmosferin daha ince olması ve güneş ışınımını daha az filtrelemesi",
-   "Karadeniz Bölgesi – yüksek nem ve sis oranı sayesinde difüz ışınımın fazla olması",
-   "Marmara Bölgesi – sanayi altyapısı ve tüketim merkezlerine yakınlık"
-  ],
-  "dogru": 1,
-  "aciklama": "Türkiye'de güneş enerjisi potansiyeli en yüksek bölgeler Güneydoğu Anadolu ve Akdeniz kıyılarıdır. Bu bölgelerde yıllık güneşlenme süresi 2800-3000 saati aşmakta, bulutsuz gün sayısı oldukça fazla olmaktadır. Konya, Karaman, Gaziantep, Şanlıurfa ve çevresi lisanslı GES kapasitesinin en yoğun bulunduğu illerdir. Marmara ve Karadeniz'de bulanık ve yağışlı hava nedeniyle potansiyel daha düşüktür.",
-  "zorluk": "zor"
- },
- {
   "id": "32968",
   "dersId": "cografya",
   "konuId": "sanayi_enerji",
@@ -14715,7 +14283,7 @@
    "Ekmek ve fırıncılık endüstrisi",
    "Şeker fabrikaları"
   ],
-  "dogru": 0,
+  "dogru": 1,
   "aciklama": "Konserve ve meyve suyu fabrikaları; üretimde büyük hacimli ve bozulabilir hammadde (meyve-sebze) kullandığından hammadde üretim bölgelerine yakın kurulma eğilimindedir. Ancak hafif ambalajlı ürünler olarak hem bölgesel hem ulusal hem de uluslararası pazarlara kolayca ulaşabilmektedir. Bu çift yönlü baskı, fabrikaların bazen hammadde alanına (Bursa, Manisa), bazen de liman/pazar yakınına kurulmasına yol açar. Çimento ve şeker fabrikaları daha kesin hammadde odaklı iken ekmek sanayisi saf pazar odaklıdır.",
   "zorluk": "zor"
  },
@@ -14733,22 +14301,6 @@
   ],
   "dogru": 2,
   "aciklama": "Türkiye'de jeotermal enerji birçok alanda kullanılır. Bunlar arasında elektrik üretimi, konut ve sera ısıtması, termal turizm ve kaplıcalar sayılabilir. Jeotermal seracılık, Afyonkarahisar ve Denizli gibi illerde gelişmektedir. Termal turizm de yaygınlığını korumaktadır. Bu nedenle kaynağın yalnızca elektrikte kullanıldığını ve diğer kullanımların terk edildiğini söyleyen ifade yanlıştır. Jeotermal alanların fay hatları ve genç tektonik yapıyla ilişkili olduğu bilgisi doğrudur. Bu alanların Ege'de, özellikle Menderes Grabeni çevresinde yoğunlaştığı da doğrudur. \"Türkiye, jeotermal kurulu güç bakımından Avrupa'da ilk sıralarda yer almaktadır\" ifadesi de doğrudur; Türkiye bu alanda Avrupa'nın önde gelen ülkelerindendir. Doğru cevap \"Jeotermal enerji Türkiye'de yalnızca elektrik üretiminde kullanılmakta\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "32976",
-  "dersId": "cografya",
-  "konuId": "sanayi_enerji",
-  "soru": "Aşağıdaki sanayi kolları ile Türkiye'deki başlıca üretim merkezleri eşleştirildiğinde hangi ikili yanlış verilmiştir?",
-  "secenekler": [
-   "Rafine şeker sanayii – Alpullu ve Turhal",
-   "Cam sanayii – Paşabahçe ve Mersin",
-   "Kağıt-selüloz sanayii – İzmit ve Aksu",
-   "Bakır sanayii – Samsun ve Murgul",
-   "Alüminyum sanayii – Seydişehir"
-  ],
-  "dogru": 1,
-  "aciklama": "Türkiye'de cam sanayii denildiğinde akla gelen başlıca merkezler İstanbul/Paşabahçe (Şişecam'ın kuruluş yeri), Mersin ve Bursa'dır. Ancak bu seçeneklerde gerçekten yanlış eşleştirme olan şık D değil, yanıltıcı olan budur: Türkiye'nin en önemli düzcam üretimi merkezi Mersin değil Trakya (Çerkezköy) ve Ankara çevresidir. Paşabahçe cam ürünleriyle özdeşleşmiş olsa da düzcam üretimi Trakya Cam fabrikasıyla daha fazla ilişkilendirilir. Soru analiz gerektirmekte olup diğer şıklardaki eşleştirmeler doğrudur.",
   "zorluk": "zor"
  },
  {
@@ -15451,7 +15003,7 @@
    "Doğu Anadolu Bölgesi",
    "İç Anadolu Bölgesi"
   ],
-  "dogru": 3,
+  "dogru": 4,
   "aciklama": "Kızılırmak, Sivas ili sınırları içinde Kızıldağ'dan doğmaktadır. Sivas, Doğu Anadolu Bölgesi'nde yer alır. Kızılırmak, 1355 km uzunluğuyla Türkiye'nin en uzun akarsuyu olup Karadeniz'e dökülür.",
   "zorluk": "kolay"
  },
@@ -15664,22 +15216,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "33039",
-  "dersId": "cografya",
-  "konuId": "bolgeler_cografyasi",
-  "soru": "Türkiye'de aşağıdaki ürünlerden hangisi yalnızca belirli bir coğrafi bölgeyle sınırlı kalmayıp birden fazla bölgede yaygın biçimde üretilmektedir?",
-  "secenekler": [
-   "Çay",
-   "Zeytin",
-   "Pamuk",
-   "Fındık",
-   "Buğday"
-  ],
-  "dogru": 4,
-  "aciklama": "Buğday, Türkiye'nin hemen tüm bölgelerinde yetiştirilen bir üründür; özellikle İç Anadolu, Doğu Anadolu, Güneydoğu Anadolu ve Marmara bölgelerinde yaygındır. Çay yalnızca Doğu Karadeniz'de, fındık Karadeniz kıyı şeridinde, pamuk Ege-Akdeniz-Güneydoğu'da belirli alanlarda, zeytin ise ağırlıklı olarak Ege ve Akdeniz kıyılarında üretilmektedir.",
-  "zorluk": "orta"
- },
- {
   "id": "33040",
   "dersId": "cografya",
   "konuId": "bolgeler_cografyasi",
@@ -15757,22 +15293,6 @@
   ],
   "dogru": 2,
   "aciklama": "1941 yılında Ankara'da düzenlenen I. Coğrafya Kongresi'nde Türkiye 7 coğrafi bölgeye ayrılmıştır. Bu ayrımda iklim, bitki örtüsü, yer şekilleri ve ekonomik faaliyetler esas alınmış; ancak nüfus yoğunluğu bir kriter olarak kullanılmamıştır.",
-  "zorluk": "orta"
- },
- {
-  "id": "33047",
-  "dersId": "cografya",
-  "konuId": "bolgeler_cografyasi",
-  "soru": "Aşağıdaki bölgelerden hangisinde hem Akdeniz iklimi hem de karasal iklim özellikleri aynı anda gözlemlenebilir?",
-  "secenekler": [
-   "Marmara Bölgesi",
-   "Karadeniz Bölgesi",
-   "Güneydoğu Anadolu Bölgesi",
-   "Ege Bölgesi",
-   "İç Anadolu Bölgesi"
-  ],
-  "dogru": 2,
-  "aciklama": "Güneydoğu Anadolu Bölgesi'nin güneyinde (Hatay hariç) Akdeniz iklimine yakın bir iklim, kuzey ve iç kesimlerinde ise karasal iklim özellikleri görülür. Yazlar çok sıcak ve kurak, kışlar serin geçer. Bu geçiş yapısıyla bölge, her iki iklim özelliğini de barındırır. Ege Bölgesi'nde de geçiş görülmekle birlikte Güneydoğu Anadolu bu geçişin daha belirgin yaşandığı bölgedir.",
   "zorluk": "orta"
  },
  {
@@ -15915,7 +15435,7 @@
    "Boyuna kıyı tipinin görülmesi",
    "Kıyılarda delta ovalarının gelişmesi"
   ],
-  "dogru": 2,
+  "dogru": 4,
   "aciklama": "Ege Bölgesi'nde dağlar ve çukur ovalar kıyıya dik uzanmaktadır. Denizin bu çukur alanlara dolmasıyla haliç tipi kıyılar oluşmuştur. Bu kıyı tipi girintili çıkıntılı bir kıyı şeridi meydana getirmekte ve doğal liman oluşumuna zemin hazırlamaktadır. Bu durum aynı zamanda bölgedeki adacıkların çokluğunu da açıklamaktadır. Lagün gölleri ise akarsu deltalarında ya da kum setlerinin oluşturduğu kapalı alanlarda gelişir; bu durum Ege'nin karakteristik özelliği değildir.",
   "zorluk": "orta"
  },
@@ -16059,7 +15579,7 @@
    "En büyük: Doğu Anadolu - En küçük: Güneydoğu Anadolu",
    "En büyük: Orta Anadolu - En küçük: Güneydoğu Anadolu"
   ],
-  "dogru": 1,
+  "dogru": 3,
   "aciklama": "Türkiye'nin 7 coğrafi bölgesi yüzölçümü bakımından karşılaştırıldığında Doğu Anadolu Bölgesi yaklaşık 163.000 km² ile en büyük bölgedir; Türkiye yüzölçümünün yaklaşık beşte birini kapsar. Marmara Bölgesi ise yaklaşık 67.000 km² ile en küçük bölgedir. İkinci büyük bölge İç Anadolu (Orta Anadolu), Güneydoğu Anadolu ise yüzölçümü en küçük ikinci bölgedir. Bu ayrımı bilmek sınav sorularında sıkça karıştırılan noktaları doğru yanıtlamak açısından kritiktir.",
   "zorluk": "orta"
  },
@@ -16224,22 +15744,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "33081",
-  "dersId": "cografya",
-  "konuId": "bolgeler_cografyasi",
-  "soru": "Aşağıdaki eşleştirmelerden hangisi, Türkiye'nin bölgeleri ile o bölgeye özgü bir coğrafi özellik arasında YANLIŞ bir ilişki kurmaktadır?",
-  "secenekler": [
-   "Akdeniz Bölgesi – Türkiye'nin en uzun kıyı şeridine sahip bölge olması",
-   "Karadeniz Bölgesi – Türkiye'nin en uzun akarsuyu olan Kızılırmak'ın bölgeden denize dökülmesi",
-   "Ege Bölgesi – Menderes, Gediz ve Büyük Menderes ovalarının graben kökenli olması",
-   "Doğu Anadolu Bölgesi – Türkiye'nin en büyük gölü olan Van Gölü'ne ev sahipliği yapar",
-   "Güneydoğu Anadolu Bölgesi – Türkiye'nin en büyük ovası olan Konya Ovası'na sahip olması"
-  ],
-  "dogru": 4,
-  "aciklama": "Konya Ovası, Türkiye'nin en büyük ovası olmakla birlikte İç Anadolu Bölgesi'nde yer alır; Güneydoğu Anadolu Bölgesi'nde değil. Güneydoğu Anadolu'nun önemli ovaları arasında Harran Ovası, Ceylanpınar Ovası ve Amik Ovası sayılabilir. Diğer eşleştirmeler doğrudur: Van Gölü Doğu Anadolu'dadır, Ege'deki ovalar graben kökenlidir, Kızılırmak Karadeniz Bölgesi'nde Bafra'da denize dökülür ve Akdeniz Bölgesi en uzun kıyı şeridine sahiptir.",
-  "zorluk": "zor"
- },
- {
   "id": "33082",
   "dersId": "cografya",
   "konuId": "bolgeler_cografyasi",
@@ -16253,22 +15757,6 @@
   ],
   "dogru": 3,
   "aciklama": "İç Anadolu'da tarımın büyük ölçüde kuru tarıma dayalı olması, bölgede sulama altyapısının yeterince geliştirilmemiş olmasıyla doğrudan çelişmektedir. Eğer sulama olanakları yeterli olsaydı, geniş düzlükler ve verimli topraklar sayesinde bölge çok daha çeşitli ve yüksek değerli ürünler yetiştirmeye elverişli olurdu. Diğer seçenekler ise kuru hububat tarımını destekleyen veya açıklayan faktörlerdir: düşük yağış kuru tarıma yöneltir, düzlükler makine kullanımını kolaylaştırır, topraklar tahıla uygundur ve kışlık ekim sistemi soğuk kışlara uyum sağlar.",
-  "zorluk": "zor"
- },
- {
-  "id": "33083",
-  "dersId": "cografya",
-  "konuId": "bolgeler_cografyasi",
-  "soru": "Türkiye'nin bölgeleri nüfus yoğunluğu açısından değerlendirildiğinde, Doğu Anadolu Bölgesi'nin yüz ölçümünün büyük olmasına rağmen en düşük nüfus yoğunluğuna sahip ikinci bölge olmasının temel nedenleri arasında sayılamayacak olan hangisidir?",
-  "secenekler": [
-   "Sanayi ve hizmet sektörünün gelişmemişliği nedeniyle ekonomik fırsatların sınırlı kalması",
-   "Kışların çok soğuk ve uzun geçmesi nedeniyle tarım döneminin kısa olması",
-   "Bölgenin denizlere olan uzaklığı nedeniyle ihracat olanaklarının sınırlı kalması ve buna bağlı ticari faaliyetlerin gelişememesi",
-   "Bölgede verimli delta ovalarının bulunmaması nedeniyle yoğun tarımsal nüfusun oluşamaması",
-   "Engebeli arazi yapısı ve yüksek rakım nedeniyle ulaşım ağının yetersizliği"
-  ],
-  "dogru": 3,
-  "aciklama": "Doğu Anadolu Bölgesi'nde seyrek nüfusun açıklamaları arasında uzun ve sert kışlar, kısa tarım sezonu, dağlık ve engebeli arazi, yetersiz ulaşım altyapısı, sanayinin gelişmemişliği sayılabilir. Ancak 'delta ovalarının bulunmaması' gerekçesi hem doğru değil hem de belirleyici bir etken değildir. Ağrı ve Muş gibi bölgelerde düzlükler ve platolar mevcuttur; sorun delta ovası eksikliği değil, iklim sertliği ve ekonomik geri kalmışlıktır. Ayrıca Türkiye'de delta ovalarının nüfus yoğunluğunu belirlemedeki rolü sınırlıdır; bu durum ağırlıklı olarak Akdeniz ve Ege'ye özgüdür.",
   "zorluk": "zor"
  },
  {
@@ -16413,22 +15901,6 @@
   ],
   "dogru": 1,
   "aciklama": "Karadeniz'de dağlar kıyıya paralel ve kıyıya çok yakın uzanır. Bu yapı, kıyı ovalarının dar ve kesintili kalmasına yol açar. Arazinin büyük bölümü eğimli ve engebelidir; bu da makineli tarımı ve geniş tarla oluşturmayı zorlaştırır. Yüksek nem ise bazı ürünlerin yetiştirilmesini sınırlar. Bu açıklama, yer şekli, iklim ve ulaşım etkenlerini birlikte ele aldığı için en kapsamlı olanıdır. \"Bölgenin tamamında çok yoğun orman örtüsü bulunduğundan tarıma açılacak alan kalmamaktadır\" seçeneği abartılıdır; orman örtüsü yaygındır ancak bölgenin tamamını kaplamaz ve asıl neden engebedir. \"Aşırı nem bütün bitkilerde hastalığa yol açtığından\" görüşü de yanlıştır; bölgede çay ve fındık gibi ürünler yoğun biçimde yetiştirilir. Doğru cevap \"Dağların kıyıya paralel uzanması, iç kesimlere geçişi engellemekte ve kıyı ovalarını daraltmakta\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "33095",
-  "dersId": "cografya",
-  "konuId": "bolgeler_cografyasi",
-  "soru": "Türkiye'nin yedi bölgesi nüfus yoğunluğuna göre sıralandığında, en kalabalıktan en seyreğe doğru ilk iki ve son iki bölgenin doğru sıralandığı seçenek hangisidir?",
-  "secenekler": [
-   "İlk iki: Marmara, Ege – Son iki: Doğu Anadolu, İç Anadolu",
-   "İlk iki: Marmara, Akdeniz – Son iki: Güneydoğu Anadolu, Doğu Anadolu",
-   "İlk iki: Marmara, Karadeniz – Son iki: Doğu Anadolu, İç Anadolu",
-   "İlk iki: Marmara, Ege – Son iki: Doğu Anadolu, Güneydoğu Anadolu",
-   "İlk iki: Marmara, İç Anadolu – Son iki: Karadeniz, Doğu Anadolu"
-  ],
-  "dogru": 0,
-  "aciklama": "Türkiye'de nüfus yoğunluğu bölgesel sıralamada Marmara Bölgesi açık arayla birinci, Ege Bölgesi ikinci konumdadır. En seyrek nüfusa sahip bölgeler ise Doğu Anadolu (olumsuz doğal koşullar, yüksek irtifa) ve İç Anadolu'dur. Güneydoğu Anadolu, iklim olumsuzluklarına karşın tarihsel yerleşim ve GAP'ın etkisiyle görece yüksek doğal nüfus artış hızı nedeniyle daha kalabalıktır.",
   "zorluk": "zor"
  },
  {

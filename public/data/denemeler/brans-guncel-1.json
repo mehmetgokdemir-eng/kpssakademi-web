@@ -25,7 +25,8 @@
       "GÖKTÜRK programı Türk Silahlı Kuvvetleri ile ilgisi olmayan sivil bir projedir"
      ],
      "dogru": 1,
-     "aciklama": "GÖKTÜRK-1 ve GÖKTÜRK-2, Türkiye'nin savunma amaçlı yüksek çözünürlüklü yersel gözlem (EO - Electro-Optical) uydusu programıdır. Bu uydular uzaydan yüksek çözünürlüklü görüntü alarak askeri ve sivil izleme işlevleri görür. A yanlıştır; haberleşme amacıyla değil, gözlem amacıyla üretilmiştir. C yanlıştır; uydular yabancı roketlerle fırlatılmıştır. D yanlıştır; kullanım alanı çok daha kapsamlıdır. E yanlıştır; program Savunma Sanayii Başkanlığı (SSB) koordinasyonunda TSK için yürütülmüştür."
+     "aciklama": "GÖKTÜRK-2 (2012) ve GÖKTÜRK-1 (2016), Türkiye'nin yüksek çözünürlüklü optik yer gözlem uydularıdır; keşif, gözetleme ve haritalama gibi alanlarda görüntü sağlar. Program Milli Savunma Bakanlığı ve Türk Silahlı Kuvvetleri ihtiyaçlarına yöneliktir. \"GÖKTÜRK uyduları haberleşme amaçlı olarak tasarlanmıştır\" ifadesi yanlıştır, çünkü haberleşme uyduları TÜRKSAT serisidir. \"GÖKTÜRK uyduları yalnızca tarımsal amaçlı arazi izleme için kullanılmaktadır\" ifadesi de yanlıştır; uyduların asıl amacı askerî ve stratejik gözlemdir. Ayrıca uydular yabancı fırlatma hizmetleriyle yörüngeye çıkarılmıştır. Doğru cevap \"GÖKTÜRK-1 ve GÖKTÜRK-2, yüksek çözünürlüklü görüntüleme kapasitesine sahip gözlem uydularıdır\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "36408",
@@ -35,9 +36,9 @@
      "secenekler": [
       "Çatalhöyük, M.Ö. 8000 yılına tarihlenen ve dünyanın en eski bilinen kenti unvanını taşıdığı gerekçesiyle 1985'te UNESCO listesine alınmıştır.",
       "Nemrut Dağı, M.Ö. 1. yüzyılda Kommagene Krallığı döneminde yapılan anıtsal heykelleriyle 1987'de UNESCO listesine girmiş; sit alanlarının korunması konusundaki yetersiz denetim ise uluslararası eleştirilere konu olmuştur.",
-      "İstanbul'un tarihi alanları 1985'te UNESCO Dünya Mirası Listesi'ne alınmış; bu tescil yalnızca Ayasofya, Topkapı Sarayı ve Sultanahmet Camii'ni kapsamaktadır.",
+      "İstanbul'un tarihî alanları 1985'te UNESCO Dünya Mirası Listesi'ne alınmış; bu tescil yalnızca Ayasofya, Topkapı Sarayı ve Sultanahmet Camii'ni kapsamaktadır.",
       "Türkiye'deki UNESCO Dünya Mirası alanlarının tamamı kültürel miras statüsünde olup doğal miras statüsünde tescil edilmiş herhangi bir alan bulunmamaktadır.",
-      "Divriği Ulu Camii ve Darüşşifası, karma miras (kültürel-doğal) statüsüyle 1985'te UNESCO listesine girmiş; bu yapının özgün mimarisi Selçuklu dönemine aittir."
+      "Divriği Ulu Camii ve Darüşşifası, karma miras (kültürel-doğal) statüsüyle 1985 yılında UNESCO listesine girmiş; bu yapının özgün taş işçiliği ve anıtsal mimarisi Selçuklu dönemine aittir. Yapı, bu statüyle listeye giren tek Anadolu eseridir."
      ],
      "dogru": 1,
      "aciklama": "Nemrut Dağı, Kommagene Krallığı'nın kurucusu Antiokhos I dönemine ait devasa heykelleri ve tümülüsüyle 1987 yılında UNESCO Dünya Mirası Listesi'ne alınmıştır. Sit alanının korunması ve kaçak kazıların önlenmesi konusundaki yetersiz denetim zaman zaman uluslararası kamuoyunda gündeme gelmektedir. İstanbul'un tarihi alanları yalnızca sayılan yapıları değil, Boğazkesen gibi geniş bir coğrafyayı kapsar. Türkiye'nin doğal miras alanı bulunmaktadır (Hierapolis-Pamukkale karma statüde, Göreme karma statüde). Çatalhöyük 2012'de listeye alınmıştır. Divriği karma değil kültürel miras statüsündedir.",
@@ -67,7 +68,7 @@
      "secenekler": [
       "Merkez bankalarının faiz artırımlarına bağlı olarak döviz kurlarının değer kazanmasıyla ithal enflasyonun düşmesi",
       "İşçilerin artan enflasyona karşı yüksek ücret talep etmesi, bunun işletme maliyetlerini ve fiyatları artırması, artan fiyatların ise yeniden ücret baskısı yaratması döngüsü",
-      "Reel ücretlerin enflasyonun altında kalmasıyla birlikte toplam talebin düşmesi ve deflasyon riskinin ortaya çıkması",
+      "Reel ücretlerin enflasyonun altında kalmasıyla birlikte toplam talebin belirgin biçimde düşmesi ve buna bağlı olarak deflasyon riskinin ortaya çıkması ve fiyatlar genel düzeyinin gerilemesi",
       "Faiz oranlarının yükselmesinin konut piyasasını daraltarak genel tüketimi baskılaması",
       "Kamu harcamalarının genişlemesiyle özel sektör yatırımlarının dışlanması (crowding out) olgusu"
      ],
@@ -88,7 +89,7 @@
       "mRNA'nın protein sentezi tamamlandıktan sonra genomik DNA'ya entegre olmasını kolaylaştırmak"
      ],
      "dogru": 0,
-     "aciklama": "mRNA molekülleri negatif yüklüdür ve hücre zarı da negatif yüklü olduğundan elektrostatik itme nedeniyle mRNA hücre içine girememektedir. Bunun yanı sıra mRNA, kanda ve hücre dışı ortamda bulunan RNaz enzimleri tarafından hızla parçalanmaktadır. Lipid nanopartiküller, iyonize edilebilir lipidler sayesinde mRNA'yı sararak hem negatif yükü nötralize eder hem de enzimatik bozunmadan korur, endozom kaçışını kolaylaştırarak mRNA'nın sitozoldeki ribozomlara ulaşmasını sağlar. B seçeneği yanlıştır çünkü mRNA çekirdeğe girmez; protein sentezi sitoplazmada gerçekleşir. D seçeneği retrovirüslere özgü bir mekanizmadır ve mRNA aşıları genomik DNA'ya entegre olmaz.",
+     "aciklama": "mRNA negatif yüklü, büyük ve hidrofilik bir moleküldür; aynı şekilde negatif yüklü hücre zarından kendi başına geçemez. Ayrıca kanda ve dokularda RNaz enzimleri tarafından hızla parçalanır. Lipid nanopartiküller, iyonlaşabilen lipitleri sayesinde mRNA'yı kapsüller, onu enzimatik yıkımdan korur, hücreye endositozla girmesine yardım eder ve endozomdan kaçışla sitozole salınmasını sağlar. Protein sentezi ribozomlarda sitozolde gerçekleşir. \"mRNA'nın hücre içine alındıktan sonra ribozomlara ulaşmadan önce çekirdeğe girmesini sağlamak\" seçeneği yanlıştır, çünkü mRNA çekirdeğe gitmez ve çeviri sitozolde yapılır. \"mRNA'nın protein sentezi tamamlandıktan sonra genomik DNA'ya entegre olmasını kolaylaştırmak\" seçeneği de yanlıştır, çünkü mRNA genoma entegre olmaz ve LNP'nin amacı bu değildir. Doğru cevap \"Negatif yüklü ve enzimatik açıdan instabil mRNA'yı hücre zarından geçirerek sitozole ulaştırmak\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -119,8 +120,8 @@
       "%3",
       "%12"
      ],
-     "dogru": 0,
-     "aciklama": "Türkiye'de 2022 yılında yapılan yasal değişiklikle seçim barajı %10'dan %7'ye, ardından 2023 seçimleri öncesinde %5'e indirilmiştir. Günümüzde uygulamada olan baraj %7'dir. (Not: Soru KPSS güncelliği açısından değerlendirilmeli; 2023 itibarıyla %7 uygulanmıştır.)",
+     "dogru": 1,
+     "aciklama": "2022'de yapılan değişiklikle ülke seçim barajı %10'dan %7'ye indirilmiştir, %5 değildir. Doğru cevap %7 şeklindedir.",
      "zorluk": "kolay"
     },
     {
@@ -147,27 +148,28 @@
      "secenekler": [
       "Yapay zekâ algoritmalarının yalnızca kapalı sistemlerde çalışabilmesi",
       "Yapay zekâ sistemlerinin internet bağlantısı olmadan çalışamaması",
-      "Yapay zekânın hatalı sonuç ürettiğinde sistemi otomatik olarak kapatması",
+      "Yapay zekânın hatalı sonuç ürettiğini fark ettiğinde sistemi otomatik olarak kapatması ve kullanıcıya uyarı göndermesi durumudur",
       "Makine öğrenmesi modellerinin yalnızca siyah-beyaz veri işleyebilmesi",
       "Derin öğrenme modellerinin nasıl bir sonuca ulaştığının insan tarafından anlaşılmasının güç olması"
      ],
      "dogru": 4,
-     "aciklama": "Kara kutu problemi, özellikle derin sinir ağlarında modelin milyonlarca parametresi arasındaki ilişkilerin son derece karmaşık olması nedeniyle modelin bir çıktıya hangi süreçten geçerek ulaştığının insanlar tarafından anlaşılmasının güç ya da imkânsız olmasını ifade eder. Bu durum, tıp, hukuk ve finans gibi kararların şeffaf olması gereken alanlarda ciddi etik sorunlara yol açmaktadır. Bu sorunu çözmek için 'Açıklanabilir Yapay Zekâ (XAI - Explainable AI)' araştırmaları yürütülmektedir."
+     "aciklama": "Kara kutu problemi, özellikle derin sinir ağlarında modelin milyonlarca parametresi arasındaki ilişkilerin son derece karmaşık olması nedeniyle modelin bir çıktıya hangi süreçten geçerek ulaştığının insanlar tarafından anlaşılmasının güç ya da imkânsız olmasını ifade eder. Bu durum, tıp, hukuk ve finans gibi kararların şeffaf olması gereken alanlarda ciddi etik sorunlara yol açmaktadır. Bu sorunu çözmek için 'Açıklanabilir Yapay Zekâ (XAI - Explainable AI)' araştırmaları yürütülmektedir.",
+     "zorluk": "orta"
     },
     {
-     "id": "36398",
+     "id": "36426",
      "dersId": "guncel",
      "konuId": "kultur_sanat_spor",
-     "soru": "Aşağıdaki eşleştirmelerden hangisi 'yapıt – sanatçı – akım' bütünlüğü açısından yanlıştır?",
+     "soru": "Dünya spor tarihinde 'doping' olgusunun kurumsal düzeyde ele alınma süreci incelendiğinde, aşağıdaki ifadelerden hangisi bu tarihin doğru ve eksiksiz bir okumasını yansıtmaktadır?",
      "secenekler": [
-      "'Huzur' romanı – Ahmet Hamdi Tanpınar – Toplumcu gerçekçilik",
-      "'İnce Memed' romanı – Yaşar Kemal – Yeni Türk edebiyatının epik geleneği",
-      "'Kuyucaklı Yusuf' romanı – Sabahattin Ali – Toplumcu gerçekçilik",
-      "'Çalıkuşu' romanı – Halide Edib Adıvar – Milli Edebiyat akımı",
-      "Sarayburnu Konseri (1934) – Mustafa Kemal Atatürk'ün girişimiyle – Türk müziğinin modernleşme politikası"
+      "Kanlı çorap skandalı olarak bilinen olay, WADA'nın kurulmasına doğrudan yol açan başlıca etkendir.",
+      "Türkiye, WADA'nın kurucu üyeleri arasında yer almakta ve oy hakkına sahip yönetim kurulu üyesi konumundadır.",
+      "Ben Johnson'ın 1988 Seul Olimpiyatları'ndaki altın madalyasının geri alınması, dopingin kamuoyunda geniş çaplı farkındalık yaratmasında dönüm noktası olmuştur.",
+      "WADA, uluslararası spor federasyonlarından tamamen bağımsız biçimde yalnızca hükümetler tarafından finanse edilmekte ve yönetilmekte; federasyonların karar süreçlerinde hiçbir temsil hakkı bulunmamaktadır.",
+      "Dünya Anti-Doping Ajansı (WADA), 1984 Los Angeles Olimpiyatları'nda yaşanan kapsamlı doping skandalının ardından kurulmuştur."
      ],
-     "dogru": 0,
-     "aciklama": "'Huzur' (1949), Ahmet Hamdi Tanpınar'ın en olgun yapıtlarından biridir; ancak Tanpınar toplumcu gerçekçilik akımıyla değil, Doğu-Batı sentezi, zaman felsefesi ve psikolojik derinlik ekseninde değerlendirilen 'saf edebiyat' ya da 'estetizm' geleneğiyle ilişkilendirilir. Toplumcu gerçekçilik Sabahattin Ali, Orhan Kemal ve Fakir Baykurt gibi isimlerle anılır; Tanpınar bu çizgiden hem estetik hem ideolojik açıdan uzak durmuştur.",
+     "dogru": 2,
+     "aciklama": "Ben Johnson, 1988 Seul Olimpiyatları'nda 100 metreyi dünya rekoruyla kazandı. Birkaç gün sonra doping testi pozitif çıktı ve altın madalyası geri alındı. Olay dünya basınında çok geniş yankı buldu ve dopingin spor kamuoyunun öncelikli sorunlarından biri olarak görülmesinde dönüm noktası sayılır. Dünya Anti-Doping Ajansı (WADA) ise 1999'da, 1998 Tour de France doping olayının ardından kurulmuştur. Bu nedenle \"1984 Los Angeles\" gerekçesi yanlıştır. WADA'nın yalnızca hükümetlerce finanse edilip yönetildiğini söyleyen ifade de yanlıştır, çünkü kurul hem hükümetlerin hem de olimpik spor hareketinin temsilcilerinden oluşur. Doğru cevap \"Ben Johnson'ın 1988 Seul Olimpiyatları'ndaki altın madalyasının geri alınması\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -187,19 +189,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "36194",
+     "id": "36197",
      "dersId": "guncel",
      "konuId": "uluslararasi_guncel",
-     "soru": "ABD'nin 2023'te Çin menşeli ürünlere uyguladığı ek gümrük tarifelerinin genişletilmesi ve CHIPS Act kapsamında yarı iletken üretimine verilen sübvansiyonlar birlikte değerlendirildiğinde, bu politika bütününün WTO'nun hangi temel ilkesiyle doğrudan çeliştiği ve ABD'nin bunu meşrulaştırmak için hangi WTO istisnasına başvurduğu doğru eşleştirilmiştir?",
+     "soru": "NATO'nun 2023 Vilnius Zirvesi'nde Ukrayna'ya üyelik konusunda verilen karara ilişkin aşağıdaki değerlendirmelerden hangisi analitik açıdan en isabetlidir?",
      "secenekler": [
-      "Gümrük bağlayıcılığı ilkesi — GATT Madde XIX korunma önlemleri",
-      "Şeffaflık ilkesi — GATS Madde XIV genel istisnalar",
-      "En fazla gözetilen ulus (MFN) ilkesi — GATT Madde XXI ulusal güvenlik istisnası",
-      "Gelişmekte olan ülkelere özel ve farklı muamele — Doha taahhütleri",
-      "Ulusal muamele ilkesi — GATT Madde XX genel istisnalar"
+      "Ukrayna tam üyeliğe kabul edilmiş, Rusya ise Madde 5'in işletilmemesi karşılığında ateşkes teklifini iletmiştir.",
+      "NATO, Ukrayna'ya Madde 5 yerine Madde 4 kapsamında kolektif savunma taahhüdü vererek özgün bir 'ortak üye' statüsü yaratmıştır.",
+      "Ukrayna üyeliği bloke eden Macaristan ve Türkiye'nin vetosuna takılmış, zirve bu konuda herhangi bir karar almadan sona ermiştir.",
+      "Ukrayna, Madde 5 güvencelerinden doğrudan yararlanmak üzere hızlandırılmış katılım sürecine alınmış; bu karar Rusya ile doğrudan çatışma riskini artırdığı gerekçesiyle üye devletlerin bir bölümünce eleştirilmiştir.",
+      "Ukrayna'ya üyelik için Üyelik Eylem Planı (MAP) şartı kaldırılmış, ancak aktif çatışma koşulunda üyelik ertelenmiş; bu karar hem açık davet hem de belirsiz zaman çizelgesi nedeniyle eleştirilmiştir."
      ],
-     "dogru": 2,
-     "aciklama": "ABD'nin Çin'e yönelik seçici tarifeleri, aynı ürün için farklı ülkelere farklı tarife uygulamasını yasaklayan MFN (En Fazla Gözetilen Ulus) ilkesini çiğnemektedir. Washington ise bu politikayı GATT Madde XXI'in 'ulusal güvenlik' istisnası altında meşrulaştırmaktadır. Yarı iletken sübvansiyonları da ulusal güvenlik söylemiyle çerçevelenmiştir. WTO Temyiz Organı'nın işlevsiz olması bu ihlallerin yaptırımsız kalmasına yol açmaktadır.",
+     "dogru": 4,
+     "aciklama": "Vilnius Zirvesi'nde NATO, Ukrayna için MAP şartını kaldırmış ve Ukrayna'nın 'geleceğinin NATO'da olduğunu' teyit etmiştir. Ancak üyelik için somut bir tarih verilmemiş; aktif savaş sürduğü sürece katılımın gerçekleşmeyeceği zımni olarak kabul görmüştür. Bu yaklaşım, hem Ukrayna ve bazı Doğu Avrupalı müttefikler (tam davet bekliyordu) hem de ABD ve Almanya (bağlayıcı taahhütten kaçınılmasını isteyen) tarafından eleştirilmiştir. 'MAP'sız ama tarihsiz' formülü zirvede yaşanan temel gerilimi yansıtmaktadır.",
      "zorluk": "zor"
     },
     {
@@ -231,7 +233,8 @@
       "Boks"
      ],
      "dogru": 0,
-     "aciklama": "Türkiye, olimpiyat tarihinde en fazla altın madalyayı güreş branşında kazanmıştır. Yaşar Doğu, Ahmet Kireçci, Hamza Yerlikaya, Rıza Kayaalp gibi dünya çapında tanınan güreşçilerle bu alan Türk olimpizmine en büyük katkıyı sağlamıştır. Halter de Naim Süleymanoğlu ve Halil Mutlu gibi isimlerle güçlü bir geçmişe sahip olsa da güreşteki altın madalya sayısı daha fazladır."
+     "aciklama": "Türkiye, olimpiyat tarihinde en fazla altın madalyayı güreş branşında kazanmıştır. Yaşar Doğu, Ahmet Kireçci, Hamza Yerlikaya, Rıza Kayaalp gibi dünya çapında tanınan güreşçilerle bu alan Türk olimpizmine en büyük katkıyı sağlamıştır. Halter de Naim Süleymanoğlu ve Halil Mutlu gibi isimlerle güçlü bir geçmişe sahip olsa da güreşteki altın madalya sayısı daha fazladır.",
+     "zorluk": "orta"
     },
     {
      "id": "36050",
@@ -246,7 +249,8 @@
       "Cumhurbaşkanına aittir; TBMM'ye karşı sorumludurlar"
      ],
      "dogru": 3,
-     "aciklama": "2017 Anayasa değişiklikleriyle kurulan Cumhurbaşkanlığı hükûmet sisteminde Cumhurbaşkanı yardımcıları ve bakanlar, doğrudan Cumhurbaşkanı tarafından atanır ve görevden alınır. Bu kişiler yalnızca Cumhurbaşkanına karşı sorumlu olup TBMM'ye karşı siyasi sorumlulukları bulunmamaktadır; TBMM'nin güvensizlik oyu yetkileri ortadan kalkmıştır."
+     "aciklama": "2017 Anayasa değişiklikleriyle kurulan Cumhurbaşkanlığı hükûmet sisteminde Cumhurbaşkanı yardımcıları ve bakanlar, doğrudan Cumhurbaşkanı tarafından atanır ve görevden alınır. Bu kişiler yalnızca Cumhurbaşkanına karşı sorumlu olup TBMM'ye karşı siyasi sorumlulukları bulunmamaktadır; TBMM'nin güvensizlik oyu yetkileri ortadan kalkmıştır.",
+     "zorluk": "orta"
     },
     {
      "id": "36157",
@@ -261,7 +265,8 @@
       "Arjantin, BRICS üyeliğini kabul etmiş; ancak Brezilya ile yaşanan diplomatik kriz nedeniyle 2024 zirvesine katılamamıştır."
      ],
      "dogru": 3,
-     "aciklama": "Arjantin, Aralık 2023 seçimlerinde Javier Milei'nin iktidara gelmesiyle köklü bir dış politika değişikliği yaşamıştır. Liberal-libertaryen çizgide ekonomi politikası benimseyen Milei hükümeti, BRICS üyeliğini reddederek Batı yanlısı ve özellikle ABD ile yakın ilişkilere öncelik veren bir çizgide ilerlemeyi tercih etmiştir. Bu karar, Arjantin'in BRICS davetini geri çeviren somut gerekçedir."
+     "aciklama": "Arjantin, Aralık 2023 seçimlerinde Javier Milei'nin iktidara gelmesiyle köklü bir dış politika değişikliği yaşamıştır. Liberal-libertaryen çizgide ekonomi politikası benimseyen Milei hükümeti, BRICS üyeliğini reddederek Batı yanlısı ve özellikle ABD ile yakın ilişkilere öncelik veren bir çizgide ilerlemeyi tercih etmiştir. Bu karar, Arjantin'in BRICS davetini geri çeviren somut gerekçedir.",
+     "zorluk": "orta"
     },
     {
      "id": "36284",
@@ -276,22 +281,23 @@
       "Endüstriyel otomasyon ve uzaktan cerrahi gibi alanlarda kullanım potansiyeli"
      ],
      "dogru": 1,
-     "aciklama": "5G teknolojisi gerçekten düşük gecikme süresi, yüksek hız ve yoğun cihaz bağlantısı gibi avantajlar sunar. Ancak 5G, uydu internet erişimini 'tamamen ortadan kaldırmaz'; uydu tabanlı internet sistemleri (Starlink gibi) kırsal ve erişimi zor alanlarda kullanımını sürdürmektedir. İki teknoloji birbirini ikame etmek yerine tamamlayıcı nitelik taşımaktadır."
+     "aciklama": "5G teknolojisi gerçekten düşük gecikme süresi, yüksek hız ve yoğun cihaz bağlantısı gibi avantajlar sunar. Ancak 5G, uydu internet erişimini 'tamamen ortadan kaldırmaz'; uydu tabanlı internet sistemleri (Starlink gibi) kırsal ve erişimi zor alanlarda kullanımını sürdürmektedir. İki teknoloji birbirini ikame etmek yerine tamamlayıcı nitelik taşımaktadır.",
+     "zorluk": "orta"
     },
     {
-     "id": "36365",
+     "id": "36346",
      "dersId": "guncel",
      "konuId": "kultur_sanat_spor",
-     "soru": "Aşağıdaki kitaplardan hangisi Orhan Pamuk'a Nobel Edebiyat Ödülü'nü kazandıran eserler arasında değildir?",
+     "soru": "Türkiye'de yayın hayatına başlayan ilk özel televizyon kanalı aşağıdakilerden hangisidir?",
      "secenekler": [
-      "İstanbul – Hatıralar ve Şehir",
-      "Benim Adım Kırmızı",
-      "Masumiyet Müzesi",
-      "Tutunamayanlar",
-      "Kar"
+      "Show TV",
+      "Kanal D",
+      "Star TV",
+      "TRT 2",
+      "ATV"
      ],
-     "dogru": 3,
-     "aciklama": "Tutunamayanlar, Orhan Pamuk'a değil Oğuz Atay'a aittir. Oğuz Atay'ın bu romanı, Türk edebiyatının önemli eserlerinden biri olarak kabul edilir. Orhan Pamuk 2006 yılında Nobel Edebiyat Ödülü'nü kazanmıştır.",
+     "dogru": 2,
+     "aciklama": "Türkiye'de ilk özel televizyon yayıncılığı, 1990 yılında Star TV (o dönemki adıyla Magic Box Star 1) ile başlamıştır. Bu kanal, TRT'nin devlet tekeline son veren özel yayıncılığın öncüsüdür.",
      "zorluk": "kolay"
     },
     {
@@ -371,7 +377,8 @@
       "Milli Savunma Bakanlığı Tedarik Dairesi"
      ],
      "dogru": 1,
-     "aciklama": "Savunma Sanayii Başkanlığı (SSB), 2017 yılında yürürlüğe giren Cumhurbaşkanlığı Hükümet Sistemi kapsamında doğrudan Cumhurbaşkanlığı'na bağlanmıştır. SSB; savunma projelerinin planlanması, yerli üreticilerin desteklenmesi ve ihracat koordinasyonunu üstlenen üst kurumdur. ASELSAN ve ROKETSAN ise SSB'ye bağlı savunma şirketleridir."
+     "aciklama": "Savunma Sanayii Başkanlığı (SSB), 2017 yılında yürürlüğe giren Cumhurbaşkanlığı Hükümet Sistemi kapsamında doğrudan Cumhurbaşkanlığı'na bağlanmıştır. SSB; savunma projelerinin planlanması, yerli üreticilerin desteklenmesi ve ihracat koordinasyonunu üstlenen üst kurumdur. ASELSAN ve ROKETSAN ise SSB'ye bağlı savunma şirketleridir.",
+     "zorluk": "orta"
     },
     {
      "id": "36172",
@@ -386,7 +393,8 @@
       "Uluslararası Göç Örgütü (IOM) – New York"
      ],
      "dogru": 4,
-     "aciklama": "Uluslararası Göç Örgütü'nün (IOM) genel merkezi New York'ta değil, İsviçre'nin Cenevre şehrinde bulunmaktadır. IOM, 2016 yılında BM ile ilişkili kuruluş statüsü kazanmıştır. Diğer eşleştirmeler doğrudur: ILO-Cenevre, IMO-Londra, UAEA-Viyana, WCO-Brüksel."
+     "aciklama": "Uluslararası Göç Örgütü'nün (IOM) genel merkezi New York'ta değil, İsviçre'nin Cenevre şehrinde bulunmaktadır. IOM, 2016 yılında BM ile ilişkili kuruluş statüsü kazanmıştır. Diğer eşleştirmeler doğrudur: ILO-Cenevre, IMO-Londra, UAEA-Viyana, WCO-Brüksel.",
+     "zorluk": "orta"
     },
     {
      "id": "36210",
@@ -417,7 +425,8 @@
       "Halit Refiğ"
      ],
      "dogru": 0,
-     "aciklama": "Metin Erksan, 'Susuz Yaz' (1963) filmiyle 1964 Berlin Film Festivali'nde Altın Ayı kazanmıştır. Bu ödül, Türk sinemasının uluslararası arenada kazandığı ilk ve en prestijli ödüllerden biridir. Yılmaz Güney ise 'Yol' filmiyle 1982 Cannes Film Festivali'nde Altın Palmiye'ye değer görülmüştür; ancak bu sorudaki ödül Berlin'e aittir ve sahibi Metin Erksan'dır."
+     "aciklama": "Metin Erksan, 'Susuz Yaz' (1963) filmiyle 1964 Berlin Film Festivali'nde Altın Ayı kazanmıştır. Bu ödül, Türk sinemasının uluslararası arenada kazandığı ilk ve en prestijli ödüllerden biridir. Yılmaz Güney ise 'Yol' filmiyle 1982 Cannes Film Festivali'nde Altın Palmiye'ye değer görülmüştür; ancak bu sorudaki ödül Berlin'e aittir ve sahibi Metin Erksan'dır.",
+     "zorluk": "orta"
     },
     {
      "id": "36064",
@@ -432,7 +441,8 @@
       "Türkiye, İsrail'i Uluslararası Ceza Mahkemesi'ne şikâyet etmek için girişimlerde bulunan ülkeleri desteklemiştir."
      ],
      "dogru": 2,
-     "aciklama": "Türkiye, BM Güvenlik Konseyi'nin daimi üyesi değildir; Güvenlik Konseyi'nin beş daimi üyesi ABD, Rusya, Çin, İngiltere ve Fransa'dır. Türkiye yalnızca geçici üye sıfatıyla bu konseyde yer alabilmektedir. Diğer şıklardaki bilgiler genel hatlarıyla doğrudur: Türkiye Filistin'i tanımakta, 2024'te İsrail'e yönelik ticari kısıtlamalar uygulamakta ve Hamas'ı terör örgütü saymamaktadır."
+     "aciklama": "Türkiye, BM Güvenlik Konseyi'nin daimi üyesi değildir; Güvenlik Konseyi'nin beş daimi üyesi ABD, Rusya, Çin, İngiltere ve Fransa'dır. Türkiye yalnızca geçici üye sıfatıyla bu konseyde yer alabilmektedir. Diğer şıklardaki bilgiler genel hatlarıyla doğrudur: Türkiye Filistin'i tanımakta, 2024'te İsrail'e yönelik ticari kısıtlamalar uygulamakta ve Hamas'ı terör örgütü saymamaktadır.",
+     "zorluk": "orta"
     },
     {
      "id": "36139",
@@ -457,13 +467,14 @@
      "soru": "Yapay zekada 'derin öğrenme' (deep learning) ile 'makine öğrenimi' (machine learning) arasındaki en temel fark aşağıdakilerden hangisidir?",
      "secenekler": [
       "Derin öğrenme algoritmaları yalnızca denetimli (supervised) öğrenme yöntemiyle çalışır",
-      "Makine öğrenimi çok daha büyük veri setleri gerektirirken derin öğrenme küçük verilerle çalışır",
+      "Makine öğrenimi çok daha büyük veri setleri gerektirirken derin öğrenme oldukça küçük verilerle sorunsuz çalışabilir",
       "Makine öğrenimi yalnızca görüntü verisiyle çalışırken derin öğrenme metin verisiyle çalışır",
       "Makine öğrenimi matematiksel model kullanmaz, derin öğrenme kullanır",
       "Derin öğrenme, öznitelik çıkarımını (feature extraction) otomatik olarak yapan çok katmanlı sinir ağları kullanır"
      ],
      "dogru": 4,
-     "aciklama": "Makine öğreniminde uzmanlar genellikle elle öznitelik mühendisliği (feature engineering) yapmalıdır; yani modele hangi özelliklerin önemli olduğunu söyler. Derin öğrenmede ise çok katmanlı yapay sinir ağları bu öznitelikleri veriden otomatik olarak öğrenir. Bu otomasyon, görüntü ve ses tanıma gibi karmaşık görevlerde büyük başarı sağlamıştır. Diğer seçenekler yanlıştır: derin öğrenme genellikle daha fazla veri gerektirir; hem denetimli hem denetimsiz öğrenme yöntemleri mevcuttur."
+     "aciklama": "Makine öğreniminde uzmanlar genellikle elle öznitelik mühendisliği (feature engineering) yapmalıdır; yani modele hangi özelliklerin önemli olduğunu söyler. Derin öğrenmede ise çok katmanlı yapay sinir ağları bu öznitelikleri veriden otomatik olarak öğrenir. Bu otomasyon, görüntü ve ses tanıma gibi karmaşık görevlerde büyük başarı sağlamıştır. Diğer seçenekler yanlıştır: derin öğrenme genellikle daha fazla veri gerektirir; hem denetimli hem denetimsiz öğrenme yöntemleri mevcuttur.",
+     "zorluk": "orta"
     },
     {
      "id": "36400",
@@ -471,7 +482,7 @@
      "konuId": "kultur_sanat_spor",
      "soru": "Türkiye'de modern tiyatronun kurumsallaşması sürecinde Darülbedayi'nin (İstanbul Şehir Tiyatroları'nın öncülü) kuruluşuna öncülük eden isim ile bu kurumun kuruluş yılı ve ilk yönetmeni arasındaki ilişkiyi doğru veren seçenek hangisidir?",
      "secenekler": [
-      "Darülbedayi 1923'te Cumhuriyet'in ilanıyla eş zamanlı olarak kurulmuş; Muhsin Ertuğrul'un yönetiminde Batılı tiyatro anlayışını Türkiye'ye taşımıştır.",
+      "Darülbedayi 1923'te Cumhuriyet'in ilanıyla eş zamanlı olarak kurulmuş; Muhsin Ertuğrul'un yönetiminde Batılı tiyatro anlayışını Türkiye'ye taşımış ve ilk oyununu aynı yıl sahnelemiştir. Kurumun ilk müdürü de aynı yıl atanmıştır.",
       "Darülbedayi 1914'te kurulmuş; Fransız tiyatro adamı André Antoine'ın katkılarıyla şekillenmiş ve ilk yönetmenliğini Muhsin Ertuğrul yapmıştır.",
       "Darülbedayi, Osmanlı döneminde değil doğrudan Cumhuriyet döneminde kurulmuş olup Ankara Devlet Tiyatrosu ile eş zamanlı faaliyete geçmiştir.",
       "Darülbedayi 1908'de II. Meşrutiyet'in ilanının hemen ardından kurulmuş; ilk yönetmenliğini Namık Kemal üstlenmiştir.",

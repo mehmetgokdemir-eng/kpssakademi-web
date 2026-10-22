@@ -41,7 +41,8 @@
       "Çocuk 5'inci sıraya oturdu."
      ],
      "dogru": 3,
-     "aciklama": "Kesme işareti, özel adlardan ve sayılardan sonra gelen ekleri ayırmak için kullanılır; ancak özel ad niteliği taşımayan sözcüklerde kullanılmaz. D seçeneğinde 'Türk' bir sıfat, 'milletinin' ise buna bağlı bir isimdir; 'Türk' burada özel ad işlevi görmemekte, bu yüzden ek almamaktadır ve kesme işareti gerekmez. A, C, E özel ad; B ise sayı içerdiğinden kesme işareti doğrudur."
+     "aciklama": "Kesme işareti, özel adlara ve sayılara gelen ekleri ayırmak için kullanılır. \"Mehmet'in\", \"İzmir'de\" ve \"Cumhuriyet'in\" özel adlardır, \"5'inci\" ise sayıya gelen ektir; bu yüzden hepsinde kesme işareti doğru kullanılmıştır. \"Türk milletinin tarihi çok eskidir.\" cümlesinde ek özel ada değil, \"millet\" sözcüğüne gelmiştir. \"Türk\" sözcüğü bu cümlede \"millet\" sözcüğünü niteleyen bir sıfattır, bu yüzden kesme işareti kullanılmaz. Doğru cevap \"Türk milletinin tarihi çok eskidir.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "38528",
@@ -56,7 +57,7 @@
       "Anladım ki bu işin içinden çıkmak kolay olmayacak."
      ],
      "dogru": 3,
-     "aciklama": "E seçeneğinde 'Biliyorumki' yanlış yazılmıştır. Bağlaç olan 'ki' her zaman ayrı yazılır (istisnalar: 'belki, çünkü, hâlbuki, meğerki, mademki, oysaki, sanki, çünkü' gibi kalıplaşmış sözcükler). 'Biliyorum ki' biçiminde ayrı yazılmalıdır. C seçeneğindeki 'sabahki' ve D seçeneğindeki 'evdeki' ise sıfat yapan '-ki' ekidir ve bu ek sözcüğe bitişik yazılır; bu iki kullanım doğrudur. A ve B seçeneklerindeki 'ki' bağlaç olup doğru biçimde ayrı yazılmıştır. Dolayısıyla hatalı olan E seçeneğidir.",
+     "aciklama": "Bağlaç olan \"ki\" kural olarak kendisinden önceki sözcükten ayrı yazılır. \"Biliyorumki\" sözcüğünde bağlaç bitişik yazılmıştır; doğrusu \"Biliyorum ki\" biçimidir. \"Öyle bir fırsattı ki\" ve \"Anladım ki\" ifadelerinde bağlaç doğru biçimde ayrı yazılmıştır. \"Sabahki toplantıda\" sözcüğündeki \"ki\" ise bağlaç değil, zaman bildiren ek olduğu için bitişik yazılması doğrudur; en çok bu seçenek bağlaç yazımıyla karıştırılır. \"Evdeki\" de aynı şekilde bulunma durumu ekinden sonra gelen ilgi ekidir. Doğru cevap \"Biliyorumki bu söylediklerimi kimse ciddiye almayacak.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -72,7 +73,8 @@
       "Karşıtlık-ödün"
      ],
      "dogru": 4,
-     "aciklama": "'Ne kadar… sa da / se de' yapısı, beklenen bir sonucun gerçekleşmeyeceğini gösteren karşıtlık-ödün (kabul-ret) ilişkisi kurar. Burada 'ne kadar okursan da' beklenilir bir sonuç (anlamak) doğurması gerekirken bu sonucun gerçekleşmeyeceği vurgulanmıştır. Bu, koşulun yerine getirilmesine karşın sonucun oluşmaması anlamıyla karşıtlık-ödün ilişkisidir."
+     "aciklama": "'Ne kadar… sa da / se de' yapısı, beklenen bir sonucun gerçekleşmeyeceğini gösteren karşıtlık-ödün (kabul-ret) ilişkisi kurar. Burada 'ne kadar okursan da' beklenilir bir sonuç (anlamak) doğurması gerekirken bu sonucun gerçekleşmeyeceği vurgulanmıştır. Bu, koşulun yerine getirilmesine karşın sonucun oluşmaması anlamıyla karşıtlık-ödün ilişkisidir.",
+     "zorluk": "orta"
     },
     {
      "id": "38708",
@@ -135,7 +137,7 @@
       "Hem güler hem ağlar; bu yüzden ne düşündüğünü anlamak güçtür."
      ],
      "dogru": 0,
-     "aciklama": "C seçeneğinde 'hem okur hem de okumaz' yapısı, mantık ilkesi gereği aynı özne için eş zamanlı olarak doğru olamayacak iki durumu bir arada sunmaktadır. 'Hem...hem de' bağlacı iki uyumlu özelliği birleştirmek için kullanılır; birbirini çelişkili biçimde dışlayan iki eylem bu bağlaçla sıralanamaz. A seçeneğindeki 'anlayışlı-sabırsız' karşıtlığı gerçek hayatta bir arada bulunabilir; E seçeneğindeki 'güler-ağlar' ise duygusal çelişkiyi anlatmak için edebi bir kullanım olduğundan bozukluk sayılmaz. Yalnızca C'de yapısal ve mantıksal bozukluk birlikte vardır.",
+     "aciklama": "\"hem ... hem de\" bağlacı iki ögeyi birlikte doğru kabul eder. \"Kitapları hem okur hem de okumaz\" cümlesinde aynı fiilin olumlu ve olumsuz biçimi aynı anda doğruymuş gibi sunulmuştur. Bu iki durum birbirini dışladığı için anlatım bozulmuştur. \"Hem anlayışlı hem de sabırsız\" ifadesinde iki özellik birbirini dışlamaz, bir insanda bir arada bulunabilir. \"Hem güler hem ağlar\" ifadesi ise duygusal bir durumu anlatabilir. \"Ya bu işi kabul eder ya da başka bir çözüm yolu ararsın.\" cümlesinde seçenekli bir bağlama doğru kullanılmıştır. Doğru cevap \"Kitapları hem okur hem de okumaz\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -151,7 +153,7 @@
       "Demek ki estetik yargı, öznel ve kişiden kişiye değişen bir deneyimdir"
      ],
      "dogru": 0,
-     "aciklama": "Boş yerden önce iki somut zıtlık verilmiştir: (1) estetik açıdan değersiz bulunan tablolar yüksek ekonomik değer taşır; (2) estetik açıdan değerli baskılar ekonomik olarak değersizdir. Boş yerden sonra gelen cümle 'bu durum... kurumsal, tarihsel ve ekonomik dinamikler tarafından belirlenir' sonucunu çıkarmaktadır. Boş yere, bu iki özel örneği toparlayan ve sonuca geçişi hazırlayan bir genel gözlem gereklidir. B seçeneği 'estetik değer ile ekonomik değerin örtüşmediğinin çok sayıda örneği mevcuttur' diyerek önceki iki somut durumu genelleştirmekte ve sonraki cümleye zemini hazırlamaktadır. C seçeneği erken bir sonuç cümlesidir ve son cümlenin işlevini çalmaktadır. D seçeneği öznel yargı meselesine kayar, oysa parça bu yönde ilerlememektedir. A ve E seçenekleri parçanın mantık akışının dışında kalmaktadır.",
+     "aciklama": "Paragraf, değerin yalnızca estetikle belirlenip belirlenmediğini sorar. İlk örnek, yüksek fiyatlı yapıtların estetik açıdan değersiz bulunmasıdır. İkinci örnek, estetik açıdan beğenilen eserlerin ekonomik değerinin düşük olmasıdır. Boşluktan sonraki cümle ise 'Bu durum' diyerek öncekileri özetleyip sonuca bağlar. Bu yüzden boşluktaki cümle, iki örnekten çıkan örtüşmeme tablosunu genelleyerek sonuç cümlesine hazırlık yapmalıdır. \"Sanat kurumları hangi eserlerin değerli sayılacağı konusunda belirleyici bir rol üstlenmiştir\" seçeneği yanlıştır; çünkü bu bilgi sonuç cümlesindeki kurumsal etkeni önceden söyleyerek sonucu gereksiz kılar ve örneklerin genellemesi olmaz. \"Demek ki estetik yargı, öznel ve kişiden kişiye değişen bir deneyimdir\" seçeneği de yanlıştır; çünkü paragrafın yönüyle ve sonuç cümlesiyle uyuşmayan yeni bir çıkarım getirir. Doğru cevap \"Estetik değer ile ekonomik değerin örtüşmediği bu tablonun çok sayıda örneği mevcuttur\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -167,7 +169,7 @@
       "Toplantıda söz alan Canan, lafı dolandırmadan konuya girdi ve masaya yatırdığı öneriler herkesi şaşırttı."
      ],
      "dogru": 4,
-     "aciklama": "A seçeneğinde 'lafı dolandırmamak' (doğrudan, dolaysız konuşmak) ve 'masaya yatırmak' (bir konuyu tartışmaya açmak, gündeme getirmek) deyimlerinin her ikisi de doğru ve uygun bağlamlarda kullanılmıştır. B seçeneğinde 'dili tutulmak' doğru ama 'çuvaldızı başkasına batırmak' deyimi, normalde 'iğneyi kendine batır, çuvaldızı başkasına' biçiminde kullanılır; B'deki bağlam bu anlamı tersine çevirmektedir. C seçeneğinde 'yüz gözü açık' gibi bir deyim Türkçede standart olarak kullanılmaz. D seçeneğinde 'gözünü boyamak' yanlış özneyle kullanılmıştır; başarısı gözünü boyayamaz, kişi boyar. E seçeneğinde 'dizlerini döğmek' pişmanlık anlatır; bağlamda çözüm arayışıyla çelişmektedir.",
+     "aciklama": "Bu cümlede iki deyim de doğru anlamda kullanılmıştır. \"Lafı dolandırmak\" sözü dolaylı anlatmak demektir; olumsuz biçimiyle Canan'ın doğrudan konuya girdiğini doğru biçimde anlatır. Deyimin olumsuz kullanılması onu deyim olmaktan çıkarmaz. İkinci deyim \"konuya girmek\" değil, \"masaya yatırmak\" deyimidir. Bu deyim bir konuyu ayrıntılı olarak ele alıp incelemek anlamına gelir ve önerilerin tartışmaya açılmasıyla uyumludur. İtirazda öne sürülen cümlede \"yüz üstü bırakmak\" doğru kullanılmıştır, ancak \"dizlerini dövmek\" derin bir pişmanlık duymayı anlatır. Şirketi ayakta tutmak amacıyla pişmanlık duyulmaz, bu yüzden bu deyim yanlış kullanılmıştır. Diğer cümlelerde de \"göz boyamak\", \"dili tutulmak\" ve \"yüzü gözü açık\" gibi deyimler yanlış anlamda geçmektedir. Doğru cevap \"Toplantıda söz alan Canan, lafı dolandırmadan konuya girdi ve masaya yatırdığı öneriler herkesi şaşırttı.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -183,7 +185,8 @@
       "Hastalığı sebebiyle yüzü tutmuyordu, doktora gitmek zorunda kaldı."
      ],
      "dogru": 2,
-     "aciklama": "'Yüzü tutmak' deyimi 'bir şeyi yapmaya cesaret edememek, utanmak, gönlü razı olmamak' anlamına gelir ve olumsuz yapıda kullanılır. B seçeneğinde 'yıllarca sömürdüğü birisinden borç istemeye cesaret edememek' bağlamında deyim doğru ve anlamlı biçimde kullanılmıştır. D seçeneğindeki olumlu kullanım anlam bozukluğu yaratmaktadır."
+     "aciklama": "\"Yüzü tutmamak\", utanma veya çekinme nedeniyle bir isteği dile getirememek, cesaret edememek anlamına gelir. \"Yıllarca sömürdüğü komşusundan borç istemeye yüzü tutmadı.\" cümlesinde kişi, önceki davranışı yüzünden istemeye utanmaktadır; deyim doğru kullanılmıştır. \"Bütün gün çalışmasına rağmen yüzü tutmadı, eve erken döndü.\" cümlesinde anlam bağı kurulamaz; deyim yerinde değildir. \"Yüzü tuttuğu için arkadaşına teşekkür etmedi.\" cümlesi de deyimin anlamına ters düşer, çünkü deyim cesaret kaybını anlatır, nedensiz davranışı değil. Doğru cevap \"Yıllarca sömürdüğü komşusundan borç istemeye yüzü tutmadı.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "39232",
@@ -198,7 +201,7 @@
       "Bugün marketten: ekmek, süt ve yumurta aldım."
      ],
      "dogru": 0,
-     "aciklama": "İki nokta; kendinden sonra açıklama, örnek ya da alıntı gelen cümlelerde kullanılır. B seçeneğinde 'sana bir şey söyleyeyim' ifadesi, açıklanacak bir içeriğin geleceğini haber vermekte ve iki nokta bu açıklamayı doğal biçimde başlatmaktadır. A seçeneğinde 'bugün marketten' ifadesi tamamlanmış bir yargı değildir ve iki nokta gereksizdir; doğrudan sıralama yapılabilir.",
+     "aciklama": "İki nokta, kendisinden sonra açıklama veya örnek getirilecek ifadelerden önce ve bir sözün peşinden başka bir söz gelirken kullanılır. \"Sana bir şey söyleyeyim: bu işi sen yapmalısın.\" cümlesinde iki noktadan sonra, önceki ifadenin açıklaması gelir. Bu kullanım doğrudur. \"Mevsimler: dört tanedir.\" cümlesinde iki noktadan sonra açıklama ya da sıralama yoktur, yüklem hemen gelir. \"Bugün marketten: ekmek, süt ve yumurta aldım.\" cümlesinde ise iki nokta, cümlenin yüklemini ve bütünlüğünü bölmektedir. Bu yüzden her iki kullanım da yanlıştır. Doğru cevap \"Sana bir şey söyleyeyim: bu işi sen yapmalısın.\" seçeneğidir.",
      "zorluk": "kolay"
     },
     {
@@ -230,7 +233,8 @@
       "Herkes onun bu işte tutunabileceğine inanıyordu."
      ],
      "dogru": 4,
-     "aciklama": "A, B, D ve E seçeneklerinin tamamı 'kişinin başarısız olacağına dair genel bir kanı bulunduğu' anlamını taşımakta, birbirini desteklemektedir. C seçeneği ise tam tersi bir anlam taşımakta; 'herkesin onun başarılı olacağına inandığını' belirtmektedir. Bu nedenle C, anlamca diğerlerinden ayrılmaktadır."
+     "aciklama": "Cümlelerin anlamını karşılaştırdığımızda, dört cümlede de kişinin başarılı olamayacağı yönünde olumsuz bir yargı vardır. \"Hiç kimse onu başarılı bulmuyordu.\" ve \"Kimse onun başarılı olacağını düşünmüyordu.\" cümleleri kimsenin ona güvenmediğini anlatır. \"Onun başarısız kalacağı herkesçe bilinir bir gerçekti.\" ile \"Bu işte başarısız olacağını herkes biliyordu.\" cümleleri de aynı beklentiyi dile getirir. Buna karşılık \"Herkes onun bu işte tutunabileceğine inanıyordu.\" cümlesi, herkesin ona güvendiğini söyleyerek tam tersi bir anlam taşır. Doğru cevap \"Herkes onun bu işte tutunabileceğine inanıyordu.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "38660",
@@ -245,7 +249,7 @@
       "3"
      ],
      "dogru": 2,
-     "aciklama": "Cümlede isimler: 'Ahmet' (özel isim) ve 'öğrenci' (cins ismi) olmak üzere 2 isim bulunmaktadır. 'Çalışkan' sıfattır, 'çok' zarftır, 'bir' sayı sıfatıdır. Bu nedenle doğru cevap B) 2'dir.",
+     "aciklama": "Cümle: \"Ahmet, çok çalışkan bir öğrencidir.\" Sözcükleri tek tek inceleyelim. \"Ahmet\" özel isimdir. \"çok\" zarftır. \"çalışkan\" burada \"öğrenci\" adını niteleyen sıfattır. \"bir\" belgisiz sıfattır. \"öğrencidir\" ise isimdir; ek-fiil almış hâlidir. Böylece cümlede iki isim vardır: \"Ahmet\" ve \"öğrencidir\". \"1\" seçeneği yanlıştır, çünkü \"öğrenci\" de isimdir. \"3\" seçeneği yanlıştır, çünkü \"çalışkan\" burada sıfat işlevindedir, isim sayılmaz. Doğru cevap \"2\" seçeneğidir.",
      "zorluk": "kolay"
     },
     {
@@ -293,7 +297,7 @@
       "Ankara, bu konuda kesin kararını henüz açıklamadı."
      ],
      "dogru": 1,
-     "aciklama": "Ad aktarması sanatında bütünle parça, yer adıyla o yerdeki yönetim, araçla onu kullanan kişi gibi ilişkiler kurulur ve bu kullanım akla gelen çağrışımla anlam bulur. A'da 'Ankara' hükümeti, B'de 'salon' izleyicileri, C'de 'raf' kitaplığı/sahibini, D'de 'kalem' yazarlığı/hukuku temsil eder; bunlar yerleşik ve anlaşılır kullanımlardır. E seçeneğinde 'masa' sözcüğü toplantı katılımcılarını temsil etmeye çalışmaktadır; ancak bu çağrışım kültürel ve dilsel bakımdan yerleşmemiş, anlaşılırlık sağlayamamaktadır. Okuyucu 'masanın karara varamaması'nı hangi çerçevede yorumlayacağını kestiremez; bu yüzden bu kullanım sanatsal değil, bozuk bir aktarmadır.",
+     "aciklama": "\"Masa, toplantı boyunca hiçbir karara varamadı.\" cümlesinde \"masa\" sözcüğü bir eşya adı olarak karar verme eylemine özne yapılmıştır. Toplantıdaki kişileri anlatmak için yerleşik bir ad aktarması kalıbı da yoktur. \"Müzakere masası\" gibi bir belirleyici bulunmadığından anlam kayması sanatsal değil kusurludur ve okur kimin karar veremediğini sezmek zorunda kalır. \"Ankara, bu konuda kesin kararını henüz açıklamadı.\" cümlesinde başkent adının hükûmet yerine kullanılması yerleşik bir ad aktarmasıdır. \"Tüm salon, sanatçıyı dakikalarca ayakta alkışladı.\" cümlesinde de salon, içindeki kişileri karşılayan bilinen bir kullanımdır. \"Raf, aylardır yeni bir kitap yüzü görmemişti.\" cümlesi ise bilinçli bir kişileştirmedir; anlatıma canlılık kattığı için bozukluk sayılmaz. Doğru cevap \"Masa, toplantı boyunca hiçbir karara varamadı.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -309,7 +313,7 @@
       "Birinci paragraf sosyolojik bir gerçeği tanımlar, ikinci paragraf bunu tarihsel örneklerle destekler"
      ],
      "dogru": 2,
-     "aciklama": "Birinci paragraf, küreselleşmenin kültürel homojenleşmeye yol açtığına dair eleştirel bir iddia kurmaktadır. İkinci paragraf ise bu iddiayı tamamen çürütmez; 'her zaman örtüşmemektedir' ve 'bazı topluluklar' gibi ifadeler kısmi bir itirazı, yani birinci paragrafın evrensellik iddiasının sınırlarını göstermektedir. C seçeneği bu ilişkiyi en doğru tanımlayandır: 'Eleştirinin sınırlarını gösterir.' A seçeneği yanlış, çünkü ikinci paragraf birinciye itiraz eder, tamamlamaz. B seçeneği yanlış, çünkü ikinci paragraf tam anlamıyla çürütme değil, sınırlama yapar. D seçeneğinde 'tarihsel örnekler' ifadesi yanlış; ikinci paragrafta tarihsel veri değil, genel sosyolojik gözlem vardır. E seçeneğinde paradoks unsuru bulunmamaktadır.",
+     "aciklama": "Birinci paragraf küreselleşmeyi kültürel homojenleşmenin motoru sayarak genel bir eleştiri yapar. İkinci paragraf \"Ne var ki\" ile başlar; küreselleşmenin yerel kimlikleri silmeye mahkûm ettiği savının verilerle her zaman örtüşmediğini ve bazı toplulukların küresel temaslarını kimliklerini güçlendirmek için kullandığını söyler. Yani eleştiriyi tümden reddetmez, geçerlilik alanını sınırlar. \"İddiayı tamamen çürütür\" seçeneği yanlıştır, çünkü ikinci paragraf \"her zaman\" ve \"bazı\" gibi ifadelerle kısmi bir itiraz sunar. Doğru cevap \"Birinci paragraf genel bir eleştiri yapar, ikinci paragraf bu eleştirinin sınırlarını gösterir\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -321,8 +325,8 @@
       "Gerçek bir alışveriş teklifi yaparken",
       "Görünüşte iyi niyetli davranıp aslında işi ciddiye almadığını belirtmek için",
       "Arkadaşlarla alışverişe gitmek istendiğinde",
-      "Alışveriş yaparken pazarlık edilmesi gerektiğini belirtmek için",
-      "Bir ürünün çok pahalı olduğunu anlatmak için"
+      "Alışveriş yaparken mutlaka pazarlık edilmesi gerektiğini belirtmek için ve ucuza almak",
+      "Bir ürünün beklenenden çok daha pahalı olduğunu anlatmak için"
      ],
      "dogru": 1,
      "aciklama": "\"Dostlar alışverişte görsün\" deyimi, yapılan işin göstermelik olduğunu, gerçek bir çaba harcanmadığını anlatmak için kullanılır. Bir işi ciddiye almadan, sadece yapıyormuş gibi görünme durumunu ifade eder.",
@@ -341,7 +345,7 @@
       "Bu işin başından beri şüpheliydim."
      ],
      "dogru": 1,
-     "aciklama": "'Baş rol' ifadesinde 'baş' sözcüğü 'en önemli, birinci sıradaki' anlamında kullanılmıştır. A ve D seçeneklerinde vücudun üst kısmı, B'de 'başlangıç', E'de ise yine vücudun baş kısmı anlamı taşımaktadır.",
+     "aciklama": "Cümlede 'baş' sözcüğü bir ögeyi niteleyerek 'en önemli, birinci derecede' anlamı katmaktadır. 'Baş rol', oyundaki en önemli rol demektir. Bu kullanımda sözcük vücut bölümünü değil, derece ve önem bildirir. \"Başını kaldırıp tavana baktı.\" ve \"Başı dönünce oturmak zorunda kaldı.\" cümlelerinde sözcük vücudun bir parçası olan kafayı anlatır; yani gerçek anlamlıdır. \"Bu işin başından beri şüpheliydim.\" cümlesinde ise 'baş' başlangıç anlamındadır. Doğru cevap \"Baş rolü o oynadı.\" seçeneğidir.",
      "zorluk": "kolay"
     },
     {
@@ -373,7 +377,8 @@
       "Onu bir türlü affedip bırakamadım."
      ],
      "dogru": 2,
-     "aciklama": "E seçeneğinde 'vazgeçmek' sözcüğü 'vazgeç mek' biçiminde yanlış olarak ayrı yazılmıştır. 'Vazgeçmek' sözcüğü 'vaz' ve 'geçmek' bileşenlerinden oluşan bir birleşik fiildir ve bitişik yazılması gerekir. TDK kurallarına göre kalıplaşmış birleşik fiiller bitişik yazılır: 'vazgeçmek, hoşgörmek, reddetmek' gibi. A'da 'çözemedim' (çöz + eme + di + m) doğru çekim; B'de 'yardım ettim' yardımcı fiille kurulan birleşik fiil, ayrı yazımı doğru; C'de 'zorundayım' bitişik, doğru; D'de 'affedip' ve 'bırakamadım' ayrı iki fiil, doğru yazılmıştır."
+     "aciklama": "Türkçede \"vazgeçmek\" tek sözcükten oluşan bir fiildir ve çekim eki olan \"-mek\" kökten ayrı yazılmaz. Cümledeki \"vazgeç mek\" yazımı bu nedenle yanlıştır; doğrusu \"vazgeçmek\" biçimindedir. Öteki cümleler doğrudur: \"Bu soruyu çözemedim.\" cümlesinde yeterlik fiili ekle kurulmuştur, \"Arkadaşıma yardım ettim.\" cümlesinde \"yardım etmek\" ayrı yazılan bir birleşik fiildir ve \"Onu bir türlü affedip bırakamadım.\" cümlesinde \"-ip\" ekli tekrar/devam bildiren yapı doğru yazılmıştır. Doğru cevap \"Seni uyarıp durmaktan vazgeç mek istedim.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "38112",
@@ -388,7 +393,7 @@
       "Öğrenciye ödevi verdi."
      ],
      "dogru": 2,
-     "aciklama": "C seçeneğinde 'acı vermek' ifadesi 'acıya neden olmak, acı çektirmek' anlamında kullanılmış olup 'vermek' fiili temel anlamından (bir şeyi birine uzatmak) uzaklaşmıştır. Diğer seçeneklerde fiil temel anlamıyla kullanılmıştır.",
+     "aciklama": "'Vermek' fiilinin temel anlamı, bir nesneyi bir kişiye veya yere teslim etmektir. Hediye, anahtar, kitap ve ödev verildiği cümlelerde somut bir nesne el değiştirir. \"Bu haber bana büyük acı verdi.\" cümlesinde ise verilen şey somut bir nesne değil bir duygudur. Haber, acının oluşmasına sebep olmuştur. Fiil burada 'neden olmak, yol açmak' anlamını kazanmıştır. \"Öğrenciye ödevi verdi.\" cümlesi en çok karıştırılan seçenektir. Ancak ödev, teslim edilen bir görevdir ve eylem temel anlamına yakın kalır. Doğru cevap \"Bu haber bana büyük acı verdi.\" seçeneğidir.",
      "zorluk": "kolay"
     },
     {
@@ -462,13 +467,13 @@
      "soru": "Aşağıdaki parçanın ana düşüncesi hangisidir?\n\n'Nostalji, kaybedilmiş bir geçmişe duyulan özlem olarak tanımlanır. Ama gerçekte özlem duyduğumuz geçmiş, hiç var olmamış olabilir. Bellek seçici çalışır; acıları siler, güzellikleri büyütür. Çocukluğumuzu ya da gençliğimizi özlemle andığımızda, o dönemin nesnel gerçekliğini değil; zihnimizin o gerçekliği nasıl yeniden kurduğunu arzularız. Nostalji, geçmişe değil, geçmişin idealleştirilmiş kurgusuna yönelir.'",
      "secenekler": [
       "İnsan, geçmişini her zaman olduğundan daha mutlu bir dönem olarak algılar.",
-      "Belleğin seçici işleyişi, insanın geçmişini doğru değerlendirmesini engeller.",
+      "Belleğin seçici biçimde işlemesi, insanın kendi geçmişini doğru değerlendirmesini engeller ve geçmişi olduğu gibi hatırlamasını güçleştirir.",
       "Nostaljinin yöneldiği nesne, yaşanmış gerçeklik değil; onun zihinsel olarak idealleştirilmiş biçimidir.",
       "Nostalji, psikolojik bir savunma mekanizması olarak geçmişi korur.",
       "Nostaljinin kaynağı, bireyin içinde bulunduğu mevcut mutsuzluktur."
      ],
      "dogru": 2,
-     "aciklama": "Parçanın kurucu argümanı şudur: nostalji geçmişe yöneliyor gibi görünse de asıl olarak zihnin o geçmişi nasıl kurduğuna yönelik bir özlemdir; dolayısıyla nesnesi gerçek geçmiş değil, idealleştirilmiş bir kurgudur. Bu saptama parçanın son cümlesinde açıkça formüle edilmiştir. C seçeneği bu ana düşünceyi en doğru ve kapsamlı biçimde karşılamaktadır. A seçeneği yalnızca bellek mekanizmasına değinerek nostaljinin özüne ulaşmamaktadır. D seçeneği doğru bir gözlemi yansıtsa da 'idealleştirilmiş kurgu' vurgusunu içermemektedir. E seçeneği ise parçada hiç ele alınmayan bir nedensellik bağı kurmaktadır.",
+     "aciklama": "Yazar nostaljiyi tanımlayıp sorgular. Özlenen geçmişin hiç var olmamış olabileceğini söyler. Bellek seçici çalışarak acıları siler, güzellikleri büyütür. Bu yüzden özlenen şey dönemin nesnel gerçekliği değil, zihnin onu yeniden kurma biçimidir. Son cümle bunu özetler: nostalji, geçmişin idealleştirilmiş kurgusuna yönelir. \"İnsan, geçmişini her zaman olduğundan daha mutlu bir dönem olarak algılar.\" seçeneği \"her zaman\" ifadesiyle aşırı genelleme yapar ve parçanın vurgusunu, yani özlemin nesnesini kaçırır. \"Nostaljinin kaynağı, bireyin içinde bulunduğu mevcut mutsuzluktur.\" seçeneği ise parçada hiç geçmeyen bir neden iddiasıdır. Doğru cevap \"Nostaljinin yöneldiği nesne, yaşanmış gerçeklik değil; onun zihinsel olarak idealleştirilmiş biçimidir.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -484,7 +489,7 @@
       "'Boş teneke çok ses çıkarır.' diyen müdür, az konuşan ama çok üreten çalışanını ödüllendirdi."
      ],
      "dogru": 4,
-     "aciklama": "'Boş teneke çok ses çıkarır' atasözü, bilgisi ve birikimi az olan, içi boş kimselerin çok konuştuğunu, gösterişli davrandığını; ama gerçek değerin sessiz sedasız çalışan kişilerde bulunduğunu vurgular. Bu atasözü, söylem ve eylem arasındaki uçurumu en iyi eleştiren seçenektir. C ve E seçeneklerindeki ifadeler ise susmayı erdem olarak sunan atasözleridir ve sorulan anlamla örtüşmez.",
+     "aciklama": "\"Boş teneke çok ses çıkarır\" atasözü, bilgisi ya da emeği az olan kişinin çok konuşup gösteriş yaptığını, sözle eylemin örtüşmediğini eleştirir. Seçilen cümlede müdür bu sözü söyleyip az konuşan ama çok üreten çalışanı ödüllendirmektedir; böylece atasözü hem içeriğiyle hem de bağlamıyla sorudaki anlamı karşılar. \"Lafın güzeli kötüsü olmaz\" güzel konuşmayı över, eleştirmez. \"İşleyen demir ışıldar\" çalışmanın değerini anlatır. \"Söz gümüşse sükût altındır\" ve \"Konuşmak gümüş, susmak altındır\" sözleri ise susmanın değerini vurgular ve söylem ile eylem arasındaki uçurumu eleştirmez. Doğru cevap \"'Boş teneke çok ses çıkarır.' diyen müdür, az konuşan ama çok üreten çalışanını ödüllendirdi.\" seçeneğidir.",
      "zorluk": "zor"
     }
    ]

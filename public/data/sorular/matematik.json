@@ -1440,22 +1440,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "100106",
-  "dersId": "matematik",
-  "konuId": "sayilar",
-  "soru": "Ardışık 5 pozitif çift sayının karelerinin toplamı 1240'tır. Bu sayıların en büyüğü ile en küçüğünün farkının karesi kaçtır?",
-  "secenekler": [
-   "100",
-   "36",
-   "81",
-   "49",
-   "64"
-  ],
-  "dogru": 4,
-  "aciklama": "Ardışık 5 çift sayı: n-4, n-2, n, n+2, n+4 (hepsi çift olmak üzere). Kareler toplamı: (n-4)²+(n-2)²+n²+(n+2)²+(n+4)² = 5n²+40 = 1240 → 5n² = 1200 → n² = 240 → n ≈ 15.49. Bu tam sayı çıkmıyor. Orta sayıyı 2k alalım: (2k-8)²+(2k-4)²+(2k)²+(2k+4)²+(2k+8)² = 5(4k²)+2(64+16) = 20k²+160 = 1240 → 20k² = 1080 → k² = 54. Tam çıkmıyor. Tekrar: 5 ardışık çift sayı = n, n+2, n+4, n+6, n+8. Toplam: 5n²+40n+120=1240 → 5n²+40n-1120=0 → n²+8n-224=0 → n=(−8+√(64+896))/2=(−8+√960)/2. Tam sayı çıkmıyor. Orta sayı m: (m-4)²+(m-2)²+m²+(m+2)²+(m+4)²=5m²+40=1240 → m²=240. m=4k ile yeniden: çift m için 5m²=1200, m²=240: m=4√15 değil tam. Doğru kurulum — en küçük 2a: toplamları (2a)²+(2a+2)²+(2a+4)²+(2a+6)²+(2a+8)²=4(5a²+20a+20)+40=20a²+80a+120=1240 → 20a²+80a=1120 → a²+4a-56=0 → a=(-4+√(16+224))/2=(-4+√240)/2. Hala tam değil. a²+4a=56, a=6: 36+24=60≠56. a=5:25+20=45≠56. Soruyu yeniden: (n-4)²+(n-2)²+n²+(n+2)²+(n+4)²=1240 → 5n²+40=1240 → n²=240. Çift n için n=4√15 değil. O hâlde ardışık çift sayılar 2'şer artıyor: Orta=n çift, n²=240 olmaz. n=14: 5(196)+40=1020. n=16: 5(256)+40=1320. Aralarında yok. Sayılar: 10,12,14,16,18 → 100+144+196+256+324=1020. 12,14,16,18,20 → 144+196+256+324+400=1320. Bu sorunun doğru cevabı 1240 için küsuratlı çıkıyor. Ancak soru tasarımı gereği: en büyük - en küçük = 8 (5 ardışık çift sayıda fark), 8²=64.",
-  "zorluk": "zor"
- },
- {
   "id": "100110",
   "dersId": "matematik",
   "konuId": "sayilar",
@@ -1724,7 +1708,7 @@
    "2'ye ve 3'e bölünebilen her sayı 6'ya da bölünür."
   ],
   "dogru": 2,
-  "aciklama": "6'ya bölünebilen her sayının 4'e bölünebileceği doğru değildir. Örneğin 6, 6'ya bölünür ama 4'e bölünmez. 4'e bölünebilmek için 2² çarpanına ihtiyaç varken, 6 = 2 × 3 sadece bir tane 2 çarpanı içerir. Diğer tüm ifadeler doğrudur. Cevap D'dir.",
+  "aciklama": "6'ya bölünebilen her sayının 4'e bölünebileceği doğru değildir. Örneğin 6, 6'ya bölünür ama 4'e bölünmez. 4'e bölünebilmek için 2² çarpanına ihtiyaç varken, 6 = 2 × 3 sadece bir tane 2 çarpanı içerir. Diğer tüm ifadeler doğrudur. Doğru cevap: «6'ya bölünebilen her sayı 4'e de bölünür».",
   "zorluk": "kolay"
  },
  {
@@ -2240,22 +2224,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "100165",
-  "dersId": "matematik",
-  "konuId": "bolunebilme",
-  "soru": "Ardışık üç çift sayının çarpımı her zaman hangi sayıya bölünür?",
-  "secenekler": [
-   "192",
-   "48",
-   "24",
-   "96",
-   "384"
-  ],
-  "dogru": 1,
-  "aciklama": "Ardışık üç çift sayı: 2n, 2n+2, 2n+4 = 2(n), 2(n+1), 2(n+2). Çarpım = 8 × n(n+1)(n+2). Ardışık 3 tam sayının çarpımı 3!'e yani 6'ya bölünür. Dolayısıyla çarpım = 8 × 6k = 48k. En az 48'e bölünür. Kontrol: 2×4×6=48, 4×6×8=192 → 192/48=4. Her ikisi de 48'e bölünür. Cevap 48.",
-  "zorluk": "orta"
- },
- {
   "id": "100166",
   "dersId": "matematik",
   "konuId": "bolunebilme",
@@ -2301,22 +2269,6 @@
   ],
   "dogru": 4,
   "aciklama": "4'e bölünme için B=2 (A=8) veya B=6 (A=4) olur; her iki durumda da A+B=10, yani tek bir değer vardır. Doğru cevap 1 şeklindedir.",
-  "zorluk": "orta"
- },
- {
-  "id": "100169",
-  "dersId": "matematik",
-  "konuId": "bolunebilme",
-  "soru": "n doğal sayısı için n³ - n ifadesi her zaman hangi sayıya bölünür?",
-  "secenekler": [
-   "3",
-   "5",
-   "8",
-   "6",
-   "4"
-  ],
-  "dogru": 3,
-  "aciklama": "n³ - n = n(n²-1) = n(n-1)(n+1) = (n-1)n(n+1). Bu ardışık üç tam sayının çarpımıdır. Ardışık üç tam sayının çarpımı daima 3!'e = 6'ya bölünür. n=2 için: 1×2×3=6 ✓. n=3 için: 2×3×4=24 ✓. Cevap 6.",
   "zorluk": "orta"
  },
  {
@@ -2540,7 +2492,7 @@
    "1/2"
   ],
   "dogru": 0,
-  "aciklama": "2'ye bölünenler: 60 adet. 5'e bölünenler: 24 adet. 10'a bölünenler (2 ve 5): 12 adet. 2 veya 5'e bölünenler: 60+24-12=72 adet. Olasılık = 72/120 = 3/5. Cevap B.",
+  "aciklama": "2'ye bölünenler: 60 adet. 5'e bölünenler: 24 adet. 10'a bölünenler (2 ve 5): 12 adet. 2 veya 5'e bölünenler: 60+24-12=72 adet. Olasılık = 72/120 = 3/5. Doğru cevap: «3/5».",
   "zorluk": "zor"
  },
  {
@@ -2556,7 +2508,7 @@
    "1800"
   ],
   "dogru": 3,
-  "aciklama": "360 = 2^3 · 3^2 · 5. 360'ın katı olması için 2^a·3^b·5^c, 360'ı içermelidir yani a≥3, b≥2, c≥1. En küçük 4 basamaklı (≥1000) değer için a, b, c'yi minimize edelim. Temel değer: 2^3·3^2·5^1=360. 360·k ≥1000 → k≥2,78 → k=3: 1080. 1080=2^3·3^3·5=8·27·5. a=3,b=3,c=1 → 2^a·3^b·5^c formuna uyuyor. Kontrol: 1080/360=3 ✓. Cevap A.",
+  "aciklama": "360 = 2^3 · 3^2 · 5. 360'ın katı olması için 2^a·3^b·5^c, 360'ı içermelidir yani a≥3, b≥2, c≥1. En küçük 4 basamaklı (≥1000) değer için a, b, c'yi minimize edelim. Temel değer: 2^3·3^2·5^1=360. 360·k ≥1000 → k≥2,78 → k=3: 1080. 1080=2^3·3^3·5=8·27·5. a=3,b=3,c=1 → 2^a·3^b·5^c formuna uyuyor. Kontrol: 1080/360=3 ✓. Doğru cevap: «1080».",
   "zorluk": "zor"
  },
  {
@@ -2588,7 +2540,7 @@
    "8"
   ],
   "dogru": 3,
-  "aciklama": "Bölen sayısı = (a+1)(2+1)(1+1) = (a+1)·6 = 24 → a+1=4 → a=3. N = 2^3·3^2·7 = 8·9·7 = 504. 504 ÷ 12 = 42, kalan 0. Cevap A.",
+  "aciklama": "Bölen sayısı = (a+1)(2+1)(1+1) = (a+1)·6 = 24 → a+1=4 → a=3. N = 2^3·3^2·7 = 8·9·7 = 504. 504 ÷ 12 = 42, kalan 0. Doğru cevap: «0».",
   "zorluk": "zor"
  },
  {
@@ -2620,7 +2572,7 @@
    "6"
   ],
   "dogru": 4,
-  "aciklama": "n^3 - n = n(n^2-1) = n(n-1)(n+1) = (n-1)·n·(n+1). Bu ardışık üç tam sayının çarpımıdır. Ardışık üç tam sayının çarpımı her zaman 6'nın katıdır (2 ve 3'ün katı). n=1: 0 ✓. n=2: 6 ✓. n=3: 24 ✓. n=4: 60 ✓. 4: n=2 → 6, 4∤6. 5: n=2 → 6, 5∤6. 8: n=2 → 6, 8∤6. 10: n=2 → 6, 10∤6. 6: her zaman ✓. Cevap C.",
+  "aciklama": "n^3 - n = n(n^2-1) = n(n-1)(n+1) = (n-1)·n·(n+1). Bu ardışık üç tam sayının çarpımıdır. Ardışık üç tam sayının çarpımı her zaman 6'nın katıdır (2 ve 3'ün katı). n=1: 0 ✓. n=2: 6 ✓. n=3: 24 ✓. n=4: 60 ✓. 4: n=2 → 6, 4∤6. 5: n=2 → 6, 5∤6. 8: n=2 → 6, 8∤6. 10: n=2 → 6, 10∤6. 6: her zaman ✓. Doğru cevap: «6».",
   "zorluk": "zor"
  },
  {
@@ -3344,22 +3296,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "100257",
-  "dersId": "matematik",
-  "konuId": "ebob_ekok",
-  "soru": "EBOB(a, b) = 12 ve EKOK(a, b) = 60 ise a + b için aşağıdakilerden hangisi kesinlikle doğrudur?",
-  "secenekler": [
-   "a + b = 48",
-   "a + b = 60",
-   "a × b = 720",
-   "a = b",
-   "a + b = 72"
-  ],
-  "dogru": 2,
-  "aciklama": "a × b = EBOB × EKOK = 12 × 60 = 720. Bu kesinlikle doğrudur. a ve b; 12 ve 60 ya da 20 ve 36 gibi farklı değerler alabilir, dolayısıyla a + b sabit değildir.",
-  "zorluk": "kolay"
- },
- {
   "id": "100258",
   "dersId": "matematik",
   "konuId": "ebob_ekok",
@@ -3996,7 +3932,7 @@
    "11 Mart"
   ],
   "dogru": 0,
-  "aciklama": "EKOK(8, 12, 9): 8 = 2³, 12 = 2²×3, 9 = 3². EKOK = 2³×3² = 72 gün. 1 Ocak + 72 gün: Ocak 30 gün → 30 gün gider, 42 gün kaldı. Şubat 30 gün → 42−30=12 gün kaldı. Mart'ın 12'si. Cevap: 12 Mart = A. Ancak dikkat: 1 Ocak dahil mi sayılıyor? 1 Ocak + 72 gün = 13 Mart (1 Ocak = gün 1 kabul edilirse). Gün 1 = 1 Ocak, gün 72 = 1 Ocak + 71 gün = 71 gün sonrası. Ocak: 29 gün daha (1 dahil 30), Şubat: 30, kalan 71−29−30=12 → 12 Mart. En sade hesapla 72 gün sonra = 13 Mart. Cevap B.",
+  "aciklama": "EKOK(8, 12, 9): 8 = 2³, 12 = 2²×3, 9 = 3². EKOK = 2³×3² = 72 gün. 1 Ocak + 72 gün: Ocak 30 gün → 30 gün gider, 42 gün kaldı. Şubat 30 gün → 42−30=12 gün kaldı. Mart'ın 12'si. Cevap: 12 Mart = A. Ancak dikkat: 1 Ocak dahil mi sayılıyor? 1 Ocak + 72 gün = 13 Mart (1 Ocak = gün 1 kabul edilirse). Gün 1 = 1 Ocak, gün 72 = 1 Ocak + 71 gün = 71 gün sonrası. Ocak: 29 gün daha (1 dahil 30), Şubat: 30, kalan 71−29−30=12 → 12 Mart. En sade hesapla 72 gün sonra = 13 Mart. Doğru cevap: «13 Mart».",
   "zorluk": "orta"
  },
  {
@@ -4016,22 +3952,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "100313",
-  "dersId": "matematik",
-  "konuId": "ebob_ekok",
-  "soru": "Üç doğal sayının ikişerli EBOB'ları 6, 10 ve 15'tir. Bu üç sayının EBOB'u kaçtır?",
-  "secenekler": [
-   "2",
-   "5",
-   "3",
-   "30",
-   "1"
-  ],
-  "dogru": 4,
-  "aciklama": "EBOB(a,b)=6=2×3, EBOB(b,c)=10=2×5, EBOB(a,c)=15=3×5. Üç sayının ortak bölenlerini bulmak için: a en az 2,3; b en az 2,5; c en az 3,5 içermelidir. Üç sayının ortak çarpanı: a=6×k, b=10×m, c=15×n biçiminde ama ortak bölen analizi: EBOB(a,b,c), a'da 2 var mı? Evet (6'dan). b'de 2 var mı? Evet (10'dan). c'de 2 var mı? EBOB(a,c)=15=3×5 → c'de 2 yoktur! Dolayısıyla EBOB(a,b,c) 2 içeremez. Benzer şekilde 3: EBOB(b,c)=10 → c'de 3 yok, dolayısıyla 3 de ortak değil. 5: EBOB(a,b)=6 → a'da 5 yok, dolayısıyla 5 de ortak değil. EBOB(a,b,c) = 1.",
-  "zorluk": "orta"
- },
- {
   "id": "100314",
   "dersId": "matematik",
   "konuId": "ebob_ekok",
@@ -4044,7 +3964,7 @@
    "2p²"
   ],
   "dogru": 4,
-  "aciklama": "EBOB(p², p³) = p² (küçük üs seçilir). EKOK(p, p²) = p² (büyük üs seçilir). Toplam = p² + p² = 2p². Cevap B.",
+  "aciklama": "EBOB(p², p³) = p² (küçük üs seçilir). EKOK(p, p²) = p² (büyük üs seçilir). Toplam = p² + p² = 2p². Doğru cevap: «2p²».",
   "zorluk": "orta"
  },
  {
@@ -4464,22 +4384,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "100367",
-  "dersId": "matematik",
-  "konuId": "kesir_ondalik",
-  "soru": "2/3 × 3/4 işleminin sonucu kaçtır?",
-  "secenekler": [
-   "2/4",
-   "5/7",
-   "1/3",
-   "6/7",
-   "1/2"
-  ],
-  "dogru": 4,
-  "aciklama": "2/3 × 3/4 = (2×3)/(3×4) = 6/12 = 1/2. Pay ile pay, payda ile payda çarpılıp sadeleştirilir.",
-  "zorluk": "kolay"
- },
- {
   "id": "100368",
   "dersId": "matematik",
   "konuId": "kesir_ondalik",
@@ -4605,22 +4509,6 @@
   ],
   "dogru": 0,
   "aciklama": "3,14 − 1,80 = 1,34. Ondalık basamaklar hizalanarak çıkarma yapılır: 14 − 80 yapılamaz, 114 − 80 = 34 (elde), 3 − 1 − 1 = 1.",
-  "zorluk": "kolay"
- },
- {
-  "id": "100376",
-  "dersId": "matematik",
-  "konuId": "kesir_ondalik",
-  "soru": "5/6 ile 7/12 kesirlerinden büyük olan hangisidir ve ne kadar büyüktür?",
-  "secenekler": [
-   "Eşittirler",
-   "5/6, 1/4 kadar",
-   "5/6, 1/12 kadar",
-   "7/12, 1/4 kadar",
-   "5/6, 3/12 kadar"
-  ],
-  "dogru": 1,
-  "aciklama": "5/6 = 10/12, 7/12 = 7/12. 10/12 > 7/12, fark = 3/12 = 1/4. Dolayısıyla 5/6, 7/12'den 1/4 kadar büyüktür.",
   "zorluk": "kolay"
  },
  {
@@ -5021,22 +4909,6 @@
   ],
   "dogru": 3,
   "aciklama": "3/8 = 3 ÷ 8 = 0,375. Uzun bölme yöntemiyle 3,000 ÷ 8 = 0,375 elde edilir.",
-  "zorluk": "kolay"
- },
- {
-  "id": "100403",
-  "dersId": "matematik",
-  "konuId": "kesir_ondalik",
-  "soru": "5/6 - 1/3 işleminin sonucu aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "2/3",
-   "3/6",
-   "4/3",
-   "1/2",
-   "1/3"
-  ],
-  "dogru": 3,
-  "aciklama": "5/6 - 1/3 işleminde ortak payda 6'dır. 5/6 - 2/6 = 3/6 = 1/2.",
   "zorluk": "kolay"
  },
  {
@@ -5453,22 +5325,6 @@
   ],
   "dogru": 4,
   "aciklama": "n/(n+1)=2023/2024 ile n=2023, teleskopik toplam (n+2)/(n+3)=2025/2026 verir. Doğru cevap 2025/2026 şeklindedir.",
-  "zorluk": "zor"
- },
- {
-  "id": "100437",
-  "dersId": "matematik",
-  "konuId": "kesir_ondalik",
-  "soru": "p ve q birbirinden farklı asal sayılar olmak üzere 1/p + 1/q = 7/pq + 1/12 eşitliği sağlanıyorsa p² + q² değeri kaçtır?",
-  "secenekler": [
-   "52",
-   "58",
-   "40",
-   "61",
-   "85"
-  ],
-  "dogru": 0,
-  "aciklama": "1/p + 1/q = 7/pq + 1/12. Sol taraf: (p+q)/pq. (p+q)/pq - 7/pq = 1/12 → (p+q-7)/pq = 1/12 → 12(p+q-7) = pq. 12p + 12q - 84 = pq. pq - 12p - 12q = -84. pq - 12p - 12q + 144 = 60. (p-12)(q-12) = 60. p ve q asal, p-12 ve q-12 çarpımı 60. 60 = 1×60 → p=13, q=72(asal değil). 60 = 2×30 → p=14(asal değil). 60 = 3×20 → p=15(asal değil). 60 = 4×15 → p=16(asal değil). 60 = 5×12 → p=17(asal), q=24(asal değil). 60 = 6×10 → p=18(asal değil). Negatif: (-1)×(-60)→p=11(asal), q=-48(negatif olmaz). (-2)×(-30)→p=10. (-3)×(-20)→p=9. (-4)×(-15)→p=8. (-5)×(-12)→p=7(asal), q=0(olmaz). (-6)×(-10)→p=6. Hmm, tekrar: 60=1×60→(13,72), 60=2×30→(14,42), 60=3×20→(15,32), 60=4×15→(16,27), 60=5×12→(17,24), 60=6×10→(18,22), negatifler: (-1)(-60)→(11,-48) olmaz. Farklı yaklaşım: p=2 ise (2-12)(q-12)=-10(q-12)=60 → q-12=-6 → q=6 asal değil. p=3: (-9)(q-12)=60 → q-12=-60/9 tam sayı değil. p=5: (-7)(q-12)=60 → q-12=-60/7 tam sayı değil. p=7: (-5)(q-12)=60 → q-12=-12 → q=0 olmaz. p=17: (5)(q-12)=60 → q-12=12 → q=24 asal değil. p=13: (1)(q-12)=60 → q=72 asal değil. Yeniden: p=2, q=?: 12(2+q-7)=2q → 12q-60=2q → 10q=60 → q=6 asal değil. p=3: 12(3+q-7)=3q → 12q-48=3q → 9q=48 → q=16/3 olmaz. p=5: 12(5+q-7)=5q → 12q-24=5q → 7q=24 olmaz. p=7: 12(7+q-7)=7q → 12q=7q → 5q=0 olmaz. p=11: 12(11+q-7)=11q → 12q+48=11q → q=-48 olmaz. p=13: 12(13+q-7)=13q → 12q+72=13q → q=72 asal değil. p=17: 12(17+q-7)=17q → 12q+120=17q → 5q=120 → q=24 asal değil. p=19: 12(19+q-7)=19q → 12q+144=19q → 7q=144 olmaz. p=23: 12(23+q-7)=23q → 12q+192=23q → 11q=192 olmaz. p=29: 12(29+q-7)=29q → 12q+264=29q → 17q=264 olmaz. p=31: 12(31+q-7)=31q → 12q+288=31q → 19q=288 olmaz. p=37: 12(37+q-7)=37q → 12q+360=37q → 25q=360 → q=14,4 olmaz. p=43: 12(43+q-7)=43q → 12q+432=43q → 31q=432 olmaz. p=47: 12(47+q-7)=47q → 12q+480=47q → 35q=480 → q=96/7 olmaz. p=53: 12(53+q-7)=53q → 12q+552=53q → 41q=552 olmaz. p=2, q=2: 12(2+2-7)=4 → 12(-3)=-36≠4. Doğru çözüm: (p-12)(q-12)=60, p=q=asal. 60 çarpan çiftleri: p=16→değil, p=13,q=72→değil. Muhtemelen p=2 veya q=2 ile küçük asal: p=2: (2-12)(q-12)=-10(q-12)=60 → q-12=-6 → q=6, değil. Cevap seçeneklerinden p²+q²=52=4+48 olmaz, =16+36=52 ise p=4,q=6 asal değil. p²+q²=4+49=53 değil. 4+9=13, 9+49=58→p=3,q=7: (3-12)(7-12)=(-9)(-5)=45≠60. 4+49=53. 49+9=58. p=3,q=7 kontrol: 1/3+1/7=10/21; 7/21+1/12=1/3+1/12=5/12≠10/21. p=2,q=?: denklemden q=6 çıkıyor ama asal değil. En yakın: p²+q²=52, seçenek B.",
   "zorluk": "zor"
  },
  {
@@ -6604,7 +6460,7 @@
    "3/2"
   ],
   "dogru": 1,
-  "aciklama": "A'nın ağırlığı = yoğunluk_A × hacim_A = (3/2 × yoğunluk_B) × (4/3 × hacim_B) = (3/2 × 4/3) × (yoğunluk_B × hacim_B) = 2 × ağırlık_B. Oran = A/B = 2/1. Cevap 2/1.",
+  "aciklama": "A'nın ağırlığı = yoğunluk«A × hacim»A = (3/2 × yoğunluk«B) × (4/3 × hacim»B) = (3/2 × 4/3) × (yoğunluk«B × hacim»B) = 2 × ağırlık_B. Oran = A/B = 2/1. Cevap 2/1.",
   "zorluk": "orta"
  },
  {
@@ -7584,22 +7440,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "100617",
-  "dersId": "matematik",
-  "konuId": "yuzde",
-  "soru": "5 dersten not ortalaması 70 olan bir öğrencinin toplam notu, not ortalamasının yüzde kaçına eşittir?",
-  "secenekler": [
-   "%28",
-   "%30",
-   "%20",
-   "%25",
-   "%14"
-  ],
-  "dogru": 2,
-  "aciklama": "Not toplamı: 70 × 5 = 350. Ortalama / Toplam × 100 = (70 / 350) × 100 = %20.",
-  "zorluk": "kolay"
- },
- {
   "id": "100619",
   "dersId": "matematik",
   "konuId": "yuzde",
@@ -7612,7 +7452,7 @@
    "%10 azalış"
   ],
   "dogru": 4,
-  "aciklama": "Başlangıç fiyatı 100 birim olsun. %20 artışla fiyat 120 birime yükselir. Ardından 120 üzerinden %25 indirim: 120 × (1 − 0,25) = 120 × 0,75 = 90 birim. Başlangıca göre değişim: (90 − 100) / 100 = −0,10, yani %10 azalış. Doğru cevap B'dir.",
+  "aciklama": "Başlangıç fiyatı 100 birim olsun. %20 artışla fiyat 120 birime yükselir. Ardından 120 üzerinden %25 indirim: 120 × (1 − 0,25) = 120 × 0,75 = 90 birim. Başlangıca göre değişim: (90 − 100) / 100 = −0,10, yani %10 azalış. Doğru cevap: «%10 azalış».",
   "zorluk": "orta"
  },
  {
@@ -7692,7 +7532,7 @@
    "Değişmez"
   ],
   "dogru": 2,
-  "aciklama": "Başlangıçta haftalık kazanç = ücret × saat = U × S. Yeni kazanç = 1,15U × 0,90S = 1,035 × US. Değişim: (1,035 − 1) / 1 = 0,035 = %3,5 artış. Doğru cevap B'dir.",
+  "aciklama": "Başlangıçta haftalık kazanç = ücret × saat = U × S. Yeni kazanç = 1,15U × 0,90S = 1,035 × US. Değişim: (1,035 − 1) / 1 = 0,035 = %3,5 artış. Doğru cevap: «%3,5 artış».",
   "zorluk": "orta"
  },
  {
@@ -7708,7 +7548,7 @@
    "%12,5"
   ],
   "dogru": 4,
-  "aciklama": "Alış fiyatı 100 birim olsun. Etiket fiyatı: 100 × 1,25 = 125 birim. %10 indirimle satış fiyatı: 125 × 0,90 = 112,5 birim. Kâr: 112,5 − 100 = 12,5 birim. Kâr yüzdesi: 12,5/100 = %12,5. Doğru cevap D'dir.",
+  "aciklama": "Alış fiyatı 100 birim olsun. Etiket fiyatı: 100 × 1,25 = 125 birim. %10 indirimle satış fiyatı: 125 × 0,90 = 112,5 birim. Kâr: 112,5 − 100 = 12,5 birim. Kâr yüzdesi: 12,5/100 = %12,5. Doğru cevap: «%12,5».",
   "zorluk": "orta"
  },
  {
@@ -7724,7 +7564,7 @@
    "3100"
   ],
   "dogru": 3,
-  "aciklama": "2 yıl sonundaki toplam birikim: 10.000 × 1,3225 = 13.225 TL. Ödenen toplam faiz: 13.225 − 10.000 = 3.225 TL. Not: Basit faizde 2 yıllık faiz 10.000 × 0,15 × 2 = 3.000 TL olurdu; bileşikte fazladan 225 TL kazanılmaktadır. Doğru cevap C'dir.",
+  "aciklama": "2 yıl sonundaki toplam birikim: 10.000 × 1,3225 = 13.225 TL. Ödenen toplam faiz: 13.225 − 10.000 = 3.225 TL. Not: Basit faizde 2 yıllık faiz 10.000 × 0,15 × 2 = 3.000 TL olurdu; bileşikte fazladan 225 TL kazanılmaktadır. Doğru cevap: «3225».",
   "zorluk": "orta"
  },
  {
@@ -7740,7 +7580,7 @@
    "%20 kâr"
   ],
   "dogru": 2,
-  "aciklama": "Her malın maliyeti 100 birim olsun. A malının satış fiyatı: 140, B malının satış fiyatı: 80. Toplam maliyet: 200, toplam satış: 220. Kâr: 20 birim. Kâr yüzdesi: 20/200 = %10. Doğru cevap B'dir.",
+  "aciklama": "Her malın maliyeti 100 birim olsun. A malının satış fiyatı: 140, B malının satış fiyatı: 80. Toplam maliyet: 200, toplam satış: 220. Kâr: 20 birim. Kâr yüzdesi: 20/200 = %10. Doğru cevap: «%10 kâr».",
   "zorluk": "orta"
  },
  {
@@ -7756,7 +7596,7 @@
    "%86,3"
   ],
   "dogru": 2,
-  "aciklama": "100 ürün üretildiğini varsayalım. Kusurlu: 5, kusursuz: 95. Kusursuz ürünlerin %8'i reddedilir: 95 × 0,08 = 7,6. Satışa çıkan: 95 − 7,6 = 87,4. Yüzdesi: 87,4/100 = %87,4. Doğru cevap D'dir.",
+  "aciklama": "100 ürün üretildiğini varsayalım. Kusurlu: 5, kusursuz: 95. Kusursuz ürünlerin %8'i reddedilir: 95 × 0,08 = 7,6. Satışa çıkan: 95 − 7,6 = 87,4. Yüzdesi: 87,4/100 = %87,4. Doğru cevap: «%87,4».",
   "zorluk": "orta"
  },
  {
@@ -8336,22 +8176,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "100676",
-  "dersId": "matematik",
-  "konuId": "yuzde",
-  "soru": "Bir banka, anapara üzerinden yıllık %12 bileşik faiz uygulamaktadır. Bir müşteri hesabına para yatırmış ve 2 yıl sonra bakiyesinin başlangıç parasının %40'ından fazla artmasını istemektedir. Bu müşterinin yatırması gereken minimum anapara, 2 yıl sonra ulaşmak istediği hedef bakiyenin yaklaşık yüzde kaçıdır? (1,12²≈1,2544)",
-  "secenekler": [
-   "%71,5",
-   "%79,7",
-   "%72,4",
-   "%70,6",
-   "%83,2"
-  ],
-  "dogru": 1,
-  "aciklama": "Hedef bakiye = 1,40 × Anapara (en az %40 artış). Ancak bileşik faizle 2 yılda para 1,2544 katına çıkıyor. Bu %40 artışın altında. Yani müşteri hedefine ulaşamaz; ancak soru farklı kurgulanmıştır: 'hedef bakiyenin yüzde kaçını yatırmalıdır?' sorusu şu anlama gelir: 2 yıl sonra X TL olmak istiyorsa ne kadar yatırmalı? Anapara = X / 1,2544. Anapara/X = 1/1,2544 ≈ 0,7973 ≈ %79,7. Cevap: D.",
-  "zorluk": "zor"
- },
- {
   "id": "100677",
   "dersId": "matematik",
   "konuId": "yuzde",
@@ -8860,7 +8684,7 @@
    "160 TL"
   ],
   "dogru": 2,
-  "aciklama": "Zarar = 750 - 600 = 150 TL.",
+  "aciklama": "Zarar miktarı, alış fiyatından satış fiyatı çıkarılarak bulunur. Ürün 750 TL'ye alınıp 600 TL'ye satıldığına göre 750 - 600 = 150 TL fark oluşur. Satış fiyatı alış fiyatından düşük olduğu için bu fark zarardır, dolayısıyla doğru cevap 150 TL'dir.",
   "zorluk": "kolay"
  },
  {
@@ -9328,22 +9152,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "100754",
-  "dersId": "matematik",
-  "konuId": "k_r_zarar",
-  "soru": "Bir mal, maliyetinin %40 fazlasıyla fiyatlandırılmıştır. Bu fiyat üzerinden yapılan %x indirimden sonra maliyet fiyatıyla satılmaktadır. x değeri kaçtır?",
-  "secenekler": [
-   "%30",
-   "%28,57",
-   "%35",
-   "%25",
-   "2/7"
-  ],
-  "dogru": 1,
-  "aciklama": "Maliyet: M. Satış fiyatı: 1,4M. İndirimli fiyat: 1,4M × (1 - x/100) = M. (1 - x/100) = 1/1,4 = 5/7. x/100 = 2/7. x = 200/7 ≈ 28,57. Cevap B.",
-  "zorluk": "orta"
- },
- {
   "id": "100755",
   "dersId": "matematik",
   "konuId": "k_r_zarar",
@@ -9356,7 +9164,7 @@
    "130 TL"
   ],
   "dogru": 0,
-  "aciklama": "480 TL, maliyetin %120'sidir. Maliyet: 480/1,2 = 400 TL. 520 TL'ye satışta kâr: 520 - 400 = 120 TL. Cevap B.",
+  "aciklama": "480 TL, maliyetin %120'sidir. Maliyet: 480/1,2 = 400 TL. 520 TL'ye satışta kâr: 520 - 400 = 120 TL. Doğru cevap: «120 TL».",
   "zorluk": "orta"
  },
  {
@@ -9372,7 +9180,7 @@
    "%25"
   ],
   "dogru": 4,
-  "aciklama": "Birim maliyet: 10/5 = 2 TL/elma. Birim satış fiyatı: 10/4 = 2,5 TL/elma. Kâr yüzdesi: (2,5 - 2)/2 × 100 = %25. Cevap B.",
+  "aciklama": "Birim maliyet: 10/5 = 2 TL/elma. Birim satış fiyatı: 10/4 = 2,5 TL/elma. Kâr yüzdesi: (2,5 - 2)/2 × 100 = %25. Doğru cevap: «%25».",
   "zorluk": "orta"
  },
  {
@@ -9404,7 +9212,7 @@
    "%12,5 kâr"
   ],
   "dogru": 1,
-  "aciklama": "Satış fiyatı: 1200 × 1,35 = 1620 TL. Kampanya fiyatı: 1620 × 0,85 = 1377 TL. Kâr: 1377 - 1200 = 177 TL. Kâr yüzdesi: (177/1200) × 100 = %14,75. Cevap A.",
+  "aciklama": "Satış fiyatı: 1200 × 1,35 = 1620 TL. Kampanya fiyatı: 1620 × 0,85 = 1377 TL. Kâr: 1377 - 1200 = 177 TL. Kâr yüzdesi: (177/1200) × 100 = %14,75. Doğru cevap: «%14,75 kâr».",
   "zorluk": "orta"
  },
  {
@@ -9420,7 +9228,7 @@
    "155 TL"
   ],
   "dogru": 1,
-  "aciklama": "1. satış: 100 × 1,10 = 110 TL. 2. satış: 110 × 1,20 = 132 TL. 3. satış: 132 × 1,25 = 165 TL. Cevap C.",
+  "aciklama": "1. satış: 100 × 1,10 = 110 TL. 2. satış: 110 × 1,20 = 132 TL. 3. satış: 132 × 1,25 = 165 TL. Doğru cevap: «165 TL».",
   "zorluk": "orta"
  },
  {
@@ -9436,7 +9244,7 @@
    "%24"
   ],
   "dogru": 0,
-  "aciklama": "Etiket fiyatı: E. Satış fiyatı: 0,80E. Maliyet: M. 0,80E = 1,04M → E = 1,04M/0,80 = 1,30M. Yani etiket fiyatı maliyetin %30 fazlasıdır. Cevap C.",
+  "aciklama": "Etiket fiyatı: E. Satış fiyatı: 0,80E. Maliyet: M. 0,80E = 1,04M → E = 1,04M/0,80 = 1,30M. Yani etiket fiyatı maliyetin %30 fazlasıdır. Doğru cevap: «%30».",
   "zorluk": "orta"
  },
  {
@@ -9452,7 +9260,7 @@
    "%20"
   ],
   "dogru": 4,
-  "aciklama": "10 kg et alındığını varsayalım. Maliyet: 10 × 120 = 1200 TL. Satılabilir et: 8 kg. Satış geliri: 8 × 180 = 1440 TL. Kâr: 240 TL. Kâr yüzdesi: (240/1200) × 100 = %20. Cevap B.",
+  "aciklama": "10 kg et alındığını varsayalım. Maliyet: 10 × 120 = 1200 TL. Satılabilir et: 8 kg. Satış geliri: 8 × 180 = 1440 TL. Kâr: 240 TL. Kâr yüzdesi: (240/1200) × 100 = %20. Doğru cevap: «%20».",
   "zorluk": "orta"
  },
  {
@@ -10172,7 +9980,7 @@
    "15 km"
   ],
   "dogru": 2,
-  "aciklama": "Yol = 5 × 3,5 = 17,5 km.",
+  "aciklama": "Alınan yol, hız ile zamanın çarpımına eşittir (Yol = Hız × Zaman). Yürüyüşçü saatte 5 km hızla 3,5 saat yürüdüğüne göre 5 × 3,5 = 17,5 hesaplanır. Bu nedenle kişi toplam 17,5 km yol alır ve doğru cevap 17,5 km'dir.",
   "zorluk": "kolay"
  },
  {
@@ -10188,7 +9996,7 @@
    "75 km/s"
   ],
   "dogru": 0,
-  "aciklama": "Hız = 360 ÷ 4 = 90 km/saat.",
+  "aciklama": "Hız, alınan yolun bu yolu almak için geçen süreye bölünmesiyle bulunur. Araç 360 km'lik yolu 4 saatte kat ettiğine göre hızı 360 ÷ 4 = 90 km/s olur. Bu nedenle doğru cevap 90 km/s'tir; diğer şıklardaki değerler 4 saatle çarpıldığında 360 km'yi vermez.",
   "zorluk": "kolay"
  },
  {
@@ -10316,7 +10124,7 @@
    "4 saat"
   ],
   "dogru": 1,
-  "aciklama": "Zaman = 450 ÷ 90 = 5 saat.",
+  "aciklama": "Süre, alınan yolun hıza bölünmesiyle bulunur: Süre = Yol / Hız. Buna göre 450 km / 90 km/sa = 5 olduğundan araç bu yolu 5 saat içinde tamamlar. 4,5 saat gibi seçenekler yanlıştır, çünkü 90 km/sa hızla 4,5 saatte yalnızca 405 km yol alınabilir.",
   "zorluk": "kolay"
  },
  {
@@ -10332,7 +10140,7 @@
    "200 km"
   ],
   "dogru": 3,
-  "aciklama": "Yol = 100 × 2,5 = 250 km.",
+  "aciklama": "Yol, hız ile zamanın çarpımına eşittir (Yol = Hız × Zaman). Araç saatte 100 km hızla 2,5 saat gittiğine göre toplam yol 100 × 2,5 = 250 km olur. Bu nedenle doğru cevap 250 km'dir; diğer seçenekler bu çarpımın sonucuyla uyuşmamaktadır.",
   "zorluk": "kolay"
  },
  {
@@ -10816,22 +10624,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "100872",
-  "dersId": "matematik",
-  "konuId": "hiz_yol",
-  "soru": "Bir otobüs A'dan B'ye giderken yolun 1/3'ünü saatte 30 km, 1/3'ünü saatte 60 km, kalan 1/3'ünü ise saatte 90 km hızla gidiyor. Ortalama hız kaç km/saattir?",
-  "secenekler": [
-   "60",
-   "45",
-   "63",
-   "54",
-   "49"
-  ],
-  "dogru": 4,
-  "aciklama": "Toplam yol = 3d, her parça d km. Süre₁=d/30, Süre₂=d/60, Süre₃=d/90. Toplam süre = d(1/30+1/60+1/90) = d(6+3+2)/180 = 11d/180. Ortalama hız = 3d/(11d/180) = 3d×180/11d = 540/11 ≈ 49,09 ≈ 49 km/saat.",
-  "zorluk": "orta"
- },
- {
   "id": "100873",
   "dersId": "matematik",
   "konuId": "hiz_yol",
@@ -11117,22 +10909,6 @@
   ],
   "dogru": 2,
   "aciklama": "Göreli hız=40 km/saat=100/9 m/s. Geçme mesafesi=400 m. Süre=400÷(100/9)=36 s.",
-  "zorluk": "orta"
- },
- {
-  "id": "100894",
-  "dersId": "matematik",
-  "konuId": "hiz_yol",
-  "soru": "Toplam yolun 1/3'ü 30, 1/3'ü 60, 1/3'ü 90 km/saat hızla gidiliyor. Ortalama hız kaç km/saattir?",
-  "secenekler": [
-   "49",
-   "45",
-   "63",
-   "60",
-   "54"
-  ],
-  "dogru": 0,
-  "aciklama": "Her parça=d. Toplam süre=d/30+d/60+d/90=11d/180. Ortalama hız=3d÷(11d/180)=540/11≈49 km/saat.",
   "zorluk": "orta"
  },
  {
@@ -13344,22 +13120,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "101117",
-  "dersId": "matematik",
-  "konuId": "yas_problemleri",
-  "soru": "Bir kişi doğduğu yılın rakamları toplamı kadar yaşındadır. Bu kişi 2023 yılında 14 yaşındaysa hangi yılda doğmuştur?",
-  "secenekler": [
-   "2008",
-   "2011",
-   "2009",
-   "2007",
-   "2010"
-  ],
-  "dogru": 2,
-  "aciklama": "2023 − 14 = 2009. 2009 yılının rakamları: 2+0+0+9 = 11 ≠ 14. 2023 − 2009 = 14. Doğum yılı 2009'dur. Seçeneklere göre cevap 2009.",
-  "zorluk": "kolay"
- },
- {
   "id": "101118",
   "dersId": "matematik",
   "konuId": "yas_problemleri",
@@ -14332,7 +14092,7 @@
    "7"
   ],
   "dogru": 4,
-  "aciklama": "3x - 4 = 17 → 3x = 21 → x = 7",
+  "aciklama": "Sayıya x dersek, verilen ifade 3x - 4 = 17 denklemine dönüşür. Her iki tarafa 4 eklendiğinde 3x = 21 bulunur ve buradan x = 7 elde edilir. Sağlama yapıldığında 7'nin 3 katı olan 21'den 4 çıkarılınca 17 bulunduğu için doğru cevap 7'dir.",
   "zorluk": "kolay"
  },
  {
@@ -14364,7 +14124,7 @@
    "10"
   ],
   "dogru": 1,
-  "aciklama": "x/3 + 4 = 7 → x/3 = 3 → x = 9",
+  "aciklama": "Denklemin her iki tarafından 4 çıkarıldığında x/3 = 3 elde edilir. Ardından her iki taraf 3 ile çarpılırsa x = 9 bulunur. Sağlama yapıldığında 9/3 + 4 = 3 + 4 = 7 olduğu görülür, bu nedenle doğru cevap 9'dur.",
   "zorluk": "kolay"
  },
  {
@@ -14700,7 +14460,7 @@
    "3"
   ],
   "dogru": 4,
-  "aciklama": "x + 3 = 2x → x = 3",
+  "aciklama": "Denklemin her iki tarafını 2 ile çarparsak x + 3 = 2x elde ederiz. Her iki taraftan x çıkarıldığında 3 = x bulunur, yani çözüm 3'tür. Sağlama yaparsak (3 + 3)/2 = 6/2 = 3 olur ve bu değer x'e eşittir; bu nedenle doğru cevap 3'tür.",
   "zorluk": "kolay"
  },
  {
@@ -14732,7 +14492,7 @@
    "3"
   ],
   "dogru": 3,
-  "aciklama": "3x + 6 = 2x + 10 → x = 4",
+  "aciklama": "Önce parantezleri açarız: 3(x + 2) = 3x + 6 ve 2(x + 5) = 2x + 10 olur. Böylece denklem 3x + 6 = 2x + 10 şekline gelir. Bilinmeyenleri bir tarafa, sabitleri diğer tarafa topladığımızda 3x - 2x = 10 - 6, yani x = 4 bulunur. Kontrol için x yerine 4 yazarsak her iki taraf da 18 eder, bu yüzden doğru cevap 4'tür.",
   "zorluk": "kolay"
  },
  {
@@ -14796,7 +14556,7 @@
    "7"
   ],
   "dogru": 4,
-  "aciklama": "3x - 5 = 16 → 3x = 21 → x = 7",
+  "aciklama": "Aranan sayıya x dersek, sayının 3 katından 5 çıkarılınca 16 elde edildiği için denklem 3x - 5 = 16 olur. Her iki tarafa 5 eklenirse 3x = 21 bulunur ve her iki taraf 3'e bölünürse x = 7 elde edilir. Kontrol edersek 7'nin 3 katı 21'dir ve 21'den 5 çıkarılınca 16 elde edilir; bu nedenle doğru cevap 7'dir.",
   "zorluk": "kolay"
  },
  {
@@ -15459,7 +15219,7 @@
   "id": "101306",
   "dersId": "matematik",
   "konuId": "denklem",
-  "soru": "Gerçek sayılar üzerinde tanımlı f fonksiyonu f(x+y) = f(x)·f(y) ve f(1) = 3 koşullarını sağlıyorsa, f(2)·f(-1) + [f(3)/f(1)] değeri kaçtır?",
+  "soru": "Gerçek sayılar üzerinde tanımlı f fonksiyonu f(x+y) = f(x)·f(y) ve f(1) = 3 koşullarını sağlıyorsa, f(2)·f(-1) + «f(3)/f(1)» değeri kaçtır?",
   "secenekler": [
    "10",
    "14",
@@ -18556,7 +18316,7 @@
    "2/9"
   ],
   "dogru": 3,
-  "aciklama": "Ali'nin grubu belirlendikten sonra, kalan 9 öğrenciden Ayşe'nin Ali ile aynı gruba düşme olasılığı hesaplanır. Ali herhangi bir gruba atandıktan sonra grupta 1 yer kalmaktadır. Kalan 9 öğrenciden Ayşe'nin bu 1 yere gelme olasılığı 1/9'dur. Alternatif: Toplam 10 öğrencinin 5 çifte ayrılma sayısı = 10!/(2⁵·5!) = 945. Ali ve Ayşe'nin aynı grupta olduğu düzenleme sayısı = 8!/(2⁴·4!) = 105. Olasılık = 105/945 = 1/9. Cevap A.",
+  "aciklama": "Ali'nin grubu belirlendikten sonra, kalan 9 öğrenciden Ayşe'nin Ali ile aynı gruba düşme olasılığı hesaplanır. Ali herhangi bir gruba atandıktan sonra grupta 1 yer kalmaktadır. Kalan 9 öğrenciden Ayşe'nin bu 1 yere gelme olasılığı 1/9'dur. Alternatif: Toplam 10 öğrencinin 5 çifte ayrılma sayısı = 10!/(2⁵·5!) = 945. Ali ve Ayşe'nin aynı grupta olduğu düzenleme sayısı = 8!/(2⁴·4!) = 105. Olasılık = 105/945 = 1/9. Doğru cevap: «1/9».",
   "zorluk": "zor"
  },
  {
@@ -18572,7 +18332,7 @@
    "1/16"
   ],
   "dogru": 4,
-  "aciklama": "Çarpımın tek olması için 4 atışın tamamının tek gelması gerekir. Tek sayılar: 1, 3, 5 → her atışta P(tek) = 3/6 = 1/2. 4 atışın tamamı tek: (1/2)⁴ = 1/16. Cevap A.",
+  "aciklama": "Çarpımın tek olması için 4 atışın tamamının tek gelması gerekir. Tek sayılar: 1, 3, 5 → her atışta P(tek) = 3/6 = 1/2. 4 atışın tamamı tek: (1/2)⁴ = 1/16. Doğru cevap: «1/16».",
   "zorluk": "zor"
  },
  {
@@ -18620,7 +18380,7 @@
    "5/6"
   ],
   "dogru": 1,
-  "aciklama": "P(M∪F) = P(M) + P(F) - P(M∩F) = 2/3 + 3/4 - 1/2 = 8/12 + 9/12 - 6/12 = 11/12. Cevap C.",
+  "aciklama": "P(M∪F) = P(M) + P(F) - P(M∩F) = 2/3 + 3/4 - 1/2 = 8/12 + 9/12 - 6/12 = 11/12. Doğru cevap: «11/12».",
   "zorluk": "zor"
  },
  {
@@ -18668,7 +18428,7 @@
    "0,9928"
   ],
   "dogru": 4,
-  "aciklama": "p=0,95 (doğru iletim), q=0,05. En az 2 doğru: P(X≥2) = P(X=2)+P(X=3). P(X=3) = (0,95)³ = 0,857375. P(X=2) = C(3,2)(0,95)²(0,05) = 3×0,9025×0,05 = 3×0,045125 = 0,135375. P(X≥2) = 0,857375 + 0,135375 = 0,99275 ≈ 0,9928. Cevap A.",
+  "aciklama": "p=0,95 (doğru iletim), q=0,05. En az 2 doğru: P(X≥2) = P(X=2)+P(X=3). P(X=3) = (0,95)³ = 0,857375. P(X=2) = C(3,2)(0,95)²(0,05) = 3×0,9025×0,05 = 3×0,045125 = 0,135375. P(X≥2) = 0,857375 + 0,135375 = 0,99275 ≈ 0,9928. Doğru cevap: «0,9928».",
   "zorluk": "zor"
  },
  {
@@ -18685,22 +18445,6 @@
   ],
   "dogru": 2,
   "aciklama": "Çalışan sayıları: %25 → 30 kişi (15.000 TL), %40 → 48 kişi (20.000 TL), %35 → 42 kişi (25.000 TL). Toplam maaş = 30×15.000 + 48×20.000 + 42×25.000 = 450.000 + 960.000 + 1.050.000 + kalan... Yeniden: 30×15.000 = 450.000, 48×20.000 = 960.000, 42×25.000 = 1.050.000. Toplam = 2.460.000. Doğru cevap 2.460.000 şeklindedir.",
-  "zorluk": "kolay"
- },
- {
-  "id": "101553",
-  "dersId": "matematik",
-  "konuId": "veri_yorumlama",
-  "soru": "Aşağıdaki tabloda bir haftalık hava durumu verilmiştir. Pazartesi: 12°C, Salı: 15°C, Çarşamba: 9°C, Perşembe: 18°C, Cuma: 21°C, Cumartesi: 14°C, Pazar: 11°C. Bu verilere göre haftanın ortalama sıcaklığı kaç °C'dir?",
-  "secenekler": [
-   "17",
-   "14",
-   "13",
-   "16",
-   "15"
-  ],
-  "dogru": 1,
-  "aciklama": "Toplam sıcaklık = 12 + 15 + 9 + 18 + 21 + 14 + 11 = 100°C. Ortalama = 100 ÷ 7 ≈ 14,28°C. En yakın tam sayı 14 olduğundan cevap 14'tür.",
   "zorluk": "kolay"
  },
  {
@@ -19132,7 +18876,7 @@
    "Aralık"
   ],
   "dogru": 2,
-  "aciklama": "Aylık artışlar (bir önceki aya göre):\nŞubat→Mart: 3,5-3,8 = -0,3 (düşüş)\nMart→Nisan: 4,0-3,5 = +0,5\nHaziran→Temmuz: 3,0-2,8 = +0,2\nAğustos→Eylül: 4,5-3,5 = +1,0\nEylül→Ekim: 5,0-4,5 = +0,5\nEkim→Kasım: 4,8-5,0 = -0,2 (düşüş)\nKasım→Aralık: 5,2-4,8 = +0,4\nEn büyük artış Ağustos'tan Eylül'e: +1,0 puan. Cevap B.",
+  "aciklama": "Aylık artışlar (bir önceki aya göre):\nŞubat→Mart: 3,5-3,8 = -0,3 (düşüş)\nMart→Nisan: 4,0-3,5 = +0,5\nHaziran→Temmuz: 3,0-2,8 = +0,2\nAğustos→Eylül: 4,5-3,5 = +1,0\nEylül→Ekim: 5,0-4,5 = +0,5\nEkim→Kasım: 4,8-5,0 = -0,2 (düşüş)\nKasım→Aralık: 5,2-4,8 = +0,4\nEn büyük artış Ağustos'tan Eylül'e: +1,0 puan. Doğru cevap: «Eylül».",
   "zorluk": "orta"
  },
  {
@@ -19180,7 +18924,7 @@
    "66,5"
   ],
   "dogru": 1,
-  "aciklama": "Aralık orta değerleri: 45, 55, 65, 75, 85\nAğırlıklı toplam: 4×45 + 6×55 + 10×65 + 7×75 + 3×85\n= 180 + 330 + 650 + 525 + 255 = 1940\nOrtalama: 1940/30 = 64,67 ≈ 64,5 (en yakın seçenek). Cevap C.",
+  "aciklama": "Aralık ortası değerleri 45, 55, 65, 75 ve 85'tir. Bunlar öğrenci sayılarıyla çarpılıp toplanınca 45·4 + 55·6 + 65·10 + 75·7 + 85·3 = 180 + 330 + 650 + 525 + 255 = 1940 elde edilir. Bu toplam 30'a bölündüğünde ortalama yaklaşık 64,67 bulunur ve şıklar arasında bu değere en yakın olan 64,5'tir.",
   "zorluk": "orta"
  },
  {
@@ -19212,7 +18956,7 @@
    "96.000 fazla"
   ],
   "dogru": 0,
-  "aciklama": "Metro: 2.400.000×0,25 = 600.000\nÖzel Araç: 2.400.000×0,15 = 360.000\nMetro+Özel Araç: 960.000\nOtobüs: 2.400.000×0,35 = 840.000\nFark: 960.000 - 840.000 = 120.000 fazla. Cevap D.",
+  "aciklama": "Metro: 2.400.000×0,25 = 600.000\nÖzel Araç: 2.400.000×0,15 = 360.000\nMetro+Özel Araç: 960.000\nOtobüs: 2.400.000×0,35 = 840.000\nFark: 960.000 - 840.000 = 120.000 fazla. Doğru cevap: «120.000 fazla».",
   "zorluk": "orta"
  },
  {
@@ -19228,7 +18972,7 @@
    "Bölüm A"
   ],
   "dogru": 3,
-  "aciklama": "Bölüm A ortalaması: (2,80+2,95+3,10+3,25+3,40)/5 = 15,50/5 = 3,10\nBölüm B ortalaması: (3,00+3,20+3,35+3,50)/4 = 13,05/4 = 3,2625\nBölüm C ortalaması: (2,70+2,85+3,05+3,15+3,30+3,45)/6 = 18,50/6 ≈ 3,083\nEn yüksek ortalama Bölüm B'ye aittir (3,2625). Cevap B.",
+  "aciklama": "Bölüm A ortalaması: (2,80+2,95+3,10+3,25+3,40)/5 = 15,50/5 = 3,10\nBölüm B ortalaması: (3,00+3,20+3,35+3,50)/4 = 13,05/4 = 3,2625\nBölüm C ortalaması: (2,70+2,85+3,05+3,15+3,30+3,45)/6 = 18,50/6 ≈ 3,083\nEn yüksek ortalama Bölüm B'ye aittir (3,2625). Doğru cevap: «Bölüm B».",
   "zorluk": "orta"
  },
  {
@@ -19276,7 +19020,7 @@
    "500"
   ],
   "dogru": 4,
-  "aciklama": "Çalışan başına kâr: 2020: 480.000/120=4.000 TL, 2021: 600.000/150=4.000 TL, 2022: 630.000/180=3.500 TL, 2023: 700.000/200=3.500 TL. En yüksek 4.000, en düşük 3.500. Fark = 4.000 - 3.500 = 500 TL. Cevap D.",
+  "aciklama": "Çalışan başına kâr: 2020: 480.000/120=4.000 TL, 2021: 600.000/150=4.000 TL, 2022: 630.000/180=3.500 TL, 2023: 700.000/200=3.500 TL. En yüksek 4.000, en düşük 3.500. Fark = 4.000 - 3.500 = 500 TL. Doğru cevap: «500».",
   "zorluk": "orta"
  },
  {
@@ -19308,7 +19052,7 @@
    "%45"
   ],
   "dogru": 1,
-  "aciklama": "Süt toplamı: 840, Ekmek toplamı: 1430, Yoğurt toplamı: 700. Genel toplam: 2970. Ekmek payı: 1430/2970 ≈ 0,4815 ≈ %48. Cevap C.",
+  "aciklama": "Süt toplamı: 840, Ekmek toplamı: 1430, Yoğurt toplamı: 700. Genel toplam: 2970. Ekmek payı: 1430/2970 ≈ 0,4815 ≈ %48. Doğru cevap: «%48».",
   "zorluk": "orta"
  },
  {
@@ -19324,7 +19068,7 @@
    "9 puan"
   ],
   "dogru": 3,
-  "aciklama": "Altyapı: 50+55+45+50+60=260. Sağlık: 30+35+40+45+50=200. Toplam: 855. Altyapı payı: 260/855≈%30,4. Sağlık payı: 200/855≈%23,4. Fark ≈ 7 puan. Cevap C.",
+  "aciklama": "Altyapı: 50+55+45+50+60=260. Sağlık: 30+35+40+45+50=200. Toplam: 855. Altyapı payı: 260/855≈%30,4. Sağlık payı: 200/855≈%23,4. Fark ≈ 7 puan. Doğru cevap: «7 puan».",
   "zorluk": "orta"
  },
  {
@@ -19340,7 +19084,7 @@
    "Ekim"
   ],
   "dogru": 2,
-  "aciklama": "Artışlar: Mart→Nisan: +0,5; Ağustos→Eylül: 4,5-3,5=+1,0; Eylül→Ekim: +0,5; Kasım→Aralık: +0,4. En büyük artış Ağustos'tan Eylül'e: +1,0 puan. Cevap B.",
+  "aciklama": "Artışlar: Mart→Nisan: +0,5; Ağustos→Eylül: 4,5-3,5=+1,0; Eylül→Ekim: +0,5; Kasım→Aralık: +0,4. En büyük artış Ağustos'tan Eylül'e: +1,0 puan. Doğru cevap: «Eylül».",
   "zorluk": "orta"
  },
  {
@@ -19372,7 +19116,7 @@
    "Otobüs ve Uçak eşit"
   ],
   "dogru": 2,
-  "aciklama": "Düşüş oranları: Otobüs: (510-320)/510=190/510≈%37,3. Tren: (280-190)/280=90/280≈%32,1. Uçak: (210-140)/210=70/210≈%33,3. En yüksek düşüş Otobüs'te. Cevap A.",
+  "aciklama": "Düşüş oranları: Otobüs: (510-320)/510=190/510≈%37,3. Tren: (280-190)/280=90/280≈%32,1. Uçak: (210-140)/210=70/210≈%33,3. En yüksek düşüş Otobüs'te. Doğru cevap: «Otobüs».",
   "zorluk": "orta"
  },
  {
@@ -19388,7 +19132,7 @@
    "64,7"
   ],
   "dogru": 4,
-  "aciklama": "Ağırlıklı toplam: 4×45+6×55+10×65+7×75+3×85 = 180+330+650+525+255 = 1940. Ortalama: 1940/30 ≈ 64,7. Cevap C.",
+  "aciklama": "Ağırlıklı toplam: 4×45+6×55+10×65+7×75+3×85 = 180+330+650+525+255 = 1940. Ortalama: 1940/30 ≈ 64,7. Doğru cevap: «64,7».",
   "zorluk": "orta"
  },
  {
@@ -19404,7 +19148,7 @@
    "90"
   ],
   "dogru": 2,
-  "aciklama": "2021: En yüksek 110, en düşük 75, fark=35. 2022: En yüksek 120, en düşük 90, fark=30. 2023: En yüksek 130, en düşük 100, fark=30. Toplam: 35+30+30=95. Cevap D.",
+  "aciklama": "2021: En yüksek 110, en düşük 75, fark=35. 2022: En yüksek 120, en düşük 90, fark=30. 2023: En yüksek 130, en düşük 100, fark=30. Toplam: 35+30+30=95. Doğru cevap: «95».",
   "zorluk": "orta"
  },
  {
@@ -19420,7 +19164,7 @@
    "%87,0"
   ],
   "dogru": 0,
-  "aciklama": "Toplam okur-yazar: 34.000+54.000+24.000+46.000+15.000=173.000. Toplam nüfus: 200.000. Oran: 173.000/200.000=0,865=%86,5. Cevap B.",
+  "aciklama": "Toplam okur-yazar: 34.000+54.000+24.000+46.000+15.000=173.000. Toplam nüfus: 200.000. Oran: 173.000/200.000=0,865=%86,5. Doğru cevap: «%86,5».",
   "zorluk": "orta"
  },
  {
@@ -19436,7 +19180,7 @@
    "120.000 az"
   ],
   "dogru": 0,
-  "aciklama": "Metro: 2.400.000×0,25=600.000. Özel Araç: 2.400.000×0,15=360.000. Toplam: 960.000. Otobüs: 2.400.000×0,35=840.000. Fark: 960.000-840.000=120.000 fazla. Cevap D.",
+  "aciklama": "Metro: 2.400.000×0,25=600.000. Özel Araç: 2.400.000×0,15=360.000. Toplam: 960.000. Otobüs: 2.400.000×0,35=840.000. Fark: 960.000-840.000=120.000 fazla. Doğru cevap: «120.000 fazla».",
   "zorluk": "orta"
  },
  {
@@ -19452,7 +19196,7 @@
    "B ve C eşit"
   ],
   "dogru": 0,
-  "aciklama": "A ortalaması: 15,50/5=3,10. B ortalaması: 13,05/4=3,2625. C ortalaması: 18,50/6≈3,083. En yüksek Bölüm B. Cevap B.",
+  "aciklama": "A ortalaması: 15,50/5=3,10. B ortalaması: 13,05/4=3,2625. C ortalaması: 18,50/6≈3,083. En yüksek Bölüm B. Doğru cevap: «Bölüm B».",
   "zorluk": "orta"
  },
  {
@@ -19485,22 +19229,6 @@
   ],
   "dogru": 4,
   "aciklama": "Toplam üretim: 120 + 135 + 150 + 165 + 180 + 210 = 960 ton. Mayıs oranı: 180 / 960 = 0,1875 ≈ %18,75. En yakın seçenek %19,0'dır.",
-  "zorluk": "orta"
- },
- {
-  "id": "101611",
-  "dersId": "matematik",
-  "konuId": "veri_yorumlama",
-  "soru": "Aşağıdaki tabloda bir okulun 4 şubesindeki öğrenci sayıları ve bu şubelerin matematik sınav ortalamaları verilmiştir. 9-A: 30 öğrenci, ortalama 72; 9-B: 40 öğrenci, ortalama 68; 9-C: 25 öğrenci, ortalama 80; 9-D: 35 öğrenci, ortalama 64. Tüm 9. sınıf öğrencilerinin genel matematik ortalaması kaçtır?",
-  "secenekler": [
-   "71,5",
-   "69,5",
-   "70,5",
-   "71,0",
-   "70,0"
-  ],
-  "dogru": 4,
-  "aciklama": "Ağırlıklı ortalama: (30×72 + 40×68 + 25×80 + 35×64) / (30+40+25+35) = (2160 + 2720 + 2000 + 2240) / 130 = 9120 / 130 = 70,15 ≈ 70,0.",
   "zorluk": "orta"
  },
  {
@@ -19915,24 +19643,8 @@
    "1,2",
    "0,3"
   ],
-  "dogru": 1,
+  "dogru": 3,
   "aciklama": "Portföy beklenen getirisi:\nE(Rp) = 0,40×12 + 0,35×9 + 0,25×15\n= 4,8 + 3,15 + 3,75 = 11,7% Portföy varyansı:\nσ²p = wA²σA² + wB²σB² + wC²σC² + 2wAwBσAσBρAB + 2wAwCσAσCρAC + 2wBwCσBσCρBC = (0,4)²(18)² + (0,35)²(12)² + (0,25)²(22)²\n+ 2(0,4)(0,35)(18)(12)(0,3)\n+ 2(0,4)(0,25)(18)(22)(0,5)\n+ 2(0,35)(0,25)(12)(22)(0,2) = 0,16×324 + 0,1225×144 + 0,0625×484\n+ 2×0,14×216×0,3\n+ 2×0,10×396×0,5\n+ 2×0,0875×264×0,2 = 51,84 + 17,64 + 30,25\n+ 18,144\n+ 39,6\n+ 9,24 = 166,714 Portföy standart sapması: σp = √166,714 ≈ 12,91% Fark: E(Rp) − σp ≈ 11,7 − 12,91 = −1,21 ≈ −0,9 ya da −1,2 En yakın seçenek: B) −0,9 (veya A) −1,8). Hesap: 11,7−12,91 = −1,21 → A) −1,8 değil, en yakın B) −0,9 değil. C) 0,3 en uzak. Cevap: −0,9",
-  "zorluk": "zor"
- },
- {
-  "id": "101654",
-  "dersId": "matematik",
-  "konuId": "veri_yorumlama",
-  "soru": "Aşağıdaki tabloda 2019-2023 yılları arasında bir ilin nüfus artışı ve göç verileri yer almaktadır.\n\nYıl | Doğal Artış | Net Göç\n2019 | +4.200 | -1.800\n2020 | +3.800 | -2.400\n2021 | +4.500 | +1.200\n2022 | +3.600 | -900\n2023 | +5.100 | +2.700\n\n2019 yılı başındaki nüfus 285.000 kişidir. Buna göre, 5 yıllık dönemde yaşanan net göçün toplam nüfus artışı içindeki payı yaklaşık kaçtır?",
-  "secenekler": [
-   "%9,3",
-   "%5,8",
-   "%6,4",
-   "%7,2",
-   "%8,1"
-  ],
-  "dogru": 1,
-  "aciklama": "Toplam doğal artış: 4.200 + 3.800 + 4.500 + 3.600 + 5.100 = 21.200 kişi. Toplam net göç: −1.800 − 2.400 + 1.200 − 900 + 2.700 = −1.200 kişi. Dikkat: net göç NEGATİFTİR, yani il bu dönemde göç vermiştir. Toplam nüfus artışı = 21.200 − 1.200 = 20.000 kişi. Net göçün payı = 1.200 / 20.000 = 0,06 yani %6 büyüklüğündedir. Doğru cevap %5,8 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -19949,22 +19661,6 @@
   ],
   "dogru": 4,
   "aciklama": "2020 toplam ihracatı: 1.200 + 3.600 + 800 + 520 = 6.120 milyon $. 2023 toplamı: 1.710 + 4.850 + 1.080 + 720 = 8.360 milyon $. Toplam artış oranı = 2.240 / 6.120 = %36,6. Sanayideki artış = (4.850 − 3.600) / 3.600 = 1.250 / 3.600 = %34,7. Aradaki fark = 36,6 − 34,7 = 1,9 puandır. Doğru cevap 1,8 şeklindedir.",
-  "zorluk": "zor"
- },
- {
-  "id": "101660",
-  "dersId": "matematik",
-  "konuId": "veri_yorumlama",
-  "soru": "Bir belediyenin 5 mahallesine ait araç sayısı ve yol uzunluğu verileri şöyledir:\n\nMahalle | Araç Sayısı | Yol Uzunluğu (km)\nAkasya   | 4.800        | 32\nBahar    | 3.600        | 18\nCennet   | 6.200        | 40\nDeniz    | 2.900        | 25\nEren     | 5.100        | 28\n\n'Yoğunluk Endeksi' = (Araç Sayısı / Yol Uzunluğu) olarak tanımlanmaktadır. Bu endekse göre en yüksek ve en düşük yoğunluklu mahalleler arasındaki endeks farkı, en düşük yoğunluklu mahallenin endeksinin kaç katıdır?",
-  "secenekler": [
-   "0,93",
-   "0,62",
-   "0,74",
-   "0,81",
-   "1,05"
-  ],
-  "dogru": 2,
-  "aciklama": "Yoğunluk endeksleri: Akasya 4.800/32 = 150, Bahar 3.600/18 = 200, Cennet 6.200/40 = 155, Deniz 2.900/25 = 116, Eren 5.100/28 ≈ 182. En yüksek Bahar (200), en düşük Deniz (116). Fark = 84. Sorulan, bu farkın en düşük endekse oranıdır: 84 / 116 = 0,724. Doğru cevap 0,74 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -20092,7 +19788,7 @@
    "1"
   ],
   "dogru": 3,
-  "aciklama": "Toplam 2(2^60-1); LTE ile v_3(2^60-1)=v_3(3)+v_3(30)=2 olduğundan en büyük n=2'dir. Doğru cevap 2 şeklindedir.",
+  "aciklama": "Toplam 2(2^60-1); LTE ile v«3(2^60-1)=v»3(3)+v_3(30)=2 olduğundan en büyük n=2'dir. Doğru cevap 2 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -20220,7 +19916,7 @@
    "11"
   ],
   "dogru": 4,
-  "aciklama": "12, 15 ve 18'in EKOK'u bulunur: 12 = 2²×3, 15 = 3×5, 18 = 2×3² → EKOK = 2²×3²×5 = 180. 180 + 7 = 187. 187 = 11 × 17. Verilen seçenekler arasında 187'yi bölen sayı 11'dir. Doğru cevap D.",
+  "aciklama": "12, 15 ve 18'in EKOK'u bulunur: 12 = 2²×3, 15 = 3×5, 18 = 2×3² → EKOK = 2²×3²×5 = 180. 180 + 7 = 187. 187 = 11 × 17. Verilen seçenekler arasında 187'yi bölen sayı 11'dir. Doğru cevap: «11».",
   "zorluk": "orta"
  },
  {
@@ -20240,22 +19936,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "101690",
-  "dersId": "matematik",
-  "konuId": "bolunebilme",
-  "soru": "Art arda üç çift doğal sayının çarpımı her zaman hangi sayıya bölünür?",
-  "secenekler": [
-   "16",
-   "36",
-   "24",
-   "64",
-   "48"
-  ],
-  "dogru": 4,
-  "aciklama": "Art arda üç çift sayı: 2n, 2n+2, 2n+4 = 2n, 2(n+1), 2(n+2) biçimindedir. Çarpımları = 8·n·(n+1)·(n+2). n, n+1, n+2 art arda üç tam sayı olduğundan en az biri 2'ye, en az biri 3'e bölünür. Dolayısıyla n(n+1)(n+2) en az 6'nın katıdır. Toplam çarpım en az 8×6 = 48'in katıdır. Örnek: n=1 → 2×4×6=48 ✓; n=2 → 4×6×8=192=48×4 ✓; n=3 → 6×8×10=480=48×10 ✓. 48 her zaman böler. Doğru cevap D.",
-  "zorluk": "orta"
- },
- {
   "id": "101691",
   "dersId": "matematik",
   "konuId": "bolunebilme",
@@ -20269,22 +19949,6 @@
   ],
   "dogru": 2,
   "aciklama": "4'e bölünme için B=2 veya 6, 9'a bölünme için A+B≡2 (mod 9); şıklarda yer alan tek geçerli değer 11'dir. Doğru cevap 11 şeklindedir.",
-  "zorluk": "orta"
- },
- {
-  "id": "101692",
-  "dersId": "matematik",
-  "konuId": "bolunebilme",
-  "soru": "n² − n ifadesi hangi sayının katı olmak zorundadır? (n herhangi bir tam sayı)",
-  "secenekler": [
-   "Her zaman 6'nın katı",
-   "Her zaman 2'nin katı fakat 6'nın değil",
-   "Hiçbir tam sayının daima katı değildir",
-   "Her zaman 4'ün katı",
-   "Her zaman 3'ün katı fakat 2'nin değil"
-  ],
-  "dogru": 1,
-  "aciklama": "n² − n = n(n−1). Bu, art arda iki tam sayının çarpımıdır. Art arda iki tam sayıdan biri çift olduğundan çarpım her zaman 2'nin katıdır. Peki 6'nın katı olmak zorunda mı? Bunun için 3'ün de katı olması gerekir, ama n=2 → 2×1=2; 3'e bölünmez. Dolayısıyla her zaman 6'nın katı değildir. Her zaman 2'nin katıdır ama 6'nın her zaman değildir. Doğru cevap C.",
   "zorluk": "orta"
  },
  {
@@ -20316,7 +19980,7 @@
    "14"
   ],
   "dogru": 2,
-  "aciklama": "K = 2^50 × (1×2×3×...×50) = 2^50 × 50!. 50!'de 5'in kuvvetini Legendre formülüyle buluruz: ⌊50/5⌋ + ⌊50/25⌋ = 10 + 2 = 12. 2^50 çarpanı 5 içermez. Dolayısıyla K'daki 5'in üssü 12'dir. Doğru cevap B.",
+  "aciklama": "K = 2^50 × (1×2×3×...×50) = 2^50 × 50!. 50!'de 5'in kuvvetini Legendre formülüyle buluruz: ⌊50/5⌋ + ⌊50/25⌋ = 10 + 2 = 12. 2^50 çarpanı 5 içermez. Dolayısıyla K'daki 5'in üssü 12'dir. Doğru cevap: «12».",
   "zorluk": "orta"
  },
  {
@@ -20621,22 +20285,6 @@
   ],
   "dogru": 0,
   "aciklama": "5 ÷ 8 = 0,625. 5,000 ÷ 8 işlemi yapıldığında; 8×6=48 → 20 kalır, 8×2=16 → 40 kalır, 8×5=40 → 0 kalır. Sonuç 0,625'tir.",
-  "zorluk": "kolay"
- },
- {
-  "id": "101727",
-  "dersId": "matematik",
-  "konuId": "kesir_ondalik",
-  "soru": "2/3 kesrinin 3 katı kaçtır?",
-  "secenekler": [
-   "2",
-   "1/2",
-   "2/9",
-   "6/3",
-   "6/9"
-  ],
-  "dogru": 0,
-  "aciklama": "2/3 × 3 = 6/3 = 2. Kesri tam sayıyla çarparken yalnızca pay ile çarpılır: 2×3=6, payda yine 3 kalır. 6/3 = 2'dir.",
   "zorluk": "kolay"
  },
  {
@@ -21452,7 +21100,7 @@
    "1/2"
   ],
   "dogru": 2,
-  "aciklama": "Başlangıçta toplam çalışan sayısı 100 kabul edilsin. Kadın: 40, Erkek: 60. Kadın mühendis: 40 × 0,25 = 10. Erkek mühendis: 60 × 0,30 = 18. Toplam mühendis: 28. Yeni alınan mühendis sayısı x olsun (tamamı kadın, dolayısıyla yeni çalışan da x). Yeni toplam çalışan: 100 + x. Yeni mühendis oranı: (28 + x)/(100 + x) = 0,32 → 28 + x = 32 + 0,32x → 0,68x = 4 → x = 4/0,68 ≈ 5,88. Ancak soru 'yeni alınan mühendis/yeni toplam çalışan' oranını soruyor; yeni çalışanların tamamı mühendis olduğu belirtildiğinden oran x/x = 1/1. Cevap A.",
+  "aciklama": "Başlangıçta toplam çalışan sayısı 100 kabul edilsin. Kadın: 40, Erkek: 60. Kadın mühendis: 40 × 0,25 = 10. Erkek mühendis: 60 × 0,30 = 18. Toplam mühendis: 28. Yeni alınan mühendis sayısı x olsun (tamamı kadın, dolayısıyla yeni çalışan da x). Yeni toplam çalışan: 100 + x. Yeni mühendis oranı: (28 + x)/(100 + x) = 0,32 → 28 + x = 32 + 0,32x → 0,68x = 4 → x = 4/0,68 ≈ 5,88. Ancak soru 'yeni alınan mühendis/yeni toplam çalışan' oranını soruyor; yeni çalışanların tamamı mühendis olduğu belirtildiğinden oran x/x = 1/1. Doğru cevap: «1/1».",
   "zorluk": "zor"
  },
  {
@@ -21516,7 +21164,7 @@
    "%4,50"
   ],
   "dogru": 4,
-  "aciklama": "Sepet maliyeti 500 TL. A fiyatı %10 artınca sepet %4 artar → A'nın sepete katkısı: 0,10 × A_maliyet = 0,04 × 500 = 20 → A_maliyet = 200 TL. B fiyatı %20 azalınca sepet %6 azalır → 0,20 × B_maliyet = 0,06 × 500 = 30 → B_maliyet = 150 TL. C_maliyet = 500 - 200 - 150 = 150 TL. C fiyatı %15 artarsa sepet artışı: 0,15 × 150 = 22,5 TL. Artış oranı: 22,5/500 = 0,045 = %4,5. Doğru cevap %4,50 şeklindedir.",
+  "aciklama": "Sepet maliyeti 500 TL. A fiyatı %10 artınca sepet %4 artar → A'nın sepete katkısı: 0,10 × A«maliyet = 0,04 × 500 = 20 → A»maliyet = 200 TL. B fiyatı %20 azalınca sepet %6 azalır → 0,20 × B«maliyet = 0,06 × 500 = 30 → B»maliyet = 150 TL. C_maliyet = 500 - 200 - 150 = 150 TL. C fiyatı %15 artarsa sepet artışı: 0,15 × 150 = 22,5 TL. Artış oranı: 22,5/500 = 0,045 = %4,5. Doğru cevap %4,50 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -21676,7 +21324,7 @@
    "120 TL"
   ],
   "dogru": 4,
-  "aciklama": "Kâr = 480 × 0,25 = 120 TL.",
+  "aciklama": "Kâr yüzdesi, aksi belirtilmedikçe alış fiyatı üzerinden hesaplanır. Ürünün alış fiyatı 480 TL olduğuna göre kâr, 480 TL'nin %25'idir: 480 × 25 / 100 = 120 TL. Ahmet ürünü 480 + 120 = 600 TL'ye satmış ve 120 TL kâr elde etmiştir.",
   "zorluk": "kolay"
  },
  {
@@ -21885,22 +21533,6 @@
   ],
   "dogru": 1,
   "aciklama": "Maliyeti 100 alalım. Etiket fiyatı %30 kârla 130 olur. Kampanyada %4 kâr elde edildiğine göre kampanya fiyatı 104'tür; yani maliyetin %104'üdür. İndirim tutarı 130 − 104 = 26'dır. p = 26 / 130 = 0,20, yani %20 bulunur. \"%104 — p ≈ %18\" seçeneğinde 130 · 0,82 = 106,6 olur ve 104'ü vermez. \"%104 — p ≈ %22\" seçeneğinde ise 130 · 0,78 = 101,4 olur ve yine 104'ü vermez. Doğru cevap \"%104 — p ≈ %20\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "101839",
-  "dersId": "matematik",
-  "konuId": "k_r_zarar",
-  "soru": "Ahmet bir ürünü satın alıp fiyatını %m artırmış, Burcu bu ürünü Ahmet'ten alarak fiyatını %n düşürmüş, Can da bu ürünü Burcu'dan alarak %m artırmıştır. Can'ın sattığı fiyat, Ahmet'in aldığı fiyatın tam 1,5 katı olduğuna ve m = 2n olduğuna göre, n değeri yaklaşık kaçtır?",
-  "secenekler": [
-   "18,6",
-   "20,1",
-   "14,5",
-   "16,3",
-   "12,8"
-  ],
-  "dogru": 3,
-  "aciklama": "Ahmet'in alış fiyatı 1 birim olsun. Üç işlem sırayla uygulanır: (1 + m/100) · (1 − n/100) · (1 + m/100) = 1,5. m = 2n verildiğinden, n'yi ondalık yazarsak (1 + 2n)² · (1 − n) = 1,5 olur. n = 0,16 için (1,32)² × 0,84 = 1,464; n = 0,175 için (1,35)² × 0,825 = 1,504. Denklemi sağlayan değer n ≈ 0,174 yani yaklaşık %17,4'tür. Doğru cevap 16,3 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -22189,22 +21821,6 @@
   ],
   "dogru": 2,
   "aciklama": "Zıt yönde giderlerse birbirlerine kapanma hızı = 18 + 22 = 40 km/s. 360 km'lik pistte ilk buluşma süresi = 360/40 = 9 saat. 08:00 + 9 saat = 17:00.",
-  "zorluk": "orta"
- },
- {
-  "id": "101859",
-  "dersId": "matematik",
-  "konuId": "hiz_yol",
-  "soru": "Bir ekspres tren, bir yolcu trenini tam olarak geçmesi 40 saniye sürmektedir. Ekspres trenin hızı 108 km/s, yolcu treninin hızı 72 km/s'dir ve iki tren aynı yönde gitmektedir. Ekspres trenin uzunluğu yolcu treninin uzunluğunun iki katı olduğuna göre, yolcu treninin uzunluğu kaç metredir?",
-  "secenekler": [
-   "133",
-   "160",
-   "120",
-   "150",
-   "100"
-  ],
-  "dogru": 0,
-  "aciklama": "Hızları m/s'ye çevirelim: ekspres = 108×(1000/3600) = 30 m/s, yolcu = 72×(1000/3600) = 20 m/s. Aynı yönde bağıl hız = 30-20 = 10 m/s. Ekspres tren yolcu trenini geçmek için kendi boyunu artı yolcu treninin boyunu kadar yol alır. Ekspres boyu = 2L, yolcu boyu = L olsun. Toplam mesafe = 2L + L = 3L. Süre = 40 saniye. 3L / 10 = 40 → 3L = 400 → L = 400/3 ≈ 133,3 metre.",
   "zorluk": "orta"
  },
  {
@@ -23408,22 +23024,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "101984",
-  "dersId": "matematik",
-  "konuId": "kumeler",
-  "soru": "100 öğrencinin katıldığı bir ankette; matematik seven 60, fizik seven 50, kimya seven 40 öğrenci olduğu tespit edilmiştir. Her üç dersi de seven 10, hiç birini sevmeyen 5 öğrenci vardır. Tam olarak iki ders seven öğrenci sayısı, tam olarak bir ders seven öğrenci sayısının yarısına eşit olduğuna göre, en az bir ders seven öğrencilerin sayısı kaçtır?",
-  "secenekler": [
-   "96",
-   "94",
-   "90",
-   "92",
-   "95"
-  ],
-  "dogru": 4,
-  "aciklama": "En az bir ders seven = 100 - 5 = 95. Dahil-Dışarı formülü: |M∪F∪K| = 60+50+40 - |M∩F| - |M∩K| - |F∩K| + 10 = 95. Bu denklemden |M∩F| + |M∩K| + |F∩K| = 65. Yalnızca bir ders seven (a): a = (M sadece) + (F sadece) + (K sadece). Tam olarak iki ders seven (b) = (|M∩F|-10) + (|M∩K|-10) + (|F∩K|-10) = 65 - 30 = 35. Koşul: b = a/2, yani a = 2b = 70. Kontrol: a + b + 10 = 70 + 35 + 10 = 115 ≠ 95. Çelişki var, dolayısıyla soru 'tam olarak iki ders' ve 'tam olarak bir ders' koşulu ek bilgi olarak verilmiş olup sorulan yalnızca 'en az bir ders seven' sayısıdır; bu 100 - 5 = 95'tir.",
-  "zorluk": "zor"
- },
- {
   "id": "101985",
   "dersId": "matematik",
   "konuId": "kumeler",
@@ -24475,7 +24075,7 @@
    "7",
    "3"
   ],
-  "dogru": 0,
+  "dogru": 2,
   "aciklama": "3 ve 7'nin OKEK'i = 21'dir. 100'den küçük 21'in katları: 21, 42, 63, 84. Bunlar 4 tanedir. (21×5=105 > 100 olduğundan dışarıda kalır.)",
   "zorluk": "kolay"
  },
@@ -24877,22 +24477,6 @@
   ],
   "dogru": 1,
   "aciklama": "Dokuz basamaklı sayıda tek sıradaki basamaklar 1., 3., 5., 7., 9. basamaklardır, yani 5 tanedir. Bunlara 1, 3, 5, 7, 9 rakamları yerleştirilecektir ve bu 5! = 120 farklı biçimde yapılır. Çift sıradaki basamaklar 2., 4., 6., 8. basamaklardır, yani 4 tanedir. Bunlara 2, 4, 6, 8 rakamları 4! = 24 farklı biçimde yerleştirilir. İki işlem birbirinden bağımsız olduğundan çarpma kuralıyla 120·24 = 2880 sayı oluşur. \"5760\" seçeneği bu sonucun iki katıdır ve fazladan bir 2 çarpanı kullanılmasından gelir. \"17280\" seçeneği ise 6!·4! gibi hatalı bir hesaba dayanır. Doğru cevap \"2880\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
-  "id": "102095",
-  "dersId": "matematik",
-  "konuId": "sayilar",
-  "soru": "Bir doğal sayının rakamları toplamı 18'dir. Bu sayı 9'a bölündüğünde bölüm ile kalan toplamı en fazla kaç olabilir?",
-  "secenekler": [
-   "13",
-   "12",
-   "9",
-   "11",
-   "10"
-  ],
-  "dogru": 3,
-  "aciklama": "Rakamlar toplamı 18 olan bir sayı 9'a tam bölünür (kalan = 0). Bölümü büyütmek için sayıyı büyütmek gerekir. Rakamlar toplamı 18 olan en büyük sayı 990'dır (9+9+0=18). 990 ÷ 9 = 110, kalan = 0. Bölüm + kalan = 110 + 0 = 110. Ancak soruyu dikkatli okuyalım: bölüm ile kalan toplamı denildiğinde, kalan her zaman 0 olacağından sadece bölüm değeri önemlidir. Rakamlar toplamı 18 olan sayılar 9'a tam bölünür. 9-basamaklı en büyük sayı 999999999 (dokuz 9) → 999.999.999 ÷ 9 = 111.111.111. Kalan=0. Ama şık değerleri küçük, demek ki tek haneli sayı aranıyor. Tek basamaklı: 9 → 9÷9=1, kalan=0, toplam=1. İki basamaklı: 99→99÷9=11, kalan=0, toplam=11. Üç basamaklı: 990→990÷9=110, kalan=0, toplam=110. Şıklara göre 2 basamaklı 99 sayısı için bölüm+kalan = 11+0 = 11 doğru cevaptır.",
   "zorluk": "orta"
  },
  {
@@ -25900,7 +25484,7 @@
    "Son iki rakam 4'e bölünmelidir"
   ],
   "dogru": 3,
-  "aciklama": "1+2+3+4+5+6=21, 9'a bölünmediğinden bu rakamlarla 9'a bölünen sayı oluşturulamaz. Doğru cevap Böyle bir sayı oluşturulamaz şeklindedir.",
+  "aciklama": "Rakamların toplamı 1+2+3+4+5+6 eşittir 21; 21 dokuza bölünmez, dizilim değişmekle toplam değişmez. Dolayısıyla 9'a bölünen böyle bir sayı oluşturulamaz.",
   "zorluk": "orta"
  },
  {
@@ -26060,23 +25644,7 @@
    "a ve b'nin her ikisi de 7'ye bölünebilir."
   ],
   "dogru": 1,
-  "aciklama": "a³ - b³ = (a - b)(a² + ab + b²) ifadesi 7'ye bölünebiliyorsa, 7 asal sayı olduğundan ya (a - b) 7'ye bölünür ya da (a² + ab + b²) 7'ye bölünür ya da her ikisi birden bölünür. Örneğin a=8, b=1 için a³-b³=511=7×73, burada a-b=7 bölünür fakat a²+ab+b²=73 bölünmez. Öte yandan a=2, b=1 için a³-b³=7, a-b=1 bölünmez ama a²+ab+b²=7 bölünür. Dolayısıyla ne (a-b), ne (a²+ab+b²), ne de a ve b'nin her ikisi kesin bölünür. Hiçbir şekilde kesin bir sonuç çıkarılamaz; doğru cevap E'dir.",
-  "zorluk": "zor"
- },
- {
-  "id": "102231",
-  "dersId": "matematik",
-  "konuId": "bolunebilme",
-  "soru": "Birbirinden farklı a, b, c pozitif tam sayıları için (a - b)(b - c)(c - a) çarpımının 2'ye bölünebilmesi için hangi koşul kesinlikle yeterlidir?",
-  "secenekler": [
-   "a, b, c'nin en az biri çift sayıdır.",
-   "a + b + c tek sayıdır.",
-   "a, b, c ardışık tam sayılardır.",
-   "a·b·c çift sayıdır.",
-   "(a-b)(b-c)(c-a) her zaman 2'ye bölünür, ek koşul gerekmez."
-  ],
-  "dogru": 4,
-  "aciklama": "a, b, c farklı tam sayılar alındığında parite (çift-tek) analizine bakılır. Üç sayı ya (ÇÇÇ), (TTT), (ÇÇT), (ÇTT) paritesindedir. ÇÇÇ durumunda: farklar çift-çift-çift, çarpım çift. TTT durumunda: farklar çift-çift-çift, çarpım çift. ÇÇT durumunda: a-b çift, b-c tek, c-a tek; çarpım = çift×tek×tek = çift. ÇTT durumunda: a-b tek, b-c çift, c-a tek; çarpım = tek×çift×tek = çift. Tüm durumlarda çarpım çifttir. Dolayısıyla (a-b)(b-c)(c-a) ek bir koşul olmaksızın her zaman 2'ye bölünür.",
+  "aciklama": "a³ - b³ = (a - b)(a² + ab + b²) olduğundan, ifadenin 7'ye bölünebilmesi için çarpanlardan birinin 7'ye bölünmesi yeterlidir; ancak hangisinin bölüneceği belli değildir. Örneğin a = 1, b = 2 için a³ - b³ = -7 olur; burada a - b = -1 ve a + b = 3 7'ye bölünmez, a² + ab + b² = 7 ise bölünür. a = 1, b = 8 için ise a - b = -7 7'ye bölünür ama a² + ab + b² = 73 bölünmez, ve her iki örnekte de a ile b 7'nin katı değildir. Bu nedenle diğer seçeneklerin hiçbiri her durumda geçerli olmaz ve doğru cevap \"a³ - b³ ifadesinden kesin bir sonuç çıkarılamaz.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -26140,7 +25708,7 @@
    "6"
   ],
   "dogru": 3,
-  "aciklama": "f(n) = n³ + 2n = n(n² + 2). 3'e göre: n ≡ 0 (mod 3) ise n 3'ün katı, bölünür. n ≡ 1 (mod 3) ise n²+2 ≡ 1+2=3 ≡ 0 (mod 3), bölünür. n ≡ 2 (mod 3) ise n²+2 ≡ 4+2=6 ≡ 0 (mod 3), bölünür. Dolayısıyla f(n) her zaman 3'e bölünür. 6 için de bakarız: n=1: f(1)=1+2=3, 3÷6 tam değil. Yani 6'ya her zaman bölünmez. Cevap E (3).",
+  "aciklama": "İfade n³ + 2n = (n³ − n) + 3n = (n − 1)·n·(n + 1) + 3n biçiminde yazılabilir. Ardışık üç tam sayının çarpımı olan (n − 1)·n·(n + 1) her zaman 3'e bölünür, 3n de 3'ün katıdır; bu yüzden f(n) her pozitif tam sayı n için 3'e bölünür. Diğer seçenekler geçersizdir, çünkü n = 1 için f(1) = 3 olur ve bu değer 9, 8, 4 ya da 6'ya bölünmez. Dolayısıyla f(n) her zaman 3 sayısına bölünür.",
   "zorluk": "zor"
  },
  {
@@ -26524,7 +26092,7 @@
    "25"
   ],
   "dogru": 0,
-  "aciklama": "EKOK / EBOB = 150 / 5 = 30.",
+  "aciklama": "Soruda EBOB 5, EKOK ise 150 olarak verilmiştir. EKOK'un EBOB'a oranı doğrudan bu iki değerin bölünmesiyle bulunur: 150 ÷ 5 = 30. Bu nedenle doğru cevap 30'dur. Ayrıca iki sayının çarpımı EBOB ile EKOK'un çarpımına eşit olduğundan sayılar 5a ve 5b biçiminde yazılabilir (a ile b aralarında asal); bu durumda a·b = 30 olur ve oran yine 30 çıkar.",
   "zorluk": "kolay"
  },
  {
@@ -26880,22 +26448,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "102297",
-  "dersId": "matematik",
-  "konuId": "ebob_ekok",
-  "soru": "a × b = 2520 ve EBOB(a, b) = 18 ise EKOK(a, b) kaçtır?",
-  "secenekler": [
-   "180",
-   "45360",
-   "140",
-   "280",
-   "126"
-  ],
-  "dogru": 2,
-  "aciklama": "EBOB(a,b) × EKOK(a,b) = a × b formülünden: 18 × EKOK = 2520 → EKOK = 2520/18 = 140.",
-  "zorluk": "orta"
- },
- {
   "id": "102300",
   "dersId": "matematik",
   "konuId": "ebob_ekok",
@@ -27120,22 +26672,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "102331",
-  "dersId": "matematik",
-  "konuId": "ebob_ekok",
-  "soru": "a, b ve c pozitif tam sayılar olmak üzere EBOB(a, b) = 12, EBOB(b, c) = 18 ve EBOB(a, c) = 24 olduğu bilinmektedir. Buna göre EBOB(a, b, c) kaçtır?",
-  "secenekler": [
-   "8",
-   "3",
-   "12",
-   "4",
-   "6"
-  ],
-  "dogru": 4,
-  "aciklama": "EBOB(a,b)=12 olduğundan 12 | a ve 12 | b. EBOB(b,c)=18 olduğundan 18 | b ve 18 | c. EBOB(a,c)=24 olduğundan 24 | a ve 24 | c. 12=2²·3, 18=2·3², 24=2³·3. EBOB(a,b,c) her üçünü de bölen en büyük sayıdır. a; 12 ve 24'ün katı, dolayısıyla 24'ün katı: a=2³·3·k₁. b; 12 ve 18'in katı, EKOK(12,18)=36'nın katı: b=2²·3²·k₂. c; 18 ve 24'ün katı, EKOK(18,24)=72'nin katı: c=2³·3²·k₃. EBOB(a,b,c)= 2^min(3,2,3) · 3^min(1,2,2) = 2²·3 = 6.",
-  "zorluk": "zor"
- },
- {
   "id": "102332",
   "dersId": "matematik",
   "konuId": "ebob_ekok",
@@ -27276,7 +26812,7 @@
    "Böyle p, q asal sayısı yoktur."
   ],
   "dogru": 4,
-  "aciklama": "p≠q iken EKOK=p³q², p=q iken p³≠p⁴ olduğundan koşulu sağlayan asal çifti yoktur. Doğru cevap Böyle p, q asal sayısı yoktur şeklindedir.",
+  "aciklama": "p farklı q ise EKOK p üçüncü kuvvet çarpı q kare olur; p eşit q ise p dördüncü kuvvet olur. Her iki durumda da eşitlik sağlanmaz, böyle asallar yoktur.",
   "zorluk": "zor"
  },
  {
@@ -28579,7 +28115,7 @@
   "id": "102467",
   "dersId": "matematik",
   "konuId": "kesir_ondalik",
-  "soru": "x gerçek sayısı için [x], x'in tam kısmını (floor) göstermek üzere; [x + 1/3] + [x + 2/3] = 5 denkleminin sağladığı x değerlerinin oluşturduğu kümenin uzunluğu (measure) kaçtır?",
+  "soru": "x gerçek sayısı için [x], x'in tam kısmını (floor) göstermek üzere; «x + 1/3» + «x + 2/3» = 5 denkleminin sağladığı x değerlerinin oluşturduğu kümenin uzunluğu (measure) kaçtır?",
   "secenekler": [
    "2/3",
    "1/3",
@@ -30012,7 +29548,7 @@
    "7/9"
   ],
   "dogru": 2,
-  "aciklama": "Gemi hızı=9k, akıntı=2k. Gidişte (akıntıyla): hız=9k+2k=11k. Dönüşte (akıntıya karşı): hız=9k-2k=7k. Aynı mesafe için süre hızla ters orantılı: t_gidiş/t_dönüş = (110/11k)/(110/7k) = 7k/11k = 7/11.",
+  "aciklama": "Gemi hızı=9k, akıntı=2k. Gidişte (akıntıyla): hız=9k+2k=11k. Dönüşte (akıntıya karşı): hız=9k-2k=7k. Aynı mesafe için süre hızla ters orantılı: t«gidiş/t»dönüş = (110/11k)/(110/7k) = 7k/11k = 7/11.",
   "zorluk": "zor"
  },
  {
@@ -30912,22 +30448,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "102663",
-  "dersId": "matematik",
-  "konuId": "yuzde",
-  "soru": "Bir şehrin nüfusu 2022'de 2023'e göre %10 artmış, 2023'ten 2024'e %5 azalmıştır. 2024 yılı nüfusu 2022 yılına göre yüzde kaç değişmiştir?",
-  "secenekler": [
-   "%4,5 artmış",
-   "%5 artmış",
-   "%5 azalmış",
-   "%4,5 azalmış",
-   "Değişmemiştir"
-  ],
-  "dogru": 0,
-  "aciklama": "2022 nüfusunu 100 alalım. 2023: 100 × 1,10 = 110. 2024: 110 × 0,95 = 104,5. Değişim: (104,5 − 100)/100 = %4,5 artış. %10 − %5 = %5 artış diye hesaplamak yanlıştır.",
-  "zorluk": "orta"
- },
- {
   "id": "102664",
   "dersId": "matematik",
   "konuId": "yuzde",
@@ -31388,7 +30908,7 @@
    "%16,67"
   ],
   "dogru": 4,
-  "aciklama": "2023 üretimi = 5.000 × 1,20 = 6.000. 2024'te 6.000 üzerinden x% azalmayla 5.000'e dönüyor: 6.000 × (1 – x/100) = 5.000 → 1 – x/100 = 5/6 → x/100 = 1/6 → x ≈ %16,67. Doğru cevap A.",
+  "aciklama": "2023 üretimi = 5.000 × 1,20 = 6.000. 2024'te 6.000 üzerinden x% azalmayla 5.000'e dönüyor: 6.000 × (1 – x/100) = 5.000 → 1 – x/100 = 5/6 → x/100 = 1/6 → x ≈ %16,67. Doğru cevap: «%16,67».",
   "zorluk": "zor"
  },
  {
@@ -31420,7 +30940,7 @@
    "%6 kâr"
   ],
   "dogru": 2,
-  "aciklama": "Alış fiyatı 100 olsun. Satış fiyatı = 100 × 1,30 = 130. İndirimli satış = 130 × 0,80 = 104. Alışa göre kâr = 4 TL → %4 kâr. Cevap A.",
+  "aciklama": "Alış fiyatı 100 olsun. Satış fiyatı = 100 × 1,30 = 130. İndirimli satış = 130 × 0,80 = 104. Alışa göre kâr = 4 TL → %4 kâr. Doğru cevap: «%4 kâr».",
   "zorluk": "zor"
  },
  {
@@ -31436,7 +30956,7 @@
    "5 yıl"
   ],
   "dogru": 2,
-  "aciklama": "N × 1,05^t ≥ 1,1576 × N → 1,05^t ≥ 1,1576. Verilen bilgiye göre 1,05³ = 1,1576. Dolayısıyla t = 3 yıl. Cevap B.",
+  "aciklama": "N × 1,05^t ≥ 1,1576 × N → 1,05^t ≥ 1,1576. Verilen bilgiye göre 1,05³ = 1,1576. Dolayısıyla t = 3 yıl. Doğru cevap: «3 yıl».",
   "zorluk": "zor"
  },
  {
@@ -31500,7 +31020,7 @@
    "1.800 TL"
   ],
   "dogru": 1,
-  "aciklama": "Toplam sermaye = 120.000. A = %55 × 120.000 = 66.000, B = 54.000. Toplam kâr = %30 × 120.000 = 36.000. A kârı = (66.000/120.000) × 36.000 = 0,55 × 36.000 = 19.800. B kârı = 0,45 × 36.000 = 16.200. Fark = 19.800 – 16.200 = 3.600 TL. Cevap C.",
+  "aciklama": "Toplam sermaye = 120.000. A = %55 × 120.000 = 66.000, B = 54.000. Toplam kâr = %30 × 120.000 = 36.000. A kârı = (66.000/120.000) × 36.000 = 0,55 × 36.000 = 19.800. B kârı = 0,45 × 36.000 = 16.200. Fark = 19.800 – 16.200 = 3.600 TL. Doğru cevap: «3.600 TL».",
   "zorluk": "zor"
  },
  {
@@ -31516,7 +31036,7 @@
    "287 TL – %287"
   ],
   "dogru": 3,
-  "aciklama": "2022 sonu: 100 × 1,80 = 180 TL. 2023 sonu: 180 × 1,65 = 297 TL. 297 TL, 100 TL'nin %297'sidir (yani %197 artış). Cevap C.",
+  "aciklama": "2022 sonu: 100 × 1,80 = 180 TL. 2023 sonu: 180 × 1,65 = 297 TL. 297 TL, 100 TL'nin %297'sidir (yani %197 artış). Doğru cevap: «297 TL – %297».",
   "zorluk": "zor"
  },
  {
@@ -31532,7 +31052,7 @@
    "20"
   ],
   "dogru": 4,
-  "aciklama": "2021 üretimi P olsun. 2022: 1,30P. 2023: 1,30P × (1 − x/100). Bu değer 2021'in %4 fazlası olan 1,04P'ye eşit: 1,30P × (1 − x/100) = 1,04P. (1 − x/100) = 1,04/1,30 = 0,80. x/100 = 0,20 → x = 20. Cevap B.",
+  "aciklama": "2021 üretimi P olsun. 2022: 1,30P. 2023: 1,30P × (1 − x/100). Bu değer 2021'in %4 fazlası olan 1,04P'ye eşit: 1,30P × (1 − x/100) = 1,04P. (1 − x/100) = 1,04/1,30 = 0,80. x/100 = 0,20 → x = 20. Doğru cevap: «20».",
   "zorluk": "zor"
  },
  {
@@ -31548,7 +31068,7 @@
    "%40"
   ],
   "dogru": 4,
-  "aciklama": "Kız öğrenci oranı k, erkek oranı (1−k) olsun. 0,60k + 0,45(1−k) = 0,51. 0,60k + 0,45 − 0,45k = 0,51. 0,15k = 0,06. k = 0,40 → %40. Cevap B.",
+  "aciklama": "Kız öğrenci oranı k, erkek oranı (1−k) olsun. 0,60k + 0,45(1−k) = 0,51. 0,60k + 0,45 − 0,45k = 0,51. 0,15k = 0,06. k = 0,40 → %40. Doğru cevap: «%40».",
   "zorluk": "zor"
  },
  {
@@ -31580,7 +31100,7 @@
    "%177"
   ],
   "dogru": 4,
-  "aciklama": "Başlangıç fiyatı P, 6 ay sonra: P × 1,1^6 = 1,771P. Bu değer başlangıcın %177,1'idir. Yani %177,1 olmuştur — başlangıcın yüzdesi sorulduğundan 1,771P → %177,1 ≈ %177. Cevap D.",
+  "aciklama": "Başlangıç fiyatı P, 6 ay sonra: P × 1,1^6 = 1,771P. Bu değer başlangıcın %177,1'idir. Yani %177,1 olmuştur — başlangıcın yüzdesi sorulduğundan 1,771P → %177,1 ≈ %177. Doğru cevap: «%177».",
   "zorluk": "zor"
  },
  {
@@ -31628,7 +31148,7 @@
    "%7,5"
   ],
   "dogru": 1,
-  "aciklama": "Üç yıllık bileşik büyüme: 1,20 × 0,85 × 1,25 = 1,275. Geometrik ortalama büyüme oranı: 1,275^(1/3) ≈ 1,0840. Yıllık ortalama artış: %8,4. Cevap D.",
+  "aciklama": "Üç yıllık bileşik büyüme: 1,20 × 0,85 × 1,25 = 1,275. Geometrik ortalama büyüme oranı: 1,275^(1/3) ≈ 1,0840. Yıllık ortalama artış: %8,4. Doğru cevap: «%8,4».",
   "zorluk": "zor"
  },
  {
@@ -31676,7 +31196,7 @@
    "%30"
   ],
   "dogru": 3,
-  "aciklama": "Toplam: 200 kişi. 70 altında: 200 × 0,35 = 70 kişi (sınavı geçemedi). 70-85 arası: 200 × 0,45 = 90 kişi. 85 üzeri: 200 × 0,20 = 40 kişi. İtiraz sonrası: 90 × 0,20 = 18 kişi 85 üzerine çıktı, 90 − 18 = 72 kişi 70-85 arasında kaldı. Sınavı geçemeyenler: yalnızca 70 altındakiler = 70 kişi. Oran: 70/200 = %35. Cevap C.",
+  "aciklama": "Toplam: 200 kişi. 70 altında: 200 × 0,35 = 70 kişi (sınavı geçemedi). 70-85 arası: 200 × 0,45 = 90 kişi. 85 üzeri: 200 × 0,20 = 40 kişi. İtiraz sonrası: 90 × 0,20 = 18 kişi 85 üzerine çıktı, 90 − 18 = 72 kişi 70-85 arasında kaldı. Sınavı geçemeyenler: yalnızca 70 altındakiler = 70 kişi. Oran: 70/200 = %35. Doğru cevap: «%35».",
   "zorluk": "zor"
  },
  {
@@ -31692,7 +31212,7 @@
    "%27,6"
   ],
   "dogru": 4,
-  "aciklama": "Ocak: 500.000 m³. Haziran, Ocak'tan itibaren 5 ay sonra (Şubat=ay1, Mart=ay2, Nisan=ay3, Mayıs=ay4, Haziran=ay5). Haziran tüketimi: 500.000 × 1,05^5 = 500.000 × 1,2763 = 638.150 m³. Artış miktarı: 138.150 m³. Artış yüzdesi: (138.150/500.000) × 100 = %27,63 ≈ %27,6. Cevap B.",
+  "aciklama": "Ocak: 500.000 m³. Haziran, Ocak'tan itibaren 5 ay sonra (Şubat=ay1, Mart=ay2, Nisan=ay3, Mayıs=ay4, Haziran=ay5). Haziran tüketimi: 500.000 × 1,05^5 = 500.000 × 1,2763 = 638.150 m³. Artış miktarı: 138.150 m³. Artış yüzdesi: (138.150/500.000) × 100 = %27,63 ≈ %27,6. Doğru cevap: «%27,6».",
   "zorluk": "zor"
  },
  {
@@ -31725,22 +31245,6 @@
   ],
   "dogru": 4,
   "aciklama": "Yıllık artış çarpanına r diyelim. İki yılda nüfus r² katına çıkar ve %21 artış için r² = 1,21 olur; buradan r = 1,1 bulunur, yani yıllık artış %10'dur. Dört yılda çarpan r⁴ = (r²)² = 1,21² = 1,4641 olur. Bu, %46,41 artış demektir. En sık yapılan hata, iki yıllık %21'i iki katına çıkarıp %42 bulmaktır; bu, bileşik artışı basit artış gibi ele almak olur ve \"%42\" seçeneğine götürür. Benzer şekilde yıllık %10'u dört yılla çarpıp %40 ya da %44 gibi değerler bulmak da yanlıştır, çünkü artış her yıl önceki yılın nüfusu üzerinden hesaplanır. Doğru cevap \"%46,41\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "102724",
-  "dersId": "matematik",
-  "konuId": "yuzde",
-  "soru": "Bir şirketin 2022 yılındaki kârı, 2021 yılına göre %20 artmıştır. 2023 yılında ise 2022 yılına göre %15 azalmıştır. 2024 yılında şirket, 2021 yılındaki kâr düzeyine ulaşmak istemektedir. Bunun için 2024 yılındaki kârın 2023 yılına göre yaklaşık yüzde kaç artması gerekmektedir?",
-  "secenekler": [
-   "%1,96",
-   "%5,85",
-   "%2,15",
-   "%3,21",
-   "%4,70"
-  ],
-  "dogru": 0,
-  "aciklama": "2021 kârı = K. 2022 kârı = 1,20K. 2023 kârı = 1,20K × 0,85 = 1,02K. 2024 hedefi = K (2021 düzeyi). Gerekli artış oranı = (K - 1,02K) / 1,02K = -0,02/1,02 ≈ -0,0196. Yani 2023'e göre yaklaşık %1,96 AZALMA gerekir; ancak soru 2021 düzeyine çıkmak için ne kadar artış gerekir diye soruyor. 2021 kârı = K, 2023 kârı = 1,02K olduğundan 2021 düzeyi 2023'ten aşağıdadır. Gerekli değişim = (K/1,02K - 1) × 100 = (1/1,02 - 1) × 100 ≈ -1,96%, yani yaklaşık %1,96 azalma gerekir. Ancak soruyu 'artış' çerçevesinde yorumlarsak ve seçenekler arasında en yakın değer aranırsa: A) %1,96 azalma miktarının mutlak değerine karşılık gelir. Cevap: %1,96.",
   "zorluk": "zor"
  },
  {
@@ -31884,7 +31388,7 @@
    "50"
   ],
   "dogru": 2,
-  "aciklama": "Kâr = 400 × 0,15 = 60 TL.",
+  "aciklama": "Kâr miktarı, alış fiyatı üzerinden kâr yüzdesi alınarak bulunur. Alış fiyatı 400 TL ve kâr oranı %15 olduğuna göre kâr, 400 × 15 / 100 = 60 TL olur. Bu durumda ürünün satış fiyatı 400 + 60 = 460 TL'dir ve kâr miktarı 60 TL'dir.",
   "zorluk": "kolay"
  },
  {
@@ -31916,7 +31420,7 @@
    "30"
   ],
   "dogru": 4,
-  "aciklama": "Zarar = 300 - 270 = 30 TL.",
+  "aciklama": "Zarar, alış fiyatı ile satış fiyatı arasındaki farktır. Satıcı ürünü 300 TL'ye alıp 270 TL'ye sattığı için zarar 300 - 270 = 30 TL olur. Bu nedenle doğru cevap 30'dur.",
   "zorluk": "kolay"
  },
  {
@@ -32268,7 +31772,7 @@
    "65 TL"
   ],
   "dogru": 0,
-  "aciklama": "Kâr = 350 × 0,20 = 70 TL.",
+  "aciklama": "Kâr, maliyet üzerinden hesaplandığı için 350 TL'nin %20'si bulunur: 350 × 20 / 100 = 70 TL. Buna göre ürün 350 + 70 = 420 TL'ye satılır ve satıcının elde ettiği kâr 70 TL olur. Diğer seçenekler, maliyetin %20'sine karşılık gelmediği için yanlıştır.",
   "zorluk": "kolay"
  },
  {
@@ -32411,7 +31915,7 @@
    "Başabaş",
    "%9 zarar"
   ],
-  "dogru": 4,
+  "dogru": 3,
   "aciklama": "Her biri 100 TL alış fiyatlı olsun. Birinci: 130 TL, İkinci: 70 TL. Toplam alış: 200 TL, Toplam satış: 200 TL. Kâr/Zarar yok → Başabaş değil! Formülle: Genel zarar oranı = (kâr% × zarar%) / 100 = (30 × 30) / 100 = %9 zarar. Bu klasik bir ÖSYM tuzağıdır; yüzdeler eşit olsa bile sonuç her zaman zarardır.",
   "zorluk": "kolay"
  },
@@ -33100,7 +32604,7 @@
    "98 TL kâr"
   ],
   "dogru": 2,
-  "aciklama": "Alış fiyatı = 350 TL. Etiket fiyatı = 350 × 1,40 = 490 TL. %20 indirimle satış fiyatı = 490 × 0,80 = 392 TL. Kâr = 392 – 350 = 42 TL. Cevap A.",
+  "aciklama": "Alış fiyatı = 350 TL. Etiket fiyatı = 350 × 1,40 = 490 TL. %20 indirimle satış fiyatı = 490 × 0,80 = 392 TL. Kâr = 392 – 350 = 42 TL. Doğru cevap: «42 TL kâr».",
   "zorluk": "zor"
  },
  {
@@ -33132,7 +32636,7 @@
    "35"
   ],
   "dogru": 3,
-  "aciklama": "Alış fiyatı = 100 TL (varsayım). Etiket fiyatı = 160 TL. %12 kâr hedefiyle satış fiyatı = 112 TL. İndirim oranı = (160 – 112) / 160 × 100 = 48/160 × 100 = 30. x = 30. Cevap C.",
+  "aciklama": "Alış fiyatı = 100 TL (varsayım). Etiket fiyatı = 160 TL. %12 kâr hedefiyle satış fiyatı = 112 TL. İndirim oranı = (160 – 112) / 160 × 100 = 48/160 × 100 = 30. x = 30. Doğru cevap: «30».",
   "zorluk": "zor"
  },
  {
@@ -33164,7 +32668,7 @@
    "%13,95"
   ],
   "dogru": 2,
-  "aciklama": "Etiket fiyatı = 1800 TL. %15 indirim → 1800 × 0,85 = 1530 TL. %10 indirim → 1530 × 0,90 = 1377 TL. Maliyet = 1200 TL. Kâr = 1377 – 1200 = 177 TL. Kâr yüzdesi = 177/1200 × 100 = 14,75. Cevap A.",
+  "aciklama": "Etiket fiyatı = 1800 TL. %15 indirim → 1800 × 0,85 = 1530 TL. %10 indirim → 1530 × 0,90 = 1377 TL. Maliyet = 1200 TL. Kâr = 1377 – 1200 = 177 TL. Kâr yüzdesi = 177/1200 × 100 = 14,75. Doğru cevap: «%14,75».",
   "zorluk": "zor"
  },
  {
@@ -33196,7 +32700,7 @@
    "%30 zarar"
   ],
   "dogru": 4,
-  "aciklama": "Maliyet = 1200 TL. Satış fiyatı (indirimli) = 1200 × 1,12 = 1344 TL. Etiket fiyatının %80'i = 1344 TL olduğundan etiket fiyatı = 1344/0,80 = 1680 TL. x = (1680−1200)/1200 × 100 = 480/1200 × 100 = %40. Etiket fiyatının yarısı = 1680/2 = 840 TL. Maliyet 1200 TL, satış 840 TL. Zarar = 1200 − 840 = 360 TL. Zarar yüzdesi = 360/1200 × 100 = %30 zarar. Doğru cevap C.",
+  "aciklama": "Maliyet = 1200 TL. Satış fiyatı (indirimli) = 1200 × 1,12 = 1344 TL. Etiket fiyatının %80'i = 1344 TL olduğundan etiket fiyatı = 1344/0,80 = 1680 TL. x = (1680−1200)/1200 × 100 = 480/1200 × 100 = %40. Etiket fiyatının yarısı = 1680/2 = 840 TL. Maliyet 1200 TL, satış 840 TL. Zarar = 1200 − 840 = 360 TL. Zarar yüzdesi = 360/1200 × 100 = %30 zarar. Doğru cevap: «%30 zarar».",
   "zorluk": "zor"
  },
  {
@@ -34988,7 +34492,7 @@
    "2,2 saat"
   ],
   "dogru": 0,
-  "aciklama": "Yol = d. Hızlı trenin hızı = d/2, Normal trenin hızı = d/3. Hızlı tren 2 saatte B'ye varıp geri dönüyor. Karşılaşma anına kadar geçen toplam süre = t. Bu sürede hızlı tren d + (d − hızlı trenin geri döndüğü mesafe) = t×(d/2) toplam yol yapar. Daha basit: t anında hızlı tren aldığı toplam yol = (d/2)×t. Bu yol gidiş-dönüş olduğundan konumu = 2d − (d/2)t (t>2 için) veya (d/2)t (t<2 için). Normal trenin konumu = (d/3)×t. Karşılaşma için t>2: 2d − (d/2)t = (d/3)t. 2d = t(d/2 + d/3) = t×5d/6. t = 2×6/5 = 12/5 = 2,4 saat. Karşılaşma noktası A'ya normal trene göre: 2,4 saat. Cevap C.",
+  "aciklama": "Yol = d. Hızlı trenin hızı = d/2, Normal trenin hızı = d/3. Hızlı tren 2 saatte B'ye varıp geri dönüyor. Karşılaşma anına kadar geçen toplam süre = t. Bu sürede hızlı tren d + (d − hızlı trenin geri döndüğü mesafe) = t×(d/2) toplam yol yapar. Daha basit: t anında hızlı tren aldığı toplam yol = (d/2)×t. Bu yol gidiş-dönüş olduğundan konumu = 2d − (d/2)t (t>2 için) veya (d/2)t (t<2 için). Normal trenin konumu = (d/3)×t. Karşılaşma için t>2: 2d − (d/2)t = (d/3)t. 2d = t(d/2 + d/3) = t×5d/6. t = 2×6/5 = 12/5 = 2,4 saat. Karşılaşma noktası A'ya normal trene göre: 2,4 saat. Doğru cevap: «2,4 saat».",
   "zorluk": "zor"
  },
  {
@@ -36240,22 +35744,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "103095",
-  "dersId": "matematik",
-  "konuId": "i_sci_havuz",
-  "soru": "Bir havuzu doldurmak için A borusu tek başına 20 dakika, B borusu tek başına 30 dakika almaktadır. Her iki boru da açılır; ancak bir kaçak nedeniyle havuz her saatte 1/10 oranında boşalmaktadır. Bu koşullar altında havuz kaç dakikada dolar?",
-  "secenekler": [
-   "10",
-   "12",
-   "14",
-   "13",
-   "15"
-  ],
-  "dogru": 1,
-  "aciklama": "A borusu dakikada 1/20, B borusu 1/30 havuz doldurur; birlikte 1/20 + 1/30 = 5/60 = 1/12 havuz/dakika. Kaçak saatte 1/10 olduğundan dakikada 1/600 havuz boşaltır. Net doldurma hızı = 1/12 − 1/600 = 50/600 − 1/600 = 49/600 havuz/dakika. Süre = 1 ÷ (49/600) = 600/49 ≈ 12,2 dakikadır. Doğru cevap 12 şeklindedir.",
-  "zorluk": "zor"
- },
- {
   "id": "103100",
   "dersId": "matematik",
   "konuId": "i_sci_havuz",
@@ -36396,7 +35884,7 @@
    "C=16 gün, A/B=2"
   ],
   "dogru": 0,
-  "aciklama": "C=1/4-1/6=1/12 (12 gün), B=1/8-1/12=1/24, A=1/8 olduğundan A/B=3. Doğru cevap C=12 gün, A/B=3 şeklindedir.",
+  "aciklama": "Üçünün birlikte günlük iş miktarı 1/4, A ile B'nin 1/6, B ile C'nin 1/8'dir. C'nin günlük iş miktarı 1/4 - 1/6 = 1/12 olduğundan C işi tek başına 12 günde bitirir. A'nın günlük iş miktarı 1/4 - 1/8 = 1/8, B'ninki ise 1/6 - 1/8 = 1/24 olduğundan A/B oranı (1/8)/(1/24) = 3 bulunur. Bu yüzden doğru cevap \"C=12 gün, A/B=3\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -37184,22 +36672,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "103198",
-  "dersId": "matematik",
-  "konuId": "yas_problemleri",
-  "soru": "Bir sınıftaki 30 öğrencinin yaş ortalaması 14'tür. Sınıfa 15 yaşında 6 yeni öğrenci katıldığında, sınıfın yeni yaş ortalaması kaç olur?",
-  "secenekler": [
-   "14,1",
-   "14,0",
-   "14,2",
-   "14,3",
-   "14,4"
-  ],
-  "dogru": 2,
-  "aciklama": "Başlangıçta toplam yaş = 30 × 14 = 420. 6 yeni öğrencinin toplam yaşı = 6 × 15 = 90. Yeni toplam yaş = 420 + 90 = 510. Yeni öğrenci sayısı = 36. Yeni ortalama = 510 / 36 = 14,1̄ ≈ 14,17. En yakın seçenek: 510/36 = 85/6 ≈ 14,17. Seçeneklere göre B) 14,1 olabilir ancak tam değer 14,17'dir. Doğru hesap: 510 ÷ 36 = 14 artı 6/36 = 14 + 1/6 ≈ 14,167. Bu seçenekler arasında C) 14,2'ye en yakındır. Cevap 14,2.",
-  "zorluk": "orta"
- },
- {
   "id": "103199",
   "dersId": "matematik",
   "konuId": "yas_problemleri",
@@ -37420,7 +36892,7 @@
    "1/9"
   ],
   "dogru": 2,
-  "aciklama": "Öğretmen sayısı=t, öğrenci sayısı=s. (40t+15s)/(t+s)=17 → 40t+15s=17t+17s → 23t=2s → t/s=2/23. Cevap B.",
+  "aciklama": "Öğretmen sayısı=t, öğrenci sayısı=s. (40t+15s)/(t+s)=17 → 40t+15s=17t+17s → 23t=2s → t/s=2/23. Doğru cevap: «2/23».",
   "zorluk": "zor"
  },
  {
@@ -37756,7 +37228,7 @@
    "10"
   ],
   "dogru": 3,
-  "aciklama": "3x - 5 = 19 → 3x = 24 → x = 8",
+  "aciklama": "Aranan sayıya x dersek, sayının 3 katından 5 çıkarılması 3x - 5 olarak yazılır ve bu ifade 19'a eşittir. 3x - 5 = 19 denkleminde her iki tarafa 5 eklenirse 3x = 24 bulunur. Her iki taraf 3'e bölündüğünde x = 8 elde edilir; kontrol için 8'in 3 katı 24, 24'ten 5 çıkarılınca 19 bulunur. Bu nedenle doğru cevap 8'dir.",
   "zorluk": "kolay"
  },
  {
@@ -37788,7 +37260,7 @@
    "10"
   ],
   "dogru": 3,
-  "aciklama": "6x = 48 → x = 8",
+  "aciklama": "Denklemin sol tarafındaki terimler toplandığında x + 2x + 3x = 6x elde edilir. Böylece denklem 6x = 48 hâline gelir ve her iki taraf 6'ya bölündüğünde x = 8 bulunur. Sağlama yapıldığında 8 + 16 + 24 = 48 olduğu görülür, bu nedenle doğru cevap 8'dir.",
   "zorluk": "kolay"
  },
  {
@@ -37916,7 +37388,7 @@
    "9"
   ],
   "dogru": 4,
-  "aciklama": "x/3 + 2 = 5 → x/3 = 3 → x = 9",
+  "aciklama": "Denklemin her iki tarafından 2 çıkarıldığında x/3 = 3 elde edilir. Ardından her iki taraf 3 ile çarpılarak x = 9 bulunur. Kontrol için 9/3 + 2 = 3 + 2 = 5 olduğundan doğru cevap 9'dur.",
   "zorluk": "kolay"
  },
  {
@@ -37980,7 +37452,7 @@
    "8"
   ],
   "dogru": 0,
-  "aciklama": "3x/4 = 9 → 3x = 36 → x = 12",
+  "aciklama": "Denklemde x'i yalnız bırakmak için önce her iki tarafı 4 ile çarparız ve 3x = 36 elde ederiz. Ardından her iki tarafı 3'e böleriz ve x = 12 buluruz. Sağlama yapıldığında 3·12/4 = 36/4 = 9 olduğundan doğru cevap 12'dir.",
   "zorluk": "kolay"
  },
  {
@@ -38764,7 +38236,7 @@
    "1"
   ],
   "dogru": 2,
-  "aciklama": "αβγδ=(c/a)(a/b)=c/b, (α+β)(γ+δ)=(-b/a)(-c/b)=c/a olduğundan oran a/b'dir. Doğru cevap a/b şeklindedir.",
+  "aciklama": "Çarpım c bölü a çarpı a bolu b eşittir c bölü b; toplamlar çarpımı eksi b bolu a çarpı eksi c bölü b eşittir c bölü a. Oran a bolu b.",
   "zorluk": "zor"
  },
  {
@@ -38796,7 +38268,7 @@
    "0 < k < 1/2"
   ],
   "dogru": 2,
-  "aciklama": "Her iki kök negatif olması için: (1) Diskriminant ≥ 0, (2) köklerin toplamı < 0, (3) köklerin çarpımı > 0. Toplam = -(2k-1) = 1-2k < 0 → k > 1/2. Çarpım = k²-k = k(k-1) > 0 → k<0 veya k>1. Diskriminant: (2k-1)²-4(k²-k) = 4k²-4k+1-4k²+4k = 1 ≥ 0 (her zaman). Kesişim: (k>1/2) ∩ (k<0 veya k>1) = k>1. Cevap A.",
+  "aciklama": "Diskriminant (2k-1)² - 4(k² - k) = 1 olduğundan denklemin her zaman iki farklı gerçel kökü vardır ve bu kökler x = -k ile x = 1 - k olarak bulunur. Her iki kökün negatif olması için -k < 0 yani k > 0 ve 1 - k < 0 yani k > 1 koşullarının birlikte sağlanması gerekir. Bu iki koşulun kesişimi k > 1 olduğundan doğru cevap k > 1'dir.",
   "zorluk": "zor"
  },
  {
@@ -39084,7 +38556,7 @@
    "A ∩ B = ∅"
   ],
   "dogru": 2,
-  "aciklama": "A − B = ∅ olması, A'nın tüm elemanlarının B'de de bulunduğu anlamına gelir; bu da A ⊆ B demektir. Doğru cevap A − B = ∅'dır.",
+  "aciklama": "A − B = ∅ olması, A'nın tüm elemanlarının B'de de bulunduğu anlamına gelir; bu da A ⊆ B demektir. Doğru cevap C) A − B = ∅'dır.",
   "zorluk": "kolay"
  },
  {
@@ -40732,7 +40204,7 @@
    "7/8"
   ],
   "dogru": 3,
-  "aciklama": "Toplam 2³=8 eşit olası durum. Tam 2 kız: C(3,2)·(1/2)³ = 3/8. Tam 3 kız: C(3,3)·(1/2)³ = 1/8. En az 2 kız: 3/8 + 1/8 = 4/8 = 1/2. Doğru cevap A'dır.",
+  "aciklama": "Toplam 2³=8 eşit olası durum. Tam 2 kız: C(3,2)·(1/2)³ = 3/8. Tam 3 kız: C(3,3)·(1/2)³ = 1/8. En az 2 kız: 3/8 + 1/8 = 4/8 = 1/2. Doğru cevap: «1/2».",
   "zorluk": "orta"
  },
  {
@@ -40764,7 +40236,7 @@
    "7/10"
   ],
   "dogru": 2,
-  "aciklama": "Toplam C(10,3)=120. Hiç Türkçe kitap olmama (3 matematik): C(6,3)=20. En az 1 Türkçe: 1 - 20/120 = 100/120 = 5/6. Doğru cevap A'dır.",
+  "aciklama": "Toplam C(10,3)=120. Hiç Türkçe kitap olmama (3 matematik): C(6,3)=20. En az 1 Türkçe: 1 - 20/120 = 100/120 = 5/6. Doğru cevap: «5/6».",
   "zorluk": "orta"
  },
  {
@@ -40781,22 +40253,6 @@
   ],
   "dogru": 3,
   "aciklama": "Yalnızca 3. atışta 6 gelmesi demek, 1. atışta 6 GELMEMESİ, 2. atışta 6 GELMEMESİ ve 3. atışta 6 GELMESİ demektir. Olasılık = (5/6)·(5/6)·(1/6) = 25/216.",
-  "zorluk": "orta"
- },
- {
-  "id": "103506",
-  "dersId": "matematik",
-  "konuId": "olasilik",
-  "soru": "Bir öğrenci sınavda 5 doğru 1 yanlış yapacak şekilde soruları cevaplıyor. 10 soruluk sınavda rastgele 1 soru seçildiğinde bu sorunun doğru cevaplanmış olma olasılığı nedir? (Öğrenci 10 sorudan rastgele 6 tanesini cevaplayacak şekilde seçiyor.)",
-  "secenekler": [
-   "1/4",
-   "5/12",
-   "1/3",
-   "5/10",
-   "1/2"
-  ],
-  "dogru": 4,
-  "aciklama": "Öğrenci 10 sorudan 6'sını seçiyor: 5 doğru 1 yanlış. Rastgele bir soru seçildiğinde bu soruya cevap verilmiş olma olasılığı 6/10 = 3/5. Cevap verilmişse doğru olma olasılığı 5/6. Toplam olasılık = (3/5)·(5/6) = 15/30 = 1/2.",
   "zorluk": "orta"
  },
  {
@@ -41251,7 +40707,7 @@
   "id": "103552",
   "dersId": "matematik",
   "konuId": "olasilik",
-  "soru": "P(A)=1/3, P(B)=1/4 ve A ile B olayları bağımsızdır. P[(A∪B)'] kaçtır?",
+  "soru": "P(A)=1/3, P(B)=1/4 ve A ile B olayları bağımsızdır. P«(A∪B)'» kaçtır?",
   "secenekler": [
    "1/3",
    "1/2",
@@ -41267,7 +40723,7 @@
   "id": "103553",
   "dersId": "matematik",
   "konuId": "olasilik",
-  "soru": "10 sorudan oluşan bir testte her sorunun 4 şıkkı vardır ve yalnızca 1 şık doğrudur. Tamamen rastgele cevaplayan bir öğrencinin tam olarak 3 soruyu doğru yanıtlama olasılığı kaçtır? [C(10,3)=120 alınız]",
+  "soru": "10 sorudan oluşan bir testte her sorunun 4 şıkkı vardır ve yalnızca 1 şık doğrudur. Tamamen rastgele cevaplayan bir öğrencinin tam olarak 3 soruyu doğru yanıtlama olasılığı kaçtır? «C(10,3)=120 alınız»",
   "secenekler": [
    "120×(1/4)⁷×(3/4)³",
    "10×(1/4)³×(3/4)⁷",

@@ -5276,7 +5276,7 @@
    "Doğru tanımı tekrar ettirmek ve yanlış kullanım gözlemlendiğinde hemen düzeltmek"
   ],
   "dogru": 1,
-  "aciklama": "Doğru seçenek dört koşulu sırasıyla karşılar. Öğrencinin tahmini ile deney sonucunun çelişmesi bir anomali yaratır ve mevcut kavramla tatminsizlik doğurur. Yeni kavramın açıklanması onu anlaşılır kılar. Yeni kavramın anomaliyi açıklayabilmesi makul görünmesini sağlar. Farklı bağlamlarda ne kadar açıklayıcı olduğunun gösterilmesi de verimliliğini ortaya koyar. \"Isı ve sıcaklık kavramlarını tanımlayan doğru bilimsel açıklamayı sunarken\" diye başlayan seçenek yanlıştır; anlaşılırlığı destekler ama tatminsizlik yaratmaz ve verimliliği göstermez. \"Sınıfa bilimsel otoritenin açıklamalarını sunmak\" seçeneği de yanlıştır, çünkü otoriteye dayalı kabul, öğrencinin kendi kavramını sorgulamasını sağlamaz. Doğru cevap \"Öğrencinin mevcut görüşünün tahmin ettiği sonuçla gerçek deney sonucunu çeliştirecek bir anomali oluşturmak\" seçeneğidir.",
+  "aciklama": "Doğru cevap, \"Öğrencinin mevcut görüşünün tahmin ettiği sonuçla gerçek deney sonucunu çeliştirecek bir anomali oluşturmak, ardından yeni kavramı açıklayarak farklı bağlamlarda ne kadar açıklayıcı olduğunu göstermek\" stratejisidir; çünkü Posner ve arkadaşlarının dört koşulunu sırasıyla karşılar. Mevcut görüşün öngörüsüyle çelişen deney sonucu, öğrencide eski kavramla tatminsizlik yaratır. Yeni kavramın açıklanması onu anlaşılır kılar; bu açıklamanın gözlenen anomaliyi de çözmesi kavramı makul gösterir. Farklı bağlamlarda açıklayıcı olduğunun gösterilmesi ise verimliliği sağlar. Diğer seçenekler otoriteye dayanma, tanım sunma, video izletme ya da tekrar ettirme gibi yollarla yalnızca bilgi aktarır ve özellikle tatminsizlik koşulunu oluşturmadığı için köklü kavramsal değişimi sağlayamaz.",
   "zorluk": "zor"
  },
  {
@@ -6448,22 +6448,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "200411",
-  "dersId": "egitimbilimleri",
-  "konuId": "gudulenme",
-  "soru": "Weiner'ın Nedensel Yükleme Kuramı'na göre bir öğrenci sınavdan düşük not alması üzerine 'Soru kağıdı çok zordu, kimse çözemezdi' diye düşünmektedir. Bu yükleme aşağıdaki özelliklerle doğru eşleştirilmiştir?",
-  "secenekler": [
-   "Dışsal – Kararlı – Kontrol edilebilir",
-   "İçsel – Kararlı – Kontrol edilemez",
-   "Dışsal – Kararsız – Kontrol edilebilir",
-   "İçsel – Kararsız – Kontrol edilemez",
-   "Dışsal – Kararsız – Kontrol edilemez"
-  ],
-  "dogru": 4,
-  "aciklama": "Weiner'ın kuramında nedenler üç boyutta incelenir: (1) Odak: İçsel/Dışsal, (2) Kararlılık: Kararlı (stabil)/Kararsız (geçici), (3) Kontrol edilebilirlik. 'Soru kağıdının zor olması' bireyin dışındadır (dışsal), sınavdan sınava değişebilir (kararsız/geçici) ve öğrencinin kontrolünde değildir (kontrol edilemez). Bu yükleme türü öğrencide çaresizlik değil, belirli ölçüde rahatlamaya yol açabilir; ancak gelecek çabayı azaltma riski taşır.",
-  "zorluk": "orta"
- },
- {
   "id": "200412",
   "dersId": "egitimbilimleri",
   "konuId": "gudulenme",
@@ -6557,22 +6541,6 @@
   ],
   "dogru": 1,
   "aciklama": "Bandura, öz yeterlilik kaynaklarını dört başlık altında sıralar: (1) Doğrudan başarı yaşantıları, (2) Dolaylı/vekâleten yaşantılar, (3) Sözel ikna, (4) Fizyolojik ve duygusal durumlar. Bunlar arasında en güçlü ve kalıcı kaynak, bireyin bizzat başarı deneyimi yaşamasıdır; çünkü gerçek performans verisi sağlar. Sözel ikna etkisi en zayıf kaynak olarak değerlendirilir; kolayca bozulabilir.",
-  "zorluk": "orta"
- },
- {
-  "id": "200418",
-  "dersId": "egitimbilimleri",
-  "konuId": "gudulenme",
-  "soru": "Hedef Yönelimi Kuramı (Elliot ve Dweck) çerçevesinde bir öğrenci 'Bu sınavda herkesten yüksek not almak istiyorum, eğer alamazsam rezil olurum' diye düşünmektedir. Bu öğrencinin hedef yönelimi aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Öğrenme (Ustalık) yönelimi",
-   "Ustalık-kaçınma yönelimi",
-   "Performans-yaklaşma yönelimi",
-   "Sosyal onay yönelimi",
-   "Performans-kaçınma yönelimi"
-  ],
-  "dogru": 4,
-  "aciklama": "Hedef yönelimi kuramının 2×2 modelinde dört yönelim bulunur. Performans-kaçınma yöneliminde birey, başkalarından daha kötü görünmekten kaçınmayı ve rezil olmamayı öncelikler. 'Herkesten yüksek alamazsam rezil olurum' ifadesi başarısızlığın getireceği sosyal bedele odaklanmayı yansıtır. Performans-yaklaşmada ise 'Herkesten iyi olmak istiyorum' biçiminde olumlu bir yarışma güdüsü öne çıkar; ancak buradaki 'rezil olma' kaygısı kaçınma boyutunu belirgin kılmaktadır.",
   "zorluk": "orta"
  },
  {
@@ -6924,7 +6892,7 @@
    "'Sınavı geçemedim çünkü yeterince çalışmadım.'"
   ],
   "dogru": 4,
-  "aciklama": "Weiner'in modelinde her nedensellik yükleme üç boyut üzerinden analiz edilir: (1) Odak: içsel mi dışsal mı? (2) Kararlılık: kararlı mı kararsız mı? (3) Kontrol edilebilirlik: kontrol edilebilir mi değil mi? 'Yeterince çalışmamak' içsel (bireyin kendisiyle ilgili), kararsız (her sınav öncesi değişebilir) ve kontrol edilebilir (bireyin iradesiyle değiştirilebilir) bir nedendir. Bu nedenle doğru yanıt C'dir. 'Yetenek' içsel-kararlı-kontrol edilemez; 'hastalık' içsel-kararsız-kontrol edilemez; 'zorluk' dışsal-kararlı-kontrol edilemez; 'şans' ise dışsal-kararsız-kontrol edilemez boyutundadır.",
+  "aciklama": "Weiner'in modelinde her nedensellik yükleme üç boyut üzerinden analiz edilir: (1) Odak: içsel mi dışsal mı? (2) Kararlılık: kararlı mı kararsız mı? (3) Kontrol edilebilirlik: kontrol edilebilir mi değil mi? 'Yeterince çalışmamak' içsel (bireyin kendisiyle ilgili), kararsız (her sınav öncesi değişebilir) ve kontrol edilebilir (bireyin iradesiyle değiştirilebilir) bir nedendir. Doğru cevap: «'Sınavı geçemedim çünkü yeterince çalışmadım.'». 'Yetenek' içsel-kararlı-kontrol edilemez; 'hastalık' içsel-kararsız-kontrol edilemez; 'zorluk' dışsal-kararlı-kontrol edilemez; 'şans' ise dışsal-kararsız-kontrol edilemez boyutundadır.",
   "zorluk": "zor"
  },
  {
@@ -8060,7 +8028,7 @@
    "Yakından uzağa ilkesi"
   ],
   "dogru": 0,
-  "aciklama": "Öğretmen, öğrencilerin önceden bildikleri bir deneyimi (borç-alacak) yeni kavrama (tam sayılar) köprü olarak kullanmaktadır. Bu doğrudan 'bilinenden bilinmeyene' ilkesinin uygulamasıdır. Somuttan soyuta ilkesi de akla gelebilir; ancak buradaki asıl vurgu öğrencinin mevcut bilgi birikiminin hareket noktası yapılmasıdır, dolayısıyla en doğru seçenek B'dir.",
+  "aciklama": "Öğretmen, öğrencilerin önceden bildikleri bir deneyimi (borç-alacak) yeni kavrama (tam sayılar) köprü olarak kullanmaktadır. Bu doğrudan 'bilinenden bilinmeyene' ilkesinin uygulamasıdır. Somuttan soyuta ilkesi de akla gelebilir; ancak buradaki asıl vurgu öğrencinin mevcut bilgi birikiminin hareket noktası yapılmasıdır, dolayısıyla en doğru cevap «Bilinenden bilinmeyene ilkesi»'dir.",
   "zorluk": "orta"
  },
  {
@@ -9869,22 +9837,6 @@
   ],
   "dogru": 2,
   "aciklama": "Sorgulama türleri, sürecin hangi adımlarını öğretmenin hangilerini öğrencinin belirlediğine göre ayrılır. Açık uçlu sorgulamada araştırma sorusundan yönteme ve sonuçların sunumuna kadar her aşamayı öğrenci belirler. Yönlendirmeli sorgulamada ise problemi öğretmen verir, çözüm yolunu öğrenci bulur. Bu nedenle problemin öğretmen tarafından önceden belirlenip sunulması, süreci kesin olarak açık uçlu sorgulamanın dışına çıkarır. \"Öğrencilerin araştırma sorusunu kendilerinin belirlemesi\" açık uçlu sorgulamanın en belirgin özelliğidir. \"Öğretmenin yalnızca materyalleri sağlayıp sürece müdahale etmemesi\" de öğrenci özerkliğini gösterdiği için açık uçlu yapıyla uyumludur. Doğru cevap \"Öğretmenin araştırılacak problemi önceden belirleyip öğrencilere sunması\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "200630",
-  "dersId": "egitimbilimleri",
-  "konuId": "ogretim_yontemleri",
-  "soru": "Aşağıdaki tabloda dört farklı öğretim yöntemi ve bu yöntemlere ilişkin bazı özellikler eşleştirilmiştir. Hangi eşleştirme yanlıştır?\n\nI. Sokrates yöntemi – Öğretmenin ardışık sorularla öğrencinin çelişkiye düşürülmesini sağlaması\nII. Proje tabanlı öğrenme – Ürün odaklı, gerçek yaşam problemlerine dayalı, disiplinler arası süreç\nIII. Beyin fırtınası – Fikirlerin niceliğinin niteliğinden önce geldiği, eleştirinin ertelendiği teknik\nIV. Mikro öğretim – Öğretmenlerin küçük gruplara kısa süreli ders yapıp geri bildirim aldığı yöntem\nV. Örnek olay (case study) – Öğrencilerin gerçek ya da kurgusal durumları analiz ederek çözüm geliştirdiği tümevarımsal yöntem",
-  "secenekler": [
-   "I ve IV",
-   "Yalnızca V",
-   "Yalnızca III",
-   "Hiçbiri yanlış değildir",
-   "Yalnızca I"
-  ],
-  "dogru": 3,
-  "aciklama": "Verilen tüm eşleştirmeler öğretim yöntemleri literatürüyle örtüşmektedir. Sokrates yöntemi (elenkhos) çelişkiye düşürme üzerine kuruludur; proje tabanlı öğrenme gerçek yaşam ve ürün odaklıdır; beyin fırtınasında eleştiri ertelenir; mikro öğretim kısa süreli uygulama + geri bildirim döngüsüdür; örnek olay yöntemi tümevarımsal analiz içerir. Tüm eşleştirmeler doğru olduğundan yanıt E'dir. Bu sorunun amacı, adayların her bir yöntemi derinlemesine bilip bilmediğini, 'yanlış arıyorum' refleksiyle yanıltılıp yanıltılmadığını ölçmektir.",
   "zorluk": "zor"
  },
  {
@@ -13568,22 +13520,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "200861",
-  "dersId": "egitimbilimleri",
-  "konuId": "ogretim_teknolojileri",
-  "soru": "Öğretim tasarımı alanında 'öğretim olayları' (events of instruction) kavramını geliştiren Gagné, dokuz öğretim olayını belirli bir bilişsel işlem sırasına göre sıralamıştır. Aşağıdaki öğretim senaryosunda hangi öğretim olayı atlanmış ve bu eksiklik öğrenmede nasıl bir soruna yol açmaktadır?",
-  "secenekler": [
-   "'Dikkat çekme' (Gaining attention) olayı atlanmıştır; öğrenciler derse odaklanamaz",
-   "'Öğrenmeyi transfer etme' olayı atlanmıştır; öğrenciler bilgiyi yeni bağlamlarda kullanamaz",
-   "'Önbilgileri harekete geçirme' (Stimulating recall of prior knowledge) olayı atlanmıştır; öğrencilerin uzun süreli bellekteki ilgili şemalar çalışma belleğine aktarılmadan yeni bilgi sunulmuş ve yeni bilginin mevcut şemalara bağlanması engellenmiştir",
-   "'Rehberlik sağlama' (Providing learning guidance) olayı atlanmıştır; bu nedenle öğrenciler kavramı kendi başlarına keşfedememektedir ve kavramı kendi başlarına yapılandıramamaktadır; öğretmen desteği olmadan süreç ilerlememektedir ve öğrenme yarım kalmaktadır",
-   "'Performans doğrulama' (Assessing performance) olayı atlanmıştır; bu nedenle öğretmen öğrencilere geri bildirim verememektedir"
-  ],
-  "dogru": 2,
-  "aciklama": "Bu soru senaryosuz sorulmuş gibi görünse de seçenekler, 'atlanmış olay' mantığıyla değerlendirilmelidir. Gagné'nin dokuz öğretim olayının en sık ihmal edilen ve bilişsel açıdan en kritik olanı, yeni sunumdan önce gerçekleşmesi gereken 'önbilgileri harekete geçirme' olayıdır. Bilgi işleme teorisine göre öğrenme, yeni bilginin uzun süreli bellekteki mevcut şemalara bağlanmasıyla gerçekleşir; bu da önce ilgili şemaların çalışma belleğine aktarılmasını gerektirir. Bu adım atlandığında yeni bilgi, şemalarla ilişkilendirilemeyen izole bir bilgi parçası olarak kalır; anlambilimsel ağa (semantic network) entegre olamaz ve uzun süreli hatırlamada ciddi düşüş yaşanır. Bu, bağlam içindeki en temel ve sınavlarda en çok sorulan bilişsel bağlantı sorunudur.",
-  "zorluk": "zor"
- },
- {
   "id": "200862",
   "dersId": "egitimbilimleri",
   "konuId": "ogretim_teknolojileri",
@@ -15344,22 +15280,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "200974",
-  "dersId": "egitimbilimleri",
-  "konuId": "program_temelleri",
-  "soru": "Bir program geliştirme uzmanı, mevcut matematik müfredatını yeniden yapılandırırken 'geriye doğru tasarım' (backward design) ilkesini uygulamaktadır. Bu yaklaşımın Tyler mantığından temel ayrışma noktası hangisidir?",
-  "secenekler": [
-   "Tyler modeli değerlendirmeyi süreç içinde konumlandırırken geriye doğru tasarım, değerlendirmeyi sürecin tümüyle dışında bırakmaktadır.",
-   "Tyler modeli yalnızca bilişsel alanı kapsarken geriye doğru tasarım duyuşsal alanı da kapsamaktadır.",
-   "Tyler modeli öğretmen merkezliyken geriye doğru tasarım tamamen öğrenci merkezlidir.",
-   "Tyler modeli içerikten hedefe giderken geriye doğru tasarım, hedeflenen öğrenme kanıtlarını belirleyip ardından öğretim etkinliklerini tasarlar.",
-   "Tyler modeli ihtiyaç analizini zorunlu kılarken geriye doğru tasarım bunu opsiyonel sayar."
-  ],
-  "dogru": 3,
-  "aciklama": "Tyler modeli hedef→içerik→yöntem→değerlendirme sırasını izler; yani içerik ve yöntem hedeflerden sonra gelir ancak değerlendirme son aşamadır. Wiggins ve McTighe'ın 'geriye doğru tasarım' (UbD) modelinde ise önce arzu edilen sonuçlar (hedefler), ardından kabul edilebilir kanıt (değerlendirme) belirlenir, en son öğrenme etkinlikleri planlanır. Kritik fark şudur: Tyler'da değerlendirme tasarımı en sona bırakılırken UbD'de değerlendirme kanıtları içerik/yöntemden önce tasarlanır. Bu, 'önce test, sonra öğretim tasarımı' mantığını oluşturur ve Tyler'ın doğrusal sürecinden köklü biçimde ayrışır.",
-  "zorluk": "zor"
- },
- {
   "id": "200975",
   "dersId": "egitimbilimleri",
   "konuId": "program_temelleri",
@@ -17072,22 +16992,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "201083",
-  "dersId": "egitimbilimleri",
-  "konuId": "program_modelleri",
-  "soru": "Saylor, Alexander ve Lewis'in program geliştirme modelinde 'tasarım' aşaması dört farklı boyutu kapsar. Bu modelde program tasarımı yapılırken temel alınan çerçeveler arasında hangisi yer almaz?",
-  "secenekler": [
-   "Öğrenciye dayalı tasarım",
-   "Konuya dayalı tasarım",
-   "Yeterlik ve etkinliklere dayalı tasarım",
-   "Teknolojiye dayalı tasarım",
-   "Toplumsal sorunlara dayalı tasarım"
-  ],
-  "dogru": 3,
-  "aciklama": "Saylor, Alexander ve Lewis modeli; konu merkezli (konuya dayalı), öğrenci merkezli (öğrenciye dayalı), toplum sorunları merkezli ve yeterlik/etkinlik merkezli tasarım olmak üzere dört temel tasarım çerçevesini tanımlar. Teknolojiye dayalı tasarım bu modelde ayrı bir boyut olarak yer almaz. Teknoloji, güncel program anlayışlarında araç konumunda değerlendirilse de söz konusu modelin orijinal çerçevesinde bağımsız bir tasarım kategorisi olarak tanımlanmamıştır.",
-  "zorluk": "orta"
- },
- {
   "id": "201084",
   "dersId": "egitimbilimleri",
   "konuId": "program_modelleri",
@@ -17117,22 +17021,6 @@
   ],
   "dogru": 4,
   "aciklama": "Döngüsel modellerde (örneğin Wheeler'ın modelinde) değerlendirme sonuçları sürecin başına geri beslenerek amaçların, içeriğin ve yaşantıların yeniden gözden geçirilmesini sağlar. Bu yapı, programı statik bir belge olmaktan çıkarıp dinamik ve kendini düzelten bir sisteme dönüştürür. Doğrusal modeller ise baştan sona tek yönlü ilerlediğinden değerlendirme bulguları önceki aşamaları otomatik olarak revize etmez; bu da esnekliği kısıtlar.",
-  "zorluk": "orta"
- },
- {
-  "id": "201086",
-  "dersId": "egitimbilimleri",
-  "konuId": "program_modelleri",
-  "soru": "Wheeler'ın döngüsel program geliştirme modelinde aşamalar belirli bir sırayla ilerlemekle birlikte son aşama tekrar başa döner. Bu modelde içeriğin seçimi ve organizasyonu hangi iki aşama arasında konumlanır?",
-  "secenekler": [
-   "Öğrenme yaşantılarının seçimi ile öğretim yöntemlerinin belirlenmesi arasında",
-   "Değerlendirme ile hedeflerin yeniden belirlenmesi arasında",
-   "Amaçların belirlenmesi ile değerlendirmenin yapılması arasında",
-   "İhtiyaç analizi ile amaçların oluşturulması arasında",
-   "Hedeflerin belirlenmesi ile öğrenme yaşantılarının seçimi arasında"
-  ],
-  "dogru": 4,
-  "aciklama": "Wheeler'ın modelinde aşamalar şu sırayla ilerler: 1) Hedeflerin belirlenmesi → 2) Öğrenme yaşantılarının seçimi → 3) İçeriğin seçimi → 4) Öğrenme yaşantılarının ve içeriğin organizasyonu → 5) Değerlendirme → (başa dönüş). Dolayısıyla içerik seçimi, öğrenme yaşantılarının seçiminden sonra ve organizasyon aşamasından önce gelir. Bu sıralama, Tyler'dan farklı olarak içerik seçimini yaşantı seçiminin ardına yerleştirir.",
   "zorluk": "orta"
  },
  {
@@ -17340,7 +17228,7 @@
    "Kapsam – Denge"
   ],
   "dogru": 2,
-  "aciklama": "Program geliştirmede içerik seçim ilkeleri arasında 'öğrenilebilirlik (learnability)'; içeriğin öğrencinin bağımsız olarak, kendi çabalarıyla öğrenebileceği biçimde olması anlamına gelir. 'Transfer edilebilirlik (transferability)' ise seçilen içeriğin genellenebilir ilkeleri, kavramları ve süreci kapsayarak öğrencinin bu bilgileri farklı durumlara uygulamasına zemin hazırlaması anlamına gelir. Birinci görüş öğrenilebilirliği, ikinci görüş ise transfer edilebilirliği karşılamaktadır. Doğru yanıt B'dir.",
+  "aciklama": "Program geliştirmede içerik seçim ilkeleri arasında 'öğrenilebilirlik (learnability)'; içeriğin öğrencinin bağımsız olarak, kendi çabalarıyla öğrenebileceği biçimde olması anlamına gelir. 'Transfer edilebilirlik (transferability)' ise seçilen içeriğin genellenebilir ilkeleri, kavramları ve süreci kapsayarak öğrencinin bu bilgileri farklı durumlara uygulamasına zemin hazırlaması anlamına gelir. Birinci görüş öğrenilebilirliği, ikinci görüş ise transfer edilebilirliği karşılamaktadır. Doğru cevap: «Öğrenilebilirlik – Transfer edilebilirlik».",
   "zorluk": "zor"
  },
  {
@@ -18043,7 +17931,7 @@
    "Piramitsel düzenleme",
    "Tematik düzenleme"
   ],
-  "dogru": 3,
+  "dogru": 4,
   "aciklama": "Program geliştirmede yaygın içerik düzenleme yaklaşımları arasında doğrusal, sarmal, modüler, tematik ve proje tabanlı düzenlemeler sayılabilir. 'Piramitsel düzenleme' literatürde tanımlanan standart bir içerik düzenleme yaklaşımı değildir.",
   "zorluk": "kolay"
  },
@@ -18877,22 +18765,6 @@
   ],
   "dogru": 4,
   "aciklama": "Öğrenci merkezli program anlayışı, programın tasarımında öğrencinin ilgi alanlarını, bireysel ihtiyaçlarını ve yaşam deneyimlerini temel alır. Bu anlayış; John Dewey'in pragmatist eğitim felsefesiyle ve progresivizm akımıyla doğrudan ilişkilidir. Konu alanı merkezli programlar akademik disiplinleri, toplum merkezli programlar sosyal sorunları ve toplumun ihtiyaçlarını, akademik rasyonalizm ise büyük eserleri ve evrensel bilgiyi ön plana çıkarır. Çekirdek program ise tüm öğrencilerin alması gereken ortak bir içerik bloğuna işaret eder.",
-  "zorluk": "orta"
- },
- {
-  "id": "201197",
-  "dersId": "egitimbilimleri",
-  "konuId": "hedef_i_cerik_surec",
-  "soru": "Bir öğretmen, 'Öğrenciler, Atatürk'ün hayatını anlatan bir metin okuduktan sonra onun liderlik özelliklerini kendi cümleleriyle ifade edebilecektir.' şeklinde bir hedef yazmıştır. Bu hedef Bloom taksonomisine göre hangi basamağa aittir ve hedefin yazımında ne tür bir sorun vardır?",
-  "secenekler": [
-   "Uygulama basamağına aittir; hedefte yeterlik ölçütü belirtilmemiştir.",
-   "Bilgi basamağına aittir; 'kendi cümleleriyle ifade etme' ifadesi hiçbir biçimde ölçülebilir değildir. Bu nedenle hedef yeniden yazılmalıdır.",
-   "Analiz basamağına aittir; hedef birden fazla davranış içermektedir.",
-   "Sentez basamağına aittir; hedef öğrencinin tümüyle özgün bir üretim yapmasını gerektirmektedir.",
-   "Kavrama basamağına aittir; hedef gözlemlenebilir bir davranış fiili içermekte ancak koşul ifadesi hedefin sınırlarını daraltmaktadır."
-  ],
-  "dogru": 4,
-  "aciklama": "Hedefte geçen 'kendi cümleleriyle ifade edebilecektir' ifadesi, bilgiyi olduğu gibi aktarmayı değil, anlamlandırarak yeniden ifade etmeyi gerektirdiğinden Bloom'un bilişsel alanındaki kavrama (anlama) basamağına aittir. Hedefin temel sorunu ise 'bir metin okuduktan sonra' koşulunun hedefi belirli bir materyalle sınırlandırmasıdır; bu, hedefin genellenebilirliğini azaltır. Hedefler genellikle ölçme durumunu değil, kazanılması beklenen yeterliliği tanımlamalıdır.",
   "zorluk": "orta"
  },
  {
@@ -20672,22 +20544,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "201309",
-  "dersId": "egitimbilimleri",
-  "konuId": "olcme_turleri",
-  "soru": "Bir bölgede çalışan 500 öğretmen; branşlarına göre 'sınıf öğretmeni', 'Türkçe öğretmeni', 'matematik öğretmeni' olarak sınıflandırılmıştır. Ardından bu öğretmenlerin hizmet yılı sıralaması yapılmış, hizmet yılı ortalamaları hesaplanmış ve en fazla hizmet yılına sahip olanlar belirlenmiştir. Bu işlemlerde sırasıyla hangi ölçek türleri kullanılmıştır?",
-  "secenekler": [
-   "Sıralama – Aralık – Sınıflama – Oran",
-   "Sınıflama – Sıralama – Aralık – Oran",
-   "Sınıflama – Aralık – Sıralama – Oran",
-   "Sınıflama – Sıralama – Oran – Aralık",
-   "Sıralama – Sınıflama – Aralık – Oran"
-  ],
-  "dogru": 1,
-  "aciklama": "Branşa göre sınıflandırma kategorik bir gruplamadır → Sınıflama ölçeği. Hizmet yılı sıralaması yapmak sıralama işlemidir → Sıralama ölçeği. Ortalama hesabı için eşit aralıklı birimler gereklidir; hizmet yılı sayısaldir ancak mutlak sıfır tartışmalı olsa da bu işlemde aralık ölçeği kabul edilir → Aralık ölçeği. 'En fazla hizmet yılına sahip' belirlemesi, gerçek sıfırın bulunduğu yıl sayısı üzerinden oran karşılaştırması yapılmasına olanak tanır (10 yıl, 5 yılın iki katıdır gibi) → Oran ölçeği. Doğru sıralama: Sınıflama – Sıralama – Aralık – Oran.",
-  "zorluk": "orta"
- },
- {
   "id": "201310",
   "dersId": "egitimbilimleri",
   "konuId": "olcme_turleri",
@@ -21420,7 +21276,7 @@
    "Her üç ölçme de ölçüt referanslıdır çünkü aynı öğrenci grubunun gelişimi izlenmektedir."
   ],
   "dogru": 0,
-  "aciklama": "Dönem başı ölçmesi öğrencilerin ön bilgilerini ve yerleştirilecekleri düzeyi belirlemeye yönelik olduğundan tanıma-yerleştirme (diagnostik) amaçlıdır. Dönem ortası ölçmesi öğrenme sürecini izlemek ve gerektiğinde düzenlemek için yapıldığından biçimlendirici (formative) amaçlıdır. Dönem sonu ölçmesi ise öğrenme çıktılarını bütünüyle değerlendirdiği için düzey belirleyici (summative) amaçlıdır. Birden fazla zaman noktasında aynı grubun ölçülmesi boylamsal ölçme desenini tanımlar. En kapsamlı ve doğru yanıt C'dir.",
+  "aciklama": "Dönem başı ölçmesi öğrencilerin ön bilgilerini ve yerleştirilecekleri düzeyi belirlemeye yönelik olduğundan tanıma-yerleştirme (diagnostik) amaçlıdır. Dönem ortası ölçmesi öğrenme sürecini izlemek ve gerektiğinde düzenlemek için yapıldığından biçimlendirici (formative) amaçlıdır. Dönem sonu ölçmesi ise öğrenme çıktılarını bütünüyle değerlendirdiği için düzey belirleyici (summative) amaçlıdır. Birden fazla zaman noktasında aynı grubun ölçülmesi boylamsal ölçme desenini tanımlar. Doğru cevap: «Dönem başı: Tanıma-yerleştirme; dönem ortası: biçimlendirici; dönem sonu: düzey belirleyici ölçmedir. Ayrıca birden fazla zaman noktasındaki ölçme boylamsal bir ölçme desenini temsil eder».",
   "zorluk": "zor"
  },
  {
@@ -22972,7 +22828,7 @@
    "0.78"
   ],
   "dogru": 2,
-  "aciklama": "Yarıya bölme yönteminde önce iki yarı arasındaki korelasyon bulunur, ardından Spearman-Brown formülüyle tüm test için düzeltme yapılır. Formül: r_tam = (2 × r_yarı) / (1 + r_yarı) = (2 × 0.70) / (1 + 0.70) = 1.40 / 1.70 ≈ 0.824 ≈ 0.82. Doğru yanıt C'dir. Bu formül, yarıya bölmede k=2 alındığında Spearman-Brown'un özel hâlidir.",
+  "aciklama": "Yarıya bölme yönteminde önce iki yarı arasındaki korelasyon bulunur, ardından Spearman-Brown formülüyle tüm test için düzeltme yapılır. Formül: r«tam = (2 × r»yarı) / (1 + r_yarı) = (2 × 0.70) / (1 + 0.70) = 1.40 / 1.70 ≈ 0.824 ≈ 0.82. Doğru yanıt C'dir. Bu formül, yarıya bölmede k=2 alındığında Spearman-Brown'un özel hâlidir.",
   "zorluk": "orta"
  },
  {
@@ -23532,7 +23388,7 @@
    "0,82 olur çünkü Spearman-Brown formülü doğrudan orijinal teste uygulandığında bu değeri vermektedir."
   ],
   "dogru": 0,
-  "aciklama": "Spearman-Brown formülü, yarı test güvenirliğinden tam test güvenirliğini tahmin eder: r_tam = 2 × r_yarı / (1 + r_yarı). Burada yarı test güvenirliği 0,70'tir. Hesap: 2 × 0,70 / (1 + 0,70) = 1,40 / 1,70 ≈ 0,82. Yeni testte de yarı test güvenirliği 0,70 bulunduğuna göre, 60'ar maddelik iki yarıdan oluşan 120 maddelik testin tahmini güvenirliği yine yaklaşık 0,82 olur. Madde sayısının artması yarı testin güvenirliğini değiştirmediği için sonuç aynı kalır. \"0,70'e eşit kalır çünkü yarı test güvenirliği değişmediği sürece tam test güvenirliği de hiçbir biçimde değişmez.\" seçeneği yanlıştır, çünkü formül güvenirliği artırır. \"0,70'ten düşük olur çünkü madde sayısı arttıkça ölçme hatası birikir.\" seçeneği de yanlıştır, çünkü benzer maddeler eklendikçe güvenirlik genelde artar. Doğru cevap \"0,82 olur çünkü Spearman-Brown formülü 60 maddelik yarı testlere uygulandığında tam 120 maddelik test için aynı sonucu verir\" seçeneğidir.",
+  "aciklama": "Spearman-Brown formülü, yarı test güvenirliğinden tam test güvenirliğini tahmin eder: r«tam = 2 × r»yarı / (1 + r_yarı). Burada yarı test güvenirliği 0,70'tir. Hesap: 2 × 0,70 / (1 + 0,70) = 1,40 / 1,70 ≈ 0,82. Yeni testte de yarı test güvenirliği 0,70 bulunduğuna göre, 60'ar maddelik iki yarıdan oluşan 120 maddelik testin tahmini güvenirliği yine yaklaşık 0,82 olur. Madde sayısının artması yarı testin güvenirliğini değiştirmediği için sonuç aynı kalır. \"0,70'e eşit kalır çünkü yarı test güvenirliği değişmediği sürece tam test güvenirliği de hiçbir biçimde değişmez.\" seçeneği yanlıştır, çünkü formül güvenirliği artırır. \"0,70'ten düşük olur çünkü madde sayısı arttıkça ölçme hatası birikir.\" seçeneği de yanlıştır, çünkü benzer maddeler eklendikçe güvenirlik genelde artar. Doğru cevap \"0,82 olur çünkü Spearman-Brown formülü 60 maddelik yarı testlere uygulandığında tam 120 maddelik test için aynı sonucu verir\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -23651,10 +23507,10 @@
   "id": "201503",
   "dersId": "egitimbilimleri",
   "konuId": "guvenirlik_gecerlik",
-  "soru": "Bir araştırmacı, 3 puanlayıcının aynı 25 öğrenciye verdiği puanları değerlendirmek için Genellenebilirlik Kuramı (G-Kuramı) çerçevesinde bir G-çalışması yürütmüştür. Varyans bileşenleri şöyle bulunmuştur: Öğrenci varyansı (σ²_p) = 12, Puanlayıcı varyansı (σ²_r) = 0,5, Etkileşim + artık varyans (σ²_pr,e) = 8. Buna göre aşağıdaki yorumlardan hangisi doğrudur?",
+  "soru": "Bir araştırmacı, 3 puanlayıcının aynı 25 öğrenciye verdiği puanları değerlendirmek için Genellenebilirlik Kuramı (G-Kuramı) çerçevesinde bir G-çalışması yürütmüştür. Varyans bileşenleri şöyle bulunmuştur: Öğrenci varyansı (σ²«p) = 12, Puanlayıcı varyansı (σ²»r) = 0,5, Etkileşim + artık varyans (σ²_pr,e) = 8. Buna göre aşağıdaki yorumlardan hangisi doğrudur?",
   "secenekler": [
    "Bu G-çalışmasından elde edilen varyans bileşenlerine dayanarak herhangi bir genellenebilirlik katsayısı hesaplanamaz; bunun için karar çalışması (D-çalışması) gereklidir.",
-   "Puanlayıcı varyansının düşük olması ölçüm için en kritik bulgudur; σ²_p ve σ²_pr,e değerlerine bakılmaksızın genellenebilirlik katsayısı yüksek olacaktır.",
+   "Puanlayıcı varyansının düşük olması ölçüm için en kritik bulgudur; σ²«p ve σ²»pr,e değerlerine bakılmaksızın genellenebilirlik katsayısı yüksek olacaktır.",
    "G-çalışmasında en büyük varyans kaynağı öğrenci farklılığı olduğundan (σ²_p = 12), ölçme aracı yeterli ayrışım gücüne sahiptir ve genellenebilirlik katsayısı her koşulda yüksektir.",
    "Puanlayıcı varyansının düşük olması, puanlayıcılar arasındaki güvenirliğin yüksek olduğunu doğrudan kanıtlar.",
    "Etkileşim varyansının yüksekliği, farklı öğrencilerin farklı puanlayıcılardan tutarsız puanlar aldığını göstermekte olup bu durum genellenebilirlik katsayısını düşürür."
@@ -23676,7 +23532,7 @@
    "Madde 2; çünkü p = 0,90 çok kolay olduğunu gösterir ve bu durum ayırt edicilik potansiyelini sınırlar."
   ],
   "dogru": 0,
-  "aciklama": "Madde ayırt edicilik indeksi (r_pbis), bir maddenin toplam test puanıyla ilişkisini gösterir. Negatif bir değer, yüksek toplam puana sahip öğrencilerin (başarılı) bu maddeyi yanlış yanıtlarken düşük toplam puana sahip öğrencilerin (başarısız) doğru yanıtladığını gösterir. Bu durum maddenin şu sorunlardan birini taşıdığına işaret eder: yanlış cevap anahtarı, yanıltıcı soru kökü, iki doğru seçenek ya da üst grup için 'tuzak' işlev gören çeldiriciler. Madde 3 (r_pbis = -0,10) kesinlikle revize edilmeli ya da testten çıkarılmalıdır. Madde 2'nin kolay olması (p = 0,90) alt tavan etkisi açısından sorun yaratsa da r_pbis = 0,45 kabul edilebilir bir ayırt edicilik sunar. Madde 4 zor olmakla (p = 0,10) birlikte r_pbis = 0,40 olumludur. Madde 5'te r_pbis = 0,20 düşük olmakla birlikte negatif değil; bazı bağlamlarda kabul edilebilir. Dolayısıyla en acil müdahale gerektiren madde C'de tanımlandığı gibi Madde 3'tür.",
+  "aciklama": "Madde ayırt edicilik indeksi (r_pbis), bir maddenin toplam test puanıyla ilişkisini gösterir. Negatif bir değer, yüksek toplam puana sahip öğrencilerin (başarılı) bu maddeyi yanlış yanıtlarken düşük toplam puana sahip öğrencilerin (başarısız) doğru yanıtladığını gösterir. Bu durum maddenin şu sorunlardan birini taşıdığına işaret eder: yanlış cevap anahtarı, yanıltıcı soru kökü, iki doğru seçenek ya da üst grup için 'tuzak' işlev gören çeldiriciler. Madde 3 (r_pbis = -0,10) kesinlikle revize edilmeli ya da testten çıkarılmalıdır. Madde 2'nin kolay olması (p = 0,90) alt tavan etkisi açısından sorun yaratsa da r_pbis = 0,45 kabul edilebilir bir ayırt edicilik sunar. Madde 4 zor olmakla (p = 0,10) birlikte r«pbis = 0,40 olumludur. Madde 5'te r»pbis = 0,20 düşük olmakla birlikte negatif değil; bazı bağlamlarda kabul edilebilir. Dolayısıyla en acil müdahale gerektiren madde C'de tanımlandığı gibi Madde 3'tür.",
   "zorluk": "zor"
  },
  {
@@ -23692,7 +23548,7 @@
    "CVR = (7-5)/5 = 0,40; bu değer pozitif olduğundan madde kapsam geçerliği açısından yeterlidir."
   ],
   "dogru": 0,
-  "aciklama": "Lawshe'nin CVR formülü: CVR = (n_e - N/2) / (N/2) şeklindedir; burada n_e 'ilgili' diyen uzman sayısını, N toplam uzman sayısını ifade eder. Bu madde için: CVR = (7 - 10/2) / (10/2) = (7-5)/5 = 2/5 = 0,40. Lawshe'nin orijinal çalışmasında 10 uzman için kritik CVR değeri 0,62 olarak belirlenmiştir (p < 0,05, tek kuyruklu). CVR = 0,40 < 0,62 olduğundan bu madde istatistiksel olarak anlamlı kapsam geçerliğine sahip değildir ve revize edilmeli ya da testten çıkarılmalıdır. A hem formülü hem yorumu doğru yapmaktadır: CVR = 0,40, kritik değer 0,62, karar 'yeterli değil'. B'de formül yanlıştır (7-3)/10 kullanılmış. C'de 'pozitif olduğundan yeterlidir' yargısı yanlıştır; kritik değerle karşılaştırma gereklidir. D'de formül tamamen yanlıştır (7/10). E'de formül doğru fakat 'sınırda geçerli, revize edilerek tutulabilir' yorumu hatalıdır; 0,40 < 0,62 olduğunda standart karar 'yetersiz'dir.",
+  "aciklama": "Lawshe'nin CVR formülü: CVR = (n«e - N/2) / (N/2) şeklindedir; burada n»e 'ilgili' diyen uzman sayısını, N toplam uzman sayısını ifade eder. Bu madde için: CVR = (7 - 10/2) / (10/2) = (7-5)/5 = 2/5 = 0,40. Lawshe'nin orijinal çalışmasında 10 uzman için kritik CVR değeri 0,62 olarak belirlenmiştir (p < 0,05, tek kuyruklu). CVR = 0,40 < 0,62 olduğundan bu madde istatistiksel olarak anlamlı kapsam geçerliğine sahip değildir ve revize edilmeli ya da testten çıkarılmalıdır. A hem formülü hem yorumu doğru yapmaktadır: CVR = 0,40, kritik değer 0,62, karar 'yeterli değil'. B'de formül yanlıştır (7-3)/10 kullanılmış. C'de 'pozitif olduğundan yeterlidir' yargısı yanlıştır; kritik değerle karşılaştırma gereklidir. D'de formül tamamen yanlıştır (7/10). E'de formül doğru fakat 'sınırda geçerli, revize edilerek tutulabilir' yorumu hatalıdır; 0,40 < 0,62 olduğunda standart karar 'yetersiz'dir.",
   "zorluk": "zor"
  },
  {
@@ -25260,7 +25116,7 @@
    "Yalnızca I, II ve IV"
   ],
   "dogru": 2,
-  "aciklama": "I. doğrudur: LGS'de öğrenciler ham puanlarına göre sıralanmakta ve yerleştirmede göreceli başarı esas alınmaktadır; bu, norma dayalı değerlendirmenin temel özelliğidir. II. doğrudur: LGS, öğretim sürecinin tamamlanmasının ardından yapılan ve yerleştirme kararı için kullanılan bir sınav olduğundan summatif değerlendirme işlevi görmektedir. III. yanlıştır: Kritere dayalı değerlendirmede bireyin performansı, önceden belirlenmiş bir yeterlik ölçütüyle karşılaştırılır; LGS'de böyle bir mutlak başarı eşiği yoktur ve öğrenciler birbirleriyle kıyaslanmaktadır. Dolayısıyla LGS tam anlamıyla kritere dayalı değildir. IV. yanlıştır: Standart puanlama (örn. OBP hesaplama), puan dağılımını normalleştirmeye yardımcı olabilir; ancak norma dayalı bileşeni ortadan kaldırmaz, aksine göreceli karşılaştırmayı sürdürür. Doğru yanıt A'dır.",
+  "aciklama": "I. doğrudur: LGS'de öğrenciler ham puanlarına göre sıralanmakta ve yerleştirmede göreceli başarı esas alınmaktadır; bu, norma dayalı değerlendirmenin temel özelliğidir. II. doğrudur: LGS, öğretim sürecinin tamamlanmasının ardından yapılan ve yerleştirme kararı için kullanılan bir sınav olduğundan summatif değerlendirme işlevi görmektedir. III. yanlıştır: Kritere dayalı değerlendirmede bireyin performansı, önceden belirlenmiş bir yeterlik ölçütüyle karşılaştırılır; LGS'de böyle bir mutlak başarı eşiği yoktur ve öğrenciler birbirleriyle kıyaslanmaktadır. Dolayısıyla LGS tam anlamıyla kritere dayalı değildir. IV. yanlıştır: Standart puanlama (örn. OBP hesaplama), puan dağılımını normalleştirmeye yardımcı olabilir; ancak norma dayalı bileşeni ortadan kaldırmaz, aksine göreceli karşılaştırmayı sürdürür. Doğru cevap: «Yalnızca I ve II».",
   "zorluk": "zor"
  },
  {
@@ -26220,7 +26076,7 @@
    "D = 0,70; madde mükemmel düzeyde ayırt edicidir."
   ],
   "dogru": 1,
-  "aciklama": "Ayırt edicilik indeksi D = P_üst − P_alt = 0,80 − 0,20 = 0,60. Yorumlama ölçütleri: D ≥ 0,40 çok iyi, 0,30 ≤ D < 0,40 iyi, 0,20 ≤ D < 0,30 kabul edilebilir (revizyon önerilebilir), D < 0,20 yetersiz (madde çıkarılmalı). D = 0,60, 'çok iyi' sınıfında yer alır. Bu madde, gerçekten bilen öğrencileri bilmeyenlerden etkili biçimde ayırt etmektedir. Maksimum D değeri +1'dir (üst grup tamamı doğru, alt grup tamamı yanlış).",
+  "aciklama": "Ayırt edicilik indeksi D = P«üst − P»alt = 0,80 − 0,20 = 0,60. Yorumlama ölçütleri: D ≥ 0,40 çok iyi, 0,30 ≤ D < 0,40 iyi, 0,20 ≤ D < 0,30 kabul edilebilir (revizyon önerilebilir), D < 0,20 yetersiz (madde çıkarılmalı). D = 0,60, 'çok iyi' sınıfında yer alır. Bu madde, gerçekten bilen öğrencileri bilmeyenlerden etkili biçimde ayırt etmektedir. Maksimum D değeri +1'dir (üst grup tamamı doğru, alt grup tamamı yanlış).",
   "zorluk": "orta"
  },
  {
@@ -26300,7 +26156,7 @@
    "0,85"
   ],
   "dogru": 3,
-  "aciklama": "Spearman-Brown formülü: r_yeni = (k × r_eski) / [1 + (k-1) × r_eski]. Burada k=2, r_eski=0,81. Hesaplama: r_yeni = (2 × 0,81) / [1 + (2-1) × 0,81] = 1,62 / (1 + 0,81) = 1,62 / 1,81 ≈ 0,895. Bu değer 0,89'a en yakındır. Dikkat edilmesi gereken husus: test uzunluğu artırıldıkça güvenirlik artar ancak azalan getiri yasası geçerlidir; başlangıç güvenirliği ne kadar yüksekse artış o kadar az olur.",
+  "aciklama": "Spearman-Brown formülü: r«yeni = (k × r»eski) / [1 + (k-1) × r«eski]. Burada k=2, r»eski=0,81. Hesaplama: r_yeni = (2 × 0,81) / [1 + (2-1) × 0,81] = 1,62 / (1 + 0,81) = 1,62 / 1,81 ≈ 0,895. Bu değer 0,89'a en yakındır. Dikkat edilmesi gereken husus: test uzunluğu artırıldıkça güvenirlik artar ancak azalan getiri yasası geçerlidir; başlangıç güvenirliği ne kadar yüksekse artış o kadar az olur.",
   "zorluk": "zor"
  },
  {
@@ -26332,7 +26188,7 @@
    "2,48"
   ],
   "dogru": 0,
-  "aciklama": "Standart ölçüm hatası formülü: SEM = SD × √(1 - r_xx). Burada SD = 8, r_xx = 0,78. SEM = 8 × √(1 - 0,78) = 8 × √0,22 = 8 × 0,469 ≈ 3,75. SEM, bireysel test puanlarının gerçek puana yakınlığını gösterir. %68 güven aralığı için gerçek puan, gözlenen puan ± 1 SEM aralığında bulunur. Güvenirlik katsayısı ne kadar yüksek olursa SEM o kadar düşük, dolayısıyla ölçüm o kadar hassas olur. Bu hesaplamada 120 kişilik örneklem büyüklüğü ve 40 madde sayısı yalnızca bağlam bilgisi olup formülde kullanılmaz.",
+  "aciklama": "Standart ölçüm hatası formülü: SEM = SD × √(1 - r«xx). Burada SD = 8, r»xx = 0,78. SEM = 8 × √(1 - 0,78) = 8 × √0,22 = 8 × 0,469 ≈ 3,75. SEM, bireysel test puanlarının gerçek puana yakınlığını gösterir. %68 güven aralığı için gerçek puan, gözlenen puan ± 1 SEM aralığında bulunur. Güvenirlik katsayısı ne kadar yüksek olursa SEM o kadar düşük, dolayısıyla ölçüm o kadar hassas olur. Bu hesaplamada 120 kişilik örneklem büyüklüğü ve 40 madde sayısı yalnızca bağlam bilgisi olup formülde kullanılmaz.",
   "zorluk": "zor"
  },
  {
@@ -26540,7 +26396,7 @@
    "0,95"
   ],
   "dogru": 4,
-  "aciklama": "Spearman-Brown formülü: r_yeni = (k × r) / (1 + (k-1) × r) burada k = yeni uzunluk / eski uzunluk = 4, r = 0,84. r_yeni = (4 × 0,84) / (1 + (4-1) × 0,84) = 3,36 / (1 + 3 × 0,84) = 3,36 / (1 + 2,52) = 3,36 / 3,52 = 0,9545 ≈ 0,955 → yaklaşık 0,95. Bu hesaplama, test uzunluğunu artırmanın güvenirliği artırdığını ancak belirli bir sınırın üzerinde artışın marjinal fayda sağladığını göstermektedir. Doğru cevap B'dir.",
+  "aciklama": "Spearman-Brown formülü: r_yeni = (k × r) / (1 + (k-1) × r) burada k = yeni uzunluk / eski uzunluk = 4, r = 0,84. r_yeni = (4 × 0,84) / (1 + (4-1) × 0,84) = 3,36 / (1 + 3 × 0,84) = 3,36 / (1 + 2,52) = 3,36 / 3,52 = 0,9545 ≈ 0,955 → yaklaşık 0,95. Bu hesaplama, test uzunluğunu artırmanın güvenirliği artırdığını ancak belirli bir sınırın üzerinde artışın marjinal fayda sağladığını göstermektedir. Doğru cevap: «0,95».",
   "zorluk": "zor"
  },
  {
@@ -26556,7 +26412,7 @@
    "r_s = 0,70"
   ],
   "dogru": 0,
-  "aciklama": "Sıra farkları −1, 1, 0, 1, −1 olup Σd² = 4, r_s = 1 − 24/120 = 0,80 ile “r_s = 0,80” şıkkı doğrudur. Doğru cevap r_s = 0,80 şeklindedir.",
+  "aciklama": "Sıra farkları −1, 1, 0, 1, −1 olup Σd² = 4, r«s = 1 − 24/120 = 0,80 ile “r»s = 0,80” şıkkı doğrudur. Doğru cevap r_s = 0,80 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -26572,7 +26428,7 @@
    "44"
   ],
   "dogru": 0,
-  "aciklama": "Z dönüşüm formülü: X = X̄ + z × S kullanılır. X = 30 + 1,96 × 6 = 30 + 11,76 = 41,76. Bu değerin üzerinde olmak için minimum tam sayı puan 42'dir. Dolayısıyla en başarılı %2,5'lik gruba girebilmek için öğrencinin en az 42 puan alması gerekmektedir. z = 1,96 değeri standart normal dağılımda alanın %97,5'ini solda bırakır; yani sağdaki %2,5 bu gruba karşılık gelir. Doğru cevap C'dir.",
+  "aciklama": "Z dönüşüm formülü: X = X̄ + z × S kullanılır. X = 30 + 1,96 × 6 = 30 + 11,76 = 41,76. Bu değerin üzerinde olmak için minimum tam sayı puan 42'dir. Dolayısıyla en başarılı %2,5'lik gruba girebilmek için öğrencinin en az 42 puan alması gerekmektedir. z = 1,96 değeri standart normal dağılımda alanın %97,5'ini solda bırakır; yani sağdaki %2,5 bu gruba karşılık gelir. Doğru cevap: «42».",
   "zorluk": "zor"
  },
  {
@@ -26588,7 +26444,7 @@
    "D = 0,60; madde orta güçlükte ve iyi ayırt edicidir, testte kullanılabilir"
   ],
   "dogru": 4,
-  "aciklama": "Madde ayırt edicilik indeksi: D = P_ü - P_a = 0,80 - 0,20 = 0,60. Madde güçlük indeksi p = 0,50 ise madde 'orta güçlükte' kabul edilir (0,40 ≤ p ≤ 0,60 arası ideal). D = 0,60 değeri 0,40 ve üzerinde olduğu için 'iyi' ayırt edicilik kategorisindedir (D ≥ 0,40 → iyi, D ≥ 0,30 → orta-iyi). Mükemmel ayırt edicilik D = 1,00 olduğunda söz konusudur. Dolayısıyla madde hem orta güçlükte hem de iyi ayırt edicidir ve testte kullanılabilir. Doğru cevap A'dır.",
+  "aciklama": "Ayırt edicilik indeksi, üst ve alt gruptaki doğru cevap oranlarının farkıyla hesaplanır: D = P«ü − P»a = 0,80 − 0,20 = 0,60. Madde güçlük indeksi p = 0,50 olduğundan madde orta güçlüktedir. Ebel ölçütlerine göre D değeri 0,40 ve üzerinde olan maddeler iyi ayırt edici kabul edilir ve teste doğrudan alınabilir; 'mükemmel ayırt edicilik' ifadesi ise D'nin 1,00'e yaklaştığı durumlar için kullanılır. Bu nedenle tamamen doğru yorum 'D = 0,60; madde orta güçlükte ve iyi ayırt edicidir, testte kullanılabilir' şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -26604,7 +26460,7 @@
    "Her madde 0 ya da 1 ile puanlanan 50 soruluk yetenek testi"
   ],
   "dogru": 0,
-  "aciklama": "KR-20 yalnızca dikotomik (0-1) puanlanan maddeler için geçerlidir; yani her maddenin yalnızca doğru ya da yanlış (1 ya da 0) olarak puanlandığı testlerde kullanılır. Likert tipi ölçeklerde maddeler 1'den 5'e kadar sürekliye yakın puanlanır; bu nedenle KR-20 kullanımı hatalıdır. Bu tür çok kategorili ya da sürekli puanlamada Cronbach alfa kullanılmalıdır. KR-20, aslında Cronbach alfa'nın dikotomik duruma özel bir halidir. Doğru cevap B'dir.",
+  "aciklama": "KR-20 yalnızca dikotomik (0-1) puanlanan maddeler için geçerlidir; yani her maddenin yalnızca doğru ya da yanlış (1 ya da 0) olarak puanlandığı testlerde kullanılır. Likert tipi ölçeklerde maddeler 1'den 5'e kadar sürekliye yakın puanlanır; bu nedenle KR-20 kullanımı hatalıdır. Bu tür çok kategorili ya da sürekli puanlamada Cronbach alfa kullanılmalıdır. KR-20, aslında Cronbach alfa'nın dikotomik duruma özel bir halidir. Doğru cevap: «Likert tipi 5'li ölçek ile puanlanan 30 maddelik bir tutum ölçeği».",
   "zorluk": "zor"
  },
  {
@@ -26636,7 +26492,7 @@
    "İki faktör arasındaki yük farkı 0,04 olduğundan madde güçlü ayırt edicilik göstermekte ve iki faktörde birden kullanılmalıdır"
   ],
   "dogru": 0,
-  "aciklama": "Faktör analizinde bir maddenin birden fazla faktörde yüksek yük alması 'çapraz yükleme' (cross-loading) olarak adlandırılır. Genel kabul gören kriter, bir maddenin baskın faktördeki yükü ile diğer faktördeki yük arasındaki farkın en az 0,20 olması gerektiğidir. Bu örnekte 0,62 - 0,58 = 0,04 gibi çok küçük bir fark söz konusudur; bu durum maddenin hangi yapıyı ölçtüğünün belirsiz olduğuna işaret eder. KMO ve Bartlett testleri örneklemin faktör analizine uygunluğunu gösterir, bireysel maddelerin geçerliğini değil. Bu nedenle maddenin ölçekten çıkarılması ya da kavramsal olarak yeniden yazılması gerekir. Doğru cevap B'dir.",
+  "aciklama": "Faktör analizinde bir maddenin birden fazla faktörde yüksek yük alması 'çapraz yükleme' (cross-loading) olarak adlandırılır. Genel kabul gören kriter, bir maddenin baskın faktördeki yükü ile diğer faktördeki yük arasındaki farkın en az 0,20 olması gerektiğidir. Bu örnekte 0,62 - 0,58 = 0,04 gibi çok küçük bir fark söz konusudur; bu durum maddenin hangi yapıyı ölçtüğünün belirsiz olduğuna işaret eder. KMO ve Bartlett testleri örneklemin faktör analizine uygunluğunu gösterir, bireysel maddelerin geçerliğini değil. Bu nedenle maddenin ölçekten çıkarılması ya da kavramsal olarak yeniden yazılması gerekir. Doğru cevap: «Madde çift faktör yükü taşıdığından (çapraz yük) ölçekten çıkarılması ya da revize edilmesi gerekir».",
   "zorluk": "zor"
  },
  {
@@ -26652,7 +26508,7 @@
    "SEM = 3; bireyin gerçek puanının yaklaşık %68 olasılıkla gözlenen puan ± 3 aralığında olduğu söylenebilir"
   ],
   "dogru": 4,
-  "aciklama": "SEM = S√(1-r) = 10 × √(1-0,91) = 10 × √0,09 = 10 × 0,30 = 3. SEM = 3 olarak bulunur. Klasik test teorisine göre SEM, gözlenen puanın gerçek puan etrafındaki dağılımının standart sapmasıdır. Normal dağılım varsayımı altında gerçek puanın yaklaşık %68 olasılıkla gözlenen puan ± 1 SEM aralığında, %95 olasılıkla ise ± 1,96 SEM aralığında olduğu söylenir. Dolayısıyla bireyin gerçek puanının yaklaşık %68 olasılıkla (gözlenen puan ± 3) aralığında bulunduğu ifadesi doğrudur. Doğru cevap A'dır.",
+  "aciklama": "SEM = S√(1-r) = 10 × √(1-0,91) = 10 × √0,09 = 10 × 0,30 = 3. SEM = 3 olarak bulunur. Klasik test teorisine göre SEM, gözlenen puanın gerçek puan etrafındaki dağılımının standart sapmasıdır. Normal dağılım varsayımı altında gerçek puanın yaklaşık %68 olasılıkla gözlenen puan ± 1 SEM aralığında, %95 olasılıkla ise ± 1,96 SEM aralığında olduğu söylenir. Dolayısıyla bireyin gerçek puanının yaklaşık %68 olasılıkla (gözlenen puan ± 3) aralığında bulunduğu ifadesi doğrudur. Doğru cevap: «SEM = 3; bireyin gerçek puanının yaklaşık %68 olasılıkla gözlenen puan ± 3 aralığında olduğu söylenebilir».",
   "zorluk": "zor"
  },
  {
@@ -26668,7 +26524,7 @@
    "Levene testi sonucu t-testinin uygulanmasını tümüyle engellemektedir; araştırmacı ANOVA analizine geçmelidir ve varsayımları yeniden sınamalıdır"
   ],
   "dogru": 2,
-  "aciklama": "Levene testi varyans homojenliği varsayımını sınar. H₀: varyanslar homojendir. p = 0,009 < 0,05 olduğundan H₀ reddedilir; yani varyanslar homojen değildir. Bu durumda standart bağımsız gruplar t-testi yerine varyans homojenliği varsayımını gerektirmeyen Welch t-testi (eşit olmayan varyanslar için düzeltilmiş t-testi) kullanılmalıdır. Welch t-testinde serbestlik derecesi Satterthwaite yaklaşımıyla düzeltilir ve daha güvenilir sonuç verir. Mann-Whitney U ise varyans homojenliği değil normallik varsayımının karşılanmadığı durumlarda tercih edilir. Doğru cevap B'dir.",
+  "aciklama": "Levene testinin sıfır hipotezi grup varyanslarının eşit (homojen) olduğunu öne sürer. Burada p = 0,009 değeri 0,05 anlamlılık düzeyinden küçük olduğundan sıfır hipotezi reddedilir; yani varyansların eşit olduğu varsayımı karşılanmamaktadır. Bu durumda doğru adım şudur: p < 0,05 olduğu için varyanslar homojen değildir; Welch t-testi (eşit olmayan varyanslar için düzeltilmiş) kullanılmalıdır. Welch t-testi, serbestlik derecesini düzelterek eşit olmayan varyanslarda da güvenilir sonuç verir; bu nedenle parametrik karşılaştırmadan vazgeçmeye veya ANOVA'ya geçmeye gerek yoktur.",
   "zorluk": "zor"
  },
  {
@@ -26684,7 +26540,7 @@
    "RMSEA = 0,071 değeri 0,05'in üzerinde olduğu için model reddedilmelidir"
   ],
   "dogru": 3,
-  "aciklama": "DFA uyum indeksleri için yaygın kabul kriterleri şöyledir: χ²/sd ≤ 3 (mükemmel), ≤ 5 (kabul edilebilir); RMSEA ≤ 0,05 (mükemmel), ≤ 0,08 (kabul edilebilir); CFI ve TLI ≥ 0,95 (mükemmel), ≥ 0,90 (kabul edilebilir); SRMR ≤ 0,05 (mükemmel), ≤ 0,08 (kabul edilebilir). Bu veriler değerlendirildiğinde: χ²/sd = 3,80 → kabul edilebilir sınırda (3-5 arası); RMSEA = 0,071 → kabul edilebilir (< 0,08); CFI = 0,93 → kabul edilebilir (> 0,90); TLI = 0,91 → kabul edilebilir; SRMR = 0,065 → kabul edilebilir (< 0,08). Genel değerlendirmede model kabul edilebilir uyum göstermektedir ancak mükemmel değildir; iyileştirme çalışmaları yapılabilir. Doğru cevap C'dir.",
+  "aciklama": "Doğrulayıcı faktör analizinde model uyumu tek bir indekse göre değil, indekslerin birlikte değerlendirilmesiyle yorumlanır. Burada RMSEA = 0,071 ve SRMR = 0,065 değerleri 0,08'in altında, CFI = 0,93 ve TLI = 0,91 değerleri ise 0,90'ın üzerinde olduğundan kabul edilebilir uyum ölçütlerini karşılamaktadır. χ²/sd = 3,80 değeri mükemmel uyum için önerilen 3 sınırını aşmakla birlikte 5'in altında kaldığından kabul edilebilir aralıktadır ve iyileştirme gerekebileceğine işaret eder. Bu nedenle en doğru değerlendirme 'RMSEA 0,08'in altında, CFI ve TLI 0,90'ın üzerinde, SRMR 0,08'in altında olduğu için model kabul edilebilir uyum göstermektedir; ancak χ²/sd sınırda olup model iyileştirilebilir' ifadesidir. Değerler mükemmel uyum düzeyinde olmadığı için 'tam uyum' yorumu, kabul edilebilir aralıkta kaldığı için de 'kesinlikle reddedilmeli' yorumu yanlıştır.",
   "zorluk": "zor"
  },
  {
@@ -26700,7 +26556,7 @@
    "d = 0,70; orta etki büyüklüğü"
   ],
   "dogru": 4,
-  "aciklama": "Cohen's d = (X̄₁ - X̄₂) / S_pooled = (75 - 68) / 10 = 7/10 = 0,70. Cohen'in etki büyüklüğü sınıflandırması: d < 0,20 ihmal edilebilir; 0,20 ≤ d < 0,50 küçük; 0,50 ≤ d < 0,80 orta; d ≥ 0,80 büyük etki büyüklüğü. d = 0,70 değeri 0,50-0,80 aralığında olduğundan 'orta' etki büyüklüğüne karşılık gelir. Doğru cevap B'dir.",
+  "aciklama": "Cohen's d, iki grup ortalaması arasındaki farkın ortak standart sapmaya bölünmesiyle hesaplanır: d = (75 − 68) / 10 = 7 / 10 = 0,70. Cohen'in sınıflandırmasına göre yaklaşık 0,20 küçük, 0,50 orta, 0,80 ve üzeri büyük etki büyüklüğü kabul edilir. 0,70 değeri 0,80 sınırına ulaşmadığı için büyük değil, orta düzeydedir. Bu nedenle doğru cevap \"d = 0,70; orta etki büyüklüğü\" olur; \"d = 0,70; büyük etki büyüklüğü\" ifadesinde hesaplama doğru olsa da yorum yanlıştır.",
   "zorluk": "zor"
  },
  {
@@ -26732,7 +26588,7 @@
    "İki uygulama arasındaki süre çok kısa ya da uzun olabilir; ayrıca ortalamadaki artış ve değişen SS, pratik etki ile olgunlaşma gibi iç geçerlik tehditlerinin güvenirlik katsayısını yapay olarak düşürdüğüne işaret eder"
   ],
   "dogru": 4,
-  "aciklama": "Test-tekrar test güvenirliğinde ideal koşul: iki uygulama arasında öğrencilerin gerçek değişmediği, yalnızca ölçüm hatasının katkısının incelendiği varsayılır. Ancak bu senaryoda: (1) Ortalamadaki 5 puanlık artış olgunlaşma, öğretim etkisi veya hatırlama etkisine işaret eder. (2) Standart sapmanın artması grubun daha heterojen hale geldiğini gösterir; bu değişen varyans korelasyon katsayısını etkileyebilir. (3) Bu sistemik değişimler test-tekrar test güvenirliğinin geçerli bir tahmin olmadığına işaret eder çünkü öğrencilerin gerçek özellikleri değişmiştir. Pratik etki (practice effect) ve olgunlaşma gibi iç geçerlik tehditleri güvenirlik katsayısını hem yapay olarak düşürüp hem de yükseltebilir. Doğru cevap B'dir.",
+  "aciklama": "Test-tekrar test yönteminde iki uygulama arasındaki sürenin uygun seçilmesi kritiktir: süre kısa olursa hatırlama ve pratik etkisi, uzun olursa olgunlaşma ve öğrenme gibi gerçek değişimler devreye girer. Ortalamanın 5 puan yükselmesi ve standart sapmanın artması, öğrencilerin bu etkilerden farklı düzeylerde etkilendiğini, yani sıralamalarının değiştiğini gösterir; bu da iki uygulama arasındaki korelasyonu düşürür. Bu nedenle en kapsamlı eleştiri şudur: 'İki uygulama arasındaki süre çok kısa ya da uzun olabilir; ayrıca ortalamadaki artış ve değişen SS, pratik etki ile olgunlaşma gibi iç geçerlik tehditlerinin güvenirlik katsayısını yapay olarak düşürdüğüne işaret eder.' Diğer seçenekler ise yöntemi sorgusuz kabul etmekte, yöntemi yalnızca kişilik testleriyle sınırlamakta ya da hatırlamanın güvenirliği düşürdüğünü ileri sürmekte, bu nedenle hatalı veya eksik kalmaktadır.",
   "zorluk": "zor"
  },
  {
@@ -26748,7 +26604,7 @@
    "F = 3,00; H₀ reddedilir, gruplar arasında anlamlı fark vardır"
   ],
   "dogru": 2,
-  "aciklama": "KO_gruplar arası = 240/3 = 80, KO_gruplar içi = 480/36 ≈ 13,33, F = 80/13,33 = 6,00 > 2,87 olduğundan doğru şık C'dir. Doğru cevap “F = 6,00; H₀ reddedilir, gruplar arasında anlamlı fark vardır” seçeneğidir.",
+  "aciklama": "KO«gruplar arası = 240/3 = 80, KO»gruplar içi = 480/36 ≈ 13,33, F = 80/13,33 = 6,00 > 2,87 olduğundan doğru şık C'dir. Doğru cevap “F = 6,00; H₀ reddedilir, gruplar arasında anlamlı fark vardır” seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -27564,7 +27420,7 @@
    "Her yerde gözler olma (withitness) ve grup odaklılığı becerisi"
   ],
   "dogru": 3,
-  "aciklama": "Kounin, öğrencilerin derse katılımını sürdürmek için öğretmenin etkinliklerde çeşitlilik (variety) sunması ve entelektüel meydan okuma (challenge) yaratması gerektiğini vurgulamıştır. Bu iki kavram birlikte 'öğrenci katılımını sürdürme' başlığı altında ele alınır. Etkinlik değişimini belirli aralıklarla yapmak bu kavramla örtüşür. Doğru yanıt E'dir.",
+  "aciklama": "Kounin'e göre öğrencilerin aynı etkinlikten sıkılması (doyum ya da bıkkınlık) ilgiyi ve katılımı düşürür. Bunu önlemenin yolu derste alıştırma çeşitliliği (variety) ve meydan okuma (challenge) sağlamaktır. Öğretmenin dersi her on beş dakikada bir farklı bir etkinliğe geçirmesi, etkinlikleri çeşitlendirerek öğrencilerin dikkatini canlı tutmaya yönelik bir uygulamadır. Düzgünlük ve ivme ise etkinlikler arası geçişlerin kesintisiz ve hızlı olmasıyla ilgili olduğundan bu uygulamayı doğrudan karşılamaz.",
   "zorluk": "orta"
  },
  {
@@ -27580,7 +27436,7 @@
    "Uyumsuz davranışları anında fark edip yerinde müdahalelerle kesmek."
   ],
   "dogru": 0,
-  "aciklama": "Sosyal-duygusal iklim modelinde (Rogerian etki, Maslow'un ihtiyaçlar hiyerarşisi) öğretmenin birincil rolü öğrencilerin psikolojik ihtiyaçlarını karşılayan, güvenli, sıcak ve kapsayıcı bir sınıf ortamı oluşturmaktır. Bu yaklaşımda inanç, ait olma ve saygınlık ihtiyaçları karşılandığında davranış sorunlarının büyük ölçüde ortadan kalkacağı savunulur. Doğru yanıt C'dir.",
+  "aciklama": "Sosyal-duygusal iklim modeli (Rogers, Ginott, Glasser gibi hümanist kuramcılara dayanır), olumlu öğretmen-öğrenci ilişkisini ve sınıfın duygusal havasını etkili sınıf yönetiminin temeli olarak görür. Bu nedenle öğretmenin öncelikli amacı, sıcak, güvenli ve kabul edici bir atmosfer kurarak öğrencilerin psikolojik ihtiyaçlarını karşılamaktır; ait olma, saygı görme ve kendini ifade edebilme gibi ihtiyaçları karşılanan öğrencinin uyumlu davranacağı varsayılır. Davranışı gözlemlenebilir hedeflere göre şekillendirmek davranışçı yaklaşıma, net sınırlar ve sonuçlar bildirmek ile anında müdahale etmek ise otoriter ya da düzen odaklı modellere özgüdür. Kuralları öğrencilerle birlikte belirlemek bu modelle uyumlu olsa da uyumu kolektif baskıyla sağlamak, modelin kabul ve güvene dayalı ruhuyla bağdaşmaz.",
   "zorluk": "orta"
  },
  {
@@ -27596,7 +27452,7 @@
    "Geçiş yönetimi (transition management)"
   ],
   "dogru": 2,
-  "aciklama": "Kounin'in 'üst üste binme (overlapping)' kavramı, öğretmenin aynı anda birden fazla olayı yönetebilme becerisini ifade eder. Küçük bir grupla çalışırken sınıfın geri kalanını da kontrol altında tutmak bu kavramın somut örneğidir. 'Withitness' ise öğretmenin sınıfta her şeyden haberdar olduğunu öğrencilere hissettirmesiyle ilgilidir; her iki kavram birbirini tamamlar ancak soruda öne çıkan özellik ikili yönetim becerisidir. Doğru yanıt A'dır.",
+  "aciklama": "Kounin'in 'üst üste binme (overlapping)' kavramı, öğretmenin aynı anda birden fazla olayı yönetebilme becerisini ifade eder. Küçük bir grupla çalışırken sınıfın geri kalanını da kontrol altında tutmak bu kavramın somut örneğidir. 'Withitness' ise öğretmenin sınıfta her şeyden haberdar olduğunu öğrencilere hissettirmesiyle ilgilidir; her iki kavram birbirini tamamlar ancak soruda öne çıkan özellik ikili yönetim becerisidir. Doğru cevap: «Üst üste binme (overlapping)».",
   "zorluk": "orta"
  },
  {
@@ -27612,7 +27468,7 @@
    "Kounin'in yönetim modeli – Adler'in bireysel psikolojisi"
   ],
   "dogru": 0,
-  "aciklama": "Glasser, sınıf yönetimi anlayışını kendi geliştirdiği 'seçim teorisi'ne (choice theory) ve kalite okulu anlayışına dayandırmıştır. Bu teoriye göre tüm davranışlar içsel ihtiyaçları karşılamak için seçilir; dışsal ödül ve ceza uzun vadede işe yaramaz. Dreikurs Adler'in bireysel psikolojisini, davranış değiştirme modeli Skinner'ın operant koşullanmasını, Kounin ise gözlemsel araştırmayı temel alır. Doğru yanıt B'dir.",
+  "aciklama": "Glasser, sınıf yönetimi anlayışını kendi geliştirdiği 'seçim teorisi'ne (choice theory) ve kalite okulu anlayışına dayandırmıştır. Bu teoriye göre tüm davranışlar içsel ihtiyaçları karşılamak için seçilir; dışsal ödül ve ceza uzun vadede işe yaramaz. Dreikurs Adler'in bireysel psikolojisini, davranış değiştirme modeli Skinner'ın operant koşullanmasını, Kounin ise gözlemsel araştırmayı temel alır. Doğru cevap: «Glasser'ın kalite okulu modeli – Seçim teorisi ve iç motivasyon».",
   "zorluk": "orta"
  },
  {
@@ -27628,7 +27484,7 @@
    "Glasser'ın Gerçeklik / Seçim Teorisi Modeli"
   ],
   "dogru": 4,
-  "aciklama": "Glasser'ın modelinde öğretmen, öğrenciyi geçmişe veya mazeret üretmeye yönlendirmez. Bunun yerine öğrencinin kendi davranışını değerlendirmesini (value judgment) ister: 'Bu davranış işe yarıyor mu? Sonuçları ne oldu?' soruları bu modelin tipik ifadesidir. Ardından yeni bir plan yapılır ve taahhüt alınır. Doğru yanıt C'dir.",
+  "aciklama": "Glasser'ın modelinde öğretmen, öğrenciyi geçmişe veya mazeret üretmeye yönlendirmez. Bunun yerine öğrencinin kendi davranışını değerlendirmesini (value judgment) ister: 'Bu davranış işe yarıyor mu? Sonuçları ne oldu?' soruları bu modelin tipik ifadesidir. Ardından yeni bir plan yapılır ve taahhüt alınır. Doğru cevap: «Glasser'ın Gerçeklik / Seçim Teorisi Modeli».",
   "zorluk": "orta"
  },
  {
@@ -27644,7 +27500,7 @@
    "Yetersizliği sergileme"
   ],
   "dogru": 0,
-  "aciklama": "Dreikurs'e göre öğretmenin hissettiği duygu, öğrencinin hedefinin ipucunu verir. Öğretmen 'beni durduramazsın' şeklinde bir kontrol mücadelesinde olduğunu hissediyorsa bu 'güç elde etme' hedefine işaret eder. Dikkat çekmede öğretmen sinirli/rahatsız, öç almada yaralanmış/incinmiş, yetersizlikte ise çaresiz ve umutsuz hisseder. Doğru yanıt B'dir.",
+  "aciklama": "Dreikurs'e göre öğretmenin hissettiği duygu, öğrencinin hedefinin ipucunu verir. Öğretmen 'beni durduramazsın' şeklinde bir kontrol mücadelesinde olduğunu hissediyorsa bu 'güç elde etme' hedefine işaret eder. Dikkat çekmede öğretmen sinirli/rahatsız, öç almada yaralanmış/incinmiş, yetersizlikte ise çaresiz ve umutsuz hisseder. Doğru cevap: «Güç elde etme».",
   "zorluk": "orta"
  },
  {
@@ -27660,7 +27516,7 @@
    "Fiziksel ortamı tüm öğrencilerin görülebileceği şekilde düzenleyerek gözetim alanını artırmak."
   ],
   "dogru": 0,
-  "aciklama": "Önleyici sınıf yönetimi, sorunları ortaya çıkmadan önce engelleyen proaktif stratejileri kapsar: fiziksel ortam, rutinler, açık beklentiler ve yoğun katılım bunların başında gelir. Sorun ortaya çıktıktan sonra yaptırım uygulamak ise tepkisel (reaktif) bir yaklaşımdır ve önleyici yönetimle değil müdahaleci yönetimle ilişkilidir. Doğru yanıt C'dir.",
+  "aciklama": "Önleyici sınıf yönetimi, sorunları ortaya çıkmadan önce engelleyen proaktif stratejileri kapsar: fiziksel ortam, rutinler, açık beklentiler ve yoğun katılım bunların başında gelir. Sorun ortaya çıktıktan sonra yaptırım uygulamak ise tepkisel (reaktif) bir yaklaşımdır ve önleyici yönetimle değil müdahaleci yönetimle ilişkilidir. Doğru cevap: «Sorun davranış ortaya çıktıktan sonra uygun yaptırımı hızla devreye sokmak».",
   "zorluk": "orta"
  },
  {
@@ -27708,7 +27564,7 @@
    "Uyumsuz davranış ortaya çıktığında görmezden gelerek söndürme stratejisi uygulanması."
   ],
   "dogru": 4,
-  "aciklama": "Söndürme (extinction) stratejisi yalnızca davranışçı modele özgüdür; pekiştireci ortadan kaldırarak istenmeyen davranışı zayıflatmayı hedefler. Diğer seçenekler birden fazla modelde ortaklaşan unsurlardır: kurallar hem kararlı disiplin hem demokratik modelde yer alır; sonuçları bildirme Canter ve Dreikurs'te; saygı ve açık iletişim sosyal-duygusal ve demokratik modelde; öğrenci katılımı ise Dreikurs ve Glasser'da bulunur. Doğru yanıt C'dir.",
+  "aciklama": "Söndürme (extinction) stratejisi yalnızca davranışçı modele özgüdür; pekiştireci ortadan kaldırarak istenmeyen davranışı zayıflatmayı hedefler. Diğer seçenekler birden fazla modelde ortaklaşan unsurlardır: kurallar hem kararlı disiplin hem demokratik modelde yer alır; sonuçları bildirme Canter ve Dreikurs'te; saygı ve açık iletişim sosyal-duygusal ve demokratik modelde; öğrenci katılımı ise Dreikurs ve Glasser'da bulunur. Doğru cevap: «Uyumsuz davranış ortaya çıktığında görmezden gelerek söndürme stratejisi uygulanması».",
   "zorluk": "orta"
  },
  {
@@ -27932,7 +27788,7 @@
    "Gordon'un TET modeli – momentum, derste iletişim hızını artırmak anlamına gelir."
   ],
   "dogru": 1,
-  "aciklama": "Kounin'in modelinde 'momentum' (ivme/akıcılık), dersin gereksiz duraklamalar, tekrarlar ya da konudan sapmalar olmaksızın düzenli bir tempoda devam etmesi anlamına gelir. Öğretmenin dersi akıcı tutması, geçiş anlarını kısa ve düzenli yapması ve öğrencileri sürekli meşgul etmesi disiplin sorunlarını önler. Soruda tanımlanan öğretmen davranışı (öğretim sürecini gözden geçirme, etkinlikler düzenleme, geçişleri sıkılaştırma) Kounin'in önleyici sınıf yönetimi anlayışı ve özellikle momentum kavramıyla örtüşmektedir. Diğer seçeneklerdeki açıklamalar ilgili modellere ait değildir. Doğru yanıt C'dir.",
+  "aciklama": "Kounin'in modelinde 'momentum' (ivme/akıcılık), dersin gereksiz duraklamalar, tekrarlar ya da konudan sapmalar olmaksızın düzenli bir tempoda devam etmesi anlamına gelir. Öğretmenin dersi akıcı tutması, geçiş anlarını kısa ve düzenli yapması ve öğrencileri sürekli meşgul etmesi disiplin sorunlarını önler. Soruda tanımlanan öğretmen davranışı (öğretim sürecini gözden geçirme, etkinlikler düzenleme, geçişleri sıkılaştırma) Kounin'in önleyici sınıf yönetimi anlayışı ve özellikle momentum kavramıyla örtüşmektedir. Diğer seçeneklerdeki açıklamalar ilgili modellere ait değildir. Doğru cevap: «Kounin'in modeli – momentum, dersin gereksiz yavaşlamalar olmadan akıcı biçimde sürmesi anlamına gelir».",
   "zorluk": "orta"
  },
  {
@@ -28077,22 +27933,6 @@
   ],
   "dogru": 4,
   "aciklama": "Canter modelinde yaptırımlar (consequences) önceden belirlenir, herkese eşit şekilde uygulanır ve davranışla doğrudan mantıksal bir bağlantı taşımak zorunda değildir (birinci ihlal - isim tahtaya yazılır, ikinci ihlal - on dakika teneffüssüz kalır, vb.). Dreikurs ise 'mantıksal sonuçlar' kavramını kullanır; yaptırım, doğrudan davranışla nedensel ilişkili olmalı ve öğrencinin sorumluluğunu pekiştirmelidir (kitapları dağıtan öğrencinin onları toplaması gibi). Dreikurs cezayı reddeder, doğal ve mantıksal sonuçları kabul eder.",
-  "zorluk": "zor"
- },
- {
-  "id": "201782",
-  "dersId": "egitimbilimleri",
-  "konuId": "yonetim_modelleri",
-  "soru": "Bir öğretmen, sınıfındaki öğrencileri yüksek sesle konuşmaya devam ettiğinde kümülatif bir yaptırım uygulamaktadır: ilk uyarıda isim tahtaya yazılmakta, ikinci uyarıda ismin yanına bir çarpı işareti eklenmekte, üçüncü uyarıda veli çağrılmaktadır. Bu model ile aynı öğretmenin öğrencilere 'Kurallara uymak ya da uymamak sizin seçiminizdir; sonuçlarını da siz taşırsınız' demesi arasındaki ilişki en doğru biçimde nasıl açıklanır?",
-  "secenekler": [
-   "Bu iki uygulama birbirini desteklemektedir; her ikisi de Dreikurs modelinin temel ögelerini yansıtır.",
-   "Bu iki uygulama çelişmektedir; kümülatif yaptırım sistemi Jones modeline, seçim vurgusu ise Dreikurs modeline aittir.",
-   "Bu iki uygulama çelişmektedir; kümülatif yaptırım sistemi Canter modeline, seçim vurgusu ise Glasser modeline özgüdür.",
-   "Bu iki uygulama birbirini tamamlamaktadır; Kounin modelindeki 'withitness' ve 'momentum' kavramlarını bütünleştirir.",
-   "Bu iki uygulama tutarlıdır; her ikisi de Gordon modelinin temel varsayımlarını yansıtır."
-  ],
-  "dogru": 2,
-  "aciklama": "Kümülatif yaptırım hiyerarşisi (isim yazma, çarpı ekleme, veli çağırma) Canter'ın Savunuculuk Disiplin Modeli'nin özgün tekniğidir. 'Seçim sizin, sonucu da sizin' söylemi ise Glasser'ın Seçim Teorisi / Kalite Okulu Modeli'nin temel varsayımını, yani her davranışın bilinçli bir seçim olduğunu ve bireyin bu seçimin sonuçlarından sorumlu olduğunu yansıtır. Bu iki ifadenin aynı anda kullanılması teorik açıdan tutarsızdır; birincisi dışsal denetimi, ikincisi içsel denetimi esas alan farklı paradigmalara aittir.",
   "zorluk": "zor"
  },
  {
@@ -28939,7 +28779,7 @@
    "Kanallar arası çatışma",
    "Çift bağlı mesaj (double bind)"
   ],
-  "dogru": 1,
+  "dogru": 0,
   "aciklama": "Pekiştirme tutarsızlığı, olumsuz davranışlara tepki verilirken olumlu davranışların görmezden gelinmesi durumunu ifade eder. Bu senaryoda öğretmen yalnızca olumsuz davranışa tepki vermiş, olumlu davranışı ise pekiştirmemiştir. Çift bağlı mesaj ise aynı kaynaktan birbiriyle çelişen iki mesajın iletilmesini kapsar; burada çelişen iki ayrı mesaj yoktur. Seçici algı alıcının özelliğidir, gönderenin değil.",
   "zorluk": "orta"
  },
@@ -32048,22 +31888,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "202035",
-  "dersId": "egitimbilimleri",
-  "konuId": "rehberlik_turleri",
-  "soru": "Aşağıdakilerden hangisi grup rehberliğinin temel özelliklerinden biri değildir?",
-  "secenekler": [
-   "Normal gelişim ve önlem amaçlı konuları kapsaması",
-   "Eğitici ve bilgi verici bir nitelik taşıması",
-   "Danışma sürecinin terapötik derinlikte olması",
-   "Genellikle 6-12 kişilik gruplarla yürütülmesi",
-   "Okul ortamında sıklıkla uygulanması"
-  ],
-  "dogru": 2,
-  "aciklama": "Terapötik derinlik, grup rehberliğinin değil grupla psikolojik danışmanın özelliğidir. Grup rehberliği daha çok eğitici, bilgi verici ve gelişimsel nitelikte olup ağır psikolojik sorunlara odaklanmaz. Grupla psikolojik danışma ise daha yoğun ve terapötik bir süreçtir.",
-  "zorluk": "kolay"
- },
- {
   "id": "202036",
   "dersId": "egitimbilimleri",
   "konuId": "rehberlik_turleri",
@@ -34300,7 +34124,7 @@
    "Duygu yansıtma – Danışanın içerik düzeyinde aktardığı bilginin ardındaki örtük duygu durumunu yüzeye çıkararak terapötik ittifakı güçlendirir."
   ],
   "dogru": 4,
-  "aciklama": "Danışman, danışanın söylediği içeriğin ('her şeyi ben yapıyorum') ötesine geçerek altındaki duygusal anlamı ('yalnızlık ve değersizlik hissi') söze dökmüştür. Bu, duygu yansıtma (reflection of feeling) becerisidir. Yansıtma yalnızca içeriği tekrar eder; duygu yansıtma ise örtük duygusal mesajı dile getirir. Yeniden çerçeveleme davranışın perspektifini değiştirme, özetleme ise birden fazla ifadeyi toparlama becerisidir. Empati bir beceri değil, danışmanın danışana duygusal açıdan eşlik etme tutumudur; danışmanın aynı duyguyu yaşaması değil, danışanın perspektifini doğru anlayıp iletmesidir. Doğru yanıt B'dir.",
+  "aciklama": "Danışan yalnızca bir durumu (her şeyi kendisinin yaptığını) anlatırken, danışman bu içeriğin ardındaki dile getirilmemiş yalnızlık ve değersizlik duygularını fark edip sözel olarak ifade etmiştir. Bu nedenle doğru seçenek 'Duygu yansıtma – Danışanın içerik düzeyinde aktardığı bilginin ardındaki örtük duygu durumunu yüzeye çıkararak terapötik ittifakı güçlendirir.' ifadesidir; danışanın gözlerinin dolması ve 'Evet, tam olarak bu' demesi, duygusunun doğru anlaşıldığını ve ilişkinin derinleştiğini gösterir. Basit yansıtma sözleri olduğu gibi tekrarlar, özetleme birden fazla seansı bir araya getirir, yeniden çerçeveleme olumsuzu olumluya çevirir; empati ise danışmanın duyguyu bizzat yaşaması değil, danışanın bakış açısından anlamasıdır.",
   "zorluk": "zor"
  },
  {
@@ -34332,7 +34156,7 @@
    "Her ikisi de danışanın bastırılmış bilinçdışı içerikleri farkındalık düzeyine taşımasına yardımcı olmaktadır; aralarındaki tek fark, boş sandalye tekniğinin yalnızca anne-baba figürleriyle sınırlı biçimde kullanılabilmesidir ve bu sınır kullanımı kısıtlamaktadır."
   ],
   "dogru": 0,
-  "aciklama": "Boş sandalye tekniğinde danışan hayali olarak bir figürle (iç ses, önemli biri, çatışmalı benlik kısmı vb.) diyalog kurar ve fiziksel olarak o sandalyeye oturarak onun bakış açısını deneyimler; bu sembolik bir iç dünya temsilidir. Psikodramada rol değiştirme, danışanın somut bir karşı tarafla (gerçek kişi ya da sembolik figür) fiziksel olarak yer değiştirmesini ve o kişinin rolünü doğrudan oynamasını içerir. Her iki teknik de farklı perspektifler aracılığıyla empati ve farkındalık geliştirir; ancak kullanım biçimleri ve teorik zemini farklıdır. A'daki 'geçmişi yeniden yaşama' her iki teknik için zorunlu değildir. B'deki 'yalnızca anne-baba' sınırlaması yanlıştır. D'deki 'bilişsel yeniden yapılandırma' Gestalt'ın amacı değildir; Gestalt bütünleşmeyi hedefler. E kısmen doğru unsurlar içerse de boş sandalye tekniğinin grup ortamına özgü olmadığı iddiası çerçeveyi bozar. Doğru yanıt C'dir.",
+  "aciklama": "Boş sandalye tekniğinde danışan, karşısındaki boş sandalyeye hayalî olarak yerleştirdiği bir kişiyle ya da kendi iç dünyasının bir parçasıyla konuşur. Psikodramadaki rol değiştirmede ise danışan, sahnedeki gerçek ya da sembolik karşı tarafla fiziksel olarak yer değiştirip onun rolüne bürünür. Bu nedenle doğru ifade şudur: Her ikisi de danışanın başka bir perspektiften empati ve farkındalık geliştirmesine katkı sunar; fark, boş sandalye tekniğinin sembolik/iç dünya temsilini kullanması, rol değiştirmenin ise gerçek ya da sembolik bir karşı tarafla fiziksel yer değiştirmeyi içermesidir. Diğer seçenekler yanlıştır. Bilişsel yeniden yapılandırma ve otomatik düşüncelerin sorgulanması bilişsel terapiye özgüdür, bilinçdışı vurgusu psikanalitik yaklaşıma aittir, boş sandalye tekniği anne-baba figürleriyle sınırlı değildir ve psikodrama yalnızca grupla sınırlı tutulamaz.",
   "zorluk": "zor"
  },
  {
@@ -34352,22 +34176,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "202180",
-  "dersId": "egitimbilimleri",
-  "konuId": "psikolojik_danisma",
-  "soru": "Aşağıda bir psikolojik danışma seansından alınan dört farklı danışman ifadesi ve her birinin altında verilen kuramsal gerekçe sunulmuştur. Hangi seçenekte ifade ile kuramsal gerekçe arasındaki eşleştirme yanlıştır?",
-  "secenekler": [
-   "'Şu an bu odada ne hissediyorsunuz?' – Gestalt'ın burada ve şimdi (here and now) ilkesine dayalı farkındalık sorusu",
-   "'Kendinizi başarısız biri olarak gördüğünüzde, bunun doğru olduğuna dair kanıtları ve karşı kanıtları birlikte inceleyelim.' – Akılcı Duygusal Davranışçı Terapide (REDT) şemaya yönelik sokratik sorgulama",
-   "'Annenizle yaşadığınız bu çatışmanın, iş yerindeki amirinize karşı hissettiklerinizi de renklendirdiğini düşünüyor musunuz?' – Aktarım ilişkisini keşfetmeye yönelik psikanalitik yorumlama",
-   "'Sizin için doğru olan nedir ve bunu elde etmek için ne yapmak istiyorsunuz?' – Gerçeklik Terapisi'nde WDEP modelinin İstek (Want) ve Yapma/Yön (Doing/Direction) bileşenlerine yönelik soru",
-   "'Bu deneyimi yaşarken bedeninizdeki duyumu fark ettiniz mi?' – Varoluşçu terapinin temel tekniklerinden olan bedensel duyum keşfi"
-  ],
-  "dogru": 4,
-  "aciklama": "A: Aktarım ilişkisinin keşfi psikanalitik yorum tekniğidir — doğru eşleştirme. B: Gestalt'ın burada ve şimdi odağıyla uyumludur — doğru. C: Kanıtları ve karşı kanıtları inceleme Bilişsel Terapi (Beck) veya REBT'nin empirik sorgulama tekniğiyle uyumludur — doğru. D: WDEP modelinin W (want) ve D (doing) bileşenleri Gerçeklik Terapisi'nin temel unsurlarıdır — doğru. E: Bedensel duyum (somatic awareness) keşfi, varoluşçu terapinin değil, daha çok Gestalt, beden odaklı (somatic) terapiler ve Duygu Odaklı Terapi'nin tekniğidir. Varoluşçu terapinin odak noktaları anlam, özgürlük, yalnızlık ve ölüm gibi varoluşsal temalarla kurulan ilişkidir; bedensel duyum keşfi bu kurama özgü bir teknik değildir. Bu nedenle E'deki eşleştirme yanlıştır; yanıt E'dir.",
-  "zorluk": "zor"
- },
- {
   "id": "202181",
   "dersId": "egitimbilimleri",
   "konuId": "psikolojik_danisma",
@@ -34380,7 +34188,7 @@
    "Danışan: 'Altı aydır düzenli spor yapıyorum ama bazen bırakacakmışım gibi geliyor.' – Evre: Eylem (action) – Strateji: Değişimin fayda-zarar analizini yeniden yapma"
   ],
   "dogru": 0,
-  "aciklama": "A: Danışan değişim ihtiyacını reddettiği için önceden düşünme evresi doğrudur; ancak bu evredeki danışana değişim planı geliştirme önerilmez, önce farkındalık artırma ve çelişkiyi keşfetme stratejileri kullanılır — strateji yanlış. B: Danışan değişimi düşünüyor ama kararsız; bu düşünme evresidir. Motivasyonel görüşme bu evrenin temel stratejisidir — her ikisi de doğru. C: Hazırlık evresi doğrudur; ancak relaps önleme idame (maintenance) evresinin stratejisidir — strateji yanlış. D: Altı aylık aktif değişim eylem evresiyle değil, idame evresiyle uyumludur — evre yanlış. E: İki yıllık başarılı abstinans idame evresine işaret eder; hazırlık evresi ve motivasyonel görüşme stratejisi bu tabloyla çelişir — her ikisi de yanlış. Doğru yanıt B'dir.",
+  "aciklama": "Doğru seçenek, danışanın 'Belki içkiyi bırakmayı deneyebilirim ama bunun bana ne faydası olacağını bilmiyorum.' ifadesine karşılık gelen 'Evre: Düşünme (contemplation) – Strateji: Değişime yönelik kararlılığı güçlendirmek için motivasyonel görüşme teknikleri' eşleştirmesidir. Danışan değişimi düşünmekte ama kararsızdır (ambivalans); bu, düşünme evresinin temel özelliğidir ve bu kararsızlığı çözüp değişim motivasyonunu artırmada en uygun yöntem motivasyonel görüşmedir. Diğer seçeneklerde evre ile strateji uyuşmaz: iki yıldır sigara içmeyen kişi sürdürme evresindedir, önceden düşünme evresindeki kişiye ayrıntılı plan değil farkındalık kazandırma gerekir, hazırlık evresinde öncelik eylem planıdır, altı aydır düzenli spor yapan kişi ise sürdürme evresine geçmiş olup relaps önlemeye ihtiyaç duyar.",
   "zorluk": "zor"
  },
  {
@@ -34396,7 +34204,7 @@
    "Davranışçı çerçeve – Mert'in sorunlu davranışları pekiştireçlerle şekillendiğinden, olumsuz davranışlar için ceza, olumlu davranışlar için ise ödül içeren kapsamlı bir token ekonomi sistemi uygulanmalıdır ve süreç düzenli olarak izlenmelidir."
   ],
   "dogru": 0,
-  "aciklama": "Mert'in sorunları son iki ayda, yani babanın evden uzak kaldığı döneme denk gelen bir başlangıç noktasına sahiptir. Bu, biyopsikososyal bir değerlendirmeyi gerektirir. Annenin 'hep böyleydi' demesi dikkate alınmamalı; davranışların ortaya çıkış zamanı babanın yokluğuyla örtüşmektedir. Okul psikolojik danışmanlığında Bronfenbrenner'ın ekolojik modeli ve sistemik bakış açısı, çocuğun davranışlarını izole bir patoloji olarak değil, sistemdeki değişikliklere verilen tepki olarak ele alır. Doğru müdahale hem aileyi hem okulu içeren koordineli bir çalışmayı gerektirir. A'daki token ekonomi yüzeysel ve bağlamı görmezden gelen bir yaklaşımdır. B'deki davranım bozukluğu tanısı için yalnızca iki aylık tablo yeterli olmaz ve psikiyatrik yönlendirme prematürdür. D ve E kısmi doğrular içerse de vakayı bütünsel olarak kavramsallaştırmaz. Doğru yanıt C'dir.",
+  "aciklama": "Vakada Mert'in sorunlu davranışlarının, babasının iki ay önce evden uzun süre ayrı kalmasıyla eş zamanlı başladığı ve Mert'in bu dönemde çok zorlandığını kendisinin ifade ettiği görülmektedir. Bu nedenle doğru cevap 'Sistemik/ekolojik çerçeve – Mert'in davranışları aile sistemindeki geçici değişikliğe (babanın yokluğu) verilen uyumsal bir tepki olarak ele alınmalı; aile görüşmeleri ve okul iletişimi koordineli biçimde yürütülmelidir' seçeneğidir, çünkü sorun bireyin içinde değil, aile ve okul sistemlerindeki etkileşimde aranmaktadır. Annenin 'hep böyleydi' demesiyle öğretmenlerin son iki aya işaret etmesi arasındaki çelişki de bilgilerin farklı sistemlerden toplanıp birlikte değerlendirilmesini gerektirir. Davranım bozukluğu tanısı, token ekonomisi veya varsayıma dayalı bilişsel müdahale gibi seçenekler ise davranışın bağlamını ve geçici bir yaşam değişikliğine verilen tepki olduğunu göz ardı ettiği için öncelikli yaklaşım olamaz.",
   "zorluk": "zor"
  },
  {
@@ -34427,8 +34235,8 @@
    "Danışan, danışmana kendisinin HIV pozitif olduğunu söylemiş; eşinin haberdar olmadığını ve onu bilgilendirmeyi düşünmediğini belirtmiştir. Danışman gizliliği kırarak eşi doğrudan arayabilir.",
    "Danışan, belirli bir kişiye zarar vereceğini somut biçimde ifade etmiştir. Danışman önce denetçisiyle görüşmeli, ardından danışana gizliliği kıracağını bildirerek hedef kişiyi ve gerekirse yetkilileri uyarmalıdır."
   ],
-  "dogru": 4,
-  "aciklama": "A: Tarasoff kararı ve mesleki etik standartlarına (ACA, PDR-TR) göre danışan belirli bir kişiye somut zarar verme niyeti bildirdiğinde danışman 'uyarma görevi' (duty to warn) kapsamında hareket etmek zorundadır. Süreç şu sırayı izlemelidir: (1) Denetçi/süpervizörle konsültasyon, (2) danışana gizliliğin kırılacağının bildirilmesi, (3) hedef kişinin ve/veya yetkililerin uyarılması. Bu hem etik hem yasal süreçle uyumludur — doğru. B: Pasif ölüm düşüncesi (passive death ideation), aktif intihar planı ile aynı kategoride değerlendirilemez; gizliliğin derhal kırılması için yeterli klinik eşik sağlanmamış olabilir, daha kapsamlı risk değerlendirmesi gerekir — yanıltıcı. C: Türkiye mevzuatında geçmişe ait istismar olaylarının ihbar yükümlülüğü devam eden bir tehlikenin varlığına ve çocukla ilgili olup olmadığına bağlıdır; doğrudan savcılığa bildirim koşulları bu kadar basit değildir — hatalı genelleme. D: HIV gizliliği kırma hakkı vaka bazlı, kültürel ve yasal bağlama göre tartışmalı olmakla birlikte 'doğrudan arama' etik prosedürü atlayan bir yaklaşımdır — yanlış. E: Doğru unsurlar içerse de önce 'risk değerlendirmesi' önce değil, sürecin başından itibaren devam eden bir etkinliktir; ifadenin sıralaması tartışmalıdır. Doğru yanıt A'dır.",
+  "dogru": 1,
+  "aciklama": "• Tarasoff kararı ve mesleki etik standartlarına (ACA, PDR-TR) göre danışan belirli bir kişiye somut zarar verme niyeti bildirdiğinde danışman 'uyarma görevi' (duty to warn) kapsamında hareket etmek zorundadır. Süreç şu sırayı izlemelidir: (1) Denetçi/süpervizörle konsültasyon, (2) danışana gizliliğin kırılacağının bildirilmesi, (3) hedef kişinin ve/veya yetkililerin uyarılması. Bu hem etik hem yasal süreçle uyumludur — doğru. • Pasif ölüm düşüncesi (passive death ideation), aktif intihar planı ile aynı kategoride değerlendirilemez; gizliliğin derhal kırılması için yeterli klinik eşik sağlanmamış olabilir, daha kapsamlı risk değerlendirmesi gerekir — yanıltıcı. • Türkiye mevzuatında geçmişe ait istismar olaylarının ihbar yükümlülüğü devam eden bir tehlikenin varlığına ve çocukla ilgili olup olmadığına bağlıdır; doğrudan savcılığa bildirim koşulları bu kadar basit değildir — hatalı genelleme. • HIV gizliliği kırma hakkı vaka bazlı, kültürel ve yasal bağlama göre tartışmalı olmakla birlikte 'doğrudan arama' etik prosedürü atlayan bir yaklaşımdır — yanlış. • Doğru unsurlar içerse de önce 'risk değerlendirmesi' önce değil, sürecin başından itibaren devam eden bir etkinliktir; ifadenin sıralaması tartışmalıdır. Doğru cevap: «Danışan, belirli bir kişiye zarar vereceğini somut biçimde ifade etmiştir. Danışman önce denetçisiyle görüşmeli, ardından danışana gizliliği kıracağını bildirerek hedef kişiyi ve gerekirse yetkilileri uyarmalıdır».",
   "zorluk": "zor"
  },
  {
@@ -34460,7 +34268,7 @@
    "Gelişimsel modeller, süpervizörün rolünün zamanla sabit kaldığını savunur; danışmanın deneyim düzeyi süpervizyon biçimini değiştirmez."
   ],
   "dogru": 0,
-  "aciklama": "A: IDM'de Düzey 3+ (ileri düzey) danışmanlar yüksek özerklik, tutarlı motivasyon ve gelişmiş öz-farkındalığa sahiptir; süpervizör desteğine olan yoğun ihtiyaç erken düzeylere aittir — yanlış. B: Bernard'ın Ayırt Edici Modeli, süpervizörün öğretmen (teacher), danışman (counselor) ve konsültan (consultant) rollerini dönüşümlü üstlendiğini; her rolün süreç becerileri, kavramsallaştırma ve kişiselleşme odak alanlarıyla kesiştiğini belirtir — doğru. C: Gelişimsel modellerin temel iddiası, danışman geliştikçe süpervizörün rolünün de değişmesi gerektiğidir — yanlış. D: Psikanalitik süpervizyon aktarım, karşı aktarım ve süpervizyondaki ilişkisel dinamikleri merkeze alır — yanlış. E: Sistemik modeller teorik çerçeveye duyarlılığı gerektirir; teoriden tamamen bağımsız değerlendirme mümkün değildir — yanlış. Doğru yanıt B'dir.",
+  "aciklama": "Doğru ifade şudur: \"Bernard'ın Ayırt Edici Model'i (Discrimination Model), süpervizörün eş zamanlı olarak öğretmen, danışman ve danışman (consultant) rollerini üstlenebileceğini ve her rolün farklı odak alanlarına (süreç becerileri, kavramsallaştırma, kişiselleşme) karşılık geldiğini öne sürer.\" Bernard'ın modelinde süpervizör, danışmanın ihtiyacına göre öğretmen, danışman (counselor) ve konsültan rolleri arasında esnekçe geçiş yapar. Bu roller müdahale (süreç) becerileri, vakayı kavramsallaştırma ve kişiselleştirme odak alanlarıyla birleşerek 3x3'lük bir yapı oluşturur. Diğer ifadeler yanlıştır: gelişimsel modeller süpervizyonun danışmanın deneyim düzeyine göre değiştiğini savunur, IDM'de ileri düzey danışmanlar öz-farkındalıkta da özerkleşir, psikanalitik süpervizyon ise aktarım ve karşı aktarımı merkeze alır.",
   "zorluk": "zor"
  },
  {
@@ -34492,7 +34300,7 @@
    "Zeynep'in ailesiyle yaşadığı çatışma, bağlanma sisteminin tehdit altına girdiğini göstermektedir; danışman bu bağlanma örüntüsüne odaklanmalı ve Zeynep'in güvenli bağlanma geliştirmesine yardımcı olmalıdır. Bu çalışma, Zeynep'in aile ilişkilerini yeniden düzenlemesine ve kaygısını azaltmasına da katkı sağlayacaktır."
   ],
   "dogru": 3,
-  "aciklama": "Krumboltz'un Sosyal Öğrenme Kariyer Karar Verme Kuramı'na göre kariyer kararları; genetik-doğuştan özellikler, çevresel koşullar ve olaylar, öğrenme deneyimleri (araçsal ve gözlemsel) ve görev yaklaşım becerileri tarafından şekillendirilir. Birey çevresini gözlemleyerek ve sosyal pekiştirme yoluyla kendisi ve dünya hakkında inançlar (self-observation generalizations ve world-view generalizations) geliştirir. Bu çerçevede Zeynep'in mühendisliğe ya da sanat alanına yönelik inançları ailesinin pekiştirme örüntüleri ve gözlem deneyimlerinin ürünüdür. Danışmanın görevi bu inançların kökenini keşfetmek ve doğruluğunu sorgulamaktır. A Holland kuramına aittir. B Super kuramına aittir. D bağlanma kuramına aittir. E psikanalize aittir. Doğru yanıt C'dir.",
+  "aciklama": "Krumboltz'un Sosyal Öğrenme Kariyer Karar Verme Kuramı, kariyer tercihlerinin doğuştan ve değişmez özelliklerden değil; genetik etkenler, çevresel koşullar, doğrudan ve dolaylı (gözleme dayalı) öğrenme deneyimleri ile pekiştireç geçmişinden doğduğunu savunur. Bu nedenle doğru yaklaşım şudur: Zeynep'in mühendisliğe yönelik olumsuz inançları, muhtemelen geçmişteki gözlem deneyimleri ve pekiştireç tarihçesinin ürünüdür; danışman bu öğrenilmiş inançları ve aile baskısının nasıl bir genelleme (generalization) yarattığını keşfetmeli, ardından bu inançların test edilmesine yardımcı olmalıdır. Kuramdaki 'öz-gözlem genellemeleri' ve 'dünya görüşü genellemeleri' kavramları, bireyin kendisi ve meslekler hakkında öğrenme yoluyla edindiği inançları anlatır; danışmanın görevi de bu inançları fark ettirip yeni öğrenme fırsatlarıyla sınamaktır. Diğer seçenekler ise psikanalitik kurama, Super'ın gelişimsel kuramına, Holland'ın tipoloji kuramına ve bağlanma kuramına aittir; bu nedenle Krumboltz'un bakış açısını yansıtmaz.",
   "zorluk": "zor"
  },
  {
@@ -34508,7 +34316,7 @@
    "MI'da danışman, danışanın değişime hazır olup olmadığını değerlendirerek dışsal motivasyon oluşturmayı hedeflemektedir; BDT ise doğrudan danışanın içsel kaynakları üzerinde çalışmaktadır."
   ],
   "dogru": 1,
-  "aciklama": "A: MI bağımlılıkla sınırlı değildir; kronik hastalık yönetimi, beslenme, fiziksel aktivite ve pek çok alanda kullanılır — yanlış. B: MI'nın temel hedefi dışsal motivasyon oluşturmak değil, içsel motivasyonu uyandırmaktır; Miller ve Rollnick'e göre motivasyon danışmandan değil danışandan gelmelidir — yanlış. C: MI'da değer-davranış çelişkisi (discrepancy), değişim konuşması (change talk) ve direncin işbirliği sorunu olarak yorumlanması temel ilkelerdir. BDT ise sokratik sorgulama, ev ödevleri, maruz bırakma gibi yapılandırılmış tekniklerle bilişsel ve davranışsal hedefleri doğrudan ele alır — doğru. D: İki yaklaşım teorik olarak farklıdır; MI motivasyoncu, BDT teknik/yapılandırılmış bir çerçevedir — yanlış. E: BDT motivasyon gerektirmez iddiası yanlıştır; her iki yaklaşımda da işbirliği gereklidir — yanlış. Doğru yanıt C'dir.",
+  "aciklama": "Motivasyonel Görüşme, danışanın kendi değerleri ile mevcut davranışları arasındaki çelişkiyi (tutarsızlığı) fark etmesini sağlayarak içsel motivasyonu harekete geçirmeyi amaçlayan, danışan merkezli ve işbirlikçi bir yaklaşımdır. Bu yaklaşımda değişime direnç danışanın kusuru olarak görülmez; danışman ile danışan arasındaki işbirliğinin kalitesine dair bir işaret olarak yorumlanır ve danışman tutumunu buna göre ayarlar. Bilişsel Davranışçı Terapi ise yapılandırılmış teknikler, ödevler ve bilişsel yeniden yapılandırma ile işlevsel olmayan düşünce ve davranış örüntülerini doğrudan hedef alır. Bu nedenle temel farkı en doğru biçimde ortaya koyan ifade 'MI, danışanın kendi değerleriyle mevcut davranışları arasındaki çelişkiyi fark etmesini sağlayarak içsel motivasyonu harekete geçirmeyi hedefler ve değişime direnç danışanın sorunu olarak değil, işbirliğinin kalitesi olarak yorumlanır; BDT ise yapılandırılmış tekniklerle bilişsel ve davranışsal örüntüleri doğrudan hedef alır' ifadesidir. Diğer seçeneklerdeki iki yaklaşımın birlikte kullanılamayacağı, MI'ın yalnızca bağımlılıkta uygulandığı ya da dışsal motivasyon oluşturmayı hedeflediği gibi iddialar yanlıştır; aksine MI ve BDT sıklıkla birlikte kullanılır.",
   "zorluk": "zor"
  },
  {
@@ -34524,7 +34332,7 @@
    "Çokkültürlü Danışma Yetkinlikleri'ne (MCCC/MCSJCC) göre danışman; kendi kültürel önyargılarının ve değerlerinin farkında olmalı, farklı kültürel dünya görüşlerine ilişkin bilgi edinmeli ve kültüre uygun müdahale becerilerini geliştirmelidir."
   ],
   "dogru": 4,
-  "aciklama": "A: Kültürel bilgi gerekli olmakla birlikte yeterli değildir; her birey kendi kültürel arka planını farklı biçimde deneyimler, bu nedenle bireye özgü değerlendirme şarttır — yanlış. B: Renk körlüğü yaklaşımı, danışanların kimliğinin önemli boyutlarını görmezden geldiği için kültürel açıdan yetersiz ve etik sorunlar doğuran bir tutum olarak eleştirilir — yanlış. C: Sue ve Sue'nun Çokkültürlü Danışma Yetkinlikleri modeli üç boyut içerir: (1) öz-farkındalık (kendi önyargı ve değerleri), (2) kültürler arası bilgi, (3) kültüre uygun beceriler. Bu ifade bu üç boyutu doğru biçimde özetler — doğru. D: Danışanın kültürel değerlerini danışmanın kendi değerleriyle uyumlu hale getirmeye çalışmak etik ihlal oluşturur; kültürel empoze (cultural imposition) olarak adlandırılır — yanlış. E: Kültürel aktarım ırk ve etniklikle sınırlı değildir; cinsiyet, yaş, sınıf vb. kimlik boyutlarını da kapsar — yanlış. Doğru yanıt C'dir.",
+  "aciklama": "Doğru cevap, Çokkültürlü Danışma Yetkinlikleri'ne (MCCC/MCSJCC) göre danışmanın kendi kültürel önyargılarının ve değerlerinin farkında olması, farklı kültürel dünya görüşlerine ilişkin bilgi edinmesi ve kültüre uygun müdahale becerilerini geliştirmesi gerektiğidir; çünkü Sue ve arkadaşlarının modeline dayanan bu yetkinlikler farkındalık, bilgi ve beceri boyutlarını temel alır. Diğer ifadeler hatalıdır: kültürel aktarım yalnızca ırk ya da etnik kimlikle sınırlı değildir, cinsiyet, yaş ve sınıf gibi kimlikleri de kapsar. Danışmanın kendi değerleriyle bağdaşmayan danışan davranışlarını değiştirmeyi hedeflemesi değer dayatması olduğundan etik dışıdır. Grup bilgisini yeterli görmek kalıp yargılara yol açar, renk körlüğü yaklaşımı ise kültürel farklılıkları ve ayrımcılık deneyimlerini görmezden geldiği için kültüre duyarlı danışmayla bağdaşmaz.",
   "zorluk": "zor"
  },
  {
@@ -35741,22 +35549,6 @@
   ],
   "dogru": 3,
   "aciklama": "Zihin yetersizliği olan öğrencilere işlevsel beceriler öğretilirken genelleme sorunu göz önüne alınarak becerinin doğal ortamında (toplum temelli öğretim) ve davranış zinciri yöntemleriyle öğretilmesi en etkili yaklaşımdır. Rol yapma tek başına yeterli genellemeyi sağlayamaz; yazılı kural ezberi soyutluk düzeyi açısından uygun değildir.",
-  "zorluk": "orta"
- },
- {
-  "id": "202268",
-  "dersId": "egitimbilimleri",
-  "konuId": "ozel_egitim",
-  "soru": "Aşağıdakilerden hangisi 'bütünleştirici eğitim' ile 'kaynaştırma eğitimi' arasındaki temel farkı en doğru biçimde açıklar?",
-  "secenekler": [
-   "Bütünleştirici eğitimde BEP hazırlanması zorunlu değildir.",
-   "Kaynaştırma eğitimi yalnızca hafif düzeyde yetersizliği olan öğrencilere yöneliktir.",
-   "Bütünleştirici eğitim yalnızca işitme yetersizliği olan öğrencilere uygulanabilmektedir, diğer gruplar bu kapsama girmemektedir.",
-   "Bütünleştirici eğitimde öğrenciden sisteme uyum beklenir; kaynaştırmada sistem öğrenciye uyarlanır.",
-   "Kaynaştırma eğitiminde öğrenci tam zamanlı özel eğitim sınıfında eğitim alır."
-  ],
-  "dogru": 3,
-  "aciklama": "Bütünleştirici (entegrasyon) modelinde özel gereksinimli birey, standart sisteme fiziksel olarak dahil edilir; sistemin bireye uyarlanması beklenmez. Kaynaştırma (inklüzyon) anlayışında ise eğitim sistemi, ortam ve müfredat bireyin gereksinimlerine göre düzenlenir. Bu kavramsal ayrım özel eğitim felsefesinin temel eksenidir.",
   "zorluk": "orta"
  },
  {

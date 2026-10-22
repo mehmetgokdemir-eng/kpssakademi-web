@@ -66,14 +66,15 @@
      "konuId": "mikro_i_ktisat",
      "soru": "Tam rekabet piyasasında faaliyet gösteren bir firmanın kısa dönem maliyet yapısı incelendiğinde, AVC (ortalama değişken maliyet) eğrisinin minimum noktasında fiyatın bu değerin altına düştüğü görülmektedir. Firmanın kısa dönemde alabileceği en rasyonel karar aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Firma piyasadan çıkmalı ve uzun dönemde yeniden değerlendirme yapmalıdır.",
+      "Firma piyasadan hemen çıkmalı ve uzun dönemde yeniden bir değerlendirme yapmalıdır.",
       "Fiyat AVC'nin altında olduğundan üretimi durdurmak, üretime devam etmekten daha az kayıpla sonuçlanır.",
       "Üretimi derhal durdurmalı çünkü tüm maliyetlerini karşılayamamaktadır.",
       "Üretime devam etmeli çünkü sabit maliyetler zaten batık maliyettir.",
-      "Firma fiyatı AVC minimum düzeyine çıkana kadar üretim miktarını artırmalıdır."
+      "Firma, fiyat AVC minimum düzeyine çıkana kadar üretim miktarını artırmayı sürdürmeli ve böylece zararını azaltmalıdır."
      ],
      "dogru": 1,
-     "aciklama": "Kısa dönemde firmanın üretim kararı için kritik eşik, AVC minimumudur. Eğer piyasa fiyatı AVC'nin minimumunun altına düşerse, firma üretime devam ettiğinde değişken maliyetlerini dahi karşılayamamaktadır. Bu durumda üretime devam etmek, sabit maliyetlerin yanı sıra karşılanamayan değişken maliyet kadar ek kayba neden olur. Üretimi durdurduğunda ise firma yalnızca sabit maliyetler kadar zarar eder. Bu nedenle P < AVC(min) koşulunda üretimi durdurmak rasyoneldir. A şıkkı yanıltıcıdır: sabit maliyetlerin batık maliyet olması doğrudur, ancak bu durum AVC bile karşılanamadığında üretime devam etmeyi haklı kılmaz."
+     "aciklama": "Kısa dönemde sabit maliyetler, üretim yapılsa da yapılmasa da ödenir. Bu yüzden karar yalnızca değişken maliyetlere bakılarak verilir. Fiyat AVC'nin altındaysa gelir değişken maliyetleri bile karşılamaz. Üretime devam eden firma, sabit maliyet kaybına ek olarak değişken maliyet açığını da üstlenir. Üretimi durduran firma ise yalnızca sabit maliyet kadar kaybeder. Bu nedenle durdurmak daha az kayıplıdır. \"Firma piyasadan hemen çıkmalı ve uzun dönemde yeniden bir değerlendirme yapmalıdır.\" seçeneği yanlıştır, çünkü piyasadan çıkış uzun dönem kavramıdır; kısa dönemde söz konusu olan üretimi durdurmaktır. \"Üretime devam etmeli çünkü sabit maliyetler zaten batık maliyettir.\" seçeneği de yanlıştır, çünkü sabit maliyetin batık olması, değişken maliyet kaybını haklı çıkarmaz. Doğru cevap \"Fiyat AVC'nin altında olduğundan üretimi durdurmak\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "46504",
@@ -88,7 +89,8 @@
       "Türkiye'de 26 düzey 2 bölgesi için 26 kalkınma ajansı kurulmuştur."
      ],
      "dogru": 4,
-     "aciklama": "Türkiye, NUTS-2 sınıflandırmasına göre 26 istatistiki bölge birimine ayrılmış ve bu bölgelerin her biri için bir kalkınma ajansı kurulmuştur. 5449 sayılı Kalkınma Ajanslarının Kuruluşu, Koordinasyonu ve Görevleri Hakkında Kanun 2006'da yürürlüğe girmiştir. Ajanslar; kamu kurumu niteliğinde olmakla birlikte yerel düzeyde özerktir, tarım dışı sektörlere de hibe sağlar ve merkezi idareden pay alır."
+     "aciklama": "Türkiye, NUTS-2 sınıflandırmasına göre 26 istatistiki bölge birimine ayrılmış ve bu bölgelerin her biri için bir kalkınma ajansı kurulmuştur. 5449 sayılı Kalkınma Ajanslarının Kuruluşu, Koordinasyonu ve Görevleri Hakkında Kanun 2006'da yürürlüğe girmiştir. Ajanslar; kamu kurumu niteliğinde olmakla birlikte yerel düzeyde özerktir, tarım dışı sektörlere de hibe sağlar ve merkezi idareden pay alır.",
+     "zorluk": "orta"
     },
     {
      "id": "46363",
@@ -119,7 +121,8 @@
       "Nominal faiz oranı ile reel faiz oranı uzun dönemde birbirine eşit olur"
      ],
      "dogru": 1,
-     "aciklama": "Fisher Etkisi'ne göre nominal faiz oranı = reel faiz oranı + beklenen enflasyon oranıdır. Yani reel faiz = nominal faiz − beklenen enflasyondur. Enflasyon arttığında, nominal faiz oranı da aynı oranda artar; böylece reel faiz oranı değişmez. Bu, uzun dönemde para politikasının reel değişkenleri etkileyemeyeceğini (para yanılsamasının olmadığını) ifade eder."
+     "aciklama": "Fisher Etkisi'ne göre nominal faiz oranı = reel faiz oranı + beklenen enflasyon oranıdır. Yani reel faiz = nominal faiz − beklenen enflasyondur. Enflasyon arttığında, nominal faiz oranı da aynı oranda artar; böylece reel faiz oranı değişmez. Bu, uzun dönemde para politikasının reel değişkenleri etkileyemeyeceğini (para yanılsamasının olmadığını) ifade eder.",
+     "zorluk": "orta"
     },
     {
      "id": "46241",
@@ -162,8 +165,8 @@
       "Türkiye'de büyümenin niteliği incelendiğinde, TFV artışının büyümeye katkısının sınırlı kaldığı, Ar-Ge harcamalarının GSYH'nin %1'ini uzun süre geçemediği, ihracatın teknoloji yoğunluğunun düşük seyrini koruduğu ve büyümenin ağırlıklı olarak tüketim artışı, ucuz kredi genişlemesi ve inşaat-altyapı yatırımlarına yaslandığı görülmektedir; bu yapı orta gelir tuzağı riskini canlı tutmaktadır.",
       "Türkiye'deki TFV artışının düşüklüğü yalnızca eğitim sistemindeki yetersizlikten kaynaklanmaktadır; eğitime yapılan yatırımın artırılmasıyla büyüme niteliği kısa vadede iyileştirilebilir.",
       "Türkiye 2002-2023 döneminde yüksek yatırım oranı sayesinde TFV artışı odaklı bir büyüme modeli inşa etmiş; bu model Güney Kore ve Tayvan'ın deneyimleriyle örtüşmektedir.",
-      "TFV büyümesi, Türkiye'de ölçülmesi teknik açıdan mümkün olmadığından büyümenin niteliğine ilişkin sağlıklı bir değerlendirme yapılamaz; dolayısıyla 'orta gelir tuzağı' iddiası ampirik temelden yoksundur.",
-      "Türkiye'de inşaat yatırımlarının büyümeye katkısı, yüksek geri bağlantı (backward linkage) etkisi sayesinde TFV artışıyla eşdeğer büyüme kalitesi yaratmakta; bu nedenle inşaat odaklı büyüme modeli sürdürülebilirdir."
+      "Toplam faktör verimliliği büyümesinin Türkiye'de ölçülmesi teknik açıdan mümkün olmadığından büyümenin niteliğine ilişkin sağlıklı bir değerlendirme yapılamamaktadır; dolayısıyla 'orta gelir tuzağı' iddiası ampirik temelden yoksundur ve büyüme modelinin bileşimine yönelik eleştiriler dayanaksız kalmaktadır.",
+      "Türkiye'de inşaat yatırımlarının büyümeye katkısı, yüksek geri bağlantı etkisi sayesinde toplam faktör verimliliği artışıyla eşdeğer bir büyüme kalitesi yaratmaktadır; bu nedenle inşaat odaklı büyüme modeli uzun dönemde sürdürülebilir nitelikte olup orta gelir tuzağı riski açısından herhangi bir sorun oluşturmamaktadır ve teknoloji yoğunluğu tartışması gereksizdir. Bu nedenle büyümenin niteliğine yönelik eleştiriler dayanaksız kalmaktadır."
      ],
      "dogru": 0,
      "aciklama": "Büyümenin niteliği analiz edilirken TFV (Toplam Faktör Verimliliği) büyümeye katkısı temel bir göstergedir. Türkiye'de 2000'li ve 2010'lu yılları kapsayan büyüme muhasebesi çalışmaları (TCMB, IMF, Dünya Bankası araştırmaları), büyümenin asıl kaynağının faktör birikimi (sermaye stoku artışı ve işgücü) olduğunu, TFV artışının ise sınırlı kaldığını ortaya koymaktadır. Ar-Ge/GSYH oranı OECD ortalamasının (yaklaşık %2.5) oldukça altında, %0.9-1.1 bandında seyretmiştir. İhracat yapısı incelendiğinde yüksek teknoloji ürünlerinin payı %3-5 civarında kalırken Almanya, G. Kore gibi ülkelerde bu oran %15-30'a ulaşmaktadır. Büyüme dönemlerinde iç talebin ve özellikle kredi genişlemesiyle beslenen tüketim ile inşaat yatırımlarının itici güç olduğu gözlemlenmiştir. Bu yapı 'orta gelir tuzağı' tartışmalarının odak noktasını oluşturmaktadır. Şık A G. Kore-Tayvan karşılaştırması açısından Türkiye gerçeğiyle bağdaşmamaktadır. Şık D ise inşaatın geri bağlantı etkisini TFV artışıyla eşitleyen hatalı bir çıkarım içermektedir.",
@@ -182,7 +185,7 @@
       "B ülkesi buğdayda karşılaştırmalı üstünlüğe sahiptir; ticaret hadleri 1 buğday = (2/3, 1) kumaş aralığında oluşur"
      ],
      "dogru": 0,
-     "aciklama": "Fırsat maliyetleri: A ülkesi için 1 kumaşın fırsatı = 2/4 = 0,5 buğday; B ülkesi için 1 kumaşın fırsatı = 6/6 = 1 buğday. A'nın kumaş fırsat maliyeti (0,5) < B'nin kumaş fırsat maliyeti (1) → A kumaşta karşılaştırmalı üstünlüğe sahip. B'nin buğday fırsat maliyeti = 6/6 = 1 kumaş; A'nın buğday fırsat maliyeti = 4/2 = 2 kumaş → B buğdayda karşılaştırmalı üstünlüğe sahip. Ticaret hadleri: 1 kumaş, A'da 0,5 buğdaya eşit; B'de 1 buğdaya eşit. Uluslararası ticaret hadleri bu iki değer arasında (0,5 ile 1 buğday) oluşmalıdır. C şıkkı bu aralığı doğru vermektedir.",
+     "aciklama": "Fırsat maliyetlerini hesaplayalım. A ülkesinde 1 kumaş = 2/4 = 1/2 buğday. B ülkesinde 1 kumaş = 6/6 = 1 buğday. Kumaşın fırsat maliyeti A'da düşüktür, bu nedenle A kumaşta karşılaştırmalı üstünlüğe sahiptir. Buğdayda ise A'da 1 buğday = 2 kumaş, B'de 1 buğday = 1 kumaş olduğundan B buğdayda karşılaştırmalı üstünlüğe sahiptir. Karşılıklı kazanç için ticaret hadleri iki ülkenin fırsat maliyetleri arasında kalmalıdır: 1/2 < 1 kumaş < 1 buğday. \"A ülkesi her iki malda mutlak üstünlüğe sahiptir; ticaret gerçekleşmez çünkü B'nin karşılaştırmalı üstünlüğü yoktur\" seçeneği yanlıştır, çünkü mutlak üstünlük ticareti engellemez; B'nin buğdayda karşılaştırmalı üstünlüğü vardır. \"Her iki ülke de kumaşta uzmanlaşır; ticaret gerçekleşmez çünkü fırsat maliyetleri eşittir\" seçeneğinde ise fırsat maliyetleri eşit değildir. Doğru cevap \"A ülkesi kumaşta karşılaştırmalı üstünlüğe sahiptir; ticaret hadleri 1 kumaş = (1/2, 1) buğday aralığında oluşur\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -246,22 +249,23 @@
       "Kısa vadeli banka kredileri"
      ],
      "dogru": 1,
-     "aciklama": "Cari açığın finansmanında doğrudan yabancı yatırımlar (DYY), en kalıcı ve sürdürülebilir kaynak olarak kabul edilir. DYY; uzun vadeli taahhüt içermesi, ani çıkış riskinin düşük olması ve ülkeye teknoloji, istihdam ve yönetim bilgisi getirmesi nedeniyle tercih edilen finansman türüdür. Portföy yatırımları ve sıcak para ise kısa vadeli, oynak ve kırılganlığa neden olan kaynaklardır."
+     "aciklama": "Cari açığın finansmanında doğrudan yabancı yatırımlar (DYY), en kalıcı ve sürdürülebilir kaynak olarak kabul edilir. DYY; uzun vadeli taahhüt içermesi, ani çıkış riskinin düşük olması ve ülkeye teknoloji, istihdam ve yönetim bilgisi getirmesi nedeniyle tercih edilen finansman türüdür. Portföy yatırımları ve sıcak para ise kısa vadeli, oynak ve kırılganlığa neden olan kaynaklardır.",
+     "zorluk": "orta"
     },
     {
      "id": "46437",
      "dersId": "iktisat",
      "konuId": "uluslararasi_i_ktisat",
-     "soru": "Ryбчинский teoremi ile ilgili aşağıdaki ifadelerden hangisi doğru ve tam bir değerlendirme içermektedir?",
+     "soru": "Rybczynski teoremi ile ilgili aşağıdaki ifadelerden hangisi doğru ve tam bir değerlendirme içermektedir?",
      "secenekler": [
-      "Ryбчинский teoremi yalnızca küçük ülkeler için geçerli olup büyük ülkelerde mal fiyatları değişeceğinden teorem işlevsiz kalır.",
+      "Rybczynski teoremi yalnızca küçük ülkeler açısından geçerli olup büyük ülkelerde mal fiyatları değişeceğinden teorem tümüyle işlevsiz kalmakta, öngörü gücünü ve açıklayıcılığını yitirmektedir.",
       "Faktör arzındaki artış, her iki sektörde de çıktıyı artırır; ancak yoğun kullanan sektörde artış daha büyüktür.",
       "Mal fiyatları sabit tutulduğunda, bir faktörün arzındaki artış o faktörü yoğun kullanan sektörün çıktısını orantısal artışın üzerinde artırır ve diğer sektörün çıktısını mutlak olarak azaltır.",
-      "Bir faktörün arzı arttığında, o faktörü yoğun kullanan sektörün çıktısı artar; diğer sektörün çıktısı ise sabit kalır.",
+      "Bir faktörün arzı arttığında, o faktörü yoğun kullanan sektörün çıktısı artmakta; diğer sektörün çıktısı ise hiç değişmeyerek başlangıçtaki düzeyinde sabit kalmaktadır.",
       "Faktör arzındaki artış, faktör fiyatlarını değiştireceğinden mal fiyatlarını da değiştirir ve net etki belirsizdir."
      ],
      "dogru": 2,
-     "aciklama": "Rybczynski teoremi, mal fiyatlarının sabit olduğu (küçük ülke ya da sabit dünya fiyatları) varsayımı altında geçerlidir. Bir faktörün (örneğin emeğin) arzı arttığında: emek-yoğun sektör genişler, bu sektörün sermaye talebi artar, bu sermayeyi karşılamak için sermaye-yoğun sektör daralır. Sonuç olarak emek-yoğun sektörün çıktısı faktör artışından daha büyük oranda artar (büyüteç etkisi), sermaye-yoğun sektörün çıktısı ise mutlak olarak azalır. Bu 'hastalıklı büyüme' veya 'Hollanda hastalığı' tartışmalarının teorik temelidir. C ve A şıkları eksik ya da yanlıştır.",
+     "aciklama": "Rybczynski teoremi, mal fiyatları sabitken bir faktörün arzı arttığında ne olacağını söyler. Fiyatlar sabit olduğundan faktör fiyatları da sabit kalır ve her sektörün faktör oranı değişmez. Artan faktör yoğun kullanan sektöre kayar, bu sektör diğer sektörden faktör çeker. Sonuçta yoğun kullanan sektörün çıktısı faktör arzındaki orantısal artıştan daha fazla büyür, diğer sektörün çıktısı ise mutlak olarak azalır. \"Faktör arzındaki artış, her iki sektörde de çıktıyı artırır\" seçeneği yanlıştır, çünkü diğer sektörün çıktısı düşer. \"Bir faktörün arzı arttığında, o faktörü yoğun kullanan sektörün çıktısı artmakta; diğer sektörün çıktısı ise hiç değişmeyerek\" seçeneği de yanlıştır, çünkü diğer sektörün çıktısı sabit kalmaz, azalır. Doğru cevap \"Mal fiyatları sabit tutulduğunda, bir faktörün arzındaki artış o faktörü yoğun kullanan sektörün çıktısını orantısal artışın üzerinde artırır\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -293,7 +297,8 @@
       "66,7"
      ],
      "dogru": 0,
-     "aciklama": "GSYİH Deflatörü = (Nominal GSYİH / Reel GSYİH) × 100 formülüyle hesaplanır. Deflatör = (6 / 4) × 100 = 150. Bu değer, fiyatlar genel düzeyinin baz yıla göre %50 arttığını göstermektedir."
+     "aciklama": "GSYİH Deflatörü = (Nominal GSYİH / Reel GSYİH) × 100 formülüyle hesaplanır. Deflatör = (6 / 4) × 100 = 150. Bu değer, fiyatlar genel düzeyinin baz yıla göre %50 arttığını göstermektedir.",
+     "zorluk": "orta"
     },
     {
      "id": "46049",
@@ -301,14 +306,15 @@
      "konuId": "mikro_i_ktisat",
      "soru": "Bir üretici aynı ürünü iki farklı piyasada farklı fiyatlarla satmaktadır. Birinci piyasada talep esnekliği -0,8, ikinci piyasada -2,4'tür. Kâr maksimizasyonu için bu üretici hangi piyasada daha yüksek fiyat uygulamalıdır?",
      "secenekler": [
-      "İkinci piyasada; çünkü esneklik negatif olduğundan daha yüksek kâr sağlanır.",
+      "İkinci piyasada; çünkü esneklik negatif olduğundan bu piyasada daha yüksek kâr sağlanır.",
       "Birinci piyasada; çünkü talebin esnekliği daha düşük (daha az esnek) olduğundan yüksek fiyatı tolere eder.",
       "İkinci piyasada; çünkü esneklik mutlak değer olarak daha yüksektir.",
-      "Birinci piyasada; çünkü esneklik negatif olmayan piyasada fiyat artışı kâr getirir.",
+      "Birinci piyasada; çünkü esnekliğin negatif olmadığı piyasada yapılan fiyat artışı ek kâr getirir ve firmanın payını artırır.",
       "Her iki piyasada aynı fiyatı uygulamalıdır; aksi hâlde kâr azalır."
      ],
      "dogru": 1,
-     "aciklama": "Fiyat ayrımcılığında (3. derece) kâr maksimizasyonu için daha az esnek piyasada daha yüksek fiyat, daha esnek piyasada daha düşük fiyat uygulanır. Birinci piyasada |e| = 0,8 < 1 (inelastik), ikinci piyasada |e| = 2,4 > 1 (elastik). Bu nedenle birinci piyasada daha yüksek fiyat uygulanmalıdır. İnelastik talep, tüketicilerin fiyat artışına daha az duyarlı olduğunu gösterir."
+     "aciklama": "Fiyat ayrımcılığında (3. derece) kâr maksimizasyonu için daha az esnek piyasada daha yüksek fiyat, daha esnek piyasada daha düşük fiyat uygulanır. Birinci piyasada |e| = 0,8 < 1 (inelastik), ikinci piyasada |e| = 2,4 > 1 (elastik). Bu nedenle birinci piyasada daha yüksek fiyat uygulanmalıdır. İnelastik talep, tüketicilerin fiyat artışına daha az duyarlı olduğunu gösterir.",
+     "zorluk": "orta"
     },
     {
      "id": "46450",
@@ -316,10 +322,10 @@
      "konuId": "turkiye_ekonomisi",
      "soru": "Türkiye'de beş yıllık kalkınma planlarını hazırlamakla görevli kurum aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Türkiye İstatistik Kurumu",
+      "Türkiye İstatistik Kurumu Başkanlığı (TÜİK)",
       "Kalkınma Yatırım Bankası",
       "Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",
-      "Hazine ve Maliye Bakanlığı",
+      "Hazine ve Maliye Bakanlığı Bütçe Genel Müdürlüğü",
       "Merkez Bankası"
      ],
      "dogru": 2,
@@ -348,11 +354,11 @@
      "konuId": "para_banka",
      "soru": "Parasal aktarım mekanizmasında 'bilanço kanalı (balance sheet channel)' ile 'banka kredi kanalı (bank lending channel)' arasındaki temel fark nedir?",
      "secenekler": [
-      "Bilanço kanalı yalnızca merkez bankası bilançosunu etkilerken banka kredi kanalı ticari banka bilançolarını etkiler",
+      "Bilanço kanalı yalnızca merkez bankasının bilançosunu etkilerken banka kredi kanalı yalnızca ticari banka bilançolarını etkilemektedir",
       "Bilanço kanalı açık ekonomilerde; banka kredi kanalı ise yalnızca kapalı ekonomilerde geçerlidir",
       "Bilanço kanalı borçluların net değerini ve teminat kapasitesini etkilerken banka kredi kanalı bankaların kredi arzını doğrudan kısıtlar; her ikisi de dış finansman primini yükselterek yatırımları baskılar",
       "Bilanço kanalı yalnızca hane halkı tüketimini; banka kredi kanalı ise yalnızca kamu yatırımlarını etkiler",
-      "İki kanal birbirini tam olarak dışlar; biri aktifken diğeri pasiftir ve eş zamanlı çalışmaları teorik açıdan mümkün değildir"
+      "İki kanal birbirini tam olarak dışlamaktadır; biri aktifken diğeri pasif kalmakta ve bunların eş zamanlı çalışması teorik açıdan mümkün görünmemektedir bu nedenle iki kanalın birlikte ele alınması teorik olarak yanlıştır"
      ],
      "dogru": 2,
      "aciklama": "Bernanke-Gertler çerçevesinde (1989, 1995): Banka kredi kanalı — faiz artışı → bankaların mevduat maliyeti yükselir → kredi arzı daralır → dış finansman primi artar → yatırımlar düşer. Bilanço kanalı — faiz artışı → firmaların nakit akışı ve varlık değerleri düşer (teminat değeri azalır) → dış finansman primi artar → daha az kredi alabilirler → yatırımlar düşer. Her iki kanal da 'finansal hızlandırıcı' mekanizmasının parçasıdır ve birbirini güçlendirebilir. Temel fark: Kredi kanalı arz yönlüdür (bankaların davranışı); bilanço kanalı ise talep/teminat yönlüdür (borçluların durumu).",
@@ -477,13 +483,14 @@
      "soru": "Türkiye'nin dış borç sürdürülebilirliğini değerlendirmek için kullanılan göstergelerden biri olan 'dış borç servisi/ihracat' oranına göre aşağıdaki yorum hangisi doğrudur?",
      "secenekler": [
       "Bu oran yalnızca kamu dış borcunu kapsar, özel sektör dış borcu hesaba katılmaz.",
-      "Bu oran yükseldikçe ülkenin döviz kazanma kapasitesi görece borç yüküne göre artar.",
-      "Bu oranın %100'ü aşması, ülkenin dış borçlanma kapasitesini yitirdiği anlamına gelir.",
+      "Bu oran yükseldikçe ülkenin döviz kazanma kapasitesi, üstlendiği borç yüküne göre görece artmakta ve dış kırılganlık azalmaktadır.",
+      "Bu oranın yüzde yüzü aşması, ülkenin dış borçlanma kapasitesini tümüyle yitirdiği, piyasalardan dışlandığı ve yeni kaynak bulamayacağı anlamına gelmektedir.",
       "IMF, bu oranın %10'un altında kalmasını sağlıklı kabul eder.",
       "Bu oran, ihracattan elde edilen dövizin ne kadarının borç anapara ve faiz ödemelerine ayrıldığını gösterir; oranın yükselmesi kırılganlık işaretidir."
      ],
      "dogru": 4,
-     "aciklama": "Dış borç servisi/ihracat oranı; bir ülkenin ihracat gelirleriyle borç ödemelerini ne ölçüde karşılayabildiğini gösteren kritik bir sürdürülebilirlik ölçütüdür. Oranın yükselmesi, ihracat gelirlerinin giderek daha büyük bir bölümünün borç ödemelerine gitmesi demek olduğundan dış kırılganlığın arttığına işaret eder. Oran kamu ve özel sektör borçlarını birlikte kapsayabilir; %100 eşiğinin yüzde olarak geçilmesi tek başına kapasite kaybını göstermez. B şıkkı tanım ve yorum açısından en doğru yanıttır."
+     "aciklama": "Dış borç servisi/ihracat oranı, ihracattan elde edilen döviz gelirinin ne kadarının dış borcun anapara ve faiz ödemelerine gittiğini gösterir. Oran yükseldikçe döviz gelirlerinin daha büyük bölümü borç ödemesine ayrılır ve ülkenin dış kırılganlığı artar. \"Bu oran yükseldikçe ülkenin döviz kazanma kapasitesi, üstlendiği borç yüküne göre görece artmakta ve dış kırılganlık azalmaktadır.\" ifadesi yanlıştır, çünkü yükselen oran tam tersini gösterir. \"Bu oran yalnızca kamu dış borcunu kapsar, özel sektör dış borcu hesaba katılmaz.\" ifadesi de yanlıştır, çünkü gösterge genel olarak ülkenin toplam dış borç servisini, özel sektör borcu dahil, ele alabilir. Doğru cevap \"Bu oran, ihracattan elde edilen dövizin ne kadarının borç anapara ve faiz ödemelerine ayrıldığını gösterir\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "46394",
@@ -494,11 +501,12 @@
       "Hem üretici hem de tüketici refahı artar.",
       "Üretici refahı artar, tüketici refahı azalır; küçük ülkede net etki negatif, büyük ülkede belirsizdir.",
       "Tüketici refahı artar, üretici refahı azalır.",
-      "Üretici ve tüketici refahı azalır, yalnızca devlet geliri artar.",
-      "Üretici refahı artar, tüketici refahı azalır, net etki her zaman negatiftir."
+      "Hem üretici hem de tüketici refahı azalmakta, yalnızca devletin tarife geliri artış göstermektedir.",
+      "Üretici refahı artmakta, tüketici refahı ise azalmaktadır; ortaya çıkan net etki her koşulda negatiftir."
      ],
      "dogru": 1,
-     "aciklama": "Gümrük tarifesi ithal malın yurt içi fiyatını yükseltir; bu durum yurt içi üreticilerin daha yüksek fiyattan satmasını sağlar (üretici rantı artar) ancak tüketiciler daha pahalı mal almak zorunda kalır (tüketici rantı azalır). Küçük ülkede devlet tarife geliri elde etse de üretim ve tüketim çarpıklıklarından kaynaklanan iki üçgen kayıp (deadweight loss) nedeniyle net refah etkisi negatiftir. Büyük ülkede ise dış ticaret hadlerini kendi lehine çevirerek net refahını artırma olasılığı mevcuttur (optimal tarife argümanı)."
+     "aciklama": "Gümrük tarifesi ithal malın yurt içi fiyatını yükseltir; bu durum yurt içi üreticilerin daha yüksek fiyattan satmasını sağlar (üretici rantı artar) ancak tüketiciler daha pahalı mal almak zorunda kalır (tüketici rantı azalır). Küçük ülkede devlet tarife geliri elde etse de üretim ve tüketim çarpıklıklarından kaynaklanan iki üçgen kayıp (deadweight loss) nedeniyle net refah etkisi negatiftir. Büyük ülkede ise dış ticaret hadlerini kendi lehine çevirerek net refahını artırma olasılığı mevcuttur (optimal tarife argümanı).",
+     "zorluk": "orta"
     },
     {
      "id": "46358",
@@ -506,10 +514,10 @@
      "konuId": "para_banka",
      "soru": "Minsky'nin 'finansal istikrarsızlık hipotezi'ne göre kapitalist ekonomilerde krizlerin kaynağı nedir ve bu hipotez hangi ana akım iktisat görüşüyle en belirgin biçimde çelişmektedir?",
      "secenekler": [
-      "Minsky, finansal krizlerin öngörülebilir döngüler izlediğini savunmuş ve bu görüşüyle yalnızca Avusturya okulu ile çelişmiştir.",
+      "Minsky, finansal krizlerin önceden öngörülebilir düzenli döngüler izlediğini savunmuş ve bu görüşüyle yalnızca Avusturya okulunun konjonktür yaklaşımıyla çelişmiştir; diğer okullarla uyum içinde olması ise onu özgün kılmaktadır.",
       "Krizler borç/GSYH oranının belirli bir eşiği aşmasıyla tetiklenir; hipotez yalnızca Keynesyen görüşle çelişmektedir.",
       "Krizler dışsal şoklardan kaynaklanır; hipotez Yeni Keynesyen görüşle çelişmektedir.",
-      "Krizler yalnızca merkez bankalarının para arzını aşırı genişletmesinden kaynaklanır; hipotez parasalcı görüşle çelişmektedir.",
+      "Krizler yalnızca merkez bankalarının para arzını aşırı ölçüde genişletmesinden kaynaklanmaktadır; bu nedenle hipotez, parasalcı görüşle tümüyle çelişmekte ve onu dışlamaktadır.",
       "Uzun istikrar dönemlerinde borç birikimi ve spekülatif finansman içsel olarak kırılganlık üretir; hipotez 'istikrarlı dönemler istikrarsızlık üretir' tezi ile etkin piyasalar hipotezi (EMH) ile çelişmektedir."
      ],
      "dogru": 4,
@@ -524,9 +532,9 @@
      "secenekler": [
       "Faiz artışı sermaye girişine yol açar, döviz değer kazanır, net ihracat düşer ve IS eğrisi geriye kayar.",
       "Döviz değer kaybı ithalatı frenler ve bu durum toplam talebi dengede tutar.",
-      "LM eğrisi yatay olduğunda maliye politikası IS'i kaydırsa da LM sabit kalır.",
+      "LM eğrisi yatay olduğunda maliye politikası IS eğrisini kaydırsa da LM eğrisi sabit kalmaktadır.",
       "Vergi çarpanı negatif olduğundan kamu harcaması etkisini tam olarak siler.",
-      "Sermaye çıkışı faizi artırarak yatırımları azaltır ve bu tam dışlama yaratır."
+      "Sermaye çıkışı faiz oranını artırarak yatırımları azaltmakta ve bu durum tam bir dışlama etkisi yaratmaktadır."
      ],
      "dogru": 0,
      "aciklama": "Mundell-Fleming'de tam sermaye hareketliliği ve esnek kur altında genişletici maliye politikası faizi artırır → sermaye girişi → yerli para değer kazanır → net ihracat azalır → IS eğrisi sola kayar. Bu süreç IS eğrisi orijinal konumuna dönene kadar devam eder; gelir değişimi net sıfır olur. Bu 'tam dışlama' değil 'kur kanalıyla dışlama'dır.",
@@ -554,14 +562,14 @@
      "konuId": "turkiye_ekonomisi",
      "soru": "Türkiye'de kamu maliyesinin sürdürülebilirliği analiz edilirken 'birincil denge' (primary balance/faiz dışı denge) kavramı merkezi bir öneme sahiptir. Borç dinamiği denklemine göre kamu borcunun GSYH'ye oranını sabit tutmak için gereken birincil fazla koşulu aşağıdaki parametrelere bağlıdır. Türkiye'nin 2003-2007 dönemindeki mali konsolidasyon deneyimiyle bu teorik çerçeve ilişkilendirildiğinde hangisi en doğru değerlendirmedir?",
      "secenekler": [
-      "Borç sürdürülebilirliği analizinde birincil denge yerine genel bütçe dengesi kullanılmalıdır; Türkiye'de faiz ödemelerinin bütçe içindeki payının yüksekliği, birincil dengenin yanıltıcı bir gösterge olduğuna işaret etmektedir.",
+      "Borç sürdürülebilirliği analizinde birincil denge yerine genel bütçe dengesinin kullanılması gerekmektedir; Türkiye'de faiz ödemelerinin bütçe içindeki payının yüksekliği, birincil dengenin yanıltıcı bir gösterge olduğuna açıkça işaret etmektedir ve bu nedenle bu ölçüt terk edilmelidir. Bu nedenle Türkiye'de kamu maliyesi analizlerinde birincil dengenin kullanılması yöntemsel olarak hatalı sayılmakta ve yanıltıcı sonuçlar üretmektedir.",
       "2003-2007 döneminde borç/GSYH oranının düşmesinin temel nedeni faiz ödemelerinin dondurulmasıdır; birincil denge bu süreçte önemli bir rol oynamamıştır.",
-      "Faiz oranı-büyüme oranı farkı her zaman negatiftir ve bu durum birincil açık verilmesine rağmen borcun GSYH'ye oranının gerilemesini mümkün kılar; Türkiye bu avantajı 2003-2007'de etkin biçimde kullanmıştır.",
+      "Faiz oranı ile büyüme oranı arasındaki fark her koşulda negatiftir ve bu durum birincil açık verilmesine rağmen borcun GSYH'ye oranının kendiliğinden gerilemesini mümkün kılmaktadır; Türkiye bu avantajı 2003-2007 döneminde etkin biçimde kullanmış ve borcunu azaltmıştır.",
       "Borç/GSYH oranını sabit tutmak için birincil fazla vermek her zaman yeterlidir; Türkiye bu dönemde birincil fazla verdiğinden borcun GSYH'ye oranı otomatik olarak gerilemiştir.",
       "Borç dinamiği denklemine göre birincil fazlanın yanı sıra faiz oranı-büyüme oranı farkı (r-g) belirleyicidir; 2003-2007 döneminde Türkiye'de yüksek birincil fazla ile eş zamanlı güçlü büyüme ve gerileyen reel faiz (r-g farkının daralması), kamu borç/GSYH oranını hızla düşürmüş; bu olumlu dinamik hem yapısal reforma hem de uygun dış finansman koşullarına dayandığından kırılgan bir nitelik taşımaktaydı."
      ],
      "dogru": 4,
-     "aciklama": "Borç dinamiği denklemi: Δ(d) = (r - g)·d - pb şeklinde ifade edilir; burada d borç/GSYH oranı, r reel faiz, g reel büyüme, pb ise birincil fazladır. Borç oranını sabit tutmak için pb = (r-g)·d koşulunun sağlanması gerekir. Türkiye 2003-2007 döneminde; ortalama %5-6 reel büyüme, güçlü birincil fazla (GSYH'nin yaklaşık %4-6'sı) ve gerileyen reel faiz oranlarıyla son derece olumlu bir 'r-g farkı' deneyimledi. Bu kombinasyon, kamu borç/GSYH oranının %73'ten yaklaşık %40'a inmesini sağladı. Ancak bu sürecin kırılganlığı şundaydı: büyümenin yavaşlaması ya da faizlerin yükselmesi (r-g'nin tekrar açılması), gerekli birincil fazla eşiğini aniden artırabilir. Şık D yanlıştır çünkü (r-g)'nin negatif olması koşul değil; bazı dönemlerde gözlemlenen bir olgudur ve sürekli değildir. Şık A yanlıştır; birincil fazla tek başına yeterli değil, büyüme ve faiz dinamikleri de belirleyicidir.",
+     "aciklama": "Borç dinamiği denklemine göre borç/GSYH oranını sabit tutan birincil fazla, faiz oranı ile büyüme oranı arasındaki farka (r-g) ve başlangıç borç oranına bağlıdır. 2003-2007 döneminde yüksek birincil fazla, güçlü büyüme ve gerileyen reel faiz birlikte r-g farkını daraltmış, borç/GSYH oranı hızla düşmüştür. Bu olumlu tablo reformlara olduğu kadar elverişli küresel finansman koşullarına da dayandığından kırılgandı. \"Borç/GSYH oranını sabit tutmak için birincil fazla vermek her zaman yeterlidir...\" seçeneği yanlıştır; gerekli fazla r-g farkına göre değişir. \"Faiz oranı ile büyüme oranı arasındaki fark her koşulda negatiftir...\" seçeneği de yanlıştır; çünkü fark her zaman negatif değildir ve Türkiye bu dönemde yüksek birincil fazla vermiştir. Doğru cevap \"Borç dinamiği denklemine göre birincil fazlanın yanı sıra faiz oranı-büyüme oranı farkı (r-g) belirleyicidir...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -572,8 +580,8 @@
      "secenekler": [
       "Mal ticareti, hizmet ticareti, gelir ödemeleri ve cari transferleri",
       "Doğrudan yabancı yatırımları",
-      "Yalnızca sermaye hareketlerini",
-      "Merkez bankası rezerv değişimlerini",
+      "Yalnızca kısa ve uzun vadeli sermaye hareketlerini",
+      "Merkez bankası rezervlerinde meydana gelen tüm değişimleri ve bu değişimlerin toplamını",
       "Yalnızca mal ticaretini"
      ],
      "dogru": 0,
@@ -586,14 +594,14 @@
      "konuId": "para_banka",
      "soru": "Bir ticari bankanın bilanço yapısı incelendiğinde zorunlu karşılık oranının %10, serbest rezerv tutma eğiliminin %5 ve mevduat sahiplerinin tutmak istediği nakit/mevduat oranının 0,20 olduğu görülmektedir. Buna göre para çarpanı (money multiplier) yaklaşık kaçtır?",
      "secenekler": [
-      "2,86",
+      "3,43",
       "5,00",
       "6,67",
       "4,00",
       "3,33"
      ],
      "dogru": 0,
-     "aciklama": "Para çarpanı formülü: m = (1 + c) / (r + e + c) şeklindedir; burada c = nakit/mevduat oranı = 0,20, r = zorunlu karşılık oranı = 0,10, e = serbest rezerv oranı = 0,05'tir. Hesaplama: m = (1 + 0,20) / (0,10 + 0,05 + 0,20) = 1,20 / 0,35 ≈ 3,43 değil, doğru hesap: 1,20 / 0,35 = 3,43. En yakın şık A) 2,86 değil, bu değerle örtüşen şık yeniden hesaplanmalıdır. NOT: m = 1,20/0,35 ≈ 3,43. Bu soruda en yakın değer B) 3,33 olup sınav koşullarında yuvarlama farklılığı nedeniyle A şıkkı verilmiştir; ancak analitik olarak doğru cevap B) 3,33'e en yakın değerdir. Formülün tam uygulaması: para çarpanı = 1,20 / 0,35 ≈ 3,43 → şıklara göre B) en yakın.",
+     "aciklama": "Para çarpanı formülü m = (1 + c) / (r + e + c) biçimindedir; burada c = nakit/mevduat oranı = 0,20, r = zorunlu karşılık oranı = 0,10, e = serbest rezerv oranı = 0,05'tir. m = (1 + 0,20) / (0,10 + 0,05 + 0,20) = 1,20 / 0,35 ≈ 3,43 bulunur. Serbest rezerv oranının paydaya eklenmesi unutulursa 1,20/0,30 = 4,00 çıkar; en sık yapılan hata budur. Doğru cevap 3,43 şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -603,8 +611,8 @@
      "soru": "Tam istihdam milli gelir düzeyinin altında denge oluşması durumunda ortaya çıkan gelir açığına ne ad verilir?",
      "secenekler": [
       "Reel açık",
-      "Enflasyonist açık",
-      "Dış ticaret açığı",
+      "Enflasyonist açık (talep açığı)",
+      "Dış ticaret açığı (ticaret açığı)",
       "Deflasyonist (resesyon) açığı",
       "Bütçe açığı"
      ],
@@ -625,7 +633,7 @@
       "X = 30, Y = 15"
      ],
      "dogru": 2,
-     "aciklama": "Cobb-Douglas fayda fonksiyonlarında optimal tüketim: harcama payları üs katsayılarıyla orantılıdır. X için pay = 1/3, Y için pay = 2/3. Bütçe = 120. X'e harcama = (1/3)×120 = 40 → X = 40/2 = 20. Y'ye harcama = (2/3)×120 = 80 → Y = 80/4 = 20. Bütçe kontrolü: 2(20)+4(20) = 40+80 = 120 ✓. Cevap B) X=20, Y=20'dir. Lagrange yöntemiyle de doğrulanabilir: MUx/Px = MUy/Py koşulundan (1/3)(Y/X)^(2/3) / 2 = (2/3)(X/Y)^(1/3) / 4 → Y/2X = 1 → Y=2X. Bütçeye koyarsak: 2X+8X=120 → X=12, Y=24 değil. Harcama payı yöntemi geçerlidir: X=20, Y=20.",
+     "aciklama": "Cobb-Douglas fayda fonksiyonunda tüketici, gelirinin her maldaki üssün payı kadarını o mala harcar. X'in üssü 1/3 ve Y'nin üssü 2/3'tür. Gelir 120 TL olduğundan X'e 120 × 1/3 = 40 TL, Y'ye 120 × 2/3 = 80 TL harcanır. X = 40/2 = 20 ve Y = 80/4 = 20 bulunur. Kontrol olarak MRS = (Y/2X) = 1/2 koşulu, yani Y = X, sağlanır ve bütçe kısıtı 2(20) + 4(20) = 120 olur. \"X = 10, Y = 25\" seçeneği bütçeyi sağlar ama MRS = Px/Py koşulunu sağlamaz. \"X = 30, Y = 15\" seçeneği ise bütçeyi karşılamaz. Doğru cevap \"X = 20, Y = 20\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -641,7 +649,8 @@
       "SSK, Bağ-Kur, Emekli Sandığı – 2006"
      ],
      "dogru": 4,
-     "aciklama": "Sosyal Güvenlik Kurumu (SGK), 5502 sayılı Kanun'la 2006 yılında kurulmuş; SSK (Sosyal Sigortalar Kurumu), Bağ-Kur (esnaf ve bağımsız çalışanlar) ve Emekli Sandığı (devlet memurları) tek çatı altında birleştirilmiştir. Bu reform, sosyal güvenlik sistemindeki parçalı yapıyı ortadan kaldırarak aktüeryal dengenin kurulmasını ve primden bağımsız eşit hakların sağlanmasını amaçlamıştır. Doğru yanıt A şıkkıdır."
+     "aciklama": "Sosyal güvenlik kurumlarının birleştirilmesi, 5502 sayılı Kanun ile Sosyal Güvenlik Kurumu'nun kurulması sonucunda gerçekleşmiştir. SGK çatısı altında üç kurum toplanmıştır: Sosyal Sigortalar Kurumu (SSK), Bağ-Kur ve Emekli Sandığı. Kanun 2006 yılında kabul edilmiştir; kurumun fiilen faaliyete geçmesi ise 2008'de olmuştur. Soru birleşmenin gerçekleştiği yılı sorduğundan, seçeneklerdeki \"SSK, Bağ-Kur, Emekli Sandığı – 2006\" ifadesi, 5502 sayılı Kanun'un çıkarıldığı yılı verdiği için cevap olarak kabul edilmiştir. \"SSK, Bağ-Kur, OYAK – 2006\" yanlıştır, çünkü OYAK bir sosyal güvenlik kurumu olarak SGK'ya bağlanmamıştır. \"SSK, Bağ-Kur, Emekli Sandığı – 2008\" ise yürürlüğe giriş yılını esas aldığı için bu soruda cevap sayılmaz. Doğru cevap \"SSK, Bağ-Kur, Emekli Sandığı – 2006\" seçeneğidir.",
+     "zorluk": "orta"
     }
    ]
   }

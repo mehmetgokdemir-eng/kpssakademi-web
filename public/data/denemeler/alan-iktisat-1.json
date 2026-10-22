@@ -20,12 +20,12 @@
      "secenekler": [
       "Göreli PPP, uluslararası alanda ticarete konu olmayan malların (non-tradables) varlığında bile geçerliliğini korur; mutlak PPP ise geçerliliğini yitirir.",
       "Mutlak PPP, aynı mal sepetinin tüm ülkelerde aynı fiyata satılmasını gerektirir; Balassa-Samuelson etkisi nedeniyle zengin ülkelerde ticarete konu olmayan mallar göreli olarak pahalı olduğundan mutlak PPP sistematik olarak sapma gösterir.",
-      "Satın alma gücü paritesi teorisi, döviz kurlarının kısa ve uzun dönemde her zaman enflasyon farklarına eşit biçimde hareket ettiğini ampirik olarak kanıtlamıştır.",
+      "Satın alma gücü paritesi teorisi, döviz kurlarının hem kısa hem de uzun dönemde her koşulda enflasyon farklarına eşit biçimde hareket ettiğini ampirik olarak kanıtlamış, bu bulgu literatürde tartışmasız biçimde kabul görmüş ve doğrulanmıştır.",
       "Göreli PPP ve mutlak PPP, başlangıç döviz kuru denge değeri bilinmeden uygulanamaz; bu nedenle ikisi de pratikte kullanışsızdır.",
-      "Mutlak PPP, döviz kurlarının kısa dönemde enflasyon farklarına eşit oranda değiştiğini öngörür; göreli PPP ise uzun dönem fiyat düzeyi eşitliğini ifade eder."
+      "Mutlak satın alma gücü paritesi, döviz kurlarının kısa dönemde enflasyon farklarına eşit oranda değiştiğini öngörmektedir; göreli satın alma gücü paritesi ise uzun dönemdeki fiyat düzeyi eşitliğini ifade etmektedir."
      ],
      "dogru": 1,
-     "aciklama": "Mutlak PPP: E = P/P* (kur, yurt içi ve yurt dışı fiyat düzeylerinin oranına eşittir). Bir sepetteki malın her ülkede aynı fiyata satılmasını gerektirir (tek fiyat kanunu). Balassa-Samuelson etkisi: Zengin ülkelerde ticarete konu olan sektörlerde verimlilik farkı yüksektir; bu yüksek reel ücretler ticarete konu olmayan sektöre de yansır; sonuçta zengin ülkelerde genel fiyat düzeyi daha yüksek görünür. Bu durum mutlak PPP'den sistematik sapma doğurur. Göreli PPP ise ΔE/E = π - π* olup başlangıç seviyesini değil değişim oranlarını kıyaslar; bu nedenle daha az kısıtlayıcıdır ve uzun dönemde görece daha iyi çalışır. B şıkkı yanlıştır; göreli PPP de ticarete konu olmayan mallar nedeniyle sorun yaşar, ancak mutlak PPP'den daha dayanıklıdır.",
+     "aciklama": "Mutlak PPP, tek fiyat kanunun genelleştirilmiş halidir. Aynı mal sepeti her ülkede ortak para cinsinden aynı fiyata satılmalıdır. Ancak ticarete konu olmayan mallar arbitrajla eşitlenemez. Balassa-Samuelson etkisine göre ticarete konu mallarda verimliliği yüksek zengin ülkelerde ücretler ve dolayısıyla non-tradable fiyatları yüksektir. Bu nedenle fiyat düzeyi zengin ülkelerde sistematik olarak yüksek çıkar ve mutlak PPP'den sapma görülür. \"Mutlak satın alma gücü paritesi, döviz kurlarının kısa dönemde enflasyon farklarına eşit oranda değiştiğini öngörmektedir; göreli satın alma gücü paritesi ise uzun dönemdeki fiyat düzeyi eşitliğini ifade etmektedir.\" seçeneği iki kavramı birbirine karıştırır, çünkü fiyat düzeyi eşitliği mutlak PPP'yi, enflasyon farkına göre kur değişimi ise göreli PPP'yi anlatır. \"Göreli PPP, uluslararası alanda ticarete konu olmayan malların (non-tradables) varlığında bile geçerliliğini korur; mutlak PPP ise geçerliliğini yitirir.\" seçeneği de bu şekilde kesin biçimde doğru değildir. Doğru cevap \"Mutlak PPP, aynı mal sepetinin tüm ülkelerde aynı fiyata satılmasını gerektirir\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -52,12 +52,12 @@
      "secenekler": [
       "Sermaye-çıktı oranı uzun dönemde kabaca sabittir.",
       "Kişi başına sermaye stoku sürekli artmaktadır.",
-      "Kişi başına çıktı uzun dönemde büyümeye devam etmektedir.",
-      "Sermayenin getiri oranı (MPK) uzun dönemde yaklaşık sabit seyreder.",
+      "Kişi başına çıktı uzun dönemde artarak büyümeye devam etmektedir.",
+      "Sermayenin getiri oranı (MPK) uzun dönemde yaklaşık olarak sabit bir seyir izler.",
       "Emek ve sermayenin milli gelirdeki payı uzun dönemde dramatik biçimde değişir."
      ],
      "dogru": 4,
-     "aciklama": "Kaldor stilize olguları şunlardır: (1) kişi başına çıktı büyür, (2) kişi başına sermaye büyür, (3) sermayenin getirisi yaklaşık sabit, (4) sermaye-çıktı oranı yaklaşık sabit, (5) emek ve sermaye gelir payları uzun dönemde yaklaşık sabit. D şıkkı bu son olguyla çelişmektedir; Kaldor'a göre faktör paylarının SABIT kalması beklenir, dramatik değişim beklenmez. Bu stilize olgu, Cobb-Douglas üretim fonksiyonunu (sabit faktör payları) neden popüler kıldığını da açıklar.",
+     "aciklama": "Kaldor'un stilize olguları şunlardır: kişi başına çıktı sürekli artar, kişi başına sermaye artar, sermaye-çıktı oranı kabaca sabittir, sermayenin getiri oranı yaklaşık sabittir ve emek ile sermayenin milli gelirdeki payları yaklaşık sabit kalır. Bu nedenle \"kişi başına sermaye stoku sürekli artmaktadır\" ve \"sermaye-çıktı oranı ... kabaca sabittir\" seçenekleri Kaldor olgularındandır. Faktör paylarının dramatik biçimde değişmesi ise Kaldor'un tespitiyle çelişir. Cobb-Douglas teknolojisi bu sabit payları açıklamak için kullanılır. Doğru cevap \"Emek ve sermayenin milli gelirdeki payı uzun dönemde dramatik biçimde değişir\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -73,7 +73,8 @@
       "25 TL"
      ],
      "dogru": 3,
-     "aciklama": "Marjinal Maliyet = ΔTC / ΔQ = (8.000 - 5.000) / (200 - 100) = 3.000 / 100 = 30 TL. Marjinal maliyet, bir birim daha üretmenin ek maliyetidir. Ortalama maliyetle karıştırılmamalıdır: ATM = TC/Q = 8.000/200 = 40 TL olurdu. Soru marjinal maliyeti sorduğundan doğru cevap 30 TL'dir."
+     "aciklama": "Marjinal Maliyet = ΔTC / ΔQ = (8.000 - 5.000) / (200 - 100) = 3.000 / 100 = 30 TL. Marjinal maliyet, bir birim daha üretmenin ek maliyetidir. Ortalama maliyetle karıştırılmamalıdır: ATM = TC/Q = 8.000/200 = 40 TL olurdu. Soru marjinal maliyeti sorduğundan doğru cevap 30 TL'dir.",
+     "zorluk": "orta"
     },
     {
      "id": "46529",
@@ -81,14 +82,14 @@
      "konuId": "turkiye_ekonomisi",
      "soru": "Türkiye'de tarımsal destekleme politikalarının 2000'li yıllardan itibaren 'doğrudan gelir desteği'ne (DGD) dönüştürülmesi, iktisadi etkinlik ve sosyal hedefler açısından çelişkili sonuçlar doğurmuştur. Bu reforma ilişkin aşağıdaki değerlendirmelerden hangisi en kapsamlı ve doğru analizi yapar?",
      "secenekler": [
-      "DGD reformu tamamen IMF ve Dünya Bankası baskısıyla uygulanmış olup Türkiye'nin tarım sektörüne hiçbir ekonomik faydası olmamış; yalnızca siyasi maliyeti yüksek bir kemer sıkma politikası olarak değerlendirilebilir.",
+      "Doğrudan gelir desteği reformu tamamen IMF ve Dünya Bankası baskısıyla uygulamaya konulmuş olup Türkiye'nin tarım sektörüne hiçbir ekonomik faydası olmamış; yalnızca siyasi maliyeti yüksek bir kemer sıkma politikası olarak değerlendirilebilir ve sektörel dönüşüme katkısı bulunmamaktadır. Bu nedenle reformun tarımsal yapı üzerindeki etkisi sınırlı kalmıştır.",
       "Türkiye'de DGD sistemi, gelişmiş ülkelerdeki (AB, ABD) benzer uygulamalarla aynı etkinliği sergilemiş; tarım sektörünün GSYH içindeki payı bu reformun ardından istikrar kazanmıştır.",
-      "DGD sistemi, fiyat desteklerinin yarattığı aşırı üretim çarpıklığını ortadan kaldırarak kaynak dağılımını iyileştirmiş; Türkiye tarımı bu reform sayesinde uluslararası rekabet gücü kazanmıştır.",
+      "Doğrudan gelir desteği sistemi, fiyat desteklerinin yarattığı aşırı üretim çarpıklığını tümüyle ortadan kaldırarak kaynak dağılımını iyileştirmiş; Türkiye tarımı bu reform sayesinde uluslararası piyasalarda kalıcı bir rekabet gücü kazanmıştır.",
       "DGD sistemi teorik olarak üretim kararlarını piyasa fiyatlarına bıraktığı için etkinlik açısından üstündür; ancak Türkiye uygulamasında arazi kayıtlarının eksikliği, ödeme miktarlarının yetersizliği ve çiftçilerin çoğunluğunun küçük ölçekli yapısı nedeniyle sistem ne yeterli gelir transferi sağlamış ne de tarımsal yapıyı modernleştirmiştir.",
       "Fiyat desteklerinden DGD'ye geçiş, şeker pancarı ve tütün gibi desteklenen ürünlerin üretimini azaltmış; bu durum gıda enflasyonunun kalıcı olarak düşmesini sağlamıştır."
      ],
      "dogru": 3,
-     "aciklama": "DGD (Doğrudan Gelir Desteği) sistemi, 2001-2002 yıllarında Dünya Bankası destekli Tarım Reformu Uygulama Projesi kapsamında hayata geçirilmiştir. Teorik gerekçesi OECD'nin 'decoupling' (üretimden kopuk destek) ilkesine dayanır: fiyat desteği yerine arazi başına sabit ödeme yaparak üretim kararlarını piyasaya bırakmak. Ancak Türkiye pratiğinde; arazi kayıt sisteminin yetersizliği (çok sayıda parçalı mülkiyet), hektar başına ödeme miktarlarının gelir desteği olarak anlamlı eşiğin altında kalması ve Türk çiftçisinin ortalama işletme büyüklüğünün küçük olması nedeniyle sistem beklenen faydaları üretememiştir. Aynı zamanda eski fiyat destekleri de fiilen tamamen kaldırılamamış, hibrit uygulamaya dönüşülmüştür. Şık A yanlış çünkü rekabet gücü kayda değer artmamış; Şık D yanlış çünkü gıda enflasyonunun düşmesi DGD'ye değil, daha geniş makroekonomik istikrara atfedilebilir.",
+     "aciklama": "Doğrudan gelir desteği (DGD) sisteminde ödeme üretimden bağımsızdır; üretici hangi ürünü yetiştireceğine piyasa fiyatlarına bakarak karar verir. Bu nedenle teoride fiyat desteğine göre daha etkindir. Türkiye uygulamasında ise arazi kayıt ve tapu sorunları, ödeme tutarlarının düşüklüğü ve çiftçilerin çoğunun küçük ölçekli olması sistemin etkisini zayıflatmıştır. Böylece sistem hem yeterli gelir transferi sağlayamamış hem de tarımsal yapıyı yeterince modernleştirememiştir. \"Doğrudan gelir desteği reformu tamamen IMF ve Dünya Bankası baskısıyla uygulamaya konulmuş...\" ifadesi aşırı mutlaktır; reformun hiçbir faydası olmadığını söylemek doğru değildir. \"Doğrudan gelir desteği sistemi, fiyat desteklerinin yarattığı aşırı üretim çarpıklığını tümüyle ortadan kaldırarak...\" seçeneği de kalıcı rekabet gücü iddiasıyla abartılıdır. Doğru cevap \"DGD sistemi teorik olarak üretim kararlarını piyasa fiyatlarına bıraktığı için etkinlik açısından üstündür...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -98,13 +99,14 @@
      "soru": "Optimum para alanı teorisine göre bir para birliğinin başarılı olabilmesi için aşağıdakilerden hangisi gerekli değildir?",
      "secenekler": [
       "Üye ülkelerin birbirinden farklı para birimlerini koruyarak serbest dalgalanmaya izin vermesi",
-      "Üye ülkeler arasında yüksek faktör hareketliliği",
-      "Üye ülkelerin benzer ekonomik şoklara maruz kalması",
+      "Üye ülkeler arasında yüksek düzeyde faktör hareketliliği bulunması gerekir",
+      "Üye ülkelerin birbirine benzer ekonomik şoklara maruz kalması gerekmektedir ve benzer biçimde etkilenmesi gerekir",
       "Üye ülkeler arasında mali transfer mekanizması",
       "Fiyat ve ücretlerde esneklik"
      ],
      "dogru": 0,
-     "aciklama": "Mundell'in optimum para alanı (OPA) teorisine göre ortak para birimine geçilmesi için ülkeler arasında emek ve sermaye hareketliliğinin yüksek olması, fiyat-ücret esnekliğinin bulunması, asimetrik şoklara karşı mali transferlerin mümkün olması ve ülkelerin benzer konjonktürel dalgalanmalar yaşaması gerekmektedir. 'Her ülkenin kendi döviz kurunu koruması' ise para birliğinin tam tersidir ve OPA koşulu değil, para birliğine katılımın önünde engel oluşturan faktördür."
+     "aciklama": "Mundell'in optimum para alanı (OPA) teorisine göre ortak para birimine geçilmesi için ülkeler arasında emek ve sermaye hareketliliğinin yüksek olması, fiyat-ücret esnekliğinin bulunması, asimetrik şoklara karşı mali transferlerin mümkün olması ve ülkelerin benzer konjonktürel dalgalanmalar yaşaması gerekmektedir. 'Her ülkenin kendi döviz kurunu koruması' ise para birliğinin tam tersidir ve OPA koşulu değil, para birliğine katılımın önünde engel oluşturan faktördür.",
+     "zorluk": "orta"
     },
     {
      "id": "46320",
@@ -118,8 +120,8 @@
       "Yatırımların faize duyarlılığı yükseldikçe para politikasının reel sektör üzerindeki etkisi artar",
       "Para talebinin faize duyarlılığı arttıkça para politikasının etkinliği azalır"
      ],
-     "dogru": 2,
-     "aciklama": "IS eğrisinin dik olması, yatırımların faize hiç duyarlı olmaması anlamına gelir. Bu durumda para politikasıyla faiz düşürülse dahi yatırımlar artmaz ve IS eğrisi üzerinde hareket olmaz; dolayısıyla millî gelir değişmez. Bu ifade doğrudur. Ancak B şıkkı burada hatalı değil, doğrudur. Yanlış olan B şıkkı değil; dikkatli incelendiğinde B şıkkı IS'nin dik olduğunda para politikasının millî geliri artırmayacağını söyler ki bu doğrudur. Asıl yanlış olan şık B'dir çünkü IS'in dik (yatırımların faize duyarsız) olduğu durumda para arzı artışı faizi düşürür ama yatırım artmadığından gelir değişmez — bu doğru bir ifadedir. Gerçek yanlış önerme: IS eğrisinin yatay olduğu durumda para politikası etkisizleşir; IS dik olduğunda değil. B doğru, A doğru, C doğru, D doğru, E doğrudur; gerçekte soru IS dik → para politikası etkisiz der ki bu doğrudur. Dikkat: IS dikey iken para politikası faiz düşürür ama gelir artmaz — bu ifade doğrudur; yanlış olan B değildir. Soru, hangisinin YANLIŞ olduğunu sorar. B şıkkı aslında doğruysa yanlış şık hangisidir? Yanıt: Gerçekte IS eğrisinin tam dik (sıfır faiz esnekliği) olduğu durumda para politikası millî geliri etkileyemez; bu doğrudur. Tüm diğer şıklar da doğrudur, ancak B en tartışmalı olandır çünkü 'para politikası millî geliri artırmaz' ifadesi IS dik olduğunda doğrudur.",
+     "dogru": 0,
+     "aciklama": "Dik IS'te para politikasının geliri artırmaması doğrudur (“IS eğrisinin dik (faiz esnekliği sıfır) olduğu durumda para politikası millî geliri…” seçeneği yanlış değil); IS-LM çerçevesinde dikey LM'de para politikası en etkin olup geliri artırdığından yanlış ifade A'dır. Doğru cevap “Klasik durumda LM eğrisi dikeydir ve para politikası sadece fiyat düzeyini etkiler” seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -135,7 +137,8 @@
       "%80"
      ],
      "dogru": 2,
-     "aciklama": "Harrod-Domar modelinde garantili büyüme oranı g_w = s / v formülüyle hesaplanır. g_w = %20 / 4 = %5 olur. Bu oran, yatırımcıların beklentilerinin tam olarak gerçekleştiği, yani sermaye stoku ile talep artışının uyumlu olduğu büyüme hızıdır. Fiilî büyüme bu değerin üzerindeyse kümülatif enflasyona, altındaysa kronik durgunluğa yol açar ('bıçak sırtı dengesi' sorunu)."
+     "aciklama": "Harrod-Domar modelinde garantili büyüme oranı g«w = s / v formülüyle hesaplanır. g»w = %20 / 4 = %5 olur. Bu oran, yatırımcıların beklentilerinin tam olarak gerçekleştiği, yani sermaye stoku ile talep artışının uyumlu olduğu büyüme hızıdır. Fiilî büyüme bu değerin üzerindeyse kümülatif enflasyona, altındaysa kronik durgunluğa yol açar ('bıçak sırtı dengesi' sorunu).",
+     "zorluk": "orta"
     },
     {
      "id": "46087",
@@ -143,14 +146,15 @@
      "konuId": "mikro_i_ktisat",
      "soru": "Bir firmada ahlaki tehlike (moral hazard) sorunuyla ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
      "secenekler": [
-      "Ahlaki tehlike, sözleşme sonrası bilgi asimetrisinden kaynaklanır ve asil-vekil sorunuyla ilgilidir.",
-      "Sigorta piyasalarında ahlaki tehlike, sigortalıların riski azaltma teşvikinin zayıflamasına yol açar.",
+      "Ahlaki tehlike, sözleşme sonrası ortaya çıkan bilgi asimetrisinden kaynaklanır ve asil-vekil sorunuyla ilgilidir.",
+      "Sigorta piyasalarında ahlaki tehlike, sigortalıların riski azaltma yönündeki teşvikinin zayıflamasına yol açmakta ve sistemin maliyetini artırmaktadır.",
       "Ters seçim (adverse selection) ile ahlaki tehlike aynı kavramdır; her ikisi de sözleşme öncesi bilgi asimetrisinden kaynaklanır.",
       "İzleme ve denetim mekanizmaları, ahlaki tehlikeyi azaltmanın yollarından biridir.",
       "Performansa dayalı ücret sistemleri ahlaki tehlikeyi azaltabilir ancak tamamen ortadan kaldıramaz."
      ],
      "dogru": 2,
-     "aciklama": "D şıkkı yanlıştır; ters seçim ve ahlaki tehlike birbirinden farklı kavramlardır. Ters seçim (adverse selection) sözleşme öncesi (ex ante) bilgi asimetrisinden kaynaklanır: örneğin sağlık sigortasında yüksek riskli bireylerin düşük riskli bireylerden daha fazla sigorta satın alması eğilimi. Ahlaki tehlike (moral hazard) ise sözleşme sonrası (ex post) bilgi asimetrisinden kaynaklanır: sözleşme yapıldıktan sonra tarafın davranışının değişmesi (örneğin sigortalandıktan sonra dikkatli olmayı bırakmak). Diğer şıklar doğrudur: A'da ahlaki tehlikenin sözleşme sonrası ortaya çıktığı ve asil-vekil sorunuyla ilişkisi doğru aktarılmıştır; B ve C doğru uygulamalardır; E'de izleme mekanizmaları gerçekten çözüm yollarından biridir."
+     "aciklama": "“İzleme ve denetim mekanizmaları, ahlaki tehlikeyi azaltmanın yollarından biridir.” şıkkı yanlıştır; ters seçim ve ahlaki tehlike birbirinden farklı kavramlardır. Ters seçim (adverse selection) sözleşme öncesi (ex ante) bilgi asimetrisinden kaynaklanır: örneğin sağlık sigortasında yüksek riskli bireylerin düşük riskli bireylerden daha fazla sigorta satın alması eğilimi. Ahlaki tehlike (moral hazard) ise sözleşme sonrası (ex post) bilgi asimetrisinden kaynaklanır: sözleşme yapıldıktan sonra tarafın davranışının değişmesi (örneğin sigortalandıktan sonra dikkatli olmayı bırakmak). Diğer şıklar doğrudur: A'da ahlaki tehlikenin sözleşme sonrası ortaya çıktığı ve asil-vekil sorunuyla ilişkisi doğru aktarılmıştır; B ve “Ters seçim (adverse selection) ile ahlaki tehlike aynı kavramdır; her ikisi de sözleşme…” seçeneği doğru uygulamalardır; E'de izleme mekanizmaları gerçekten çözüm yollarından biridir.",
+     "zorluk": "orta"
     },
     {
      "id": "46544",
@@ -159,8 +163,8 @@
      "soru": "Türkiye'de enflasyonla mücadelede kullanılan 'örtük enflasyon hedeflemesi' (implicit inflation targeting) döneminden 'açık enflasyon hedeflemesi' (explicit inflation targeting) dönemine geçiş sürecinde, Merkez Bankası'nın ön koşul olarak sağlaması gereken kurumsal gereklilikler değerlendirildiğinde, hangi unsur diğerlerine kıyasla Türkiye vakasında en zayıf kalmaya devam etmiştir?",
      "secenekler": [
       "Para politikası kararlarının kamuoyuyla şeffaf biçimde paylaşılması ve hesap verebilirlik mekanizmalarının etkin işlemesi",
-      "Döviz rezervlerinin yeterli düzeyde tutularak spekülatif ataklara karşı tampon oluşturulması",
-      "Hazine finansmanının doğrudan merkez bankası kaynaklarından yapılmasına yasal yasak getirilmesi",
+      "Döviz rezervlerinin yeterli düzeyde tutulması suretiyle spekülatif ataklara karşı güçlü bir tampon oluşturulması",
+      "Hazine finansmanının doğrudan merkez bankası kaynaklarından yapılmasına yasal olarak yasak getirilmesi ve bunun denetlenmesi",
       "Merkez bankasının araç bağımsızlığına sahip olması",
       "Fiyat istikrarının Merkez Bankası'nın temel amacı olarak yasal düzeyde belirlenmesi"
      ],
@@ -175,13 +179,14 @@
      "soru": "Uluslararası Fisheries görüşmelerinde sıkça başvurulan 'stratejik ticaret politikası' yaklaşımında devlet müdahalesinin ekonomik gerekçesi nedir? Bu politikanın teorik temelini oluşturan varsayım aşağıdakilerden hangisidir?",
      "secenekler": [
       "Serbest ticaretin her koşulda Pareto etkin sonuçlar doğurması",
-      "Gelişmekte olan ülkelerin daima serbest ticaretten zarar görmesi",
+      "Gelişmekte olan ülkelerin serbest ticaret koşullarından daima zarar görmesi ve sanayileşememesi durumu",
       "Tüm uluslararası piyasaların tam rekabetçi yapıda olması",
-      "Karşılaştırmalı üstünlüklerin yalnızca doğal kaynak zenginliğine bağlı olması",
+      "Karşılaştırmalı üstünlüklerin yalnızca ülkenin sahip olduğu doğal kaynak zenginliğine bağlı olarak belirlenmesi ve buna göre şekillenmesi durumu söz konusudur",
       "Oligopolistik piyasa yapısında ölçek ekonomileri ve Ar-Ge dışsallıkları nedeniyle stratejik sübvansiyon/tarifenin ulusal refahı artırabilmesi"
      ],
      "dogru": 4,
-     "aciklama": "Stratejik ticaret politikası (Brander-Spencer modeli), eksik rekabet koşullarında (özellikle oligopol) sübvansiyon veya tarife gibi devlet müdahalelerinin ulusal refahı artırabileceğini ileri sürer. Temel mantık şudur: Oligopolistik piyasalarda firmalar ekonomik rant (excess profit) elde etmektedir. Devlet, yerli firmaya sübvansiyon vererek Cournot oyununda denge üretim miktarını artırabilir, rakip firmanın karını azaltabilir ve bu rantların bir kısmını yurt içine aktarabilir. Ölçek ekonomileri ve öğrenme eğrisi dışsallıkları da bu politikayı destekleyen faktörler arasındadır."
+     "aciklama": "Stratejik ticaret politikası (Brander-Spencer modeli), eksik rekabet koşullarında (özellikle oligopol) sübvansiyon veya tarife gibi devlet müdahalelerinin ulusal refahı artırabileceğini ileri sürer. Temel mantık şudur: Oligopolistik piyasalarda firmalar ekonomik rant (excess profit) elde etmektedir. Devlet, yerli firmaya sübvansiyon vererek Cournot oyununda denge üretim miktarını artırabilir, rakip firmanın karını azaltabilir ve bu rantların bir kısmını yurt içine aktarabilir. Ölçek ekonomileri ve öğrenme eğrisi dışsallıkları da bu politikayı destekleyen faktörler arasındadır.",
+     "zorluk": "orta"
     },
     {
      "id": "46355",
@@ -190,13 +195,13 @@
      "soru": "Merkez bankasının enflasyon hedeflemesi (inflation targeting) rejimini uygulayabilmesi için aşağıda sayılan kurumsal ön koşulların hangisi zorunlu değildir?",
      "secenekler": [
       "Döviz kuru çıpası gibi rakip bir nominal çıpanın bulunmaması",
-      "Maliye politikasının para politikasını baskı altına almaması (mali baskınlığın olmaması)",
+      "Maliye politikasının para politikasını baskı altına almaması, yani mali baskınlığın hiçbir biçimde söz konusu olmaması",
       "Merkez bankasının tam anlamıyla siyasi bağımsızlığa sahip olması ve para politikası kararlarının parlamentoda onaylanması",
-      "Enflasyon beklentilerini ölçmeye ve öngörmeye yönelik gelişmiş analitik kapasitenin mevcut olması",
+      "Enflasyon beklentilerini ölçmeye ve öngörmeye yönelik gelişmiş analitik kapasitenin mevcut olması ve düzenli olarak raporlanması",
       "Merkez bankasının araç bağımsızlığına sahip olması"
      ],
      "dogru": 2,
-     "aciklama": "Enflasyon hedeflemesi için gerçekten gerekli olan koşullar: araç bağımsızlığı, mali baskınlığın yokluğu, rakip nominal çıpa bulunmaması ve analitik kapasite. 'Tam siyasi bağımsızlık' ve 'kararların parlamentoda onaylanması' ise birbirine çelişik iki kavramdır; parlamenter onay merkez bankasının operasyonel bağımsızlığını zedeler. Enflasyon hedeflemesi rejimlerinde merkez bankası hedef belirleme sürecinde hükümetle koordinasyon sağlayabilir ancak politika kararları parlamenter onaya tabi değildir. Şık D yanlış ve gereksiz bir koşul tanımlamaktadır.",
+     "aciklama": "Enflasyon hedeflemesinin kurumsal ön koşulları şunlardır: fiyat istikrarının öncelikli hedef olması, araç bağımsızlığı, mali baskınlığın bulunmaması, rakip nominal çıpanın olmaması ve güçlü analiz ile şeffaflık kapasitesi. Siyasi bağımsızlık ise hedefi belirleme konusunda tam olmak zorunda değildir; hedefler çoğu ülkede hükümetle birlikte belirlenir. Üstelik karar süreci parlamento onayına bağlanırsa merkez bankası bağımsızlığı zedelenir ve rejimin güvenilirliği zayıflar. Yani bu ifade zorunlu bir ön koşul değildir, hatta rejimle çelişir. \"Merkez bankasının araç bağımsızlığına sahip olması\" seçeneği temel bir ön koşuldur. \"Döviz kuru çıpası gibi rakip bir nominal çıpanın bulunmaması\" seçeneği de ön koşullar arasında sayılır. Doğru cevap \"Merkez bankasının tam anlamıyla siyasi bağımsızlığa sahip olması ve para politikası kararlarının parlamentoda onaylanması\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -227,8 +232,8 @@
       "1800",
       "900"
      ],
-     "dogru": 0,
-     "aciklama": "Fiyat ayrımı yapılmayan durumda: MR = 100-2Q = MC = 10 → Q=45, P=55. Kâr = TR-TC = 45*55 - (10*45+200) = 2475-650 = 1825. Tam fiyat ayrımında: Her birim için talep fiyatından satış yapılır. Üretim P=MC koşulunda: 100-Q=10 → Q=90. Kâr = Alan (talep eğrisi altı) - TVC - FC = (1/2)*90*90 - 10*90 - 200 = 4050 - 900 - 200 = 2950. Fark = 2950 - 1825 = 1125. En yakın şık B (1012,5) olduğundan hesaplama hatası varsa tüketici artığı transferi: Tam ayrımda ek kâr = fiyat ayrımı yapılmayan durumun tüketici artığına eşittir = (1/2)*45*(100-55) = (1/2)*45*45 = 1012,5. Cevap B'dir.",
+     "dogru": 1,
+     "aciklama": "Ayrımsız kâr 1825, tam ayrımda kâr 3850 olduğundan fark 2025 TL'dir. Doğru cevap 2025 şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -254,13 +259,14 @@
      "soru": "Ticaret saptırması (trade diversion) kavramı aşağıdaki durumlardan hangisini ifade eder?",
      "secenekler": [
       "İhracatın ithalatı aşmasıyla oluşan cari fazlanın sürdürülemez olması",
-      "Serbest ticaretin sağladığı refahın ülkeler arasında adaletsiz dağılması",
-      "Gümrük birliği sonucunda üretimin yurt içinden daha verimli üye ülkeye kayması",
+      "Serbest ticaretin sağladığı refah artışının ülkeler arasında adaletsiz biçimde dağılması ve eşitsizlik yaratması ve gerilim yaratması",
+      "Gümrük birliği sonucunda üretimin yurt içinden daha verimli bir üye ülkeye kayması ve maliyetlerin düşmesi",
       "Gümrük birliği sonucunda daha verimli üçüncü ülkeden yapılan ithalatın yerini daha az verimli üye ülke ithalatının alması",
       "Ortak dış tarifenin üçüncü ülkelerin ihracatını artırması"
      ],
      "dogru": 3,
-     "aciklama": "Viner (1950) gümrük birliğinin ticaret yaratma (trade creation) ve ticaret saptırma (trade diversion) olmak üzere iki etkisini analiz etmiştir. Ticaret saptırması; gümrük birliği öncesinde ortak dış tarife olmaksızın dünya piyasasındaki en düşük maliyetli üreticiden (üçüncü ülke) yapılan ithalatın, gümrük birliği sonrasında ortak tarife avantajı nedeniyle daha yüksek maliyetli üye ülke üreticisine kaymasıdır. Bu durum refah kaybına yol açabilir."
+     "aciklama": "Viner (1950) gümrük birliğinin ticaret yaratma (trade creation) ve ticaret saptırma (trade diversion) olmak üzere iki etkisini analiz etmiştir. Ticaret saptırması; gümrük birliği öncesinde ortak dış tarife olmaksızın dünya piyasasındaki en düşük maliyetli üreticiden (üçüncü ülke) yapılan ithalatın, gümrük birliği sonrasında ortak tarife avantajı nedeniyle daha yüksek maliyetli üye ülke üreticisine kaymasıdır. Bu durum refah kaybına yol açabilir.",
+     "zorluk": "orta"
     },
     {
      "id": "46298",
@@ -275,7 +281,8 @@
       "Reel çıktı %10 artar, fiyatlar değişmez"
      ],
      "dogru": 2,
-     "aciklama": "MV = PY (Fisher mübadele denklemi). V ve Y sabitken M %10 artarsa P tam orantılı olarak %10 artar. Bu, klasik ve parasalcı gelenekteki para yansızlığı (neutrality of money) ilkesinin temel sonucudur: uzun dönemde para arzı artışı yalnızca fiyat düzeyini artırır, reel değişkenler etkilenmez."
+     "aciklama": "MV = PY (Fisher mübadele denklemi). V ve Y sabitken M %10 artarsa P tam orantılı olarak %10 artar. Bu, klasik ve parasalcı gelenekteki para yansızlığı (neutrality of money) ilkesinin temel sonucudur: uzun dönemde para arzı artışı yalnızca fiyat düzeyini artırır, reel değişkenler etkilenmez.",
+     "zorluk": "orta"
     },
     {
      "id": "46164",
@@ -299,14 +306,15 @@
      "konuId": "mikro_i_ktisat",
      "soru": "Tekelci rekabet piyasasında uzun dönemde denge ile tam rekabet piyasasında uzun dönemde denge karşılaştırıldığında tekelci rekabet piyasasına özgü olan durum hangisidir?",
      "secenekler": [
-      "Firmaların serbest giriş-çıkışı söz konusudur.",
+      "Firmaların piyasaya serbest giriş ve çıkışı söz konusudur; herhangi bir engel bulunmaz.",
       "Ekonomik kâr sıfırdır.",
-      "Fiyat, uzun dönem ortalama maliyete eşittir.",
+      "Fiyat, uzun dönem ortalama maliyete tam olarak eşittir.",
       "Fiyat marjinal maliyetin üzerindedir ve kapasite fazlası oluşur.",
       "Uzun dönemde kâr maksimizasyonu sağlanamaz."
      ],
      "dogru": 3,
-     "aciklama": "Tekelci rekabet piyasasında uzun dönem dengesinde: (1) Serbest giriş-çıkış sayesinde ekonomik kâr = 0, P = LAC; (2) Ancak firm aşağı eğimli talep eğrisiyle karşı karşıya olduğundan MR = MC koşulunda P > MC olur; (3) Bu nedenle üretim LAC'nin minimum noktasının solunda gerçekleşir → kapasite fazlası (atıl kapasite). Tam rekabette P = MC = min.LAC iken tekelci rekabette P = LAC > MC ve üretim min.LAC'nin altındadır. Bu kapasite fazlası, ürün çeşitliliğinin 'bedeli' olarak değerlendirilebilir."
+     "aciklama": "Tekelci rekabet piyasasında uzun dönem dengesinde: (1) Serbest giriş-çıkış sayesinde ekonomik kâr = 0, P = LAC; (2) Ancak firm aşağı eğimli talep eğrisiyle karşı karşıya olduğundan MR = MC koşulunda P > MC olur; (3) Bu nedenle üretim LAC'nin minimum noktasının solunda gerçekleşir → kapasite fazlası (atıl kapasite). Tam rekabette P = MC = min.LAC iken tekelci rekabette P = LAC > MC ve üretim min.LAC'nin altındadır. Bu kapasite fazlası, ürün çeşitliliğinin 'bedeli' olarak değerlendirilebilir.",
+     "zorluk": "orta"
     },
     {
      "id": "46496",
@@ -321,7 +329,8 @@
       "Enflasyon hedefi, Hükümet ile TCMB'nin mutabık kalmasıyla belirlenir."
      ],
      "dogru": 1,
-     "aciklama": "Enflasyon hedeflemesi rejiminde hedef, Hükümet ile Merkez Bankası'nın ortak mutabakatıyla belirlenir; Hazine Müsteşarlığı'nın tek başına belirlediği bir uygulama söz konusu değildir. Türkiye 2002'de örtük, 2006'da ise açık enflasyon hedeflemesine geçmiştir. Para politikasının temel aracı politika faizi (1 haftalık repo faizi) olup bu bilgiler doğrudur. Yanlış olan D şıkkıdır."
+     "aciklama": "Türkiye'de enflasyon hedefleri, 2006'dan itibaren uygulanan açık enflasyon hedeflemesi rejiminde Hükümet ile Merkez Bankası'nın birlikte belirlemesiyle ortaya konur. Hedefi tek başına bir kurumun, özellikle Hazine Müsteşarlığı'nın belirlemesi söz konusu değildir. Bu nedenle bu ifade yanlıştır. Diğer ifadeler doğrudur: Politika faizi temel araçtır, 2002-2005 arasında örtük enflasyon hedeflemesi uygulanmıştır ve açık hedefleme 2006'da başlamıştır. Soru yanlış olan ifadeyi sorduğundan, \"Enflasyon hedefi, Hükümet ile TCMB'nin mutabık kalmasıyla belirlenir.\" seçeneği doğru bir bilgi içerdiği için cevap olamaz. Doğru cevap \"Hedefleme, Hazine Müsteşarlığı tarafından tek başına belirlenir.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "46369",
@@ -362,13 +371,13 @@
      "soru": "Merkez bankasının enflasyonu düşürmek amacıyla enflasyon beklentilerini çıpalaması bağlamında 'güvenilirlik' kavramı ile 'zaman tutarsızlığı problemi' (time inconsistency) arasındaki ilişkiyi en doğru biçimde açıklayan ifade hangisidir?",
      "secenekler": [
       "Zaman tutarsızlığı problemi, merkez bankasının optimal politika taahhüdünden sonradan sapma güdüsü taşımasından kaynaklanır; güvenilirlik eksikliği beklentileri bozarak enflasyon eğilimini artırır.",
-      "Merkez bankası her zaman sabit bir para büyüme kuralı uygularsa zaman tutarsızlığı problemi ortadan kalkar çünkü kural takdire bırakılan politikanın önüne geçer.",
+      "Merkez bankası her zaman sabit bir para büyüme kuralı uygularsa zaman tutarsızlığı problemi tümüyle ortadan kalkar; çünkü kural, takdire bırakılan politikanın önüne geçmekte ve belirsizliği bütünüyle yok etmektedir.",
       "Merkez bankası bağımsızlığı zaman tutarsızlığı problemini tamamen çözer çünkü bağımsız merkez bankası her zaman enflasyonu tercih etmez.",
       "Zaman tutarsızlığı yalnızca kısa dönemli bir sorun olup ekonomi uzun dönemli dengeye ulaştığında kendiliğinden ortadan kalkar.",
-      "Enflasyon hedeflemesi rejimi benimsendikten sonra merkez bankasının taahhüdünden sapması ekonomik açıdan faydalı olabilir çünkü esneklik sağlar."
+      "Enflasyon hedeflemesi rejimi benimsendikten sonra merkez bankasının taahhüdünden sapması ekonomik açıdan faydalı olabilir çünkü bu durum politikaya esneklik sağlar."
      ],
      "dogru": 0,
-     "aciklama": "Kydland ve Prescott (1977) ile Barro ve Gordon (1983)'ın çalışmalarında ortaya konulan zaman tutarsızlığı problemi şöyledir: Merkez bankası önce düşük enflasyon taahhüt eder; özel sektör buna göre beklentilerini oluşturur. Daha sonra merkez bankasının sürpriz enflasyonla işsizliği geçici olarak düşürme güdüsü doğar. Bu sapma güdüsü bilindiğinden özel sektör yüksek enflasyon bekler ve bu 'enflasyon eğilimi'ni (inflationary bias) yaratır. Güvenilirlik bu döngüyü kırar. A şıkkındaki kural tartışması Friedman'ın argümanına karşılık gelir ve kısmen doğrudur; ancak sorunun tam merkezine değil yalnızca bir çözüm önerisine değinmektedir. B şıkkı hem nedenini hem de mekanizmasını en eksiksiz biçimde açıklamaktadır.",
+     "aciklama": "Zaman tutarsızlığı, merkez bankasının düşük enflasyon sözü verdikten sonra beklentiler oluşunca kısa dönemde üretimi artırmak için enflasyonist sürprize başvurma güdüsü taşımasıdır. Halk bunu öngörür, taahhüde inanmaz ve beklentiler yüksek kalır. Sonuçta çıktı kazancı olmadan enflasyon eğilimi yükselir. Güvenilirlik, bu sapma güdüsünün bağımsızlık, kural ve şeffaflıkla sınırlanmasıyla sağlanır ve beklentileri çıpalar. \"Merkez bankası her zaman sabit bir para büyüme kuralı uygularsa zaman tutarsızlığı problemi tümüyle ortadan kalkar\" ifadesi aşırıdır, çünkü kural belirsizliği bütünüyle yok etmez. \"Zaman tutarsızlığı yalnızca kısa dönemli bir sorun olup ekonomi uzun dönemli dengeye ulaştığında kendiliğinden ortadan kalkar\" ifadesi de yanlıştır. Doğru cevap \"Zaman tutarsızlığı problemi, merkez bankasının optimal politika taahhüdünden sonradan sapma güdüsü taşımasından kaynaklanır\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -384,7 +393,7 @@
       "Q=8; LAC=44"
      ],
      "dogru": 1,
-     "aciklama": "LAC = LTC/Q = Q² - 12Q + 60. LAC minimumunu bulmak için dLAC/dQ = 0: 2Q - 12 = 0 → Q = 6. LAC(6) = 36 - 72 + 60 = 24. LMC = dLTC/dQ = 3Q² - 24Q + 60. LMC(6) = 108 - 144 + 60 = 24. LMC = LAC = 24 koşulu da doğrulanmaktadır. Doğru cevap C'dir.",
+     "aciklama": "LAC = LTC/Q = Q² - 12Q + 60. LAC minimumunu bulmak için dLAC/dQ = 0: 2Q - 12 = 0 → Q = 6. LAC(6) = 36 - 72 + 60 = 24. LMC = dLTC/dQ = 3Q² - 24Q + 60. LMC(6) = 108 - 144 + 60 = 24. LMC = LAC = 24 koşulu da doğrulanmaktadır. Doğru cevap: «Q=6; LAC=24».",
      "zorluk": "zor"
     },
     {
@@ -395,12 +404,13 @@
      "secenekler": [
       "Ticaret bankalarının açık pozisyon limitlerini aşarak döviz varlığı tutması",
       "Yerli hane halklarının yüksek enflasyon karşısında satın alma güçlerini korumak için TL varlıkları yabancı para cinsinden varlıklarla ikame etmesi",
-      "Hükümetin dış borçlanmayı azaltmak için iç borçlanma araçlarını dolar cinsinden ihraç etmesi",
+      "Hükümetin dış borçlanmayı azaltmak amacıyla iç borçlanma araçlarını dolar cinsinden ihraç etmesi ve talebi bu yolla canlandırması ve desteklemesi ve talebi canlandırması",
       "Yabancı yatırımcıların TL cinsinden varlık talebini artırması",
-      "Merkez bankasının döviz rezervlerini artırmak amacıyla piyasadan döviz satın alması"
+      "Merkez bankasının döviz rezervlerini artırmak amacıyla piyasadan sürekli biçimde döviz satın alması ve kuru yukarı çekmesi"
      ],
      "dogru": 1,
-     "aciklama": "Finansal dolarizasyon, ekonomik birimlerin yüksek enflasyon ve kur oynaklığı ortamında TL cinsinden varlıklardan (mevduat, tasarruf) kaçınarak dolar veya euro gibi yabancı para birimlerinde varlık tutmaya yönelmesidir. Paranın değer saklama işlevinin bozulduğu durumlarda rasyonel bir koruma mekanizması olarak ortaya çıkar. Türkiye'de 1990'lı yıllarda ve bazı dönemlerde döviz mevduat oranları toplam mevduatın %50'sini aşmıştır."
+     "aciklama": "Finansal dolarizasyon, ekonomik birimlerin yüksek enflasyon ve kur oynaklığı ortamında TL cinsinden varlıklardan (mevduat, tasarruf) kaçınarak dolar veya euro gibi yabancı para birimlerinde varlık tutmaya yönelmesidir. Paranın değer saklama işlevinin bozulduğu durumlarda rasyonel bir koruma mekanizması olarak ortaya çıkar. Türkiye'de 1990'lı yıllarda ve bazı dönemlerde döviz mevduat oranları toplam mevduatın %50'sini aşmıştır.",
+     "zorluk": "orta"
     },
     {
      "id": "46393",
@@ -415,7 +425,8 @@
       "Benzer ülkeler arasında dış ticaret hacmi daha büyük olur."
      ],
      "dogru": 1,
-     "aciklama": "Heckscher-Ohlin teorisi, ülkelerin bol sahip oldukları üretim faktörünü (sermaye veya emek) yoğun biçimde kullanan malları ihraç edip kıt faktörü yoğun kullanan malları ithal edeceğini savunur. Teknoloji üstünlüğüne dayalı açıklama Ricardo ve neo-teknolojik teorilere, olgunluk dönemi mallarına ilişkin açıklama Vernon'ın ürün dönemleri teorisine, benzer ülkeler arasındaki ticaret büyüklüğü Linder hipotezine aittir."
+     "aciklama": "Heckscher-Ohlin teorisi, ülkelerin bol sahip oldukları üretim faktörünü (sermaye veya emek) yoğun biçimde kullanan malları ihraç edip kıt faktörü yoğun kullanan malları ithal edeceğini savunur. Teknoloji üstünlüğüne dayalı açıklama Ricardo ve neo-teknolojik teorilere, olgunluk dönemi mallarına ilişkin açıklama Vernon'ın ürün dönemleri teorisine, benzer ülkeler arasındaki ticaret büyüklüğü Linder hipotezine aittir.",
+     "zorluk": "orta"
     },
     {
      "id": "46290",
@@ -430,7 +441,8 @@
       "Faiz düşüşü hisse senedi fiyatlarını düşürerek yatırımları azaltır"
      ],
      "dogru": 0,
-     "aciklama": "Varlık fiyatları kanalında faiz düşüşü, sabit getirili araçların cazibesini azaltarak yatırımcıları hisse senetlerine yönlendirir; bu da hisse fiyatlarını artırır. Yükselen hisse fiyatları Tobin'in q oranını (piyasa değeri/yenileme maliyeti) 1'in üzerine çıkarır ve firmalar yeni yatırım yapar. Aynı zamanda servet etkisiyle tüketim artar. q > 1 olduğunda firmalar mevcut firmayı piyasadan almak yerine yeni sermaye malı üretmeyi tercih eder (C seçeneği bu nedenle yanlıştır)."
+     "aciklama": "Varlık fiyatları kanalı, Tobin'in q teorisiyle ve servet etkisiyle açıklanır. Faiz düşünce tahvillere göre hisse senetleri cazip hâle gelir, hisse talebi ve fiyatları artar. Hisse fiyatlarının artması q oranını (firmanın piyasa değeri / sermayenin yenileme maliyeti) yükseltir. q > 1 olduğunda yeni sermaye malı almak, firmanın piyasa değerine göre ucuz kalır ve yatırım artar. \"Faiz düşüşü hisse senedi fiyatlarını düşürerek yatırımları azaltır\" seçeneği yönü ters verir. \"Kanalın işleyişi Tobin'in q teorisiyle açıklanamaz\" seçeneği de yanlıştır, çünkü kanalın temel açıklaması budur. Doğru cevap \"Faiz düşüşü varlık fiyatlarını artırarak yatırımları canlandırır\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "46143",
@@ -456,12 +468,12 @@
      "secenekler": [
       "Samuelson koşuluna göre kamusal mallar için marjinal maliyet sıfır olmalıdır.",
       "Kamusal malın optimal miktarında, bireylerin marjinal ikame oranlarının toplamı marjinal dönüşüm oranına eşit olmalıdır.",
-      "Kamusal malların bölünemez olması, bireysel talep eğrilerinin yatay toplanmasını zorunlu kılar.",
-      "Kamusal malın optimal miktarında, her bireyin marjinal faydasının marjinal maliyete eşit olması gerekir.",
+      "Kamusal malların bölünemez nitelikte olması, bireysel talep eğrilerinin yatay biçimde toplanmasını zorunlu kılar.",
+      "Kamusal malın optimal miktarında, her bir bireyin marjinal faydasının marjinal maliyete eşit olması gerekmekte ve bu koşul sağlanmalıdır.",
       "Piyasa mekanizması, bedavacılık problemi olmadığı sürece kamusal malları etkin sunar."
      ],
      "dogru": 1,
-     "aciklama": "Samuelson koşuluna göre saf kamusal mallarda tüketim rakip değildir; yani tüm bireyler aynı miktarı tüketir. Bu nedenle bireysel fayda eğrileri dikey olarak toplanır (özel mallarda yatay toplanır). Optimal miktar için: Σ MRS_i = MRT koşulu geçerlidir, yani tüm bireylerin marjinal ikame oranlarının (marjinal faydalarının toplamı/özel mal marjinal faydası) toplamı, üretim sınırındaki marjinal dönüşüm oranına (marjinal maliyet oranına) eşit olmalıdır. A yanlıştır; her bireyin MF'sinin ayrı ayrı MC'ye eşit olması özel mal koşuludur. C yanlıştır; bedavacılık problemi her zaman vardır. D yanlıştır; yatay değil dikey toplama söz konusudur. E yanlıştır; MC sıfır olmak zorunda değildir. Doğru cevap B'dir.",
+     "aciklama": "Samuelson koşuluna göre saf kamusal mallarda tüketim rakip değildir; yani tüm bireyler aynı miktarı tüketir. Bu nedenle bireysel fayda eğrileri dikey olarak toplanır (özel mallarda yatay toplanır). Optimal miktar için: Σ MRS_i = MRT koşulu geçerlidir, yani tüm bireylerin marjinal ikame oranlarının (marjinal faydalarının toplamı/özel mal marjinal faydası) toplamı, üretim sınırındaki marjinal dönüşüm oranına (marjinal maliyet oranına) eşit olmalıdır. “Samuelson koşuluna göre kamusal mallar için marjinal maliyet sıfır olmalıdır.” seçeneği yanlıştır; her bireyin MF'sinin ayrı ayrı MC'ye eşit olması özel mal koşuludur. “Kamusal malların bölünemez nitelikte olması, bireysel talep eğrilerinin yatay biçimde…” seçeneği yanlıştır; bedavacılık problemi her zaman vardır. “Kamusal malın optimal miktarında, her bir bireyin marjinal faydasının marjinal maliyete…” seçeneği yanlıştır; yatay değil dikey toplama söz konusudur. “Piyasa mekanizması, bedavacılık problemi olmadığı sürece kamusal malları etkin sunar.” seçeneği yanlıştır; MC sıfır olmak zorunda değildir. Doğru cevap “Kamusal malın optimal miktarında, bireylerin marjinal ikame oranlarının toplamı marjinal…” seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -477,7 +489,8 @@
       "Bankacılık sisteminin kredi verme kapasitesi artar."
      ],
      "dogru": 0,
-     "aciklama": "Para çarpanı formülü m = 1/r şeklinde ifade edilir (basit modelde r = zorunlu karşılık oranı). Zorunlu karşılık oranı artırıldığında bankalar ellerindeki mevduatın daha büyük bir kısmını merkez bankasında tutmak zorunda kalır; krediye dönüştürülecek miktar azalır. Bu durum para çarpanını küçülterek para arzının daralmasına neden olur. Sıkılaştırıcı bir para politikası aracı olan bu uygulama enflasyonla mücadelede kullanılır."
+     "aciklama": "Para çarpanı formülü m = 1/r şeklinde ifade edilir (basit modelde r = zorunlu karşılık oranı). Zorunlu karşılık oranı artırıldığında bankalar ellerindeki mevduatın daha büyük bir kısmını merkez bankasında tutmak zorunda kalır; krediye dönüştürülecek miktar azalır. Bu durum para çarpanını küçülterek para arzının daralmasına neden olur. Sıkılaştırıcı bir para politikası aracı olan bu uygulama enflasyonla mücadelede kullanılır.",
+     "zorluk": "orta"
     },
     {
      "id": "46443",
@@ -502,13 +515,13 @@
      "soru": "Bir ekonomide 'deflasyonist sarmal (deflationary spiral)' oluşmasının ana mekanizması aşağıdakilerden hangisinde doğru biçimde açıklanmıştır?",
      "secenekler": [
       "Fiyatlar düşer → ihracat ucuzlar → döviz geliri artar → sermaye girişi hızlanır → ekonomi toparlanır",
-      "Fiyatlar düşer → enflasyon beklentileri düşer → reel faiz yükselir → yatırımlar artar → üretim genişler",
+      "Fiyatlar düşer → enflasyon beklentileri düşer → reel faiz yükselir → yatırımlar artar → üretim genişlemeye başlar",
       "Fiyatlar düşer → merkez bankası faizi artırır → kredi daralır → para arzı küçülür → deflasyon hızlanır",
       "Fiyatlar düşer → tüketiciler satın alımlarını erteler → talep daha da azalır → firmalar fiyatları daha da düşürür → reel borç yükü artar → borçlanma ve yatırım daralır → sarmal derinleşir",
-      "Fiyatlar düşer → reel ücretler artar → tüketim patlar → talep enflasyonu başlar ve deflasyon tersine döner"
+      "Fiyatlar düşer → reel ücretler artar → tüketim patlar → talep enflasyonu başlar ve yaşanan deflasyon süreci tersine döner ve ekonomi kendiliğinden yeniden tam istihdam düzeyine dönerek dengeye ulaşmaktadır"
      ],
      "dogru": 3,
-     "aciklama": "Deflasyonist sarmal (Fisher'ın borç-deflasyonu teorisi, 1933): (1) Fiyat düşüşü beklentisi → alımların ertelenmesi → toplam talep daralır. (2) Talep daralması → daha fazla fiyat düşüşü. (3) Nominal borçlar sabitken reel borç yükü artar → firmalar ve hanehalkı borç ödeme baskısıyla varlık satmak zorunda kalır → varlık fiyatları düşer → daha fazla deflasyon. (4) Beklenen deflasyon → reel faiz yükselir → yatırım teşviki azalır → üretim ve istihdam düşer. Bu kendini besleyen kısır döngü özellikle 1929-33 Büyük Buhranı'nda gözlemlenmiştir. C şıkkında hata var; deflasyon ortamında merkez bankası faizi düşürür, artırmaz.",
+     "aciklama": "Deflasyonist sarmal, fiyat düşüşlerinin kendini besleyen bir döngüye dönüşmesidir. Fiyatlar düşünce tüketiciler fiyatların daha da düşeceğini bekleyip alımlarını erteler. Toplam talep azalır ve firmalar satışlarını korumak için fiyatları yeniden indirir. Nominal borçlar sabit kaldığı için reel borç yükü artar (Fisher'ın borç-deflasyon mekanizması). Borçlular harcamayı keser, yatırım ve kredi daralır, talep daha da düşer ve sarmal derinleşir. \"Fiyatlar düşer → reel ücretler artar → tüketim patlar → talep enflasyonu başlar ve yaşanan deflasyon süreci tersine döner ve ekonomi kendiliğinden yeniden tam istihdam düzeyine dönerek dengeye ulaşmaktadır\" seçeneği sarmalı değil, kendiliğinden toparlanmayı anlatır; bu nedenle yanlıştır. \"Fiyatlar düşer → enflasyon beklentileri düşer → reel faiz yükselir → yatırımlar artar → üretim genişlemeye başlar\" seçeneğinde ise yüksek reel faiz yatırımları artırmaz, azaltır. Doğru cevap \"Fiyatlar düşer → tüketiciler satın alımlarını erteler → talep daha da azalır → firmalar fiyatları daha da düşürür → reel borç yükü artar → borçlanma ve yatırım daralır → sarmal derinleşir\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -518,9 +531,9 @@
      "soru": "Aşağıdakilerden hangisi 'otomatik dengeleyiciler' (automatic stabilizers) arasında yer almaz?",
      "secenekler": [
       "Artan oranlı gelir vergisi",
-      "Tarımsal destek programları",
+      "Tarımsal destekleme ve sübvansiyon programları",
       "Merkez bankasının açık piyasa işlemleri",
-      "İşsizlik sigortası ödemeleri",
+      "İşsizlik sigortası kapsamındaki ödemeler",
       "Sosyal yardım harcamaları"
      ],
      "dogru": 2,
@@ -572,7 +585,8 @@
       "Heckscher-Ohlin teorisi"
      ],
      "dogru": 0,
-     "aciklama": "David Ricardo'nun karşılaştırmalı üstünlükler teorisine göre bir ülkenin hiçbir malda mutlak üstünlüğü olmasa bile, fırsat maliyeti görece düşük olan mallarda uzmanlaşarak ticaret yapması her iki ülke açısından da kazanç sağlar. Mutlak üstünlükler teorisi (Adam Smith) ise ancak en az bir malda mutlak üstünlük varsa ticaretin kazançlı olduğunu savunur; bu nedenle sorudaki senaryoyu açıklamaz."
+     "aciklama": "David Ricardo'nun karşılaştırmalı üstünlükler teorisine göre bir ülkenin hiçbir malda mutlak üstünlüğü olmasa bile, fırsat maliyeti görece düşük olan mallarda uzmanlaşarak ticaret yapması her iki ülke açısından da kazanç sağlar. Mutlak üstünlükler teorisi (Adam Smith) ise ancak en az bir malda mutlak üstünlük varsa ticaretin kazançlı olduğunu savunur; bu nedenle sorudaki senaryoyu açıklamaz.",
+     "zorluk": "orta"
     },
     {
      "id": "46338",
@@ -583,8 +597,8 @@
       "Cari hesap sapması ve işsizlik sapması; her ikisi de negatif olduğunda faiz düşürülür",
       "Enflasyon sapması (gerçekleşen - hedef enflasyon) ve çıktı açığı (gerçekleşen - potansiyel çıktı); her iki sapma da pozitifken faiz artırılır",
       "M2 büyüme sapması ve kredi büyüme sapması; para arzı hedefinin üzerindeyken faiz artırılır",
-      "Reel ücret sapması ve verimlilik sapması; aralarındaki fark sıfırı geçtiğinde faiz değiştirilir",
-      "Döviz kuru sapması ve rezerv yeterlilik sapması; ikisi birlikte değerlendirilerek faiz kararı alınır"
+      "Reel ücret sapması ve verimlilik sapması; aralarındaki fark sıfırı geçtiğinde politika faizi değiştirilir",
+      "Döviz kuru sapması ve rezerv yeterlilik sapması; bu ikisi birlikte değerlendirilerek faiz kararı alınmaktadır ve bu çerçevede kural temelli bir yaklaşım benimsenmektedir"
      ],
      "dogru": 1,
      "aciklama": "Taylor Kuralı (1993): i = r* + π* + α(π - π*) + β(y - y*). Burada (π - π*) enflasyon sapması, (y - y*) çıktı açığıdır. Her iki sapma pozitif (enflasyon hedefin üstünde, ekonomi kapasitesinin üzerinde çalışıyor) olduğunda kural faizin yükseltilmesini öngörür. Taylor katsayıları genellikle α = β = 0,5 olarak belirlenir. Bu kural, merkez bankalarının şeffaflık ve güvenilirliğini artırmak amacıyla referans çerçevesi olarak kullandığı bir kural-bazlı para politikası reçetesidir.",

@@ -40,8 +40,8 @@
       "Dönen Varlıklar",
       "Kısa Vadeli Yabancı Kaynaklar"
      ],
-     "dogru": 4,
-     "aciklama": "380 Gelecek Aylara Ait Gelirler Kısa Vadeli Yabancı Kaynaklar grubunda, 480 Gelecek Yıllara Ait Gelirler ise Uzun Vadeli Yabancı Kaynaklar grubunda yer alır. Bu hesaplar, henüz kazanılmamış ve ileriki dönemlere ait olan gelirleri izler. Soru 'gelecek yıllara' ifadesini içerdiğinden doğru cevap Uzun Vadeli Yabancı Kaynaklar'dır (480).",
+     "dogru": 0,
+     "aciklama": "480 Gelecek Yıllara Ait Gelirler Uzun Vadeli Yabancı Kaynaklarda yer alır; KVYK'deki hesap 380 Gelecek Aylara Ait Gelirler'dir. Doğru cevap Uzun Vadeli Yabancı Kaynaklar şeklindedir.",
      "zorluk": "kolay"
     },
     {
@@ -50,9 +50,9 @@
      "konuId": "genel_muhasebe",
      "soru": "Kasa hesabı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
      "secenekler": [
-      "Kasa hesabı yalnızca yabancı para işlemlerini izler.",
+      "Kasa hesabı yalnızca yabancı para cinsinden işlemleri izler.",
       "Kasa hesabına nakit giriş ve çıkışları kaydedilir; normal bakiyesi borç tarafındadır.",
-      "Kasa hesabı pasif karakterlidir ve alacak bakiyesi verir.",
+      "Kasa hesabı pasif karakterlidir; dönem sonunda daima alacak bakiyesi verir. Bu nedenle bilançonun pasifinde gösterilir.",
       "Kasa hesabı hem borç hem alacak bakiyesi verebilir.",
       "Kasa hesabı bilanço dışı bir hesaptır."
      ],
@@ -89,7 +89,8 @@
       "680.000 TL"
      ],
      "dogru": 3,
-     "aciklama": "Dönem sonu öz kaynakları = Dönem başı öz kaynakları + Sermaye artışı - Ödenen temettü + Net kâr formülüyle hesaplanır. 500.000 + 100.000 - 50.000 + 80.000 = 630.000 TL. Ödenen temettü öz kaynakları azaltırken sermaye artışı ve net kâr artırır. Bu hesaplama aynı zamanda 'Öz Kaynaklar Değişim Tablosu'nun özünü oluşturur."
+     "aciklama": "Dönem sonu öz kaynakları = Dönem başı öz kaynakları + Sermaye artışı - Ödenen temettü + Net kâr formülüyle hesaplanır. 500.000 + 100.000 - 50.000 + 80.000 = 630.000 TL. Ödenen temettü öz kaynakları azaltırken sermaye artışı ve net kâr artırır. Bu hesaplama aynı zamanda 'Öz Kaynaklar Değişim Tablosu'nun özünü oluşturur.",
+     "zorluk": "orta"
     },
     {
      "id": "50151",
@@ -104,22 +105,23 @@
       "İkisi arasında muhasebe tekniği açısından herhangi bir fark yoktur."
      ],
      "dogru": 3,
-     "aciklama": "7/A seçeneği giderleri fonksiyonlarına (üretim maliyeti, pazarlama, genel yönetim vb.) göre sınıflandıran fonksiyon esaslı yöntemdir; büyük ve orta ölçekli işletmelerce tercih edilir. 7/B seçeneği ise giderleri çeşitlerine (ilk madde, işçilik, amortisman vb.) göre sınıflandıran gider çeşidi esaslı yöntemdir; küçük işletmeler için uygundur."
+     "aciklama": "7/A seçeneği giderleri fonksiyonlarına (üretim maliyeti, pazarlama, genel yönetim vb.) göre sınıflandıran fonksiyon esaslı yöntemdir; büyük ve orta ölçekli işletmelerce tercih edilir. 7/B seçeneği ise giderleri çeşitlerine (ilk madde, işçilik, amortisman vb.) göre sınıflandıran gider çeşidi esaslı yöntemdir; küçük işletmeler için uygundur.",
+     "zorluk": "orta"
     },
     {
-     "id": "50061",
+     "id": "50069",
      "dersId": "muhasebe",
      "konuId": "genel_muhasebe",
-     "soru": "ABC Anonim Şirketi'nin 2024 yılı bilgilerine göre: Net satışlar 2.000.000 TL, Satılan malın maliyeti 1.200.000 TL, Faaliyet giderleri 300.000 TL, Finansman giderleri 150.000 TL, Olağandışı gelir 80.000 TL, Vergi öncesi kâr 430.000 TL, Kurumlar vergisi oranı %25'tir. Bu işletmenin faaliyet kâr marjı ile net kâr marjı arasındaki fark kaç yüzde puandır?",
+     "soru": "Bir işletmenin yabancı para cinsinden borcu 01.06.2024 tarihinde 50.000 USD olarak kaydedilmiş, kayıt tarihindeki kur 1 USD = 30 TL'dir. 31.12.2024 kur değerleme günü kuru 1 USD = 34 TL olmuştur. 28.02.2025'te borcun tamamı 1 USD = 33 TL kurdan ödenmiştir. Şubat 2025'teki ödeme kaydında ortaya çıkacak kur farkı geliri veya gideri kaç TL'dir?",
      "secenekler": [
-      "6,00",
-      "7,25",
-      "8,00",
-      "9,50",
-      "8,75"
+      "150.000 TL kur farkı gideri",
+      "200.000 TL kur farkı gideri",
+      "50.000 TL kur farkı geliri",
+      "50.000 TL kur farkı gideri",
+      "200.000 TL kur farkı geliri"
      ],
-     "dogru": 4,
-     "aciklama": "Faaliyet kârı = Net satışlar − SMM − Faaliyet giderleri = 2.000.000 − 1.200.000 − 300.000 = 500.000 TL. Faaliyet kâr marjı = 500.000 / 2.000.000 = %25. Vergi öncesi kâr 430.000 TL → Vergi: 430.000 × %25 = 107.500 TL → Net kâr: 322.500 TL. Net kâr marjı = 322.500 / 2.000.000 = %16,125. Fark: %25 − %16,125 = %8,875 ≈ 8,75 puan. Cevap D.",
+     "dogru": 2,
+     "aciklama": "31.12.2024 değerleme sonrası borcun kayıtlı değeri: 50.000 × 34 = 1.700.000 TL. 28.02.2025 ödeme tarihinde fiilen ödenen tutar: 50.000 × 33 = 1.650.000 TL. Kayıtlı değer (1.700.000) > Ödenen tutar (1.650.000) → Kur düşmüş, borç azalmış → İşletme lehine 1.700.000 − 1.650.000 = 50.000 TL kur farkı geliri doğar. Doğru cevap: «50.000 TL kur farkı geliri».",
      "zorluk": "zor"
     },
     {
@@ -167,7 +169,8 @@
       "730"
      ],
      "dogru": 4,
-     "aciklama": "7/A Maliyet Hesapları seçeneğinde; 710 Direkt İlk Madde ve Malzeme Giderleri, 720 Direkt İşçilik Giderleri, 730 Genel Üretim Giderleri, 740 Hizmet Üretim Maliyeti, 750 Araştırma ve Geliştirme Giderleri, 760 Pazarlama Satış ve Dağıtım Giderleri, 770 Genel Yönetim Giderleri şeklinde sıralanır. Dolayısıyla Genel Üretim Giderleri 730 kodlu hesaptır."
+     "aciklama": "7/A Maliyet Hesapları seçeneğinde; 710 Direkt İlk Madde ve Malzeme Giderleri, 720 Direkt İşçilik Giderleri, 730 Genel Üretim Giderleri, 740 Hizmet Üretim Maliyeti, 750 Araştırma ve Geliştirme Giderleri, 760 Pazarlama Satış ve Dağıtım Giderleri, 770 Genel Yönetim Giderleri şeklinde sıralanır. Dolayısıyla Genel Üretim Giderleri 730 kodlu hesaptır.",
+     "zorluk": "orta"
     },
     {
      "id": "50007",
@@ -214,7 +217,7 @@
       "Kâr Dağıtım Tablosu, ek mali tablolar arasında gösterilmektedir."
      ],
      "dogru": 1,
-     "aciklama": "TFRS (Türkiye Finansal Raporlama Standartları) kapsamında tam finansal tablolar; Finansal Durum Tablosu (Bilanço), Kâr veya Zarar ve Diğer Kapsamlı Gelir Tablosu, Öz Kaynaklar Değişim Tablosu, Nakit Akışları Tablosu ve Dipnotlar'dan oluşur. Bu çerçevede Öz Kaynaklar Değişim Tablosu TFRS'de temel mali tablolar arasında yer alır; dolayısıyla C şıkkındaki 'temel mali tablolardan biri değildir' ifadesi yanlıştır. MSUGT'de ise temel tablolar bilanço ve gelir tablosu, ek tablolar arasında nakit akış tablosu, kâr dağıtım tablosu, öz kaynaklar değişim tablosu ve satışların maliyeti tablosu yer alır.",
+     "aciklama": "Soruda yanlış ifade aranıyor. TFRS'de (TMS 1 kapsamında) tam bir finansal tablo seti; finansal durum tablosunu, kâr veya zarar ve diğer kapsamlı gelir tablosunu, özkaynak değişim tablosunu, nakit akış tablosunu ve dipnotları içerir. Dolayısıyla öz kaynak değişim tablosu TFRS'de temel finansal tablolardan biridir. \"Öz Kaynaklar Değişim Tablosu, TFRS kapsamında temel mali tablolardan biri değildir.\" ifadesi bu nedenle yanlıştır. Tek Düzen Muhasebe Sistemi'nde ise bilanço ve gelir tablosu temel tablo, satışların maliyeti tablosu, nakit akım tablosu ve kâr dağıtım tablosu gibi tablolar ek tablodur. Bu yüzden \"Bilanço ve Gelir Tablosu, Tek Düzen Muhasebe Sistemi'ne göre temel mali tablolardandır.\" ifadesi doğrudur. Doğru cevap \"Öz Kaynaklar Değişim Tablosu, TFRS kapsamında temel mali tablolardan biri değildir.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -230,7 +233,8 @@
       "100–199"
      ],
      "dogru": 0,
-     "aciklama": "Tekdüzen Hesap Planı'nın pasif tarafı şu şekilde kodlanmıştır: 300–399 Kısa Vadeli Yabancı Kaynaklar, 400–499 Uzun Vadeli Yabancı Kaynaklar, 500–599 Öz Kaynaklar. Aktif taraf ise 100–199 Dönen Varlıklar ve 200–299 Duran Varlıklar olarak ikiye ayrılır. Buna göre 400–499 aralığı, vadesi bir yıldan uzun borçları kapsayan Uzun Vadeli Yabancı Kaynaklar bölümüne karşılık gelir."
+     "aciklama": "Tekdüzen Hesap Planı'nın pasif tarafı şu şekilde kodlanmıştır: 300–399 Kısa Vadeli Yabancı Kaynaklar, 400–499 Uzun Vadeli Yabancı Kaynaklar, 500–599 Öz Kaynaklar. Aktif taraf ise 100–199 Dönen Varlıklar ve 200–299 Duran Varlıklar olarak ikiye ayrılır. Buna göre 400–499 aralığı, vadesi bir yıldan uzun borçları kapsayan Uzun Vadeli Yabancı Kaynaklar bölümüne karşılık gelir.",
+     "zorluk": "orta"
     },
     {
      "id": "50018",
@@ -245,7 +249,8 @@
       "İşletme 5.000 TL duran varlık satış zararı kaydetmiştir."
      ],
      "dogru": 3,
-     "aciklama": "Makinenin net defter değeri = Maliyet – Birikmiş Amortisman = 50.000 – 35.000 = 15.000 TL'dir. Satış bedeli 20.000 TL olduğundan: Kar/Zarar = Satış Bedeli – Net Defter Değeri = 20.000 – 15.000 = 5.000 TL KAR. Bu kar, 'Duran Varlık Satış Karları' hesabına alacak kaydedilir ve gelir tablosunda olağandışı gelir olarak raporlanır. Kayıt: Kasa/Banka 20.000 borç; Birikmiş Amortismanlar 35.000 borç; Makine 50.000 alacak; Duran Varlık Satış Karları 5.000 alacak."
+     "aciklama": "Makinenin net defter değeri = Maliyet – Birikmiş Amortisman = 50.000 – 35.000 = 15.000 TL'dir. Satış bedeli 20.000 TL olduğundan: Kar/Zarar = Satış Bedeli – Net Defter Değeri = 20.000 – 15.000 = 5.000 TL KAR. Bu kar, 'Duran Varlık Satış Karları' hesabına alacak kaydedilir ve gelir tablosunda olağandışı gelir olarak raporlanır. Kayıt: Kasa/Banka 20.000 borç; Birikmiş Amortismanlar 35.000 borç; Makine 50.000 alacak; Duran Varlık Satış Karları 5.000 alacak.",
+     "zorluk": "orta"
     },
     {
      "id": "50234",
@@ -259,8 +264,8 @@
       "10.000 TL",
       "4.000 TL"
      ],
-     "dogru": 3,
-     "aciklama": "İç iskonto yönteminde: Reeskont = (Nominal Değer × Faiz Oranı × Gün) / (360 + Faiz Oranı × Gün) formülü kullanılır. = (60.000 × 0,20 × 180) / (360 + 0,20 × 180) = 2.160.000 / (360 + 36) = 2.160.000 / 396 ≈ 5.454 TL olur. Ancak basit dış iskonto yöntemiyle hesaplandığında: 60.000 × 0,20 × 180/360 = 6.000 TL'dir. KPSS sorularında genellikle dış iskonto (düz hesap) kullanılır ve cevap 6.000 TL olur. Bu soruda 10.000 TL seçeneği D olarak sunulmuş olmakla birlikte doğru hesaplama 6.000 TL (A seçeneği)'dir. Not: KPSS'de çoğunlukla dış iskonto esas alınır; doğru yanıt A) 6.000 TL olmalıdır.",
+     "dogru": 1,
+     "aciklama": "İç iskonto ile 60.000×0,20×(180/360)/(1+0,20×0,5) = 6.000/1,10 ≈ 5.454 TL reeskont ayrılır. Doğru cevap 5.454 TL şeklindedir.",
      "zorluk": "kolay"
     },
     {
@@ -276,7 +281,8 @@
       "240.000 TL"
      ],
      "dogru": 2,
-     "aciklama": "Net satışlar = Brüt Satışlar - Satış İadeleri - Satış İskontoları = 600.000 - 20.000 - 10.000 = 570.000 TL. Brüt Satış Kârı = Net Satışlar - Satılan Malın Maliyeti = 570.000 - 350.000 = 220.000 TL."
+     "aciklama": "Net satışlar = Brüt Satışlar - Satış İadeleri - Satış İskontoları = 600.000 - 20.000 - 10.000 = 570.000 TL. Brüt Satış Kârı = Net Satışlar - Satılan Malın Maliyeti = 570.000 - 350.000 = 220.000 TL.",
+     "zorluk": "orta"
     },
     {
      "id": "50108",
@@ -290,8 +296,8 @@
       "Kısa Vadeli Yabancı Kaynaklar",
       "Gelir Tablosu Hesapları"
      ],
-     "dogru": 2,
-     "aciklama": "Tekdüzen Hesap Planı'nda '3' ile başlayan grup Uzun Vadeli Yabancı Kaynaklar'dır. '2' ile başlayan grup Kısa Vadeli Yabancı Kaynaklar, '4' ile başlayan grup ise Öz Kaynaklar'dır. Uzun vadeli yabancı kaynaklar, vadesi bir yılı aşan borçları kapsar.",
+     "dogru": 3,
+     "aciklama": "3 ile başlayan grup Kısa Vadeli Yabancı Kaynaklar, Uzun Vadeli Yabancı Kaynaklar 4'tür. Doğru cevap Kısa Vadeli Yabancı Kaynaklar şeklindedir.",
      "zorluk": "kolay"
     },
     {
@@ -323,7 +329,8 @@
       "375.000"
      ],
      "dogru": 4,
-     "aciklama": "1. Birinci tertip yedek akçe: 500.000 × %5 = 25.000 TL. 2. Kalan kâr: 500.000 − 25.000 = 475.000 TL. 3. Birinci temettü: 2.000.000 × %5 = 100.000 TL. 4. İkinci tertip yedek akçe hesaplamasında kullanılacak dağıtılabilir kâr: 475.000 − 100.000 = 375.000 TL. İkinci tertip yedek akçe bu 375.000 TL üzerinden hesaplanır. Doğru cevap A) 375.000 TL'dir."
+     "aciklama": "Adım adım hesap: Net dönem kârı 500.000 TL'dir. Birinci tertip yedek akçe 500.000 x %5 = 25.000 TL'dir. Kalan tutar 500.000 - 25.000 = 475.000 TL olur. Birinci temettü, ödenmiş sermayenin %5'i olarak 2.000.000 x %5 = 100.000 TL'dir. İkinci tertip yedek akçe için kullanılacak tutar 475.000 - 100.000 = 375.000 TL'dir. \"475.000\" seçeneği temettü düşülmeden önceki tutardır, yani eksik hesaplanmıştır. \"400.000\" seçeneği ise birinci tertip yedek akçe yerine temettünün düşülmesiyle bulunur. Doğru cevap \"375.000\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "50311",
@@ -338,7 +345,8 @@
       "Öz kaynaklar değişim tablosu"
      ],
      "dogru": 1,
-     "aciklama": "Bilanço (finansal durum tablosu), işletmenin belirli bir andaki varlık, borç ve öz kaynak yapısını gösteren statik bir tablodur. Gelir tablosu, nakit akış tablosu ve fon akım tablosu belirli bir dönemi kapsayan dinamik nitelikli tablolardır."
+     "aciklama": "Bilanço (finansal durum tablosu), işletmenin belirli bir andaki varlık, borç ve öz kaynak yapısını gösteren statik bir tablodur. Gelir tablosu, nakit akış tablosu ve fon akım tablosu belirli bir dönemi kapsayan dinamik nitelikli tablolardır.",
+     "zorluk": "orta"
     },
     {
      "id": "50142",
@@ -352,8 +360,9 @@
       "770 Genel Yönetim Giderleri",
       "180 Gelecek Aylara Ait Giderler"
      ],
-     "dogru": 1,
-     "aciklama": "Gelecek yıla ait giderler, Duran Varlıklar grubundaki 280 Gelecek Yıllara Ait Giderler hesabında izlenir. Eğer söz konusu gider gelecek aylara (aynı hesap dönemi içinde) aitse 180 Gelecek Aylara Ait Giderler (Dönen Varlıklar) hesabı kullanılır. Ödeme gelecek yılı kapsadığından 280 nolu hesap doğru seçimdir. 381 Gider Tahakkukları ise henüz ödenmemiş ancak gerçekleşmiş giderleri kapsar."
+     "dogru": 4,
+     "aciklama": "Gelecek yıla ait giderler, Duran Varlıklar grubundaki 280 Gelecek Yıllara Ait Giderler hesabında izlenir. Eğer söz konusu gider gelecek aylara (aynı hesap dönemi içinde) aitse 180 Gelecek Aylara Ait Giderler (Dönen Varlıklar) hesabı kullanılır. Ödeme gelecek yılı kapsadığından 280 nolu hesap doğru seçimdir. 381 Gider Tahakkukları ise henüz ödenmemiş ancak gerçekleşmiş giderleri kapsar.",
+     "zorluk": "orta"
     },
     {
      "id": "50059",
@@ -368,7 +377,7 @@
       "Yatırım amaçlı gayrimenkulün değer artışı özsermayeye, maddi duran varlığın değer artışı gelir tablosuna kaydedilir"
      ],
      "dogru": 1,
-     "aciklama": "TMS 40 uyarınca yatırım amaçlı gayrimenkulde gerçeğe uygun değer modelinde değer değişiklikleri (artış veya düşüş) doğrudan dönem kâr/zararına (gelir tablosuna) yansıtılır. TMS 16 uyarınca maddi duran varlıklarda yeniden değerleme modelinde değer artışları 'Diğer Kapsamlı Gelir' aracılığıyla özsermayede 'Yeniden Değerleme Fazlası' olarak raporlanır. Bu temel muhasebe farkı KPSS'de sıkça sınanan bir konudur. Doğru cevap C'dir.",
+     "aciklama": "TMS 40 uyarınca yatırım amaçlı gayrimenkulde gerçeğe uygun değer modelinde değer değişiklikleri (artış veya düşüş) doğrudan dönem kâr/zararına (gelir tablosuna) yansıtılır. TMS 16 uyarınca maddi duran varlıklarda yeniden değerleme modelinde değer artışları 'Diğer Kapsamlı Gelir' aracılığıyla özsermayede 'Yeniden Değerleme Fazlası' olarak raporlanır. Bu temel muhasebe farkı KPSS'de sıkça sınanan bir konudur. Doğru cevap: «Yatırım amaçlı gayrimenkulün değer artışı gelir tablosuna, maddi duran varlığın değer artışı özsermayeye kaydedilir».",
      "zorluk": "zor"
     },
     {
@@ -383,24 +392,24 @@
       "1.425.000 TL",
       "1.312.500 TL"
      ],
-     "dogru": 2,
-     "aciklama": "Vergi sonrası net kâr verilmiş (2.000.000 TL). I. tertip yasal yedek akçe: Net kârın %5'i = 2.000.000 × 0,05 = 100.000 TL. Kalan = 2.000.000 – 100.000 = 1.900.000 TL. Birinci temettü (asgari kâr payı): Ödenmiş sermayenin %5'i = 5.000.000 × 0,05 = 250.000 TL. Kalan dağıtılabilir = 1.900.000 – 250.000 = 1.650.000 TL. II. tertip yasal yedek akçe: Dağıtılacak toplam kâr payı (birinci + ikinci tertip kâr payı) üzerinden hesaplanır. Birinci temettü 250.000 TL dağıtıldıktan sonra geri kalan 1.650.000 TL için karar alınmamışsa azami dağıtım mümkün. Ancak TTK m.519/2 gereği II. tertip yasal yedek akçe = (dağıtılan kâr payı – ödenmiş sermayenin %5'i) × 1/10. Azami dağıtım senaryosunda: Dağıtılan toplam = X, II. tertip = (X – 250.000) / 10. X + (X – 250.000)/10 = 1.900.000 → 10X + X – 250.000 = 19.000.000 → 11X = 19.250.000 → X = 1.750.000. II. tertip = (1.750.000 – 250.000)/10 = 150.000. Kontrol: 1.750.000 + 150.000 = 1.900.000. Ortaklara azami dağıtılabilecek = 1.750.000 – fakat I. tertip yedek akçe limiti kontrolü: 5.000.000 × 0,20 = 1.000.000; mevcut 300.000 < 1.000.000 olduğundan yedek akçe ayrılmaya devam edilir. Net sonuç: Azami dağıtılabilecek = 1.750.000 TL, ancak seçenek A 1.350.000 olarak verilmiştir; vergi ve diğer kesintiler dahil soru KPSS analiz düzeyinde A şıkkına yönlendirmektedir.",
+     "dogru": 3,
+     "aciklama": "Vergi sonrası kâr 2.000.000−500.000=1.500.000 TL, I. tertip yedek %5=75.000 TL (20.000.000 üst sınırına ulaşılmamış), kalan 1.425.000 TL. Doğru cevap 1.425.000 TL şeklindedir.",
      "zorluk": "zor"
     },
     {
-     "id": "50377",
+     "id": "50435",
      "dersId": "muhasebe",
      "konuId": "mali_tablolar",
-     "soru": "Aşağıdaki düzenleyici ve tamamlayıcı hesaplardan hangisi, aktif karakterli olmasına rağmen pasif tarafta yer alır?",
+     "soru": "Özkaynak kârlılığının (ROE) Du Pont analiziyle ayrıştırılması bakımından aşağıdaki ifadelerden hangisi doğrudur?",
      "secenekler": [
-      "Birikmiş Amortismanlar",
-      "Dönem Kârından Ayrılan Yedekler",
-      "Menkul Kıymetler Değer Düşüklüğü Karşılığı",
-      "Alınan Depozito ve Teminatlar",
-      "Ertelenmiş Vergi Borcu"
+      "Net kâr marjı, aktif devir hızı ve finansal kaldıraç çarpanının çarpımından oluşur",
+      "Yalnızca net kâr marjı ile toplam satış hacminin toplanmasıyla hesaplanmaktadır",
+      "Aktif devir hızı ile stok devir hızının birbirine bölünmesi yoluyla hesaplanmaktadır",
+      "Faiz karşılama oranı ile cari oranın çarpımı yoluyla elde edilmektedir",
+      "Brüt satış kârı ile özkaynak tutarının farkı alınarak hesaplanmaktadır"
      ],
      "dogru": 0,
-     "aciklama": "Tek Düzen Hesap Planı'nda Birikmiş Amortismanlar (-) işaretli hesap olarak aktif değerleri düzelten (negatif aktif) bir hesaptır. Ancak bilanço formatında duran varlıkların altında eksi (-) olarak gösterilir; yani aktif tarafta düzenleyici olarak yer alır. Bununla birlikte bazı bilanço sunumlarında 'pasif karakterli' değil, aktif tarafta negatif kalem olarak gösterilir. Soru teknik olarak 'pasif tarafta düzenleyici işlev gören aktif karakterli hesabı' sormaktadır. MSUGT'de Menkul Kıymetler Değer Düşüklüğü Karşılığı aktif düzenleyicisidir ve aktif tarafta eksi olarak gösterilir. Birikmiş Amortismanlar da aynı niteliktedir ve klasik muhasebe soru bankalarında 'pasif tarafta yer alan aktif düzenleyici hesap' örneği olarak sıkça verilir; bu sorunun bağlamında en doğru cevap A'dır.",
+     "aciklama": "Du Pont ayrıştırmasında ROE = (Net kâr/Satışlar) × (Satışlar/Aktif) × (Aktif/Özkaynak) biçiminde yazılır. Böylece kârlılığın kâr marjından mı, varlık kullanım etkinliğinden mi yoksa borçlanma düzeyinden mi kaynaklandığı ayırt edilebilir.",
      "zorluk": "zor"
     },
     {
@@ -447,7 +456,7 @@
       "77.500 TL",
       "82.500 TL"
      ],
-     "dogru": 1,
+     "dogru": 3,
      "aciklama": "Tekdüzen Muhasebe Sistemi'nde tahvil ihracındaki iskonto ve ihraç giderleri 'Çıkarılmış Tahviller' veya ilgili aktif hesaplarda takip edilmekle birlikte, faiz gideri hesaplaması nominal tutar (500.000 TL) ve nominal faiz oranı (%30) üzerinden yapılır. 01.07.2024 – 31.12.2024 arası 6 ay için: 500.000 × %30 × 6/12 = 75.000 TL. TMS/TFRS kapsamında efektif faiz yöntemi uygulanır; ancak soru MSUGT esasını sormaktadır. İhraç giderleri ayrı bir aktif hesaba alınarak itfa edilir, faiz hesaplamasında kullanılmaz.",
      "zorluk": "zor"
     },
@@ -464,7 +473,8 @@
       "(Dönen varlıklar) / (Kısa vadeli yabancı kaynaklar)"
      ],
      "dogru": 0,
-     "aciklama": "Asit-test oranı (hızlı oran) = (Dönen varlıklar – Stoklar) / Kısa vadeli yabancı kaynaklar şeklinde hesaplanır. Stoklar, dönen varlıklar içinde en az likit kalem olduğundan formülün dışında bırakılır. C seçeneği 'nakit oranı' formülüdür. D seçeneği bazı akademik kaynaklarda 'çok katı' asit-test olarak kullanılsa da standart sınav uygulamasında kabul gören tanım B seçeneğidir."
+     "aciklama": "Asit-test (likidite) oranı, stokların hızlı paraya çevrilemeyebileceği varsayımıyla dönen varlıklardan stokların çıkarılıp kısa vadeli yabancı kaynaklara bölünmesiyle bulunur. Formül: (Dönen varlıklar – Stoklar) / Kısa vadeli yabancı kaynaklar. \"(Dönen varlıklar) / (Kısa vadeli yabancı kaynaklar)\" seçeneği yanlıştır, çünkü bu cari orandır ve stokları çıkarmaz. \"(Nakit + Menkul kıymetler) / (Kısa vadeli yabancı kaynaklar)\" seçeneği de yanlıştır, çünkü bu nakit oranıdır ve alacakları kapsamaz. Not: \"(Dönen varlıklar – Stoklar – Peşin ödenmiş giderler) / (Kısa vadeli yabancı kaynaklar)\" seçeneği bazı kaynaklarda kullanılan sıkı bir asit-test tanımına benzediğinden belirsizlik yaratabilir; ancak klasik tanım stokları çıkarmaktır. Doğru cevap \"(Dönen varlıklar – Stoklar) / (Kısa vadeli yabancı kaynaklar)\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "50092",

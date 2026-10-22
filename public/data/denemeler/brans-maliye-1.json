@@ -35,13 +35,13 @@
      "soru": "Kamu tercihi teorisinde bürokrasinin bütçe büyütme davranışını modelleyen Niskanen modeline getirilen en güçlü teorik eleştiri aşağıdakilerden hangisidir?",
      "secenekler": [
       "Çıktı yerine bütçe maksimizasyonunu hedef olarak belirlemesi, bürokratların gerçekte izin verilen bütçenin tamamını kullanmak yerine çıktıyı artırmayı tercih ettiğini gözden kaçırır.",
-      "Modelde sponsor (yasama komitesi) ile bürokrat arasındaki bilgi asimetrisi dikkate alınmamakta; komite gerçek maliyetleri bilebilir.",
+      "Modelde sponsor konumundaki yasama komitesi ile bürokrat arasındaki bilgi asimetrisi hiç dikkate alınmamakta; komitenin gerçek maliyetleri eksiksiz bilebileceği varsayılmaktadır. Bu varsayım eleştirilir.",
       "Modelin öngördüğü bütçe büyümesi ampirik olarak doğrulanmıştır; dolayısıyla teorik eleştiri yerinde değildir.",
-      "Model yalnızca merkezi hükümet bürokrasisi için geçerli olup yerel yönetim bürokratlarının davranışını açıklayamaz.",
+      "Model yalnızca merkezî hükümet bürokrasisi için geçerli olup yerel yönetim bürokratlarının davranışını açıklayamaz.",
       "Model, bürokratların salt kamu yararı güttüğünü varsayarak kişisel çıkar güdüsünü görmezden gelir."
      ],
      "dogru": 0,
-     "aciklama": "Niskanen modelinde bürokrat, çıktı maksimizasyonu yerine bütçe maksimizasyonu yapar ve sponsor karşısında maliyet bilgisindeki üstünlüğünü kullanarak bütçeyi sosyal optimumun iki katına kadar çıkarabilir. Modele yönelik en güçlü teorik eleştiri, bürokratların maksimize ettiğinin bütçenin tamamı değil, 'ihtiyari bütçe' (discretionary budget) olduğu yönündedir; bunun yanı sıra Migué ve Bélanger gibi yazarlar bürokratların aslında X-verimsizliği yaratmak için çıktı üretmeksizin bütçeyi örgütsel rant (slack) biçiminde kullandığını öne sürmüştür. Bu eleştiri, hedef fonksiyonunun yalnızca bütçe büyüklüğüne indirgenmesine karşı çıkmaktadır (D şıkkı).",
+     "aciklama": "Niskanen modeli, bürokratın kendi çıkarı doğrultusunda bütçesini maksimize ettiğini varsayar. Modele yöneltilen en güçlü teorik eleştiri, başta Migué ve Bélanger olmak üzere, bu hedef fonksiyonuna yöneliktir. Bürokratın bütçenin tamamını değil, takdirine bağlı harcanabilir artığı ya da çıktı ile artık arasındaki bir bileşimi gözettiği ileri sürülür. Bu nedenle bütçe maksimizasyonunu tek amaç sayan varsayım sorgulanır. \"Modelde sponsor konumundaki yasama komitesi...\" seçeneği yanlıştır, çünkü Niskanen bilgi asimetrisini yok saymaz. Tersine, modelin temeli bürokratın maliyet bilgisini tekelinde tutması ve sponsorun pasif kalmasıdır. Eleştiri, komitenin her şeyi bildiği varsayımına değil, sponsorun bilgisiz ve güçsüz kabul edilmesine yöneliktir. \"Model, bürokratların salt kamu yararı güttüğünü varsayarak...\" seçeneği de yanlıştır, çünkü model zaten kişisel çıkar güdüsüne dayanır. Doğru cevap \"Çıktı yerine bütçe maksimizasyonunu hedef olarak belirlemesi, bürokratların gerçekte izin verilen bütçenin tamamını kullanmak yerine çıktıyı artırmayı tercih ettiğini gözden kaçırır.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -53,11 +53,12 @@
       "Savaş veya kriz dönemlerinde harcamaların yükselmesi, kriz sonrasında toplumun daha yüksek vergi yüküne tolerans göstermesi",
       "Uluslararası finansal kuruluşların dayattığı harcama artışı koşulları",
       "Wagner Kanunu'nun öngördüğü sanayileşme sürecindeki doğal genişleme",
-      "Merkez bankasının para arzını artırmasıyla kamu harcamalarının otomatik olarak genişlemesi",
+      "Merkez bankasının para arzını artırmasıyla birlikte kamu harcamalarının otomatik olarak genişlemesi ve kalıcılaşması ve kalıcılaşması",
       "Seçmenlerin bütçe büyüklüğünü her dönem oylamayla belirlemesi"
      ],
      "dogru": 0,
-     "aciklama": "Peacock ve Wiseman (1961), kamu harcamalarının aşamalı değil sıçramalı biçimde arttığını gözlemleyerek 'displacement effect' hipotezini geliştirmiştir. Buna göre savaş, ekonomik kriz gibi olağanüstü dönemlerde kamu harcamaları zorunlu olarak yükselir. Bu süreçte toplum daha yüksek vergi yüküne alışır (vergi toleransı artar). Olağanüstü dönem sona erdiğinde harcamalar eski düzeye inmez; daha yüksek bir dengeye (yeni plato) oturur. Bu sıçramalı artış modeli, Wagner'in sürekli büyüme tezinden farklıdır."
+     "aciklama": "Peacock ve Wiseman (1961), kamu harcamalarının aşamalı değil sıçramalı biçimde arttığını gözlemleyerek 'displacement effect' hipotezini geliştirmiştir. Buna göre savaş, ekonomik kriz gibi olağanüstü dönemlerde kamu harcamaları zorunlu olarak yükselir. Bu süreçte toplum daha yüksek vergi yüküne alışır (vergi toleransı artar). Olağanüstü dönem sona erdiğinde harcamalar eski düzeye inmez; daha yüksek bir dengeye (yeni plato) oturur. Bu sıçramalı artış modeli, Wagner'in sürekli büyüme tezinden farklıdır.",
+     "zorluk": "orta"
     },
     {
      "id": "48479",
@@ -88,7 +89,7 @@
       "Ekonomik sınıflandırma, harcamaların cari-sermaye ayrımı ile transfer niteliğini ortaya koymakta ve bütçe analitik tablolarının temelini oluşturmaktadır."
      ],
      "dogru": 1,
-     "aciklama": "Bu ifade çift hata içermektedir. Birincisi, analitik bütçe sınıflandırmasında program sınıflandırması yer almakta olup bu sınıflandırma kurumsal sınıflandırmanın bir alt bileşeni olarak uygulanmaya devam etmektedir. İkincisi, Türkiye program bütçe sistemini 1973'te tamamen 'terk etmemiş'; tarihsel süreçte çeşitli reformlarla uygulanmış ve analitik bütçe sınıflandırmasına dahil edilmiştir. Analitik bütçe sınıflandırması; kurumsal, fonksiyonel, finansman tipi ve ekonomik sınıflandırma olmak üzere dört ana bileşenden oluşmaktadır. Program sınıflandırması kurumsal sınıflandırma içinde üçüncü düzey olarak yer alır. Bu nedenle E şıkkı yanlıştır.",
+     "aciklama": "Türkiye'de analitik bütçe sınıflandırması kurumsal, fonksiyonel, finansman tipi ve ekonomik sınıflandırma düzeylerinden oluşur. Program bütçe uygulaması Türkiye'de 1970'li yıllarda başlamıştır, yani 1973'te terk edilmemiş, o dönemde benimsenmiştir. Bu nedenle program sınıflandırmasının yer almama gerekçesi olarak verilen tarih ve bilgi yanlıştır. Ayrıca bugünkü sistem performans esaslı bütçeleme ile program ve faaliyet yapısını da içerir. \"Fonksiyonel sınıflandırma, COFOG standartlarına dayanmakta...\" ifadesi doğrudur, çünkü bu sınıflandırma harcamaları amaçlarına göre gruplandırır. \"Kurumsal sınıflandırma, harcama yetkisinin hangi birimde toplandığını gösterir ve dört düzeyden oluşur.\" ifadesi de doğrudur. Doğru cevap \"Analitik bütçe sınıflandırmasında program sınıflandırması yer almaz; çünkü Türkiye program bütçe sistemini 1973'te tamamen terk etmiştir.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -136,7 +137,8 @@
       "Marjinal tüketim eğilimi arttıkça kamu harcamaları çarpanı küçülür."
      ],
      "dogru": 0,
-     "aciklama": "Kamu harcamaları çarpanı 1/(1-c) iken vergi çarpanı -c/(1-c) formülüyle bulunur. c marjinal tüketim eğilimini temsil eder ve 0 < c < 1 olduğundan 1/(1-c) her zaman c/(1-c)'den büyüktür. Denge bütçesi çarpanı ise 1'e eşittir (sıfır değil). Seçenek C yanlıştır çünkü c arttıkça çarpan büyür. Seçenek D'de c'nin marjinal tasarruf eğilimi olduğu iddiası yanlıştır; c marjinal tüketim eğilimidir."
+     "aciklama": "Basit Keynesyen modelde kamu harcamaları çarpanı 1/(1-c), vergi çarpanı ise -c/(1-c) olarak hesaplanır. Burada c marjinal tüketim eğilimidir ve 0 ile 1 arasında yer alır. Vergi değişikliği harcanabilir geliri etkiler ve bunun yalnızca c kadarı tüketime yansır. Bu yüzden harcama çarpanı vergi çarpanından mutlak değerce de büyüktür; oransal vergili ve açık ekonomi modellerinde de bu sıralama korunur. \"Denge bütçesi çarpanı sıfıra eşittir.\" seçeneği yanlıştır, çünkü iki çarpanın toplamı 1 eder. \"Kamu harcamaları çarpanı, 1/(1-c) formülüyle hesaplanır ve c marjinal tasarruf eğilimini ifade eder.\" seçeneği de yanlıştır, çünkü c marjinal tüketim eğilimidir. Marjinal tüketim eğilimi arttıkça çarpan küçülmez, büyür. Doğru cevap \"Kamu harcamaları çarpanı her zaman vergi çarpanından büyüktür.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "48513",
@@ -151,7 +153,7 @@
       "ÖTV'ye tabi bir malın daha sonra ihraç edilmesi durumunda, ödenen ÖTV iade veya mahsup yoluyla geri alınabilir."
      ],
      "dogru": 0,
-     "aciklama": "4760 sayılı ÖTV Kanunu'nda IV sayılı listedeki mallarda (dayanıklı tüketim malları, lüks mallar vb.) ÖTV matrahı, KDV hariç, ÖTV hariç satış bedeli üzerinden belirlenmektedir. KDV matrahı ise aksine ÖTV dâhil, KDV hariç tutardır. Dolayısıyla ÖTV matrahı ile KDV matrahı birbirinden farklıdır; B seçeneği yanlıştır ve sorunun cevabıdır. Diğer seçenekler doğrudur: ÖTV tek aşamalıdır, akaryakıtta maktu tarife uygulanır, ihracatta ödenen ÖTV iade edilir ve gümrükte vergiyi doğuran olay beyanname tesciline bağlıdır.",
+     "aciklama": "Soru yanlış ifadeyi sormaktadır. ÖTV tek aşamalı bir vergidir. İhraç edilen malda ödenen ÖTV iade veya mahsup yoluyla alınabilir. Akaryakıtta (I sayılı liste) vergi maktu, yani miktar esasına göre alınır. ÖTV, KDV matrahına dâhil edilir. Yani KDV matrahı, ÖTV matrahına ÖTV tutarının eklenmesiyle bulunur ve iki matrah aynı olmaz. Bu nedenle \"IV sayılı listedeki dayanıklı tüketim mallarında (beyaz eşya, elektronik) ÖTV matrahı, KDV matrahı ile aynıdır.\" ifadesi yanlıştır. Doğru cevap \"IV sayılı listedeki dayanıklı tüketim mallarında (beyaz eşya, elektronik) ÖTV matrahı, KDV matrahı ile aynıdır.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -177,13 +179,13 @@
      "soru": "Optimum vergi teorisinde Ramsey kuralı ile Diamond-Mirrlees üretim etkinliği teoremi birlikte değerlendirildiğinde, aşağıdaki politika çıkarımlarından hangisi bu iki teorinin ortak içeriğini en doğru biçimde yansıtır?",
      "secenekler": [
       "Her iki teorem de vergi sisteminin artan oranlı olması gerektiğini zorunlu kılarak sosyal refah fonksiyonundan bağımsız sonuçlar üretir.",
-      "Ramsey kuralı yalnızca monopol piyasalarda geçerliyken Diamond-Mirrlees teoremi tam rekabet piyasaları için geçerlidir; bu nedenle iki teoremin birlikte uygulanması mümkün değildir.",
+      "Ramsey kuralı yalnızca monopol piyasalarında geçerliyken Diamond-Mirrlees teoremi yalnızca tam rekabet piyasaları için geçerlidir; bu nedenle iki teoremin aynı vergi sistemi tasarımında birlikte uygulanması teorik olarak mümkün değildir. Nitekim KDV'nin ara mal istisnası da bu iki teoremden bağımsız gerekçelerle düzenlenmiştir.",
       "Her iki teorem de gelir vergisinin tüketim vergisine kesinlikle üstün olduğunu kanıtlar.",
       "Ramsey kuralı, talebi fiyata duyarsız malların daha yüksek oranda vergilendirilmesini önerirken; Diamond-Mirrlees teoremi, üretimde ara girdilerin vergilenmemesi gerektiğini söyler. İkisi birlikte değerlendirildiğinde KDV'nin ara mal istisnasının teorik dayanağı sağlanır.",
       "Ramsey kuralı üretim etkinliğini, Diamond-Mirrlees teoremi ise tüketim etkinliğini birincil hedef olarak benimser; bu nedenle iki teorem birbiriyle çelişir."
      ],
      "dogru": 3,
-     "aciklama": "Ramsey kuralı, ters esneklik ilkesi çerçevesinde talep esnekliği düşük mallara daha yüksek vergi oranı uygulanmasını önerir (etkinlik kaybını minimize etmek için). Diamond-Mirrlees teoremi ise en uygun vergi sisteminde üretim etkinliğinin korunması gerektiğini, bunun için ara girdilerin vergilenmemesi gerektiğini ortaya koyar. İki teori birlikte değerlendirildiğinde, KDV sisteminin ara mallarda indirim mekanizması (dolayısıyla sıfır efektif oran) ile uygulanmasının teorik gerekçesi oluşur. A şıkkı doğrudur.",
+     "aciklama": "Ramsey kuralına göre toplam vergi hasılatı verilmişken etkinlik kaybını en aza indirmek için talebi fiyata duyarsız (esnekliği düşük) mallar daha yüksek oranda vergilendirilmelidir. Diamond-Mirrlees teoremine göre ise, ikinci en iyi bir ortamda bile, üretimde etkinlik korunmalı ve ara mallar vergilendirilmemelidir. İki teorem birbirini tamamlar: Ramsey nihai tüketim mallarının vergilendirilmesini, Diamond-Mirrlees ise üretim aşamasının vergi dışı bırakılmasını açıklar. Bu çerçeve, KDV'de ara mal girdi vergisinin indirilebilmesinin teorik dayanağını oluşturur. \"Her iki teorem de gelir vergisinin tüketim vergisine kesinlikle üstün olduğunu kanıtlar.\" seçeneği yanlıştır; teoremler böyle bir üstünlük iddia etmez. \"Ramsey kuralı üretim etkinliğini, Diamond-Mirrlees teoremi ise tüketim etkinliğini birincil hedef olarak benimser\" seçeneği de yanlıştır; roller tersine çevrilmiştir ve teoremler çelişmez. Doğru cevap \"Ramsey kuralı, talebi fiyata duyarsız malların daha yüksek oranda vergilendirilmesini önerirken\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -210,12 +212,12 @@
      "secenekler": [
       "Tam dışlama, LM eğrisinin yatay olduğu (likidite tuzağı) durumda gerçekleşir; bu koşulda kamu harcaması artışı özel yatırımı tam olarak dışlar ve IS kayması geliri artırmaz.",
       "IS-LM modelinde kamu harcaması artışı hiçbir zaman tam dışlamaya yol açmaz çünkü LM eğrisi pratik uygulamalarda hiçbir zaman dikey olmaz.",
-      "Kısmi dışlama, LM eğrisinin dikey olduğu durumda gerçekleşir çünkü para arzı sabit olduğunda faiz artışı özel yatırımı kısmen azaltır; tam esneklik ise dışarı çekmeye neden olur.",
+      "Kısmi dışlama, LM eğrisinin dikey olduğu durumda gerçekleşir; çünkü para arzı sabit tutulduğunda faiz artışı özel yatırımı yalnızca kısmen azaltır. Faiz esnekliğinin tam olduğu durumda ise dışarı çekme (crowding in) ortaya çıkar ve özel yatırım genişler. Bu ayrım IS-LM çerçevesinde gösterilir.",
       "Dışarı çekme, para arzının sabit olduğu durumlarda kamu harcaması artışının faiz oranını düşürmesiyle gerçekleşir; bu durum yalnızca açık ekonomilerde gözlemlenebilir.",
       "Tam dışlama LM dikey, kısmi dışlama LM pozitif eğimli, dışarı çekme (crowding in) ise akseleratör etkisi ya da beklenti kanalıyla kamu harcamasının özel yatırımın kârlılığını artırdığı durumlarda ortaya çıkar; likidite tuzağında ise dışlama en az düzeydedir."
      ],
      "dogru": 4,
-     "aciklama": "IS-LM çerçevesinde: LM dikey (para talebi faize karşı tam esnek değil) ise kamu harcaması artışı faizleri yükselterek özel yatırımı tam dışlar; gelir artmaz (tam crowding out). LM pozitif eğimli (standart durum) ise faiz artar ama özel yatırım kısmen düşer; gelir kısmen artar (kısmi crowding out). LM yatay (likidite tuzağı, para talebi faize karşı sonsuz esnek) ise kamu harcaması faizi artırmaz, özel yatırım etkilenmez; tam çarpan etkisi gerçekleşir, dışlama sıfıra yaklaşır. Crowding in: kamu harcamasının altyapı, Ar-Ge, insan sermayesi kanalıyla özel yatırımın marjinal verimliliğini artırması ya da talep beklentilerini canlandırmasıyla ortaya çıkar; bu IS-LM'in standart dışı bir uzantısıdır. A şıkkı likidite tuzağını tam dışlamayla yanlış eşleştirmiştir. D şıkkındaki faiz düşüşü mekanizması hatalıdır.",
+     "aciklama": "IS-LM modelinde dışlama derecesi LM eğrisinin eğimine bağlıdır. LM dikeyse para talebi faize duyarsızdır ve mali genişleme gelirde artış yaratmaz, özel yatırım tam dışlanır. LM pozitif eğimliyse faiz kısmen yükselir, gelir de kısmen artar, dolayısıyla dışlama kısmidir. Dışarı çekme, akseleratör etkisi veya beklenti kanalıyla kamu harcamasının özel yatırımın kârlılığını artırdığı durumlarda ortaya çıkar. Likidite tuzağında LM yataydır, faiz yükselmez ve dışlama en az düzeydedir. \"Tam dışlama, LM eğrisinin yatay olduğu (likidite tuzağı) durumda gerçekleşir\" ifadesi yanlıştır, çünkü yatay LM'de dışlama yoktur. \"Kısmi dışlama, LM eğrisinin dikey olduğu durumda gerçekleşir\" ifadesi de yanlıştır; dikey LM tam dışlama verir. Doğru cevap \"Tam dışlama LM dikey, kısmi dışlama LM pozitif eğimli\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -225,13 +227,13 @@
      "soru": "KDV Kanunu'na göre, kısmi tevkifat uygulamasında alıcının tevkif ettiği KDV tutarını beyan etmemesi ve ödememesi durumunda vergi idaresi aşağıdaki hangi işlemi öncelikle yapar?",
      "secenekler": [
       "Tevkif edilen vergiyi öncelikle alıcıdan tahsil eder; satıcı, fatura ve beyan yükümlülüklerini yerine getirmişse sorumlu tutulmaz.",
-      "Kısmi tevkifatta alıcı asıl mükellef olmadığından sadece özel usulsüzlük cezası uygulanır.",
+      "Kısmi tevkifatta alıcı asıl mükellef konumunda olmadığından yalnızca özel usulsüzlük cezası uygulanır ve vergi aslı aranmaz. Vergi aslı ise aranmaz.",
       "Alıcı ve satıcı mükelleften ayrı ayrı tam tutar üzerinden vergi ziyaı cezası keser.",
-      "Satıcı mükelleften tarhiyat yaparak tamamını tahsil eder, satıcı rücu hakkını kullanır.",
+      "Satıcı mükelleften tarhiyat yapılarak verginin tamamı tahsil edilir; satıcı da alıcıya rücu hakkını kullanır.",
       "Satıcı ve alıcı müteselsil sorumlu tutulur, toplam verginin iki katı ceza kesilir."
      ],
      "dogru": 0,
-     "aciklama": "KDV Genel Uygulama Tebliği'ne göre kısmi tevkifatlarda, alıcı vergi sorumlusu sıfatıyla tevkif ettiği KDV'yi beyan edip ödemekle yükümlüdür. Vergi idaresi tevkif edilen kısmı öncelikle alıcıdan (vergi sorumlusundan) takip eder. Satıcı üzerine düşen yükümlülükleri (fatura düzenleme, kalan KDV'yi beyan etme) yerine getirmişse, alıcının ödememesinden doğan eksiklik için satıcıya başvurulmaz. Bu nedenle C şıkkı doğrudur.",
+     "aciklama": "KDV Kanunu'nun 9. maddesi uyarınca kısmi tevkifatta alıcı, vergiyi sorumlu sıfatıyla beyan edip öder. Alıcı bunu yapmazsa idare, tevkif edilen vergiyi öncelikle sorumlu olan alıcıdan arar. Satıcı fatura ve beyan yükümlülüklerini yerine getirmişse tevkif edilen KDV bakımından sorumlu tutulmaz. \"Satıcı mükelleften tarhiyat yapılarak verginin tamamı tahsil edilir; satıcı da alıcıya rücu hakkını kullanır.\" ifadesi yanlıştır. Çünkü sorumluluk öncelikle alıcıdadır. \"Kısmi tevkifatta alıcı asıl mükellef konumunda olmadığından yalnızca özel usulsüzlük cezası uygulanır ve vergi aslı aranmaz.\" ifadesi de yanlıştır. Vergi aslı alıcıdan aranır ve vergi ziyaı cezası gündeme gelebilir. Doğru cevap \"Tevkif edilen vergiyi öncelikle alıcıdan tahsil eder\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -295,7 +297,8 @@
       "Nüfus artışına bağlı sağlık harcamalarının yükselmesi"
      ],
      "dogru": 2,
-     "aciklama": "Kamu harcamalarının görünürde (itibari/nominal) artışı, harcamaların gerçek (reel) büyüklüğünde bir değişme olmaksızın fiyatlar genel düzeyinin artmasından kaynaklanabilir. Bu durum 'aldatıcı artış' ya da 'safi olmayan artış' olarak adlandırılır. Gerçek bir artıştan söz edebilmek için harcamaların reel olarak (enflasyondan arındırılmış biçimde) yükselmesi gerekir. Diğer şıklarda sayılan nedenler ise kamu harcamalarında gerçek bir artışa yol açar."
+     "aciklama": "Kamu harcamalarının görünürde (itibari/nominal) artışı, harcamaların gerçek (reel) büyüklüğünde bir değişme olmaksızın fiyatlar genel düzeyinin artmasından kaynaklanabilir. Bu durum 'aldatıcı artış' ya da 'safi olmayan artış' olarak adlandırılır. Gerçek bir artıştan söz edebilmek için harcamaların reel olarak (enflasyondan arındırılmış biçimde) yükselmesi gerekir. Diğer şıklarda sayılan nedenler ise kamu harcamalarında gerçek bir artışa yol açar.",
+     "zorluk": "orta"
     },
     {
      "id": "48474",
@@ -337,12 +340,13 @@
      "secenekler": [
       "Veraset ve intikal vergisi",
       "Akaryakıt özel tüketim vergisi ve karayolu kullanım ücretleri",
-      "Artan oranlı gelir vergisi",
+      "Artan oranlı gelir vergisi tarifesi ve artan oranlı servet vergisi uygulaması",
       "Katma değer vergisi",
       "Kurumlar vergisi"
      ],
      "dogru": 1,
-     "aciklama": "Fayda ilkesi, bireylerin kamu hizmetlerinden elde ettiği fayda miktarıyla orantılı vergi ödemesi gerektiğini savunur. Karayolu altyapısı ve akaryakıt vergisi, bu ilkeye en uygun örnektir: daha fazla yakıt tüketen ve yolları daha yoğun kullanan bireyler daha fazla vergi öder; bu da altyapıdan elde ettikleri faydayla doğrudan ilişkilidir. Artan oranlı gelir vergisi ve veraset vergisi ödeme gücü ilkesini yansıtır. KDV tüm tüketicilere orantılı biçimde uygulanır; fayda ilkesini doğrudan yansıtmaz."
+     "aciklama": "Fayda ilkesi, bireylerin kamu hizmetlerinden elde ettiği fayda miktarıyla orantılı vergi ödemesi gerektiğini savunur. Karayolu altyapısı ve akaryakıt vergisi, bu ilkeye en uygun örnektir: daha fazla yakıt tüketen ve yolları daha yoğun kullanan bireyler daha fazla vergi öder; bu da altyapıdan elde ettikleri faydayla doğrudan ilişkilidir. Artan oranlı gelir vergisi ve veraset vergisi ödeme gücü ilkesini yansıtır. KDV tüm tüketicilere orantılı biçimde uygulanır; fayda ilkesini doğrudan yansıtmaz.",
+     "zorluk": "orta"
     },
     {
      "id": "48268",
@@ -388,8 +392,8 @@
       "%1",
       "%20"
      ],
-     "dogru": 2,
-     "aciklama": "KDV Kanunu'na göre genel KDV oranı %18'dir. Bazı mal ve hizmetlere %1 ve %8 oranları uygulanmakta olup genel oran %18'dir. (Not: 2023 yılında yapılan düzenlemeyle genel oran %20'ye yükseltilmiş olmakla birlikte sınav kitaplarında %18 temel oran olarak öğretilmeye devam etmektedir; güncel mevzuatı kontrol ediniz.)",
+     "dogru": 4,
+     "aciklama": "Temmuz 2023'ten itibaren KDV genel oranı %18'den %20'ye yükseltilmiştir. Doğru cevap %20 şeklindedir.",
      "zorluk": "kolay"
     },
     {
@@ -405,7 +409,8 @@
       "Ön ödemeler, harcama yetkilisinin onayıyla gerçekleştirilir ve belirli süre içinde mahsup edilmesi zorunludur."
      ],
      "dogru": 1,
-     "aciklama": "Ön ödemelerde avans ve kredi limitleri, idarelerin serbestçe değil, Hazine ve Maliye Bakanlığı'nın belirleyeceği esas ve usuller çerçevesinde belirlenir; keyfi uygulamaya izin verilmez. Diğer şıklar doğrudur: avans henüz hak kazanılmamış ödeme; mahsup zorunluluğu ve süresi var; kredi muhasebe yetkilisi adına banka hesabına aktarılan tutardır; mahsup edilemeyen avanslar iade ve gelir kaydına tabi tutulur."
+     "aciklama": "Ön ödemelerde avans ve kredi limitleri, idarelerin serbestçe değil, Hazine ve Maliye Bakanlığı'nın belirleyeceği esas ve usuller çerçevesinde belirlenir; keyfi uygulamaya izin verilmez. Diğer şıklar doğrudur: avans henüz hak kazanılmamış ödeme; mahsup zorunluluğu ve süresi var; kredi muhasebe yetkilisi adına banka hesabına aktarılan tutardır; mahsup edilemeyen avanslar iade ve gelir kaydına tabi tutulur.",
+     "zorluk": "orta"
     },
     {
      "id": "48041",
@@ -420,7 +425,8 @@
       "Vergi tabanının dar olması nedeniyle gelir temelli vergilemenin yetersiz kalması"
      ],
      "dogru": 2,
-     "aciklama": "Fayda ilkesi, vergi yükümlülerinin kamu hizmetlerinden sağladıkları faydayla orantılı ödeme yapmasını öngörür. Bu ilkenin uygulanabilmesi için hizmetten kimin ne kadar fayda sağladığının ölçülebilmesi ve bireyselleştirilebilmesi gerekir (örneğin karayolu kullanımı, köprü geçişi). Gelir yeniden dağılımı amacı taşıyan hizmetlerde ödeme gücü ilkesi daha uygundur. Ölçek ekonomisi ya da dar vergi tabanı fayda ilkesinin seçimini belirleyen kıstaslar değildir."
+     "aciklama": "Fayda ilkesi, vergi yükümlülerinin kamu hizmetlerinden sağladıkları faydayla orantılı ödeme yapmasını öngörür. Bu ilkenin uygulanabilmesi için hizmetten kimin ne kadar fayda sağladığının ölçülebilmesi ve bireyselleştirilebilmesi gerekir (örneğin karayolu kullanımı, köprü geçişi). Gelir yeniden dağılımı amacı taşıyan hizmetlerde ödeme gücü ilkesi daha uygundur. Ölçek ekonomisi ya da dar vergi tabanı fayda ilkesinin seçimini belirleyen kıstaslar değildir.",
+     "zorluk": "orta"
     },
     {
      "id": "48282",
@@ -429,13 +435,14 @@
      "soru": "Vergi hukukunda 'peçeleme' (muvazaa) kavramı en iyi hangi seçenekle açıklanır?",
      "secenekler": [
       "Mükelleflerin yasal istisnalardan yararlanması",
-      "Kayıt dışı ekonominin resmi verilere yansıtılmaması",
+      "Kayıt dışı ekonominin resmî verilere hiç yansıtılmaması ve vergi matrahına dâhil edilmemesi",
       "Gerçek bir hukuki ilişkiyi gizlemek amacıyla görünürde farklı bir işlem yapılması",
       "Beyannamenin yasal süre dışında verilmesi",
       "Vergi borcunun taksitlendirilmesi"
      ],
      "dogru": 2,
-     "aciklama": "Peçeleme (muvazaa), tarafların gerçek amaçlarını gizlemek için görünürde farklı bir hukuki işlem yapmasıdır. Vergi hukukunda bu; daha az vergi ödemek amacıyla gerçek bir satış işlemini kira sözleşmesi olarak göstermek gibi örneklerle karşımıza çıkar. VUK'un 3/B maddesi uyarınca vergi idaresi, ekonomik gerçekliğe ve tarafların gerçek iradesine bakarak bu tür işlemleri yeniden nitelendirebilir."
+     "aciklama": "Peçeleme (muvazaa), tarafların gerçek amaçlarını gizlemek için görünürde farklı bir hukuki işlem yapmasıdır. Vergi hukukunda bu; daha az vergi ödemek amacıyla gerçek bir satış işlemini kira sözleşmesi olarak göstermek gibi örneklerle karşımıza çıkar. VUK'un 3/B maddesi uyarınca vergi idaresi, ekonomik gerçekliğe ve tarafların gerçek iradesine bakarak bu tür işlemleri yeniden nitelendirebilir.",
+     "zorluk": "orta"
     },
     {
      "id": "48158",
@@ -450,7 +457,8 @@
       "Kamu harcamaları ile vergilerin eşit miktarda artırılması milli geliri çarpan etkisiyle birkaç kat artırır."
      ],
      "dogru": 2,
-     "aciklama": "Haavelmo (Denk Bütçe) Teoremi'ne göre kamu harcamaları ve vergiler eşit miktarda artırıldığında (ΔG = ΔT) net çarpan etkisi 1'e eşittir; yani milli gelir harcama artışı kadar yükselir. Bunun sebebi, harcama çarpanı (1/(1-c)) ile vergi çarpanının (-c/(1-c)) toplamının 1 olmasıdır. Teoreme göre bütçe dengesi bozulmasa bile genişleyici maliye politikası uygulanabilir; bu önemli bir politika çıkarımıdır."
+     "aciklama": "Haavelmo (Denk Bütçe) Teoremi'ne göre kamu harcamaları ve vergiler eşit miktarda artırıldığında (ΔG = ΔT) net çarpan etkisi 1'e eşittir; yani milli gelir harcama artışı kadar yükselir. Bunun sebebi, harcama çarpanı (1/(1-c)) ile vergi çarpanının (-c/(1-c)) toplamının 1 olmasıdır. Teoreme göre bütçe dengesi bozulmasa bile genişleyici maliye politikası uygulanabilir; bu önemli bir politika çıkarımıdır.",
+     "zorluk": "orta"
     },
     {
      "id": "48515",

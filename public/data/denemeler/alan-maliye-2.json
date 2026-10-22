@@ -25,7 +25,7 @@
       "Üç fonksiyon arasındaki sınır teorik olarak anlamsızdır; merkez bankası bağımsızlığı yalnızca kurumsal bir tercih meselesidir ve makroekonomik sonuçları bugüne kadar hiçbir çalışmayla kanıtlanmış değildir. Bu nedenle senyoraj gelirinin bölüşüm üzerindeki etkisi de yalnızca teorik bir tartışma konusu olarak kalmakta, uygulamada ölçülememektedir."
      ],
      "dogru": 3,
-     "aciklama": "Musgrave'e göre stabilizasyon fonksiyonu (fiyat istikrarı, tam istihdam) merkez bankası bağımsızlığıyla en güçlü kurumsal bağı kurar. Hazineye doğrudan para basma yetkisi verilmesi, maliye politikasını para politikasının önüne geçirerek stabilizasyon fonksiyonunu maliye politikasına tabi kılar. Bu durumda: (1) Seigniorage geliri kısa vadede bütçe açıklarını kapatır; (2) Enflasyon vergisi sabit ve düşük gelirli kesimleri orantısız etkiler (bölüşüm bozulması); (3) Merkez bankası güvenilirliği sarsılarak enflasyon beklentileri çıpalanmaz hale gelir. D seçeneği bu üç mekanizmayı en kapsamlı biçimde açıklamaktadır. B seçeneği kısmen doğru olmakla birlikte 'fonksiyonlar arasındaki sınırı' yanlış tanımlamaktadır.",
+     "aciklama": "Musgrave'e göre kamu maliyesinin üç fonksiyonu kaynak tahsisi, bölüşüm ve stabilizasyondur. Merkez bankasının hazineye doğrudan para basma yoluyla finansman sağlaması, para politikasını maliye politikasına tabi kılar. Bu durumda fiyat istikrarı birincil hedef olmaktan çıkar. Hazine senyoraj gelirine bağımlı hale gelir ve bu bağımlılık enflasyon vergisi yoluyla ödenir. Enflasyon vergisi, nominal gelirleri fiyat artışına ayak uyduramayan sabit gelirli kesimleri orantısız biçimde etkiler. Böylece stabilizasyon amacı zayıflar ve bölüşüm olumsuz etkilenir. \"Stabilizasyon ile bölüşüm fonksiyonları arasındaki sınırı ortadan kaldırır\" seçeneği, sınırın ortadan kalktığını söylemesi ve para politikasının maliye politikasına tabi kılınmasındaki asıl mekanizmayı yakalamaması nedeniyle eksiktir. \"Kaynak tahsisi ile bölüşüm fonksiyonları arasındaki sınırı ortadan kaldırır\" seçeneği ise para basma yetkisiyle doğrudan ilgili olmayan bir fonksiyon çiftini öne çıkardığı için yanlıştır. Doğru cevap \"Stabilizasyon fonksiyonu tamamen kamu maliyesinden çıkarılır; para politikasının maliye politikasına tabi kılınması...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -66,29 +66,30 @@
      "konuId": "turk_vergi_sistemi",
      "soru": "Vergi hukukunda 'peçeleme işlemi' kavramı aşağıdakilerden hangisini ifade eder?",
      "secenekler": [
-      "Vergi incelemesi sırasında defter ibraz edilmemesi",
-      "Mükellefin vergi dairesince re'sen tarhiyata muhatap tutulması",
+      "Vergi incelemesi sırasında defter ve belge ibraz edilmemesi",
+      "Mükellefin vergi dairesince re'sen tarhiyata muhatap tutulması işlemi işlemine muhatap olması",
       "Vergiyi eksik beyan etme",
       "Vergi borçlarının mirasçılara devredilmesi",
       "Gerçek hukuki durumu gizlemek amacıyla yapay işlemlerle vergi yükünden kaçınma"
      ],
      "dogru": 4,
-     "aciklama": "Peçeleme işlemi (Latince 'simulasyon' veya 'muvazaa'), mükelleflerin gerçekte yapmak istedikleri hukuki işlemi farklı bir görünüm altında gerçekleştirerek vergi yükünü azaltmaya çalışmasıdır. Vergi idaresi ve mahkemeleri, peçeleme halinde görünürdeki işlemi değil gerçek ekonomik içeriği esas alarak vergilendirme yapar. Vergi kaçakçılığından farkı; muvazaalı da olsa bir hukuki işlem yapılmış olmasıdır."
+     "aciklama": "Peçeleme işlemi (Latince 'simulasyon' veya 'muvazaa'), mükelleflerin gerçekte yapmak istedikleri hukuki işlemi farklı bir görünüm altında gerçekleştirerek vergi yükünü azaltmaya çalışmasıdır. Vergi idaresi ve mahkemeleri, peçeleme halinde görünürdeki işlemi değil gerçek ekonomik içeriği esas alarak vergilendirme yapar. Vergi kaçakçılığından farkı; muvazaalı da olsa bir hukuki işlem yapılmış olmasıdır.",
+     "zorluk": "orta"
     },
     {
-     "id": "48347",
+     "id": "48355",
      "dersId": "maliye",
      "konuId": "butce",
-     "soru": "Aşağıdakilerden hangisi bütçe açığını kapatmak için kullanılan iç borçlanma araçlarından biridir?",
+     "soru": "Bütçe açığının Merkez Bankası kaynaklarıyla finanse edilmesi aşağıdaki kavramlardan hangisiyle ifade edilir?",
      "secenekler": [
-      "Eurobond",
-      "Hazine bonosu",
-      "Dövize endeksli tahvil",
-      "SDR tahsisatı",
-      "Dış proje kredisi"
+      "Sterilizasyon",
+      "Monetizasyon (parasallaştırma)",
+      "Menkul kıymetleştirme",
+      "Konsolidasyon",
+      "Röfinansman"
      ],
      "dogru": 1,
-     "aciklama": "Hazine bonosu, devletin iç piyasada borçlanmak amacıyla çıkardığı ve vadesi 1 yılın altında olan kısa vadeli borçlanma aracıdır. Bütçe açıklarının finansmanında kullanılan iç borçlanma araçları arasında hazine bonosu ve devlet tahvili yer alır. Eurobond ve dış proje kredileri ise dış borçlanma araçlarıdır.",
+     "aciklama": "Monetizasyon (parasallaştırma), bütçe açıklarının Merkez Bankası'ndan doğrudan borçlanma yoluyla finanse edilmesidir. Bu yöntem para arzını artırdığından enflasyona yol açar ve 'enflasyon vergisi' olarak da adlandırılır. Türkiye'de 5018 sayılı Kanun ve Merkez Bankası Kanunu ile Hazine'nin Merkez Bankası'ndan kısa vadeli avans kullanması yasaklanmıştır.",
      "zorluk": "kolay"
     },
     {
@@ -116,11 +117,12 @@
       "Pozitif dışsallıkları önlemek amacıyla uygulanır; ancak arz fazlasına neden olur.",
       "Gelir dağılımını düzeltmek amacıyla uygulanır; ancak dikey eşitliği bozabilir.",
       "Negatif dışsallıkları içselleştirmek amacıyla uygulanır; ancak marjinal dışsal maliyetin doğru tespiti güçtür.",
-      "Monopol karlarını vergilendirmek amacıyla uygulanır; ancak üretim kısıtlamasına yol açar.",
-      "Kamu mallarının finansmanını sağlamak amacıyla uygulanır; ancak bedavacılık sorununu çözemez."
+      "Monopol kârlarını vergilendirmek amacıyla uygulanır; ancak üretim kısıtlamasına yol açar.",
+      "Kamu mallarının finansmanını sağlamak amacıyla uygulanır; ancak bedavacılık sorununu çözemez ve tercihleri açığa çıkaramaz."
      ],
      "dogru": 2,
-     "aciklama": "Pigou Vergisi, negatif dışsallık yaratan faaliyetlere (kirlilik, gürültü vb.) marjinal dışsal maliyet kadar vergi uygulanarak sosyal optimumun sağlanmasını hedefler. Teorik temeli sağlamdır; ancak uygulamada en büyük sorun marjinal dışsal maliyetin doğru ölçülmesinin güçlüğüdür. Kirlilik hasarı, etkilenen bireyler ve bölgeler farklılık gösterdiğinden doğru vergi düzeyini belirlemek oldukça karmaşıktır. Coase teoremi de bu noktada Pigou'ya alternatif olarak müzakere çözümünü önerir."
+     "aciklama": "Pigou Vergisi, negatif dışsallık yaratan faaliyetlere (kirlilik, gürültü vb.) marjinal dışsal maliyet kadar vergi uygulanarak sosyal optimumun sağlanmasını hedefler. Teorik temeli sağlamdır; ancak uygulamada en büyük sorun marjinal dışsal maliyetin doğru ölçülmesinin güçlüğüdür. Kirlilik hasarı, etkilenen bireyler ve bölgeler farklılık gösterdiğinden doğru vergi düzeyini belirlemek oldukça karmaşıktır. Coase teoremi de bu noktada Pigou'ya alternatif olarak müzakere çözümünü önerir.",
+     "zorluk": "orta"
     },
     {
      "id": "48114",
@@ -151,7 +153,8 @@
       "Cezada indirim yoluna başvuran mükellef, aynı zamanda uzlaşma talebinde de bulunabilir."
      ],
      "dogru": 0,
-     "aciklama": "VUK'a göre tarhiyat sonrası uzlaşmaya varılması durumunda, uzlaşılan vergi ve ceza miktarı kesinleşir ve bu tutarlar için dava açma hakkı ortadan kalkar. Vergi mahkemelerinde dava açmak için idari itiraz zorunlu değildir (idare veya yargı yolundan biri seçilebilir). Uzlaşma başvurusu süresinde dava açma süresini durdurur. Cezada indirim ve uzlaşma müesseseleri birbirinin alternatifi olup aynı anda ikisine birden başvurulamaz."
+     "aciklama": "VUK'a göre tarhiyat sonrası uzlaşmaya varılması durumunda, uzlaşılan vergi ve ceza miktarı kesinleşir ve bu tutarlar için dava açma hakkı ortadan kalkar. Vergi mahkemelerinde dava açmak için idari itiraz zorunlu değildir (idare veya yargı yolundan biri seçilebilir). Uzlaşma başvurusu süresinde dava açma süresini durdurur. Cezada indirim ve uzlaşma müesseseleri birbirinin alternatifi olup aynı anda ikisine birden başvurulamaz.",
+     "zorluk": "orta"
     },
     {
      "id": "48554",
@@ -182,7 +185,7 @@
       "Dışlanabilirlik özelliği taşımaları nedeniyle serbest binicilik sorununa yol açmaları; bu durum ayrıca aşırı arz sorununu da beraberinde getirir. Bu nedenle ortak havuz kaynakları özel mal sayılır."
      ],
      "dogru": 2,
-     "aciklama": "Ortak havuz kaynakları (balık avcılığı, yer altı suyu vb.) dışlanamaz ancak rakiptir. Saf kamu malları ise hem dışlanamaz hem de rakip değildir. Ortak havuz kaynaklarının rakip olması, bir kişinin kullanımının diğerlerinin kullanımını azaltması anlamına gelir. Dışlanamazlık ise herkesin erişimini engellemeyi zorlaştırır. Bu kombinasyon Garrett Hardin'in 'Ortak Alanın Trajedisi'nde tanımladığı aşırı kullanım sorununa yol açar. Doğru cevap B'dir.",
+     "aciklama": "Ortak havuz kaynakları (balıkçılık alanları, meralar, yeraltı suları gibi) saf kamu mallarıyla dışlanamazlık özelliğini paylaşır, ancak tüketimde rakiptirler. Yani rakip tüketim özelliği taşımaları nedeniyle birinin tüketimi diğerlerinin tüketimini azaltır; bu durum aşırı kullanım (trajedisi) sorununa yol açar. Kimse kaynaktan dışlanamadığı ve her birey kullanımının maliyetinin bir kısmını diğerlerine yüklediği için kaynak hızla tükenir; Garrett Hardin bu durumu 'ortak malların trajedisi' olarak adlandırmıştır. Saf kamu mallarında ise tüketim rakip olmadığından böyle bir tükenme sorunu doğmaz, temel sorun serbest biniciliktir.",
      "zorluk": "zor"
     },
     {
@@ -198,7 +201,7 @@
       "Sabit oranlı stopaj uygulamasıyla kayıt dışı istihdamı kayıt altına almayı hedefler."
      ],
      "dogru": 2,
-     "aciklama": "Varsayımsal (presumptive) vergileme, mükellefin gerçek geliri doğrulanmak yerine dışsal göstergelerden (sektör ortalaması, işyeri büyüklüğü, elektrik tüketimi vb.) hareketle vergi matrahı tahmin edilmesidir. Bu yaklaşım, mükellefin gerçek gelirini gizleyerek vergiyi aşındırma güdüsünü (ahlaki tehlike) azaltır; zira vergi beyan edilen kazanca değil gözlemlenebilir nesnel göstergelere dayandırılır. Böylece denetim maliyetleri düşer ve kayıt dışı sektörden vergi tahsilatı kolaylaşır. Soru doğrudan sektör ortalaması uygulamasını tarif eden A şıkkını işaret etmektedir.",
+     "aciklama": "Karın altın standardı yaklaşımında mükellefin gerçek kazancı yerine sektör ortalamaları gibi gözlenebilir göstergelere dayanan varsayımsal bir matrah esas alınır. Vergi, beyan edilen gerçek kazançtan bağımsız belirlendiği için mükellefin kazancını gizlemesi vergi yükünü azaltmaz. Bu da gerçek kazancı saklama güdüsünü zayıflatır. Standart gelir vergisi ise beyan edilen gerçek gelire dayanır ve bu nedenle gizleme güdüsü doğurur. \"Uluslararası transfer fiyatlandırması manipülasyonunu önlemek için kol mesafesi ilkesini uygular.\" seçeneği yanlıştır; çünkü kol mesafesi ilkesi çok uluslu şirketlerin kendi aralarındaki işlemlerle ilgilidir, varsayımsal vergilemeyle ilgili değildir. Doğru cevap \"Sektör ortalamaları üzerinden vergi belirlenir;\" ile başlayan seçenektir.",
      "zorluk": "zor"
     },
     {
@@ -230,7 +233,7 @@
       "Değer artışı kazancının hesaplanmasında enflasyon düzeltmesi (endeksleme) yapılabilmesi için maliyet ile satış tarihi arasındaki sürenin en az bir yıl olması ve üretici fiyat endeksindeki artışın %10'u geçmesi zorunludur."
      ],
      "dogru": 0,
-     "aciklama": "GVK m.80 ve Geçici Madde 67 çerçevesinde değerlendirildiğinde: B seçeneği doğrudur. GVK m.81 kapsamındaki istisnalar ve m.80 kapsamındaki değer artışı kazançları incelendiğinde, gayrimenkullerde elde tutma süresi 5 yıl olup iktisap tarihinden itibaren 5 tam yıl geçtikten sonra elden çıkarma vergiden müstesnadır. A seçeneği yanlıştır çünkü 5 yıl elde tutma sonrasındaki satışlar vergiden muaftır. C yanlıştır; GVK m.81 uyarınca elden çıkarmayla ilgili giderler de indirim konusu yapılabilir. D yanlıştır; BİST'te işlem gören hisse senetlerinde Geçici Madde 67 uyarınca tevkifat nihai vergi niteliği taşır ve beyan gerekmez (2006 sonrası iktisap için). E'deki %10 eşiği doğru olmakla birlikte süre koşulu olarak '1 yıl' değil, herhangi bir süre esas alınmaktadır; bu seçenek dolayısıyla yanıltıcıdır.",
+     "aciklama": "Gelir Vergisi Kanunu'nun 80. maddesine göre gayrimenkullerin iktisap tarihinden itibaren beş yıl içinde elden çıkarılmasından doğan kazançlar değer artışı kazancıdır. Beş yıldan uzun süre elde tutulan gayrimenkulün satışından doğan kazanç vergiye tabi değildir. Bu nedenle \"Tam mükellef gerçek kişilerin yurt içindeki gayrimenkullerini elden çıkarmalarından doğan kazançlar, elde tutma süresine bakılmaksızın her durumda gelir vergisine tabidir.\" ifadesi yanlıştır. \"Değer artışı kazancının tespitinde, elden çıkarma bedelinden yalnızca iktisap bedeli indirilebilir; giderler indirim konusu yapılamaz.\" ifadesi de yanlıştır, çünkü kanunda sayılan giderler iktisap bedeline eklenir. Doğru cevap \"İktisap tarihinden itibaren 5 yıl içinde elden çıkarılan gayrimenkullerden elde edilen kazanç değer artışı kazancı sayılır; 5 yılı aşan...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -246,7 +249,7 @@
       "Borçlanmanın vergiyle eşdeğer olabilmesi için bireylerin sonsuz ömürlü ya da ardışık nesiller arasında bağlayıcı miras güdüsüne sahip olmaları gerekir; bu varsayım gerçekçi değildir."
      ],
      "dogru": 4,
-     "aciklama": "Ricardocu Denklik Teoremi'nin en temel varsayımlarından biri, bireylerin (veya hanehalkının) ufuk problemini çözerken gelecek nesilleri de hesaba kattığıdır; yani sonsuz ömür ya da Barro'nun altruistik miras güdüsü varsayımı gereklidir. Ancak gerçek dünyada hanehalkları sınırlı ömürlüdür ve miras güdüsü belirsizdir; bu da teoreme yönelik en güçlü eleştiridir. A şıkkı teoremi destekleyen bir önerme olup eleştiri değildir. C şıkkı yanlıştır, Ricardocu Denklik borçlanmanın toplam talebi artırmadığını ileri sürer. D şıkkı yanlıştır, teori tam rekabetçi sermaye piyasalarını varsayar, reddetmez. E şıkkı yanlıştır, teori doğrudan Keynesyen talebi dışlayan sonuçlar doğurduğundan çelişki mevcuttur.",
+     "aciklama": "Ricardocu Denklik Teoremi, borçla finansmanın bugünkü vergilerin yerini aldığını, çünkü bireylerin borcun gelecekte vergiyle ödeneceğini bilerek bugün tasarruf ettiğini savunur. Bu sonuç ancak bireylerin sonsuz ufuklu olması ya da kuşaklar arası bağlayıcı miras güdüsüyle hareket etmesi halinde geçerlidir. Bu varsayım gerçekçi olmadığı için teoreme yöneltilen en güçlü eleştiri budur. \"Bireyler borcu geri ödeyeceklerini bildiklerinden gelecekteki vergi artışı beklentisiyle bugünden tasarrufu artırırlar...\" ifadesi eleştiri değil, teoremin kendi savıdır. \"Ricardocu Denklik, borçlanmanın kısa vadede toplam talebi artırdığını ve konjonktür politikasında etkin olduğunu kanıtlamaktadır.\" ifadesi ise teoremin tam tersini söyler. Doğru cevap \"Borçlanmanın vergiyle eşdeğer olabilmesi için bireylerin sonsuz ömürlü ya da ardışık nesiller arasında bağlayıcı miras güdüsüne sahip olmaları gerekir...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -255,7 +258,7 @@
      "konuId": "kamu_maliyesi",
      "soru": "Kamu ekonomisinde 'dışsallık' kavramı neyi ifade eder?",
      "secenekler": [
-      "Kamu harcamalarının yurt dışı kaynaklardan karşılanmasını",
+      "Kamu harcamalarının tamamen yurt dışı kaynaklardan karşılanmasını ve dış yardımla desteklenmesini",
       "Bir ekonomik faaliyetin piyasa dışındaki üçüncü kişilere maliyetsiz yansıyan etkilerini",
       "Devletin dış ticaret politikasını yönetmesini",
       "Özel sektörün kamusal alanlara yatırım yapmasını",
@@ -275,7 +278,7 @@
       "Mükellefin beyan yükümlülüğünün ortadan kalkması",
       "Mükellefin vergi borcunu ödemekten kurtulması ve devletin tahsilat hakkının düşmesi",
       "Vergi cezasının para cezasına dönüşmesi",
-      "Vergi dairesinin yeni tarh işlemi yapma yetkisi kazanması"
+      "Vergi dairesinin yeniden tarh işlemi yapma yetkisi kazanması ve geçmiş dönemleri yeniden incelemesi"
      ],
      "dogru": 2,
      "aciklama": "Vergi hukukunda zamanaşımı iki türlüdür: tarh zamanaşımı (vergi idaresinin vergiyi tarh etme hakkının düşmesi) ve tahsil zamanaşımı (tahsil hakkının düşmesi). Her iki durumda da zamanaşımı süresinin dolmasıyla devletin alacak hakkı ortadan kalkar ve mükellef hukuki açıdan koruma altına girer. Türk vergi hukukunda genel tarh zamanaşımı süresi 5 yıldır.",
@@ -305,12 +308,13 @@
      "secenekler": [
       "Tam istisnada vergi hiç hesaplanmazken kısmi istisnada indirimli oran uygulanır.",
       "Her iki istisnada da yüklenilen KDV iade olarak geri alınabilir.",
-      "Kısmi istisnada teslim KDV'ye tabi tutulmaz; tam istisnada ise düşük oranda KDV uygulanır.",
+      "Kısmi istisnada teslim hiçbir biçimde KDV'ye tabi tutulmaz; tam istisnada ise düşük oranda KDV uygulanır ve iade doğmaz. Bu nedenle iade hakkı doğmaz ve indirim yapılamaz.",
       "Tam istisnada yüklenilen KDV indirim veya iade konusu yapılabilirken kısmi istisnada yüklenilen KDV gider ya da maliyet olarak dikkate alınır.",
-      "Tam istisnadan yalnızca kamu kurumları yararlanırken kısmi istisna özel sektöre aittir."
+      "Tam istisnadan yalnızca kamu kurumları yararlanabilirken kısmi istisna yalnızca özel sektöre tanınmıştır."
      ],
      "dogru": 3,
-     "aciklama": "Tam istisnada (örn. ihracat istisnası) teslim KDV'siz gerçekleşir; ancak bu teslimlere ait yüklenilen KDV, indirim yoluyla giderilemeyen tutar için iade talep edilebilir. Kısmi istisnada (örn. eğitim-öğretim istisnası) ise teslim vergiden bağışık tutulur; fakat bu işlemlere ait yüklenilen KDV indirim veya iade edilemez, gider ya da maliyet unsuru olarak dikkate alınır. Bu ayrım uygulamada kritik sonuçlar doğurur."
+     "aciklama": "Tam istisnada (örn. ihracat istisnası) teslim KDV'siz gerçekleşir; ancak bu teslimlere ait yüklenilen KDV, indirim yoluyla giderilemeyen tutar için iade talep edilebilir. Kısmi istisnada (örn. eğitim-öğretim istisnası) ise teslim vergiden bağışık tutulur; fakat bu işlemlere ait yüklenilen KDV indirim veya iade edilemez, gider ya da maliyet unsuru olarak dikkate alınır. Bu ayrım uygulamada kritik sonuçlar doğurur.",
+     "zorluk": "orta"
     },
     {
      "id": "48419",
@@ -357,7 +361,8 @@
       "%16,67"
      ],
      "dogru": 3,
-     "aciklama": "KDV oranı %20 olduğunda vergi tutarı 100 × 0,20 = 20 TL'dir. Efektif vergi yükü orijinal fiyata (vergi matrahına) oranla 20/100 = %20'dir. Dikkat: Eğer soru 'KDV dahil fiyat üzerinden efektif oran' sorsaydı cevap 20/120 ≈ %16,67 olurdu. Burada matrah üzerinden sorulduğundan cevap %20'dir."
+     "aciklama": "KDV oranı %20 olduğunda vergi tutarı 100 × 0,20 = 20 TL'dir. Efektif vergi yükü orijinal fiyata (vergi matrahına) oranla 20/100 = %20'dir. Dikkat: Eğer soru 'KDV dahil fiyat üzerinden efektif oran' sorsaydı cevap 20/120 ≈ %16,67 olurdu. Burada matrah üzerinden sorulduğundan cevap %20'dir.",
+     "zorluk": "orta"
     },
     {
      "id": "48236",
@@ -366,13 +371,13 @@
      "soru": "Bir ülkede yapılan mali etki analizine göre kamu yatırım harcamalarındaki 1 birimlik artış uzun dönemde özel sektör çıktısını 1,8 birim artırmaktadır. Bu bulgu hangi kavramla ifade edilir ve hangi koşullarda geçerli olduğu en doğru biçimde aşağıdakilerden hangisinde açıklanmıştır?",
      "secenekler": [
       "Artan getiri etkisi; monopolcü rekabet piyasasında ölçek ekonomileri 1,8 katsayısını zorunlu kılar.",
-      "Keynesyen kısa dönem çarpanı; bu etki yalnızca kısa dönem talep yönetimini yansıtır ve uzun dönemde geçersiz olur.",
+      "Keynesyen kısa dönem çarpanı; bu etki yalnızca kısa dönem talep yönetimini yansıtır ve uzun dönemde tamamen geçersiz kalır. Nitekim uzun dönem üretim fonksiyonunda kamu sermayesi bağımsız bir girdi olarak yer almadığından bu katsayı yalnızca geçici talep etkisini ölçer.",
       "Tam dışlama (full crowding-out); kamu yatırımları özel sektörün tamamını ikame etmiştir.",
       "Süper çarpan (super-multiplier); tüm kamu harcamaları bu etkiyi daima ve her koşulda üretir.",
       "Kamu yatırımının uzun dönem tamamlayıcılık (crowding-in) etkisi; özellikle kamu altyapısının özel sektör verimliliğini artırması, pozitif dışsallık ve ağ etkileri yarattığı gelişmekte olan ya da altyapı açığı olan ekonomilerde geçerlidir."
      ],
      "dogru": 4,
-     "aciklama": "Kamu yatırımının özel çıktıyı birebir katkısının üzerinde artırması, literatürde 'crowding-in' ya da 'kamu yatırımının tamamlayıcı etkisi' olarak tanımlanır. Katsayı 1'in üzerinde olduğunda (burada 1,8) bu, kamu yatırımının özel sektör için dışsallık yaratıp üretim sınırını dışarı kaydırdığını gösterir. Bu etki özellikle: (i) altyapı yetersizliği yüksek ekonomilerde, (ii) özel sektörün kamu ağlarına (yol, liman, enerji) bağımlı olduğu sektörlerde, (iii) ağ dışsallıklarının güçlü olduğu durumlarda gözlemlenir. Tam dışlama (A) 0 veya negatif etkiyi ifade eder. Keynesyen çarpan (D) yalnızca kısa dönem talep etkisini ölçer; buradaki analiz uzun dönem arz yönlü etkiyi kapsar.",
+     "aciklama": "Kamu yatırımındaki 1 birimlik artışın uzun dönemde özel sektör çıktısını 1,8 birim artırması, kamu yatırımının özel yatırımı dışlamak yerine tamamladığını gösterir. Bu olgu tamamlayıcılık (crowding-in) etkisidir. Altyapı yatırımları özel sektörün maliyetini düşürür, verimliliğini artırır ve pozitif dışsallıklar ile ağ etkileri yaratır. Bu etki özellikle altyapı açığı bulunan ve gelişmekte olan ekonomilerde güçlüdür. \"Tam dışlama (full crowding-out); kamu yatırımları özel sektörün tamamını ikame etmiştir.\" seçeneği yanlıştır, çünkü dışlama özel çıktıyı azaltır, burada ise artış söz konusudur. \"Süper çarpan (super-multiplier); tüm kamu harcamaları bu etkiyi daima ve her koşulda üretir.\" seçeneği de yanlıştır, çünkü etki koşullara bağlıdır ve her kamu harcaması aynı sonucu vermez. Doğru cevap \"Kamu yatırımının uzun dönem tamamlayıcılık (crowding-in) etkisi\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -404,7 +409,8 @@
       "Sayıştay, hesap yargılaması yetkisi çerçevesinde kamu görevlilerini cezai yaptırıma tabi tutabilir."
      ],
      "dogru": 3,
-     "aciklama": "5018 sayılı Kanun ve 6085 sayılı Sayıştay Kanunu'na göre Sayıştay; merkezi yönetim, sosyal güvenlik kurumları ve mahalli idareler dahil tüm genel yönetim kapsamındaki idareleri denetler. Denetim türleri: düzenlilik denetimi (mali denetim ve uygunluk denetimi) ve performans denetimidir. Sayıştay, raporlarını TBMM'ye sunar. Hesap yargılaması sonucunda kamu zararına ilişkin tazmin kararı verir; bu cezai değil mali niteliktedir. Sayıştay kararlarına itiraz yolu açıktır (temyiz). Raporlar TBMM'ye sunulur; Cumhurbaşkanlığı onayı söz konusu değildir."
+     "aciklama": "5018 sayılı Kanun ve 6085 sayılı Sayıştay Kanunu'na göre Sayıştay; merkezi yönetim, sosyal güvenlik kurumları ve mahalli idareler dahil tüm genel yönetim kapsamındaki idareleri denetler. Denetim türleri: düzenlilik denetimi (mali denetim ve uygunluk denetimi) ve performans denetimidir. Sayıştay, raporlarını TBMM'ye sunar. Hesap yargılaması sonucunda kamu zararına ilişkin tazmin kararı verir; bu cezai değil mali niteliktedir. Sayıştay kararlarına itiraz yolu açıktır (temyiz). Raporlar TBMM'ye sunulur; Cumhurbaşkanlığı onayı söz konusu değildir.",
+     "zorluk": "orta"
     },
     {
      "id": "48083",
@@ -412,14 +418,14 @@
      "konuId": "kamu_maliyesi",
      "soru": "Kamu ekonomisinde 'gönüllü mübadele' yaklaşımını (Lindahl dengesi) eleştiren Bowen-Samuelson modelinin temel argümanı aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Lindahl dengesi Pareto optimal değildir çünkü sosyal fayda fonksiyonu bireysel tercihlerden bağımsızdır",
+      "Lindahl dengesi Pareto optimal değildir; çünkü sosyal fayda fonksiyonu bireysel tercihlerden tümüyle bağımsız biçimde belirlenir ve bireysel marjinal fayda ölçülemez kabul edilir",
       "Vergi rekabeti Lindahl fiyatlarını aşağı çekerek optimal üretimi engeller",
       "Kamusal mallarda bedavacılık (free rider) sorunu gerçek tercihlerin açıklanmasını engeller; dolayısıyla Lindahl fiyatları piyasa mekanizmasıyla bulunamaz",
       "Gönüllü mübadele yaklaşımı yalnızca yerel kamusal mallar için geçerlidir, ulusal düzeyde uygulanamaz",
       "Kamusal malların marjinal maliyeti sıfır olduğundan Lindahl fiyatları da sıfır olmalıdır"
      ],
      "dogru": 2,
-     "aciklama": "Lindahl modeli, her bireyin kamusal maldan sağladığı marjinal faydaya eşit vergi payı ödediği bir denge tanımlar; bu gönüllü mübadeleye benzer. Samuelson'ın temel eleştirisi, kamusal malların bölünemez ve rakip olmayan yapısından kaynaklanır: Bireyler gerçek tercihlerini açıklamaz; bunun yerine düşük talep beyan ederek (bedavacılık yaparak) kamusal malı sıfır ya da düşük maliyetle tüketmeye çalışır. Bu stratejik davranış Lindahl dengesine ulaşmayı imkânsız kılar. Diğer seçenekler ya teorik olarak yanlıştır (B) ya da Samuelson'ın asıl eleştiri eksenini yansıtmamaktadır.",
+     "aciklama": "Samuelson, kamusal malın sunumunda bireylerin gerçek marjinal faydalarını açıklamak için bir teşvikinin olmadığını savunur. Mal dışlanamaz olduğundan herkes az fayda beyan ederek bedavacılık yapmak ister. Lindahl dengesi ise her bireyin gerçek tercihini açıkladığını varsayar. Gerçek tercihler gizlendiği için Lindahl fiyatları piyasa mekanizmasıyla bulunamaz. \"Kamusal malların marjinal maliyeti sıfır olduğundan Lindahl fiyatları da sıfır olmalıdır\" seçeneği yanlıştır, çünkü kamusal malın marjinal maliyeti sıfır varsayılmaz ve fiyatlar bireysel marjinal faydalara göre belirlenir. \"Vergi rekabeti Lindahl fiyatlarını aşağı çekerek optimal üretimi engeller\" seçeneğinin de modelle bir ilgisi yoktur. Doğru cevap \"Kamusal mallarda bedavacılık (free rider) sorunu gerçek tercihlerin açıklanmasını engeller\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -430,12 +436,12 @@
      "secenekler": [
       "Tek doruklu tercihlerin varlığını, tek boyutlu politika uzayını ve tam bilgiyi varsaydığı için çok boyutlu politika sorunlarında döngüsel oy çoğunluğuna (Condorcet paradoksu) yol açabilir",
       "Teoremi kullanmak için seçmenler arasındaki gelir dağılımının normal dağılım göstermesi zorunludur",
-      "Teoremi sadece iki adayın yarıştığı seçimlere uygulamak mümkündür ve çok adaylı yarışlarda tamamen geçersizdir",
+      "Teoremi yalnızca iki adayın yarıştığı seçimlere uygulamak mümkündür ve çok adaylı yarışlarda tamamen geçersizdir",
       "Median seçmen her zaman toplumun ortalama refahını maksimize edecek politikayı seçer",
-      "Teoremi gelir vergisi politikasına uygulamak mümkündür ancak KDV gibi dolaylı vergilere hiçbir koşulda uygulanamaz"
+      "Teoremin gelir vergisi politikasına uygulanması mümkündür; ancak KDV ve ÖTV gibi dolaylı vergilere hiçbir koşulda uygulanamaz ve sonuç vermez Bu sınırlılık teoremin uygulama alanını daraltır."
      ],
      "dogru": 0,
-     "aciklama": "Median seçmen teoremi, seçmenlerin tek doruklu tercihlerinin bulunduğunu, politika uzayının tek boyutlu olduğunu ve tüm seçmenlerin oy kullandığını varsayar. Bu koşullar altında median seçmenin tercihi, diğer tüm alternatifleri ikili oylamada yener (Condorcet kazananı). Ancak gerçek vergi ve harcama politikaları çok boyutludur (vergi oranı, harcama türleri, dağılım vb.). Çok boyutlu politika uzayında bu varsayımlar sağlanamayacağından döngüsel çoğunluklar (A>B>C>A) ortaya çıkabilir ve denge noktası mevcut olmayabilir. Bu Condorcet paradoksu teoreminin en önemli kısıtlılığıdır. Doğru cevap B'dir.",
+     "aciklama": "Median seçmen teoremi, tek doruklu tercihler ve tek boyutlu politika uzayı varsayımı altında çoğunluk oylamasında medyan seçmenin tercih ettiği sonucun kazanacağını söyler. Politika çok boyutlu olduğunda (örneğin hem vergi oranı hem harcama bileşimi) tercihler tek doruklu kalmayabilir ve çoğunluk oylaması döngüsel sonuçlar verebilir (Condorcet paradoksu). Bu, teoremin temel kısıtlılığıdır. \"Median seçmen her zaman toplumun ortalama refahını maksimize edecek politikayı seçer\" ifadesi yanlıştır, çünkü teorem refah maksimizasyonu iddiasında bulunmaz. Doğru cevap \"Tek doruklu tercihlerin varlığını, tek boyutlu politika uzayını ve tam bilgiyi varsaydığı için...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -451,7 +457,8 @@
       "Uzun vadeli projelerin net bugünkü değeri artar ve bu projeler daha cazip hale gelir"
      ],
      "dogru": 1,
-     "aciklama": "Fayda-maliyet analizinde iskonto oranı, gelecekteki nakit akışlarının bugünkü değerine indirgenmesinde kullanılır. İskonto oranı yükseldikçe, özellikle uzak vadede gerçekleşecek faydalara sahip projelerin net bugünkü değeri önemli ölçüde düşer. Bu durum, kısa vadede meyve vermeyen baraj, çevre koruma veya AR-GE projeleri gibi uzun dönemli kamu yatırımlarının değerlendirme süreçlerinde aleyhte sonuç doğurur."
+     "aciklama": "Fayda-maliyet analizinde iskonto oranı, gelecekteki nakit akışlarının bugünkü değerine indirgenmesinde kullanılır. İskonto oranı yükseldikçe, özellikle uzak vadede gerçekleşecek faydalara sahip projelerin net bugünkü değeri önemli ölçüde düşer. Bu durum, kısa vadede meyve vermeyen baraj, çevre koruma veya AR-GE projeleri gibi uzun dönemli kamu yatırımlarının değerlendirme süreçlerinde aleyhte sonuç doğurur.",
+     "zorluk": "orta"
     },
     {
      "id": "48514",
@@ -461,12 +468,12 @@
      "secenekler": [
       "Vergi incelemesine başlanılmış olması veya takdir komisyonuna başvurulmuş olması zamanaşımını durdurmaz; yalnızca keser.",
       "Tarh zamanaşımı süresi dolduktan sonra mükellef aleyhine herhangi bir işlem tesis edilemez; vergi idaresinin dava açma hakkı da bu süreyle sınırlıdır.",
-      "Tahsil zamanaşımı süresi 5 yıldır ve bu süre borcun vadesinin rastladığı takvim yılı başından işlemeye başlar.",
+      "Tahsil zamanaşımı süresi 5 yıldır ve bu süre, borcun vadesinin rastladığı takvim yılını izleyen yılın başından işlemeye başlar.",
       "Vergi Usul Kanunu'nda öngörülen tarh zamanaşımı süresi genel kural olarak 5 yıl olup bu süre vergiyi doğuran olayın gerçekleştiği takvim yılının son günü başlar.",
       "Yanıltıcı belge düzenleme gibi vergi kaçakçılığı suçlarında zamanaşımı süresi 5 yıl değil 8 yıl olarak uygulanır."
      ],
      "dogru": 2,
-     "aciklama": "6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun'un 102. maddesine göre tahsil zamanaşımı 5 yıldır ve süre, borcun vadesinin rasladığı takvim yılını izleyen takvim yılı başından itibaren işlemeye başlar. D seçeneğinde 'borcun vadesinin rastladığı takvim yılı başından' denilmesi yanlış; doğrusu 'vadenin rastladığı takvim yılını izleyen yılın başından'dır — ancak seçenekler arasında bu en yakın doğru ifadedir. Uyarı: A seçeneği 213 sayılı VUK m.114'e göre doğrudur (takvim yılı başı, yılın ilk günü). B seçeneği yanlıştır; incelemeye başlama ve takdir komisyonuna sevk zamanaşımını durdurur (kesmez). C kısmen doğru olmakla birlikte zamanaşımı tarh değil tahsil sürecini de etkiler. E'deki 8 yıl VUK'ta değil TCK kapsamında değerlendirilir; VUK m.374 kaçakçılık için özel bir süre öngörmez. Bu soru, D'nin diğer seçeneklere kıyasla kanun metnine en yakın ve doğru olduğu bir analiz sorusudur.",
+     "aciklama": "6183 sayılı Kanun'un 102. maddesine göre tahsil zamanaşımı beş yıldır ve bu süre, amme alacağının vadesinin rastladığı takvim yılını izleyen takvim yılı başından itibaren işlemeye başlar. Tarh zamanaşımı ise Vergi Usul Kanunu'nun 114. maddesinde düzenlenmiş olup vergi alacağının doğduğu takvim yılını izleyen yılın başından başlayarak beş yıldır; bu nedenle “Vergi Usul Kanunu'nda öngörülen tarh zamanaşımı süresi genel kural olarak 5 yıl olup bu…” seçeneği yanlıştır. Takdir komisyonuna başvurulması zamanaşımını durdurduğundan “Vergi incelemesine başlanılmış olması veya takdir komisyonuna başvurulmuş olması…” seçeneği de yanlıştır. Doğru yanıt “Tahsil zamanaşımı süresi 5 yıldır ve bu süre, borcun vadesinin rastladığı takvim yılını…” seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -475,7 +482,7 @@
      "konuId": "butce",
      "soru": "Türkiye'de, merkezi yönetim bütçesi kapsamında olmakla birlikte bütçe gelirlerinden pay alan bir ilin özel idaresinin sosyal yardım harcamalarını finanse etmek amacıyla iç borçlanmaya gitmesi durumunda, 5018 sayılı Kanun ve ilgili mevzuat açısından hangi durum söz konusu olur?",
      "secenekler": [
-      "İl özel idareleri merkezi yönetim bütçesi kapsamında olduğundan, bu tür borçlanmalar Hazine garantisi ile gerçekleştirilmek zorundadır.",
+      "İl özel idareleri merkezî yönetim bütçesi kapsamında yer aldığından, bu tür borçlanmalar mutlaka Hazine garantisiyle gerçekleştirilmek zorundadır. Bu şart aranır.",
       "İl özel idareleri merkezi yönetim bütçesi kapsamında değil; mahalli idare bütçesi kapsamındadır ve borçlanmaları yasal sınır ve izin şartlarına tabidir.",
       "Sosyal yardım harcamaları cari nitelik taşıdığından iç borçlanma, 5018 sayılı Kanun gereği kesinlikle yasaktır.",
       "Bu işlem, mahalli idarelerin mali özerkliği kapsamında serbestçe yapılabilir.",
@@ -492,13 +499,13 @@
      "soru": "Ricardocu denklik (Ricardian Equivalence) teoremi, borçlanma yoluyla finanse edilen bir vergi indiriminin özel tüketimi artırmayacağını öngörür. Aşağıdaki koşullardan hangisinin gerçekleşmesi, bu teoreme en güçlü ampirik karşı kanıtı sağlar ve neden?",
      "secenekler": [
       "Kamu borçlanma faizinin özel sektör faiz oranına eşit olması; çünkü bu durumda dışlama etkisi (crowding out) gerçekleşmez.",
-      "Bütçe açığının yabancı yatırımcılar tarafından finanse edilmesi; çünkü Ricardocu denklik teoremi yalnızca kapalı ekonomilerde geçerlidir ve dış finansman elde edildiğinde yerli tüketiciler gelecekteki vergi yükünü üstlenmez.",
+      "Bütçe açığının ağırlıklı olarak yabancı yatırımcılar tarafından finanse edilmesi; çünkü Ricardocu denklik teoremi yalnızca kapalı ekonomilerde geçerlidir ve dış finansman sağlandığında yerli tüketiciler gelecekteki vergi yükünü hiçbir biçimde üstlenmez.",
       "Tüketicilerin çok sayıda olması; çünkü teorem yalnızca tekelci piyasalarda geçerlidir.",
       "Borçlanma kısıtına (likidite kısıtına) tabi hanelerin ve kısa vadeli tüketim ufkuna sahip nesiller arası bağsız bireylerin varlığı; çünkü bu haneler gelecekteki vergi yüküne göre davranamaz ve vergi indirimiyle birlikte tüketimlerini hemen artırır.",
       "Sermaye piyasalarının tam rekabetçi ve bilgiye tam erişimli olması; çünkü bu koşullarda tüketiciler geleceği eksiksiz iskonto edebilir."
      ],
      "dogru": 3,
-     "aciklama": "Ricardocu denklik teoreminin en kritik varsayımları şunlardır: (1) tüketiciler ileriye dönük rasyoneldir (Barro'nun ölümsüz hane halkı varsayımı); (2) sermaye piyasalarına tam erişim; (3) nesiller arası özgecil transferler (bequest motive). Bu varsayımlardan herhangi biri ihlal edilirse teorem çöker. C seçeneğindeki iki koşul teoremin tam kalbine işaret etmektedir: Likidite kısıtlı haneler şu anki vergi indirimini geleceğe aktaramaz, dolayısıyla tüketimlerini hemen artırır. Nesiller arası bağsız (ya da bequest motiften yoksun) bireyler gelecek neslin vergi yükünü içselleştirmez. Bu iki koşulun ampirik varlığı geniş ölçüde belgelenmiştir ve Ricardocu denkliğe karşı en güçlü kanıtı oluşturur. E seçeneği kısmen doğru olmakla birlikte Ricardocu denkliğin yalnızca kapalı ekonomide geçerli olduğu iddiası tam doğru değildir; açık ekonomide de varlıklı ve ileriye dönük rasyonel bireyler teoremi destekleyebilir.",
+     "aciklama": "Ricardocu denklik, bireylerin rasyonel, ileri görüşlü, sonsuz ufuklu ve borçlanabilir olduğunu varsayar. Bu durumda borçla finanse edilen vergi indirimi, gelecekteki vergi artışı beklentisiyle tasarrufa yönelir ve tüketimi artırmaz. Likidite kısıtı altındaki haneler ise gelecek gelirlerine karşı borçlanamaz. Kısa ufuklu ve kuşaklar arası bağı olmayan bireyler de gelecekteki vergi yükünü dikkate almaz. Bu nedenle bu haneler vergi indirimiyle tüketimlerini hemen artırır ve teoreme karşı en güçlü kanıtı oluşturur. \"Sermaye piyasalarının tam rekabetçi ve bilgiye tam erişimli olması\" seçeneği yanlıştır, çünkü bu koşullar teoremin varsayımlarını destekler, çürütmez. \"Bütçe açığının ağırlıklı olarak yabancı yatırımcılar tarafından finanse edilmesi\" seçeneği de yanlıştır, çünkü teoremin yalnızca kapalı ekonomilerde geçerli olduğu iddiası temelsizdir. Doğru cevap \"Borçlanma kısıtına (likidite kısıtına) tabi hanelerin ve kısa vadeli tüketim ufkuna sahip nesiller arası bağsız bireylerin varlığı...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -524,9 +531,9 @@
      "soru": "Kamu harcamalarının görünür artış nedenleri arasında yer alan 'bütçe sınıflandırmasının değişmesi' ile 'para değerinin düşmesi'nin ortak özelliği aşağıdakilerden hangisidir?",
      "secenekler": [
       "Her ikisi de kamu harcamalarının reel olarak artmaksızın nominal ya da istatistiksel görünümünü şişirir.",
-      "Her ikisi de nüfus artışından bağımsız olarak kişi başına harcamayı yükseltir.",
+      "Her ikisi de nüfus artışından bağımsız olarak kişi başına düşen harcamayı yükseltir.",
       "Her ikisi de kamunun ekonomideki gerçek ağırlığını artırır.",
-      "Her ikisi de bütçe açıklarının ana kaynağı olup mali disiplini doğrudan tehdit eder.",
+      "Her ikisi de bütçe açıklarının başlıca kaynağı olup mali disiplini doğrudan tehdit eder. Bu nedenle ikisi birlikte ele alınır.",
       "Her ikisi de Baumol'un maliyet hastalığı hipoteziyle açıklanabilir."
      ],
      "dogru": 0,
@@ -546,7 +553,7 @@
       "Mal teslimlerinde vergiyi doğuran olay, malın teslimi veya teslim sayılan hâllerin gerçekleşmesiyle meydana gelir."
      ],
      "dogru": 1,
-     "aciklama": "3065 sayılı KDV Kanunu'nun 24. maddesine göre vade farkı, fiyat farkı, kur farkı, faiz ve benzeri unsurlar KDV matrahına dâhildir; bu unsurlar matraha ilave edilir ve üzerinden KDV hesaplanır. Dolayısıyla C seçeneği yanlıştır ve sorunun cevabıdır. Diğer seçenekler kanuna uygundur: mal teslimlerinde vergiyi doğuran olay teslimle, kısmi ödemelerde her kısım için fatura düzenlenmesiyle, ithalatta gümrük yükümlülüğünün doğmasıyla gerçekleşir; komisyonculukta matrah komisyon bedelidir.",
+     "aciklama": "Soru yanlış ifadeyi sormaktadır. KDV Kanunu'na göre vade farkı, fiyat farkı, faiz ve kur farkı gibi unsurlar teslim veya hizmet bedeline bağlı olduğundan matraha dâhildir. Bu nedenle \"KDV matrahına, vade farkı, fiyat farkı ve kur farkları dâhil edilmez; bu unsurlar ayrı bir işlem olarak değerlendirilir.\" ifadesi yanlıştır. Diğer ifadeler doğrudur. Komisyonculukta matrah komisyon tutarıdır. Kısım kısım teslimde her kısım için ayrı vergiyi doğuran olay oluşur. İthalatta vergiyi doğuran olay gümrük yükümlülüğünün doğduğu andır. Doğru cevap \"KDV matrahına, vade farkı, fiyat farkı ve kur farkları dâhil edilmez; bu unsurlar ayrı bir işlem olarak değerlendirilir.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -562,7 +569,8 @@
       "Sermaye Piyasası Kurulu"
      ],
      "dogru": 3,
-     "aciklama": "5018 sayılı Kanun'a ekli cetvellerde düzenleyici ve denetleyici kurumlar arasında BDDK, SPK, RTÜK, Kamu İhale Kurumu, EPDK, BTK gibi kurumlar sayılmaktadır. Türkiye Varlık Fonu ise 6741 sayılı Kanun ile kurulmuş olup özel hukuk hükümlerine tabi bir anonim şirket niteliğinde olduğundan 5018 sayılı Kanun kapsamındaki düzenleyici ve denetleyici kurum bütçesi kapsamında değerlendirilemez."
+     "aciklama": "5018 sayılı Kanun'a ekli cetvellerde düzenleyici ve denetleyici kurumlar arasında BDDK, SPK, RTÜK, Kamu İhale Kurumu, EPDK, BTK gibi kurumlar sayılmaktadır. Türkiye Varlık Fonu ise 6741 sayılı Kanun ile kurulmuş olup özel hukuk hükümlerine tabi bir anonim şirket niteliğinde olduğundan 5018 sayılı Kanun kapsamındaki düzenleyici ve denetleyici kurum bütçesi kapsamında değerlendirilemez.",
+     "zorluk": "orta"
     },
     {
      "id": "48056",
@@ -570,14 +578,15 @@
      "konuId": "kamu_maliyesi",
      "soru": "Ricardocu Denklik Teoremi (Ricardian Equivalence Theorem) varsayımları altında, hükümetin vergi yerine borçlanmaya gitmesi durumunda ekonomik aktörler nasıl davranır?",
      "secenekler": [
-      "Borcun geri ödeneceğine güvenmediğinden, tüketim ve yatırım kararlarını değiştirmez.",
+      "Borcun geri ödeneceğine güvenmediğinden, tüketim ve yatırım kararlarını hiç değiştirmez. Bu nedenle toplam talep düzeyi de sabit kalır.",
       "Servet etkisi nedeniyle tüketimi azaltır ve tasarrufu düşürür.",
       "Tasarruflarını artırarak gelecekte ödeyecekleri vergi için kaynak biriktirir; dolayısıyla toplam talep değişmez.",
       "Tüketim harcamalarını artırır; çünkü cari vergi yükü hafifler.",
-      "Kamu borçlanmasını pozitif bir servet artışı olarak algılar ve tüketimi genişletir."
+      "Kamu borçlanmasını pozitif bir servet artışı olarak algılar ve tüketimini genişletir."
      ],
      "dogru": 2,
-     "aciklama": "Ricardocu Denklik Teoremi'ne (Barro, 1974) göre ileriye dönük rasyonel bireyler, bugünkü vergi indirimi yerine borçlanmayı gördüklerinde bunun gelecekte daha yüksek vergi anlamına geldiğini anlar. Bu nedenle bugün elde ettikleri ek harcanabilir geliri tüketmeye değil, gelecekteki vergi yüküne karşı tasarruf etmeye yönelirler. Sonuçta toplam talep ve çıktı değişmez; mal politikasının etkinliği sıfıra indirgenir. Bu teoremi çürütmeye yönelik başlıca argümanlar, likidite kısıtları, sonlu ömür ve belirsizlik gibi gerçekçi varsayım ihlalleri üzerine kuruludur."
+     "aciklama": "Ricardocu Denklik Teoremi'ne (Barro, 1974) göre ileriye dönük rasyonel bireyler, bugünkü vergi indirimi yerine borçlanmayı gördüklerinde bunun gelecekte daha yüksek vergi anlamına geldiğini anlar. Bu nedenle bugün elde ettikleri ek harcanabilir geliri tüketmeye değil, gelecekteki vergi yüküne karşı tasarruf etmeye yönelirler. Sonuçta toplam talep ve çıktı değişmez; mal politikasının etkinliği sıfıra indirgenir. Bu teoremi çürütmeye yönelik başlıca argümanlar, likidite kısıtları, sonlu ömür ve belirsizlik gibi gerçekçi varsayım ihlalleri üzerine kuruludur.",
+     "zorluk": "orta"
     },
     {
      "id": "48287",
@@ -592,7 +601,8 @@
       "Lüks mallara daha yüksek, zorunlu mallara daha düşük vergi uygulanmasını"
      ],
      "dogru": 3,
-     "aciklama": "Ramsey Kuralı (1927), vergi sonrası her malın talep miktarındaki yüzde azalmanın birbirine eşit olması gerektiğini öngörür. Bu 'ters esneklik kuralı' olarak da bilinir: talep esnekliği düşük mallara daha yüksek, esnekliği yüksek mallara daha düşük vergi oranı uygulanmalıdır. Amaç, vergiden kaynaklanan ölü ağırlık kaybını minimize etmektir. B şıkkı yüzeysel olarak doğru görünse de Ramsey Kuralı'nın özü 'eşit yüzdelik miktar azalışı'dır, gelir dağılımı kaygısı içermez."
+     "aciklama": "Ramsey Kuralı, devletin belirli bir hasılatı en az refah kaybıyla toplaması için gelişen optimal dolaylı vergileme ilkesidir. Kurala göre vergi oranları, her malın talep miktarında aynı oranda (yüzde olarak eşit) azalma meydana getirecek şekilde belirlenir. Çapraz esnekliklerin sıfır olduğu durumda bu, vergi oranlarının talep esnekliğiyle ters orantılı olması anlamına gelir. Esnek talepli mallara düşük, esnek olmayan talepli mallara yüksek oran uygulanır. \"Tüm mallara eşit oranlı vergi uygulanmasını\" gerektiren yaklaşım ise ancak tüm malların talep esneklikleri eşitse Ramsey kuralıyla örtüşür. Genel durumda bu doğru değildir. Doğru cevap \"Her malın talep miktarındaki yüzde düşüşün eşit olmasını\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "48179",
@@ -604,10 +614,11 @@
       "Kamu iktisadi teşebbüslerinin fiyatlandırma politikasında",
       "Faiz oranlarının merkez bankası tarafından belirlenmesinde",
       "Devletin hangi sektöre yatırım yapacağını belirlemesinde",
-      "Bütçe açıklarının borçlanmayla kapatılıp kapatılmayacağı kararında"
+      "Bütçe açıklarının borçlanmayla mı vergiyle mi kapatılacağı kararında ve bu kararın hangi ilkeye dayandırılacağında"
      ],
      "dogru": 0,
-     "aciklama": "Faydalanma ilkesine göre kamu harcamaları, hizmetten yararlananlar tarafından ödenmeli (kullanıcı ücretleri); ödeme gücü ilkesine göre ise mali yük, gelirine ve servetine göre taşıma kapasitesi yüksek olanlar tarafından karşılanmalıdır (genel vergi gelirleri). Ulusal savunma gibi hizmetler tam kamusal mal niteliği taşıdığından faydalananları ayırt etmek imkânsızdır. Bu durum, faydalanma ilkesinin uygulanamadığı ve ödeme gücü ilkesinin zorunlu kıldığı genel vergi finansmanıyla çatışma yaratarak iki ilke arasındaki gerilimi en belirgin hale getirir."
+     "aciklama": "Faydalanma ilkesine göre kamu harcamaları, hizmetten yararlananlar tarafından ödenmeli (kullanıcı ücretleri); ödeme gücü ilkesine göre ise mali yük, gelirine ve servetine göre taşıma kapasitesi yüksek olanlar tarafından karşılanmalıdır (genel vergi gelirleri). Ulusal savunma gibi hizmetler tam kamusal mal niteliği taşıdığından faydalananları ayırt etmek imkânsızdır. Bu durum, faydalanma ilkesinin uygulanamadığı ve ödeme gücü ilkesinin zorunlu kıldığı genel vergi finansmanıyla çatışma yaratarak iki ilke arasındaki gerilimi en belirgin hale getirir.",
+     "zorluk": "orta"
     },
     {
      "id": "48528",
@@ -617,12 +628,12 @@
      "secenekler": [
       "İthalat sırasında alınan diğer vergi ve fonlar",
       "İthal edilen mala ilişkin yurt içinde yapılan pazarlama ve dağıtım giderleri",
-      "Varsa KDV matrahına dahil edilmeyen diğer giderler",
+      "Varsa KDV matrahına dâhil edilmeyen diğer gider kalemleri ve sonradan doğan farklar",
       "Gümrük vergisi",
       "Gümrük vergisi matrahı"
      ],
      "dogru": 1,
-     "aciklama": "ÖTV Kanunu'nun 11. maddesine göre ithalatta ÖTV matrahı; gümrük vergisi matrahı, ithalat sırasında alınan diğer vergi ve fonlar ile gümrük vergisinin toplamından oluşur. Yurt içinde gerçekleştirilen pazarlama ve dağıtım giderleri ithal aşamasında henüz oluşmadığından ÖTV matrahına dahil edilmez. Bu nedenle D şıkkı doğru yanıttır.",
+     "aciklama": "ÖTV Kanunu'nun ithalatta matrah düzenlemesine göre matrah, gümrük vergisi matrahına gümrük vergisinin ve ithalatta alınan diğer vergi, resim, harç ve fonların eklenmesiyle oluşur. Bunlara KDV matrahına dâhil edilmeyen diğer giderler ve sonradan doğan farklar da dâhildir. Bu unsurların hepsi ithalat anında ortaya çıkan kalemlerdir. İthal edilen malın Türkiye'de sonradan yapılan pazarlama ve dağıtım giderleri ise ithalat işleminin parçası değildir. Bu giderler ithalattaki ÖTV matrahına girmez. \"Gümrük vergisi\" ve \"Gümrük vergisi matrahı\" seçenekleri matrahın temel unsurlarıdır. \"İthalat sırasında alınan diğer vergi ve fonlar\" seçeneği de matrahta yer alır. Doğru cevap \"İthal edilen mala ilişkin yurt içinde yapılan pazarlama ve dağıtım giderleri\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -631,14 +642,14 @@
      "konuId": "butce",
      "soru": "5018 sayılı Kanun çerçevesinde 'iç kontrol' sistemi değerlendirildiğinde, aşağıdakilerden hangisi hatalı bir tespit içermektedir?",
      "secenekler": [
-      "İç denetçiler, görevleriyle ilgili konularda iç denetim birim başkanlığına değil, üst yöneticiye raporlama yapar.",
+      "İç denetçiler, görevleriyle ilgili konularda iç denetim birim başkanlığına değil, doğrudan üst yöneticiye raporlama yapar. Bu raporlama zorunludur.",
       "Ön mali kontrol, harcama öncesi aşamada gerçekleştirilen bir iç kontrol mekanizmasıdır.",
       "Strateji geliştirme birimleri, ön mali kontrol işlevini yürütmektedir.",
       "Muhasebe yetkilisi, ödeme aşamasında yapacağı kontrollerde harcama yetkilisinin kararlarının yerindeliğini de denetlemekle yükümlüdür.",
-      "Mali kontrol ve iç denetim birbirinden farklı fonksiyonlardır; iç denetim güvence ve danışmanlık hizmetleri sunar."
+      "Mali kontrol ile iç denetim birbirinden farklı fonksiyonlardır; iç denetim güvence ve danışmanlık hizmetleri sunar."
      ],
      "dogru": 3,
-     "aciklama": "5018 sayılı Kanun'un 61. maddesine göre muhasebe yetkilisi; ilgili mevzuat ve belge kontrolü ile hak sahibinin kimliğinin tespiti gibi görevleri yerine getirirken, harcama yetkilisinin takdir yetkisine giren 'yerindelik' denetimi yapamaz. Muhasebe yetkilisinin görevi hukuka uygunluk ve belge kontrolüyle sınırlıdır; karar yerindeliğini denetleme yetkisi yoktur. Dolayısıyla B şıkkındaki ifade hatalıdır. Diğer şıklar doğru tespit içermektedir: ön mali kontrol harcama öncesi aşamadadır; iç denetçiler üst yöneticiye raporlama yapar; mali kontrol ile iç denetim farklı fonksiyonlardır; strateji geliştirme birimleri ön mali kontrol görevi yürütür.",
+     "aciklama": "5018 sayılı Kanun'a göre muhasebe yetkilisi ödeme aşamasında ödeme emri belgesini ve eklerini yasallık ve belgelendirme açısından kontrol eder. Harcamanın yerindeliğine karar vermek harcama yetkilisinin takdirindedir, muhasebe yetkilisinin görevi değildir. Bu nedenle muhasebe yetkilisine yerindelik denetimi yükleyen ifade hatalıdır. \"Strateji geliştirme birimleri, ön mali kontrol işlevini yürütmektedir.\" ifadesi hatalı değildir, çünkü ön mali kontrol harcama öncesi bir iç kontrol mekanizmasıdır ve bu işlev mali hizmetler birimlerince yürütülür. \"Mali kontrol ile iç denetim birbirinden farklı fonksiyonlardır; iç denetim güvence ve danışmanlık hizmetleri sunar.\" ifadesi de doğrudur, iç denetim iç kontrolden ayrı bir güvence ve danışmanlık faaliyetidir. Doğru cevap \"Muhasebe yetkilisi, ödeme aşamasında yapacağı kontrollerde harcama yetkilisinin kararlarının yerindeliğini de denetlemekle yükümlüdür.\" seçeneğidir.",
      "zorluk": "zor"
     }
    ]

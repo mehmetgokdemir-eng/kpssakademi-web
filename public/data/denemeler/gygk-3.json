@@ -25,7 +25,7 @@
       "Ne zengin ne de fakir biri arıyorum."
      ],
      "dogru": 1,
-     "aciklama": "E seçeneğindeki 'akıllı' ve 'hata' sözcükleri birbirinin zıt anlamlısı değildir; bu cümlede zıt anlamlı sözcük çifti bulunmamaktadır. A'da iyi-kötü, B'de erkenden-geç, C'de az-çok, D'de zengin-fakir zıt anlamlı çiftlerdir.",
+     "aciklama": "Soruda zıt anlamlı sözcük çiftleri aranır. \"Onun hem iyi hem kötü yanları var\" cümlesinde iyi–kötü, \"Sabah erkenden kalkıp geç yattı\" cümlesinde erken–geç, \"Az yer, çok içer\" cümlesinde az–çok, \"Ne zengin ne de fakir biri arıyorum\" cümlesinde zengin–fakir zıt anlamlı çiftlerdir. \"Akıllı biri olduğu hâlde hata yaptı\" cümlesinde ise akıllı ile hata yapmak arasında sözcük düzeyinde bir zıtlık yoktur; yalnızca durumsal bir beklenti karşıtlığı vardır. Doğru cevap \"Akıllı biri olduğu hâlde hata yaptı.\" seçeneğidir.",
      "zorluk": "kolay"
     },
     {
@@ -41,7 +41,7 @@
       "Sabah erkenden kalktı: işe geç kalmak istemiyordu."
      ],
      "dogru": 3,
-     "aciklama": "İki nokta, kendisinden sonra gelen açıklama, liste veya sıralamayı haber veren bir işarettir ve genellikle bir isim ya da sıfat öbeğinden sonra gelir, yüklem tamamlanmadan önce kullanılır. B seçeneğinde 'üç şehre uğradım' ifadesinin ardından iki nokta, bu şehirlerin listesini doğru biçimde takdim etmektedir. A'da yanlışlık şudur: 'Başarının sırrı şudur:' yerine sadece 'Başarının sırrı:' yazılmış; bu yapı da kabul görmekle birlikte ardından gelen 'çalışmak... tır' yapısı yüklem olduğundan iki nokta yerine virgül veya yüklem daha uygun olurdu. C'de 'çünkü' bağlacı zaten neden ilişkisini kurduğundan iki noktayla birlikte kullanılması anlam çiftlemesi yaratır. D'de neden-sonuç ilişkisi vardır; bu bağlamda iki nokta mümkündür fakat noktalı virgül daha yerinde olurdu. E'de ise 've' bağlacı öncesinde iki nokta kullanılamaz.",
+     "aciklama": "İki nokta, kendisinden sonra gelen açıklamayı ya da sıralamayı önceden haber veren, kendi başına tam bir cümlenin sonuna konur. \"Dün üç şehre uğradım: İstanbul, Ankara ve İzmir.\" cümlesinde ilk bölüm tamamlanmış bir yargıdır ve iki nokta, sıralanan şehirleri haber verir. \"Sebebini anladım: çünkü çok yorgundu.\" seçeneğinde iki noktadan sonra \"çünkü\" bağlacı geldiği için işaret gereksizdir. \"Başarının sırrı: çalışmak, azmetmek ve vazgeçmemektir.\" seçeneğinde ise iki nokta, yüklemi olan tek bir cümleyi bölmektedir. Doğru cevap \"Dün üç şehre uğradım: İstanbul, Ankara ve İzmir.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -57,7 +57,7 @@
       "Demekki yanılmışım. / İçindeki sır herkese yayıldı."
      ],
      "dogru": 3,
-     "aciklama": "'Anladım ki' ifadesinde 'ki', cümleyi bağlayan bağlaçtır ve ayrı yazılmalıdır — bu doğrudur. 'Masadaki' ifadesinde ise 'ki', yer bildiren sıfat yapan bir ektir ve bitişik yazılmalıdır — bu da doğrudur. C seçeneğindeki her iki yazım da kurala uygundur. Diğer seçeneklerde: A'da 'Biliyorki' bitişik yazılmış, oysa bağlaç 'ki' ayrı yazılmalıdır ('Biliyor ki'). B'de 'Düşündüki' ayrı yazılmalıydı. D'de 'Söyleseki' ayrı olmalıdır ('Söylese ki'). E'de 'Demekki' ayrı yazılmalıdır ('Demek ki').",
+     "aciklama": "Bağlaç olan \"ki\" ayrı yazılır. Ek olan \"-ki\" ise bitişik yazılır. \"Anladım ki bu işi bitiremeyeceğim.\" cümlesinde \"ki\" bağlaçtır ve ayrı yazılmıştır. \"Masadaki evrakları imzalayın.\" cümlesinde \"-ki\" bulunma durumundaki \"masada\" sözcüğüne eklenen ilgi ekidir ve bitişik yazılmıştır. Bu yüzden iki cümle de doğrudur. \"Düşündüki yanılmış...\" cümlesinde \"düşündü ki\" ayrı yazılmalıdır. \"Demekki yanılmışım.\" cümlesinde ise \"demek ki\" ayrı yazılan bir bağlaçtır. Dolayısıyla bu iki seçenek yanlış yazım içerir. Doğru cevap \"Anladım ki bu işi bitiremeyeceğim. / Masadaki evrakları imzalayın.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -89,7 +89,7 @@
       "Çantanın fermuarı açık kalmış."
      ],
      "dogru": 3,
-     "aciklama": "D seçeneğinde 'ellerim' sözcüğü iyelik eki (-im) almış olmakla birlikte bir tamlama zincirinin tamlananı değil, doğrudan cümlenin öznesidir; çünkü 'benim ellerim' yapısında tamlayan düşmüş, iyelik ekli sözcük özne konumuna geçmiştir. Diğer seçeneklerde iyelik ekli sözcükler (fermuarı, sözleri, kapağı, motoru) belirtili ad tamlamalarının tamlananı olup aynı zamanda özne gibi görünseler de tamlama zinciri içinde yer alırlar. D'de ise zincirsiz, bağımsız bir iyelik ekli özne söz konusudur.",
+     "aciklama": "Belirtili ya da belirtisiz ad tamlamalarında tamlanan iyelik eki alır, fakat cümlede öznenin tamamı tamlamadır. \"Ellerim titremeye başladı.\" cümlesinde \"ellerim\" sözcüğü \"el + -ler + -im\" yapısındadır ve iyelik eki almıştır. Ancak önünde bir tamlayan bulunmaz; bu yüzden tamlama oluşturmaz, tek başına öznedir. \"Arabanın motoru\", \"Annesinin sözleri\", \"Kitabın kapağı\" ve \"Çantanın fermuarı\" ifadelerinde ise iyelikli sözcüğün önünde \"-ın/-in\" ekli bir tamlayan vardır. Bu yüzden bunlar tamlama içinde tamlanan olarak kullanılmıştır. Doğru cevap \"Ellerim titremeye başladı.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -105,7 +105,8 @@
       "Kimse bu soruyu çözemedi."
      ],
      "dogru": 0,
-     "aciklama": "Sıfat tamlaması, bir ismin sıfat tarafından nitelendiği ya da belirtildiği yapıdır. A şıkkında 'gülen' sıfat-fiil (ortaç) olup 'çocuklar' ismini nitelediğinden 'gülen çocuklar' bir sıfat tamlamasıdır ve cümlede özne görevini üstlenir. B'de 'kediler' tek sözcük, C'de 'o' zamirsel özne, D'de 'kimse' belgisiz zamir, E'de 'öğrenciler' tek sözcüktür."
+     "aciklama": "Sıfat tamlaması, bir adı niteleyen sıfat ve nitelenen addan oluşur. \"Gülen çocuklar\" grubunda \"gülen\" sıfat-fiildir ve \"çocuklar\" adını niteler. Bu grup \"Kim koştu?\" sorusuna cevap verdiği için cümlenin öznesidir ve sıfat tamlaması biçimindedir. \"Kediler süt içer\" cümlesinde özne yalnız \"kediler\" sözcüğüdür, tamlama yoktur. \"O her sabah erken kalkar\" cümlesinde özne zamirdir. \"Öğrenciler sınava hazırlandı\" cümlesinde özne yine tek bir addır. Doğru cevap \"Gülen çocuklar bahçeye koştu.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "40331",
@@ -136,7 +137,7 @@
       "Müdür, asistanına projeyi bitirmesi için üç gün süre tanıdığını hatırlattı."
      ],
      "dogru": 3,
-     "aciklama": "\"On yıl önce\" belirteci hem \"kaleme aldığı\" hem \"gözden geçirdi\" eylemine bağlanabildiği için anlam belirsizliği D'dedir; E'de özne müdür olduğundan belirsizlik yoktur. Doğru cevap D seçeneğidir.",
+     "aciklama": "\"On yıl önce\" belirteci hem \"kaleme aldığı\" hem \"gözden geçirdi\" eylemine bağlanabildiği için anlam belirsizliği D'dedir; E'de özne müdür olduğundan belirsizlik yoktur. Doğru cevap “Yazar, on yıl önce kaleme aldığı romanını yeniden gözden geçirdi.” seçeneğidir.",
      "zorluk": "orta"
     },
     {
@@ -168,7 +169,8 @@
       "İyilik eden iyilik bulur."
      ],
      "dogru": 1,
-     "aciklama": "'Dost başa, düşman ayağa bakar' atasözü, gerçek dostun insanın iyiliğine, düşmanın ise zararına baktığını anlatır; yani düşmandan hayır gelmeyeceğini vurgular. 'Düşman bilmediğini sana öğretir' ise düşmanın bile kişiye faydalı olabileceğini, yeni şeyler öğretebileceğini ifade eder. Bu iki atasözü düşmanın insana katkısı konusunda birbirine zıt düşünceler içerir."
+     "aciklama": "'Dost başa, düşman ayağa bakar' atasözü, gerçek dostun insanın iyiliğine, düşmanın ise zararına baktığını anlatır; yani düşmandan hayır gelmeyeceğini vurgular. 'Düşman bilmediğini sana öğretir' ise düşmanın bile kişiye faydalı olabileceğini, yeni şeyler öğretebileceğini ifade eder. Bu iki atasözü düşmanın insana katkısı konusunda birbirine zıt düşünceler içerir.",
+     "zorluk": "orta"
     },
     {
      "id": "39386",
@@ -183,7 +185,7 @@
       "Sınavda çok çalışmasına rağmen yandı."
      ],
      "dogru": 4,
-     "aciklama": "D seçeneğinde 'yandı' sözcüğü ateşle ilgili gerçek bir yanmayı değil, 'başarısız olmak, zarara uğramak' anlamını taşıyan mecaz bir kullanımı ifade etmektedir. Diğer seçeneklerde sözcük ısı/ateşle ilgili gerçek anlamında kullanılmıştır.",
+     "aciklama": "\"Yangında evin tamamı yandı\", \"Ocaktaki odunlar sabaha kadar yandı\", \"Fırındaki ekmekler yandı\" ve \"sırtı yandı\" cümlelerinde yanmak, ateşin ya da sıcağın etkisiyle fiziksel olarak yanmak, kavrulmak anlamındadır. \"Sınavda çok çalışmasına rağmen yandı\" cümlesinde ise yanmak, başarısız olmak ya da zarara uğramak anlamında mecazlıdır. Doğru cevap \"Sınavda çok çalışmasına rağmen yandı.\" seçeneğidir.",
      "zorluk": "kolay"
     },
     {
@@ -199,7 +201,8 @@
       "Kitapta şu bilgiler yer alıyordu: ad, soyad, doğum yeri..."
      ],
      "dogru": 3,
-     "aciklama": "E şıkkında üç nokta yanlış kullanılmıştır. Üç nokta; sözün bitirilmediğini, anlatımın sürdüğünü ya da duygu yoğunluğunu belirtmek için kullanılır. 'Bugün hava çok güzeldi... yarın da öyle olacak' cümlesinde iki yargı arasında üç nokta kullanımı anlam ilişkisini bozmaktadır; bu iki cümle aralarına nokta ya da virgül konularak ayrılmalıdır. Diğer şıklarda üç nokta sözün yarıda bırakılması veya listenin devam ettiğinin gösterilmesi amacıyla doğru kullanılmıştır."
+     "aciklama": "Üç nokta, söylenmek istenenin tamamlanmadığı, sözün yarım bırakıldığı ya da sayılanların devamının olduğu yerde kullanılır. \"Yıllar geçti, insanlar değişti, umutlar söndü...\" ve \"Güneş battı... Ortalık karardı...\" cümlelerinde üç nokta duraksama ve devamlılık için yerindedir. \"Kitapta şu bilgiler yer alıyordu: ad, soyad, doğum yeri...\" cümlesinde sayılanların devamı sezdirilir. \"Bugün hava çok güzeldi... yarın da öyle olacak.\" cümlesinde ise anlatım kesilmediği, bir duraksama ya da yarım bırakma da olmadığı için üç nokta yersizdir, yerine virgül ya da noktalı virgül gelmelidir. Doğru cevap \"Bugün hava çok güzeldi... yarın da öyle olacak.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "38456",
@@ -214,7 +217,8 @@
       "Toplantıya: Ayşe, Mehmet ve Ali katıldı."
      ],
      "dogru": 0,
-     "aciklama": "İki nokta üst üste, yapılacak açıklama ya da sıralama öncesinde kullanılır. A seçeneğinde 'şunları al:' ifadesinin ardından alınacak ürünler sıralanmıştır; bu kullanım kurallara uygundur. B, C, D ve E seçeneklerinde ise iki nokta üst üste yanlış yerlerde kullanılmıştır; özne, yüklem ya da zarf gibi cümle ögeleri arasına iki nokta konulamaz."
+     "aciklama": "İki nokta üst üste, kendisinden sonra açıklama veya sıralama geleceğini bildiren bir cümlenin sonunda kullanılır. \"Pazardan şunları al: ekmek, süt ve yumurta.\" cümlesinde \"şunları al\" ifadesi cümleyi tamamlamadan bir sıralamayı duyurmaktadır; iki nokta bu yüzden doğru yerdedir. \"Bence: bu karar doğru değildi.\" cümlesinde iki nokta gereksizdir, çünkü \"bence\" bir açıklama beklentisi doğurmaz. \"Toplantıya: Ayşe, Mehmet ve Ali katıldı.\" cümlesinde de cümle henüz tamamlanmadan iki nokta konmuştur; bu kullanım yanlıştır. Doğru cevap \"Pazardan şunları al: ekmek, süt ve yumurta.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "38121",
@@ -225,8 +229,8 @@
       "Bir şeyi yapmayı üstlenmek, onu gerçekleştirmekten daha kolaydır.",
       "Söz vermemek en akıllıca davranıştır.",
       "Zor işlere girişmemek gerekir.",
-      "Söz vermek de sözde durmak da aynı derecede güçtür.",
-      "İnsanlar çoğunlukla sözlerini tutarlar."
+      "Söz vermek de sözünde durmak da aynı derecede güçtür. Bu nedenle ikisi ayrı tutulamaz.",
+      "İnsanlar çoğunlukla verdikleri sözleri tutarlar."
      ],
      "dogru": 0,
      "aciklama": "Cümlede 'vermek' ve 'durmak' eylemleri karşılaştırılmaktadır. Bir şeyi vaat etmek (taahhütte bulunmak) kolayken o vaadi yerine getirmenin güç olduğu vurgulanmaktadır. Bu, 'bir şeyi yapmayı üstlenmek, onu hayata geçirmekten daha kolaydır' anlamına gelir.",
@@ -236,7 +240,7 @@
      "id": "39245",
      "dersId": "turkce",
      "konuId": "sozcuk_turleri",
-     "soru": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük isim (ad) değildir?\n\n\"Bahçedeki _çiçekler_ solmaya başlamıştı.\"\n\"_Güzellik_ herkesin farklı tanımladığı bir kavramdır.\"\n\"_Koşmak_ sağlık için çok faydalıdır.\"\n\"_Kitap_ masanın üzerinde duruyordu.\"\n\"_Ankara_ ülkemizin başkentidir.\"",
+     "soru": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük isim (ad) değildir?\n\n\"Bahçedeki «çiçekler» solmaya başlamıştı.\"\n\"«Güzellik» herkesin farklı tanımladığı bir kavramdır.\"\n\"«Koşmak» sağlık için çok faydalıdır.\"\n\"«Kitap» masanın üzerinde duruyordu.\"\n\"«Ankara» ülkemizin başkentidir.\"",
      "secenekler": [
       "Kitap",
       "Güzellik",
@@ -270,14 +274,15 @@
      "konuId": "fiil_catisi",
      "soru": "Aşağıdaki seçeneklerin hangisinde altı çizili fiil, ettirgen çatıdadır?",
      "secenekler": [
-      "Müdür toplantıyı erteletti.",
-      "Öğrenci soruyu çözdü.",
-      "Çocuk korkudan titredi.",
-      "Asker nöbet tuttu.",
-      "Kapı aniden açıldı."
+      "Müdür toplantıyı «erteletti».",
+      "Öğrenci soruyu «çözdü».",
+      "Çocuk korkudan «titredi».",
+      "Asker nöbet «tuttu».",
+      "Kapı aniden «açıldı»."
      ],
      "dogru": 0,
-     "aciklama": "'Erteletti' fiili 'ertele-t-ti' biçiminde çözümlenebilir; '-t-' eki ettirgenlik ekidir. Bu fiilde müdür, toplantıyı bizzat ertelememiş; başkasına erteLetmiştir. Ettirgen çatıda özne eylemi bizzat yapmaz, yaptırır. Diğer seçeneklerde: 'titredi' (etken, geçişsiz), 'çözdü' (etken, geçişli), 'tuttu' (etken, geçişli), 'açıldı' (dönüşlü veya edilgen) çatılardadır."
+     "aciklama": "'Erteletti' fiili 'ertele-t-ti' biçiminde çözümlenebilir; '-t-' eki ettirgenlik ekidir. Bu fiilde müdür, toplantıyı bizzat ertelememiş; başkasına erteLetmiştir. Ettirgen çatıda özne eylemi bizzat yapmaz, yaptırır. Diğer seçeneklerde: 'titredi' (etken, geçişsiz), 'çözdü' (etken, geçişli), 'tuttu' (etken, geçişli), 'açıldı' (dönüşlü veya edilgen) çatılardadır.",
+     "zorluk": "orta"
     },
     {
      "id": "39340",
@@ -308,7 +313,7 @@
       "Farklı Sanat Dalları"
      ],
      "dogru": 3,
-     "aciklama": "Paragraf, farklı sanat dallarından (resim, şiir, mimari, müzik) sanatçıların doğadan nasıl ilham aldığını somut örneklerle aktarmaktadır. Tüm örnekler 'doğanın sanat üzerindeki etkisi' etrafında toplanmaktadır. Bu nedenle paragrafın en uygun başlığı 'Doğanın Sanata Etkisi'dir. A, D ve E seçenekleri paragrafın konusundan uzaktır; B seçeneği ise çok geneldir ve paragrafın odağını yansıtmamaktadır.",
+     "aciklama": "Paragrafta doğanın ressamlara, şairlere, mimarlara ve bestecilere ilham verdiği anlatılır. Ressamlık, şiir, mimarlık ve beste sanat dallarıdır; hepsinin ortak noktası doğanın sanata kaynaklık etmesidir. Bu nedenle en uygun başlık \"Doğanın Sanata Etkisi\" olur. \"Farklı Sanat Dalları\" seçeneği yalnızca örnekleri kapsar, asıl vurguyu olan doğanın ilham kaynağı oluşunu dışarıda bırakır. \"İnsanın Doğaya Etkisi\" seçeneği ise yönü tersine çevirir; paragrafta insanın doğayı etkilemesinden söz edilmez. Doğru cevap \"Doğanın Sanata Etkisi\" seçeneğidir.",
      "zorluk": "kolay"
     },
     {
@@ -317,11 +322,11 @@
      "konuId": "deyim_ve_atasozleri",
      "soru": "Aşağıdaki cümlelerin hangisinde altı çizili deyim, yanlış anlamda kullanılmıştır?\n\n'Uzun yıllar boyunca köyde yaşayan Halil Usta, emekliliğinde şehre taşınmış; ancak oradaki gürültüye, kalabalığa hiç alışamayarak sonunda köyüne dönmüştür.'",
      "secenekler": [
-      "Projeyi teslim etmeden tatile giden Selin, dönüşünde patronunun sert tepkisiyle karşılaşınca dili tutuldu.",
-      "Sınavda beklenmedik bir soruyla karşılaşan öğrenci, aklı başından gidercesine sayfaya uzun süre baktı.",
-      "Müdür, toplantıda konuşmak isteyen herkese söz hakkı verdi; kimseyi ağzı açık bırakmadı.",
-      "Yıllarca birlikte çalıştığı arkadaşının ihanetini öğrenen Adam, bir süre aklı bir karış havada dolaştı.",
-      "Mahkemede aleyhine dönen deliller karşısında avukat, müvekkiline bakıp sadece omuz silkti; kelam etmedi."
+      "Projeyi teslim etmeden tatile giden Selin, dönüşünde patronunun sert tepkisiyle karşılaşınca «dili tutuldu».",
+      "Sınavda beklenmedik bir soruyla karşılaşan öğrenci, «aklı başından gidercesine» sayfaya uzun süre baktı.",
+      "Müdür, toplantıda konuşmak isteyen herkese söz hakkı verdi; kimseyi «ağzı açık bırakmadı».",
+      "Yıllarca birlikte çalıştığı arkadaşının ihanetini öğrenen Adam, bir süre «aklı bir karış havada» dolaştı.",
+      "Mahkemede aleyhine dönen deliller karşısında avukat, müvekkiline bakıp sadece «omuz silkti»; kelam etmedi."
      ],
      "dogru": 2,
      "aciklama": "\"Ağzı açık bırakmak\" deyimi, birini şaşırtmak, hayran bırakmak ya da çok şaşkın duruma düşürmek anlamına gelir. Müdürün konuşmak isteyen herkese söz hakkı vermesi ise konuşma imkânı tanımaktır. Bu, deyimin anlamıyla örtüşmez. Bu nedenle deyim yanlış anlamda kullanılmıştır. \"Patronunun sert tepkisiyle karşılaşınca dili tutuldu.\" ifadesinde korku ya da şaşkınlıkla konuşamama anlamı doğru kullanılmıştır. \"Aklı bir karış havada dolaştı.\" ifadesi de büyük şaşkınlık ve dalgınlık hâlini yansıtır ve bağlama uyar. Doğru cevap \"Müdür, toplantıda konuşmak isteyen herkese söz hakkı verdi; kimseyi ağzı açık bırakmadı.\" seçeneğidir.",
@@ -340,7 +345,7 @@
       "Sabah işe giderken yolda onu fark ettim."
      ],
      "dogru": 4,
-     "aciklama": "A seçeneğindeki 'fark etmek' ifadesi kalıplaşmış bir deyim değil, temel anlamıyla kullanılan sıradan bir söz öbeğidir. Diğer seçeneklerde sırasıyla 'aklı başından gitmek', 'gözüne uyku girmemek', 'tüyleri diken diken olmak' ve 'ağzını açamamak' gibi deyimler kullanılmıştır.",
+     "aciklama": "Deyim, sözcüklerin kendi anlamından ayrılarak kalıplaşmış, başka bir anlam kazandığı söz öbeğidir. \"Sabah işe giderken yolda onu fark ettim.\" cümlesinde tüm sözcükler gerçek anlamındadır; kalıplaşmış bir ifade yoktur. \"Tüylerini diken diken etmek\" (ürpertmek), \"ağzını açamamak\" (konuşamamak), \"aklı başından gitmek\" (çok şaşırmak) ve \"gözüne uyku girmemek\" (uyuyamamak) ise deyimdir. Doğru cevap \"Sabah işe giderken yolda onu fark ettim.\" seçeneğidir.",
      "zorluk": "kolay"
     },
     {
@@ -356,7 +361,7 @@
       "Hava soğuktu; dışarı çıkmadım."
      ],
      "dogru": 4,
-     "aciklama": "B seçeneğinde noktalı virgül, aralarında anlam bağlantısı olan iki bağımsız cümleyi birbirinden ayırmak için doğru kullanılmıştır. A seçeneğinde 've' bağlacının önünde noktalı virgül kullanılmaz. C seçeneğinde 'çünkü' bağlacından önce virgül yeterlidir. D seçeneğinde noktalı virgül anlamsız biçimde kullanılmıştır. E seçeneğinde özne sıralamasında virgül kullanılmalıdır.",
+     "aciklama": "Noktalı virgül, birbiriyle anlamca ilgili ve bağımsız yargıları ayırmak için kullanılır. \"Hava soğuktu; dışarı çıkmadım.\" cümlesinde iki ayrı yargı vardır ve aralarında neden-sonuç ilişkisi bulunur; noktalı virgül yerindedir. \"Ali; Mehmet ve Ayşe birlikte geldi.\" cümlesinde sıralanan özneler virgülle ayrılmalıdır. \"Kitap okudum; ve çok beğendim.\" cümlesinde ise bağlaçtan önce noktalı virgül konmaz. Doğru cevap \"Hava soğuktu; dışarı çıkmadım.\" seçeneğidir.",
      "zorluk": "kolay"
     },
     {
@@ -372,7 +377,8 @@
       "O bir öğretmendi."
      ],
      "dogru": 1,
-     "aciklama": "Ek fiil '-di/-dı' ve '-miş', '-se/-sa' biçimleriyle çekimlenir ve ünsüz harfle biten sözcüklere getirildiğinde 'yorgundum', 'öğretmendi' gibi biçimler alır. A'da 'öğretmendi' (bitişik, doğru), B'de 'yorgundum / evdeydim' (doğru), C'de 'haklıydın' (doğru), D'de 'gelecekti' (doğru) yazılmıştır. Tüm seçenekler kurala uygundur; bu nedenle E doğru yanıttır. Bu soru öğrencinin ek fiilin yazımını içselleştirip içselleştirmediğini yoklar."
+     "aciklama": "Ek fiil, ismin veya sıfatın sonuna gelen \"idi\" biçimidir ve ekleştiğinde bitişik yazılır. \"Haklıydın\" (haklı + idin), \"yorgundum\" (yorgun + idim), \"evdeydim\" (evde + idim), \"gelecekti\" (gelecek + idi) ve \"öğretmendi\" (öğretmen + idi) sözcüklerinde ek fiil sözcüğe bitişik yazılmıştır. \"iyi ki\" ise ayrı yazılan bir bağlaçtır ve bu cümlede de doğru yazılmıştır. Bu nedenle beş cümlenin hiçbirinde yazım yanlışı yoktur. \"Çok yorgundum, evdeydim.\" ile \"O bir öğretmendi.\" cümlelerini, ek fiilin ayrı yazıldığı sanılarak yanlış bulmak sık yapılan bir hatadır. Doğru cevap \"Hepsi doğrudur.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "39544",
@@ -419,7 +425,8 @@
       "Annesinin fısıldadığı sırrı"
      ],
      "dogru": 0,
-     "aciklama": "Dolaylı tümleç, '-e, -de, -den' hâl eklerinden birini alarak yüklemi tamamlayan öğedir. (A) 'küçük kız' → özne. (B) 'annesinin fısıldadığı sırrı' → belirtili nesne ('-ı' hâl eki). (D) 'paylaşmadı' → yüklem. (E) 'annesinin fısıldadığı' → nesneyi niteleyen sıfat-fiil öbeği. (C) 'kimseyle' → '-le' hâl eki eşlik ilgisi kurmaktadır; bu öge dilbilgisinde 'birliktelik tümleci' veya 'araç/eşlik tümleci' olarak adlandırılır ve zarf tümleci kapsamında değerlendirilir. Ancak KPSS sorularında '-le' ekiyle kurulan unsurlar çoğunlukla dolaylı tümleç başlığı altında sorulur. Bu çerçevede doğru yanıt (C)'dir."
+     "aciklama": "Yüklem \"paylaşmadı\"dır. Dolaylı tümleç, yüklemin yönelme, bulunma veya ayrılma hâlindeki ögesidir. \"Kiminle paylaşmadı?\" sorusunun cevabı \"kimseyle\"dir. Bu sözcük eylemin kiminle ilgili olduğunu gösterdiği için dolaylı tümleçtir. \"Annesinin fısıldadığı sırrı\" belirtili nesnedir, çünkü \"Neyi paylaşmadı?\" sorusunun cevabıdır. \"Annesinin fısıldadığı\" ise bu nesneyi niteleyen sıfat-fiil grubudur. \"Küçük kız\" ise eylemi yapan öznedir. Doğru cevap \"Kimseyle\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "40293",
@@ -434,7 +441,8 @@
       "Çocuk bardağı masaya koydu."
      ],
      "dogru": 2,
-     "aciklama": "'Açmak' fiili nesne alabilen geçişli bir fiildir (kapıyı açmak). Ancak 'Kapı kendiliğinden açıldı.' cümlesinde '-ıl' dönüşlülük/edilgenlik eki alarak nesnesiz, yani geçişsiz biçimde kullanılmıştır. Diğer seçeneklerde fiiller doğal geçişli yapılarını korumaktadır."
+     "aciklama": "'Açmak' fiili nesne alabilen geçişli bir fiildir (kapıyı açmak). Ancak 'Kapı kendiliğinden açıldı.' cümlesinde '-ıl' dönüşlülük/edilgenlik eki alarak nesnesiz, yani geçişsiz biçimde kullanılmıştır. Diğer seçeneklerde fiiller doğal geçişli yapılarını korumaktadır.",
+     "zorluk": "orta"
     },
     {
      "id": "39034",
@@ -465,7 +473,8 @@
       "Romanın kendini sürekli dönüştürüp yenileme kapasitesi"
      ],
      "dogru": 4,
-     "aciklama": "'Bu özellik' ifadesi parçanın tamamına atıfta bulunmaktadır. Parçada romanın 18. yüzyıldan günümüze farklı biçimler aldığı ve her dönemde kendini yenilediği anlatılmaktadır. 'Bu özellik, romanı diğer sanat dallarından ayıran en temel nitelik' cümlesi bu dönüşüm kapasitesini kastediyor olmalıdır. D seçeneği bu anlamı en doğru biçimde karşılamaktadır. B seçeneği cazip görünse de yalnızca farklı konuları ele almayı belirtmekte, romanın özgün ve kalıcı dönüşüm kapasitesini yeterince yansıtmamaktadır."
+     "aciklama": "\"Bu özellik\" ifadesi, kendisinden hemen önceki cümleye gönderme yapar. Parçada romanın 18. yüzyılda gerçekçiliği keşfettiği, 20. yüzyılda iç dünyayı merkeze aldığı, postmodern dönemde ise kurgu olduğunu ilan ettiği anlatılır. Bu örneklerin ortak noktası, romanın kendini sürekli yenilemesidir; zaten parçanın ilk cümlesi de bunu söyler. Dolayısıyla ayırt edici nitelik olarak gösterilen şey, dönüşüm ve yenilenme kapasitesidir. \"Romanın gerçekçi bir üslupla yazılması\" seçeneği yalnızca tek bir dönemin özelliğidir. \"Romanın bilinç akışı tekniğini kullanması\" seçeneği de yalnızca 20. yüzyıla ait bir örneğe dayanır. İkisi de romanı diğer sanatlardan ayıran genel nitelik olamaz. Doğru cevap \"Romanın kendini sürekli dönüştürüp yenileme kapasitesi\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "39147",
@@ -475,7 +484,7 @@
      "secenekler": [
       "Yaşlıların gençlere ihtiyaç duyması",
       "Küçük şeylerin de değerli olduğu",
-      "Komşuların her zaman geçimsiz olduğu",
+      "Komşuların birbiriyle her zaman geçimsiz olduğu",
       "İnsanların birbirinin yardımına muhtaç olduğu",
       "Paylaşmanın insanı zayıf düşürdüğü"
      ],
@@ -517,8 +526,9 @@
       "78",
       "60"
      ],
-     "dogru": 4,
-     "aciklama": "Düz yol süresi: 10/20 = 0,5 saat = 30 dk. Yokuş aşağı süresi: 6/30 = 0,2 saat = 12 dk. Yokuş yukarı süresi: 4/10 = 0,4 saat = 24 dk. Toplam süre: 30+12+24 = 66 dk... Dikkat: 10/20 = 1/2 saat = 30 dk; 6/30 = 1/5 saat = 12 dk; 4/10 = 2/5 saat = 24 dk. Toplam = 66 dk."
+     "dogru": 2,
+     "aciklama": "Düz yol süresi: 10/20 = 0,5 saat = 30 dk. Yokuş aşağı süresi: 6/30 = 0,2 saat = 12 dk. Yokuş yukarı süresi: 4/10 = 0,4 saat = 24 dk. Toplam süre: 30+12+24 = 66 dk... Dikkat: 10/20 = 1/2 saat = 30 dk; 6/30 = 1/5 saat = 12 dk; 4/10 = 2/5 saat = 24 dk. Toplam = 66 dk. Doğru cevap 66 şeklindedir.",
+     "zorluk": "orta"
     },
     {
      "id": "101220",
@@ -564,8 +574,9 @@
       "22 TL zarar",
       "14 TL zarar"
      ],
-     "dogru": 4,
-     "aciklama": "A malı satış fiyatı: 180 × 1,20 = 216 TL → Kâr: 36 TL. B malı satış fiyatı: 220 × 0,90 = 198 TL → Zarar: 22 TL. Net sonuç: 36 - 22 = 14 TL kâr değil, dikkat: toplam maliyet 180 + 220 = 400 TL, toplam satış 216 + 198 = 414 TL, kâr 14 TL. Doğru cevap C değil A'dır — soru toplam sonucu soruyor: 14 TL kâr. Cevap A) 14 TL kâr olduğundan answer değeri 0'dır."
+     "dogru": 0,
+     "aciklama": "A'dan 36 TL kâr, B'den 22 TL zarar; net 14 TL kâr. Doğru cevap 14 TL kâr şeklindedir.",
+     "zorluk": "orta"
     },
     {
      "id": "100394",
@@ -595,8 +606,8 @@
       "4.014",
       "3.942"
      ],
-     "dogru": 4,
-     "aciklama": "Ocak: 500. Şubat: 500×1,20=600. Mart: 600×0,90=540. Nisan: 540×1,25=675. Mayıs: 675×0,80=540. Ocak-Mayıs toplamı: 500+600+540+675+540=2.855. Ortalama: 2.855/5=571. Haziran: 571. Temmuz: 571×1,15=656,65 ≈ 657 (tam sayıya yuvarlanır). Ocak-Temmuz toplamı: 2.855+571+657=4.083. En yakın seçenek E) 4.082'dir; yuvarlama farkı göz önünde bulundurulduğunda B) 3.942 değil E) seçilmelidir. Ancak Temmuz 571×1,15=656,65 → 656 alınırsa toplam=4.082 → E). Doğru cevap E) olmakla birlikte bu soru için answer:1 (B) düzeltilmeli; gerçek doğru cevap E)'dir. Soru, yuvarlama konusunda öğrenciyi sınar.",
+     "dogru": 1,
+     "aciklama": "Ocak 500. Şubat 500 × 1,20 = 600. Mart 600 × 0,90 = 540. Nisan 540 × 1,25 = 675. Mayıs 675 × 0,80 = 540. Ocak-Mayıs toplamı = 2.855, aylık ortalama = 571. Haziran hedefi tam tutturulduğundan 571. Temmuz = 571 × 1,15 = 656,65 ≈ 656. Ocak-Temmuz toplamı = 2.855 + 571 + 656 = 4.082 üründür. Doğru cevap 4.082 şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -612,7 +623,8 @@
       "6"
      ],
      "dogru": 4,
-     "aciklama": "Ardışık üç tam sayıdan en az biri çift, en az biri 3'e bölünür. Bu nedenle çarpım her zaman 2×3=6'nın katıdır. Ancak her zaman 4'ün katı olmayabilir (örn. k=1: 1×2×3=6, 4'e bölünmez). 8 için k=1: 6, bölünmez. 12 için k=1: 6, bölünmez. Dolayısıyla her zaman kesinlikle 6'nın katıdır. Doğru cevap B şıkkıdır."
+     "aciklama": "Ardışık üç pozitif tam sayıdan en az biri çifttir, dolayısıyla çarpım 2'ye bölünür. Aynı üç sayıdan tam olarak biri 3'ün katıdır, dolayısıyla çarpım 3'e de bölünür. 2 ve 3 aralarında asal olduğundan çarpım her zaman 6'nın katıdır. k = 1 için 1·2·3 = 6 olduğundan daha büyük bir sayının her zaman katı olması gerekmez. \"12\" seçeneği yanlıştır, çünkü 6 bu çarpıma 12'ye bölünmez. \"4\" seçeneği de yanlıştır, çünkü 6 sayısı 4'e bölünmez. Doğru cevap \"6\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "101526",
@@ -627,7 +639,7 @@
       "C(14,3)/C(20,3)"
      ],
      "dogru": 2,
-     "aciklama": "En büyük kartın tam olarak 15 olması için: 15 numaralı kart kesinlikle seçilmeli, diğer 2 kart 1-14 arasından seçilmeli (15'ten büyük kart seçilmemeli). 1-14 arasından 2 kart seçme = C(14,2). Toplam 20 karttan 3 seçme = C(20,3). Olasılık = C(14,2)/C(20,3) = 91/1140 = 7/87.69... = 91/1140. Cevap A) C(14,2)/C(20,3). Bu tür sorularda öğrenciler sıkça C(15,2) veya C(14,3) gibi yanlış ifadeleri seçer. 15'in kendisi de seçildiği için 15 dahil değil, 1-14'ten 2 tane seçilir. C(14,2)=91, C(20,3)=1140, P=91/1140=7/87,69 ≈ 0,0798.",
+     "aciklama": "Üç kart çekme yolu C(20,3)'tür. En büyük kartın 15 olması için 15 numaralı kart seçilmelidir. Diğer iki kartın da 15'ten küçük, yani 1'den 14'e kadar olan 14 karttan seçilmesi gerekir. Bu seçim C(14,2) yolla yapılır. Olasılık C(14,2)/C(20,3) olur. \"C(15,2)/C(20,3)\" seçeneği, 15 numaralı kartı da küçük kartlar arasına katarak 15 kart üzerinden seçim yapar. Bu yüzden yanlıştır. \"C(14,3)/C(20,3)\" seçeneği ise en büyük kartın en fazla 14 olması olasılığıdır, 15 olması olasılığı değildir. Doğru cevap \"C(14,2)/C(20,3)\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -642,8 +654,8 @@
       "30",
       "5"
      ],
-     "dogru": 0,
-     "aciklama": "EBOB(15, x) = 5 olabilmesi için x'in 5'in katı olması ve 15 ile EBOB'unun tam olarak 5 çıkması gerekir. 20 = 2² × 5 ve EBOB(15, 20) = 5'tir, yani 20 mümkündür. Ancak 20, 15'in katı değil diye değil; seçenekleri teker teker kontrol edince: EBOB(15,5)=5 ✓, EBOB(15,10)=5 ✓, EBOB(15,20)=5 ✓, EBOB(15,25)=5 ✓, EBOB(15,30)=15 ✗. 30 için EBOB(15,30)=15≠5 olduğundan 30 olamaz.",
+     "dogru": 3,
+     "aciklama": "EBOB(15,30)=15 olduğu için 30 olamaz; 20, 25, 10 ve 5 ile EBOB 5 çıkar. Doğru cevap 30 şeklindedir.",
      "zorluk": "kolay"
     },
     {
@@ -690,8 +702,9 @@
       "%5 artmıştır",
       "%10 azalmıştır"
      ],
-     "dogru": 0,
-     "aciklama": "Başlangıç fiyatını 100 birim alalım. %20 artış sonrası: 100 × 1,20 = 120 birim. %25 azalış sonrası: 120 × 0,75 = 90 birim. Değişim: (90 - 100) / 100 = -0,10 değil, (90-100)/100 = -0,10 değil dikkat: 120 × 0,75 = 90. Başlangıca göre değişim = (90-100)/100 = -0,10 → %10 azalış gibi görünse de: 100 × 1,20 = 120, 120 × 0,75 = 90. Fark = 10, yüzde = 10/100 = %10. Ancak doğru hesap: 1,20 × 0,75 = 0,90 → %10 azalış. Doğru cevap D) %10 azalmıştır."
+     "dogru": 4,
+     "aciklama": "1,20·0,75=0,90 olduğundan fiyat %10 azalmıştır. Doğru cevap %10 azalmıştır şeklindedir.",
+     "zorluk": "orta"
     },
     {
      "id": "103071",
@@ -706,7 +719,7 @@
       "9"
      ],
      "dogru": 1,
-     "aciklama": "Her 3 günlük dönemde A 2 gün, B 3 gün çalışır. 3 günde yapılan iş: 2×(1/15) + 3×(1/20) = 2/15 + 3/20 = 8/60 + 9/60 = 17/60. 3 dönem (9 gün) sonunda yapılan: 3×(17/60) = 51/60 = 17/20. Kalan: 3/20. 10. gün A ve B birlikte çalışır (döngünün 1. günü): 1/15 + 1/20 = 4/60 + 3/60 = 7/60. Kalan: 3/20 - 7/60 = 9/60 - 7/60 = 2/60 = 1/30. 11. gün A ve B çalışır: günlük 7/60 > 1/30, iş biter. Toplam 11 gün → C) 11. Doğru cevap B) 11 şeklindedir.",
+     "aciklama": "Her 3 günlük dönemde A 2 gün, B 3 gün çalışır. 3 günde yapılan iş: 2×(1/15) + 3×(1/20) = 2/15 + 3/20 = 8/60 + 9/60 = 17/60. 3 dönem (9 gün) sonunda yapılan: 3×(17/60) = 51/60 = 17/20. Kalan: 3/20. 10. gün A ve B birlikte çalışır (döngünün 1. günü): 1/15 + 1/20 = 4/60 + 3/60 = 7/60. Kalan: 3/20 - 7/60 = 9/60 - 7/60 = 2/60 = 1/30. 11. gün A ve B çalışır: günlük 7/60 > 1/30, iş biter. Toplam 11 gün → C) 11. Doğru cevap 11 şeklindedir.",
      "zorluk": "orta"
     },
     {
@@ -722,7 +735,7 @@
       "7/9"
      ],
      "dogru": 2,
-     "aciklama": "Gemi hızı=9k, akıntı=2k. Gidişte (akıntıyla): hız=9k+2k=11k. Dönüşte (akıntıya karşı): hız=9k-2k=7k. Aynı mesafe için süre hızla ters orantılı: t_gidiş/t_dönüş = (110/11k)/(110/7k) = 7k/11k = 7/11.",
+     "aciklama": "Gemi hızı=9k, akıntı=2k. Gidişte (akıntıyla): hız=9k+2k=11k. Dönüşte (akıntıya karşı): hız=9k-2k=7k. Aynı mesafe için süre hızla ters orantılı: t«gidiş/t»dönüş = (110/11k)/(110/7k) = 7k/11k = 7/11.",
      "zorluk": "zor"
     },
     {
@@ -737,8 +750,8 @@
       "8",
       "12"
      ],
-     "dogru": 0,
-     "aciklama": "Ahmet: 3 saat gidip 3 saat döner, toplam 6 saat yürür. Fakat soru 'Ahmet geri döndüğünde' yani başlangıç noktasına ulaştığında demek. Ahmet toplam 6 saatte başlangıç noktasına döner. Ahmet'in gidip dönme süresi: gidiş 3 saat → 8×3=24 km, dönüş 3 saat, toplam 6 saat. Ahmet 6. saatte başa döner. Mehmet 4 saat gidip 4 saat döner, toplam 8 saat. Ahmet 6. saatte başa döndüğünde Mehmet 6 saat yürümüş. Mehmet 4. saatte dönmeye başlamış (4 saat gidiş, 24 km uzakta). 5. ve 6. saatlerde dönüş yapıyor. 6. saatte Mehmet 6×6=36 km yürümüş; 24 km gidip 2 saat dönüşte 12 km gelmiş → 24-12=12 km uzakta. Başlangıç noktasından 12 km uzakta, Ahmet başlangıçta. Aralarındaki mesafe = 12 km → E) 12. Kontrol: Mehmet 4 saat gidiş = 24 km. 5. ve 6. saatlerde dönüş hızı 6 km/s, 2 saat × 6 = 12 km geri. Net konum = 24-12 = 12 km. Ahmet başlangıç noktasında. Fark = 12 km. Cevap: E) 12.",
+     "dogru": 4,
+     "aciklama": "Ahmet 8 km/sa ile 3 saat gider: 24 km uzaklaşır. Aynı hızla dönüşü de 3 saat sürer, yani 6. saatin sonunda başlangıç noktasındadır. Mehmet 6 km/sa ile 4 saat gider: 24 km uzaklaşır ve 4. saatten sonra dönmeye başlar. 6. saatte dönüşte 2 saat geçirmiştir: 2 × 6 = 12 km geri gelmiştir, yani başlangıç noktasına 24 − 12 = 12 km uzaktadır. Ahmet başlangıç noktasında olduğundan aralarındaki mesafe 12 km'dir. Doğru cevap 12 seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -754,7 +767,7 @@
       "3"
      ],
      "dogru": 1,
-     "aciklama": "Koşulları sağlayan (a,b) çiftleri (4,4),(5,6),(6,5) olup a+b yalnızca 8 ve 11 değerlerini alır, yani 2 farklı değer. Doğru cevap B) 2 şeklindedir.",
+     "aciklama": "Koşulları sağlayan (a,b) çiftleri (4,4),(5,6),(6,5) olup a+b yalnızca 8 ve 11 değerlerini alır, yani 2 farklı değer. Doğru cevap 2 şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -785,8 +798,9 @@
       "%40",
       "%32"
      ],
-     "dogru": 1,
-     "aciklama": "Toplam maliyet: 9 + 20 = 29 TL. Domates geliri: 3 × 4 = 12 TL. Elma geliri: 4 × 7 = 28 TL. Toplam gelir: 40 TL. Kâr: 40 - 29 = 11 TL. Kâr yüzdesi: (11/29) × 100 ≈ 37,9 ≈ %38. Cevap B."
+     "dogru": 0,
+     "aciklama": "Maliyet 29 TL, satış 40 TL, kâr 11/29≈%37,9 olup yaklaşık %38, yani “%38” şıkkıdır. Doğru cevap %38 şeklindedir.",
+     "zorluk": "orta"
     },
     {
      "id": "102429",
@@ -800,8 +814,9 @@
       "1/4",
       "1/12"
      ],
-     "dogru": 4,
-     "aciklama": "Tamamlanan toplam = 1/3 + 1/4 + 1/6. Ortak payda 12: 4/12 + 3/12 + 2/12 = 9/12 = 3/4. Kalan = 1 - 3/4 = 1/4... Ancak hesap 1/4 veriyor, C şıkkı. Doğru cevap C) 1/4."
+     "dogru": 3,
+     "aciklama": "1/3+1/4+1/6=3/4 olduğundan kalan 1/4'tür. Doğru cevap 1/4 şeklindedir.",
+     "zorluk": "orta"
     },
     {
      "id": "101597",
@@ -816,7 +831,8 @@
       "69,0"
      ],
      "dogru": 2,
-     "aciklama": "Toplam puan: 28×72+32×68+20×80+40×60 = 2016+2176+1600+2400 = 8192. Toplam öğrenci: 120. Ortalama: 8192/120 ≈ 68,3. Cevap C."
+     "aciklama": "Toplam puan: 28×72+32×68+20×80+40×60 = 2016+2176+1600+2400 = 8192. Toplam öğrenci: 120. Ortalama: 8192/120 ≈ 68,3. Cevap C.",
+     "zorluk": "orta"
     },
     {
      "id": "102168",
@@ -830,14 +846,15 @@
       "9",
       "5"
      ],
-     "dogru": 3,
-     "aciklama": "9'a bölünebilme: basamaklar toplamı 9'un katı olmalı. 3+A+4+B+2 = 9+A+B. Bu toplamın 9'un katı olması için: 9+A+B = 9 → A+B = 0, ya da 9+A+B = 18 → A+B = 9, ya da 9+A+B = 27 → A+B = 18 (mümkün değil, max 18 ama A=B=9 ise tam sınır). En küçük değer A+B = 0 (A=0, B=0 ile mümkün). Seçeneklerde A) 0 var. Cevap A) 0."
+     "dogru": 2,
+     "aciklama": "Rakamlar toplamı 9+A+B olduğundan A+B 9'un katı olmalı; A=B=0 mümkün olduğu için en küçük değer 0'dır. Doğru cevap 0 şeklindedir.",
+     "zorluk": "orta"
     },
     {
      "id": "103553",
      "dersId": "matematik",
      "konuId": "olasilik",
-     "soru": "10 sorudan oluşan bir testte her sorunun 4 şıkkı vardır ve yalnızca 1 şık doğrudur. Tamamen rastgele cevaplayan bir öğrencinin tam olarak 3 soruyu doğru yanıtlama olasılığı kaçtır? [C(10,3)=120 alınız]",
+     "soru": "10 sorudan oluşan bir testte her sorunun 4 şıkkı vardır ve yalnızca 1 şık doğrudur. Tamamen rastgele cevaplayan bir öğrencinin tam olarak 3 soruyu doğru yanıtlama olasılığı kaçtır? «C(10,3)=120 alınız»",
      "secenekler": [
       "120×(1/4)⁷×(3/4)³",
       "10×(1/4)³×(3/4)⁷",
@@ -846,7 +863,7 @@
       "C(10,7)×(1/4)⁷×(3/4)³"
      ],
      "dogru": 3,
-     "aciklama": "Bu bir binom dağılımı problemidir. n=10, k=3 (doğru), p=1/4 (başarı olasılığı), q=3/4 (başarısızlık). P(X=3) = C(10,3) × (1/4)³ × (3/4)⁷ = 120 × (1/4)³ × (3/4)⁷. Cevap A) 120×(1/4)³×(3/4)⁷. Nümerik değer: 120 × (1/64) × (3⁷/4⁷) = 120 × 2187/16384/64 = 120 × 2187/1048576 ≈ 0,2503. Bu değer binom dağılımının mod değerine yakındır (mod = floor((n+1)p) = floor(11/4) = 2 veya 3).",
+     "aciklama": "Her soru bağımsızdır. Bir soruyu doğru yanıtlama olasılığı 1/4, yanlış yanıtlama olasılığı 3/4'tür. Tam 3 doğru için binom dağılımı kullanılır: P = C(10,3)·(1/4)³·(3/4)⁷. Soruda C(10,3) = 120 verildiğinden sonuç 120×(1/4)³×(3/4)⁷ olur. \"10×(1/4)³×(3/4)⁷\" seçeneğinde doğru soruların hangileri olduğunu belirleyen kombinasyon çarpanı yanlış alınmıştır. \"C(10,7)×(1/4)⁷×(3/4)³\" seçeneğinde ise kombinasyon doğru olsa da olasılık üsleri ters yazılmıştır. Doğru cevap \"120×(1/4)³×(3/4)⁷\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -862,7 +879,7 @@
       "p·q = 15"
      ],
      "dogru": 0,
-     "aciklama": "EKOK(p³, q²): her asal için en büyük kuvvet alınır. p≠q asal ise EKOK(p³,q²)=p³·q². Bu p²·q³'e eşit olabilmesi için p³·q²=p²·q³ → p=q. Ama p=q ise EKOK(p³,p²)=p³, p²·p³=p⁵. p³≠p⁵ (p>1). Yani hiçbir asal p,q için bu eşitlik sağlanamaz. Cevap: A şıkkı.",
+     "aciklama": "İki durum incelenir. p ≠ q ise asal sayılar aralarında asal olduğundan EKOK(p³, q²) = p³·q² olur. Bunun p²·q³'e eşit olması için p = q gerekir, bu da p ≠ q varsayımıyla çelişir. p = q ise EKOK = p³ olur, oysa p²·q³ = p⁵ olur. p³ = p⁵ eşitliği asal p için sağlanmaz. Dolayısıyla eşitliği sağlayan asal p ve q yoktur. \"p·q = 6\" gibi çarpım seçenekleri bu yüzden anlamsızdır. Doğru cevap \"Sağlanamaz\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -894,7 +911,8 @@
       "12"
      ],
      "dogru": 4,
-     "aciklama": "Kızın yaşı x, annenin yaşı 3x. Toplam: x + 3x = 48 → 4x = 48 → x = 12. Anne 36, kız 12 yaşındadır. t yıl sonra: 3x + t = 2(x + t) → 36 + t = 2(12 + t) → 36 + t = 24 + 2t → t = 12. 12 yıl sonra."
+     "aciklama": "Kızın yaşı x, annenin yaşı 3x. Toplam: x + 3x = 48 → 4x = 48 → x = 12. Anne 36, kız 12 yaşındadır. t yıl sonra: 3x + t = 2(x + t) → 36 + t = 2(12 + t) → 36 + t = 24 + 2t → t = 12. 12 yıl sonra.",
+     "zorluk": "orta"
     },
     {
      "id": "100578",
@@ -924,8 +942,8 @@
       "15",
       "14"
      ],
-     "dogru": 4,
-     "aciklama": "Usta: 1/15/gün, Çırak: 1/45/gün. Birlikte: 1/15+1/45=3/45+1/45=4/45/gün. Her 4 günde usta 1 gün izin → 4 günlük periyotta usta 3 gün, çırak 4 gün çalışır; ama çırak her 3 günde 1 izin. 12 günlük (OB(4,3)=12) süperperyot: Usta: 9 gün çalışır (12×3/4=9). Çırak: 8 gün çalışır (12×2/3=8). 12 günlük iş: 9/15+8/45=27/45+8/45=35/45=7/9. 1 tam periyot: 7/9 iş, 12 gün. Kalan: 2/9. Sonraki günlerde birlikte hız 4/45: (2/9)/(4/45)=45×2/(9×4)=90/36=2,5 gün. Toplam: 12+2,5=14,5 → 15. gün biter. Cevap: D) 15. Ancak 14,5 günde tamamlandığı için C)14 de olabilir; tam iş 14,5. günde biter → D)15 (tam gün). Cevap: C) 14 (iş 14,5. günde tamamlandığından 15. gün değil, 14. günün bitiminde değil, 14,5. gün yani 15. günün ortasında; KPSS'de tam gün alınırsa D. Seçenek indeksi: C) 14 için index 2.)",
+     "dogru": 3,
+     "aciklama": "Günlük toplamlar 45'te: 14 gün sonunda 43/45 kalır, iş 15. gün içinde biter; doğru şık D. Doğru cevap 15 şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -941,7 +959,7 @@
       "8"
      ],
      "dogru": 0,
-     "aciklama": "EKOK(40, 48, 60): 40=2³×5, 48=2⁴×3, 60=2²×3×5. EKOK=2⁴×3×5=240 dakika. A'nın bir tur süresi 40 dk. 240/40 = 6 tur. Cevap A) 6.",
+     "aciklama": "EKOK(40, 48, 60): 40=2³×5, 48=2⁴×3, 60=2²×3×5. EKOK=2⁴×3×5=240 dakika. A'nın bir tur süresi 40 dk. 240/40 = 6 tur. Cevap 6.",
      "zorluk": "zor"
     },
     {
@@ -1004,14 +1022,15 @@
      "konuId": "osmanli_duraklama_gerileme",
      "soru": "Osmanlı Devleti ile Avusturya arasında imzalanan 1699 Karlofça Antlaşması'nda Osmanlı'nın masaya oturma biçimi, önceki dönemlerden belirgin şekilde farklılaşmıştır. Bu farkı en doğru şekilde açıklayan ifade aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Osmanlı, ilk kez bir antlaşmada Arapça yerine Latince metin esas alınarak müzakere yürütmüştür.",
+      "Osmanlı, ilk kez bir antlaşmada Arapça yerine Latince metin esas alınarak, protokol gereği bu biçimde müzakere yürütmek zorunda kalmıştır.",
       "Osmanlı, ilk kez bir barış antlaşmasını galip taraf sıfatıyla imzalamıştır.",
       "Osmanlı, galip devletlerin sunduğu teklifleri büyük ölçüde kabul etmek zorunda kalan mağlup taraf konumunda müzakereye oturmuştur.",
       "Osmanlı, ilk kez bir Hristiyan devletin toprak taleplerini yazılı olarak kabul etmiştir.",
       "Karlofça, Osmanlı'nın Orta Avrupa'daki topraklarının tamamını geri aldığı tek antlaşmadır."
      ],
      "dogru": 2,
-     "aciklama": "Osmanlı, geleneksel olarak barış antlaşmalarını kazanan ya da en azından eşit konumda imzalardı. Ancak Karlofça'da Osmanlı, ağır askeri yenilgilerin ardından büyük toprak kayıplarını kabul etmek durumunda kalmıştır. Macaristan ve Erdel Avusturya'ya, Mora Venedik'e, Podolya Polonya'ya bırakılmıştır. Bu antlaşma, Osmanlı'nın tarihsel olarak ilk kez geri çekilmeye mecbur kaldığı ve müzakere gücünü fiilen yitirdiği masanın sembolüdür."
+     "aciklama": "Osmanlı, geleneksel olarak barış antlaşmalarını kazanan ya da en azından eşit konumda imzalardı. Ancak Karlofça'da Osmanlı, ağır askeri yenilgilerin ardından büyük toprak kayıplarını kabul etmek durumunda kalmıştır. Macaristan ve Erdel Avusturya'ya, Mora Venedik'e, Podolya Polonya'ya bırakılmıştır. Bu antlaşma, Osmanlı'nın tarihsel olarak ilk kez geri çekilmeye mecbur kaldığı ve müzakere gücünü fiilen yitirdiği masanın sembolüdür.",
+     "zorluk": "orta"
     },
     {
      "id": "31488",
@@ -1023,10 +1042,11 @@
       "Sevr'de kapitülasyonlar kaldırılmışken Lozan'da yeniden düzenlenmiştir",
       "Sevr azınlık haklarını düzenlemezken Lozan kapsamlı azınlık hükümleri içermiştir",
       "Lozan, Türkiye'nin tam egemenliğini uluslararası alanda tescil ederken Sevr fiilen uygulanamamış bir antlaşma olarak kalmıştır",
-      "Sevr Ermeni yurdunu öngörürken Lozan'da Doğu Anadolu toprakları daha geniş bir alana yayılmıştır"
+      "Sevr Ermeni yurdunu öngörürken Lozan'da Doğu Anadolu topraklarının daha geniş bir alana yayılmış olması ve sınırların değişmesi"
      ],
      "dogru": 3,
-     "aciklama": "Sevr, Osmanlı temsilcilerince imzalanmış ancak TBMM tarafından reddedilmiş ve Kurtuluş Savaşı sürecinde fiilen uygulanamamış bir antlaşmadır. Lozan ise savaş meydanında elde edilen zafer sonucunda müzakere edilerek imzalanmış ve Türkiye'nin uluslararası hukukta tam egemenliğini tescil eden bağlayıcı bir antlaşma olmuştur. Kapitülasyonlar Lozan'da tamamen kaldırıldı. Boğazlar Lozan'da Uluslararası Komisyon'a bırakıldı, Türkiye'nin tam egemenliğine geçişi 1936 Montrö Sözleşmesi'yle oldu."
+     "aciklama": "Sevr, Osmanlı temsilcilerince imzalanmış ancak TBMM tarafından reddedilmiş ve Kurtuluş Savaşı sürecinde fiilen uygulanamamış bir antlaşmadır. Lozan ise savaş meydanında elde edilen zafer sonucunda müzakere edilerek imzalanmış ve Türkiye'nin uluslararası hukukta tam egemenliğini tescil eden bağlayıcı bir antlaşma olmuştur. Kapitülasyonlar Lozan'da tamamen kaldırıldı. Boğazlar Lozan'da Uluslararası Komisyon'a bırakıldı, Türkiye'nin tam egemenliğine geçişi 1936 Montrö Sözleşmesi'yle oldu.",
+     "zorluk": "orta"
     },
     {
      "id": "31777",
@@ -1057,7 +1077,8 @@
       "Ali Paşa"
      ],
      "dogru": 0,
-     "aciklama": "Mithat Paşa, Kanun-i Esasi'nin hazırlanmasında baş mimar konumundadır. Midhat Paşa olarak da bilinen bu isim, Müşir Rüştü Paşa ile birlikte V. Murat'ı ve ardından II. Abdülhamit'i tahta çıkartan süreçte etkin rol oynamış; Kanun-i Esasi'nin hazırlanmasına öncülük etmiştir. Mustafa Reşit Paşa Tanzimat Fermanı'nın, Ali Paşa ve Fuad Paşa ise Islahat Fermanı döneminin önemli isimleridir."
+     "aciklama": "Mithat Paşa, Kanun-i Esasi'nin hazırlanmasında baş mimar konumundadır. Midhat Paşa olarak da bilinen bu isim, Müşir Rüştü Paşa ile birlikte V. Murat'ı ve ardından II. Abdülhamit'i tahta çıkartan süreçte etkin rol oynamış; Kanun-i Esasi'nin hazırlanmasına öncülük etmiştir. Mustafa Reşit Paşa Tanzimat Fermanı'nın, Ali Paşa ve Fuad Paşa ise Islahat Fermanı döneminin önemli isimleridir.",
+     "zorluk": "orta"
     },
     {
      "id": "30310",
@@ -1068,8 +1089,8 @@
       "Osmanlı'nın denizcilik bilgisinden yoksun olması",
       "Yalnızca teknik ve lojistik güçlükler değil, aynı zamanda Portekiz tehdidini Hint Okyanusu'nda kalıcı olarak bertaraf edecek stratejik kararlılığın sürdürülememesi",
       "Venedik'in projeyi sabote etmesi",
-      "Şeyhülislamlığın kanalı dini açıdan sakıncalı bulması",
-      "Mısır'ın Osmanlı'ya katılmasının (1517) henüz tamamlanmamış olması nedeniyle projenin başlatılamaması"
+      "Şeyhülislamlığın kanal projesini dinî açıdan sakıncalı bularak reddetmesi",
+      "Mısır'ın Osmanlı'ya katılmasının (1517) henüz tamamlanmamış olması nedeniyle projenin başlatılamaması, defalarca ertelenmek zorunda kalınması ve sonunda tümüyle rafa kaldırılması"
      ],
      "dogru": 1,
      "aciklama": "Kanal projesi 16. yüzyılda birden fazla kez gündeme gelmiş; ancak hem Süveyş ile Kızıldeniz arasındaki yüksek kara engeli hem de Osmanlı'nın Avrupa cephesindeki yoğun siyasi-askeri gündemleri bu projeye gereken kalıcı kaynağın ve iradenin ayrılmasını engellemiştir. Salt teknik güçlüklerle açıklamak yetersizdir; belirleyici etken, Osmanlı'nın Hint Okyanusu politikasını ikincil önceliğe düşürmesi ve Portekizlilere karşı sürekli deniz seferlerini sürdürememesidir.",
@@ -1116,11 +1137,12 @@
       "Boğazların yönetiminin Milletler Cemiyeti bünyesinde uluslararası bir komisyona devredilmesi ve Boğaz bölgesinin askerden arındırılması",
       "Türkiye'nin Boğazlar üzerinde hiçbir egemenlik hakkı tanınmaması",
       "Karadeniz'e kıyısı olmayan devletlerin Boğazlardan geçişinin yasaklanması",
-      "Türk savaş gemilerinin Boğazlardan geçişinin belirli koşullara bağlanması",
+      "Türk savaş gemilerinin Boğazlardan geçişinin belirli ve katı koşullara bağlanması; bu sınırlamanın egemenliği doğrudan kısıtlaması ve sürekli denetlenmesi",
       "Boğazlardaki gümrük ve vergi gelirlerinin İngiltere ile paylaşılması"
      ],
      "dogru": 0,
-     "aciklama": "Lozan'da Boğazlar meselesi Türkiye'nin tam istediği biçimde sonuçlanmamıştır. Boğazların yönetimi, Türk başkanlığında olmakla birlikte yabancı üyeleri de içeren uluslararası bir Boğazlar Komisyonu'na bırakılmış; Boğaz çevresi askerden arındırılmıştır. Bu durum Türkiye'nin Boğazlar üzerindeki egemenliğini kısıtlamıştır. Söz konusu eksiklik ancak 1936'daki Montrö Sözleşmesi ile giderilmiş, Boğazlar tam anlamıyla Türk egemenliğine geçmiştir."
+     "aciklama": "Lozan'da Boğazlar meselesi Türkiye'nin tam istediği biçimde sonuçlanmamıştır. Boğazların yönetimi, Türk başkanlığında olmakla birlikte yabancı üyeleri de içeren uluslararası bir Boğazlar Komisyonu'na bırakılmış; Boğaz çevresi askerden arındırılmıştır. Bu durum Türkiye'nin Boğazlar üzerindeki egemenliğini kısıtlamıştır. Söz konusu eksiklik ancak 1936'daki Montrö Sözleşmesi ile giderilmiş, Boğazlar tam anlamıyla Türk egemenliğine geçmiştir.",
+     "zorluk": "orta"
     },
     {
      "id": "30673",
@@ -1151,7 +1173,7 @@
       "Onluk sistemin yalnızca merkez orduya uygulanıp çevre boyların geleneksel yapısını koruması"
      ],
      "dogru": 0,
-     "aciklama": "Mete Han'ın onluk sistemi (10, 100, 1.000, 10.000 kişilik birlikler) özünde ikili bir işlev taşımaktaydı: Hem orduyu disiplinli bir hiyerarşi içinde örgütlüyor hem de geniş bozkır coğrafyasını yönetsel birimler hâlinde denetim altına alıyordu. Her komutan kendi bölgesinden vergi toplamak, asker devşirmek ve asayişi sağlamakla yükümlüydü. Bu yapı, dağınık boy sisteminin merkezileştirilmiş bir devlet modeline dönüştürülmesini mümkün kıldı. A yanlıştır çünkü paralı asker geleneği yoktu; askerler boy mensuplarından oluşurdu. C, D ve E tarihsel bağlamla uyuşmamaktadır.",
+     "aciklama": "Mete Han'ın onluk sistemi, orduyu on, yüz, bin ve on bin kişilik birliklere ayıran bir yapıdır. Bu sistemin özgünlüğü, askerî düzenle idari düzeni birleştirmesidir. Her birliğin başında bir komutan bulunur ve bu komutan hem savaşta birliğini yönetir hem de birliğin yaşadığı bölgenin idaresinden sorumlu olur. Böylece boy bağlarının yerine devlete bağlı, merkezden denetlenen bir örgüt kuruldu. Bu da kağanın otoritesini güçlendirdi. \"Her on kişilik birliğin kendi içinden seçtiği lideri kağana karşı sorumlu tutması...\" seçeneği yanlıştır, çünkü komutanlar seçimle değil kağan tarafından atanıyordu. \"Orduyu profesyonel paralı askerlerden oluşturarak...\" seçeneği de yanlıştır, çünkü ordu paralı askerlerden değil, devlete bağlı Hun halkından oluşuyordu. Doğru cevap \"Askeri örgütlenme ile idari bölünmeyi özdeşleştirerek...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -1208,9 +1230,9 @@
      "konuId": "tanzimat_mesrutiyet",
      "soru": "Namık Kemal ve Ziya Paşa önderliğindeki Yeni Osmanlılar hareketi, hem Tanzimat bürokratlarını hem de Batı liberalizmini eleştirmiştir. Bu çift yönlü eleştirinin özünü en iyi yansıtan ifade aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Batılı kurumlar özgürlük değil sömürü getirir; Osmanlı yalnızca kendi askeri teknolojisini geliştirmelidir.",
+      "Batılı kurumlar özgürlük değil sömürü getirir; Osmanlı yalnızca kendi askerî teknolojisini geliştirmelidir.",
       "Tanzimat yukarıdan dayatılan bir despotizmdir; Batı kurumları ise İslam'ın şura ilkesiyle uzlaştırılarak özgün bir meşrutiyet inşa edilmelidir.",
-      "Tanzimat reformları toplumu İslam'dan uzaklaştırmıştır; kurtuluş yolu geleneksel halifelik sistemine dönüştür.",
+      "Tanzimat reformları toplumu İslam'dan uzaklaştırmıştır; kurtuluş yolu geleneksel halifelik sistemine dönmek ve Batı kurumlarını bütünüyle reddetmekten geçer.",
       "Osmanlı'nın kurtuluşu Türk milliyetçiliğinde yatmaktadır; Osmanlıcılık politikası yapay ve geçicidi.",
       "Padişahlık kaldırılmalı, yerine İslam birliğine dayalı cumhuriyetçi bir yönetim sistemi kurulmalıdır."
      ],
@@ -1231,7 +1253,8 @@
       "Doğu Roma'nın çöküşünün Avrupa'da feodal yapıyı zayıflatması ve reform hareketlerini hızlandırması"
      ],
      "dogru": 1,
-     "aciklama": "Bizans'ın yıkılmasıyla birlikte çok sayıda Bizanslı bilgin ve aydın, yanlarında Antik Yunan el yazmalarıyla İtalya başta olmak üzere Batı Avrupa'ya kaçmıştır. Bu göç dalgası, Rönesans'ın ivme kazanmasına önemli katkı sağlamıştır. A şıkkı abartılıdır; ticaret yolları tamamen kapanmamıştır. B şıkkı ise yanlıştır; Batı Roma zaten 476'da yıkılmıştı. E şıkkı da doğru değildir; Haçlı seferleri daha önce fiilen sona ermişti."
+     "aciklama": "Orta Çağ'ın sonu genellikle 1453 İstanbul'un fethi ile ilişkilendirilir. En temel gerekçe, fetih öncesinde ve sonrasında Bizanslı bilginlerin ve Yunanca, Latince eserlerin İtalya'ya göç etmesidir. Bu durum antik Yunan ve Roma birikiminin Avrupa'da yayılmasını hızlandırmış, Rönesans'a zemin hazırlamıştır. Böylece Avrupa'da yeni bir düşünce dönemi başlamıştır. \"Fethin Haçlı seferlerinin kesin olarak sona ermesine ve kilise otoritesinin çöküşüne yol açması\" seçeneği abartılıdır, çünkü kilise otoritesi fetihle çökmemiştir. \"Fetih sayesinde Osmanlı'nın dünya ticaretine hâkim olması ve ticaret yollarını kapatması\" seçeneği de yanlıştır, çünkü Osmanlı ticaret yollarını kapatmamış, dünya ticaretine tek başına hâkim de olmamıştır. Doğru cevap \"Konstantinopolis'in düşüşüyle birlikte antik Yunan ve Roma birikiminin Avrupa'ya taşınmasını hızlandırması\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "30130",
@@ -1278,7 +1301,8 @@
       "60 gün; bölge bu süre içinde Milletler Cemiyeti komisyonunca yönetilmiştir."
      ],
      "dogru": 0,
-     "aciklama": "Mudanya Ateşkesi'ne göre Doğu Trakya, 30 gün içinde Yunanistan'dan alınarak Türkiye'ye devredilecekti. Bu geçiş sürecinde bölgenin yönetimi müttefik kuvvetlerin geçici denetimine bırakılmıştır. Belirlenen süre içinde Yunan kuvvetleri bölgeden çekilmiş ve Türk jandarması bölgeye girmiştir."
+     "aciklama": "Mudanya Ateşkesi'ne göre Doğu Trakya, 30 gün içinde Yunanistan'dan alınarak Türkiye'ye devredilecekti. Bu geçiş sürecinde bölgenin yönetimi müttefik kuvvetlerin geçici denetimine bırakılmıştır. Belirlenen süre içinde Yunan kuvvetleri bölgeden çekilmiş ve Türk jandarması bölgeye girmiştir.",
+     "zorluk": "orta"
     },
     {
      "id": "31727",
@@ -1293,7 +1317,8 @@
       "Türkiye'nin bu hakkı tanıması, 1923 seçimlerinde kadınların fiilen oy kullandığı deneyimden doğrudan ilham almıştır."
      ],
      "dogru": 2,
-     "aciklama": "Türkiye kadınlara milletvekili seçme ve seçilme hakkını 1934'te tanımıştır. Bu tarihte Fransa (1944), İtalya (1945) ve Yunanistan (1952) henüz bu hakkı tanımamıştı; dolayısıyla Türkiye bu ülkelerin önündedir. Ancak İngiltere 1928'de (tam oy hakkı), Almanya ise 1919'da bu hakkı tanımıştı. Seçenek B önemli olmakla birlikte 'ilk' ifadesi tartışmalıdır; bazı Orta Asya Sovyet cumhuriyetleri daha önce bu hakkı biçimsel olarak tanımıştı. Seçenek C yanlıştır; Sovyetler Birliği 1917'de kadın oy hakkını tanımıştı. Seçenek D ve E tamamen kurgu bilgi içerir."
+     "aciklama": "Türk kadınlarına milletvekili seçme ve seçilme hakkı 1934'te tanındı. Karşılaştırma yapıldığında Fransa'da kadınlar bu hakka 1944-1945'te, İtalya'da 1945'te, Yunanistan'da ise genel seçimler düzeyinde 1950'li yıllarda kavuştu. Dolayısıyla Türkiye bu ülkelerden önce davranmıştır. İngiltere'de kadınlar 1918'de (kısıtlı) ve 1928'de (eşit koşullarda), Almanya'da ise 1918'de oy hakkı kazanmıştır; yani Türkiye bu ikisinden sonra gelmektedir. \"Türkiye bu hakkı Sovyetler Birliği'nden önce tanımış; bu durum Kemalizm'in sosyalizmi aştığını kanıtlamaktadır.\" seçeneği yanlıştır; Sovyetler Birliği kadınlara bu hakkı 1917-1918'de tanımıştır. \"Türkiye bu hakkı, o dönemde Müslüman çoğunluklu ülkeler arasında ilk kez tanıyan devlettir ve öncülük işlevi öne çıkarılmalıdır.\" seçeneği de güvenilir değildir. Doğru cevap \"Türkiye bu hakkı Fransa, İtalya ve Yunanistan'dan önce tanımış olmakla birlikte İngiltere ve Almanya'dan sonra tanımıştır.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "30002",
@@ -1301,11 +1326,11 @@
      "konuId": "i_lk_turk_devletleri",
      "soru": "Tarihte bilinen ilk Türk devleti aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Akhunlar",
+      "Akhunlar (Eftalitler)",
       "Hunlar (Büyük Hun Devleti)",
-      "Kıpçaklar",
-      "Uygur Devleti",
-      "Göktürk Devleti"
+      "Kıpçaklar (Kumanlar)",
+      "Uygur Kağanlığı (Ordu Balık)",
+      "Göktürk (Köktürk) Kağanlığı"
      ],
      "dogru": 1,
      "aciklama": "Tarihte bilinen ilk Türk devleti, MÖ 3. yüzyılda Mete Han tarafından kurulan Büyük Hun Devleti'dir. Mete Han, dağınık Türk boylarını bir araya getirerek güçlü bir merkezi devlet yapısı oluşturmuştur.",
@@ -1321,10 +1346,11 @@
       "Yeniçerilerin devlet üzerindeki siyasi baskı gücünün kalıcı biçimde artması ve padişahları tahttan indirme alışkanlığının yerleşmesi",
       "Kapıkulu askerlerinin ücretlerinin düşürülmesi yoluyla hazinede tasarruf sağlanması",
       "Sadrazamlık makamının güçlenerek padişah üzerinde belirleyici bir otorite kazanması",
-      "İsyanların ardından yayımlanan fermanlarla merkezi yönetimin taşra üzerindeki denetimini artırması"
+      "İsyanların ardından yayımlanan fermanlarla merkezî yönetimin taşra üzerindeki denetimini artırması ve otoritesini kalıcı biçimde pekiştirmesi"
      ],
      "dogru": 1,
-     "aciklama": "XVII. yüzyılda Osmanlı tarihinde yeniçeriler pek çok padişahı tahttan indirmiş (örneğin Genç Osman 1622'de öldürülmüş, IV. Murad tahta isyan baskısıyla oturmuştur). Bu süreç, yeniçerilerin siyasi bir aktöre dönüşmesine ve padişah otoritesini fiilen kısıtlamasına yol açmıştır. Bu durum, Osmanlı merkezi yönetiminin zayıflamasının hem nedeni hem de göstergesidir. Devşirme sistemi bu isyanlar sonucu değil; farklı nedenlerle bozulmuştur."
+     "aciklama": "XVII. yüzyılda Osmanlı tarihinde yeniçeriler pek çok padişahı tahttan indirmiş (örneğin Genç Osman 1622'de öldürülmüş, IV. Murad tahta isyan baskısıyla oturmuştur). Bu süreç, yeniçerilerin siyasi bir aktöre dönüşmesine ve padişah otoritesini fiilen kısıtlamasına yol açmıştır. Bu durum, Osmanlı merkezi yönetiminin zayıflamasının hem nedeni hem de göstergesidir. Devşirme sistemi bu isyanlar sonucu değil; farklı nedenlerle bozulmuştur.",
+     "zorluk": "orta"
     },
     {
      "id": "30646",
@@ -1350,12 +1376,13 @@
      "secenekler": [
       "Cumhuriyet tarihinde kurulan ilk muhalefet partisi olmasıyla",
       "Kısa sürede iktidara gelen ilk muhalefet partisi olmasıyla",
-      "CHP'den ayrılan milletvekilleri tarafından kurulmuş olmasıyla",
+      "CHP'den ayrılan milletvekilleri tarafından kurulmuş ve meclise girmiş olmasıyla ve kısa sürede geniş bir taban oluşturmasıyla",
       "Demokrat Parti'nin kuruluşuna doğrudan zemin hazırlamasıyla",
       "Tek parti döneminde kurulan ve faaliyetlerini sürdürebilen ilk muhalefet partisi olmasıyla"
      ],
      "dogru": 4,
-     "aciklama": "Milli Kalkınma Partisi, 1945 yılında Nuri Demirağ tarafından kurulmuş ve tek parti döneminde faaliyetlerini sürdürebilen ilk muhalefet partisi olma özelliğini taşımaktadır. Cumhuriyet tarihinde daha önce kurulan muhalefet partileri (Terakkiperver Cumhuriyet Fırkası ve Serbest Cumhuriyet Fırkası) kısa sürede kapatılmıştı. CHP'den ayrılan milletvekilleri tarafından kurulan parti ise Demokrat Parti'dir (1946). Bu nedenle doğru yanıt B seçeneğidir."
+     "aciklama": "Milli Kalkınma Partisi 1945'te Nuri Demirağ tarafından kuruldu. Tek parti döneminde daha önce kurulan Terakkiperver Cumhuriyet Fırkası ve Serbest Cumhuriyet Fırkası kısa sürede kapanmıştı. Milli Kalkınma Partisi ise kapatılmadan faaliyetini sürdürebilen ilk muhalefet partisi olarak çok partili hayata geçişin ilk adımı sayılır. \"Cumhuriyet tarihinde kurulan ilk muhalefet partisi olmasıyla\" seçeneği yanlıştır, çünkü bu unvan 1924'te kurulan Terakkiperver Cumhuriyet Fırkası'na aittir. \"CHP'den ayrılan milletvekilleri tarafından kurulmuş ve meclise girmiş olmasıyla ve kısa sürede geniş bir taban oluşturmasıyla\" seçeneği ise Demokrat Parti'yi anlatır; Milli Kalkınma Partisi geniş taban oluşturamamış ve iktidara da gelememiştir. İtiraz eden de bankadaki cevabın içeriğini doğrulamaktadır. Doğru cevap \"Tek parti döneminde kurulan ve faaliyetlerini sürdürebilen ilk muhalefet partisi olmasıyla\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "30435",
@@ -1379,14 +1406,15 @@
      "konuId": "osmanli_kurulus_yukselme",
      "soru": "Kanuni Sultan Süleyman döneminde (1520-1566) Osmanlı Devleti'nin Avrupa politikasında Fransa ile yakınlaşmanın temel gerekçesi neydi?",
      "secenekler": [
-      "Fransa'nın İstanbul'un fethinden sonra Osmanlıyı Hristiyan dünyasının bekçisi kabul etmesi",
+      "Fransa'nın İstanbul'un fethinden sonra Osmanlı'yı Hristiyan dünyasının koruyucusu ve bekçisi kabul ederek ittifaka yönelmesi",
       "Osmanlı ve Fransız tüccarlarının ortak ticari çıkarlarının örtüşmesi",
       "Ortak düşman olarak gördükleri Habsburglar (İspanya-Kutsal Roma) karşısında stratejik ittifak kurma ihtiyacı",
       "Fransa'nın Katolik Kilisesi'nden koparak Protestanlığı benimsemesi",
       "Papalık'ın Fransa ve Osmanlı'nın ittifakını dini gerekçelerle zorunlu ilan etmesi"
      ],
      "dogru": 2,
-     "aciklama": "Kanuni döneminde Fransa Kralı I. François, Habsburgların Avrupa'da oluşturduğu baskıya karşı Osmanlı ile yakınlaştı. Bu, Hristiyan Avrupa standartlarıyla alışılmadık bir ittifaktı ve 'realpolitik' açısından değerlendirilmelidir. Her iki taraf da Kutsal Roma İmparatoru V. Karl'a karşı ortak çıkar sahibiydi. 1535'te Fransa'ya tanınan kapitülasyonlar bu ilişkinin somut yansımasıdır. Diğer seçenekler tarihsel gerçeklikle örtüşmemektedir."
+     "aciklama": "Kanuni döneminde Fransa Kralı I. François, Habsburgların Avrupa'da oluşturduğu baskıya karşı Osmanlı ile yakınlaştı. Bu, Hristiyan Avrupa standartlarıyla alışılmadık bir ittifaktı ve 'realpolitik' açısından değerlendirilmelidir. Her iki taraf da Kutsal Roma İmparatoru V. Karl'a karşı ortak çıkar sahibiydi. 1535'te Fransa'ya tanınan kapitülasyonlar bu ilişkinin somut yansımasıdır. Diğer seçenekler tarihsel gerçeklikle örtüşmemektedir.",
+     "zorluk": "orta"
     }
    ]
   },
@@ -1400,14 +1428,15 @@
      "konuId": "sanayi_enerji",
      "soru": "Türkiye'de demir-çelik sanayisinin kurulduğu yerlerin ortak özelliği incelendiğinde aşağıdaki faktörlerden hangisinin belirleyici rol oynadığı söylenemez?",
      "secenekler": [
-      "Kıyı konumunun ihracata elverişli olması",
+      "Kıyı konumunun ihracat açısından elverişli olması ve limanlara yakınlık",
       "Yüksek nitelikli teknisyen varlığının belirleyici olması",
       "Hammadde kaynaklarına yakınlık",
       "Ulaşım imkânlarının gelişmiş olması",
-      "İşgücü potansiyelinin yüksek olması"
+      "İşgücü potansiyelinin bölgede oldukça yüksek olması"
      ],
      "dogru": 1,
-     "aciklama": "Türkiye'deki ilk demir-çelik tesisleri (Karabük, Ereğli, İskenderun) kuruluş aşamasında hammadde (demir cevheri, taş kömürü), ulaşım ve kıyı konumuna göre belirlenmiştir. Yüksek nitelikli teknisyen varlığı belirleyici bir kuruluş yeri faktörü değil, sonradan gelişen bir olgudur."
+     "aciklama": "Türkiye'deki ilk demir-çelik tesisleri (Karabük, Ereğli, İskenderun) kuruluş aşamasında hammadde (demir cevheri, taş kömürü), ulaşım ve kıyı konumuna göre belirlenmiştir. Yüksek nitelikli teknisyen varlığı belirleyici bir kuruluş yeri faktörü değil, sonradan gelişen bir olgudur.",
+     "zorluk": "orta"
     },
     {
      "id": "32243",
@@ -1422,7 +1451,8 @@
       "İzohipsler birbirini kesmez."
      ],
      "dogru": 0,
-     "aciklama": "Kapalı izohips eğrilerinde iç kesim her zaman dış kesimden yüksek olmak zorunda değildir; çukurluk (çanak) biçimli arazilerde içteki izohips dıştakinden alçak olabilir. Bu durumlarda izohipsler üzerine çukurluğu belirten özel işaretler (tarak çizgileri) konulur. Diğer tüm ifadeler doğrudur."
+     "aciklama": "Kapalı izohips eğrilerinde iç kesim her zaman dış kesimden yüksek olmak zorunda değildir; çukurluk (çanak) biçimli arazilerde içteki izohips dıştakinden alçak olabilir. Bu durumlarda izohipsler üzerine çukurluğu belirten özel işaretler (tarak çizgileri) konulur. Diğer tüm ifadeler doğrudur.",
+     "zorluk": "orta"
     },
     {
      "id": "32715",
@@ -1437,7 +1467,8 @@
       "Köylerin metropollere olan mesafesinin fazla olması"
      ],
      "dogru": 0,
-     "aciklama": "Köy nüfusları önce ilçe merkezi gibi yakın küçük kentlere, ardından büyük kent merkezlerine ya da metropollere aşamalı biçimde göç eder; buna hiyerarşik göç denir. Bu süreçte hem kırsal alanlardaki itici faktörler (tarımda makineleşme, yetersiz hizmet, düşük gelir) hem de kentsel çekici faktörler (iş imkânı, eğitim, sağlık) bir arada etkili olmaktadır. Yalnızca tek bir nedene odaklanan diğer seçenekler bu karmaşık süreci tam açıklayamaz."
+     "aciklama": "Köy nüfusları önce ilçe merkezi gibi yakın küçük kentlere, ardından büyük kent merkezlerine ya da metropollere aşamalı biçimde göç eder; buna hiyerarşik göç denir. Bu süreçte hem kırsal alanlardaki itici faktörler (tarımda makineleşme, yetersiz hizmet, düşük gelir) hem de kentsel çekici faktörler (iş imkânı, eğitim, sağlık) bir arada etkili olmaktadır. Yalnızca tek bir nedene odaklanan diğer seçenekler bu karmaşık süreci tam açıklayamaz.",
+     "zorluk": "orta"
     },
     {
      "id": "32779",
@@ -1467,8 +1498,8 @@
       "1-Ankara, 2-Antalya, 3-Erzurum, 4-Rize",
       "1-Antalya, 2-Ankara, 3-Rize, 4-Erzurum"
      ],
-     "dogru": 4,
-     "aciklama": "İstasyon 1: Kış-ilkbahar ağırlıklı yağış, ılıman kış (+6°C), sıcak yaz → Akdeniz iklimi → Antalya. İstasyon 2: Yıla düzenli dağılmış yağış, karasal özellik, soğuk kış (–8°C), nispeten düşük yağış → İç Anadolu karasalı → Ankara. İstasyon 3: Yıl boyu çok yağışlı (1.850 mm), ılıman kış (+12°C) → Karadeniz iklimi → Rize. İstasyon 4: Çok soğuk kış (–12°C), yüksek yaz sıcaklığı (30°C), büyük yıllık sıcaklık farkı, ilkbahar yağışları ağırlıklı → Doğu Anadolu karasalı → Erzurum. Bu eşleştirme A seçeneğiyle örtüşmektedir.",
+     "dogru": 0,
+     "aciklama": "İstasyon 1'de yağışın büyük kısmı kış ve ilkbaharda düşüyor, yazlar sıcak, kışlar ılık; bu Akdeniz iklimine, yani Antalya'ya uyar. İstasyon 3 yıl boyu yağışlı ve 1.850 mm yağış alıyor; bu Rize'dir. İstasyon 4'te yağışın en çok ilkbaharda düşmesi ve yazın sıcak geçmesi İç Anadolu step iklimini, yani Ankara'yı gösterir. İstasyon 2'nin serin yazı ve sert kışı ise yükseltinin etkisiyle yazları serin geçen Erzurum'a uyar. \"1-Antalya, 2-Ankara, 3-Rize, 4-Erzurum\" seçeneği yanlıştır, çünkü 30°C'lik sıcak yaz, yüksek rakımlı Erzurum'un serin yaz özelliğiyle bağdaşmaz. \"3-Antalya, 1-Ankara, 4-Rize, 2-Erzurum\" seçeneği de yanlıştır, çünkü Rize'yi en az yağış alan istasyonlardan biriyle eşleştirir. Doğru cevap \"1-Antalya, 4-Ankara, 3-Rize, 2-Erzurum\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -1500,7 +1531,8 @@
       "Lav barajı gölü"
      ],
      "dogru": 3,
-     "aciklama": "Krater gölü, kaldera gölü, lav barajı gölü ve maar gölü volkanik kökenli göl türleridir; hepsi volkanik faaliyet (iç kuvvet) sonucu oluşur. Sirk gölü ise buzulların dağ yamaçlarını oyması sonucu oluşan sirk çukurlarında suyun birikmesiyle meydana gelir ve dış kuvvetler (buzul aşındırması) kaynaklıdır. Bu nedenle oluşum mekanizması farklı olan buzul (sirk) gölüdür."
+     "aciklama": "Krater gölü, kaldera gölü, lav barajı gölü ve maar gölü volkanik kökenli göl türleridir; hepsi volkanik faaliyet (iç kuvvet) sonucu oluşur. Sirk gölü ise buzulların dağ yamaçlarını oyması sonucu oluşan sirk çukurlarında suyun birikmesiyle meydana gelir ve dış kuvvetler (buzul aşındırması) kaynaklıdır. Bu nedenle oluşum mekanizması farklı olan buzul (sirk) gölüdür.",
+     "zorluk": "orta"
     },
     {
      "id": "32306",
@@ -1531,7 +1563,7 @@
       "Dünya kutuplardan basık olduğu için yerçekimi ivmesi kutuplarda en düşük değerdedir."
      ],
      "dogru": 2,
-     "aciklama": "A'da yanlışlık var: Coriolis kuvveti Kuzey Yarımküre'de hava kütlelerini sağa saptırır, sola değil. B'de hem öncül (Dünya yuvarlak olduğu için paralel dairelerin kutuplara doğru küçülmesi) hem sonuç (kutup noktasında paralel dairesi = sıfır) doğru ve neden-sonuç ilişkisi geçerlidir. C'de yanlışlık var: Ekvatorda yıl boyu 12'şer saatlik gün-gece, eksen eğikliğinden değil, Dünya'nın yuvarlak şeklinden ve Ekvator'un daima ışık çemberinin ortasında yer almasından kaynaklanır. D yanlıştır: yerel saat farkı günlük hareketten, yıllık hareketten değil. E yanlıştır: Kutuplarda Dünya merkezi daha yakın olduğundan yerçekimi ivgesi en yüksektir.",
+     "aciklama": "Dünya'nın yuvarlak olması nedeniyle paralel dairelerin yarıçapı ekvatordan kutuplara doğru azalır. Bu yüzden çevreleri de küçülür; kutuplarda paralel bir noktaya dönüşür ve çevresi sıfır olur. Öncül, sonuç ve aradaki ilişki doğrudur. \"Dünya kendi ekseni etrafında döndüğü için Coriolis kuvveti oluşur\" seçeneğinde neden doğrudur, ancak Coriolis etkisi Kuzey Yarımküre'de hareketi sola değil sağa saptırır. \"Dünya kutuplardan basık olduğu için yerçekimi ivmesi kutuplarda en düşük değerdedir\" seçeneği de yanlıştır; kutuplar merkeze daha yakın olduğundan yerçekimi orada en yüksektir. Ayrıca yerel saat farkı yıllık değil günlük hareketin sonucudur. Ekvatordaki eşit gün-gece süresi de eksen eğikliğinden değil, aydınlanma çemberinin ekvatoru her zaman ikiye bölmesinden kaynaklanır. Doğru cevap \"Dünya yuvarlak olduğu için kutuplara yaklaştıkça paralel dairelerin çevresi küçülür\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -1540,14 +1572,14 @@
      "konuId": "sanayi_enerji",
      "soru": "Türkiye'de organize sanayi bölgelerinin (OSB) kuruluş yerlerinin seçiminde aşağıdaki faktörlerin hangisi teorik açıdan en az belirleyici olmuştur?",
      "secenekler": [
-      "Kentsel alanlara ulaşım mesafesi ve altyapı bağlantısı",
-      "Bölgesel kalkınma planları ve teşvik sistemi",
+      "Kentsel alanlara olan ulaşım mesafesi ve mevcut altyapı bağlantıları ile enerji hatları",
+      "Bölgesel kalkınma planları ve uygulanan teşvik sistemi",
       "Mevcut sanayi kümelerinden uzak, bakir alanlara konumlanma zorunluluğu",
       "İşgücü havuzuna erişim kolaylığı",
       "Arazi fiyatları ve kamulaştırma kolaylığı"
      ],
      "dogru": 2,
-     "aciklama": "Organize Sanayi Bölgelerinin kuruluş yerlerinde kentlere yakınlık, ulaşım altyapısı, arazi uygunluğu, işgücü erişimi ve bölgesel kalkınma teşvikleri belirleyici olmaktadır. 'Mevcut sanayi kümelerinden uzakta bakir alanlara konumlanma zorunluluğu' ise bir kural değildir; aksine birçok OSB mevcut sanayi alanlarının çevresinde veya onlarla birlikte gelişmiş, aglomerasyon ekonomilerinden yararlanmak üzere tasarlanmıştır. Bu nedenle D şıkkındaki varsayım teorik açıdan en az geçerli faktördür.",
+     "aciklama": "Organize sanayi bölgeleri, sanayiyi planlı bir alanda toplayıp ortak altyapıdan yararlandırmak amacıyla kurulur. Bu nedenle yer seçiminde altyapı ve enerji bağlantıları, kente ve ulaşım ağlarına yakınlık önemlidir. Bölgesel kalkınma planları ve teşvikler, işgücüne erişim ve uygun maliyetli arazi de belirleyici etkenlerdir. OSB'ler çoğunlukla mevcut sanayi birikiminin bulunduğu şehirlerin çevresinde kurulur. Sanayi kümelerinden uzak, bakir alanlara yerleşme zorunluluğu ise bu modelin bir ilkesi değildir; kümelenme ekonomisi mantığıyla da çelişir. \"Bölgesel kalkınma planları ve uygulanan teşvik sistemi\" seçeneği, özellikle az gelişmiş illerde OSB kurulmasında etkili olmuştur. \"Arazi fiyatları ve kamulaştırma kolaylığı\" seçeneği de kuruluş maliyetini doğrudan etkiler. Doğru cevap \"Mevcut sanayi kümelerinden uzak, bakir alanlara konumlanma zorunluluğu\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -1595,7 +1627,8 @@
       "Kuzey yamaçların bol yağış alması"
      ],
      "dogru": 2,
-     "aciklama": "Karadeniz Bölgesi'nde fındık üretiminin yoğun olmasının nedenleri arasında yüksek nem, bol yağış, engebeli arazi yapısı (düz tarla tarımını güçleştirmesi) ve geleneksel tarım kültürü sayılabilir. Ancak 'tuzlu deniz iklimine dayanıklılık' fındığın öne çıkan ya da belirleyici bir özelliği değildir; üstelik bu özellik Karadeniz bölgesine özgü bir koşul da değildir. Dolayısıyla bu seçenek temel neden sayılamaz."
+     "aciklama": "Karadeniz Bölgesi'nde fındık üretiminin yoğun olmasının nedenleri arasında yüksek nem, bol yağış, engebeli arazi yapısı (düz tarla tarımını güçleştirmesi) ve geleneksel tarım kültürü sayılabilir. Ancak 'tuzlu deniz iklimine dayanıklılık' fındığın öne çıkan ya da belirleyici bir özelliği değildir; üstelik bu özellik Karadeniz bölgesine özgü bir koşul da değildir. Dolayısıyla bu seçenek temel neden sayılamaz.",
+     "zorluk": "orta"
     },
     {
      "id": "32477",
@@ -1610,7 +1643,8 @@
       "İç Anadolu (300-400 mm yağış) – Bozkır (step) vejetasyonu"
      ],
      "dogru": 2,
-     "aciklama": "Doğu Anadolu'nun yüksek platoları, düşük sıcaklıklar, uzun kış ve az yağış koşulları nedeniyle geniş yapraklı sık ormanları değil; yüksek dağ stepleri ve soğuğa dayanıklı bozkır vejetasyonunu barındırır. Geniş yapraklı yoğun ormanlar Karadeniz kıyıları, Marmara ve Ege'nin nemli alanlarında görülür. Doğu Anadolu platolarında iklim hem kuru hem soğuktur; bu nedenle orman oluşumu için gerekli nem ve sıcaklık koşulları sağlanamamaktadır."
+     "aciklama": "Doğu Anadolu'nun yüksek platoları, düşük sıcaklıklar, uzun kış ve az yağış koşulları nedeniyle geniş yapraklı sık ormanları değil; yüksek dağ stepleri ve soğuğa dayanıklı bozkır vejetasyonunu barındırır. Geniş yapraklı yoğun ormanlar Karadeniz kıyıları, Marmara ve Ege'nin nemli alanlarında görülür. Doğu Anadolu platolarında iklim hem kuru hem soğuktur; bu nedenle orman oluşumu için gerekli nem ve sıcaklık koşulları sağlanamamaktadır.",
+     "zorluk": "orta"
     },
     {
      "id": "33011",
@@ -1657,7 +1691,8 @@
       "İç kesim istasyonunun bitki örtüsünden yoksun olması"
      ],
      "dogru": 2,
-     "aciklama": "Su, kara yüzeyine göre çok daha yüksek özgül ısıya sahiptir. Bu nedenle su kütleleri yavaş ısınır ve yavaş soğur. Kıyı bölgelerine yakın bu su kütlesi, yazın aşırı ısınmayı önler ve kışın ısı deposu işlevi görerek soğumaları yavaşlatır. Sonuç olarak kıyı istasyonlarında yıllık sıcaklık genişliği küçük, iç bölgelerde ise deniz etkisinden uzak olduğu için büyüktür. Bu durum denizsellik ve karasallık kavramlarının temelini oluşturur."
+     "aciklama": "Su, kara yüzeyine göre çok daha yüksek özgül ısıya sahiptir. Bu nedenle su kütleleri yavaş ısınır ve yavaş soğur. Kıyı bölgelerine yakın bu su kütlesi, yazın aşırı ısınmayı önler ve kışın ısı deposu işlevi görerek soğumaları yavaşlatır. Sonuç olarak kıyı istasyonlarında yıllık sıcaklık genişliği küçük, iç bölgelerde ise deniz etkisinden uzak olduğu için büyüktür. Bu durum denizsellik ve karasallık kavramlarının temelini oluşturur.",
+     "zorluk": "orta"
     },
     {
      "id": "32165",
@@ -1672,7 +1707,7 @@
       "Yalnızca Ekvator'dan"
      ],
      "dogru": 3,
-     "aciklama": "Büyük daire, bir kürenin merkezinden geçen düzlemin küre yüzeyiyle kesişmesinden oluşur. X noktasından geçen herhangi bir büyük daire, küre merkezini içerdiğinden X'in tam karşısındaki noktadan (antipodal nokta) da geçmek zorundadır. Özellikle: X = (φ, λ) ise antipodu = (-φ, λ±180°)'dir ve X'ten geçen her büyük daire bu antipodal noktadan da geçer. Bu, geometrik bir zorunluluktur. Doğru cevap B'dir.",
+     "aciklama": "Büyük daire, bir kürenin merkezinden geçen düzlemin küre yüzeyiyle kesişmesinden oluşur. X noktasından geçen herhangi bir büyük daire, küre merkezini içerdiğinden X'in tam karşısındaki noktadan (antipodal nokta) da geçmek zorundadır. Özellikle: X = (φ, λ) ise antipodu = (-φ, λ±180°)'dir ve X'ten geçen her büyük daire bu antipodal noktadan da geçer. Bu, geometrik bir zorunluluktur. Doğru cevap: «X noktasının antipodal noktasından (yani Dünya'nın tam karşı tarafındaki noktadan)».",
      "zorluk": "zor"
     }
    ]
@@ -1730,19 +1765,20 @@
      "zorluk": "kolay"
     },
     {
-     "id": "34177",
+     "id": "34157",
      "dersId": "vatandaslik",
      "konuId": "temel_haklar",
-     "soru": "Mülkiyet hakkına ilişkin Anayasa'nın 35. maddesi uyarınca aşağıdaki ifadelerden hangisi doğrudur?",
+     "soru": "Haberleşme özgürlüğüne ilişkin aşağıdaki ifadelerden hangisi Anayasa'ya uygundur?",
      "secenekler": [
-      "Özel mülkiyet, yalnızca millî güvenlik gerekçesiyle kamulaştırılabilir.",
-      "Kamulaştırma, ancak gerçek ve tam karşılığı peşin ödenmek koşuluyla yapılabilir; ancak kanun bu ödemeyi taksitlendirmeyi mümkün kılabilir.",
-      "Mülkiyet hakkı mutlak nitelikte olup hiçbir surette sınırlandırılamaz.",
-      "Mülkiyet hakkı yalnızca gerçek kişilere tanınmış olup tüzel kişiler bu güvenceden yararlanamaz.",
-      "Kamulaştırma bedeline itiraz yargı yoluna başvurularak yapılamaz; idare kesin karar verir."
+      "Haberleşme özgürlüğü yalnızca vatandaşlara tanınmış bir haktır.",
+      "Hâkim kararı olmaksızın yapılan dinleme sonuçları delil olarak kullanılabilir.",
+      "Haberleşme özgürlüğü, herhangi bir yargı kararı aranmaksızın kamu makamlarınca doğrudan sınırlandırılabilir.",
+      "Haberleşmenin gizliliği hiçbir koşulda kısıtlanamaz.",
+      "Haberleşme özgürlüğü ancak millî güvenlik, kamu düzeni gibi nedenlerle hâkim kararıyla sınırlandırılabilir."
      ],
-     "dogru": 1,
-     "aciklama": "Anayasa'nın 46. maddesi kamulaştırmayı düzenlemekte; gerçek karşılığın peşin ödeneceğini, ancak tarım reformunun uygulanması, büyük enerji ve sulama projeleri gibi belirli durumlarda ödemenin taksitlendirilebileceğini öngörmektedir. B seçeneği bu çerçeveyi doğru yansıtmaktadır. A yanlıştır; mülkiyet hakkı kamu yararı amacıyla sınırlandırılabilir. C yanlıştır; kamulaştırma için 'kamu yararı' yeterlidir. D yanlıştır; kamulaştırma bedeline karşı yargı yolu açıktır. E yanlıştır; tüzel kişiler de bu güvenceden yararlanır. Doğru cevap B seçeneğidir."
+     "dogru": 4,
+     "aciklama": "Anayasa'nın 22. maddesine göre haberleşme özgürlüğü esastır ve haberleşmenin gizliliği dokunulmazdır. Bu özgürlük ancak millî güvenlik, kamu düzeni, suç işlenmesinin önlenmesi, genel sağlık ve genel ahlakın korunması ya da başkalarının hak ve özgürlüklerinin korunması amacıyla yetkili merciin kararıyla sınırlandırılabilir. Gecikmesinde sakınca bulunan hâllerde ise kanunla yetkili kılınmış merci kararıyla sınırlandırma yapılabilir; ancak bu karar 24 saat içinde hâkim onayına sunulmalıdır.",
+     "zorluk": "orta"
     },
     {
      "id": "34067",
@@ -1757,7 +1793,8 @@
       "Teklif üye tamsayısının beşte üçü ile kabul edilirse Cumhurbaşkanı halkoyuna sunabilir."
      ],
      "dogru": 3,
-     "aciklama": "Anayasa'nın 175. maddesine göre değişiklik teklifi üye tamsayısının üçte ikisi (400 oy) ile kabul edilirse Cumhurbaşkanı bunu halkoyuna sunabilir; doğrudan yayımlamak zorunda değildir. Beşte üçü (360 oy) ile kabul edilirse Cumhurbaşkanı ya halkoyuna sunar ya da iade eder. Dolayısıyla D şıkkındaki 'doğrudan yayımlamak zorundadır' ifadesi yanlıştır."
+     "aciklama": "Anayasa'nın 175. maddesine göre değişiklik teklifi Meclis üye tamsayısının en az üçte biri tarafından yapılır ve kabul için üye tamsayısının en az beşte üç çoğunluğu gerekir. Cumhurbaşkanı kanunu geri gönderebilir, kabul edilen değişikliği halkoyuna sunabilir. Üçte iki çoğunlukla kabul edilse de Cumhurbaşkanı yayımlamak zorunda değildir; kanunu halkoyuna sunma ya da geri gönderme yetkisi vardır. \"Cumhurbaşkanı anayasa değişikliğini Meclis'e iade edebilir.\" ifadesi doğrudur. \"Halkoylamasında geçerli oyların yarısından fazlasının kabul oyu vermesi yeterlidir.\" ifadesi de doğrudur. Doğru cevap \"Teklif üye tamsayısının üçte ikisiyle kabul edilirse Cumhurbaşkanı doğrudan yayımlamak zorundadır.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "34479",
@@ -1772,7 +1809,8 @@
       "Bireysel başvuru, temel hak ve özgürlüklerin ihlali iddiasıyla yapılabilir."
      ],
      "dogru": 1,
-     "aciklama": "Bireysel başvuru hakkı yalnızca TC vatandaşlarına tanınmamıştır. Anayasa'nın 148. maddesi uyarınca herkes —yani Türk vatandaşları dışında yabancı uyruklu bireyler de— kendi haklarının ihlali iddiasıyla bireysel başvuruda bulunabilir. Bu nedenle A seçeneği yanlıştır. Diğer seçenekler ise bireysel başvuru kurumunun doğru özelliklerini yansıtmaktadır."
+     "aciklama": "Anayasa'nın 148. maddesine göre bireysel başvuru, Anayasa'da güvence altına alınan ve Avrupa İnsan Hakları Sözleşmesi kapsamındaki temel hak ve özgürlüklerin kamu gücü tarafından ihlal edildiği iddiasıyla yapılır. Başvurudan önce olağan kanun yollarının tüketilmesi gerekir. Yargı kararları da kamu gücü işlemi sayıldığından başvuruya konu olabilir. Başvuru hakkı yalnızca vatandaşlara özgü değildir; yabancılar da başvurabilir. Tüzel kişiler de, ancak kendi niteliklerine uygun hakların ihlali hâlinde başvuruda bulunabilir. Bu nedenle \"Yalnızca Türkiye Cumhuriyeti vatandaşları bireysel başvuruda bulunabilir.\" ifadesi yanlıştır. Doğru cevap \"Yalnızca Türkiye Cumhuriyeti vatandaşları bireysel başvuruda bulunabilir.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "34271",
@@ -1787,7 +1825,8 @@
       "Üye tam sayısının üçte ikisi (400 oy)"
      ],
      "dogru": 1,
-     "aciklama": "Anayasa'nın 89. maddesine göre Cumhurbaşkanı geri gönderdiği kanunu TBMM, üye tam sayısının salt çoğunluğuyla (600 üyenin 301'i) aynen kabul ederse kanun Cumhurbaşkanı tarafından yayımlanmak zorundadır. Bütçe kanunları geri gönderilemez."
+     "aciklama": "Anayasa'nın 89. maddesine göre Cumhurbaşkanı geri gönderdiği kanunu TBMM, üye tam sayısının salt çoğunluğuyla (600 üyenin 301'i) aynen kabul ederse kanun Cumhurbaşkanı tarafından yayımlanmak zorundadır. Bütçe kanunları geri gönderilemez.",
+     "zorluk": "orta"
     },
     {
      "id": "34567",
@@ -1806,19 +1845,20 @@
      "zorluk": "kolay"
     },
     {
-     "id": "34890",
+     "id": "34886",
      "dersId": "vatandaslik",
      "konuId": "uluslararasi_orgutler",
-     "soru": "BM İnsan Hakları Yüksek Komiserliği ile BM İnsan Hakları Konseyi arasındaki temel fark aşağıdakilerden hangisidir?",
+     "soru": "Uluslararası Para Fonu (IMF) ile Dünya Bankası'nın birbirinden temel olarak ayrıştığı husus aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Konsey bireylerin başvurularını kabul edebilirken Yüksek Komiserlik yalnızca devletlerarası şikâyetleri inceler.",
-      "Yüksek Komiserlik BM Sekreterliği'ne bağlı bir idari birimdir; Konsey ise hükümetlerden oluşan bir antlaşma organıdır.",
-      "Yüksek Komiserlik bağlayıcı kararlar alabilirken Konsey yalnızca tavsiye kararı yayımlayabilir.",
-      "Yüksek Komiserlik 47 üye devletten oluşurken Konsey tek bir yetkiliden oluşur.",
-      "Konsey Güvenlik Konseyi'ne doğrudan bağlıyken Yüksek Komiserlik Genel Kurul'a hesap verir."
+      "IMF ödemeler dengesi ve kısa vadeli döviz krizlerine müdahale ederken Dünya Bankası uzun vadeli kalkınma projelerini finanse eder.",
+      "IMF üyeliği zorunlu değilken Dünya Bankası'na üyelik tüm BM üyeleri için zorunludur.",
+      "Dünya Bankası para politikası tavsiyesi verirken IMF yalnızca teknik yardım sağlar.",
+      "Dünya Bankası daha fazla üyeye sahipken IMF daha büyük mali kaynaklara sahiptir.",
+      "IMF yalnızca gelişmiş ülkelere, Dünya Bankası ise yalnızca gelişmekte olan ülkelere hizmet verir. Bu ayrım kuruluş amaçlarında açıkça belirtilmiştir."
      ],
-     "dogru": 1,
-     "aciklama": "BM İnsan Hakları Yüksek Komiserliği, BM Genel Sekreteri'ne bağlı ve BM Sekreteryası bünyesinde faaliyet gösteren bir idari birimdir. Başında atanmış bir Yüksek Komiser bulunur. BM İnsan Hakları Konseyi ise 47 seçilmiş üye devletten oluşan ve Genel Kurul'a bağlı hükümetlerarası bir organdır; Evrensel Periyodik İnceleme gibi mekanizmalar aracılığıyla tüm üye devletleri değerlendirir. Şık D rolleri tamamen ters çevirdiği için kolayca yanıltabilir, dikkat edilmelidir."
+     "dogru": 0,
+     "aciklama": "IMF; döviz kuru istikrarı, ödemeler dengesi krizleri ve kısa vadeli likidite sorunlarını gidermek amacıyla kurulmuştur. Dünya Bankası ise altyapı, eğitim, sağlık gibi uzun vadeli kalkınma projelerini finanse eder. Her iki kurum da 1944 Bretton Woods Konferansı'nda kurulmuş olup birbirini tamamlayıcı niteliktedir. Diğer seçeneklerdeki ifadeler olgusal açıdan yanlıştır.",
+     "zorluk": "orta"
     }
    ]
   },
@@ -1827,19 +1867,20 @@
    "ad": "Güncel Bilgiler",
    "sorular": [
     {
-     "id": "36287",
+     "id": "36331",
      "dersId": "guncel",
      "konuId": "bilim_teknoloji",
-     "soru": "Türkiye'de 2023 yılında fırlatılan ve ülkenin ilk yerli haberleşme uydusu olan uydu aşağıdakilerden hangisidir?",
+     "soru": "Nöromorfik hesaplama mimarisinin, von Neumann mimarisine dayalı klasik işlemcilere kıyasla enerji verimliliği açısından sunduğu teorik üstünlüğün temel kaynağı nedir?",
      "secenekler": [
-      "RASAT",
-      "TÜRKSAT 5B",
-      "GÖKTÜRK-1",
-      "TÜRKSAT 6A",
-      "BİLSAT-1"
+      "Nöromorfik çiplerin daha yüksek saat frekansında çalışması, daha fazla işlemi kısa sürede tamamlamasını sağlar.",
+      "Nöromorfik çiplerin silikon yerine biyolojik nöronlardan üretilmesi, enerji tüketimini minimize eder.",
+      "Bellek ve işlemcinin fiziksel olarak ayrılması yerine, hesaplamanın dağıtık ve olay güdümlü (spike-based) sinaptik yapılarda gerçekleşmesi; böylece von Neumann darboğazı ve sürekli saat döngüsü enerjisi ortadan kalkar.",
+      "Klasik işlemcilerin ağırlıklı olarak grafik hesaplamalar için optimize edilmiş olması, nöromorfik çiplerin görece daha az enerji harcamasının temel ve tek nedenini oluşturmaktadır. Bellek ve işlemci ayrımının bu farkta herhangi bir payı bulunmamaktadır.",
+      "Nöromorfik mimaride paralel işlem birimi sayısı klasik CPU'dan az olduğundan toplam güç tüketimi doğal olarak düşüktür."
      ],
-     "dogru": 3,
-     "aciklama": "TÜRKSAT 6A, Türkiye'nin yerli ve milli imkânlarla üretilen ilk haberleşme uydusudur. 2023 yılında SpaceX'in Falcon 9 roketi ile uzaya fırlatılmıştır. GÖKTÜRK-1 ve RASAT birer gözlem uydusu, BİLSAT-1 ise araştırma amaçlı bir uydudur. TÜRKSAT 5B ise Fransa'da üretilerek 2021'de fırlatılan bir haberleşme uydusudur."
+     "dogru": 2,
+     "aciklama": "Von Neumann mimarisinde bellek ve işlemci ayrı birimlerde yer aldığından aralarındaki sürekli veri transferi (von Neumann darboğazı) ciddi enerji maliyeti doğurur ve saat döngüsü tabanlı çalışma sürekli güç tüketimi anlamına gelir. Nöromorfik mimaride ise hesaplama, biyolojik sinir sistemini taklit eden dağıtık, asenkron ve olay güdümlü (sadece 'spike' olduğunda enerji harcayan) bir yapıyla gerçekleşir. Intel'in Loihi 2 ve IBM'in TrueNorth çipleri bu prensibin donanım örnekleridir.",
+     "zorluk": "zor"
     },
     {
      "id": "36399",

@@ -41,23 +41,23 @@
       "1/9"
      ],
      "dogru": 4,
-     "aciklama": "x=1 ve y=1-(1/9)=8/9 olduğundan x-y=1/9'dur. Doğru cevap E) 1/9 şeklindedir.",
+     "aciklama": "x=1 ve y=1-(1/9)=8/9 olduğundan x-y=1/9'dur. Doğru cevap 1/9 şeklindedir.",
      "zorluk": "zor"
     },
     {
-     "id": "101553",
+     "id": "101555",
      "dersId": "matematik",
      "konuId": "veri_yorumlama",
-     "soru": "Aşağıdaki tabloda bir haftalık hava durumu verilmiştir. Pazartesi: 12°C, Salı: 15°C, Çarşamba: 9°C, Perşembe: 18°C, Cuma: 21°C, Cumartesi: 14°C, Pazar: 11°C. Bu verilere göre haftanın ortalama sıcaklığı kaç °C'dir?",
+     "soru": "Bir fabrikada Ocak ayında 1.200, Şubat ayında 1.500, Mart ayında 1.800 adet ürün üretilmiştir. Şubat ayındaki üretim, Ocak ayına göre kaç yüzde artmıştır?",
      "secenekler": [
-      "17",
-      "14",
-      "13",
-      "16",
-      "15"
+      "%30",
+      "%20",
+      "%25",
+      "%15",
+      "%35"
      ],
-     "dogru": 1,
-     "aciklama": "Toplam sıcaklık = 12 + 15 + 9 + 18 + 21 + 14 + 11 = 100°C. Ortalama = 100 ÷ 7 ≈ 14,28°C. En yakın tam sayı 14 olduğundan cevap B) 14'tür.",
+     "dogru": 2,
+     "aciklama": "Artış miktarı = 1500 - 1200 = 300. Yüzde artış = (300 ÷ 1200) × 100 = %25. Cevap %25'tir.",
      "zorluk": "kolay"
     },
     {
@@ -73,7 +73,8 @@
       "7"
      ],
      "dogru": 0,
-     "aciklama": "4n + 3 ifadesini inceleyelim. 4n çift bir sayıdır, dolayısıyla 4n + 3 tek bir sayıdır. Tek sayılar 2'ye bölünemez. Diğer seçenekler için n'in uygun değerleriyle bölünebilir sonuçlar elde edilebilir (örneğin n=0 için 3, n=2 için 11, n=1 için 7). Bu nedenle 4n + 3 her zaman 2'ye bölünemez."
+     "aciklama": "4n + 3 ifadesini inceleyelim. 4n çift bir sayıdır, dolayısıyla 4n + 3 tek bir sayıdır. Tek sayılar 2'ye bölünemez. Diğer seçenekler için n'in uygun değerleriyle bölünebilir sonuçlar elde edilebilir (örneğin n=0 için 3, n=2 için 11, n=1 için 7). Bu nedenle 4n + 3 her zaman 2'ye bölünemez.",
+     "zorluk": "orta"
     },
     {
      "id": "103503",
@@ -88,7 +89,8 @@
       "3/4"
      ],
      "dogru": 4,
-     "aciklama": "Dört eşit olası durum: TT: 3+2=5>0 ✓, TY: 3-2=1>0 ✓, YT: -1+2=1>0 ✓, YY: -1-2=-3<0 ✗. Pozitif olan 3 durum. Olasılık = 3/4."
+     "aciklama": "Dört eşit olası durum: TT: 3+2=5>0 ✓, TY: 3-2=1>0 ✓, YT: -1+2=1>0 ✓, YY: -1-2=-3<0 ✗. Pozitif olan 3 durum. Olasılık = 3/4.",
+     "zorluk": "orta"
     },
     {
      "id": "100348",
@@ -103,7 +105,7 @@
       "p·q = 15"
      ],
      "dogru": 0,
-     "aciklama": "EKOK(p³, q²): her asal için en büyük kuvvet alınır. p≠q asal ise EKOK(p³,q²)=p³·q². Bu p²·q³'e eşit olabilmesi için p³·q²=p²·q³ → p=q. Ama p=q ise EKOK(p³,p²)=p³, p²·p³=p⁵. p³≠p⁵ (p>1). Yani hiçbir asal p,q için bu eşitlik sağlanamaz. Cevap: A şıkkı.",
+     "aciklama": "İki durum incelenir. p ≠ q ise asal sayılar aralarında asal olduğundan EKOK(p³, q²) = p³·q² olur. Bunun p²·q³'e eşit olması için p = q gerekir, bu da p ≠ q varsayımıyla çelişir. p = q ise EKOK = p³ olur, oysa p²·q³ = p⁵ olur. p³ = p⁵ eşitliği asal p için sağlanmaz. Dolayısıyla eşitliği sağlayan asal p ve q yoktur. \"p·q = 6\" gibi çarpım seçenekleri bu yüzden anlamsızdır. Doğru cevap \"Sağlanamaz\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -119,7 +121,7 @@
       "11"
      ],
      "dogru": 3,
-     "aciklama": "(x-12)(y-12)=144, 144'ün 15 böleni var, x≤y koşuluyla (15+1)/2=8 çift bulunur. Doğru cevap D) 8 şeklindedir.",
+     "aciklama": "(x-12)(y-12)=144, 144'ün 15 böleni var, x≤y koşuluyla (15+1)/2=8 çift bulunur. Doğru cevap 8 şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -167,7 +169,7 @@
       "Üçüncü işçi"
      ],
      "dogru": 4,
-     "aciklama": "Toplam maliyet = günlük ücret × gün sayısı. Birinci: 120×20=2400 TL. İkinci: 150×15=2250 TL. Üçüncü: 180×12=2160 TL. En düşük maliyet üçüncü işçidedir. Cevap: C) Üçüncü işçi.",
+     "aciklama": "Her seçeneğin maliyeti, günlük ücret ile işi bitirme süresinin çarpımıdır. Birinci işçi: 120 × 20 = 2400 TL. İkinci işçi: 150 × 15 = 2250 TL. Üçüncü işçi: 180 × 12 = 2160 TL. Hepsi birlikte günlük hız 1/20 + 1/15 + 1/12 = 12/60 = 1/5 olduğundan iş 5 günde biter. Günlük toplam ücret 450 TL olduğu için maliyet 2250 TL'dir. Birinci ve ikinci işçi birlikte 60/7 günde bitirir ve maliyet yaklaşık 2314 TL olur. Günlük ücreti en yüksek olan işçi, en hızlı olduğu için en ucuz sonucu verir. Doğru cevap \"Üçüncü işçi\" seçeneğidir.",
      "zorluk": "orta"
     },
     {
@@ -183,7 +185,8 @@
       "8"
      ],
      "dogru": 0,
-     "aciklama": "İşçi sayısı ile süre ters orantılıdır. 12 × 20 = k × 15 → k = 16. Eklenmesi gereken işçi sayısı: 16 − 12 = 4."
+     "aciklama": "İşçi sayısı ile süre ters orantılıdır. 12 × 20 = k × 15 → k = 16. Eklenmesi gereken işçi sayısı: 16 − 12 = 4.",
+     "zorluk": "orta"
     },
     {
      "id": "100858",
@@ -198,7 +201,8 @@
       "56"
      ],
      "dogru": 1,
-     "aciklama": "d/48 - d/60 = 15/60 (15 dakika = 1/4 saat fark). d×(1/48 - 1/60) = 1/4. d×(5-4)/240 = 1/4. d/240 = 1/4. d = 60 km."
+     "aciklama": "d/48 - d/60 = 15/60 (15 dakika = 1/4 saat fark). d×(1/48 - 1/60) = 1/4. d×(5-4)/240 = 1/4. d/240 = 1/4. d = 60 km.",
+     "zorluk": "orta"
     },
     {
      "id": "103357",
@@ -213,7 +217,7 @@
       "0 < k < 1/2"
      ],
      "dogru": 2,
-     "aciklama": "Her iki kök negatif olması için: (1) Diskriminant ≥ 0, (2) köklerin toplamı < 0, (3) köklerin çarpımı > 0. Toplam = -(2k-1) = 1-2k < 0 → k > 1/2. Çarpım = k²-k = k(k-1) > 0 → k<0 veya k>1. Diskriminant: (2k-1)²-4(k²-k) = 4k²-4k+1-4k²+4k = 1 ≥ 0 (her zaman). Kesişim: (k>1/2) ∩ (k<0 veya k>1) = k>1. Cevap A.",
+     "aciklama": "Diskriminant (2k-1)² - 4(k² - k) = 1 olduğundan denklemin her zaman iki farklı gerçel kökü vardır ve bu kökler x = -k ile x = 1 - k olarak bulunur. Her iki kökün negatif olması için -k < 0 yani k > 0 ve 1 - k < 0 yani k > 1 koşullarının birlikte sağlanması gerekir. Bu iki koşulun kesişimi k > 1 olduğundan doğru cevap k > 1'dir.",
      "zorluk": "zor"
     },
     {
@@ -229,7 +233,7 @@
       "1"
      ],
      "dogru": 3,
-     "aciklama": "Ayrık kümeler için n(A ∩ B) = 0'dır. n(A ∪ B) = n(A) + n(B) − 0 = 5 + 4 = 9 olur.",
+     "aciklama": "A ile B ayrık olduğundan A ∩ B = ∅ ve n(A ∩ B) = 0 olur. Birleşim formülü n(A ∪ B) = n(A) + n(B) − n(A ∩ B) şeklindedir. Değerleri yerine koyarsak n(A ∪ B) = 5 + 4 − 0 = 9 bulunur. Ayrık kümelerde ortak eleman bulunmadığı için hiçbir eleman iki kez sayılmaz ve eleman sayıları doğrudan toplanır. \"1\" seçeneği iki eleman sayısının farkıdır, birleşimle ilgisi yoktur. \"8\" seçeneği ise gereksiz yere bir eleman çıkarılmasıyla elde edilen hatalı sonuçtur. Doğru cevap \"9\" seçeneğidir.",
      "zorluk": "kolay"
     },
     {
@@ -277,7 +281,7 @@
       "1,8"
      ],
      "dogru": 4,
-     "aciklama": "Toplam artış 2.240/6.120≈%36,6, sanayi 1.250/3.600≈%34,7; fark ≈1,9 puan olup en yakın şık E'dir. Doğru cevap E) 1,8 şeklindedir.",
+     "aciklama": "2020 toplam ihracatı: 1.200 + 3.600 + 800 + 520 = 6.120 milyon $. 2023 toplamı: 1.710 + 4.850 + 1.080 + 720 = 8.360 milyon $. Toplam artış oranı = 2.240 / 6.120 = %36,6. Sanayideki artış = (4.850 − 3.600) / 3.600 = 1.250 / 3.600 = %34,7. Aradaki fark = 36,6 − 34,7 = 1,9 puandır. Doğru cevap 1,8 şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -309,7 +313,7 @@
       "1/16"
      ],
      "dogru": 4,
-     "aciklama": "Çarpımın tek olması için 4 atışın tamamının tek gelması gerekir. Tek sayılar: 1, 3, 5 → her atışta P(tek) = 3/6 = 1/2. 4 atışın tamamı tek: (1/2)⁴ = 1/16. Cevap A.",
+     "aciklama": "Çarpımın tek olması için 4 atışın tamamının tek gelması gerekir. Tek sayılar: 1, 3, 5 → her atışta P(tek) = 3/6 = 1/2. 4 atışın tamamı tek: (1/2)⁴ = 1/16. Doğru cevap: «1/16».",
      "zorluk": "zor"
     },
     {
@@ -324,8 +328,8 @@
       "2²·3·7·11",
       "2·3·5²·11"
      ],
-     "dogru": 3,
-     "aciklama": "EBOB(A,B) = 2²·3·5 (her üs için minimum). EKOK(A,B) = 2³·3²·5²·7·11 (her üs için maksimum). k = EKOK/EBOB = (2³·3²·5²·7·11)/(2²·3·5) = 2¹·3¹·5¹·7·11 = 2·3·5·7·11. Bu A seçeneği. Ancak B) 2²·3·7·11: 4·3·7·11=924 ≠ 2·3·5·7·11=2310. Hesap: EBOB=4·3·5=60, EKOK=8·9·25·7·11=138600. k=138600/60=2310=2·3·5·7·11. Cevap A) 2·3·5·7·11.",
+     "dogru": 2,
+     "aciklama": "EBOB=2²·3·5, EKOK=2³·3²·5²·7·11 olduğundan k=EKOK/EBOB=2·3·5·7·11, yani “2·3·5·7·11” şıkkı. Doğru cevap 2·3·5·7·11 şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -340,8 +344,9 @@
       "99",
       "369"
      ],
-     "dogru": 0,
-     "aciklama": "Rakamları toplamı 18, çarpımı 0 olmayan (yani 0 rakamı içermeyen) en küçük doğal sayıyı bulmak için rakam sayısını minimize etmeliyiz. 2 basamaklı: 99 → rakam toplamı 18, çarpım 81≠0. Ama 99 en küçük 2 basamaklı seçenek gibi görünse de şıklara bakarsak A'da 99 var. Ancak 3 basamaklılar arasında en küçüğü bulmak için 1,8,9 rakamlarını küçük büyük sıralarız: 198. Fakat 99 < 198 olduğundan en küçük değer 99'dur. Dikkat: Soru 'en küçük değer' diyor ve 99 geçerlidir. Doğru cevap A) 99."
+     "dogru": 3,
+     "aciklama": "99 sayısının rakamları toplamı 18, çarpımı 81≠0 olup koşulu sağlayan en küçük sayıdır. Doğru cevap 99 şeklindedir.",
+     "zorluk": "orta"
     },
     {
      "id": "101093",
@@ -372,7 +377,8 @@
       "%10"
      ],
      "dogru": 4,
-     "aciklama": "200 gramlık çözeltideki tuz miktarı = 200 × 0,15 = 30 gram. 100 gram saf su eklenince toplam çözelti = 200 + 100 = 300 gram olur. Tuz miktarı değişmez, 30 gram kalır. Yeni oran = 30 / 300 = 0,10 = %10."
+     "aciklama": "200 gramlık çözeltideki tuz miktarı = 200 × 0,15 = 30 gram. 100 gram saf su eklenince toplam çözelti = 200 + 100 = 300 gram olur. Tuz miktarı değişmez, 30 gram kalır. Yeni oran = 30 / 300 = 0,10 = %10.",
+     "zorluk": "orta"
     },
     {
      "id": "101053",
@@ -387,7 +393,7 @@
       "32"
      ],
      "dogru": 0,
-     "aciklama": "U = bir ustanın günlük kapasitesi, Ç = bir çırağın günlük kapasitesi. (5U+8Ç)×6 = 1 → 5U+8Ç = 1/6. (3U+5Ç)×10 = 1 → 3U+5Ç = 1/10. Birinci denklem: 30U+48Ç=1. İkinci denklem: 30U+50Ç=1 (×10 ile). 30U+50Ç=1 ve 30U+48Ç=1. Çıkartınca: 2Ç=0 → Ç=0? Bu tutarsız. Yeniden: 5U+8Ç=1/6 → ×30: 150U+240Ç=5. 3U+5Ç=1/10 → ×30: 90U+150Ç=3. ×5/3: 150U+250Ç=5. 150U+240Ç=5 ve 150U+250Ç=5 → 10Ç=0 → Ç=0. Tutarsızlık var. Doğru çözüm: İki denklemi çözelim: 5U+8Ç=1/6 ...(1), 3U+5Ç=1/10 ...(2). (1)×5: 25U+40Ç=5/6. (2)×8: 24U+40Ç=8/10=4/5. Çıkartınca: U=5/6-4/5=25/30-24/30=1/30. U'yu (2)'ye koy: 3/30+5Ç=1/10 → 1/10+5Ç=1/10 → Ç=0. Ç=0 çelişkili, ama matematiksel: U=1/30, Ç=0. 1U+1Ç=1/30. İş: 30 gün. Cevap: B) 30.",
+     "aciklama": "Usta günlük hızı u, çırak günlük hızı c olsun. İlk durumda (5u + 8c) · 6 = 1, yani 5u + 8c = 1/6. İkinci durumda (3u + 5c) · 10 = 1, yani 3u + 5c = 1/10. İlk denklemi 3, ikinciyi 5 ile çarpalım: 15u + 24c = 1/2 ve 15u + 25c = 1/2. Taraf tarafa çıkarınca c = 0 bulunur; verilere göre çırağın katkısı sıfırdır. O zaman 5u = 1/6 olduğundan u = 1/30 olur. Bir usta ile bir çırak birlikte günde 1/30 iş yapar, yani işi 30 günde bitirir. \"36\" ve \"34\" seçenekleri bu hız değerleriyle uyuşmaz. Doğru cevap \"30\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -418,8 +424,9 @@
       "36",
       "30"
      ],
-     "dogru": 1,
-     "aciklama": "Yokuş yukarı hız = v, yokuş aşağı hız = 3v. Gidiş-dönüş: 18/v + 18/3v = 2. 18/v + 6/v = 2. 24/v = 2. v = 12 km/saat. Yokuş aşağı = 3×12 = 36 km/saat. Cevap E (indeks 4)."
+     "dogru": 3,
+     "aciklama": "18/v+18/3v=2 → v=12, yokuş aşağı hız 3v=36 km/saat. Doğru cevap 36 şeklindedir.",
+     "zorluk": "orta"
     },
     {
      "id": "103274",
@@ -450,7 +457,8 @@
       "50"
      ],
      "dogru": 2,
-     "aciklama": "n(A∪B) = n(A) + n(B) - n(A∩B) = 60 + 50 - n(A∩B) = 110 - n(A∩B). n(A∩B) en büyük olduğunda n(A∪B) en küçük olur ve böylece dışarıda kalan (ne A ne B) en fazla olur. n(A∩B) en fazla min(60,50) = 50 olabilir. Bu durumda n(A∪B) = 110 - 50 = 60. Dışarıda kalan = 100 - 60 = 40. Cevap: D) 40."
+     "aciklama": "Hiçbirini beğenmeyenlerin sayısı 100 − n(A∪B) olur. Bu sayı en fazla olsun istiyorsak n(A∪B) en küçük olmalıdır. Birleşim, büyük kümeden küçük olamaz; yani n(A∪B) ≥ 60 olur. En küçük değer, B'yi seven herkesin A'yı da sevmesi durumunda, yani B ⊆ A iken, 60'tır. Bu durumda en fazla 100 − 60 = 40 kişi hiçbirini beğenmemiş olur. \"50\" seçeneği, yalnızca B'yi dikkate alıp 100 − 50 hesabından gelir; oysa A'yı beğenenler de vardır. \"10\" seçeneği ise ayrık olma durumundaki en az değerdir. Doğru cevap \"40\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "102744",

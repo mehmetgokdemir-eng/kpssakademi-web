@@ -25,7 +25,8 @@
       "1970"
      ],
      "dogru": 0,
-     "aciklama": "Türkiye 14 Nisan 1987'de tam üyelik başvurusunda bulunmuştur."
+     "aciklama": "Türkiye 14 Nisan 1987'de tam üyelik başvurusunda bulunmuştur.",
+     "zorluk": "kolay"
     },
     {
      "id": "56110",
@@ -40,7 +41,8 @@
       "Strazburg"
      ],
      "dogru": 0,
-     "aciklama": "BM'nin başlıca yargı organı olan Uluslararası Adalet Divanı Hollanda'nın Lahey kentindedir."
+     "aciklama": "BM'nin başlıca yargı organı olan Uluslararası Adalet Divanı Hollanda'nın Lahey kentindedir.",
+     "zorluk": "kolay"
     },
     {
      "id": "56145",
@@ -55,7 +57,8 @@
       "Yalnızca taraf devletleri bağlaması"
      ],
      "dogru": 0,
-     "aciklama": "Jus cogens, aksi kararlaştırılamayan emredici normlardır; soykırım ve işkence yasağı bu kapsamdadır."
+     "aciklama": "Jus cogens, aksi kararlaştırılamayan emredici normlardır; soykırım ve işkence yasağı bu kapsamdadır.",
+     "zorluk": "zor"
     },
     {
      "id": "56075",
@@ -63,14 +66,15 @@
      "konuId": "ui_kavramlar",
      "soru": "'Güç dengesi' (balance of power) kavramı neyi ifade eder?",
      "secenekler": [
-      "Uluslararası hukuk üstünlüğü",
-      "Askeri ittifak",
-      "Tek bir devletin üstünlüğü",
-      "Ekonomik eşitlik",
+      "Uluslararası hukukun güç politikasına üstünlüğü",
+      "Devletler arasında kurulan askerî ittifak",
+      "Tek bir devletin sistemde üstünlük kurması",
+      "Devletler arasında ekonomik eşitliğin sağlanması",
       "Devletlerin birbirlerinin gücünü dengelemesi"
      ],
      "dogru": 4,
-     "aciklama": "Güç dengesi, hiçbir devletin diğerlerini domine edememesi için güçlerin dengelenmesidir."
+     "aciklama": "Güç dengesi, hiçbir devletin diğerlerini domine edememesi için güçlerin dengelenmesidir.",
+     "zorluk": "zor"
     },
     {
      "id": "56158",
@@ -85,7 +89,8 @@
       "Askerî çekince"
      ],
      "dogru": 3,
-     "aciklama": "Türkiye coğrafi çekince nedeniyle yalnızca Avrupa'dan gelenlere mülteci statüsü tanır; diğerlerine geçici koruma veya şartlı mülteci statüsü uygular."
+     "aciklama": "Türkiye coğrafi çekince nedeniyle yalnızca Avrupa'dan gelenlere mülteci statüsü tanır; diğerlerine geçici koruma veya şartlı mülteci statüsü uygular.",
+     "zorluk": "orta"
     },
     {
      "id": "56092",
@@ -93,14 +98,15 @@
      "konuId": "ui_teoriler",
      "soru": "Joseph Nye'ın 'yumuşak güç' kavramı aşağıdakilerden hangisiyle ilişkilidir?",
      "secenekler": [
-      "Ekonomik yaptırım uygulanması",
-      "Gizli istihbarat faaliyetleri",
-      "Nükleer caydırıcılık",
+      "Hedef ülkeye kapsamlı ekonomik yaptırım uygulanması",
+      "Gizli istihbarat faaliyetleriyle yönlendirme yapılması",
+      "Nükleer silahların sağladığı caydırıcılık üstünlüğü",
       "Kültür, değer ve politikaların çekiciliğiyle etkileme",
-      "Askerî kapasitenin artırılması"
+      "Askerî kapasitenin sürekli olarak artırılması"
      ],
      "dogru": 3,
-     "aciklama": "Yumuşak güç, zorlama ya da ödül yerine çekicilik yoluyla başkalarının tercihlerini şekillendirme kapasitesidir."
+     "aciklama": "Yumuşak güç, zorlama ya da ödül yerine çekicilik yoluyla başkalarının tercihlerini şekillendirme kapasitesidir.",
+     "zorluk": "zor"
     },
     {
      "id": "56175",
@@ -115,7 +121,8 @@
       "Kabul etmiş durumda"
      ],
      "dogru": 1,
-     "aciklama": "TBMM 1995'te aldığı kararla Yunanistan'ın karasularını 12 mile çıkarmasını savaş sebebi saymıştır."
+     "aciklama": "TBMM 1995'te aldığı kararla Yunanistan'ın karasularını 12 mile çıkarmasını savaş sebebi saymıştır.",
+     "zorluk": "zor"
     },
     {
      "id": "56043",
@@ -130,7 +137,8 @@
       "II. Dünya Savaşı'nın sona ermesi"
      ],
      "dogru": 1,
-     "aciklama": "Soğuk Savaş, II. Dünya Savaşı'nın 1945'te bitmesiyle ABD-SSCB arasındaki rekabetle başlamıştır."
+     "aciklama": "Soğuk Savaş, II. Dünya Savaşı'nın 1945'te bitmesiyle ABD-SSCB arasındaki rekabetle başlamıştır.",
+     "zorluk": "orta"
     },
     {
      "id": "56298",
@@ -145,7 +153,8 @@
       "Oniki Ada"
      ],
      "dogru": 2,
-     "aciklama": "Boğazlar sorunu 1936 Montrö Sözleşmesi ile Türkiye lehine çözülmüştür."
+     "aciklama": "Boğazlar sorunu 1936 Montrö Sözleşmesi ile Türkiye lehine çözülmüştür.",
+     "zorluk": "kolay"
     },
     {
      "id": "56118",
@@ -153,14 +162,15 @@
      "konuId": "ui_orgutler",
      "soru": "NATO'nun 4. maddesi hangi durumda işletilir?",
      "secenekler": [
-      "Yeni üye kabul edilirken",
+      "İttifaka yeni bir üye devlet kabul edilmesi gündeme geldiğinde",
       "Bir üye toprak bütünlüğü veya güvenliğinin tehdit altında olduğunu düşünüp istişare talep ettiğinde",
-      "Genel Sekreter seçilirken",
-      "Bir üyeye silahlı saldırı olduğunda",
-      "Bütçe artırımı gerektiğinde"
+      "İttifakın Genel Sekreteri seçilirken ve göreve başlarken",
+      "Üyelerden birine doğrudan silahlı saldırı gerçekleştiğinde ve ortak savunma yükümlülüğü devreye girdiğinde",
+      "Ortak savunma bütçesinin artırılması gerektiğinde"
      ],
      "dogru": 1,
-     "aciklama": "4. madde, tehdit algılayan üyenin ittifak içinde istişare talep etmesine imkân tanır; Türkiye bu maddeye birkaç kez başvurmuştur."
+     "aciklama": "4. madde, tehdit algılayan üyenin ittifak içinde istişare talep etmesine imkân tanır; Türkiye bu maddeye birkaç kez başvurmuştur.",
+     "zorluk": "zor"
     },
     {
      "id": "56238",
@@ -168,14 +178,15 @@
      "konuId": "ui_uluslararasi_hukuk",
      "soru": "Uluslararası örf ve adet hukukunun oluşması için gereken iki unsur nedir?",
      "secenekler": [
-      "İmza ve tasdik",
-      "Yazılı metin ve onay",
-      "Çoğunluk oyu ve tescil",
+      "Antlaşma metninin imzalanması ve usulüne uygun tasdik edilmesi",
+      "Yazılı metnin bulunması ve onaylanması",
+      "Çoğunluk oyu alınması ve tescil edilmesi",
       "Sürekli uygulama ve hukuki zorunluluk inancı",
-      "Mahkeme kararı ve doktrin"
+      "Mahkeme kararlarının ve doktrinin varlığı"
      ],
      "dogru": 3,
-     "aciklama": "Örf ve adet için istikrarlı uygulama (usus) ve bunun hukuken zorunlu sayılması inancı (opinio juris) gerekir."
+     "aciklama": "Örf ve adet için istikrarlı uygulama (usus) ve bunun hukuken zorunlu sayılması inancı (opinio juris) gerekir.",
+     "zorluk": "zor"
     },
     {
      "id": "56330",
@@ -183,14 +194,15 @@
      "konuId": "ui_kavramlar",
      "soru": "'Konsolosluk' ile 'büyükelçilik' arasındaki temel fark nedir?",
      "secenekler": [
-      "Fark yoktur",
-      "Büyükelçilik vize vermez",
-      "Konsolosluk askerî görev yapar",
-      "Konsolosluk üst düzeydir",
+      "İki temsilcilik arasında işlev farkı bulunmaz",
+      "Büyükelçilikler vize işlemlerini hiç yürütmez",
+      "Konsolosluklar askerî nitelikte görev yapar",
+      "Konsolosluk, büyükelçilikten daha üst düzey bir temsilcilik konumundadır",
       "Konsolosluk daha çok vatandaşlık ve ticari işlerle ilgilenir"
      ],
      "dogru": 4,
-     "aciklama": "Büyükelçilik siyasi temsil, konsolosluk ise vatandaşlık, vize ve ticari işlemlerle ilgilenir."
+     "aciklama": "Büyükelçilik siyasi temsil, konsolosluk ise vatandaşlık, vize ve ticari işlemlerle ilgilenir.",
+     "zorluk": "zor"
     },
     {
      "id": "56327",
@@ -198,14 +210,15 @@
      "konuId": "ui_guncel_sorunlar",
      "soru": "Su stresi kavramı neyi ifade eder?",
      "secenekler": [
-      "Yağış rejiminin düzenliliğini",
-      "Deniz seviyesinin yükselmesini",
-      "Su kalitesinin yüksekliğini",
-      "Baraj sayısını",
+      "Yağış rejiminin düzenli ve öngörülebilir olmasını",
+      "Deniz seviyesinin iklim değişikliği etkisiyle sürekli yükselmesini",
+      "Su kalitesinin yüksek düzeyde tutulmasını",
+      "Havzadaki baraj ve gölet sayısının artmasını",
       "Mevcut su kaynaklarının talebi karşılamada yetersiz kalmasını"
      ],
      "dogru": 4,
-     "aciklama": "Su stresi, kişi başına düşen kullanılabilir su miktarının belirli eşiklerin altına düşmesidir."
+     "aciklama": "Su stresi, kişi başına düşen kullanılabilir su miktarının belirli eşiklerin altına düşmesidir.",
+     "zorluk": "zor"
     },
     {
      "id": "56192",
@@ -213,14 +226,15 @@
      "konuId": "ui_teoriler",
      "soru": "Uluslararası ilişkilerde 'analiz düzeyi' tartışması neyi ifade eder?",
      "secenekler": [
-      "Teorilerin karmaşıklığını",
-      "Bölgesel kapsamı",
+      "Kuramların kavramsal karmaşıklık derecesini",
+      "Çözümlemenin coğrafi kapsam genişliğini",
       "Açıklamanın birey, devlet veya sistem düzeyinde yapılmasını",
-      "Verilerin niceliğini",
-      "Örgüt sayısını"
+      "Kullanılan nicel verilerin miktarını ve istatistiksel güvenilirliğini",
+      "İncelenen uluslararası örgütlerin sayısını"
      ],
      "dogru": 2,
-     "aciklama": "Waltz'ın üç imgesi olarak da bilinen bu ayrım, olayların birey, devlet ya da sistem düzeyinde açıklanmasını konu alır."
+     "aciklama": "Waltz'ın üç imgesi olarak da bilinen bu ayrım, olayların birey, devlet ya da sistem düzeyinde açıklanmasını konu alır.",
+     "zorluk": "zor"
     },
     {
      "id": "56270",
@@ -235,7 +249,8 @@
       "Gürcistan - Rusya"
      ],
      "dogru": 3,
-     "aciklama": "Karabağ, Azerbaycan ile Ermenistan arasındaki uzun süreli anlaşmazlığın konusudur."
+     "aciklama": "Karabağ, Azerbaycan ile Ermenistan arasındaki uzun süreli anlaşmazlığın konusudur.",
+     "zorluk": "orta"
     },
     {
      "id": "56048",
@@ -266,7 +281,8 @@
       "EFTA"
      ],
      "dogru": 1,
-     "aciklama": "Ankara Anlaşması, Türkiye ile Avrupa Ekonomik Topluluğu arasında ortaklık ilişkisi kurmuştur."
+     "aciklama": "Ankara Anlaşması, Türkiye ile Avrupa Ekonomik Topluluğu arasında ortaklık ilişkisi kurmuştur.",
+     "zorluk": "orta"
     },
     {
      "id": "56196",
@@ -281,7 +297,8 @@
       "6"
      ],
      "dogru": 3,
-     "aciklama": "BM Genel Sekreteri, Güvenlik Konseyi'nin tavsiyesi üzerine Genel Kurul tarafından 5 yıllığına seçilir."
+     "aciklama": "BM Genel Sekreteri, Güvenlik Konseyi'nin tavsiyesi üzerine Genel Kurul tarafından 5 yıllığına seçilir.",
+     "zorluk": "kolay"
     },
     {
      "id": "56059",
@@ -290,13 +307,14 @@
      "soru": "Westphalia Barışı (1648) uluslararası hukuka en önemli katkısı nedir?",
      "secenekler": [
       "Egemen ulus-devlet sisteminin temeli",
-      "Diplomatik dokunulmazlık",
-      "Savaş hukuku",
-      "Deniz hukuku",
-      "İnsan hakları ilanı"
+      "Diplomatik dokunulmazlığın tanınması",
+      "Savaş hukukunun ilk kez kurallaşması",
+      "Deniz hukukunun temel ilkelerinin konması",
+      "Temel insan haklarının ilan edilmesi"
      ],
      "dogru": 0,
-     "aciklama": "1648 Westphalia Barışı, modern devlet egemenliği ve ulus-devlet sisteminin başlangıcı kabul edilir."
+     "aciklama": "1648 Westphalia Barışı, modern devlet egemenliği ve ulus-devlet sisteminin başlangıcı kabul edilir.",
+     "zorluk": "zor"
     },
     {
      "id": "56264",
@@ -304,14 +322,15 @@
      "konuId": "ui_kavramlar",
      "soru": "'Ulusal güç' unsurları arasında aşağıdakilerden hangisi 'somut olmayan' unsurlardandır?",
      "secenekler": [
-      "Coğrafya",
-      "Askerî teçhizat",
-      "Doğal kaynaklar",
+      "Coğrafi konum ve yüzölçümü",
+      "Askerî teçhizat ve silah stoku düzeyi",
+      "Doğal kaynak varlığı ve rezervler",
       "Ulusal moral ve liderlik kalitesi",
-      "Nüfus"
+      "Nüfus büyüklüğü ve yapısı"
      ],
      "dogru": 3,
-     "aciklama": "Ulusal moral, liderlik ve diplomasi kalitesi soyut güç unsurları arasında sayılır."
+     "aciklama": "Ulusal moral, liderlik ve diplomasi kalitesi soyut güç unsurları arasında sayılır.",
+     "zorluk": "orta"
     },
     {
      "id": "56156",
@@ -335,14 +354,15 @@
      "konuId": "ui_teoriler",
      "soru": "Neoliberal kurumsalcılığın realizmle paylaştığı temel varsayım hangisidir?",
      "secenekler": [
-      "Ekonominin belirleyiciliği",
+      "Ekonominin tek belirleyici unsur olduğu",
       "Kimliğin önceliği",
       "Devletlerin rasyonel aktörler olduğu",
       "Savaşın kaçınılmazlığı",
-      "Kurumların gereksizliği"
+      "Uluslararası kurumların gereksiz olduğu"
      ],
      "dogru": 2,
-     "aciklama": "Her iki yaklaşım da devletleri rasyonel ve çıkarını gözeten aktörler olarak kabul eder; ayrıldıkları nokta iş birliğinin mümkünlüğüdür."
+     "aciklama": "Her iki yaklaşım da devletleri rasyonel ve çıkarını gözeten aktörler olarak kabul eder; ayrıldıkları nokta iş birliğinin mümkünlüğüdür.",
+     "zorluk": "orta"
     },
     {
      "id": "56273",
@@ -357,7 +377,8 @@
       "2012"
      ],
      "dogru": 3,
-     "aciklama": "Kosova 17 Şubat 2008'de bağımsızlığını ilan etmiştir."
+     "aciklama": "Kosova 17 Şubat 2008'de bağımsızlığını ilan etmiştir.",
+     "zorluk": "kolay"
     },
     {
      "id": "56237",
@@ -372,7 +393,8 @@
       "Komünizmin yayılmasını önlemek"
      ],
      "dogru": 4,
-     "aciklama": "Doktrin, komünist yayılmayı önlemeye yönelik çevreleme stratejisinin ilanıdır."
+     "aciklama": "Doktrin, komünist yayılmayı önlemeye yönelik çevreleme stratejisinin ilanıdır.",
+     "zorluk": "kolay"
     },
     {
      "id": "56300",
@@ -387,7 +409,8 @@
       "Ticaret heyetleri"
      ],
      "dogru": 3,
-     "aciklama": "Afrika açılımı diplomasi, kalkınma yardımı ve ticaret temelli yürütülmüştür."
+     "aciklama": "Afrika açılımı diplomasi, kalkınma yardımı ve ticaret temelli yürütülmüştür.",
+     "zorluk": "orta"
     },
     {
      "id": "56292",
@@ -402,7 +425,8 @@
       "2019"
      ],
      "dogru": 0,
-     "aciklama": "Referandum 23 Haziran 2016'da yapılmış, ayrılık 2020'de tamamlanmıştır."
+     "aciklama": "Referandum 23 Haziran 2016'da yapılmış, ayrılık 2020'de tamamlanmıştır.",
+     "zorluk": "kolay"
     },
     {
      "id": "56319",
@@ -411,13 +435,14 @@
      "soru": "'Uti possidetis juris' ilkesi ne zaman uygulanır?",
      "secenekler": [
       "Yeni bağımsızlaşan devletlerin sınırlarının belirlenmesinde",
-      "Savaş sonrası tazminatta",
-      "Diplomatik dokunulmazlıkta",
-      "Vatandaşlıkta",
-      "Deniz yetki alanlarında"
+      "Savaş sonrası tazminatların hesaplanmasında",
+      "Diplomatik dokunulmazlığın kapsamının ve sınırlarının saptanmasında",
+      "Vatandaşlığın kazanılması ve kaybedilmesinde",
+      "Deniz yetki alanlarının sınırlandırılmasında"
      ],
      "dogru": 0,
-     "aciklama": "İlke, bağımsızlık anındaki idari sınırların devlet sınırı olarak kabul edilmesini ifade eder."
+     "aciklama": "İlke, bağımsızlık anındaki idari sınırların devlet sınırı olarak kabul edilmesini ifade eder.",
+     "zorluk": "orta"
     },
     {
      "id": "56165",
@@ -426,13 +451,14 @@
      "soru": "Kolektif güvenlik ile kolektif savunma arasındaki fark nedir?",
      "secenekler": [
       "Kolektif güvenlik sistem içi saldırgana karşı, kolektif savunma dış saldırıya karşı örgütlenir",
-      "İkisi de aynı kavramdır",
-      "Kolektif savunma ekonomik bir mekanizmadır",
-      "Kolektif güvenlik yalnızca bölgesel örgütlerde olur",
-      "Kolektif savunma yalnızca BM'de vardır"
+      "İki kavram tümüyle aynı anlama gelir, uygulamada birbirinin yerine kullanılabilir ve aynı örgütlerde görülür",
+      "Kolektif savunma askerî değil ekonomik bir dayanışma mekanizmasıdır",
+      "Kolektif güvenlik yalnızca bölgesel örgütler bünyesinde kurulabilir",
+      "Kolektif savunma yalnızca Birleşmiş Milletler çatısı altında uygulanır"
      ],
      "dogru": 0,
-     "aciklama": "BM kolektif güvenlik, NATO ise kolektif savunma modelinin örneğidir."
+     "aciklama": "BM kolektif güvenlik, NATO ise kolektif savunma modelinin örneğidir.",
+     "zorluk": "zor"
     },
     {
      "id": "56252",
@@ -447,7 +473,8 @@
       "UNESCO"
      ],
      "dogru": 3,
-     "aciklama": "UNHCR, mültecilere ve yerinden edilmiş kişilere dair küresel verileri yayımlar."
+     "aciklama": "UNHCR, mültecilere ve yerinden edilmiş kişilere dair küresel verileri yayımlar.",
+     "zorluk": "orta"
     },
     {
      "id": "56010",
@@ -462,7 +489,8 @@
       "Francis Fukuyama"
      ],
      "dogru": 2,
-     "aciklama": "Joseph Nye, yumuşak gücü 'askeri veya ekonomik baskı yerine çekicilikle etkileme' olarak tanımlamıştır."
+     "aciklama": "Joseph Nye, yumuşak gücü 'askeri veya ekonomik baskı yerine çekicilikle etkileme' olarak tanımlamıştır.",
+     "zorluk": "orta"
     },
     {
      "id": "56341",
@@ -471,13 +499,14 @@
      "soru": "Türkiye-Ermenistan ilişkilerinde normalleşme çabalarının önündeki temel engellerden biri nedir?",
      "secenekler": [
       "Karabağ sorunu ve tarihsel anlaşmazlıklar",
-      "Turizm",
-      "Enerji fiyatları",
-      "Ticaret hacmi",
-      "Vize rejimi"
+      "Turizm alanında rekabetin artması",
+      "Enerji fiyatlarındaki dalgalanmalar ve arz sorunları",
+      "İki ülke arasındaki ticaret hacmi",
+      "Karşılıklı vize rejiminin katılığı"
      ],
      "dogru": 0,
-     "aciklama": "Karabağ meselesi ve tarihsel anlaşmazlıklar normalleşme sürecini doğrudan etkilemektedir."
+     "aciklama": "Karabağ meselesi ve tarihsel anlaşmazlıklar normalleşme sürecini doğrudan etkilemektedir.",
+     "zorluk": "orta"
     },
     {
      "id": "56308",
@@ -485,14 +514,15 @@
      "konuId": "ui_soguk_savas",
      "soru": "Soğuk Savaş'ta 'vekâlet savaşı' ne demektir?",
      "secenekler": [
-      "İki süper gücün doğrudan savaşması",
-      "BM barış gücü operasyonu",
-      "Silahsızlanma görüşmesi",
-      "Ekonomik rekabet",
+      "İki süper gücün doğrudan karşı karşıya savaşması",
+      "Birleşmiş Milletler barış gücü operasyonlarının düzenlenip yürütülmesi",
+      "Taraflar arasında silahsızlanma görüşmeleri yapılması",
+      "İki blok arasındaki ekonomik rekabetin sürmesi",
       "Süper güçlerin üçüncü ülkeler üzerinden dolaylı çatışması"
      ],
      "dogru": 4,
-     "aciklama": "Süper güçler doğrudan çatışmak yerine bölgesel aktörleri destekleyerek dolaylı mücadele yürütmüştür."
+     "aciklama": "Süper güçler doğrudan çatışmak yerine bölgesel aktörleri destekleyerek dolaylı mücadele yürütmüştür.",
+     "zorluk": "zor"
     },
     {
      "id": "56130",
@@ -507,7 +537,8 @@
       "Tahıl koridoru anlaşmasında arabuluculuk"
      ],
      "dogru": 4,
-     "aciklama": "Türkiye ve BM'nin girişimiyle Temmuz 2022'de İstanbul'da Karadeniz tahıl koridoru anlaşması imzalanmıştır."
+     "aciklama": "Türkiye ve BM'nin girişimiyle Temmuz 2022'de İstanbul'da Karadeniz tahıl koridoru anlaşması imzalanmıştır.",
+     "zorluk": "zor"
     },
     {
      "id": "56197",
@@ -522,7 +553,8 @@
       "9"
      ],
      "dogru": 0,
-     "aciklama": "UAD 15 yargıçtan oluşur ve yargıçlar 9 yıllığına seçilir."
+     "aciklama": "UAD 15 yargıçtan oluşur ve yargıçlar 9 yıllığına seçilir.",
+     "zorluk": "kolay"
     },
     {
      "id": "56247",
@@ -537,7 +569,8 @@
       "Tanımanın reddi"
      ],
      "dogru": 2,
-     "aciklama": "De facto tanıma fiilî durumun geçici olarak kabulüdür; de jure tanıma ise tam ve kesindir."
+     "aciklama": "De facto tanıma fiilî durumun geçici olarak kabulüdür; de jure tanıma ise tam ve kesindir.",
+     "zorluk": "zor"
     },
     {
      "id": "56082",
@@ -546,13 +579,14 @@
      "soru": "'Müzakere' ve 'arabuluculuk' arasındaki temel fark nedir?",
      "secenekler": [
       "Arabuluculukta üçüncü taraf vardır",
-      "Arabuluculuk bağlayıcıdır",
+      "Arabuluculuk taraflar için bağlayıcıdır",
       "Müzakere zorla yapılır",
-      "Müzakere daha resmidir",
+      "Müzakere çok daha resmi bir süreçtir",
       "Fark yoktur"
      ],
      "dogru": 0,
-     "aciklama": "Arabuluculukta tarafsız bir üçüncü taraf sürece katılırken, müzakerede taraflar doğrudan görüşür."
+     "aciklama": "Arabuluculukta tarafsız bir üçüncü taraf sürece katılırken, müzakerede taraflar doğrudan görüşür.",
+     "zorluk": "orta"
     },
     {
      "id": "56065",
@@ -567,7 +601,8 @@
       "Libya"
      ],
      "dogru": 0,
-     "aciklama": "Arap Baharı, Aralık 2010'da Tunus'ta başlamış ve bölge geneline yayılmıştır."
+     "aciklama": "Arap Baharı, Aralık 2010'da Tunus'ta başlamış ve bölge geneline yayılmıştır.",
+     "zorluk": "kolay"
     },
     {
      "id": "56004",
@@ -575,14 +610,15 @@
      "konuId": "ui_teoriler",
      "soru": "Konstruktivizm (İnşacılık) yaklaşımının temel argümanı aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Ekonomik çıkarlar belirleyicidir",
-      "Devletler rasyonel aktörlerdir",
+      "Devlet davranışını nihai olarak ekonomik çıkarlar belirler",
+      "Devletler çıkarlarını azamileştiren rasyonel aktörlerdir",
       "Uluslararası yapı sosyal olarak inşa edilir",
-      "Güç dengesi barışı sağlar",
-      "Anarşi kaçınılmazdır"
+      "Barış ancak güç dengesi kurulduğunda sağlanabilir",
+      "Anarşi değişmez ve kaçınılmaz bir veridir"
      ],
      "dogru": 2,
-     "aciklama": "Konstruktivizm, uluslararası ilişkilerin maddi değil sosyal ve fikirsel yapılarla şekillendiğini savunur."
+     "aciklama": "Konstruktivizm, uluslararası ilişkilerin maddi değil sosyal ve fikirsel yapılarla şekillendiğini savunur.",
+     "zorluk": "zor"
     },
     {
      "id": "56173",
@@ -597,7 +633,8 @@
       "Zürih ve Londra"
      ],
      "dogru": 4,
-     "aciklama": "1959 Zürih ve 1960 Londra antlaşmalarıyla Kıbrıs Cumhuriyeti kurulmuş; Türkiye, Yunanistan ve İngiltere garantör olmuştur."
+     "aciklama": "1959 Zürih ve 1960 Londra antlaşmalarıyla Kıbrıs Cumhuriyeti kurulmuş; Türkiye, Yunanistan ve İngiltere garantör olmuştur.",
+     "zorluk": "zor"
     },
     {
      "id": "56052",
@@ -612,7 +649,8 @@
       "1990"
      ],
      "dogru": 1,
-     "aciklama": "Helsinki Nihai Senedi 1975'te imzalanmış, Avrupa'da sınırların dokunulmazlığı ve insan hakları ilkeleri kabul edilmiştir."
+     "aciklama": "Helsinki Nihai Senedi 1975'te imzalanmış, Avrupa'da sınırların dokunulmazlığı ve insan hakları ilkeleri kabul edilmiştir.",
+     "zorluk": "kolay"
     }
    ]
   }

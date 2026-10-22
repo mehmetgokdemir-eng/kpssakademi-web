@@ -29,19 +29,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "44200",
+     "id": "44199",
      "dersId": "hukuk",
      "konuId": "i_dare",
-     "soru": "İdari sözleşmelerde 'öngörülemeyen hal teorisi' (imprévision) uygulandığında idarenin yükümlülükleri bakımından aşağıdaki ifadelerden hangisi doğrudur?",
+     "soru": "Kamu hizmetinin yürütülmesinde 'imtiyaz sözleşmesi' ile 'hizmet sözleşmesi' (régie intéressée) arasındaki ayrımın pratik önemi, özellikle sözleşmenin tek taraflı değiştirilmesi ve sona erdirilmesi rejimi açısından belirginleşmektedir. Bu iki sözleşme türü arasındaki temel farka ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
      "secenekler": [
-      "Müteahhit ifa yükümlülüğünden tamamen kurtulur; idare ise zarar görmez.",
-      "İdare sözleşmeyi fesheder ve müteahhide tüm kâr kaybını tazmin etmek zorundadır.",
-      "Öngörülemeyen hal teorisi yalnızca özel hukuk sözleşmelerine uygulanır; idari sözleşmelerde 'fait du prince' teorisi geçerlidir.",
-      "İdare, müteahhidin katlandığı ve sözleşmenin doğal riskini aşan zararın tamamını değil yalnızca bir kısmını (genellikle %10-20 oranında) karşılamak zorundadır; müteahhit ise ifayı sürdürme yükümlülüğü altındadır.",
-      "Teorinin uygulanabilmesi için idarenin kusurlu davranmış olması şarttır."
+      "İmtiyaz sözleşmesi yalnızca merkezî idare tarafından akdedilebilirken hizmet sözleşmesi belediyeler tarafından da yapılabilir.",
+      "Hizmet sözleşmeleri özel hukuk hükümlerine tabi olduğundan idari yargı denetimi dışındadır.",
+      "İmtiyaz sözleşmesinde işletme riski tamamen idareye ait olduğundan hizmet bedeli doğrudan Hazine'den ödenir; hizmet sözleşmesinde ise risk bütünüyle özel kişiye geçer ve gelir kullanıcılardan tahsil edilir. Bu ayrım sözleşmenin niteliğini de belirlemektedir.",
+      "Her iki sözleşme türünde de idarenin tek taraflı değişiklik yetkisi anayasal güvenceyle sınırlıdır.",
+      "İmtiyaz sözleşmesinde işletme riski imtiyazcıya aittir ve gelirini kullanıcılardan aldığı bedellerden sağlar; hizmet sözleşmesinde ise işletme riski idarede kalır, özel kişi sabit ücret artı performansa dayalı primle ödüllendirilir."
      ],
-     "dogru": 3,
-     "aciklama": "Fransız Conseil d'État'nın Gaz de Bordeaux kararıyla (1916) yerleşen öngörülemeyen hal teorisine göre sözleşmenin yapıldığı sırada öngörülemeyen ve müteahhidin kontrolü dışındaki bir olgu, ifayı ekonomik açıdan imkânsız kılacak ölçüde zorlaştırırsa müteahhit sözleşmeyi ifa etmeye devam etmek zorundadır; buna karşılık idare zararın tamamı değil aşan kısmını paylaşır. Bu teorinin fait du prince'ten farkı, olumsuz durumun idareye değil dışsal bir olguya bağlı olmasıdır.",
+     "dogru": 4,
+     "aciklama": "İmtiyaz sözleşmesinde (concession) imtiyazcı kamu hizmetini kendi nam ve hesabına işletir; gelirini kullanıcılardan aldığı tarifelerden sağlar, işletme riskini üstlenir. İdarenin müdahalesi 'müdahale teorisi' (théorie de l'imprévision) ve 'fait du prince' çerçevesinde dengelenir. 'Régie intéressée'de ise özel kişi hizmeti idarenin hesabına işletir; sabit bir ücret alır ve bazen performans primiyle teşvik edilir; işletme riski idarede kalır. Bu yapısal fark, mali denge, tazminat hesabı ve sona erme rejimi açısından belirleyicidir.",
      "zorluk": "zor"
     },
     {
@@ -51,13 +51,14 @@
      "soru": "Taraflardan biri tarafından tek taraflı olarak belirlenen genel işlem koşullarına (GİK) ilişkin TBK m. 20-25 hükümleri çerçevesinde aşağıdaki ifadelerden hangisi doğrudur?",
      "secenekler": [
       "Karşı tarafın menfaatine aykırı GİK, hangi şekilde düzenlenmiş olursa olsun geçersiz sayılır.",
-      "GİK'i hazırlayan taraf, sözleşmede öngörülen standart koşulları ancak mahkeme kararıyla değiştirebilir.",
-      "GİK'e dayanabilmek için karşı tarafın bu koşulları bilfiil okumuş ve imzalamış olması şarttır.",
+      "Genel işlem koşullarını hazırlayan taraf, sözleşmede öngörülen standart koşulları ancak mahkeme kararıyla tek taraflı olarak değiştirebilir.",
+      "Genel işlem koşullarına dayanabilmek için karşı tarafın bu koşulları bilfiil okumuş ve imzalamış olması şarttır.",
       "GİK yorumlanırken açık olmayan ifadeler, hazırlayan taraf lehine yorumlanır.",
       "GİK'te yer alan ve karşı tarafın aleyhine olan ağır koşullar, açıkça belirtilmemiş veya yeterince fark ettirilmemiş ise bağlayıcı olmaz."
      ],
      "dogru": 4,
-     "aciklama": "TBK m. 21/2 (sürpriz koşullar yasağı) uyarınca, GİK'te yer alan ve karşı tarafın makul olarak beklemeyeceği, özellikle ağır ve aleyhine sonuçlar doğuran hükümler, açıkça belirtilmemiş ya da yeterince dikkat çekilmemiş ise bağlayıcı olmaz. GİK'e dahil olmak için fiili okuma değil, imzalama ya da farkında kılınma yeterlidir (A yanlış). Karşı tarafın menfaatine aykırı her koşul geçersiz sayılmaz; geçersizlik için TBK m. 25 (dürüstlük kuralına aykırılık) koşulları aranır (B yanlış). Yorum, GİK hazırlayan aleyhine yapılır (E yanlış): 'contra proferentem' ilkesi."
+     "aciklama": "TBK m. 20-25 genel işlem koşullarını düzenler. Hazırlayan taraf, karşı tarafın aleyhine olan ve onun beklemeyeceği ağır hükümleri açıkça belirtmemiş veya karşı tarafın dikkatini yeterince çekmemişse, bu hükümler yazılmamış sayılır ve karşı tarafı bağlamaz. Bu, dürüstlük kuralına dayanan bir içerik denetimi değil, bir yazılmamış sayılma kuralıdır. \"GİK yorumlanırken açık olmayan ifadeler, hazırlayan taraf lehine yorumlanır.\" ifadesi yanlıştır, çünkü şüphe halinde yorum hazırlayanın aleyhine yapılır. \"Karşı tarafın menfaatine aykırı GİK, hangi şekilde düzenlenmiş olursa olsun geçersiz sayılır.\" ifadesi de yanlıştır, çünkü hükmün geçersizliği, karşı tarafa açıkça belirtilip belirtilmediğine bağlıdır. Doğru cevap \"GİK'te yer alan ve karşı tarafın aleyhine olan ağır koşullar, açıkça belirtilmemiş veya yeterince fark ettirilmemiş ise bağlayıcı olmaz.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "44340",
@@ -72,7 +73,7 @@
       "Meşru müdafaa koşullarının oluştuğunu zanneden fail, gerçekte saldırı bulunmasa dahi cezalandırılmaz; bu durum 'sınır meşru müdafaa' olarak adlandırılır."
      ],
      "dogru": 4,
-     "aciklama": "Seçenek D'de tanımlanan durum 'sınır meşru müdafaa' değil, 'putative (sanılan) meşru müdafaa' ya da 'hukuka uygunluk nedenlerinin maddi koşullarında hata (TCK m.30/3)' olarak adlandırılır. Bu hâlde kaçınılmaz bir hata söz konusuysa kişi cezalandırılmaz; kaçınılabilir bir hata varsa taksir hükümleri uygulanır. 'Sınır meşru müdafaa' ise savunmada orantı hatasını ifade eder (TCK m.27). Tanımlama yanlış yapıldığından Seçenek D hatalıdır.",
+     "aciklama": "Soru hatalı olan ifadeyi arıyor. Meşru müdafaa koşullarının gerçekte bulunmadığı halde bulunduğunu zanneden failin durumu, TCK m.30/3'teki hata hükmüne girer. Bu durumda hatası kaçınılmaz ise kusuru yoktur; kaçınılabilir ise taksirle sorumluluk gündeme gelebilir. 'Sınır meşru müdafaa' ise TCK m.27'deki, savunmada sınırın aşılması halidir. Bu nedenle \"Meşru müdafaa koşullarının oluştuğunu zanneden fail ... 'sınır meşru müdafaa' olarak adlandırılır\" ifadesi hatalıdır. Diğer seçenekler doğrudur: saldırının başlamış ya da başlaması kesin olması gerekir, başkası adına savunma mümkündür, hukuka uygun işleme karşı müdafaa olmaz ve orantı makul değerlendirmeyle aranır. Doğru cevap \"Meşru müdafaa koşullarının oluştuğunu zanneden fail, gerçekte saldırı bulunmasa dahi cezalandırılmaz\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -87,8 +88,8 @@
       "İşkolunda çalışan işçilerin en az %3'ünü; işyerinde ise en az %50+1'ini üye kaydetmiş olmak",
       "İşkolunda çalışan işçilerin en az %5'ini; işyerinde ise en az %40'ını üye kaydetmiş olmak"
      ],
-     "dogru": 0,
-     "aciklama": "6356 s. Kanun m. 41'e göre toplu iş sözleşmesi yapabilmek için sendikanın, ilgili işkolunda çalışan işçilerin en az %3'ini üye olarak kaydetmiş olması (işkolu barajı) ve o işyerinde çalışan işçilerin yarısından fazlasını (%50+1) temsil etmesi (işyeri çoğunluğu) gerekmektedir. A ve C seçeneklerinde işkolu barajı yanlış (%1), E'de ise hem baraj hem işyeri eşiği hatalıdır. Doğru seçenek D'dir.",
+     "dogru": 2,
+     "aciklama": "6356'ya göre işkolu barajı %1, işyeri sözleşmesi için ise işyerindeki işçilerin yarıdan fazlası gerekir; bunu birlikte veren tek şık C'dir (A'daki %3 ve B'deki işletme çoğunluğu -doğrusu %40- yanlıştır). Doğru cevap “İşkolunda çalışan işçilerin en az %1'ini; işyerinde ise en az %50+1'ini üye kaydetmiş…” seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -104,7 +105,8 @@
       "Mahkemece belirlenecek tarihten itibaren"
      ],
      "dogru": 2,
-     "aciklama": "TBK m. 90'a göre ifa zamanı belirlenmemiş veya belirlenebilir nitelikte değilse borç, doğumu anında muaccel olur. Yani alacaklı borcun doğduğu andan itibaren ifayı talep edebilir. 'Makul süre' kavramı bazı özel durumlarda uygulanmakla birlikte genel kural, muacceliyetin borcun doğumuyla eş zamanlı gerçekleşmesidir."
+     "aciklama": "TBK m. 90'a göre ifa zamanı belirlenmemiş veya belirlenebilir nitelikte değilse borç, doğumu anında muaccel olur. Yani alacaklı borcun doğduğu andan itibaren ifayı talep edebilir. 'Makul süre' kavramı bazı özel durumlarda uygulanmakla birlikte genel kural, muacceliyetin borcun doğumuyla eş zamanlı gerçekleşmesidir.",
+     "zorluk": "orta"
     },
     {
      "id": "44091",
@@ -116,10 +118,10 @@
       "Bireysel başvuru hakkı, tüzel kişiler tarafından da kullanılabilir.",
       "Bireysel başvuru yalnızca Avrupa İnsan Hakları Sözleşmesi kapsamındaki haklarla sınırlıdır; Anayasa'nın diğer maddeleri bireysel başvuruya konu olamaz.",
       "Bireysel başvuruda bulunabilmek için olağan kanun yollarının tüketilmiş olması zorunludur.",
-      "Bireysel başvurunun incelenebilmesi için başvurucunun menfaatinin ihlal edilmiş olması gerekir."
+      "Bireysel başvurunun incelenebilmesi için başvurucunun güncel ve kişisel menfaatinin ihlal edilmiş olması gerekir. Bu menfaatin ayrıca belgelendirilmesi de gerekir."
      ],
-     "dogru": 2,
-     "aciklama": "Bireysel başvuru, Anayasa'da güvence altına alınan temel hak ve özgürlüklerden Avrupa İnsan Hakları Sözleşmesi kapsamındaki herhangi birinin kamu gücü tarafından ihlal edildiği iddiasıyla yapılır. Yani bireysel başvurunun konusu hem Anayasa'da güvence altında olmalı hem de AİHS kapsamında yer almalıdır. 'Yalnızca AİHS kapsamındaki hakların' başvuruya konu olabileceği ifadesi eksik ve yanıltıcıdır; Anayasa'daki güvencenin varlığı da zorunlu koşuldur. Dolayısıyla C seçeneği yanlış bir ifade içermektedir. Diğer seçenekler, başvuru yollarının tüketilmesi zorunluluğu, yasama işlemleri ile AYM kararlarının konu edilememesi, menfaat şartı ve tüzel kişilerin başvurusu bakımından doğrudur.",
+     "dogru": 4,
+     "aciklama": "6216 sayılı Kanun'un 46. maddesi, başvurucunun güncel ve kişisel bir hakkının doğrudan etkilenmiş olmasını arar. Ölçüt soyut bir menfaat değil, bir hakkın doğrudan etkilenmesidir. Menfaatin ayrıca belgelendirilmesi diye bağımsız bir kabul edilebilirlik şartı da yoktur. Bu nedenle menfaat ve belgelendirme şartı koşan ifade yanlıştır. AİHS'e ilişkin seçenek ise Anayasa'nın 148. maddesindeki ortak koruma alanı kuralını yansıtır. Anayasa'daki haklardan AİHS ve ek protokoller kapsamında kalmayanlar bireysel başvuruya konu olamaz, bu yüzden o ifade doğrudur. Yasama işlemleri ile Anayasa Mahkemesi kararlarının başvuruya konu edilememesi, tüzel kişilerin başvuru hakkı ve olağan kanun yollarının tüketilmesi şartı da Kanun'da açıkça yer alır. Doğru cevap \"Bireysel başvurunun incelenebilmesi için başvurucunun güncel ve kişisel menfaatinin ihlal edilmiş olması gerekir. Bu menfaatin ayrıca belgelendirilmesi de gerekir.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -135,7 +137,8 @@
       "İdari işlemin gecikmeli tesis edilmesi nedeniyle zarar doğması"
      ],
      "dogru": 1,
-     "aciklama": "Kişisel kusur; memurun görevle ilgisi olmayan, görev dışında işlediği ya da görevi sırasında sırf kişisel saiklerle (kin, kıskançlık, nefret gibi) gerçekleştirdiği eylemlerden doğan kusurdur. Gözaltındaki kişiyi kişisel kininden dövmek, bu tanıma uymaktadır. Diğer seçeneklerde yer alan olaylar, idarenin örgütsel yapısındaki ya da işleyişindeki eksiklikten kaynaklanan hizmet kusuruna girer ve sorumluluk doğrudan idareye yüklenir."
+     "aciklama": "Kişisel kusur; memurun görevle ilgisi olmayan, görev dışında işlediği ya da görevi sırasında sırf kişisel saiklerle (kin, kıskançlık, nefret gibi) gerçekleştirdiği eylemlerden doğan kusurdur. Gözaltındaki kişiyi kişisel kininden dövmek, bu tanıma uymaktadır. Diğer seçeneklerde yer alan olaylar, idarenin örgütsel yapısındaki ya da işleyişindeki eksiklikten kaynaklanan hizmet kusuruna girer ve sorumluluk doğrudan idareye yüklenir.",
+     "zorluk": "orta"
     },
     {
      "id": "44521",
@@ -198,7 +201,8 @@
       "Vasi, kısıtlıya ait taşınmazı vesayet makamının izni olmaksızın devredemez."
      ],
      "dogru": 1,
-     "aciklama": "Vasi atanması, kısıtlıyı tam anlamıyla ehliyetsiz kılmaz. Ayırt etme gücüne sahip kısıtlı, kişiye sıkı sıkıya bağlı hakları (boşanma davası, tanıma vb.) bizzat kullanabilir. Dolayısıyla C şıkkı yanlıştır. A doğrudur; evlilik, vasinin iznini gerektiren işlemler arasındadır (TMK m. 463). B doğrudur; taşınmaz devri vesayet makamı iznini gerektirir (m. 462). D doğrudur (m. 405). E doğrudur (m. 397)."
+     "aciklama": "Vesayet altına alınma, kısıtlının tüm hukuki işlem ehliyetini ortadan kaldırmaz. Ayırt etme gücüne sahip kısıtlı, vasisinin iznine bağlı olmaksızın kişiye sıkı sıkıya bağlı haklarını kullanabilir. Ayrıca kendisini yalnızca borç altına sokmayan işlemleri tek başına yapabilir. Bu yüzden ehliyetin tamamen ortadan kalktığı söylenemez. \"Vesayet makamı, sulh hukuk mahkemesidir.\" seçeneği doğrudur. \"Vasi, kısıtlıya ait taşınmazı vesayet makamının izni olmaksızın devredemez.\" seçeneği de doğrudur, çünkü taşınmaz devri vesayet makamının iznine bağlıdır. Doğru cevap \"Vasi atanması, kısıtlının tüm hukuki işlem ehliyetini ortadan kaldırır.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "44030",
@@ -229,7 +233,8 @@
       "Hak doğuran işlemlerin geri alınması, dava açma süresi geçtikten sonra hiçbir hâlde mümkün değildir."
      ],
      "dogru": 1,
-     "aciklama": "İdare hukukunda işlemlerin geri alınması (geçmişe etkili iptali) ile kaldırılması (ileriye dönük sona erdirme) ayrımı önemlidir. Hukuka uygun olan ancak kamu yararı açısından sürdürülmesi uygun olmayan işlemler, idarece ileriye dönük olarak kaldırılabilir. Bu durum kazanılmış hakların zedelenmesine yol açabileceğinden oluşan zararın tazmin edilmesi gerekir. B seçeneği bu ilkeyi doğru özetlemektedir. A yanlıştır; hak doğuran işlemlerin geri alınması çeşitli kısıtlamalara tabidir. C kesin bir kural olarak doğru değildir; bazı hâllerde dava süresi geçtikten sonra da geri alma mümkün olabilir. D yanlıştır; yük getirici işlemlerin geri alınması ilgilinin yararınadır. E'deki 'her zaman dava açma süresiyle özdeş' ifadesi yanlıştır; Danıştay, makul süreyi dava süresine bağlamakla birlikte bu özdeşlik her zaman mutlak tutulmamıştır. Doğru yanıt B'dir."
+     "aciklama": "İdare hukukunda işlemlerin geri alınması (geçmişe etkili iptali) ile kaldırılması (ileriye dönük sona erdirme) ayrımı önemlidir. Hukuka uygun olan ancak kamu yararı açısından sürdürülmesi uygun olmayan işlemler, idarece ileriye dönük olarak kaldırılabilir. Bu durum kazanılmış hakların zedelenmesine yol açabileceğinden oluşan zararın tazmin edilmesi gerekir. “Hukuka uygun bir idari işlem, kamu yararı gerektirdiğinde ileriye dönük olarak…” seçeneği bu ilkeyi doğru özetlemektedir. “Danıştay içtihadına göre, makul süre geçtikten sonra hukuka aykırı hak doğuran işlemlerin…” seçeneği yanlıştır; hak doğuran işlemlerin geri alınması çeşitli kısıtlamalara tabidir. C kesin bir kural olarak doğru değildir; bazı hâllerde dava süresi geçtikten sonra da geri alma mümkün olabilir. “Yük getirici idari işlemlerin ilgilinin rızası olmaksızın geri alınması hukuka aykırıdır.” seçeneği yanlıştır; yük getirici işlemlerin geri alınması ilgilinin yararınadır. E'deki 'her zaman dava açma süresiyle özdeş' ifadesi yanlıştır; Danıştay, makul süreyi dava süresine bağlamakla birlikte bu özdeşlik her zaman mutlak tutulmamıştır. Doğru yanıt “Hukuka uygun bir idari işlem, kamu yararı gerektirdiğinde ileriye dönük olarak…” seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "44500",
@@ -260,22 +265,23 @@
       "Cebren ırza geçme suçu"
      ],
      "dogru": 2,
-     "aciklama": "TCK m. 108'de düzenlenen cebir suçu, bir kimseyi cebir veya tehdit kullanarak bir şey yapmaya ya da yapmamaya ya da kendisini oluruna bırakmaya zorlamak biçiminde tanımlanmıştır. Tehdit suçu (m. 106) ise gelecekte bir kötülük yapılacağının bildirilmesini kapsar; zorlamaya yönelik olmak zorunda değildir. Şantaj suçu (m. 107), hakkın kullanımı görüntüsü altında zorlamayı içerir. Kişiyi hürriyetinden yoksun kılma (m. 109) özgürlüğü fiilen kısıtlamayı gerektirir. Bu nedenle tanımdaki eylem, doğrudan TCK m. 108'deki cebir suçuna karşılık gelmektedir."
+     "aciklama": "TCK m. 108'de düzenlenen cebir suçu, bir kimseyi cebir veya tehdit kullanarak bir şey yapmaya ya da yapmamaya ya da kendisini oluruna bırakmaya zorlamak biçiminde tanımlanmıştır. Tehdit suçu (m. 106) ise gelecekte bir kötülük yapılacağının bildirilmesini kapsar; zorlamaya yönelik olmak zorunda değildir. Şantaj suçu (m. 107), hakkın kullanımı görüntüsü altında zorlamayı içerir. Kişiyi hürriyetinden yoksun kılma (m. 109) özgürlüğü fiilen kısıtlamayı gerektirir. Bu nedenle tanımdaki eylem, doğrudan TCK m. 108'deki cebir suçuna karşılık gelmektedir.",
+     "zorluk": "orta"
     },
     {
-     "id": "44637",
+     "id": "44638",
      "dersId": "hukuk",
      "konuId": "i_s_hukuku",
-     "soru": "4857 sayılı İş Kanunu'na göre işveren, fesih bildirimini kaç iş günü içinde yazılı olarak işçiye bildirmekle yükümlüdür?",
+     "soru": "Aşağıdakilerden hangisi iş sözleşmesinin zorunlu unsurlarından biri değildir?",
      "secenekler": [
-      "Derhal yazılı olarak bildirmelidir",
-      "Bildirim süresine bağlıdır, yazılılık zorunlu değildir",
-      "3 iş günü içinde",
-      "5 iş günü içinde",
-      "7 iş günü içinde"
+      "İş görme edimi",
+      "Tarafların anlaşması",
+      "Yazılı şekil",
+      "Bağımlılık ilişkisi",
+      "Ücret"
      ],
-     "dogru": 0,
-     "aciklama": "4857 sayılı İş Kanunu'nun 19. maddesi uyarınca işveren, fesih bildirimini yazılı olarak yapmak ve fesih sebebini açık ve kesin bir şekilde belirtmek zorundadır. Bildirim derhal (fesih kararıyla birlikte) yapılmalıdır; ayrıca gün sınırlaması yoktur, yazılılık esastır.",
+     "dogru": 2,
+     "aciklama": "İş sözleşmesinin zorunlu unsurları; iş görme (çalışma), ücret ve bağımlılık (işverenin yönetim hakkı) ilişkisidir. Yazılı şekil ise iş sözleşmesinin geçerlilik koşulu değil, ispat aracıdır. Yani iş sözleşmesi sözlü olarak da kurulabilir.",
      "zorluk": "kolay"
     },
     {
@@ -291,7 +297,8 @@
       "Tereke borçlarından mirasçılar, miras payları oranında kişisel olarak sorumludur."
      ],
      "dogru": 4,
-     "aciklama": "TMK m. 641'e göre mirasçılar, tereke borçlarından müteselsilen (birlikte) sorumludurlar; yani her mirasçı tüm borçtan sorumludur. Pay oranında sorumluluk değil, müteselsil sorumluluk söz konusudur. Bu nedenle D şıkkı yanlıştır ve doğru cevap D'dir."
+     "aciklama": "Mirasçılar tereke borçlarından müteselsilen ve sınırsız olarak sorumludur (TMK m.641). Alacaklı, borcun tamamı için mirasçılardan herhangi birine başvurabilir. Sorumluluğun miras payı oranıyla sınırlı olduğunu söyleyen ifade bu nedenle yanlıştır. Miras payı oranı yalnızca mirasçıların kendi aralarındaki iç ilişkide, rücu bakımından önem taşır. Birden fazla mirasçı varsa tereke, paylaşmaya kadar elbirliği mülkiyetine tabidir. Bu yüzden \"Birden fazla mirasçının bulunduğu hâllerde miras, paylaşmaya kadar mirasçılar arasında elbirliği mülkiyetine tabi olur.\" ifadesi doğrudur. Mahkemenin gerektiğinde tereke yöneticisi atayabileceğini söyleyen ifade de doğrudur. Doğru cevap \"Tereke borçlarından mirasçılar, miras payları oranında kişisel olarak sorumludur.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "44085",
@@ -306,7 +313,7 @@
       "Anayasa'nın 15. maddesi kapsamındaki çekirdek haklar, uluslararası andlaşmalardan kaynaklanan yükümlülükler ihlal edilmeden de askıya alınabilir."
      ],
      "dogru": 2,
-     "aciklama": "Anayasa'nın 15. maddesinin 2. fıkrası, olağanüstü hallerde dahi dokunulamayacak hakları (çekirdek haklar) saymaktadır. Bu haklar arasında kişinin yaşama hakkı (savaş hukuku hariç), işkence ve eziyet yasağı, suç ve cezaların geçmişe yürütülmesi yasağı, masumiyet karinesi sayılmaktadır. A seçeneği yanlıştır zira tüm haklar askıya alınamaz. C seçeneği Anayasa'daki metinde doğrudan ölüm cezasını yasaklamamaktadır; Anayasa yaşam hakkını güvence altına almaktadır. D seçeneği yanlıştır çünkü suç ve cezaların geçmişe yürütülmesi yasağı askıya alınamaz. E seçeneği yanlıştır; uluslararası yükümlülükler ihlal edilemez. B seçeneği, 15. madde ile tutarlı doğru bir ifade içermektedir: Kişi bütünlüğüne dokunulamaz; savaş hukukuna aykırı olmayan müdahaleler ise bu kapsamın dışındadır.",
+     "aciklama": "Anayasa'nın 15. maddesine göre olağanüstü hallerde temel hak ve özgürlüklerin kullanımı kısmen veya tamamen durdurulabilir. Bu durdurma, durumun gerektirdiği ölçüde ve uluslararası hukuktan doğan yükümlülükler ihlal edilmeden yapılabilir. Buna karşın kişinin yaşama hakkına ve maddi ve manevi varlığının bütünlüğüne, savaş hukukuna uygun fiillerden doğan ölümler dışında dokunulamaz. Bu çekirdek güvence 15. maddedeki düzenlemeyi en iyi yansıtan seçenektir. \"Olağanüstü hallerde tüm temel haklar tamamen ve süresiz olarak askıya alınabilir.\" seçeneği yanlıştır, çünkü askıya alma ölçülü olmak zorundadır ve çekirdek haklar korunur. \"Suç ve cezaların geçmişe yürütülmesi yasağı olağanüstü hal döneminde çerçeve kanunla askıya alınabilir.\" seçeneği de yanlıştır, çünkü bu yasak 15. maddedeki dokunulmaz haklar arasındadır. Doğru cevap \"Kişinin dokunulmazlığına, maddi ve manevi bütünlüğüne dokunulamaz\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -315,14 +322,15 @@
      "konuId": "i_dare",
      "soru": "Kamulaştırma işleminde 'acele kamulaştırma' usulüne ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
      "secenekler": [
-      "Acele kamulaştırmada kıymet takdiri hiç yapılmaz; bedelini mahkeme daha sonra belirlediğinde idare ödeme yapar",
+      "Acele kamulaştırmada kıymet takdiri hiç yapılmaz; bedeli mahkeme daha sonra belirlediğinde idare ödeme yapar",
       "Acele kamulaştırmaya karar verme yetkisi yalnızca Cumhurbaşkanı'na aittir",
-      "Acele kamulaştırmada idare, mahkeme kararı olmaksızın mülke el atabilir; ancak kıymet takdiri önceden yapılmalıdır",
+      "Acele kamulaştırmada idare, herhangi bir mahkeme kararı olmaksızın mülke doğrudan el atabilir; ancak kıymet takdirinin el atmadan önce yaptırılmış olması gerekir Bu takdir sonradan itiraza konu edilemez.",
       "Acele kamulaştırma kararı Danıştay'ın onayına tabidir",
       "Acele kamulaştırmada idare, bedel tespiti ve tescil davası açarak kıymet takdiri yaptırır, bedeli mahkeme veznesine depo eder ve mahkeme kararıyla taşınmaza el atabilir"
      ],
      "dogru": 4,
-     "aciklama": "2942 sayılı Kamulaştırma Kanunu'nun 27. maddesi uyarınca acele kamulaştırmada normal süreçteki uzlaşma ve satın alma aşamaları uygulanmaz; idare doğrudan asliye hukuk mahkemesinde bedel tespiti ve tescil davası açar, mahkemece belirlenen kamulaştırma bedelini vezneye depo eder ve mahkeme kararı üzerine taşınmaza el atma yetkisi doğar. Acele kamulaştırma kararı Cumhurbaşkanı tarafından verilebileceği gibi, kısmen bakanlar aracılığıyla da kullanılabilir; Danıştay onayı zorunlu değildir. Bedelsiz el atma hukuken mümkün değildir."
+     "aciklama": "2942 sayılı Kamulaştırma Kanunu'nun 27. maddesi uyarınca acele kamulaştırmada normal süreçteki uzlaşma ve satın alma aşamaları uygulanmaz; idare doğrudan asliye hukuk mahkemesinde bedel tespiti ve tescil davası açar, mahkemece belirlenen kamulaştırma bedelini vezneye depo eder ve mahkeme kararı üzerine taşınmaza el atma yetkisi doğar. Acele kamulaştırma kararı Cumhurbaşkanı tarafından verilebileceği gibi, kısmen bakanlar aracılığıyla da kullanılabilir; Danıştay onayı zorunlu değildir. Bedelsiz el atma hukuken mümkün değildir.",
+     "zorluk": "orta"
     },
     {
      "id": "44578",
@@ -337,7 +345,7 @@
       "Zamanaşımı dolmuş olsa bile borçlu borcunu ifa ederse sonradan iade talep edemez."
      ],
      "dogru": 4,
-     "aciklama": "TBK m. 161 uyarınca zamanaşımı dolmuş olan bir borcun borçlusu tarafından ifa edilmesi, borcun geçerli bir doğal borç (eksik borç) hâline gelmesi anlamına gelir ve bu ödeme 'borçsuz ödeme' sayılmaz. Bu nedenle ödenen miktar iade talep edilemez. A şıkkı yanlıştır; zamanaşımı def'i Türk hukukunda re'sen değil tarafın talebi üzerine dikkate alınır (TBK m. 161/I). C şıkkı yanıltıcıdır; zamanaşımı bir def'i olup HMK m. 187 gereği zamanında ileri sürülmesi gerekir. D şıkkı için TBK m. 165 ve 167'ye bakıldığında, müteselsil borçlulardan birinin zamanaşımı def'inin diğerlerine kendiliğinden sirayet etmediği görülür. E şıkkı ise TBK m. 148'in izin verdiği kısaltmayı doğru vurgulamasına karşın uzatma yasağını eksik ifade etmektedir. Doğru cevap B'dir.",
+     "aciklama": "Zamanaşımına uğramış borç ortadan kalkmaz, eksik borca dönüşür. Alacaklı artık borcun ifasını dava yoluyla zorla isteyemez, ancak borçlu isterse ifa edebilir. Zamanaşımı süresi dolduktan sonra yapılan ifa, borcun varlığına dayandığı için sebepsiz zenginleşme sayılmaz. Bu yüzden borçlu sonradan geri isteyemez. \"Zamanaşımı, taraflarca kısaltılabilir; ancak TBK'da öngörülen sürelerden uzun zamanaşımı süresi belirlenemez.\" ifadesi yanlıştır, çünkü zamanaşımı süreleri sözleşmeyle değiştirilemez, kısaltılamaz da uzatılamaz. \"Zamanaşımı def'i re'sen dikkate alınır; hâkim borçlu ileri sürmese dahi zamanaşımını uygulamak zorundadır.\" ifadesi de yanlıştır, çünkü hâkim zamanaşımını kendiliğinden gözetemez, borçlunun def'i ileri sürmesi gerekir. Doğru cevap \"Zamanaşımı dolmuş olsa bile borçlu borcunu ifa ederse sonradan iade talep edemez.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -363,13 +371,14 @@
      "soru": "4857 sayılı İş Kanunu çerçevesinde aşağıdaki durumların hangisinde işveren ihbar tazminatı ödemek zorunda değildir?",
      "secenekler": [
       "İşletme gerekleri nedeniyle iş sözleşmesini fesheden işveren",
-      "İşçinin performansının düşüklüğü gerekçesiyle fesheden işveren",
-      "Süreli fesih bildirimi yapmaksızın sözleşmeyi fesheden işveren",
+      "İşçinin performansının düşüklüğü gerekçesiyle sözleşmeyi fesheden işveren",
+      "Süreli fesih bildiriminde bulunmaksızın sözleşmeyi derhal fesheden işveren ve tazminat ödemeyen işveren",
       "İş hacminin azalması nedeniyle fesheden işveren",
       "İşçinin ahlak ve iyi niyet kurallarına aykırı davranışı nedeniyle derhal fesheden işveren"
      ],
      "dogru": 4,
-     "aciklama": "İhbar tazminatı, belirsiz süreli iş sözleşmelerinde tarafların usule uygun bildirim yapmaksızın sözleşmeyi feshetmesi hâlinde gündeme gelir. Ancak 4857 sayılı Kanun'un 25. maddesi kapsamında haklı nedenle yapılan derhal fesihlerde ihbar sürelerine uyma yükümlülüğü bulunmadığından ihbar tazminatı ödenmez. İşçinin ahlak ve iyi niyet kurallarına aykırı davranışı (m.25/II) haklı fesih nedeni olduğundan, bu durumda işveren ihbar tazminatı ödemeksizin sözleşmeyi derhal feshedebilir. Diğer seçeneklerde ise işveren süreli fesih bildirimi yapmak veya ihbar tazminatı ödemek zorundadır."
+     "aciklama": "İhbar tazminatı, belirsiz süreli iş sözleşmelerinde tarafların usule uygun bildirim yapmaksızın sözleşmeyi feshetmesi hâlinde gündeme gelir. Ancak 4857 sayılı Kanun'un 25. maddesi kapsamında haklı nedenle yapılan derhal fesihlerde ihbar sürelerine uyma yükümlülüğü bulunmadığından ihbar tazminatı ödenmez. İşçinin ahlak ve iyi niyet kurallarına aykırı davranışı (m.25/II) haklı fesih nedeni olduğundan, bu durumda işveren ihbar tazminatı ödemeksizin sözleşmeyi derhal feshedebilir. Diğer seçeneklerde ise işveren süreli fesih bildirimi yapmak veya ihbar tazminatı ödemek zorundadır.",
+     "zorluk": "orta"
     },
     {
      "id": "44415",
@@ -384,7 +393,8 @@
       "Mirasın reddi, yalnızca yazılı beyanla gerçekleştirilebilir."
      ],
      "dogru": 0,
-     "aciklama": "TMK m. 605/2 uyarınca terekenin açıkça borca batık olduğunun anlaşılması halinde mirasçılar mirası reddetmiş sayılır (hükmi red). Bu düzenleme, mirasçıları ayrıca red beyanında bulunma yükümlülüğünden kurtarır. A kısmen doğrudur ancak süre ölümün ve mirasçılığın öğrenildiği tarihten itibaren işler. B yanlıştır; sözlü beyan da mümkündür. C yanlıştır; altsoy mirası kabul etmek zorunda değildir, onlar da reddedebilir. E yanlıştır; ret geriye dönük değil, mirasın açıldığı andan itibaren hüküm doğurur."
+     "aciklama": "Medeni Kanun'a göre terekenin borca batık olduğu mirasbırakanın ölümü sırasında açıkça belliyse, mirası reddetmiş sayılırlar. Bu durumda mirasçının ayrıca ret beyanında bulunmasına gerek kalmaz. Bu kural, mirasçıları borçlardan korumak için konmuştur. \"Mirasın reddi, mirasın açılmasından itibaren altı ay içinde sulh hukuk mahkemesine bildirilmelidir.\" seçeneği yanlıştır. Ret süresi üç aydır. \"Mirasın reddi, yalnızca yazılı beyanla gerçekleştirilebilir.\" seçeneği de yanlıştır. Ret, sözlü veya yazılı beyanla yapılabilir. Doğru cevap \"Terekenin borca batık olduğu açıkça belli ise mirasçılar mirası reddetmiş sayılır.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "44057",
@@ -399,7 +409,8 @@
       "Mülkiyet hakkından yalnızca yargı kararıyla yoksun bırakılabilmesi"
      ],
      "dogru": 4,
-     "aciklama": "Anayasa'nın 35. maddesi mülkiyet hakkını güvence altına alır ve kamu yararı amacıyla kanunla sınırlandırılabileceğini öngörür. 46. madde ise kamulaştırmayı düzenler; kamulaştırma idari bir işlemle gerçekleşir, yargı kararı ön koşul değildir. Dolayısıyla 'mülkiyet hakkından yalnızca yargı kararıyla yoksun bırakılabilmesi' Anayasa ile bağdaşmaz; kamulaştırma idarenin tek yanlı işlemiyle yapılır ve bedel anlaşmazlığı hâlinde yargı devreye girer."
+     "aciklama": "Anayasa'nın 35. maddesi mülkiyet hakkını güvence altına alır ve kamu yararı amacıyla kanunla sınırlandırılabileceğini öngörür. 46. madde ise kamulaştırmayı düzenler; kamulaştırma idari bir işlemle gerçekleşir, yargı kararı ön koşul değildir. Dolayısıyla 'mülkiyet hakkından yalnızca yargı kararıyla yoksun bırakılabilmesi' Anayasa ile bağdaşmaz; kamulaştırma idarenin tek yanlı işlemiyle yapılır ve bedel anlaşmazlığı hâlinde yargı devreye girer.",
+     "zorluk": "orta"
     },
     {
      "id": "44208",
@@ -414,7 +425,7 @@
       "Anayasa'da münhasıran kanunla düzenleneceği öngörülen alanlarda Cumhurbaşkanlığı kararnamesi çıkarılamaz."
      ],
      "dogru": 1,
-     "aciklama": "Anayasa m.104/17'ye göre Cumhurbaşkanlığı kararnameleri, Anayasa'nın ikinci kısmının birinci ve ikinci bölümlerinde yer alan temel haklar, kişi hakları ve ödevler ile dördüncü bölümde yer alan siyasi haklar ve ödevler alanında düzenleme yapamaz. Ayrıca münhasıran kanunla düzenlenmesi öngörülen konularda da kararname çıkarılamaz. Dolayısıyla C seçeneğindeki ifade Anayasa'ya aykırı olduğundan yanlıştır. D seçeneği doktrinde tartışmalı olmakla birlikte genel kabul gören hiyerarşiyi doğru biçimde yansıtmaktadır.",
+     "aciklama": "Anayasa m.104 uyarınca Cumhurbaşkanlığı kararnamesiyle yürütme yetkisine ilişkin konular düzenlenebilir. Ancak Anayasa'nın ikinci kısmının birinci ve ikinci bölümlerinde yer alan temel haklar, kişi hakları ve ödevler ile siyasi haklar ve ödevler kararnameyle düzenlenemez. Bu nedenle bu alanlarda düzenleme yapılabileceğini söyleyen ifade yanlıştır. Diğer ifadeler doğrudur. Anayasa'da münhasıran kanunla düzenleneceği belirtilen konularda kararname çıkarılamaz. Kanunda açıkça düzenlenen bir konuda kararname çıkarılırsa kanun hükmü uygulanır. Kararnameler, kanunların altında ve yönetmeliklerin üstünde yer alır. Doğru cevap \"Cumhurbaşkanlığı kararnameleri, temel haklar, kişi hakları ve ödevler ile siyasi haklar ve ödevler alanında düzenleme yapabilir.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -430,7 +441,8 @@
       "Culpa in contrahendo sorumluluğu yalnızca sözleşmenin geçerli şekilde kurulduğu durumlarda gündeme gelir."
      ],
      "dogru": 1,
-     "aciklama": "TBK m. 35 uyarınca sözleşme görüşmeleri sırasında taraflar birbirlerine karşı dürüstlük kurallarına (MK m. 2) uymak zorundadır. Bu kurallara aykırı davranan ve karşı tarafın sözleşme görüşmelerine güvenerek zarar görmesine yol açan taraf, culpa in contrahendo sorumluluğu kapsamında tazminat ödemek zorundadır. Talep edilebilecek zarar menfi zarardır (sözleşmenin kurulacağına duyulan güven nedeniyle katlanılan masraflar vb.). Culpa in contrahendo, sözleşme kurulmadan önce ya da sözleşme geçersiz olduğu durumlarda uygulanan bir sorumluluk türüdür; TBK m. 35'te açıkça düzenlenmiştir."
+     "aciklama": "TBK m. 35 uyarınca sözleşme görüşmeleri sırasında taraflar birbirlerine karşı dürüstlük kurallarına (MK m. 2) uymak zorundadır. Bu kurallara aykırı davranan ve karşı tarafın sözleşme görüşmelerine güvenerek zarar görmesine yol açan taraf, culpa in contrahendo sorumluluğu kapsamında tazminat ödemek zorundadır. Talep edilebilecek zarar menfi zarardır (sözleşmenin kurulacağına duyulan güven nedeniyle katlanılan masraflar vb.). Culpa in contrahendo, sözleşme kurulmadan önce ya da sözleşme geçersiz olduğu durumlarda uygulanan bir sorumluluk türüdür; TBK m. 35'te açıkça düzenlenmiştir.",
+     "zorluk": "orta"
     },
     {
      "id": "44234",

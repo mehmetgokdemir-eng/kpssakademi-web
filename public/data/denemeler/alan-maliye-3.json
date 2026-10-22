@@ -20,12 +20,12 @@
      "secenekler": [
       "Pigou vergisi, marjinal sosyal zararın doğru ölçülebildiği ve piyasa aktörlerinin fazla sayıda olduğu koşullarda etkin çözüm üretirken Coase teoremi asimetrik bilgi ve yüksek işlem maliyetleri nedeniyle büyük ölçekli dışsallıklarda geçerliliğini yitirir.",
       "Pigou vergisi, negatif dışsallığın tam olarak ölçülememesi durumunda bile uygulanmalıdır; çünkü herhangi bir vergi düzeyi hiç vergi olmamasından refah açısından daha iyidir.",
-      "İşlem maliyetleri sıfır olduğunda Coase teoremi her zaman Pigou vergisinden üstündür; çünkü devlet müdahalesi olmadan optimum çözüme ulaşılır ve bilgi asimetrisi sorunu ortadan kalkar.",
+      "İşlem maliyetleri sıfır olduğunda Coase teoremi her zaman Pigou vergisinden üstündür; çünkü devlet müdahalesi olmaksızın optimum çözüme ulaşılır ve bilgi asimetrisi sorunu tümüyle ortadan kalkar. Nitekim taraf sayısı arttıkça pazarlık süreci hızlanır ve marjinal sosyal zararın ölçülmesine hiç gerek kalmaz.",
       "İki yaklaşım arasında teorik üstünlük belirlenemez; her ikisi de refah iyileştirmesi sağlayamaz çünkü dışsallıklar tanım gereği piyasa başarısızlığıdır.",
       "Coase teoremi, mülkiyet haklarının kim tarafından tutulduğuna bakılmaksızın aynı etkinlik sonucunu ürettiğinden bölüşüm sonuçları açısından da Pigou vergisinden üstündür."
      ],
      "dogru": 0,
-     "aciklama": "B seçeneği, her iki yaklaşımın kısıt ve avantajlarını dengeli biçimde ele almaktadır. Pigou vergisinin etkinliği marjinal sosyal zararın (MSD) doğru tespitine bağlıdır; bilgi asimetrisi ve ölçüm güçlüğü temel zaafiyetidir. Ancak çok sayıda aktörün bulunduğu (fabrika-tüm mahalle ilişkisi gibi) durumlarda işlem maliyetleri Coase müzakeresini imkânsız kılar. A seçeneği, 'işlem maliyetleri sıfır' varsayımını gerçekçi bir üstünlük argümanı olarak sunamaz; bu sadece teorik bir dünya tasvirdir. D seçeneği, Coase teoreminin bölüşüm tarafsızlığı iddiasını yanlış yorumlamaktadır; teorem kaynak tahsisinin değil yalnızca etkin miktarın bağımsız olduğunu söyler. E seçeneği yanlıştır; yanlış kalibre edilmiş bir Pigou vergisi refah kaybını artırabilir.",
+     "aciklama": "Pigou vergisi, marjinal sosyal zararın doğru ölçülebildiği durumlarda dışsallığı fiyatlayarak içselleştirir. Taraf sayısının fazla olduğu durumlarda ise tarafların pazarlık etmesi pratik değildir. Coase teoremi sıfır işlem maliyeti ve açıkça tanımlanmış mülkiyet haklarını varsayar. Çok sayıda taraf, asimetrik bilgi ve yüksek işlem maliyeti bu varsayımları bozar. Bu nedenle büyük ölçekli dışsallıklarda Coase çözümü uygulanamaz. \"İşlem maliyetleri sıfır olduğunda Coase teoremi her zaman Pigou vergisinden üstündür\" seçeneği yanlıştır, çünkü taraf sayısı arttıkça pazarlık süreci kolaylaşmaz, zorlaşır. \"Pigou vergisi, negatif dışsallığın tam olarak ölçülememesi durumunda bile uygulanmalıdır\" seçeneği de yanlıştır, çünkü yanlış belirlenen bir vergi düzeyi refah kaybı yaratabilir. Doğru cevap \"Pigou vergisi, marjinal sosyal zararın doğru ölçülebildiği ve piyasa aktörlerinin fazla sayıda olduğu koşullarda etkin çözüm üretirken...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -41,7 +41,8 @@
       "Muafiyet paradoksu"
      ],
      "dogru": 3,
-     "aciklama": "İkinci en iyi (second-best) teorisi, ilk en iyi koşulların (tüm mallara eşit vergileme gibi) sağlanamadığı durumlarda optimal politikanın ne olduğunu araştırır. X malına vergi uygulanırken Y'nin muaf tutulması, ekonomik etkinliği bozar çünkü tüketici göreli fiyat yapısı çarpıtılmış bir ortamda kararlar alır. Lipsey ve Lancaster'ın İkinci En İyi Teoremi, bir ekonomide birden fazla çarpıklık varken bunlardan birini gidermek her zaman refahı artırmayabileceğini söyler. Bu seçici uygulama, second-best vergileme sorununu somutlaştırmaktadır."
+     "aciklama": "İkinci en iyi (second-best) teorisi, ilk en iyi koşulların (tüm mallara eşit vergileme gibi) sağlanamadığı durumlarda optimal politikanın ne olduğunu araştırır. X malına vergi uygulanırken Y'nin muaf tutulması, ekonomik etkinliği bozar çünkü tüketici göreli fiyat yapısı çarpıtılmış bir ortamda kararlar alır. Lipsey ve Lancaster'ın İkinci En İyi Teoremi, bir ekonomide birden fazla çarpıklık varken bunlardan birini gidermek her zaman refahı artırmayabileceğini söyler. Bu seçici uygulama, second-best vergileme sorununu somutlaştırmaktadır.",
+     "zorluk": "orta"
     },
     {
      "id": "48162",
@@ -56,7 +57,8 @@
       "2.500 milyon TL"
      ],
      "dogru": 2,
-     "aciklama": "Vergi oranı sıfır olduğunda kamu harcaması çarpanı k = 1/(1-c) = 1/(1-0,75) = 1/0,25 = 4'tür. Milli gelirdeki toplam artış = 500 × 4 = 2.000 milyon TL olur. Çarpan mekanizmasında ilk harcama 500 milyon TL milli geliri artırır; bu gelirin 0,75'i (375 milyon TL) tüketime harcanır; onun da 0,75'i tekrar harcanır ve bu süreç geometrik seri biçiminde devam ederek toplam etki 2.000 milyon TL'ye ulaşır."
+     "aciklama": "Vergi oranı sıfır olduğunda kamu harcaması çarpanı k = 1/(1-c) = 1/(1-0,75) = 1/0,25 = 4'tür. Milli gelirdeki toplam artış = 500 × 4 = 2.000 milyon TL olur. Çarpan mekanizmasında ilk harcama 500 milyon TL milli geliri artırır; bu gelirin 0,75'i (375 milyon TL) tüketime harcanır; onun da 0,75'i tekrar harcanır ve bu süreç geometrik seri biçiminde devam ederek toplam etki 2.000 milyon TL'ye ulaşır.",
+     "zorluk": "orta"
     },
     {
      "id": "48460",
@@ -87,7 +89,8 @@
       "Genellik İlkesi"
      ],
      "dogru": 4,
-     "aciklama": "Genellik ilkesi (gayrisafi usul) iki unsuru kapsar: bütün gelir ve giderlerin bütçeye tam olarak eklenmesi (brüt kayıt) ve belirli gelirlerin belirli giderlere tahsis edilmemesi (non-affectation). Bu ilke sayesinde bütçe bütünlüğü ve parlamentonun denetim gücü korunur. Birlik ilkesi ise tüm gelir ve giderlerin tek bir belgede toplanmasını ifade eder; tahsis yasağını doğrudan düzenlemez."
+     "aciklama": "Genellik ilkesi (gayrisafi usul) iki unsuru kapsar: bütün gelir ve giderlerin bütçeye tam olarak eklenmesi (brüt kayıt) ve belirli gelirlerin belirli giderlere tahsis edilmemesi (non-affectation). Bu ilke sayesinde bütçe bütünlüğü ve parlamentonun denetim gücü korunur. Birlik ilkesi ise tüm gelir ve giderlerin tek bir belgede toplanmasını ifade eder; tahsis yasağını doğrudan düzenlemez.",
+     "zorluk": "orta"
     },
     {
      "id": "48067",
@@ -95,14 +98,14 @@
      "konuId": "kamu_maliyesi",
      "soru": "Türkiye'de 5018 sayılı Kamu Mali Yönetimi ve Kontrol Kanunu çerçevesinde 'çok yıllı bütçeleme' ilkesi uygulanmaktadır. Aşağıdakilerden hangisi bu ilkenin teorik gerekçesi, uygulama biçimi ve sınırlılıkları konusunda en bütünlüklü ve doğru değerlendirmeyi içermektedir?",
      "secenekler": [
-      "Çok yıllı bütçeleme ilkesi, Türkiye'de yalnızca merkezi yönetim için geçerli olup sosyal güvenlik kurumları ve mahalli idareler bu çerçevenin dışında tutulduğundan toplam kamu mali disiplini bakımından sınırlı etki doğurur.",
+      "Çok yıllı bütçeleme ilkesi Türkiye'de yalnızca merkezî yönetim kapsamında geçerli olup sosyal güvenlik kurumları ile mahallî idareler bu çerçevenin dışında tutulduğundan, toplam kamu mali disiplini bakımından yalnızca sınırlı bir etki doğurmakta ve konsolide bütçe dengesini iyileştirmemektedir.",
       "Orta vadeli program ile orta vadeli mali plan aynı belgedir; aralarındaki fark yalnızca kamuoyuna sunuş biçimidir.",
       "Çok yıllı bütçeleme, bütçe denkliği ilkesinin zaman boyutunu genişleterek her yıl için ayrı denge zorunluluğunu ortadan kaldırır ve siyasi konjonktürel bütçe döngüsünü tamamen engeller.",
       "5018 sayılı Kanun kapsamında çok yıllı bütçeleme, tüm yıllar için eşit derecede bağlayıcıdır ve Sayıştay her üç yıl için ayrı denetim raporu hazırlamaktadır.",
       "Çok yıllı bütçeleme, orta vadeli harcama çerçevesi (OVHÇ) aracılığıyla üç yıllık projeksiyon sunar; ancak yalnızca ilk yıl bağlayıcı nitelik taşıdığından sonraki yıllara ilişkin tahminler siyasi baskılar altında sık sık revize edilerek sistemin disiplin işlevi zayıflayabilir."
      ],
      "dogru": 4,
-     "aciklama": "5018 sayılı Kanun'un 16. maddesi çerçevesinde Türkiye'de bütçe, orta vadeli program (OVP) ve orta vadeli mali plan (OVMP) temelinde üç yıllık perspektifle hazırlanmaktadır. Ancak meclis tarafından onaylanan ve hukuki bağlayıcılığı olan yalnızca birinci yılın (cari bütçe yılı) rakamlarıdır; ikinci ve üçüncü yıllara ait tahminler gösterge niteliğindedir. Bu durum, siyasi baskılar altında projeksiyon revizyonlarına zemin hazırlamakta ve sistemin orta vadeli mali disiplin işlevini zayıflatmaktadır. Bu gerçek dünya sınırlılığını doğru tespit ettiğinden B seçeneği en kapsamlı yanıttır. C yanlıştır (tüm yıllar bağlayıcı değil). D kısmen doğru olmakla birlikte kapsamı yanlış vermektedir (sosyal güvenlik kurumları genel yönetim kapsamındadır). E yanlıştır; OVP ve OVMP farklı belgelerdir.",
+     "aciklama": "5018 sayılı Kanun orta vadeli program ve orta vadeli mali plan aracılığıyla üç yıllık bir bütçeleme perspektifi getirir. Bu çerçevede bütçe, izleyen iki yılın tahminlerini de içerir. Ancak yalnızca bütçe yılı yasal olarak bağlayıcıdır. Sonraki yıllara ilişkin tahminler, ekonomik koşullar ve siyasi baskılar nedeniyle her yıl revize edilebilir ve bu durum sistemin disiplin işlevini zayıflatabilir. \"Orta vadeli program ile orta vadeli mali plan aynı belgedir\" seçeneği yanlıştır, çünkü bu iki belge farklı amaç ve içeriğe sahiptir. \"Çok yıllı bütçeleme, bütçe denkliği ilkesinin zaman boyutunu genişleterek...\" seçeneği de yanlıştır, çünkü yıllık bütçe yasal olarak bağlayıcı olmaya devam eder ve siyasi bütçe döngüsü tamamen engellenemez. Doğru cevap \"Çok yıllı bütçeleme, orta vadeli harcama çerçevesi (OVHÇ) aracılığıyla üç yıllık projeksiyon sunar...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -115,10 +118,10 @@
       "Tevkifat uygulaması KDV'nin tahakkuk mekanizmasını temelden değiştirdiğinden vergiyi doğuran olay kavramını ortadan kaldırır",
       "KDV'de vergiyi doğuran olay mal teslimi veya hizmet ifasının gerçekleşmesiyle oluşur",
       "Kısmi tevkifatta satıcı kendi üzerine düşen KDV kısmını beyan edip öder",
-      "Tevkifata tabi işlemlerde satıcı faturada KDV hesaplar ancak tevkifat oranındaki kısmı tahsil etmez"
+      "Tevkifata tabi işlemlerde satıcı faturada KDV'yi hesaplar; ancak tevkifat oranına karşılık gelen kısmı alıcıdan tahsil etmez ve beyan etmez"
      ],
      "dogru": 1,
-     "aciklama": "Tevkifat uygulaması, KDV'nin ödeme sorumluluğunu kısmen veya tamamen alıcıya yükler; ancak bu durum vergiyi doğuran olay kavramını ortadan kaldırmaz. Vergiyi doğuran olay KDV'nin doğmasını sağlayan hukuki olaydır (teslim veya hizmet ifası), bu durum tevkifattan bağımsız olarak varlığını sürdürür. Tevkifat yalnızca verginin ödenme biçimini ve sorumlusunu değiştiren idari bir mekanizmadır. Dolayısıyla D şıkkındaki ifade hatalıdır ve doğru cevap D'dir.",
+     "aciklama": "KDV'de vergiyi doğuran olay mal teslimi veya hizmet ifasıdır. Tevkifat bu olayı ortadan kaldırmaz. Yalnızca verginin kimin tarafından beyan edilip ödeneceğini değiştirir. Tevkifatta satıcı faturada KDV'yi hesaplar, tevkifat kısmını alıcıdan tahsil etmez, alıcı bu kısmı sorumlu sıfatıyla beyan edip öder. Kısmi tevkifatta satıcı kalan kısmı kendisi beyan eder. Dolayısıyla vergiyi doğuran olay yine mal teslimi veya hizmet ifasıyla gerçekleşir. \"Kısmi tevkifatta satıcı kendi üzerine düşen KDV kısmını beyan edip öder\" ifadesi doğrudur. Doğru cevap \"Tevkifat uygulaması KDV'nin tahakkuk mekanizmasını temelden değiştirdiğinden vergiyi doğuran olay kavramını ortadan kaldırır\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -130,11 +133,12 @@
       "Teknolojik gelişme kamu hizmetlerinin maliyetini artırarak harcamaların yükselmesine neden olur.",
       "Bürokrasinin kendi bütçesini maksimize etme güdüsü kamu harcamalarını sürekli yukarı iter.",
       "Savaş, doğal afet gibi olağanüstü dönemlerde yükselen vergi oranları, olağan döneme dönüldüğünde eski seviyesine inememekte ve kamu harcamaları kalıcı olarak yüksek kalmaktadır.",
-      "Seçmenlerin kamu hizmetlerine olan talebi demografik değişimler nedeniyle düzenli olarak artmaktadır.",
-      "Kamu harcamalarının marjinal faydası özel harcamaların marjinal faydasını aştığında harcamalar artar."
+      "Seçmenlerin kamu hizmetlerine olan talebi demografik değişimler nedeniyle düzenli biçimde artmaktadır.",
+      "Kamu harcamalarının marjinal faydası özel harcamaların marjinal faydasını aştığında toplam harcamalar artar. Bu nedenle harcama düzeyi konjonktürden bağımsız olarak sürekli yükselir ve kriz dönemlerinde de değişmez."
      ],
      "dogru": 2,
-     "aciklama": "Peacock-Wiseman hipotezi, kamu harcamalarının sıçrama etkisi (displacement effect) yoluyla arttığını öne sürer. Olağanüstü dönemlerde (savaş, büyük buhran vb.) halk yüksek vergi yüküne katlanmayı kabul eder. Söz konusu dönem geçtikten sonra ise vergi oranları tam anlamıyla eski düzeye indirilememekte, dolayısıyla kamu harcamaları kalıcı olarak daha yüksek bir platoya yerleşmektedir. D şıkkı Niskanen'in bürokrasi modelini, E şıkkı ise Baumol'ün maliyet hastalığı hipotezini tanımlamaktadır."
+     "aciklama": "Peacock-Wiseman hipotezine göre kamu harcamaları düzgün bir trendle değil, basamaklar halinde artar. Savaş ya da doğal afet gibi olağanüstü dönemlerde harcama ihtiyacı artar ve toplum bu dönemde daha yüksek vergi oranlarına katlanır; yani vergi tolerans eşiği yükselir. Olağan döneme dönüldüğünde vergi ve harcama düzeyi eski seviyesine tam inmez, kamu harcamaları kalıcı olarak daha yüksek kalır. Bu sürece sıçrama (yer değiştirme) etkisi denir. \"Bürokrasinin kendi bütçesini maksimize etme güdüsü kamu harcamalarını sürekli yukarı iter.\" seçeneği yanlıştır; bu, Niskanen'in bürokrasi modelinin açıklamasıdır. \"Teknolojik gelişme kamu hizmetlerinin maliyetini artırarak harcamaların yükselmesine neden olur.\" seçeneği de yanlıştır; bu, Baumol'un hastalığı gibi maliyet temelli yaklaşımlarla ilgilidir. Doğru cevap \"Savaş, doğal afet gibi olağanüstü dönemlerde yükselen vergi oranları, olağan döneme dönüldüğünde eski seviyesine inememekte\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "48435",
@@ -158,14 +162,15 @@
      "konuId": "butce",
      "soru": "Türkiye'de bütçe uygulama sürecinde 'ödenek aktarması' ile 'ödenek devri' arasındaki temel fark aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Her iki işlem de Hazine ve Maliye Bakanlığı'nın onayı olmaksızın gerçekleştirilemez ve aynı hukuki prosedüre tabidir.",
+      "Her iki işlem de Hazine ve Maliye Bakanlığı'nın önceden yazılı onayı olmaksızın gerçekleştirilemez ve tamamen aynı hukuki prosedüre tabi tutulur. Bu onay her yıl yenilenir.",
       "Ödenek aktarması yalnızca sermaye giderleri için geçerliyken ödenek devri cari giderleri de kapsar.",
       "Ödenek aktarması, kurumlar arası; ödenek devri ise kurumun kendi içinde gerçekleşir.",
       "Ödenek devri Cumhurbaşkanı kararıyla, ödenek aktarması ise doğrudan harcama yetkilileri tarafından yapılır.",
       "Ödenek aktarması, aynı bütçe yılı içinde harcama kalemleri veya kurumlar arasında yapılırken ödenek devri, kullanılmayan ödeneğin bir sonraki mali yıla taşınmasıdır."
      ],
      "dogru": 4,
-     "aciklama": "Ödenek aktarması, aynı bütçe yılı içinde bir tertipten diğer bir tertibi desteklemek üzere ödenek transferidir; kurumlar arası veya kurum içi olabilir ve yetkiye göre farklı usullere tabidir. Ödenek devri ise yıl sonu itibarıyla kullanılamayan ödeneğin iptali yerine ertesi mali yıla aktarılmasıdır; 5018 sayılı Kanun'a göre yatırım ödeneklerinin belirli koşullarla ertesi yıla devredilmesi mümkündür. Bu iki kavramın zaman boyutu (aynı yıl içi / yıllar arası) bakımından farklı olduğu temel ayrımdır."
+     "aciklama": "Ödenek aktarması, aynı bütçe yılı içinde bir tertipten diğer bir tertibi desteklemek üzere ödenek transferidir; kurumlar arası veya kurum içi olabilir ve yetkiye göre farklı usullere tabidir. Ödenek devri ise yıl sonu itibarıyla kullanılamayan ödeneğin iptali yerine ertesi mali yıla aktarılmasıdır; 5018 sayılı Kanun'a göre yatırım ödeneklerinin belirli koşullarla ertesi yıla devredilmesi mümkündür. Bu iki kavramın zaman boyutu (aynı yıl içi / yıllar arası) bakımından farklı olduğu temel ayrımdır.",
+     "zorluk": "orta"
     },
     {
      "id": "48025",
@@ -192,11 +197,12 @@
       "Verginin kaynakta kesilmesiyle tahsilatı güvence altına almak ve maliyeti azaltmak",
       "Yalnızca yabancı sermayeyi vergilendirmek",
       "Vergi kaçakçılığını tamamen ortadan kaldırmak",
-      "Mükelleflerin beyanname verme yükümlülüğünü kaldırmak",
+      "Mükelleflerin beyanname verme yükümlülüğünü tümüyle kaldırmak ve beyan sürecini basitleştirmek",
       "Vergi oranlarını düşürmek"
      ],
      "dogru": 0,
-     "aciklama": "Stopaj (kaynakta kesinti), vergiyi doğuran ödemenin gerçekleştiği anda üçüncü bir taraf (işveren, banka vb.) aracılığıyla verginin kesilip hazineye aktarılmasını sağlar. Bu yöntemle tahsilat güvence altına alınır, gecikme riski azaltılır ve vergi idaresinin denetim maliyeti düşürülür. Aynı zamanda mükelleflerin nakit yönetimini kolaylaştırır."
+     "aciklama": "Stopaj (kaynakta kesinti), vergiyi doğuran ödemenin gerçekleştiği anda üçüncü bir taraf (işveren, banka vb.) aracılığıyla verginin kesilip hazineye aktarılmasını sağlar. Bu yöntemle tahsilat güvence altına alınır, gecikme riski azaltılır ve vergi idaresinin denetim maliyeti düşürülür. Aynı zamanda mükelleflerin nakit yönetimini kolaylaştırır.",
+     "zorluk": "orta"
     },
     {
      "id": "48575",
@@ -227,7 +233,8 @@
       "Bir mimarlık ofisinin proje çizimi karşılığı aldığı bedel"
      ],
      "dogru": 1,
-     "aciklama": "GVK'ya göre serbest meslek kazancı; sermayeden ziyade şahsi mesaiye, ilmi veya mesleki bilgiye dayanan faaliyetlerden elde edilir ve bu faaliyet ticari nitelik taşımamalıdır. Bir mühendislik şirketi anonim ya da limited şirket bünyesinde, organizasyon ve sermayeye dayalı olarak faaliyet gösteriyorsa kazancı 'ticari kazanç' (kurumlar veya ticari gelir) sayılır; serbest meslek kazancı kapsamına girmez."
+     "aciklama": "GVK'ya göre serbest meslek kazancı; sermayeden ziyade şahsi mesaiye, ilmi veya mesleki bilgiye dayanan faaliyetlerden elde edilir ve bu faaliyet ticari nitelik taşımamalıdır. Bir mühendislik şirketi anonim ya da limited şirket bünyesinde, organizasyon ve sermayeye dayalı olarak faaliyet gösteriyorsa kazancı 'ticari kazanç' (kurumlar veya ticari gelir) sayılır; serbest meslek kazancı kapsamına girmez.",
+     "zorluk": "orta"
     },
     {
      "id": "48355",
@@ -274,7 +281,7 @@
       "Standart vergi yapısını temsil eden normal amortisman sürelerinin uygulanması"
      ],
      "dogru": 4,
-     "aciklama": "Vergi harcaması, referans (benchmark) vergi yapısından sapan her türlü istisna, muafiyet, indirim veya tercihli oran uygulamasıdır. B seçeneğinde yer alan 'standart amortisman sürelerinin uygulanması' benchmark vergi yapısının kendisidir; bir sapmayı değil, normal uygulamayı temsil eder. Bu nedenle vergi harcaması sayılmaz. A (Ar-Ge indirimi), C (vergi tatili), D (faiz indirimi) ve E (engelli indirimi) ise referans yapıdan birer sapma olup vergi harcaması kapsamına girer.",
+     "aciklama": "Vergi harcaması, standart (referans) vergi yapısından bilinçli sapmalarla yapılan ve devletin vazgeçtiği gelir anlamına gelen istisna, muafiyet, indirim, vergi tatili gibi düzenlemelerdir. Ar-Ge indirimi, konut kredisi faizi indirimi ve bölgesel vergi tatili referans yapıdan sapma yarattığı için vergi harcamasıdır. Engelli indirimi de genel yapıya göre ayrıcalıklı bir indirim olduğundan bu kapsamda değerlendirilir. Normal amortisman süreleri ise standart vergi yapısının kendisini oluşturur. Hızlandırılmış amortisman bir vergi harcaması olabilir, ancak normal süreler olamaz. En çok karıştırılan \"Düşük gelirli bölgelerde yatırım yapan firmalara yönelik vergi tatili (tax holiday) uygulaması\" seçeneği referans yapıdan sapma ve gelirden vazgeçme içerdiği için vergi harcamasıdır. Doğru cevap \"Standart vergi yapısını temsil eden normal amortisman sürelerinin uygulanması\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -284,13 +291,13 @@
      "soru": "Harcama çarpanı ile vergi çarpanı arasındaki büyüklük ilişkisinin temel nedeni ve denge bütçe teoremi (Haavelmo teoremi) bir arada düşünüldüğünde, aşağıdaki hangi politika senaryosu hem iç tutarlı hem de doğru sonuç vermektedir?",
      "secenekler": [
       "Vergi çarpanı marjinal tüketim eğiliminden bağımsız olduğundan, denge bütçe değişikliği geliri her zaman eşit oranda artırır.",
-      "Haavelmo teoremine göre vergi ve harcamayı eşit miktarda artırmak toplam talebi değiştirmez; çünkü harcama çarpanı ile vergi çarpanı büyüklükçe eşittir.",
+      "Haavelmo teoremine göre vergi ve kamu harcamasını eşit miktarda artırmak toplam talebi hiç değiştirmez; çünkü harcama çarpanı ile vergi çarpanı mutlak değerce birbirine eşittir ve etkileri tam olarak birbirini götürür.",
       "Haavelmo teoremine göre denge bütçede vergi artışı harcama artışından büyük olmalı; aksi hâlde çarpan etkisi negatif olur.",
       "Harcama çarpanı 1/(1-c), vergi çarpanı ise -c/(1-c) olduğundan harcama çarpanı mutlak değerce vergi çarpanından büyüktür; eşit artışta net çarpan 1'dir ve bu Haavelmo teoreminin temelidir.",
       "Denge bütçe çarpanı gelir düzeyine bağlı olarak değiştiğinden, Haavelmo teoremi yalnızca sıfır marjinal tasarruf eğilimi varsayımı altında geçerlidir."
      ],
      "dogru": 3,
-     "aciklama": "Basit Keynesyen modelde harcama çarpanı k_G = 1/(1-c) ve vergi çarpanı k_T = -c/(1-c)'dir; c marjinal tüketim eğilimini gösterir. Eşit miktarda vergi ve harcama artışında net çarpan: 1/(1-c) + [-c/(1-c)] = (1-c)/(1-c) = 1 çıkar. Yani denge bütçe çarpanı daima 1'dir; bu Haavelmo (1945) teoremin özüdür. A şıkkında 'çarpanlar eşittir' ifadesi yanlış; mutlak değerce harcama çarpanı daima daha büyüktür (c < 1 koşulunda). D şıkkında marjinal tasarruf varsayımı yanıltıcıdır; teorem 0 < c < 1 için geçerlidir. E şıkkında 'vergi çarpanı marjinal tüketim eğiliminden bağımsız' ifadesi açıkça hatalıdır.",
+     "aciklama": "Basit Keynesyen modelde kamu harcamaları çarpanı 1/(1-c), vergi çarpanı ise -c/(1-c) değerindedir. c, 1'den küçük olduğu için harcama çarpanı mutlak değerce vergi çarpanından büyüktür; aradaki fark tam olarak 1'dir. Harcama ve vergi eşit miktarda artırılınca net çarpan 1/(1-c) - c/(1-c) = (1-c)/(1-c) = 1 olur; gelir, denge bütçe artışı kadar yükselir. Bu Haavelmo teoreminin temelidir. \"Haavelmo teoremine göre vergi ve kamu harcamasını eşit miktarda artırmak toplam talebi hiç değiştirmez\" seçeneği yanlıştır; çarpanlar mutlak değerce eşit değildir ve net etki sıfır değil 1'dir. \"Denge bütçe çarpanı gelir düzeyine bağlı olarak değiştiğinden\" seçeneği de çarpanın 1 olduğunu gözden kaçırır. Doğru cevap \"Harcama çarpanı 1/(1-c), vergi çarpanı ise -c/(1-c) olduğundan\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -350,11 +357,11 @@
       "Vergi muafiyeti artan oranlı tarifeyle birleştiğinde yüksek gelirli mükelleflere oransal olarak daha büyük fayda sağlarken, vergi iadesi tüm mükelleflere eşit nominal fayda sunabilir",
       "Vergi iadesi yüksek gelirli mükelleflere görece daha fazla yarar sağladığından dağılımsal açıdan daha adildir",
       "Vergi muafiyeti ve vergi iadesi bütçe üzerinde simetrik etkiler yaratır; tercih edilecek araç farksızdır",
-      "Vergi harcamaları bütçe açıklarını fiilen azaltır çünkü teşvik ettiği ekonomik faaliyetler vergiye tabi gelir üretir",
+      "Vergi harcamaları bütçe açıklarını fiilen azaltır; çünkü teşvik ettikleri ekonomik faaliyetler zamanla vergiye tabi ek gelir üretir ve kaybı telafi eder Bu nedenle vergi harcamaları mali yük doğurmaz.",
       "Her iki araç da vergi tabanını genişletir ve bu nedenle optimal vergi teorisiyle tam uyumludur"
      ],
      "dogru": 0,
-     "aciklama": "Artan oranlı tarifede vergi muafiyeti (deduction) matrahı azaltır; ancak yüksek gelirli mükellefler daha yüksek marjinal oranda vergilendiği için aynı muafiyetten elde ettikleri vergi tasarrufu daha büyük olur (100 TL muafiyet, %40 dilimindeki birey için 40 TL, %20 dilimindeki için 20 TL katkı sağlar). Buna karşın vergi indirimi (credit/iade) vergiden doğrudan düşüldüğünden tüm mükelleflere aynı nominal faydayı sağlar. Bu asimetri vergi muafiyetlerinin dağılımsal açıdan regresif etki yaratabileceğini ortaya koyar. Doğru cevap C'dir.",
+     "aciklama": "Vergi muafiyeti matrahtan indirildiği için sağladığı fayda, mükellefin tabi olduğu marjinal vergi oranına bağlıdır. Artan oranlı tarifede yüksek gelirliler daha yüksek dilimlerde yer aldığından aynı tutardaki muafiyetten daha fazla vergi tasarrufu elde eder. Buna karşılık sabit tutarlı bir vergi iadesi, gelir düzeyinden bağımsız olarak herkese aynı nominal yararı sağlar. Bu nedenle doğru ifade, vergi muafiyetinin artan oranlı tarifeyle birleştiğinde yüksek gelirli mükelleflere oransal olarak daha büyük fayda sağlarken vergi iadesinin tüm mükelleflere eşit nominal fayda sunabileceğidir; diğer seçenekler vergi harcamalarının bütçe yükünü ve dağılımsal etkilerini hatalı yansıtmaktadır.",
      "zorluk": "zor"
     },
     {
@@ -370,7 +377,7 @@
       "Kamu borçlanması döviz kurunu etkileyerek net ihracatı azaltır ve Mundell-Fleming çerçevesinde genişletici etki ortadan kalkar."
      ],
      "dogru": 2,
-     "aciklama": "Barro tarafından geliştirilen Ricardocu Denklik (Barro-Ricardo Denkliği) hipotezine göre, kamu harcamaları vergi yerine borçlanmayla finanse edildiğinde rasyonel ve ileriye dönük bireyler bu borçlanmanın gelecekte daha yüksek vergiler anlamına geldiğini anlar. Bu nedenle bireyler bugünkü tüketimlerini kısmaz; bunun yerine gelecekteki vergi yüküne hazırlık amacıyla tasarrufu artırır. Artan özel tasarruf, azalan kamu tasarrufunu tam olarak dengelediğinden kamu harcamalarının genişletici etkisi nötrleşir. C seçeneğindeki dışlama etkisi ise Ricardocu denklikten farklı bir mekanizmadır.",
+     "aciklama": "Ricardocu denklik hipotezine göre bireyler rasyoneldir ve ileriye dönük davranır. Hükümet bugün vergi yerine borçlanırsa, bu borcun gelecekte daha yüksek vergilerle ödeneceğini öngörürler. Bu nedenle bugünkü ek gelirlerini harcamak yerine tasarruf eder, gelecekteki vergi yükü için birikim yaparlar. Özel tasarruftaki artış kamu tasarrufundaki düşüşü dengeler ve borçlanmanın genişletici etkisi nötrleşir. \"Borçlanma faiz oranlarını artırarak özel yatırımları dışlar ve net toplam talep değişmez.\" seçeneği dışlama etkisini anlatır; bu, Ricardocu mantığın değil geleneksel yaklaşımın bir argümanıdır. \"Ricardocu denklik yalnızca tam istihdam koşullarında geçerli olduğundan durgunluk döneminde bu hipotez uygulanamaz.\" seçeneği ise hipotezin kapsamını yanlış sınırlar. Doğru cevap \"Rasyonel bireyler gelecekteki vergi yükünü bugünden öngörüp\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -382,7 +389,7 @@
       "Vergi, resim, harç ve benzeri mali yükümlülüklerin kanunla konulup kaldırılması ve değiştirilmesi",
       "Vergilerin yalnızca mahkeme kararıyla tarh edilebilmesi",
       "Her vatandaşın eşit miktarda vergi ödemesi zorunluluğu",
-      "Vergilerin yalnızca merkezi yönetim tarafından toplanabilmesi",
+      "Vergilerin yalnızca merkezî yönetim tarafından toplanabilmesi ve yerel idarelere devredilememesi ve devredilememesi",
       "Vergi oranlarının her yıl yeniden belirlenmesi gerekliliği"
      ],
      "dogru": 0,
@@ -402,7 +409,8 @@
       "Sayıştay kararları kesin hüküm niteliğinde olup itiraz yolu kapalıdır."
      ],
      "dogru": 1,
-     "aciklama": "Anayasa'nın 160. maddesi ve 6085 sayılı Sayıştay Kanunu'na göre Sayıştay, kamu idarelerinin gelir, gider ve mal hesaplarını yargılama yoluyla kesin hükme bağlar. Bu kararlar, kesin hesap niteliğinde olup idare mahkemelerinde itiraz konusu yapılamaz; itiraz Sayıştay Temyiz Kurulu'na yapılır. Sayıştay ön denetim değil, yerindelik dışında tutulmak kaydıyla hukuka uygunluk ve performans denetimi yapar."
+     "aciklama": "Anayasa'nın 160. maddesi ve 6085 sayılı Sayıştay Kanunu'na göre Sayıştay, kamu idarelerinin gelir, gider ve mal hesaplarını yargılama yoluyla kesin hükme bağlar. Bu kararlar, kesin hesap niteliğinde olup idare mahkemelerinde itiraz konusu yapılamaz; itiraz Sayıştay Temyiz Kurulu'na yapılır. Sayıştay ön denetim değil, yerindelik dışında tutulmak kaydıyla hukuka uygunluk ve performans denetimi yapar.",
+     "zorluk": "orta"
     },
     {
      "id": "48026",
@@ -421,19 +429,20 @@
      "zorluk": "kolay"
     },
     {
-     "id": "48295",
+     "id": "48291",
      "dersId": "maliye",
      "konuId": "vergi_teorisi",
-     "soru": "Ödeme gücü ilkesi açısından değerlendirildiğinde, aşağıdaki araçlardan hangisi subjektif ödeme gücüne ulaşmayı hedefler?",
+     "soru": "Türkiye'de gelir vergisi tarifesinin artan oranlı olması, hangi vergileme ilkesiyle doğrudan ilişkilidir?",
      "secenekler": [
-      "Artan oranlı vergi tarifesi",
-      "Servet vergisi uygulaması",
-      "Oransal (düz oranlı) vergi",
-      "Asgari geçim indirimi ve kişisel indirimler",
-      "İstihdam vergilerinde tavan uygulaması"
+      "Genellik ilkesi",
+      "Yatay eşitlik ilkesi",
+      "Ekonomik etkinlik ilkesi",
+      "Belirlilik ilkesi",
+      "Dikey eşitlik ilkesi"
      ],
-     "dogru": 3,
-     "aciklama": "Ödeme gücü ilkesi iki boyutta incelenir. Objektif ödeme gücü, kişinin toplam ekonomik kapasitesini (gelir, servet, harcama) esas alır ve artan oranlı tarife bu kapsamdadır. Subjektif ödeme gücü ise kişinin bireysel koşullarını (aile büyüklüğü, sağlık giderleri, zorunlu geçim harcamaları) dikkate alarak vergi yükünü kişiselleştirir. Asgari geçim indirimi, engelli indirimi, bakmakla yükümlü olunan kişi indirimleri gibi uygulamalar, subjektif ödeme gücüne ulaşmanın araçlarıdır."
+     "dogru": 4,
+     "aciklama": "Dikey eşitlik ilkesi, farklı ödeme güçlerine sahip kişilerin farklı biçimde vergilendirilmesi gerektiğini savunur. Buna göre yüksek gelirli bireyler daha fazla vergi ödemelidir. Artan oranlı vergi tarifesi, bu ilkenin uygulamaya yansımasıdır; gelir arttıkça marjinal vergi oranı da yükselir. Yatay eşitlik ise aynı ödeme gücüne sahip kişilerin eşit vergilendirilmesini ifade eder. İki kavramın karıştırılmaması önemlidir.",
+     "zorluk": "orta"
     },
     {
      "id": "48228",
@@ -448,7 +457,7 @@
       "Vergi indirimi hane halklarının tasarruf eğilimini azaltarak tüketimi daha fazla artırır."
      ],
      "dogru": 1,
-     "aciklama": "Keynesyen analiz çerçevesinde harcama çarpanı (1/1-MPC) vergi çarpanına (-MPC/1-MPC) kıyasla daima 1 birim daha büyüktür. Deflasyonist ortamda belirsizlik yüksek, tüketici güveni düşük ve marjinal tüketim eğilimi (MPC) zaten zayıflamış olabilir. Bu koşullarda vergi indirimleri tüketim yerine tasarruf olarak kullanılır; harcama enjeksiyonu ise doğrudan talep yönetir. Ayrıca deflasyonist baskıda nominal faiz sıfır alt sınırına dayanmışsa para politikası da kısıtlanır ve bu durum maliye politikasının çarpanını daha da güçlendirir (likidite tuzağı). A yanlıştır (vergi indirimi tasarrufu artırabilir). C Ricardian Denkliği maliye politikasının etkinsizliğini savunur, buraya uygun değil. D otomatik stabilizatörleri yanlış tanımlıyor.",
+     "aciklama": "Basit Keynesyen modelde kamu harcaması çarpanı 1/(1-c), vergi çarpanı ise -c/(1-c) olarak yazılır. Harcama doğrudan talebe eklenir, vergi indirimi ise önce tasarrufa kaçan bir pay içerir. Marjinal tüketim eğilimi c ne kadar düşükse vergi indiriminin tüketime dönüşen kısmı o kadar küçülür ve harcama çarpanı vergi çarpanından o kadar büyük olur. Bu, deflasyon riskinde harcama artışını destekler. \"Vergi indirimi hane halklarının tasarruf eğilimini azaltarak tüketimi daha fazla artırır\" ifadesi yanlıştır, çünkü bu iddia tercihi desteklemek yerine vergi indirimini savunur. \"Ricardian Denklik Teoremi gereği her iki araç eşdeğer etki yaratır\" ifadesi de tercihi gerekçelendirmez; eşdeğerlik, iki aracın farkını ortadan kaldırır. Doğru cevap \"Kamu harcamalarının mali çarpanı, marjinal tüketim eğiliminin düşük olduğu deflasyonist ortamlarda vergi çarpanından büyük olabilir.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -464,7 +473,8 @@
       "Defter tutma yükümlülüğünün yerine getirilmemesinde"
      ],
      "dogru": 1,
-     "aciklama": "VUK'un mükerrer 355. maddesi uyarınca özel usulsüzlük cezası; fatura, serbest meslek makbuzu, gider pusulası gibi belgelerin düzenlenmemesi, kullanılmaması veya bu belgelerin alınmaması durumlarında uygulanır. Beyanname vermeme veya geç verme usulsüzlük cezası kapsamındayken, matrah eksikliği vergi ziyaı cezası gerektirmektedir. Vergi borcunun geç ödenmesi ise gecikme faizine yol açar."
+     "aciklama": "VUK'un mükerrer 355. maddesi uyarınca özel usulsüzlük cezası; fatura, serbest meslek makbuzu, gider pusulası gibi belgelerin düzenlenmemesi, kullanılmaması veya bu belgelerin alınmaması durumlarında uygulanır. Beyanname vermeme veya geç verme usulsüzlük cezası kapsamındayken, matrah eksikliği vergi ziyaı cezası gerektirmektedir. Vergi borcunun geç ödenmesi ise gecikme faizine yol açar.",
+     "zorluk": "orta"
     },
     {
      "id": "48412",
@@ -511,7 +521,7 @@
       "Vergi yükü; talep esnekliği düşük olduğundan ağırlıklı olarak tüketiciye yansır, ancak üretici de bir miktar yük üstlenir."
      ],
      "dogru": 2,
-     "aciklama": "Vergi yansıması teorisine göre arz sonsuz esnekken (yatay arz eğrisi), vergi yükünün tamamı talep tarafına (tüketiciye) yansır. Talebin fiyat esnekliğinin düşük olması (-0,4 inelastik talep) bu yansımayı kolaylaştırır; tüketiciler fiyat artışına karşın talebi fazla kısamaz. Ancak kritik belirleyici arz esnekliğidir: arz sonsuz esnekse yük %100 tüketiciye aittir. C seçeneği arz esnekliğini görmezden gelerek hatalı bir ayrım yapar; doğru yanıt B'dir.",
+     "aciklama": "Vergi yükünün dağılımı arz ve talep esnekliklerine bağlıdır; yük, daha az esnek olan tarafa daha fazla biner. Arz esnekliği sonsuz olduğunda arz eğrisi yataydır ve üretici, fiyat düşse arzını tamamen çekeceği için herhangi bir vergi yükü üstlenmez. Bu durumda talep esnekliği -0,4 de olsa vergi tutarının tamamı fiyata yansır ve tüketici öder. Talebin esnek olmaması yükü tüketiciye daha fazla yöneltse de belirleyici olan sonsuz arz esnekliğidir. \"Vergi yükü; talep esnekliği düşük olduğundan ağırlıklı olarak tüketiciye yansır, ancak üretici de bir miktar yük üstlenir.\" seçeneği yanlıştır; çünkü üretici hiç yük üstlenmez. \"Vergi yükünün tamamı üreticiye yansır çünkü talep esnek değildir.\" seçeneği de mantığı tersine çevirir. Doğru cevap \"Vergi yükünün tamamı tüketiciye yansır çünkü arz sonsuz esnektir.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -521,13 +531,14 @@
      "soru": "Türkiye'de merkezi yönetim bütçesinde yer alan 'yedek ödenek' uygulaması ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
      "secenekler": [
       "Yedek ödenek tutarı, bütçe kanununda hiçbir sınıra tabi tutulmaksızın Hazine ve Maliye Bakanlığı'nca belirlenir.",
-      "Yedek ödenek herhangi bir ödenek tertibine ihtiyaç duyulmaksızın doğrudan ilgili kurum tarafından serbestçe kullanılabilir.",
+      "Yedek ödenek, herhangi bir ödenek tertibine ihtiyaç duyulmaksızın doğrudan ilgili kurum tarafından serbestçe ve onaysız biçimde kullanılabilir. Bu kullanım denetime tabi değildir.",
       "Yedek ödenek, bütçe yılı içinde ortaya çıkan olağanüstü giderler için kullanılmak üzere bütçeye konulur ve kullanımı Cumhurbaşkanlığı onayına bağlıdır.",
       "Yedek ödenekten aktarma yapılabilmesi için Türkiye Büyük Millet Meclisi'nin özel onayı zorunludur.",
       "Yedek ödenek, yalnızca sermaye giderleri için kullanılabilir; cari giderlere aktarım yapılamaz."
      ],
      "dogru": 2,
-     "aciklama": "5018 sayılı Kanun'un 23. maddesi uyarınca merkezi yönetim bütçesine, olağanüstü ve öngörülemeyen giderleri karşılamak amacıyla yedek ödenek konulabilir. Bu ödenek, merkezi yönetim bütçe kanunuyla belirlenen miktarın yüzde ikisini aşamaz. Yedek ödeneğin kullanımı ve ilgili kurum bütçelerine aktarılması Cumhurbaşkanlığı kararıyla olur. Yedek ödenek genel nitelikli olup hem cari hem de sermaye giderleri için kullanılabilir; TBMM'nin ayrıca onayı aranmaz."
+     "aciklama": "5018 sayılı Kanun'un 23. maddesi uyarınca merkezi yönetim bütçesine, olağanüstü ve öngörülemeyen giderleri karşılamak amacıyla yedek ödenek konulabilir. Bu ödenek, merkezi yönetim bütçe kanunuyla belirlenen miktarın yüzde ikisini aşamaz. Yedek ödeneğin kullanımı ve ilgili kurum bütçelerine aktarılması Cumhurbaşkanlığı kararıyla olur. Yedek ödenek genel nitelikli olup hem cari hem de sermaye giderleri için kullanılabilir; TBMM'nin ayrıca onayı aranmaz.",
+     "zorluk": "orta"
     },
     {
      "id": "48491",
@@ -542,22 +553,23 @@
       "Basit usul mükellefleri defter tutmaz, belge düzenler ve yıllık beyanname verir"
      ],
      "dogru": 4,
-     "aciklama": "GVK'nın 46-51. maddeleri kapsamında basit usul mükellefleri; bilanço ya da işletme hesabı esasına göre defter tutmazlar, ancak fatura ve fiş gibi belge düzenlerler. Kazançları yıllık gelir vergisi beyannamesiyle beyan edilir. Hem KDV'den hem de geçici vergiden muaftırlar. Bu nedenle B seçeneği doğrudur; A seçeneğindeki geçici vergi yükümlülüğü ve E seçeneğindeki defter tutma yükümlülüğü yanlıştır."
+     "aciklama": "Basit usulde vergilendirme, kazancın defter tutularak değil, gelir ile gider belgeleri arasındaki farka göre belirlenmesidir. Bu mükellefler defter tutmaz, belge düzenler ve saklar. Kazançlarını yıllık gelir vergisi beyannamesiyle bildirirler. Basit usul mükellefleri genel olarak KDV'ye tabidir, ancak geçici vergi ödemezler. Bu nedenle \"Basit usul mükelleflerinin kazancı stopaj yoluyla vergilendirilir ve beyanname verilmez\" ifadesi yanlıştır, çünkü beyanname verilir. \"Basit usul mükellefleri KDV'ye tabi değildir ancak geçici vergi ödemekle yükümlüdür\" ifadesi de yanlıştır, çünkü bu mükellefler geçici vergi ödemez. Doğru cevap \"Basit usul mükellefleri defter tutmaz, belge düzenler ve yıllık beyanname verir\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
-     "id": "48354",
+     "id": "48366",
      "dersId": "maliye",
      "konuId": "butce",
-     "soru": "Aşağıdakilerden hangisi 'transfer harcaması' kapsamında değerlendirilemez?",
+     "soru": "Kamu gelirlerinin tamamı bütçeye dahil edilmeli, kamu giderleri de bütçeden karşılanmalıdır. Gelir ve giderler birbirine mahsup edilemez. Bu bütçe ilkesi aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Kamulaştırma bedelleri",
-      "Kamu personelinin maaşları",
-      "Öğrenim bursları",
-      "Emekli maaşları",
-      "Sosyal güvenlik prim ödemeleri"
+      "Birlik ilkesi",
+      "Denklik ilkesi",
+      "Açıklık ilkesi",
+      "Samimiyet ilkesi",
+      "Genellik ilkesi"
      ],
-     "dogru": 1,
-     "aciklama": "Transfer harcamaları, karşılığında mal veya hizmet üretimi olmaksızın yapılan ödemelerdir. Emekli maaşları, sosyal yardımlar, burslar ve kamulaştırma bedelleri transfer harcaması niteliğindedir. Buna karşılık kamu personelinin maaşları, devlet adına üretilen hizmetin bedeli olarak ödenen karşılıklı bir işlemi ifade ettiğinden 'cari harcama' kapsamında değerlendirilir; transfer harcaması değildir.",
+     "dogru": 4,
+     "aciklama": "Genellik ilkesi (gayrisafi usul ilkesi olarak da bilinir); tüm kamu gelirlerinin ve giderlerinin bütçeye tam olarak yansıtılmasını, gelir ve giderlerin birbirine karşılıklı olarak mahsup edilmemesini gerektirir. Bu ilke sayesinde bütçenin tüm mali işlemleri kapsaması ve mali şeffaflığın sağlanması amaçlanır.",
      "zorluk": "kolay"
     },
     {
@@ -570,10 +582,10 @@
       "Kaynak tahsisi ile bölüşüm fonksiyonları arasındaki sınırı ortadan kaldırır; sonuç olarak gelir dağılımı bozulur.",
       "Kaynak tahsisi ile stabilizasyon fonksiyonları arasındaki sınırı ortadan kaldırır; kamu yatırımları artarken özel yatırımlar dışlanır.",
       "Stabilizasyon fonksiyonu tamamen kamu maliyesinden çıkarılır; para politikasının maliye politikasına tabi kılınması fiyat istikrarı hedefini birincil öncelik olmaktan çıkarır ve seigniorage bağımlılığı enflasyon vergisi yoluyla sabit gelirli kesimleri orantısız biçimde etkiler.",
-      "Üç fonksiyon arasındaki sınır teorik olarak anlamsızdır; merkez bankası bağımsızlığı yalnızca kurumsal bir tercih meselesidir ve makroekonomik sonuçları kanıtlanmış değildir."
+      "Üç fonksiyon arasındaki sınır teorik olarak anlamsızdır; merkez bankası bağımsızlığı yalnızca kurumsal bir tercih meselesidir ve makroekonomik sonuçları bugüne kadar hiçbir çalışmayla kanıtlanmış değildir. Bu nedenle senyoraj gelirinin bölüşüm üzerindeki etkisi de yalnızca teorik bir tartışma konusu olarak kalmakta, uygulamada ölçülememektedir."
      ],
      "dogru": 3,
-     "aciklama": "Musgrave'e göre stabilizasyon fonksiyonu (fiyat istikrarı, tam istihdam) merkez bankası bağımsızlığıyla en güçlü kurumsal bağı kurar. Hazineye doğrudan para basma yetkisi verilmesi, maliye politikasını para politikasının önüne geçirerek stabilizasyon fonksiyonunu maliye politikasına tabi kılar. Bu durumda: (1) Seigniorage geliri kısa vadede bütçe açıklarını kapatır; (2) Enflasyon vergisi sabit ve düşük gelirli kesimleri orantısız etkiler (bölüşüm bozulması); (3) Merkez bankası güvenilirliği sarsılarak enflasyon beklentileri çıpalanmaz hale gelir. D seçeneği bu üç mekanizmayı en kapsamlı biçimde açıklamaktadır. B seçeneği kısmen doğru olmakla birlikte 'fonksiyonlar arasındaki sınırı' yanlış tanımlamaktadır.",
+     "aciklama": "Musgrave'e göre kamu maliyesinin üç fonksiyonu kaynak tahsisi, bölüşüm ve stabilizasyondur. Merkez bankasının hazineye doğrudan para basma yoluyla finansman sağlaması, para politikasını maliye politikasına tabi kılar. Bu durumda fiyat istikrarı birincil hedef olmaktan çıkar. Hazine senyoraj gelirine bağımlı hale gelir ve bu bağımlılık enflasyon vergisi yoluyla ödenir. Enflasyon vergisi, nominal gelirleri fiyat artışına ayak uyduramayan sabit gelirli kesimleri orantısız biçimde etkiler. Böylece stabilizasyon amacı zayıflar ve bölüşüm olumsuz etkilenir. \"Stabilizasyon ile bölüşüm fonksiyonları arasındaki sınırı ortadan kaldırır\" seçeneği, sınırın ortadan kalktığını söylemesi ve para politikasının maliye politikasına tabi kılınmasındaki asıl mekanizmayı yakalamaması nedeniyle eksiktir. \"Kaynak tahsisi ile bölüşüm fonksiyonları arasındaki sınırı ortadan kaldırır\" seçeneği ise para basma yetkisiyle doğrudan ilgili olmayan bir fonksiyon çiftini öne çıkardığı için yanlıştır. Doğru cevap \"Stabilizasyon fonksiyonu tamamen kamu maliyesinden çıkarılır; para politikasının maliye politikasına tabi kılınması...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -589,7 +601,7 @@
       "Nesiller arası varlık transferi yapan hanehalkları, kamu borcunun çocuklarına yansıyacağını bilerek miraslarını artırır."
      ],
      "dogru": 0,
-     "aciklama": "Ricardian Denklik Teoremi, tüketicilerin tam öngörülü (Barro-Ricardo çerçevesi), sermaye piyasalarına serbestçe erişebildiği ve nesiller arası transferler yaptığı varsayımı altında, bugünkü vergi indirimi ile borçlanmanın tüketim üzerinde aynı etkiyi yaratacağını (yani nötr olduğunu) öne sürer. B seçeneğinde likidite kısıtına tabi düşük gelirli hanehalklarının tüketimi kısması, bu teoremle doğrudan çelişir; çünkü teoreme göre bu hanehalkları da tüketimlerini değiştirmemeli, tasarruflarını artırmalıdır. Ancak likidite kısıtı (sermaye piyasasına erişim eksikliği) teoreminin temel varsayımını yıkar. A, C, D ve E ise Ricardian denklikle uyumlu ya da nötr davranışı betimler.",
+     "aciklama": "Ricardocu denklik teoremine göre rasyonel, ileriyi gören ve kısıtsız borçlanabilen tüketiciler borç finansmanını gelecekteki vergi artışı olarak algılar. Bu yüzden bugün tasarruf ederek bunu dengeler ve tüketimleri kamu açığından etkilenmez. Sonsuz yaşayan temsili ajan, vergi artışını öngörüp tasarrufu artıran tüketici, vergi indiriminin kalıcı olmadığını bilen tüketici ve miras bırakma güdüsüyle hareket eden hanehalkı teoremin varsayım ve sonuçlarıyla uyumludur. Sermaye piyasalarına erişimi kısıtlı hanehalkları ise teoremin temel varsayımlarından birini, yani kusursuz sermaye piyasasını ihlal eder. Bu hanehalklarının tüketimi kamu maliyesi haberlerine ve cari gelire duyarlı olur. Bu nedenle bu senaryoda tüketimin kamu borçlanmasından bağımsız kalacağı sonucu geçerli olmaz. Doğru cevap \"Sermaye piyasalarına erişimi kısıtlı olan düşük gelirli hanehalkları borçlanma haberini duyar duymaz tüketimlerini kısar.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -621,7 +633,7 @@
       "Çifte vergilendirmeyi önleme anlaşmaları, iç hukuka göre vergi doğmayan durumlarda dahi vergilendirme yetkisi yaratabilir."
      ],
      "dogru": 3,
-     "aciklama": "Türkiye Cumhuriyeti Anayasası m.90/5 hükmüne göre usulüne uygun yürürlüğe konulmuş uluslararası antlaşmalar kanun hükmündedir. 2004 yılında yapılan değişiklikle eklenen ek fıkra uyarınca, temel hak ve özgürlüklere ilişkin uluslararası antlaşmalar ile kanunların çatışması hâlinde antlaşma hükümleri esas alınır. Yargı içtihadı ve öğretiye göre vergi anlaşmaları da bu kapsamda değerlendirildiğinden iç hukuk kanun hükümlerine göre öncelik taşır. Bu nedenle C seçeneği doğrudur. A yanlıştır; anlaşmalar iç hukuktaki vergilendirme yetkisini sınırlar, genişletemez (anlaşmalar 'vergi doğurmaz', yalnızca 'sınırlar'). B yanlıştır; OECD modeline göre temettüde hem kaynak hem ikamet devletinin vergilendirme yetkisi olabilir. D yanlıştır; anlaşmadaki 'daimi işyeri' kavramı iç hukuktan bağımsız olarak yorumlanır. E yanlıştır; daimi işyerinin varlığı hâlinde kaynak devlet de ticari kazançları vergilendirebilir.",
+     "aciklama": "Anayasa'nın 90. maddesine göre usulüne uygun yürürlüğe konmuş uluslararası anlaşmalar kanun hükmündedir. Temel hak ve özgürlüklere ilişkin anlaşmalarla kanunlar arasında uyuşmazlık çıkarsa anlaşma hükümleri esas alınır. Türk uygulaması ve doktrini, çifte vergilendirmeyi önleme anlaşmalarının iç hukuk hükümleri karşısında öncelikle uygulanması gerektiği yönündedir. \"OECD Model Vergi Anlaşması'na göre ... temettü (kâr payı) geliri yalnızca kaynak devlet tarafından vergilendirilebilir\" ifadesi yanlıştır. Modelde temettü üzerinde ikamet devleti de vergilendirme yetkisine sahiptir ve kaynak devletin payı sınırlandırılmıştır. \"OECD modeline göre ticari kazançlar üzerinde yalnızca ikamet devletinin vergilendirme yetkisi bulunmakta\" ifadesi de yanlıştır. Çünkü daimi işyeri varsa kaynak devlet, o işyerine isnat edilen kazancı vergilendirebilir. Doğru cevap \"Türkiye'nin taraf olduğu çifte vergilendirme anlaşmaları, Anayasa'nın 90. maddesi gereği\" seçeneğidir.",
      "zorluk": "zor"
     },
     {

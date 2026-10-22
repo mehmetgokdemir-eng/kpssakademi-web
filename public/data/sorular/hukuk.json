@@ -112,22 +112,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "44008",
-  "dersId": "hukuk",
-  "konuId": "anayasa",
-  "soru": "Aşağıdakilerden hangisi 1982 Anayasası'na göre yasama soybağışıklığı (dokunulmazlığı) kapsamında değerlendirilemez?",
-  "secenekler": [
-   "Milletvekilinin komisyon çalışmalarındaki görüşleri",
-   "Milletvekilinin Meclis'teki oy kullanma eylemi",
-   "Milletvekilinin Meclis soruşturması sırasındaki ifadeleri",
-   "Milletvekilinin seçim öncesi mitingde söylediği sözler",
-   "Milletvekilinin Meclis'teki açıklamaları"
-  ],
-  "dogru": 3,
-  "aciklama": "Anayasa'nın 83. maddesine göre yasama soybağışıklığı (mutlak dokunulmazlık); Meclis çalışmalarındaki oy ve sözleri ile ilgili olup milletvekilleri bu nedenle sorumlu tutulamazlar. Seçim öncesi mitingde söylenen sözler Meclis çalışmaları kapsamında olmadığından bu güvenceden yararlanamaz. Milletvekilliği sıfatı taşısa dahi Meclis dışındaki eylemler soybağışıklığı kapsamı dışındadır.",
-  "zorluk": "kolay"
- },
- {
   "id": "44009",
   "dersId": "hukuk",
   "konuId": "anayasa",
@@ -381,22 +365,6 @@
   ],
   "dogru": 0,
   "aciklama": "Anayasa m.119'a göre OHAL en çok altı ay için ilan edilir ve TBMM her defasında en fazla dört ay uzatabilir. Doğru cevap 6 ay – 4 ay şeklindedir.",
-  "zorluk": "kolay"
- },
- {
-  "id": "44028",
-  "dersId": "hukuk",
-  "konuId": "anayasa",
-  "soru": "Türkiye Cumhuriyeti Anayasası'na göre, kanunların Anayasa'ya uygunluğunu denetleyen esas denetim yolu aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Somut norm denetimi",
-   "İtiraz yolu",
-   "İptal davası",
-   "Soyut norm denetimi",
-   "Bireysel başvuru"
-  ],
-  "dogru": 2,
-  "aciklama": "Anayasa Mahkemesi'nde anayasallık denetimi iki temel yolla yapılır: (1) İptal davası (soyut norm denetimi): Cumhurbaşkanı, iktidar ve ana muhalefet partisi meclis grupları ile 96 milletvekili tarafından açılır. (2) İtiraz yolu (somut norm denetimi): Bir davaya bakan mahkemenin, uygulanacak kanunun Anayasa'ya aykırı olduğu kanısına varması veya taraflardan birinin bu yönde ciddi iddiasını yerinde bulması üzerine başvurulan yoldur. İptal davası, Anayasa denetiminde en bilinen ve doğrudan başvuru yoludur.",
   "zorluk": "kolay"
  },
  {
@@ -816,22 +784,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "44056",
-  "dersId": "hukuk",
-  "konuId": "anayasa",
-  "soru": "Aşağıdaki organlardan hangisi Anayasa'da açıkça 'bağımsız' ve 'tarafsız' olarak nitelendirilmemiştir?",
-  "secenekler": [
-   "Hâkimler ve Savcılar Kurulu",
-   "Radyo ve Televizyon Üst Kurulu",
-   "Kamu Denetçiliği Kurumu (Ombudsman)",
-   "Anayasa Mahkemesi",
-   "Mahkemeler"
-  ],
-  "dogru": 2,
-  "aciklama": "Anayasa'da 'bağımsız ve tarafsız' nitelendirmesi farklı maddeler kapsamında yer alır. Mahkemeler 138. maddede, Anayasa Mahkemesi 139. madde bağlamında, HSK 159. maddede bağımsız olarak tanımlanmıştır. RTÜK ise 133. maddede 'özerk' olarak geçmektedir. Kamu Denetçiliği Kurumu (Ombudsman) 74. maddede düzenlenmiş olmakla birlikte 'bağımsız ve tarafsız' nitelendirmesi anayasal düzeyde bu kuruma açıkça verilmemiş; bağımsızlık kurumsal açıdan kanun düzeyinde güvence altına alınmıştır.",
-  "zorluk": "orta"
- },
- {
   "id": "44057",
   "dersId": "hukuk",
   "konuId": "anayasa",
@@ -896,22 +848,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "44062",
-  "dersId": "hukuk",
-  "konuId": "anayasa",
-  "soru": "Aşağıdakilerden hangisi Anayasa Mahkemesi'ne bireysel başvuru yolunu kullanamayanlar arasında yer almaktadır?",
-  "secenekler": [
-   "Özel hukuk tüzel kişileri",
-   "Yalnızca Türk vatandaşlarına tanınan hakları ihlal edilen yabancılar",
-   "Dernek ve vakıflar",
-   "Türkiye'de ikamet eden yabancı uyruklu gerçek kişiler",
-   "Kamu tüzel kişileri"
-  ],
-  "dogru": 4,
-  "aciklama": "Bireysel başvuru hakkı yalnızca gerçek kişiler ile özel hukuk tüzel kişilerine tanınmıştır. Kamu tüzel kişileri, kamu gücü kullanma yetkisine sahip kuruluşlar olduğundan bireysel başvuru yolunu kullanamazlar. Yabancılar, yalnızca Türk vatandaşlarına özgü haklar dışında kalan temel haklarını ihlal edildiğinde başvurabilir. Dernek ve vakıflar özel hukuk tüzel kişisi sayıldığından başvurabilir.",
-  "zorluk": "orta"
- },
- {
   "id": "44063",
   "dersId": "hukuk",
   "konuId": "anayasa",
@@ -973,22 +909,6 @@
   ],
   "dogru": 4,
   "aciklama": "Anayasa'nın 19. maddesine göre yakalanan kişi, yakalama yerine en yakın hâkim veya mahkemeye gönderilme süresi hariç, en geç kırk sekiz saat içinde hâkim önüne çıkarılmalıdır. Toplu olarak işlenen suçlarda bu süre en çok dört gündür. Bireysel suçlarda gözaltı süresinin sınırı bu nedenle kırk sekiz saattir. Madde ayrıca yakalanan kişinin durumunun yakınlarına bildirilmesini zorunlu kılar. Bu yüzden \"Gözaltına alınan kişinin durumu, yakınlarına bildirilmek zorunda değildir.\" seçeneği yanlıştır. \"Suçüstü halinde yakalanan kişi en fazla yirmi dört saat içinde hâkim önüne çıkarılmak zorundadır.\" seçeneği de yanlıştır, çünkü Anayasa'daki süre kırk sekiz saattir. \"Yakalanan kişi, hâkim önüne çıkarılmaksızın en fazla kırk sekiz saat tutulabilir.\" seçeneği toplu suçlardaki dört günlük sınırı dikkate almadığı için eksiktir. Doğru cevap \"Olağan dönemde bireysel suçlarda kişi, hâkim kararı olmaksızın en fazla kırk sekiz saat gözaltında tutulabilir.\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
-  "id": "44067",
-  "dersId": "hukuk",
-  "konuId": "anayasa",
-  "soru": "Türkiye Büyük Millet Meclisi'nin olağan toplantı dönemi ve çalışma düzeniyle ilgili aşağıdakilerden hangisi doğrudur?",
-  "secenekler": [
-   "Meclis Başkanı, gerek gördüğünde TBMM'yi olağanüstü toplantıya tek başına çağırabilir.",
-   "TBMM, her yıl Ekim ayının birinde kendiliğinden toplanır.",
-   "TBMM, salt çoğunlukla karar vermesi hâlinde toplantı dönemini üç aya kadar uzatabilir.",
-   "TBMM, Temmuz ve Ağustos aylarında olağan tatile girer; bu süre uzatılamaz.",
-   "TBMM üye tam sayısının en az üçte biri tarafından çağrıldığında olağanüstü toplantıya çağrılabilir."
-  ],
-  "dogru": 1,
-  "aciklama": "Anayasa'nın 93. maddesi uyarınca Türkiye Büyük Millet Meclisi, her yıl Ekim ayının birinde kendiliğinden toplanır. TBMM, gerektiğinde Cumhurbaşkanı veya TBMM Başkanı'nın çağrısıyla ya da üye tam sayısının en az beşte birinin yazılı istemi üzerine olağanüstü toplantıya çağrılabilir. 'Üçte bir' eşiği doğru değildir; bu oran 'beşte bir' olarak düzenlenmiştir.",
   "zorluk": "orta"
  },
  {
@@ -1152,22 +1072,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "44078",
-  "dersId": "hukuk",
-  "konuId": "anayasa",
-  "soru": "Aşağıdaki anayasal düzenlemelerden hangisi 'kazanılmış hak' ilkesiyle doğrudan çelişen bir uygulama örneği oluşturabilir?",
-  "secenekler": [
-   "Sosyal güvenlik primlerinin ileriye dönük olarak artırılması.",
-   "Vergi oranlarının ileriye yürüyecek şekilde kanunla değiştirilmesi.",
-   "Bir kamu görevlisinin atandığı tarihte yürürlükte olan disiplin hükümlerinin değiştirilmesi ve yeni hükümlerin geriye yürütülmesi.",
-   "Mülkiyet hakkını kısıtlayan bir kanunun, kısıtlama tarihinden sonra edinilen taşınmazlara uygulanması.",
-   "Yargı kararıyla kesinleşmiş bir emekli maaşı miktarının, kanunla ve yalnızca ileriye dönük olarak yeniden düzenlenmesi. Bu düzenleme emeklilik tarihinden itibaren uygulanır."
-  ],
-  "dogru": 2,
-  "aciklama": "Hukuki güvenlik ve kazanılmış hak ilkeleri, bireylerin tesis edilmiş hukuki durumlarının geriye dönük olarak ağırlaştırılmamasını gerektirir. Bir kamu görevlisi hakkında, atandığı tarihteki disiplin hükümlerinden daha ağır yaptırımlar içeren yeni düzenlemelerin geriye yürütülmesi; o görevlinin mevcut statüsüne dayanarak kazandığı güvenceyi ortadan kaldırdığından kazanılmış hak ilkesiyle doğrudan çelişir. Anayasa Mahkemesi içtihadı da kanunların geriye yürütülmesinin hukuki güvenlik ilkesini ihlal ettiğini kabul etmektedir. Diğer seçeneklerdeki durumlar ileriye dönük düzenlemeler içerdiğinden bu ilkeyle çelişmez.",
-  "zorluk": "zor"
- },
- {
   "id": "44079",
   "dersId": "hukuk",
   "konuId": "anayasa",
@@ -1180,7 +1084,7 @@
    "Silahlı Kuvvetler mensupları"
   ],
   "dogru": 3,
-  "aciklama": "Anayasa'nın 68. maddesinin 5. fıkrasına göre hâkimler ve savcılar, Sayıştay dahil yüksek yargı organları mensupları, kamu kurum ve kuruluşlarının memur statüsündeki görevlileri, yaptıkları hizmet bakımından işçi niteliği taşımayan diğer kamu görevlileri ile Silahlı Kuvvetler mensupları siyasi partilere üye olamazlar. 2010 anayasa değişikliğiyle yükseköğretim kurumlarının öğretim elemanlarına bu yasak kaldırılmış; öğretim üyeleri artık siyasi partilere üye olabilmektedir. Bu nedenle doğru yanıt B'dir.",
+  "aciklama": "Anayasa'nın 68. maddesinin 5. fıkrasına göre hâkimler ve savcılar, Sayıştay dahil yüksek yargı organları mensupları, kamu kurum ve kuruluşlarının memur statüsündeki görevlileri, yaptıkları hizmet bakımından işçi niteliği taşımayan diğer kamu görevlileri ile Silahlı Kuvvetler mensupları siyasi partilere üye olamazlar. 2010 anayasa değişikliğiyle yükseköğretim kurumlarının öğretim elemanlarına bu yasak kaldırılmış; öğretim üyeleri artık siyasi partilere üye olabilmektedir. Doğru cevap: «Yükseköğretim kurumlarının öğretim üyeleri».",
   "zorluk": "zor"
  },
  {
@@ -1244,7 +1148,7 @@
    "Sonraki tarihli kanun önceki tarihli andlaşmanın önüne geçer."
   ],
   "dogru": 1,
-  "aciklama": "Anayasa'nın 90. maddesinin son fıkrasına 2004 yılında eklenen hüküm uyarınca, usulüne göre yürürlüğe konulmuş temel hak ve özgürlüklere ilişkin milletlerarası andlaşmalar ile kanunların aynı konuda farklı hükümler içermesi hâlinde milletlerarası andlaşma hükümleri esas alınır. Bu düzenlemeyle temel hak ve özgürlüklere ilişkin uluslararası andlaşmalara kanun üstü bir statü tanınmıştır. Ancak bu üstünlük yalnızca temel hak ve özgürlüklere ilişkin andlaşmalar için geçerli olup diğer konulardaki andlaşmalar kanunlarla eşdeğer kabul edilir. Doğru yanıt C'dir.",
+  "aciklama": "Anayasa'nın 90. maddesinin son fıkrasına 2004 yılında eklenen hüküm uyarınca, usulüne göre yürürlüğe konulmuş temel hak ve özgürlüklere ilişkin milletlerarası andlaşmalar ile kanunların aynı konuda farklı hükümler içermesi hâlinde milletlerarası andlaşma hükümleri esas alınır. Bu düzenlemeyle temel hak ve özgürlüklere ilişkin uluslararası andlaşmalara kanun üstü bir statü tanınmıştır. Ancak bu üstünlük yalnızca temel hak ve özgürlüklere ilişkin andlaşmalar için geçerli olup diğer konulardaki andlaşmalar kanunlarla eşdeğer kabul edilir. Doğru cevap: «Andlaşma hükümleri esas alınır ve kanun hükümleri uygulanmaz».",
   "zorluk": "zor"
  },
  {
@@ -1276,7 +1180,7 @@
    "CBK, kanunla çelişen hükümler içeriyorsa kanun iptal edilene kadar her ikisi de uygulanır."
   ],
   "dogru": 2,
-  "aciklama": "Anayasa'nın 104. maddesinin 17. fıkrası uyarınca Cumhurbaşkanlığı kararnameleri; Anayasa'da münhasıran kanunla düzenlenmesi öngörülen konularda çıkarılamaz, kanunda açıkça düzenlenen konularda düzenleme yapamaz ve kanunlara aykırı hükümler içeremez. Kanunla düzenlenmiş bir konuda CBK çıkarılması hâlinde, CBK'nın söz konusu hükümleri geçersiz sayılır. Ayrıca CBK ile düzenlenmiş bir konuda kanun çıkarıldığında CBK hükümsüz hale gelir. CBK'lar kanun gücünde değildir ve Anayasa Mahkemesi bunları hem şekil hem esas yönünden denetleyebilir. Doğru yanıt B'dir.",
+  "aciklama": "Anayasa'nın 104. maddesinin 17. fıkrası uyarınca Cumhurbaşkanlığı kararnameleri; Anayasa'da münhasıran kanunla düzenlenmesi öngörülen konularda çıkarılamaz, kanunda açıkça düzenlenen konularda düzenleme yapamaz ve kanunlara aykırı hükümler içeremez. Kanunla düzenlenmiş bir konuda CBK çıkarılması hâlinde, CBK'nın söz konusu hükümleri geçersiz sayılır. Ayrıca CBK ile düzenlenmiş bir konuda kanun çıkarıldığında CBK hükümsüz hale gelir. CBK'lar kanun gücünde değildir ve Anayasa Mahkemesi bunları hem şekil hem esas yönünden denetleyebilir. Doğru cevap: «Kanunla düzenlenmiş bir konuda CBK çıkarılırsa CBK geçersizdir».",
   "zorluk": "zor"
  },
  {
@@ -1420,7 +1324,7 @@
    "Antlaşma kanun hükmünde olduğundan sonraki tarihli kanun antlaşmayı zımnen ilga eder."
   ],
   "dogru": 2,
-  "aciklama": "2004 yılında Anayasa'nın 90. maddesine eklenen fıkra şu hükmü içermektedir: 'Temel hak ve özgürlüklere ilişkin milletlerarası antlaşmalarla kanunların aynı konuda farklı hükümler içermesi nedeniyle çıkabilecek uyuşmazlıklarda milletlerarası antlaşma hükümleri esas alınır.' Bu hükme göre temel haklar alanında çatışma olduğunda antlaşma hükmü öncelikle uygulanır; kanun bu ölçüde devre dışı kalır. Hâkim re'sen bu önceliği uygulamalıdır; konunun Anayasa Mahkemesi'ne taşınması gerekmez. Doğru cevap B'dir.",
+  "aciklama": "2004 yılında Anayasa'nın 90. maddesine eklenen fıkra şu hükmü içermektedir: 'Temel hak ve özgürlüklere ilişkin milletlerarası antlaşmalarla kanunların aynı konuda farklı hükümler içermesi nedeniyle çıkabilecek uyuşmazlıklarda milletlerarası antlaşma hükümleri esas alınır.' Bu hükme göre temel haklar alanında çatışma olduğunda antlaşma hükmü öncelikle uygulanır; kanun bu ölçüde devre dışı kalır. Hâkim re'sen bu önceliği uygulamalıdır; konunun Anayasa Mahkemesi'ne taşınması gerekmez. Doğru cevap: «Temel haklar alanında antlaşma hükmü esas alınır; kanun bu ölçüde uygulanamaz».",
   "zorluk": "zor"
  },
  {
@@ -1452,7 +1356,7 @@
    "Bir siyasi partinin olağanüstü hal döneminde yurt dışından mali yardım alması."
   ],
   "dogru": 3,
-  "aciklama": "Anayasa'nın 69. maddesi uyarınca bir siyasi partinin kapatılabilmesi için o partinin, Anayasa'nın 68. maddesinde yasaklanan fiillerin 'odağı' haline gelmiş olması gerekmektedir. Partinin odak haline geldiğinin kabul edilebilmesi için söz konusu eylemlerin parti üyelerinin çoğunluğu tarafından paylaşılması, yoğun biçimde gerçekleştirilmesi ya da parti organlarınca doğrudan yapılmış/açıkça desteklenmiş olması gerekir. Ülkenin bölünmez bütünlüğüne karşı eylemlerin odağı haline gelmek 68. madde yasağı kapsamındadır ve 69. madde gereği kapatma yaptırımına konu olabilir. Diğer seçenekler farklı hukuki yaptırımları gerektiren durumları içermekte olup kapatma davasının doğrudan konusu değildir. Doğru cevap B'dir.",
+  "aciklama": "Anayasa'nın 69. maddesi uyarınca bir siyasi partinin kapatılabilmesi için o partinin, Anayasa'nın 68. maddesinde yasaklanan fiillerin 'odağı' haline gelmiş olması gerekmektedir. Partinin odak haline geldiğinin kabul edilebilmesi için söz konusu eylemlerin parti üyelerinin çoğunluğu tarafından paylaşılması, yoğun biçimde gerçekleştirilmesi ya da parti organlarınca doğrudan yapılmış/açıkça desteklenmiş olması gerekir. Ülkenin bölünmez bütünlüğüne karşı eylemlerin odağı haline gelmek 68. madde yasağı kapsamındadır ve 69. madde gereği kapatma yaptırımına konu olabilir. Diğer seçenekler farklı hukuki yaptırımları gerektiren durumları içermekte olup kapatma davasının doğrudan konusu değildir. Doğru cevap: «Bir siyasi partinin ülkenin bölünmez bütünlüğüne karşı eylemlerin odağı haline gelmesi».",
   "zorluk": "zor"
  },
  {
@@ -1792,22 +1696,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "44123",
-  "dersId": "hukuk",
-  "konuId": "i_dare",
-  "soru": "Aşağıdakilerden hangisi 'olağanüstü hal' döneminde çıkarılan Cumhurbaşkanlığı kararnamelerinin denetimini yapar?",
-  "secenekler": [
-   "Yargıtay",
-   "Danıştay",
-   "Bölge İdare Mahkemesi",
-   "Uyuşmazlık Mahkemesi",
-   "Anayasa Mahkemesi"
-  ],
-  "dogru": 4,
-  "aciklama": "Anayasa'nın 148. maddesi uyarınca Cumhurbaşkanlığı kararnamelerinin Anayasa'ya şekil ve esas bakımından uygunluğunu denetleme yetkisi Anayasa Mahkemesi'ne aittir. Olağanüstü hal kararname ve tedbirleri de bu denetim kapsamında değerlendirilir.",
-  "zorluk": "kolay"
- },
- {
   "id": "44124",
   "dersId": "hukuk",
   "konuId": "i_dare",
@@ -1965,22 +1853,6 @@
   ],
   "dogru": 0,
   "aciklama": "Yetki genişliği (deconcentration), merkezi yönetim anlayışının bir uygulaması olup merkezdeki yetkilerin taşra birimlerine (illerde valiler gibi) devredilmesidir. Bu yöntemde yetki devri coğrafi olarak gerçekleşir ancak tüzel kişilik ayrılığı yoktur ve hiyerarşik bağ devam eder. Yerinden yönetimden (decentralization) farklı olarak tüzel kişilik oluşturulmaz.",
-  "zorluk": "kolay"
- },
- {
-  "id": "44134",
-  "dersId": "hukuk",
-  "konuId": "i_dare",
-  "soru": "Aşağıdakilerden hangisi Türk hukukunda 'kamu görevlisi' sayılmaz?",
-  "secenekler": [
-   "Sözleşmeli personel",
-   "Geçici işçi statüsündeki belediye çalışanı",
-   "Devlet memuru",
-   "Bir kamu kurumunda çalışan özel güvenlik görevlisi",
-   "İl özel idaresinde görev yapan daimi işçi"
-  ],
-  "dogru": 3,
-  "aciklama": "Kamu kurumlarında çalışan özel güvenlik görevlileri, 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun kapsamında faaliyet gösterirler ve özel hukuk sözleşmesiyle istihdam edilirler. Kamu görevlisi statüsünde sayılmazlar; devlet memurluğu, sözleşmeli personel veya işçi statüleri ise kamu personeli kapsamında değerlendirilmektedir.",
   "zorluk": "kolay"
  },
  {
@@ -2800,22 +2672,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "44191",
-  "dersId": "hukuk",
-  "konuId": "i_dare",
-  "soru": "Aşağıdaki düzenlemelerden hangisi 'olağanüstü hal kanun hükmünde kararnamesi' ile 'Cumhurbaşkanlığı kararnamesi' arasındaki temel farkı doğru biçimde ortaya koymaktadır?",
-  "secenekler": [
-   "Her iki düzenleme de aynı hukuki nitelikte olup aralarında hiyerarşik açıdan fark yoktur.",
-   "Cumhurbaşkanlığı kararnameleri temel hakları düzenleyebilirken olağanüstü hal KHK'ları düzenleyemez.",
-   "Cumhurbaşkanlığı kararnameleri kanunla çeliştiğinde kanun hükmü uygulanır; olağanüstü hal KHK'larında ise KHK kanuna üstün gelir ve kanun uygulanmaz.",
-   "Olağanüstü hal KHK'ları temel hakları durumun gerektirdiği ölçüde sınırlayabilirken Cumhurbaşkanlığı kararnameleri temel hakları düzenleyemez.",
-   "Olağanüstü hal KHK'ları Anayasa Mahkemesi denetimine tabi değilken Cumhurbaşkanlığı kararnameleri bu denetime tabidir."
-  ],
-  "dogru": 3,
-  "aciklama": "Anayasa'nın 119. maddesi uyarınca olağanüstü hal dönemlerinde çıkarılan Cumhurbaşkanlığı kararnameleri (eski sistemdeki KHK'ların işlevsel karşılığı), temel hak ve özgürlükleri durumun gerektirdiği ölçüde sınırlayabilir. Buna karşın olağan dönem CBK'ları temel hakları, kişi haklarını ve ödevleri düzenleyemez (AY m.104/17). Bu iki rejimdeki sınırlama kapasitesi farkı, sınavlarda kritik bir ayrım noktasıdır.",
-  "zorluk": "orta"
- },
- {
   "id": "44192",
   "dersId": "hukuk",
   "konuId": "i_dare",
@@ -2944,22 +2800,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "44200",
-  "dersId": "hukuk",
-  "konuId": "i_dare",
-  "soru": "İdari sözleşmelerde 'öngörülemeyen hal teorisi' (imprévision) uygulandığında idarenin yükümlülükleri bakımından aşağıdaki ifadelerden hangisi doğrudur?",
-  "secenekler": [
-   "Müteahhit ifa yükümlülüğünden tamamen kurtulur; idare ise zarar görmez.",
-   "İdare sözleşmeyi feshetmek ve müteahhide tüm kâr kaybını tazmin etmek zorundadır.",
-   "Öngörülemeyen hal teorisi yalnızca özel hukuk sözleşmelerine uygulanabilir; idari sözleşmelerde bu teori yerine 'fait du prince' (hükümdarın fiili) teorisi geçerli olur ve zararın tamamı idarece karşılanır. Bu ayrım Danıştay içtihadıyla yerleşmiştir.",
-   "İdare, müteahhidin katlandığı ve sözleşmenin doğal riskini aşan zararın tamamını değil yalnızca bir kısmını (genellikle %10-20 oranında) karşılamak zorundadır; müteahhit ise ifayı sürdürme yükümlülüğü altındadır.",
-   "Teorinin uygulanabilmesi için idarenin kusurlu davranmış olması şarttır."
-  ],
-  "dogru": 3,
-  "aciklama": "Fransız Conseil d'État'nın Gaz de Bordeaux kararıyla (1916) yerleşen öngörülemeyen hal teorisine göre sözleşmenin yapıldığı sırada öngörülemeyen ve müteahhidin kontrolü dışındaki bir olgu, ifayı ekonomik açıdan imkânsız kılacak ölçüde zorlaştırırsa müteahhit sözleşmeyi ifa etmeye devam etmek zorundadır; buna karşılık idare zararın tamamı değil aşan kısmını paylaşır. Bu teorinin fait du prince'ten farkı, olumsuz durumun idareye değil dışsal bir olguya bağlı olmasıdır.",
-  "zorluk": "zor"
- },
- {
   "id": "44201",
   "dersId": "hukuk",
   "konuId": "i_dare",
@@ -3021,22 +2861,6 @@
   ],
   "dogru": 1,
   "aciklama": "Anayasa m.38 ve AİHM m.7 kapsamında suçta ve cezada kanunilik ilkesi, hem suçun hem de cezanın (miktarı dahil) kanunda yeterli açıklık ve öngörülebilirlikle düzenlenmesini gerektirir. Para cezasının üst sınırının kanunda belirlenmemesi ve bu boşluğun tebliğ gibi düzenleyici alt mevzuatla doldurulması, kanunilik ilkesinin en çarpıcı ihlalini oluşturur; zira ceza miktarını nihai olarak belirleme yetkisi yürütmeye devredilmiş olmaktadır. Anayasa Mahkemesi bu gerekçeyle pek çok idari para cezası düzenlemesini iptal etmiştir.",
-  "zorluk": "zor"
- },
- {
-  "id": "44205",
-  "dersId": "hukuk",
-  "konuId": "i_dare",
-  "soru": "Türk hukukunda 'idarenin sorumluluğunu ortadan kaldıran nedenler' arasında yer alan 'mücbir sebep' ile 'beklenilmeyen hal' arasındaki fark, tazminat hukukunda belirleyici olmaktadır. Bu iki kavramı birbirinden ayıran temel ölçüt aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Her iki kavram da Danıştay içtihadında özdeş kabul edilmekte ve her ikisinde de idarenin sorumluluğu sona ermektedir.",
-   "Mücbir sebepte olay hem öngörülemez hem de karşı konulamaz niteliktedir ve zararla nedensellik bağını tamamen keser; beklenilmeyen halde ise olay öngörülebilir olmakla birlikte önlenmesi güçtür ve sorumluluk tamamen ortadan kalkmaz, yalnızca azaltılabilir.",
-   "Mücbir sebebin varlığı hâlinde zarar görenin kusuru hiçbir biçimde aranmaz; beklenilmeyen halde ise zarar görenin kusuru mutlaka dikkate alınır ve tazminattan indirim yapılır. Bu ayrım idarenin sorumluluğunun kapsamını doğrudan belirlemekte ve tazminat miktarını etkilemektedir.",
-   "Mücbir sebep yalnızca doğal afetleri kapsar; beklenilmeyen hal ise insan kaynaklı olayları ifade eder.",
-   "Beklenilmeyen hal yalnızca sözleşme hukukunda geçerliyken mücbir sebep hem sözleşme hem de haksız fiil sorumluluğunda uygulanır."
-  ],
-  "dogru": 1,
-  "aciklama": "Danıştay ve öğreti, mücbir sebep ile beklenilmeyen hal arasındaki farkı şu şekilde çizmektedir: Mücbir sebep (force majeure), idarenin faaliyet alanı dışından gelen, öngörülemeyen ve karşı konulamaz nitelikte bir olaydır; nedensellik bağını tamamen keserek idareyi sorumluluktan tümüyle kurtarır. Beklenilmeyen hal (cas fortuit) ise idarenin faaliyet alanı içinden kaynaklanan, öngörülmesi güç olmakla birlikte idarenin organize olma yükümlülüğü kapsamında kalabilen bir durumdur; bu nedenle sorumluluğu tamamen değil kısmen kaldırabilir ya da azaltabilir.",
   "zorluk": "zor"
  },
  {
@@ -3168,22 +2992,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "44214",
-  "dersId": "hukuk",
-  "konuId": "i_dare",
-  "soru": "Anayasa Mahkemesi kararlarına göre, olağanüstü hal kapsamında çıkarılan Cumhurbaşkanlığı kararnamelerinin (OHAL KHK'larının) bireysel temel hakları kısıtlaması bakımından hangi denetim mercii yetkilidir ve bu denetimin sınırları nelerdir?",
-  "secenekler": [
-   "Danıştay, idari işlem niteliği taşıdıkları için tam yargı davası yoluyla bu kararname hükümlerini denetleyebilir",
-   "Anayasa Mahkemesi kanun hükmünde oldukları için esastan denetleyebilir; ancak bireysel başvuru yolu OHAL KHK'larına karşı doğrudan kapalıdır",
-   "Avrupa İnsan Hakları Mahkemesi doğrudan iç hukuka müdahil olarak bireysel kararname işlemlerini iptal edebilir",
-   "Anayasa Mahkemesi, şekil ve esas bakımından tam denetim yapabilir; bireysel başvuru yolu da her zaman açıktır",
-   "Hiçbir yargı mercii denetleyemez; olağanüstü hal kararname hükümleri kuvvetler ayrılığı ilkesi gereğince yargı dokunulmazlığına sahiptir"
-  ],
-  "dogru": 1,
-  "aciklama": "AYM, 2016 sonrası verdiği kararlarla OHAL KHK'larının kanun hükmünde olduğunu ve Anayasa m.148 kapsamında esas bakımdan denetlenebileceğini benimsemiştir. Ne var ki Anayasa m.148/3 uyarınca bireysel başvuru yolu, OHAL KHK'ları kapsamında alınan tedbirlere karşı doğrudan açık değildir; bu tedbirler için Olağanüstü Hal İşlemleri İnceleme Komisyonu gibi idari başvuru mekanizmaları öngörülmüştür. Danıştay'ın bu KHK'ları doğrudan iptal yetkisi bulunmamaktadır.",
-  "zorluk": "zor"
- },
- {
   "id": "44215",
   "dersId": "hukuk",
   "konuId": "i_dare",
@@ -3197,22 +3005,6 @@
   ],
   "dogru": 2,
   "aciklama": "İdare hukukunun klasik ayrımına göre imtiyaz (concession), devletin kamu hizmeti üzerindeki egemenliğini ve asli sorumluluğunu koruyarak işletme hakkını sözleşme yoluyla ve belli süreyle bir özel kişiye bırakmasıdır; süre sonunda hizmet ve altyapı devlete döner. Özelleştirmede ise teşebbüsün mülkiyeti kalıcı olarak özel sektöre geçer ve devletin doğrudan işletici sıfatı sona erer. Bu ayrım Anayasa m.47 ve 5176 sayılı Kamu Görevlileri Etik Kurulu Hakkında Kanun bağlamında da önem taşır.",
-  "zorluk": "zor"
- },
- {
-  "id": "44216",
-  "dersId": "hukuk",
-  "konuId": "i_dare",
-  "soru": "Aşağıdaki işlemlerden hangisi, 'idari sözleşme' değil 'özel hukuk sözleşmesi' olarak nitelendirilir ve Danıştay değil adli yargı tarafından denetlenir?",
-  "secenekler": [
-   "Hazinenin özel kişiyle akdettiği kira sözleşmesi",
-   "Belediyelerin ihale mevzuatı kapsamında özel şirkete yaptırdığı çöp toplama hizmet alım sözleşmesi",
-   "Karayolları Genel Müdürlüğü ile müteahhit arasındaki yap-işlet-devret sözleşmesi",
-   "Belediyenin toplu taşıma hizmetini özel bir şirkete devrettiği imtiyaz sözleşmesi",
-   "Devlet üniversitesinin araştırma projesi kapsamında özel bir şirketle akdettiği danışmanlık hizmet sözleşmesi"
-  ],
-  "dogru": 0,
-  "aciklama": "Hazinenin özel kişiye kira vereceği sözleşme, devletin özel mülkiyet hukuku çerçevesinde yaptığı ve kamu otoritesi kullanımı içermeyen bir özel hukuk işlemidir; bu nedenle adli yargı (asliye hukuk mahkemesi) denetimine tabidir. Diğer seçeneklerdeki sözleşmeler ya imtiyaz, ya hizmet alımı (kamu ihale sözleşmesi) ya da yap-işlet-devret gibi idari sözleşme türleridir ve Danıştay denetimine tabidir.",
   "zorluk": "zor"
  },
  {
@@ -3296,38 +3088,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "44222",
-  "dersId": "hukuk",
-  "konuId": "i_dare",
-  "soru": "Mahalli idareler hukuku kapsamında, bir belediye başkanının 5393 sayılı Kanun m.38 çerçevesinde 'tek başına' yapabileceği işlemler ile belediye meclisinin onayına tabi işlemler arasındaki sınır aşağıdaki senaryolardan hangisinde doğru belirlenmiştir?",
-  "secenekler": [
-   "Belediye başkanı, herhangi bir taşınmazı meclis kararı olmaksızın üç yıla kadar kiraya verebilir",
-   "Belediye başkanı, yıllık bütçenin %5'ini aşmayan borçlanmalara tek başına karar verebilir",
-   "Belediye başkanı, belediye adına sözleşme imzalama yetkisine sahiptir; ancak imzalanacak her sözleşme için önceden ayrıca belediye meclisinin onayının alınması zorunludur ve bu onay olmaksızın sözleşme hüküm doğurmaz",
-   "Belediye başkanı, 5393 sayılı Kanun m.38/g kapsamında olağan harcamaları karşılamak amacıyla meclis onayı aranmaksızın bütçede fonksiyonel aktarma yapabilir; ancak ekonomik kod değişikliği meclis kararını gerektirir",
-   "Belediye başkanı, encümen kararı olmaksızın ihaleli işleri doğrudan ihale edebilir"
-  ],
-  "dogru": 3,
-  "aciklama": "5393 sayılı Kanun m.38/g uyarınca belediye başkanı, bütçede fonksiyonel düzeyde (harcama türleri arasındaki) aktarmaları tek başına yapabilir. Buna karşın ekonomik kodlar arasındaki aktarma ya da ek bütçe meclis kararına bağlıdır. Taşınmazları kiraya verme yetkisi belediye encümenine (m.34) ve meclis onayına tabidir. Borçlanma ise mevzuatta öngörülen sınırlar çerçevesinde meclis kararı gerektirir. Sözleşme imzalama yetkisi başkana aittir ancak ihale onayları meclis ve/veya encümen aracılığıyla gerçekleşir.",
-  "zorluk": "zor"
- },
- {
-  "id": "44223",
-  "dersId": "hukuk",
-  "konuId": "i_dare",
-  "soru": "Türk idare hukukunda 'zımni red' ile 'zımni kabul' kurumlarını karşılaştıran aşağıdaki ifadelerden hangisi doğrudur?",
-  "secenekler": [
-   "Zımni red İYUK'ta genel kural olarak düzenlenmiştir; zımni kabul ise idare hukukunda yer bulmaz çünkü idare sessizliğiyle hak bahşedemez",
-   "Her ikisi de 60 günlük süre sonunda oluşur; zımni red olumsuz, zımni kabul olumlu sonuç doğurur ve her ikisi de idari yargıda dava konusu edilebilir",
-   "İkisi arasında dava açma süreleri bakımından herhangi bir fark bulunmamaktadır",
-   "Zımni kabul Türk idare hukukunda asıl kural, zımni red ise istisnadır",
-   "Zımni red yalnızca üst makama başvurularda geçerlidir; idarenin asıl başvuruya sessiz kalması zımni red sayılmaz"
-  ],
-  "dogru": 0,
-  "aciklama": "İYUK m.10 kapsamında, ilgilinin idareye başvurusuna 60 gün içinde yanıt verilmemesi hâlinde talep reddedilmiş sayılır (zımni red) ve dava açma süresi işlemeye başlar. Bu, genel kuraldır. Zımni kabul ise istisnai düzenlemelere (örneğin bazı ruhsat mevzuatı veya AB uyum kanunları) dayanır ve her durumda değil, yalnızca kanunun açıkça öngördüğü hâllerde söz konusu olabilir. İdarenin sessizliğiyle genel olarak hak bahşetmesi kabul edilmez; aksini kabul etmek hukuki güvenliği zedeler.",
-  "zorluk": "zor"
- },
- {
   "id": "44224",
   "dersId": "hukuk",
   "konuId": "i_dare",
@@ -3371,7 +3131,7 @@
    "15 gün",
    "5 gün"
   ],
-  "dogru": 2,
+  "dogru": 1,
   "aciklama": "TCK m. 49'a göre hapis cezasının alt sınırı 1 gündür. Kanunda aksi belirtilmedikçe hapis cezasının alt sınırı 1 gün, üst sınırı ise 20 yıldır. Ağırlaştırılmış müebbet ve müebbet hapis ayrıca düzenlenmiştir.",
   "zorluk": "kolay"
  },
@@ -3968,22 +3728,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "44265",
-  "dersId": "hukuk",
-  "konuId": "ceza",
-  "soru": "TCK'ya göre 'meşru müdafaa' hakkının kullanılabilmesi için aşağıdaki koşulların hangisi aranmaz?",
-  "secenekler": [
-   "Savunmanın saldırıyı defetmek amacıyla yapılması",
-   "Saldırının mevcut veya yakın tehlike oluşturması",
-   "Saldırının bir insan tarafından gerçekleştirilmiş olması",
-   "Savunmanın saldırıyla orantılı olması",
-   "Saldırının haksız olması"
-  ],
-  "dogru": 2,
-  "aciklama": "TCK m.25'e göre meşru müdafaa için; saldırının haksız olması, mevcut ya da o an gerçekleşmekte olan bir saldırının bulunması, savunmanın zorunlu ve orantılı olması gerekir. Saldırının mutlaka bir insan tarafından gerçekleştirilmesi şartı aranmaz; hayvan saldırısına karşı da koşullar oluştuğunda meşru müdafaa hükümleri uygulanabilir.",
-  "zorluk": "kolay"
- },
- {
   "id": "44266",
   "dersId": "hukuk",
   "konuId": "ceza",
@@ -4123,7 +3867,7 @@
    "Birden fazla fiilin işlenmiş olması.",
    "İşlenen fiillerin aynı suç tipini oluşturması."
   ],
-  "dogru": 2,
+  "dogru": 0,
   "aciklama": "TCK m. 43'e göre zincirleme suç için aranan şartlar şunlardır: birden fazla fiilin işlenmesi, fiillerin aynı suç tipini oluşturması ve fiillerin aynı suç işleme kararının icrası kapsamında olması. Kanun, mağdurun aynı kişi olmasını zincirleme suçun zorunlu bir koşulu olarak aramamaktadır; aksine bazı suçlarda (örn. kasten öldürme, kasten yaralama, işkence, yağma, cinsel saldırı gibi) zincirleme suç hükmü yalnızca aynı mağdura karşı işlenmiş olması hâlinde uygulanabilir. Ancak bu, genel koşul değil belirli suçlara özgü istisnadır. Zaman bağlantısına ilişkin “İşlenen fiillerin aynı suç tipini oluşturması.” şıkkı kanun metninde açıkça sayılmamakla birlikte öğretide tartışmalıdır; ama mağdur aynılığı şartı tüm suçlar için geçerli değildir, bu nedenle “Fiillerin aynı mağdura karşı işlenmiş olması.” seçeneği doğru yanıttır.",
   "zorluk": "orta"
  },
@@ -4528,22 +4272,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "44303",
-  "dersId": "hukuk",
-  "konuId": "ceza",
-  "soru": "TCK'ya göre kasten öldürme suçunun olası kastla işlenmesi hâlinde verilecek ceza aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Müebbet hapis",
-   "On iki yıldan on sekiz yıla kadar hapis",
-   "On beş yıldan yirmi yıla kadar hapis",
-   "Yirmi yıldan yirmi beş yıla kadar hapis",
-   "Ağırlaştırılmış müebbet hapis"
-  ],
-  "dogru": 3,
-  "aciklama": "TCK m. 81'de kasten öldürme için müebbet hapis öngörülmüştür. Ancak TCK m. 21/2 ve m. 22/3 uyarınca olası kastla gerçekleştirilen suçlarda verilecek ceza, doğrudan kastla işlenmiş hale kıyasla üçte birden yarıya kadar indirilir. Bu durumda müebbet hapis yerine TCK m. 83 kıyasen değerlendirildiğinde yirmi yıldan yirmi beş yıla kadar hapis cezasına hükmedilir. Nitekim öğreti ve Yargıtay içtihadında olası kastla öldürmede bu ceza aralığı esas alınmaktadır.",
-  "zorluk": "orta"
- },
- {
   "id": "44304",
   "dersId": "hukuk",
   "konuId": "ceza",
@@ -4912,22 +4640,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "44331",
-  "dersId": "hukuk",
-  "konuId": "ceza",
-  "soru": "TCK m.143 kapsamında gece vakti işlenen hırsızlık suçunda ceza artırımının uygulanabilmesi için aşağıdakilerden hangisi zorunlu koşul değildir?",
-  "secenekler": [
-   "Suçun tamamlanmış olması; teşebbüs aşamasında kalan eylemlerde artırım hükmünün uygulanamayacağı.",
-   "Suçun TCK m.141 kapsamındaki temel hırsızlık ya da nitelikli hırsızlık biçiminde gerçekleşmesi.",
-   "Suçun gece vakti işlenmiş olması.",
-   "Gece vaktinin güneşin batmasından bir saat sonrası ile doğmasından bir saat öncesi arasındaki süreyi kapsaması.",
-   "Failin gece olduğunu bilerek ve bu koşuldan yararlanmak amacıyla hareket etmesi."
-  ],
-  "dogru": 0,
-  "aciklama": "TCK m.143 gece vakti koşulunu düzenlerken failin bu koşuldan yararlanma amacı taşıması şartını aramamakta; gece vaktinin tanımı m.6/e'de güneşin batmasından bir saat sonrasından doğmasından bir saat öncesine kadar olan süre olarak verilmektedir. Suçun tamamlanmış olması ise bu artırım için bir şart değildir: teşebbüs hâlinde dahi gece vakti nitelikli hâl olarak uygulanır. Dolayısıyla seçenek E zorunlu koşul değildir ve soru bu seçeneği cevap olarak göstermektedir.",
-  "zorluk": "zor"
- },
- {
   "id": "44333",
   "dersId": "hukuk",
   "konuId": "ceza",
@@ -4971,7 +4683,7 @@
    "Suçun, üst sınırı iki yıl veya daha az hapis cezasını gerektirmesi ya da adli para cezasına hükmedilecek suçlardan olması.",
    "Suçun basit veya nitelikli taksirle ya da olası kastla işlenmesinin seri muhakemeye engel teşkil etmemesi."
   ],
-  "dogru": 4,
+  "dogru": 2,
   "aciklama": "CMK m.250/1'e göre seri muhakeme usulü; yalnızca belirli katalog suçlar için uygulanabilir ve olası kast ile taksirle işlenen suçlar bu usulün dışında tutulmuştur. Kanun koyucu, kastın doğrudan bulunduğu ve belirli nitelikte suçlar için bu usulü öngörmüştür. Seçenek E'de yer alan 'olası kastla işlenmesinin seri muhakemeye engel teşkil etmemesi' ifadesi yanlıştır; zira olası kastla işlenen suçlar seri muhakeme usulüne tabi değildir.",
   "zorluk": "zor"
  },
@@ -5052,7 +4764,7 @@
    "Suçun maddi unsurlarında kaçınılabilir bir hataya düşen fail"
   ],
   "dogru": 0,
-  "aciklama": "TCK m. 30/4 uyarınca haksızlık bilincinin kaçınılmaz hata sonucu bulunmaması hâlinde fail cezalandırılmaz. Ancak yasak hatasının kaçınılabilir nitelikte olması durumunda ceza kaldırılmaz; yalnızca hâkim indirim yapabilir ya da cezasızlık yoluna gidebilir. Dolayısıyla kaçınılabilir yasak hatasında sorumluluk tamamen kalkmaz, yalnızca azaltılabilir. Diğer seçeneklerde ya kaçınılmazlık ya da maddi unsur hatası söz konusu olup bunların sorumluluğu tamamen ortadan kaldırması ya da taksirle cezalandırma yolunu açması gerekmektedir. Bu nedenle doğru yanıt B'dir.",
+  "aciklama": "TCK m. 30/4 uyarınca haksızlık bilincinin kaçınılmaz hata sonucu bulunmaması hâlinde fail cezalandırılmaz. Ancak yasak hatasının kaçınılabilir nitelikte olması durumunda ceza kaldırılmaz; yalnızca hâkim indirim yapabilir ya da cezasızlık yoluna gidebilir. Dolayısıyla kaçınılabilir yasak hatasında sorumluluk tamamen kalkmaz, yalnızca azaltılabilir. Diğer seçeneklerde ya kaçınılmazlık ya da maddi unsur hatası söz konusu olup bunların sorumluluğu tamamen ortadan kaldırması ya da taksirle cezalandırma yolunu açması gerekmektedir. Doğru cevap: «Haksızlık bilincini ortadan kaldıran kaçınılabilir bir yasak hatasına düşen fail».",
   "zorluk": "zor"
  },
  {
@@ -5344,22 +5056,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "44364",
-  "dersId": "hukuk",
-  "konuId": "medeni",
-  "soru": "Türk Medeni Kanunu'na göre aşağıdaki evlilik engellerinden hangisi mutlak bir evlenme engeli değil, nispi bir evlenme engelidir?",
-  "secenekler": [
-   "Evlat edinen ile evlatlık arasındaki evlilik yasağı",
-   "Erkek için boşanmadan sonra 300 gün geçmeden evlenme",
-   "Üstsoy-altsoy arasındaki evlilik yasağı",
-   "Kesin hısımlık",
-   "Mevcut evlilik"
-  ],
-  "dogru": 1,
-  "aciklama": "TMK m.132'ye göre evlilik sona ermişse kadın için 300 günlük bekleme süresi (iddet müddeti) öngörülmüştür; erkek için böyle bir süre yoktur. Mevcut evlilik (m.130), hısımlık yasağı (m.129) ve evlat edinen-evlatlık arasındaki yasak (m.129) mutlak engellerdir.",
-  "zorluk": "kolay"
- },
- {
   "id": "44365",
   "dersId": "hukuk",
   "konuId": "medeni",
@@ -5485,22 +5181,6 @@
   ],
   "dogru": 2,
   "aciklama": "Türk Medeni Kanunu boşanma sebeplerini özel ve genel sebepler olarak ikiye ayırmaktadır. Özel sebepler: zina (m.161), hayata kast, pek kötü veya onur kırıcı davranış (m.162), suç işleme ve haysiyetsiz hayat sürme (m.163), terk (m.164) ve akıl hastalığıdır (m.165). Evlilik birliğinin sarsılması ise genel boşanma sebebidir (m.166).",
-  "zorluk": "kolay"
- },
- {
-  "id": "44375",
-  "dersId": "hukuk",
-  "konuId": "medeni",
-  "soru": "Aşağıdakilerden hangisi Türk Medeni Kanunu'nda düzenlenen yasal mirasçılar arasında yer almaz?",
-  "secenekler": [
-   "Dedesi ve ninesi",
-   "Ana ve babası",
-   "Amcası ve halası",
-   "Eşi",
-   "Alt soyu"
-  ],
-  "dogru": 2,
-  "aciklama": "TMK'ya göre yasal mirasçılar; mirasbırakanın altsoyu (birinci zümre), ana-babası ve onların altsoyu (ikinci zümre), büyükana ve büyükbabası ile onların altsoyu (üçüncü zümre) ve sağ kalan eşidir. Amca ve hala üçüncü zümrenin altsoyu olarak değil, dördüncü zümrede yer alır; ancak TMK üçüncü zümrenin torunlarına kadar miras hakkı tanıdığından amca/hala bu sınırın dışındadır ve yasal mirasçı sayılmaz.",
   "zorluk": "kolay"
  },
  {
@@ -5643,7 +5323,7 @@
    "Yalnızca boşanma ile",
    "Ölüm, boşanma ve evliliğin iptali ile"
   ],
-  "dogru": 4,
+  "dogru": 1,
   "aciklama": "TMK m.182 vd. uyarınca evlilik; eşlerden birinin ölümü, boşanma ve evliliğin iptali (butlan kararı) ile sona erer. Gaiplik tek başına evliliği sona erdirmez; gaip kişinin eşi mahkemeden evliliğin feshine karar verilmesini isteyebilir, bu da aslında boşanma hükümleri çerçevesinde değerlendirilir. Bu nedenle temel sona erme sebepleri ölüm, boşanma ve iptaldir.",
   "zorluk": "kolay"
  },
@@ -5739,7 +5419,7 @@
    "Doğumla birlikte sağ olarak tamamıyla doğan çocukta",
    "Doğumun tescil edilmesiyle"
   ],
-  "dogru": 3,
+  "dogru": 0,
   "aciklama": "TMK m. 8/II uyarınca hak ehliyeti, sağ doğmak koşuluyla tamamıyla ana rahminden ayrılma anında başlar. Çocuğun sağ doğması yeterli olup ilerleyen süre içinde yaşaması aranmaz. Ancak sağ doğmadan ölü doğan çocuk hiçbir zaman hak ehliyeti kazanmış sayılmaz. Ana rahmine düşme, hak ehliyetini başlatmaz; yalnızca belirli koruma tedbirlerine zemin oluşturur.",
   "zorluk": "kolay"
  },
@@ -5885,22 +5565,6 @@
   ],
   "dogru": 3,
   "aciklama": "TMK m. 194 uyarınca eşlerden biri, diğerinin açık rızasını almadan aile konutunu devredemez, aile konutu üzerinde kira sözleşmesini sona erdiremez ya da aile konutunu sınırlı ayni hakla yükümlendiremez. Bu hüküm; kiracı olan eş için de geçerlidir. Konut üzerinde mülkiyet kimin adına kayıtlı olursa olsun diğer eşin rızası aranır.",
-  "zorluk": "kolay"
- },
- {
-  "id": "44401",
-  "dersId": "hukuk",
-  "konuId": "medeni",
-  "soru": "Türk Medeni Kanunu'na göre mirasın reddi hakkında aşağıdaki ifadelerden hangisi doğrudur?",
-  "secenekler": [
-   "Mirasın kısmen reddi mümkündür",
-   "Mirasın reddi, noter huzurunda düzenlenen resmî bir işlemle gerçekleştirilir ve tapu siciline tescil edilmesiyle tamamlanır",
-   "Mirasçılar mirası sözlü olarak reddedebilir",
-   "Mirasın reddi, mirasın açılmasından itibaren 3 ay içinde sulh hukuk mahkemesine bildirimle yapılır",
-   "Mirasın reddi için herhangi bir süre şartı öngörülmemiştir"
-  ],
-  "dogru": 3,
-  "aciklama": "TMK m. 609'a göre mirasın reddi, miras bırakanın yerleşim yeri sulh hukuk mahkemesine sözlü ya da yazılı beyanla yapılır ve mirasın açılmasından (miras bırakanın ölümünden) itibaren 3 ay içinde kullanılmalıdır. Bu süre hak düşürücü niteliktedir. Mirasın kısmen reddi ise mümkün değildir; red, mirası bütünüyle kapsar.",
   "zorluk": "kolay"
  },
  {
@@ -6156,7 +5820,7 @@
    "Küçüğün yerleşim yeri, velayet hakkına sahip ebeveyninin yerleşim yeridir."
   ],
   "dogru": 4,
-  "aciklama": "TMK m. 21 uyarınca küçüğün yerleşim yeri, ana ve babasının ortak yerleşim yeridir; ana ve babanın ortak yerleşim yeri yoksa çocuğun kendisiyle oturduğu ebeveyninin yerleşim yeridir. Bir kişinin aynı anda yalnızca bir yerleşim yeri olabilir (TMK m. 19/2). Doğru cevap D'dir.",
+  "aciklama": "TMK m. 21 uyarınca küçüğün yerleşim yeri, ana ve babasının ortak yerleşim yeridir; ana ve babanın ortak yerleşim yeri yoksa çocuğun kendisiyle oturduğu ebeveyninin yerleşim yeridir. Bir kişinin aynı anda yalnızca bir yerleşim yeri olabilir (TMK m. 19/2). Doğru cevap: «Küçüğün yerleşim yeri, velayet hakkına sahip ebeveyninin yerleşim yeridir».",
   "zorluk": "orta"
  },
  {
@@ -6172,7 +5836,7 @@
    "Korkutma nedeniyle açılan butlan davası, korkutmanın etkisinin ortadan kalkmasından itibaren üç ay içinde açılmalıdır."
   ],
   "dogru": 3,
-  "aciklama": "TMK m. 150'ye göre hata veya hile hâlinde dava hakkı, hata veya hilenin öğrenildiği; korkutmada ise korkutmanın etkisinin ortadan kalktığı tarihten başlayarak altı ay ve her hâlde evlenmenin üzerinden beş yıl geçmekle düşer. Korkutmada süre üç ay değil, altı aydır. Doğru cevap B'dir.",
+  "aciklama": "TMK m. 150'ye göre hata veya hile hâlinde dava hakkı, hata veya hilenin öğrenildiği; korkutmada ise korkutmanın etkisinin ortadan kalktığı tarihten başlayarak altı ay ve her hâlde evlenmenin üzerinden beş yıl geçmekle düşer. Korkutmada süre üç ay değil, altı aydır. Doğru cevap: «Hata veya hile nedeniyle açılan nispi butlan davası, hata veya hilenin öğrenilmesinden itibaren altı ay içinde açılmalıdır».",
   "zorluk": "orta"
  },
  {
@@ -6284,7 +5948,7 @@
    "İpotek hakkı, alacağın devriyle birlikte kendiliğinden alacağı devralan kişiye geçer."
   ],
   "dogru": 4,
-  "aciklama": "TMK m. 888'e göre ipotek, alacakla birlikte hak kazanana geçer. Yani alacak devredildiğinde ipotek de kendiliğinden yeni alacaklıya geçer, ayrıca bir işlem gerekmez. İrtifak hakları taşınır ve taşınmazlar üzerinde kurulabilir. Taşınmaz yükünde yeni malik eski malikle birlikte sorumlu olur. Birden fazla ipotekte öncelik sırası esas alınır, eşit sıralama kural değildir. Doğru cevap C'dir.",
+  "aciklama": "TMK m. 888'e göre ipotek, alacakla birlikte hak kazanana geçer. Yani alacak devredildiğinde ipotek de kendiliğinden yeni alacaklıya geçer, ayrıca bir işlem gerekmez. İrtifak hakları taşınır ve taşınmazlar üzerinde kurulabilir. Taşınmaz yükünde yeni malik eski malikle birlikte sorumlu olur. Birden fazla ipotekte öncelik sırası esas alınır, eşit sıralama kural değildir. Doğru cevap: «İpotek hakkı, alacağın devriyle birlikte kendiliğinden alacağı devralan kişiye geçer».",
   "zorluk": "orta"
  },
  {
@@ -6720,22 +6384,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "44463",
-  "dersId": "hukuk",
-  "konuId": "medeni",
-  "soru": "Türk Medeni Kanunu'nun 2. maddesi kapsamında dürüstlük kuralına aykırılığın yaptırımı ile hakkın kötüye kullanılması yasağına aykırılığın yaptırımı arasındaki temel fark aşağıdakilerden hangisinde doğru olarak ifade edilmiştir?",
-  "secenekler": [
-   "Her iki durum da ancak tarafların itirazı üzerine hâkim tarafından değerlendirilebilir; re'sen gözetim söz konusu değildir.",
-   "Dürüstlük kuralına aykırılık hakkın doğumunu engeller; hakkın kötüye kullanılması ise mevcut bir hakkın kullanımını hukuka aykırı kılar ve o kullanımdan doğan talepleri bertaraf eder.",
-   "Hakkın kötüye kullanılması yalnızca borçlar hukukunda uygulama alanı bulurken dürüstlük kuralı tüm özel hukuk ilişkilerine uygulanır.",
-   "Dürüstlük kuralına aykırılık hâlinde hak bütünüyle sona erer; hakkın kötüye kullanılması durumunda ise hak sahibi karşı tarafa tazminat ödemekle yükümlü tutulur ve hak varlığını korur.",
-   "Her ikisinde de hâkim re'sen harekete geçer; aradaki fark yalnızca ispat yüküne ilişkindir."
-  ],
-  "dogru": 1,
-  "aciklama": "TMK m.2/1 dürüstlük kuralını, m.2/2 ise hakkın kötüye kullanılması yasağını düzenler. Dürüstlük kuralı, hakların kullanılması ve borçların ifasında gözetilecek bir davranış standardıdır; bu kurala aykırı bir kullanım geçersiz kılınabilir. Hakkın kötüye kullanılmasında ise kişi teknik olarak var olan bir hakkını kullanmaktadır; ancak bu kullanım amacı dışına taştığı için hukuk düzeni onu korumaz, yani o kullanımdan doğan talep reddedilir. Hak ortadan kalkmaz; sadece o kullanıma bağlı sonuçlar doğmaz. Hâkim her iki ilkeyi re'sen uygular.",
-  "zorluk": "zor"
- },
- {
   "id": "44464",
   "dersId": "hukuk",
   "konuId": "medeni",
@@ -7004,7 +6652,7 @@
    "Genel mal ortaklığı rejimi"
   ],
   "dogru": 0,
-  "aciklama": "TMK m.231 vd. hükümlerine göre edinilmiş mallara katılma rejiminde, evlilik sona erdiğinde her eş diğerinin edinilmiş mallarının değerindeki artışın yarısı üzerinde katılma alacağı hakkı kazanır. Eşlerden birinin ölümü halinde mal rejimi de sona erer ve sağ kalan eş önce mal rejiminin tasfiyesinde katılma alacağını alır, ardından kalan tereke üzerinden yasal mirasçı sıfatıyla miras payını elde eder. Mal ayrılığı rejiminde böyle bir katılma alacağı söz konusu değildir; mal ortaklığında ise tasfiye farklı kurallarla gerçekleşir. Doğru cevap C'dir.",
+  "aciklama": "TMK m.231 vd. hükümlerine göre edinilmiş mallara katılma rejiminde, evlilik sona erdiğinde her eş diğerinin edinilmiş mallarının değerindeki artışın yarısı üzerinde katılma alacağı hakkı kazanır. Eşlerden birinin ölümü halinde mal rejimi de sona erer ve sağ kalan eş önce mal rejiminin tasfiyesinde katılma alacağını alır, ardından kalan tereke üzerinden yasal mirasçı sıfatıyla miras payını elde eder. Mal ayrılığı rejiminde böyle bir katılma alacağı söz konusu değildir; mal ortaklığında ise tasfiye farklı kurallarla gerçekleşir. Doğru cevap: «Edinilmiş mallara katılma rejimi».",
   "zorluk": "zor"
  },
  {
@@ -7472,22 +7120,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "44516",
-  "dersId": "hukuk",
-  "konuId": "borclar",
-  "soru": "Aşağıdakilerden hangisi kefalet sözleşmesine ilişkin doğru bir bilgidir?",
-  "secenekler": [
-   "Kefalet sözleşmesi yazılı şekilde yapılmalıdır ancak noter onayı şart değildir",
-   "Kefalet sözleşmesi herhangi bir şekle tabi değildir",
-   "Kefalet sözleşmesinde kefilin kefil olduğunu sözlü olarak beyan etmesi yeterlidir",
-   "Kefalet sözleşmesinde alacaklının imzası zorunlu değildir",
-   "Kefalet sözleşmesi yazılı şekilde yapılmalı ve kefilin sorumlu olacağı azami miktar belirtilmelidir"
-  ],
-  "dogru": 4,
-  "aciklama": "TBK m. 583'e göre kefalet sözleşmesi, kefilin sorumlu olacağı azami miktar ve kefalet tarihi açıkça yazılmak suretiyle yazılı şekilde yapılmalıdır. Eşin kefaleti için ise ayrıca diğer eşin rızası gerekir. Şekle aykırılık sözleşmenin geçersizliğine yol açar.",
-  "zorluk": "kolay"
- },
- {
   "id": "44517",
   "dersId": "hukuk",
   "konuId": "borclar",
@@ -7595,7 +7227,7 @@
    "Borcun doğduğu yerdeki para birimi",
    "Borcun ifa edileceği yerdeki para birimi"
   ],
-  "dogru": 1,
+  "dogru": 0,
   "aciklama": "Türk Borçlar Kanunu'na göre para borçlarında taraflar hangi para biriminde ödeme yapılacağını serbestçe kararlaştırabilir. Taraflarca kararlaştırılan para birimi esastır.",
   "zorluk": "kolay"
  },
@@ -7888,22 +7520,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "44542",
-  "dersId": "hukuk",
-  "konuId": "borclar",
-  "soru": "Bir taşınmazın satışına ilişkin ön sözleşme, resmi şekil (noterde düzenleme) yerine adi yazılı şekilde yapılmıştır. Bu sözleşmenin hukuki niteliği ve sonuçlarına ilişkin aşağıdakilerden hangisi doğrudur?",
-  "secenekler": [
-   "Sözleşme iptal edilebilir niteliktedir; şekle aykırılığı ileri süren taraf tazminat ödemekten kurtulamaz.",
-   "Sözleşme geçersizdir; ancak ifa edilmişse taraflar sebepsiz zenginleşme hükümleri çerçevesinde geri alma hakkına sahiptir.",
-   "Sözleşme geçersiz olsa da taraflar dürüstlük kuralı gereği birbirinden tazminat talep edemez.",
-   "Sözleşme geçerlidir; taraflar birbirinden ifa talebinde bulunabilir.",
-   "Sözleşme kesin hükümsüzdür; taraflardan biri şekle aykırılığı ileri sürmese bile hâkim bunu resen gözetir."
-  ],
-  "dogru": 4,
-  "aciklama": "TBK m. 237 ve TMK m. 706 ile Tapu Kanunu m. 26 uyarınca taşınmaz satışına ilişkin ön sözleşmeler de (vaatler) resmi şekle, yani noter düzenleme şekline tabidir. Adi yazılı şekilde yapılan böyle bir sözleşme TBK m. 12 gereği kesin hükümsüzdür (butlan). Butlan, hâkim tarafından resen dikkate alınır; tarafların bunu ileri sürüp sürmemesi önemli değildir. Geçersiz sözleşme ifa edilmişse ise TBK m. 77 vd. kapsamında sebepsiz zenginleşme hükümleri uygulanır.",
-  "zorluk": "orta"
- },
- {
   "id": "44543",
   "dersId": "hukuk",
   "konuId": "borclar",
@@ -8091,7 +7707,7 @@
    "Taraflarca belirlenmiş kesin vade olmaksızın ifa yerinin taraflarca kararlaştırıldığı hallerde",
    "Borcun kaynağının haksız fiil olduğu durumlarda"
   ],
-  "dogru": 1,
+  "dogru": 4,
   "aciklama": "TBK m. 117/2 uyarınca borçlunun temerrüdü kural olarak ihtara bağlıdır. Ancak bazı hallerde ihtar gerekmez: Taraflarca kesin vade belirlenmiş olması (dies certus), borcun haksız fiilden doğması ve borçlunun borcunu ifa etmeyeceğini önceden bildirmesi (anticipatory breach) bu hallerdendir. Seçenekte B, borçlunun önceden açıkça ifa etmeyeceğini bildirmesi durumunu içermekte olup bu halde ihtar anlamsız hale gelir ve temerrüt için ayrıca ihtara gerek kalmaz. Haksız fiil ayrı bir seçenek olarak sunulmuştur (“Taraflarca belirlenmiş kesin vade olmaksızın ifa yerinin taraflarca kararlaştırıldığı…” şıkkı) ve bu da doğru olmakla birlikte, soruda en teknik kavramsal uygulama “Borçlunun, borcun ifasının mümkün olmadığını önceden açıkça bildirdiği durumlarda” şıkkıdır.",
   "zorluk": "orta"
  },
@@ -8363,7 +7979,7 @@
    "Orantısız bir külfet doğurmadıkça alıcının ayıpsız misliyle değişim talebini satıcı reddedebilir.",
    "Alıcı seçimlik haklarından birini kullandıktan sonra koşulların değişmesi durumunda dahi başka bir seçimlik hakka geçemez."
   ],
-  "dogru": 1,
+  "dogru": 0,
   "aciklama": "TBK m. 227 uyarınca ayıplı ifada alıcının sözleşmeden dönme hakkı, satıcının kusurlu olup olmamasından bağımsız olarak kullanılabilecek bir garanti hakkıdır. Seçimlik hakların kullanımı için satıcının kusurlu olması aranmaz; bu husus yalnızca tazminat talebi açısından önem taşır. Dolayısıyla “Alıcı, ayıplı malı iade ederek sözleşmeden dönme hakkını her hâlükârda kullanabilir…” şıkkı doğrudur. “Alıcı, sözleşmeden döndüğünde semen ile birlikte yasal faiz talep edebilir; ancak munzam…” şıkkı hatalıdır çünkü seçimlik hakkın kullanılması sonuçsuz kaldığında alıcı diğer haklarına başvurabilir. “Alıcı, ayıp nedeniyle uğradığı zararı yalnızca satıcının kusurlu olması hâlinde talep…” şıkkı ise ayıpsız misliyle değişim talebini değil onarım talebini düzenleyen TBK m. 227/II ile çelişmektedir.",
   "zorluk": "zor"
  },
@@ -8944,22 +8560,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "44613",
-  "dersId": "hukuk",
-  "konuId": "i_s_hukuku",
-  "soru": "4857 sayılı İş Kanunu'na göre, bir işyerinde çalışan işçi sayısı kaça ulaştığında işveren, çalışma koşullarına ilişkin yazılı iş sözleşmesi yapmak zorunda değildir?",
-  "secenekler": [
-   "Belirli süreli iş sözleşmelerinde",
-   "Süresi bir yıl ve daha fazla olan iş sözleşmelerinde",
-   "Otuz günden fazla süreli sözleşmelerde",
-   "Kısmi süreli iş sözleşmelerinde",
-   "Süresi bir ayı geçmeyen belirli süreli iş sözleşmelerinde"
-  ],
-  "dogru": 4,
-  "aciklama": "4857 sayılı İş Kanunu'nun 8. maddesine göre, süresi bir yıl ve daha fazla olan iş sözleşmelerinin yazılı şekilde yapılması zorunludur. Ancak süresi bir ayı geçmeyen belirli süreli iş sözleşmeleri için yazılı şekil şartı aranmaz.",
-  "zorluk": "kolay"
- },
- {
   "id": "44614",
   "dersId": "hukuk",
   "konuId": "i_s_hukuku",
@@ -9325,22 +8925,6 @@
   ],
   "dogru": 4,
   "aciklama": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu'nun 22. maddesi uyarınca, elli ve daha fazla çalışanın bulunduğu ve altı aydan fazla süren sürekli işlerin yapıldığı işyerlerinde işveren, iş sağlığı ve güvenliği kurulu oluşturmakla yükümlüdür.",
-  "zorluk": "kolay"
- },
- {
-  "id": "44637",
-  "dersId": "hukuk",
-  "konuId": "i_s_hukuku",
-  "soru": "4857 sayılı İş Kanunu'na göre işveren, fesih bildirimini kaç iş günü içinde yazılı olarak işçiye bildirmekle yükümlüdür?",
-  "secenekler": [
-   "Derhal yazılı olarak bildirmelidir",
-   "Bildirim süresine bağlıdır, yazılılık zorunlu değildir",
-   "3 iş günü içinde",
-   "5 iş günü içinde",
-   "7 iş günü içinde"
-  ],
-  "dogru": 0,
-  "aciklama": "4857 sayılı İş Kanunu'nun 19. maddesi uyarınca işveren, fesih bildirimini yazılı olarak yapmak ve fesih sebebini açık ve kesin bir şekilde belirtmek zorundadır. Bildirim derhal (fesih kararıyla birlikte) yapılmalıdır; ayrıca gün sınırlaması yoktur, yazılılık esastır.",
   "zorluk": "kolay"
  },
  {
@@ -9888,22 +9472,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "44681",
-  "dersId": "hukuk",
-  "konuId": "i_s_hukuku",
-  "soru": "4857 sayılı İş Kanunu'na göre işçi, hangi koşulların bir arada bulunması hâlinde fazla çalışma yapmaktan kaçınabilir?",
-  "secenekler": [
-   "Fazla çalışma için önceden onay vermemiş olması hâlinde",
-   "Sendikanın fazla çalışmaya karşı çıkması hâlinde",
-   "Fazla çalışma karşılığının ödenmemesi hâlinde",
-   "Sağlık raporu alarak fazla çalışmaya elverişsiz olduğunu belgelemesi hâlinde",
-   "Fazla çalışmanın yazılı olarak bildirilmemiş olması hâlinde"
-  ],
-  "dogru": 3,
-  "aciklama": "4857 sayılı İş Kanunu'nun 41. maddesi uyarınca fazla çalışma, işçinin onayına bağlıdır. Ancak asıl soru bu onayın verilmemesine rağmen kaçınma hakkını değil, hangi hâlde kaçınılabileceğini sormaktadır. Sağlık durumu nedeniyle fazla çalışmaya uygun olmadığını belgeleyen işçi, fazla çalışma yapmaktan kaçınabilir. Fazla çalışma onayı iş sözleşmesinde veya ayrı bir muvafakat belgesiyle alınabilir; onayın olmadığını ispat etmek ayrı bir meseledir. En nesnel ve kanun sistematiğine en uygun kaçınma gerekçesi sağlık durumunun yetersizliği olup bu seçenek en güvenli hukuki zemine sahiptir.",
-  "zorluk": "orta"
- },
- {
   "id": "44682",
   "dersId": "hukuk",
   "konuId": "i_s_hukuku",
@@ -9917,22 +9485,6 @@
   ],
   "dogru": 4,
   "aciklama": "4857 sayılı İş Kanunu'nun 5. maddesi uyarınca, işverenin eşit davranma ilkesine aykırı davranması hâlinde işçi, dört aya kadar ücreti tutarında tazminat ile bu aykırılık nedeniyle yoksun bırakıldığı haklarını talep edebilir. Bu tazminat türü 'ayrımcılık tazminatı' olarak anılmaktadır. Söz konusu tazminat hem maddi bir yaptırım hem de caydırıcı bir işlev üstlenmektedir. Madde, haklı fesih hakkı tanımamakta; iş güvencesi kapsamındaki işçiler için ayrı koşullar uygulanmaktadır.",
-  "zorluk": "orta"
- },
- {
-  "id": "44683",
-  "dersId": "hukuk",
-  "konuId": "i_s_hukuku",
-  "soru": "Aşağıdaki çalışma süresi düzenlemelerinden hangisi 4857 sayılı İş Kanunu'nda öngörülen denkleştirme uygulaması kapsamında değerlendirilemez?",
-  "secenekler": [
-   "Toplu iş sözleşmesiyle denkleştirme süresinin 4 aya çıkarılması",
-   "Günlük çalışma süresinin 11 saati aşmaması koşuluyla haftalık ortalama çalışma süresinin 45 saat olması",
-   "İşçinin herhangi bir haftada 11 saati aşan çalışma yapması",
-   "Denkleştirme süresinin 2 ayı aşmaması",
-   "Bazı haftalarda 45 saatin altında, bazı haftalarda üstünde çalışma yapılması"
-  ],
-  "dogru": 2,
-  "aciklama": "4857 sayılı İş Kanunu'nun 63. maddesi uyarınca, tarafların anlaşması koşuluyla haftalık normal çalışma süresi işyerlerinde haftalar itibarıyla farklı biçimde dağıtılabilir (denkleştirme). Bu uygulamada günlük çalışma süresi 11 saati aşamaz ve denkleştirme 2 aylık süre içinde tamamlanır (toplu iş sözleşmesiyle 4 aya uzatılabilir). Herhangi bir haftada 11 saatin aşılması, denkleştirme uygulamasının çerçevesinin dışına çıkar; zira bu süre hem günlük hem de denkleştirmeye ilişkin mutlak üst sınırdır ve aşılması hâlinde fazla çalışma hükümleri devreye girer.",
   "zorluk": "orta"
  },
  {
@@ -10061,22 +9613,6 @@
   ],
   "dogru": 3,
   "aciklama": "4857 sayılı Kanun'a göre yıllık ücretli izin hakkından vazgeçilemez. Bu nedenle çalışma süresince izin yerine ücret ödenmesine dair anlaşma geçersizdir. \"İş sözleşmesinin işverence feshi hâlinde kullandırılmayan izinler için ücret ödeme yükümlülüğü doğmaz...\" ifadesi yanlıştır. Fesih hangi nedenle olursa olsun kullanılmayan izin ücreti ödenir. \"Yıllık iznin en az onda biri işçinin tercih ettiği tarihte kesintisiz kullandırılmalıdır.\" ifadesi de yanlıştır. Kanun, izin bölünürse bir bölümün on günden az olmamasını arar. İşçinin tercih ettiği tarih şartı yoktur. Doğru cevap \"İşçi, yıllık izin hakkından feragat edemez; izin yerine ücret ödenmesi anlaşması hükümsüzdür.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "44697",
-  "dersId": "hukuk",
-  "konuId": "i_s_hukuku",
-  "soru": "Türk iş hukukunda iş sözleşmesinin askıya alınması (süspansiyon) kurumuna ilişkin aşağıdakilerden hangisi yanlıştır?",
-  "secenekler": [
-   "Askı döneminde işveren iş sözleşmesini feshedemez; bu dönemde yapılan fesih bildiriminin hükmü yoktur.",
-   "Hastalık veya kaza nedeniyle çalışılamayan süre, ihbar sürelerini aşmadıkça iş sözleşmesinin askıya alınmasını sağlar.",
-   "Tutukluluk ve gözaltı hâllerinde iş sözleşmesi kendiliğinden askıya alınır; bu sürede işçiye ücret ödenmez.",
-   "Askerlik görevi nedeniyle işten ayrılan işçinin iş sözleşmesi askıya alınır ve askerlik sonrası işe iade hakkı mevcuttur.",
-   "Grev ve lokavt süreçlerinde iş sözleşmeleri kendiliğinden askıya alınır."
-  ],
-  "dogru": 0,
-  "aciklama": "Askı döneminde işverenin iş sözleşmesini feshedemeyeceği genel bir kural değildir; aksine askı süresini aşan durumlarda (örneğin hastalık veya tutukluluğun ihbar sürelerini aşması) işveren sözleşmeyi feshedebilir. Nitekim 4857 sayılı Kanun'un 25/I-b maddesi, hastalık veya kazadan kaynaklanan devamsızlığın ihbar sürelerini altı hafta aşması hâlinde işverene haklı fesih hakkı tanımaktadır. Dolayısıyla 'askı döneminde yapılan fesih bildirimi kesinlikle hükümsüzdür' şeklindeki mutlak ifade yanlıştır. Diğer seçenekler Kanun'un ilgili maddeleriyle ve öğretideki genel kabulle örtüşmektedir.",
   "zorluk": "zor"
  },
  {
@@ -10317,22 +9853,6 @@
   ],
   "dogru": 3,
   "aciklama": "4857 sayılı Kanun'un 26. maddesine göre işveren, fiili öğrendiği günden itibaren altı iş günü içinde fesih hakkını kullanmak zorundadır. Her hâlde fiilin üzerinden bir yıl geçince fesih hakkı düşer. Ancak işçinin işverene karşı güveni kötüye kullanarak kendisine menfaat sağlaması hâlinde bu bir yıllık süre uygulanmaz. Bu nedenle \"İşçinin işverenin güvenini kötüye kullanarak zimmetine para geçirmesi ve bu durumun ceza yargılamasına konu olması\" durumu farklı bir rejime tabidir. \"İşçinin işyerine sarhoş gelmesi\" ve \"İşçinin işverene ait bir sırrı ifşa etmesi\" gibi hâllerde ise genel süre kuralları aynen uygulanır. Doğru cevap \"İşçinin işverenin güvenini kötüye kullanarak zimmetine para geçirmesi\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "44717",
-  "dersId": "hukuk",
-  "konuId": "i_s_hukuku",
-  "soru": "4857 sayılı İş Kanunu'na göre, işveren tarafından işçiye yazılı olarak yapılan fesih bildiriminde fesih sebebi açıkça belirtilmemiş olsa dahi feshin geçerli sayılabileceği istisnai durumlar arasında hangisi yer almaktadır?",
-  "secenekler": [
-   "İşçinin iş sözleşmesini bizzat feshettikten sonra bundan dönmesi nedeniyle işverenin tesis ettiği karşı fesihler",
-   "Asgari ücretle çalışan işçilerin feshinde iş mahkemesinin takdir yetkisini kullandığı haller",
-   "İşçinin yazılı talebi üzerine işverenin yazılı olarak sebebi bildirdiği haller",
-   "İşçinin sendikal faaliyeti nedeniyle yapılan fesihlerde mahkemenin re'sen araştırma yaptığı haller",
-   "Toplu işçi çıkarma kapsamında kalan ve Çalışma ve İş Kurumu'na bildirilen fesihlerde idari onay alınan haller"
-  ],
-  "dogru": 2,
-  "aciklama": "4857 sayılı İş Kanunu'nun 19. maddesi uyarınca fesih bildiriminin yazılı yapılması ve fesih sebebinin açık ve kesin bir şekilde belirtilmesi zorunludur. Ancak aynı madde, işçiye fesih sebebi bildirilmemiş olsa bile işçinin yazılı istemi üzerine işverenin fesih sebebini bir hafta içinde yazılı olarak bildirmek zorunda olduğunu düzenlemektedir. Yargıtay içtihadında ise sebep bildirilmemiş fesihlerin kural olarak geçersiz sayıldığı, ancak işçinin açacağı fesih bildirimi sebebini öğrenme talebini harekete geçirmediği durumlarda mahkemelerin dava sürecinde ortaya çıkan nedenleri de dikkate aldığı görülmektedir. Diğer seçeneklerde sayılan haller kanunda bu istisnaya karşılık gelmemektedir.",
   "zorluk": "zor"
  },
  {

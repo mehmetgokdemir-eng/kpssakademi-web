@@ -25,7 +25,8 @@
       "Sorumluluk devri yalnızca çizgi (line) yöneticilerde mümkündür."
      ],
      "dogru": 1,
-     "aciklama": "Yönetim teorisinde 'sorumluluk devredilemez' ilkesi temeldir. Bir yönetici yetkisini astına devredebilir; ancak o yetkiyle ilgili işin sonucundan duyduğu nihai sorumluluk ortadan kalkmaz. Ast da üstlendiği yetkinin gereğini yerine getirmekle sorumlu hale gelir; fakat bu, üstün sorumluluğunu sona erdirmez. Bu ilke Fayol'un klasik yönetim anlayışında da vurgulanır."
+     "aciklama": "Yönetim teorisinde 'sorumluluk devredilemez' ilkesi temeldir. Bir yönetici yetkisini astına devredebilir; ancak o yetkiyle ilgili işin sonucundan duyduğu nihai sorumluluk ortadan kalkmaz. Ast da üstlendiği yetkinin gereğini yerine getirmekle sorumlu hale gelir; fakat bu, üstün sorumluluğunu sona erdirmez. Bu ilke Fayol'un klasik yönetim anlayışında da vurgulanır.",
+     "zorluk": "orta"
     },
     {
      "id": "52459",
@@ -56,7 +57,7 @@
       "Bir işletmenin etkinlik oranı %100'ü aşabilir, ancak kapasite kullanım oranı hiçbir koşulda %100'ü geçemez."
      ],
      "dogru": 4,
-     "aciklama": "D seçeneği yanlıştır: Kapasite kullanım oranı = Fiili çıktı / Tasarım kapasitesi formülüyle hesaplanır ve teorik olarak %100'ü aşabilir (örneğin fazla mesai veya ek vardiyayla tasarım kapasitesinin üzerinde üretim yapılabilir). Etkinlik oranı = Fiili çıktı / Etkin kapasite olup bu da %100'ü aşabilir çünkü etkin kapasite zaten tasarım kapasitesinden düşüktür. İfade 'kapasite kullanım oranı hiçbir koşulda %100'ü geçemez' diyerek hatalı bir kısıt koymaktadır; kısa dönemde aşılabilir. Diğer şıklar tanımsal olarak doğrudur.",
+     "aciklama": "Kapasite kullanım oranı fiili çıktının tasarım kapasitesine, etkinlik ise fiili çıktının etkin kapasiteye bölünmesiyle bulunur. Etkin kapasite tasarım kapasitesinden düşük olduğundan fiili çıktı etkin kapasiteyi aşabilir ve etkinlik %100'ün üzerine çıkabilir. Ancak fiili çıktı tasarım kapasitesini de aşabilir (örneğin fazla mesai, ek vardiya veya ideal koşulların ötesinde çalışma ile); bu durumda kapasite kullanım oranı da %100'ü geçebilir. Dolayısıyla kullanım oranının hiçbir koşulda %100'ü geçemeyeceği iddiası yanlıştır. Diğer seçenekler kavramları doğru tanımlar. Doğru cevap \"Bir işletmenin etkinlik oranı %100'ü aşabilir, ancak kapasite kullanım oranı hiçbir koşulda %100'ü geçemez.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -71,8 +72,8 @@
       "Hisse %15 değerinin altında işlem görmektedir",
       "Hisse %20 değerinin üzerinde işlem görmektedir"
      ],
-     "dogru": 1,
-     "aciklama": "Hisse başına net kâr (EPS) = 40.000.000 / 3.500.000 = 11,43 TL. Temettü (DPS) = 11,43 × 0,50 = 5,71 TL. Gordon Modeli: P = D₁ / (Ke - g). Özkaynak maliyeti (Ke): WACC = (D/V)×Kd×(1-t) + (E/V)×Ke formülüyle bulunabilir ama burada Ke doğrudan hesaplanamıyor. Alternatif: Ke = WACC formülüyle değil, CAPM veya verilen bilgilerle. Basitleştirilmiş yaklaşımda Ke ≈ WACC (saf özkaynak senaryosu) değil; ancak soru bağlamında Ke = net kâr/özkaynak piyasa değeri = 40/350 = %11,43 olarak alınır. D₁ = DPS × (1+g) = 5,71 × 1,04 = 5,94 TL. Teorik fiyat = 5,94 / (0,1143 - 0,04) = 5,94 / 0,0743 = 79,95 TL ≈ 80 TL. Mevcut piyasa fiyatı = 350.000.000 / 3.500.000 = 100 TL. Piyasa fiyatı (100 TL) teorik değerin (80 TL) %25 üzerinde. Ancak en yakın şık D) %10 üzerinde değil, E) %20 üzerinde de değil tam olarak. (100-80)/80 = %25 üzerinde. Şık seçiminde E) en yakın olmakla birlikte, soru iskonto oranı olarak WACC=%10 kullanıldığında: P = 5,94/(0,10-0,04) = 5,94/0,06 = 99 TL. Mevcut fiyat = 100 TL. Fark = (100-99)/99 ≈ %1, yani hisse yaklaşık adil değerinde. Ama bu da C şıkkı eder. Doğru kurgu: Ke = %10 (WACC), D₁ = 5,94 TL, teorik fiyat = 5,94/0,06 = 99 TL, piyasa fiyatı = 100 TL → %1 pahalı → en yakın C) adil değerde, ancak sorunun beklenen cevabı D) %10 üzerinde: Bu, D₀ = 5,71 TL kullanılması durumunda P = 5,71/0,06 = 95,17 TL; piyasa 100 TL → (100-95,17)/95,17 ≈ %5 pahalı. Standart sınav yaklaşımında D₀ kullanıldığında fark yaklaşık %5 olup en yakın şık D) %10 üzerindedir. Doğru cevap D'dir.",
+     "dogru": 2,
+     "aciklama": "D1=(40×%50/3,5)×1,04=5,94; 5,94/0,06=99,05 TL, piyasa fiyatı 350/3,5=100 TL, yani hisse pratikte adil değerinde. Doğru cevap Hisse adil değerinde işlem görmektedir şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -83,12 +84,13 @@
      "secenekler": [
       "Fiyatı maliyetin üzerine sabit bir kâr marjı eklenerek belirlemelidir.",
       "Rakip fiyatlarının altında kalınarak pazar payı artırılmalıdır.",
-      "Penetrasyon fiyatlandırması her koşulda esnek talepli pazarlarda daha yüksek kâr sağlar.",
+      "Penetrasyon fiyatlandırması, esnek talepli pazarlarda her koşulda daha yüksek kâr sağlar. Bu strateji talep esnekliği ölçülmeden de güvenle uygulanabilir ve gelir artışı garanti eder.",
       "Fiyat duyarlılığı yüksek pazarlarda skimming (kaymak alma) stratejisi uygulanmalıdır.",
       "Fiyat artışının gelir kaybına yol açmaması için esnek talep koşullarında düşük fiyat politikası benimsenmeli, ancak toplam gelir etkisi analiz edilmelidir."
      ],
      "dogru": 4,
-     "aciklama": "Talep fiyat esnekliği yüksek (esnek talep) olan pazarlarda fiyat artışı toplam geliri düşürürken fiyat indirimi toplam geliri artırabilir. Ancak bu kararın kesin doğru olabilmesi için toplam gelir etkisinin (fiyat × miktar değişimi) analiz edilmesi gerekir. Skimming stratejisi esnek olmayan (inelastik) talep koşullarında uygulanır; bu nedenle E seçeneği yanlıştır. D seçeneği ise abartılı ve koşulsuz bir genelleme içerdiğinden yanıltıcıdır."
+     "aciklama": "Fiyat duyarlılığının yüksek olması talebin esnek olduğu anlamına gelir. Esnek talepte fiyat artışı, talep edilen miktarı orantıdan fazla düşürür ve toplam geliri azaltır. Bu yüzden düşük fiyat politikası uygundur, ancak kararın toplam gelir ve kâr etkisi analiz edilerek verilmesi gerekir. Bu ilkeyi hem esneklik hem de gelir analiziyle birlikte veren tek seçenek bankadaki cevaptır; ifadesi biraz dolambaçlı olsa da anlamı doğrudur. \"Rakip fiyatlarının altında kalınarak pazar payı artırılmalıdır.\" seçeneği bir taktik önerir, fakat esneklik ilkesine ve gelir analizine dayanmaz. \"Fiyat duyarlılığı yüksek pazarlarda skimming (kaymak alma) stratejisi uygulanmalıdır.\" seçeneği ise yanlıştır, çünkü kaymak alma stratejisi düşük fiyat duyarlılığında işe yarar. Doğru cevap \"Fiyat artışının gelir kaybına yol açmaması için esnek talep koşullarında düşük fiyat politikası benimsenmeli, ancak toplam gelir etkisi analiz edilmelidir.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "52011",
@@ -115,11 +117,11 @@
       "Maaş sıkıştırması (salary compression) yaşandığında; kırmızı dairedekiler için ani kesinti, yeşil dairedekiler için hızlı artış yapılmalıdır",
       "Piyasa ücret araştırması sonucunda bazı pozisyonların ücret aralığının üstünde, bazılarının altında kaldığı tespit edildiğinde; kırmızı dairedekiler için maaş dondurma ve doğal düzelme politikası, yeşil dairedekiler için yapılandırılmış yakalama artışları uygulanmalıdır",
       "İşgören devir hızı yüksek olduğunda; kırmızı ve yeşil daire ayrımı gözetilmeksizin piyasanın %90. persentilinde ücret ödenmesine geçilmelidir",
-      "Performans değerlendirme döneminde; kırmızı daire çalışanlara sıfır zam, yeşil daire çalışanlara çift zam yapılarak bir dönemde eşitlik sağlanmalıdır",
+      "Performans değerlendirme döneminde; kırmızı daire çalışanlara sıfır zam, yeşil daire çalışanlara ise çift zam yapılarak tek bir dönemde eşitlik sağlanmalı ve ücret aralıkları yeniden tanımlanmalıdır Bu yaklaşım sayesinde ücret yapısı tek seferde piyasa ortalamasına oturtulmuş olur ve aralık dışı pozisyon kalmaz",
       "Yeni bir ücret skalası kurulduğunda; her iki gruptan çalışanlar da yeni skalanın orta noktasına çekilmelidir"
      ],
      "dogru": 1,
-     "aciklama": "Kırmızı daire: Çalışanın mevcut ücreti, pozisyonu için belirlenen ücret aralığının maksimumunu aşmaktadır. Doğru yaklaşım maaşı kesmek değil (motivasyon kaybı ve hukuki riskler), doğal düzelme (natural attrition) beklemek veya maaş dondurmaktır. Yeşil daire: Çalışanın ücreti aralığın minimumunun altındadır. Yapılandırılmış yakalama artışları (catch-up increases) ile aralığa çekilmelidir. A şıkkında ani kesinti önerisi hem motivasyonu hem de hukuki tutarlılığı bozar. C ve D ücret yönetimi ilkelerine aykırıdır. E stratejik olmayan ve maliyeti göz ardı eden bir yaklaşımdır.",
+     "aciklama": "Kırmızı daire, ücreti kendi ücret aralığının üst sınırını aşan pozisyonları, yeşil daire ise aralığın altında kalan pozisyonları ifade eder. Her ikisiyle aynı anda karşılaşmak için bir piyasa ücret araştırmasıyla ücret yapısının gözden geçirilmesi gerekir. Doğru yaklaşım, kırmızı daireli çalışanların maaşlarını düşürmeden dondurmak ve enflasyon ile zamların aralığa yetişmesini beklemek, yeşil daireli çalışanlar için ise kademeli yakalama artışları yapmaktır. \"Maaş sıkıştırması yaşandığında...\" seçeneğindeki ani kesinti hukuki ve motivasyon sorunları yaratır. \"Performans değerlendirme döneminde; kırmızı daire çalışanlara sıfır zam, yeşil daire çalışanlara ise çift zam...\" yaklaşımı ise tek dönemde yapılan sert bir düzeltmedir ve gerçekçi değildir. Doğru cevap \"Piyasa ücret araştırması sonucunda bazı pozisyonların ücret aralığının üstünde...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -135,7 +137,8 @@
       "Büyük sermaye yatırımları gerektiren köklü değişiklikler önceliklidir."
      ],
      "dogru": 4,
-     "aciklama": "Kaizen felsefesinin özü, büyük yatırım gerektirmeyen küçük, adım adım ve sürekli iyileştirmelerdir. Büyük sermaye gerektiren ani ve köklü değişiklikler Kaizen'in değil, yeniden yapılanma (reengineering) ya da inovasyon anlayışının özelliğidir. Kaizen, çalışanların günlük süreçlerde öneriler geliştirerek aktif katılımını ve israfın azaltılmasını hedefler."
+     "aciklama": "Kaizen felsefesinin özü, büyük yatırım gerektirmeyen küçük, adım adım ve sürekli iyileştirmelerdir. Büyük sermaye gerektiren ani ve köklü değişiklikler Kaizen'in değil, yeniden yapılanma (reengineering) ya da inovasyon anlayışının özelliğidir. Kaizen, çalışanların günlük süreçlerde öneriler geliştirerek aktif katılımını ve israfın azaltılmasını hedefler.",
+     "zorluk": "orta"
     },
     {
      "id": "52426",
@@ -150,7 +153,7 @@
       "Delta ≈ 0,50; Theta negatif"
      ],
      "dogru": 2,
-     "aciklama": "Black-Scholes'te alım opsiyonu Delta = N(d₁). d₁ ≈ 0,6374 için N(0,6374) ≈ N(0,64) ≈ 0,7389 ≈ 0,74. Bu nedenle Delta ≈ 0,74'tür. Theta (zaman değerinin erimesi) alım opsiyonları için her zaman negatiftir; çünkü vakit geçtikçe ve diğer her şey sabitken opsiyonun zaman değeri azalır. Satım opsiyonları için Theta zaman zaman pozitif olabilir ancak alım opsiyonları için Theta daima negatiftir. Doğru cevap B'dir.",
+     "aciklama": "Black-Scholes'te alım opsiyonu Delta = N(d₁). d₁ ≈ 0,6374 için N(0,6374) ≈ N(0,64) ≈ 0,7389 ≈ 0,74. Bu nedenle Delta ≈ 0,74'tür. Theta (zaman değerinin erimesi) alım opsiyonları için her zaman negatiftir; çünkü vakit geçtikçe ve diğer her şey sabitken opsiyonun zaman değeri azalır. Satım opsiyonları için Theta zaman zaman pozitif olabilir ancak alım opsiyonları için Theta daima negatiftir. Doğru cevap: «Delta ≈ 0,74; Theta negatif».",
      "zorluk": "zor"
     },
     {
@@ -166,7 +169,7 @@
       "Ücretsiz numune dağıtımı, deneylenebilirlik (trialability) faktörünü güçlendirerek benimsemeyi hızlandırır"
      ],
      "dogru": 0,
-     "aciklama": "Rogers'ın yenilik yayılım modelinde benimseyici kategorileri şöyledir: Yenilikçiler (%2,5), Erken benimseyenler (%13,5), Erken çoğunluk (%34), Geç çoğunluk (%34), Gecikenler (%16). Erken benimseyenler kanaat önderileri olarak sosyal sistemde kritik rol oynar; ancak geç çoğunluğu 'doğrudan' etkilemezler. Rogers'a göre yayılım şelale biçiminde ilerler: Erken benimseyenler → erken çoğunluğu, erken çoğunluk → geç çoğunluğu etkiler. Erken benimseyenlerden geç çoğunluğa doğrudan etki, özellikle yüksek gözlemlenebilirlik gerektiren ürünlerde sınırlıdır ve birçok aracı adım gerektirir. Dolayısıyla C seçeneğindeki 'geç çoğunluğu doğrudan etkiler' ifadesi yanlıştır. Diğer seçenekler Rogers modeliyle uyumludur.",
+     "aciklama": "Rogers modelinde erken benimseyenler (%13,5) kanaat önderliği yapar, ancak etkileri öncelikle bir sonraki kategori olan erken çoğunluğa yöneliktir. Yenilik kademeli yayılır; geç çoğunluk, erken çoğunluğun benimsemesinden sonra ve daha çok onların etkisiyle karar verir. Bu nedenle geç çoğunluğu doğrudan etkilediğini söyleyen ifade yanlıştır. Diğer ifadeler doğrudur: karar süreci bilgi, ikna, karar, uygulama ve onay aşamalarından oluşur; ücretsiz numune denenebilirliği artırır; influencer kullanımı kişilerarası iletişim kanalını devreye sokar. Homojen sosyal sistemlerde benzerlik (homofili) iletişimi kolaylaştırdığı için yayılma hızlanır. Doğru cevap \"Erken benimseyenler (%13,5) sosyal sistemde kanaat önderi işlevi görür ve geç çoğunluğu doğrudan etkiler\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -176,13 +179,13 @@
      "soru": "Hawthorne araştırmalarının yönetim bilimine en temel katkısı konusunda aşağıdaki değerlendirmelerden hangisi hem teorik hem de metodolojik açıdan en kapsamlı ve doğru değerlendirmeyi yapmaktadır?",
      "secenekler": [
       "Araştırmalar, bireysel teşvik sistemlerinin grup teşvik sistemlerinden daha etkili olduğunu göstermiştir",
-      "Araştırmalar, Maslow'un ihtiyaçlar hiyerarşisini ampirik olarak doğrulamış ve yönetimde motivasyon teorisinin temellerini atmıştır",
+      "Araştırmalar, Maslow'un ihtiyaçlar hiyerarşisini ampirik verilerle doğrulamış ve yönetim alanında motivasyon teorisinin temellerini atarak sonraki çalışmaların çerçevesini belirlemiştir Bu doğrulama sonraki motivasyon araştırmalarının da yöntemsel çerçevesini belirlemiş ve alanın kurucu çalışması sayılmıştır.",
       "Araştırmalar, ücretin çalışan verimliliği üzerindeki belirleyici rolünü kanıtlamıştır",
       "Araştırmalar, aydınlatma koşullarının verimlilik üzerindeki doğrusal etkisini istatistiksel olarak kanıtlamıştır",
       "Araştırmalar, informal grupların ve sosyal normların çalışan davranışını fiziksel çalışma koşullarından daha güçlü biçimde etkilediğini ortaya koymuş; aynı zamanda 'gözlemlendiğini bilen deneklerin davranışlarını değiştirdiği' (Hawthorne etkisi) metodolojik bulgusunu üretmiştir"
      ],
      "dogru": 4,
-     "aciklama": "Hawthorne araştırmaları (1924-1932, Mayo ve ekibi) iki kritik bulguyu ortaya koymuştur: (1) Teorik katkı: Fiziksel koşullar (ışık, ısı vb.) değil; grup normları, aidiyet duygusu ve denetçiyle ilişki gibi sosyal faktörler verimliliği belirleyen asıl unsurlardır; bu bulgu insan ilişkileri hareketinin (Human Relations Movement) doğmasına yol açmıştır. (2) Metodolojik katkı: Deneklerin gözlemlendiğinin farkında olmaları verimliliklerini bağımsız olarak artırmış; bu olgu 'Hawthorne etkisi' olarak sosyal bilimlerin temel metodolojik sorunlarından biri hâline gelmiştir. Diğer seçenekler ya yanlış içerik sunar (A, C, E) ya da kronolojik olarak Hawthorne'dan bağımsız gelişmiş teorileri (D) hatalı biçimde ilişkilendirir.",
+     "aciklama": "Hawthorne araştırmaları (Elton Mayo ve ekibi) başlangıçta aydınlatma gibi fiziksel koşulların verimliliğe etkisini ölçmeyi amaçlamıştır. Sonuçlar, verimlilikteki değişimin fiziksel koşullardan çok informal grup ilişkileri, sosyal normlar ve çalışanların kendilerine gösterilen ilgiden kaynaklandığını göstermiştir. Ayrıca gözlemlendiğini bilen deneklerin davranışlarını değiştirmesi, yani Hawthorne etkisi, önemli bir metodolojik bulgu olmuştur. Bu iki bulgu birlikte insan ilişkileri yaklaşımının temelini oluşturur. Maslow'un hiyerarşisini doğruladığını öne süren seçenek yanlıştır; Hawthorne çalışmaları Maslow'dan bağımsızdır ve onu test etmemiştir. \"Araştırmalar, aydınlatma koşullarının verimlilik üzerindeki doğrusal etkisini istatistiksel olarak kanıtlamıştır\" seçeneği de yanlıştır; aydınlatma ile verimlilik arasında tutarlı bir ilişki bulunamamıştır. Doğru cevap \"Araştırmalar, informal grupların ve sosyal normların çalışan davranışını fiziksel çalışma koşullarından daha güçlü biçimde etkilediğini ortaya koymuş\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -198,7 +201,8 @@
       "İkna edici (Selling/S2) – Yüksek görev, yüksek ilişki odağı"
      ],
      "dogru": 1,
-     "aciklama": "Hersey ve Blanchard'ın modelinde M3 olgunluk düzeyi, çalışanın işi yapabilecek yetkinliğe sahip olduğunu ancak bunu yapmak için yeterli özgüvene veya motivasyona sahip olmadığını ifade eder. Bu durumda uygun liderlik stili S3 – Katılımcı'dır: yönetici göreve dair talimat vermekten (düşük görev odağı) ziyade çalışanı karar süreçlerine dahil ederek destek verir, güven oluşturmaya odaklanır (yüksek ilişki odağı). S4 M4 için, S1 M1 için, S2 M2 için uygundur."
+     "aciklama": "Hersey ve Blanchard'ın modelinde M3 olgunluk düzeyi, çalışanın işi yapabilecek yetkinliğe sahip olduğunu ancak bunu yapmak için yeterli özgüvene veya motivasyona sahip olmadığını ifade eder. Bu durumda uygun liderlik stili S3 – Katılımcı'dır: yönetici göreve dair talimat vermekten (düşük görev odağı) ziyade çalışanı karar süreçlerine dahil ederek destek verir, güven oluşturmaya odaklanır (yüksek ilişki odağı). S4 M4 için, S1 M1 için, S2 M2 için uygundur.",
+     "zorluk": "orta"
     },
     {
      "id": "52187",
@@ -212,8 +216,8 @@
       "A: 600 birim, B: 1.050 birim",
       "A: 650 birim, B: 1.100 birim"
      ],
-     "dogru": 4,
-     "aciklama": "MRP net ihtiyaç hesabı: Net İhtiyaç = Brüt İhtiyaç - Eldeki Stok - Planlanan Siparişler + Emniyet Stoğu. A bileşeni için: Brüt İhtiyaç = 500 × 2 = 1.000 birim; Net İhtiyaç = 1.000 - 150 - 100 = 750 birim. Ancak A için emniyet stoğu belirtilmemiş, sadece planlanan sipariş 100 birim var. A: 1.000 - 150 (stok) - 100 (planlanan sipariş) = 750 birim değil; tekrar: Net = Brüt - Stok - Planlanan Sipariş = 1.000 - 150 - 100 = 750. B bileşeni: Brüt = 500 × 3 = 1.500; emniyet stoğu 50 dahil Net = 1.500 - 400 + 50 = 1.150 birim. Fakat seçenek A: 650 ve 1.100 diyor. A için 650 çıkması: 1.000 - 150 - 100 - 100 = 650 (belki planlı sipariş iki kalemde veriliyorsa) ya da farklı formülasyon. Standart MRP'de: A net = 1.000 - (150+100) = 750; B net = 1.500 - 400 + 50 = 1.150 → Bu D değil. 750 ve 1.150 → C değil (C:650,1.150). Doğru standart hesaba göre A:750, B:1.150 ancak bu seçeneklerde yok. Emniyet stoğunu brütten düşmek yerine elde stok olarak sayarsak B: 1.500-(400-50)=1.150. En yakın ve analitik olarak A bileşeni emniyet stoğu 100 birim alınırsa 1.000-150-100-100=650; B için 1.500-400+50=1.150 → C seçeneği. Doğru yanıt C'dir. (Not: Soru A seçeneğini işaret etse de analitik hesap C'yi göstermektedir.)",
+     "dogru": 2,
+     "aciklama": "A için brüt 500 kere 2 eşittir 1000; 1000 eksi 150 eksi 100 eşittir 750. B için 1500 eksi 400 artı 50 emniyet stoğu eşittir 1150.",
      "zorluk": "zor"
     },
     {
@@ -229,7 +233,7 @@
       "15 ve 1,5"
      ],
      "dogru": 3,
-     "aciklama": "F/K oranı = Piyasa değeri / HBK = 45 / 5 = 9 katıdır. P/D oranı = Piyasa değeri / Defter değeri = 45 / 30 = 1,5 katıdır. F/K oranı yatırımcıların 1 TL kâr için kaç TL ödediğini gösterirken, P/D oranı piyasanın muhasebe değerine göre ne kadar prim uyguladığını gösterir. Cevap B'dir.",
+     "aciklama": "F/K oranı = Piyasa değeri / HBK = 45 / 5 = 9 katıdır. P/D oranı = Piyasa değeri / Defter değeri = 45 / 30 = 1,5 katıdır. F/K oranı yatırımcıların 1 TL kâr için kaç TL ödediğini gösterirken, P/D oranı piyasanın muhasebe değerine göre ne kadar prim uyguladığını gösterir. Doğru cevap: «9 ve 1,5».",
      "zorluk": "orta"
     },
     {
@@ -254,8 +258,8 @@
      "konuId": "yonetim_organizasyon",
      "soru": "Bir işletmede genel müdür, tüm bölüm müdürlerine yetki devrederek 'yönetim kuruluna bölüm performansından bizzat hesap vereceksiniz' mesajını iletmiştir. Ancak altı ay sonra bölüm müdürlerinden bazıları hâlâ önemsiz kararlar için genel müdüre başvurmakta, genel müdür de bu başvuruları geri çevirmemektedir. Bu durumu yönetim teorisi açısından açıklayan kavramlar ve bunların ardındaki dinamikler aşağıdakilerin hangisinde en doğru biçimde bir arada verilmiştir?",
      "secenekler": [
-      "Kontrol alanının aşılması – genel müdürün daha az bölüm müdürüyle çalışması gerekmektedir",
-      "Komuta birliği ilkesinin ihlali – her bölüm müdürünün tek bir üste bağlı olması sağlanmalıdır",
+      "Kontrol alanının aşılması – genel müdürün daha az sayıda bölüm müdürüyle çalışması gerekmektedir",
+      "Komuta birliği ilkesinin ihlali – her bölüm müdürünün yalnızca tek bir üste bağlı olması sağlanmalıdır Bu ilkenin ihlali yetki karmaşasının asıl kaynağıdır ve düzeltilmedikçe sorun sürer.",
       "Örgütsel entropi – işletme yeniden yapılandırma sürecine girmelidir",
       "Ast kaynaklı yetki geri alımı ve üst kaynaklı yetki çekme (authority gap) – hem astların risk üstlenme kapasitesi hem de üstün bırakma iradesi aynı anda yetersizdir",
       "Yetki devri eksikliği ve iletişim kopukluğu – yetki devri yazılı hâle getirilmelidir"
@@ -273,11 +277,11 @@
       "Güç paylaşımı (self-managed teams), kapsamlı eğitim yatırımı, bilgiye erişimin demokratikleştirilmesi ve beceri bazlı ücret (skill-based pay)",
       "Ayrıntılı kural kitapçıkları, hiyerarşik onay süreçleri, pozisyon bazlı sabit ücret ve çalışan önerisine kapalı sistem",
       "Sıkı gözetim ve kontrol mekanizmaları, dar iş tanımları, bireysel prim sistemi ve merkezi karar alma",
-      "İş güvencesinin azaltılması, part-time istihdamın artırılması, görev rotasyonunun kaldırılması ve standartlaşmış iş akışları",
-      "Yüksek ciro hedefi için satış baskısı, kısa vadeli performans primler ve bireysel rekabeti teşvik eden sıralama sistemleri"
+      "İş güvencesinin azaltılması, yarı zamanlı istihdamın artırılması, görev rotasyonunun kaldırılması ve tümüyle standartlaştırılmış iş akışlarının benimsenmesi",
+      "Yüksek ciro hedefi için satış baskısı, kısa vadeli performans primleri ve bireysel rekabeti teşvik eden sıralama sistemleri"
      ],
      "dogru": 0,
-     "aciklama": "HIWS'in dört temel bileşeni Lawler'ın PIRK modeline dayanır: (1) Güç (Power) – karar alma süreçlerine katılım, öz yönetimli ekipler. (2) Bilgi (Information) – performans ve iş bilgisine erişim. (3) Ödül (Reward) – beceri/katkıya dayalı ücret. (4) Bilgi/Beceri (Knowledge) – sürekli eğitim. B şıkkı bu dört unsuru eksiksiz barındırır ve teorik olarak tutarlıdır. A ve E Taylorist/mekanik örgüt yapısını; C kısa vadeli bireysel rekabeti; D esneklik değil kırılganlık yaratan uygulamaları yansıtır.",
+     "aciklama": "Yüksek katılım iş sistemleri, çalışanlara karar verme gücü, bilgi, beceri ve ödül verilmesi ilkesine dayanır; bu dört unsur birbirini tamamlayarak içsel tutarlılık sağlar. Kendi kendini yöneten takımlar güç paylaşımını, kapsamlı eğitim beceriyi, bilgiye erişimin demokratikleştirilmesi bilgiyi, beceri bazlı ücret de katılımı ve öğrenmeyi ödüllendirmeyi karşılar. \"Ayrıntılı kural kitapçıkları, hiyerarşik onay süreçleri...\" paketi ise katılımı sınırlayan klasik kontrol odaklı sistemin özelliklerini taşır. \"Sıkı gözetim ve kontrol mekanizmaları, dar iş tanımları...\" paketi de aynı şekilde merkezi karar alma ve dar iş tasarımı içerdiği için HIWS ile çelişir. Doğru cevap \"Güç paylaşımı (self-managed teams), kapsamlı eğitim yatırımı...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -306,10 +310,11 @@
       "Seçenek A, çünkü toplam faiz gideri daha düşük olup vergi sonrası net kâr daha yüksektir.",
       "Seçenek A, çünkü faiz oranı daha düşüktür.",
       "Her iki seçenek de aynı kârlılığı sağlar.",
-      "Seçenek B, çünkü faiz oranı daha yüksek olsa da daha az borç kullanılmaktadır."
+      "Seçenek B, çünkü faiz oranı daha yüksek olsa da toplamda daha az borç kullanılmakta ve özkaynak payı korunmaktadır."
      ],
-     "dogru": 1,
-     "aciklama": "Seçenek A: Faiz = 500.000 × %12 = 60.000 TL. VÖK = 120.000 - 60.000 = 60.000 TL. Net Kâr = 60.000 × 0,80 = 48.000 TL. Seçenek B: Faiz = 300.000 × %14 = 42.000 TL. VÖK = 120.000 - 42.000 = 78.000 TL. Net Kâr = 78.000 × 0,80 = 62.400 TL. Seçenek B'de net kâr daha yüksektir; ancak hisse sayısı eşit kabul edilmediğinde değişebilir. Soru hisse sayısını eşit kabul ettiğinden Seçenek B üstündür... Bekle: 500.000 TL'nin tamamı A'da borçla, B'de 300.000 TL borçla finanse ediliyor. A'da faiz daha yüksek (60.000 > 42.000), dolayısıyla A'da net kâr daha düşük. Doğru cevap C değil, net kâr A'da düşük, B'de yüksek → seçenek C yanlış formüle edilmiş. Seçenek A faiz gideri 60.000 > B'nin 42.000 TL'si, yani A'da net kâr düşük, B'de yüksek. Doğru cevap: Seçenek B (index 1). Ancak seçeneklere göre cevap B'ye karşılık gelen index 1'dir."
+     "dogru": 4,
+     "aciklama": "A'da faiz 60.000 (net 48.000), B'de faiz 42.000 (net 62.400); B daha yüksek olduğundan anahtarın gerekçesi de sonucu da yanlış. Doğru cevap “Seçenek B, çünkü faiz oranı daha yüksek olsa da toplamda daha az borç kullanılmakta ve…” seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "52323",
@@ -319,12 +324,12 @@
      "secenekler": [
       "Klasik müzik, tüketicilerin fiyat duyarlılığını azaltarak premium ürünlere yönelmelerini sağlamaktadır",
       "Klasik müzik daha yüksek gelirli tüketicileri çekmekte ve bu durum sepet tutarını artırmaktadır",
-      "Müzik türü tüketicilerin demografik özelliklerini değiştirmekte ve satın alma davranışını etkilemektedir",
+      "Çalınan müzik türü tüketicilerin demografik özelliklerini değiştirmekte ve böylece satın alma davranışını doğrudan etkilemektedir",
       "Atmosfer değişkenleri yalnızca duygusal tepkileri etkiler, satın alma kararlarını etkilemez",
       "Yavaş tempo, mağazada geçirilen süreyi artırarak ürün inceleme fırsatı ve dolayısıyla satın alma olasılığını yükseltmektedir"
      ],
      "dogru": 4,
-     "aciklama": "Bu bulgu, Milliman (1982, 1986) ve Turley & Milliman (2000) tarafından kapsamlı biçimde araştırılmıştır. Yavaş tempolu müziğin perakende ortamında iki temel mekanizma üzerinden satışları artırdığı gösterilmiştir: (1) Müşterilerin mağazada geçirdiği süre uzar (bekleme algısı değişir), (2) Daha uzun süre maruz kalınan ürün yelpazesi daha geniş bir inceleme davranışı tetikler ve plansız alımlar artar. D seçeneği kısmen geçerli olabilir (ambiance ve fiyat toleransı ilişkisi vardır) ancak birincil mekanizma değildir. C seçeneği temelsizdir; müzik mevcut müşterilerin davranışını etkiler, demografik dönüşüm sağlamaz. E seçeneği tamamen yanlıştır; atmosfer araştırmaları satın alma davranışına doğrudan etkiyi defalarca kanıtlamıştır. B en kapsamlı ve teoriye dayalı açıklamadır.",
+     "aciklama": "Aynı mağazada ve aynı koşullarda yalnızca müzik değiştirildiği için sonucu müşteri profilindeki farklılıkla açıklayamayız. Bu, atmosfer değişkeninin davranışı doğrudan etkilediğini gösterir. Atmosfer pazarlaması çalışmalarında yavaş tempolu müzik, müşterinin hareket hızını azaltır ve mağazada kalma süresini uzatır. Daha uzun süre, daha fazla ürün inceleme ve plansız satın alma fırsatı demektir; sepet tutarı da artar. \"Klasik müzik daha yüksek gelirli tüketicileri çekmekte ve bu durum sepet tutarını artırmaktadır\" seçeneği yanlıştır, çünkü deneyde aynı mağaza ve aynı dönem koşulları kullanılmıştır, farklı müşteri çekilmesi söz konusu değildir. \"Atmosfer değişkenleri yalnızca duygusal tepkileri etkiler, satın alma kararlarını etkilemez\" seçeneği ise bulguyla doğrudan çelişir. Doğru cevap \"Yavaş tempo, mağazada geçirilen süreyi artırarak ürün inceleme fırsatı ve dolayısıyla satın alma olasılığını yükseltmektedir\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -356,7 +361,8 @@
       "Kariyer yönetimi"
      ],
      "dogru": 2,
-     "aciklama": "Eğitim ihtiyacı analizi (EİA), çalışanların mevcut yetkinlik düzeyleri ile işin gerektirdiği ya da stratejik hedefler doğrultusunda ihtiyaç duyulan yetkinlik düzeyleri arasındaki açığı (gap) sistematik biçimde tespit etme sürecidir. Bu analiz; örgütsel, iş ve bireysel düzeylerde gerçekleştirilerek hangi çalışanlara, hangi konularda, ne tür eğitimlerin tasarlanması gerektiğine ilişkin veriler sağlar. Yedekleme planlaması kritik pozisyonlar için iç aday havuzu oluşturmayı, işgücü planlaması ise gelecekteki işgücü arz-talep dengesini belirlemeyi ifade eder."
+     "aciklama": "Eğitim ihtiyacı analizi (EİA), çalışanların mevcut yetkinlik düzeyleri ile işin gerektirdiği ya da stratejik hedefler doğrultusunda ihtiyaç duyulan yetkinlik düzeyleri arasındaki açığı (gap) sistematik biçimde tespit etme sürecidir. Bu analiz; örgütsel, iş ve bireysel düzeylerde gerçekleştirilerek hangi çalışanlara, hangi konularda, ne tür eğitimlerin tasarlanması gerektiğine ilişkin veriler sağlar. Yedekleme planlaması kritik pozisyonlar için iç aday havuzu oluşturmayı, işgücü planlaması ise gelecekteki işgücü arz-talep dengesini belirlemeyi ifade eder.",
+     "zorluk": "orta"
     },
     {
      "id": "52176",
@@ -371,7 +377,8 @@
       "Tanımla – Değerlendir – Analiz et – Geliştir – Kontrol et"
      ],
      "dogru": 1,
-     "aciklama": "DMAIC; Define (Tanımla) – Measure (Ölç) – Analyze (Analiz et) – Improve (Geliştir/İyileştir) – Control (Kontrol et) aşamalarından oluşur. Mevcut süreçleri iyileştirmede kullanılır. Yeni ürün veya süreç tasarımında ise DMADV (Define–Measure–Analyze–Design–Verify) kullanılır. Altı Sigma, süreç çıktılarındaki hata oranını milyonda 3,4'e indirmeyi hedefler."
+     "aciklama": "DMAIC; Define (Tanımla) – Measure (Ölç) – Analyze (Analiz et) – Improve (Geliştir/İyileştir) – Control (Kontrol et) aşamalarından oluşur. Mevcut süreçleri iyileştirmede kullanılır. Yeni ürün veya süreç tasarımında ise DMADV (Define–Measure–Analyze–Design–Verify) kullanılır. Altı Sigma, süreç çıktılarındaki hata oranını milyonda 3,4'e indirmeyi hedefler.",
+     "zorluk": "orta"
     },
     {
      "id": "52341",
@@ -411,14 +418,14 @@
      "konuId": "yonetim_organizasyon",
      "soru": "Bir şirket, yönetim kurulu kararıyla tüm bölümlerde 'toplam kalite yönetimi' (TKY) uygulamasına geçmeye karar vermiştir. Uygulama sürecinde orta kademe yöneticilerin yoğun dirençle karşılaşılmıştır. Örgütsel davranış literatürüne göre bu direncin en olası birincil nedeni aşağıdakilerden hangisidir?",
      "secenekler": [
-      "TKY'nin teknik altyapı gerektirmesi ve bunun maliyetli olması",
+      "TKY'nin kapsamlı teknik altyapı gerektirmesi ve bu altyapının maliyetli olması ile uzun bir kurulum süresi gerektirmesi",
       "Üst yönetimin TKY konusunda yeterli bilgiye sahip olmaması",
       "Orta kademe yöneticilerin karar alma süreçlerine katılmadan değişimin dayatılması ve güç/statü kaybı korkusu",
       "Çalışanların kalite kavramını anlamaması",
       "TKY'nin yalnızca üretim sektörüne özgü bir uygulama olması"
      ],
      "dogru": 2,
-     "aciklama": "Örgütsel direnç literatüründe (Kotter & Schlesinger, Robbins vd.) değişime direncin birincil kaynakları arasında güç ve statü kaybı korkusu ile sürece katılmama en yaygın ve en güçlü faktörlerdir. TKY, orta kademe yöneticilerin denetim otoritesini ekiplere devretmesini gerektirir; bu da güç kaybına yol açar. Bunun yanı sıra karar sürecine dahil edilmemek 'sahiplenme' eksikliği yaratır. Diğer seçenekler ikincil ya da yapısal faktörlerdir; birincil ve en olası neden C seçeneğidir.",
+     "aciklama": "Örgütsel direnç literatüründe (Kotter & Schlesinger, Robbins vd.) değişime direncin birincil kaynakları arasında güç ve statü kaybı korkusu ile sürece katılmama en yaygın ve en güçlü faktörlerdir. TKY, orta kademe yöneticilerin denetim otoritesini ekiplere devretmesini gerektirir; bu da güç kaybına yol açar. Bunun yanı sıra karar sürecine dahil edilmemek 'sahiplenme' eksikliği yaratır. Diğer seçenekler ikincil ya da yapısal faktörlerdir; birincil ve en olası neden “Orta kademe yöneticilerin karar alma süreçlerine katılmadan değişimin dayatılması ve…” seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -429,8 +436,8 @@
      "secenekler": [
       "Karşılıklılık normu kaynaklı değerlendirme çöküşü (Reciprocity-induced leniency bias)",
       "Yakınlık etkisi (Recency effect)",
-      "Merkezi eğilim hatası (Central tendency error)",
-      "Dağılım kısıtı (Range restriction)",
+      "Merkezî eğilim hatası (Central tendency error) – değerlendiricilerin uç puanlardan kaçınması",
+      "Dağılım kısıtı hatası (Range restriction)",
       "Hale etkisi (Halo effect)"
      ],
      "dogru": 0,
@@ -482,7 +489,8 @@
       "Aranılan faydalar"
      ],
      "dogru": 3,
-     "aciklama": "Davranışsal bölümlendirme; tüketicilerin ürüne yönelik tutum, bilgi, kullanım ve tepkilerine göre yapılan bölümlendirmedir. Marka bağlılığı (A), satın alma sıklığı (B), aranılan faydalar (C) ve kullanım oranı (E) davranışsal kriterlere girer. Yaşam tarzı ve kişilik özellikleri ise psikografik bölümlendirme kriterlerine aittir. Dolayısıyla D doğru yanıttır."
+     "aciklama": "Davranışsal bölümlendirme; tüketicilerin ürüne yönelik tutum, bilgi, kullanım ve tepkilerine göre yapılan bölümlendirmedir. Marka bağlılığı (A), satın alma sıklığı (B), aranılan faydalar (C) ve kullanım oranı (E) davranışsal kriterlere girer. Yaşam tarzı ve kişilik özellikleri ise psikografik bölümlendirme kriterlerine aittir. Dolayısıyla “Yaşam tarzı ve kişilik özellikleri” seçeneği doğru yanıttır.",
+     "zorluk": "orta"
     }
    ]
   }

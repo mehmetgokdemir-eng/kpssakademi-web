@@ -496,22 +496,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "52033",
-  "dersId": "isletme",
-  "konuId": "yonetim_organizasyon",
-  "soru": "Henri Fayol'un yönetim ilkelerinden 'ayrıcalık alanı (istisna)' ilkesi aşağıdakilerden hangisiyle doğrudan ilişkilidir?",
-  "secenekler": [
-   "Örgütsel hedeflerin çalışanın kişisel hedeflerinin önünde tutulması ilkesi ve bu önceliğin korunması",
-   "Her çalışanın yalnızca bir üstten emir alması",
-   "Rutin kararların alt kademelere, istisnai kararların üst kademelere bırakılması",
-   "Ücretin işin gerektirdiği beceriye göre belirlenmesi",
-   "İş bölümünün uzmanlaşmayı desteklemesi"
-  ],
-  "dogru": 2,
-  "aciklama": "'İstisna ilkesi' (exception principle) aslında Taylor'ın bilimsel yönetim anlayışında da yer alır ve yönetim literatüründe standart, rutin işlerin alt kademelerce yürütülmesini; olağandışı, karmaşık veya yüksek riskli durumların ise üst yönetim tarafından ele alınmasını öngörür. Bu, zaman ve dikkat kaynaklarının etkin kullanımını sağlar. Fayol'un birlik-i komuta ilkesi ise tek üstten emir almayı kapsar.",
-  "zorluk": "orta"
- },
- {
   "id": "52034",
   "dersId": "isletme",
   "konuId": "yonetim_organizasyon",
@@ -928,22 +912,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "52060",
-  "dersId": "isletme",
-  "konuId": "yonetim_organizasyon",
-  "soru": "Bir fabrikada kalite kontrol sürecinde ürünler banttan çıkmadan önce, banttan çıktıktan sonra ve müşteriye ulaştıktan sonra olmak üzere üç farklı aşamada denetlenmektedir. Bu uygulamada sırasıyla hangi kontrol türleri kullanılmaktadır?",
-  "secenekler": [
-   "Son kontrol – ön kontrol – eş zamanlı kontrol",
-   "Eş zamanlı kontrol – ön kontrol – son kontrol",
-   "Eş zamanlı kontrol – son kontrol – ön kontrol",
-   "Ön kontrol – son kontrol – eş zamanlı kontrol",
-   "Ön kontrol – eş zamanlı kontrol – son kontrol"
-  ],
-  "dogru": 4,
-  "aciklama": "Yönetimde kontrol türleri zamanlama açısından üçe ayrılır: Ön kontrol (feedforward/önleyici kontrol) – faaliyet başlamadan önce yapılan, olası sorunları engelleyen kontrol; Eş zamanlı kontrol (concurrent/anlık kontrol) – faaliyet devam ederken yapılan, süreci izleyen kontrol; Son kontrol (feedback/geribildirim kontrolü) – faaliyet tamamlandıktan sonra yapılan, sonuçları değerlendiren kontrol. Soruda 'banttan çıkmadan önce' ön kontrol, 'banttan çıktıktan sonra' eş zamanlı kontrol, 'müşteriye ulaştıktan sonra' ise son kontrol ile eşleşir.",
-  "zorluk": "orta"
- },
- {
   "id": "52061",
   "dersId": "isletme",
   "konuId": "yonetim_organizasyon",
@@ -1184,22 +1152,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "52076",
-  "dersId": "isletme",
-  "konuId": "yonetim_organizasyon",
-  "soru": "Bir işletmede matris organizasyon yapısı uygulanmaktadır. Proje müdürü Ahmet, işlevsel müdür Mehmet ile aynı personel üzerinde otorite kullanmaktadır. Bu durumda ortaya çıkan 'komuta birliği ilkesinin ihlali' sorununu en aza indirmek için aşağıdaki mekanizmalardan hangisi tek başına yeterli olmaz?",
-  "secenekler": [
-   "Düzenli koordinasyon toplantıları ile enformasyon paylaşımının sağlanması",
-   "Personel sayısının artırılarak her müdüre ayrı çalışan atanması",
-   "Çatışma çözüm protokollerinin önceden belirlenmesi",
-   "Üst yönetimin hakem rolü üstlenmesi",
-   "Proje ve işlevsel müdürler arasındaki otorite sınırlarının yazılı olarak tanımlanması"
-  ],
-  "dogru": 1,
-  "aciklama": "Matris yapıda komuta birliği ihlalinin temel sorunu, aynı personelin iki farklı otoriteye bağlı olmasıdır. Personel sayısını artırıp her müdüre ayrı çalışan atamak, matris yapının tanımını ortadan kaldırır; bu yapı, kaynakların paylaşılması ve esneklik amacıyla kurulur. Dolayısıyla bu yöntem sorunu çözmez, yapıyı işlevsel/proje yapısına dönüştürür. Diğer seçenekler (protokol belirleme, yazılı sınır, hakem rolü, koordinasyon toplantıları) matris yapıyı koruyarak çatışmayı azaltmaya yönelik gerçek mekanizmalardır.",
-  "zorluk": "zor"
- },
- {
   "id": "52077",
   "dersId": "isletme",
   "konuId": "yonetim_organizasyon",
@@ -1436,7 +1388,7 @@
    "Girişimci yapı – doğrudan denetimle koordinasyon – stratejik tepesinin kilit rolü"
   ],
   "dogru": 2,
-  "aciklama": "Mintzberg'e göre makine bürokrasisinde standart iş süreçleriyle koordinasyon sağlanır, bu doğrudur; ancak kilit bileşen orta kademe yöneticileri değil, teknik kadro (technostructure) yani analistlerdir. Analistler süreçleri standartlaştıran iş ve yöntem uzmanlarıdır. Orta kademe yöneticiler bölümlü yapının kilit bileşenidir. Bu eşleştirme yanlış olduğundan doğru yanıt A'dır.",
+  "aciklama": "Mintzberg'e göre makine bürokrasisinde standart iş süreçleriyle koordinasyon sağlanır, bu doğrudur; ancak kilit bileşen orta kademe yöneticileri değil, teknik kadro (technostructure) yani analistlerdir. Analistler süreçleri standartlaştıran iş ve yöntem uzmanlarıdır. Orta kademe yöneticiler bölümlü yapının kilit bileşenidir. Doğru cevap: «Makine bürokrasisi – standart iş süreçleriyle koordinasyon – orta kademe yöneticilerinin kilit rolü».",
   "zorluk": "zor"
  },
  {
@@ -1483,7 +1435,7 @@
    "İşletme Z",
    "İşletme W"
   ],
-  "dogru": 3,
+  "dogru": 0,
   "aciklama": "Organik yapının temel özellikleri: düşük formalizasyon, geniş kontrol alanı, yatay/çok yönlü iletişim ve merkezkaç (katılımcı) karar almadır. İşletme Z bu kriterlerin büyük bölümünü karşılıyor gibi görünse de 'tüm stratejik kararların CEO'da toplanması' merkezi karar alma anlamına gelir; bu da organik yapının en belirleyici özelliğiyle doğrudan çelişir. W ve Y organik yapıyla tamamen uyumludur. X ise mekanik yapının prototipidir ancak soru 'organik yapıyla en tutarsız kombinasyonu' sormaktadır; Z, yüzeysel organik görünümüne karşın kilit boyutta (karar merkeziyetçiliği) en yanıltıcı ve tutarsız kombinasyonu oluşturur.",
   "zorluk": "zor"
  },
@@ -2796,7 +2748,7 @@
    "%84 ve %16"
   ],
   "dogru": 2,
-  "aciklama": "Denge Etkinliği = Toplam iş süresi / (İstasyon sayısı × Çevrim süresi) = 38 / (5 × 10) = 38/50 = 0,76 = %76. Atıl zaman oranı = 1 - 0,76 = 0,24 = %24. Atıl zaman (mutlak) = 50 - 38 = 12 dakika. İstasyon başına ortalama atıl zaman = 12/5 = 2,4 dakika. Doğru yanıt A'dır.",
+  "aciklama": "Denge Etkinliği = Toplam iş süresi / (İstasyon sayısı × Çevrim süresi) = 38 / (5 × 10) = 38/50 = 0,76 = %76. Atıl zaman oranı = 1 - 0,76 = 0,24 = %24. Atıl zaman (mutlak) = 50 - 38 = 12 dakika. İstasyon başına ortalama atıl zaman = 12/5 = 2,4 dakika. Doğru cevap: «%76 ve %24».",
   "zorluk": "zor"
  },
  {
@@ -2876,7 +2828,7 @@
    "Cpk = 1,67 ve DPMO = 3,4"
   ],
   "dogru": 0,
-  "aciklama": "Altı-sigma kalite düzeyi, sürecin 1,5 sigma kayması dikkate alındığında DPMO = 3,4 olarak tanımlanır. Altı-sigma için Cpk = (6σ) / (6σ) formülünden değil, USL-LSL = 12σ iken Cpk = (USL-μ)/(3σ) = 6σ/3σ = 2,00 olarak hesaplanır. Cpk = 1,00 iken süreç ±3σ sınırları içindedir; bu da her tarafta 0,135% hata = toplam %0,27 hata = 2.700 DPMO'ya karşılık gelir. Dolayısıyla altı-sigma için Cpk = 2,00 ve mevcut Cpk = 1,00 iken DPMO = 2.700. Doğru yanıt C'dir.",
+  "aciklama": "Altı-sigma kalite düzeyi, sürecin 1,5 sigma kayması dikkate alındığında DPMO = 3,4 olarak tanımlanır. Altı-sigma için Cpk = (6σ) / (6σ) formülünden değil, USL-LSL = 12σ iken Cpk = (USL-μ)/(3σ) = 6σ/3σ = 2,00 olarak hesaplanır. Cpk = 1,00 iken süreç ±3σ sınırları içindedir; bu da her tarafta 0,135% hata = toplam %0,27 hata = 2.700 DPMO'ya karşılık gelir. Dolayısıyla altı-sigma için Cpk = 2,00 ve mevcut Cpk = 1,00 iken DPMO = 2.700. Doğru cevap: «Cpk = 2,00 ve DPMO = 2.700».",
   "zorluk": "zor"
  },
  {
@@ -2892,7 +2844,7 @@
    "A: 650 birim, B: 1.100 birim"
   ],
   "dogru": 2,
-  "aciklama": "A: 1.000-150-100=750; B: 1.500-400+50=1.150, yani “A: 750 birim, B: 1.150 birim” şıkkı. Doğru cevap A: 750 birim, B: 1.150 birim şeklindedir.",
+  "aciklama": "A için brüt 500 kere 2 eşittir 1000; 1000 eksi 150 eksi 100 eşittir 750. B için 1500 eksi 400 artı 50 emniyet stoğu eşittir 1150.",
   "zorluk": "zor"
  },
  {
@@ -2940,7 +2892,7 @@
    "Ls = 1,33 ve Ws = 10 dakika"
   ],
   "dogru": 0,
-  "aciklama": "M/M/1 kuyruk modeli formülleri: λ=8 sipariş/saat, μ=12 sipariş/saat, ρ=λ/μ=8/12=2/3. Ls = λ/(μ-λ) = 8/(12-8) = 8/4 = 2 müşteri. Ws = Ls/λ = 2/8 = 0,25 saat = 15 dakika. Doğru yanıt B'dir.",
+  "aciklama": "M/M/1 kuyruk modeli formülleri: λ=8 sipariş/saat, μ=12 sipariş/saat, ρ=λ/μ=8/12=2/3. Ls = λ/(μ-λ) = 8/(12-8) = 8/4 = 2 müşteri. Ws = Ls/λ = 2/8 = 0,25 saat = 15 dakika. Doğru cevap: «Ls = 2,00 ve Ws = 15 dakika».",
   "zorluk": "zor"
  },
  {
@@ -2972,7 +2924,7 @@
    "%71 azalma"
   ],
   "dogru": 4,
-  "aciklama": "RÖS = O × S × D. Başlangıç RÖS = 7 × 9 × 4 = 252. İyileştirme sonrası RÖS = 4 × 9 × 2 = 72. Değişim = (252 - 72) / 252 = 180/252 = 0,714... ≈ %71,4 azalma. Doğru yanıt D'dir.",
+  "aciklama": "RÖS = O × S × D. Başlangıç RÖS = 7 × 9 × 4 = 252. İyileştirme sonrası RÖS = 4 × 9 × 2 = 72. Değişim = (252 - 72) / 252 = 180/252 = 0,714... ≈ %71,4 azalma. Doğru cevap: «%71 azalma».",
   "zorluk": "zor"
  },
  {
@@ -3004,7 +2956,7 @@
    "EOQ %16 azalır, toplam maliyet değişmez"
   ],
   "dogru": 2,
-  "aciklama": "Mevcut EOQ = √(2×120.000×150/12) = √3.000.000 = 1.732 birim. Yeni sipariş maliyeti = 150×(1-0,44) = 84 TL. Yeni EOQ = √(2×120.000×84/12) = √1.680.000 ≈ 1.296 birim. EOQ değişim oranı = √(84/150) = √0,56 ≈ 0,748 → yaklaşık %25 azalma. EOQ formülünde sipariş maliyeti 'S' ile stok tutma maliyeti 'H' çarpımı √(2DS/H) şeklindedir; toplam stok maliyeti = √(2×D×S×H) olduğundan yeni toplam maliyet de aynı oranda (√0,56 ≈ %25) azalır. Doğru cevap A'dır.",
+  "aciklama": "Mevcut EOQ = √(2×120.000×150/12) = √3.000.000 = 1.732 birim. Yeni sipariş maliyeti = 150×(1-0,44) = 84 TL. Yeni EOQ = √(2×120.000×84/12) = √1.680.000 ≈ 1.296 birim. EOQ değişim oranı = √(84/150) = √0,56 ≈ 0,748 → yaklaşık %25 azalma. EOQ formülünde sipariş maliyeti 'S' ile stok tutma maliyeti 'H' çarpımı √(2DS/H) şeklindedir; toplam stok maliyeti = √(2×D×S×H) olduğundan yeni toplam maliyet de aynı oranda (√0,56 ≈ %25) azalır. Doğru cevap: «EOQ %25 azalır, toplam maliyet %25 azalır».",
   "zorluk": "zor"
  },
  {
@@ -3020,7 +2972,7 @@
    "C → A → B"
   ],
   "dogru": 3,
-  "aciklama": "TOC'ta darboğaz kaynağı (makine saati) için birim katkı payı/kaynak birimi hesaplanır: A = 80/4 = 20 TL/saat, B = 60/2 = 30 TL/saat, C = 90/5 = 18 TL/saat. Sıralama: B (30) > A (20) > C (18). Zorunlu minimumlar için kapasite tüketimi: 50×4 + 50×2 + 50×5 = 200+100+250 = 550 saat. Kalan 450 saat önce B'ye tahsis edilir. Doğru cevap C'dir.",
+  "aciklama": "TOC'ta darboğaz kaynağı (makine saati) için birim katkı payı/kaynak birimi hesaplanır: A = 80/4 = 20 TL/saat, B = 60/2 = 30 TL/saat, C = 90/5 = 18 TL/saat. Sıralama: B (30) > A (20) > C (18). Zorunlu minimumlar için kapasite tüketimi: 50×4 + 50×2 + 50×5 = 200+100+250 = 550 saat. Kalan 450 saat önce B'ye tahsis edilir. Doğru cevap: «B → A → C».",
   "zorluk": "zor"
  },
  {
@@ -3148,23 +3100,7 @@
    "Çıktı 115 birim/saat, yeni darboğaz B istasyonudur"
   ],
   "dogru": 2,
-  "aciklama": "Başlangıç durumu: A=120, B=95 (darboğaz), C=110. Sistem çıktısı = min(120,95,110) = 95. Değişiklik sonrası: A=150, B=95+20=115, C=110. Yeni sistem çıktısı = min(150,115,110) = 110. Yeni darboğaz en düşük kapasiteye sahip olan C istasyonudur (110 birim/saat). B istasyonuna yapılan yatırım darboğazı ortadan kaldırmış, bu kez C istasyonu sistem darboğazı hâline gelmiştir. Bu durum TOC'un 'bir darboğazı kaldırdığınızda sistem başka bir darboğaz yaratır' ilkesini örneklemektedir. Doğru cevap B'dir.",
-  "zorluk": "zor"
- },
- {
-  "id": "52209",
-  "dersId": "isletme",
-  "konuId": "uretim",
-  "soru": "Bir işletme, aylık sabit maliyeti 120.000 TL, birim değişken maliyeti 40 TL ve satış fiyatı 70 TL olan bir ürün üretmektedir. İşletme, mevcut kapasitesinin %80'inde çalışmakta ve bu kapasite düzeyinde 6.000 birim üretmektedir. Tam kapasitede yurt dışından gelen 2.000 birimlik ek sipariş için minimum kabul edilebilir birim fiyat aşağıdakilerden hangisidir? (Bu ek sipariş için ek sabit maliyet oluşmamaktadır, ancak tam kapasiteye geçişte makine hazırlık maliyeti olarak toplam 8.000 TL ek maliyet ortaya çıkmaktadır.)",
-  "secenekler": [
-   "44 TL",
-   "40 TL",
-   "48 TL",
-   "42 TL",
-   "46 TL"
-  ],
-  "dogru": 0,
-  "aciklama": "Mevcut kapasite: 6.000 birim = %80 kapasite → Tam kapasite = 7.500 birim. Ek sipariş: 2.000 birim, ancak tam kapasite 7.500 birim olduğundan yalnızca 1.500 birimlik boşluk var. Bu 1.500 birim için sadece değişken maliyet (40 TL) ve hazırlık payı yeterlidir. Fakat 2.000 birimlik siparişin tamamı için sınırın aşılıp aşılmadığı değil, sorun minimum fiyat sorusudur. Ek sipariş 2.000 birim için değişken maliyet: 2.000 × 40 = 80.000 TL. Hazırlık maliyeti: 8.000 TL. Toplam maliyet: 88.000 TL. Birim minimum fiyat: 88.000 / 2.000 = 44 TL.",
+  "aciklama": "Başlangıç durumu: A=120, B=95 (darboğaz), C=110. Sistem çıktısı = min(120,95,110) = 95. Değişiklik sonrası: A=150, B=95+20=115, C=110. Yeni sistem çıktısı = min(150,115,110) = 110. Yeni darboğaz en düşük kapasiteye sahip olan C istasyonudur (110 birim/saat). B istasyonuna yapılan yatırım darboğazı ortadan kaldırmış, bu kez C istasyonu sistem darboğazı hâline gelmiştir. Bu durum TOC'un 'bir darboğazı kaldırdığınızda sistem başka bir darboğaz yaratır' ilkesini örneklemektedir. Doğru cevap: «Çıktı 110 birim/saat, yeni darboğaz C istasyonudur».",
   "zorluk": "zor"
  },
  {
@@ -3276,7 +3212,7 @@
    "1→2→4→5→6 – 15 gün"
   ],
   "dogru": 3,
-  "aciklama": "Tüm yolların süreleri hesaplanır: Yol 1→2→4→5→6: A+C+F+G = 4+5+2+4 = 15 gün. Yol 1→2→5→6: A+E+G = 4+8+4 = 16 gün. Yol 1→3→4→5→6: B+D+F+G = 6+3+2+4 = 15 gün. En uzun yol 1→2→5→6 = 16 gündür ve bu kritik yoldur. Kritik yol üzerindeki faaliyetlerin toplam serbest zamanı sıfırdır. Doğru cevap B: 1→2→5→6 – 16 gün.",
+  "aciklama": "Tüm yolların süreleri hesaplanır: Yol 1→2→4→5→6: A+C+F+G = 4+5+2+4 = 15 gün. Yol 1→2→5→6: A+E+G = 4+8+4 = 16 gün. Yol 1→3→4→5→6: B+D+F+G = 6+3+2+4 = 15 gün. En uzun yol 1→2→5→6 = 16 gündür ve bu kritik yoldur. Kritik yol üzerindeki faaliyetlerin toplam serbest zamanı sıfırdır. Doğru cevap: «1→2→5→6 – 16 gün».",
   "zorluk": "zor"
  },
  {
@@ -5788,7 +5724,7 @@
    "Optimal borç oranı sıfırdır."
   ],
   "dogru": 1,
-  "aciklama": "MM'nin vergi dahil modeli (MM II) çerçevesinde, borcun faiz ödemeleri vergiden düşülebildiğinden faiz vergi kalkanı (tax shield) oluşur. Bu durum işletme değerini artırır. Formül: V_L = V_U + T × D (V_L = borçlu firma değeri, V_U = borçsuz firma değeri, T = vergi oranı, D = borç miktarı). Dolayısıyla borç arttıkça vergi kalkanı ve firma değeri de artar.",
+  "aciklama": "MM'nin vergi dahil modeli (MM II) çerçevesinde, borcun faiz ödemeleri vergiden düşülebildiğinden faiz vergi kalkanı (tax shield) oluşur. Bu durum işletme değerini artırır. Formül: V«L = V»U + T × D (V«L = borçlu firma değeri, V»U = borçsuz firma değeri, T = vergi oranı, D = borç miktarı). Dolayısıyla borç arttıkça vergi kalkanı ve firma değeri de artar.",
   "zorluk": "orta"
  },
  {
@@ -5948,7 +5884,7 @@
    "15 ve 1,5"
   ],
   "dogru": 3,
-  "aciklama": "F/K oranı = Piyasa değeri / HBK = 45 / 5 = 9 katıdır. P/D oranı = Piyasa değeri / Defter değeri = 45 / 30 = 1,5 katıdır. F/K oranı yatırımcıların 1 TL kâr için kaç TL ödediğini gösterirken, P/D oranı piyasanın muhasebe değerine göre ne kadar prim uyguladığını gösterir. Cevap B'dir.",
+  "aciklama": "F/K oranı = Piyasa değeri / HBK = 45 / 5 = 9 katıdır. P/D oranı = Piyasa değeri / Defter değeri = 45 / 30 = 1,5 katıdır. F/K oranı yatırımcıların 1 TL kâr için kaç TL ödediğini gösterirken, P/D oranı piyasanın muhasebe değerine göre ne kadar prim uyguladığını gösterir. Doğru cevap: «9 ve 1,5».",
   "zorluk": "orta"
  },
  {
@@ -5964,7 +5900,7 @@
    "150.000 TL"
   ],
   "dogru": 2,
-  "aciklama": "Net işletme sermayesi = Dönen varlıklar - Kısa vadeli yabancı kaynaklar = 600.000 TL. Cari oran = Dönen varlıklar / KVYK = 3 olduğundan, Dönen varlıklar = 3 × KVYK ve 3×KVYK - KVYK = 600.000 → 2×KVYK = 600.000 → KVYK = 300.000 TL, Dönen varlıklar = 900.000 TL. Asit-test oranı = (Dönen varlıklar - Stoklar) / KVYK = 2 → 900.000 - Stoklar = 2 × 300.000 = 600.000 → Stoklar = 300.000 TL. Cevap D'dir.",
+  "aciklama": "Net işletme sermayesi = Dönen varlıklar - Kısa vadeli yabancı kaynaklar = 600.000 TL. Cari oran = Dönen varlıklar / KVYK = 3 olduğundan, Dönen varlıklar = 3 × KVYK ve 3×KVYK - KVYK = 600.000 → 2×KVYK = 600.000 → KVYK = 300.000 TL, Dönen varlıklar = 900.000 TL. Asit-test oranı = (Dönen varlıklar - Stoklar) / KVYK = 2 → 900.000 - Stoklar = 2 × 300.000 = 600.000 → Stoklar = 300.000 TL. Doğru cevap: «300.000 TL».",
   "zorluk": "orta"
  },
  {
@@ -5980,7 +5916,7 @@
    "2,86 yıl – Reddedilmelidir"
   ],
   "dogru": 2,
-  "aciklama": "Geri ödeme süresi = İlk yatırım / Yıllık nakit girişi = 400.000 / 140.000 ≈ 2,857 yıl ≈ 2,86 yıl. Kritik geri ödeme süresi 3 yıl olduğundan, 2,86 < 3 koşulu sağlandığı için proje kabul edilir. Geri ödeme yöntemi paranın zaman değerini dikkate almaz; bu en önemli eleştirisidir. Ancak hesaplama açısından cevap A'dır.",
+  "aciklama": "Geri ödeme süresi = İlk yatırım / Yıllık nakit girişi = 400.000 / 140.000 ≈ 2,857 yıl ≈ 2,86 yıl. Kritik geri ödeme süresi 3 yıl olduğundan, 2,86 < 3 koşulu sağlandığı için proje kabul edilir. Geri ödeme yöntemi paranın zaman değerini dikkate almaz; bu en önemli eleştirisidir. Doğru cevap: «2,86 yıl – Kabul edilmelidir».",
   "zorluk": "orta"
  },
  {
@@ -5996,7 +5932,7 @@
    "Borçlanma oranı arttıkça firma değeri artar."
   ],
   "dogru": 1,
-  "aciklama": "MM teoreminin vergi olmayan varsayımı altında 'firma değeri sermaye yapısından bağımsızdır' (değer değişmezlik önermesi). Borçlanmanın artmasıyla öz sermaye riski ve maliyeti de artar; dolayısıyla ağırlıklı ortalama sermaye maliyeti (AOSM) değişmez ve firma değeri etkilenmez. Vergi avantajı (faizin vergiden düşülmesi) dahil edildiğinde ise MM borçlanmanın firma değerini artırdığını öne sürer. Cevap C'dir.",
+  "aciklama": "MM teoreminin vergi olmayan varsayımı altında 'firma değeri sermaye yapısından bağımsızdır' (değer değişmezlik önermesi). Borçlanmanın artmasıyla öz sermaye riski ve maliyeti de artar; dolayısıyla ağırlıklı ortalama sermaye maliyeti (AOSM) değişmez ve firma değeri etkilenmez. Vergi avantajı (faizin vergiden düşülmesi) dahil edildiğinde ise MM borçlanmanın firma değerini artırdığını öne sürer. Doğru cevap: «Firma değeri sermaye yapısından bağımsızdır».",
   "zorluk": "orta"
  },
  {
@@ -6012,7 +5948,7 @@
    "%80"
   ],
   "dogru": 0,
-  "aciklama": "DuPont formülüne göre ROE = Net kâr marjı × Aktif devir hızı × Finansal kaldıraç çarpanı = %10 × 2 × 2,5 = %50. Önce ROA hesaplanır: ROA = Net kâr marjı × Aktif devir hızı = %10 × 2 = %20. Ardından ROE = ROA × Finansal kaldıraç = %20 × 2,5 = %50. Brüt kâr marjı bu hesaplamada kullanılmaz; bir çeldirici olarak verilmiştir. Cevap D'dir.",
+  "aciklama": "DuPont formülüne göre ROE = Net kâr marjı × Aktif devir hızı × Finansal kaldıraç çarpanı = %10 × 2 × 2,5 = %50. Önce ROA hesaplanır: ROA = Net kâr marjı × Aktif devir hızı = %10 × 2 = %20. Ardından ROE = ROA × Finansal kaldıraç = %20 × 2,5 = %50. Brüt kâr marjı bu hesaplamada kullanılmaz; bir çeldirici olarak verilmiştir. Doğru cevap: «%50».",
   "zorluk": "orta"
  },
  {
@@ -6044,7 +5980,7 @@
    "%5"
   ],
   "dogru": 2,
-  "aciklama": "Gordon büyüme modeline göre P₀ = D₁ / (k - g) formülü kullanılır. Burada P₀ = 80, D₁ = 4, g = %5. 80 = 4 / (k - 0,05) → k - 0,05 = 4/80 = 0,05 → k = 0,05 + 0,05 = 0,10 = %10. Yatırımcının talep ettiği getiri oranı %10'dur. Cevap D'dir. Bu oran aynı zamanda öz sermaye maliyetini hesaplamada da kullanılır.",
+  "aciklama": "Gordon büyüme modeline göre P₀ = D₁ / (k - g) formülü kullanılır. Burada P₀ = 80, D₁ = 4, g = %5. 80 = 4 / (k - 0,05) → k - 0,05 = 4/80 = 0,05 → k = 0,05 + 0,05 = 0,10 = %10. Yatırımcının talep ettiği getiri oranı %10'dur. Doğru cevap: «%10». Bu oran aynı zamanda öz sermaye maliyetini hesaplamada da kullanılır.",
   "zorluk": "orta"
  },
  {
@@ -6108,7 +6044,7 @@
    "%18"
   ],
   "dogru": 3,
-  "aciklama": "CAPM formülü: E(Ri) = Rf + βi × [E(Rm) - Rf]. Burada Rf = %8, piyasa risk primi [E(Rm) - Rf] = %10, β = 1,4. E(Ri) = %8 + 1,4 × %10 = %8 + %14 = %22. Beta > 1 olduğundan bu hisse senedi piyasadan daha risklidir ve daha yüksek getiri talep eder. Cevap C'dir. Yaygın hata: Bazı adaylar Rm'yi %10 sanarak hesaplar: %8 + 1,4 × (%10 - %8) = %10,8; bu yanlıştır çünkü soruda piyasa risk primi doğrudan verilmiştir.",
+  "aciklama": "CAPM formülü: E(Ri) = Rf + βi × [E(Rm) - Rf]. Burada Rf = %8, piyasa risk primi [E(Rm) - Rf] = %10, β = 1,4. E(Ri) = %8 + 1,4 × %10 = %8 + %14 = %22. Beta > 1 olduğundan bu hisse senedi piyasadan daha risklidir ve daha yüksek getiri talep eder. Doğru cevap: «%22». Yaygın hata: Bazı adaylar Rm'yi %10 sanarak hesaplar: %8 + 1,4 × (%10 - %8) = %10,8; bu yanlıştır çünkü soruda piyasa risk primi doğrudan verilmiştir.",
   "zorluk": "orta"
  },
  {
@@ -6268,7 +6204,7 @@
    "WACC değişmez, hisse başına beklenen getiri artar"
   ],
   "dogru": 4,
-  "aciklama": "MM Teoremi (vergisiz dünya) Önerme I: Firma değeri sermaye yapısından bağımsızdır; dolayısıyla WACC değişmez. Önerme II ise hisse senedi sahiplerinin beklenen getirisinin borçlanma oranı arttıkça artacağını söyler; çünkü artan finansal risk, özkaynak maliyetini yükseltir. Ancak bu artış tam olarak ucuz borcun etkisini dengelediğinden WACC sabit kalır. Borç/özkaynak oranı 1'e yükseldiğinde özkaynak sahipleri daha fazla finansal riskle karşılaşır ve beklenen getirileri artar; buna karşın WACC değişmez. Doğru cevap C'dir.",
+  "aciklama": "MM Teoremi (vergisiz dünya) Önerme I: Firma değeri sermaye yapısından bağımsızdır; dolayısıyla WACC değişmez. Önerme II ise hisse senedi sahiplerinin beklenen getirisinin borçlanma oranı arttıkça artacağını söyler; çünkü artan finansal risk, özkaynak maliyetini yükseltir. Ancak bu artış tam olarak ucuz borcun etkisini dengelediğinden WACC sabit kalır. Borç/özkaynak oranı 1'e yükseldiğinde özkaynak sahipleri daha fazla finansal riskle karşılaşır ve beklenen getirileri artar; buna karşın WACC değişmez. Doğru cevap: «WACC değişmez, hisse başına beklenen getiri artar».",
   "zorluk": "zor"
  },
  {
@@ -6320,22 +6256,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "52421",
-  "dersId": "isletme",
-  "konuId": "finans",
-  "soru": "XYZ A.Ş.'nin bilançosunda Dönen Varlıklar: 3.600.000 TL, Duran Varlıklar: 6.400.000 TL, Kısa Vadeli Borçlar: 2.400.000 TL, Uzun Vadeli Borçlar: 3.600.000 TL ve Özkaynak: 4.000.000 TL'dir. Şirket, 800.000 TL'lik yeni bir varlığı kısa vadeli banka kredisiyle finanse etmiştir. Bu işlem sonrasında Net İşletme Sermayesi ve Cari Oran'daki değişim aşağıdakilerden hangisinde doğru gösterilmiştir?",
-  "secenekler": [
-   "Net İşletme Sermayesi artar, Cari Oran değişmez",
-   "Net İşletme Sermayesi değişmez, Cari Oran artar",
-   "Net İşletme Sermayesi azalır, Cari Oran değişmez",
-   "Net İşletme Sermayesi azalır, Cari Oran azalır",
-   "Net İşletme Sermayesi değişmez, Cari Oran azalır"
-  ],
-  "dogru": 3,
-  "aciklama": "Mevcut durum: NİS = Dönen Varlıklar - KVB = 3.600.000 - 2.400.000 = 1.200.000 TL. Cari Oran = 3.600.000 / 2.400.000 = 1,50. İşlem: 800.000 TL'lik varlık kısa vadeli krediyle alınmıştır. Kritik soru: Bu varlık dönen mi yoksa duran mı? Sorudan 'yeni bir varlık' alındığı söylenmektedir; genel kabul duran varlık olarak değerlendirilir (borçlanmayla büyük varlık alımı tipik olarak duran varlıktır). Bu durumda Dönen Varlıklar değişmez (3.600.000 TL kalır), KVB 800.000 TL artar (3.200.000 TL olur). Yeni NİS = 3.600.000 - 3.200.000 = 400.000 TL → NİS azaldı (1.200.000'den 400.000'e). Yeni Cari Oran = 3.600.000 / 3.200.000 = 1,125 → Cari Oran azaldı. Hem NİS hem Cari Oran azalmıştır. Doğru cevap C'dir.",
-  "zorluk": "zor"
- },
- {
   "id": "52422",
   "dersId": "isletme",
   "konuId": "finans",
@@ -6348,7 +6268,7 @@
    "3,89 yıl"
   ],
   "dogru": 4,
-  "aciklama": "Önce tahvilin bugünkü değerini hesaplayalım: Kupon = 80 TL/yıl. PV kuponlar: 80×0,9091 + 80×0,8264 + 80×0,7513 + 80×0,6830 + 80×0,6209 = 72,73 + 66,11 + 60,10 + 54,64 + 49,67 = 303,25 TL. PV anapara: 1.000 × 0,6209 = 620,90 TL. Toplam PV = 303,25 + 620,90 = 924,15 TL. Macaulay Süresi = [Σ t × PV(CFt)] / Tahvil Fiyatı. t=1: 1 × 72,73 = 72,73; t=2: 2 × 66,11 = 132,22; t=3: 3 × 60,10 = 180,30; t=4: 4 × 54,64 = 218,56; t=5: 5 × (49,67 + 620,90) = 5 × 670,57 = 3.352,85. Toplam = 72,73 + 132,22 + 180,30 + 218,56 + 3.352,85 = 3.956,66. Macaulay Duration = 3.956,66 / 924,15 = 4,282 yıl. Modified Duration = Macaulay Duration / (1 + YTM) = 4,282 / 1,10 = 3,893 ≈ 3,89 yıl. Doğru cevap B'dir.",
+  "aciklama": "Önce tahvilin bugünkü değerini hesaplayalım: Kupon = 80 TL/yıl. PV kuponlar: 80×0,9091 + 80×0,8264 + 80×0,7513 + 80×0,6830 + 80×0,6209 = 72,73 + 66,11 + 60,10 + 54,64 + 49,67 = 303,25 TL. PV anapara: 1.000 × 0,6209 = 620,90 TL. Toplam PV = 303,25 + 620,90 = 924,15 TL. Macaulay Süresi = [Σ t × PV(CFt)] / Tahvil Fiyatı. t=1: 1 × 72,73 = 72,73; t=2: 2 × 66,11 = 132,22; t=3: 3 × 60,10 = 180,30; t=4: 4 × 54,64 = 218,56; t=5: 5 × (49,67 + 620,90) = 5 × 670,57 = 3.352,85. Toplam = 72,73 + 132,22 + 180,30 + 218,56 + 3.352,85 = 3.956,66. Macaulay Duration = 3.956,66 / 924,15 = 4,282 yıl. Modified Duration = Macaulay Duration / (1 + YTM) = 4,282 / 1,10 = 3,893 ≈ 3,89 yıl. Doğru cevap: «3,89 yıl».",
   "zorluk": "zor"
  },
  {
@@ -6380,7 +6300,7 @@
    "Delta ≈ 0,50; Theta negatif"
   ],
   "dogru": 2,
-  "aciklama": "Black-Scholes'te alım opsiyonu Delta = N(d₁). d₁ ≈ 0,6374 için N(0,6374) ≈ N(0,64) ≈ 0,7389 ≈ 0,74. Bu nedenle Delta ≈ 0,74'tür. Theta (zaman değerinin erimesi) alım opsiyonları için her zaman negatiftir; çünkü vakit geçtikçe ve diğer her şey sabitken opsiyonun zaman değeri azalır. Satım opsiyonları için Theta zaman zaman pozitif olabilir ancak alım opsiyonları için Theta daima negatiftir. Doğru cevap B'dir.",
+  "aciklama": "Black-Scholes'te alım opsiyonu Delta = N(d₁). d₁ ≈ 0,6374 için N(0,6374) ≈ N(0,64) ≈ 0,7389 ≈ 0,74. Bu nedenle Delta ≈ 0,74'tür. Theta (zaman değerinin erimesi) alım opsiyonları için her zaman negatiftir; çünkü vakit geçtikçe ve diğer her şey sabitken opsiyonun zaman değeri azalır. Satım opsiyonları için Theta zaman zaman pozitif olabilir ancak alım opsiyonları için Theta daima negatiftir. Doğru cevap: «Delta ≈ 0,74; Theta negatif».",
   "zorluk": "zor"
  },
  {
@@ -6428,7 +6348,7 @@
    "EVA 800.000 TL azalır"
   ],
   "dogru": 0,
-  "aciklama": "Mevcut EVA = NOPAT - (WACC × Yatırılan Sermaye) = 9.600.000 - (0,14 × 60.000.000) = 9.600.000 - 8.400.000 = 1.200.000 TL. Projenin EVA katkısı = Proje NOPAT - (WACC × Proje Sermayesi) = 1.200.000 - (0,14 × 10.000.000) = 1.200.000 - 1.400.000 = -200.000 TL. Projenin EVA katkısı negatiftir; yani proje kabul edilirse toplam EVA 200.000 TL azalır. Proje, sermaye maliyetini (ROIC = 1.200.000/10.000.000 = %12) WACC'nin (%14) altında kalacak şekilde getiri sağladığından değer yok edicidir. Doğru cevap B'dir.",
+  "aciklama": "Mevcut EVA = NOPAT - (WACC × Yatırılan Sermaye) = 9.600.000 - (0,14 × 60.000.000) = 9.600.000 - 8.400.000 = 1.200.000 TL. Projenin EVA katkısı = Proje NOPAT - (WACC × Proje Sermayesi) = 1.200.000 - (0,14 × 10.000.000) = 1.200.000 - 1.400.000 = -200.000 TL. Projenin EVA katkısı negatiftir; yani proje kabul edilirse toplam EVA 200.000 TL azalır. Proje, sermaye maliyetini (ROIC = 1.200.000/10.000.000 = %12) WACC'nin (%14) altında kalacak şekilde getiri sağladığından değer yok edicidir. Doğru cevap: «EVA 200.000 TL azalır».",
   "zorluk": "zor"
  },
  {
@@ -6476,7 +6396,7 @@
    "%21,34"
   ],
   "dogru": 4,
-  "aciklama": "MIRR hesabı: Terminal değer (TV) = nakit akışlarının yeniden yatırım oranıyla gelecek değerleri toplamı. TV = 200.000×(1,20)^2 + 250.000×(1,20)^1 + 300.000×(1,20)^0 = 200.000×1,44 + 250.000×1,20 + 300.000×1 = 288.000 + 300.000 + 300.000 = 888.000 TL. Bugünkü değer (PV) = başlangıç yatırımı ÷ (1+hurdle rate)^0 veya finansman maliyetiyle = 500.000 TL (nakit çıkışları zaten t=0'da). MIRR: 500.000 × (1+MIRR)^3 = 888.000. (1+MIRR)^3 = 888.000/500.000 = 1,776. 1+MIRR = (1,776)^(1/3) ≈ 1,2134. MIRR ≈ %21,34. Doğru cevap B'dir. IRR'nin yeniden yatırım varsayımındaki sakınca MIRR ile aşılır; bu sorunun odak noktası budur.",
+  "aciklama": "MIRR hesabı: Terminal değer (TV) = nakit akışlarının yeniden yatırım oranıyla gelecek değerleri toplamı. TV = 200.000×(1,20)^2 + 250.000×(1,20)^1 + 300.000×(1,20)^0 = 200.000×1,44 + 250.000×1,20 + 300.000×1 = 288.000 + 300.000 + 300.000 = 888.000 TL. Bugünkü değer (PV) = başlangıç yatırımı ÷ (1+hurdle rate)^0 veya finansman maliyetiyle = 500.000 TL (nakit çıkışları zaten t=0'da). MIRR: 500.000 × (1+MIRR)^3 = 888.000. (1+MIRR)^3 = 888.000/500.000 = 1,776. 1+MIRR = (1,776)^(1/3) ≈ 1,2134. MIRR ≈ %21,34. Doğru cevap: «%21,34». IRR'nin yeniden yatırım varsayımındaki sakınca MIRR ile aşılır; bu sorunun odak noktası budur.",
   "zorluk": "zor"
  },
  {
@@ -6572,7 +6492,7 @@
    "Teorik fiyat: 116 TL; Rüçhan hakkı değeri: 4 TL"
   ],
   "dogru": 3,
-  "aciklama": "Rüçhan hakkı sonrası teorik hisse fiyatı formülü: P_ex = (N×P0 + n×I) / (N+n). N = eski hisse sayısı = 4, n = yeni hisse sayısı = 1, P0 = eski fiyat = 120 TL, I = ihraç fiyatı = 80 TL. P_ex = (4×120 + 1×80) / (4+1) = (480 + 80) / 5 = 560/5 = 112 TL. Rüçhan hakkı teorik değeri = P0 - P_ex = 120 - 112 = 8 TL. Alternatif formül: Rüçhan hakkı değeri = (P_ex - I) / N = (112-80)/4 = 32/4 = 8 TL. Her iki formül de 8 TL vermektedir. Doğru cevap A'dır. Bu soru adayların rüçhan hakkı oranını (1:4) doğru yorumlayıp formüle doğru yerleştirmesini test eder.",
+  "aciklama": "Rüçhan hakkı sonrası teorik hisse fiyatı formülü: P_ex = (N×P0 + n×I) / (N+n). N = eski hisse sayısı = 4, n = yeni hisse sayısı = 1, P0 = eski fiyat = 120 TL, I = ihraç fiyatı = 80 TL. P_ex = (4×120 + 1×80) / (4+1) = (480 + 80) / 5 = 560/5 = 112 TL. Rüçhan hakkı teorik değeri = P0 - P_ex = 120 - 112 = 8 TL. Alternatif formül: Rüçhan hakkı değeri = (P_ex - I) / N = (112-80)/4 = 32/4 = 8 TL. Her iki formül de 8 TL vermektedir. Doğru cevap: «Teorik fiyat: 112 TL; Rüçhan hakkı değeri: 8 TL». Bu soru adayların rüçhan hakkı oranını (1:4) doğru yorumlayıp formüle doğru yerleştirmesini test eder.",
   "zorluk": "zor"
  },
  {

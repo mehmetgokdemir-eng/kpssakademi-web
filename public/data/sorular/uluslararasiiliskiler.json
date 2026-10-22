@@ -331,7 +331,7 @@
    "Nice Antlaşması",
    "Lizbon Antlaşması"
   ],
-  "dogru": 1,
+  "dogru": 0,
   "aciklama": "AB, 1992 Maastricht Antlaşması ile kurulmuştur. Roma Antlaşması ise 1957'de AET'yi kurmuştur.",
   "zorluk": "orta"
  },
@@ -1728,22 +1728,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "56111",
-  "dersId": "uluslararasiiliskiler",
-  "konuId": "ui_orgutler",
-  "soru": "Aşağıdaki örgütlerden hangisinin merkezi İstanbul'dadır?",
-  "secenekler": [
-   "Ekonomik İşbirliği Teşkilatı",
-   "Karadeniz Ekonomik İşbirliği",
-   "İslam İşbirliği Teşkilatı",
-   "Türk Devletleri Teşkilatı",
-   "Şanghay İşbirliği Örgütü"
-  ],
-  "dogru": 1,
-  "aciklama": "1992'de Türkiye öncülüğünde kurulan Karadeniz Ekonomik İşbirliği'nin daimî sekretaryası İstanbul'dadır.",
-  "zorluk": "orta"
- },
- {
   "id": "56112",
   "dersId": "uluslararasiiliskiler",
   "konuId": "ui_orgutler",
@@ -2014,22 +1998,6 @@
   "dogru": 0,
   "aciklama": "Türkiye 14 Nisan 1987'de tam üyelik başvurusunda bulunmuştur.",
   "zorluk": "kolay"
- },
- {
-  "id": "56129",
-  "dersId": "uluslararasiiliskiler",
-  "konuId": "ui_turk_dis_politika",
-  "soru": "2019 tarihli Türkiye-Libya Mutabakat Muhtırası hangi konuyla ilgilidir?",
-  "secenekler": [
-   "Deniz yetki alanlarının sınırlandırılması",
-   "Enerji nakil hatlarının güzergâhının belirlenmesi",
-   "İki ülke arasında ticaret serbestisi sağlanması",
-   "Askerî eğitim ve danışmanlık iş birliği kurulması",
-   "Düzensiz göçün ortak yönetimi ve denetimi"
-  ],
-  "dogru": 0,
-  "aciklama": "Kasım 2019'da imzalanan mutabakat, Doğu Akdeniz'de deniz yetki alanlarının sınırlandırılmasını düzenler.",
-  "zorluk": "zor"
  },
  {
   "id": "56130",
@@ -4779,7 +4747,7 @@
    "AFAD",
    "Yunus Emre Enstitüsü"
   ],
-  "dogru": 4,
+  "dogru": 1,
   "aciklama": "Yunus Emre Enstitüsü Türkçe öğretimi ve kültürel diplomasi faaliyetleri yürütür.",
   "zorluk": "orta"
  },

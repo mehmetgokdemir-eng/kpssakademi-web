@@ -21,11 +21,11 @@
       "Ankara bu konuda sessiz kaldı, Brüksel ise sert bir dil kullandı.",
       "Aslan yürekli adamlar bu zorluğa katlanır.",
       "Dağlar şaha kalktı, ovalar ağladı.",
-      "Eller kaldırıldı, kararın lehinde oy verildi.",
+      "Eller kaldırıldı, kararın lehinde oy verildi ve karar alındı. Oylama böylece tamamlandı.",
       "Mehmet'in gözleri güneş gibi parlıyordu."
      ],
      "dogru": 0,
-     "aciklama": "A seçeneğinde 'Ankara' başkent yer adıyla hükümet/yetkili makamı karşılamaktadır; bu ad aktarmasıdır (yakınlık/mekân ilişkisi). 'Brüksel' de aynı şekilde AB kurumlarını karşılar. 'Sert bir dil kullandı' ifadesinde ise 'dil' sözcüğü konuşmayı temsil etmek için kullanılmış olup bu da ad aktarmasıdır; ancak 'sert dil' içinde 'sert' sözcüğü benzerlik ilişkisiyle (sert madde → sert tavır) istiare işlevi görür. Dolayısıyla A cümlesinde her iki mecaz türü bir arada yer almaktadır.",
+     "aciklama": "Mecaz-ı mürsel yakınlık ilişkisine, istiare ise benzetme ilişkisine dayanır. Cümlede \"Ankara\" ve \"Brüksel\" sözcükleri şehir adıyla orada bulunan yönetimi anlatır. Bu yer-yönetim yakınlığına dayanan bir ad aktarmasıdır, yani mecaz-ı mürsel. \"Sert bir dil kullandı.\" ifadesinde ise sertlik, taş gibi sert nesnelerle benzerlik kurularak konuşmaya aktarılmıştır, bu da istiaredir. Böylece iki ilişki aynı cümlede birlikte bulunur. \"Dağlar şaha kalktı, ovalar ağladı.\" cümlesinde yalnızca benzetmeye dayalı aktarma vardır. \"Eller kaldırıldı\" ifadesinde ise yalnızca yakınlık ilişkisi bulunur. Doğru cevap \"Ankara bu konuda sessiz kaldı, Brüksel ise sert bir dil kullandı.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -41,7 +41,8 @@
       "Romanda ana tema (aşk) ve yan tema (özgürlük) işlenmiştir."
      ],
      "dogru": 3,
-     "aciklama": "Parantez; açıklama, kısaltmanın açılımı ya da ek bilgi vermek amacıyla kullanılır. D seçeneğinde 'TDK' kısaltmasının 'Türk Dil Kurumu' açılımının parantez içinde verilmesi yerine burada tersine kısaltma parantez içinde verilmiş; bu da bir kurum adının resmi kısaltmasını sunma işleviyle örtüşmektedir ve kabul edilebilir bir kullanımdır. A ve E seçeneklerinde parantezler cümlenin akışını bozacak biçimde gereksiz yerlere konulmuştur."
+     "aciklama": "Yay ayraç, cümlede anlamı açıklayan ya da tamamlayan bilgiyi ayırmak için kullanılır. Kısaltmalar da bu yolla verilebilir. \"Türkçe Sözlük (TDK) bu kelimeyi 'uyum' olarak tanımlamaktadır.\" cümlesinde \"TDK\" kısaltması, kurumun adını açıklayan bir bilgi olarak ayraç içinde verilmiştir. \"Hava (bugün) çok (güzel) ve (sıcak) olacak.\" seçeneğinde cümlenin asıl öğeleri gereksiz yere ayraca alınmıştır. \"Ahmet (arkadaşım) dün geldi ve (bana) bir kitap verdi.\" seçeneğinde de \"bana\" gibi cümlenin temel bir öğesi ayraçla ayrılmıştır. Bu kullanımlar yanlıştır. Doğru cevap \"Türkçe Sözlük (TDK) bu kelimeyi 'uyum' olarak tanımlamaktadır.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "38421",
@@ -72,7 +73,7 @@
       "Zaman geçtikçe o acı da unutulup gidecekti."
      ],
      "dogru": 3,
-     "aciklama": "B seçeneğinde zaman, 'fısıldamak' eylemiyle insana özgü bir eylem gerçekleştirmektedir. Fısıldamak, yalnızca insanların (ya da kişileştirilmiş varlıkların) yapabileceği bir eylemdir; bu nedenle zaman burada açıkça kişileştirilmiştir. A seçeneğinde zaman geçiyor ama herhangi bir insan eylemi yapmıyor. C'de 'durduğunu hissetti' öznenin algısıdır, zamanın kişileştirilmesi değildir. D'de zaman soyut bir kavram olarak kullanılmıştır. E'de ise zaman yönetimi anlatılmaktadır. Kişileştirme (teşhis) sanatı yalnızca B'de vardır.",
+     "aciklama": "Kişileştirme (teşhis), insan olmayan bir varlığa insana özgü davranışlar yüklemektir. \"Zaman, o eve bir daha geri dönmeyeceğini fısıldadı.\" cümlesinde soyut bir kavram olan zaman, fısıldayan bir insan gibi gösterilmiştir. \"O gün, zamanın durduğunu hissetti.\" cümlesinde zamanın durması mecazdır, ama zamana insani bir eylem, özellikle konuşma, yüklenmemiştir. \"Zaman geçtikçe o acı da unutulup gidecekti.\" cümlesi ise yalnızca zamanın akışını anlatır, kişileştirme içermez. Doğru cevap \"Zaman, o eve bir daha geri dönmeyeceğini fısıldadı.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -88,7 +89,8 @@
       "Bir insan bu kadar sabırlı olabilir mi?"
      ],
      "dogru": 3,
-     "aciklama": "'Bir' sözcüğü bir ismin önüne gelip onu nitelendirdiğinde ya da belirsizlik ifade ettiğinde sıfattır. C seçeneğinde 'biri' sözcüğü, '-i' zamiri eki almış ve 'arkadaşlarımdan' tamlayanının yerine geçmiştir; doğrudan bir ismin önüne gelmemektedir. Bu nedenle C'deki 'biri' belirsizlik zamiridir. Diğer seçeneklerde 'bir' sözcüğü daima bir ismin önünde gelip onu belirsizleştirdiği için sıfat işlevi görür."
+     "aciklama": "\"Bir\" sözcüğü bir ismi niteliyorsa sıfat, tek başına isim yerine kullanılıyorsa zamir olur. \"Arkadaşlarımdan biri beni aradı.\" cümlesinde \"biri\", \"bir\" sözcüğüne iyelik eki gelmiş biçimdir ve yanında isim bulunmaz; arkadaşlarımdan hangisi olduğu belirsiz bir kişinin yerini tutar, bu nedenle belgisiz zamirdir. \"Benden bir kalem ister misin?\" cümlesinde \"bir\", \"kalem\" ismini niteleyen sıfattır. \"Bir insan bu kadar sabırlı olabilir mi?\" cümlesinde de \"bir\", \"insan\" ismini niteler. Doğru cevap \"Arkadaşlarımdan biri beni aradı.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "40173",
@@ -103,7 +105,8 @@
       "Özne: annem – Nesne: sabahın"
      ],
      "dogru": 0,
-     "aciklama": "Cümlede 'Kim suladı?' sorusuna 'annem' cevabı verilir; bu yüzden özne 'annem'dir. 'Neyi suladı?' sorusuna ise 'çiçekleri' cevabı verilir; bu da belirtili nesnedir. 'Bahçedeki', 'sabahın', 'özenle' ise sırasıyla sıfat tamlaması, zarf tümleci ve zarf tümlecidir."
+     "aciklama": "Cümlede 'Kim suladı?' sorusuna 'annem' cevabı verilir; bu yüzden özne 'annem'dir. 'Neyi suladı?' sorusuna ise 'çiçekleri' cevabı verilir; bu da belirtili nesnedir. 'Bahçedeki', 'sabahın', 'özenle' ise sırasıyla sıfat tamlaması, zarf tümleci ve zarf tümlecidir.",
+     "zorluk": "orta"
     },
     {
      "id": "38929",
@@ -118,7 +121,7 @@
       "Çocuklar parkta oynaştı."
      ],
      "dogru": 1,
-     "aciklama": "Bir cümlede öznenin hem mantıksal özne (eylemi yapan) hem de mantıksal nesne (eylemden etkilenen) konumunda olması dönüşlü çatının temel özelliğidir. A'da 'oynaştı' işteş çatıdadır. B'de özne ve nesne farklı varlıklardır. C'de 'aynada kendine baktı' ifadesinde dolaylı tümleç vardır ancak 'bak-' fiili dönüşlü ek almamıştır. E'de 'aktı' geçişsiz etken çatıdadır. D seçeneğinde 'yordu' fiili etken ve geçişli kullanılmış olsa da 'kendini' sözcüğü dönüşlü zamir olarak nesne görevindedir. Böylece özne (sporcu) hem eylemi yapan hem de eylemin üzerinde gerçekleştiği kişi konumundadır. Dilbilgisel yapı etken görünse de anlam bakımından özne hem mantıksal özne hem de mantıksal nesnedir.",
+     "aciklama": "Mantıksal özne eylemi yapan, mantıksal nesne ise eylemden etkilenen varlıktır. \"Sporcu kendini yordu.\" cümlesinde yoran da yorulan da sporcudur. \"kendini\" sözcüğü belirtili nesnedir ve özneyle aynı kişiyi gösterir. Yani özne hem eylemi yapan hem de eylemden etkilenendir. \"Genç adam aynada kendine baktı.\" cümlesi akla gelebilir, ama burada \"kendine\" yönelme (dolaylı) tümleci olarak kullanılmıştır. Fiil nesne almamıştır, bu yüzden özne mantıksal nesne olmaz. \"Sular aktı.\" ve \"Çocuklar parkta oynaştı.\" cümlelerinde de nesne yoktur. Doğru cevap \"Sporcu kendini yordu.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -134,7 +137,7 @@
       "Kalem ile kağıdı çantasına koydu."
      ],
      "dogru": 2,
-     "aciklama": "B seçeneğinde 'Ahmet ile Mehmet'in arabası' ifadesi iki anlama gelmektedir: (1) Ahmet ile Mehmet'e ait ortak arabanın çalınması, (2) Ahmet'in ve Mehmet'in ayrı arabalarının çalınması. 'ile' bağlacının kullanımı tamlama sınırını bulanıklaştırmakta; arabanın kime ait olduğu belirsizleşmektedir. Diğer seçeneklerde 'ile' bağlacı anlam açısından net bir şekilde görev yapmaktadır.",
+     "aciklama": "\"Ahmet ile Mehmet'in arabası çalındı.\" cümlesinde iki anlam çıkabilir. Birincisi, arabanın Ahmet ile Mehmet'e ortak ait olmasıdır. İkincisi, Ahmet'in ayrı bir şeyi, Mehmet'in arabasıyla birlikte çalınmış olmasıdır. \"Ile\" bağlacı ve iyelik eki, ögelerin birbirine bağlanışını belirsiz bıraktığı için yapısal bir belirsizlik doğar. \"Kalem ile kağıdı çantasına koydu.\" cümlesinde \"ile\" iki nesneyi eşit biçimde bağlar ve tek anlam çıkar. \"Bıçak ile çatal sofrada yerli yerinde duruyordu.\" cümlesi de açıktır. Doğru cevap \"Ahmet ile Mehmet'in arabası çalındı.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -150,7 +153,8 @@
       "IV"
      ],
      "dogru": 4,
-     "aciklama": "Parçanın ana fikri, şehirleşmenin insanların yaşam biçimini ve geleneksel değerleri nasıl dönüştürdüğü üzerine kuruludur. I, II, III ve V numaralı cümleler bu ana fikri destekler nitelikte birbirine bağlıdır. IV numaralı cümle ise tarihsel süreçte uygarlıkların şehri medeniyet göstergesi olarak benimsemesinden söz etmektedir; bu bilgi parçanın öznel konusuyla ilgisizdir ve düşüncenin akışını bozmaktadır."
+     "aciklama": "Parçanın ana fikri, şehirleşmenin insanların yaşam biçimini ve geleneksel değerleri nasıl dönüştürdüğü üzerine kuruludur. I, II, III ve V numaralı cümleler bu ana fikri destekler nitelikte birbirine bağlıdır. IV numaralı cümle ise tarihsel süreçte uygarlıkların şehri medeniyet göstergesi olarak benimsemesinden söz etmektedir; bu bilgi parçanın öznel konusuyla ilgisizdir ve düşüncenin akışını bozmaktadır.",
+     "zorluk": "orta"
     },
     {
      "id": "39670",
@@ -165,7 +169,8 @@
       "İki cambaz bir ipte oynamaz."
      ],
      "dogru": 3,
-     "aciklama": "'Herkese yâr olan, hiç kimseye yar olamaz' atasözü, herkesle iyi geçinmeye, herkesi memnun etmeye çalışan kişinin sonunda gerçek anlamda hiç kimsenin dostu olamayacağını ifade eder. Bu, sorudaki cümlenin anlamıyla birebir örtüşmektedir. A seçeneği 'İki cambaz bir ipte oynamaz' iki güçlü kişinin aynı alanda rekabet edemeyeceğini anlatır. C seçeneği 'Bir elde iki karpuz tutulmaz' iki büyük işi aynı anda yürütmenin zorluğunu ifade eder. Her iki çeldirici seçenek de 'iki şeyi birden yapmanın güçlüğü' temasıyla soruyla benzerlik kurabilir; ancak sorudaki vurgu güven kazanamamak üzerinedir ve B en doğru karşılıktır."
+     "aciklama": "Cümle, herkesi memnun etmeye çalışan kişinin sonunda kimsenin güvenini kazanamayacağını söyler. \"Herkese yâr olan, hiç kimseye yar olamaz\" atasözü de herkesle iyi geçinmeye çalışanın gerçek bir dost ya da güvenilir bir destek olamayacağını anlatır; anlam birebir örtüşür. \"Bir elde iki karpuz tutulmaz\" aynı anda iki işi becermenin zorluğunu anlatır, güven kazanma konusuna değinmez. \"İki cambaz bir ipte oynamaz\" ise aynı alanda iki rakibin ya da iki otoritenin barınamayacağını söyler. \"Mum dibine ışık vermez\" yakındakilere fayda sağlanamamasıdır; \"Dağ dağa kavuşmaz...\" ise insanların bir araya gelebileceğini söyler. Doğru cevap \"Herkese yâr olan, hiç kimseye yar olamaz.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "38060",
@@ -176,11 +181,12 @@
       "Uzun süredir görüşmediği dostlarını özlemişti.",
       "Yüzüğünü düşürünce onu aramaktan gözleri yoruldu.",
       "Yaptığı hatalar sonucunda herkesin sevgi ve saygısını yitirdi.",
-      "Gözlerinde oluşan rahatsızlık onu uzun süre korkuttu.",
+      "Gözlerinde oluşan rahatsızlık onu uzun süre çok korkuttu. Doktora gitmek zorunda kaldı.",
       "Bir türlü farkına varılamadı, görmezden gelindi."
      ],
      "dogru": 2,
-     "aciklama": "'Gözden düşmek' deyimi 'birinin gözündeki değerini, itibarını yitirmek; saygınlığını kaybetmek' anlamına gelir. A seçeneğinde 'herkesin sevgi ve saygısını yitirdi' ifadesi bu anlama tam olarak karşılık gelmektedir. B'de fiziksel bir düşürme olayı, C'de özlem, D'de sağlık sorunu, E'de ise görmezden gelinme anlamı söz konusudur."
+     "aciklama": "\"Gözden düşmek\" deyimi, bir kişinin değerini, sevgisini ve saygınlığını kaybetmesi anlamına gelir. Önce deyimin bu anlamı belirlenir, sonra her cümlede bu anlam aranır. \"Yaptığı hatalar sonucunda herkesin sevgi ve saygısını yitirdi.\" cümlesinde kişi, davranışları yüzünden çevresinin gözünde değerini kaybetmiştir; bu, deyimin anlamıyla birebir örtüşür. \"Yüzüğünü düşürünce onu aramaktan gözleri yoruldu.\" cümlesi ise yalnızca sözcüklerin gerçek anlamına dayanır ve deyimle ilgisi yoktur. \"Bir türlü farkına varılamadı, görmezden gelindi.\" cümlesi de fark edilmemeyi anlatır; oysa gözden düşmede kişi tanınır, ancak itibarını yitirir. Doğru cevap \"Yaptığı hatalar sonucunda herkesin sevgi ve saygısını yitirdi.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "38620",
@@ -211,7 +217,7 @@
       "\"Bu işi ben yapacağım\" diyerek söz verdi."
      ],
      "dogru": 3,
-     "aciklama": "Alıntı cümle ana cümlenin içinde devam ettiği için tırnak içinde nokta konulmamalı, virgülle bağlanmalıydı; E seçeneğinde ise yanlışlık yok. Doğru cevap D seçeneğidir.",
+     "aciklama": "Alıntı cümle ana cümlenin içinde devam ettiği için tırnak içinde nokta konulmamalı, virgülle bağlanmalıydı; “\"Bu işi ben yapacağım\" diyerek söz verdi.” seçeneğinde ise yanlışlık yok. Doğru cevap “Yazar, \"Edebiyat bir ihtiyaçtır; onsuz yaşanmaz.\" görüşünü savundu.” seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -227,7 +233,7 @@
       "Herkes bu işi onun yaptığını sanıyor."
      ],
      "dogru": 3,
-     "aciklama": "'O da en az senin kadar çalışmış' cümlesi dilbilgisel olarak olumludur; ama 'en az senin kadar' niteleyicisi, kişinin yalnızca asgari düzeyde çalıştığını ima eder ve bu, gizli bir yetersizlik yargısı taşır. Yani olumlu görünen yapı, karşılaştırma yoluyla örtülü bir olumsuz değerlendirme barındırır. Diğer seçenekler ya açıkça olumsuz (B, E) ya da nötr ya da olumlu bir anlam üretir.",
+     "aciklama": "Soruda yüzeyde olumlu görünen ama bağlamda olumsuz yargı bildiren cümle aranıyor. \"O da en az senin kadar çalışmış.\" cümlesi biçim olarak olumludur; ancak \"en az senin kadar\" kalıbı, karşıdakinin çalışmasının düşük olduğunu ima ederek bir eleştiri ya da küçümseme çağrıştırabilir. Bu da ancak bağlamla anlaşılır. \"Kimse onun kadar güzel konuşamaz.\" ve \"Bu şiiri ancak onun kadar derin biri anlayabilir.\" cümleleri ise açıkça över. \"Yıllarca emek vermiş, sonunda başaramamış.\" cümlesi zaten yüzeyde de olumsuzdur. Doğru cevap \"O da en az senin kadar çalışmış.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -259,7 +265,8 @@
       "Köyün tek çeşmesinden"
      ],
      "dogru": 3,
-     "aciklama": "Cümlede yüklemi gerçekleştiren varlık 'yaşlı adam'dır. 'Sabahın erken saatlerinde' zarf tümleci (zaman), 'köyün tek çeşmesinden' dolaylı tümleç (ayrılma), 'soğuk suyu' ise nesne (belirtili) görevindedir. Özne, yüklemin bildirdiği eylemi yapan ya da yüklemi üstlenen unsurdur; bu cümlede 'yaşlı adam' bu işlevi üstlenmektedir."
+     "aciklama": "Cümlede yüklemi gerçekleştiren varlık 'yaşlı adam'dır. 'Sabahın erken saatlerinde' zarf tümleci (zaman), 'köyün tek çeşmesinden' dolaylı tümleç (ayrılma), 'soğuk suyu' ise nesne (belirtili) görevindedir. Özne, yüklemin bildirdiği eylemi yapan ya da yüklemi üstlenen unsurdur; bu cümlede 'yaşlı adam' bu işlevi üstlenmektedir.",
+     "zorluk": "orta"
     },
     {
      "id": "40288",
@@ -306,7 +313,7 @@
       "Araştırmaların genellenebilirliği sorgulanmadan kabul edilmektedir."
      ],
      "dogru": 1,
-     "aciklama": "Parçada yapılan temel hata, 'klasik müzik dinleyenler daha başarılı oluyor' gözleminden (korelasyon/ilişkisellik) 'klasik müzik bilişsel gelişimi artırıyor' sonucuna (nedensellik) geçişin meşru sayılmasıdır. Bu, klasik bir korelasyon-nedensellik yanılgısıdır. Başarılı çocukların daha zengin ailelerde yetişmiş olması, ya da o ailelerin hem müzik hem de eğitime yatırım yapması gibi üçüncü değişkenler göz ardı edilmektedir. B seçeneği bu hatayı tam olarak ifade etmektedir. D seçeneği cazip görünebilir ancak parçadaki hata tümdengelimsel biçimle değil, öncülün kendisinin yanlış türetilmesiyle ilgilidir.",
+     "aciklama": "Parçada klasik müzik dinleyen çocukların yetişkinlikte daha başarılı olduğu şeklinde bir birliktelik verilmektedir. Yazar bu birlikteliği önce \"doğrudan artırmaktadır\" diyerek nedenselliğe, sonra da müzik derslerinin artırılmasının başarıyı yükselteceği sonucuna taşır. Oysa iki olgunun birlikte görülmesi, birinin diğerine yol açtığını göstermez. Aile geliri, eğitim düzeyi gibi üçüncü etkenler hem müzik dinlemeyi hem de başarıyı etkilemiş olabilir. \"Araştırmaların genellenebilirliği sorgulanmadan kabul edilmektedir.\" seçeneği ikincil bir eksikliğe değiniyor ama temel hata değildir. \"Sonuç, kanıtlanmamış bir öncülden tümdengelimle çıkarılmaktadır.\" seçeneği de hatanın türünü doğru adlandırmaz, çünkü akıl yürütme verilerden genellemeye doğrudur. Doğru cevap \"İlişkisellik ile nedensellik birbirine karıştırılmaktadır.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -317,9 +324,9 @@
      "secenekler": [
       "Değirmenlerin suya ihtiyacı vardır.",
       "Bir işin kalıcı olması için kendi özüne ait kaynaklara dayanması gerekir.",
-      "Ödünç alınan şeyler her zaman işe yaramaz.",
+      "Ödünç alınan şeyler hiçbir zaman gerçekten işe yaramaz, üstelik geri verilmesi gerekir.",
       "Su olmadan tarım yapılamaz.",
-      "Zahmetli işler her zaman sonuç vermez."
+      "Zahmetli işler her zaman istenen sonucu vermez."
      ],
      "dogru": 1,
      "aciklama": "\"Taşıma su ile değirmen dönmez\" atasözü; bir kurumun, işletmenin ya da durumun, dışarıdan sağlanan geçici kaynaklarla değil, kendi öz kaynaklarıyla ayakta durması gerektiğini anlatır.",
@@ -386,7 +393,7 @@
       "Yağmur yağdı, sokaklar ıslandı."
      ],
      "dogru": 1,
-     "aciklama": "C seçeneğindeki 'erken yatarsan... kalkarsın' yapısı, bir koşulun (erken yatmak) gerçekleşmesi durumunda ortaya çıkacak sonucu (dinlenmiş kalkmak) bildirmektedir. Bu 'koşul-sonuç' ilişkisidir. A'da art arda gerçekleşen iki olay (neden-sonuç), B ve D'de birliktelik, E'de olumsuzluk anlamı taşıyan bağlaçlar söz konusudur.",
+     "aciklama": "Koşul-sonuç ilişkisinde bir eylemin gerçekleşmesi, ikinci eylemin gerçekleşmesine bağlıdır. \"Erken yatarsan dinlenmiş kalkarsın.\" cümlesinde \"-sa\" (-ırsan) koşul eki vardır: erken yatma koşulu, dinlenmiş kalkma sonucunu doğurur. \"Hava soğuktu ve palto giydim.\" cümlesinde neden-sonuç ilişkisi bulunur, koşul yoktur. \"Yağmur yağdı, sokaklar ıslandı.\" cümlesi de gerçekleşmiş bir neden-sonuç durumunu anlatır, bir koşul bildirmez. Doğru cevap \"Erken yatarsan dinlenmiş kalkarsın.\" seçeneğidir.",
      "zorluk": "kolay"
     },
     {
@@ -401,8 +408,9 @@
       "Zarf-fiil – fiil – zamir – isim",
       "İsim-fiil – yardımcı fiil – zamir – isim"
      ],
-     "dogru": 3,
-     "aciklama": "'Gidince': fiil kökünden '-ince' zarf-fiil ekiyle türemiş → zarf-fiil. 'Anlar': geniş zaman çekimli fiil. 'İnsan': burada özne konumunda görünse de öznenin belirsizliği söz konusudur; genel özne olduğundan bazı analizlerde zamir olarak değerlendirilebilir. 'Değerini': isim + iyelik + belirtme hâli → isim. KPSS bağlamında 'insan' bu cümlede belirli bir kişiyi değil genel insanı temsil ettiğinden zamir (belgisiz zamir) sayılır. Doğru yanıt B'dir."
+     "dogru": 2,
+     "aciklama": "'İnsan' sözcüğü zamir değil isimdir; sıralama zarf-fiil – fiil – isim – isimdir. Doğru cevap Zarf-fiil – fiil – isim – isim şeklindedir.",
+     "zorluk": "orta"
     },
     {
      "id": "40200",
@@ -417,7 +425,8 @@
       "6"
      ],
      "dogru": 1,
-     "aciklama": "Cümledeki ögeler şöyle belirlenir: 'Yaşlı adam' (özne) / 'her sabah' (zaman zarf tümleci) / 'parkta' (dolaylı tümleç, -de bulunma) / 'yürüyüş yapar' (yüklem, belirtisiz nesne + yüklem olarak da çözümlenebilir). Burada 'yürüyüş' sözcüğü 'yapar' fiiliyle birleşik yüklem oluşturduğundan tek bir yüklem sayılır; bu yorumla öge sayısı 4'tür. Farklı bir çözümlemede 'yürüyüş' belirtisiz nesne kabul edilirse öge sayısı 5 olur; ancak ÖSYM uygulamalarında 'yürüyüş yapmak' kalıbı birleşik yüklem sayıldığından öge sayısı 4 kabul edilir."
+     "aciklama": "Cümledeki ögeler şöyle belirlenir: 'Yaşlı adam' (özne) / 'her sabah' (zaman zarf tümleci) / 'parkta' (dolaylı tümleç, -de bulunma) / 'yürüyüş yapar' (yüklem, belirtisiz nesne + yüklem olarak da çözümlenebilir). Burada 'yürüyüş' sözcüğü 'yapar' fiiliyle birleşik yüklem oluşturduğundan tek bir yüklem sayılır; bu yorumla öge sayısı 4'tür. Farklı bir çözümlemede 'yürüyüş' belirtisiz nesne kabul edilirse öge sayısı 5 olur; ancak ÖSYM uygulamalarında 'yürüyüş yapmak' kalıbı birleşik yüklem sayıldığından öge sayısı 4 kabul edilir.",
+     "zorluk": "orta"
     },
     {
      "id": "40330",
@@ -464,7 +473,8 @@
       "Bazı çağdaş yapılar, modernizmin özgün ilkelerinden sapma göstermektedir."
      ],
      "dogru": 3,
-     "aciklama": "A şıkkına parçanın ilk cümlesinden, B şıkkına modernizmin işlevselliği ön plana çıkardığına dair ifadeden, C şıkkına çağdaş ikonik yapıların eski iktidar mimarisine dönüştüğü yargısından, E şıkkına saraylar ve anıtsal binalara ilişkin açıklamadan ulaşılabilir. D şıkkında ise 'tarihin hiçbir döneminde' ifadesindeki genelleme parçada yer almamakta; aksine parça iktidar mimarisini sadelikten uzak olarak nitelendirmektedir. Bu yargıya parçadan ulaşmak mümkün değildir."
+     "aciklama": "Parçada mimarinin iktidarın gücünü görsel olarak temsil ettiği, modernizmin ise işlevselliği ön plana çıkararak bu anlayışı kırmaya çalıştığı söylenir. Bu, \"Anıtsal yapılar, kurumsal ya da devlet gücünü simgeleme amacı taşır.\" ve \"Mimari, siyasi ve toplumsal güç ilişkilerinden bağımsız değildir.\" yargılarını destekler. \"Bazı çağdaş yapılar, modernizmin özgün ilkelerinden sapma göstermektedir.\" yargısı da son cümleden çıkar. Parça, iktidar mimarisinin işlevden hiç vazgeçmediğini söylemez. Aksine büyük saray ve anıtların işlevden çok gücü temsil etme ihtiyacından doğduğunu belirtir. Hiçbir dönemde işlevselden vazgeçilmediği iddiası parçada dayanaktan yoksundur ve ona ters düşer. Doğru cevap \"İktidar mimarisi, tarihin hiçbir döneminde işlevselden vazgeçmemiştir.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "38223",

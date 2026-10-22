@@ -13,34 +13,35 @@
    "ad": "Güncel Bilgiler",
    "sorular": [
     {
-     "id": "36045",
+     "id": "36092",
      "dersId": "guncel",
      "konuId": "turkiye_guncel",
-     "soru": "Türkiye'nin 2023 yılında açıkladığı 'Yeşil Mutabakat Eylem Planı' kapsamında 2053 yılına kadar ulaşmayı hedeflediği karbon nötrlüğü hedefi doğrultusunda hangi alanda en kapsamlı dönüşüm programı başlatılmıştır?",
+     "soru": "Türkiye'nin Orta Vadeli Program (OVP) hedefleri ile IMF'nin Türkiye'ye yönelik Madde IV Değerlendirmeleri karşılaştırıldığında, kronik olarak öne çıkan temel yapısal sorun aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Konut sektöründe kömür yakıtının kaldırılması",
-      "Sanayide doğalgaz kullanımının tamamen yasaklanması",
-      "Ulaşımda elektrikli araç kullanım zorunluluğu",
-      "Enerji sektöründe yenilenebilir kaynaklara geçiş",
-      "Tarım sektöründe organik üretim zorunluluğu"
-     ],
-     "dogru": 3,
-     "aciklama": "Türkiye'nin 2053 net sıfır emisyon hedefi çerçevesinde en kapsamlı dönüşüm programı enerji sektöründe yürütülmektedir. Güneş, rüzgâr ve hidroelektrik kapasitesinin artırılması öncelikli alan olarak belirlenmiş; YEKA (Yenilenebilir Enerji Kaynak Alanları) ihaleleri bu kapsamda genişletilmiştir."
-    },
-    {
-     "id": "36127",
-     "dersId": "guncel",
-     "konuId": "uluslararasi_guncel",
-     "soru": "Aşağıdaki ülkelerden hangisi BRICS grubunun kurucu üyelerinden biri değildir?",
-     "secenekler": [
-      "Güney Afrika",
-      "Hindistan",
-      "Meksika",
-      "Rusya",
-      "Brezilya"
+      "Kamu borç stokunun AB Maastricht kriterlerini aşarak sürdürülemez hale gelmesi",
+      "Nüfus artış hızının ekonomik büyüme hızını aşarak işsizlik baskısı yaratması",
+      "Cari açığın yapısal niteliği; enerji ve ara malı ithalatına bağımlılığın ihracat büyümesini gölgelemesi",
+      "Tarım sektörünün GSYİH içindeki payının hızla düşmesi ve gıda güvensizliği riski",
+      "Bankacılık sektörünün takipteki kredi oranının %25'i geçmesi ve sistemik risk oluşturması"
      ],
      "dogru": 2,
-     "aciklama": "BRICS, Brezilya, Rusya, Hindistan, Çin ve Güney Afrika'dan oluşan bir ekonomik gruptur. Meksika bu grubun üyesi değildir.",
+     "aciklama": "Türkiye'nin cari açığı, enerji ithalatı ve yüksek ara malı bağımlılığı nedeniyle yapısal bir sorun olarak değerlendirilmektedir. IMF Madde IV değerlendirmeleri bu yapısal kırılganlığı defalarca vurgulamıştır. Kamu borç stoku GSYİH'nin yaklaşık %35-40'ı düzeyinde olup Maastricht eşiğinin altındadır. Takipteki kredi oranı %25 iddiası gerçek verileri yansıtmamaktadır.",
+     "zorluk": "zor"
+    },
+    {
+     "id": "36122",
+     "dersId": "guncel",
+     "konuId": "uluslararasi_guncel",
+     "soru": "NATO'nun genel merkezi hangi ülkede bulunmaktadır?",
+     "secenekler": [
+      "Hollanda",
+      "Almanya",
+      "Lüksemburg",
+      "Fransa",
+      "Belçika"
+     ],
+     "dogru": 4,
+     "aciklama": "NATO (Kuzey Atlantik Antlaşması Örgütü) genel merkezi Belçika'nın başkenti Brüksel'de bulunmaktadır. Örgüt 1949 yılında kurulmuştur.",
      "zorluk": "kolay"
     },
     {
@@ -51,12 +52,12 @@
      "secenekler": [
       "Kuantum üstünlüğü yalnızca kriptografi alanındaki problemlerde geçerli bir kavram olup diğer alanlarda klasik bilgisayarlar hâlâ üstündür.",
       "Google'ın Sycamore işlemcisi 2019'da belirli bir örnekleme görevini klasik süperbilgisayarların öngörülen süresinden çok daha kısa sürede tamamlayarak bu eşiği aştığını iddia etmiştir.",
-      "IBM, Google'ın kuantum üstünlüğü iddiasını deneysel ölçümlerle çürütmüş ve kendi Summit bilgisayarının aynı görevi daha kısa sürede tamamladığını kanıtlamıştır.",
+      "IBM, Google'ın kuantum üstünlüğü iddiasını deneysel ölçümlerle çürütmüş ve kendi Summit süperbilgisayarının aynı örnekleme görevini daha kısa sürede tamamladığını kanıtlayarak iddiayı geçersiz kılmıştır.",
       "Kuantum üstünlüğü, bir kuantum bilgisayarın klasik bilgisayarların çözemeyeceği her problemi çözebildiği durumu ifade eder.",
       "Çin'in Jiuzhang fotonik kuantum bilgisayarı, Google'dan önce kuantum üstünlüğünü elde eden ilk sistem olarak tarihe geçmiştir."
      ],
      "dogru": 1,
-     "aciklama": "Google'ın Sycamore işlemcisi, Ekim 2019'da 'kuantum üstünlüğü' iddiasını içeren Nature makalesinde, belirli rastgele devre örneklemesi görevini o dönemin en güçlü klasik süperbilgisayarının 10.000 yılda tamamlayacağı işi 200 saniyede tamamladığını öne sürdü. IBM ise teorik bir karşı argümanla bu sürenin optimize edilmiş klasik algoritmalarla 2,5 güne indirilebileceğini savundu; ancak bunu deneysel olarak kanıtlamadı, dolayısıyla C şıkkı yanlıştır. A şıkkı tanımı hatalı genelleştirir; kavram 'belirli bir görev' için geçerlidir. D şıkkı kavramı yanlış sınırlandırır. E şıkkı tarihsel sırayı yanlış vermektedir; Jiuzhang 2020'de duyurulmuştur.",
+     "aciklama": "Google, 2019'da Sycamore işlemcisiyle belirli bir rastgele devre örnekleme görevini yaklaşık 200 saniyede tamamladığını, aynı işin klasik süperbilgisayarlarda on binlerce yıl süreceğini öne sürdü. Burada kilit nokta, bunun bir \"iddia\" olmasıdır: kuantum üstünlüğü, kuantum cihazın belirli bir görevde klasik bilgisayarlardan pratikte çok daha hızlı olmasıdır ve tek bir alanla sınırlı değildir. IBM, Google'ın süre tahminine itiraz etti ve görevin klasik sistemlerde çok daha kısa sürede yapılabileceğini savundu. Ancak bu bir itirazdı; iddiayı deneysel olarak kesin biçimde geçersiz kıldığı söylenemez. Bu yüzden \"IBM, Google'ın kuantum üstünlüğü iddiasını deneysel ölçümlerle çürütmüş...\" seçeneği yanlıştır. \"Kuantum üstünlüğü, bir kuantum bilgisayarın klasik bilgisayarların çözemeyeceği her problemi çözebildiği durumu ifade eder\" seçeneği de yanlıştır, çünkü kavram her problemi değil, belirli bir görevi kapsar. Doğru cevap \"Google'ın Sycamore işlemcisi 2019'da belirli bir örnekleme görevini\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -84,11 +85,12 @@
       "Azerbaycan – Gürcistan – Türkiye üzerinden Avrupa",
       "Irak – Suriye – Lübnan",
       "İran – Pakistan – Hindistan",
-      "Kazakistan – Rusya – Türkiye",
-      "Ermenistan – Ukrayna – Moldova"
+      "Kazakistan – Rusya – Türkiye hattı",
+      "Ermenistan – Ukrayna – Moldova üzerinden Avrupa hattı üzerinden Baltık"
      ],
      "dogru": 0,
-     "aciklama": "Orta Koridor (Trans-Hazar Uluslararası Taşıma Güzergâhı), Orta Asya'yı Azerbaycan ve Gürcistan üzerinden Türkiye'ye ve buradan Avrupa'ya bağlamaktadır. Rusya-Ukrayna Savaşı'nın ardından bu güzergâhın önemi stratejik açıdan büyük ölçüde artmış; Türkiye hem enerji hem de ticaret lojistiğinde kilit aktör konumuna gelmiştir."
+     "aciklama": "Orta Koridor (Trans-Hazar Uluslararası Taşıma Güzergâhı), Orta Asya'yı Azerbaycan ve Gürcistan üzerinden Türkiye'ye ve buradan Avrupa'ya bağlamaktadır. Rusya-Ukrayna Savaşı'nın ardından bu güzergâhın önemi stratejik açıdan büyük ölçüde artmış; Türkiye hem enerji hem de ticaret lojistiğinde kilit aktör konumuna gelmiştir.",
+     "zorluk": "orta"
     },
     {
      "id": "36165",
@@ -103,7 +105,8 @@
       "İngiliz Sterlini"
      ],
      "dogru": 1,
-     "aciklama": "IMF'nin Özel Çekme Hakları (SDR) sepetinde beş para birimi yer almaktadır: ABD Doları, Euro, Çin Yuanı (Renminbi), Japon Yeni ve İngiliz Sterlini. Hindistan Rupisi SDR sepetine henüz dahil edilmemiştir. Çin Yuanı, 2016 yılında bu sepete eklenmiştir."
+     "aciklama": "IMF'nin Özel Çekme Hakları (SDR) sepetinde beş para birimi yer almaktadır: ABD Doları, Euro, Çin Yuanı (Renminbi), Japon Yeni ve İngiliz Sterlini. Hindistan Rupisi SDR sepetine henüz dahil edilmemiştir. Çin Yuanı, 2016 yılında bu sepete eklenmiştir.",
+     "zorluk": "orta"
     },
     {
      "id": "36219",
@@ -182,7 +185,7 @@
       "Cas9'un nikaz (nickase) mutantı ile çift guide RNA stratejisinin kombinasyonu"
      ],
      "dogru": 1,
-     "aciklama": "Hedef dışı etkileri azaltmaya yönelik en köklü çözüm, çift zincir kırığı yapmadan tek bazı değiştiren 'baz düzenleme' ve herhangi bir çift zincir kırığı oluşturmadan küçük sekans değişikliklerine olanak tanıyan 'ana düzenleme (prime editing)' teknolojilerinin geliştirilmesidir. Bu yöntemler 2023 itibarıyla birden fazla klinik deneme aşamasındadır ve off-target etkiyi dramatik biçimde azaltır. A, C, D ve E seçenekleri kısmen doğru önlemler içerse de hiçbiri klinik uygulamaya yakınlık ve off-target azaltma etkinliği açısından B seçeneğiyle yarışamaz. Prime editing, Cas9 türevli bir enzim, ters transkriptaz ve prime editing guide RNA kombinasyonu kullanarak DNA'yı doğrudan düzeltir.",
+     "aciklama": "Baz düzenleme ve ana düzenleme, DNA'da çift zincir kırığı oluşturmadan hedefli değişiklik yapar. Bu sayede hedef dışı kesimlere ve istenmeyen eklenti ya da silinmelere bağlı riskler önemli ölçüde azalır. 2023 itibarıyla baz düzenleme insan klinik denemelerine girmiş, ana düzenleme de klinik aşamaya yaklaşmıştır; bu yüzden soruda tarif edilen yaklaşım budur. \"Cas9'un nikaz (nickase) mutantı ile çift guide RNA stratejisinin kombinasyonu\" seçeneği de hedef dışı etkiyi azaltır. Ancak bu daha eski bir laboratuvar stratejisidir ve klinik gelişimde baz düzenlemenin gerisinde kalmıştır. \"Guide RNA'nın 18 nükleotid yerine 24 nükleotid uzunluğunda tasarlanması\" seçeneği yanlıştır; standart guide yaklaşık 20 nükleotiddir ve uzatmak özgüllüğü güvenilir biçimde artırmaz. Doğru cevap \"Baz düzenleme (base editing) ve ana düzenleme (prime editing) teknolojilerinin geliştirilmesi\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -208,7 +211,7 @@
      "soru": "Türkiye'nin Suriyeli mülteci politikasında 2023 sonrasında belirginleşen 'gönüllü geri dönüş' vurgusunun ekonomi-politik analizi yapıldığında, aşağıdaki hangi değişken bu politika değişimini en bütünlüklü açıklar?",
      "secenekler": [
       "Suriye'de siyasi istikrarın yeniden sağlanmış olması",
-      "Suriyelilerin Türk vatandaşlığına başvurularının önünün yasal olarak kapatılmış olması",
+      "Suriyelilerin Türk vatandaşlığına başvurularının önünün yasal düzenlemeyle tamamen kapatılmış olması ve geçici koruma statüsünün süresiz hale getirilmesi",
       "Seçmen tercihlerinin mülteci varlığına yönelik artan olumsuzluğu ile ekonomik baskının iç siyasi dinamiklere yansıması",
       "AB'nin Türkiye'ye yönelik mülteci yardımlarını durdurmuş olması",
       "Türkiye'nin BMMYK ile varolan mülteci finansmanı anlaşmazlığı"
@@ -243,7 +246,7 @@
       "XAI yalnızca modelin doğruluk oranını artırmaya yönelik bir optimizasyon tekniğidir; şeffaflıkla ilgisi yoktur.",
       "XAI çalışmaları, yapay zeka kararlarını insan tarafından anlaşılır kılmayı hedefler; bu durum özellikle sağlık ve hukuk gibi kritik alanlarda hesap verebilirlik açısından zorunluluk haline gelmektedir.",
       "Derin öğrenme modellerinin kara kutu niteliği taşıması, bu modellerin güvenlik alanlarında hiçbir zaman kullanılamayacağı anlamına gelir.",
-      "Kara kutu problemi yalnızca derin öğrenme modellerinde değil, tüm yazılım sistemlerinde karşılaşılan ve çözümü imkânsız olan bir durumdur."
+      "Kara kutu problemi yalnızca derin öğrenme modellerinde değil, istisnasız tüm yazılım sistemlerinde karşılaşılan ve teknik olarak çözümü imkânsız kabul edilen yapısal bir durumdur. Bu nedenle şeffaflık çalışmaları sonuçsuz kalmaktadır."
      ],
      "dogru": 2,
      "aciklama": "Kara kutu problemi, derin öğrenme başta olmak üzere karmaşık YZ modellerinin iç işleyişinin insan tarafından yorumlanamamasını ifade eder. XAI (Explainable AI), bu modellerin kararlarını insan anlayışına uygun biçimde açıklama çabasıdır. Sağlık (neden bu tanıyı koydu?), finans ve hukuk gibi alanlarda şeffaflık zorunludur. Diğer seçenekler kavramsal açıdan yanlıştır: kara kutu donanımsal değil algoritmiktir, XAI doğrulukla değil yorumlanabilirlikle ilgilidir, güvenlik alanlarında kara kutu modeller kullanılmaktadır ancak denetim mekanizmaları geliştirilmektedir.",
@@ -266,35 +269,35 @@
      "zorluk": "orta"
     },
     {
-     "id": "36091",
+     "id": "36114",
      "dersId": "guncel",
      "konuId": "turkiye_guncel",
-     "soru": "Türkiye'nin 2022'de onayladığı Paris İklim Anlaşması çerçevesinde sunduğu Ulusal Katkı Beyanı (NDC) incelendiğinde, aşağıdaki değerlendirmelerden hangisi analitik açıdan doğrudur?",
+     "soru": "Türkiye'de 2022-2024 yılları arasında uygulanan kur korumalı mevduat (KKM) sistemine yönelik aşağıdaki eleştirilerden hangisi, sistemin kamu maliyesi üzerindeki asimetrik risk yükü bakımından en yerinde tespiti içermektedir?",
      "secenekler": [
-      "NDC, enerji sektörünü kapsam dışı bırakarak yalnızca sanayi ve ulaşım sektörlerini hedeflemiştir.",
-      "Türkiye, 2053 sıfır emisyon hedefini resmî olarak NDC metnine işlemiş ve BM'ye bildirmiştir.",
-      "Türkiye, AB üyelik süreci nedeniyle kendi NDC'sini AB'nin kolektif NDC'sine bağlamış ve bireysel ulusal hedef belirlemekten tümüyle vazgeçmiştir. Bu tercih Türkiye'yi AB'nin iklim mevzuatına doğrudan tabi kılmıştır.",
-      "Türkiye, mutlak emisyon azaltımı taahhüt etmiş; 2030'da 2012 seviyesine göre %30 azaltım öngörülmüştür.",
-      "Türkiye, gelişmekte olan ülke statüsünü koruyarak koşulsuz azaltım yerine koşullu azaltım taahhüdü vermiş; bu durum iç kaynaklarla değil dış finansmanla hedefe ulaşmayı öne çıkarmaktadır."
+      "KKM hesaplarının yalnızca büyük ölçekli kurumsal mevduat sahiplerini kapsaması",
+      "Merkez Bankası'nın olağan para politikası araçlarının işlevsiz kılınması",
+      "Kur riskinin bireylerden devlete aktarılması yoluyla döviz değer kayıplarından kaynaklanan maliyetin Hazine'ye yüklenmesi ve şeffaflıktan yoksun koşullu bir mali yükümlülük yaratması",
+      "Sistemin dolarizasyonu artırarak yerli para biriminin ikame edilmesini hızlandırması",
+      "Sisteme dahil olabilmek için aranan asgari mevduat tutarının yüksekliğinin orta ve alt gelir gruplarını fiilen dışarıda bırakması ve tasarruf eşitsizliğini derinleştirmesi ve tasarruf eşitsizliğini derinleştirmesi riski"
      ],
-     "dogru": 4,
-     "aciklama": "Türkiye, NDC'sinde %41 oranında emisyon azaltımını öngörmüş ancak bu taahhüdü koşullu olarak sunmuştur; yani hedefe ulaşmak uluslararası iklim finansmanı, teknoloji transferi ve kapasite artırımına bağlıdır. Türkiye'nin Ek-1 dışı statüsünü koruma çabası ve bu çerçevede mutlak değil yoğunluk bazlı taahhüt eğilimi NDC'nin belirleyici özelliğidir. 2053 hedefi siyasi bir beyan olup resmî NDC metnine tam olarak entegre edilmemiştir.",
+     "dogru": 2,
+     "aciklama": "Kur korumalı mevduat sisteminde mevduat sahibi, TL faizi ile dövize karşı değer kaybı arasındaki farkı devletten tahsil eder. Böylece kur riski bireylerden Hazine ve Merkez Bankası'na aktarılır. Kur yükseldikçe maliyet artar ve bu maliyet önceden net olmayan, bütçede açıkça görünmeyen koşullu bir mali yükümlülük yaratır. Asimetri de buradadır: kazanç mevduat sahibine, kayıp kamuya aittir. \"KKM hesaplarının yalnızca büyük ölçekli kurumsal mevduat sahiplerini kapsaması\" seçeneği yanlıştır; sistem bireylere de açıktı. \"Merkez Bankası'nın olağan para politikası araçlarının işlevsiz kılınması\" seçeneği ise kamu maliyesindeki asimetrik riski anlatmaz. Doğru cevap \"Kur riskinin bireylerden devlete aktarılması...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
-     "id": "36180",
+     "id": "36191",
      "dersId": "guncel",
      "konuId": "uluslararasi_guncel",
-     "soru": "Rusya-Ukrayna Savaşı bağlamında 2023 yılında imzalanan Tahıl Koridoru Anlaşması'nın (Karadeniz Tahıl Girişimi) sona ermesi üzerine Ukrayna'nın tahıllarını ihraç etmek için geliştirdiği alternatif rotaya verilen isim aşağıdakilerden hangisidir?",
+     "soru": "Sahel bölgesinde 2021-2023 yılları arasında gerçekleşen askeri darbeler zinciri değerlendirildiğinde, aşağıdaki ülke-darbe tarihi eşleştirmelerinden hangisi doğrudur?",
      "secenekler": [
-      "Adriyatik-Baltık-Karadeniz Ekseni",
-      "Orta Koridor",
-      "Üç Deniz Girişimi Hattı",
-      "Kuzey Deniz Yolu",
-      "Dayanışma Şeritleri"
+      "Mali (2021), Gine (2022), Nijer (2023), Gabon (2023)",
+      "Mali (2021), Burkina Faso (2022), Nijer (2023), Gabon (2023), Çad (2023) ve Çad (2021)",
+      "Gine (2021), Mali (2022), Nijer (2023), Kamerun (2023)",
+      "Mali (2020 ve 2021), Gine (2021), Burkina Faso (2022), Nijer (2023), Gabon (2023)",
+      "Burkina Faso (2021), Nijer (2022), Mali (2023), Gana (2023)"
      ],
-     "dogru": 4,
-     "aciklama": "AB öncülüğünde hayata geçirilen 'Dayanışma Şeritleri' (Solidarity Lanes), Karadeniz Tahıl Girişimi'nin işlevsiz kalmasından çok önce, 2022'de Rusya'nın Ukrayna limanlarını abluka altına alması üzerine oluşturulmuştur. Ukrayna tahılları bu şeritler aracılığıyla Polonya, Romanya ve diğer kara/nehir/demir yolu güzergâhları üzerinden ihraç edilmiştir. Orta Koridor ise ağırlıklı olarak Hazar-Kafkasya-Türkiye üzerinden geçen ayrı bir ticaret güzergâhıdır.",
+     "dogru": 3,
+     "aciklama": "Sahel ve çevresindeki darbe dalgasının doğru kronolojisi şöyledir: Mali'de Ağustos 2020 ve Mayıs 2021'de iki aşamalı darbe yaşanmış, Gine'de Eylül 2021'de askerler yönetimi devralmış, Burkina Faso'da Ocak ve Eylül 2022'de iki ayrı darbe meydana gelmiş, Nijer'de Temmuz 2023'te ve Gabon'da Ağustos 2023'te darbeler gerçekleşmiştir. Bu sıralamayı eksiksiz veren seçenek D'dir. Diğer seçeneklerde ülke ya da yıl eşleştirmeleri hatalıdır. Darbe dalgasının ardından ECOWAS'ın yaptırım tehditleri ve bölgedeki Batı askerî varlığının sorgulanması öne çıkan gelişmeler olmuştur.",
      "zorluk": "zor"
     },
     {
@@ -310,7 +313,7 @@
       "Joule"
      ],
      "dogru": 3,
-     "aciklama": "Elektrik akımının (şiddetinin) birimi Amper'dir (A). Volt elektrik geriliminin, Ohm direncin, Watt gücün, Joule ise enerjinin birimidir.",
+     "aciklama": "Elektrik akımı, bir iletken kesitinden birim zamanda geçen yük miktarıdır. SI birim sisteminde akım şiddetinin birimi amperdir ve temel birimlerden biridir. Diğer seçenekler başka büyüklüklerin birimleridir: watt güç, volt potansiyel farkı (gerilim), ohm direnç, joule ise enerji birimidir. En çok karıştırılan \"Volt\" seçeneği gerilimin birimidir; akımı değil, akımı oluşturan potansiyel farkını ölçer. \"Watt\" ise birim zamanda yapılan işi, yani gücü ifade eder. Doğru cevap \"Amper\" seçeneğidir.",
      "zorluk": "kolay"
     },
     {
@@ -325,8 +328,9 @@
       "1951 – 2000",
       "1933 – 2000"
      ],
-     "dogru": 2,
-     "aciklama": "Türkiye Futbol Federasyonu 1923 yılında kurulmuştur. Türkiye, EURO tarihindeki en iyi derecesini 2000 Avrupa Şampiyonası'nda üçüncülükle elde etmiştir. Türkiye aynı zamanda 2002 FIFA Dünya Kupası'nda da üçüncü olmuştur; bu iki başarı birbirine karıştırılabilir. 2008 ise Türkiye'nin yarı finale kadar gittiği fakat üçüncülük maçında Hırvatistan'a yenildiği turnuvadır."
+     "dogru": 0,
+     "aciklama": "TFF 1923'te kurulmuş, Türkiye EURO'da ilk kez 2008'de yarı finale çıkıp üçüncülük derecesi elde etmiştir. Doğru cevap 1923 – 2008 şeklindedir.",
+     "zorluk": "orta"
     },
     {
      "id": "36011",
@@ -366,14 +370,14 @@
      "konuId": "bilim_teknoloji",
      "soru": "Otonom araç teknolojisinde kullanılan algılayıcı füzyonu (sensor fusion) yaklaşımı, tek bir algılayıcı türüne bağlı kalmakla karşılaştırıldığında aşağıdaki hangi gerekçeyle zorunlu bir mühendislik tercihine dönüşmektedir?",
      "secenekler": [
-      "Algılayıcı füzyonu, yapay zeka donanımının maliyeti nedeniyle yalnızca lüks segment araçlarda uygulanabilir olup demokratikleşmesi teknolojik açıdan imkânsızdır.",
+      "Algılayıcı füzyonu, gerektirdiği yapay zekâ donanımının yüksek maliyeti nedeniyle yalnızca lüks segment araçlarda uygulanabilir durumdadır; bu teknolojinin yaygınlaşması ve ekonomik araçlara inmesi teknolojik açıdan imkânsız kabul edilmektedir. Bu nedenle otonom sürüş yalnızca üst segmentle sınırlı kalacaktır.",
       "Her algılayıcı türünün (LiDAR, radar, kamera, ultrasonik) farklı çevresel koşullarda (sis, gece, yoğun yağış, parlak güneş) ayrı güçlü ve zayıf yanları bulunduğundan hiçbirinin tek başına yeterli güvenilirliği sağlayamaması, füzyon mimarisini güvenlik-kritik bir gereklilik haline getirmektedir.",
       "LiDAR, tüm hava koşullarında kamera ve radardan üstün olduğundan Waymo ve Tesla gibi şirketlerin yalnızca LiDAR'a dayalı sistemler geliştirdiği bilinmektedir.",
       "Algılayıcı füzyonu yalnızca hesaplama maliyetini düşürmek amacıyla kullanılır; tek algılayıcılı sistemler güvenlik açısından eşdeğer performans sunar.",
       "Yasal düzenlemeler tüm otonom araçlarda birden fazla algılayıcı türü kullanılmasını zorunlu kıldığından teknik gereklilikten çok hukuki bir zorunluluktur."
      ],
      "dogru": 1,
-     "aciklama": "LiDAR yoğun yağışta performans kaybeder, kamera gece ve parlak güneşte zorlanır, radar yüksek çözünürlüklü nesne sınıflandırması yapamaz. Her algılayıcının farklı koşullardaki güçlü ve zayıf yönleri nedeniyle hiçbiri tek başına ISO 26262 gibi güvenlik standartlarının gerektirdiği güvenilirlik düzeyine ulaşamaz. Bu nedenle veri füzyonu güvenlik-kritik bir mimari zorunluluktur. D seçeneği yanlıştır; Tesla kamera ağırlıklı (görme tabanlı) bir yaklaşımı savunmaktadır.",
+     "aciklama": "LiDAR hassas mesafe ve 3B harita verir ama yoğun yağış ve sisten etkilenir. Radar hız ve mesafeyi kötü havada da ölçer ama çözünürlüğü düşüktür. Kamera renk, işaret ve şerit bilgisini verir ama gece ve parlak güneşte zayıflar. Ultrasonik algılayıcılar yalnızca çok kısa menzilde işe yarar. Hiçbiri her koşulda yeterli güvenilirliği sağlamadığından yedeklilik ve çapraz doğrulama için füzyon gerekir; bu bir güvenlik gerekliliğidir. \"Algılayıcı füzyonu yalnızca hesaplama maliyetini düşürmek amacıyla kullanılır...\" seçeneği yanlıştır; füzyon hesaplama yükünü artırır. \"Yasal düzenlemeler tüm otonom araçlarda...\" seçeneği de yanlıştır; gerekçe temelde teknik güvenliktir. Doğru cevap \"Her algılayıcı türünün (LiDAR, radar, kamera, ultrasonik) farklı çevresel koşullarda...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -432,7 +436,7 @@
      "secenekler": [
       "Dijital ikiz ve IoT aynı teknolojiyi farklı isimlerle tanımlayan kavramlardır; ikisi de yalnızca fiziksel sensörlerden veri toplamayı ifade etmektedir.",
       "IoT, fiziksel varlıklardan gerçek zamanlı veri toplayan donanım katmanını oluştururken dijital ikiz, bu verileri kullanarak fiziksel sistemin dinamik sanal modelini inşa eder; böylece simülasyon, öngörücü bakım ve optimizasyon mümkün hale gelir.",
-      "Endüstriyel dijital ikiz uygulamalarının temel amacı, fiziksel fabrikalardaki insan iş gücünü tamamen ortadan kaldırmak ve üretim sürecini tamamen otonom hale getirmektir.",
+      "Endüstriyel dijital ikiz uygulamalarının temel amacı, fiziksel fabrikalardaki insan iş gücünü tümüyle ortadan kaldırmak ve üretim sürecini baştan sona otonom hale getirmektir; veri toplama bu amacın yalnızca yan ürünüdür. Bu nedenle sensör altyapısı bu uygulamalarda ikincil öneme sahiptir.",
       "Dijital ikiz teknolojisi, IoT cihazlarına ihtiyaç duymaksızın yalnızca tarihsel verilerden beslenen statik bir simülasyon aracıdır.",
       "IoT cihazları, dijital ikiz modelinin sahip olduğu hesaplama gücünü artırmak için kullanılan yardımcı işlem birimleridir; veri toplama işleviyle ilgileri yoktur."
      ],
@@ -469,7 +473,8 @@
       "Uluslararası Uzay İstasyonu'na Türk astronot göndermek"
      ],
      "dogru": 3,
-     "aciklama": "TUA tarafından açıklanan Ulusal Uzay Programı'nın sembolik ve teknik zirvesi 2033 yılına kadar Ay'a Türk yapımı bir araç indirmektir. Bu hedef; yerli roket geliştirme, uydu teknolojileri ve uluslararası iş birlikleriyle desteklenmekte olup programın ilk somut adımı olan AYAP (Ay'a Yolculuk Programı) hayata geçirilmiştir."
+     "aciklama": "TUA tarafından açıklanan Ulusal Uzay Programı'nın sembolik ve teknik zirvesi 2033 yılına kadar Ay'a Türk yapımı bir araç indirmektir. Bu hedef; yerli roket geliştirme, uydu teknolojileri ve uluslararası iş birlikleriyle desteklenmekte olup programın ilk somut adımı olan AYAP (Ay'a Yolculuk Programı) hayata geçirilmiştir.",
+     "zorluk": "orta"
     },
     {
      "id": "36196",
@@ -478,10 +483,10 @@
      "soru": "Uluslararası Ceza Mahkemesi'nin (UCM) 2023'te İsrail-Hamas çatışması kapsamında yürüttüğü soruşturma süreci değerlendirildiğinde, UCM'nin yargı yetkisini kullanabilmesi için hangi koşulun sağlanmış olduğu ve hangi büyük gücün Roma Statüsü'ne taraf olmadığı için bu süreçten muaf kaldığı doğru eşleştirilmiştir?",
      "secenekler": [
       "BM Güvenlik Konseyi yönlendirmesi — Çin",
-      "Arap Birliği'nin UCM'ye başvurusu — Japonya",
+      "Arap Birliği'nin UCM'ye toplu başvurusu — Japonya",
       "BM Genel Kurul kararı — Hindistan",
       "Filistin'in 2015'te Roma Statüsü'ne taraf devlet olarak katılması — ABD",
-      "İsrail'in Roma Statüsü'nü onaylaması — Rusya"
+      "İsrail'in Roma Statüsü'nü onaylaması ve yargı yetkisini tanıması — Rusya"
      ],
      "dogru": 3,
      "aciklama": "Filistin, 2015 yılında Roma Statüsü'ne taraf devlet olarak kabul edilmiş; bu sayede UCM, Filistin topraklarında (Gazze ve Batı Şeria dahil) işlenen suçlar üzerinde yargı yetkisi kazanmıştır. İsrail Roma Statüsü'nü imzalamış ama onaylamamıştır; ancak yargılama yetkisi İsrail'in taraf olup olmadığına değil, suçun işlendiği toprak üzerinden kurulmaktadır. ABD ise Roma Statüsü'ne taraf değildir ve 2002'de imzasını da geri çekmiştir; bu nedenle ABD vatandaşları prensipte mahkemenin olağan yargı yetkisi dışındadır.",

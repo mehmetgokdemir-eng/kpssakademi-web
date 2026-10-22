@@ -25,7 +25,7 @@
       "0,85"
      ],
      "dogru": 3,
-     "aciklama": "Spearman-Brown formülü: r_yeni = (k × r_eski) / [1 + (k-1) × r_eski]. Burada k=2, r_eski=0,81. Hesaplama: r_yeni = (2 × 0,81) / [1 + (2-1) × 0,81] = 1,62 / (1 + 0,81) = 1,62 / 1,81 ≈ 0,895. Bu değer 0,89'a en yakındır. Dikkat edilmesi gereken husus: test uzunluğu artırıldıkça güvenirlik artar ancak azalan getiri yasası geçerlidir; başlangıç güvenirliği ne kadar yüksekse artış o kadar az olur.",
+     "aciklama": "Spearman-Brown formülü: r«yeni = (k × r»eski) / [1 + (k-1) × r«eski]. Burada k=2, r»eski=0,81. Hesaplama: r_yeni = (2 × 0,81) / [1 + (2-1) × 0,81] = 1,62 / (1 + 0,81) = 1,62 / 1,81 ≈ 0,895. Bu değer 0,89'a en yakındır. Dikkat edilmesi gereken husus: test uzunluğu artırıldıkça güvenirlik artar ancak azalan getiri yasası geçerlidir; başlangıç güvenirliği ne kadar yüksekse artış o kadar az olur.",
      "zorluk": "zor"
     },
     {
@@ -38,10 +38,11 @@
       "Kültürel mirasın korunması amacıyla sanat ve müzik derslerine daha fazla saat ayrılması",
       "Programda öğrencilerin duygusal zekâsını geliştirmeye yönelik etkinliklere yer verilmesi",
       "Programın demokratik vatandaşlık değerlerini ön plana çıkarması",
-      "Öğrencilerin doğa ile ilişkisini güçlendirmek amacıyla çevre eğitimine ağırlık verilmesi"
+      "Öğrencilerin doğa ile ilişkisini güçlendirmek amacıyla çevre eğitimine ağırlık verilmesi ve doğa etkinliklerine yer verilmesi"
      ],
      "dogru": 0,
-     "aciklama": "Program geliştirmenin ekonomik temeli; ülkenin ekonomik kalkınma hedefleri, iş gücü piyasasının nitelikli eleman ihtiyacı ve mesleki yeterliliklerle ilişkilidir. Programın iş gücü piyasasının gerektirdiği mesleki, teknik ve girişimcilik becerilerini içermesi, ekonomik temelin doğrudan programa yansımasının en somut örneğidir. A şıkkı psikolojik, C şıkkı felsefi-siyasi, D şıkkı kültürel-sosyal, E şıkkı ise çevresel temele karşılık gelir."
+     "aciklama": "Programın ekonomik temeli, eğitimin ekonomik kalkınmaya ve insan gücü yetiştirmeye katkısıyla ilgilidir. Ekonomi, nitelikli iş gücüne ihtiyaç duyar. Bu ihtiyacın programa doğrudan yansıması, iş gücü piyasasının gerektirdiği mesleki ve teknik becerilere programda ağırlık verilmesidir. Bu seçenek, ekonomik gereksinimle program içeriği arasında doğrudan bir bağ kurar. \"Kültürel mirasın korunması amacıyla sanat ve müzik derslerine daha fazla saat ayrılması\" uygulaması kültürel ve toplumsal temelle ilgilidir. \"Programın demokratik vatandaşlık değerlerini ön plana çıkarması\" uygulaması ise toplumsal ve felsefi temele dayanır. Doğru cevap \"İş gücü piyasasının ihtiyaç duyduğu mesleki ve teknik becerilerin programda ağırlıklı olarak yer bulması\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "200302",
@@ -49,14 +50,14 @@
      "konuId": "bilissel_ogrenme",
      "soru": "Metacognition (üstbiliş) araştırmacısı Flavell, üstbilişi bildirimsel, prosedürel ve koşullu bilgi olmak üzere üç boyutta ele almaktadır. Buna ek olarak Brown, izleme ve düzenleme süreçlerini üstbilişsel etkinlik kapsamında incelemiştir. Aşağıdaki öğrenci davranışlarından hangisi üstbilişsel bilgi ile üstbilişsel izlemenin birlikte işlediğini göstermekte, ancak üstbilişsel düzenlemenin henüz etkinleşmediğini ortaya koymaktadır?",
      "secenekler": [
-      "Öğrencinin sınav sonrası 'aslında bu yöntemi hiç bilmiyordum' demesi ancak sınav öncesinde hiçbir öz değerlendirme yapmaması",
+      "Öğrencinin sınav sonrasında 'aslında bu yöntemi hiç bilmiyordum' demesi ancak sınav öncesinde hiçbir öz değerlendirme yapmamış olması ve hiçbir strateji geliştirmemiş olması",
       "Öğrencinin okurken bir bölümü anlamadığını fark etmesi, bu durumun nedenini 'soyut kavramların hızlı geçilmesine' bağlaması ama strateji değiştirmeden okumaya devam etmesi",
       "Öğrencinin çalışma süresini planlamamasına karşın sınavda yüksek performans göstermesi",
       "Öğrencinin sınava 'bu konu benim için zor, daha fazla çalışmalıyım' diyerek hazırlanması ve gerçekten ek çalışma yapması",
       "Öğrencinin çalışırken anlaşılmayan bölümleri belirleyip bunları farklı kaynaklardan araştırması"
      ],
      "dogru": 1,
-     "aciklama": "Flavell'in üstbiliş çerçevesine göre üstbilişsel bilgi, bireyin kendi bilişsel süreçleri hakkındaki bilgiyi kapsar (örneğin 'soyut kavramlar benim için zordur' — bu bildirimsel bilgiye örnektir). Brown'ın izleme kavramı, bireyin anlama sürecini gerçek zamanlı olarak takip etmesini ifade eder. Düzenleme ise izleme sonucunda ortaya çıkan bir aksaklığa yanıt olarak strateji değiştirmeyi, hızı ayarlamayı veya geri dönmeyi kapsar. B şıkkındaki öğrenci: (1) anlamadığını fark etmektedir (izleme aktif), (2) bunun nedenini biliyor (üstbilişsel bilgi aktif), (3) ancak herhangi bir strateji değişikliği yapmamaktadır (düzenleme etkinleşmemiştir). Bu durum sorunun tam olarak aradığı kombinasyonu sergilemektedir. A şıkkında düzenleme de etkinleştiği için elenir. D şıkkında izleme ve düzenleme birlikte etkinleşmiştir. C şıkkında izleme geriye dönük ve yetersizdir.",
+     "aciklama": "Öğrencinin okurken bir bölümü anlamadığını fark etmesi, üstbilişsel izlemedir. Bu anlamamayı soyut kavramların hızlı geçilmesine bağlaması, öğrenme koşullarına ilişkin üstbilişsel bilgiyi gösterir. Ancak öğrenci stratejisini değiştirmeden okumaya devam etmektedir. Bu da üstbilişsel düzenlemenin henüz devreye girmediğini ortaya koyar. \"Öğrencinin çalışırken anlaşılmayan bölümleri belirleyip bunları farklı kaynaklardan araştırması\" seçeneği yanlıştır; farklı kaynaklara başvurmak düzenlemenin gerçekleştiğini gösterir. \"Öğrencinin sınava 'bu konu benim için zor, daha fazla çalışmalıyım' diyerek hazırlanması\" de yanlıştır; ek çalışma yapmak bir düzenleme davranışıdır. Doğru cevap \"Öğrencinin okurken bir bölümü anlamadığını fark etmesi\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -99,8 +100,8 @@
      "secenekler": [
       "Temel kavramlar her öğretim kademesinde tekrarlanarak derinleştirilir.",
       "Her konu bağımsız birimler hâlinde öğretilir.",
-      "İçerik kolaydan zora doğru yalnızca dikey olarak genişler.",
-      "Konular yalnızca bir kez ve derinlemesine ele alınır.",
+      "İçerik kolaydan zora doğru yalnızca dikey biçimde genişler.",
+      "Konular yalnızca bir kez ve derinlemesine biçimde ele alınır. biçimde ele alınır.",
       "Konular öğrencinin ilgisine göre rastgele sıralanır."
      ],
      "dogru": 0,
@@ -114,13 +115,14 @@
      "soru": "Thomas ve Chess'in mizaç araştırmalarına göre 'zor mizaçlı' (difficult temperament) bebeklerin özellikleri aşağıdakilerden hangisinde doğru verilmiştir?",
      "secenekler": [
       "Düşük aktivite düzeyi, yeni durumlara yavaş ısınma, hafif tepkiler",
-      "Düzenli uyku-uyanıklık döngüsü, yüksek sosyallik, düşük sinirlilik",
+      "Düzenli uyku-uyanıklık döngüsü, yüksek sosyallik ve düşük sinirlilik düzeyi",
       "Düzensiz biyolojik ritimler, yeni uyaranlara geri çekilme, yoğun olumsuz tepkiler",
       "Yeni durumlara yavaş ısınma, ancak zamanla olumlu uyum sağlama",
-      "Yüksek aktivite düzeyi, düzenli biyolojik ritimler, kolay uyum sağlama"
+      "Yüksek aktivite düzeyi, düzenli biyolojik ritimler, yeni duruma kolay uyum sağlama"
      ],
      "dogru": 2,
-     "aciklama": "Thomas ve Chess'in mizaç sınıflandırmasında 'zor mizaçlı' bebekler düzensiz biyolojik ritimler (uyku, beslenme), yeni uyaranlara geri çekilme ve yoğun olumsuz duygusal tepkilerle tanımlanır. A şıkkı 'yavaş ısınan' mizacın özelliklerine yakındır; B şıkkı 'kolay mizacı' tanımlar; D şıkkı yavaş ısınan mizacı betimler; E şıkkı ise kolay mizaçlı bebeği yansıtmaktadır."
+     "aciklama": "Thomas ve Chess, New York Boylamsal Çalışması'nda bebekleri kolay, zor ve yavaş ısınan mizaç gruplarına ayırmıştır. Zor mizaçlı bebeklerde uyku, beslenme ve boşaltım gibi biyolojik ritimler düzensizdir. Bu bebekler yeni uyaranlardan geri çekilir, yeni durumlara güç uyum sağlar ve sık, yoğun olumsuz tepkiler verir. \"Düşük aktivite düzeyi, yeni durumlara yavaş ısınma, hafif tepkiler\" ifadesi yavaş ısınan mizacı tanımlar. \"Yeni durumlara yavaş ısınma, ancak zamanla olumlu uyum sağlama\" ifadesi de yavaş ısınan mizaca aittir. Düzenli ritimler ve kolay uyum ise kolay mizacın özellikleridir. Doğru cevap \"Düzensiz biyolojik ritimler, yeni uyaranlara geri çekilme, yoğun olumsuz tepkiler\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "200133",
@@ -151,7 +153,8 @@
       "Akran öğretimi yoluyla grup çalışması düzenlenmesi"
      ],
      "dogru": 3,
-     "aciklama": "Zihin yetersizliği olan öğrencilere işlevsel beceriler öğretilirken genelleme sorunu göz önüne alınarak becerinin doğal ortamında (toplum temelli öğretim) ve davranış zinciri yöntemleriyle öğretilmesi en etkili yaklaşımdır. Rol yapma tek başına yeterli genellemeyi sağlayamaz; yazılı kural ezberi soyutluk düzeyi açısından uygun değildir."
+     "aciklama": "Zihin yetersizliği olan öğrencilere işlevsel beceriler öğretilirken genelleme sorunu göz önüne alınarak becerinin doğal ortamında (toplum temelli öğretim) ve davranış zinciri yöntemleriyle öğretilmesi en etkili yaklaşımdır. Rol yapma tek başına yeterli genellemeyi sağlayamaz; yazılı kural ezberi soyutluk düzeyi açısından uygun değildir.",
+     "zorluk": "orta"
     },
     {
      "id": "200580",
@@ -160,13 +163,13 @@
      "soru": "Aşağıdakilerden hangisi anlatım yönteminin sınırlılıklarından biridir?",
      "secenekler": [
       "Öğrenci bireysel farklılıklarına yeterince cevap verememesi",
-      "Geniş gruplara kolayca uygulanabilmesi",
+      "Geniş gruplara kolaylıkla uygulanabilir olması",
       "Düşük maliyetli olması",
       "Kısa sürede çok bilgi aktarılabilmesi",
-      "Öğretmenin konuya hâkim olmasını gerektirmesi"
+      "Öğretmenin konuya tam olarak hâkim olmasını gerektirmesi ve hazırlık yapmasını"
      ],
      "dogru": 0,
-     "aciklama": "Anlatım yönteminin en önemli sınırlılıklarından biri öğrencilerin bireysel farklılıklarına (öğrenme hızı, ilgi, hazırbulunuşluk) yeterince hitap edememesidir. Öğrenciler pasif konumda olduğundan bireysel ihtiyaçlara yanıt vermek güçtür. A, B, D ve E seçenekleri ise anlatım yönteminin avantajları arasında sayılabilir.",
+     "aciklama": "Anlatım yöntemi öğretmen merkezlidir ve bilgi tüm sınıfa aynı hızda, aynı biçimde aktarılır. Öğrencilerin öğrenme hızı, ön bilgisi ve öğrenme stilleri farklı olduğundan bu tek tip aktarım bireysel farklılıklara yeterince cevap veremez. Ayrıca öğrenciyi pasif dinleyici konumuna iter. Bu nedenle bireysel farklılıklara cevap verememe, yöntemin temel sınırlılıklarından biridir. \"Geniş gruplara kolaylıkla uygulanabilir olması\", \"Düşük maliyetli olması\" ve \"Kısa sürede çok bilgi aktarılabilmesi\" yöntemin üstün yanlarıdır. \"Öğretmenin konuya tam olarak hâkim olmasını gerektirmesi...\" ise yönteme özgü bir sınırlılık değildir; her yöntemde geçerli olan bir etkili uygulama koşuludur. Doğru cevap \"Öğrenci bireysel farklılıklarına yeterince cevap verememesi\" seçeneğidir.",
      "zorluk": "kolay"
     },
     {
@@ -208,13 +211,13 @@
      "soru": "Bir sınıfta öğretmen, ders sırasında bir öğrencinin yanlış cevabını 'Çok ilginç bir bakış açısı, ama doğru cevaba nasıl ulaşabiliriz?' biçiminde geri bildirmektedir. Başka bir öğrencinin yanlış cevabını ise 'Hayır, yanlış. Bir daha düşün' biçiminde yanıtlamaktadır. İletişim etiği ve sınıf yönetimi açısından bu iki farklı geri bildirim örüntüsünün yarattığı en derin sorunu inceleyen çerçeve aşağıdakilerden hangisidir?",
      "secenekler": [
       "Bilişsel yük kuramı açısından birinci geri bildirimin işlem yükünü artırırken ikincisinin azaltması",
-      "Geri bildirimin anlık pekiştireç işlevi görmesi; birinci geri bildirimin negatif ceza, ikincisinin pozitif ceza niteliği taşıması",
+      "Geri bildirimin anlık pekiştireç işlevi görmesi; birinci geri bildirimin negatif ceza, ikincisinin ise pozitif ceza niteliği taşıması ve bu ayrım pekiştireç türüne dayanması",
       "Geri bildirimlerin sözdizimsel yapısındaki farklılığın öğrencilerin dil gelişimini eşitsiz biçimde desteklemesi",
       "Pygmalion etkisi ve öğretmen beklentilerinin iletişim örüntülerine yansıması yoluyla öğrenci başarısının kendi kendini gerçekleştiren kehanetle şekillenmesi",
-      "Vygotsky'nin Yakınsak Gelişim Alanı çerçevesinde birinci öğrencinin iskele (scaffolding) alması, ikincisinin almaması"
+      "Vygotsky'nin Yakınsak Gelişim Alanı çerçevesinde birinci öğrencinin iskele (scaffolding) desteği alması, ikincisinin ise almaması"
      ],
      "dogru": 3,
-     "aciklama": "Rosenthal ve Jacobson'ın Pygmalion araştırması ve sonrasında geliştirilen öğretmen beklentisi literatürü, öğretmenlerin farklı öğrencilere yönelik beklentilerinin iletişim örüntülerine sistematik biçimde yansıdığını göstermektedir. Yüksek beklenti duyulan öğrencilere daha destekleyici, yönlendirici ve açıklayıcı geri bildirimler verilirken düşük beklenti duyulan öğrencilere kısa, kesmece ve eleştirel geri bildirimler verilmektedir. Bu farklı iletişim örüntüleri zamanla öğrencilerin akademik performansını ve öz-yeterlik algısını etkileyerek beklentileri gerçeğe dönüştürmektedir. D seçeneğinde Vygotsky'nin iskele kavramı da geçerli bir analiz sunar; ancak 'en derin sorun' olarak iletişim etiği ve eşitsizlik boyutunu kapsayan Pygmalion etkisi daha bütüncül ve açıklayıcı bir çerçeve sunar çünkü neden farklı davranıldığını (örtük beklentiler) de açıklar.",
+     "aciklama": "İki geri bildirim, öğretmenin öğrencilere yönelik farklı beklentilerini yansıtan iletişim örüntüleridir. Birinci öğrenciye düşünmeye ve çözüme ulaşmaya davet eden, saygılı bir dil kullanılırken ikinci öğrenciye kapatıcı ve değerlendirici bir dil kullanılmaktadır. Bu fark, öğretmenin öğrencilerden beklentisini sezdirir. Beklenti öğrencinin kendine güvenini, katılımını ve çabasını etkiler; zamanla başarı da bu beklentiye uygun biçimde şekillenir. Bu süreç Pygmalion etkisi ve kendini gerçekleştiren kehanet kavramlarıyla açıklanır. Yani asıl sorun tek tek cümlelerde değil, eşitsiz beklentilerin iletişimle aktarılmasındadır. \"Vygotsky'nin Yakınsak Gelişim Alanı çerçevesinde birinci öğrencinin iskele (scaffolding) desteği alması, ikincisinin ise almaması\" seçeneği yalnızca öğretimsel desteği anlatır, beklentinin başarıyı belirlemesini ve etik boyutu kapsamaz. \"Geri bildirimin anlık pekiştireç işlevi görmesi; birinci geri bildirimin negatif ceza, ikincisinin ise pozitif ceza niteliği taşıması ve bu ayrım pekiştireç türüne dayanması\" seçeneği ise iki geri bildirimi ceza türleri olarak yanlış sınıflandırır. Doğru cevap \"Pygmalion etkisi ve öğretmen beklentilerinin iletişim örüntülerine yansıması yoluyla öğrenci başarısının kendi kendini gerçekleştiren kehanetle şekillenmesi\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -224,10 +227,10 @@
      "soru": "Aşağıdaki tabloda beş farklı kişilik bozukluğu ve bunları açıklayan kuramsal çerçeveler verilmiştir. Hangi seçenekte bozukluk ile kuramsal açıklama arasındaki eşleştirme yanlıştır?",
      "secenekler": [
       "Antisosyal Kişilik Bozukluğu – Freud: Superegonun aşırı baskıcı yapısının vicdan gelişimini engellediği ve bu nedenle toplum karşıtı davranışların ortaya çıktığı",
-      "Kaçıngan Kişilik Bozukluğu – Bilişsel Kuram (Beck): Yetersizlik ve sevilmezlik şemalarının sosyal değerlendirmeye karşı aşırı duyarlılığı beslediği",
+      "Kaçıngan Kişilik Bozukluğu – Bilişsel Kuram (Beck): Yetersizlik ve sevilmezlik şemalarının sosyal değerlendirmeye karşı aşırı duyarlılığı sürekli beslediği görüşü",
       "Borderline Kişilik Bozukluğu – Kernberg: Bölme (splitting) savunma mekanizmasının egemenliği ve nesne ilişkilerindeki tutarsız iç temsiller",
       "Narsistik Kişilik Bozukluğu – Kohut: Ayna aktarımı ve idealize aktarım yoluyla onarılmaya çalışılan parçalanmış benlik",
-      "Paranoid Kişilik Bozukluğu – Nesne İlişkileri: İçe yansıtma ve dışa yansıtma mekanizmalarıyla dış dünyanın tehditkar olarak temsil edilmesi"
+      "Paranoid Kişilik Bozukluğu – Nesne İlişkileri: İçe yansıtma ve dışa yansıtma mekanizmalarıyla dış dünyanın tehditkâr biçimde temsil edilmesi"
      ],
      "dogru": 0,
      "aciklama": "A: Kernberg'in Borderline Kişilik Organizasyonu modelinde bölme (splitting) ve nesne ilişkilerinin bütünleşememesi temel kavramlardır — doğru. B: Kohut'un özpsikolojisinde narsistik kişilik, ayna aktarımı (mirroring transference) ve idealize aktarım yoluyla parçalanmış kendilik (fragmented self) yapısının terapötik ilişkide onarılma sürecini kapsar — doğru. C: Freud'a göre antisosyal kişilik, superegonun aşırı baskıcı değil aksine zayıf ya da gelişmemiş (lacunar superego) olmasından kaynaklanır; superegonun aşırı baskıcı olması nevrotik yapıyla ilişkilendirilir — yanlış eşleştirme. D: Nesne ilişkileri kuramında paranoid yapı dışa yansıtma mekanizmasıyla açıklanır — doğru. E: Beck'in bilişsel modeli kaçıngan kişiliği yetersizlik ve sevilmezlik şemalarına bağlar — doğru. Yanlış eşleştirme C'dedir; yanıt C'dir.",
@@ -239,14 +242,14 @@
      "konuId": "degerlendirme_turleri",
      "soru": "Rubrik tasarımında 'analitik rubrik' ile 'bütünsel rubrik' arasındaki temel fark ve her birinin uygun kullanım bağlamına dair aşağıdaki eşleştirmelerden hangisi doğrudur?",
      "secenekler": [
-      "Bütünsel rubrik: Her boyutu ayrı ayrı puanlar – Uygun bağlam: Portfolyo değerlendirmesinde her bir eserin detaylı analizi",
+      "Bütünsel rubrik: Her boyutu ayrı ayrı puanlar – Uygun bağlam: Portfolyo değerlendirmesinde her bir eserin ayrıntılı analizi",
       "Analitik rubrik: Tek bir bütüncül puan verir – Uygun bağlam: Büyük grupların kısa sürede değerlendirilmesi",
-      "Bütünsel rubrik: Her boyutu ayrı ayrı puanlar – Uygun bağlam: Araştırma ödevi gibi çok bileşenli ürünlerin değerlendirilmesi",
+      "Bütünsel rubrik: Her boyutu ayrı ayrı puanlar – Uygun bağlam: Araştırma ödevi gibi çok bileşenli ürünlerin değerlendirilmesi ve raporlanması ve raporlanması",
       "Analitik rubrik: Tek bir bütüncül puan verir – Uygun bağlam: Hızlı geri bildirim gereken duygusal zeka değerlendirmesi",
       "Analitik rubrik: Her boyutu ayrı ayrı puanlar – Uygun bağlam: Öğrenciye ayrıntılı geri bildirim verilmesi gereken yazma becerisinin değerlendirilmesi"
      ],
      "dogru": 4,
-     "aciklama": "Analitik rubrik, bir performansı birden fazla boyuta (kriter) göre ayrı ayrı puanlayan bir değerlendirme aracıdır (örn. yazma becerisinde: içerik, organizasyon, dil bilgisi, üslup ayrı puanlanır). Öğrenciye neyi iyi yaptığını, neyi geliştirmesi gerektiğini ayrıntılı biçimde gösterdiği için geri bildirim açısından idealdir. C şıkkı hem tanımı hem de uygun bağlamı doğru vermektedir. Bütünsel rubrik ise performansı tek bir bütüncül puan üzerinden değerlendirir; hızlı ama az ayrıntılı geri bildirim sağlar. A ve E şıkları analitik rubriğin tanımını yanlış vermiştir. B ve D şıkları bütünsel rubriğin tanımını yanlış vermiştir.",
+     "aciklama": "Analitik rubrik, ürünü ölçütlere (boyutlara) ayırıp her birini ayrı puanlar. Bu yüzden öğrenciye güçlü ve zayıf yönlerini gösteren ayrıntılı geri bildirim verir. Yazma becerisinde içerik, organizasyon, dil bilgisi gibi boyutlar ayrı değerlendirilebildiği için uygun bağlam budur. Bütünsel rubrik ise ürüne tek bir genel puan verir ve büyük grupların hızlı değerlendirilmesinde işe yarar. \"Bütünsel rubrik: Her boyutu ayrı ayrı puanlar\" şeklindeki eşleştirmeler tanımı ters kurduğu için yanlıştır. \"Analitik rubrik: Tek bir bütüncül puan verir\" şeklindeki eşleştirmeler de aynı nedenle yanlıştır. Doğru cevap \"Analitik rubrik: Her boyutu ayrı ayrı puanlar – Uygun bağlam: Öğrenciye ayrıntılı geri bildirim verilmesi gereken yazma becerisinin değerlendirilmesi\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -271,7 +274,7 @@
      "konuId": "hedef_i_cerik_surec",
      "soru": "Aşağıdakilerden hangisi eğitim sürecinin (öğrenme-öğretme süreci) temel ögelerinden biri değildir?",
      "secenekler": [
-      "Öğretim yöntem ve teknikleri",
+      "Öğretim yöntem ve teknikleri ile öğretim stratejileri",
       "Öğretmen ve öğrenci",
       "Sınav sonuçlarının kamuoyuyla paylaşılması",
       "Öğrenme ortamı",
@@ -288,13 +291,13 @@
      "soru": "Bir eğitim araştırmacısı, yeni geliştirdiği 'eleştirel düşünme ölçeği'nin yapı geçerliğini test etmek için doğrulayıcı faktör analizi (DFA) uygulamıştır. DFA sonuçlarına göre model uyum indeksleri CFI=0.72, RMSEA=0.12 olarak bulunmuştur. Ancak araştırmacı bu sonuçları makalesinde 'ölçeğin yapı geçerliği kanıtlanmıştır' şeklinde yorumlamıştır. Bu durumda aşağıdaki eleştirilerden hangisi en yerinde ve kapsamlıdır?",
      "secenekler": [
       "CFI değeri 0.90'ın altında, RMSEA değeri 0.08'in üzerinde olduğundan model uyumu kabul edilemez düzeydedir; araştırmacının 'geçerlik kanıtlanmıştır' yorumu istatistiksel bulgularla çelişmekte ve hatalı bir sonuç sunmaktadır.",
-      "DFA ile yapı geçerliği hiçbir zaman kanıtlanamaz; yalnızca iç tutarlılık hesaplanabilir.",
-      "Bu indeksler yalnızca örneklem büyüklüğüne bağlı olduğundan büyük örneklemde her iki indeks de anlamsız hale gelir.",
+      "Doğrulayıcı faktör analiziyle yapı geçerliği hiçbir zaman kanıtlanamaz; bu yöntemle yalnızca iç tutarlılık hesaplanabilir.",
+      "Bu uyum indeksleri yalnızca örneklem büyüklüğüne bağlı olduğundan büyük örneklemlerde her iki indeks de anlamsız hâle gelmektedir. Bu nedenle uyum indeksleri yerine yalnızca güvenirlik katsayılarına bakılması gerekmektedir. Bu nedenle yalnızca güvenirlik katsayılarına bakılmalıdır.",
       "RMSEA değeri tek başına yeterlidir ve 0.12 iyi uyumu gösterir; CFI değeri önemsizdir.",
       "DFA yerine AFA kullanılmalıydı; DFA yalnızca güvenirlik analizinde kullanılır."
      ],
      "dogru": 0,
-     "aciklama": "Doğrulayıcı Faktör Analizi'nde (DFA) kabul edilen eşik değerler şunlardır: CFI ≥ 0.95 (bazı kaynaklarda ≥ 0.90) ve RMSEA ≤ 0.06 (kabul edilebilir üst sınır ≤ 0.08). Bu araştırmada CFI = 0.72 (< 0.90) ve RMSEA = 0.12 (> 0.08) olduğundan model uyumu oldukça zayıftır. Araştırmacının 'geçerlik kanıtlanmıştır' yorumu, istatistiksel bulgularla açıkça çelişmektedir. B seçeneği bu durumu en kapsamlı ve doğru biçimde ifade etmektedir. A yanlıştır; DFA yapı geçerliğinde standart bir araçtır. C yanlıştır; RMSEA=0.12 iyi uyum göstermez. D yanlıştır; indeksler örneklem büyüklüğünden etkilense de anlamsız hale gelmez. E yanlıştır; DFA yapı geçerliğinin önemli kanıtlarından birini sağlar.",
+     "aciklama": "DFA'da kabul edilebilir uyum için genel olarak CFI değerinin 0,90 ve üzerinde, RMSEA değerinin ise 0,08 veya altında olması beklenir. Bulunan CFI = 0,72 bu eşiğin altındadır. RMSEA = 0,12 ise eşiğin üstündedir. İki indeks de modelin veriyle uyumsuz olduğunu gösterir. Bu durumda araştırmacının yapı geçerliğinin kanıtlandığını söylemesi bulgularla çelişir. Bu yüzden \"CFI değeri 0.90'ın altında, RMSEA değeri 0.08'in üzerinde olduğundan model uyumu kabul edilemez düzeydedir...\" seçeneği hem indekslerin eşiklerini hem de yorumdaki hatayı kapsar. \"RMSEA değeri tek başına yeterlidir ve 0.12 iyi uyumu gösterir; CFI değeri önemsizdir.\" seçeneği yanlıştır, çünkü 0,12 iyi uyum değildir ve CFI de önemlidir. \"Doğrulayıcı faktör analiziyle yapı geçerliği hiçbir zaman kanıtlanamaz...\" seçeneği ise DFA'nın yapı geçerliği kanıtı sağladığını yok sayar. Doğru cevap \"CFI değeri 0.90'ın altında, RMSEA değeri 0.08'in üzerinde olduğundan model uyumu kabul edilemez düzeydedir...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -320,13 +323,14 @@
      "soru": "Bir öğretmen, öğrencilerine haftanın sonunda en fazla doğru cevap veren kişiye ödül vereceğini açıklar. Başlangıçta meraklı bir şekilde çalışan öğrencilerin zamanla yalnızca ödülü kazanmak için çalıştıkları gözlemlenmektedir. Bu durum aşağıdaki hangi kavramla açıklanır?",
      "secenekler": [
       "Dışsal ödülün içsel güdülenmeyi bozması (aşırı gerekçeleme etkisi)",
-      "Rekabet ortamının motivasyonu artırması",
+      "Rekabet ortamının motivasyonu artırması ve rekabetin sürdürülmesi ve canlı tutulması",
       "Sosyal öğrenme yoluyla model alma",
       "Pekiştirme programlarının etkisi",
       "Hedef belirleme kuramının işlevselliği"
      ],
      "dogru": 0,
-     "aciklama": "Aşırı gerekçeleme etkisi (overjustification effect; Lepper ve diğerleri, 1973), içsel olarak güdülenmiş bir etkinliğe dışsal ödül eklendiğinde bireyin etkinliği artık ödül için yaptığını algılamasıyla içsel güdülenmesinin azalmasıdır. Öğrenciler başlangıçta meraklarıyla çalışırken ödül eklenince davranışın nedeni dışsallaşmış, merak gerilemiştir. Bu durum Deci ve Ryan'ın Bilişsel Değerlendirme Kuramı ile de açıklanabilir."
+     "aciklama": "Aşırı gerekçeleme etkisi (overjustification effect; Lepper ve diğerleri, 1973), içsel olarak güdülenmiş bir etkinliğe dışsal ödül eklendiğinde bireyin etkinliği artık ödül için yaptığını algılamasıyla içsel güdülenmesinin azalmasıdır. Öğrenciler başlangıçta meraklarıyla çalışırken ödül eklenince davranışın nedeni dışsallaşmış, merak gerilemiştir. Bu durum Deci ve Ryan'ın Bilişsel Değerlendirme Kuramı ile de açıklanabilir.",
+     "zorluk": "orta"
     },
     {
      "id": "202051",
@@ -335,13 +339,14 @@
      "soru": "Rehberlik hizmetlerinden 'bilgi toplama ve yayma' işlevi için aşağıdakilerden hangisi en doğru açıklamadır?",
      "secenekler": [
       "Bireye karar verme sürecinde gerekli olan mesleki, eğitsel ve kişisel bilgilerin sunulmasını içerir.",
-      "Yalnızca okul yönetimine yönelik istatistiksel bilgi derlenmesini ifade eder.",
+      "Yalnızca okul yönetimine yönelik istatistiksel bilgi derlenmesini ifade etmektedir.",
       "Bireyin psikolojik testlerle derinlemesine tanınmasını sağlar.",
       "Bireyin sorunlarının nedenlerini araştırmak amacıyla veri toplamayı kapsar.",
-      "Psikolojik danışman ile birey arasındaki terapötik ilişkiyi güçlendirmeye hizmet eder."
+      "Psikolojik danışman ile birey arasındaki terapötik ilişkiyi güçlendirmeye hizmet eder ve danışma sürecinin temelini oluşturur."
      ],
      "dogru": 0,
-     "aciklama": "Bilgi toplama ve yayma işlevi; öğrencilerin eğitim seçenekleri, meslekler, burs olanakları ve kişisel gelişim kaynakları hakkında bilgilendirilmesini kapsar. Bireyin psikolojik testlerle tanınması 'bireysel tanıma' işlevine aittir. Okul yönetimine istatistik derlemek ise program değerlendirme işlevine girer. Terapötik ilişki psikolojik danışma hizmetinin konusudur."
+     "aciklama": "Bilgi toplama ve yayma işlevi; öğrencilerin eğitim seçenekleri, meslekler, burs olanakları ve kişisel gelişim kaynakları hakkında bilgilendirilmesini kapsar. Bireyin psikolojik testlerle tanınması 'bireysel tanıma' işlevine aittir. Okul yönetimine istatistik derlemek ise program değerlendirme işlevine girer. Terapötik ilişki psikolojik danışma hizmetinin konusudur.",
+     "zorluk": "orta"
     },
     {
      "id": "201672",
@@ -356,7 +361,7 @@
       "2,48"
      ],
      "dogru": 0,
-     "aciklama": "Standart ölçüm hatası formülü: SEM = SD × √(1 - r_xx). Burada SD = 8, r_xx = 0,78. SEM = 8 × √(1 - 0,78) = 8 × √0,22 = 8 × 0,469 ≈ 3,75. SEM, bireysel test puanlarının gerçek puana yakınlığını gösterir. %68 güven aralığı için gerçek puan, gözlenen puan ± 1 SEM aralığında bulunur. Güvenirlik katsayısı ne kadar yüksek olursa SEM o kadar düşük, dolayısıyla ölçüm o kadar hassas olur. Bu hesaplamada 120 kişilik örneklem büyüklüğü ve 40 madde sayısı yalnızca bağlam bilgisi olup formülde kullanılmaz.",
+     "aciklama": "Standart ölçüm hatası formülü: SEM = SD × √(1 - r«xx). Burada SD = 8, r»xx = 0,78. SEM = 8 × √(1 - 0,78) = 8 × √0,22 = 8 × 0,469 ≈ 3,75. SEM, bireysel test puanlarının gerçek puana yakınlığını gösterir. %68 güven aralığı için gerçek puan, gözlenen puan ± 1 SEM aralığında bulunur. Güvenirlik katsayısı ne kadar yüksek olursa SEM o kadar düşük, dolayısıyla ölçüm o kadar hassas olur. Bu hesaplamada 120 kişilik örneklem büyüklüğü ve 40 madde sayısı yalnızca bağlam bilgisi olup formülde kullanılmaz.",
      "zorluk": "zor"
     },
     {
@@ -366,10 +371,10 @@
      "soru": "Program geliştirmede 'psikolojik temel' ile aşağıdakilerden hangisi doğrudan ilgilidir?",
      "secenekler": [
       "Dersin haftalık ders saati",
-      "Ülkenin eğitim politikaları",
+      "Ülkenin genel eğitim politikaları",
       "Bireyin öğrenme özellikleri ve gelişim düzeyi",
       "Okulun fiziksel altyapısı",
-      "Toplumun kültürel değerleri"
+      "Toplumun kültürel değerleri ve normları ve inançları"
      ],
      "dogru": 2,
      "aciklama": "Psikolojik temel; öğrencilerin gelişim özellikleri, öğrenme kuramları, güdülenme, bireysel farklılıklar ve hazır bulunuşluk gibi konuları kapsar. Program geliştirirken öğrencilerin hangi düzeyde ne öğrenebileceği, psikolojik temelden elde edilen bilgilere dayanır.",
@@ -399,9 +404,9 @@
      "secenekler": [
       "Planlı görmezden gelme → Yakınlık kontrolü / beden dili → Sözel ipucu → Özel görüşme → Sonuç uygulama",
       "Sözel uyarı → Sonuç uygulama → Planlı görmezden gelme → Yakınlık kontrolü",
-      "Sözel uyarı → Yakınlık kontrolü → Planlı görmezden gelme → Aile toplantısı",
+      "Sözel uyarı → Yakınlık kontrolü → Planlı görmezden gelme → Aile toplantısı → Rehberlik desteği",
       "Sonuç uygulama → Sözel uyarı → Yakınlık kontrolü → Planlı görmezden gelme",
-      "Özel görüşme → Planlı görmezden gelme → Aile bildirimi → Okul rehberliğine yönlendirme"
+      "Özel görüşme → Planlı görmezden gelme → Aile bildirimi → Okul rehberliğine yönlendirme → Sonuç uygulama"
      ],
      "dogru": 0,
      "aciklama": "Minimum müdahale ilkesi, sınıf düzenini yeniden sağlamak için önce en az müdahil olan stratejiden başlanmasını, ancak işe yaramaması durumunda daha yüksek müdahale düzeylerine geçilmesini öngörür. Bu hiyerarşide: (1) Planlı görmezden gelme – davranışı pekiştirmeden söndürmeye çalışır, dersi bozmaz. (2) Yakınlık kontrolü ve beden dili – sözsüz, düşük profilli iletişim. (3) Sözel ipucu – kısa, sakin bir hatırlatma. (4) Özel görüşme – dersi kesmeden daha kapsamlı müdahale. (5) Sonuç uygulama – en müdahil son basamak. B bu sıralamayı doğru yansıtmaktadır. Diğer seçenekler sıralamayı bozarak daha yüksek müdahale düzeylerini erken devreye sokmaktadır.",
@@ -420,7 +425,8 @@
       "0.85"
      ],
      "dogru": 4,
-     "aciklama": "Spearman-Brown formülü: r_yeni = (k × r_eski) / [1 + (k-1) × r_eski]. Burada k = yeni uzunluk / eski uzunluk = 80/40 = 2. r_yeni = (2 × 0.75) / [1 + (2-1) × 0.75] = 1.50 / (1 + 0.75) = 1.50 / 1.75 ≈ 0.857 ≈ 0.86. En yakın değer A şıkkı olan 0.85'tir. Bu sonuç, test uzunluğunun iki katına çıkarılmasının güvenirliği artırdığını ancak sonsuz biçimde artıramayacağını gösterir."
+     "aciklama": "Test uzunluğu iki katına çıktığı için k = 2'dir. Spearman-Brown formülü: r_yeni = k·r / (1 + (k−1)·r). Değerler yerine konunca r_yeni = 2·0.75 / (1 + 0.75) = 1.50 / 1.75 ≈ 0.857 bulunur; bu da yaklaşık 0.85'tir. \"0.90\" ve \"0.95\" seçenekleri bu değerden belirgin biçimde büyüktür. \"0.88\" seçeneği ise hesaplanan 0.857'ye daha uzaktır. Güvenirlik madde eklenince artar ama artış orantılı değildir. Doğru cevap \"0.85\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "201007",
@@ -451,7 +457,8 @@
       "Skinner'ın güvercin ve fare deneyleri"
      ],
      "dogru": 0,
-     "aciklama": "Harry Harlow'un maymun bebekleriyle yürüttüğü ünlü deneylerde, bebekler besin sağlayan tel anneden değil yalnızca dokunsal konfor sunan kumaş anneye bağlanmıştır. Bu bulgular, bağlanmanın beslenmeyle değil güvenli temas ve yakınlık ihtiyacıyla ilgili olduğunu ortaya koymuş ve Bowlby'nin bağlanma kuramına önemli deneysel destek sağlamıştır. Lorenz'in iz bırakma (imprinting) çalışmaları da bağlanmayla ilişkilidir, fakat Bowlby'nin doğrudan dayandığı hayvan araştırması Harlow'unkidir."
+     "aciklama": "Harry Harlow'un maymun bebekleriyle yürüttüğü ünlü deneylerde, bebekler besin sağlayan tel anneden değil yalnızca dokunsal konfor sunan kumaş anneye bağlanmıştır. Bu bulgular, bağlanmanın beslenmeyle değil güvenli temas ve yakınlık ihtiyacıyla ilgili olduğunu ortaya koymuş ve Bowlby'nin bağlanma kuramına önemli deneysel destek sağlamıştır. Lorenz'in iz bırakma (imprinting) çalışmaları da bağlanmayla ilişkilidir, fakat Bowlby'nin doğrudan dayandığı hayvan araştırması Harlow'unkidir.",
+     "zorluk": "orta"
     },
     {
      "id": "200153",
@@ -466,7 +473,8 @@
       "Öğrencinin merak ettiği soruları sınıf tartışmasına açmak"
      ],
      "dogru": 0,
-     "aciklama": "Thorndike'ın hazırbulunuşluk yasasına göre, bir organizma bir tepkiyi vermeye hazır olduğunda bu tepkiyi vermek doyum sağlar; hazır olmadığı hâlde zorlanması ise rahatsızlık yaratır ve öğrenmeyi engeller. Bu nedenle öğrencinin hazır olmadığı konuyu zorla öğretmeye çalışmak bu yasayla doğrudan çelişir. Diğer seçenekler hazırbulunuşluğu destekleyen ya da onunla uyumlu uygulamalardır."
+     "aciklama": "Thorndike'ın hazırbulunuşluk yasasına göre, bir organizma bir tepkiyi vermeye hazır olduğunda bu tepkiyi vermek doyum sağlar; hazır olmadığı hâlde zorlanması ise rahatsızlık yaratır ve öğrenmeyi engeller. Bu nedenle öğrencinin hazır olmadığı konuyu zorla öğretmeye çalışmak bu yasayla doğrudan çelişir. Diğer seçenekler hazırbulunuşluğu destekleyen ya da onunla uyumlu uygulamalardır.",
+     "zorluk": "orta"
     },
     {
      "id": "202220",
@@ -474,7 +482,7 @@
      "konuId": "ozel_egitim",
      "soru": "Özel eğitim gerektiren bireyler için hazırlanan ve her bireyin bireysel ihtiyaçlarına göre düzenlenen eğitim planına ne ad verilir?",
      "secenekler": [
-      "Özel Destek Eğitim Planı",
+      "Özel Destek Eğitim Planı ve İzlemi ve İzleme Formu",
       "Rehabilitasyon Eğitim Programı",
       "Gelişimsel Eğitim Planı",
       "Bütünleşik Eğitim Planı",
@@ -513,7 +521,8 @@
       "Ben-dili, öğrencinin davranışını değiştirmesini doğrudan emreden bir iletişim biçimidir."
      ],
      "dogru": 4,
-     "aciklama": "Gordon'un TET modelinde 'ben-dili' (I-message), öğretmenin suçlayıcı ve yargılayıcı olmadan kendi duygularını ifade ettiği bir iletişim biçimidir. Ben-dili üç bileşen içerir: (1) davranışın tanımlanması, (2) öğretmenin hissi, (3) davranışın somut etkisi. Ben-dili hiçbir şekilde doğrudan emir ya da komut içermez; aksine öğrencinin davranışını gönüllü olarak değiştirmesini amaçlar. D seçeneğindeki 'doğrudan emreden' ifadesi ben-diline değil, sen-diline (you-message) ya da otoriter yaklaşımlara aittir. Bu nedenle D seçeneği yanlış bir ifadedir ve doğru yanıttır."
+     "aciklama": "Gordon'un TET modelinde ben-dili, öğretmenin öğrenciyi suçlamadan kendi duygusunu, sebebini ve davranışın somut etkisini anlatmasıdır. Etkili ben-dili üç bileşen içerir: davranış, duygu ve somut etki. Bu biçim öğrencide savunmacı tepkiyi azaltır ve öğrencinin sorumluluk almasına alan bırakır. Bu nedenle ben-dili bir emir ya da talimat değildir. Tersine, emreden ve yönlendiren ifadeler sen-diline özgüdür. \"Ben-dili, öğretmenin kendi duygularını ve bu duyguların nedenini açıklamasını içerir.\" ifadesi doğrudur. \"Ben-dili, öğrencide savunmacı tepki oluşturma olasılığını azaltır.\" ifadesi de doğrudur. Doğru cevap \"Ben-dili, öğrencinin davranışını değiştirmesini doğrudan emreden bir iletişim biçimidir.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "200801",
@@ -555,9 +564,9 @@
      "secenekler": [
       "Carkhuff'un modeli yalnızca bireysel danışmanla sınırlıyken Rogers'ın yaklaşımı grupla danışma ve eğitim alanlarına uyarlanmıştır.",
       "Carkhuff'un modelinde empati, danışanın duygusal içeriğini yansıtmakla sınırlı tutulurken Rogers'ın modelinde empati, yorum ve analizi de kapsar.",
-      "Rogers'ın yaklaşımında danışanın sorunlarına yönelik somut eylem planları geliştirilirken, Carkhuff'un modeli içgörüye dayalı çalışmayı öne çıkarır.",
+      "Rogers'ın yaklaşımında danışanın sorunlarına yönelik somut eylem planları geliştirilirken, Carkhuff'un modeli tümüyle içgörüye dayalı çalışmayı öne çıkarmaktadır.",
       "Her iki yaklaşım da aynı temel koşulları paylaşmakla birlikte; Carkhuff'un modeli, yardım sürecini ölçülebilir beceri düzeylerine (1-5 arası derecelendirme) ayıran ve eylem odaklı bir boyut ekleyen sistematik, eğitilebilir bir çerçeve sunar.",
-      "Rogers'ın yaklaşımı yalnızca koşulsuz kabul ve empatiyi merkeze alırken, Carkhuff'un modeli bu koşulları tamamen reddeder ve davranışçı teknikler kullanır."
+      "Rogers'ın yaklaşımı yalnızca koşulsuz kabul ve empatiyi merkeze alırken, Carkhuff'un modeli bu temel koşulları tümüyle reddetmekte ve yalnızca davranışçı teknikler kullanmaktadır. Bu nedenle iki yaklaşım birbirine tümüyle karşıt kuramsal temellere dayanmaktadır."
      ],
      "dogru": 3,
      "aciklama": "Carkhuff, Rogers'ın temel koşullarından (empati, saydamlık, koşulsuz kabul) hareket etmiş; ancak bu koşulları soyut ilkeler olmaktan çıkarıp ölçülebilir ve öğretilebilir becerilere dönüştürmüştür. 1'den 5'e uzanan derecelendirme skalası, danışmanın yardım kalitesini nesnel olarak değerlendirmeye olanak tanır. Bunun yanı sıra Carkhuff'un modeli, yalnızca duygu yansıtmakla sınırlı kalmayıp eylem planlaması ve problem çözme boyutlarını da kapsamaktadır (anlamanın ötesinde harekete geçirme). Bu yön, Rogers'ın içgörü ve yeniden yapılanmayı doğal süreçlere bırakan tutumundan ayrışır. Diğer şıklar kavramları yanlış biçimde birbirine karıştırmaktadır.",
@@ -624,7 +633,8 @@
       "Sınıflama ölçeği – Aritmetik ortalama hesaplanabilir."
      ],
      "dogru": 2,
-     "aciklama": "Öğrencileri öğrenme stillerine göre gruplandırmak sınıflama (nominal) ölçeğine örnektir. Sınıflama ölçeğinde bireyler yalnızca niteliklerine göre birbirinden farklı kategorilere ayrılır; kategoriler arasında büyüklük ya da sıra ilişkisi yoktur. Bu ölçek türünde yalnızca mod (en sık tekrar eden kategori) hesaplanabilir. Ortanca için sıralama, aritmetik ortalama için ise aralık ya da oran ölçeği gerekmektedir."
+     "aciklama": "Öğrencileri öğrenme stillerine göre gruplandırmak sınıflama (nominal) ölçeğine örnektir. Sınıflama ölçeğinde bireyler yalnızca niteliklerine göre birbirinden farklı kategorilere ayrılır; kategoriler arasında büyüklük ya da sıra ilişkisi yoktur. Bu ölçek türünde yalnızca mod (en sık tekrar eden kategori) hesaplanabilir. Ortanca için sıralama, aritmetik ortalama için ise aralık ya da oran ölçeği gerekmektedir.",
+     "zorluk": "orta"
     },
     {
      "id": "200557",
@@ -633,13 +643,13 @@
      "soru": "Aşağıdaki öğretim senaryolarından hangisinde, uygulanan strateji birden fazla öğretim ilkesini eş zamanlı karşılarken görünürde çelişen iki ilkeyi de ustaca uzlaştırmaktadır?",
      "secenekler": [
       "Öğrencilerin konu hakkında video izleyip ardından test çözmesi",
-      "Öğretmenin her öğrenciye aynı ödevi verip bireysel geri bildirim sağlaması",
+      "Öğretmenin her öğrenciye aynı ödevi verip her birine ayrı ayrı bireysel geri bildirim sağlaması ve sonuçları sınıfla paylaşması",
       "Müfredatın belirli bir sıraya göre işlenmesi",
       "Öğrencilerin gerçek bir toplumsal sorunu araştırarak hem bireysel rapor hem de grup sunumu hazırladığı proje tabanlı öğrenme",
-      "Öğretmenin konuyu önce genel hatlarıyla sunup ardından detaylara geçmesi"
+      "Öğretmenin konuyu önce genel hatlarıyla sunup ardından ayrıntılara geçerek açıklaması"
      ],
      "dogru": 3,
-     "aciklama": "B şıkkındaki proje tabanlı öğrenme senaryosu, görünürde çelişen 'bireysel farklılıklara görelik' ile 'sosyal etkileşim/işbirliği' ilkelerini uzlaştırır: bireysel rapor her öğrencinin kendi düzeyinde katkı sağlamasına izin verirken, grup sunumu sosyal etkileşimi ve ortak yapılandırmayı sağlar. Bunun yanı sıra aynı senaryo eş zamanlı olarak şu ilkeleri karşılar: yaşama yakınlık (gerçek toplumsal sorun), aktif katılım (araştırma ve sunum), hedefe görelik (araştırma becerisi kazanımı), bütünlük (disiplinler arası) ve pekiştirme (çoklu ürün). A yalnızca bütünden parçaya ilkesini uygular. C bireysel farklılıklar ilkesini kısmen karşılar ama işbirliğini içermez. D ve E ise minimum ilke karşılar, çelişen ilkeleri uzlaştırmaz.",
+     "aciklama": "Soruda istenen, tek uygulamada birden çok ilkenin karşılanması ve görünürde çelişen iki ilkenin uzlaştırılmasıdır. Proje tabanlı öğrenmede gerçek bir toplumsal sorunun araştırılması hayata yakınlık ilkesini, öğrencinin araştırmayı kendisinin yürütmesi etkin katılım ilkesini karşılar. Bireysel rapor bireyselliği, grup sunumu ise toplumsallık ve işbirliğini destekler. Böylece çatışır görünen bireysellik ve toplumsallık ilkeleri aynı süreçte birleşir. \"Öğretmenin her öğrenciye aynı ödevi verip her birine ayrı ayrı bireysel geri bildirim sağlaması...\" seçeneğinde bireysel geri bildirim vardır, ancak herkese aynı ödevin verilmesi bireyselliği yalnızca kısmen karşılar ve ortada gerçek bir uzlaştırma yoktur. \"Öğretmenin konuyu önce genel hatlarıyla sunup ardından ayrıntılara geçerek açıklaması\" seçeneği yalnızca bütünden parçaya ilkesini yansıtır. Doğru cevap \"Öğrencilerin gerçek bir toplumsal sorunu araştırarak hem bireysel rapor hem de grup sunumu hazırladığı proje tabanlı öğrenme\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -655,7 +665,8 @@
       "Öğrencinin göreve başlamadan önce net bir hedef belirlemesi"
      ],
      "dogru": 0,
-     "aciklama": "Csikszentmihalyi'nin akış kuramına göre akış deneyimi, zorluğun (challenge) ve bireyin yetkinliğinin (skill) dengede olduğu durumda ortaya çıkar. Görev çok kolaysa can sıkıntısı, çok zorse kaygı yaşanır; ikisi dengelendiğinde akış gerçekleşir. Bu 'zorluk-yetkinlik dengesi' akış için en temel önkoşuldur. Dışsal ödülün yokluğu (C) akışla ilişkili olmakla birlikte, zorunlu koşul değil eşlik eden özelliktir. Hedef belirleme (D) ve sosyal bağlam (E) ise kuramın merkezinde yer almaz; akış yalnız çalışırken de yaşanabilir."
+     "aciklama": "Csikszentmihalyi'ye göre akış, kişinin bir etkinliğe tamamen kapıldığı, zaman algısını yitirdiği deneyimdir. Bu deneyimin merkezî koşulu, algılanan güçlük ile algılanan beceri arasındaki dengedir. Görev beceriye göre çok zor algılanırsa kaygı oluşur; çok kolay algılanırsa can sıkıntısı doğar. Akış yalnızca ikisi dengede ve yeterince yüksekken ortaya çıkar. \"Öğrencinin göreve başlamadan önce net bir hedef belirlemesi\" seçeneği akışı destekleyen bir özelliktir; ancak tek başına akış yaratmaz. \"Görevin dışsal bir ödülle ilişkilendirilmemiş olması\" seçeneği de kuramın temel koşulu değildir. Doğru cevap \"Öğrencinin görev güçlüğünü yetenek düzeyiyle dengeli algılaması\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "202078",
@@ -663,11 +674,11 @@
      "konuId": "rehberlik_turleri",
      "soru": "Eğitsel rehberlik ile mesleki rehberlik arasındaki ilişkiyi en doğru biçimde açıklayan ifade hangisidir?",
      "secenekler": [
-      "Eğitsel ve mesleki rehberlik birbirinden tamamen bağımsızdır; farklı uzmanlar tarafından ayrı ortamlarda sunulmalıdır.",
+      "Eğitsel ve mesleki rehberlik birbirinden tamamen bağımsızdır; farklı uzmanlar tarafından ayrı ortamlarda sunulmalı, aralarında hiçbir bağ kurulmamalıdır.",
       "Her iki rehberlik türü de yalnızca ölçme-değerlendirme araçlarıyla yürütülür.",
       "Mesleki rehberlik yalnızca yetişkinlere yönelik iken eğitsel rehberlik okul dönemine özgüdür.",
       "Eğitsel rehberlik, mesleki rehberliğin ön koşuludur; çünkü bireyin eğitim sürecindeki kararları ilerleyen dönemde mesleki seçimlerini doğrudan etkiler.",
-      "Eğitsel rehberlik akademik başarı odaklıyken mesleki rehberlik kişisel değerlerle ilgilenmez."
+      "Eğitsel rehberlik akademik başarı odaklıyken mesleki rehberlik kişisel değerlerle hiç ilgilenmemektedir."
      ],
      "dogru": 3,
      "aciklama": "Eğitsel rehberlik; bireyin okul yaşamında ders seçimi, çalışma becerileri, akademik planlama gibi konularda desteklenmesini kapsar. Bu kararlar (hangi derslerin seçildiği, hangi programlara devam edildiği) bireyin ilerideki meslek seçimini doğrudan şekillendirir. Dolayısıyla eğitsel rehberlik, mesleki rehberliğin zeminini hazırlayan ve onu besleyen bir işlev görür; bu ikisi arasında doğrusal ve işlevsel bir süreklilik söz konusudur. Diğer seçenekler ya yanlış sınırlamalar içermekte ya da her iki alanın içeriğini hatalı biçimde tanımlamaktadır.",
@@ -679,9 +690,9 @@
      "konuId": "i_statistik",
      "soru": "Bir ölçme aracı için yapılan doğrulayıcı faktör analizi (DFA) sonucunda elde edilen uyum indeksleri şöyledir: χ²/df = 4,8; CFI = 0,87; RMSEA = 0,09; SRMR = 0,08. Bu bulgulara dayanarak aşağıdakilerden hangisi en doğru değerlendirmedir?",
      "secenekler": [
-      "χ²/df değeri 3'ün altında olmadığından model kesinlikle reddedilmelidir",
+      "χ²/df değeri 3'ün altında olmadığından model kesinlikle reddedilmeli ve yeniden kurulmalıdır",
       "RMSEA = 0,09 mükemmel uyuma işaret ettiğinden model yeterlidir",
-      "Tüm indeksler kabul edilebilir sınırlar içinde olduğundan model mükemmel uyum göstermektedir",
+      "Elde edilen tüm uyum indeksleri kabul edilebilir sınırlar içinde olduğundan model mükemmel bir uyum göstermektedir ve model doğrudan raporlanabilir niteliktedir ve model olduğu gibi raporlanabilir, ek düzeltme gerektirmez",
       "CFI = 0,87 olduğu sürece diğer indeksler önemsizdir",
       "Uyum indekslerinin büyük çoğunluğu kabul edilebilir eşiklerin dışındadır; model revize edilmeli (madde çıkarma, korelasyonlu hata terimleri) ve gerekçelendirilmelidir"
      ],
@@ -729,8 +740,8 @@
      "secenekler": [
       "Doğal sonuç",
       "Şekillendirme",
-      "Sosyal pekiştirme",
-      "Davranış sözleşmesi",
+      "Sosyal pekiştirme yöntemi",
+      "Davranış sözleşmesi uygulaması uygulaması ve sistemi",
       "Token ekonomisi (jeton sistemi)"
      ],
      "dogru": 4,
@@ -745,12 +756,13 @@
      "secenekler": [
       "Madde güçlük indekslerinin 0.50 civarında tutulması",
       "Test uzunluğunun artırılması",
-      "Puanlama yönergesinin açık ve ayrıntılı hazırlanması",
+      "Puanlama yönergesinin açık ve ayrıntılı biçimde hazırlanması ve puanlayıcılarla paylaşılması",
       "Test uygulamasının farklı koşullarda (farklı gün, farklı sınıf ortamı) yapılması",
-      "Madde ayırt edicilik indekslerinin yüksek tutulması"
+      "Madde ayırt edicilik indekslerinin yüksek düzeyde tutulması"
      ],
      "dogru": 3,
-     "aciklama": "Güvenirliği artıran etmenler arasında test uzunluğu (Spearman-Brown formülü), madde güçlüğünün orta düzeyde tutulması, yüksek ayırt edicilik ve standart puanlama koşulları sayılabilir. Ancak testin farklı fiziksel koşullarda (farklı gün, farklı ortam, farklı ışık, gürültü düzeyi vb.) uygulanması ölçüm hatası varyansını artırır ve güvenirliği düşürür çünkü güvenirlik tutarlılık demektir; değişken koşullar tutarsızlığa yol açar."
+     "aciklama": "Güvenirliği artıran etmenler arasında test uzunluğu (Spearman-Brown formülü), madde güçlüğünün orta düzeyde tutulması, yüksek ayırt edicilik ve standart puanlama koşulları sayılabilir. Ancak testin farklı fiziksel koşullarda (farklı gün, farklı ortam, farklı ışık, gürültü düzeyi vb.) uygulanması ölçüm hatası varyansını artırır ve güvenirliği düşürür çünkü güvenirlik tutarlılık demektir; değişken koşullar tutarsızlığa yol açar.",
+     "zorluk": "orta"
     },
     {
      "id": "201102",
@@ -760,12 +772,12 @@
      "secenekler": [
       "Davranışsal hedefler yasal zorunluluklar açısından sorun yaratacağından davranışsal olmayan hedefler tercih edilmelidir",
       "Eisner'ın 'ifadesel amaçlar (expressive objectives)' kavramı çerçevesinde her öğrencinin aynı etkinlikten farklı ve değerli çıktılar elde edebileceği, bu nedenle önceden belirlenmiş tekil bir davranışın yeterli olmadığı savunulabilir",
-      "Bloom taksonomisi yalnızca üst düzey bilişsel basamaklarda davranışsal ifadelere yer verdiğinden alt basamaklar için davranışsal olmayan hedefler zorunludur",
+      "Bloom taksonomisi yalnızca üst düzey bilişsel basamaklarda davranışsal ifadelere yer verdiğinden alt basamaklar için davranışsal olmayan hedeflerin kullanılması zorunlu hâle gelmektedir ve bu durum hedef yazımını doğrudan etkilemektedir",
       "Davranışsal olmayan hedefler, merkezi sınav sistemleriyle daha uyumludur ve puanlamayı kolaylaştırır",
-      "Mager'ın hedef yazım kriterleri davranışsal olmayan hedefleri de kapsamaktadır; bu nedenle her iki türde hedef eşdeğer kabul edilebilir"
+      "Mager'ın hedef yazım ölçütleri davranışsal olmayan hedefleri de kapsamaktadır; bu nedenle her iki türdeki hedef birbirine eşdeğer kabul edilebilir"
      ],
      "dogru": 1,
-     "aciklama": "Eisner, davranışsal hedeflerin sanat, müzik ve yaratıcı yazarlık gibi alanlarda yetersiz kaldığını savunmuştur. Buna alternatif olarak 'ifadesel amaçlar (expressive objectives)' kavramını geliştirmiştir. İfadesel amaçlar; bir etkinliği tanımlar ancak beklenen çıktıyı önceden belirlemez; çünkü farklı öğrencilerin aynı deneyimden farklı ve eşit derecede değerli kazanımlar elde edebileceğini kabul eder. Bu, bireysel farklılıklara ve yaratıcılığa saygı duyan felsefi bir yaklaşımdır. Mager'ın kriterleri (D, E şıkları) tam tersine davranışsal hedefleri zorunlu kılar. A ve C şıkları ise geçersiz argümanlar sunar.",
+     "aciklama": "Eisner, eğitimde yalnızca önceden belirlenmiş davranışlara indirgenemeyen kazanımlar olduğunu savunur. Bunun için \"ifadesel amaçlar\" kavramını önerir. İfadesel amaçlar, öğrencinin bir etkinlikte ne kazanacağını önceden belirlemez; etkinlik sonunda ortaya çıkan, öğrenciden öğrenciye değişen ve değerli olabilen çıktıları kabul eder. Davranışsal olmayan hedeflerin felsefi dayanağı budur. \"Davranışsal hedefler yasal zorunluluklar açısından sorun yaratacağından davranışsal olmayan hedefler tercih edilmelidir\" seçeneği felsefi değil idari bir gerekçe öne sürer ve dayanaksızdır. \"Merkezi sınav sistemleriyle daha uyumludur ve puanlamayı kolaylaştırır\" seçeneği de gerçeğin tersini söyler; ölçülebilirlik davranışsal hedeflerin özelliğidir. Doğru cevap \"Eisner'ın 'ifadesel amaçlar (expressive objectives)' kavramı çerçevesinde her öğrencinin aynı etkinlikten farklı ve değerli çıktılar elde edebileceği\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -829,7 +841,8 @@
       "Beyin fırtınası – eleştiriyi erteleme ilkesi"
      ],
      "dogru": 1,
-     "aciklama": "Buluş yoluyla öğretim tümevarım mantığıyla işler: öğrenci somut örnekler, veriler ya da ipuçlarından yola çıkarak genel ilkeye ulaşır. Tümdengelim ise genel ilkeden özele gitmeyi ifade eder ve daha çok sunuş/anlatım yoluyla öğretim stratejisine uygundur. Diğer eşleştirmeler doğrudur."
+     "aciklama": "Buluş yoluyla öğretim tümevarım mantığıyla işler: öğrenci somut örnekler, veriler ya da ipuçlarından yola çıkarak genel ilkeye ulaşır. Tümdengelim ise genel ilkeden özele gitmeyi ifade eder ve daha çok sunuş/anlatım yoluyla öğretim stratejisine uygundur. Diğer eşleştirmeler doğrudur.",
+     "zorluk": "orta"
     },
     {
      "id": "201799",
@@ -839,8 +852,8 @@
      "secenekler": [
       "Kounin modeli her üç boyuta eşit katkı sunar; model bütünleşik bir yaklaşımı temsil eder.",
       "Kounin modeli ağırlıklı olarak önleyici boyuta katkı sağlar; dersin akışını, geçişleri ve grup hareketini yönetme, withitness gibi kavramlar sorun oluşmadan önce devreye girer.",
-      "Kounin modeli yalnızca destekleyici boyuta katkı sağlar; öğrenci motivasyonunu artırmaya odaklanır.",
-      "Kounin modeli yalnızca düzeltici boyuta odaklanır; sorun ortaya çıktıktan sonra nasıl müdahale edileceğini inceler.",
+      "Kounin modeli yalnızca destekleyici boyuta katkı sağlamaktadır; öğrencinin motivasyonunu artırmaya odaklanmaktadır.",
+      "Kounin modeli yalnızca düzeltici boyuta odaklanmaktadır; sorun ortaya çıktıktan sonra nasıl müdahale edileceğini incelemektedir. Önleyici boyuta herhangi bir katkısı bulunmamaktadır.",
       "Kounin modeli düzeltici ve destekleyici boyutları kapsar; önleyici boyut Gordon modeline aittir."
      ],
      "dogru": 1,
@@ -853,10 +866,10 @@
      "konuId": "ogretim_teknolojileri",
      "soru": "Bir eğitim araştırmacısı, flipped classroom (tersyüz sınıf) modelinin uygulandığı iki okulu karşılaştırmıştır. Birinci okulda öğrenciler evde video izleyip sınıfta alıştırma yapan, öğretmenin bireysel destek sağladığı geleneksel-tersyüz uygulama yürütmektedir. İkinci okulda ise sınıftaki etkinlikler üst düzey bilişsel görevleri (tartışma, proje, problem çözme) içermekte ve öğretmen bu süreçte Socratic sorgulama tekniğini kullanmaktadır. Bloom taksonomisi açısından bu iki modeli karşılaştıran araştırmacının varması en muhtemel sonuç aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Birinci model, sınıf içi uygulamanın yoğunluğu nedeniyle yordamsal bilgiyi daha etkili geliştirmektedir.",
+      "Birinci model, sınıf içi uygulamanın yoğunluğu nedeniyle yordamsal bilgiyi çok daha etkili biçimde geliştirmektedir.",
       "İkinci model, sınıf etkinliklerini analiz-değerlendirme-yaratma basamaklarına taşıdığından tersyüz sınıf modelinin pedagojik potansiyelini daha tam karşılamaktadır.",
       "Birinci model, öğretmenin bireysel destek sağlaması nedeniyle ZPD ilkesine daha uyumludur.",
-      "Her iki model de taksonomi açısından eşdeğerdir, çünkü ikisinde de öğrenciler ders dışında içerikle yüzleşmektedir.",
+      "Her iki model de taksonomi açısından birbirine tümüyle eşdeğerdir; çünkü ikisinde de öğrenciler ders dışında içerikle yüzleşmekte, aradaki fark yalnızca biçimsel düzeyde kalmaktadır.",
       "İkinci modelin Socratic sorgulamayı kullanması, öğrencilerin bilgi düzeyini düşürme riski taşır."
      ],
      "dogru": 1,
@@ -875,8 +888,9 @@
       "Kanallar arası çatışma",
       "Çift bağlı mesaj (double bind)"
      ],
-     "dogru": 1,
-     "aciklama": "Pekiştirme tutarsızlığı, olumsuz davranışlara tepki verilirken olumlu davranışların görmezden gelinmesi durumunu ifade eder. Bu senaryoda öğretmen yalnızca olumsuz davranışa tepki vermiş, olumlu davranışı ise pekiştirmemiştir. Çift bağlı mesaj ise aynı kaynaktan birbiriyle çelişen iki mesajın iletilmesini kapsar; burada çelişen iki ayrı mesaj yoktur. Seçici algı alıcının özelliğidir, gönderenin değil."
+     "dogru": 0,
+     "aciklama": "Pekiştirme tutarsızlığı, olumsuz davranışlara tepki verilirken olumlu davranışların görmezden gelinmesi durumunu ifade eder. Bu senaryoda öğretmen yalnızca olumsuz davranışa tepki vermiş, olumlu davranışı ise pekiştirmemiştir. Çift bağlı mesaj ise aynı kaynaktan birbiriyle çelişen iki mesajın iletilmesini kapsar; burada çelişen iki ayrı mesaj yoktur. Seçici algı alıcının özelliğidir, gönderenin değil.",
+     "zorluk": "orta"
     },
     {
      "id": "202139",
@@ -907,7 +921,8 @@
       "Bireyler arası farklılıkları ortaya çıkarmayı hedefleyen değerlendirme"
      ],
      "dogru": 3,
-     "aciklama": "Kriter referanslı değerlendirmede amaç, bireyin belirlenmiş bir ölçüte ulaşıp ulaşmadığını saptamaktır. Bu yaklaşımda tüm öğrencilerin bir soruyu doğru yanıtlaması o sorunun iyi öğretildiğini gösterir; bu nedenle söz konusu soruların testten çıkarılması kriter referanslı anlayışla çelişir. Norm referanslı değerlendirmede ise bireyler arasında ayrım yapmak esastır; bu amaçla herkesin doğru veya herkesin yanlış yanıtladığı sorular ayırt etme gücü taşımadığından testten çıkarılması anlamlıdır. Öğretmenin tutumu norm referanslı/seçme amaçlı değerlendirmeyle örtüşmekte, kriter referanslı anlayışla en az örtüşmektedir."
+     "aciklama": "Kriter referanslı değerlendirmede amaç, bireyin belirlenmiş bir ölçüte ulaşıp ulaşmadığını saptamaktır. Bu yaklaşımda tüm öğrencilerin bir soruyu doğru yanıtlaması o sorunun iyi öğretildiğini gösterir; bu nedenle söz konusu soruların testten çıkarılması kriter referanslı anlayışla çelişir. Norm referanslı değerlendirmede ise bireyler arasında ayrım yapmak esastır; bu amaçla herkesin doğru veya herkesin yanlış yanıtladığı sorular ayırt etme gücü taşımadığından testten çıkarılması anlamlıdır. Öğretmenin tutumu norm referanslı/seçme amaçlı değerlendirmeyle örtüşmekte, kriter referanslı anlayışla en az örtüşmektedir.",
+     "zorluk": "orta"
     },
     {
      "id": "200721",
@@ -922,7 +937,8 @@
       "Doğrudan öğretim"
      ],
      "dogru": 3,
-     "aciklama": "Probleme dayalı öğrenmede (PDÖ) öğrenciler, gerçek ya da gerçeğe yakın problemlerle karşılaştırılır; araştırır, işbirliği yapar ve çözüm üretirler. Öğretmen bilgi aktaran değil, süreci kolaylaştıran bir rehberdir. Buluş yoluyla öğretimde ise problem belirginleştirilmek yerine kavramın öğrenci tarafından keşfedilmesi esastır; sunum bileşeni ön planda değildir. Bu senaryoda araştırma + çözüm önerisi + sunum bütünü PDÖ'yü işaret etmektedir."
+     "aciklama": "Probleme dayalı öğrenmede (PDÖ) öğrenciler, gerçek ya da gerçeğe yakın problemlerle karşılaştırılır; araştırır, işbirliği yapar ve çözüm üretirler. Öğretmen bilgi aktaran değil, süreci kolaylaştıran bir rehberdir. Buluş yoluyla öğretimde ise problem belirginleştirilmek yerine kavramın öğrenci tarafından keşfedilmesi esastır; sunum bileşeni ön planda değildir. Bu senaryoda araştırma + çözüm önerisi + sunum bütünü PDÖ'yü işaret etmektedir.",
+     "zorluk": "orta"
     },
     {
      "id": "201206",
@@ -931,13 +947,14 @@
      "soru": "Bir öğretim programında içerik seçiminde 'ekonomiklik (economy)' ilkesi gözetilmektedir. Bu ilkenin uygulanmasına aşağıdakilerden hangisi en iyi örnek olur?",
      "secenekler": [
       "Programda yer alan tüm konuların eşit süre ve ağırlıkla ele alınması",
-      "Konuların öğrencilerin yaşına ve sınıf düzeyine bakılmaksızın tümünün programa dahil edilmesi",
+      "Konuların, öğrencilerin yaşına ve sınıf düzeyine hiç bakılmaksızın tümünün programa dâhil edilmesi ve işlenmesi",
       "Öğrencilerin farklı durumlar ve disiplinler için transfer edebileceği temel kavram ve ilkelerin seçilmesi",
-      "İçeriğin yalnızca sınav sorularını kapsayacak şekilde sınırlandırılması",
+      "İçeriğin yalnızca sınav sorularını kapsayacak biçimde sınırlandırılması",
       "İçeriğin mümkün olduğunca az kaynak kullanılarak öğrencilere sunulması"
      ],
      "dogru": 2,
-     "aciklama": "Program geliştirmede içerik seçiminde ekonomiklik ilkesi; öğrencinin öğreneceği bilgi miktarını azaltmak yerine, en az içerikle en fazla öğrenmeyi sağlayacak temel ve transfer edilebilir kavram, ilke ve genellemelerin seçilmesini ifade eder. Bruner'ın 'az ama öz, geniş aktarım sağlayan içerik' anlayışıyla örtüşür. Bu sayede öğrenci, az sayıda temel kavramı derinlemesine öğrenerek birçok farklı duruma uygulayabilir. Diğer seçenekler ekonomiklik ilkesiyle değil; eşitlik, sınırlama, kapsayıcılık ya da kaynak tasarrufu kavramlarıyla ilişkilidir."
+     "aciklama": "Program geliştirmede içerik seçiminde ekonomiklik ilkesi; öğrencinin öğreneceği bilgi miktarını azaltmak yerine, en az içerikle en fazla öğrenmeyi sağlayacak temel ve transfer edilebilir kavram, ilke ve genellemelerin seçilmesini ifade eder. Bruner'ın 'az ama öz, geniş aktarım sağlayan içerik' anlayışıyla örtüşür. Bu sayede öğrenci, az sayıda temel kavramı derinlemesine öğrenerek birçok farklı duruma uygulayabilir. Diğer seçenekler ekonomiklik ilkesiyle değil; eşitlik, sınırlama, kapsayıcılık ya da kaynak tasarrufu kavramlarıyla ilişkilidir.",
+     "zorluk": "orta"
     },
     {
      "id": "201273",
@@ -961,14 +978,15 @@
      "konuId": "ogretim_i_lkeleri",
      "soru": "Hedefe yönelik olma ilkesi açısından değerlendirildiğinde, aşağıdaki öğretmen davranışlarından hangisi bu ilkeyle en az bağdaşmaktadır?",
      "secenekler": [
-      "Ders planını hedeflere ulaşmayı sağlayacak yöntem ve materyallere göre düzenlemek",
+      "Ders planını hedeflere ulaşmayı sağlayacak yöntem ve materyallere göre yeniden düzenlemek ve uygulamak",
       "Öğrencinin ilgisini çeken bir konuyu, müfredattan bağımsız biçimde ders saati boyunca işlemek",
-      "Her etkinliği belirlenmiş öğrenme hedefleriyle ilişkilendirmek",
+      "Her etkinliği önceden belirlenmiş öğrenme hedefleriyle doğrudan ilişkilendirmek",
       "Ölçme araçlarını öğrenme hedeflerine göre hazırlamak",
       "Dersin kazanımlarını dönem başında öğrencilerle paylaşmak"
      ],
      "dogru": 1,
-     "aciklama": "Hedefe yönelik olma ilkesi; öğretim sürecindeki tüm etkinliklerin, yöntemlerin ve materyallerin belirlenen öğrenme hedefleri doğrultusunda planlanmasını ve uygulanmasını öngörür. Müfredattan bağımsız biçimde yalnızca öğrenci ilgisine göre konu işlemek, etkinliği herhangi bir hedefe bağlamadığı için bu ilkeyle en az bağdaşan davranıştır. Diğer seçeneklerin tamamı hedefe yönelik planlama ve uygulama örnekleridir."
+     "aciklama": "Hedefe yönelik olma ilkesi; öğretim sürecindeki tüm etkinliklerin, yöntemlerin ve materyallerin belirlenen öğrenme hedefleri doğrultusunda planlanmasını ve uygulanmasını öngörür. Müfredattan bağımsız biçimde yalnızca öğrenci ilgisine göre konu işlemek, etkinliği herhangi bir hedefe bağlamadığı için bu ilkeyle en az bağdaşan davranıştır. Diğer seçeneklerin tamamı hedefe yönelik planlama ve uygulama örnekleridir.",
+     "zorluk": "orta"
     },
     {
      "id": "200410",
@@ -983,7 +1001,8 @@
       "Bandura'nın Öz Yeterlilik Kuramı"
      ],
      "dogru": 3,
-     "aciklama": "Dweck'in Örtük Zeka Kuramı'na göre bireyler zekayı sabit (fixed mindset) ya da gelişebilir (growth mindset) olarak algılayabilir. 'Henüz öğrenemedin' ifadesi zekanın gelişebileceğine olan inancı yansıtır ve büyüme zihniyetini destekler. Weiner'ın kuramı yüklemeleri (yetenek, çaba, şans, güçlük) ele alır ve burada da çakışma olabilir; ancak öğretmenin sabit/gelişebilir zeka ayrımını doğrudan yansıtması Dweck kuramını öne çıkarmaktadır. Bandura'nın öz yeterlilik kuramı bireyin belirli bir görevdeki yetkinlik algısını ele alır; doğrudan zeka anlayışıyla ilgili değildir."
+     "aciklama": "Dweck'in Örtük Zeka Kuramı'na göre bireyler zekayı sabit (fixed mindset) ya da gelişebilir (growth mindset) olarak algılayabilir. 'Henüz öğrenemedin' ifadesi zekanın gelişebileceğine olan inancı yansıtır ve büyüme zihniyetini destekler. Weiner'ın kuramı yüklemeleri (yetenek, çaba, şans, güçlük) ele alır ve burada da çakışma olabilir; ancak öğretmenin sabit/gelişebilir zeka ayrımını doğrudan yansıtması Dweck kuramını öne çıkarmaktadır. Bandura'nın öz yeterlilik kuramı bireyin belirli bir görevdeki yetkinlik algısını ele alır; doğrudan zeka anlayışıyla ilgili değildir.",
+     "zorluk": "orta"
     },
     {
      "id": "202098",
@@ -991,8 +1010,8 @@
      "konuId": "rehberlik_turleri",
      "soru": "Bir danışman, ciddi akademik başarısızlık yaşayan bir öğrenciye yönelik çalışırken öğrencinin başarısızlığının kısmen öğrenme güçlüğünden (disleksi), kısmen ailedeki kronik çatışmadan kaynaklandığını tespit etmiştir. Buna göre bu öğrenciye sunulacak hizmetin doğru nitelendirilmesi için hangi çıkarım en yerindedir?",
      "secenekler": [
-      "Sorun karmaşık olduğu için herhangi bir rehberlik türü uygulanamaz; yalnızca aile terapisti devreye girmelidir.",
-      "Öğrencinin disleksisi olduğu için yalnızca özel eğitim uzmanına sevk yeterlidir; psikolojik danışmana düşen görev kalmamıştır.",
+      "Sorun çok karmaşık olduğu için herhangi bir rehberlik türü uygulanamaz; yalnızca aile terapisti devreye girmelidir.",
+      "Öğrencinin disleksisi olduğu için yalnızca özel eğitim uzmanına sevki yeterlidir; psikolojik danışmana düşen herhangi bir görev kalmamıştır. Bu nedenle rehberlik süreci sonlandırılmalıdır.",
       "Yalnızca kişisel-sosyal rehberlik uygulanmalıdır, çünkü aile dinamikleri belirleyicidir.",
       "Yalnızca eğitsel rehberlik uygulanmalıdır, çünkü sorun akademik performansı etkilemektedir.",
       "Rehberlik hizmet alanları doğası gereği örtüşebilir; bu öğrenci hem eğitsel hem kişisel-sosyal rehberliğe ihtiyaç duymaktadır ve gerekirse uzman yönlendirmesi (sevk) de düşünülmelidir."
@@ -1007,8 +1026,8 @@
      "konuId": "i_statistik",
      "soru": "Bir araştırmacı, öğrencilerin fen bilimleri başarısını yordamak için çoklu regresyon analizi yapmıştır. Modele üç bağımsız değişken eklenmiş; ancak VIF (Variance Inflation Factor) değerleri incelendiğinde iki değişken için VIF = 9,8 ve VIF = 10,4 bulunmuştur. Bu durum aşağıdakilerden hangisine işaret eder ve araştırmacı ne yapmalıdır?",
      "secenekler": [
-      "Bağımlı değişken normal dağılmıyordur; dönüşüm uygulanmalıdır",
-      "Artık değerler heterojendir; ağırlıklı en küçük kareler yöntemi kullanılmalıdır",
+      "Bağımlı değişken normal dağılım göstermemektedir; bu nedenle veriye dönüşüm uygulanmalıdır",
+      "Artık değerler heterojen bir dağılım göstermektedir; bu nedenle ağırlıklı en küçük kareler yöntemi kullanılmalıdır ve modelin yeniden kurulması gerekmektedir ve modelin bu düzeltmeyle yeniden kurulması gerekmektedir",
       "Çoklu bağlantı (multicollinearity) sorunu mevcuttur; değişkenlerden biri çıkarılmalı, birleştirilmeli ya da ridge regresyon gibi alternatif yöntemlere başvurulmalıdır",
       "Örneklem büyüklüğü yetersizdir; örneklem artırılmalıdır",
       "F istatistiği anlamlı değildir; model bütünüyle geçersizdir"
@@ -1025,12 +1044,13 @@
      "secenekler": [
       "Felsefi temel, 'ne öğretelim' ve 'neden öğretelim' sorularını yanıtlarken; psikolojik temel, 'nasıl öğretelim' ve 'öğrenci hazır bulunuşluğu nedir' sorularını yanıtlar.",
       "Psikolojik temel, programın amaçlarını belirlerken; felsefi temel, öğrenme-öğretme süreçlerini düzenler.",
-      "Felsefi temel, programın ekonomik gerekçelerini oluştururken; psikolojik temel toplumsal ihtiyaçları belirler.",
-      "Felsefi temel yalnızca içerik seçimiyle, psikolojik temel ise yalnızca ölçme-değerlendirmeyle ilgilenir.",
+      "Felsefi temel, programın ekonomik gerekçelerini oluştururken; psikolojik temel ise toplumsal ihtiyaçları ve beklentileri belirlemektedir. Bu nedenle iki temel birbirinin yerine geçebilmektedir.",
+      "Felsefi temel yalnızca içerik seçimiyle, psikolojik temel ise yalnızca ölçme ve değerlendirme süreçleriyle ilgilenmektedir.",
       "Her iki temel de aynı soruları yanıtladığı için birbirinin yerine kullanılabilir."
      ],
      "dogru": 0,
-     "aciklama": "Program geliştirmede felsefi temel; eğitimin amacını, değerlerini, 'ne öğretelim' ve 'neden öğretelim' sorularını yanıtlar. Psikolojik temel ise öğrenme kuramları, gelişim özellikleri ve bireysel farklılıklar aracılığıyla 'nasıl öğretelim', 'öğrenci bu içeriğe hazır mı', 'hangi yöntem uygun' gibi soruları yanıtlar. Bu iki temel birbirini tamamlar ancak birbirinin yerine geçemez. B şıkkındaki rollerin yer değiştirdiğine dikkat ediniz."
+     "aciklama": "Felsefi temel, programın amaçlarını ve değer yönelimini belirler. Yani nasıl bir insan yetiştirileceği, neyin ve neden öğretileceği sorularını yanıtlar. Psikolojik temel ise öğrenme kuramları ve gelişim özelliklerinden yararlanır. Öğrencinin hazır bulunuşluğunu dikkate alarak öğrenme-öğretme sürecinin nasıl düzenleneceğini açıklar. Bu iki temel birbirini tamamlar, birbirinin yerine geçmez. \"Psikolojik temel, programın amaçlarını belirlerken; felsefi temel, öğrenme-öğretme süreçlerini düzenler.\" ifadesi iki temelin işlevlerini ters çevirmiştir. \"Her iki temel de aynı soruları yanıtladığı için birbirinin yerine kullanılabilir.\" ifadesi de yanlıştır, çünkü temeller farklı sorulara yanıt verir. Doğru cevap \"Felsefi temel, 'ne öğretelim' ve 'neden öğretelim' sorularını yanıtlarken; psikolojik temel...\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "200238",
@@ -1040,8 +1060,8 @@
      "secenekler": [
       "Öğrenci bilgiyi keşfederek öğrenmelidir.",
       "Kavramlar somut işlemler döneminde kazanılır.",
-      "Öğrenme sosyal etkileşim olmadan gerçekleşmez.",
-      "Öğrenme pekiştireçlerle şekillendirilmelidir.",
+      "Öğrenme, sosyal etkileşim olmaksızın hiçbir biçimde gerçekleşmez. Birey tek başına öğrenemez.",
+      "Öğrenme süreci pekiştireçler aracılığıyla şekillendirilmelidir.",
       "Yeni bilgi, bireyin ön bilgileriyle ilişkilendirilerek sunulmalıdır."
      ],
      "dogru": 4,
@@ -1061,7 +1081,7 @@
       "Öğrenci sürekli gürültü yaparak öğretmenin ders anlatmasını engellediğinde öğretmen 'ben mesajı' gönderir → Sorun öğretmene ait olduğundan ben mesajı doğru seçimdir."
      ],
      "dogru": 3,
-     "aciklama": "Gordon'un TET modeline göre aktif dinleme, sorunun sahibi öğrenci olduğunda kullanılır; yani öğrenci duygusal sıkıntı yaşıyor, bir güçlükle başa çıkmaya çalışıyorsa öğretmen yargılamadan dinler ve duyguları yansıtır. 'Ben mesajı' ise sorun öğretmene ait olduğunda kullanılır; öğretmenin ihtiyaçları, duyguları ya da işi engellenmektedir. C seçeneğinde öğrenci kopya çekmiştir; bu durumda asıl sorun öğretmene aittir (öğretmenin sınıf yönetimi süreci ve akademik dürüstlük ihlal edilmiştir, öğretmen öfkelidir). Bu senaryoda öğretmenin 'ben mesajı' kullanması gerekirdi. Ancak öğretmen aktif dinleme uygulamış; bu beceri sahibin belirlenmesinde yapılmış bir hatayı temsil etmektedir. Ayrıca aktif dinlemeyi 'öfkesini yansıtmak amacıyla' kullanmak tekniğin özüyle de çelişmektedir; aktif dinleme empati içerir, öfke aktarımı için kullanılmaz. Bu nedenle C seçeneği hem sorunun sahibini hem de kullanılan beceriyi yanlış eşleştirmektedir.",
+     "aciklama": "Gordon'un modelinde problem sahipliği önce belirlenir. Öğrencinin ihtiyacı karşılanmadığında sorun öğrencidedir ve aktif dinleme kullanılır. Öğretmenin ihtiyacı engellendiğinde sorun öğretmendedir ve ben mesajı kullanılır. Sınavda kopya çekilmesi öğretmenin kuralını ve ihtiyacını etkilediği için sorun öğretmene aittir. Bu durumda öfkeyi yansıtmak amacıyla aktif dinleme uygulamak yanlış beceridir ve ben mesajı kullanılmalıdır. \"Öğrenci ailesinden gelen haberler nedeniyle derste ağlayan öğrenciye öğretmen aktif dinleme uygular\" seçeneği doğru bir eşleştirmedir, çünkü sorun öğrencidedir. \"Öğrenci sürekli gürültü yaparak öğretmenin ders anlatmasını engellediğinde öğretmen 'ben mesajı' gönderir\" seçeneği de doğrudur. Doğru cevap \"Öğrenci sınavda kopya çektiği için öğretmen ona öfkesini yansıtmak amacıyla aktif dinleme uygular\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -1070,14 +1090,14 @@
      "konuId": "guvenirlik_gecerlik",
      "soru": "Bir psikolog, geliştirdiği kaygı ölçeğinin yakınsak ve ıraksak (ayrışım) geçerliğini sınamak için çok özellik-çok yöntem (MTMM) matrisini kullanmaktadır. Aşağıdaki bulgulardan hangisi bu ölçeğin geçerliğine ilişkin en ciddi sorunu işaret eder?",
      "secenekler": [
-      "Farklı yapıları ölçen farklı yöntemler arasındaki korelasyonların (ıraksak geçerlik katsayıları) 0,15-0,25 aralığında olması.",
-      "Yakınsak geçerlik katsayılarının ıraksak geçerlik katsayılarından yüksek olması, ancak güvenirlik katsayılarından düşük olması.",
+      "Farklı yapıları ölçen farklı yöntemler arasındaki korelasyonların (ıraksak geçerlik katsayıları) 0,15-0,25 aralığında bulunması.",
+      "Yakınsak geçerlik katsayılarının ıraksak geçerlik katsayılarından yüksek olması, ancak güvenirlik katsayılarından düşük kalması. Bu iki katsayı arasındaki sıralama beklenen örüntüyü oluşturmaktadır.",
       "Aynı yapıyı ölçen aynı yöntem korelasyonlarının (güvenirlik katsayıları) 0,80 civarında olması.",
       "Aynı yapıyı ölçen farklı yöntemler arasındaki korelasyonların (yakınsak geçerlik katsayıları) 0,50-0,65 aralığında olması.",
       "Farklı yapıları ölçen aynı yöntemler arasındaki korelasyonların (yöntem bloğu içi heterojen korelasyonlar), farklı yapıları ölçen farklı yöntemler arasındaki korelasyonlardan yüksek olması."
      ],
      "dogru": 4,
-     "aciklama": "MTMM matrisinde Campbell ve Fiske'nin geçerlik kriterleri şöyle sıralanır: (1) Yakınsak geçerlik katsayıları yüksek ve anlamlı olmalı, (2) Yakınsak geçerlik katsayıları ıraksak katsayılardan yüksek olmalı, (3) Yakınsak geçerlik katsayıları aynı bloktaki heterojen korelasyonlardan yüksek olmalı. B seçeneğinde tanımlanan durum — farklı yapıları ölçen aynı yöntemler arasındaki korelasyonların, farklı yapıları ölçen farklı yöntemler arasındaki korelasyonlardan yüksek olması — yöntem varyansının (method bias) aşırı şişmiş olduğuna işaret eder. Bu, hem yakınsak hem ıraksak geçerliği tehdit eden en ciddi sorundur; çünkü yapı farkından ziyade yöntem benzerliği korelasyonları artırmaktadır. A kabul edilebilir bir değer aralığıdır. C yüksek güvenirlik olup olumludur. D düşük ıraksak korelasyon arzu edilir bir durumdur. E Campbell-Fiske ölçütlerinden biriyle (yakınsak > ıraksak) uyumludur; güvenirlikten düşük olması da beklenen bir örüntüdür.",
+     "aciklama": "MTMM matrisinde Campbell-Fiske ölçütlerine göre yakınsak geçerlik katsayıları (aynı yapı, farklı yöntem) anlamlı ve yüksek olmalı, ıraksak katsayılardan da büyük olmalıdır. Yöntem bloğu içi heterojen korelasyonlar (farklı yapı, aynı yöntem), farklı yapı-farklı yöntem korelasyonlarından yüksekse puanlardaki ortak değişim yapıdan çok ölçme yönteminden kaynaklanıyor demektir. Bu yöntem varyansı ayrışım geçerliğini zedeler ve en ciddi sorundur. \"Yakınsak geçerlik katsayılarının ıraksak geçerlik katsayılarından yüksek olması, ancak güvenirlik katsayılarından düşük kalması\" sorun değildir, çünkü güvenirlik katsayıları geçerlik katsayıları için üst sınırdır. \"Aynı yapıyı ölçen farklı yöntemler arasındaki korelasyonların (yakınsak geçerlik katsayıları) 0,50-0,65 aralığında olması\" da kabul edilebilir bir yakınsak geçerlik düzeyidir. Doğru cevap \"Farklı yapıları ölçen aynı yöntemler arasındaki korelasyonların (yöntem bloğu içi heterojen korelasyonlar), farklı yapıları ölçen farklı yöntemler arasındaki korelasyonlardan yüksek olması\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -1093,7 +1113,8 @@
       "Taba'nın tümevarımsal modeli"
      ],
      "dogru": 4,
-     "aciklama": "Taba'nın tümevarımsal (grassroots) modeli, programın yukarıdan aşağıya değil, aşağıdan yukarıya doğru geliştirilmesini savunur. Bu modelde öğretmenler, öğrencileri ve sınıf ortamını en iyi tanıyan kişiler olarak programı hazırlayan aktörlerdir. Model; ihtiyaç teşhisi, amaç oluşturma, içerik seçimi gibi aşamaların öğretmenler tarafından gerçekleştirilmesini öngörür. Bu yapısıyla yukarıdaki senaryodaki okul anlayışıyla doğrudan örtüşür."
+     "aciklama": "Taba'nın tümevarımsal (grassroots) modeli, programın yukarıdan aşağıya değil, aşağıdan yukarıya doğru geliştirilmesini savunur. Bu modelde öğretmenler, öğrencileri ve sınıf ortamını en iyi tanıyan kişiler olarak programı hazırlayan aktörlerdir. Model; ihtiyaç teşhisi, amaç oluşturma, içerik seçimi gibi aşamaların öğretmenler tarafından gerçekleştirilmesini öngörür. Bu yapısıyla yukarıdaki senaryodaki okul anlayışıyla doğrudan örtüşür.",
+     "zorluk": "orta"
     },
     {
      "id": "200069",
@@ -1108,7 +1129,8 @@
       "Toparlanma evresi"
      ],
      "dogru": 3,
-     "aciklama": "Selye'nin GAS modeli üç evreden oluşur: Alarm evresinde vücut strese 'savaş ya da kaç' tepkisiyle yanıt verir. Direnç evresinde vücut stresorle başa çıkmaya çalışır ve görünürde normale döner. Tükenme evresinde ise uzun süreli stres sonucunda vücudun kaynakları biter; bağışıklık sistemi zayıflar, hastalığa yatkınlık artar ve ciddi sağlık sorunları ortaya çıkabilir. 'Uyum' ve 'Toparlanma' Selye'nin orijinal modelinde yer almayan evrelerdir."
+     "aciklama": "Selye'nin GAS modeli üç evreden oluşur: Alarm evresinde vücut strese 'savaş ya da kaç' tepkisiyle yanıt verir. Direnç evresinde vücut stresorle başa çıkmaya çalışır ve görünürde normale döner. Tükenme evresinde ise uzun süreli stres sonucunda vücudun kaynakları biter; bağışıklık sistemi zayıflar, hastalığa yatkınlık artar ve ciddi sağlık sorunları ortaya çıkabilir. 'Uyum' ve 'Toparlanma' Selye'nin orijinal modelinde yer almayan evrelerdir.",
+     "zorluk": "orta"
     },
     {
      "id": "200178",
@@ -1123,7 +1145,7 @@
       "Öğrenme, bireyin hazırbulunuşluk düzeyiyle doğrudan ilişkilidir ve bu düzeyin üzerindeki öğretim verimsizdir."
      ],
      "dogru": 3,
-     "aciklama": "Piaget bilişsel gelişimde aktif yapılandırmanın (şema, asimilasyon, akomodasyon) zorunlu olduğunu savunur; olgunlaşma tek başına yeterli değildir ve öğretim uygun koşulda gelişimi destekleyebilir. Vygotsky ise öğretimin ZPD içinde verildiğinde gelişimi doğrudan hızlandırabileceğini öne sürer. Her ikisi de pasif olgunlaşma anlayışını reddeder. B şıkkı her ikisinin paylaştığı bir görüş, C ve D kısmen doğru ama reddedilecek ifade değil, E ise Piaget'ye atfedilebilir ama Vygotsky açısından tartışmalıdır. Yalnızca A şıkkı her iki kuramcının da karşı çıkacağı, öğretimi ve etkin yapılandırmayı tamamen dışlayan bir görüşü içermektedir.",
+     "aciklama": "Piaget, gelişimi çocuğun çevreyle etkileşimi içinde özümleme ve uyma yoluyla etkin biçimde gerçekleştirdiği bir yapılandırma süreci olarak görür. Gelişimi pasif bir olgunlaşma olarak kabul etmez. Vygotsky ise öğretimin gelişimin önünden gitmesi gerektiğini, yakınsak gelişim alanındaki destekle gelişimin ilerletilebileceğini savunur. Dolayısıyla gelişimi pasif olgunlaşma sayan ve öğretimin etkisini tümüyle yok sayan görüş iki kuramcı tarafından da reddedilir. \"Çocuk, bilgiyi aktif olarak yapılandırır...\" seçeneği iki kuramcının da benimseyeceği bir görüştür. \"Öğrenme, bireyin hazırbulunuşluk düzeyiyle doğrudan ilişkilidir...\" seçeneğini Vygotsky reddeder; ancak Piaget'nin hazır olma vurgusuyla büyük ölçüde örtüştüğü için ortak ret söz konusu değildir. Doğru cevap \"Bilişsel gelişim pasif bir olgunlaşma sürecidir; öğretimin bu süreci hızlandırması olanaksızdır\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -1132,14 +1154,14 @@
      "konuId": "ozel_egitim",
      "soru": "Üstün yetenekli öğrencilere yönelik müdahale modellerinden 'hızlandırma (acceleration)' ve 'zenginleştirme (enrichment)' karşılaştırıldığında, aşağıdaki hangi ifade bu iki modele ilişkin araştırma bulgularını en doğru biçimde yansıtır?",
      "secenekler": [
-      "Hızlandırma, sosyal-duygusal gelişimi her zaman olumsuz etkilediğinden yalnızca akademik alanda belirgin üstünlük gösteren öğrencilere uygulanmalıdır; zenginleştirme ise her üstün yetenekli öğrenci için evrensel olarak tercih edilmesi gereken yaklaşımdır.",
+      "Hızlandırma, sosyal-duygusal gelişimi her koşulda olumsuz etkilediğinden yalnızca akademik alanda belirgin üstünlük gösteren öğrencilere uygulanmalıdır; zenginleştirme ise her üstün yetenekli öğrenci için evrensel biçimde tercih edilmesi gereken bir yaklaşımdır ve bu tercih tartışmasız biçimde kabul edilmektedir.",
       "Meta-analizler hızlandırmanın hem akademik başarı hem de sosyal-duygusal uyum üzerindeki etkisinin genel olarak olumlu olduğunu göstermekte; ancak öğrencinin olgunluk düzeyi ve sosyal hazırbulunuşluğu değerlendirilerek bireysel kararlar verilmesi gerektiğini vurgulamaktadır.",
-      "Her iki model de eşit etki büyüklüğüne sahip olduğundan hangi modelin seçileceği yalnızca kurumun kaynak durumuna göre belirlenmeli, bireysel öğrenci profili göz ardı edilmelidir.",
+      "Her iki model de birbirine eşit etki büyüklüğüne sahip olduğundan hangi modelin seçileceği yalnızca kurumun kaynak durumuna göre belirlenmeli, bireysel öğrenci profili göz ardı edilmelidir.",
       "Hızlandırma yalnızca matematik ve fen bilimlerinde etkilidir; dil sanatları ve sosyal bilimler alanlarında zenginleştirme kaçınılmaz olarak tercih edilmelidir.",
       "Zenginleştirme programları hızlandırmadan üstündür çünkü öğrenciyi yaş grubuyla bir arada tutarak akran etkileşimini korur ve sosyal dışlanma riskini tamamen ortadan kaldırır."
      ],
      "dogru": 1,
-     "aciklama": "Colangelo, Assouline ve diğerlerinin meta-analiz çalışmaları (Iowa Acceleration Scale araştırmaları dahil), uygun şekilde seçilmiş öğrencilere uygulanan hızlandırmanın akademik başarıyı ve büyük çoğunlukla sosyal-duygusal uyumu olumlu etkilediğini göstermektedir. Hızlandırmanın sosyal zararı yaygın bir efsanedir; araştırmalar bunu desteklememektedir. Bununla birlikte bireysel olgunluk ve sosyal hazırbulunuşluk değerlendirmesi kritiktir. A seçeneği efsaneyi pekiştirir. C seçeneği zenginleştirmenin sosyal dışlanma riskini ortadan kaldırdığını varsayar; bu kanıtlanmamıştır. D ve E seçenekleri araştırma bulgularıyla çelişmektedir.",
+     "aciklama": "Hızlandırma konusundaki meta-analizler, akademik başarı üzerinde belirgin olumlu etki bulmuştur ve sosyal-duygusal uyum üzerinde de genel olarak olumsuz bir etki göstermemiştir. Buna karşın karar, öğrencinin olgunluk düzeyi ve sosyal hazırbulunuşluğu gibi bireysel özelliklere göre verilmelidir. Bu yüzden en doğru ifade bu bulguları dengeli biçimde yansıtandır. \"Hızlandırma, sosyal-duygusal gelişimi her koşulda olumsuz etkilediğinden...\" seçeneği mutlak ifade kullanır ve araştırma bulgularıyla çelişir. \"Hızlandırma yalnızca matematik ve fen bilimlerinde etkilidir\" seçeneği de bulguları gereksiz biçimde tek alana daraltır. Doğru cevap \"Meta-analizler hızlandırmanın hem akademik başarı hem de sosyal-duygusal uyum üzerindeki etkisinin genel olarak olumlu olduğunu göstermekte...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -1171,7 +1193,8 @@
       "Glasser'ın Gerçeklik / Seçim Teorisi Modeli"
      ],
      "dogru": 4,
-     "aciklama": "Glasser'ın modelinde öğretmen, öğrenciyi geçmişe veya mazeret üretmeye yönlendirmez. Bunun yerine öğrencinin kendi davranışını değerlendirmesini (value judgment) ister: 'Bu davranış işe yarıyor mu? Sonuçları ne oldu?' soruları bu modelin tipik ifadesidir. Ardından yeni bir plan yapılır ve taahhüt alınır. Doğru yanıt C'dir."
+     "aciklama": "Glasser'ın modelinde öğretmen, öğrenciyi geçmişe veya mazeret üretmeye yönlendirmez. Bunun yerine öğrencinin kendi davranışını değerlendirmesini (value judgment) ister: 'Bu davranış işe yarıyor mu? Sonuçları ne oldu?' soruları bu modelin tipik ifadesidir. Ardından yeni bir plan yapılır ve taahhüt alınır. Doğru cevap: «Glasser'ın Gerçeklik / Seçim Teorisi Modeli».",
+     "zorluk": "orta"
     },
     {
      "id": "200785",
@@ -1195,14 +1218,15 @@
      "konuId": "i_letisim",
      "soru": "Gordon'ın 'Etkin Öğretmen' modelinde 'Ben dili' ile 'Sen dili' ayrımı merkezi bir öneme sahiptir. Aşağıdaki öğretmen ifadelerinden hangisi gerçek anlamda 'Ben dili' kullanımını yansıtmaktadır?",
      "secenekler": [
-      "'Benim için önemli olan senin başarılı olman, o yüzden çalışmalısın.'",
+      "'Benim için önemli olan senin başarılı olman, o yüzden düzenli çalışmalısın.' Bu yüzden düzenli çalışmalısın.'",
       "'Ben seni uyardığımda neden tepki vermiyorsun?'",
       "'Arkadaşlar yüksek sesle konuştuğunda konsantrasyonumu kaybediyorum ve anlatmakta güçlük çekiyorum.'",
       "'Sen hiç dinlemiyorsun, bu yüzden ben anlatamıyorum.'",
-      "'Ben ne zaman anlatsam sen başka şeylerle ilgileniyorsun.'"
+      "'Ben ne zaman ders anlatsam sen hep başka şeylerle ilgileniyorsun.'"
      ],
      "dogru": 2,
-     "aciklama": "Gordon'a göre gerçek 'Ben dili', üç bileşeni içermelidir: davranışın nesnel tanımı, bu davranışın öğretmen üzerindeki somut etkisi ve öğretmenin hissettiği duygu. C seçeneğinde 'yüksek sesle konuşma' (davranış) + 'konsantrasyonumu kaybediyorum' (etki/duygu) bir arada verilmiş, karşı tarafa suçlama yöneltilmemiştir. A ve E seçeneklerinde 'sen' öznesi ön plandadır ve suçlayıcıdır. B'de soru yoluyla dolaylı suçlama vardır. D'de ise bir yargı ve yönlendirme mevcuttur."
+     "aciklama": "Ben dili, öğretmenin karşısındakini suçlamadan kendi duygusunu, yaşadığı durumu ve bu durumun somut etkisini anlatmasıdır. \"Arkadaşlar yüksek sesle konuştuğunda konsantrasyonumu kaybediyorum ve anlatmakta güçlük çekiyorum.\" ifadesinde davranış, öğretmenin duygusu ve davranışın etkisi yer alır; yargılama ve etiketleme yoktur. \"Ben ne zaman ders anlatsam sen hep başka şeylerle ilgileniyorsun.\" ifadesi \"ben\" ile başlasa da özünde öğrenciyi suçlayan bir sen mesajıdır. Aynı şekilde \"Ben seni uyardığımda neden tepki vermiyorsun?\" ifadesi de yargılayıcı bir sorudur. Ben dilinde belirleyici olan cümlenin zamiri değil, içeriğin kendi duygu ve etkisine odaklanmasıdır. Doğru cevap \"'Arkadaşlar yüksek sesle konuştuğunda konsantrasyonumu kaybediyorum ve anlatmakta güçlük çekiyorum.'\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "202216",
@@ -1217,7 +1241,7 @@
       "Dweck'in sabit zeka anlayışı (fixed mindset) ile atıfsal yeniden yapılandırma eksikliğinin bileşimi"
      ],
      "dogru": 2,
-     "aciklama": "Öğrencinin ifadesi iki ayrı psikolojik yapıya işaret etmektedir. Birincisi, Rotter'ın dışsal denetim odağı: birey, sonuçların kendi eylemlerinden bağımsız olduğuna inanmaktadır. İkincisi, Seligman'ın öğrenilmiş çaresizliği: davranışla sonuç arasındaki bağın koparıldığına ilişkin köklü bir biliş ve bu bilişe bağlı davranışsal çekilme söz konusudur. Bu iki yapının bir arada bulunması, öğrencinin 'denememeyi tercih etme' davranışını diğer seçeneklerden çok daha bütünsel biçimde açıklamaktadır. A seçeneği (öz-yeterlilik) yalnızca yetkinlik inancıyla, E seçeneği ise atıfsal boyutla kısmen örtüşmekle birlikte ikisinin kesişimi kadar açıklayıcı değildir.",
+     "aciklama": "Öğrenci iki unsuru birlikte dile getirmektedir: sonuçların kendi kontrolünde olmadığı inancı (denetim odağı) ve bu inanca bağlı olarak çabadan vazgeçme (öğrenilmiş çaresizlik). Rotter'ın dışsal denetim odağı, sonucun davranıştan bağımsız algılanmasını açıklar. Seligman'ın modeli ise bu algının motivasyon, bilişsel ve duygusal sonuçlarını açıklar. Birlikte profili en kapsamlı biçimde karşılarlar. \"Bandura'nın öz-yeterlilik kuramında tanımlanan düşük performans beklentisi\" seçeneği yetkinlik inancına odaklanır; sonuçların kontrol edilemezliği algısını tam karşılamaz. Doğru cevap \"Rotter'ın denetim odağı kuramı ile Seligman'ın öğrenilmiş çaresizlik modelinin kesişim noktası\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -1244,8 +1268,8 @@
      "secenekler": [
       "ZPD, öğrencilerin kendi başlarına çözebilecekleri problemlerin seçilmesi gerektiğini gösterir.",
       "ZPD yalnızca erken çocukluk dönemine özgüdür ve ortaöğretim düzeyinde uygulanamaz.",
-      "ZPD, öğrenmenin yalnızca bireysel keşifle gerçekleştiğini destekler ve işbirlikli öğrenmeyi dışlar.",
-      "ZPD, öğretmenin rolünü tamamen ortadan kaldırır; öğrenci merkezli eğitimde öğretmen geri planda kalmalıdır.",
+      "ZPD, öğrenmenin yalnızca bireysel keşifle gerçekleştiğini desteklemekte ve işbirlikli öğrenmeyi bütünüyle dışlamaktadır.",
+      "ZPD, öğretmenin rolünü tümüyle ortadan kaldırmaktadır; öğrenci merkezli eğitimde öğretmen tamamen geri planda kalmalıdır. Bu görüşe göre öğrenci kendi başına ilerlemeli, hiçbir rehberlik ya da akran desteği almamalıdır.",
       "ZPD, aktif öğrenme etkinliklerinin öğrencinin mevcut kapasitesinin biraz ötesinde konumlandırılması ve bu süreçte nitelikli rehberlik (scaffolding) ile akran desteğinin sağlanması gerektiğini temellendirmektedir."
      ],
      "dogru": 4,
@@ -1265,7 +1289,8 @@
       "Hedeflerin öğrencinin gözlemlenebilir davranışları cinsinden yazılması"
      ],
      "dogru": 3,
-     "aciklama": "Öğrenci merkezli program anlayışında hedefler, öğrencilerin bireysel ihtiyaçları, ilgileri ve deneyimlerinden yola çıkılarak belirlenir; öğrenci sürecin aktif bir paydaşıdır. C seçeneğinde tanımlanan yaklaşım ise konu merkezli (disiplin merkezli) program anlayışını ya da merkezi müfredat anlayışını yansıtmaktadır. Bu anlayışta hedefler, öğrenci gereksinimleri yerine disiplin yapısına ve dış standartlara göre belirlenir ve öğretmene hazır biçimde sunulur; bu durum, öğrenci merkezli anlayışın tam tersidir."
+     "aciklama": "Öğrenci merkezli program anlayışında hedefler öğrencinin ilgi, ihtiyaç ve önceki yaşantılarından hareketle belirlenir. Bu anlayış üst düzey düşünme ve yaratıcılığa yer verir. Hedeflerin gözlemlenebilir davranışlarla yazılması da bu anlayışla çelişmez. Soru, bu anlayışa yansımayan özelliği sorduğundan, hedeflerin öğrenciden bağımsız olarak dışarıdan belirlenmesini anlatan seçenek aranmalıdır. \"Hedeflerin ulusal standartlara ve disiplin yapısına göre belirlenerek öğretmene sunulması\" seçeneği, hedeflerin öğrenci dışı ölçütlerle belirlenip hazır sunulması anlamına gelir ve disiplin merkezli, merkeziyetçi bir yaklaşımı yansıtır. \"Hedeflerin bireyin ihtiyaçları ve ilgilerinden hareketle belirlenmesi\" seçeneği ise öğrenci merkezli anlayışın tam özelliğidir, bu yüzden aranan cevap değildir. Doğru cevap \"Hedeflerin ulusal standartlara ve disiplin yapısına göre belirlenerek öğretmene sunulması\" seçeneğidir.",
+     "zorluk": "orta"
     }
    ]
   }

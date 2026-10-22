@@ -20,12 +20,12 @@
      "secenekler": [
       "İkame ürünün marka sadakati güçlü olduğunda",
       "İkame ürünün fiyat/performans oranı üstün, müşteri değiştirme maliyeti düşük ve ikameye yönelik müşteri eğilimi yüksek olduğunda",
-      "İkame ürün farklı bir ihtiyacı karşılıyor ancak benzer fiyat/performans oranına sahip olduğunda",
+      "İkame ürün farklı bir ihtiyacı karşılamakla birlikte benzer bir fiyat/performans oranına sahip olduğunda ve müşterinin bu ürüne yönelmesi",
       "İkame ürünün fiyatı yüksek ve müşteri değiştirme maliyeti (switching cost) yüksek olduğunda",
       "İkame ürünü üreten sektör yüksek giriş engelleriyle korunduğunda"
      ],
      "dogru": 1,
-     "aciklama": "Porter'a göre ikame tehdidi; ikame ürünün fiyat/performans oranının üstünlüğü, müşterilerin değiştirme eğilimi ve değiştirme maliyetlerinin düşüklüğüyle orantılı olarak artar. C seçeneğinde bu üç etken aynı anda olumsuz yöndedir: ikame hem daha cazip hem de geçişi ucuz/kolay kılmaktadır; bu kombinasyon sektör kârlılığını en fazla baskı altına alır. A seçeneğinde yüksek değiştirme maliyeti tehdidi azaltır. B seçeneğinde farklı ihtiyaç karşılama ikamenin doğrudan baskısını sınırlar. D ve E ikame tehdidiyle değil, ikameyi sunan sektörün yapısıyla ilgilidir.",
+     "aciklama": "İkame ürün tehdidi, ikamenin müşteriye daha iyi bir fiyat/performans sunduğu, geçiş maliyetinin düşük olduğu ve müşterilerin ikameye yönelmeye istekli olduğu durumda en yüksek olur. Bu üç koşul bir arada bulunduğunda müşteriler kolayca ikameye kayar ve sektör fiyatlarını yükseltemez; kârlılık baskı altına girer. \"İkame ürünün fiyatı yüksek ve müşteri değiştirme maliyeti (switching cost) yüksek olduğunda\" seçeneği tehdidi azaltır; çünkü müşteri geçiş yapmak için bir neden görmez. \"İkame ürünün marka sadakati güçlü olduğunda\" seçeneği ise ikamenin cazibesini artırıp tehdidi güçlendirse de, düşük geçiş maliyeti ve üstün fiyat/performans koşullarını birlikte kapsamaz. Doğru cevap \"İkame ürünün fiyat/performans oranı üstün, müşteri değiştirme maliyeti düşük ve ikameye yönelik müşteri eğilimi yüksek olduğunda\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -41,7 +41,7 @@
       "Kıdemli çalışanlarda daha yüksek gönüllü ayrılma eğilimi ücret sıkıştırmasının örgütsel sonuçlarından biridir"
      ],
      "dogru": 0,
-     "aciklama": "C şıkkı yanlıştır çünkü kıdemli çalışanlara toplu zam yapılması ücret sıkıştırmasını kalıcı olarak çözmez; yeni işe alınan çalışanların piyasa ücretleri de eş zamanlı yükseliyorsa sorun yeniden ve kısa sürede ortaya çıkar. Gerçek ve kalıcı çözüm; ücret bantlarının (pay grades/ranges) sistematik piyasa verisine dayalı olarak periyodik güncellenmesi, compa-ratio analizleri ve yapısal ücret mimarisinin revize edilmesidir. Diğer şıklar ücret sıkıştırması teorisi açısından doğrudur.",
+     "aciklama": "Soru yanlış ifadeyi sormaktadır. Ücret sıkıştırması, yeni girenlerin ücretlerinin piyasa baskısıyla yükselmesi ve iç ücret yapısının bunu izlememesi sonucu kıdemli çalışanlarla aradaki farkın daralmasıdır. Kıdemli çalışanlara yapılan toplu zam sorunu geçici olarak hafifletebilir; ancak piyasa ücretleri artmaya devam ettiği ve ücret yapısı güncellenmediği sürece sıkıştırma yeniden ortaya çıkar. Bu yüzden \"tamamen ve kalıcı\" çözüm iddiası yanlıştır. \"Piyasa ücretlerinin hızlı artmasına karşın iç ücret yapısının güncellenmemesi ücret sıkıştırmasının başlıca nedenidir\" ifadesi doğrudur. \"Ücret bantlarının düzenli piyasa analizlerine dayanarak revize edilmesi, sıkıştırmanın önlenmesine yardımcı olur\" ifadesi de doğrudur. Doğru cevap \"Ücret sıkıştırması sorunu, kıdemli çalışanlara toplu zam yapılarak tamamen ve kalıcı biçimde çözülebilir\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -57,7 +57,7 @@
       "AX: Sabit sipariş miktarı sistemi + düşük güvenlik stoğu; CZ: Periyodik gözden geçirme + yüksek güvenlik stoğu"
      ],
      "dogru": 2,
-     "aciklama": "ABC-XYZ matrisinde AX grubu: yüksek parasal değer ve talep istikrarı bir arada bulunduğundan bu kalemler JIT/Kanban ile sürekli izlenir, tahmin kolaydır, minimum güvenlik stoğu tutulabilir, sipariş noktası sistemi verimlidir. CZ grubu: düşük parasal değer ve düzensiz/öngörülemeyen talep söz konusudur; bu kalemler için aşırı izleme kaynak israfıdır. İki kutu sistemi, toplu/mevsimlik sipariş ya da ihtiyaç doğduğunda sipariş yaklaşımı uygulanır. D şıkkı bu çift grubu en doğru biçimde eşleştirmektedir. A şıkkındaki AX için düşük güvenlik stoğu doğru olsa da CZ için periyodik gözden geçirme + yüksek güvenlik stoğu kaynak israfı anlamına geldiğinden yanlıştır.",
+     "aciklama": "ABC değer, XYZ talep istikrarını gösterir. AX grubunda değer yüksek ve talep tahmin edilebilir olduğu için sürekli gözden geçirme ve JIT/Kanban ile stok tutma maliyeti azaltılır. Talep sabit olduğundan güvenlik stoğu minimumda tutulabilir. CZ grubunda değer düşüktür, bu nedenle yönetim ve izleme çabası da düşük tutulur. Bu kalemler iki kutu sistemi veya toplu siparişle basitçe yönetilir. \"AX: Sabit sipariş noktası sistemi + yüksek güvenlik stoğu; CZ: Periyodik gözden geçirme sistemi + yüksek güvenlik stoğu\" seçeneği yanlıştır, çünkü yüksek değerli ve istikrarlı AX kalemlerinde yüksek güvenlik stoğu gereksiz sermaye bağlar. \"AX: İki kutu sistemi + düşük güvenlik stoğu; CZ: JIT uygulaması + sıfır güvenlik stoğu\" seçeneği de yanlıştır, çünkü düzensiz talepli CZ kalemlerinde sıfır güvenlik stoğu stoksuzluk riski doğurur. Doğru cevap \"AX: JIT/Kanban + sürekli gözden geçirme + minimum güvenlik stoğu\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -73,7 +73,7 @@
       "WACC değişmez, hisse başına beklenen getiri artar"
      ],
      "dogru": 4,
-     "aciklama": "MM Teoremi (vergisiz dünya) Önerme I: Firma değeri sermaye yapısından bağımsızdır; dolayısıyla WACC değişmez. Önerme II ise hisse senedi sahiplerinin beklenen getirisinin borçlanma oranı arttıkça artacağını söyler; çünkü artan finansal risk, özkaynak maliyetini yükseltir. Ancak bu artış tam olarak ucuz borcun etkisini dengelediğinden WACC sabit kalır. Borç/özkaynak oranı 1'e yükseldiğinde özkaynak sahipleri daha fazla finansal riskle karşılaşır ve beklenen getirileri artar; buna karşın WACC değişmez. Doğru cevap C'dir.",
+     "aciklama": "MM Teoremi (vergisiz dünya) Önerme I: Firma değeri sermaye yapısından bağımsızdır; dolayısıyla WACC değişmez. Önerme II ise hisse senedi sahiplerinin beklenen getirisinin borçlanma oranı arttıkça artacağını söyler; çünkü artan finansal risk, özkaynak maliyetini yükseltir. Ancak bu artış tam olarak ucuz borcun etkisini dengelediğinden WACC sabit kalır. Borç/özkaynak oranı 1'e yükseldiğinde özkaynak sahipleri daha fazla finansal riskle karşılaşır ve beklenen getirileri artar; buna karşın WACC değişmez. Doğru cevap: «WACC değişmez, hisse başına beklenen getiri artar».",
      "zorluk": "zor"
     },
     {
@@ -82,14 +82,14 @@
      "konuId": "pazarlama",
      "soru": "Bir işletme, ürünleri için 'psikolojik fiyatlandırma' kapsamında 'tek-çift fiyatlandırma (odd-even pricing)' ve 'prestij fiyatlandırması'nı aynı anda uygulamak istemektedir. Bu iki stratejinin temel varsayımları birbiriyle nasıl çelişir ve hangi ürün kategorilerinde her biri uygundur?",
      "secenekler": [
-      "Tek-çift fiyatlandırma lüks ürünlerde, prestij fiyatlandırması ise günlük tüketim mallarında tercih edilir.",
+      "Tek-çift fiyatlandırma lüks ürün kategorilerinde, prestij fiyatlandırması ise günlük tüketim mallarında tercih edilir; bu nedenle iki strateji birbirinin yerine kullanılabilir ve segment ayrımı gözetilmeksizin uygulanabilir. Nitekim lüks segmentte sonu 99 ile biten fiyatlar kalite algısını güçlendirirken, günlük tüketim mallarında yuvarlak rakamlar fiyat bilincini azaltır ve iki strateji birbirini tamamlar.",
       "Tek-çift fiyatlandırma (örn. 99,99 TL) tüketicinin fiyatı sınır değerin altında algılamasını sağlar ve fiyat bilincinin yüksek olduğu, düşük-orta segment ürünlerde etkilidir. Prestij fiyatlandırması ise yuvarlak ve yüksek rakamlarla (örn. 1.000 TL) kalitenin sinyal verildiği lüks mallarda geçerlidir; bu ikisi lüks kategorilerde doğrudan çelişir.",
       "İki strateji arasında çelişki yoktur; tüm ürünlerde eş zamanlı uygulanabilir.",
-      "Her iki strateji de yalnızca B2B pazarlarında uygulanır ve tüketici psikolojisiyle ilişkisi yoktur.",
+      "Her iki strateji de yalnızca B2B pazarlarında uygulanır ve tüketici psikolojisiyle herhangi bir ilişkisi yoktur.",
       "Prestij fiyatlandırması her zaman tek-çift fiyatlandırmanın bir alt kategorisidir."
      ],
      "dogru": 1,
-     "aciklama": "Tek-çift fiyatlandırma (odd pricing): 99 kuruş veya 9,99 TL gibi fiyatlar tüketicinin sol taraf rakamına odaklanmasını sağlar; fiyat psikolojik olarak bir alt kategoride algılanır. Bu strateji fiyat duyarlılığının yüksek olduğu, ekonomik segmentte etkilidir. Prestij fiyatlandırması: yüksek ve yuvarlak fiyatlar (500 TL, 2.000 TL) kalite sinyali olarak işlev görür; 'Veblen malı' etkisi nedeniyle fiyat arttıkça talep artabilir. Lüks bir çantanın 1.999 TL değil 2.000 TL olarak fiyatlandırılması prestij algısını güçlendirir. İki strateji lüks segmentte doğrudan çelişir. B seçeneği bu karşıtlığı en doğru şekilde açıklar.",
+     "aciklama": "Tek-çift fiyatlandırma, 99,99 TL gibi fiyatların sınır değerin altında algılanmasına dayanır. Bu yüzden fiyat bilincinin yüksek olduğu düşük ve orta segment ürünlerde etkilidir. Prestij fiyatlandırması ise yüksek ve yuvarlak fiyatın kaliteyi sinyal ettiği varsayımına dayanır ve lüks mallarda geçerlidir. İki stratejinin varsayımı terstir: biri fiyatın düşük algılanmasını, diğeri yüksek ve seçkin algılanmasını amaçlar. Bu nedenle aynı lüks ürün kategorisinde birlikte kullanılamazlar. \"İki strateji arasında çelişki yoktur; tüm ürünlerde eş zamanlı uygulanabilir.\" seçeneği yanlıştır, çünkü varsayımlar çelişir. \"Tek-çift fiyatlandırma lüks ürün kategorilerinde, prestij fiyatlandırması ise günlük tüketim mallarında tercih edilir\" seçeneği de yanlıştır, çünkü kategorileri ters eşleştirir. Doğru cevap \"Tek-çift fiyatlandırma (örn. 99,99 TL) tüketicinin fiyatı sınır değerin altında algılamasını sağlar\" ifadesiyle başlayan seçenektir.",
      "zorluk": "zor"
     },
     {
@@ -105,7 +105,8 @@
       "Astların yetki ve sorumluluk düzeylerinin eşitlenmesi"
      ],
      "dogru": 1,
-     "aciklama": "Fayol'un 'denge (equity)' ilkesi, yöneticilerin astlarına karşı adalet (justice) ile dostane bir tutumu (kindliness) birleştirerek davranması gerektiğini savunur. Bu ilke çalışanların örgüte bağlılığını ve sadakatini artırmayı amaçlar. 'Her çalışanın yalnızca bir üstten emir alması' komuta birliği ilkesidir. Ücretin performansa bağlanması ise başka bir ilkenin konusudur."
+     "aciklama": "Fayol'un 'denge (equity)' ilkesi, yöneticilerin astlarına karşı adalet (justice) ile dostane bir tutumu (kindliness) birleştirerek davranması gerektiğini savunur. Bu ilke çalışanların örgüte bağlılığını ve sadakatini artırmayı amaçlar. 'Her çalışanın yalnızca bir üstten emir alması' komuta birliği ilkesidir. Ücretin performansa bağlanması ise başka bir ilkenin konusudur.",
+     "zorluk": "orta"
     },
     {
      "id": "52547",
@@ -152,7 +153,8 @@
       "80.000 TL ve 400.000 TL"
      ],
      "dogru": 1,
-     "aciklama": "Yıllık faiz gideri = Ana para × Faiz oranı = 500.000 × 0,20 = 100.000 TL'dir. Anapara sabit kaldığından (vade sonunda tek ödeme) her yıl aynı tutarda faiz ödenir. Toplam faiz = 100.000 × 5 = 500.000 TL'dir. Cevap B'dir. A ve D şıklarındaki 80.000 TL, yanlış bir faiz hesabını (örneğin %16 oran) çağrıştırmaktadır; bu bir çeldiricidir."
+     "aciklama": "Yıllık faiz gideri = Ana para × Faiz oranı = 500.000 × 0,20 = 100.000 TL'dir. Anapara sabit kaldığından (vade sonunda tek ödeme) her yıl aynı tutarda faiz ödenir. Toplam faiz = 100.000 × 5 = 500.000 TL'dir. Cevap “100.000 TL ve 500.000 TL” seçeneğidir. “100.000 TL ve 400.000 TL” ve “80.000 TL ve 500.000 TL” şıklarındaki 80.000 TL, yanlış bir faiz hesabını (örneğin %16 oran) çağrıştırmaktadır; bu bir çeldiricidir.",
+     "zorluk": "orta"
     },
     {
      "id": "52314",
@@ -160,14 +162,14 @@
      "konuId": "pazarlama",
      "soru": "Bir tüketim malı üreticisi, aynı ürün kategorisinde birden fazla marka ile pazarda yer almaktadır. Bu markalar birbiriyle doğrudan rekabet etmekte, farklı fiyat segmentlerini hedeflemekte ve bağımsız konumlandırma stratejileri izlemektedir. Ancak şirketin toplam pazar payı artmamakta, aksine markalar arasında yiyen (cannibalization) etkisi gözlemlenmektedir. Bu durumun temel nedeni ile çözüm önerisi aşağıdakilerden hangisinde doğru eşleştirilmiştir?",
      "secenekler": [
-      "Neden: Dağıtım kanalı çatışması – Çözüm: Dikey entegrasyon ile kanalları birleştirmek",
+      "Neden: Dağıtım kanalı çatışması – Çözüm: Dikey entegrasyonla kanalları birleştirmek",
       "Neden: Aşırı marka genişlemesi – Çözüm: Marka portföyünü azaltmak",
       "Neden: Yetersiz pazar bölümlendirmesi – Çözüm: Markaları netleştirilmiş segmentlere yeniden konumlandırmak",
-      "Neden: Fiyatlandırma politikası tutarsızlığı – Çözüm: Şemsiye markalama stratejisine geçmek",
+      "Neden: Fiyatlandırma politikasındaki tutarsızlık – Çözüm: Şemsiye markalama stratejisine geçmek ve ortak marka kimliği oluşturmak",
       "Neden: Tutundurma bütçesinin düşüklüğü – Çözüm: Reklam harcamalarını artırmak"
      ],
      "dogru": 2,
-     "aciklama": "Marka yamyamlığının (cannibalization) temel nedeni, markaların yeterince ayrıştırılmamış tüketici segmentlerine hitap etmesidir. İşletme birden fazla marka yönetse de bu markalar tüketici zihninde örtüşen bir konumlandırmaya sahip olduğunda aynı müşteri kitlesini hedefler ve birbirinin satışını eritir. Çözüm, pazarı davranışsal, psikografik ve demografik değişkenlere göre yeniden bölümlendirmek ve her markayı özgün, çakışmayan bir segmente yeniden konumlandırmaktır. Şemsiye markalama (D) tam tersi bir strateji olup çakışmayı artırır. Marka sayısının azaltılması (A) kısa vadeli bir çözümdür ancak kök nedeni ortadan kaldırmaz.",
+     "aciklama": "Aynı kategoride birden fazla markanın birbirinin satışını yemesi, markaların hedef kitlelerinin gerçekte net biçimde ayrışmadığını gösterir. Fiyat segmentleri kâğıt üzerinde farklı olsa da tüketici algısında örtüşen konumlandırmalar vardır; bu da yetersiz bölümlendirme anlamına gelir. Çözüm, her markayı net tanımlı ve birbirinden ayrışan bir segmente yeniden konumlandırmaktır. \"Neden: Aşırı marka genişlemesi – Çözüm: Marka portföyünü azaltmak\" seçeneği yanlıştır, çünkü sorun marka sayısından çok konumlandırmanın belirsizliğidir ve portföyü küçültmek pazar kapsamını da daraltır. \"Neden: Fiyatlandırma politikasındaki tutarsızlık – Çözüm: Şemsiye markalama stratejisine geçmek ve ortak marka kimliği oluşturmak\" seçeneği de yanlıştır, çünkü ortak kimlik ayrışmayı azaltır ve yiyen etkisini büyütebilir. Doğru cevap \"Neden: Yetersiz pazar bölümlendirmesi – Çözüm: Markaları netleştirilmiş segmentlere yeniden konumlandırmak\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -178,12 +180,13 @@
      "secenekler": [
       "Durumsal liderlik",
       "Otoriter liderlik",
-      "Dönüşümcü liderlik",
-      "Demokratik liderlik",
+      "Dönüşümcü liderlik anlayışı",
+      "Demokratik (katılımcı) liderlik anlayışı ve uygulaması",
       "Tam serbesti (Laissez-faire) liderlik"
      ],
      "dogru": 4,
-     "aciklama": "Laissez-faire (tam serbesti) liderlikte yönetici, gruba hedefleri bildirir ancak süreç, yöntem ve kararlar konusunda çalışanlara tam özerklik tanır; müdahale en aza indirilir. Demokratik liderlikte ise yönetici karar alma sürecine çalışanları dahil eder ancak yine de aktif bir rol üstlenir. Otoriter liderlikte tüm kararlar yönetici tarafından tek başına alınır. Soruda tarif edilen 'hedef ver, sürece karışma' tutumu laissez-faire yaklaşımın özüdür."
+     "aciklama": "Laissez-faire (tam serbesti) liderlikte yönetici, gruba hedefleri bildirir ancak süreç, yöntem ve kararlar konusunda çalışanlara tam özerklik tanır; müdahale en aza indirilir. Demokratik liderlikte ise yönetici karar alma sürecine çalışanları dahil eder ancak yine de aktif bir rol üstlenir. Otoriter liderlikte tüm kararlar yönetici tarafından tek başına alınır. Soruda tarif edilen 'hedef ver, sürece karışma' tutumu laissez-faire yaklaşımın özüdür.",
+     "zorluk": "orta"
     },
     {
      "id": "52471",
@@ -194,8 +197,8 @@
       "Yeni işe başlayan çalışanı işletme kültürüne, politikalarına ve çalışma ortamına alıştırmak",
       "Çalışanın performansını değerlendirmek",
       "İşe alım sürecini tamamlamak",
-      "Çalışanın teknik becerilerini geliştirmek",
-      "Çalışana yöneticilik becerisi kazandırmak"
+      "Çalışanın mevcut teknik becerilerini geliştirmek",
+      "Çalışana orta kademe yöneticilik becerisi kazandırmak ve stratejik karar alma yetkinliği kazandırmak"
      ],
      "dogru": 0,
      "aciklama": "Oryantasyon programı, yeni işe başlayan çalışanın işletmeye, iş arkadaşlarına, kurumsal kültüre, politika ve prosedürlere uyum sağlamasına yardımcı olmak amacıyla düzenlenir. Teknik beceri geliştirme ise eğitim programlarının kapsamındadır.",
@@ -208,9 +211,9 @@
      "soru": "Üretimde 'darboğaz' kavramı aşağıdakilerden hangisini ifade eder?",
      "secenekler": [
       "Toplam üretim kapasitesini belirleyen en yavaş süreç ya da istasyon",
-      "Üretim hattındaki en hızlı istasyon",
+      "Üretim hattındaki en hızlı çalışan istasyon ve kapasitesi en yüksek olan birim",
       "Kalite kontrol birimi",
-      "Ham madde depolama alanı",
+      "Ham madde depolama ve sevkiyat alanı",
       "Ürün ambalajlama süreci"
      ],
      "dogru": 0,
@@ -230,7 +233,7 @@
       "3,89 yıl"
      ],
      "dogru": 4,
-     "aciklama": "Önce tahvilin bugünkü değerini hesaplayalım: Kupon = 80 TL/yıl. PV kuponlar: 80×0,9091 + 80×0,8264 + 80×0,7513 + 80×0,6830 + 80×0,6209 = 72,73 + 66,11 + 60,10 + 54,64 + 49,67 = 303,25 TL. PV anapara: 1.000 × 0,6209 = 620,90 TL. Toplam PV = 303,25 + 620,90 = 924,15 TL. Macaulay Süresi = [Σ t × PV(CFt)] / Tahvil Fiyatı. t=1: 1 × 72,73 = 72,73; t=2: 2 × 66,11 = 132,22; t=3: 3 × 60,10 = 180,30; t=4: 4 × 54,64 = 218,56; t=5: 5 × (49,67 + 620,90) = 5 × 670,57 = 3.352,85. Toplam = 72,73 + 132,22 + 180,30 + 218,56 + 3.352,85 = 3.956,66. Macaulay Duration = 3.956,66 / 924,15 = 4,282 yıl. Modified Duration = Macaulay Duration / (1 + YTM) = 4,282 / 1,10 = 3,893 ≈ 3,89 yıl. Doğru cevap B'dir.",
+     "aciklama": "Önce tahvilin bugünkü değerini hesaplayalım: Kupon = 80 TL/yıl. PV kuponlar: 80×0,9091 + 80×0,8264 + 80×0,7513 + 80×0,6830 + 80×0,6209 = 72,73 + 66,11 + 60,10 + 54,64 + 49,67 = 303,25 TL. PV anapara: 1.000 × 0,6209 = 620,90 TL. Toplam PV = 303,25 + 620,90 = 924,15 TL. Macaulay Süresi = [Σ t × PV(CFt)] / Tahvil Fiyatı. t=1: 1 × 72,73 = 72,73; t=2: 2 × 66,11 = 132,22; t=3: 3 × 60,10 = 180,30; t=4: 4 × 54,64 = 218,56; t=5: 5 × (49,67 + 620,90) = 5 × 670,57 = 3.352,85. Toplam = 72,73 + 132,22 + 180,30 + 218,56 + 3.352,85 = 3.956,66. Macaulay Duration = 3.956,66 / 924,15 = 4,282 yıl. Modified Duration = Macaulay Duration / (1 + YTM) = 4,282 / 1,10 = 3,893 ≈ 3,89 yıl. Doğru cevap: «3,89 yıl».",
      "zorluk": "zor"
     },
     {
@@ -240,13 +243,14 @@
      "soru": "Bir süpermarket zinciri, kendi markası altında üretip sattığı ürünlere ne ad verilir?",
      "secenekler": [
       "Ulusal marka",
-      "Lisanslı marka",
+      "Lisanslı marka uygulaması",
       "Özel etiket (private label) marka",
-      "Ortak marka (co-brand)",
+      "Ortak marka (co-brand) uygulaması uygulaması ve ortak tanıtım",
       "Jenerik marka"
      ],
      "dogru": 2,
-     "aciklama": "Özel etiket (private label) markalar, perakendecilerin kendi adlarıyla veya oluşturdukları özel bir marka adıyla sattıkları ürünlerdir. Bu ürünler genellikle üretici markalardan (ulusal markalar) daha ucuzdur. Ulusal markalar üreticiye aittir. Jenerik markalar herhangi bir marka adı taşımayan ürünlerdir. Lisanslı markada başka bir markanın isim/logosu kullanım hakkı satın alınır. Co-brand ise iki farklı markanın ortak ürün geliştirmesidir."
+     "aciklama": "Özel etiket (private label) markalar, perakendecilerin kendi adlarıyla veya oluşturdukları özel bir marka adıyla sattıkları ürünlerdir. Bu ürünler genellikle üretici markalardan (ulusal markalar) daha ucuzdur. Ulusal markalar üreticiye aittir. Jenerik markalar herhangi bir marka adı taşımayan ürünlerdir. Lisanslı markada başka bir markanın isim/logosu kullanım hakkı satın alınır. Co-brand ise iki farklı markanın ortak ürün geliştirmesidir.",
+     "zorluk": "orta"
     },
     {
      "id": "52028",
@@ -277,7 +281,8 @@
       "Öz yeterlilik, denetim odağı ve başarı yönelimi"
      ],
      "dogru": 0,
-     "aciklama": "Vroom'un Beklenti Teorisi, motivasyonun üç bilişsel değerlendirmenin çarpımı olduğunu öne sürer: Beklenti (Expectancy), çabanın performansa yol açacağına duyulan inanç; Araçsallık (Instrumentality), performansın ödülle sonuçlanacağına duyulan inanç; Değerlik (Valence), söz konusu ödülün birey için taşıdığı öznel değerdir. Motivasyon = E x I x V formülüyle ifade edilir; üç unsurdan herhangi birinin sıfır olması toplam motivasyonu da sıfıra indirir. Diğer seçenekler McClelland, Herzberg, Bandura ve Adams'ın teorilerine aittir."
+     "aciklama": "Vroom'un Beklenti Teorisi, motivasyonun üç bilişsel değerlendirmenin çarpımı olduğunu öne sürer: Beklenti (Expectancy), çabanın performansa yol açacağına duyulan inanç; Araçsallık (Instrumentality), performansın ödülle sonuçlanacağına duyulan inanç; Değerlik (Valence), söz konusu ödülün birey için taşıdığı öznel değerdir. Motivasyon = E x I x V formülüyle ifade edilir; üç unsurdan herhangi birinin sıfır olması toplam motivasyonu da sıfıra indirir. Diğer seçenekler McClelland, Herzberg, Bandura ve Adams'ın teorilerine aittir.",
+     "zorluk": "orta"
     },
     {
      "id": "52143",
@@ -308,7 +313,8 @@
       "1.500 adet; her ek birim 20 TL katkı sağlar."
      ],
      "dogru": 1,
-     "aciklama": "Katkı payı = Satış fiyatı - Birim değişken maliyet = 40 - 20 = 20 TL. Başabaş noktası = Sabit giderler / Katkı payı = 50.000 / 20 = 2.500 adet. Başabaş noktasının ötesinde satılan her ek birim, sabit giderler zaten karşılandığından 20 TL katkı payı kadar kâr artışı sağlar; bu 40 TL değil 20 TL'dir. Bu nedenle doğru yanıt C şıkkıdır."
+     "aciklama": "Başabaş noktası, sabit giderlerin birim katkı payına bölünmesiyle bulunur. Birim katkı payı = satış fiyatı − birim değişken maliyet = 40 − 20 = 20 TL'dir. Başabaş miktarı = 50.000 / 20 = 2.500 adettir. Bu noktadan sonra sabit giderler tamamen karşılandığı için satılan her ek birim 20 TL kâr olarak katkı sağlar. \"2.000 adet; her ek birim 40 TL katkı sağlar.\" seçeneği yanlıştır, çünkü sabit gider satış fiyatına bölünmüştür ve 40 TL fiyat, katkı payı sayılmıştır; oysa değişken maliyet düşülmelidir. \"2.500 adet; her ek birim 40 TL katkı sağlar.\" seçeneğinde miktar doğru olsa da ek birim katkısı yanlıştır, çünkü her birim için 20 TL değişken maliyet de ödenir. Doğru cevap \"2.500 adet; her ek birim 20 TL katkı sağlar.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "52312",
@@ -317,13 +323,13 @@
      "soru": "Bir perakende işletmesi, kategori yönetimi (category management) çerçevesinde raflarındaki ürün karmasını yeniden düzenlemektedir. 'Uzay verimliliği (space productivity)' metrikleri kullanılarak GMROI (Gross Margin Return on Inventory Investment) analizi yapılmıştır. Ürün A: brüt kâr marjı %40, stok devir hızı 8 kez/yıl. Ürün B: brüt kâr marjı %60, stok devir hızı 3 kez/yıl. Her iki ürün de aynı raf alanını işgal etmektedir. Yalnızca GMROI bazında değerlendirme yapılırsa hangi ürün tercih edilmeli ve bu kararın sınırlılıkları nelerdir?",
      "secenekler": [
       "Ürün B tercih edilmeli; çünkü brüt kâr marjı daha yüksektir.",
-      "Stok devir hızı her zaman kâr marjından daha belirleyicidir; bu yüzden ürün A tercih edilmeli ve başka faktör değerlendirmeye alınmamalıdır.",
+      "Stok devir hızı her koşulda kâr marjından daha belirleyici bir ölçüttür; bu nedenle ürün A tercih edilmeli ve trafik çekme etkisi dâhil başka hiçbir faktör değerlendirmeye alınmamalıdır. Bu yaklaşım kategori yönetiminde esastır.",
       "Ürün A tercih edilmeli; GMROI(A) = 0,40 × 8 = 3,2 iken GMROI(B) = 0,60 × 3 = 1,8'dir. Ancak bu analiz trafik çekme etkisi, kategori sinerji ve müşteri sadakati gibi faktörleri dışarıda bırakır.",
       "GMROI analizi yalnızca FMCG kategorilerinde anlamlıdır; bu tür bir karşılaştırma yapılamaz.",
       "Her iki ürünün GMROI değerleri eşit olduğundan raf alanı eşit paylaştırılmalıdır."
      ],
      "dogru": 2,
-     "aciklama": "GMROI (Gross Margin Return on Inventory Investment) = Brüt Kâr Marjı (%) × Stok Devir Hızı olarak hesaplanır. GMROI(A) = 0,40 × 8 = 3,20 — yani stoka yatırılan her 1 TL için 3,20 TL brüt kâr. GMROI(B) = 0,60 × 3 = 1,80. Ürün A, GMROI bazında üstündür. Ancak bu metriğin sınırlılıkları şunlardır: (1) Ürün B yüksek marjlı olup müşteri segmentine yönelik çapraz satış fırsatı yaratabilir; (2) Bazı ürünler 'trafik çekici (traffic builder)' rolü oynar — düşük GMROI'a rağmen mağazaya müşteri çeker; (3) Kategori içi sinerjiler ve müşteri algısı göz ardı edilir. Dolayısıyla B seçeneği hem doğru hesaplamayı hem de kararın sınırlılıklarını kapsar.",
+     "aciklama": "Soruda GMROI, brüt kâr marjı ile stok devir hızının çarpımı olarak ele alınır. Ürün A için 0,40 × 8 = 3,2 bulunur. Ürün B için 0,60 × 3 = 1,8 bulunur. Raf alanı aynı olduğundan yalnızca GMROI'ye bakıldığında Ürün A daha verimlidir. Ancak GMROI trafik çekme etkisini, kategori içi sinerjiyi ve müşteri sadakatini ölçmez. Bu yüzden karar tek başına bu metriğe dayandırılmamalıdır. \"Ürün B tercih edilmeli; çünkü brüt kâr marjı daha yüksektir.\" seçeneği yanlıştır, çünkü marjın yüksek olması düşük devir hızını telafi etmemektedir. \"Her iki ürünün GMROI değerleri eşit olduğundan raf alanı eşit paylaştırılmalıdır.\" seçeneği de yanlıştır, çünkü değerler 3,2 ve 1,8 olup eşit değildir. Doğru cevap \"Ürün A tercih edilmeli; GMROI(A) = 0,40 × 8 = 3,2 iken GMROI(B) = 0,60 × 3 = 1,8'dir.\" ifadesiyle başlayan seçenektir.",
      "zorluk": "zor"
     },
     {
@@ -339,7 +345,7 @@
       "Değiştirme aşaması – Pilotlama ve küçük kazanımlar elde etme"
      ],
      "dogru": 3,
-     "aciklama": "Lewin modelinde direncin en yüksek olduğu aşama 'Çözme (Unfreezing)' aşamasıdır; çünkü bireyler mevcut dengeyi terk etmeye henüz hazır değildir. Bu aşamada psikolojik güvenlik yaratarak ve mevcut durumun sürdürülemezliğini veri/kanıtlarla göstererek 'değişme isteği' oluşturmak gerekir (Schein'ın 'survival anxiety' ve 'psychological safety' kavramları). C seçeneği bu stratejiyi doğru tanımlar. A değiştirme aşamasına aittir. B yeniden dondurma aşamasına uygundur. D ve E zorlayıcı baskı yöntemleri olup direnci artırabileceğinden önerilen stratejiler değildir.",
+     "aciklama": "Lewin'in modelinde değişime direnç en çok çözme aşamasında ortaya çıkar; çünkü çalışanlar alışkın oldukları düzenin bozulmasından rahatsız olur. Bu aşamada amaç, mevcut durumun yetersiz olduğunu göstererek değişim ihtiyacına dair farkındalık ve hazırlık oluşturmaktır. Bunun en uygun yolu, mevcut durumun yetersizliğini ortaya koyan verileri paylaşmaktır. \"Çözme aşaması – Yeni davranış biçimlerini zorunlu kılmak için cezai yaptırımlar uygulamak\" seçeneği direnci azaltmak yerine artırır; ayrıca yeni davranışlar çözme aşamasında değil, değiştirme aşamasında kazandırılır. \"Yeniden Dondurma aşaması – Yeni davranışları ödüllendirme sistemleri kurma\" seçeneği ise yeni davranışları kalıcılaştırma aşamasını anlatır, direncin kırıldığı aşamayı değil. Doğru cevap \"Çözme aşaması – Mevcut durumun yetersizliğini ortaya koyan verilerle farkındalık yaratma\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -365,7 +371,7 @@
      "soru": "Bir fabrikada 'fire oranı' aşağıdaki ifadelerden hangisiyle doğru biçimde tanımlanır?",
      "secenekler": [
       "Toplam üretim miktarının satılan ürün miktarına oranı",
-      "Depolarda bekleyen stok miktarının toplam üretime oranı",
+      "Depolarda bekleyen ortalama stok miktarının toplam üretime oranı ve devir hızı",
       "İade edilen ürünlerin satılan ürünlere oranı",
       "İşgücü devir hızının makine kullanım oranına bölünmesi",
       "Üretim sürecinde kullanılamaz hale gelen ürünlerin toplam üretime oranı"
@@ -387,7 +393,7 @@
       "Şüpheli alacaklar için ayrılan karşılığın vergi matrahından indirilebilir olması"
      ],
      "dogru": 3,
-     "aciklama": "Ertelenmiş vergi, bilanço değeri ile vergi değeri arasındaki geçici farktan doğar. Hızlandırılmış (vergisel) amortisman uygulandığında, bir varlığın vergi mevzuatına göre hesaplanan amortisman tutarı muhasebe (TMS/TFRS) amortismanından daha fazla olabilir. Bu durumda varlığın vergi değeri, bilanço (defter) değerinin altında kalır; bu da ertelenmiş vergi yükümlülüğü (DTL) doğuran vergilendirilebilir geçici fark oluşturur. A şıkkı: Şüpheli alacak karşılığı vergiden indirilemiyorsa geçici fark olur; indirilebilirse geçici fark yoktur — bu nedenle bağlama göre değişir. B şıkkı: Kanunen kabul edilmeyen giderler kalıcı farktır, ertelenmiş vergi yaratmaz. D şıkkı: Geçmiş yıl zararları ertelenmiş vergi varlığı yaratır (yükümlülük değil). E şıkkı: Vergiden muaf temettüler kalıcı fark olabilir. Doğru cevap C'dir.",
+     "aciklama": "Ertelenmiş vergi, varlık veya yükümlülüğün muhasebe değeri ile vergi değeri arasındaki geçici farklardan doğar. Hızlandırılmış amortisman uygulandığında vergi amortismanı muhasebe amortismanından büyük olur. Bu durumda varlığın vergi değeri defter değerinden düşük kalır ve ileride vergilenebilir tutar ortaya çıkar. Sonuç olarak ertelenmiş vergi yükümlülüğü doğar. \"İşletmenin kanunen kabul edilmeyen giderlerinin sürekli fark yaratması\" kalıcı bir farktır ve ertelenmiş vergi doğurmaz. \"Geçmiş yıl zararlarının cari yıl kârından indirimi\" ise ayrı bir konudur ve geçici fark olarak değil, ertelenmiş vergi varlığı doğuran kullanılmamış mali zarar olarak ele alınır. Doğru cevap \"Hızlandırılmış amortisman nedeniyle vergi amortismanının muhasebe amortismanından fazla olması\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -403,7 +409,8 @@
       "Hedef pazarda fiyat duyarlılığı düşük bir öncü tüketici kitlesinin bulunması"
      ],
      "dogru": 3,
-     "aciklama": "Skimming (pazar kaymağı alma) stratejisinde başlangıçta fiyat duyarlılığı düşük müşterilere yüksek fiyatla satış yapılır; bu nedenle A, B, D ve E bu stratejinin işleyebilmesi için kritik koşullardır. Geniş ve erişilebilir dağıtım ağı ise penetrasyon fiyatlandırması için daha kritik bir gerekliliktir; skimming stratejisinde başlangıçta dar, seçici dağıtım kanalları tercih edilir. Bu yüzden C bu stratejinin zorunlu koşulu değildir."
+     "aciklama": "Bu strateji kaymak alma (skimming) fiyatlandırmasıdır. Başarısı için ürünün taklit edilmesinin zor olması, algılanan kalitenin yüksek fiyatı haklı çıkarması, düşük hacimde bile yeterli marjın bulunması ve fiyata duyarsız öncü tüketicilerin varlığı gerekir. Geniş dağıtım ise kitlesel pazara yönelik penetrasyon stratejisi için daha önemlidir; premium ürünlerde seçici ve sınırlı dağıtım tercih edilebilir. Bu nedenle \"Ürünün rakipler tarafından kısa sürede taklit edilememesi\" ve \"Hedef pazarda fiyat duyarlılığı düşük bir öncü tüketici kitlesinin bulunması\" zorunlu koşullardır, geniş dağıtım ise zorunlu değildir. Doğru cevap \"Dağıtım kanallarının geniş ve erişilebilir olması\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "52089",
@@ -418,7 +425,7 @@
       "Argyris ve Schön'e göre savunma rutinleri (defensive routines) çift döngülü öğrenmenin önündeki en önemli engellerden biridir."
      ],
      "dogru": 2,
-     "aciklama": "D seçeneği yanlıştır; çünkü çift döngülü öğrenme tam olarak örgüt kültürünü, temel varsayımları ve zihniyet modellerini sorgulamayı ve dönüştürmeyi hedefler. Yalnızca prosedürel düzeltme yapmak tek döngülü öğrenmenin tanımıdır. Argyris ve Schön'e göre çift döngülü öğrenmede örgüt; 'neden bu hedefleri koyuyoruz?', 'hangi değerler bu politikaları belirliyor?' sorularını sorar ve temelden yeniden yapılanmaya gider. Diğer seçenekler (A, B, C, E) teorik açıdan doğru ifadeler içermektedir.",
+     "aciklama": "Argyris ve Schön'e göre tek döngülü öğrenme, hedef ve değerleri sorgulamadan hataları düzeltmektir; termostatın ısıyı ayarlaması buna örnektir. Çift döngülü öğrenme ise eylemin ardındaki varsayımları, değerleri ve politikaları da sorgular, dolayısıyla zihniyet modellerinin ve kültürün değişmesini hedefler. Bu nedenle \"Çift döngülü öğrenme, örgüt kültürünü ve zihniyet modellerini değiştirmeyi hedeflemez; yalnızca prosedürel düzeltmeler yapar.\" ifadesi çift döngülü öğrenmeyi tek döngülü öğrenme gibi tanımlar ve yanlıştır. \"Tek döngülü öğrenmede örgütler, mevcut hedef ve değerlerini sorgulamadan hataları düzelterek davranışlarını ayarlar.\" ifadesi ise doğrudur, soruda aranan değildir. Doğru cevap \"Çift döngülü öğrenme, örgüt kültürünü ve zihniyet modellerini değiştirmeyi hedeflemez; yalnızca prosedürel düzeltmeler yapar.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -429,7 +436,7 @@
      "secenekler": [
       "Mülakat süresi sabit tutulduğundan adaylar arasında zaman kaynaklı eşitsizlik oluşmaz",
       "Yapılandırılmış mülakatlar aday kaygısını azaltarak daha gerçekçi performans sergilenmesine imkân tanır",
-      "Yapılandırılmış mülakatlar yalnızca bilişsel yetkinlikleri ölçtüğünden kişilik kaynaklı hatalar ortadan kalkar",
+      "Yapılandırılmış mülakatlar yalnızca bilişsel yetkinlikleri ölçtüğünden kişilikten kaynaklanan değerlendirme hataları tümüyle ortadan kalkar Bu nedenle ek bir standardizasyon gerekmez.",
       "Yapılandırılmış mülakatta sorular daha uzun ve ayrıntılı olduğu için adaylar kendilerini daha iyi ifade eder",
       "Standardizasyon sayesinde tüm adaylara aynı uyarıcılar sunulur ve puanlama önceden tanımlanmış ölçütlere dayanır; bu da subjektif yargı varyansını azaltır"
      ],
@@ -465,8 +472,8 @@
       "5,00",
       "7,00"
      ],
-     "dogru": 2,
-     "aciklama": "DOL (Faaliyet Kaldıraç Derecesi) = Katkı Payı / Faaliyet Kârı. Katkı Payı = (200-120) × 8.000 = 80 × 8.000 = 640.000 TL. Faaliyet Kârı (FVÖK) = 640.000 - 400.000 = 240.000 TL. DOL = 640.000 / 240.000 = 2,667. DFL (Finansal Kaldıraç Derecesi) = FVÖK / (FVÖK - Faiz) = 240.000 / (240.000 - 160.000) = 240.000 / 80.000 = 3,00. DCL = DOL × DFL = 2,667 × 3,00 = 8,00. Alternatif formül: DCL = Katkı Payı / (FVÖK - Faiz) = 640.000 / 80.000 = 8,00. Doğru cevap E'dir.",
+     "dogru": 1,
+     "aciklama": "Katkı payı 640.000, FVÖK 240.000; DOL=2,667, DFL=240/80=3, DCL=8,00. Doğru cevap 8,00 şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -482,7 +489,8 @@
       "Ürünü deneyerek ya da inceleyerek elde edilen deneyimsel bilgi"
      ],
      "dogru": 0,
-     "aciklama": "Tüketici bilgi arama kaynaklarını dört grupta sınıflandırılır: Kişisel kaynaklar (aile, arkadaş, komşu, tanıdık tavsiyeleri); ticari kaynaklar (reklam, satış elemanı, web sitesi, ambalaj); kamusal kaynaklar (kitle iletişim araçları, tüketici kuruluşları raporları); deneyimsel kaynaklar (ürünü tutmak, denemek, incelemek). Kişisel kaynaklar, tüketiciler tarafından genellikle en güvenilir kaynak olarak değerlendirilir."
+     "aciklama": "Tüketici bilgi arama kaynaklarını dört grupta sınıflandırılır: Kişisel kaynaklar (aile, arkadaş, komşu, tanıdık tavsiyeleri); ticari kaynaklar (reklam, satış elemanı, web sitesi, ambalaj); kamusal kaynaklar (kitle iletişim araçları, tüketici kuruluşları raporları); deneyimsel kaynaklar (ürünü tutmak, denemek, incelemek). Kişisel kaynaklar, tüketiciler tarafından genellikle en güvenilir kaynak olarak değerlendirilir.",
+     "zorluk": "orta"
     },
     {
      "id": "52095",
@@ -491,7 +499,7 @@
      "soru": "Bir üretim firmasının genel müdürü, uzun vadeli stratejik planlama yerine kısa vadeli operasyonel sorunlarla giderek daha fazla meşgul olmaktadır. Yönetim literatüründe bu durumu açıklayan kavram ve bu durumun doğrudan sonucu aşağıdakilerden hangisinde doğru eşleştirilmiştir?",
      "secenekler": [
       "Aşırı merkeziyetçilik – ast motivasyonunun düşmesi",
-      "İşlevsel çatışma – departmanlar arası koordinasyonun bozulması",
+      "İşlevsel çatışma – departmanlar arası koordinasyonun bozulması ve gecikmeler ve gecikmelerin artması",
       "Yönetimin işlevselleşmesi – operasyonel verimliliğin artması",
       "Yönetsel yer değiştirme (management displacement) – stratejik boşluk oluşması",
       "Yetki devri başarısızlığı – kontrol alanının daralması"
@@ -510,7 +518,7 @@
       "Vaka analizi – eleştirel düşünceyi geliştirir",
       "Simülasyon tabanlı eğitim – özdeş öğeler teorisi aracılığıyla gerçek iş koşullarını birebir yansıtır",
       "Ders kitabı okuma – bilgiyi sistematik hale getirir",
-      "Konferans ve sempozyum – uzman bilgisine doğrudan erişim sağlar"
+      "Konferans ve sempozyum – alanında uzman kişilerin bilgisine doğrudan erişim sağlar ve güncel uygulamaları aktarır"
      ],
      "dogru": 2,
      "aciklama": "Baldwin ve Ford'un transfer modeli ve Thorndike'ın özdeş öğeler teorisi (identical elements theory) bağlamında, eğitim ortamı ile iş ortamı arasındaki uyarıcı-tepki benzerliği arttıkça transfer oranı yükselir. Simülasyon tabanlı eğitim, gerçek iş koşullarını (araçlar, hatalar, baskı, kararlar) birebir taklit ettiği için öğrenilen davranışların asıl iş ortamına transferini maksimize eder. Uçuş simülatörleri, cerrahi simülatörler ve yangın söndürme tatbikatları bunun en bilinen örnekleridir. Diğer yöntemler bilgi edinimini destekler ancak transfer açısından simülasyonun gerisinde kalır.",
@@ -529,7 +537,7 @@
       "48 TL"
      ],
      "dogru": 1,
-     "aciklama": "Taguchi kayıp fonksiyonu: L(y) = k(y - T)² formülüne göre önce k katsayısı bulunur. Tolerans sınırında (y = 55 mm, sapma = 5 mm) kayıp = 200 TL: 200 = k × 5² = 25k → k = 8. Ürün ölçüsü 53 mm, sapma = 53 - 50 = 3 mm. L(53) = k × 3² = 8 × 9 = 72 TL. Doğru cevap B) 72 TL şeklindedir.",
+     "aciklama": "Taguchi kayıp fonksiyonu: L(y) = k(y - T)² formülüne göre önce k katsayısı bulunur. Tolerans sınırında (y = 55 mm, sapma = 5 mm) kayıp = 200 TL: 200 = k × 5² = 25k → k = 8. Ürün ölçüsü 53 mm, sapma = 53 - 50 = 3 mm. L(53) = k × 3² = 8 × 9 = 72 TL. Doğru cevap 72 TL şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -561,7 +569,7 @@
       "Online kanalın fiziksel mağazalara göre daha yüksek dönüşüm oranına sahip olması"
      ],
      "dogru": 0,
-     "aciklama": "Omnichannel stratejisinin özü, tüm temas noktalarında (fiziksel mağaza, web sitesi, mobil uygulama, çağrı merkezi) tutarlı ve kesintisiz bir müşteri deneyimi sunmaktır. Bu deneyimin gerçekleşebilmesi için müşteriye ait tüm verilerin (satın alma geçmişi, sepet, tercihler, şikayetler) anlık ve bütünleşik biçimde erişilebilir olması zorunludur. Veri silolarının yıkılamaması durumunda bir kanaldan başlayan müşteri yolculuğu diğer kanalda tanınmaz, bu da stratejiyi multichannel düzeyinde tutar ve hedeflenen deneyimi imkânsız kılar. Bu, teknik değil stratejik ve yapısal bir başarısızlık nedenidir. Fiyat arbitrajı (D) ve lojistik maliyetleri (E) yönetilebilir operasyonel sorunlardır; ancak veri entegrasyonu omnichannel'ın temel varoluş koşuludur.",
+     "aciklama": "Bütünleşik kanal stratejisinin temeli, tüm kanalların müşteriyi tek bir bütün olarak tanıması ve deneyimi kesintisiz sürdürmesidir. Bu da müşteri verisinin ve envanter bilgisinin ortak bir yapıda birleşmesine bağlıdır. Kanallar ayrı veri siloları olarak kalırsa müşterinin kanallar arasındaki yolculuğu izlenemez, kişiselleştirme ve stok görünürlüğü çöker ve geçişin amacı gerçekleşmez. Bu nedenle risk sistematik ve kritiktir. \"Lojistik maliyetlerinin omnichannel yapıda artması\" seçeneği yönetilebilir bir maliyet unsurudur; stratejinin başarısını doğrudan belirleyen yapısal bir engel değildir. \"Fiyat farklılıklarının kanallar arasında tüketici arbitrajına yol açması\" seçeneği de entegrasyon sağlandığında büyük ölçüde ortadan kalkan bir sonuçtur. Doğru cevap \"Veri silolarının yıkılamaması nedeniyle müşteri yolculuğunun kesintisiz izlenememesi\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -577,7 +585,8 @@
       "Kişilerarası roller – İrtibat rolü"
      ],
      "dogru": 1,
-     "aciklama": "Mintzberg, yönetici rollerini kişilerarası, bilgisel ve kararsal olmak üzere üç kategoride toplar. Kararsal roller içinde müzakereci (negotiator) rol, yöneticinin işletmeyi temsil ederek önemli anlaşmalar için müzakere masasına oturmasını kapsar. Soruda üretim müdürünün tedarikçiyle anlaşma koşullarını müzakere etmesi bu rolün tipik bir örneğidir. Girişimci rol ise değişimi ve yeniliği başlatmayı içerir."
+     "aciklama": "Mintzberg, yönetici rollerini kişilerarası, bilgisel ve kararsal olmak üzere üç kategoride toplar. Kararsal roller içinde müzakereci (negotiator) rol, yöneticinin işletmeyi temsil ederek önemli anlaşmalar için müzakere masasına oturmasını kapsar. Soruda üretim müdürünün tedarikçiyle anlaşma koşullarını müzakere etmesi bu rolün tipik bir örneğidir. Girişimci rol ise değişimi ve yeniliği başlatmayı içerir.",
+     "zorluk": "orta"
     },
     {
      "id": "52527",
@@ -586,13 +595,13 @@
      "soru": "Stratejik insan kaynakları yönetiminde 'en iyi uygulama' (best practice/universalist) yaklaşımı ile 'en iyi uyum' (best fit/contingency) yaklaşımı arasındaki temel gerilim göz önüne alındığında, aşağıdaki hangi örnek olay 'en iyi uyum' yaklaşımının üstünlüğünü en güçlü biçimde desteklemektedir?",
      "secenekler": [
       "Küresel bir teknoloji firması, her ülkedeki operasyonuna aynı performans yönetim sistemini uygulayarak tutarlı veri elde etmektedir",
-      "İki farklı sektördeki şirket, yüksek katılım uygulamaları (high commitment practices) sayesinde her ikisi de düşük devir hızına ulaşmıştır",
+      "Birbirinden tamamen farklı iki sektörde faaliyet gösteren iki şirket, yüksek katılım uygulamaları (high commitment practices) sayesinde her ikisi de sektör ortalamasının altında bir işgören devir hızına ulaşmıştır Bu sonuç uygulamanın sektörden bağımsız işlediğini göstermektedir.",
       "Bir şirket, çalışan memnuniyet anketlerini tüm birimlerde standart biçimde uygulayarak kıyaslama (benchmarking) yapabilmektedir",
       "Düşük maliyet stratejisi izleyen bir perakende zinciri, kapsamlı eğitim yatırımları yapmasına karşın rakipleri karşısında maliyet avantajını yitirmiş; yüksek kalite stratejisi izleyen bir rakip ise aynı eğitim yatırımıyla pazar payını artırmıştır",
       "Uluslararası bir banka, farklı kültürlerde aynı liderlik yetkinlik modelini kullanarak lider havuzunu küresel ölçekte geliştirmektedir"
      ],
      "dogru": 3,
-     "aciklama": "En iyi uyum yaklaşımı, İK uygulamalarının örgütün stratejisi, yapısı, çevresi ve yaşam döngüsü aşamasıyla uyumlu olması gerektiğini savunur. B şıkkı bu argümanı doğrudan kanıtlar: Aynı uygulama (kapsamlı eğitim), farklı stratejik bağlamlarda zıt sonuçlar doğurmaktadır. Düşük maliyet stratejisi için yüksek eğitim yatırımı 'evrensel iyi uygulama' olmasına karşın stratejik uyumsuzluk nedeniyle zararlı olmuştur. A, C, D ve E evrenselci yaklaşımın başarısını veya nötr uygulamaları yansıtmaktadır.",
+     "aciklama": "En iyi uyum (contingency) yaklaşımı, bir İK uygulamasının başarısının örgütün stratejisine ve bağlamına uyumuna bağlı olduğunu savunur. Aynı eğitim yatırımının düşük maliyet stratejisi izleyen şirkette maliyet avantajını kaybettirmesi, yüksek kalite stratejisi izleyen şirkette ise pazar payını artırması, aynı uygulamanın stratejiye göre farklı sonuç verdiğini gösterir; bu da yaklaşımı en güçlü biçimde destekler. \"Birbirinden tamamen farklı iki sektörde faaliyet gösteren iki şirket...\" örneği, tersine, uygulamanın bağlamdan bağımsız işlediğini gösterdiği için en iyi uygulama yaklaşımını destekler. \"Küresel bir teknoloji firması...\" örneği de standartlaştırma ve tutarlılığı vurgular. Doğru cevap \"Düşük maliyet stratejisi izleyen bir perakende zinciri...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -604,7 +613,7 @@
       "İşletmenin en karlı ürün grubu",
       "Hammadde depolarındaki kapasite fazlalığı",
       "Üretim hattında en yüksek kapasiteye sahip istasyon",
-      "Satış süreçlerindeki gecikmeleri tanımlamak için kullanılan terim",
+      "Satış ve dağıtım süreçlerindeki gecikmeleri tanımlamak için kullanılan terim ve müşteri teslimatında yaşanan aksamalar",
       "Üretim akışını kısıtlayan ve tüm sistemin kapasitesini belirleyen en yavaş süreç ya da kaynak"
      ],
      "dogru": 4,
@@ -624,7 +633,8 @@
       "%14,00"
      ],
      "dogru": 3,
-     "aciklama": "CAPM: Beklenen getiri = Risksiz faiz + Beta × Pazar risk primi = %8 + 1,4 × %6 = %8 + %8,40 = %16,40. Sık yapılan hata, pazar risk primini pazar getirisinin yerine koymaktır. Pazar risk primi = Pazar getirisi - Risksiz faiz; burada doğrudan verildiği için ayrıca hesaplamak gerekmez."
+     "aciklama": "CAPM: Beklenen getiri = Risksiz faiz + Beta × Pazar risk primi = %8 + 1,4 × %6 = %8 + %8,40 = %16,40. Sık yapılan hata, pazar risk primini pazar getirisinin yerine koymaktır. Pazar risk primi = Pazar getirisi - Risksiz faiz; burada doğrudan verildiği için ayrıca hesaplamak gerekmez.",
+     "zorluk": "orta"
     },
     {
      "id": "52289",
@@ -639,7 +649,8 @@
       "Deneyimsel kaynak"
      ],
      "dogru": 1,
-     "aciklama": "Tüketici bilgi arama sürecinde önce içsel (dahili) kaynaklara —yani belleğindeki geçmiş deneyimlerine ve mevcut bilgilerine— başvurur. Bu arama yeterli sonuç vermezse dış kaynaklara (kişisel, ticari, kamusal, deneyimsel) yönelir. Deneyimsel kaynak ürünü bizzat deneyerek elde edilen bilgiyi, kişisel kaynak ise aile ve arkadaşlardan edinilen bilgiyi ifade eder. Dolayısıyla D doğru yanıttır."
+     "aciklama": "Bilgi arama aşamasında kaynaklar içsel ve dışsal olarak ayrılır. İçsel arama, tüketicinin kendi hafızasındaki geçmiş deneyimlerine ve birikmiş bilgisine başvurmasıdır. Dışsal kaynaklar ise kişisel (aile, arkadaş), ticari (reklam, satıcı) ve kamusal (medya, tüketici kuruluşları) kaynaklar olarak sınıflanır. \"Kişisel kaynak\" tüketicinin çevresindeki kişilerden aldığı bilgiyi, \"Ticari kaynak\" ise firmaların sunduğu bilgiyi ifade eder; ikisi de dışsaldır. Doğru cevap \"İçsel (dahili) kaynak\" seçeneğidir.",
+     "zorluk": "orta"
     }
    ]
   }

@@ -21,8 +21,8 @@
       "Döviz rezervleri tükenir ve kur savunulamaz hale gelir",
       "Döviz rezervleri sürekli artar",
       "Otomatik olarak cari fazla oluşur",
-      "Döviz kuru kendiliğinden değer kazanır",
-      "Merkez bankası sınırsız rezerv yaratabilir"
+      "Döviz kuru kendiliğinden değer kazanmaya başlar",
+      "Merkez bankası sınırsız biçimde rezerv yaratabilir ve piyasaya sürebilir"
      ],
      "dogru": 0,
      "aciklama": "Sabit kur sisteminde sürekli ödemeler açığı yaşayan bir ülke, yerli paranın değerini korumak için piyasaya döviz satarak rezervlerini eritir. Rezervler sınırlı olduğundan bu süreç sonunda rezervler tükenir ve ülke sabit kuru sürdüremez hale gelir; devalüasyon ya da kur rejimi değişikliği kaçınılmaz olur.",
@@ -34,10 +34,10 @@
      "konuId": "para_banka",
      "soru": "Friedman'ın kalıcı gelir hipotezi ile Modigliani'nin yaşam döngüsü hipotezi arasındaki temel teorik ayrım nedir ve bu iki hipotezin para politikasına ilişkin ortak çıkarsaması aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Kalıcı gelir hipotezi bireysel optimizasyona, yaşam döngüsü hipotezi topluluğun ortalama davranışına dayanır; ortak çıkarsama: geçici para politikası her zaman etkilidir.",
+      "Kalıcı gelir hipotezi bireysel optimizasyon davranışına, yaşam döngüsü hipotezi ise topluluğun ortalama davranış kalıbına dayanmaktadır; ortak çıkarsama: geçici nitelikli para politikası uygulamaları her koşulda etkili olmakta ve bu sonuç her iki hipotez için de aynı biçimde ortaya çıkmaktadır.",
       "İki hipotez birbiriyle çelişir: kalıcı gelir hipotezi Keynesyen tüketim fonksiyonunu desteklerken yaşam döngüsü hipotezi bunu reddeder.",
       "Her iki hipotez de bireylerin geleceği tamamen öngöremeyeceğini varsayar; bu nedenle para politikasının reel etkisi tamamen kalıcıdır.",
-      "Yaşam döngüsü hipotezi ihtiyat güdüsünü merkeze alırken kalıcı gelir hipotezi faiz oranı değişimlerini temel alır; ortak çıkarsama: para politikası tüketim üzerinde doğrudan bir etkiye sahip değildir.",
+      "Yaşam döngüsü hipotezi ihtiyat güdüsünü merkeze alırken kalıcı gelir hipotezi faiz oranı değişimlerini temel almaktadır; ortak çıkarsama: para politikası tüketim harcamaları üzerinde doğrudan ve kalıcı bir etkiye sahip değildir.",
       "Kalıcı gelir hipotezi tüketimin kalıcı gelire, yaşam döngüsü hipotezi ise tüketimin servete bağlı olduğunu savunur; ortak çıkarsama: geçici gelir şoklarının tüketime etkisi sınırlıdır, dolayısıyla geçici vergi indirimleri gibi araçlar sınırlı etki yapar."
      ],
      "dogru": 4,
@@ -51,13 +51,13 @@
      "soru": "Solow büyüme modelinde iki ülke aynı teknoloji düzeyine, aynı nüfus artış hızına ve aynı amortisman oranına sahip olmalarına rağmen farklı tasarruf oranları nedeniyle farklı kişi başına sermaye düzeylerinde durağan hale (steady state) gelmektedir. Bu iki ülkenin büyüme hızlarına ilişkin doğru ifade aşağıdakilerden hangisidir?",
      "secenekler": [
       "Daha yüksek tasarruf oranına sahip ülke hem geçiş hem de uzun dönemde daha yüksek büyüme hızını sürdürür.",
-      "Ülkeler arasındaki büyüme hızı farkı kalıcı olmayıp zaman içinde yavaşça kapanır ve ülkeler aynı büyüme hızına ulaşırlar.",
+      "Ülkeler arasındaki büyüme hızı farkı kalıcı olmayıp zaman içinde yavaş yavaş kapanır ve iki ülke aynı büyüme hızına ulaşır.",
       "Tasarruf oranı yükseldikçe uzun dönem büyüme hızı da orantılı biçimde yükselir.",
       "Her iki ülke de durağan hale ulaştıktan sonra nüfus artış hızı artı teknoloji büyüme hızı kadar büyürler; kişi başına büyüme hızı teknoloji büyüme hızına eşitlenir.",
-      "Daha düşük tasarruf oranına sahip ülke, sermayenin marjinal verimliliği daha yüksek olduğundan, uzun dönemde daha hızlı büyür."
+      "Daha düşük tasarruf oranına sahip olan ülke, sermayenin marjinal verimliliği daha yüksek olduğundan uzun dönemde çok daha hızlı büyümeye devam eder, diğerinin önüne geçer ve önde kalır."
      ],
      "dogru": 3,
-     "aciklama": "Solow modelinin temel sonucu, uzun dönem kişi başına büyüme hızının yalnızca dışsal teknoloji büyüme hızına (g) eşit olmasıdır. Tasarruf oranı kişi başına çıktı ve sermayenin düzeyini (durağan hal değerini) etkiler fakat uzun dönem büyüme hızını değiştirmez. Durağan hale ulaşan her iki ülkenin kişi başına büyüme hızı da 'g' olur. B şıkkı bunu doğru ifade etmektedir. E şıkkındaki yakınsama ifadesi kısmen doğru görünse de aynı parametrelere sahip iki ülke aynı durağan hale ulaşacaksa E doğru olurdu; ancak burada farklı tasarruf oranları nedeniyle ülkeler farklı steady-state düzeylerine sahiptir ve uzun dönemde aynı büyüme hızına ulaşırlar ama aynı gelir düzeyine ulaşmazlar. Bununla birlikte B, uzun dönem büyüme hızını en kesin ve doğru biçimde açıklamaktadır.",
+     "aciklama": "Solow modelinde tasarruf oranı, durağan durumdaki kişi başına sermaye ve gelir düzeyini belirler, büyüme hızını belirlemez. Durağan durumda toplam üretim nüfus artış hızı artı teknoloji büyüme hızı kadar, kişi başına üretim ise yalnızca teknoloji büyüme hızı kadar artar. İki ülke aynı n ve g değerlerine sahip olduğundan uzun dönem büyüme hızları aynıdır; fark yalnızca düzeydedir. Geçiş sürecinde düşük sermayeli ülke daha hızlı büyüyebilir, ancak bu kalıcı değildir. \"Tasarruf oranı yükseldikçe uzun dönem büyüme hızı da orantılı biçimde yükselir.\" ifadesi yanlıştır, çünkü tasarruf oranı yalnızca düzey etkisi yaratır. Doğru cevap \"Her iki ülke de durağan hale ulaştıktan sonra nüfus artış hızı artı teknoloji büyüme hızı kadar büyürler\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -83,13 +83,14 @@
      "soru": "Türkiye'de 2008-2009 küresel finansal krizinin ardından uygulanan maliye politikası tepkisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
      "secenekler": [
       "IMF'nin talebi doğrultusunda bütçe açıkları sıfırlanmıştır.",
-      "Türkiye, krizden etkilenmediğinden herhangi bir mali teşvik paketi açıklamamıştır.",
-      "Merkez Bankası faiz oranlarını kriz döneminde artırarak para arzını daraltmıştır.",
+      "Türkiye krizden hiç etkilenmediğinden herhangi bir mali teşvik paketi açıklama yoluna gitmemiştir.",
+      "Merkez Bankası faiz oranlarını kriz döneminde artırarak para arzını belirgin biçimde daraltmış ve politikasını sıkılaştırmıştır.",
       "Kriz döneminde genişletici maliye politikası ile vergi indirimleri ve kamu harcamaları artırılmıştır.",
       "Kriz döneminde sıkı maliye politikası uygulanarak bütçe dengesi korunmuştur."
      ],
      "dogru": 3,
-     "aciklama": "2008-2009 krizinde Türkiye, küresel eğilimle paralel biçimde genişletici maliye politikası uygulamış; KDV ve ÖTV indirimlerini içeren vergi paketleri açıklanmış, kamu harcamaları artırılmış ve bütçe açığı yükselmiştir. TCMB de aynı dönemde faiz oranlarını düşürerek genişletici para politikasını desteklemiştir. Türkiye bu krizden görece hızlı çıkan ülkeler arasında yer almıştır."
+     "aciklama": "2008-2009 krizinde Türkiye, küresel eğilimle paralel biçimde genişletici maliye politikası uygulamış; KDV ve ÖTV indirimlerini içeren vergi paketleri açıklanmış, kamu harcamaları artırılmış ve bütçe açığı yükselmiştir. TCMB de aynı dönemde faiz oranlarını düşürerek genişletici para politikasını desteklemiştir. Türkiye bu krizden görece hızlı çıkan ülkeler arasında yer almıştır.",
+     "zorluk": "orta"
     },
     {
      "id": "46374",
@@ -97,11 +98,11 @@
      "konuId": "uluslararasi_i_ktisat",
      "soru": "Aşağıdakilerden hangisi 'ticaret yaratma etkisi' kavramını en doğru biçimde tanımlar?",
      "secenekler": [
-      "Serbest ticaret bölgesinin oluşmasıyla birlikte üçüncü ülkelerden yapılan ithalatın azalması",
+      "Serbest ticaret bölgesinin oluşmasıyla birlikte üçüncü ülkelerden yapılan ithalatın belirgin biçimde azalması ve ticaretin üyelere kayması gerçekleşmesi",
       "İhracat sübvansiyonlarının ticareti genişletmesi",
       "Gümrük birliği oluşumunun yüksek maliyetli yerli üretimin yerini düşük maliyetli ortak ülke üretimiyle doldurmasıyla ortaya çıkan refah artışı",
       "Teknoloji transferiyle üretim maliyetlerinin düşmesi",
-      "Gümrük birliğinin üçüncü ülkelere yönelik ihracatı artırması"
+      "Gümrük birliğinin üçüncü ülkelere yönelik ihracatı artırması ve bu yolla birliğin dış ticaret fazlası vermesini sağlaması"
      ],
      "dogru": 2,
      "aciklama": "Ticaret yaratma etkisi (Jacob Viner), gümrük birliğinin kurulmasıyla birlikte yüksek maliyetli yerli üretimin yerini birlik içinde daha verimli ve düşük maliyetli ortak ülke üretiminin almasıdır. Bu etki refahı artırır. Buna karşın ticaret saptırma etkisi, düşük maliyetli üçüncü ülke ithalatının yerini daha yüksek maliyetli birlik içi üretime bırakmasıdır.",
@@ -136,7 +137,8 @@
       "-%6"
      ],
      "dogru": 0,
-     "aciklama": "Okun Yasası: Çıktı açığı = -Okun katsayısı × (Fiili işsizlik - Doğal işsizlik) formülüyle hesaplanır. İşsizlik açığı = 9 - 5 = 4 puandır. Çıktı açığı = -2 × 4 = -8'dir. Bu, ekonominin potansiyel çıktısının %8 altında üretim yaptığı anlamına gelir."
+     "aciklama": "Okun Yasası: Çıktı açığı = -Okun katsayısı × (Fiili işsizlik - Doğal işsizlik) formülüyle hesaplanır. İşsizlik açığı = 9 - 5 = 4 puandır. Çıktı açığı = -2 × 4 = -8'dir. Bu, ekonominin potansiyel çıktısının %8 altında üretim yaptığı anlamına gelir.",
+     "zorluk": "orta"
     },
     {
      "id": "46039",
@@ -160,14 +162,15 @@
      "konuId": "turkiye_ekonomisi",
      "soru": "Türkiye'de 2008 küresel finans krizinin ardından uygulanan genişletici maliye politikasının bir parçası olarak kullanılan 'vergi indirimi ve otomatik stabilizatörler' mekanizması bağlamında, otomatik stabilizatörlerin konjonktür karşıtı işlevi nasıl gerçekleşir?",
      "secenekler": [
-      "Resesyon dönemlerinde kamu harcamaları otomatik olarak azalır ve vergi gelirleri artar; bu da bütçe açığını kapatır.",
+      "Resesyon dönemlerinde kamu harcamaları otomatik olarak azalmakta ve vergi gelirleri artmaktadır; bu da bütçe açığını kapatmakta ve bütçeyi dengelemektedir.",
       "Resesyon dönemlerinde işsizlik ödemeleri gibi transferler artar ve vergi gelirleri düşer; bu mekanizma toplam talebi otomatik olarak destekler.",
       "Resesyon dönemlerinde ithalat otomatik olarak azalır ve cari denge fazla vermeye başlar.",
-      "Bütçe fazlası veren dönemlerde Hazine otomatik olarak borç geri ödemesi yapar ve para arzını daraltır.",
+      "Bütçe fazlası verilen dönemlerde Hazine otomatik olarak borç geri ödemesi yapmakta ve bu yolla para arzını daraltmaktadır.",
       "Genişleme dönemlerinde merkez bankası otomatik olarak faiz oranlarını düşürür ve ekonomiyi soğutur."
      ],
      "dogru": 1,
-     "aciklama": "Otomatik stabilizatörler, herhangi bir politika kararı alınmaksızın otomatik olarak devreye giren mekanizmalardır. Resesyon döneminde işsizlik arttığında işsizlik sigortası ödemeleri otomatik olarak yükselir (transfer harcamaları artar), buna karşın vergi gelirleri gelir ve kurumlar vergisi tabanının daralmasıyla düşer. Her iki etki de bütçe açığını büyütür ancak ekonomideki toplam talep düşüşünü frenlemiş olur. Bu 'dahili stabilizatörler' mekanizması, Türkiye'de 2009 krizinde de kısmen devreye girmiştir."
+     "aciklama": "Otomatik stabilizatörler, herhangi bir politika kararı alınmaksızın otomatik olarak devreye giren mekanizmalardır. Resesyon döneminde işsizlik arttığında işsizlik sigortası ödemeleri otomatik olarak yükselir (transfer harcamaları artar), buna karşın vergi gelirleri gelir ve kurumlar vergisi tabanının daralmasıyla düşer. Her iki etki de bütçe açığını büyütür ancak ekonomideki toplam talep düşüşünü frenlemiş olur. Bu 'dahili stabilizatörler' mekanizması, Türkiye'de 2009 krizinde de kısmen devreye girmiştir.",
+     "zorluk": "orta"
     },
     {
      "id": "46370",
@@ -175,9 +178,9 @@
      "konuId": "uluslararasi_i_ktisat",
      "soru": "Uluslararası Para Fonu'nun (IMF) kuruluş amacına ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
      "secenekler": [
-      "Dünya genelinde kalkınma projelerini finanse etmek",
+      "Dünya genelinde uzun vadeli kalkınma projelerini finanse etmek ve desteklemek",
       "Gelişmekte olan ülkelere hibe sağlamak",
-      "Uluslararası ticareti serbestleştirmek amacıyla müzakereler yürütmek",
+      "Uluslararası ticareti serbestleştirmek amacıyla çok taraflı müzakereler yürütmek ve anlaşmalar imzalamak",
       "Uzun vadeli altyapı yatırımlarını desteklemek",
       "Ödemeler bilançosu dengesi sorunları yaşayan ülkelere kısa vadeli finansman sağlamak"
      ],
@@ -192,7 +195,7 @@
      "soru": "Aşağıdakilerden hangisi 'senyoraj geliri' kavramını en doğru biçimde açıklar?",
      "secenekler": [
       "Devletin para basma tekeline sahip olması sayesinde elde ettiği gelir",
-      "Ticari bankaların kredi faizlerinden elde ettiği net gelir",
+      "Ticari bankaların kredi faizlerinden elde ettiği net gelir ve bu gelirden aldığı pay",
       "Merkez bankasının ticari bankalara uyguladığı ceza faizi",
       "Hazinenin vergi dışı yollarla elde ettiği gelirler",
       "Hükümetin ihracat sübvansiyonlarından sağladığı gelir"
@@ -207,10 +210,10 @@
      "konuId": "makro_i_ktisat",
      "soru": "Bir ülkenin cari işlemler açığı vermesi aşağıdakilerden hangisinin doğrudan göstergesidir?",
      "secenekler": [
-      "GSYİH büyüme hızının düştüğü",
+      "GSYİH büyüme hızının belirgin biçimde düştüğü ve yavaşladığı",
       "Döviz rezervlerinin arttığı",
       "Bütçe fazlası verildiği",
-      "Sermaye hesabının da açık verdiği",
+      "Ülkenin sermaye hesabının da açık verdiği",
       "Yurt içi yatırımların yurt içi tasarrufları aştığı"
      ],
      "dogru": 4,
@@ -239,14 +242,14 @@
      "konuId": "turkiye_ekonomisi",
      "soru": "Türkiye'nin dış borç yapısı ile 'orijinal günah' (original sin) hipotezi çerçevesinde değerlendirildiğinde, TL cinsinden yurt dışına borçlanma kabiliyetinin geliştirilmesi ile döviz cinsinden dış borç stoku arasındaki gerilim ele alındığında hangisi en isabetli analizi ortaya koyar?",
      "secenekler": [
-      "Türkiye'de özel sektör dış borcu kamu dış borcunun altında kaldığından 'orijinal günah' sorunu makroekonomik istikrar açısından belirleyici bir kısıt oluşturmamaktadır.",
+      "Türkiye'de özel sektörün dış borcu kamu kesiminin dış borcunun altında kaldığından 'orijinal günah' sorunu makroekonomik istikrar açısından belirleyici bir kısıt oluşturmamakta; kur şoklarının bilançolar üzerindeki etkisi sınırlı kalmakta ve bu nedenle borçlanma para birimi tartışması pratik önemini yitirmektedir.",
       "Türkiye'nin en etkin orijinal günah çözümü, dolar yerine euro cinsinden borçlanmayı artırmak olmuştur; para birimi çeşitlendirmesi kur riskini ortadan kaldırmıştır.",
       "Orijinal günah sorunu yalnızca gelişmemiş tahvil piyasalarında görülür; Türkiye derin ve likit bir TL tahvil piyasasına sahip olduğundan bu sorunun dışındadır.",
-      "Orijinal günah hipotezi gelişmekte olan ülkelerin TL gibi kendi para birimleriyle yurt dışında borçlanamamasını tanımlar; Türkiye bu kısıtı 2010'larda tamamen aşmış ve artık TL cinsinden eurobond ihraç etmektedir.",
+      "Orijinal günah hipotezi, gelişmekte olan ülkelerin TL gibi kendi ulusal para birimleriyle uluslararası piyasalarda borçlanamamasını tanımlamaktadır; Türkiye bu kısıtı 2010'lu yıllarda tümüyle aşmış, TL cinsinden eurobond ihraç etmeye başlamış ve döviz cinsinden borçlanma ihtiyacını büyük ölçüde ortadan kaldırarak kur riskini bilançolardan tasfiye etmiştir. Bu nedenle Türkiye açısından kur riski kaynaklı yapısal bir kırılganlıktan söz edilmesi artık mümkün görünmemektedir.",
       "Türkiye 'orijinal günahı' kısmen hafifletmiş olmakla birlikte (TL eurobond ihraci, yerli tahvil piyasasına yabancı ilgisi), döviz cinsinden dış borçların varlık-yükümlülük dengesindeki ağırlığı, kur riskinin özel sektör bilançolarında birikmeye devam etmesi ve kurumsal güvenilirlik sorunları nedeniyle TL cinsinden uluslararası borçlanma hâlâ sınırlı kalmakta; bu durum kur şoklarına karşı yapısal kırılganlığı sürdürmektedir."
      ],
      "dogru": 4,
-     "aciklama": "Eichengreen ve Hausmann'ın geliştirdiği 'orijinal günah' (original sin) kavramı, gelişmekte olan ülkelerin uluslararası piyasalarda kendi para birimleriyle borçlanamamasını veya borçlanabilse bile çok kısa vadeli borçlanabilmesini ifade eder. Türkiye bu bağlamda karma bir tablo sergilemiştir: bir yanda Hazine'nin TL cinsinden eurobond ihracı ve yabancıların DİBS piyasasına girişi (2010-2013 döneminde peak yapan yabancı DİBS tutarı), öte yanda özel sektörün büyük çaplı döviz cinsinden dış borçlanması. Türkiye'de özel sektör dış borç stoğu, özellikle bankacılık ve enerji sektörlerinin döviz borçlanması nedeniyle, toplam dış borç içinde ağırlıklı paya sahiptir. Bu durum, kur şoklarının bilanço kanalı aracılığıyla reel ekonomiye sıçraması için zemin hazırlamaktadır (2018 kur krizi bu mekanizmanın açık örneğidir). Şık D yanlıştır; Türkiye'de özel sektör dış borcu geleneksel olarak kamu dış borcunu aşmaktadır. Şık E yanlıştır; para birimi çeşitlendirmesi kur riskini azaltır ama ortadan kaldırmaz.",
+     "aciklama": "Orijinal günah hipotezi, gelişmekte olan ülkelerin kendi para birimleriyle uluslararası piyasalarda borçlanamaması durumunu anlatır. Türkiye bunu kısmen hafifletmiştir: TL cinsinden eurobond ihracı ve yerli tahvil piyasasına yabancı ilgisi bunun örnekleridir. Buna karşın döviz cinsinden dış borçların ağırlığı, özel sektör bilançolarında biriken kur riski ve kurumsal güvenilirlik sorunları TL ile uluslararası borçlanmayı sınırlı tutmakta; kur şoklarına karşı yapısal kırılganlık sürmektedir. \"Türkiye'nin en etkin orijinal günah çözümü, dolar yerine euro cinsinden borçlanmayı artırmak olmuştur...\" seçeneği yanlıştır; euro da yabancı para olduğundan kur riskini ortadan kaldırmaz. \"Orijinal günah sorunu yalnızca gelişmemiş tahvil piyasalarında görülür...\" seçeneği de yanlıştır; sorun derin piyasası olan ülkelerde de görülebilir. Doğru cevap \"Türkiye 'orijinal günahı' kısmen hafifletmiş olmakla birlikte...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -262,7 +265,8 @@
       "%30"
      ],
      "dogru": 3,
-     "aciklama": "Efektif koruma oranı (ERP) formülü: ERP = (t - a·ti) / (1 - a) şeklindedir. Burada t = nihai mal tarifesi (%30 = 0.30), ti = girdi tarifesi (%10 = 0.10), a = üretim maliyetindeki ithal girdi payı (0.40). ERP = (0.30 - 0.40 × 0.10) / (1 - 0.40) = (0.30 - 0.04) / 0.60 = 0.26 / 0.60 ≈ 0.433 ≈ %43. Bu durum, nominal tarife %30 görünse de nihai mal üretimini %43 oranında koruduğunu gösterir."
+     "aciklama": "Efektif koruma oranı (ERP) formülü: ERP = (t - a·ti) / (1 - a) şeklindedir. Burada t = nihai mal tarifesi (%30 = 0.30), ti = girdi tarifesi (%10 = 0.10), a = üretim maliyetindeki ithal girdi payı (0.40). ERP = (0.30 - 0.40 × 0.10) / (1 - 0.40) = (0.30 - 0.04) / 0.60 = 0.26 / 0.60 ≈ 0.433 ≈ %43. Bu durum, nominal tarife %30 görünse de nihai mal üretimini %43 oranında koruduğunu gösterir.",
+     "zorluk": "orta"
     },
     {
      "id": "46314",
@@ -271,13 +275,14 @@
      "soru": "Türkiye'de mevduat bankacılığı ile katılım bankacılığı arasındaki temel fark aşağıdakilerden hangisidir?",
      "secenekler": [
       "Katılım bankaları yalnızca devlet tahvili alıp satabilir",
-      "Mevduat bankaları döviz hesabı açamazken katılım bankaları açabilir",
+      "Mevduat bankaları döviz hesabı açamazken katılım bankaları açabilmektedir",
       "Katılım bankaları mevduat sigortası kapsamı dışındadır",
-      "Mevduat bankaları yatırım kredisi veremezken katılım bankaları verebilir",
+      "Mevduat bankaları yatırım kredisi veremezken katılım bankaları verebilmektedir ve bu ayrım mevzuatta açıkça yer almaktadır",
       "Katılım bankaları faiz yerine kâr-zarar ortaklığı ve faizsiz finansman yöntemleri kullanır"
      ],
      "dogru": 4,
-     "aciklama": "Katılım bankacılığının (İslami bankacılık) temel özelliği, İslam hukukunun faizi (ribanın) yasaklaması nedeniyle faiz esasına dayalı işlemler yerine murabaha (maliyet artı kâr), mudaraba (kâr-zarar ortaklığı), müşareke (ortak girişim) gibi faizsiz finansman yöntemlerini kullanmasıdır. Katılım bankaları da TMSF güvencesi kapsamındadır ve BDDK denetimine tabidir; yalnızca işlem yapısı mevduat bankalarından farklıdır."
+     "aciklama": "Katılım bankacılığının (İslami bankacılık) temel özelliği, İslam hukukunun faizi (ribanın) yasaklaması nedeniyle faiz esasına dayalı işlemler yerine murabaha (maliyet artı kâr), mudaraba (kâr-zarar ortaklığı), müşareke (ortak girişim) gibi faizsiz finansman yöntemlerini kullanmasıdır. Katılım bankaları da TMSF güvencesi kapsamındadır ve BDDK denetimine tabidir; yalnızca işlem yapısı mevduat bankalarından farklıdır.",
+     "zorluk": "orta"
     },
     {
      "id": "46188",
@@ -292,7 +297,8 @@
       "Hükümetin yanlış para ve maliye politikaları"
      ],
      "dogru": 1,
-     "aciklama": "Reel İş Çevrimleri (RBC) teorisi, Kydland ve Prescott tarafından geliştirilmiştir. Bu teoriye göre ekonomik dalgalanmalar parasal veya talep kaynaklı değil, reel (teknoloji şokları gibi) arz kaynaklı faktörlerden kaynaklanmaktadır. Pozitif teknoloji şokları üretim olanaklarını genişletir ve büyümeye yol açarken, negatif teknoloji şokları resesyona neden olur. RBC teorisi, para ve maliye politikalarının reel değişkenler üzerinde etkili olamayacağını savunur."
+     "aciklama": "Reel İş Çevrimleri (RBC) teorisi, Kydland ve Prescott tarafından geliştirilmiştir. Bu teoriye göre ekonomik dalgalanmalar parasal veya talep kaynaklı değil, reel (teknoloji şokları gibi) arz kaynaklı faktörlerden kaynaklanmaktadır. Pozitif teknoloji şokları üretim olanaklarını genişletir ve büyümeye yol açarken, negatif teknoloji şokları resesyona neden olur. RBC teorisi, para ve maliye politikalarının reel değişkenler üzerinde etkili olamayacağını savunur.",
+     "zorluk": "orta"
     },
     {
      "id": "46112",
@@ -307,7 +313,7 @@
       "Q1 = Q2 = 30; P = 40"
      ],
      "dogru": 4,
-     "aciklama": "Cournot modelinde Firma 1'in tepki fonksiyonu: Kâr_1 = (100 - Q1 - Q2)Q1 - 10Q1. ∂Kâr_1/∂Q1 = 100 - 2Q1 - Q2 - 10 = 0 → Q1 = (90 - Q2)/2. Simetri nedeniyle Q1 = Q2 = Q: Q = (90 - Q)/2 → 2Q = 90 - Q → 3Q = 90 → Q = 30. Toplam Q = 60, P = 100 - 60 = 40 TL. Her firma 30 birim üretir. Doğru cevap B'dir.",
+     "aciklama": "Cournot modelinde Firma 1'in tepki fonksiyonu: Kâr«1 = (100 - Q1 - Q2)Q1 - 10Q1. ∂Kâr»1/∂Q1 = 100 - 2Q1 - Q2 - 10 = 0 → Q1 = (90 - Q2)/2. Simetri nedeniyle Q1 = Q2 = Q: Q = (90 - Q)/2 → 2Q = 90 - Q → 3Q = 90 → Q = 30. Toplam Q = 60, P = 100 - 60 = 40 TL. Her firma 30 birim üretir. Doğru cevap: «Q1 = Q2 = 30; P = 40».",
      "zorluk": "zor"
     },
     {
@@ -333,8 +339,8 @@
      "soru": "Heckscher-Ohlin teorisine göre bir ülke hangi malları ihraç eder?",
      "secenekler": [
       "Teknoloji yoğun malları",
-      "Kıt faktörü yoğun kullanan malları",
-      "Mutlak üstünlüğe sahip olduğu tüm malları",
+      "Kıt sahip olduğu faktörü yoğun kullanan malları",
+      "Mutlak üstünlüğe sahip olduğu bütün malları ve hizmetleri",
       "Bol sahip olduğu üretim faktörünü yoğun kullanan malları",
       "Yalnızca tarım ürünlerini"
      ],
@@ -351,11 +357,12 @@
       "Para arzı artışı faizi düşürür, sermaye çıkışı olur ve kur baskısı altında Merkez Bankası rezerv satar; para arzı başlangıç düzeyine döner",
       "Faiz düşer, yatırım artar ve IS eğrisi sağa kayar",
       "Sermaye girişi yaşanır, döviz değerlenir ve ihracat artar",
-      "Maliye politikası tam dışlama etkisi yaratırken para politikası etkindir",
-      "Döviz kuru değer kaybeder, ihracat artar ve milli gelir yükselir"
+      "Maliye politikası tam bir dışlama etkisi yaratırken para politikası etkin biçimde çalışır ve dış ticaret dengesi kalıcı biçimde iyileşme gösterir",
+      "Döviz kuru değer kaybeder, ihracat artar ve milli gelir belirgin biçimde yükselir"
      ],
      "dogru": 0,
-     "aciklama": "Mundell-Fleming modeline göre sabit kur + tam sermaye hareketliliği koşulunda para politikası tamamen etkisizdir. Para arzı artışı faizi düşürür → sermaye yurt dışına çıkar → yerli para üzerinde değer kaybı baskısı oluşur → kuru savunmak için Merkez Bankası döviz satar ve karşılığında yerli para piyasadan çekilir → para arzı başlangıç düzeyine döner. Net etki sıfırdır. Bu rejimde etkin olan maliye politikasıdır."
+     "aciklama": "Mundell-Fleming modeline göre sabit kur + tam sermaye hareketliliği koşulunda para politikası tamamen etkisizdir. Para arzı artışı faizi düşürür → sermaye yurt dışına çıkar → yerli para üzerinde değer kaybı baskısı oluşur → kuru savunmak için Merkez Bankası döviz satar ve karşılığında yerli para piyasadan çekilir → para arzı başlangıç düzeyine döner. Net etki sıfırdır. Bu rejimde etkin olan maliye politikasıdır.",
+     "zorluk": "orta"
     },
     {
      "id": "46219",
@@ -363,14 +370,15 @@
      "konuId": "makro_i_ktisat",
      "soru": "Aşağıdaki büyüme modellerinden hangisi, teknolojik ilerlemenin dışsal değil içsel bir süreç olduğunu ve ar-ge yatırımları ile beşerî sermayenin büyümeyi sürdürdüğünü ileri sürer?",
      "secenekler": [
-      "Keynesyen Talep Modeli",
+      "Keynesyen Toplam Talep Modeli ve çarpan mekanizması",
       "Solow-Swan Modeli",
       "Harrod-Domar Modeli",
-      "Malthus Nüfus Modeli",
+      "Malthus Nüfus Artışı Modeli",
       "Romer ve Lucas'ın İçsel Büyüme Modeli"
      ],
      "dogru": 4,
-     "aciklama": "İçsel büyüme teorisi (Romer, Lucas), teknolojik ilerlemenin ve bilginin ekonomi içindeki ar-ge harcamaları ve beşerî sermaye birikimi yoluyla yaratıldığını savunur. Solow-Swan modelinde teknoloji dışsal, Harrod-Domar'da büyüme tasarruf oranına ve sermaye-çıktı oranına bağlıdır. İçsel büyüme teorisi, azalan getiri sorununu bilgi ve fikir birikiminin sermaye getirisini sabit tutmasıyla aşar."
+     "aciklama": "İçsel büyüme teorisi (Romer, Lucas), teknolojik ilerlemenin ve bilginin ekonomi içindeki ar-ge harcamaları ve beşerî sermaye birikimi yoluyla yaratıldığını savunur. Solow-Swan modelinde teknoloji dışsal, Harrod-Domar'da büyüme tasarruf oranına ve sermaye-çıktı oranına bağlıdır. İçsel büyüme teorisi, azalan getiri sorununu bilgi ve fikir birikiminin sermaye getirisini sabit tutmasıyla aşar.",
+     "zorluk": "orta"
     },
     {
      "id": "46053",
@@ -385,7 +393,8 @@
       "Marjinal ürün sıfırın altına düşmüştür."
      ],
      "dogru": 0,
-     "aciklama": "Ölçeğe göre azalan getiri: tüm girdiler λ katı artırıldığında çıktı λ'dan az katı artar. Örneğin tüm girdiler %10 artırıldığında çıktı %7 artıyorsa ölçeğe göre azalan getiri söz konusudur. D seçeneği 'azalan marjinal getiri'yi (kısa dönem kavramı, bir girdi sabittir) tanımlamaktadır ve ölçeğe göre getiri kavramıyla karıştırılmamalıdır. E seçeneği ise negatif marjinal ürün bölgesini tanımlar."
+     "aciklama": "Ölçeğe göre azalan getiri, uzun dönemde tüm girdiler aynı oranda artırıldığında çıktının bu orandan daha az artması demektir. Örneğin girdiler iki katına çıkarıldığında çıktı iki kattan az artar. \"Tüm girdiler aynı oranda artırıldığında çıktı aynı oranda artar.\" ifadesi ölçeğe göre sabit getiriyi, \"Tüm girdiler aynı oranda artırıldığında çıktı daha yüksek oranda artar.\" ifadesi ise ölçeğe göre artan getiriyi anlatır. \"Bir girdi sabit tutulurken diğeri artırıldığında çıktı azalan oranda artar.\" ifadesi kısa dönemdeki azalan verimler yasasına aittir ve uzun dönemle ilgili değildir. Marjinal ürünün negatif olması da ölçek getirisini tanımlamaz. Doğru cevap \"Tüm girdiler aynı oranda artırıldığında çıktı daha düşük oranda artar.\" seçeneğidir.",
+     "zorluk": "orta"
     },
     {
      "id": "46453",
@@ -393,8 +402,8 @@
      "konuId": "turkiye_ekonomisi",
      "soru": "Türkiye İstatistik Kurumu (TÜİK) verilerine göre Türkiye'nin GSYH hesaplamalarında kullanılan temel yöntem aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Dış ticaret dengesi yöntemi",
-      "Yalnızca harcama yöntemi",
+      "Dış ticaret dengesi üzerinden hesaplama yöntemi",
+      "Yalnızca harcama yöntemi kullanılmaktadır",
       "Yalnızca gelir yöntemi",
       "Üretim, gelir ve harcama yöntemlerinin tamamı",
       "Yalnızca üretim yöntemi"
@@ -412,11 +421,11 @@
       "Gümrük birliği, ortak dış tarife belirlediğinden üye ülkeler arasında tam faktör fiyatları eşitlenmesini sağlar.",
       "İkinci en iyi teoremine göre birden fazla piyasa bozukluğu varsa bir bozukluğu gidermek kesinlikle refahı artırır.",
       "Gümrük birliği tercihli bir düzenleme olduğundan ticaret saptırma etkisi oluştuğu durumlarda üçüncü ülkeler aleyhine refah kaybı yaratabilir; hatta birlik üyeleri için bile net refah kaybı mümkündür.",
-      "Ticaret yaratma etkisi ve ticaret saptırma etkisi birbirini her zaman tam olarak dengeler, dolayısıyla gümrük birliklerinin net refah etkisi sıfırdır.",
-      "Gümrük birliği tüm ticaret engellerini kaldırdığından her zaman net refah artışı sağlar ve serbest ticarete yaklaştıran bir adımdır."
+      "Ticaret yaratma etkisi ile ticaret saptırma etkisi birbirini her koşulda tam olarak dengelemektedir; dolayısıyla gümrük birliklerinin ortaya çıkardığı net refah etkisi her zaman sıfır olmakta ve sonuç nötr kalmaktadır.",
+      "Gümrük birliği tüm ticaret engellerini ortadan kaldırdığından her koşulda net bir refah artışı sağlamakta ve ülkeleri serbest ticarete yaklaştıran olumlu bir adım olarak değerlendirilmektedir."
      ],
      "dogru": 2,
-     "aciklama": "Viner (1950) gümrük birliğini ticaret yaratma (trade creation) ve ticaret saptırma (trade diversion) etkilerine ayırmıştır. İkinci en iyi teoremine göre, piyasada çok sayıda bozukluk varken bunlardan sadece birini gidermek mutlaka refahı artırmaz. Gümrük birliği, üçüncü ülkelere karşı ortak tarife korumasını sürdürürken üyeler arasındaki tarifeleri kaldırır — bu 'yarım serbest ticaret'tir. Ticaret saptırma etkisi baskınsa (düşük maliyetli üçüncü ülkeden alım bırakılıp yüksek maliyetli ortak ülkeden alım yapılıyorsa) birlik üyeleri için dahi net refah kaybı oluşabilir. A ve C şıkları ikinci en iyi teoremini görmezden gelmektedir.",
+     "aciklama": "İkinci en iyi teoremine göre birden fazla bozukluk varken yalnızca bir bozukluğu gidermek refahı artırmayabilir. Gümrük birliği, serbest ticarete doğru kısmi bir adımdır. Üyeler arasında tarifeler kalkarken üçüncü ülkelere karşı engeller sürer. Ticaret yaratma etkisi refahı artırır. Ticaret saptırma etkisinde ise üretim, verimli üçüncü ülkeden daha pahalı üye ülkeye kayar. Bu durumda üçüncü ülkeler zarar görür. Saptırma ağır basarsa üyelerin kendisi için bile net refah kaybı doğabilir. \"İkinci en iyi teoremine göre birden fazla piyasa bozukluğu varsa bir bozukluğu gidermek kesinlikle refahı artırır.\" seçeneği teoremin tam tersini söyler. \"Gümrük birliği tüm ticaret engellerini ortadan kaldırdığından her koşulda net bir refah artışı sağlamakta ve ülkeleri serbest ticarete yaklaştıran olumlu bir adım olarak değerlendirilmektedir.\" seçeneği de dış tarifelerin sürdüğünü ve net etkinin belirsiz olduğunu görmezden gelir. Doğru cevap \"Gümrük birliği tercihli bir düzenleme olduğundan ticaret saptırma etkisi oluştuğu durumlarda üçüncü ülkeler aleyhine refah kaybı yaratabilir\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -425,14 +434,15 @@
      "konuId": "para_banka",
      "soru": "Enflasyon hedeflemesi stratejisinde 'esneklik ile güvenilirlik' ikilemi bağlamında aşağıdakilerden hangisi doğrudur?",
      "secenekler": [
-      "Nokta hedeflemesi hem güvenilirliği hem esnekliği en üst düzeye çıkarır",
+      "Nokta hedeflemesi hem güvenilirliği hem de esnekliği en üst düzeye çıkarmaktadır",
       "Bant hedeflemesi, merkez bankasına şoklara karşı esneklik tanırken güvenilirliği de destekler",
-      "Dar bant hedeflemesi esnekliği artırır ancak güvenilirliği azaltır",
+      "Dar bant hedeflemesi esnekliği artırır ancak güvenilirliği belirgin biçimde azaltır ve güvenilirliği zayıflatır",
       "Enflasyon hedeflemesinde para politikası kuralı uygulanamaz",
       "Hedef tutturulamazsa merkez bankası hesap vermek zorunda değildir"
      ],
      "dogru": 1,
-     "aciklama": "Enflasyon hedeflemesinde nokta hedefi güvenilirliği yükseltir ancak esnekliği kısıtlar; her sapma başarısızlık olarak algılanır. Bant hedeflemesi ise merkez bankasına geçici arz şokları gibi durumlarda hareket alanı tanırken kamuoyuna nominal bir çıpa sunar. Bu denge, esneklik-güvenilirlik ikilemine pratik bir çözüm üretir. Hesap verebilirlik ise enflasyon hedeflemesinin temel ilkelerinden biridir."
+     "aciklama": "Enflasyon hedeflemesinde nokta hedefi güvenilirliği yükseltir ancak esnekliği kısıtlar; her sapma başarısızlık olarak algılanır. Bant hedeflemesi ise merkez bankasına geçici arz şokları gibi durumlarda hareket alanı tanırken kamuoyuna nominal bir çıpa sunar. Bu denge, esneklik-güvenilirlik ikilemine pratik bir çözüm üretir. Hesap verebilirlik ise enflasyon hedeflemesinin temel ilkelerinden biridir.",
+     "zorluk": "orta"
     },
     {
      "id": "46190",
@@ -446,8 +456,9 @@
       "%5",
       "%15"
      ],
-     "dogru": 3,
-     "aciklama": "Para çarpanı formülü: m = (1 + c) / (c + rr + e). Burada c = nakit tutma oranı, rr = zorunlu karşılık oranı (%20 = 0,20), e = fazla rezerv oranı (%5 = 0,05). 4 = (1 + c) / (c + 0,20 + 0,05). 4(c + 0,25) = 1 + c. 4c + 1 = 1 + c. 3c = 0. c = 0. Ancak bu yaklaşık hesaplamada küçük sapmalar olabilir. Hesapla: c = 0,05 deneyerek: m = 1,05 / (0,05 + 0,25) = 1,05 / 0,30 = 3,5 ≠ 4. c = 0 ise: m = 1 / 0,25 = 4. Doğru cevap c = 0, yani kamu nakit tutmuyor. Ancak seçeneklerde %0 varsa o, yoksa en yakın %5. Bu soruda A şıkkı olan %0 doğru yanıttır."
+     "dogru": 0,
+     "aciklama": "(1+c)/(c+0,20+0,05)=4 → 1+c=4c+1 → c=0, yani A. Doğru cevap %0 şeklindedir.",
+     "zorluk": "orta"
     },
     {
      "id": "46024",
@@ -471,8 +482,8 @@
      "konuId": "turkiye_ekonomisi",
      "soru": "Türkiye'de tarım politikası dönüşümü incelendiğinde, 1999-2002 döneminde IMF/Dünya Bankası destekli çerçeve kapsamında uygulanan Doğrudan Gelir Desteği (DGD) sistemi hangi teorik gerekçeyle meşrulaştırılmış ve uygulamada hangi temel sorunla karşılaşmıştır?",
      "secenekler": [
-      "DGD, AB ortak tarım politikasının birebir kopyası olarak tasarlanmış ve Türkiye'nin AB üyeliği öncesinde uyum sürecini hızlandırmak amacıyla zorunlu hale getirilmiştir",
-      "DGD, destekleme fiyatlarının piyasa dengesi üzerinde tutulmasının yarattığı aşırı arzı gidermek için üretim kısıtlamasına bağlanmış; fakat çiftçiler bu kısıtlamayı defalarca ihlal etmiştir",
+      "Doğrudan gelir desteği, AB ortak tarım politikasının birebir kopyası olarak tasarlanmış ve Türkiye'nin AB üyeliği öncesindeki uyum sürecini hızlandırmak amacıyla zorunlu hâle getirilmiş, ulusal koşullar dikkate alınmamıştır",
+      "Doğrudan gelir desteği, destekleme fiyatlarının piyasa dengesinin üzerinde tutulmasının yarattığı aşırı arzı gidermek amacıyla üretim kısıtlamasına bağlanmıştır; fakat çiftçiler bu kısıtlamayı defalarca ihlal etmiş ve sistem işlememiştir",
       "DGD'nin temel mantığı, tarımsal desteklerin çevre kirliliğine yol açtığı varsayımına dayanmakta ve kirleten öder ilkesini uygulamaktadır",
       "DGD, tarımsal üretimle bağlantısız transferlerin kaynak dağılımını bozmayacağı gerekçesiyle tasarlanmış; ancak Türkiye'de arazi kayıt sisteminin yetersizliği nedeniyle hedefleme etkinliği zayıf kalmıştır",
       "DGD yalnızca ihracat yapan büyük tarım işletmelerine yönelik tasarlanmış olup küçük aile çiftçileri kapsam dışında bırakılmıştır"
@@ -494,7 +505,8 @@
       "Sabit döviz kuru, bağımsız maliye politikası ve serbest ticaret"
      ],
      "dogru": 0,
-     "aciklama": "Mundell'in imkânsız üçlü (impossible trinity / trilemma) ilkesine göre, bir ülke aynı anda üç politika hedefini birden gerçekleştiremez: (1) sabit döviz kuru, (2) bağımsız para politikası ve (3) serbest sermaye hareketleri. Bu üçten yalnızca ikisi aynı anda sağlanabilir. Örneğin, hem sabit kur hem de serbest sermaye hareketleri varsa bağımsız para politikası uygulanamaz (Hong Kong modeli). Hem sabit kur hem bağımsız para politikası varsa sermaye kontrolleri gerekir (Bretton Woods modeli)."
+     "aciklama": "Mundell'in imkânsız üçlü (impossible trinity / trilemma) ilkesine göre, bir ülke aynı anda üç politika hedefini birden gerçekleştiremez: (1) sabit döviz kuru, (2) bağımsız para politikası ve (3) serbest sermaye hareketleri. Bu üçten yalnızca ikisi aynı anda sağlanabilir. Örneğin, hem sabit kur hem de serbest sermaye hareketleri varsa bağımsız para politikası uygulanamaz (Hong Kong modeli). Hem sabit kur hem bağımsız para politikası varsa sermaye kontrolleri gerekir (Bretton Woods modeli).",
+     "zorluk": "orta"
     },
     {
      "id": "46307",
@@ -509,7 +521,8 @@
       "Tasarruf Mevduatı Sigorta Fonu"
      ],
      "dogru": 4,
-     "aciklama": "Tasarruf Mevduatı Sigorta Fonu (TMSF), bankalardaki mevduatları belirli bir limite kadar (güncel limiti 250.000 TL) sigortalayan kurumdur. Bu güvence sistemi, bankaya hücum (bank run) riskini azaltarak finansal istikrarı korumayı amaçlar. BDDK ise bankaların denetim ve düzenlemesinden sorumludur; TCMB ise para politikasını yürütür."
+     "aciklama": "Tasarruf Mevduatı Sigorta Fonu (TMSF), bankalardaki mevduatları belirli bir limite kadar (güncel limiti 250.000 TL) sigortalayan kurumdur. Bu güvence sistemi, bankaya hücum (bank run) riskini azaltarak finansal istikrarı korumayı amaçlar. BDDK ise bankaların denetim ve düzenlemesinden sorumludur; TCMB ise para politikasını yürütür.",
+     "zorluk": "orta"
     },
     {
      "id": "46182",
@@ -523,8 +536,9 @@
       "LM eğrisinin dik, IS eğrisinin dik olması durumunda",
       "LM eğrisinin dik, IS eğrisinin yatık olması durumunda"
      ],
-     "dogru": 0,
-     "aciklama": "Para politikasının reel gelir üzerindeki etkisi en az olduğu durum, yatırımların faize duyarsız olduğu (IS eğrisinin dik/dikey) ve para talebinin faize son derece duyarlı olduğu (LM eğrisinin yatay) durumdur. Ancak seçenekler arasında bu tam kombinasyon yer almamaktadır. Seçenekleri değerlendirdiğimizde: LM yatık (para talebi faize duyarlı) ve IS dik (yatırım faize duyarsız) kombinasyonu, faiz düşse bile yatırımların artmaması nedeniyle para politikasının reel geliri en az etkilediği durumdur. Çünkü faiz oranı düşse bile IS dik ise yatırım artışı ve dolayısıyla gelir artışı minimaldir."
+     "dogru": 2,
+     "aciklama": "Para politikası en etkisiz, LM yatay (likidite tuzağı) ve IS dik (faize duyarsız yatırım) iken olur; bu da “LM eğrisinin yatay, IS eğrisinin dik olması durumunda” şıkkıdır. Doğru cevap LM eğrisinin yatay, IS eğrisinin dik olması durumunda şeklindedir.",
+     "zorluk": "orta"
     },
     {
      "id": "46099",
@@ -555,7 +569,7 @@
       "İİS döneminde Türkiye'de koruma duvarları ardında gelişen sanayi, rekabet baskısından uzak kaldığından uluslararası rekabete hazır bir verimlilik düzeyine erişememiş; döviz darboğazları ve teknolojik bağımlılık ise yapısal kırılganlıkları derinleştirmiştir"
      ],
      "dogru": 4,
-     "aciklama": "İthal ikameci sanayileşme, Türkiye'de 1963 sonrası planlı dönemde uygulanmıştır. Koruma duvarları (gümrük tarifeleri, kotalar, ithal lisansları) arkasında kurulan sanayi tesisleri rekabetten uzak kaldığından X-verimsizliği (Leibenstein) yaygınlaşmıştır. Döviz darboğazları (ara malı ve sermaye malı ithalatının artmasına karşın ihracat yaratılamaması) ile teknolojik bağımlılık yapısal sorunları derinleştirmiştir. A şıkkındaki Prebisch-Singer bağlantısı kısmen doğru olmakla birlikte ölçek ekonomisi meselesindeki değerlendirme yanlıştır. D şıkkı tarihsel açıdan hatalıdır: 1980 sonrası ihracat artışı düşük maliyet ve devalüasyona dayanmış, teknoloji yoğun bir yapıya değil.",
+     "aciklama": "İİS döneminde yerli sanayi, yüksek gümrük ve kota gibi koruma duvaraları arkasında gelişti. Rekabet baskısı olmadığından verimlilik artışı ve ihracat kapasitesi sınırlı kaldı. Ara ve yatırım malı ithalatına bağımlılık döviz darboğazlarına yol açtı; teknoloji büyük ölçüde yurt dışından geldiği için teknolojik bağımlılık sürdü. Bu unsurlar 1970'lerin sonundaki kırılganlığı derinleştirdi. \"İİS, gelişmekte olan ülkelerde dış ticaret hadlerinin uzun dönemde...\" seçeneği teorik çerçeveyi doğru anar; ancak Türkiye'de küçük iç pazar sınırının etkin biçimde aşıldığını söylemesi yanlıştır, çünkü ölçek sorunu çözülememiş ve ihracat zayıf kalmıştır. \"İİS döneminin temel başarısı, Türkiye'de teknoloji yoğun sektörlerin öncülüğünde...\" seçeneği de yanlıştır; dönemde ihracat ağırlıklı olarak tarım ürünlerine dayanmıştır. Doğru cevap \"İİS döneminde Türkiye'de koruma duvarları ardında gelişen sanayi, rekabet baskısından uzak kaldığından...\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -567,11 +581,11 @@
       "Cari açık, ülkenin ürettiğinden fazlasını tükettiği anlamına gelir ve bu durum her zaman ekonomik istikrarsızlığın göstergesidir.",
       "Cari açık her zaman özel sektör borçlanmasından kaynaklanır; kamu sektörü bütçe açığının cari açıkla doğrudan ilişkisi yoktur.",
       "Çifte kayıt ilkesi gereği cari açık, sermaye ve finans hesabı fazlasıyla (artı rezerv değişimleriyle) dengelenir; bu muhasebe özdeşliği politika yargısı taşımaz, ancak ülkenin net yabancı varlık pozisyonunu olumsuz etkilemektedir.",
-      "Cari açık ile sermaye hesabı fazlası arasındaki ilişki yalnızca sabit kur rejimlerinde geçerlidir; esnek kur rejimlerinde ödemeler dengesi her zaman otomatik olarak dengelenir ve cari açık oluşmaz.",
-      "IMF metodolojisine göre tek taraflı transferler (remittances) sermaye hesabında değil, sermaye ve finans hesabında sınıflandırılır."
+      "Cari açık ile sermaye hesabı fazlası arasındaki ilişki yalnızca sabit kur rejimlerinde geçerlidir; esnek kur rejimlerinde ödemeler dengesi her koşulda otomatik olarak ve sürekli biçimde dengelenmekte, cari açık hiçbir zaman ortaya çıkmamaktadır.",
+      "IMF metodolojisine göre tek taraflı transferler (remittances) cari işlemler hesabında değil, sermaye ve finans hesabında sınıflandırılmakta ve bu sınıflandırma tüm ülkeler için aynı biçimde uygulanmaktadır."
      ],
      "dogru": 2,
-     "aciklama": "IMF BPM6 metodolojisine göre ödemeler dengesi üç ana hesaptan oluşur: Cari İşlemler Hesabı (mal ticareti, hizmetler, gelirler, transferler), Sermaye Hesabı (sermaye transferleri, patent), Finans Hesabı (doğrudan yatırım, portföy yatırımı, diğer yatırımlar). Çifte kayıt ilkesi gereği CA + KA + FA + ΔR = 0. Cari açık, sermaye ve finans hesabı fazlası + rezerv azalışı ile dengelenir. Bu bir muhasebe özdeşliğidir; politika değerlendirmesi içermez. Ancak ekonomik yorumu açısından: Cari açık, ülkenin net yabancı borçlanmasının arttığı veya net yabancı varlıklarının azaldığı anlamına gelir. A yanlış çünkü cari açık 'her zaman istikrarsızlık' değil, gelişen ekonomilerde sermaye çekmeyle ilgili olabilir. C yanlış; esnek kurda cari açık oluşabilir, sadece rezerv değişimi olmaz. D yanlış; tek taraflı transferler cari hesaptadır.",
+     "aciklama": "Ödemeler dengesinde çifte kayıt ilkesi uygulanır. Bu nedenle cari işlemler hesabındaki açık, sermaye ve finans hesabındaki net girişlerle (artı rezerv değişimleriyle) finanse edilir. Bu bir muhasebe özdeşliğidir ve kendi başına iyi ya da kötü yargısı taşımaz. Cari açığın finansmanı yabancılardan borçlanma veya yabancıların yurt içi varlık edinmesi yoluyla olduğundan ülkenin net yabancı varlık pozisyonu zayıflar. \"Cari açık, ülkenin ürettiğinden fazlasını tükettiği anlamına gelir ve bu durum her zaman ekonomik istikrarsızlığın göstergesidir.\" ifadesi yanlıştır, çünkü cari açık her zaman istikrarsızlık işareti değildir; finansman yapısı ve sürdürülebilirlik belirleyicidir. \"Cari açık her zaman özel sektör borçlanmasından kaynaklanır; kamu sektörü bütçe açığının cari açıkla doğrudan ilişkisi yoktur.\" ifadesi de yanlıştır, çünkü kamu açığı da cari açığa katkı yapabilir. Doğru cevap \"Çifte kayıt ilkesi gereği cari açık, sermaye ve finans hesabı fazlasıyla\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -581,9 +595,9 @@
      "soru": "Bir merkez bankası, enflasyonla mücadele amacıyla politika faizini artırırken eş zamanlı olarak zorunlu karşılık oranlarını düşürmektedir. Bu iki aracın birlikte kullanılmasının temel amacı aşağıdakilerden hangisi olabilir?",
      "secenekler": [
       "Faiz kanalını aktif tutarken bankacılık sisteminin likiditesini dengede tutmak",
-      "Reel faizi negatif tutarak kamu borçlanmasını kolaylaştırmak",
+      "Reel faizi negatif tutarak kamu borçlanmasını kolaylaştırmak ve ucuzlatmak ve bu yolla bütçeyi rahatlatmak",
       "Para çarpanını artırarak para arzını genişletmek",
-      "Kredi genişlemesini hızlandırarak büyümeyi desteklemek",
+      "Kredi genişlemesini hızlandırarak ekonomik büyümeyi desteklemek",
       "Döviz kurunu değer kazandırarak ithalatı ucuzlatmak"
      ],
      "dogru": 0,
@@ -598,27 +612,28 @@
      "secenekler": [
       "Altın kural düzeyinde sermayenin marjinal ürünü tasarruf oranına eşit olur.",
       "Tasarruf oranı sıfır olduğunda kişi başına tüketim maksimum olur.",
-      "Altın kural düzeyinde ekonomi her zaman dengededir ve politika müdahalesine gerek yoktur.",
-      "Kişi başına yatırım miktarı kişi başına tasarruf miktarından büyük olduğunda altın kural sağlanır.",
+      "Altın kural düzeyinde ekonomi her zaman dengededir ve herhangi bir politika müdahalesine gerek duyulmaz.",
+      "Kişi başına yatırım miktarı kişi başına tasarruf miktarından büyük olduğunda altın kural koşulu sağlanmış olur ve süreklilik kazanır.",
       "Kişi başına tüketimi maksimize eden sermaye yoğunluğu düzeyinde sermayenin marjinal ürünü nüfus büyüme oranına eşittir."
      ],
      "dogru": 4,
-     "aciklama": "Solow modelinde durağan durumda (steady state) kişi başına tüketim c* = f(k*) - (n + δ)k* ifadesinden maksimize edilir. Birinci türev alındığında f'(k*) = n + δ koşulu elde edilir; yani sermayenin marjinal ürünü (f'(k*)) nüfus büyüme oranı artı amortisman oranına (n + δ) eşit olmalıdır. Bu 'altın kural' koşuludur. Teknolojik ilerleme (g) eklendiğinde koşul f'(k*) = n + g + δ şeklini alır."
+     "aciklama": "Solow modelinde durağan durumda (steady state) kişi başına tüketim c* = f(k*) - (n + δ)k* ifadesinden maksimize edilir. Birinci türev alındığında f'(k*) = n + δ koşulu elde edilir; yani sermayenin marjinal ürünü (f'(k*)) nüfus büyüme oranı artı amortisman oranına (n + δ) eşit olmalıdır. Bu 'altın kural' koşuludur. Teknolojik ilerleme (g) eklendiğinde koşul f'(k*) = n + g + δ şeklini alır.",
+     "zorluk": "orta"
     },
     {
      "id": "46117",
      "dersId": "iktisat",
      "konuId": "mikro_i_ktisat",
-     "soru": "Bir firma hem emek (L) hem de sermaye (K) kullanmaktadır. Emek için marjinal ürün MP_L = 20, sermaye için marjinal ürün MP_K = 30'dur. Ücret w = 10 TL ve kira r = 20 TL'dir. Bu firma maliyet minimizasyonu sağlıyor mu? Sağlamıyorsa ne yapmalıdır?",
+     "soru": "Bir firma hem emek (L) hem de sermaye (K) kullanmaktadır. Emek için marjinal ürün MP«L = 20, sermaye için marjinal ürün MP»K = 30'dur. Ücret w = 10 TL ve kira r = 20 TL'dir. Bu firma maliyet minimizasyonu sağlıyor mu? Sağlamıyorsa ne yapmalıdır?",
      "secenekler": [
       "Firma maliyet minimizasyonu sağlıyor; çünkü üretim teknolojisi sabittir.",
       "Firma maliyet minimizasyonu sağlamıyor; daha fazla sermaye, daha az emek kullanmalıdır.",
-      "Firma maliyet minimizasyonu sağlıyor; çünkü MP_L/w = MP_K/r.",
+      "Firma maliyet minimizasyonu sağlıyor; çünkü MP«L/w = MP»K/r.",
       "Firma maliyet minimizasyonu sağlamıyor; daha fazla emek, daha az sermaye kullanmalıdır.",
       "Firma maliyet minimizasyonu sağlamıyor; her iki girdinin kullanımını eşit oranda artırmalıdır."
      ],
      "dogru": 3,
-     "aciklama": "Maliyet minimizasyonu koşulu: MP_L/w = MP_K/r. MP_L/w = 20/10 = 2. MP_K/r = 30/20 = 1,5. MP_L/w > MP_K/r olduğundan firma emeğin marjinal verimliliğinden görece daha fazla yararlanmaktadır. Her harcanan TL başına emek, sermayeden daha fazla çıktı üretmektedir. Bu durumda firma maliyetleri düşürmek için sermayeyi azaltıp emeği artırmalıdır. Emek arttıkça azalan marjinal verimlilik nedeniyle MP_L düşer, sermaye azaldıkça MP_K yükselir; bu süreç iki oran eşitleninceye dek devam eder. Doğru cevap B'dir.",
+     "aciklama": "Maliyet minimizasyonu koşulu: MP«L/w = MP»K/r. MP«L/w = 20/10 = 2. MP»K/r = 30/20 = 1,5. MP«L/w > MP»K/r olduğundan firma emeğin marjinal verimliliğinden görece daha fazla yararlanmaktadır. Her harcanan TL başına emek, sermayeden daha fazla çıktı üretmektedir. Bu durumda firma maliyetleri düşürmek için sermayeyi azaltıp emeği artırmalıdır. Emek arttıkça azalan marjinal verimlilik nedeniyle MP«L düşer, sermaye azaldıkça MP»K yükselir; bu süreç iki oran eşitleninceye dek devam eder. Doğru cevap: «Firma maliyet minimizasyonu sağlamıyor; daha fazla emek, daha az sermaye kullanmalıdır».",
      "zorluk": "zor"
     },
     {

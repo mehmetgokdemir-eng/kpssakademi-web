@@ -116,12 +116,12 @@
      "secenekler": [
       "Eş zamanlı geçerlikte test puanları mevcut çalışanlardan, öngörüsel geçerlikte ise adaylardan toplanır; bu durum kısıtlı dağılım (restriction of range) sorununa yol açar",
       "Eş zamanlı geçerlik daha yüksek korelasyon katsayıları ürettiğinden her zaman öngörüsel geçerliğe tercih edilir",
-      "Öngörüsel geçerlikte kriterle eş zamanlı veri toplanırken eş zamanlı geçerlikte veriler zaman içinde birbirinden bağımsız toplanır",
+      "Öngörüsel geçerlikte kriterle eş zamanlı veri toplanırken eş zamanlı geçerlikte veriler zaman içinde birbirinden bağımsız biçimde toplanır ve karşılaştırılır ve sonuçlar ayrı raporlanır",
       "Öngörüsel geçerlik yalnızca bilişsel yetenek testleri için, eş zamanlı geçerlik ise kişilik testleri için kullanılır",
       "Eş zamanlı geçerlik yasal açıdan bağlayıcı, öngörüsel geçerlik ise isteğe bağlı bir doğrulama yöntemidir"
      ],
      "dogru": 0,
-     "aciklama": "Eş zamanlı geçerlik çalışmalarında hem test hem de kriter (örn. iş performansı) verileri mevcut çalışanlardan aynı anda toplanır. Bu, araştırmayı hızlandırır ancak kritik bir sorun yaratır: mevcut çalışanlar zaten seçim süzgecinden geçmiş kişilerdir, dolayısıyla test puanlarının dağılımı kısıtlıdır (restriction of range) ve gerçek geçerlik katsayısı olduğundan düşük tahmin edilir. Öngörüsel geçerlikte ise test tüm adaylara uygulanır, işe alım kararı testten bağımsız verilir ve performans verileri ilerleyen dönemde toplanır; bu yöntem metodolojik olarak üstündür ama maliyetli ve zaman alıcıdır. D şıkkındaki tanım iki kavramı tersine çevirmektedir.",
+     "aciklama": "Eş zamanlı geçerlikte test mevcut çalışanlara uygulanır ve test puanları aynı dönemde elde edilen performans kriteriyle ilişkilendirilir. Öngörüsel geçerlikte ise test adaylara uygulanır, adaylar işe alındıktan ve belli bir süre çalıştıktan sonra performansları ölçülerek test puanlarıyla karşılaştırılır. Aradaki temel metodolojik fark örneklem ve zamanlamadır. Mevcut çalışanlar zaten elenmiş bir grup olduğu için puan dağılımı daralır; bu kısıtlı dağılım sorunu korelasyonu düşürebilir. \"Eş zamanlı geçerlik daha yüksek korelasyon katsayıları ürettiğinden her zaman öngörüsel geçerliğe tercih edilir\" seçeneği yanlıştır, çünkü böyle bir genel kural yoktur. \"Öngörüsel geçerlik yalnızca bilişsel yetenek testleri için, eş zamanlı geçerlik ise kişilik testleri için kullanılır\" seçeneği de test türüne dayalı yanlış bir ayrım yapar. Doğru cevap \"Eş zamanlı geçerlikte test puanları mevcut çalışanlardan, öngörüsel geçerlikte ise adaylardan toplanır\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -132,12 +132,13 @@
      "secenekler": [
       "C sınıfı ürünler için sıkı stok kontrolü uygulanması maliyet açısından etkin değildir.",
       "ABC analizi yalnızca hammadde stoklarına uygulanabilir, yarı mamul ve mamul stoklarında kullanılamaz.",
-      "A sınıfı ürünler toplam stok değerinin büyük bölümünü oluşturur ancak kalem sayısı azdır.",
+      "A sınıfı ürünler toplam stok değerinin büyük bölümünü oluşturur; buna karşın kalem sayısı bakımından azdır.",
       "Bu analiz Pareto ilkesine dayanmaktadır.",
       "B sınıfı ürünler A ve C sınıfları arasında orta düzeyde yönetim gerektirir."
      ],
      "dogru": 1,
-     "aciklama": "ABC analizi hammadde, yarı mamul, mamul gibi her türlü stok kalemine uygulanabilir; yalnızca hammaddeyle sınırlı değildir. Diğer şıklar doğrudur: A sınıfı az kalem-yüksek değer, C sınıfı sıkı kontrol gerektirmez, Pareto (%80-20) ilkesine dayanır ve B sınıfı orta yönetim dikkatine ihtiyaç duyar."
+     "aciklama": "ABC analizi hammadde, yarı mamul, mamul gibi her türlü stok kalemine uygulanabilir; yalnızca hammaddeyle sınırlı değildir. Diğer şıklar doğrudur: A sınıfı az kalem-yüksek değer, C sınıfı sıkı kontrol gerektirmez, Pareto (%80-20) ilkesine dayanır ve B sınıfı orta yönetim dikkatine ihtiyaç duyar.",
+     "zorluk": "orta"
     },
     {
      "id": "52423",
@@ -152,7 +153,7 @@
       "7,00"
      ],
      "dogru": 1,
-     "aciklama": "Katkı payı 640.000, FVÖK 240.000; DOL=2,667, DFL=240/80=3, DCL=8,00. Doğru cevap B) 8,00 şeklindedir.",
+     "aciklama": "Katkı payı 640.000, FVÖK 240.000; DOL=2,667, DFL=240/80=3, DCL=8,00. Doğru cevap 8,00 şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -162,8 +163,8 @@
      "soru": "Üreticinin ürünü aracısız doğrudan tüketiciye ulaştırdığı dağıtım kanalı türü aşağıdakilerden hangisidir?",
      "secenekler": [
       "Kısa kanal",
-      "Yoğun dağıtım kanalı",
-      "Dolaylı kanal",
+      "Yoğun dağıtım kanalı yapısı ve yaygın satış ağı",
+      "Dolaylı dağıtım kanalı",
       "Uzun kanal",
       "Doğrudan (sıfır kademeli) kanal"
      ],
@@ -184,7 +185,8 @@
       "Tüm kararların tek bir üst yönetici tarafından alınması gerektiği anlamına gelir; ihlali aşırı merkezileşmeye neden olur."
      ],
      "dogru": 2,
-     "aciklama": "Fayol'un 14 yönetim ilkesinden biri olan komuta birliği (unity of command), her çalışanın yalnızca bir üstünden emir alması gerektiğini öngörür. Birden fazla amirden emir alındığında çalışan hangi emre uyacağını bilemez; bu durum rol çatışmasına, önceliklerin karışmasına ve otorite boşluğuna neden olur. Matriks yapı bu ilkeyi bilinçli olarak esneten bir istisna sayılmaktadır."
+     "aciklama": "Fayol'un 14 yönetim ilkesinden biri olan komuta birliği (unity of command), her çalışanın yalnızca bir üstünden emir alması gerektiğini öngörür. Birden fazla amirden emir alındığında çalışan hangi emre uyacağını bilemez; bu durum rol çatışmasına, önceliklerin karışmasına ve otorite boşluğuna neden olur. Matriks yapı bu ilkeyi bilinçli olarak esneten bir istisna sayılmaktadır.",
+     "zorluk": "orta"
     },
     {
      "id": "52456",
@@ -192,7 +194,7 @@
      "konuId": "i_nsan_kaynaklari",
      "soru": "İşletmelerde 'iş zenginleştirme' (job enrichment) uygulamasının temel amacı nedir?",
      "secenekler": [
-      "Çalışanın farklı birimlerde rotasyon yapmasını sağlamak",
+      "Çalışanın farklı birimlerde dönüşümlü olarak rotasyon yapmasını sağlamak ve yeni görevler üstlenmesini",
       "Fiziksel çalışma koşullarını iyileştirmek",
       "Çalışanın yaptığı iş sayısını artırmak",
       "Çalışma sürelerini uzatarak verimliliği artırmak",
@@ -215,7 +217,8 @@
       "60"
      ],
      "dogru": 2,
-     "aciklama": "Üretim sürecinde sistem kapasitesi, zincirin en zayıf halkası olan darboğaz (bottleneck) istasyonunun kapasitesiyle sınırlıdır. Darboğaz istasyonu saatte 40 birim üretebilmektedir; dolayısıyla tüm sistemin etkin kapasitesi saatte 40 birimdir. Kısıtlar Teorisi (TOC) bu ilkeye dayanmaktadır."
+     "aciklama": "Üretim sürecinde sistem kapasitesi, zincirin en zayıf halkası olan darboğaz (bottleneck) istasyonunun kapasitesiyle sınırlıdır. Darboğaz istasyonu saatte 40 birim üretebilmektedir; dolayısıyla tüm sistemin etkin kapasitesi saatte 40 birimdir. Kısıtlar Teorisi (TOC) bu ilkeye dayanmaktadır.",
+     "zorluk": "orta"
     },
     {
      "id": "52352",
@@ -273,7 +276,7 @@
      "secenekler": [
       "İkisi arasında kavramsal bir fark yoktur, sadece kullanılan terimler değişmiştir",
       "Personel yönetimi stratejik bir yaklaşım benimserken, IKY operasyonel düzeyde kalır",
-      "İKY çalışanı maliyet unsuru olarak görürken, personel yönetimi çalışanı yatırım olarak değerlendirir",
+      "İKY çalışanı bir maliyet unsuru olarak görürken, personel yönetimi çalışanı uzun vadeli bir yatırım olarak değerlendirir ve gelişime kaynak ayırır",
       "İKY çalışanı stratejik bir kaynak olarak değerlendirirken, personel yönetimi daha çok idari ve operasyonel işlemlere odaklanır",
       "Personel yönetimi çalışan gelişimine önem verirken, İKY yalnızca işe alımla ilgilenir"
      ],
@@ -307,10 +310,11 @@
       "NBD yönteminde nakit akışlarının sermaye maliyetiyle yeniden yatırıma yatırıldığı, İVO yönteminde ise İVO ile yeniden yatırıma yatırıldığı varsayılır.",
       "İVO yönteminde her zaman tek bir çözüm bulunur.",
       "NBD yöntemi enflasyonu dikkate alırken İVO yöntemi almaz.",
-      "İVO yöntemi yalnızca olağan (normal) nakit akışı örüntüsüne sahip projelerde kullanılabilir."
+      "İVO yöntemi yalnızca olağan (normal) nakit akışı örüntüsüne sahip projelerde güvenle kullanılabilir. Olağan dışı nakit akışlarında birden fazla İVO ortaya çıkabilir."
      ],
      "dogru": 1,
-     "aciklama": "NBD-İVO çelişkisinin temel nedenlerinden biri yeniden yatırım oranı varsayımıdır. NBD yöntemi, ara nakit akışlarının firmanın sermaye maliyeti (k) ile yeniden yatırıma yatırıldığını varsayar. İVO yöntemi ise ara nakit akışlarının projenin kendi iç verim oranıyla yeniden yatırıma yatırıldığını varsayar. Bu farklı varsayım, özellikle uzun ömürlü projelerde farklı sıralama sonuçlarına yol açar. NBD yöntemi, yeniden yatırım varsayımı açısından daha gerçekçi kabul edilir. Cevap B'dir."
+     "aciklama": "NBD-İVO çelişkisinin temel nedenlerinden biri yeniden yatırım oranı varsayımıdır. NBD yöntemi, ara nakit akışlarının firmanın sermaye maliyeti (k) ile yeniden yatırıma yatırıldığını varsayar. İVO yöntemi ise ara nakit akışlarının projenin kendi iç verim oranıyla yeniden yatırıma yatırıldığını varsayar. Bu farklı varsayım, özellikle uzun ömürlü projelerde farklı sıralama sonuçlarına yol açar. NBD yöntemi, yeniden yatırım varsayımı açısından daha gerçekçi kabul edilir. Cevap B'dir.",
+     "zorluk": "orta"
     },
     {
      "id": "52253",
@@ -351,7 +355,7 @@
      "soru": "Toplam ödül (total rewards) yaklaşımı çerçevesinde bir IK yöneticisi, Z kuşağı çalışanların işten ayrılma eğilimini azaltmak için ücret dışı unsurları ön plana çıkarmayı planlamaktadır. Ancak bütçe kısıtı nedeniyle yalnızca bir unsur seçilebilecektir. Güncel araştırma bulgularıyla en tutarlı tercih hangisidir?",
      "secenekler": [
       "Hisse senedi opsiyon planı uygulamak",
-      "Emeklilik ve uzun vadeli finansal planlama desteği sunmak",
+      "Emeklilik ve uzun vadeli finansal planlama desteği sunmak ve bireysel emeklilik katkısı sağlamak",
       "Esnek çalışma düzenlemeleri ve psikolojik güvenlik ortamı oluşturmak",
       "Yönetici koçluğu programı başlatmak",
       "Kıdemlilik bazlı ücret artışı taahhüdü vermek"
@@ -369,8 +373,8 @@
       "Hangi ürün en fazla kâr getirmektedir?",
       "Hangi malzemeden, ne zaman, ne kadar sipariş verilmelidir?",
       "Yeni fabrika nereye kurulmalıdır?",
-      "Hangi pazarlama kanalı daha etkilidir?",
-      "Çalışanlara ne kadar ücret ödenmelidir?"
+      "Hangi pazarlama kanalı daha etkili sonuç verir?",
+      "Çalışanlara hangi dönemde, ne kadar ve hangi ölçüte göre ücret ödenmelidir?"
      ],
      "dogru": 1,
      "aciklama": "MRP (Material Requirements Planning – Malzeme İhtiyaç Planlaması), üretim planına dayanarak hangi hammadde ve bileşenin, ne zaman ve ne kadar sipariş edilmesi gerektiğini belirleyen bir sistemdir. Ana Üretim Programı (MPS) ve Ürün Ağacı (BOM) verilerini kullanır.",
@@ -385,11 +389,12 @@
       "Tüm varlıklar öz kaynakla finanse edilir; borç kullanılmaz.",
       "Sabit dönen varlıklar kısa vadeli, dalgalanan dönen varlıklar uzun vadeli kaynaklarla karşılanır.",
       "Hem dönen hem de duran varlıklar büyük ölçüde uzun vadeli kaynaklarla finanse edilir; likidite riski düşük, kârlılık da görece düşüktür.",
-      "Dönen varlıkların büyük bölümü kısa vadeli borçlarla finanse edilir; bu strateji yüksek kârlılık sağlar.",
+      "Dönen varlıkların büyük bölümü kısa vadeli borçlarla finanse edilir; bu strateji yüksek kârlılık sağlar ancak likidite riskini de artırır.",
       "Dönen varlıklar minimumda tutularak nakit dönüşüm süresi kısaltılır ve kârlılık maksimize edilir."
      ],
      "dogru": 2,
-     "aciklama": "Muhafazakâr işletme sermayesi stratejisinde dönen varlıklar yüksek tutulur ve büyük ölçüde uzun vadeli kaynaklarla finanse edilir. Bu yaklaşım likiditeyi ve güveni artırır, ancak uzun vadeli fonların maliyeti yüksek olduğundan kârlılık görece düşer. Agresif strateji ise kısa vadeli finansmanı ön plana çıkarır; kârlılığı yüksek ancak riski fazladır."
+     "aciklama": "Muhafazakâr işletme sermayesi stratejisinde dönen varlıklar yüksek tutulur ve büyük ölçüde uzun vadeli kaynaklarla finanse edilir. Bu yaklaşım likiditeyi ve güveni artırır, ancak uzun vadeli fonların maliyeti yüksek olduğundan kârlılık görece düşer. Agresif strateji ise kısa vadeli finansmanı ön plana çıkarır; kârlılığı yüksek ancak riski fazladır.",
+     "zorluk": "orta"
     },
     {
      "id": "52317",
@@ -403,8 +408,8 @@
       "CLV = 960 TL; CAC/CLV = 0,125; platform agresif büyüme stratejisi uygulayabilir",
       "CLV = 400 TL; CAC/CLV = 0,30; müşteri tutma maliyetleri düşürülmelidir"
      ],
-     "dogru": 1,
-     "aciklama": "CLV hesaplaması: CLV = (Aylık gelir × Brüt marj) / Churn oranı = (40 × 0,60) / 0,05 = 24 / 0,05 = 480 TL. CAC/CLV = 120 / 480 = 0,25. Genel kural olarak CAC/CLV oranının 1/3'ün (0,33) altında olması sürdürülebilirliğe işaret eder; bu platform bu eşiğin altındadır. Ancak aylık %5 churn oranı yüksektir; bu oran yıllık yaklaşık %46'ya karşılık gelir ve ortalama abone ömrünü 20 aya (1/0,05) sınırlar. Mevcut CAC/CLV oranı teknik olarak sürdürülebilir görünse de yüksek churn, büyüme maliyetlerini sürekli yüksek tutar. Bu nedenle D seçeneği hem doğru CLV hesabını (480 TL) hem de doğru oran yorumunu (0,25) hem de stratejik tehlikeyi (churn azaltılmadan gerçek büyüme mümkün değil) bir arada en iyi biçimde ifade etmektedir.",
+     "dogru": 0,
+     "aciklama": "CLV = (40×0,60)/0,05 = 480 TL ve CAC/CLV = 0,25 olduğundan (CLV/CAC=4) edinim maliyeti sürdürülebilirdir. Doğru cevap “CLV = 480 TL; CAC/CLV = 0,25; mevcut müşteri edinim maliyeti sürdürülebilirdir” seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -420,7 +425,7 @@
       "Girişimci yapı – doğrudan denetimle koordinasyon – stratejik tepesinin kilit rolü"
      ],
      "dogru": 2,
-     "aciklama": "Mintzberg'e göre makine bürokrasisinde standart iş süreçleriyle koordinasyon sağlanır, bu doğrudur; ancak kilit bileşen orta kademe yöneticileri değil, teknik kadro (technostructure) yani analistlerdir. Analistler süreçleri standartlaştıran iş ve yöntem uzmanlarıdır. Orta kademe yöneticiler bölümlü yapının kilit bileşenidir. Bu eşleştirme yanlış olduğundan doğru yanıt A'dır.",
+     "aciklama": "Mintzberg'e göre makine bürokrasisinde standart iş süreçleriyle koordinasyon sağlanır, bu doğrudur; ancak kilit bileşen orta kademe yöneticileri değil, teknik kadro (technostructure) yani analistlerdir. Analistler süreçleri standartlaştıran iş ve yöntem uzmanlarıdır. Orta kademe yöneticiler bölümlü yapının kilit bileşenidir. Doğru cevap: «Makine bürokrasisi – standart iş süreçleriyle koordinasyon – orta kademe yöneticilerinin kilit rolü».",
      "zorluk": "zor"
     },
     {
@@ -452,7 +457,7 @@
       "FMS, grup teknolojisiyle benzer parça ailelerini işlemede yüksek verim sağlar."
      ],
      "dogru": 1,
-     "aciklama": "FMS (Esnek Üretim Sistemi) hakkındaki ifadeleri değerlendirelim: A doğru; FMS orta seri üretimde etkilidir, tam seri veya tek parça üretimde avantajı azalır. B doğru; FMS tanımı gereği otomatik malzeme taşıma ve CNC makinelerin entegrasyonunu içerir. C doğru; grup teknolojisi ve FMS birbirini tamamlar. E doğru; FMS'nin en önemli özelliği esnekliktir (rota esnekliği, ürün esnekliği, miktar esnekliği). D YANLIŞTIR; FMS'nin birim maliyetleri hacimden bağımsız sabit tutması doğru değildir. FMS yüksek sabit yatırım maliyeti gerektirir; düşük hacimlerde birim maliyet yüksek olabilir. FMS'nin avantajı maliyet sabitleme değil, esneklik ve hazırlık süresi azaltmasıdır. Doğru yanıt D'dir.",
+     "aciklama": "FMS, otomatik malzeme taşıma sistemiyle bağlı CNC işleme merkezlerinden oluşur. Küçük ve orta parti üretimde, ürün karması değişse bile yüksek esneklik sağlar. Grup teknolojisiyle benzer parça aileleri üzerinde verimli çalışır. Ancak FMS yüksek yatırım maliyetli bir sistemdir ve birim maliyet hacimden bağımsız sabit kalmaz. Sabit maliyetler daha fazla birime yayıldıkça birim maliyet düşer. FMS'nin asıl avantajı esneklik, kısa hazırlık süresi ve karma üretim yeteneğidir. \"FMS, küçük ve orta büyüklükteki parti üretiminde özellikle etkindir.\" ifadesi doğrudur. \"FMS, ürün karması değişikliklerine hızla uyum sağlayabildiği için karma esneklik sunar.\" ifadesi de doğrudur. Doğru cevap \"FMS'nin en temel avantajı, ürün hacminden bağımsız olarak birim maliyetleri sabit tutmasıdır.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -509,14 +514,15 @@
      "konuId": "i_nsan_kaynaklari",
      "soru": "Bir işletme, işe alım sürecinde yapılandırılmış mülakat yerine yapılandırılmamış mülakat tercih etmektedir. Bu tercihin aday seçim sürecine en muhtemel olumsuz etkisi aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Adayların işle ilgili yetkinliklerini sergileme fırsatının azalması",
+      "Adayların işle ilgili yetkinliklerini sergileme fırsatının belirgin biçimde azalması",
       "Aday havuzunun daraltılması",
       "İşletmenin işe alım maliyetlerinin artması",
       "Değerlendiriciler arası güvenilirliğin düşmesi ve önyargılara açık kapı bırakılması",
-      "Aday başına değerlendirme süresinin kısalması"
+      "Aday başına ayrılan değerlendirme süresinin kısalması"
      ],
      "dogru": 3,
-     "aciklama": "Yapılandırılmamış mülakatlar, adayların farklı sorularla değerlendirilmesine yol açarak değerlendiriciler arası güvenilirliği (interrater reliability) düşürür. Aynı zamanda mülakatçının bilinçdışı önyargılarına (benzerlik etkisi, halo etkisi, ilk izlenim hatası vb.) daha fazla alan tanır. Yapılandırılmış mülakatlar ise aynı soruları standart biçimde uygulayarak hem geçerlilik hem de güvenilirliği artırdığı meta-analizlerle gösterilmiştir."
+     "aciklama": "Yapılandırılmamış mülakatlar, adayların farklı sorularla değerlendirilmesine yol açarak değerlendiriciler arası güvenilirliği (interrater reliability) düşürür. Aynı zamanda mülakatçının bilinçdışı önyargılarına (benzerlik etkisi, halo etkisi, ilk izlenim hatası vb.) daha fazla alan tanır. Yapılandırılmış mülakatlar ise aynı soruları standart biçimde uygulayarak hem geçerlilik hem de güvenilirliği artırdığı meta-analizlerle gösterilmiştir.",
+     "zorluk": "orta"
     },
     {
      "id": "52161",
@@ -524,7 +530,7 @@
      "konuId": "uretim",
      "soru": "Kalite yönetiminde 'Pareto analizi' hangi amaçla kullanılır?",
      "secenekler": [
-      "Üretim maliyetlerini departmanlara göre dağıtmak",
+      "Üretim maliyetlerini departmanlara ve süreçlere göre dağıtmak ve birim başına dağıtmak",
       "Üretim süreçlerindeki zaman kayıplarını ölçmek",
       "Sorunların büyük çoğunluğuna neden olan az sayıdaki faktörü belirlemek",
       "Çalışanların performansını sıralamak",
@@ -579,7 +585,7 @@
       "Görevlerin standartlaştırılabilir ve rutin olduğu durumlarda"
      ],
      "dogru": 2,
-     "aciklama": "Mintzberg beş koordinasyon mekanizması tanımlar: karşılıklı uyum, doğrudan denetim, süreç standardizasyonu, çıktı standardizasyonu ve beceri standardizasyonu. 'Doğrudan denetim', tek bir yöneticinin işleri koordine ettiği, örgütün küçük ve görece basit olduğu basit yapılarda (simple structure) en uygun mekanizmadır. Karmaşık ve belirsiz görevlerde karşılıklı uyum, rutin görevlerde süreç standardizasyonu, profesyonel yapılarda beceri standardizasyonu daha uygundur. Yatay birleşme sonrası örgütün küçük kalması koşulunda doğrudan denetim rasyoneldir. Soruda B seçeneği bu koşulu en doğru tanımlamaktadır.",
+     "aciklama": "Mintzberg'e göre doğrudan denetim, koordinasyonun tek bir yöneticinin emir ve talimatlarıyla sağlandığı mekanizmadır ve basit yapının temel koordinasyon aracıdır. Bu mekanizma, yöneticinin tüm çalışanları bizzat izleyebildiği küçük, basit ve az sayıda çalışandan oluşan örgütlerde etkili ve rasyoneldir. Örgüt büyüdükçe tek kişinin denetim kapasitesi yetersiz kalır ve standartlaştırmaya geçilir. \"Görevlerin standartlaştırılabilir ve rutin olduğu durumlarda\" seçeneği sık karıştırılır, ancak rutin görevler Mintzberg'de iş süreçlerinin standartlaştırılmasıyla, yani makine bürokrasisiyle ilişkilidir. \"Görevlerin son derece karmaşık, belirsiz ve birbirine sıkı sıkıya bağımlı olduğu durumlarda\" seçeneği ise tam tersine karşılıklı uyumun ve adhokrasinin koşuludur. Soru kökündeki birleşme kurgusu, sorulan koşulun Mintzberg çerçevesindeki karşılığını değiştirmez. Doğru cevap \"Örgütün küçük, basit ve az sayıda çalışandan oluştuğu durumlarda\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -611,7 +617,7 @@
       "Mevcut durum haritası çizildikten sonra gelecek durum haritası oluşturularak iyileştirme planı yapılır."
      ],
      "dogru": 2,
-     "aciklama": "D seçeneği yanlıştır: Yalın üretimde 'değer katmayan' (israf/muda) faaliyetlerin başında süreç içi stoklar (WIP) ve bekleme süreleri gelir. Ohno'nun 7 israfı arasında 'fazla stok' ve 'bekleme' doğrudan yer almaktadır. Bu faaliyetler değer katan değil, değer katmayan ve elimine edilmesi hedeflenen unsurlardır. Diğer şıklar doğrudur: Takt time = Kullanılabilir üretim süresi / Müşteri talebi (E doğru); hem malzeme hem bilgi akışı haritalanır (C doğru); mevcut→gelecek durum haritası sırası doğrudur (B doğru).",
+     "aciklama": "Değer akış haritalamada faaliyetler değer katan, değer katmayan ama gerekli olan ve israf olarak ayrılır. Süreç içi stoklar (WIP) ve bekleme süreleri müşterinin ödemeye razı olduğu bir dönüşüm sağlamaz; bu yüzden değer katan faaliyet değil, israf unsurudur. Bu nedenle ilgili ifade yanlıştır. Diğer ifadeler doğrudur: malzeme ve bilgi akışı haritada birlikte gösterilir, mevcut durum haritasının ardından gelecek durum haritası çizilir. \"Takt time, mevcut üretim süresinin müşteri talebine bölünmesiyle hesaplanır ve üretim ritmi için referans değer olarak kullanılır.\" ifadesi ise terimsel olarak daha doğru söylenirse mevcut kullanılabilir üretim süresinin müşteri talebine bölünmesi anlamına gelir ve bu haliyle kabul edilebilir. Doğru cevap \"Süreç içi stoklar (WIP) ve bekleme süreleri değer katan faaliyetler arasında yer alır.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -627,7 +633,8 @@
       "%5,32"
      ],
      "dogru": 3,
-     "aciklama": "Fisher denklemi: (1 + nominal faiz) = (1 + reel faiz) × (1 + enflasyon). 1,15 = (1 + r) × 1,08. (1 + r) = 1,15 / 1,08 ≈ 1,0648. r ≈ %6,48. Basit hesapla (15 - 8 = 7) bulunan %7, Fisher denkleminin tam çözümü değildir; doğru yaklaşım Fisher formülüyle elde edilen %6,48'dir."
+     "aciklama": "Fisher denklemi: (1 + nominal faiz) = (1 + reel faiz) × (1 + enflasyon). 1,15 = (1 + r) × 1,08. (1 + r) = 1,15 / 1,08 ≈ 1,0648. r ≈ %6,48. Basit hesapla (15 - 8 = 7) bulunan %7, Fisher denkleminin tam çözümü değildir; doğru yaklaşım Fisher formülüyle elde edilen %6,48'dir.",
+     "zorluk": "orta"
     },
     {
      "id": "52259",
