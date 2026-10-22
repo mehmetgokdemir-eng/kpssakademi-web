@@ -47,6 +47,9 @@ export function geriSayim(hedef, simdi = Date.now()) {
 
 export const cx = (...a) => a.filter(Boolean).join(' ')
 
+/** « » altı çizgi işaretlerini metinden temizler (sesli okuma, arama vb. için). */
+export const sadeMetin = (m = '') => String(m).replace(/[«»]/g, '')
+
 /** Metindeki #etiketleri ayırır. */
 export function etiketAyir(metin = '') {
   const etiketler = metin.match(/#[\wçğıöşüÇĞİÖŞÜ]+/g) || []

@@ -1,8 +1,9 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
-import { cx, HARFLER, harf, karistir, harfleriEsle } from '../lib/utils.js'
+import { cx, HARFLER, harf, karistir, harfleriEsle, sadeMetin } from '../lib/utils.js'
 import { useSettings } from '../lib/settings.jsx'
 import { IconBookmark, IconNote, IconSpeaker, IconCheck, IconWrong } from './Icons.jsx'
 import SoruBildir from './SoruBildir.jsx'
+import Metin from './Metin.jsx'
 import { oku } from '../lib/tts.js'
 import { Modal } from './UI.jsx'
 
@@ -81,7 +82,7 @@ export default function SoruKarti({
           {settings.tts && (
             <button
               className="rounded-lg p-1.5 text-ink-400 hover:bg-ink-100 dark:hover:bg-white/10"
-              onClick={() => oku(`${soru.soru}. ${secenekler.map((s, i) => `${harf(i)} şıkkı: ${s}`).join('. ')}`, { hiz: settings.ttsHiz })}
+              onClick={() => oku(sadeMetin(`${soru.soru}. ${secenekler.map((s, i) => `${harf(i)} şıkkı: ${s}`).join('. ')}`), { hiz: settings.ttsHiz })}
               aria-label="Soruyu sesli oku"
             >
               <IconSpeaker size={18} />
@@ -109,7 +110,9 @@ export default function SoruKarti({
       </div>
 
       <div className="card p-4 sm:p-5">
-        <p className="whitespace-pre-line text-[15px] font-medium leading-relaxed sm:text-base">{soru.soru}</p>
+        <p className="whitespace-pre-line text-[15px] font-medium leading-relaxed sm:text-base">
+          <Metin>{soru.soru}</Metin>
+        </p>
 
         {soru.gorsel && <img src={soru.gorsel} alt="" className="mt-3 max-h-64 w-full rounded-xl object-contain" loading="lazy" />}
 
@@ -146,7 +149,9 @@ export default function SoruKarti({
                 >
                   {dogruSik ? <IconCheck size={15} /> : yanlisSik ? <IconWrong size={15} /> : harf(i)}
                 </span>
-                <span className="pt-0.5 leading-relaxed">{sec}</span>
+                <span className="pt-0.5 leading-relaxed">
+                  <Metin>{sec}</Metin>
+                </span>
               </button>
             )
           })}
@@ -163,7 +168,11 @@ export default function SoruKarti({
               )}
             >
               <p className="font-bold">{dogruMu ? 'Doğru!' : `Yanlış — doğru cevap ${harf(dogruIndeks)}`}</p>
-              {settings.aciklamaGoster && aciklama && <p className="mt-1.5 leading-relaxed opacity-90">{aciklama}</p>}
+              {settings.aciklamaGoster && aciklama && (
+                <p className="mt-1.5 leading-relaxed opacity-90">
+                  <Metin>{aciklama}</Metin>
+                </p>
+              )}
               {settings.aciklamaGoster && aciklama && (
                 <p className="mt-2 text-[11px] opacity-70">
                   Soru ve açıklama yapay zekâ ile hazırlanıp denetlendi; yine de hata olabilir. Yanlış gördüysen

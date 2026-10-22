@@ -7,6 +7,7 @@ import { cx, harf, karistir, sayi } from '../lib/utils.js'
 import { Bos, Hata, Ilerleme, Yukleniyor, Rozet } from '../components/UI.jsx'
 import { Baslik } from '../components/Layout.jsx'
 import { IconCheck, IconWrong, IconBookmark, IconChevron, IconFlame } from '../components/Icons.jsx'
+import Metin from '../components/Metin.jsx'
 
 /* Hızlı Çalışma — Android'deki HizliCalismaActivity'nin karşılığı.
  *
@@ -159,7 +160,9 @@ export default function HizliCalisma() {
       </div>
 
       <div className="card mb-3 p-4">
-        <p className="text-[15px] font-medium leading-relaxed">{soru.soru}</p>
+        <p className="text-[15px] font-medium leading-relaxed">
+          <Metin>{soru.soru}</Metin>
+        </p>
       </div>
 
       <div className="space-y-2">
@@ -183,7 +186,9 @@ export default function HizliCalisma() {
               <span className="grid h-6 w-6 shrink-0 place-items-center rounded-lg bg-ink-100 text-xs font-extrabold text-ink-500 dark:bg-white/10 dark:text-ink-300">
                 {harf(ix)}
               </span>
-              <span className="flex-1 text-[14px] leading-relaxed">{s}</span>
+              <span className="flex-1 text-[14px] leading-relaxed">
+                <Metin>{s}</Metin>
+              </span>
               {dogruSik && <IconCheck size={17} className="shrink-0 text-emerald-600" />}
               {secildi && !sonuc?.dogru && <IconWrong size={17} className="shrink-0 text-red-500" />}
             </button>
@@ -194,7 +199,9 @@ export default function HizliCalisma() {
       {sonuc && aciklamaAcik && soru.aciklama && (
         <div className="card mt-3 border-l-4 !border-l-brand-500 p-4">
           <p className="text-[13px] font-semibold uppercase tracking-wide text-brand-600 dark:text-brand-400">Açıklama</p>
-          <p className="mt-1.5 whitespace-pre-line text-[14px] leading-relaxed">{soru.aciklama}</p>
+          <p className="mt-1.5 whitespace-pre-line text-[14px] leading-relaxed">
+            <Metin>{soru.aciklama}</Metin>
+          </p>
         </div>
       )}
 

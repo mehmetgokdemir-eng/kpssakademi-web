@@ -2,7 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { getDersler, getSorular } from '../lib/data.js'
 import { useProgress } from '../lib/hooks.js'
-import { cx, sayi } from '../lib/utils.js'
+import { cx, sayi, sadeMetin } from '../lib/utils.js'
 import { Bos, Rozet, Yukleniyor } from '../components/UI.jsx'
 import { Baslik } from '../components/Layout.jsx'
 import { IconSearch, IconClose, IconCheck, IconWrong } from '../components/Icons.jsx'
@@ -170,7 +170,7 @@ export default function Arama() {
                       className="card block p-3.5 transition hover:border-brand-400"
                     >
                       <p className="text-[14px] font-medium leading-relaxed">
-                        <Vurgu metin={s.soru} terim={terim.length >= 3 ? terim : ''} />
+                        <Vurgu metin={sadeMetin(s.soru)} terim={terim.length >= 3 ? terim : ''} />
                       </p>
                       <div className="mt-2 flex flex-wrap items-center gap-1.5">
                         <Rozet renk="gri">{s.zorluk || 'orta'}</Rozet>

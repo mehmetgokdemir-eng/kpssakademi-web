@@ -6,6 +6,7 @@ import { tarihFormat } from '../lib/utils.js'
 import { Yukleniyor, Hata, Bos, Modal } from '../components/UI.jsx'
 import { Baslik, TemaButonu } from '../components/Layout.jsx'
 import SoruKarti from '../components/SoruKarti.jsx'
+import Metin from '../components/Metin.jsx'
 import { IconWrong, IconBookmark, IconNote, IconRefresh, IconChevron } from '../components/Icons.jsx'
 
 const META = {
@@ -125,7 +126,9 @@ export default function Listeler({ tur }) {
               {ix + 1}
             </span>
             <div className="min-w-0 flex-1">
-              <p className="line-clamp-2 text-sm">{s.soru}</p>
+              <p className="line-clamp-2 text-sm">
+                <Metin>{s.soru}</Metin>
+              </p>
               <p className="mt-1 text-[11px] text-ink-400">{veri.adlar[s.dersId] || s.dersId}</p>
               {tur === 'notlar' && p.notlar[s.id] && (
                 <p className="mt-1.5 rounded-lg bg-amber-50 px-2.5 py-1.5 text-[11px] text-amber-800 dark:bg-amber-500/10 dark:text-amber-300">
