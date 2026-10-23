@@ -272,22 +272,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "38022",
-  "dersId": "turkce",
-  "konuId": "sozcukte_anlam",
-  "soru": "Aşağıdaki cümlelerin hangisinde 'yemek' sözcüğü ad (isim) olarak kullanılmıştır?",
-  "secenekler": [
-   "Her gün düzenli yemek sağlıklı olmayı sağlar.",
-   "Kış gelince daha çok yemek isteriz.",
-   "Masa üzerindeki yemek soğumuş.",
-   "Yemek yemeyi çok seviyorum.",
-   "Yemek için erken kalkmak gerekir."
-  ],
-  "dogru": 2,
-  "aciklama": "İsim, varlıkları karşılayan sözcüktür. \"Masa üzerindeki yemek soğumuş.\" cümlesinde 'yemek', 'masa üzerindeki' sözüyle nitelenmiş, soğuyan bir nesneyi, yani pişirilmiş yiyeceği bildirir; bu yüzden addır. Diğer cümlelerde 'yemek' eylemdir: \"Yemek yemeyi çok seviyorum.\" cümlesinde 'yemek' mastar biçimindedir ve eylem anlamı taşır. \"Kış gelince daha çok yemek isteriz.\" cümlesinde de yeme eylemi söz konusudur. Doğru cevap \"Masa üzerindeki yemek soğumuş.\" seçeneğidir.",
-  "zorluk": "kolay"
- },
- {
   "id": "38023",
   "dersId": "turkce",
   "konuId": "sozcukte_anlam",
@@ -971,7 +955,7 @@
    "Sert rüzgâr güçlü ağacı devirir.",
    "Taş düştüğü yerde ağırdır."
   ],
-  "dogru": 0,
+  "dogru": 4,
   "aciklama": "Soruda 'taş' sözcüğünün gerçek taşı değil, mecazi bir anlamı anlattığı atasözü aranıyor. \"Üstüne taş bas, unut gitsin.\" atasözünde taş, bir olayın üzerine kapatılan, onu gömen bir şeydir; 'üstüne taş basmak' konuyu kapatıp unutmak anlamına gelir, dolayısıyla mecazdır. \"Taş düştüğü yerde ağırdır.\" atasözünde ise taş, ağırlığıyla bilinen bir nesne olarak anılır. Ayrıca \"Taşıma su ile değirmen dönmez.\" atasözünde 'taş' sözcüğü bulunmaz; 'taşıma' sözcüğü taşımak fiilinden gelir. Doğru cevap \"Üstüne taş bas, unut gitsin.\" seçeneğidir.",
   "zorluk": "orta"
  },
@@ -1085,22 +1069,6 @@
   ],
   "dogru": 3,
   "aciklama": "\"Bağdaşmak\", iki şeyin birbiriyle uyuşması, uyum içinde olması anlamına gelir. Verilen açıklama ise zıtlık ve çelişkiyi anlatıyor; bu, \"bağdaşmamak\" için söylenebilecek bir tanımdır. Bu nedenle eşleştirme yanlıştır. \"Depreşmek\" için verilen açıklama doğrudur: eski bir yaranın veya sıkıntının yeniden azması, ortaya çıkması demektir. \"Savsaklamak\" için verilen açıklama da doğrudur: bir işi ihmal etmek veya erteleyip oyalamak anlamına gelir. Doğru cevap \"Bağdaşmak: İki şeyin zıt ya da çelişkili biçimde yan yana bulunması\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "38082",
-  "dersId": "turkce",
-  "konuId": "sozcukte_anlam",
-  "soru": "Aşağıdaki cümlelerin hangisinde anlam belirsizliği, sözcüğün birden fazla anlama gelmesinden değil, cümlenin söz dizimsel yapısından kaynaklanmaktadır?",
-  "secenekler": [
-   "Kapı açık.",
-   "Müdür öğretmenleri toplantıya çağırdı.",
-   "Bu bardak kırıktır.",
-   "O kitap güzeldir.",
-   "Delikanlı yazar gibi konuşuyordu."
-  ],
-  "dogru": 1,
-  "aciklama": "\"Müdür öğretmenleri toplantıya çağırdı.\" cümlesindeki belirsizlik tek bir sözcüğün çok anlamlı olmasından değil, sözcüklerin cümledeki bağlanış biçiminden doğar. \"Müdür\" özne, \"öğretmenleri\" nesne olabilir; ya da \"müdür öğretmenleri\" tek bir öbek olarak anlaşılabilir. Bu söz dizimsel (yapısal) bir belirsizliktir. \"Kapı açık.\" cümlesinde belirsizlik \"açık\" sözcüğünün çok anlamlılığından kaynaklanır. \"Bu bardak kırıktır.\" cümlesinde de belirsizlik \"kırık\" sözcüğünün anlamıyla ilgilidir; yapı belirsiz değildir. Doğru cevap \"Müdür öğretmenleri toplantıya çağırdı.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -1469,22 +1437,6 @@
   ],
   "dogru": 3,
   "aciklama": "Sebep-sonuç ilişkisinde bir eylem diğerinin nedenini oluşturur. \"Hava soğuk olduğundan\", \"çok yemek yediği için\", \"yorgun olduğu için\" ve \"yağmur yağdığından\" ifadelerinin hepsi bir neden bildirir; ardından gelen yargı bu nedenin sonucudur. \"Kitabı bitirince arkadaşına verecek.\" cümlesindeki \"-ince\" eki ise zaman bildirir; kitabı bitirmek, arkadaşına vermenin nedeni değil, zamansal öncülüdür. Bu yüzden \"Yağmur yağdığından maç iptal edildi.\" gibi seçenekler sebep-sonuç içerdiği için doğru değildir. Doğru cevap \"Kitabı bitirince arkadaşına verecek.\" seçeneğidir.",
-  "zorluk": "kolay"
- },
- {
-  "id": "38115",
-  "dersId": "turkce",
-  "konuId": "cumlede_anlam",
-  "soru": "Aşağıdaki cümlelerin hangisinde 'ama' bağlacı, beklenmedik bir durumu ifade etmektedir?",
-  "secenekler": [
-   "Akıllıdır ama tembel.",
-   "Eve gitti ama uyumadı.",
-   "Zengindir ama hiç mutlu değildir.",
-   "Söz verdi ama gelmedi.",
-   "Çok çalıştı ama sınavı geçemedi."
-  ],
-  "dogru": 4,
-  "aciklama": "Beklenmedik durum bildiren \"ama\", önceki yargıdan çıkarılabilecek sonucun gerçekleşmediğini gösterir. \"Çok çalıştı\" denince sınavı geçmesi beklenir; \"sınavı geçemedi\" bu beklentiyi bozar. \"Söz verdi ama gelmedi.\" cümlesi de benzer görünse de burada asıl vurgu sözünü tutmamadır; en belirgin beklenti çatışması çalışma-başarısızlık örneğindedir. \"Akıllıdır ama tembel.\" ise iki özelliği karşılaştırır, \"Eve gitti ama uyumadı.\" ise olağan bir durumu bildirir. Doğru cevap \"Çok çalıştı ama sınavı geçemedi.\" seçeneğidir.",
   "zorluk": "kolay"
  },
  {
@@ -1883,7 +1835,7 @@
    "Sen de onunla aynı fikirdesin demek.",
    "Öyle bir güldü ki gözyaşları da aktı."
   ],
-  "dogru": 2,
+  "dogru": 4,
   "aciklama": "E'deki 'da' dahi/bile anlamındadır; pekiştirme işlevi, tekrarlanarak 'hem...hem' anlamı katan “Hava da güzeldi, yol da açıktı.” seçeneğindedir. Doğru cevap Hava da güzeldi, yol da açıktı şeklindedir.",
   "zorluk": "kolay"
  },
@@ -2192,22 +2144,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "38164",
-  "dersId": "turkce",
-  "konuId": "cumlede_anlam",
-  "soru": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük cümlede 'araç' anlamı taşımaktadır?",
-  "secenekler": [
-   "Kitap «okuyarak» geçirdiği saatler en huzurluydu.",
-   "Sert bir dille «konuşarak» karşısındakini susturdu.",
-   "Sabah erkenden «kalkarak» işe yetişmeyi başardı.",
-   "«Gülerek» kapıdan içeri girdi.",
-   "Trene «binerek» şehrin karşı yakasına geçtik."
-  ],
-  "dogru": 4,
-  "aciklama": "'Trene binerek' karşı yakaya geçmenin aracını bildirir; B'deki 'sert bir dille konuşarak' ise eylemin durumunu/biçimini anlatır. Doğru cevap Trene binerek şehrin karşı yakasına geçtik şeklindedir.",
-  "zorluk": "orta"
- },
- {
   "id": "38166",
   "dersId": "turkce",
   "konuId": "cumlede_anlam",
@@ -2432,22 +2368,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "38183",
-  "dersId": "turkce",
-  "konuId": "cumlede_anlam",
-  "soru": "Aşağıdaki cümlelerin hangisinde 'de/da' bağlacının çıkarılması, cümlenin anlamını değiştirir?",
-  "secenekler": [
-   "Güzel de olsa bu kadar pahalı olmasa daha iyi olurdu.",
-   "Akşam eve geldim, üstelik çok yorgun da düştüm. Neyse ki sabah dinlenmiştim.",
-   "Çocuklar da bahçede oynuyor.",
-   "O da bilmiyormuş zaten.",
-   "Sen de bu işe katılacak mısın?"
-  ],
-  "dogru": 0,
-  "aciklama": "'De/da' kimi yapılarda bağlaç değil, cümlenin anlam yapısının parçasıdır. \"Güzel de olsa bu kadar pahalı olmasa daha iyi olurdu.\" cümlesinde \"de olsa\" kalıbı \"güzel olsa bile\" anlamında karşıtlık ve ödün kurar. \"De\" çıkarılırsa \"Güzel olsa bu kadar pahalı olmasa daha iyi olurdu.\" cümlesi kalır. Bu cümlede güzelliği karşıt bir bakışla değerlendirme anlamı kaybolur ve cümlenin anlamı bozulur. \"Akşam eve geldim, üstelik çok yorgun da düştüm.\" cümlesinde \"de\" yalnızca vurgu katar, çıkarılınca temel anlam korunur. \"Sen de bu işe katılacak mısın?\" gibi cümlelerde \"de\" yalnızca \"sen de\" diyerek ekleme yapar. Doğru cevap \"Güzel de olsa bu kadar pahalı olmasa daha iyi olurdu.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
   "id": "38184",
   "dersId": "turkce",
   "konuId": "cumlede_anlam",
@@ -2651,7 +2571,7 @@
    "O da en az senin kadar çalışmış.",
    "Herkes bu işi onun yaptığını sanıyor."
   ],
-  "dogru": 3,
+  "dogru": 4,
   "aciklama": "Soruda yüzeyde olumlu görünen ama bağlamda olumsuz yargı bildiren cümle aranıyor. \"O da en az senin kadar çalışmış.\" cümlesi biçim olarak olumludur; ancak \"en az senin kadar\" kalıbı, karşıdakinin çalışmasının düşük olduğunu ima ederek bir eleştiri ya da küçümseme çağrıştırabilir. Bu da ancak bağlamla anlaşılır. \"Kimse onun kadar güzel konuşamaz.\" ve \"Bu şiiri ancak onun kadar derin biri anlayabilir.\" cümleleri ise açıkça över. \"Yıllarca emek vermiş, sonunda başaramamış.\" cümlesi zaten yüzeyde de olumsuzdur. Doğru cevap \"O da en az senin kadar çalışmış.\" seçeneğidir.",
   "zorluk": "zor"
  },
@@ -3280,22 +3200,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "38240",
-  "dersId": "turkce",
-  "konuId": "deyim_ve_atasozleri",
-  "soru": "Aşağıdaki cümlelerin hangisinde 'kılı kırk yarmak' deyimi, verilen anlamıyla kullanılmıştır?",
-  "secenekler": [
-   "Usta terzi, kumaşı kılı kırk yarak keserdi.",
-   "Müdür, raporları kılı kırk yararcasına inceleyip her ayrıntıyı kayıt altına aldı.",
-   "Sınava hazırlanırken kılı kırk yarmak yerine konulara genel bakış açısıyla yaklaşmalısın.",
-   "Çocuklar tartışırken kılı kırk yardılar ve saatlerce konuştular.",
-   "Kılı kırk yaran bu adam, sonunda herkesi yordu."
-  ],
-  "dogru": 1,
-  "aciklama": "\"Kılı kırk yarmak\", bir işte aşırı derecede ayrıntıya girmek, en küçük noktayı bile titizlikle incelemek demektir. \"Müdür, raporları kılı kırk yararcasına inceleyip her ayrıntıyı kayıt altına aldı.\" cümlesinde inceleme ve her ayrıntıyı kaydetme, deyimin bu anlamına tam uyar. \"Usta terzi, kumaşı kılı kırk yarak keserdi.\" cümlesinde de titizlik vardır ancak deyim daha çok inceleme ve tartışma bağlamında kullanılır. \"Çocuklar tartışırken kılı kırk yardılar ve saatlerce konuştular.\" cümlesinde ise ayrıntıya girmekten çok uzun konuşma vurgulanmıştır. Doğru cevap \"Müdür, raporları kılı kırk yararcasına inceleyip her ayrıntıyı kayıt altına aldı.\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
   "id": "38242",
   "dersId": "turkce",
   "konuId": "deyim_ve_atasozleri",
@@ -3456,22 +3360,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "38253",
-  "dersId": "turkce",
-  "konuId": "deyim_ve_atasozleri",
-  "soru": "Aşağıdaki cümlelerin hangisinde 'tuz biber ekmek' deyimi anlamına uygun kullanılmıştır?",
-  "secenekler": [
-   "Yemeğe tuz biber ekince lezzeti arttı.",
-   "Mutfakta tuz biber ekmeyi unutunca yemeği berbat etti.",
-   "Küçük bir hata yaparken bir de üstüne yalan söyleyince arkadaşı ona tuz biber ekti.",
-   "Tuz biber ekmeden önce durumu iyice değerlendirdi.",
-   "Annesi, çocuğa tuz biber ekmemek için sert davranmaktan özellikle kaçındı ve hiç sesini yükseltmedi."
-  ],
-  "dogru": 2,
-  "aciklama": "\"Tuz biber ekmek\" deyimi, kötü olan bir durumu daha kötü hale getirmek, olayı ağırlaştırmak anlamına gelir. Küçük bir hata yapan kişinin bir de yalan söyleyerek durumu daha da kötüleştirmesi bu anlamla uyuşur. Diğer cümlelerde \"tuz biber ekmek\" yemeğe baharat katmak anlamında, yani gerçek anlamıyla kullanılmıştır. \"Yemeğe tuz biber ekince lezzeti arttı.\" cümlesi en çok karıştırılan seçenektir. Ancak orada yemeğin tadı güzelleşmiştir, durum kötüleşmemiştir. \"Annesi, çocuğa tuz biber ekmemek için sert davranmaktan özellikle kaçındı.\" cümlesi de deyimi anlamına uygun kullanmaz. Doğru cevap \"Küçük bir hata yaparken bir de üstüne yalan söyleyince arkadaşı ona tuz biber ekti.\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
   "id": "38254",
   "dersId": "turkce",
   "konuId": "deyim_ve_atasozleri",
@@ -3547,7 +3435,7 @@
    "Bir aydınlatma uzmanının evindeki lambaların büyük bölümünün yanmaması.",
    "Ülke dışında çok tanınan bir bilim insanının kendi şehrinde takdir görmemesi."
   ],
-  "dogru": 3,
+  "dogru": 4,
   "aciklama": "\"Mum dibine ışık vermez.\" atasözü, yakınındakilere yararı dokunmayan ya da en çok yakınlarına ihtiyaç duyulan yerde yardımı esirgeyen kişiler için kullanılır. Kendi çocuğuna vakit ayıramayan öğretmen, kendi sorunlarını çözemeyen yardımsever kişi ve kendi şehrinde takdir görmeyen bilim insanı bu duruma örnektir. Annenin kendi ihtiyaçlarını ihmal etmesi de bu çerçeveye girer. Aydınlatma uzmanının evindeki lambaların yanmaması ise sözcük anlamıyla ışık meselesidir. Burada bir kişinin yakınına yararı değil, kendi evindeki bir aksaklık söz konusudur. Bu yüzden atasözünü örneklendirmek için kullanılamaz. Doğru cevap \"Bir aydınlatma uzmanının evindeki lambaların büyük bölümünün yanmaması.\" seçeneğidir.",
   "zorluk": "orta"
  },
@@ -3581,22 +3469,6 @@
   ],
   "dogru": 1,
   "aciklama": "Bu atasözü, akıl dengesi yerinde olmayan, ne yapacağı belli olmayan biriyle bir işe girişmenin başa dert açacağını anlatır. \"Dengesiz, öngörülemez biriyle iş ortaklığı kurmak\", \"Aceleci ve düşüncesiz bir arkadaşla uzun yolculuğa çıkmak\", \"Tartışmacı ve kavgacı biriyle ortak proje yürütmek\" ve \"Saldırgan ve kontrolsüz bir kişiyle aynı çatı altında çalışmak\" durumlarında karşıdaki kişinin tutumu sorun çıkarır, bu yüzden atasözü bu durumlara uygundur. \"Yabancı bir ülkede deneyimsiz bir rehberle tura katılmak\" ise kişinin huy bozukluğundan değil, bilgi ve tecrübe eksikliğinden doğan bir risktir. Bu yüzden atasözü bu duruma uymaz. Karıştırılabilecek \"Aceleci ve düşüncesiz bir arkadaşla uzun yolculuğa çıkmak\" seçeneğinde kişinin davranış kusuru vardır ve atasözüne uygundur. Doğru cevap \"Yabancı bir ülkede deneyimsiz bir rehberle tura katılmak.\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
-  "id": "38262",
-  "dersId": "turkce",
-  "konuId": "deyim_ve_atasozleri",
-  "soru": "Aşağıdaki cümlelerin hangisinde \"ağzından laf almak\" deyiminin anlamı yanlış verilmiştir?",
-  "secenekler": [
-   "Birinin sözünü bölüp onun yerine konuşmak.",
-   "Bir kişiyi ustalıkla konuştururak gizli bilgi edinmek.",
-   "Birinin bilmek istediği bir şeyi konuşturarak öğrenmek.",
-   "Sessiz ya da çekingen birini konuşturmayı başarmak.",
-   "Doğrudan sormadan dolaylı yollarla bilgi çıkarmak."
-  ],
-  "dogru": 0,
-  "aciklama": "\"Ağzından laf almak\" deyimi, bir kişiyi konuşturarak bilmek istenen şeyi öğrenmek anlamına gelir. Konuşan kişi karşısındakini konuşmaya yöneltir, kendisi söz almaz. \"Bir kişiyi ustalıkla konuştururak gizli bilgi edinmek\", \"Birinin bilmek istediği bir şeyi konuşturarak öğrenmek\" ve \"Doğrudan sormadan dolaylı yollarla bilgi çıkarmak\" seçenekleri bu anlamı doğru yansıtır. \"Sessiz ya da çekingen birini konuşturmayı başarmak\" seçeneği de konuşturma yönüyle deyimle uyumludur. \"Birinin sözünü bölüp onun yerine konuşmak\" ise tam tersi bir davranıştır. Burada kişi karşısındakini konuşturmak yerine onun sözünü kesmektedir. Bu nedenle anlam yanlış verilmiştir. Doğru cevap \"Birinin sözünü bölüp onun yerine konuşmak.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -3840,22 +3712,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "38284",
-  "dersId": "turkce",
-  "konuId": "deyim_ve_atasozleri",
-  "soru": "Bir işi yaparken asıl amacın dışına çıkarak kendi çıkarına olan bir şeyi de sağlamak durumunu anlatan deyim aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Havanda su dövmek.",
-   "Eti senin kemiği benim.",
-   "İki cambaz bir ipte oynamaz.",
-   "Hem nalına hem mıhına vurmak.",
-   "İpi göğsüyle kesmek."
-  ],
-  "dogru": 3,
-  "aciklama": "\"Hem nalına hem mıhına vurmak\" deyimi, bir işi yaparken asıl amacın yanında kendi çıkarını da sağlamayı anlatır. Deyimdeki nal ve mıh, aynı işte iki ayrı kazancı elde etmeyi simgeler. Soruda istenen \"asıl amacın dışına çıkıp kendi çıkarını da gözetme\" anlamı budur. \"Eti senin kemiği benim\" deyimi, öğrenciyi yetiştirmek için öğretmene tam yetki verildiğini bildirir; çıkar sağlamakla ilgisi yoktur. \"İki cambaz bir ipte oynamaz\" deyimi ise aynı alanda iki rakibin bir arada var olamayacağını anlatır. Doğru cevap \"Hem nalına hem mıhına vurmak.\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
   "id": "38286",
   "dersId": "turkce",
   "konuId": "deyim_ve_atasozleri",
@@ -4000,22 +3856,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "38301",
-  "dersId": "turkce",
-  "konuId": "deyim_ve_atasozleri",
-  "soru": "Aşağıdaki seçeneklerin hangisinde iki deyim arasındaki anlam ilişkisi, diğerlerinden farklıdır?",
-  "secenekler": [
-   "'Baş koymak' – 'Canını ortaya atmak'",
-   "'Etekleri zil çalmak' – 'Yüreği ağzına gelmek'",
-   "'Göze girmek' – 'Gözden düşmek'",
-   "'Kulak vermek' – 'Kulak kabartmak'",
-   "'Ağzından kaçırmak' – 'Bir şeyi diline dolamak'"
-  ],
-  "dogru": 4,
-  "aciklama": "A ve D yakın anlamlı, B ve C zıt/karşıt durumları anlatan çiftler iken 'ağzından kaçırmak' ile 'diline dolamak' arasında ne eş ne de zıt anlam ilişkisi vardır, dolayısıyla farklı olan E'dir. Doğru cevap 'Ağzından kaçırmak' – 'Bir şeyi diline dolamak' şeklindedir.",
-  "zorluk": "zor"
- },
- {
   "id": "38302",
   "dersId": "turkce",
   "konuId": "deyim_ve_atasozleri",
@@ -4029,22 +3869,6 @@
   ],
   "dogru": 1,
   "aciklama": "Bu cümlede deyim \"işi gücü bırakmak\"tır. Bu deyim, çıkarını ve kazancını titizlikle hesaplayan biri olarak tanıtılan tüccarın tam tersi bir davranışta bulunduğunu anlatır. \"Bu kez de\" ifadesi, bu davranışın tekrarlandığını da gösterir. Böylece öznenin tanımı ile deyimin anlam yükü çatışır ve cümlenin bütününde ironik bir çelişki ortaya çıkar. \"Yıllarca ihmal ettiği annesini hastanede görünce eli ayağına dolaştı.\" cümlesinde ise \"eli ayağına dolaşmak\", ihmalin ardından gelen pişmanlık ve telaşın doğal bir sonucudur. Burada deyimin kendisi bir çelişki üretmez, durumu açıklar. \"Söz verdiği her şeyi yerine getiren adam bugün de sözünün eri olduğunu kanıtladı.\" cümlesinde deyim önceki ifadeyi pekiştirir, bir çelişki yaratmaz. Doğru cevap \"Hesabını çok iyi bilen tüccar, bu kez de işi gücü bırakıp dost meclisinde vakit geçirdi.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "38304",
-  "dersId": "turkce",
-  "konuId": "deyim_ve_atasozleri",
-  "soru": "Aşağıdaki cümlelerin hangisinde iki farklı deyim, anlam bütünlüğünü bozmadan birlikte doğru kullanılmıştır?",
-  "secenekler": [
-   "Ağzının payını alan müdür, bu işten elini eteğini çekmeye karar verdi.",
-   "Dili tutulmuş gibi davranan politikacı, aynı zamanda lafı dolandırarak konuyu kapattı.",
-   "Ayağını yorganına göre uzatan adam, her zaman gözü açık hareket ederek servetini korudu.",
-   "Kulağına küpe olan bu ders sayesinde, genç girişimci bir taşla iki kuş vurmayı öğrendi.",
-   "Gözü pek olan komutan, savaş meydanında dört elle sarılarak mevzii teslim etti."
-  ],
-  "dogru": 0,
-  "aciklama": "\"Ağzının payını almak\" azarlanmak ya da haddini bildirilmek, \"elini eteğini çekmek\" ise bir işten ilgisini tamamen kesmek demektir. Müdür önce azar işitmiş, ardından bu işle ilgisini kesmeye karar vermiştir; iki deyim neden-sonuç ilişkisiyle anlamca uyumludur. \"Kulağına küpe olan bu ders...\" cümlesinde ders almakla bir taşla iki kuş vurmayı öğrenmek anlamca bağdaşmaz. \"Dili tutulmuş gibi davranan politikacı\" ifadesi ise \"lafı dolandırarak\" ile çelişir, çünkü susmakla konuşmak birlikte olamaz. Doğru cevap \"Ağzının payını alan müdür, bu işten elini eteğini çekmeye karar verdi.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4109,22 +3933,6 @@
   ],
   "dogru": 4,
   "aciklama": "Deyimin temel anlamında kullanılması, sözcüklerin gerçek anlamıyla işlenmesi demektir. \"Doktor, kırık bacağı alçıya aldı ve hastayı taburcu etti.\" cümlesinde bacağın alçıya alınması gerçekten yapılan bir tıbbi işlemdir. Burada mecaz yoktur. \"Savcı, delilleri masaya yatırarak jüriye sundu.\" cümlesinde \"masaya yatırmak\" ayrıntılı biçimde incelemek anlamında mecazlıdır. \"Yıllarca yok sayılan sanatçı, bu ödülle nihayet gün yüzüne çıktı.\" cümlesindeki \"gün yüzüne çıkmak\" de bilinir hâle gelmek anlamına gelir. Doğru cevap \"Doktor, kırık bacağı alçıya aldı ve hastayı taburcu etti.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "38309",
-  "dersId": "turkce",
-  "konuId": "deyim_ve_atasozleri",
-  "soru": "'Akıl yaşta değil, baştadır' atasözüyle çelişen anlayışı en iyi yansıtan cümle hangisidir?",
-  "secenekler": [
-   "Yeni mezun doktor, kıdemli meslektaşlarının yanlış gördüğü hastalığı ilk muayenede teşhis etti.",
-   "Tecrübesizliği nedeniyle ciddi hatalar yapan çırak, usta gözetiminde çalışmaya devam etti.",
-   "On yıllık tecrübeye sahip mühendis, o sorunu birkaç saatte çözdü.",
-   "Genç girişimcinin önerisi, deneyimli yöneticileri şaşkına çevirdi.",
-   "Küçük yaştaki mucit, yaptığı buluşla dünya gündemine girdi."
-  ],
-  "dogru": 1,
-  "aciklama": "Atasözüyle çelişen anlayış 'aklın/yeterliliğin yaş ve tecrübeyle geldiği' görüşüdür ve bunu en açık biçimde, tecrübesizliği yüzünden hata yapıp usta gözetiminde çalışan çırağı anlatan B yansıtır. Doğru cevap “Tecrübesizliği nedeniyle ciddi hatalar yapan çırak, usta gözetiminde çalışmaya devam etti.” seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -5491,7 +5299,7 @@
   "id": "38397",
   "dersId": "turkce",
   "konuId": "paragraf",
-  "soru": "Aşağıdaki parçada altı çizili ifadenin işlevi nedir?\n\n\"Popüler bilim yazarlığı zaman zaman ikilemli bir konumda bulunur. Karmaşık araştırmaları anlaşılır kılmak için basitleştirme kaçınılmazdır; ancak bu basitleştirme, çoğu zaman araştırmanın can alıcı nüanslarını budamaktadır. _««'Süt içmek zekâyı artırır'»»_ türü başlıklar, asıl bulgunun yalnızca belli bir örneklemde, belli koşullar altında gözlemlendiğini okuyucudan gizlemektedir. Böylece popüler bilim, farkında olmadan bilimsel okuryazarlığın değil; bilimsel yanılsamanın yaygınlaşmasına katkıda bulunabilir.\"",
+  "soru": "Aşağıdaki parçada altı çizili ifadenin işlevi nedir?\n\n\"Popüler bilim yazarlığı zaman zaman ikilemli bir konumda bulunur. Karmaşık araştırmaları anlaşılır kılmak için basitleştirme kaçınılmazdır; ancak bu basitleştirme, çoğu zaman araştırmanın can alıcı nüanslarını budamaktadır. «««'Süt içmek zekâyı artırır'»»» türü başlıklar, asıl bulgunun yalnızca belli bir örneklemde, belli koşullar altında gözlemlendiğini okuyucudan gizlemektedir. Böylece popüler bilim, farkında olmadan bilimsel okuryazarlığın değil; bilimsel yanılsamanın yaygınlaşmasına katkıda bulunabilir.\"",
   "secenekler": [
    "Popüler bilim yazarlığının etik sorunlarını açıklayan kavramsal bir çerçeve sunmak",
    "Bilimsel araştırmaların medyada nasıl çarpıtıldığını istatistiksel bir veriyle desteklemek",
@@ -6112,22 +5920,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "38451",
-  "dersId": "turkce",
-  "konuId": "yazim_kurallari",
-  "soru": "Aşağıdakilerin hangisinde kısaltmanın yazımı yanlıştır?",
-  "secenekler": [
-   "Prof. Dr. Ahmet Yılmaz konferans verdi.",
-   "TDK'nın yayımladığı kılavuz güncellenmiştir.",
-   "Bkz. ilgili bölüm.",
-   "Toplantı s. 14'te başlayacak.",
-   "vb. gibi kısaltmalar metni kısaltır."
-  ],
-  "dogru": 2,
-  "aciklama": "TDK Yazım Kılavuzu'nda 'bakınız' kısaltması 'bk.' olduğundan hatalı yazım C'dedir; E'deki 'vb. gibi' kısaltma yazımı değil anlatım sorunudur, D ise kurallıdır. Doğru cevap Bkz. ilgili bölüm şeklindedir.",
-  "zorluk": "orta"
- },
- {
   "id": "38453",
   "dersId": "turkce",
   "konuId": "yazim_kurallari",
@@ -6384,22 +6176,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "38500",
-  "dersId": "turkce",
-  "konuId": "yazim_kurallari",
-  "soru": "Aşağıdaki cümlelerin hangisinde alıntı cümle veya sözlerle ilgili tırnak işaretinin kullanımında yanlışlık yapılmıştır?",
-  "secenekler": [
-   "Atatürk, \"Muhtaç olduğun kudret, damarlarındaki asil kanda mevcuttur\" demiştir.",
-   "Raporda \"acil müdahale\" gerektiren bölgeler işaretlendi.",
-   "Öğretmen, \"Bugün sınav yok,\" dedi ve dışarı çıktı.",
-   "Yazar, \"Edebiyat bir ihtiyaçtır; onsuz yaşanmaz.\" görüşünü savundu.",
-   "\"Bu işi ben yapacağım\" diyerek söz verdi."
-  ],
-  "dogru": 3,
-  "aciklama": "Alıntı cümle ana cümlenin içinde devam ettiği için tırnak içinde nokta konulmamalı, virgülle bağlanmalıydı; “\"Bu işi ben yapacağım\" diyerek söz verdi.” seçeneğinde ise yanlışlık yok. Doğru cevap “Yazar, \"Edebiyat bir ihtiyaçtır; onsuz yaşanmaz.\" görüşünü savundu.” seçeneğidir.",
-  "zorluk": "zor"
- },
- {
   "id": "38501",
   "dersId": "turkce",
   "konuId": "yazim_kurallari",
@@ -6413,22 +6189,6 @@
   ],
   "dogru": 2,
   "aciklama": "Birden fazla sözcükten oluşan yer adlarında, deniz, göl, dağ, ırmak gibi tür bildiren sözcükler de büyük harfle başlar ve ad bütünüyle özel ad sayılır. \"Ege Denizi\" bu nedenle büyük harfle yazılmalıdır; \"Ege denizinde\" yazımı yanlıştır. \"Doğu Avrupa\", \"Köyceğiz Gölü\" ve \"Van Gölü'nde\" ise kurala uygundur. \"Karadeniz\" tek sözcük olarak bitişik yazıldığı için doğrudur. Doğru cevap \"Ege denizinde bu yıl fırtına mevsimi erken başladı.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "38502",
-  "dersId": "turkce",
-  "konuId": "yazim_kurallari",
-  "soru": "Aşağıdaki cümlelerin hangisinde birleşik fiillerin yazımına ilişkin bir yanlışlık yoktur?",
-  "secenekler": [
-   "Haber duyulunca herkes şaşıra kaldı.",
-   "Sabaha kadar çalışıp durdu, bir türlü dinlenemedi.",
-   "Bu konuyu bir kenara bırakıp yeni bir tartışma açalım.",
-   "Durum içinden çıkılmaz bir hal aldı, artık çözüm bulunamıyordu.",
-   "Yıllardır bu konuyu kafasına takmış, bir türlü vazgeçememişti."
-  ],
-  "dogru": 1,
-  "aciklama": "-ıp zarf-fiiliyle kurulan 'çalışıp durdu' ayrı yazılır ve doğrudur; C'de zaten birleşik fiil bulunmadığından ölçülen kurala uymaz, A'daki 'şaşıra kaldı' ise 'şaşakaldı' olmalıydı. Doğru cevap Sabaha kadar çalışıp durdu, bir türlü dinlenemedi şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -6864,22 +6624,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "38554",
-  "dersId": "turkce",
-  "konuId": "noktalama",
-  "soru": "Aşağıdaki cümlelerin hangisinde noktalı virgül (;) doğru kullanılmıştır?",
-  "secenekler": [
-   "Ali; Mehmet ve Ayşe birlikte geldi.",
-   "Gel; gidelim.",
-   "Kitap okudum; ve çok beğendim.",
-   "Seni seviyorum; çünkü iyisin.",
-   "Hava soğuktu; dışarı çıkmadım."
-  ],
-  "dogru": 4,
-  "aciklama": "Noktalı virgül, birbiriyle anlamca ilgili ve bağımsız yargıları ayırmak için kullanılır. \"Hava soğuktu; dışarı çıkmadım.\" cümlesinde iki ayrı yargı vardır ve aralarında neden-sonuç ilişkisi bulunur; noktalı virgül yerindedir. \"Ali; Mehmet ve Ayşe birlikte geldi.\" cümlesinde sıralanan özneler virgülle ayrılmalıdır. \"Kitap okudum; ve çok beğendim.\" cümlesinde ise bağlaçtan önce noktalı virgül konmaz. Doğru cevap \"Hava soğuktu; dışarı çıkmadım.\" seçeneğidir.",
-  "zorluk": "kolay"
- },
- {
   "id": "38557",
   "dersId": "turkce",
   "konuId": "noktalama",
@@ -6939,7 +6683,7 @@
    "Toplantıya; Ahmet, Mehmet ve Ayşe katıldı.",
    "'Yarın görüşürüz.' dedi ve telefonu kapattı."
   ],
-  "dogru": 0,
+  "dogru": 4,
   "aciklama": "Noktalı virgül, anlamca ilişkili bağımsız cümleleri birbirinden ayırır. \"Sınav sonuçları açıklandı; kimse sevinmedi.\" cümlesinde iki yargı bu işaretle doğru biçimde ayrılmıştır. \"Kitabı bitirdim: çok güzeldi.\" cümlesinde iki nokta açıklama gerektirmeyen bir yerde kullanılmıştır. \"Toplantıya; Ahmet, Mehmet ve Ayşe katıldı.\" cümlesinde de özneden önce noktalı virgül yersizdir. Doğru cevap \"Sınav sonuçları açıklandı; kimse sevinmedi.\" seçeneğidir.",
   "zorluk": "kolay"
  },
@@ -7069,22 +6813,6 @@
   ],
   "dogru": 3,
   "aciklama": "Ayraç, cümleye ek açıklama, kısaltma ya da yer, tarih bilgisi eklemek için kullanılır. \"(TBMM)\", \"(belki karlı da)\", \"(ne yazık ki)\" ve \"(1881)\" kullanımlarında parantez içi, cümlenin akışını bozmayan birer açıklamadır. \"Araştırma sonuçlarına göre (bkz. Tablo 3.) bu oran artmıştır.\" cümlesinde ise \"Tablo 3\" bir kısaltma olmadığı hâlde sonuna nokta konmuştur. Parantez içindeki bu fazladan nokta kullanımı bozar. Doğru yazım \"(bkz. Tablo 3)\" biçiminde olurdu. Doğru cevap \"Araştırma sonuçlarına göre (bkz. Tablo 3.) bu oran artmıştır.\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
-  "id": "38571",
-  "dersId": "turkce",
-  "konuId": "noktalama",
-  "soru": "Aşağıdaki cümlelerin hangisinde virgül kullanımı yanlıştır?",
-  "secenekler": [
-   "Ağlamak istiyordu, ama gözyaşlarını tuttu.",
-   "Okula gittiğimde, öğretmenim yoktu.",
-   "Erken kalktım, kahvaltı yaptım, işe gittim.",
-   "Bu konuda, sana katılmıyorum.",
-   "Ali, Veli ve Ayşe birlikte geldi."
-  ],
-  "dogru": 3,
-  "aciklama": "Virgül, eş görevli sözleri, sıralı cümleleri ve bağlaçlı karşıt cümleleri ayırır. \"Erken kalktım, kahvaltı yaptım, işe gittim.\", \"Ali, Veli ve Ayşe birlikte geldi.\" ve \"..., ama gözyaşlarını tuttu.\" cümlelerinde virgül bu işlevlerle doğru kullanılmıştır. \"Okula gittiğimde, öğretmenim yoktu.\" cümlesinde yan cümle ile ana cümle arasındaki virgül kabul edilebilir bir kullanımdır. \"Bu konuda, sana katılmıyorum.\" cümlesinde ise \"Bu konuda\" bir hitap, ara söz ya da eş görevli ögedir denemez, normal cümle ögesidir, dolayısıyla virgül yersizdir. Doğru cevap \"Bu konuda, sana katılmıyorum.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -7323,7 +7051,7 @@
    "Madde 5 (Beş): Toplantıya katılım zorunludur.",
    "Divan edebiyatının önemli şairleri (Fuzuli, Baki, Nedim) bu dönemde eser verdi."
   ],
-  "dogru": 1,
+  "dogru": 3,
   "aciklama": "Parantez, cümlenin anlamı için zorunlu olmayan açıklama, örnek ya da ek bilgi vermek için kullanılır. \"çünkü yeterince hazırlanmadık\" bölümü başarısızlığın nedenini bildiren, cümlenin asıl anlamını tamamlayan bir yargıdır. Bu bölümün parantez içine alınması doğru değildir; virgülle bağlanması gerekir. \"Atatürk (1881-1938)\" örneğinde doğum ve ölüm yılları ek bilgidir, \"(Fuzuli, Baki, Nedim)\" kısmı ise örnek verir; ikisi de uygundur. Doğru cevap \"Sonuç olarak başarısız olduk (çünkü yeterince hazırlanmadık).\" seçeneğidir.",
   "zorluk": "zor"
  },
@@ -7629,22 +7357,6 @@
   ],
   "dogru": 3,
   "aciklama": "Ayraç, kısaltmaların açık biçimini ya da açık biçimin kısaltmasını göstermek için kullanılır. \"Türkiye Büyük Millet Meclisi (TBMM), 1920 yılında kurulmuştur.\" seçeneğinde ayraç bu işleviyle doğru kullanılmıştır. Ayraçtan sonraki virgül de uzun özneyi yüklemden ayırmak amacıyla kurallara uygun biçimde konabilir. \"Kitap (sayfa 47.) başvuru için temel kaynak sayılır.\" seçeneğinde ayraç içindeki sayıdan sonra gelen nokta yanlıştır. \"Sınava katılan öğrenciler (başarılı olanlar ödüllendirildi) salonu doldurdu.\" seçeneğinde ayraç içine cümleyle ilgisiz bir yargı sokularak anlam bozulmuştur. \"Şiir (ve roman)\" yapısında ise asıl söylenmek istenen bir öge gereksiz yere ayraca alınmıştır. Doğru cevap \"Türkiye Büyük Millet Meclisi (TBMM), 1920 yılında kurulmuştur.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "38618",
-  "dersId": "turkce",
-  "konuId": "noktalama",
-  "soru": "Aşağıdaki cümlelerin hangisinde virgül kullanımına ilişkin hata yoktur?",
-  "secenekler": [
-   "Evet, bu kararın doğru olduğuna inanıyorum.",
-   "Güzel, akıllı ve çalışkan olan öğrenci sınıfın birincisi oldu.",
-   "İstanbul, Türkiye'nin, en kalabalık şehridir.",
-   "Seni, seviyorum her zaman.",
-   "Ne yazık ki, bu sorunu çözmek mümkün değil."
-  ],
-  "dogru": 0,
-  "aciklama": "\"Evet, bu kararın doğru olduğuna inanıyorum.\" cümlesinde \"evet\" cümle başında hitap ve onay bildiren bir sözcüktür ve ardından virgül konması kuraldır. Cümlenin geri kalanında gereksiz virgül yoktur. \"İstanbul, Türkiye'nin, en kalabalık şehridir.\" seçeneği yanlıştır, çünkü belirtili tamlama ile tamlanan arasına virgül konmaz. \"Seni, seviyorum her zaman.\" seçeneği de yanlıştır, çünkü nesne ile yüklem arasına virgül konmaz. Doğru cevap \"Evet, bu kararın doğru olduğuna inanıyorum.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -8507,7 +8219,7 @@
    "Kendi işini «kendin» gör.",
    "Herkes «bu» haberi duydu."
   ],
-  "dogru": 0,
+  "dogru": 4,
   "aciklama": "B, C, D ve E'deki hiçbiri/kim/kendi/herkes sözcükleri açıkça zamirdir; yalnızca A'daki 'nerede' yer bildiren soru zarfı işlevindedir. Doğru cevap Nerede olduğunu bilmiyorum şeklindedir.",
   "zorluk": "orta"
  },
@@ -9872,22 +9584,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "38799",
-  "dersId": "turkce",
-  "konuId": "cumle_ogeleri",
-  "soru": "\"Küçük kız, annesinin fısıldadığı sırrı kimseyle paylaşmadı.\" cümlesinde dolaylı tümleç aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Kimseyle",
-   "Annesinin fısıldadığı",
-   "Paylaşmadı",
-   "Küçük kız",
-   "Annesinin fısıldadığı sırrı"
-  ],
-  "dogru": 0,
-  "aciklama": "Yüklem \"paylaşmadı\"dır. Dolaylı tümleç, yüklemin yönelme, bulunma veya ayrılma hâlindeki ögesidir. \"Kiminle paylaşmadı?\" sorusunun cevabı \"kimseyle\"dir. Bu sözcük eylemin kiminle ilgili olduğunu gösterdiği için dolaylı tümleçtir. \"Annesinin fısıldadığı sırrı\" belirtili nesnedir, çünkü \"Neyi paylaşmadı?\" sorusunun cevabıdır. \"Annesinin fısıldadığı\" ise bu nesneyi niteleyen sıfat-fiil grubudur. \"Küçük kız\" ise eylemi yapan öznedir. Doğru cevap \"Kimseyle\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
   "id": "38802",
   "dersId": "turkce",
   "konuId": "cumle_ogeleri",
@@ -10413,22 +10109,6 @@
   ],
   "dogru": 2,
   "aciklama": "'Fark etti' yükleminin nesneleri sırasıyla şu ki-öbekli yan cümlelerdir: 'sokakların değiştiğini', 'insanların tanımadık yüzler edindiğini', 'o köhne kahvenin hâlâ aynı köşede durduğunu' — her biri belirtili nesne işlevi taşıyan ki-cümleciğidir. Toplamda 3 belirtili nesne vardır. 'Şehre' ise 'döndüğünde' zarf-fiilinin dolaylı tümlecidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "38844",
-  "dersId": "turkce",
-  "konuId": "cumle_ogeleri",
-  "soru": "Aşağıdaki cümlelerin hangisinde yüklem dışındaki bir öge, hem zarf tümleci hem de dolaylı tümleç olarak yorumlanmaya elverişli yapıdadır?",
-  "secenekler": [
-   "Müzeye giderek tarihi eserleri inceledi.",
-   "Köye döndüğünde çok şey değişmişti.",
-   "Akşama kadar durmadan çalıştıktan sonra yürüyerek eve geçti.",
-   "Çantayı masanın üstüne koydu.",
-   "Toplantıya katılmak için sabah erkenden yola çıktı."
-  ],
-  "dogru": 2,
-  "aciklama": "\"Akşama kadar\" öbeği -e hâl ekiyle dolaylı tümleç görünümü verirken işlevce zaman zarfıdır; E'deki \"sabah erkenden\" ve \"toplantıya katılmak için\" böyle bir ikili yoruma elverişli değildir. Doğru cevap Akşama kadar durmadan çalıştıktan sonra yürüyerek eve geçti şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -11568,22 +11248,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "38944",
-  "dersId": "turkce",
-  "konuId": "fiil_catisi",
-  "soru": "Aşağıdaki cümlelerin hangisinde fiil, ettirgen çatıda olduğu hâlde cümle yapısı geçişsiz bir görünüm sergilemektedir?",
-  "secenekler": [
-   "Baba oğluna ders çalıştırdı.",
-   "Hava soğuyunca çocuklar içeri girdi.",
-   "Öğretmen tahtayı sildirdi.",
-   "Müdür toplantıyı uzattı.",
-   "Antreman koçu sporcuyu koşturdu."
-  ],
-  "dogru": 0,
-  "aciklama": "D'de \"toplantıyı\" açık nesne olduğu için fiil geçişlidir; A'da \"ders çalışmak\" kalıbı geçişsiz sayıldığından ettirgen \"çalıştırdı\" geçişsiz bir görünüm sergiler. Doğru cevap Baba oğluna ders çalıştırdı şeklindedir.",
-  "zorluk": "zor"
- },
- {
   "id": "38945",
   "dersId": "turkce",
   "konuId": "fiil_catisi",
@@ -11869,22 +11533,6 @@
   ],
   "dogru": 4,
   "aciklama": "Cümlede \"Herkesin bu toplantıya katılmasını\" ve \"görüşlerini\" ifadeleri ortak bir yüklemle tamamlanmaktadır. İkinci öge \"görüşlerini\" nesne durumundadır ve onu \"paylaşmalarını\" gibi uygun bir eylem karşılamalıdır. Yalnızca \"istiyorum\" gibi tek bir yüklem getirildiğinde \"görüşlerini istiyorum\" biçiminde anlam kayması oluşur. \"Katılmasını\" ile \"görüşlerini paylaşmalarını\" ise aynı yüklemle tutarlı biçimde birleşir. \"Umuyorum\", \"diliyorum\" ve \"bekliyorum\" seçeneklerinde de \"görüşlerini\" nesnesi anlamlı bir eylemle karşılanmaz, bu yüzden bozukluk sürer. Doğru cevap \"paylaşmalarını istiyorum\" seçeneğidir.",
-  "zorluk": "kolay"
- },
- {
-  "id": "38976",
-  "dersId": "turkce",
-  "konuId": "anlatim_bozukluklari",
-  "soru": "Aşağıdaki cümlelerin hangisinde 'gereksiz yineleme' anlatım bozukluğu vardır?",
-  "secenekler": [
-   "Bu meseleyi tekrar bir daha ele alacağız.",
-   "Haber daha sonra açıklanacak.",
-   "Konuyu yarın yeniden değerlendireceğiz.",
-   "Kitabı en son şimdi okudum.",
-   "Sınava ayrıca ek süre verildi."
-  ],
-  "dogru": 0,
-  "aciklama": "Gereksiz yineleme, aynı anlamı veren sözcüklerin ya da ifadelerin birlikte kullanılmasıdır. \"Bu meseleyi tekrar bir daha ele alacağız.\" cümlesinde \"tekrar\" ile \"bir daha\" aynı anlamı karşılar, biri fazladır. \"Haber daha sonra açıklanacak.\" cümlesinde \"daha sonra\" kalıplaşmış bir zaman ifadesidir. \"Konuyu yarın yeniden değerlendireceğiz.\" cümlesinde \"yarın\" zaman, \"yeniden\" yineleme bildirir ve iki sözcük farklı anlam taşır. \"Sınava ayrıca ek süre verildi.\" cümlesinde ise \"ayrıca\" ve \"ek\" kullanımı sorunlu görünse de tekrar bir daha kadar belirgin bir anlam yinelemesi değildir. Doğru cevap \"Bu meseleyi tekrar bir daha ele alacağız.\" seçeneğidir.",
   "zorluk": "kolay"
  },
  {
@@ -12272,22 +11920,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "39024",
-  "dersId": "turkce",
-  "konuId": "anlatim_bozukluklari",
-  "soru": "Aşağıdaki cümlelerin hangisinde 'nesne eksikliği ya da yanlış nesne kullanımı' nedeniyle anlatım bozukluğu vardır?",
-  "secenekler": [
-   "Yazar, bu romanı uzun yıllar emek vererek yazdı.",
-   "Kardeşim, beni araması gerektiğini söyledi.",
-   "Anne, çocuğunu uyuttu ve odadan çıktı.",
-   "Müdür, toplantıya katılanları tek tek tanıdı.",
-   "Öğrenciler, yeni kitaplarını sınıfa getirdi."
-  ],
-  "dogru": 1,
-  "aciklama": "D'de 'katılanları' nesnesi eksiksiz ve cümle sorunsuzdur; asıl sorun B'de olup 'beni araması' nesnesi yanlış kişiye bağlandığından doğru biçim 'beni aramam gerektiğini söyledi'dir. Doğru cevap Kardeşim, beni araması gerektiğini söyledi şeklindedir.",
-  "zorluk": "orta"
- },
- {
   "id": "39025",
   "dersId": "turkce",
   "konuId": "anlatim_bozukluklari",
@@ -12496,22 +12128,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "39052",
-  "dersId": "turkce",
-  "konuId": "anlatim_bozukluklari",
-  "soru": "\"Sergi büyük bir ilgi gördü; ziyaretçiler saatlerce gezdi.\" cümlesi ile anlatım bozukluğu bakımından aynı türden hatayı içeren cümle aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Şirket büyüdü, çalışan sayısı da arttı.",
-   "Kitap çok satıldı; içeriği eleştirmenler tarafından beğenilmedi.",
-   "Hava bozunca etkinlik iptal edildi.",
-   "Öğrenciler hevesle çalışıyor; sınav sonuçları merakla bekleniyor.",
-   "Konser olağanüstüydü; müzisyenler mükemmel çaldı."
-  ],
-  "dogru": 4,
-  "aciklama": "Örnek cümledeki hata ikinci yargıda nesne eksikliğidir (ziyaretçiler neyi gezdi?); aynı yapı E'de 'müzisyenler mükemmel çaldı' (neyi?) biçiminde yinelenirken B'de hata nesne eksikliği değil, karşıtlık bağlacı eksikliğidir. Doğru cevap Konser olağanüstüydü; müzisyenler mükemmel çaldı şeklindedir.",
-  "zorluk": "orta"
- },
- {
   "id": "39054",
   "dersId": "turkce",
   "konuId": "anlatim_bozukluklari",
@@ -12541,22 +12157,6 @@
   ],
   "dogru": 1,
   "aciklama": "Bu cümlede birden fazla bozukluk bir aradadır. Ortak özne olan \"iş\", bir yüklemde etken (\"başladı\"), ötekinde edilgen (\"teslim edilecek\") çatıyla kullanılmıştır. Böylece işi kimin teslim edeceği belirsiz kalmış, çatı uyuşmazlığı doğmuştur. Ayrıca \"ve\" bağlacı geçmiş zamanlı bir yüklemle gelecek zamanlı bir yüklemi bağlamaktadır. Bu da zaman akışını bozmakta, \"bitince\" ifadesinin neyin bitişini anlattığını da belirsizleştirmektedir. İtirazın gördüğü tek bozukluk bu nedenle eksik bir değerlendirmedir. \"Raporu hazırlayan ekip, verileri hem topladı hem analiz etti hem de sonuçları paylaştı.\" seçeneği uzun olduğu için şüphe uyandırsa da öğeleri ve yüklemleri uyumludur. \"Bu projeyi hem bütçe hem de süre açısından değerlendirmek gerekir.\" seçeneğinde de \"hem... hem de\" yapısı doğru kurulmuştur. Doğru cevap \"Sözleşme imzalandıktan sonra iş başladı ve bitince teslim edilecek.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "39061",
-  "dersId": "turkce",
-  "konuId": "anlatim_bozukluklari",
-  "soru": "Aşağıdaki cümlelerin hangisinde anlamca örtüşen sözcüklerin bir arada kullanılmasından doğan anlam yığılması (pleonazm) bozukluğu en ince biçimde gizlenmiştir?",
-  "secenekler": [
-   "Bu olayın görgü tanığı bizzat kendim oldum.",
-   "İlk başta bu fikre sıcak bakmıyordu ama sonradan ikna oldu.",
-   "Öne sürdüğü iddialar tamamen asılsız ve gerçek dışıydı.",
-   "Kendi öz kardeşiyle bile iletişim kuramıyordu.",
-   "Sözlü beyan için yazılı dilekçe vermesi gerekiyordu."
-  ],
-  "dogru": 1,
-  "aciklama": "C'deki \"asılsız ve gerçek dışı\" yığılması apaçık olduğundan \"en ince gizlenmiş\" olamaz; B'deki \"ilk başta\" (ilk+baş) kalıplaşmış ve fark edilmesi en güç pleonazmdır. Doğru cevap İlk başta bu fikre sıcak bakmıyordu ama sonradan ikna oldu şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -13696,22 +13296,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "39162",
-  "dersId": "turkce",
-  "konuId": "deyim_ve_atasozleri",
-  "soru": "Aşağıdaki cümlelerin hangisinde altı çizili atasözü, cümlenin içinde anlatılmak isteneni tam olarak karşılamamaktadır?",
-  "secenekler": [
-   "Küçük tasarruflarını yıllarca biriktirerek ev sahibi olan Nermin, \"«Sakla samanı, gelir zamanı»\" atasözünü her fırsatta çevresindekilere dile getirirdi.",
-   "Tecrübesiz elemanı işe almak istemediğini belirten patron, \"«Acemi nalbant, ata can verir»\" dedi.",
-   "Tartışmada kimin haklı olduğuna bir türlü karar verilemeyen toplantıda müdür, \"«İt ürür, kervan yürür»\" diyerek söz aldı.",
-   "Yıllarca hastalıkla mücadele eden amcam, \"«Damlaya damlaya göl olur»\" diyerek her gün biraz daha iyileşeceğine inanıyordu.",
-   "Uzun yıllar birlikte çalıştıktan sonra ortaklığı bozan iki işadamı için çevresindekiler, \"«Tatlı dil yılanı deliğinden çıkarır»\" dedi."
-  ],
-  "dogru": 4,
-  "aciklama": "\"Tatlı dil yılanı deliğinden çıkarır\" atasözü, güler yüzlü ve yumuşak sözle en zor kişinin bile ikna edilebileceğini anlatır. Ortaklığı bozan iki işadamının durumunda böyle bir yumuşak sözle ikna ya da gönül alma yoktur. Atasözü, cümlenin anlattığı ayrılığı karşılamaz. \"Acemi nalbant, ata can verir\" sözü ise tecrübesiz kişinin işi bozacağını belirttiği için patronun gerekçesine uyar. \"Sakla samanı, gelir zamanı\" sözü de birikim yaparak ev sahibi olan Nermin'in durumuyla örtüşür. Doğru cevap \"Uzun yıllar birlikte çalıştıktan sonra ortaklığı bozan iki işadamı için çevresindekiler...\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
   "id": "39163",
   "dersId": "turkce",
   "konuId": "deyim_ve_atasozleri",
@@ -13725,22 +13309,6 @@
   ],
   "dogru": 3,
   "aciklama": "\"Kaz gelen yerden tavuk esirgenmez\" atasözü, büyük bir kazanç ya da yarar bekleniyorsa küçük masraflardan, fedakârlıklardan kaçınılmaması gerektiğini anlatır. Yönetici, büyük bir proje kazanacaklarını bildiği için hazırlık sürecindeki gerekli tüm masrafları karşılamaktan çekinmemiştir. Küçük harcamayı büyük kazanç uğruna göze almıştır. \"Çiftçi, kümesteki kazları ve tavukları aynı titizlikle korudu.\" cümlesi atasözünü sözcük düzeyinde yansıtır, ancak anlamı karşılamaz. \"Küçük bir hediyeyle yetinen Selin, daha fazlasını istemek istemedi.\" cümlesi ise kanaatkârlığı anlatır, bu yüzden atasözüyle ilgisizdir. Doğru cevap \"Yönetici, büyük bir proje kazanacaklarını bildiği için hazırlık sürecinde gerekli tüm masrafları karşılamaktan çekinmedi.\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
-  "id": "39164",
-  "dersId": "turkce",
-  "konuId": "deyim_ve_atasozleri",
-  "soru": "Aşağıdaki cümlelerin hangisinde deyim, gerçek anlamında kullanılmıştır?",
-  "secenekler": [
-   "Uzun süre susayan bisikletçinin «dili damağına yapıştı», hemen bir şişe su içti.",
-   "Kaybolan çocuğunu bulan baba, «gözleri doldu» ve ağlamaya başladı.",
-   "Toplantıda patronun sert eleştirilerini duyan müdür, yutkunarak «taşı gediğine koymak» zorunda kaldı.",
-   "Saatler boyunca yüzdükten sonra sahile çıkan sporcu, yorgunluktan «dili damağına yapıştı».",
-   "Çok hızlı konuşan konuşmacının sözlerini takip edemeyen dinleyiciler, «ağızları açık kaldı»."
-  ],
-  "dogru": 0,
-  "aciklama": "\"Dili damağına yapışmak\" deyimi mecazen korku ya da şaşkınlıktan konuşamaz hale gelmektir. Ancak susuzluktan ağzın kuruyup dilin gerçekten damağa yapışması gerçek anlamdır. Uzun süre susayan bisikletçinin durumunda böyle bir fiziksel kuruma anlatılır ve hemen su içmesi de bunu doğrular. Burada deyim gerçek anlamda kullanılmıştır. \"Kaybolan çocuğunu bulan baba, gözleri doldu ve ağlamaya başladı.\" cümlesinde duygulanma anlatılır. \"Yutkunarak taşı gediğine koymak\" ise yerinde ve haklı bir söz söylemek anlamına gelir. Bunlar mecaz anlamdır. Doğru cevap \"Uzun süre susayan bisikletçinin dili damağına yapıştı, hemen bir şişe su içti.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -13773,22 +13341,6 @@
   ],
   "dogru": 2,
   "aciklama": "'Ağız dalaşına girmek' kavga etmek, tartışmak, çekişmek anlamına gelir. Oysa cümlede yıllarca küs olan kardeşlerden birinin diğeriyle barıştığı anlatılmaktadır. Barışma ve ağız dalaşına girme birbirine zıt kavramlardır; bu durum anlam çelişkisi yaratmaktadır. Diğer seçeneklerde ise deyimler cümle bağlamıyla uyumludur.",
-  "zorluk": "zor"
- },
- {
-  "id": "39168",
-  "dersId": "turkce",
-  "konuId": "deyim_ve_atasozleri",
-  "soru": "Aşağıdaki cümlelerin hangisinde kullanılan atasözü, verilmek istenen mesajı tam olarak karşılamamaktadır?",
-  "secenekler": [
-   "Yıllarca yabancı bir ülkede yaşayan Nermin, anadiline olan özlemini anlatırken 'Her kuş kendi dilinden ötüşür.' dedi.",
-   "Birbirine düşman iki ülkenin çıkarları söz konusu olduğunda iş birliği yaptığını anlatan bir makaleye 'It iti ısırmaz.' başlığı koymak yerinde olmaz.",
-   "Küçük yaştaki hatalarından dolayı büyüyünce pişman olan gence 'Ölmeden önce ölünür mü?' diyemezsin; 'Sonradan pişman olmaktansa önceden düşün.' dersin.",
-   "Arkadaşının verdiği çok cüzi bir yardımı abartarak anlatan kişiye 'Minareyi çalan kılıfını hazırlar.' atasözünü hatırlatmak yanlış olur.",
-   "Uzun emek harcayarak hazırladığı projeyi son anda reddeden müdürüne içerlemiş olan mühendise 'Emek olmadan yemek olmaz.' demek teselli edici değil, tersine acı verici olur."
-  ],
-  "dogru": 0,
-  "aciklama": "Soru kökü 'kullanılan atasözü'nü sorguluyor; A'da 'Her kuş kendi dilinden ötüşür' (herkes kendi anlayışınca konuşur) anadil özlemi mesajını karşılamazken B, C, D, E zaten atasözünün uygunsuzluğunu doğru biçimde belirtmektedir. Doğru cevap “Yıllarca yabancı bir ülkede yaşayan Nermin, anadiline olan özlemini anlatırken 'Her kuş…” seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -13917,22 +13469,6 @@
   ],
   "dogru": 0,
   "aciklama": "Paragraf, dilin yalnızca dilbilgisiyle öğrenilemeyeceğini söyleyerek başlar. Ardından dilin kültürün taşıyıcısı olduğunu belirtir. Japonca örneği bu görüşü somutlaştırır. Son cümle ise kültürü bilmeden doğru cümle kurulsa bile gerçek iletişimin kurulamayacağını söyler. Bütün bu ifadeler dil ile kültür arasındaki ayrılmaz bağı vurgular. \"Dilbilgisi kuralları, yabancı dil öğreniminin temel taşını oluşturur.\" seçeneği paragrafın tam tersine, dilbilgisini yeterli gören bir bakış sunar. \"Japonca, öğrenmesi en güç diller arasında yer almaktadır.\" seçeneği ise yalnızca örneğe dayanan, yanlış bir genellemedir. Doğru cevap \"Bir dili gerçek anlamda öğrenmek, o dilin kültürünü de anlamayı gerektirir.\" seçeneğidir.",
-  "zorluk": "kolay"
- },
- {
-  "id": "39180",
-  "dersId": "turkce",
-  "konuId": "paragraf",
-  "soru": "Aşağıdaki cümlelerin hangisinde geçen altı çizili sözcük paragraftaki anlamıyla kullanılmamıştır? 'Edebiyat, insanı sınayan en köklü disiplinlerden biridir. Okuyucu, bir yapıtla yüzleşirken yalnızca bir hikâye okumaz; aynı zamanda kendi iç dünyasını da «sınar». İyi bir roman, okuyucuyu dönüştürme gücüne sahiptir. Bu dönüşüm ise çoğu zaman farkında olmadan gerçekleşir.' (Paragrafta altı çizili sözcük: 'sınar')",
-  "secenekler": [
-   "Bu dağ yolu, sürücüleri iyice «sınar».",
-   "Hayat, insanı her an «sınar».",
-   "Öğretmen, öğrencileri sınavda «sınadı».",
-   "Mühendis, köprünün dayanıklılığını «sınadı».",
-   "Güçlük, insanın karakterini «sınar»."
-  ],
-  "dogru": 3,
-  "aciklama": "Paragrafta \"sınar\" sözcüğü, okuyucunun bir yapıtla yüzleşerek kendi iç dünyasını denemesi, güçlüğe karşı dayanıklılığını ve sınırlarını ölçmesi anlamında kullanılmıştır. Bu anlam, kişiyi zorlayıp niteliğini ortaya çıkarmaktır. \"Hayat, insanı her an sınar.\" cümlesi ile \"Güçlük, insanın karakterini sınar.\" cümlesi bu anlamı taşır. \"Mühendis, köprünün dayanıklılığını sınadı.\" cümlesinde ise sınamak, bir nesnenin dayanıklılığını teknik olarak denemek anlamındadır ve kişiyi zorlayıp karakterini ortaya çıkarma anlamından ayrılır. \"Öğretmen, öğrencileri sınavda sınadı.\" cümlesi bilgi ölçme anlamı taşıdığı için daha çok karıştırılabilir. Ancak bu cümle de insanı denemeyle ilişkili olduğundan paragraftaki kullanıma yakındır. Doğru cevap \"Mühendis, köprünün dayanıklılığını sınadı.\" seçeneğidir.",
   "zorluk": "kolay"
  },
  {
@@ -14315,7 +13851,7 @@
    "Türkiye Büyük Millet Meclisi'nde önemli kararlar alındı.",
    "Ahmet'in bu konudaki görüşleri oldukça isabetliydi."
   ],
-  "dogru": 0,
+  "dogru": 3,
   "aciklama": "Kurum ve kuruluş adlarına gelen ekler kesme işaretiyle ayrılmadığından yanlış olan 'Türkiye Büyük Millet Meclisi'nde' ifadesidir; 'Ali'nin' kullanımı kurala uygundur. Doğru cevap Atatürk'ün söylevi büyük yankı uyandırdı şeklindedir.",
   "zorluk": "zor"
  },
@@ -14688,22 +14224,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "39262",
-  "dersId": "turkce",
-  "konuId": "sozcuk_turleri",
-  "soru": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük sıfat (ön ad) değil isim göreviyle kullanılmıştır?",
-  "secenekler": [
-   "İhtiyarlar parkta oturmuş sohbet ediyordu. (ihtiyarlar)",
-   "Soğuk hava gripten korunmayı zorlaştırır. (soğuk)",
-   "Mavi gözlü çocuk bana baktı.",
-   "Masanın üzerindeki eski bir anıyı taşıyordu. (eski) Anı çok eskiydi.",
-   "Uzun boylu adam kapıda bekliyordu."
-  ],
-  "dogru": 0,
-  "aciklama": "Sıfat bir ismi niteler, isim ise varlığı kendisi karşılar. \"İhtiyarlar parkta oturmuş\" cümlesinde \"ihtiyarlar\" bir ismi niteleyen sözcük değildir. Çoğul eki almış ve özne olmuştur. Yani sıfattan geçmiş (adlaşmış) bir isimdir. \"Soğuk hava\" ifadesinde \"soğuk\", \"havayı\" niteleyen sıfattır. \"Mavi gözlü çocuk\" ve \"uzun boylu adam\" ifadelerinde nitelemeler \"çocuk\" ve \"adam\" isimlerine yöneliktir. \"Eski bir anı\" ifadesinde \"eski\" de \"anıyı\" niteler. Bu seçeneklerde sözcükler sıfat görevindedir. Doğru cevap \"İhtiyarlar parkta oturmuş sohbet ediyordu.\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
   "id": "39264",
   "dersId": "turkce",
   "konuId": "sozcuk_turleri",
@@ -15040,22 +14560,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "39294",
-  "dersId": "turkce",
-  "konuId": "cumle_ogeleri",
-  "soru": "Aşağıdakilerden hangisi, cümle ögesi bakımından yanlış eşleştirilmiştir?",
-  "secenekler": [
-   "\"Hızla koşan atlar ovayı geçti.\" → 'hızla' zarf tümleci",
-   "\"Dün akşam arkadaşım aradı.\" → 'dün akşam' zarf tümleci",
-   "\"Çocuklar bahçede top oynadı.\" → 'bahçede' dolaylı tümleç",
-   "\"Kitabı raftan aldı.\" → 'kitabı' belirtili nesne",
-   "\"Annem bize çorba pişirdi.\" → 'bize' belirtili nesne"
-  ],
-  "dogru": 4,
-  "aciklama": "\"Annem bize çorba pişirdi.\" cümlesinde yüklem \"pişirdi\"dir. \"Ne pişirdi?\" sorusunun cevabı \"çorba\"dır ve bu, belirtisiz nesnedir. \"Bize\" ise yönelme hâli (-e) ekini taşır, \"kime pişirdi?\" sorusuna cevap verir ve dolaylı tümleçtir. Belirtili nesne -i hâl ekiyle kurulur, bu yüzden \"bize\" belirtili nesne olamaz. \"Kitabı raftan aldı.\" cümlesinde \"kitabı\" -i ekli belirtili nesnedir, eşleştirme doğrudur. \"Çocuklar bahçede top oynadı.\" cümlesindeki \"bahçede\", bulunma hâlindeki dolaylı tümleçtir. \"Dün akşam\" ise zaman bildiren zarf tümlecidir. Doğru cevap \"Annem bize çorba pişirdi.\" → 'bize' belirtili nesne seçeneğidir.",
-  "zorluk": "orta"
- },
- {
   "id": "39297",
   "dersId": "turkce",
   "konuId": "cumle_ogeleri",
@@ -15069,22 +14573,6 @@
   ],
   "dogru": 1,
   "aciklama": "\"Savcı, sanığı masum ilan etti.\" cümlesinde \"sanığı\" -i ekli belirtili nesnedir. \"Masum\" sözcüğü ise bu nesnenin durumunu bildiren tümleyendir. \"İlan etti\" yüklemi \"masum\" olmadan anlamını tamamlayamaz. Bu yüzden nesne, yüklemle birlikte anlam bütünlüğü kurar. \"Müdür, raporu masanın üzerine bıraktı.\" cümlesinde \"masanın üzerine\" yer bildiren bir tümleçtir, nesnenin durumunu bildirmez. \"Mühendis, köprüyü üç yılda inşa etti.\" cümlesinde \"üç yılda\" süre bildiren zarf tümlecidir. \"Köprüyü\" yalnızca nesnedir. Doğru cevap \"Savcı, sanığı masum ilan etti.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "39302",
-  "dersId": "turkce",
-  "konuId": "cumle_ogeleri",
-  "soru": "Aşağıdaki cümlelerin hangisinde özne ile yüklem arasında sayı uyumu bulunmamakta; ancak bu durum bir dil yanlışı değil, Türkçenin belirli bir kullanım kuralının sonucudur?",
-  "secenekler": [
-   "Öğrenciler, sınava girdi.",
-   "Çocuklar koştu, büyükler oturdu.",
-   "Kuşlar göç etti.",
-   "Kalabalık, meydana aktı.",
-   "İnsanlar gittikçe birbirinden uzaklaşıyor."
-  ],
-  "dogru": 2,
-  "aciklama": "Türkçede insan dışı (hayvan/cansız) çoğul özneler tekil yüklem alır kuralı gereği uyumsuzluk yanlış sayılmaz; bu C'deki 'Kuşlar göç etti' örneğidir. Doğru cevap Kuşlar göç etti şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -15277,22 +14765,6 @@
   ],
   "dogru": 4,
   "aciklama": "'Yarışıldı' cümlesinde '-ıl-' edilgen eki kullanılmıştır; ancak 'yarışmak' zaten işteş çatıda bir fiildir ve öznesiz (yani gerçek edilgen) kullanımı anlam bakımından çelişkilidir. 'Birbirleriyle' ifadesi de bu çelişkiyi pekiştirir: edilgen çatıda özne belirsizleşmeli, ancak 'birbirleriyle' özneyi ima etmektedir. Bu çatı eki ile anlam arasındaki uyumsuzluk, söz konusu seçenekteki tutarsızlığı oluşturur.",
-  "zorluk": "zor"
- },
- {
-  "id": "39331",
-  "dersId": "turkce",
-  "konuId": "fiil_catisi",
-  "soru": "Aşağıdaki fiil gruplarından hangisinde tüm fiiller yalnızca '-n-' ekiyle hem edilgen hem dönüşlü anlamı karşılayabilecek niteliktedir?",
-  "secenekler": [
-   "yaptırılmak, söyletilmek, yazdırılmak",
-   "yıkanmak, soyunmak, giyinmek",
-   "sevilmek, görülmek, bilinmek",
-   "aldatılmak, kırılmak, taşınmak",
-   "koşuşmak, çarpışmak, itişmek"
-  ],
-  "dogru": 1,
-  "aciklama": "Soruda aranan, çatısını yalnızca '-n-' ekiyle kuran ve bağlama göre hem edilgen hem dönüşlü okunabilen fiillerdir. \"yıkanmak\" fiilinde ek hem edilgen (Çamaşırlar yıkandı) hem dönüşlü (Çocuk yıkandı) anlam verir. \"soyunmak\" ve \"giyinmek\" fiilleri de '-n-' ekiyle kurulmuş, işi yapanın kendi üzerinde gerçekleştirdiği dönüşlü fiillerdir. Üç fiilin ortak noktası, çatı ekinin yalnızca '-n-' olmasıdır. \"sevilmek, görülmek, bilinmek\" grubunda edilgenlik ağırlıklı olarak '-l-' ekiyle kurulur ve dönüşlü anlam yoktur. \"yaptırılmak, söyletilmek, yazdırılmak\" grubunda ise ettirgen ekin üstüne '-l-' gelmiştir. Doğru cevap \"yıkanmak, soyunmak, giyinmek\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -16208,22 +15680,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "39417",
-  "dersId": "turkce",
-  "konuId": "sozcukte_anlam",
-  "soru": "Aşağıdaki cümlelerin hangisinde sözcükler arasında 'eş anlamlılık' ilişkisi değil, 'yakın anlamlılık' ilişkisi vardır?",
-  "secenekler": [
-   "Hız – sürat",
-   "Korku – endişe",
-   "Gülmek – gülümsemek",
-   "Yardım – destek",
-   "Sevinç – neşe"
-  ],
-  "dogru": 2,
-  "aciklama": "Eş anlamlı sözcükler her bağlamda birbirinin yerine kullanılabilir; yakın anlamlı sözcükler ise anlamca birbirine yakındır, ancak derece ya da nitelik farkı taşır. \"Gülmek\" sesli ve belirgin bir davranıştır; \"gülümsemek\" ise sessiz, hafif ve yüz ifadesiyle sınırlı bir davranıştır. Bu fark nedeniyle iki sözcük birbirinin yerine her zaman kullanılamaz. \"Hız – sürat\" ise aynı kavramın iki adıdır, bu yüzden eş anlamlıdır. \"Yardım – destek\" çifti de çoğu bağlamda birbirinin yerine kullanılabildiği için eş anlama yakın sayılır. Doğru cevap \"Gülmek – gülümsemek\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
   "id": "39418",
   "dersId": "turkce",
   "konuId": "sozcukte_anlam",
@@ -16256,22 +15712,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "39420",
-  "dersId": "turkce",
-  "konuId": "sozcukte_anlam",
-  "soru": "Aşağıdaki cümlelerin hangisinde sözcük, 'terim anlamı' ile kullanılmıştır?",
-  "secenekler": [
-   "Müdahil sıfatıyla davaya katılmak istedi.",
-   "Hâkim, tarafları uzlaşmaya davet etti.",
-   "Savcı, sanığın suç eylemini tek tek açıkladı.",
-   "Mahkeme, davayı sonuca bağlamak için uzun süre çalıştı.",
-   "Taraflar arasındaki anlaşmazlık büyüyerek sürdü."
-  ],
-  "dogru": 0,
-  "aciklama": "Terim anlamı, bir sözcüğün belirli bir bilim, meslek ya da sanat dalında özel ve kesin bir kavramı karşılamasıdır. \"Müdahil\", hukukta bir davaya sonradan, kendi hakkını korumak için katılan kişiyi gösteren özel bir terimdir; cümlede bu anlamıyla kullanılmıştır. \"Hâkim\" ve \"savcı\" mesleği bildiren, genel kullanımda da bilinen sözcüklerdir ve bu cümlelerde terim anlamı öne çıkmaz. \"Mahkeme, davayı sonuca bağlamak için uzun süre çalıştı.\" ve \"Taraflar arasındaki anlaşmazlık büyüyerek sürdü.\" cümlelerindeki sözcükler günlük dilde de aynı anlamda kullanılır. Doğru cevap \"Müdahil sıfatıyla davaya katılmak istedi.\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
   "id": "39422",
   "dersId": "turkce",
   "konuId": "sozcukte_anlam",
@@ -16285,22 +15725,6 @@
   ],
   "dogru": 4,
   "aciklama": "Bir sözcüğün olumlu çağrışımı taşıması, onun övgü ya da hoş karşılanan bir nitelik bildirmesiyle anlaşılır. \"Tutumlu\", harcamalarını ölçülü yapan ve israf etmeyen kişi için kullanılır, bu yüzden övgü niteliği taşır. \"Ukala\" ve \"küstah\" ise kendini beğenmiş, saygısız anlamlarıyla açıkça olumsuzdur. \"Kurnazca\" sözcüğü de çoğunlukla hileci, çıkarcı bir tavrı anlatır ve olumsuz çağrışım yapar. \"Avare\" sözcüğü başıboş, amaçsız dolaşmayı anlatır ve bu da olumsuzdur. Doğru cevap \"Kadın son derece tutumlu bir ev idaresi kurmuştu.\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
-  "id": "39423",
-  "dersId": "turkce",
-  "konuId": "sozcukte_anlam",
-  "soru": "Aşağıdaki cümlelerin hangisinde sözcükler arasında 'zıt anlamlılık' ilişkisi tam olarak kurulamamaktadır?",
-  "secenekler": [
-   "Savcı masum kişileri suçlu gibi göstermeye çalıştı.",
-   "Konuşması zaman zaman açık zaman zaman muğlaktı.",
-   "Bazen sert bazen yumuşak bir tutum sergiledi.",
-   "Çocuk hem cömert hem de cimri davranabiliyordu.",
-   "Çalışkan olmadığı kadar tembel de sayılmazdı."
-  ],
-  "dogru": 4,
-  "aciklama": "Zıt anlamlılığın tam kurulabilmesi için birbirine kesin karşıt iki sözcüğün olumsuzlanmadan yan yana gelmesi gerekir. Bu cümlede \"çalışkan\" ve \"tembel\" sözcükleri karşıt olsa da ikisi de olumsuzlanmıştır. Kişinin ne çok çalışkan ne de tam tembel olduğu, yani ikisi arasında bir ara durumda bulunduğu anlatılır. Bu nedenle tam bir karşıtlık değil, derece ilişkisi vardır. \"Bazen sert bazen yumuşak bir tutum sergiledi.\" ve \"Çocuk hem cömert hem de cimri davranabiliyordu.\" cümlelerinde ise karşıt sözcükler doğrudan karşı karşıya konmuştur. Doğru cevap \"Çalışkan olmadığı kadar tembel de sayılmazdı.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -16845,22 +16269,6 @@
   ],
   "dogru": 3,
   "aciklama": "\"Hastalık yüzünden okula gidemedi.\" cümlesinde \"yüzünden\" sözcüğü ad olma özelliğini yitirmiştir. \"Sebebiyle, -den dolayı\" anlamında, edat işlevinde kullanılır ve neden bildirir. Diğer cümlelerde \"yüz\" bir ad olarak yer alır ve temel ya da mecaz anlamıyla bir varlığın yüzünü, görünüşünü veya kişinin utanma duygusunu karşılar. \"Adamın yüzü hiç kızarmadı.\" ile \"Yüzü olan adam mı yapardı bunu?\" utanma duygusunu, \"Çocuğun yüzü güldü sonunda.\" sevinci, \"Bu işin yüzü açık değil.\" ise işin görünüşünü ve durumunu anlatır. Bu dört kullanım kendi aralarında farklı mecazlar içerse de hepsinde sözcük ad olarak kalır. Dolayısıyla anlam ve görev bakımından ayrılan tek kullanım nedensellik bildirendir. Doğru cevap \"Hastalık yüzünden okula gidemedi.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "39473",
-  "dersId": "turkce",
-  "konuId": "sozcukte_anlam",
-  "soru": "Aşağıdaki dizelerin hangisinde altı çizili sözcük, gerçek anlamından en uzak biçimde kullanılmıştır?",
-  "secenekler": [
-   "Gönlümün içinde bir «şehir» kurdum / Sokaklarında yalnız ben dolaşırım.",
-   "Zamanın «dişleri» geçmiş üzerinden / Yıllar yemiş her taşını köyümün.",
-   "Gözlerimin içinde yaşıyorsun hâlâ / Çıkamıyorum bu «hapisten» bir türlü.",
-   "«Eller» yabancı, eller soğuk, eller hain / Düşmanın elinden dost olmaz.",
-   "«Dağlar» kadar derdi vardı adamın / Sırtına yükledi hepsini sessizce."
-  ],
-  "dogru": 1,
-  "aciklama": "Dizede \"dişleri\" sözcüğü, zamanın bir canlı gibi dişleri olduğunu ve yıllarla taşları yediğini anlatarak kişileştirme ve aktarma yoluyla kullanılmıştır. Zaman soyut bir kavramdır; dişi olması ve yemesi gerçek anlamdan çok uzaktır. Böylece sözcük, gerçek anlamıyla hiçbir bağ kurmayan, tamamen sanatsal bir mecaz oluşturur. \"Gönlümün içinde bir şehir kurdum\" dizesinde \"şehir\" de mecazlıdır, ancak gönül ile şehir arasındaki benzetme daha açık ve sınırlıdır. \"Dağlar kadar derdi vardı adamın\" dizesinde ise \"dağlar\" gerçek anlamını koruyarak yalnızca büyüklük karşılaştırması için kullanılmıştır. Doğru cevap \"Zamanın dişleri geçmiş üzerinden / Yıllar yemiş her taşını köyümün.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -17824,22 +17232,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "39547",
-  "dersId": "turkce",
-  "konuId": "cumlede_anlam",
-  "soru": "Aşağıdaki cümlelerin hangisinde 'anlam belirsizliği' yoktur?",
-  "secenekler": [
-   "Kitabı okumayı seven çocuklar başarılı olur.",
-   "Ahmet ile Mehmet dün buluştu ve o çok sevinçliydi.",
-   "Müdür, öğretmenlerle görüşen velileri toplantıya çağırdı.",
-   "Kardeşimin arkadaşı olan öğrenci ödül aldı.",
-   "Güzel bir bahçede oturuyordu."
-  ],
-  "dogru": 3,
-  "aciklama": "Anlam belirsizliği, bir cümlenin birden çok biçimde yorumlanabilmesidir. \"Kardeşimin arkadaşı olan öğrenci ödül aldı.\" cümlesinde öğrencinin kim olduğu net biçimde tanımlanmıştır; tek bir anlam çıkar. \"Ahmet ile Mehmet dün buluştu ve o çok sevinçliydi.\" cümlesinde \"o\" zamirinin Ahmet'e mi Mehmet'e mi gönderme yaptığı belli değildir. \"Müdür, öğretmenlerle görüşen velileri toplantıya çağırdı.\" cümlesinde ise müdürün mü, velilerin mi öğretmenlerle görüştüğü birden çok biçimde anlaşılabilir. Doğru cevap \"Kardeşimin arkadaşı olan öğrenci ödül aldı.\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
   "id": "39548",
   "dersId": "turkce",
   "konuId": "cumlede_anlam",
@@ -17869,22 +17261,6 @@
   ],
   "dogru": 2,
   "aciklama": "Dolaylı anlatımda söylenen söz, tırnak ve ayraç kullanılmadan, anlatıcının ağzından aktarılır. \"Öğretmen, sınavın ertelendiğini sınıfa duyurdu.\" cümlesinde öğretmenin sözü olduğu gibi verilmemiş, \"ertelendiğini\" gibi bir yapıyla anlatıcı tarafından özetlenmiştir. \"Yarın gelemem\" dedi, üzgün görünüyordu.\" cümlesinde söz tırnak içinde, kişinin kendi ağzından aktarıldığı için doğrudan anlatım vardır. \"Nereye gidiyorsun?\" diye sordu arkadaşı.\" cümlesinde de soru, olduğu gibi tırnakla verilmiştir; bu da doğrudan anlatımdır. Doğru cevap \"Öğretmen, sınavın ertelendiğini sınıfa duyurdu.\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
-  "id": "39550",
-  "dersId": "turkce",
-  "konuId": "cumlede_anlam",
-  "soru": "Aşağıdaki cümlelerin hangisinde 'koşul-sonuç' ilişkisi kurulmuştur?",
-  "secenekler": [
-   "Ya erken geleceksin ya da seni beklemeyeceğim.",
-   "Ne zaman uyku bastırsa kahve içer.",
-   "Güzel hava sayesinde piknik yapılabildik.",
-   "Hem yorgundu hem de aç kalmıştı.",
-   "Çalışmasına rağmen sınavı geçemedi."
-  ],
-  "dogru": 0,
-  "aciklama": "\"Ya ... ya da\" yapısı erken gelme koşuluna bağlı bir sonuç bildirir; B'deki \"ne zaman ...-sa\" öncelikle zaman/alışkanlık anlamı taşır. Doğru cevap Ya erken geleceksin ya da seni beklemeyeceğim şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -18192,38 +17568,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "39577",
-  "dersId": "turkce",
-  "konuId": "cumlede_anlam",
-  "soru": "Aşağıdaki cümlelerin hangisinde 'azın çokluğuna vurgu' yapılmaktadır?",
-  "secenekler": [
-   "Küçük bir hareketle tüm dengeleri alt üst edebildi.",
-   "Yıllar içinde biriktirdiği küçük tasarruflar büyük bir servet oluşturmuştu.",
-   "Bir damla ilaç, o gece bütün acısını dindirdi.",
-   "Az söylemesine karşın söyledikleri çok şey anlatıyordu.",
-   "Bu kadar kısa sürede bu kadar çok iş yapması herkesi şaşırtmıştı."
-  ],
-  "dogru": 3,
-  "aciklama": "\"Azın çokluğuna vurgu\", az olan bir şeyin çok şey ifade ettiğini ya da çok etki yarattığını anlatmaktır. \"Az söylemesine karşın söyledikleri çok şey anlatıyordu.\" cümlesinde az söz, çok anlam taşır; azlık ile çokluk doğrudan karşı karşıya getirilmiştir. \"Bir damla ilaç, o gece bütün acısını dindirdi.\" cümlesi de küçük bir miktarın büyük etkisini anlatır; ancak burada çokluk bir ifade zenginliği değil etkinin gücüdür ve \"azın çokluğu\" kalıbına daha az uyar. \"Yıllar içinde biriktirdiği küçük tasarruflar büyük bir servet oluşturmuştu.\" cümlesi ise birikim sürecini anlatır. Doğru cevap \"Az söylemesine karşın söyledikleri çok şey anlatıyordu.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "39578",
-  "dersId": "turkce",
-  "konuId": "cumlede_anlam",
-  "soru": "Aşağıdaki cümlelerin hangisinde öznel bir yargı, nesnel bir yargıymış gibi sunulmuştur?",
-  "secenekler": [
-   "Bu romanın baş karakteri son derece güçlü bir psikolojik derinliğe sahiptir.",
-   "Yazar bu eserinde toplumsal baskıyı ustaca işlemiştir.",
-   "Kitap, iki yıl içinde otuz dile çevrilmiştir.",
-   "Eleştirmenlerin çoğu bu eseri yüzyılın en iyi romanı olarak nitelendirmiştir.",
-   "Roman, 1985 yılında yayımlanmış ve büyük ilgi görmüştür."
-  ],
-  "dogru": 0,
-  "aciklama": "Öznel yargı kişiden kişiye değişen değerlendirmedir; nesnel yargı ise kanıtlanabilir bilgidir. \"Bu romanın baş karakteri son derece güçlü bir psikolojik derinliğe sahiptir.\" cümlesinde \"son derece güçlü\" bir değerlendirmedir, ama hiçbir dayanak ya da kaynak gösterilmeden kesin bir olgu gibi sunulmuştur. \"Eleştirmenlerin çoğu bu eseri yüzyılın en iyi romanı olarak nitelendirmiştir.\" cümlesi de değer yargısı içerir, ancak bunu eleştirmenlere atfederek öznel olduğunu açıkça belirtir. \"Yazar bu eserinde toplumsal baskıyı ustaca işlemiştir.\" cümlesi ise yazarın bir değerlendirmesi olarak açıkça yorum niteliğindedir. Doğru cevap \"Bu romanın baş karakteri son derece güçlü bir psikolojik derinliğe sahiptir.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
   "id": "39579",
   "dersId": "turkce",
   "konuId": "cumlede_anlam",
@@ -18352,22 +17696,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "39588",
-  "dersId": "turkce",
-  "konuId": "cumlede_anlam",
-  "soru": "Aşağıdaki cümlelerin hangisinde sıfat tamlaması, tamlanan adın gerçek niteliğini değil, ona yüklenen toplumsal/kültürel anlamı karşılamaktadır?",
-  "secenekler": [
-   "Keskin bir zekâyla herkesi şaşırttı.",
-   "Ağır bir sözü geri almak kolay değildir.",
-   "Uzun bir gecenin ardından sabah geldi.",
-   "Küçük bir çocuğun masumiyeti insanı etkiler.",
-   "Soğuk bir bakış attı ve odadan çıktı."
-  ],
-  "dogru": 1,
-  "aciklama": "\"Ağır bir sözü geri almak kolay değildir.\" cümlesinde \"ağır\" sıfatı, sözün fiziksel bir ağırlığını değil, toplumsal ilişkilerde kırıcı, incitici ve onur zedeleyici sayılmasını, yani ona kültürel olarak yüklenen anlamı karşılamaktadır. \"Uzun bir gecenin ardından sabah geldi.\" ve \"Küçük bir çocuğun masumiyeti insanı etkiler.\" cümlelerindeki sıfatlar, tamlanan adın gerçek niteliğini doğrudan bildirir. \"Keskin bir zekâyla herkesi şaşırttı.\" ve \"Soğuk bir bakış attı ve odadan çıktı.\" cümlelerindeki sıfatlar mecazlı olsa da zekânın ve bakışın kendi özelliğini betimler. Bu yüzden toplumsal bir değerlendirmeyi yansıtan tek tamlama \"ağır söz\"dür.",
-  "zorluk": "zor"
- },
- {
   "id": "39589",
   "dersId": "turkce",
   "konuId": "cumlede_anlam",
@@ -18413,22 +17741,6 @@
   ],
   "dogru": 3,
   "aciklama": "Özgün cümlede 'söyledikleri' ile 'söylemedikleri' karşıtlık oluşturulmuş; eylemin gerçekleşen ve gerçekleşmeyen biçimleri eşit ağırlıkta anlam taşımaktadır. Bu yapıda 'olumlunun olumsuzla karşılaştırılıp olumsuzun olumluya eşitlenmesi' söz konusudur. Aynı yapı C'de 'gülmediği anlar / güldüğü anlar' karşıtlığıyla kurulmuştur ve olumsuzun olumlunun niteliğini edinmesi sağlanmıştır. A'da yalnızca eylem karşıtlığı, B'de 'ne/nasıl' odak kayması, D'de değer yargısı kıyası, E'de çelişki ilişkisi vardır.",
-  "zorluk": "zor"
- },
- {
-  "id": "39592",
-  "dersId": "turkce",
-  "konuId": "cumlede_anlam",
-  "soru": "Aşağıdaki cümlelerin hangisinde yargı, yalnızca bağlamdan çıkarılan bir varsayıma dayalıdır; yani cümle içinde doğrudan kanıtlanamaz?",
-  "secenekler": [
-   "Kapıyı kilitlememiş; eve döneceğini düşünebiliriz.",
-   "Sabah erken çıkmış, demek ki işi vardı.",
-   "Ağlamıyor diye acı çekmediğini sanmayın.",
-   "Kitabı yarım bırakması, okumaktan sıkıldığını gösteriyor.",
-   "Mektubun kenarları yıpranmış, çok okunmuş olmalı."
-  ],
-  "dogru": 2,
-  "aciklama": "Soruda yargının cümle içinde dayanağı bulunmayan, yalnızca bağlama dayalı bir varsayım olduğu cümle aranıyor. \"Ağlamıyor diye acı çekmediğini sanmayın.\" cümlesi, kişinin içsel durumu hakkında bir iddia ortaya koyar. Cümlede bu iddiayı destekleyen somut hiçbir veri yoktur. Yargı tamamen söyleyenin bağlamdan çıkardığı bir kabule dayanır. \"Sabah erken çıkmış, demek ki işi vardı.\" cümlesinde erken çıkma, \"Kitabı yarım bırakması, okumaktan sıkıldığını gösteriyor.\" cümlesinde yarım bırakılan kitap, \"Mektubun kenarları yıpranmış, çok okunmuş olmalı.\" cümlesinde ise yıpranmış kenarlar cümle içinde gösterilen gözlemlenebilir dayanaklardır. Doğru cevap \"Ağlamıyor diye acı çekmediğini sanmayın.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -19360,22 +18672,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "39654",
-  "dersId": "turkce",
-  "konuId": "deyim_ve_atasozleri",
-  "soru": "'Damlaya damlaya göl olur' ile 'Tez olan bez tez yırtılır' atasözlerinin ortak iletisi aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Sabır ve azmin büyük sonuçlar doğurduğu",
-   "Küçük şeylerin zamanla birikerek büyük sonuçlar yaratabileceği ve kalıcı olacağı",
-   "Acele karar vermenin zararlı olduğu",
-   "Bu iki atasözünün ortak bir iletisi yoktur, birbirinin zıttıdır.",
-   "Sürecin sonucun önünde tutulması gerektiği"
-  ],
-  "dogru": 1,
-  "aciklama": "İki atasözü zıt değildir; ikisi de sabırlı, aşamalı emeğin kalıcı sonuç verdiğini, aceleyle yapılanın kalıcı olmadığını anlattığından ortak ileti B'dir. Doğru cevap “Küçük şeylerin zamanla birikerek büyük sonuçlar yaratabileceği ve kalıcı olacağı” seçeneğidir.",
-  "zorluk": "orta"
- },
- {
   "id": "39655",
   "dersId": "turkce",
   "konuId": "deyim_ve_atasozleri",
@@ -19680,22 +18976,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "39679",
-  "dersId": "turkce",
-  "konuId": "deyim_ve_atasozleri",
-  "soru": "Aşağıdaki cümlelerin hangisinde altı çizili atasözü, cümlenin genel anlamıyla çelişmektedir?",
-  "secenekler": [
-   "Tecrübeli ustanın rehberliği sayesinde çırak kısa sürede gelişti; «'Üzüm üzüme baka baka kararır'» atasözü iyi örneklerin etkisini anlatır.",
-   "Yılmadan çalışan girişimci sonunda başarıya ulaştı; «'Azim ile iplik, taşa delik açar'» sözü bu durumu özetlemektedir.",
-   "Küçük hatalarını zamanında düzeltmeyen işçi büyük sorunlarla karşılaştı; «'Bugünkü tavuk yarınki kazdan iyidir'» misali, küçük önlemler büyük felaketleri engeller.",
-   "Herkesin görüşünü alarak karar veren lider, ekibini memnun etti; nitekim «'Danışan dağı aşar, danışmayan düzde kalır'» der büyükler.",
-   "Uzun vadeli planlar yapmak yerine günlük kararlarla hareket eden yönetici sonunda başarısız oldu; çünkü «'Bugünün işini yarına bırakma'» anlayışıyla çalışmak gerekir."
-  ],
-  "dogru": 2,
-  "aciklama": "'Bugünkü tavuk yarınki kazdan iyidir' atasözü, eldeki küçük ama kesin kazancın, belirsiz büyük kazançtan daha değerli olduğunu anlatır. Cümlede ise küçük hataların zamanında düzeltilmesi gerektiği anlatılıyor; bu anlam atasözüyle örtüşmez, çelişir. \"Üzüm üzüme baka baka kararır\" iyi örneklerin etkisiyle uyumludur. \"Danışan dağı aşar, danışmayan düzde kalır\" görüş almanın yararını anlatır ve cümleyle uyumludur. Doğru cevap \"Küçük hatalarını zamanında düzeltmeyen işçi büyük sorunlarla karşılaştı;\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
   "id": "39680",
   "dersId": "turkce",
   "konuId": "deyim_ve_atasozleri",
@@ -19997,22 +19277,6 @@
   ],
   "dogru": 1,
   "aciklama": "Deyimlerin anlamlarını tek tek kontrol edelim. \"Herkese taş çıkartmak\", herkesi geride bırakmak demektir ve cümlede yerindedir. \"Parmak ısırtmak\" şaşırtıp hayran bırakmak, \"dünyalar yutmuşa dönmek\" aşırı sevinmek, \"ağzı bir karış açık kalmak\" ise şaşkınlıktan donakalmak anlamına gelir; bu cümlelerde de anlamlarına uygun kullanılmışlardır. \"Kılıcı kınına koymak\" ise çatışmadan, savaştan ya da husumetten vazgeçmek demektir. Cümlede bu deyim bir iş teklifini reddetmek anlamında kullanılmış, yani kalıp anlamından çıkarılıp özgün ama yanlış bir anlama taşınmıştır. En çok \"Sınavda başarısız olan öğrenci, sonuçları görünce ağzı bir karış açık kaldı.\" cümlesi karıştırılır; ancak oradaki kullanım deyimin asıl anlamıyla uyumludur. Doğru cevap \"İş teklifini değerlendiren Sinan, uzun süre düşündükten sonra kılıcı kınına koydu ve anlaşmayı reddetti.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "39703",
-  "dersId": "turkce",
-  "konuId": "deyim_ve_atasozleri",
-  "soru": "Aşağıdaki cümlelerin hangisinde verilen atasözü, cümlenin gerçek durumuna aykırı biçimde kullanılmıştır?",
-  "secenekler": [
-   "Çocuğunu her istediğinde ödüllendiren anne, yıllar sonra 'kuzuyu kurt kapar' atasözünü anımsamak zorunda kaldı.",
-   "Yıllarca emek veren çiftçi, hasat zamanı bol ürün toplunca 'emek vermeden yemiş olmaz' diyerek memnuniyetini dile getirdi.",
-   "Hep başkalarına bağımlı olan Kerem, en zor gününde yalnız kaldı; el elden üstündür derler, o gün bunu yaşadı.",
-   "Mirasını çarçur eden genç, beş yıl sonra sıfırdan başlamak zorunda kaldı; 'kazanmak harcamaktan kolaydır' atasözü tam da onu anlatıyordu.",
-   "Şirket hızla büyüdü ama denetimden uzaklaştıkça sorunlar da büyüdü; büyük lokma ye büyük söz söyleme derler ya."
-  ],
-  "dogru": 3,
-  "aciklama": "D'deki 'kazanmak harcamaktan kolaydır' sözü hem uydurma hem de mirası çarçur edip sıfırdan başlama durumuyla taban tabana zıttır; C'deki kullanım ise uygunsuz olsa da doğrudan çelişki değildir. Doğru cevap “Mirasını çarçur eden genç, beş yıl sonra sıfırdan başlamak zorunda kaldı; 'kazanmak…” seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -21307,7 +20571,7 @@
    "Flaubert ve Nabokov, tarihsel süreçteki en üretken yazarlar arasında yer alır.",
    "Edebi ustalık, doğuştan gelen yetenekten değil birikimli emekten kaynaklanır."
   ],
-  "dogru": 1,
+  "dogru": 4,
   "aciklama": "Parçada doğrudan kanıt sunulan iddia “Büyük romancıların ilk eserleri genellikle defalarca yeniden yazılmıştır.” seçeneğidir: 'Büyük romancıların ilk eserleri genellikle defalarca yeniden yazılmıştır' yargısı, biyografilerin incelenmesine dayandırılmış ve hemen ardından Nabokov'un binlerce sayfalık notu ile Flaubert'in tek bir cümle üzerinde günlerce çalışması somut örnek olarak verilmiştir. “Yazarlık, okuma birikimi ve gözlem disiplini gerektiren bir süreçtir.” seçeneği parçanın giriş yargısıdır, örnekle desteklenmemiştir. “İyi bir yazar olmak için bol miktarda okumak zorunludur.” seçeneği 'hepsi yoğun okuyuculardır' gözleminden çıkarılan bir zorunluluk iddiasıdır ve kanıtlanmamıştır. “Edebi ustalık, doğuştan gelen yetenekten değil birikimli emekten kaynaklanır.” seçeneği parçanın genel sonucudur. “Flaubert ve Nabokov, tarihsel süreçteki en üretken yazarlar arasında yer alır.” seçeneğindeki üretkenlik sıralaması ise parçada hiç yer almaz.",
   "zorluk": "orta"
  },
@@ -22320,22 +21584,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "39901",
-  "dersId": "turkce",
-  "konuId": "yazim_kurallari",
-  "soru": "Aşağıdaki seçeneklerin hangisinde yay ayraç (parantez) doğru kullanılmıştır?",
-  "secenekler": [
-   "Hem A hem C doğrudur.",
-   "TDK (Türk Dil Kurumu) bu konuda karar verdi.",
-   "Toplantıya katıldım (ancak konuşmadım).",
-   "Kitabı okudum (ve çok beğendim).",
-   "Ahmet (kardeşim) bugün geldi."
-  ],
-  "dogru": 1,
-  "aciklama": "Kısaltmanın açık biçimini vermek yay ayracın tipik doğru kullanımıdır; “Hem A hem “Toplantıya katıldım (ancak konuşmadım).” seçeneği doğrudur.” şıkkı zaten geçerli bir cümle değildir. Doğru cevap TDK (Türk Dil Kurumu) bu konuda karar verdi şeklindedir.",
-  "zorluk": "orta"
- },
- {
   "id": "39902",
   "dersId": "turkce",
   "konuId": "yazim_kurallari",
@@ -22400,22 +21648,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "39907",
-  "dersId": "turkce",
-  "konuId": "yazim_kurallari",
-  "soru": "Aşağıdaki cümlelerin hangisinde iki nokta (:) yanlış kullanılmıştır?",
-  "secenekler": [
-   "Saat 10:30'da buluşalım.",
-   "Öğretmen sınıfa girdi: herkes ayağa kalktı.",
-   "Gezdiğimiz şehirler şunlardır: İstanbul, Ankara ve İzmir.",
-   "Atatürk şöyle demiştir: \"Yurtta sulh, cihanda sulh.\"",
-   "Toplantıya katılanlar: müdür, öğretmenler ve velilerdi."
-  ],
-  "dogru": 4,
-  "aciklama": "İki nokta, açıklama yapılacak ya da örnekler sıralanacak yerde, cümle bu noktada bitiyorsa kullanılır. \"Toplantıya katılanlar: müdür, öğretmenler ve velilerdi.\" cümlesinde sıralamadan sonra yüklem (\"velilerdi\") gelir. Cümle iki noktadan sonra da devam ettiği için iki nokta yanlış kullanılmıştır. Doğrusu iki nokta olmadan \"Toplantıya katılanlar müdür, öğretmenler ve velilerdi.\" biçimindedir. \"Gezdiğimiz şehirler şunlardır: İstanbul, Ankara ve İzmir.\" cümlesi doğrudur, çünkü cümle iki noktada tamamlanmıştır. \"Atatürk şöyle demiştir: ...\" cümlesinde de alıntıdan önce iki nokta doğru kullanılmıştır. Doğru cevap \"Toplantıya katılanlar: müdür, öğretmenler ve velilerdi.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
   "id": "39908",
   "dersId": "turkce",
   "konuId": "yazim_kurallari",
@@ -22432,22 +21664,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "39913",
-  "dersId": "turkce",
-  "konuId": "yazim_kurallari",
-  "soru": "Aşağıdaki cümleler incelendiğinde, kısa çizgi (-) ve uzun çizginin (—) kullanımına ilişkin hangi yargıya ulaşılır?\n\nI. İstanbul — Ankara arası yaklaşık 450 kilometredir.\nII. Adamın yaşı — elli ile altmış arasındaydı.\nIII. Kitabın ilk bölümü — en uzun bölüm — oldukça sıkıcıydı.\nIV. 2000-2010 yılları arasında pek çok değişim yaşandı.\nV. O gün — hiç unutamam — hayatımın en güzel anıydı.",
-  "secenekler": [
-   "Tüm cümlelerdeki çizgi kullanımları kurala uygundur.",
-   "I ve IV'te çizgi doğru kullanılmış, diğerlerinde yanlış kullanılmıştır.",
-   "I ve II'de çizgi yanlış kullanılmış; III, IV ve V'te kullanım kurala uygundur.",
-   "III ve V'te ara söz için kullanılan çizgiler doğrudur, I ve IV'teki kullanımlar birbirinin yerine geçebilir.",
-   "Yalnız II'de çizgi yanlış kullanılmıştır."
-  ],
-  "dogru": 2,
-  "aciklama": "İki yer, iki tarih ya da iki sayı arasında 'ile, arasında' anlamı veren çizgi kısa çizgidir. I. cümlede 'İstanbul — Ankara arası' ifadesinde uzun çizgi kullanılmış, bu nedenle yazım hatalıdır; doğrusu 'İstanbul-Ankara arası' biçimindedir. II. cümlede 'Adamın yaşı — elli ile altmış arasındaydı.' ifadesinde çizgiye hiç gerek yoktur; burada da hatalı kullanım vardır. III ve V. cümlelerde uzun çizgi ara sözü ayırmak için doğru biçimde kullanılmıştır. IV. cümlede '2000-2010' ifadesinde iki tarih arasında kısa çizgi kullanılması kurala uygundur. Doğru yanıt C'dir.",
-  "zorluk": "zor"
- },
- {
   "id": "39915",
   "dersId": "turkce",
   "konuId": "yazim_kurallari",
@@ -22459,7 +21675,7 @@
    "II ve V",
    "III ve IV"
   ],
-  "dogru": 2,
+  "dogru": 4,
   "aciklama": "Birden fazla hata yalnızca III'te (iki nokta yerine virgül ve tırnak eksikliği) var; IV'te tek hata olduğundan doğru cevap 'Yalnız III'. Doğru cevap Yalnız III şeklindedir.",
   "zorluk": "zor"
  },
@@ -22928,22 +22144,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "39983",
-  "dersId": "turkce",
-  "konuId": "noktalama",
-  "soru": "Aşağıdaki cümlelerin hangisinde yay ayraç (parantez) doğru kullanılmıştır?",
-  "secenekler": [
-   "Bu olay 1453 (İstanbul'un fethi) yılında gerçekleşti.",
-   "Hava (bugün) çok (güzel) ve (sıcak) olacak.",
-   "Ahmet (arkadaşım) dün geldi ve (bana) bir kitap verdi.",
-   "Türkçe Sözlük (TDK) bu kelimeyi 'uyum' olarak tanımlamaktadır.",
-   "Romanda ana tema (aşk) ve yan tema (özgürlük) işlenmiştir."
-  ],
-  "dogru": 3,
-  "aciklama": "Yay ayraç, cümlede anlamı açıklayan ya da tamamlayan bilgiyi ayırmak için kullanılır. Kısaltmalar da bu yolla verilebilir. \"Türkçe Sözlük (TDK) bu kelimeyi 'uyum' olarak tanımlamaktadır.\" cümlesinde \"TDK\" kısaltması, kurumun adını açıklayan bir bilgi olarak ayraç içinde verilmiştir. \"Hava (bugün) çok (güzel) ve (sıcak) olacak.\" seçeneğinde cümlenin asıl öğeleri gereksiz yere ayraca alınmıştır. \"Ahmet (arkadaşım) dün geldi ve (bana) bir kitap verdi.\" seçeneğinde de \"bana\" gibi cümlenin temel bir öğesi ayraçla ayrılmıştır. Bu kullanımlar yanlıştır. Doğru cevap \"Türkçe Sözlük (TDK) bu kelimeyi 'uyum' olarak tanımlamaktadır.\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
   "id": "39984",
   "dersId": "turkce",
   "konuId": "noktalama",
@@ -23056,22 +22256,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "39997",
-  "dersId": "turkce",
-  "konuId": "noktalama",
-  "soru": "Noktalama işaretleri göz önünde bulundurulduğunda aşağıdaki seçeneklerin hangisinde anlam belirsizliği noktalama yoluyla giderilemez?",
-  "secenekler": [
-   "Babam çalışıyor abim uyuyor ben de okuyorum",
-   "Seni seven herkes bu habere üzüldü",
-   "Ahmet ile Mehmet ve Ayşe gitti",
-   "Adam güldü ağladı",
-   "Öğretmenim dedi ki sen bu sınavı geçemezsin"
-  ],
-  "dogru": 2,
-  "aciklama": "'Ahmet ile Mehmet ve Ayşe gitti' cümlesindeki öbekleme belirsizliği Türkçede noktalama ile giderilemez, oysa D'deki belirsizlik 'Adam güldü, ağladı' biçiminde virgülle çözülebilir. Doğru cevap Ahmet ile Mehmet ve Ayşe gitti şeklindedir.",
-  "zorluk": "zor"
- },
- {
   "id": "39998",
   "dersId": "turkce",
   "konuId": "noktalama",
@@ -23181,22 +22365,6 @@
   ],
   "dogru": 3,
   "aciklama": "Noktalı virgül, ögeleri bağlı cümleleri ya da kendi içinde virgülle ayrılmış grupları ayırır. \"Toplantıya Ankara'dan üç kişi; İzmir'den beş kişi, İstanbul'dan iki kişi katıldı.\" cümlesinde üç denk sıralı öge aynı yükleme bağlıdır ve hiçbiri tam bir cümle değildir. Bu yüzden aralarına yalnızca virgül konmalıdır; birinciden sonra noktalı virgül kullanmak yanlıştır. \"Bazıları erken geldi; bazıları geç, bazıları ise hiç gelmedi.\" cümlesinde ise noktalı virgülden önce yüklemi olan tam bir cümle vardır, ardından ögeleri bağlı ve eksiltili cümleler gelir. Bu kullanım savunulabilir olduğundan iki seçenek aynı durumda değildir. Ahmet ile Mehmet'i karşılaştıran cümle ve \"yine de\" ile bağlanan cümle de kurala uygundur. Doğru cevap \"Toplantıya Ankara'dan üç kişi; İzmir'den beş kişi, İstanbul'dan iki kişi katıldı.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "40012",
-  "dersId": "turkce",
-  "konuId": "noktalama",
-  "soru": "Aşağıdaki cümlelerin hangisinde kesme işaretinin (') kullanımı zorunlu değildir?",
-  "secenekler": [
-   "1923'te Cumhuriyet ilan edildi.",
-   "Ahmet'in söyledikleri herkesi şaşırttı.",
-   "İstanbul'un tarihi dokusu korunmalıdır.",
-   "Türk Dil Kurumu'nun kararları bağlayıcıdır.",
-   "Türkçe'nin kuralları oldukça zengindir."
-  ],
-  "dogru": 4,
-  "aciklama": "Kesme işareti özel adlara gelen ekleri ayırır. \"1923'te\" ifadesinde sayıya gelen ek, \"Ahmet'in\" ve \"İstanbul'un\" ifadelerinde kişi ve yer adlarına gelen ekler kesmeyle ayrılır. \"Türk Dil Kurumu'nun\" ifadesinde kurum adı özel ad olduğu için kesme gerekir. Dil adları ise özel ad sayılmaz ve kesme işareti almaz. Bu nedenle \"Türkçe'nin\" yerine \"Türkçenin\" yazılmalıdır; bu cümlede kesme işareti kullanmak zorunlu değil, aksine yanlıştır. Doğru cevap \"Türkçe'nin kuralları oldukça zengindir.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -24384,22 +23552,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "40115",
-  "dersId": "turkce",
-  "konuId": "sozcuk_turleri",
-  "soru": "Aşağıdaki cümlelerin hangisinde iyelik eki almış bir sözcük, cümlede belirtisiz ad tamlamasının tamlananı değil, özne görevinde kullanılmıştır?",
-  "secenekler": [
-   "Arabanın motoru birdenbire durdu.",
-   "Annesinin sözleri onu derinden sarstı.",
-   "Kitabın kapağı yıpranmış görünüyordu.",
-   "Ellerim titremeye başladı.",
-   "Çantanın fermuarı açık kalmış."
-  ],
-  "dogru": 3,
-  "aciklama": "Belirtili ya da belirtisiz ad tamlamalarında tamlanan iyelik eki alır, fakat cümlede öznenin tamamı tamlamadır. \"Ellerim titremeye başladı.\" cümlesinde \"ellerim\" sözcüğü \"el + -ler + -im\" yapısındadır ve iyelik eki almıştır. Ancak önünde bir tamlayan bulunmaz; bu yüzden tamlama oluşturmaz, tek başına öznedir. \"Arabanın motoru\", \"Annesinin sözleri\", \"Kitabın kapağı\" ve \"Çantanın fermuarı\" ifadelerinde ise iyelikli sözcüğün önünde \"-ın/-in\" ekli bir tamlayan vardır. Bu yüzden bunlar tamlama içinde tamlanan olarak kullanılmıştır. Doğru cevap \"Ellerim titremeye başladı.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
   "id": "40116",
   "dersId": "turkce",
   "konuId": "sozcuk_turleri",
@@ -24493,22 +23645,6 @@
   ],
   "dogru": 3,
   "aciklama": "\"Erken\" sözcüğü fiilin zamanını bildirdiğinde zarf, bir ismi nitelediğinde sıfattır. \"Sabah erken kalkan\" ifadesinde \"kalkan\" fiilimsisini, \"erken davranmak\" ifadesinde \"davranmak\" fiilimsisini, \"Erken mi geldin\" cümlesinde \"geldin\" fiilini, \"Bunu erken söyleseydin\" cümlesinde \"söyleseydin\" fiilini zaman bakımından belirttiği için zarftır. \"Bu erken saatte ne arıyorsun?\" cümlesinde ise \"erken\", \"saatte\" ismini niteler ve sıfattır. Diğer seçenekler yanıltıcı olabilir, ancak \"Erken mi geldin, geç mi?\" cümlesindeki \"erken\" de fiili niteleyen zarftır. Doğru cevap \"Bu erken saatte ne arıyorsun?\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "40131",
-  "dersId": "turkce",
-  "konuId": "sozcuk_turleri",
-  "soru": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük yapı bakımından diğerlerinden farklıdır?\n'««(Gülümseyen)»» çocuk masaya oturdu.'\n'««(Düşünen)»» adam cevap vermedi.'\n'««(Koşan)»» köpek yorulmuştu.'\n'««(Ağlayan)»» kadına yardım ettik.'\n'««(Sevilen)»» öğretmen emekliye ayrıldı.'",
-  "secenekler": [
-   "Koşan köpek yorulmuştu.",
-   "Sevilen öğretmen emekliye ayrıldı.",
-   "Gülümseyen çocuk masaya oturdu.",
-   "Düşünen adam cevap vermedi.",
-   "Ağlayan kadına yardım ettik."
-  ],
-  "dogru": 1,
-  "aciklama": "Altı çizili sözcüklerin hepsi -en ekiyle kurulmuş ortaçlardır. \"Gülümseyen\", \"düşünen\", \"koşan\" ve \"ağlayan\" sözcüklerinde -en eki etken fiile gelir ve ortaç, eylemi yapanı gösterir. \"Sevilen\" sözcüğünde ise fiil kökü önce -il ile edilgen çatıya girmiş, sonra -en eki gelmiştir. Böylece ortaç, eylemi yapanı değil eylemden etkilenen kişiyi bildirir. Bu yüzden yapı bakımından diğerlerinden ayrılır. \"Koşan\" ve \"ağlayan\" sözcüklerinde edilgenlik eki yoktur. Doğru cevap \"Sevilen öğretmen emekliye ayrıldı.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -25515,7 +24651,7 @@
    "4",
    "2"
   ],
-  "dogru": 4,
+  "dogru": 1,
   "aciklama": "Sıfat-fiil olarak yalnızca 'görmediği' ve 'alan' vardır; 'üzerindeki' -ki ekiyle, 'olduğunu' ise isim-fiildir. Doğru cevap 2 şeklindedir.",
   "zorluk": "zor"
  },
@@ -25696,22 +24832,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "40240",
-  "dersId": "turkce",
-  "konuId": "cumle_ogeleri",
-  "soru": "Aşağıdaki cümlelerin hangisinde tek bir sözcük aynı anda hem zarf tümleci hem de özneyle anlam ilişkisi içinde kullanılmıştır (yani yüklemin hem nasıl gerçekleştiğini hem de öznenin niteliğini belirtmektedir)?\n\nA) Hızlı araç geçemez bu yoldan.\nB) Adam, yorgun bir şekilde eve döndü.\nC) Çocuk, mutlu mutlu koştu.\nD) Sessiz bir ses duydu uzaktan.\nE) Güzel haberler bizi neşelendirdi.",
-  "secenekler": [
-   "Adam, yorgun bir şekilde eve döndü.",
-   "Sessiz bir ses duydu uzaktan.",
-   "Güzel haberler bizi neşelendirdi.",
-   "Çocuk, mutlu mutlu koştu.",
-   "Hızlı araç geçemez bu yoldan."
-  ],
-  "dogru": 3,
-  "aciklama": "\"Çocuk, mutlu mutlu koştu.\" cümlesinde \"mutlu mutlu\" tek bir sözcüğün tekrarıdır. \"Nasıl koştu?\" sorusunu yanıtladığı için durum zarfı, yani zarf tümleci olarak çalışır. Aynı zamanda öznenin, yani çocuğun hâlini de bildirir. \"Adam, yorgun bir şekilde eve döndü.\" cümlesinde durum bildiren öge \"yorgun bir şekilde\" öbeğidir, tek sözcük değildir; bu yüzden soruda aranan koşula uymaz. \"Hızlı araç geçemez bu yoldan.\" cümlesinde \"hızlı\" sıfattır ve \"araç\" adını niteler; yüklemin nasıl gerçekleştiğini bildirmez. Doğru cevap \"Çocuk, mutlu mutlu koştu.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
   "id": "40241",
   "dersId": "turkce",
   "konuId": "cumle_ogeleri",
@@ -25869,22 +24989,6 @@
   ],
   "dogru": 2,
   "aciklama": "Yüklem \"önemliydi\"dir. \"Ne önemliydi?\" sorusuna iki öbek karşılık verir: \"ne söylediği\" ve \"nasıl söylediği\". İkisi de isim-fiil (mastar benzeri) öbeğidir ve \"değil\" ile karşıt biçimde birbirine bağlanmıştır; yüklem üçüncü tekil kişiyle çekimlenmiştir. \"Özne 'nasıl söylediği'dir; zarf cümleciği\" seçeneği yanlıştır, çünkü öbek zarf değil isim işlevindedir ve tek özne de değildir. \"Özne gizlidir\" seçeneği de yanlıştır, çünkü özne cümlede açıkça yer almaktadır. Doğru cevap \"Cümlede bağlaçla birleştirilmiş iki özne vardır\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "40260",
-  "dersId": "turkce",
-  "konuId": "cumle_ogeleri",
-  "soru": "Aşağıdaki cümlelerin hangisinde zarf tümleci, cümleden çıkarıldığında yüklemin anlamı tümüyle değişir ya da cümle dilbilgisel olarak bozulur?",
-  "secenekler": [
-   "Akşam yavaşça uyudu.",
-   "Sabah erken kalktı.",
-   "Mutfakta yemek yedi.",
-   "Eve gitti.",
-   "Sessizce konuştu."
-  ],
-  "dogru": 3,
-  "aciklama": "\"Eve gitti.\" cümlesinde \"eve\" yönelme hâlindedir ve \"nereye gitti?\" sorusunun yanıtıdır. \"Gitmek\" eylemi yön bildiren bir öğeyle tamamlanır; \"eve\" çıkarılırsa yüklemin anlamı eksik kalır, kime ya da nereye gidildiği belirsizleşir. \"Sabah erken kalktı.\" cümlesinde \"sabah\" ve \"erken\" yalnızca zaman bildirir; çıkarılınca \"kalktı\" tek başına tam bir yargı verir. \"Sessizce konuştu.\" cümlesinde \"sessizce\" durum bildirir; çıkarılırsa \"konuştu\" anlamını korur. Doğru cevap \"Eve gitti.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -26736,22 +25840,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "40343",
-  "dersId": "turkce",
-  "konuId": "fiil_catisi",
-  "soru": "Aşağıdaki cümlelerin hangisinde ettirgen çatı, öznenin eylemi bizzat yaptığı izlenimini vermektedir?",
-  "secenekler": [
-   "Anne, çocuğunu okula götürttü.",
-   "Ressam, tablosunu galeride sergiletti.",
-   "Müdür, raporu sekreterine yazdırdı.",
-   "Mimar, binayı işçilere inşa ettirdi.",
-   "Şef, yemeği aşçıya pişirtti."
-  ],
-  "dogru": 0,
-  "aciklama": "\"Götürmek\" zaten git- fiilinden oldurgan yolla türediği için \"götürttü\" cümlesi, annenin çocuğu bizzat götürdüğü izlenimini verir; B'de böyle bir yanılsama yoktur. Doğru cevap Anne, çocuğunu okula götürttü şeklindedir.",
-  "zorluk": "zor"
- },
- {
   "id": "40345",
   "dersId": "turkce",
   "konuId": "fiil_catisi",
@@ -27472,22 +26560,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "40438",
-  "dersId": "turkce",
-  "konuId": "anlatim_bozukluklari",
-  "soru": "Aşağıdaki cümlelerin hangisinde özne eksikliğinden kaynaklanan anlatım bozukluğu vardır?",
-  "secenekler": [
-   "Kitabı okuyunca çok etkilendim.",
-   "Yorulunca dinlenmek gerekir.",
-   "Kapıyı açınca onu orada gördü.",
-   "Hava karardıktan sonra yola çıktık.",
-   "Sınava girecekler erken gelmeli."
-  ],
-  "dogru": 2,
-  "aciklama": "Kapıyı açınca onu orada gördü. cümlesinde \"açınca\" ve \"gördü\" eylemlerinin öznesi belirtilmemiştir; ancak \"onu\" belirtili nesnesi öznenin kim olduğunu belirsiz kılmaktadır. Bu nedenle özne eksikliği anlatım bozukluğu oluşur. Doğru cevap \"Kapıyı açınca onu orada gördü.\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
   "id": "40442",
   "dersId": "turkce",
   "konuId": "anlatim_bozukluklari",
@@ -27517,22 +26589,6 @@
   ],
   "dogru": 0,
   "aciklama": "Taşıt, \"insan ya da yük taşımaya yarayan araç\" anlamına gelir: otobüs, tren, araba gibi. Eşya yerleştirilen, çanta türünden bir kap için bu sözcük kullanılamaz. \"Taşıt çantama\" ifadesi bu yüzden anlam bakımından yanlıştır. \"Taşıtların bakımını düzenli olarak yaptırmalısınız.\" cümlesinde sözcük araç anlamında doğru kullanılmıştır. \"Bu taşıt, şehir içi ulaşımda sıklıkla tercih edilmektedir.\" cümlesi de aynı biçimde doğrudur. Doğru cevap \"Taşıt çantama bütün eşyalarımı yerleştirdim.\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
-  "id": "40448",
-  "dersId": "turkce",
-  "konuId": "anlatim_bozukluklari",
-  "soru": "Aşağıdaki cümlelerin hangisinde anlam belirsizliği (çok anlamlılıktan kaynaklanan) yoktur?",
-  "secenekler": [
-   "Hocamın konuşması herkesi etkiledi.",
-   "Öğretmen sınıfa girince öğrenciler ayağa kalktı.",
-   "Ahmet, arabayı tamirciye bırakarak eve döndü.",
-   "Güzel kızın annesiyle konuştum.",
-   "Çantasını kaybeden çocuğun durumuna üzüldüm."
-  ],
-  "dogru": 1,
-  "aciklama": "\"Öğretmen sınıfa girince öğrenciler ayağa kalktı.\" cümlesinde iki olay arka arkaya anlatılıyor ve özne ile yüklemler net; birden fazla yoruma açık bir yapı yok. Diğer cümlelerin çoğunda ise belirsizlik var. \"Güzel kızın annesiyle konuştum.\" cümlesinde \"güzel\" sözcüğü kızı mı annesini mi niteliyor belli değildir. \"Hocamın konuşması herkesi etkiledi.\" cümlesinde hocanın yaptığı konuşma mı, hocayla yapılan konuşma mı anlaşılamaz. Doğru cevap \"Öğretmen sınıfa girince öğrenciler ayağa kalktı.\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -27648,22 +26704,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "40469",
-  "dersId": "turkce",
-  "konuId": "anlatim_bozukluklari",
-  "soru": "Aşağıdaki cümlelerin hangisinde birden fazla yüklemin ortak bir öğeyle kullanılması sırasında yapılan eksiltme yanlışlığı (yüklem ortaklığı bozukluğu) söz konusudur?",
-  "secenekler": [
-   "Müdür hem personeli ödüllendirdi hem de onlarla gurur duydu.",
-   "Çocuklar hem yoruldu hem de acıktı.",
-   "Ali hem derslerinde çalışkandır hem de her işinde başarılıdır.",
-   "Kitabı aldım, okudum ve beğendim.",
-   "Bu şehir hem çok güzeldir hem de yaşamak için oldukça pahalıdır."
-  ],
-  "dogru": 0,
-  "aciklama": "Ortak nesneyle kullanılan yüklemler aynı çekimi (aynı nesne ekini) istemelidir. \"Ödüllendirmek\" yükleme -i hâli ister (personeli ödüllendirdi), \"gurur duymak\" ise -le (ile) ister (onlarla gurur duydu). Cümlede bu iki farklı gereksinim ortak bir nesneye bağlanmış, bu yüzden yüklem ortaklığı bozukluğu oluşmuştur. \"Kitabı aldım, okudum ve beğendim.\" cümlesinde üç yüklemin de nesnesi aynı çekimdedir (-i hâli), sorun yoktur. \"Çocuklar hem yoruldu hem de acıktı.\" cümlesinde de yüklemler nesne istemez. Doğru cevap \"Müdür hem personeli ödüllendirdi hem de onlarla gurur duydu.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
   "id": "40470",
   "dersId": "turkce",
   "konuId": "anlatim_bozukluklari",
@@ -27677,22 +26717,6 @@
   ],
   "dogru": 2,
   "aciklama": "\"Kulak asmak\" deyimi kalıplaşmış olarak olumsuz biçimde, \"kulak asmamak\" şeklinde ve \"önemsememek, dikkate almamak\" anlamında kullanılır. Bu cümlede olumlu kullanılarak \"dikkate almak\" anlamı verilmeye çalışılmış, bu da deyimin yanlış kullanımına yol açmıştır. Doğrusu \"her sözü dikkate alıyordu\" ya da \"her sözü can kulağıyla dinliyordu\" olmalıdır. Bankanın cevabı olan \"Arkadaşının başarısına içi içine sığmadı.\" cümlesinde deyim, sevinçten yerinde duramamak anlamıyla doğru kullanılmıştır. \"Saatler geçmesine karşın göz kırpmadan bekledi.\" cümlesinde ise ifade, hiç uyumadan, dikkatle beklemek anlamıyla yerleşik bir kullanımdır. \"Söylediğim her şeyi burun kıvırarak dinledi.\" cümlesinde de beğenmeme anlamı yerindedir. Doğru cevap \"Patronunun ağzından çıkan her söze kulak asıyordu.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "40475",
-  "dersId": "turkce",
-  "konuId": "anlatim_bozukluklari",
-  "soru": "Aşağıdaki cümlelerin hangisinde tamlama yanlışlığından doğan bir anlatım bozukluğu söz konusudur?",
-  "secenekler": [
-   "Öğretmenin anlattığı konunun özeti tahtaya yazıldı.",
-   "Ahmet'in, Mehmet'in babasının arabasını kullandığı öğrenildi.",
-   "Kadının kırmızı renkli arabası servise götürüldü.",
-   "Çocukların oynadığı parkın yanındaki bina yıkıldı.",
-   "Sınıfın en başarılı öğrencisinin projesi sergiye seçildi."
-  ],
-  "dogru": 1,
-  "aciklama": "Zincirleme tamlamada tamlayan ve tamlananın hangi sözcüklere bağlandığı açık olmalıdır. \"Ahmet'in, Mehmet'in babasının arabasını kullandığı\" ifadesinde Ahmet'in kime ait olduğu belirsizdir: Ahmet'in mi, Mehmet'in babası mı arabanın sahibidir? Bu yanlış tamlama, anlam belirsizliği yaratır. \"Öğretmenin anlattığı konunun özeti tahtaya yazıldı.\" cümlesinde tamlama zinciri açıktır. \"Sınıfın en başarılı öğrencisinin projesi sergiye seçildi.\" cümlesinde de anlam tek türlüdür. Doğru cevap \"Ahmet'in, Mehmet'in babasının arabasını kullandığı öğrenildi.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {

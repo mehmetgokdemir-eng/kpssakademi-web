@@ -976,22 +976,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "34075",
-  "dersId": "vatandaslik",
-  "konuId": "anayasa_hukuku",
-  "soru": "Türkiye Cumhuriyeti Anayasası'nda düzenlenen 'Devletin temel amaç ve görevleri' maddesine göre aşağıdakilerden hangisi devletin temel görevleri arasında sayılmamıştır?",
-  "secenekler": [
-   "Kişinin temel hak ve hürriyetlerini sosyal hukuk devleti sınırları içinde sınırlama yetkisi",
-   "İnsan haklarına dayanan, Atatürk milliyetçiliğine bağlı devleti korumak",
-   "Türk milletinin bağımsızlığını ve bütünlüğünü korumak",
-   "Kişilerin ve toplumun refah, huzur ve mutluluğunu sağlamak",
-   "Cumhuriyeti ve demokrasiyi korumak"
-  ],
-  "dogru": 0,
-  "aciklama": "Anayasa'nın 5. maddesi devletin temel amaç ve görevlerini sayar. Bunlar Türk milletinin bağımsızlığını ve bütünlüğünü, ülkenin bölünmezliğini, Cumhuriyeti ve demokrasiyi korumak, kişi ve toplumun refah, huzur ve mutluluğunu sağlamak, kişinin temel hak ve hürriyetlerini engelleyen engelleri kaldırmaya çalışmaktır. Hakları sınırlama yetkisi ise devletin görevi olarak sayılmaz, sınırlama ancak 13. madde çerçevesinde söz konusu olur. \"Türk milletinin bağımsızlığını ve bütünlüğünü korumak\" ile \"Cumhuriyeti ve demokrasiyi korumak\" seçenekleri 5. maddede açıkça yer alır. Doğru cevap \"Kişinin temel hak ve hürriyetlerini sosyal hukuk devleti sınırları içinde sınırlama yetkisi\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
   "id": "34076",
   "dersId": "vatandaslik",
   "konuId": "anayasa_hukuku",
@@ -1232,22 +1216,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "34098",
-  "dersId": "vatandaslik",
-  "konuId": "anayasa_hukuku",
-  "soru": "Yasama dokunulmazlığına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
-  "secenekler": [
-   "Ağır cezayı gerektiren suçüstü hâlinde dokunulmazlık, özel prosedür gerekmeksizin kendiliğinden kalkar.",
-   "Dokunulmazlığı kaldırılan milletvekili, Anayasa Mahkemesi'ne bireysel başvuru yoluyla ihlal iddiasında bulunabilir.",
-   "Yasama dokunulmazlığından milletvekili bireysel olarak vazgeçemez; ancak Meclis kaldırabilir.",
-   "Meclis, üyenin dokunulmazlığını üye tam sayısının salt çoğunluğuyla kaldırabilir.",
-   "Dokunulmazlık, seçimden önce işlenen suçları da kapsar."
-  ],
-  "dogru": 3,
-  "aciklama": "C ifadesi doğrudur (m.83: üye dokunulmazlığından vazgeçemez); yanlış olan, kaldırma için üye tam sayısının salt çoğunluğu arayan “Meclis, üyenin dokunulmazlığını üye tam sayısının salt çoğunluğuyla kaldırabilir.” şıkkıdır. Doğru cevap “Meclis, üyenin dokunulmazlığını üye tam sayısının salt çoğunluğuyla kaldırabilir.” seçeneğidir.",
-  "zorluk": "zor"
- },
- {
   "id": "34099",
   "dersId": "vatandaslik",
   "konuId": "anayasa_hukuku",
@@ -1277,22 +1245,6 @@
   ],
   "dogru": 4,
   "aciklama": "Olağanüstü hal, Anayasa'nın 119. maddesine göre Cumhurbaşkanı tarafından ilan edilir. Karar Resmî Gazete'de yayımlanır ve aynı gün Türkiye Büyük Millet Meclisi'nin onayına sunulur. Meclis, süreyi kısaltabilir, uzatabilir veya kaldırabilir. Bu sıralama süreci eksiksiz gösteren tek seçenektir. Çoğu seçenek Meclis'in rolünü yanlış kurgular. \"Cumhurbaşkanı ilan eder → Bakanlar Kurulu onaylar → TBMM denetler\" seçeneği yanlıştır, çünkü onay mercii Bakanlar Kurulu değil Meclis'tir; ayrıca Bakanlar Kurulu artık yoktur. \"TBMM karar alır → Cumhurbaşkanı onaylar → Resmî Gazete'de yayımlanır\" seçeneği de ilan yetkisini Meclis'e verdiği için yanlıştır. Doğru cevap \"Cumhurbaşkanı ilan eder → Resmî Gazete'de yayımlanır → Aynı gün TBMM'ye sunulur\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "34103",
-  "dersId": "vatandaslik",
-  "konuId": "anayasa_hukuku",
-  "soru": "Temel hakların Anayasa'daki sınıflandırılmasına göre 'negatif statü hakları (kişi dokunulmazlığı, özgürlükler)' ile 'pozitif statü hakları (sosyal ve ekonomik haklar)' arasındaki temel farka ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
-  "secenekler": [
-   "Pozitif statü hakları bireysel başvuruya konu olamazken negatif statü haklarının tümü bireysel başvuruyla korunabilir.",
-   "1982 Anayasası'nda pozitif statü hakları negatif statü haklarına kıyasla daha güçlü bir anayasal güvenceye kavuşturulmuştur.",
-   "Pozitif statü haklarının hayata geçirilmesi için devletin aktif edim yükümlülüğü doğarken negatif statü hakları devletin müdahalesine katlanma yükümlülüğünü ifade eder.",
-   "Negatif statü hakları kanunla kısıtlanamaz; yalnızca olağanüstü hal kararnameleriyle sınırlandırılabilir.",
-   "Negatif statü hakları yalnızca devlete karşı ileri sürülebilirken pozitif statü hakları özel kişilere karşı da doğrudan, aracısız biçimde kullanılabilir ve yargı yoluyla talep edilebilir."
-  ],
-  "dogru": 2,
-  "aciklama": "Negatif statü hakları (kişi dokunulmazlığı, özgürlükler) devletin müdahale etmemesini, yani bireyin alanına katlanmasını gerektirir. Pozitif statü hakları (sosyal ve ekonomik haklar) ise devletin eğitim, sağlık, sosyal güvenlik gibi alanlarda aktif edimde bulunmasını, yani hizmet ve düzenleme üretmesini gerektirir. Temel fark budur. \"1982 Anayasası'nda pozitif statü hakları negatif statü haklarına kıyasla daha güçlü bir anayasal güvenceye kavuşturulmuştur.\" ifadesi yanlıştır; sosyal haklar genel olarak devletin mali kaynaklarıyla sınırlı, daha zayıf güvenceye sahiptir. \"Pozitif statü hakları bireysel başvuruya konu olamazken...\" ifadesi de yanlıştır; bireysel başvuru kapsamı hakkın statü türüne göre değil, Anayasa ve Sözleşme'deki hakların niteliğine göre belirlenir. Doğru cevap \"Pozitif statü haklarının hayata geçirilmesi için devletin aktif edim yükümlülüğü doğarken\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -2224,22 +2176,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "34166",
-  "dersId": "vatandaslik",
-  "konuId": "temel_haklar",
-  "soru": "Türkiye Cumhuriyeti Anayasası'na göre temel hak ve özgürlükler, yalnızca anayasanın ilgili maddelerinde belirtilen sebeplere dayanılarak ve ancak kanunla sınırlandırılabilir. Buna göre aşağıdaki sınırlandırma gerekçelerinden hangisi Anayasa'nın 13. maddesinde yer alan meşru sınırlandırma sebepleri arasında sayılmamaktadır?",
-  "secenekler": [
-   "Ekonomik kalkınma",
-   "Başkalarının hak ve özgürlüklerinin korunması",
-   "Genel sağlık",
-   "Millî güvenlik",
-   "Kamu düzeni"
-  ],
-  "dogru": 0,
-  "aciklama": "Anayasa'nın 13. maddesi, temel hak ve özgürlüklerin ancak Anayasa'nın ilgili maddelerinde belirtilen sebeplere dayanılarak ve kanunla sınırlanabileceğini söyler. Hak ve özgürlük maddelerinde sayılan sınırlama sebepleri arasında millî güvenlik, kamu düzeni, genel sağlık ve başkalarının hak ve özgürlüklerinin korunması gibi gerekçeler sık geçer. Ekonomik kalkınma ise temel hak ve özgürlükler için genel nitelikte bir sınırlama sebebi olarak sayılmaz. Bu yüzden en çok karıştırılan seçenekler şunlardır: \"Kamu düzeni\" ve \"Millî güvenlik\" birçok hak maddesinde açıkça yer alan klasik sınırlama sebepleridir. \"Genel sağlık\" da ilgili hak maddelerinde yer alan sebepler arasındadır. Doğru cevap \"Ekonomik kalkınma\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
   "id": "34167",
   "dersId": "vatandaslik",
   "konuId": "temel_haklar",
@@ -3008,22 +2944,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "34224",
-  "dersId": "vatandaslik",
-  "konuId": "yasama_tbmm",
-  "soru": "TBMM'de görüşülen bütçe kanun teklifi ne kadar süre içinde kabul edilmezse Cumhurbaşkanı geçici bütçe çıkarır?",
-  "secenekler": [
-   "75 gün",
-   "55 gün",
-   "60 gün",
-   "90 gün",
-   "45 gün"
-  ],
-  "dogru": 0,
-  "aciklama": "Bütçe teklifi mali yılbaşından en az 75 gün önce sunulur ve bu süre içinde kabul edilmezse geçici bütçeye gidilir; 60 gün yanlıştır. Doğru cevap 75 gün şeklindedir.",
-  "zorluk": "kolay"
- },
- {
   "id": "34225",
   "dersId": "vatandaslik",
   "konuId": "yasama_tbmm",
@@ -3165,22 +3085,6 @@
   ],
   "dogru": 3,
   "aciklama": "Anayasa'nın 175. maddesine göre Anayasa değişikliği tekliflerinin TBMM'de kabul edilebilmesi için üye tam sayısının en az beşte üçü olan 360 milletvekilinin oyu gerekir.",
-  "zorluk": "kolay"
- },
- {
-  "id": "34235",
-  "dersId": "vatandaslik",
-  "konuId": "yasama_tbmm",
-  "soru": "TBMM, bir kanunu Resmî Gazete'de yayımlamak üzere kaç gün içinde Cumhurbaşkanı'na göndermek zorundadır?",
-  "secenekler": [
-   "30 gün",
-   "5 gün",
-   "15 gün",
-   "20 gün",
-   "10 gün"
-  ],
-  "dogru": 2,
-  "aciklama": "Anayasa m.89 çerçevesinde kanunun yayımlanmasına ilişkin süre 15 gündür, anahtardaki 10 gün yanlıştır. Doğru cevap 15 gün şeklindedir.",
   "zorluk": "kolay"
  },
  {
@@ -3888,22 +3792,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "34300",
-  "dersId": "vatandaslik",
-  "konuId": "yasama_tbmm",
-  "soru": "1982 Anayasası'na göre, TBMM'nin olağanüstü toplantıya çağrılması usulüyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-  "secenekler": [
-   "Cumhurbaşkanı, TBMM'yi olağanüstü toplantıya çağırabilir.",
-   "Olağanüstü toplantıda gündem, toplantıyı talep eden organ ya da milletvekilleri tarafından belirlenir ve yalnızca bu gündem görüşülür.",
-   "Meclis olağanüstü toplantıya çağrıldığında, Meclis Başkanı bu çağrıyı reddedebilir.",
-   "TBMM Başkanı, TBMM'yi olağanüstü toplantıya çağırabilir.",
-   "Üye tamsayısının en az beşte biri oranındaki milletvekillerinin yazılı istemiyle TBMM olağanüstü toplanır."
-  ],
-  "dogru": 2,
-  "aciklama": "Anayasa'nın 93. maddesine göre Meclis tatilde veya ara vermede iken Meclis Başkanı, Cumhurbaşkanının ya da üye tamsayısının beşte birinin istemi üzerine Meclisi olağanüstü toplantıya çağırır. Çağrı yetkisi ve zorunluluğu bu şekilde düzenlendiği için Meclis Başkanı, geçerli bir istem karşısında çağrıyı reddedemez; çağrı bir takdir değil, yerine getirmesi gereken bir görevdir. \"Cumhurbaşkanı, TBMM'yi olağanüstü toplantıya çağırabilir.\" ve \"Üye tamsayısının en az beşte biri oranındaki milletvekillerinin yazılı istemiyle TBMM olağanüstü toplanır.\" ifadeleri Anayasa'daki çağrı usulüne uygundur. Dolayısıyla yanlış olan, Başkana ret yetkisi tanıyan ifadedir. Doğru cevap \"Meclis olağanüstü toplantıya çağrıldığında, Meclis Başkanı bu çağrıyı reddedebilir.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
   "id": "34301",
   "dersId": "vatandaslik",
   "konuId": "yasama_tbmm",
@@ -4029,22 +3917,6 @@
   ],
   "dogru": 1,
   "aciklama": "Anayasa m.98'e göre Meclis araştırması, belli bir konuda bilgi edinmek amacıyla yapılan incelemedir. Meclis soruşturması ise m.100'e göre Cumhurbaşkanı yardımcıları ve bakanlar hakkında görevleriyle ilgili suç işledikleri iddiasıyla yürütülen ve sonucunda Yüce Divan'a sevki mümkün kılan anayasal bir denetim aracıdır. Dolayısıyla “Meclis soruşturması Cumhurbaşkanı yardımcıları ve bakanlar hakkında cezai sorumluluk…” seçeneği doğrudur.",
-  "zorluk": "zor"
- },
- {
-  "id": "34313",
-  "dersId": "vatandaslik",
-  "konuId": "yasama_tbmm",
-  "soru": "Anayasa'nın 149. maddesi çerçevesinde Anayasa Mahkemesi'nin iptal kararlarının etkisi bakımından hangisi doğrudur?",
-  "secenekler": [
-   "İptal kararları geriye yürür; iptal edilen norma dayanan tüm bireysel işlemler kendiliğinden hükümsüz hale gelir.",
-   "Anayasa Mahkemesi iptal kararlarının yürürlük tarihini hiçbir biçimde belirleyemez; bu tarih otomatik olarak kararın açıklandığı gün olarak kabul edilir. Bu kural mutlaktır.",
-   "İptal kararı Resmî Gazete'de yayımlanmadan önce Cumhurbaşkanı tarafından onaylanmak zorundadır.",
-   "İptal kararları yalnızca gelecekteki işlemlere uygulanır ve kesinlikle geriye yürütülemez; Mahkeme'nin bu konuda takdir yetkisi yoktur.",
-   "İptal kararları kural olarak geriye yürümez ve Resmî Gazete'de yayımlandığı tarihten itibaren hüküm doğurur; Mahkeme gerekli gördüğünde yürürlüğü erteleyebilir."
-  ],
-  "dogru": 4,
-  "aciklama": "Anayasa Mahkemesi'nin iptal kararlarının etkisi Anayasa'nın 153. maddesinde düzenlenir. Bu maddeye göre iptal kararları geriye yürümez; karar Resmî Gazete'de yayımlandığı günden itibaren hüküm doğurur. Mahkeme, gerekli gördüğü hâllerde iptal hükmünün yürürlüğe gireceği tarihi ayrıca belirleyerek yürürlüğü erteleyebilir. Bu nedenle \"İptal kararları geriye yürür; iptal edilen norma dayanan tüm bireysel işlemler kendiliğinden hükümsüz hale gelir.\" ifadesi yanlıştır; kural geriye yürümemedir. \"Anayasa Mahkemesi iptal kararlarının yürürlük tarihini hiçbir biçimde belirleyemez; bu tarih otomatik olarak kararın açıklandığı gün olarak kabul edilir. Bu kural mutlaktır.\" ifadesi de yanlıştır; çünkü Mahkeme yürürlük tarihini belirleyebilir. Ayrıca iptal kararı için Cumhurbaşkanı onayı aranmaz. Doğru cevap \"İptal kararları kural olarak geriye yürümez ve Resmî Gazete'de yayımlandığı tarihten itibaren hüküm doğurur\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -4768,22 +4640,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "34364",
-  "dersId": "vatandaslik",
-  "konuId": "yurutme",
-  "soru": "Bakanlar hakkında aşağıdaki ifadelerden hangisi doğrudur?",
-  "secenekler": [
-   "Bakanlar milletvekilleri ya da milletvekili seçilme yeterliliğine sahip kişiler arasından atanır.",
-   "Bakanların atanması Cumhurbaşkanı tarafından yapılır, ancak TBMM güven oylamasına sunulmaları zorunludur.",
-   "Bakanlar milletvekili olamaz; atanmalarının ardından milletvekilliği sıfatları kendiliğinden sona erer.",
-   "Bakanlar yalnızca siyasi parti üyeleri arasından atanabilir.",
-   "Bakanlar, TBMM üyeleri arasından seçilmek zorundadır."
-  ],
-  "dogru": 0,
-  "aciklama": "Cumhurbaşkanlığı hükümet sisteminde Cumhurbaşkanı, bakanları milletvekilleri ya da milletvekili seçilme yeterliliğine sahip kişiler arasından atar (Anayasa m.106). Bakan olarak atanan bir milletvekilinin milletvekilliği sona erer, ancak bu şartın kapsamı geniştir: aday milletvekili olabilecek herkes bakan olabilir. Bu nedenle doğru ifade, atama havuzunu doğru tanımlayan seçenektir. \"Bakanlar milletvekili olamaz; atanmalarının ardından milletvekilliği sıfatları kendiliğinden sona erer\" seçeneği yanlıştır; çünkü milletvekilleri bakan olarak atanabilir ve milletvekilliği, atama sonrasında sona erer, ancak seçenek bakanların havuzunu daraltarak yanlış sonuca götürür. \"Bakanların atanması Cumhurbaşkanı tarafından yapılır, ancak TBMM güven oylamasına sunulmaları zorunludur\" seçeneği de yanlıştır; çünkü yeni sistemde güven oylaması yoktur. Doğru cevap \"Bakanlar milletvekilleri ya da milletvekili seçilme yeterliliğine sahip kişiler arasından atanır\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
   "id": "34365",
   "dersId": "vatandaslik",
   "konuId": "yurutme",
@@ -5328,22 +5184,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "34412",
-  "dersId": "vatandaslik",
-  "konuId": "yurutme",
-  "soru": "Cumhurbaşkanlığı hükümet sisteminde Cumhurbaşkanı'nın TBMM seçimlerini yenileme yetkisine ilişkin aşağıdaki hangi bilgi yanlıştır?",
-  "secenekler": [
-   "TBMM üye tam sayısının beşte üçü seçimlerin yenilenmesine karar verebilir; bu durumda Cumhurbaşkanlığı seçimi de yenilenir",
-   "TBMM'nin seçimleri yenileme kararı almış olması tek başına Cumhurbaşkanlığı seçiminin de yapılması sonucunu doğurur",
-   "Cumhurbaşkanı seçimlerin yenilenmesine karar verirse kendi seçimi de yenilenir",
-   "Seçimlerin yenilenmesi kararı alındığında mevcut Cumhurbaşkanı seçim sonuçlanana kadar görevine devam eder",
-   "Seçim yenileme kararı Cumhurbaşkanı'nın tek taraflı takdir yetkisine bırakılmıştır; herhangi bir koşul aranmaz"
-  ],
-  "dogru": 4,
-  "aciklama": "Anayasa'nın 116. maddesine göre seçimlerin yenilenmesine Cumhurbaşkanı veya TBMM üye tam sayısının beşte üç çoğunluğu karar verebilir. Hangisi karar verirse versin TBMM ve Cumhurbaşkanlığı seçimleri birlikte yenilenir. Seçim sonuçlanıp yeni Cumhurbaşkanı göreve başlayana kadar mevcut Cumhurbaşkanı görevini sürdürür. Bu nedenle yetki yalnızca Cumhurbaşkanı'na ait değildir ve karar mekanizması TBMM'nin beşte üçlük çoğunluğuyla da işler. \"Cumhurbaşkanı seçimlerin yenilenmesine karar verirse kendi seçimi de yenilenir\" ifadesi doğrudur, çünkü iki seçim birlikte yapılır. \"TBMM'nin seçimleri yenileme kararı almış olması tek başına Cumhurbaşkanlığı seçiminin de yapılması sonucunu doğurur\" ifadesi de doğrudur. Doğru cevap \"Seçim yenileme kararı Cumhurbaşkanı'nın tek taraflı takdir yetkisine bırakılmıştır\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
   "id": "34413",
   "dersId": "vatandaslik",
   "konuId": "yurutme",
@@ -5424,22 +5264,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "34419",
-  "dersId": "vatandaslik",
-  "konuId": "yurutme",
-  "soru": "1982 Anayasası'na göre Cumhurbaşkanı, Bakanlar Kurulunu feshedip yeniden seçime gidebilmek için hangi koşulların birlikte gerçekleşmesi zorunludur?",
-  "secenekler": [
-   "45 gün içinde hükümetin kurulamaması ve akabinde kurulan hükümetin güvenoyu alamaması hâlinde Meclis Başkanına danışılarak karar alınması ve seçim kararı verilmesi",
-   "45 gün içinde hükümetin kurulamaması ve Meclis'in salt çoğunlukla onay vermesi",
-   "İki hükümet denemesinin de güvenoyu alamaması ve üçüncü denemede yine güvenoyu sağlanamaması üzerine Meclis Başkanına danışılarak seçim kararı alınması",
-   "İlk kurulan hükümetin güvenoyu alamaması üzerine doğrudan Cumhurbaşkanının takdiriyle",
-   "Meclis'in güvensizlik oyuyla hükümeti düşürmesi ve ardından 60 gün içinde yeni hükümetin kurulamaması"
-  ],
-  "dogru": 0,
-  "aciklama": "1982 Anayasası'nın mülga 116. maddesine göre 45 gün içinde hükümetin kurulamaması veya kurulan hükümetin güvenoyu alamaması üzerine Cumhurbaşkanı TBMM Başkanına danışarak seçim kararı verebilirdi; bu “45 gün içinde hükümetin kurulamaması ve akabinde kurulan hükümetin güvenoyu alamaması…” şıkkıdır. Doğru cevap “45 gün içinde hükümetin kurulamaması ve akabinde kurulan hükümetin güvenoyu alamaması…” seçeneğidir.",
-  "zorluk": "zor"
- },
- {
   "id": "34420",
   "dersId": "vatandaslik",
   "konuId": "yurutme",
@@ -5472,22 +5296,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "34424",
-  "dersId": "vatandaslik",
-  "konuId": "yurutme",
-  "soru": "Aşağıdaki seçeneklerde verilen Cumhurbaşkanlığı kararname türleri ile özelliklerinin eşleşmesi hakkında hangisi yanlıştır?",
-  "secenekler": [
-   "Cumhurbaşkanlığı Genelgesi – Bağlayıcılığı yalnızca yürütme organı içindir; kişilere doğrudan yükümlülük yükleyemez.",
-   "Olağan Cumhurbaşkanlığı Kararnamesi – Anayasa'nın Cumhurbaşkanına tanıdığı yürütme yetkisine dayanır; kanunun açıkça düzenlediği alanlarda kanun önceliği vardır.",
-   "Cumhurbaşkanlığı Kararnamesi – Kanun hükmünde olup Anayasa Mahkemesi tarafından iptal edilebilir.",
-   "OHAL Cumhurbaşkanlığı Kararnamesi – Olağanüstü hâl kapsamındaki temel hak sınırlamalarını içerebilir; TBMM onayına tabidir.",
-   "OHAL Cumhurbaşkanlığı Kararnamesi – Olağan dönemde kanunla dahi yapılamayacak düzenlemeler içeremez."
-  ],
-  "dogru": 2,
-  "aciklama": "Soru yanlış eşleşmeyi aramaktadır. 1982 Anayasası'nın önceki sisteminde kanun hükmünde kararname (KHK) vardı. Cumhurbaşkanlığı kararnamesi ise kanun hükmünde değildir, kanunun altında yer alan ve kanunla çelişemeyen bir düzenleyici işlemdir. Anayasa Mahkemesi onu iptal edebilir, ancak \"kanun hükmünde\" nitelemesi hatalıdır. \"Cumhurbaşkanlığı Genelgesi – Bağlayıcılığı yalnızca yürütme organı içindir; kişilere doğrudan yükümlülük yükleyemez.\" eşleşmesi ise doğrudur, çünkü genelge idare içi bir işlemdir. \"Olağan Cumhurbaşkanlığı Kararnamesi – Anayasa'nın Cumhurbaşkanına tanıdığı yürütme yetkisine dayanır; kanunun açıkça düzenlediği alanlarda kanun önceliği vardır.\" eşleşmesi de doğrudur. Doğru cevap \"Cumhurbaşkanlığı Kararnamesi – Kanun hükmünde olup Anayasa Mahkemesi tarafından iptal edilebilir.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
   "id": "34428",
   "dersId": "vatandaslik",
   "konuId": "yurutme",
@@ -5517,22 +5325,6 @@
   ],
   "dogru": 4,
   "aciklama": "Anayasa'nın 116. maddesine göre TBMM üye tam sayısının beşte üç çoğunluğuyla veya Cumhurbaşkanı seçimlerin yenilenmesine karar verebilir. Hangi organ karar verirse versin Cumhurbaşkanlığı ve TBMM seçimleri birlikte yenilenir, yani seçimler ayrı ayrı yenilenemez. Bu nedenle \"TBMM üye tam sayısının beşte üç çoğunluğuyla seçimlerin yenilenmesine karar verirse yalnızca TBMM seçimleri yenilenir.\" ifadesi yanlıştır, çünkü seçimler birlikte yenilenir. \"Cumhurbaşkanı, TBMM seçimlerini yenilemek isterse bunu ancak TBMM'nin de aynı yönde karar almasına bağlı olarak gerçekleştirebilir\" ifadesi de yanlıştır, çünkü Cumhurbaşkanı bu kararı kendisi alabilir. Doğru cevap \"TBMM, Cumhurbaşkanlığı seçiminin yenilenmesine karar verirse Cumhurbaşkanlığı seçimi de yenilenir\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "34431",
-  "dersId": "vatandaslik",
-  "konuId": "yurutme",
-  "soru": "Devlet Denetleme Kurulu (DDK) hakkında aşağıdaki ifadelerden hangisi yanlıştır?",
-  "secenekler": [
-   "DDK, yargı kuruluşlarını denetleme yetkisine sahip değildir.",
-   "DDK'nın görev alanı kamu kurumu niteliğindeki meslek kuruluşlarını da kapsar.",
-   "DDK üyeleri Cumhurbaşkanı tarafından atanır ve başkanı da Cumhurbaşkanı tarafından belirlenir.",
-   "DDK, Türk Silahlı Kuvvetleri'ni denetleme yetkisine sahiptir.",
-   "DDK, Cumhurbaşkanının isteği üzerine tüm kamu kurum ve kuruluşlarında inceleme, araştırma ve denetleme yapabilir."
-  ],
-  "dogru": 3,
-  "aciklama": "Devlet Denetleme Kurulu Cumhurbaşkanlığına bağlıdır ve Anayasa'nın 108. maddesine göre Cumhurbaşkanı'nın isteği üzerine kamu kurum ve kuruluşlarında, kamu kurumu niteliğindeki meslek kuruluşlarında, her derecedeki mahalli idarelerde ve bunlara bağlı kuruluşlarda inceleme, araştırma ve denetleme yapar. Üyeleri ve başkanı Cumhurbaşkanı tarafından atanır. Askeri kuruluşlar ve yargı organları ise kurulun görev alanı dışındadır. Bu nedenle \"DDK, yargı kuruluşlarını denetleme yetkisine sahip değildir.\" ifadesi doğrudur. \"DDK'nın görev alanı kamu kurumu niteliğindeki meslek kuruluşlarını da kapsar.\" ifadesi de doğrudur. Yanlış olan ifade, kurulun silahlı kuvvetleri denetleyebildiğini söyleyendir. Doğru cevap \"DDK, Türk Silahlı Kuvvetleri'ni denetleme yetkisine sahiptir.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -6112,22 +5904,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "34482",
-  "dersId": "vatandaslik",
-  "konuId": "yargi_organlari",
-  "soru": "Yargıtay ile Danıştay'ın ortak özelliği aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Her ikisi de Adalet Bakanlığı'na bağlı olarak görev yapar.",
-   "Her ikisi de anayasaya aykırılık iddiasıyla önlerine gelen itirazları sonuçlandırır.",
-   "Her ikisinin üyeleri de HSK tarafından seçilir.",
-   "Her ikisi de kendi alanındaki davalarda içtihat birliğini sağlamakla görevlidir.",
-   "Her ikisi de hem ilk derece hem de temyiz mahkemesi olarak görev yapar."
-  ],
-  "dogru": 3,
-  "aciklama": "Yargıtay adli yargının, Danıştay ise idari yargının en yüksek mahkemesidir. İkisi de kendi yargı kolunda alt derece mahkemelerinin kararlarını inceleyerek hukuki içtihat birliğini sağlar. Yargıtay ve Danıştay Adalet Bakanlığı'na bağlı değildir; bağımsız yüksek mahkemelerdir. \"Her ikisinin üyeleri de HSK tarafından seçilir.\" ifadesi de yanlıştır; Yargıtay ve Danıştay üyelerinin seçimi farklı usullerle yapılır. \"Her ikisi de anayasaya aykırılık iddiasıyla önlerine gelen itirazları sonuçlandırır.\" ifadesi de yanlıştır; bu yetki Anayasa Mahkemesi'ne aittir. Doğru cevap \"Her ikisi de kendi alanındaki davalarda içtihat birliğini sağlamakla görevlidir.\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
   "id": "34483",
   "dersId": "vatandaslik",
   "konuId": "yargi_organlari",
@@ -6493,22 +6269,6 @@
   ],
   "dogru": 3,
   "aciklama": "Anayasa'nın 159. maddesine göre HSK'nın meslekten çıkarma kararları dahil bütün kararlarına karşı yargı mercilerine başvurulamaz. Meslekten çıkarma kararlarına karşı itiraz yolu ise Kurul içinde işler. Bu nedenle \"Kurul kararları yargı denetimine tabidir.\" ifadesi yanlıştır. \"Kurulun 13 üyesi bulunmaktadır.\" ifadesi güncel düzenlemede doğrudur. \"Kurulun Başkanı Adalet Bakanıdır.\" ve \"Adalet Bakanlığı Müsteşarı Kurulun doğal üyesidir.\" ifadeleri de Anayasa'daki yapıyla uyumludur. Doğru cevap \"Kurul kararları yargı denetimine tabidir.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "34515",
-  "dersId": "vatandaslik",
-  "konuId": "yargi_organlari",
-  "soru": "Yargıtay Cumhuriyet Başsavcısı'nın Anayasa Mahkemesi'ne siyasi parti kapatma davası açması için aşağıdaki koşulların hangisi yanlış ifade edilmiştir?",
-  "secenekler": [
-   "Dava açılabilmesi için TBMM'nin salt çoğunluğunun kararı şarttır.",
-   "Başsavcı, dava açmadan önce Adalet Bakanı'nın iznini almak zorunda değildir.",
-   "Başsavcı, Anayasa Mahkemesi'ne iddianame düzenleyerek başvurur.",
-   "Başsavcının re'sen harekete geçmesi ya da Cumhurbaşkanlığı veya TBMM'nin talebiyle dava açılabilir.",
-   "Kapatma kararı için Anayasa Mahkemesi üye tam sayısının beşte üçü gereklidir."
-  ],
-  "dogru": 0,
-  "aciklama": "Anayasa'nın 69. maddesine göre siyasi parti kapatma davasını Yargıtay Cumhuriyet Başsavcısı Anayasa Mahkemesi'ne iddianameyle açar. Bunun için TBMM'nin salt çoğunluğunun kararı gerekmez. Kapatma kararı için Mahkeme üye tam sayısının en az beşte üç çoğunluğu aranır. \"Başsavcı, Anayasa Mahkemesi'ne iddianame düzenleyerek başvurur.\" ifadesi doğrudur. \"Kapatma kararı için Anayasa Mahkemesi üye tam sayısının beşte üçü gereklidir.\" ifadesi de doğrudur. Doğru cevap \"Dava açılabilmesi için TBMM'nin salt çoğunluğunun kararı şarttır.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -9259,8 +9019,8 @@
    "10 gün",
    "3 gün"
   ],
-  "dogru": 2,
-  "aciklama": "5393 sayılı Kanun md.23'e göre başkan kararı 7 gün içinde gerekçesiyle meclise iade edebilir, dolayısıyla doğru şık C'dir. Doğru cevap 7 gün şeklindedir.",
+  "dogru": 0,
+  "aciklama": "5393 sayılı Belediye Kanunu'nun 23. maddesine göre belediye başkanı, hukuka aykırı gördüğü meclis kararlarını gerekçesini belirterek 5 gün içinde yeniden görüşülmek üzere meclise iade edebilir. Meclis, iade edilen kararda üye tam sayısının salt çoğunluğuyla ısrar ederse karar kesinleşir. Belediye başkanı ısrar edilen bu karara karşı 10 gün içinde idari yargıya başvurabilir. Bu nedenle 10 gün süresi iade için değil, yargı yoluna başvuru için öngörülmüştür.",
   "zorluk": "kolay"
  },
  {

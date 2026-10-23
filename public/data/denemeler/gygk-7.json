@@ -45,19 +45,19 @@
      "zorluk": "orta"
     },
     {
-     "id": "38451",
+     "id": "39880",
      "dersId": "turkce",
      "konuId": "yazim_kurallari",
-     "soru": "Aşağıdakilerin hangisinde kısaltmanın yazımı yanlıştır?",
+     "soru": "Aşağıdaki cümlelerin hangisinde birleşik sözcüğün yazımı yanlıştır?",
      "secenekler": [
-      "Prof. Dr. Ahmet Yılmaz konferans verdi.",
-      "TDK'nın yayımladığı kılavuz güncellenmiştir.",
-      "Bkz. ilgili bölüm.",
-      "Toplantı s. 14'te başlayacak.",
-      "vb. gibi kısaltmalar metni kısaltır."
+      "Kuzukulağı salatası çok lezzetli olur.",
+      "Devedikeni yolun kenarında büyümüştü.",
+      "Geçen hafta başkent'e gittik.",
+      "Aslanağzı çiçekleri bahçeyi süslüyordu.",
+      "Hanımeli kokusunu çok severim."
      ],
      "dogru": 2,
-     "aciklama": "TDK Yazım Kılavuzu'nda 'bakınız' kısaltması 'bk.' olduğundan hatalı yazım C'dedir; E'deki 'vb. gibi' kısaltma yazımı değil anlatım sorunudur, D ise kurallıdır. Doğru cevap Bkz. ilgili bölüm şeklindedir.",
+     "aciklama": "'başkent'e' yanlıştır. 'Başkent' özel isim değil, sıradan bir isimdir (şehrin adı değil, kavramın adı). Bu nedenle 'başkente' şeklinde, kesme işareti olmadan yazılmalıdır. Kesme işareti yalnızca özel isimlere gelen eklerde kullanılır.",
      "zorluk": "orta"
     },
     {
@@ -93,19 +93,19 @@
      "zorluk": "zor"
     },
     {
-     "id": "39302",
+     "id": "38831",
      "dersId": "turkce",
      "konuId": "cumle_ogeleri",
-     "soru": "Aşağıdaki cümlelerin hangisinde özne ile yüklem arasında sayı uyumu bulunmamakta; ancak bu durum bir dil yanlışı değil, Türkçenin belirli bir kullanım kuralının sonucudur?",
+     "soru": "\"Sabahın erken saatlerinde kalkıp çalışmak için kendini zorlayan adam, yıllarca süren bu alışkanlığının bir gün fark edileceğini umarak bürosuna kapanırdı.\" cümlesinde kaç tane yüklem vardır?",
      "secenekler": [
-      "Öğrenciler, sınava girdi.",
-      "Çocuklar koştu, büyükler oturdu.",
-      "Kuşlar göç etti.",
-      "Kalabalık, meydana aktı.",
-      "İnsanlar gittikçe birbirinden uzaklaşıyor."
+      "1",
+      "4",
+      "5",
+      "3",
+      "2"
      ],
-     "dogru": 2,
-     "aciklama": "Türkçede insan dışı (hayvan/cansız) çoğul özneler tekil yüklem alır kuralı gereği uyumsuzluk yanlış sayılmaz; bu C'deki 'Kuşlar göç etti' örneğidir. Doğru cevap Kuşlar göç etti şeklindedir.",
+     "dogru": 0,
+     "aciklama": "Cümlede yüklem, temel cümlenin bildirimi taşıyan unsurdur. 'Kalkıp', 'zorlayan', 'fark edileceğini' birer sıfat-fiil veya zarf-fiil olduğundan yardımcı yüklem değil, yan cümle kurucu öge görevindedir. Temel yüklem yalnızca 'kapanırdı'dır. Dolayısıyla cümlede tek yüklem vardır.",
      "zorluk": "zor"
     },
     {
@@ -1631,19 +1631,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "32496",
+     "id": "32507",
      "dersId": "cografya",
      "konuId": "turkiye_i_klimi",
-     "soru": "Türkiye'de aynı enleme sahip olmalarına karşın Karadeniz kıyıları ile İç Anadolu'nun yıllık yağış miktarları arasında büyük farklar gözlemlenmektedir. Bu farklılığın oluşmasında etkili olan faktörleri önem sırasına göre doğru biçimde sıralayan seçenek hangisidir?",
+     "soru": "Türkiye'de yıllık ortalama sıcaklık değerleri hem enlem hem de yükseltiyle doğrudan ilişkilidir. Buna karşın aynı enleme ve yükseltiye sahip olan iki istasyondan birinin diğerine kıyasla belirgin biçimde daha yüksek yıllık ortalama sıcaklık gösterdiği durumlar da bulunmaktadır. Bu durumun en güçlü açıklaması aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Denize uzaklık – Hâkim rüzgârlar – Yükselti – Bakı",
-      "Denize uzaklık – Bakı – Yükselti – Bitki örtüsü",
-      "Hâkim rüzgârlar – Yükselti – Bakı – Denize uzaklık",
-      "Bakı – Denize uzaklık – Hâkim rüzgârlar – Yükselti",
-      "Yükselti – Bakı – Denize uzaklık – Hâkim rüzgârlar"
+      "İstasyonlardan birinin komşu bir şehrin kentsel ısı adası etkisinde kalması",
+      "Birinin gece boyunca soğuk hava birikintisi (soğuk hava gölü) oluşturan çukur arazide, diğerinin ise açık bir plato üzerinde bulunması",
+      "İstasyonların birinin yakınında büyük bir rezervuarın bulunması ve su kütlesinin sıcaklığı düzenlemesi",
+      "Biri geniş yapraklı ormanla kaplı, diğeri çıplak kaya yüzeyleriyle kaplı alanda yer aldığından albedo farklılığının sıcaklığı etkilemesi",
+      "İstasyonlardan birinin güneye bakan yamaçta, diğerinin ise kuzeye bakan yamaçta konumlanmış olması (bakı farkı)"
      ],
-     "dogru": 0,
-     "aciklama": "Karadeniz kıyısı ile İç Anadolu arasındaki yağış farkında birincil etken denize yakınlık/uzaklık ve nemli hava kütlelerini taşıyan hâkim rüzgârlardır; denize uzaklığı en sona koyan C sıralaması savunulamaz. Doğru cevap Denize uzaklık – Hâkim rüzgârlar – Yükselti – Bakı şeklindedir.",
+     "dogru": 4,
+     "aciklama": "Enlem ve yükselti sabit tutulduğunda yıllık ortalama sıcaklığı etkileyen en güçlü lokal faktör bakıdır. Türkiye'nin bulunduğu orta enlemlerde güney bakılı yamaçlar (güneye bakan) güneş ışınımını çok daha dik açıyla alır ve uzun süreli güneşlenmeye sahip olur. Bu durum hem doğrudan ısınmayı artırır hem de karın daha erken erimesini sağlayarak toprak yüzeyinin daha erken ısınmasına yol açar. Kuzey bakılı yamaçlar ise tam tersi karakterdedir. Bu nedenle aynı enlem ve yükseltide bile bakı farkı yıllık ortalama sıcaklıkta 3-5°C'ye varan fark yaratabilir.",
      "zorluk": "zor"
     },
     {
@@ -1797,19 +1797,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "34419",
+     "id": "34420",
      "dersId": "vatandaslik",
      "konuId": "yurutme",
-     "soru": "1982 Anayasası'na göre Cumhurbaşkanı, Bakanlar Kurulunu feshedip yeniden seçime gidebilmek için hangi koşulların birlikte gerçekleşmesi zorunludur?",
+     "soru": "Cumhurbaşkanlığı Hükümet Sistemi'nde Cumhurbaşkanlığı kararnamesiyle düzenleme yapılabilmesi için aşağıdaki koşullardan hangisi ya da hangileri doğrudur?\nI. Anayasa'da münhasıran kanunla düzenleneceği öngörülen konularda kararname çıkarılamaz.\nII. Kanunla açıkça düzenlenmiş alanlarda aynı konuyu Cumhurbaşkanlığı kararnamesiyle düzenlemek mümkündür.\nIII. Cumhurbaşkanlığı kararnameleri temel haklar, kişi hakları ve siyasi haklar alanında düzenleme yapamaz.",
      "secenekler": [
-      "45 gün içinde hükümetin kurulamaması ve akabinde kurulan hükümetin güvenoyu alamaması hâlinde Meclis Başkanına danışılarak karar alınması ve seçim kararı verilmesi",
-      "45 gün içinde hükümetin kurulamaması ve Meclis'in salt çoğunlukla onay vermesi",
-      "İki hükümet denemesinin de güvenoyu alamaması ve üçüncü denemede yine güvenoyu sağlanamaması üzerine Meclis Başkanına danışılarak seçim kararı alınması",
-      "İlk kurulan hükümetin güvenoyu alamaması üzerine doğrudan Cumhurbaşkanının takdiriyle",
-      "Meclis'in güvensizlik oyuyla hükümeti düşürmesi ve ardından 60 gün içinde yeni hükümetin kurulamaması"
+      "II ve III",
+      "I, II ve III",
+      "I ve III",
+      "Yalnız III",
+      "Yalnız I"
      ],
-     "dogru": 0,
-     "aciklama": "1982 Anayasası'nın mülga 116. maddesine göre 45 gün içinde hükümetin kurulamaması veya kurulan hükümetin güvenoyu alamaması üzerine Cumhurbaşkanı TBMM Başkanına danışarak seçim kararı verebilirdi; bu “45 gün içinde hükümetin kurulamaması ve akabinde kurulan hükümetin güvenoyu alamaması…” şıkkıdır. Doğru cevap “45 gün içinde hükümetin kurulamaması ve akabinde kurulan hükümetin güvenoyu alamaması…” seçeneğidir.",
+     "dogru": 2,
+     "aciklama": "Anayasa'nın 104. maddesinin 17. fıkrasına göre Cumhurbaşkanlığı kararnameleri: (1) Anayasa'da münhasıran kanunla düzenlenmesi öngörülen konularda çıkarılamaz, (2) temel haklar, kişi hakları ve siyasi haklar alanında düzenleme yapamaz, (3) kanunla zaten açıkça düzenlenmiş alanlarda kanuna aykırı olamaz ve kanun varken aynı konuda kararname ile düzenleme yapılırsa kanun hükümleri esas alınır. Dolayısıyla II numaralı önerme yanlıştır; kanunla düzenlenmiş alanda kararname geçerliliğini yitirir. I ve III doğrudur.",
      "zorluk": "zor"
     },
     {

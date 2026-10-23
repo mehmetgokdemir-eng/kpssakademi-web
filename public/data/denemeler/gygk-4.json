@@ -13,19 +13,19 @@
    "ad": "Türkçe",
    "sorular": [
     {
-     "id": "39420",
+     "id": "39102",
      "dersId": "turkce",
      "konuId": "sozcukte_anlam",
-     "soru": "Aşağıdaki cümlelerin hangisinde sözcük, 'terim anlamı' ile kullanılmıştır?",
+     "soru": "Aşağıdaki cümlelerden hangisinde sözcük, gerçek anlamı dışında kullanılmamıştır?",
      "secenekler": [
-      "Müdahil sıfatıyla davaya katılmak istedi.",
-      "Hâkim, tarafları uzlaşmaya davet etti.",
-      "Savcı, sanığın suç eylemini tek tek açıkladı.",
-      "Mahkeme, davayı sonuca bağlamak için uzun süre çalıştı.",
-      "Taraflar arasındaki anlaşmazlık büyüyerek sürdü."
+      "Fırtına şehrin üstüne çöktü, her yer karanlığa büründü.",
+      "Bu söz onun kalbine ok gibi saplandı.",
+      "Küçük çocuğun masumiyeti herkesi eritti.",
+      "Sabahın erken saatlerinde kar yağmaya başladı.",
+      "Haberler onu yıkmış, günlerce kendine gelememiş."
      ],
-     "dogru": 0,
-     "aciklama": "Terim anlamı, bir sözcüğün belirli bir bilim, meslek ya da sanat dalında özel ve kesin bir kavramı karşılamasıdır. \"Müdahil\", hukukta bir davaya sonradan, kendi hakkını korumak için katılan kişiyi gösteren özel bir terimdir; cümlede bu anlamıyla kullanılmıştır. \"Hâkim\" ve \"savcı\" mesleği bildiren, genel kullanımda da bilinen sözcüklerdir ve bu cümlelerde terim anlamı öne çıkmaz. \"Mahkeme, davayı sonuca bağlamak için uzun süre çalıştı.\" ve \"Taraflar arasındaki anlaşmazlık büyüyerek sürdü.\" cümlelerindeki sözcükler günlük dilde de aynı anlamda kullanılır. Doğru cevap \"Müdahil sıfatıyla davaya katılmak istedi.\" seçeneğidir.",
+     "dogru": 3,
+     "aciklama": "Gerçek anlamda kullanımda sözcükler sözlükteki temel anlamıyla yer alır. \"Sabahın erken saatlerinde kar yağmaya başladı.\" cümlesinde \"yağmak\" ve \"başlamak\" doğal olayı olduğu gibi anlatır, hiçbir sözcükte kayma yoktur. \"Fırtına şehrin üstüne çöktü, her yer karanlığa büründü.\" cümlesinde \"çökmek\" ve \"bürünmek\" fırtınaya insan ya da nesne özelliği vererek mecaz anlam kazanır. \"Haberler onu yıkmış, günlerce kendine gelememiş.\" cümlesinde \"yıkmak\" ruhsal çöküşü anlatır; yani gerçek anlam dışındadır. \"Bu söz onun kalbine ok gibi saplandı.\" cümlesi ise benzetmeye dayanır. Doğru cevap \"Sabahın erken saatlerinde kar yağmaya başladı.\" seçeneğidir.",
      "zorluk": "orta"
     },
     {
@@ -93,19 +93,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "40260",
+     "id": "40237",
      "dersId": "turkce",
      "konuId": "cumle_ogeleri",
-     "soru": "Aşağıdaki cümlelerin hangisinde zarf tümleci, cümleden çıkarıldığında yüklemin anlamı tümüyle değişir ya da cümle dilbilgisel olarak bozulur?",
+     "soru": "'Kardeşim, benim için saatlerce yağmurda beklemiş.'\n\nBu cümlede 'benim için' öbeğinin cümle içindeki ögesi ve bu ögenin türü aşağıdakilerin hangisinde doğru verilmiştir?\n\nA) Dolaylı tümleç – yönelme\nB) Zarf tümleci – amaç zarfı\nC) Belirtisiz nesne – yalın\nD) Zarf tümleci – neden/sebep zarfı\nE) Yüklem – ek eylem",
      "secenekler": [
-      "Akşam yavaşça uyudu.",
-      "Sabah erken kalktı.",
-      "Mutfakta yemek yedi.",
-      "Eve gitti.",
-      "Sessizce konuştu."
+      "Belirtisiz nesne – yalın",
+      "Yüklem – ek eylem",
+      "Zarf tümleci – neden/sebep zarfı",
+      "Zarf tümleci – amaç zarfı",
+      "Dolaylı tümleç – yönelme"
      ],
      "dogru": 3,
-     "aciklama": "\"Eve gitti.\" cümlesinde \"eve\" yönelme hâlindedir ve \"nereye gitti?\" sorusunun yanıtıdır. \"Gitmek\" eylemi yön bildiren bir öğeyle tamamlanır; \"eve\" çıkarılırsa yüklemin anlamı eksik kalır, kime ya da nereye gidildiği belirsizleşir. \"Sabah erken kalktı.\" cümlesinde \"sabah\" ve \"erken\" yalnızca zaman bildirir; çıkarılınca \"kalktı\" tek başına tam bir yargı verir. \"Sessizce konuştu.\" cümlesinde \"sessizce\" durum bildirir; çıkarılırsa \"konuştu\" anlamını korur. Doğru cevap \"Eve gitti.\" seçeneğidir.",
+     "aciklama": "\"Benim için\" öbeği, \"için\" ilgeciyle kurulmuştur ve yükleme \"niçin, ne amaçla beklemiş?\" sorusunu sorduğumuzda yanıt verir. Kardeşin beklemesi, konuşanın uğruna yapılmıştır. Bu yüzden öbek amaç bildirir ve zarf tümleci görevindedir. \"Dolaylı tümleç – yönelme\" seçeneği yanlıştır, çünkü öbek -e hâli taşımaz ve yer yönü bildirmez. \"Zarf tümleci – neden/sebep zarfı\" seçeneği de elenir, çünkü cümlede bir sebep ilişkisi değil, kişiye yönelik bir uğraş vardır. Öbek nesne ya da yüklem de değildir. Doğru cevap \"Zarf tümleci – amaç zarfı\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -205,19 +205,19 @@
      "zorluk": "zor"
     },
     {
-     "id": "38500",
+     "id": "39923",
      "dersId": "turkce",
      "konuId": "yazim_kurallari",
-     "soru": "Aşağıdaki cümlelerin hangisinde alıntı cümle veya sözlerle ilgili tırnak işaretinin kullanımında yanlışlık yapılmıştır?",
+     "soru": "Aşağıdaki cümlelerin hangisinde büyük harf kullanımı yanlıştır?\n\nA) Türkiye Büyük Millet Meclisi bu kararı aldı.\nB) Her yıl 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kutlanır.\nC) İslam dini, dünyada yaygın dinler arasındadır.\nD) Müdür Bey toplantıya katılacak mı?\nE) Türk Dili ve Edebiyatı dersinde başarılı oldu.",
      "secenekler": [
-      "Atatürk, \"Muhtaç olduğun kudret, damarlarındaki asil kanda mevcuttur\" demiştir.",
-      "Raporda \"acil müdahale\" gerektiren bölgeler işaretlendi.",
-      "Öğretmen, \"Bugün sınav yok,\" dedi ve dışarı çıktı.",
-      "Yazar, \"Edebiyat bir ihtiyaçtır; onsuz yaşanmaz.\" görüşünü savundu.",
-      "\"Bu işi ben yapacağım\" diyerek söz verdi."
+      "İslam dini, dünyada yaygın dinler arasındadır.",
+      "Türkiye Büyük Millet Meclisi bu kararı aldı.",
+      "Her yıl 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kutlanır.",
+      "Müdür Bey toplantıya katılacak mı?",
+      "Türk Dili ve Edebiyatı dersinde başarılı oldu."
      ],
      "dogru": 3,
-     "aciklama": "Alıntı cümle ana cümlenin içinde devam ettiği için tırnak içinde nokta konulmamalı, virgülle bağlanmalıydı; “\"Bu işi ben yapacağım\" diyerek söz verdi.” seçeneğinde ise yanlışlık yok. Doğru cevap “Yazar, \"Edebiyat bir ihtiyaçtır; onsuz yaşanmaz.\" görüşünü savundu.” seçeneğidir.",
+     "aciklama": "Unvan sözcükleri, kişi adlarıyla birlikte kullanıldığında büyük harfle yazılır (Müdür Ahmet Bey). Ancak burada 'Müdür Bey' ibaresinde 'Bey' sözcüğü unvan değil hitap sözcüğüdür ve küçük harfle yazılmalıdır: 'Müdür bey'. Hitap sözcükleri büyük harfle yazılmaz.",
      "zorluk": "zor"
     },
     {

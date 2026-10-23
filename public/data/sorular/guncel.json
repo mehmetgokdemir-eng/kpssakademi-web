@@ -896,22 +896,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "36072",
-  "dersId": "guncel",
-  "konuId": "turkiye_guncel",
-  "soru": "Türkiye'de 2023 depremleri sonrasında ilan edilen 'olağanüstü hal' kapsamındaki bölgelerde uygulanan vergi ve sigorta prim muafiyetleri başta olmak üzere ekonomik destek tedbirleri hangi yasal düzenlemeyle hayata geçirilmiştir?",
-  "secenekler": [
-   "375 Sayılı Kanun Hükmünde Kararname",
-   "7440 Sayılı Vergi ve Diğer Bazı Alacakların Yeniden Yapılandırılması Hakkında Kanun",
-   "6306 Sayılı Afet Riski Altındaki Alanların Dönüştürülmesi Hakkında Kanun'da değişiklik",
-   "Cumhurbaşkanlığı Kararnamesi ile ilan edilen Deprem Ekonomi Programı",
-   "7456 Sayılı Deprem Konutları ve Ekonomik Destek Kanunu"
-  ],
-  "dogru": 1,
-  "aciklama": "E'deki '7456 Sayılı Deprem Konutları ve Ekonomik Destek Kanunu' diye bir kanun yoktur (7456 ek MTV kanunudur); deprem bölgesine yönelik vergi/prim kolaylıkları esas olarak 7440 sayılı Kanun ve ona bağlı düzenlemelerle hayata geçirilmiştir. Doğru cevap “7440 Sayılı Vergi ve Diğer Bazı Alacakların Yeniden Yapılandırılması Hakkında Kanun” seçeneğidir.",
-  "zorluk": "orta"
- },
- {
   "id": "36073",
   "dersId": "guncel",
   "konuId": "turkiye_guncel",
@@ -4304,22 +4288,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "36310",
-  "dersId": "guncel",
-  "konuId": "bilim_teknoloji",
-  "soru": "Türkiye'nin 2023 yılında fırlatılan ilk yerli ve milli haberleşme uydusu TÜRKSAT 5B'nin yörünge pozisyonu ve bu pozisyonun seçilme gerekçesi aşağıdakilerden hangisinde doğru eşleştirilmiştir?",
-  "secenekler": [
-   "38° Doğu – Türkiye'nin coğrafi merkez koordinatına en yakın pozisyon olması",
-   "31° Doğu – NATO üyeleri ile ortak haberleşme altyapısı kurmak",
-   "42° Doğu – Avrupa ve Orta Doğu'ya maksimum kapsama alanı sağlamak",
-   "46° Doğu – ITU tahsisatı çerçevesinde Türkiye'ye ayrılan slot pozisyonu",
-   "50° Doğu – Orta Asya Türk cumhuriyetlerine hizmet kapsamını genişletmek"
-  ],
-  "dogru": 2,
-  "aciklama": "TÜRKSAT 5B 42° Doğu yörünge pozisyonunda olup Avrupa ve Orta Doğu kapsamasına yöneliktir (soru kökündeki 2023 ve 'yerli' nitelemeleri de hatalıdır), dolayısıyla doğru şık C'dir. Doğru cevap “42° Doğu – Avrupa ve Orta Doğu'ya maksimum kapsama alanı sağlamak” seçeneğidir.",
-  "zorluk": "zor"
- },
- {
   "id": "36311",
   "dersId": "guncel",
   "konuId": "bilim_teknoloji",
@@ -5835,7 +5803,7 @@
    "Barok dönemde basso continuo (sürekli bas) uygulaması vazgeçilmezken, Klasik dönemde bu uygulama terkedilmiş ve yerini dört sesli armoni anlayışı almıştır.",
    "Sonat formu Barok dönemde doğmuş ve J. S. Bach tarafından mükemmelleştirilmiş; Klasik dönemde ise bu form yalnızca piyano için kullanılmış ve orkestra müziğine hiç uygulanmamıştır."
   ],
-  "dogru": 3,
+  "dogru": 2,
   "aciklama": "Barok dönemde müziğin temelini basso continuo oluşturur. Bas çizgisini klavyeli ve bas çalgılar birlikte çalar, armoni ise bas üzerindeki rakamlarla doğaçlama tamamlanır. Klasik dönemde besteciler armoniyi doğrudan yazılı partilere aktardığından bu uygulama giderek bırakılmıştır. \"Barok dönemin en büyük bestecileri Mozart ve Haydn olup...\" seçeneği yanlıştır; Mozart ve Haydn Klasik dönem bestecileridir. \"Opera türü Klasik dönemde ortaya çıkmış...\" seçeneği de yanlıştır; opera 1600 civarında Barok dönemin başında doğmuştur. Doğru cevap \"Barok dönemde basso continuo (sürekli bas) uygulaması vazgeçilmezken, Klasik dönemde bu uygulama terkedilmiş\" seçeneğidir.",
   "zorluk": "zor"
  },

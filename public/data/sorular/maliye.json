@@ -987,7 +987,7 @@
    "Stabilizasyon fonksiyonu tamamen kamu maliyesinden çıkarılır; para politikasının maliye politikasına tabi kılınması fiyat istikrarı hedefini birincil öncelik olmaktan çıkarır ve seigniorage bağımlılığı enflasyon vergisi yoluyla sabit gelirli kesimleri orantısız biçimde etkiler.",
    "Üç fonksiyon arasındaki sınır teorik olarak anlamsızdır; merkez bankası bağımsızlığı yalnızca kurumsal bir tercih meselesidir ve makroekonomik sonuçları bugüne kadar hiçbir çalışmayla kanıtlanmış değildir. Bu nedenle senyoraj gelirinin bölüşüm üzerindeki etkisi de yalnızca teorik bir tartışma konusu olarak kalmakta, uygulamada ölçülememektedir."
   ],
-  "dogru": 3,
+  "dogru": 0,
   "aciklama": "Musgrave'e göre kamu maliyesinin üç fonksiyonu kaynak tahsisi, bölüşüm ve stabilizasyondur. Merkez bankasının hazineye doğrudan para basma yoluyla finansman sağlaması, para politikasını maliye politikasına tabi kılar. Bu durumda fiyat istikrarı birincil hedef olmaktan çıkar. Hazine senyoraj gelirine bağımlı hale gelir ve bu bağımlılık enflasyon vergisi yoluyla ödenir. Enflasyon vergisi, nominal gelirleri fiyat artışına ayak uyduramayan sabit gelirli kesimleri orantısız biçimde etkiler. Böylece stabilizasyon amacı zayıflar ve bölüşüm olumsuz etkilenir. \"Stabilizasyon ile bölüşüm fonksiyonları arasındaki sınırı ortadan kaldırır\" seçeneği, sınırın ortadan kalktığını söylemesi ve para politikasının maliye politikasına tabi kılınmasındaki asıl mekanizmayı yakalamaması nedeniyle eksiktir. \"Kaynak tahsisi ile bölüşüm fonksiyonları arasındaki sınırı ortadan kaldırır\" seçeneği ise para basma yetkisiyle doğrudan ilgili olmayan bir fonksiyon çiftini öne çıkardığı için yanlıştır. Doğru cevap \"Stabilizasyon fonksiyonu tamamen kamu maliyesinden çıkarılır; para politikasının maliye politikasına tabi kılınması...\" seçeneğidir.",
   "zorluk": "zor"
  },
@@ -5120,22 +5120,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "48334",
-  "dersId": "maliye",
-  "konuId": "vergi_teorisi",
-  "soru": "Tiebout modeline göre yerel kamu mallarının etkin sağlanması mekanizması hangisidir ve bu mekanizmanın çalışması için zorunlu olmayan koşul aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Dışsal ekonomiler ve ölçeğe göre sabit getiri koşulları sağlanmalıdır.",
-   "Yeterli sayıda farklı tercih bileşimi sunan yerel yönetim birimi bulunmalıdır.",
-   "Bireyler farklı vergi-hizmet bileşimleri sunan yerel yönetimler arasında serbestçe göç edebilmelidir.",
-   "Merkezi hükümetin bölgelerarası dışsallıkları içselleştirmek amacıyla eşitleme transferleri yapması gereklidir.",
-   "Bireyler her yerel yönetimin sunduğu hizmet-vergi paketi hakkında tam bilgiye sahip olmalıdır."
-  ],
-  "dogru": 3,
-  "aciklama": "Tiebout modelinde bireyler, tercihlerine uygun vergi-hizmet paketi sunan yerel yönetime \"ayaklarıyla oy vererek\" göç eder. Bu sayede yerel kamu malları etkin düzeyde sağlanır. Modelin işlemesi için yeterli sayıda yerel yönetim bulunması, bireylerin serbestçe hareket edebilmesi ve tam bilgiye sahip olması gerekir. Ayrıca model, bölgeler arası dışsallık bulunmadığını varsayar. Bu yüzden merkezi hükümetin dışsallıkları gidermek için eşitleme transferi yapması modelin koşulu değildir; model zaten dışsallık olmadığını varsayar. \"Bireyler her yerel yönetimin sunduğu hizmet-vergi paketi hakkında tam bilgiye sahip olmalıdır.\" seçeneği ise modelin gerçek bir koşuludur. Doğru cevap \"Merkezi hükümetin bölgelerarası dışsallıkları içselleştirmek amacıyla eşitleme transferleri yapması gereklidir.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
   "id": "48335",
   "dersId": "maliye",
   "konuId": "vergi_teorisi",
@@ -6539,7 +6523,7 @@
    "Kamu sektörü borçlanma gereği (KSBG) – Merkezi yönetim, sosyal güvenlik, yerel yönetimler ve KİT'lerin finansman açıklarının toplamı; en kapsamlı kamu açığı ölçütüdür.",
    "Cari açık – Kamu harcamalarının yalnızca cari nitelikteki kısmının gelirlerden düşülmesiyle hesaplanan açık; sermaye harcamaları dışarıda bırakılır."
   ],
-  "dogru": 4,
+  "dogru": 2,
   "aciklama": "Kamu maliyesinde açık kavramları birincil açık, yapısal açık, nakit açığı ve KSBG gibi ölçütlerle tanımlanır. Cari açık ise kamu harcamalarının cari kısmına göre hesaplanan bir bütçe açığı kavramı değildir. Bu kavram dış ekonomi alanında kullanılır ve ödemeler dengesinde mal, hizmet, gelir ve cari transferler toplamındaki açığı ifade eder. Bu nedenle verilen eşleştirme yanlıştır. \"Birincil (faiz dışı) açık\" doğru tanımlanmıştır, çünkü faiz harcamaları düşülerek maliye politikası duruşunu gösterir. \"Kamu sektörü borçlanma gereği (KSBG)\" eşleştirmesi de doğrudur, çünkü merkezi yönetim, sosyal güvenlik, yerel yönetimler ve KİT'lerin finansman açıklarını toplar. Doğru cevap \"Cari açık – Kamu harcamalarının yalnızca cari nitelikteki kısmının gelirlerden düşülmesiyle hesaplanan açık...\" seçeneğidir.",
   "zorluk": "zor"
  },
@@ -7744,22 +7728,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "48511",
-  "dersId": "maliye",
-  "konuId": "turk_vergi_sistemi",
-  "soru": "Katma Değer Vergisi uygulamasında 'vergiyi doğuran olay' ve 'matrah' kavramlarına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
-  "secenekler": [
-   "Komisyonculuk hizmetlerinde matrah, asıl işlem bedeli değil yalnızca komisyon tutarıdır.",
-   "KDV matrahına, vade farkı, fiyat farkı ve kur farkları dâhil edilmez; bu unsurlar ayrı bir işlem olarak değerlendirilir.",
-   "Kısım kısım mal teslimi veya hizmet ifasının söz konusu olduğu durumlarda, her kısma ait faturanın düzenlenmesiyle birlikte o kısım için vergiyi doğuran olay gerçekleşmiş sayılır.",
-   "İthalatta vergiyi doğuran olay, Gümrük Kanunu'na göre gümrük yükümlülüğünün doğduğu anda gerçekleşir.",
-   "Mal teslimlerinde vergiyi doğuran olay, malın teslimi veya teslim sayılan hâllerin gerçekleşmesiyle meydana gelir."
-  ],
-  "dogru": 1,
-  "aciklama": "Soru yanlış ifadeyi sormaktadır. KDV Kanunu'na göre vade farkı, fiyat farkı, faiz ve kur farkı gibi unsurlar teslim veya hizmet bedeline bağlı olduğundan matraha dâhildir. Bu nedenle \"KDV matrahına, vade farkı, fiyat farkı ve kur farkları dâhil edilmez; bu unsurlar ayrı bir işlem olarak değerlendirilir.\" ifadesi yanlıştır. Diğer ifadeler doğrudur. Komisyonculukta matrah komisyon tutarıdır. Kısım kısım teslimde her kısım için ayrı vergiyi doğuran olay oluşur. İthalatta vergiyi doğuran olay gümrük yükümlülüğünün doğduğu andır. Doğru cevap \"KDV matrahına, vade farkı, fiyat farkı ve kur farkları dâhil edilmez; bu unsurlar ayrı bir işlem olarak değerlendirilir.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
   "id": "48512",
   "dersId": "maliye",
   "konuId": "turk_vergi_sistemi",
@@ -7997,38 +7965,6 @@
   ],
   "dogru": 0,
   "aciklama": "KDV Kanunu'nun 9. maddesi uyarınca kısmi tevkifatta alıcı, vergiyi sorumlu sıfatıyla beyan edip öder. Alıcı bunu yapmazsa idare, tevkif edilen vergiyi öncelikle sorumlu olan alıcıdan arar. Satıcı fatura ve beyan yükümlülüklerini yerine getirmişse tevkif edilen KDV bakımından sorumlu tutulmaz. \"Satıcı mükelleften tarhiyat yapılarak verginin tamamı tahsil edilir; satıcı da alıcıya rücu hakkını kullanır.\" ifadesi yanlıştır. Çünkü sorumluluk öncelikle alıcıdadır. \"Kısmi tevkifatta alıcı asıl mükellef konumunda olmadığından yalnızca özel usulsüzlük cezası uygulanır ve vergi aslı aranmaz.\" ifadesi de yanlıştır. Vergi aslı alıcıdan aranır ve vergi ziyaı cezası gündeme gelebilir. Doğru cevap \"Tevkif edilen vergiyi öncelikle alıcıdan tahsil eder\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "48527",
-  "dersId": "maliye",
-  "konuId": "turk_vergi_sistemi",
-  "soru": "Gelir Vergisi Kanunu'nun 94. maddesi kapsamında yapılan tevkifat uygulamasında 'dar mükellef' bir kuruma yapılan serbest meslek ödemesindeki vergi kesintisi oranı ile aynı hizmet için 'tam mükellef' kuruma yapılan ödeme arasındaki temel fark hangisi seçenekte doğru açıklanmıştır?",
-  "secenekler": [
-   "Her iki durumda da tevkifat oranı %20 olup uygulama farksızdır.",
-   "Tam mükellef kurumlara yapılan serbest meslek ödemelerinde nihai vergileme tevkifat yoluyla tamamlanır.",
-   "Dar mükellef kurum için kesinti nihai vergileme niteliği taşıyabilir; tam mükellef kurum için ise mahsup edilebilir geçici bir yük oluşturur.",
-   "Tam mükellef kurumlar serbest meslek ödemelerinde hiçbir zaman tevkifata tabi tutulmaz.",
-   "Dar mükellef kurumlara yapılan ödemelerde tevkifat, Kurumlar Vergisi Kanunu kapsamında değil yalnızca Gelir Vergisi Kanunu çerçevesinde değerlendirilir."
-  ],
-  "dogru": 2,
-  "aciklama": "Gelir Vergisi Kanunu'nun 94. maddesi uyarınca serbest meslek ödemelerinde yüzde 20 oranında tevkifat yapılır. Tam mükellef kurum bu kesintiyi kurumlar vergisi beyannamesinde mahsup eder. Kesinti ancak ön ödeme niteliğindedir ve nihai vergi yükü kurumun kazancıyla belirlenir. Dar mükellef kurumda ise bu tevkifat, kazancın niteliğine göre nihai vergilemeyi karşılayabilir. Bu yüzden iki durumda tevkifatın hukuki sonucu farklıdır. \"Her iki durumda da tevkifat oranı %20 olup uygulama farksızdır.\" ifadesi yanlıştır. Oran aynı olsa da kesintinin sonucu farklıdır. \"Tam mükellef kurumlara yapılan serbest meslek ödemelerinde nihai vergileme tevkifat yoluyla tamamlanır.\" ifadesi de yanlıştır. Çünkü tam mükellefte kesinti mahsup edilir. Doğru cevap \"Dar mükellef kurum için kesinti nihai vergileme niteliği taşıyabilir; tam mükellef kurum için ise mahsup edilebilir geçici bir yük oluşturur.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "48528",
-  "dersId": "maliye",
-  "konuId": "turk_vergi_sistemi",
-  "soru": "Özel Tüketim Vergisi (ÖTV) Kanunu'nda 'ithalatta matrah' düzenlemesine göre, (IV) sayılı listedeki bir malın ithalinde ÖTV matrahını oluşturan unsurlar arasında aşağıdakilerden hangisi yer ALMAZ?",
-  "secenekler": [
-   "İthalat sırasında alınan diğer vergi ve fonlar",
-   "İthal edilen mala ilişkin yurt içinde yapılan pazarlama ve dağıtım giderleri",
-   "Varsa KDV matrahına dâhil edilmeyen diğer gider kalemleri ve sonradan doğan farklar",
-   "Gümrük vergisi",
-   "Gümrük vergisi matrahı"
-  ],
-  "dogru": 1,
-  "aciklama": "ÖTV Kanunu'nun ithalatta matrah düzenlemesine göre matrah, gümrük vergisi matrahına gümrük vergisinin ve ithalatta alınan diğer vergi, resim, harç ve fonların eklenmesiyle oluşur. Bunlara KDV matrahına dâhil edilmeyen diğer giderler ve sonradan doğan farklar da dâhildir. Bu unsurların hepsi ithalat anında ortaya çıkan kalemlerdir. İthal edilen malın Türkiye'de sonradan yapılan pazarlama ve dağıtım giderleri ise ithalat işleminin parçası değildir. Bu giderler ithalattaki ÖTV matrahına girmez. \"Gümrük vergisi\" ve \"Gümrük vergisi matrahı\" seçenekleri matrahın temel unsurlarıdır. \"İthalat sırasında alınan diğer vergi ve fonlar\" seçeneği de matrahta yer alır. Doğru cevap \"İthal edilen mala ilişkin yurt içinde yapılan pazarlama ve dağıtım giderleri\" seçeneğidir.",
   "zorluk": "zor"
  },
  {

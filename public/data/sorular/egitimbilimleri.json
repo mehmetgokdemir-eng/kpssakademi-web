@@ -3024,22 +3024,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "200193",
-  "dersId": "egitimbilimleri",
-  "konuId": "ogrenme_kuramlari",
-  "soru": "Vygotsky'nin 'Yakın Gelişim Alanı' (ZPD) kuramı ile Piaget'in 'Yapılandırmacı' kuramı karşılaştırıldığında, aşağıdaki ifadelerden hangisi her iki kuramın da temel varsayımlarıyla çelişmektedir?",
-  "secenekler": [
-   "Vygotsky'ye göre dil, düşünceden önce gelir ve onu şekillendirir",
-   "Her iki kuramcı da çocuğun aktif bir öğrenen olduğunu savunur",
-   "Piaget'e göre öğrenme gelişimin önüne geçebilir, bu nedenle erken müdahale kalkınmayı hızlandırır",
-   "Vygotsky'ye göre sosyal etkileşim bilişsel gelişimin temel motorudur ve bu etkileşim kültürel araçlarla gerçekleşir",
-   "Piaget'e göre bilişsel gelişim evrensel ve değişmez aşamalar izler"
-  ],
-  "dogru": 2,
-  "aciklama": "Piaget'ye göre gelişim öğrenmeden önce gelir. Çocuk ilgili bilişsel aşamaya ulaşmadan öğretim gelişimi öne çekemez; bu nedenle Piaget erken ve hızlandırıcı müdahaleye kuşkuyla bakar. Öğrenmenin gelişimin önüne geçebileceği fikri ise Vygotsky'ye aittir. Dolayısıyla bu ifade Piaget'nin görüşüyle çelişir, ayrıca Vygotsky'ye ait bir düşünceyi Piaget'ye mal ettiği için iki kuramın varsayımlarını da yanlış yansıtır. \"Her iki kuramcı da çocuğun aktif bir öğrenen olduğunu savunur\" seçeneği doğru bir ortak noktadır. \"Piaget'e göre bilişsel gelişim evrensel ve değişmez aşamalar izler\" seçeneği de Piaget'nin temel varsayımıdır. Dolayısıyla bu iki seçenek kuramlarla çelişmez. Doğru cevap \"Piaget'e göre öğrenme gelişimin önüne geçebilir\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
   "id": "200194",
   "dersId": "egitimbilimleri",
   "konuId": "ogrenme_kuramlari",
@@ -4365,22 +4349,6 @@
   ],
   "dogru": 3,
   "aciklama": "Yenilenmiş Bloom taksonomisinde analiz düzeyi; bilgiyi bileşenlerine ayırma, aralarındaki ilişkileri belirleme ve parçaların bütüne nasıl katkıda bulunduğunu ortaya koyma gibi zihinsel becerileri kapsar. İki sistemi karşılaştırarak güçlü ve zayıf yönleri belirlemek tipik bir analiz görevidir. Ezberleme hatırlama; kendi sözcükleriyle açıklama anlama; yeni duruma uygulama uygulama; tasarım yapma ise yaratma düzeyine karşılık gelir.",
-  "zorluk": "orta"
- },
- {
-  "id": "200277",
-  "dersId": "egitimbilimleri",
-  "konuId": "bilissel_ogrenme",
-  "soru": "Piaget'ye göre somut işlemler dönemindeki bir çocuk, yassılaştırılmış kil topunun hacminin değişmediğini anlayabilmektedir. Bu beceri aşağıdakilerden hangisiyle açıklanır?",
-  "secenekler": [
-   "Sınıf kapsama ilişkisi (Class inclusion)",
-   "Tersine çevirebilirlik (Reversibility) ile birlikte korunum",
-   "Dizi oluşturma (Seriation)",
-   "Korunum (Conservation)",
-   "Sembolik temsil kullanabilme (Symbolic representation) becerisi ve kullanımı"
-  ],
-  "dogru": 1,
-  "aciklama": "Kil topu yassılaştırıldığında görünümü değişir, ancak madde miktarı ve hacmi aynı kalır; bunu kavramak korunumdur. Somut işlemler dönemindeki çocuğun korunumu kazanmasının bilişsel temeli tersine çevirebilirliktir. Çocuk, yassı kilin yeniden top hâline getirilebileceğini zihninde canlandırarak miktarın değişmediği sonucuna varır. Soru becerinin neyle açıklandığını sorduğundan, hem beceriyi hem de onu mümkün kılan zihinsel işlemi içeren seçenek en kapsamlı yanıttır. \"Korunum (Conservation)\" seçeneği yalnızca becerinin adını verir, onu neyin mümkün kıldığını açıklamaz. \"Sınıf kapsama ilişkisi (Class inclusion)\" seçeneği alt sınıf ile üst sınıf arasındaki ilişkiyi kavramaya dairdir, madde miktarının değişmezliğiyle ilgili değildir. Doğru cevap \"Tersine çevirebilirlik (Reversibility) ile birlikte korunum\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -7131,7 +7099,7 @@
    "Özerklik, yeterlilik ve ilişkisellik ihtiyaçlarının tamamının sürekli engellenmesi durumunda",
    "Öğrencinin entegre düzenlemeden özdeşleşmiş düzenlemeye gerilediği durumlarda"
   ],
-  "dogru": 2,
+  "dogru": 3,
   "aciklama": "Üç ihtiyacın tümünün sürekli engellenmesi kontrollü motivasyondan çok motivasyonsuzluğa (amotivasyon) yol açar; özerk motivasyondan kontrollü motivasyona geçiş içselleştirme tamamlanmadan dışsal ödüle maruz kalmayla (zayıflatma etkisi) açıklanır. Doğru cevap “Öğrencinin içselleştirme sürecini tamamlayamadan dışsal ödüllere maruz kaldığı durumlarda” seçeneğidir.",
   "zorluk": "zor"
  },
@@ -8493,22 +8461,6 @@
   ],
   "dogru": 0,
   "aciklama": "Hedefe görelik ilkesi, öğretim etkinliklerinin kazanımın gerektirdiği davranışa ve bilişsel düzeye uygun seçilmesini ister. Şiir analiz etmek; yapıyı, imgeleri ve temayı çözümlemeyi gerektiren üst düzey bir beceridir. Ezberletme ve okutma ise yalnızca hatırlama düzeyinde kalır. Etkinlik kazanımla hem tür hem düzey olarak örtüşmediği için en ciddi sapma budur. \"Kazanım 'deney tasarlamak' olan derste tüm deneyleri kendisi yapan öğretmen\" de sorunludur, ancak burada öne çıkan ihlal öğrencinin aktif katılımının engellenmesidir. \"Kazanım 'harita okumak' olan derste fiziksel harita yerine siyasi harita kullanan öğretmen\" ise harita okuma becerisini yine çalıştırdığı için hedeften tamamen kopmaz. Doğru cevap \"Kazanım 'şiir analiz etmek' olan derste öğrencilere şiir ezberletip sınıfta okutan öğretmen\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "200546",
-  "dersId": "egitimbilimleri",
-  "konuId": "ogretim_i_lkeleri",
-  "soru": "Bir öğretim tasarımcısı, öğrencilerin hem bireysel farklılıklarını hem de grup dinamiğini aynı anda dikkate alması gerektiğini ifade eden bir ilke geliştirmek istemektedir. Buna göre, klasik öğretim ilkelerinden hangisi bu iki boyutu en kapsamlı biçimde KAPSAYAMAZ?",
-  "secenekler": [
-   "Demokratiklik ilkesi",
-   "Öğrencinin aktif katılımı ilkesi",
-   "Yaşama yakınlık ilkesi",
-   "Bireysel farklılıklara görelik ilkesi",
-   "Sosyal etkileşim ilkesi"
-  ],
-  "dogru": 2,
-  "aciklama": "Yaşama yakınlık ilkesi ne bireysel farklılıkları ne de grup dinamiğini içerir; bireysel farklılıklara görelik en azından bir boyutu kapsadığından en kapsamsız seçenek C'dir. Doğru cevap Yaşama yakınlık ilkesi şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -12187,7 +12139,7 @@
    "Profil-B, aktif öğrenmenin derin yapısını gerçekleştirmektedir; Profil-A ise yüzeysel katılım göstermektedir.",
    "Profil-A aktif öğrenme, Profil-B ise öz-düzenleyici öğrenme modeline uymaktadır; bu ikisi birbirinden bağımsızdır."
   ],
-  "dogru": 1,
+  "dogru": 3,
   "aciklama": "Profil-A etkinliklere yoğun katılmakta ve çok soru sormaktadır. Buna karşın hedef belirleme, izleme ve değerlendirme gibi öz-düzenleme becerilerinden yoksundur; katılımı amaçsız kalmaktadır. Profil-B güçlü üstbilişsel ve öz-düzenleyici süreçlere sahiptir. Ancak etkileşim ve katılım boyutu zayıftır; aktif öğrenmenin sosyal yapılandırma ve üretim yönünden yeterince yararlanamamaktadır. Bu nedenle iki profil de tek başına eksiktir. \"Profil-B, aktif öğrenmenin derin yapısını gerçekleştirmektedir...\" yanlıştır; B'nin üstbilişi güçlü olsa da düşük etkileşim aktif öğrenmenin bir boyutunu eksik bırakır. \"Profil-A aktif öğrenme, Profil-B ise öz-düzenleyici öğrenme modeline uymaktadır; bu ikisi birbirinden bağımsızdır\" da yanlıştır; iki yaklaşım birbirini tamamlar. Doğru cevap \"Her iki profil de eksiktir; tam aktif ve öz-düzenleyici öğrenme için her ikisinin özelliklerinin birleşmesi gerekir\" seçeneğidir.",
   "zorluk": "zor"
  },
@@ -15565,22 +15517,6 @@
   ],
   "dogru": 3,
   "aciklama": "Kazanım iki eksende ayrı ayrı çözümlenir. Bilgi boyutunda, öğrencinin kendi öğrenme sürecindeki güçlüklerin farkına varması kişinin kendi bilişi hakkındaki bilgisidir; bu da üstbilişsel bilgidir. Bilişsel süreç boyutunda belirleyici eylem 'yeni stratejiler üretir' ifadesidir. Yenilenmiş taksonomide yeni bir ürün, plan ya da çözüm ortaya koymak 'yaratma' basamağına karşılık gelir. \"Üstbilişsel bilgi – Değerlendirme\" en çok karıştırılan seçenektir; farkına varma bir yargı içerse de kazanımın son ve temel eylemi değerlendirmek değil, üretmektir. \"İşlemsel bilgi – Uygulama\" ise yanlıştır, çünkü bilinen bir yöntemin uygulanması değil, yeni strateji oluşturulması söz konusudur. Doğru cevap \"Üstbilişsel bilgi – Yaratma\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "200994",
-  "dersId": "egitimbilimleri",
-  "konuId": "program_temelleri",
-  "soru": "Sarmal (spiral) program anlayışını savunan Bruner, 'Her konu herhangi bir çocuğa gelişim düzeyine uygun dürüst bir biçimde öğretilebilir' hipotezini ileri sürmüştür. Bu hipotezi sınamak için yürütülen bir araştırmada ilkokul 2. sınıf öğrencilerine 'doğal seçilim' kavramı somutlaştırılmış materyallerle tanıtılmış, 5. sınıfta aynı kavram daha soyut ve bağlamsal örneklerle yeniden ele alınmış, 8. sınıfta ise nüfus genetiği verileriyle ilişkilendirilmiştir. Bu tasarım aşağıdaki program geliştirme ilkelerinden hangisiyle en doğrudan çelişir?",
-  "secenekler": [
-   "Dikey örgütleme ilkesi açısından herhangi bir çelişki yoktur; sarmal program tam da bu ilkenin uygulamasıdır",
-   "Kapsam ilkesi; çünkü içerik seçiminde derinlik gözetilmemiş, yalnızca genişlik hedeflenmiştir",
-   "Denge ilkesi; çünkü teorik bilgi pratiğe aktarılmadan yalnızca kavramsal düzeyde kalmıştır",
-   "Yatay örgütleme ilkesi; çünkü farklı disiplinler arasında yeterli bağlantı kurulamamıştır",
-   "Süreklilik ilkesi; çünkü aynı kavramın tekrarlanması gereksiz yineleme yaratarak zamanı verimsiz kullanmaktadır"
-  ],
-  "dogru": 0,
-  "aciklama": "Tasarımda aynı kavram 2., 5. ve 8. sınıflarda giderek artan soyutluk ve derinlikle yeniden ele alınmaktadır. Somut materyallerden bağlamsal örneklere, oradan nüfus genetiği verilerine geçilmesi Bruner'in sarmal programının tam uygulamasıdır. İçeriğin sınıf düzeyleri boyunca sıralı ve birbirini temel alarak düzenlenmesi dikey örgütlemedir. Bu nedenle tasarım herhangi bir ilkeyle çelişmez. \"Süreklilik ilkesi; çünkü aynı kavramın tekrarlanması gereksiz yineleme yaratarak zamanı verimsiz kullanmaktadır\" yanlıştır, çünkü süreklilik önemli kavramların yinelenmesini zaten gerektirir ve burada tekrar derinleşerek yapılmaktadır. \"Yatay örgütleme ilkesi; çünkü farklı disiplinler arasında yeterli bağlantı kurulamamıştır\" ise senaryoda dayanağı olmayan bir iddiadır. Doğru cevap \"Dikey örgütleme ilkesi açısından herhangi bir çelişki yoktur; sarmal program tam da bu ilkenin uygulamasıdır\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -20416,22 +20352,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "201301",
-  "dersId": "egitimbilimleri",
-  "konuId": "olcme_turleri",
-  "soru": "Bir öğretmen, öğrencilerin matematik dersindeki başarı düzeylerini belirlemek amacıyla 100 soruluk bir test uygulamaktadır. Öğretmen, her soruya verilen doğru yanıt için 1 puan, yanlış yanıt için 0 puan vermektedir. Bu ölçme işleminin özellikleri düşünüldüğünde, aşağıdakilerden hangisi doğrudur?",
-  "secenekler": [
-   "Bu ölçme sıralama ölçeği ile yapılmaktadır çünkü puanlar öğrencilerin birbirine göre sıralanmasını sağlamaktadır.",
-   "Bu ölçme aralık ölçeği ile yapılmaktadır çünkü puanlar arasındaki farklar eşittir ve mutlak bir sıfır noktası bulunmamaktadır. bulunmamaktadır",
-   "Bu ölçme oran ölçeği ile yapılmaktadır çünkü 0 puan almak hiç bilgi sahibi olmamak anlamına gelir.",
-   "Bu ölçme sınıflama ölçeği ile yapılmaktadır çünkü sorular kategorilere ayrılmıştır.",
-   "Bu ölçme aralık ölçeği ile yapılmaktadır çünkü 0 puan hiçbir soruya doğru yanıt verilmediğini gösterse de gerçek bir sıfırı temsil etmez."
-  ],
-  "dogru": 4,
-  "aciklama": "Testteki puan, doğru yanıt sayısıdır ve puanlar arasındaki farklar eşit kabul edilir. Sıfır puan ise yalnızca testteki hiçbir soruya doğru yanıt verilmediğini gösterir; öğrencinin matematik bilgisinin tamamen yok olduğu anlamına gelmez. Bu nedenle sıfır mutlak değildir ve ölçme eşit aralıklı (aralık) ölçektedir. \"Bu ölçme oran ölçeği ile yapılmaktadır çünkü 0 puan almak hiç bilgi sahibi olmamak anlamına gelir.\" seçeneği yanlıştır; test kapsamı sınırlı olduğundan sıfır, bilginin yokluğu değildir. \"Bu ölçme sıralama ölçeği ile yapılmaktadır...\" seçeneği de eksiktir, çünkü puan farkları eşit aralık özelliği taşır. Doğru cevap \"Bu ölçme aralık ölçeği ile yapılmaktadır çünkü 0 puan hiçbir soruya doğru yanıt verilmediğini gösterse de...\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
   "id": "201302",
   "dersId": "egitimbilimleri",
   "konuId": "olcme_turleri",
@@ -21536,22 +21456,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "201374",
-  "dersId": "egitimbilimleri",
-  "konuId": "olcme_turleri",
-  "soru": "Bir ölçme uzmanı, aynı testin iki yarısından elde edilen puanlar arasındaki korelasyonu (r = 0,70) hesaplamış ve bunu Spearman-Brown formülüne göre düzeltmiştir. Düzeltilmiş güvenirlik katsayısı ve bu yöntemin sınırlılığı aşağıdakilerden hangisinde birlikte doğru verilmiştir?",
-  "secenekler": [
-   "rSB = 0,75; Sınırlılık: İki yarı arasındaki varyans farkı büyüdükçe Spearman-Brown formülü yanıltıcı sonuç verir",
-   "rSB = 0,78; Sınırlılık: Testi iki yarıya bölme biçimi güvenirlik katsayısını doğrudan etkilemekte ve tüm bölme biçimleri eşit sonuç vermeyebilmektedir",
-   "rSB = 0,82; Sınırlılık: Testi iki yarıya bölme biçimi güvenirlik katsayısını etkiler; bu nedenle yarı korelasyonu en yüksek olan bölme biçimi seçilmeli ve Cronbach alfa tercih edilmelidir",
-   "rSB = 0,88; Sınırlılık: Spearman-Brown formülü güvenirliği her zaman gerçek değerden daha yüksek tahmin eder",
-   "rSB = 0,82; Sınırlılık: Bu yöntem yalnızca paralel yarılar oluşturulabildiğinde geçerli sonuç vermekte ve tek tip madde içeren testlerde uygulanamamaktadır ve sonuçları yanıltıcı olmaktadır"
-  ],
-  "dogru": 2,
-  "aciklama": "Spearman-Brown düzeltmesi: rSB = 2r / (1 + r) = 2 × 0,70 / 1,70 = 1,40 / 1,70 ≈ 0,82. Yarı test korelasyonu, testin yalnızca yarı uzunluğuna ait güvenirliği gösterir; formül bunu tam test uzunluğuna taşır. Yöntemin sınırlılığı, testin hangi iki yarıya bölündüğine göre katsayının değişmesidir; tek-çift, ilk-son gibi farklı bölmeler farklı sonuç verir. Bu nedenle tüm olası bölmelerin ortalamasına karşılık gelen Cronbach alfa gibi yöntemler tercih edilebilir. \"rSB = 0,88; Sınırlılık: Spearman-Brown formülü güvenirliği her zaman gerçek değerden daha yüksek tahmin eder\" seçeneği yanlıştır, çünkü katsayı 0,88 değil 0,82'dir ve formül her zaman fazla tahmin etmez. \"rSB = 0,75\" ile başlayan seçenek de hatalı hesap içerir. Doğru cevap \"rSB = 0,82; Sınırlılık: Testi iki yarıya bölme biçimi güvenirlik katsayısını etkiler\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
   "id": "201375",
   "dersId": "egitimbilimleri",
   "konuId": "olcme_turleri",
@@ -21741,22 +21645,6 @@
   ],
   "dogru": 4,
   "aciklama": "Rubrikler ölçütleri ve düzeyleri önceden belirlediği için puanlayıcılar arası güvenirliği artırır ve öznelliği azaltır. Bütüncül rubrik genel izlenime dayanan tek puan verir ve hızlıdır. Analitik rubrik her boyutu ayrı puanlar, bu yüzden boyut bazlı geri bildirim sağlar. Bu nedenle bu üç ifade doğrudur. Yanlış olan ifade, \"her zaman\" kesinliğiyle genelleme yapan ifadedir. Analitik rubrik kullanmak toplam puanın gerçek performansı her durumda daha doğru yansıtacağını garanti etmez. Boyutların ağırlıkları yanlış belirlenmiş olabilir ya da performansın bütünsel niteliği boyutların toplamında kaybolabilir. Ayrıca iki rubrik türünün doğruluğu amaca ve göreve göre değişir. Doğru cevap \"Analitik rubric kullanıldığında boyutlar bağımsız olarak puanlandığından toplam puan...\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "201388",
-  "dersId": "egitimbilimleri",
-  "konuId": "olcme_turleri",
-  "soru": "Bir öğretmen, sınıf başarısını değerlendirirken mutlak ve bağıl değerlendirme yöntemlerini karşılaştırmaktadır. Sınıf ortalaması 45, standart sapma 8 olan bir sınavda başarı sınırını 50 olarak belirleyen mutlak değerlendirme ile ortalama + 0.5 standart sapmanın üstünü başarılı sayan bağıl değerlendirme uygulanmaktadır. Normal dağılım varsayımı altında bağıl değerlendirmede başarılı sayılan öğrenci oranı yaklaşık olarak nedir ve iki yöntemin sonuçları hangi durumda birbirine en yakın olur?",
-  "secenekler": [
-   "Bağıl değerlendirmede yaklaşık %69 başarısız; iki yöntem standart sapma sıfıra yaklaştığında birbiriyle örtüşmektedir.",
-   "Bağıl değerlendirmede yaklaşık %50 başarılı; iki yöntem her koşulda örtüşür.",
-   "Bağıl değerlendirmede yaklaşık %19 başarılı; iki yöntem hiçbir zaman örtüşemez.",
-   "Bağıl değerlendirmede yaklaşık %31 başarılı sayılır; iki yöntem, ortalama başarı sınırına eşit olduğunda birbiriyle tam olarak örtüşmektedir.",
-   "Bağıl değerlendirmede yaklaşık %31 başarılı; iki yöntem sınıf ortalaması mutlak başarı sınırına eşit olduğunda en çok örtüşür."
-  ],
-  "dogru": 4,
-  "aciklama": "Bağıl değerlendirmede başarı sınırı ortalama + 0,5 standart sapma olarak alınır: 45 + 0,5×8 = 49. Bu sınırın z değeri 0,5'tir. Normal dağılımda z = 0,5'in üstünde kalan alan yaklaşık %31'dir (1 - 0,69). Yani öğrencilerin yaklaşık %31'i başarılı sayılır. İki yöntem, bağıl sınırın mutlak sınıra yaklaştığı durumda en çok örtüşür. Bu, sınıf ortalamasının mutlak başarı sınırına yakın olmasıyla sağlanır. Bu açıdan \"Bağıl değerlendirmede yaklaşık %50 başarılı; iki yöntem her koşulda örtüşür.\" seçeneği yanlıştır, çünkü %50 değeri ortalamanın üstüne karşılık gelir ve yöntemler her koşulda örtüşmez. \"Bağıl değerlendirmede yaklaşık %69 başarısız...\" seçeneği başarılı oranını yanlış yorumlamaktadır. Ayrıca \"tam olarak\" örtüşme ifadesi de kesin değildir. Doğru cevap \"Bağıl değerlendirmede yaklaşık %31 başarılı; iki yöntem sınıf ortalaması mutlak başarı sınırına eşit olduğunda en çok örtüşür.\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -24845,22 +24733,6 @@
   ],
   "dogru": 3,
   "aciklama": "Klasik Test Teorisi'nde gözlenen puan gerçek puan ile hatanın toplamıdır. Bu hata tek bir bütün olarak ele alınır ve kaynaklarına ayrıştırılmaz. Genellenebilirlik Teorisi ise varyans analizi mantığıyla hata varyansını değerlendirici, madde, fırsat gibi facet'lere (yüzeylere) ayırır. Böylece hangi kaynağın ölçmeyi ne kadar etkilediği görülür ve ölçmenin tasarımı iyileştirilebilir. \"KTT, güvenirlik katsayısını farklı facet'ler için ayrı ayrı hesaplayabildiğinden...\" ifadesi yanlıştır, çünkü bu işlev KTT'de yoktur. \"Her iki teoride de gözlenen puan, gerçek puana eşit kabul edilir\" ifadesi de yanlıştır, çünkü her ikisi de hata payını kabul eder. Genellenebilirlik Teorisi çoktan seçmeli testlere de uygulanabilir. Doğru cevap \"KTT'de hata varyansı tek bir bütün olarak ele alınırken Genellenebilirlik Teorisi hata varyansını kaynaklarına göre\" ayrıştırabilir seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "201588",
-  "dersId": "egitimbilimleri",
-  "konuId": "degerlendirme_turleri",
-  "soru": "Bir eğitim programının etkinliğini değerlendirmek için ön test - son test kontrol gruplu desen kullanılmıştır. Deney grubunun son test puanı kontrol grubundan anlamlı biçimde yüksek çıkmıştır. Ancak araştırmacı bu sonucun iç geçerliğini tehdit eden bazı faktörleri fark etmiştir. Aşağıdaki tehditlerden hangisi bu desen için EN AZ geçerlidir?",
-  "secenekler": [
-   "Araçsal sapma (instrumentation): Ön test ve son testte farklı güçlük düzeyinde araçların kullanılması",
-   "Denek yıpranması (experimental mortality): Deneyin ortasında bazı deneklerin gruptan ayrılması",
-   "Test etkisi (testing effect): Ön testin son testi etkilemesi",
-   "Seçim-olgunlaşma etkileşimi (selection-maturation interaction): Grupların başlangıçta farklı olgunlaşma hızlarına sahip olması",
-   "Olgunlaşma (maturation): Öğrencilerin zaman içinde doğal gelişimi sonucu puanların artması"
-  ],
-  "dogru": 4,
-  "aciklama": "Ön test - son test kontrol gruplu desende iki grup da aynı süreçten geçer. Bu nedenle zamanla ortaya çıkan olgunlaşma, her iki grubu benzer biçimde etkiler. Deney ve kontrol grubu arasındaki fark yorumlanırken bu etki büyük ölçüde dengelenir. Bu yüzden olgunlaşma, bu desen için en az tehdit oluşturan faktördür. Denek yıpranması gruplar arasında farklı düzeyde olabilir ve desen bunu kontrol etmez. Araçsal sapma ölçme araçları değiştiğinde sorun yaratır. \"Seçim-olgunlaşma etkileşimi\" ise grupların gelişim hızı farklıysa gruplar arası farkı bozar. Doğru cevap \"Olgunlaşma (maturation): Öğrencilerin zaman içinde doğal gelişimi sonucu puanların artması\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -31659,7 +31531,7 @@
    "Yeniden yönlendirme (redirection) — Sınırlılığı: Öğretmen kaynağı belirsiz bir uyarı verdiğinden sınıftaki diğer öğrenciler hangi davranışın sorunlu olduğunu algılayamaz ve bu durum sınıf normlarının yerleşmesini engeller.",
    "Minimum müdahale ilkesi (least intrusive intervention) kapsamında beden dili ile müdahale — Sınırlılığı: Sözel olmayan işaretler bazı kültürel bağlamlarda ya da özel gereksinimli öğrencilerde (örneğin dokunmaya duyarlı bireylerde) ters etki yaratabilir."
   ],
-  "dogru": 0,
+  "dogru": 4,
   "aciklama": "Ders kesilmeden öğrencinin yanına gidip fiziksel yakınlık kurma literatürde doğrudan 'yakınlık kontrolü' olarak etiketlenir; E daha genel bir ilke adıdır. Doğru cevap “Yakınlık kontrolü (proximity control) — Sınırlılığı: Bu teknik yalnızca dikkat çekme…” seçeneğidir.",
   "zorluk": "zor"
  },
@@ -32829,22 +32701,6 @@
   ],
   "dogru": 2,
   "aciklama": "Üç kategorinin kesişimi için uygulamanın tüm bir grubu kapsaması (grup rehberliği), sorun çıkmasını beklemeden gelişimi desteklemesi (gelişimsel rehberlik) ve öğrenme ile akademik konulara odaklanması (eğitsel rehberlik) gerekir. Tüm 10. sınıf öğrencileriyle sınıfta yürütülen, not tutma ve öğrenme stratejileri konulu psiko-eğitim oturumları bu üç ölçütü birlikte karşılar. \"Sosyal fobisi olan öğrenciler için oluşturulan destek grubunda öz-güven geliştirme egzersizleri uygulamak ve süreci izlemek ve yönlendirmek\" seçeneği gruba yöneliktir ancak belirli bir sorunu olan öğrencileri hedeflediğinden iyileştirici niteliktedir, eğitsel değildir. \"Ağır depresyon belirtisi gösteren öğrenciye bire bir destek sağlamak\" seçeneği ise bireyseldir ve iyileştirici bir çalışmadır. Doğru cevap \"Tüm 10. sınıf öğrencileriyle sınıfta 'etkili not tutma ve öğrenme stratejileri' konusunda psiko-eğitim oturumları düzenlemek\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "202095",
-  "dersId": "egitimbilimleri",
-  "konuId": "rehberlik_turleri",
-  "soru": "Bir rehber öğretmen, okuldaki tüm 8. sınıf öğrencilerine yönelik LGS hazırlık sürecine ilişkin bir seminer düzenlemiş; ardından bu seminerde aşırı kaygı belirtisi gösteren 3 öğrenciyle özel görüşmeler gerçekleştirmiştir. Son olarak bu 3 öğrenciden birinin sınav kaygısının altında yatan derin köklü bir performans korkusundan kaynaklandığını anlayınca onu bir klinisyene yönlendirmiştir. Bu süreç hangi rehberlik türlerini ve sırasını doğru yansıtmaktadır?",
-  "secenekler": [
-   "Bireysel rehberlik → Grup rehberliği → Sevk",
-   "Gelişimsel rehberlik → Krizle müdahale → Sevk",
-   "Önleyici rehberlik → İyileştirici rehberlik → Sevk",
-   "Grup rehberliği → Bireysel rehberlik → Sevk",
-   "Eğitsel rehberlik → Mesleki rehberlik → Sevk"
-  ],
-  "dogru": 3,
-  "aciklama": "Süreçte üç aşama vardır. Önce tüm 8. sınıf öğrencilerine seminer verilmiştir; bu, grup rehberliğidir. Ardından aşırı kaygı gösteren üç öğrenciyle özel görüşmeler yapılmıştır; bu, bireysel rehberliktir. Son olarak sorunun derin köklü bir performans korkusundan kaynaklandığı anlaşılınca öğrenci bir klinisyene yönlendirilmiştir; bu, sevktir. Sıralama bu akışı birebir yansıtır. \"Bireyin rehberlik → Grup rehberliği → Sevk\" benzeri sıralama olan \"Bireysel rehberlik → Grup rehberliği → Sevk\" seçeneği yanlıştır; çünkü seminer görüşmelerden önce yapılmıştır. \"Gelişimsel rehberlik → Krizle müdahale → Sevk\" seçeneği de yanlıştır; çünkü ortada akut bir kriz yoktur, kaygı belirtileri için yapılan görüşmeler krizle müdahale değildir. Doğru cevap \"Grup rehberliği → Bireysel rehberlik → Sevk\" seçeneğidir.",
   "zorluk": "zor"
  },
  {

@@ -269,19 +269,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "40343",
+     "id": "38959",
      "dersId": "turkce",
      "konuId": "fiil_catisi",
-     "soru": "Aşağıdaki cümlelerin hangisinde ettirgen çatı, öznenin eylemi bizzat yaptığı izlenimini vermektedir?",
+     "soru": "Aşağıdaki cümlelerden hangisinde fiil, yüzey yapıda edilgen görünmesine karşın derin yapıda etken bir çatı işlevi görmektedir; çünkü eylemi gerçekleştiren özne cümlede açıkça ifade edilmiştir?",
      "secenekler": [
-      "Anne, çocuğunu okula götürttü.",
-      "Ressam, tablosunu galeride sergiletti.",
-      "Müdür, raporu sekreterine yazdırdı.",
-      "Mimar, binayı işçilere inşa ettirdi.",
-      "Şef, yemeği aşçıya pişirtti."
+      "Mektup dün yazıldı.",
+      "Yemek masaya getirildi.",
+      "Kitap raftan alındı.",
+      "Bu karar komite tarafından alındı.",
+      "Her sabah aynı saatte düzenli uyunur."
      ],
-     "dogru": 0,
-     "aciklama": "\"Götürmek\" zaten git- fiilinden oldurgan yolla türediği için \"götürttü\" cümlesi, annenin çocuğu bizzat götürdüğü izlenimini verir; B'de böyle bir yanılsama yoktur. Doğru cevap Anne, çocuğunu okula götürttü şeklindedir.",
+     "dogru": 3,
+     "aciklama": "Soruda aranan, edilgen çatılı fiilin yanında eylemi yapanın açıkça belirtildiği cümledir. \"Bu karar komite tarafından alındı.\" cümlesinde fiil edilgen biçimdedir, ancak \"komite tarafından\" ifadesiyle işi yapan açıkça söylenmiştir. Bu yönüyle cümle, işleyişte etken bir anlatıma yaklaşır. \"Mektup dün yazıldı.\" ve \"Kitap raftan alındı.\" cümlelerinde işi yapan belli değildir, yani fail gizlenmiştir. \"Her sabah aynı saatte düzenli uyunur.\" cümlesi ise geçişsiz fiilden oluşan öznesiz edilgen yapıdır. Bu seçeneklerde failin açıkça belirtilmesi koşulu sağlanmaz. Doğru cevap \"Bu karar komite tarafından alındı.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -787,35 +787,35 @@
      "zorluk": "kolay"
     },
     {
-     "id": "100794",
+     "id": "100783",
      "dersId": "matematik",
      "konuId": "k_r_zarar",
-     "soru": "Bir satıcı, maliyet fiyatı 240 TL olan bir ürünü, etiket fiyatı üzerinden müzakere ederek satmaktadır. Müşteri A, etiket fiyatından %10 indirim istemiş ve satıcı bu teklifi reddederek %8 kâr etmiştir. Müşteri B, etiket fiyatından %20 indirim istemiş ve satıcı bu teklifi kabul etmiştir. Buna göre satıcının müşteri B'ye yaptığı satışta kâr veya zarar oranı kaçtır?",
+     "soru": "Bir mağaza sahibi, bir ürünü belirli bir fiyata aldı. Ürünü, alış fiyatının %40 fazlasıyla etiketledi ve müşteriye ardı ardına %20 ve %10'luk iki indirim uyguladı. Buna göre mağaza sahibinin kâr yüzdesi kaçtır?",
      "secenekler": [
-      "%1 zarar",
-      "%1 kâr",
-      "%3 zarar",
-      "%4 zarar",
-      "%2 zarar"
+      "%2",
+      "%1,2",
+      "%1",
+      "%1,5",
+      "%0,8"
      ],
-     "dogru": 3,
-     "aciklama": "Önce etiket fiyatını bulalım. Müşteri A'ya %10 indirimle satışta %8 kâr edildiğine göre satış fiyatı 240 × 1,08 = 259,2 TL'dir. Bu fiyat etiketin %90'ına eşit olduğundan etiket fiyatı 259,2 / 0,9 = 288 TL'dir. Müşteri B için %20 indirimli fiyat 288 × 0,8 = 230,4 TL'dir. Maliyet 240 TL olduğundan zarar 9,6 TL'dir. Zarar oranı 9,6 / 240 = %4'tür. \"%1 zarar\" seçeneği yanlıştır, çünkü bu oran etiket fiyatı hesaplanmadan tahmin edilmiştir. \"%2 zarar\" seçeneği de yanlıştır. Doğru cevap \"%4 zarar\" seçeneğidir.",
+     "dogru": 4,
+     "aciklama": "Alış fiyatı 100 olsun. Etiket fiyatı 140 olur. Ardışık indirimler çarpılarak uygulanır: 140 × 0,80 × 0,90 = 100,8 TL. Satış fiyatı 100,8, alış fiyatı 100 olduğundan kâr 0,8 TL, yani %0,8'dir. \"%2\" seçeneği, 40 − 20 − 10 = 10 gibi indirimlerin doğrudan toplanıp ardından yapılan hatalı bir işlemden çıkar; %20 ve %10 indirimler toplam %30 etmez, çünkü ikinci indirim yeni fiyat üzerinden yapılır. Doğru cevap \"%0,8\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
-     "id": "102474",
+     "id": "102457",
      "dersId": "matematik",
      "konuId": "kesir_ondalik",
-     "soru": "p/q kesri (GCD(p,q)=1, p,q pozitif tam sayı) ondalık açılımında tam olarak 6 basamaklı periyoda sahiptir ve p/q = 0,142857142857... değildir. Bu kesri payda q değeri 7'nin kuvveti olmayan, en küçük paydaya sahip kesir olarak belirlendiğinde p+q kaçtır?",
+     "soru": "1/(1×2) + 1/(2×3) + 1/(3×4) + ... + 1/(n×(n+1)) toplamı 9/10 olduğuna göre, n değeri kaçtır?",
      "secenekler": [
-      "84",
-      "14",
-      "78",
-      "20",
-      "76"
+      "10",
+      "11",
+      "7",
+      "8",
+      "9"
      ],
-     "dogru": 1,
-     "aciklama": "10'un mertebesi 6 olan en küçük payda (7 hariç) 13'tür ve 1/13 = 0,076923... olduğundan p+q = 1+13 = 14. Doğru cevap 14 şeklindedir.",
+     "dogru": 4,
+     "aciklama": "Her terim 1/(k(k+1)) = 1/k - 1/(k+1) biçiminde yazılırsa toplam teleskopik olarak sadeleşir: (1 - 1/2) + (1/2 - 1/3) + ... + (1/n - 1/(n+1)) = 1 - 1/(n+1) = n/(n+1). Bu değer 9/10'a eşit olduğundan n/(n+1) = 9/10 ve n = 9 bulunur. Kontrol: 9/(9+1) = 9/10. \"10\" seçeneği paydadaki n+1 = 10 değerini n sanmaktan doğar; n = 10 için toplam 10/11 olurdu. Doğru cevap \"9\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -1337,19 +1337,19 @@
      "zorluk": "orta"
     },
     {
-     "id": "30808",
+     "id": "30811",
      "dersId": "tarih",
      "konuId": "i_lk_turk_devletleri",
-     "soru": "Aşağıdaki gelişmelerden hangisi, Türk tarihinde 'devletin yeniden kuruluş' modelinin tipik bir örneği olarak değerlendirilemez?",
+     "soru": "Türk devlet geleneğinde ülke (töre) anlayışına göre devlet, hükümdar ailesinin ortak mülküdür. Bu ilkenin pratik sonuçları ile Roma'daki 'res publica' (kamu mülkiyeti) anlayışının pratik sonuçları karşılaştırıldığında, aşağıdakilerden hangisi en belirgin farkı ortaya koyar?",
      "secenekler": [
-      "Karlukların Türgiş Kağanlığı'nı yıkarak Orta Asya'da Karluk yönetimini tesis etmesi",
-      "Uygurların Göktürk Kağanlığı'nı yıkarak kendi kağanlıklarını kurması",
-      "II. Göktürk Kağanlığı'nın Kutluk Kağan önderliğinde Tang egemenliğinden kurtularak yeniden bağımsızlığını ilan etmesi",
-      "Mete Han'ın babasını devirip tüm bozkır kavimlerini Hun çatısı altında toplaması",
-      "Kıpçakların Kuman Kağanlığı çatısı altında yeniden örgütlenmesi"
+      "Türk devlet anlayışı devleti hanedan üyeleri arasında fiilen bölünebilir kılarken Roma anlayışı bütünlüğü koruyan kurumsal çerçeveler üretmiştir.",
+      "Türk devletlerinde ekonomi devlet mülkiyetine dayanırken Roma'da özel mülkiyet egemendir.",
+      "Roma'da devlet kademeli olarak tek kişi iktidarına (imparatorluk) dönüşürken Türk devletlerinde bu dönüşümün tarih boyunca hiçbir biçimde yaşanmamış olması",
+      "Roma'da askerî güç devletin temelini oluştururken Türk devletlerinde bu işlevi din üstlenmiştir.",
+      "Türk devlet anlayışında yasama Roma'ya kıyasla daha güçlü kurumsal yapılara sahipti."
      ],
-     "dogru": 3,
-     "aciklama": "Mete'nin babasını devirmesi mevcut Hun devleti içinde bir iktidar değişimidir, yıkılmış bir devletin yeniden kurulması değildir; B ise Uygurların Göktürk sonrası yeni kağanlık kurmasıyla bu modele uyar. Doğru cevap “Mete Han'ın babasını devirip tüm bozkır kavimlerini Hun çatısı altında toplaması” seçeneğidir.",
+     "dogru": 0,
+     "aciklama": "Türk devlet anlayışında ülke hanedan üyelerinin ortak mirası sayıldığından, ölüm sonrasında fiilen bölünebilir nitelikteydi; bu durum veraset çatışmalarına yapısal zemin hazırladı. Roma'da ise Senato, sonraki dönemlerde tetrarchy gibi kurumlar, devletin bütünlüğünü hukuki ve kurumsal araçlarla korumaya çalışmıştır. C bu karşıtlığı en net biçimde ifade eder.",
      "zorluk": "zor"
     },
     {

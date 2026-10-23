@@ -1728,22 +1728,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "54110",
-  "dersId": "kamuyonetimi",
-  "konuId": "yonetim_teorileri",
-  "soru": "Douglas McGregor'ın X ve Y teorilerini, Abraham Maslow'un ihtiyaçlar hiyerarşisiyle birlikte değerlendiren bir yönetim bilimcisi, aşağıdaki çıkarımların hangisini teorik tutarlılık bakımından en problemli bulmalıdır?",
-  "secenekler": [
-   "X teorisi, Maslow'un önermesiyle çelişen biçimde, üst düzey ihtiyaçların doyurulmasını yönetsel etkinliğin temeli olarak kabul eder.",
-   "X teorisi yöneticileri, çalışanların yalnızca fizyolojik ve güvenlik ihtiyaçlarının tatminiyle harekete geçebileceğini örtük biçimde varsayar.",
-   "Maslow'un hiyerarşisi tatmin edilen ihtiyacın motive edici gücünü yitirdiğini ileri sürer; bu durum Y teorisiyle bağdaşmaz çünkü Y teorisi kalıcı bir içsel motivasyon varsayar.",
-   "Y teorisi yöneticileri, Maslow'un üst düzey ihtiyaçlarını (saygı, kendini gerçekleştirme) motive edici araç olarak kullanır.",
-   "Y teorisi çalışanın potansiyelini ön plana çıkarırken Maslow'un modeli bu potansiyelin yalnızca hiyerarşinin en alt basamaklarında açığa çıkabileceğini savunur."
-  ],
-  "dogru": 0,
-  "aciklama": "McGregor'ın X teorisi, çalışanın tembel olduğunu, sorumluluktan kaçındığını ve ancak denetim, baskı ve ödül-ceza ile çalışacağını varsayar. Bu varsayım Maslow'un alt basamaklarındaki fizyolojik ve güvenlik ihtiyaçlarıyla örtüşür. Y teorisi ise saygı ve kendini gerçekleştirme gibi üst düzey ihtiyaçlara dayanır. Dolayısıyla X teorisinin üst düzey ihtiyaçların doyurulmasını yönetsel etkinliğin temeli saymasını ileri süren çıkarım, teorinin içeriğine ters düştüğü için en problemlidir. \"X teorisi yöneticileri, çalışanların yalnızca fizyolojik ve güvenlik ihtiyaçlarının tatminiyle harekete geçebileceğini örtük biçimde varsayar\" seçeneği doğru bir çıkarımdır, problemli değildir. \"Y teorisi yöneticileri, Maslow'un üst düzey ihtiyaçlarını motive edici araç olarak kullanır\" seçeneği de tutarlı bir bağdır. Doğru cevap \"X teorisi, Maslow'un önermesiyle çelişen biçimde, üst düzey ihtiyaçların doyurulmasını yönetsel etkinliğin temeli olarak kabul eder\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
   "id": "54111",
   "dersId": "kamuyonetimi",
   "konuId": "yonetim_teorileri",
@@ -3536,22 +3520,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "54226",
-  "dersId": "kamuyonetimi",
-  "konuId": "turk_kamu_yonetimi",
-  "soru": "Türkiye'de 2011 yılında gerçekleştirilen 'Kamu Yönetiminde Yeniden Yapılanma' kapsamında kurulan Kamu Düzeni ve Güvenlik Müsteşarlığı hangi bakanlığa bağlanmış, ardından hangi kuruma dönüştürülmüştür?",
-  "secenekler": [
-   "Başbakanlık – Cumhurbaşkanlığı İdari İşler Başkanlığı",
-   "İçişleri Bakanlığı – Göç İdaresi Genel Müdürlüğü",
-   "İçişleri Bakanlığı – Terörle Mücadele Kurulu Sekreteryası",
-   "Başbakanlık – İçişleri Bakanlığı bünyesinde devam etmiştir",
-   "Dışişleri Bakanlığı – Ulusal İstihbarat Koordinasyon Kurulu"
-  ],
-  "dogru": 3,
-  "aciklama": "Kamu Düzeni ve Güvenlik Müsteşarlığı Başbakanlığa bağlı kurulmuş, 2018'de kapatılarak görevleri İçişleri Bakanlığı bünyesine aktarılmıştır; Cumhurbaşkanlığı İdari İşler Başkanlığı ile ilgisi yoktur. Doğru cevap Başbakanlık – İçişleri Bakanlığı bünyesinde devam etmiştir şeklindedir.",
-  "zorluk": "zor"
- },
- {
   "id": "54227",
   "dersId": "kamuyonetimi",
   "konuId": "turk_kamu_yonetimi",
@@ -4701,22 +4669,6 @@
   ],
   "dogru": 3,
   "aciklama": "657 sayılı Kanun'un 125/E maddesi uyarınca 'devlet memurluğundan çıkarma' cezasını gerektiren fiiller arasında 'memurluk sıfatıyla bağdaşmayacak nitelik ve derecede yüz kızartıcı ve utanç verici hareketlerde bulunmak' yer almaktadır. Seçenek A kademe ilerlemesinin durdurulmasını, B uyarı veya kınama cezasını, D ve E uyarı ya da kınama cezasını gerektirir. Yüz kızartıcı fiiller en ağır disiplin cezasının zorunlu sonucudur.",
-  "zorluk": "orta"
- },
- {
-  "id": "54302",
-  "dersId": "kamuyonetimi",
-  "konuId": "personel_rejimi",
-  "soru": "657 sayılı Devlet Memurları Kanunu'na göre, bir memurun 'kademe ilerlemesinin durdurulması' cezasına itirazı hangi makama yapılır ve itiraz süresi kaç gündür?",
-  "secenekler": [
-   "Devlet Personel Başkanlığı'na, 30 gün içinde",
-   "Yüksek Disiplin Kurulu'na, 7 gün içinde",
-   "İdare mahkemesine, 60 gün içinde",
-   "Yüksek Disiplin Kurulu'na, 10 gün içinde",
-   "Bağlı bulunulan disiplin kuruluna, 15 gün içinde"
-  ],
-  "dogru": 1,
-  "aciklama": "657 sayılı Kanun'un 135. maddesine göre kademe ilerlemesinin durdurulması cezasına karşı Yüksek Disiplin Kuruluna tebliğden itibaren 7 gün içinde itiraz edilir. Doğru cevap Yüksek Disiplin Kurulu'na, 7 gün içinde şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -7677,22 +7629,6 @@
   ],
   "dogru": 3,
   "aciklama": "Yeni Kamu Yönetimi, Weberci modeli bütünüyle reddetmez. Liyakat ve tarafsızlık gibi ilkeleri korur; ancak hiyerarşiyi ve kural odaklılığı sözleşme, rekabet ve performans gibi piyasa mekanizmalarıyla ikame etmeye çalışır. Bu ikame, kamu hizmetinde tarafsızlık ve istikrar beklentisi ile piyasa esnekliği arasında gerilim doğurabilir. \"YKY, Weberci modeli tamamen reddeder ve onunla hiçbir ortak yanı yoktur.\" seçeneği yanlıştır; çünkü liyakat ve tarafsızlık gibi ortak unsurlar sürmektedir. \"YKY, Weberci modelin rasyonelleştirme projesini derinleştirerek tamamlar.\" seçeneği de yanlıştır; çünkü YKY Weberci yapıyı tamamlamaz, kural ve hiyerarşi temelini dönüştürmeyi hedefler. Doğru cevap \"YKY, Weberci modelin liyakat ve tarafsızlık ilkelerini korurken hiyerarşi ve kural odaklılığını piyasa mekanizmalarıyla ikame etmeye çalışır\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "54494",
-  "dersId": "kamuyonetimi",
-  "konuId": "yeni_kamu_yonetimi",
-  "soru": "Türkiye bağlamında, merkezi yönetimden yerel yönetimlere kaynak ve yetki devri konusunda YKY ilkelerini hayata geçiren temel yasal düzenleme ve bu düzenlemenin yarattığı temel gerilim aşağıdakilerden hangisinde doğru eşleştirilmiştir?",
-  "secenekler": [
-   "3046 sayılı Kanun – Bakanlık sayısının azaltılması ile koordinasyon kapasitesi arasındaki gerilim",
-   "2577 sayılı İdari Yargılama Usulü Kanunu – Yargısal denetim ile yönetsel özerklik arasındaki gerilim",
-   "657 sayılı Devlet Memurları Kanunu – Kariyer güvencesi ile performansa dayalı esneklik arasındaki çelişki",
-   "6245 sayılı Harcırah Kanunu – Seyahat giderlerinin merkezden standartlaştırılması ile esnek kaynak kullanımı arasındaki çelişki Bu çelişki uygulamada sıkça görülür.",
-   "5393 sayılı Belediye Kanunu – Belediyelerin bütçe açıklarının merkezi yönetimce kapatılması zorunluluğu ile mali özerklik ilkesi arasındaki çelişki"
-  ],
-  "dogru": 4,
-  "aciklama": "Yerel yönetimlere yetki ve kaynak devri, Türkiye'de belediyelerin kuruluş, görev ve yetkilerini düzenleyen 5393 sayılı Belediye Kanunu ile ilişkilidir. Kanun belediyelere geniş görev ve mali yetki tanırken merkezi yönetimin mali sorumluluğunu da tamamen ortadan kaldırmaz. Bu durum, belediyelerin bütçe açıklarının merkezce kapatılması beklentisi ile mali özerklik ilkesi arasında gerilim yaratır. \"657 sayılı Devlet Memurları Kanunu – Kariyer güvencesi ile performansa dayalı esneklik arasındaki çelişki\" seçeneği yanlıştır; çünkü 657 personel rejimini düzenler, yerel yönetimlere kaynak ve yetki devrini değil. \"3046 sayılı Kanun – Bakanlık sayısının azaltılması ile koordinasyon kapasitesi arasındaki gerilim\" seçeneği de bakanlıkların teşkilatıyla ilgilidir, yerel yönetimlere devirle değil. Doğru cevap \"5393 sayılı Belediye Kanunu – Belediyelerin bütçe açıklarının merkezi yönetimce kapatılması zorunluluğu\" seçeneğidir.",
   "zorluk": "zor"
  },
  {

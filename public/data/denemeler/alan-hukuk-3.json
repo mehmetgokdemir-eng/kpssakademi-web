@@ -589,19 +589,19 @@
      "zorluk": "orta"
     },
     {
-     "id": "44568",
+     "id": "44596",
      "dersId": "hukuk",
      "konuId": "borclar",
-     "soru": "Ahmet, Mehmet'e ait bir taşınmazı onun adına satma yetkisini haiz olmaksızın Kemal'e satmıştır. Mehmet bu satışı onaylamak yerine, taşınmazın piyasa değerinin çok altında satıldığı gerekçesiyle açtığı davada Ahmet'ten tazminat talep etmiştir. Aşağıdaki ifadelerden hangisi bu duruma ilişkin olarak doğrudur?",
+     "soru": "Türk Borçlar Kanunu'nun 'aşırı ifa güçlüğü' (işlem temelinin çökmesi - m. 138) hükmü uygulanabilmesi için aşağıdaki koşulların hangisinin bir arada bulunması zorunludur?",
      "secenekler": [
-      "Mehmet, Kemal ile arasında geçerli bir sözleşme kurulduğundan yalnızca Kemal'e dava açabilir.",
-      "Mehmet, yetkisiz temsilci Ahmet'ten ancak sözleşmenin geçerli olduğu varsayılsaydı kendisine sağlanacak menfaati talep edebilir.",
-      "Mehmet, taşınmazı onaylamak zorunda olup yalnızca Ahmet'e rücu edebilir.",
-      "Mehmet'in onaylamaması hâlinde sözleşme baştan itibaren kesin hükümsüz olduğundan Ahmet'e karşı herhangi bir talep hakkı doğmaz.",
-      "Mehmet, Ahmet'ten sözleşmenin ifa edilmemesinden doğan zararın tamamını değil yalnızca olumsuz zararını talep edebilir."
+      "Ülke genelinde hukuki bir mücbir sebep durumu ilan edilmiş bulunmalıdır.",
+      "Sözleşmenin kurulmasından sonra öngörülemeyen olağanüstü bir durum gerçekleşmeli; bu durum taraflarca öngörülemeyen bir hal olmalı; ifanın talep edilmesi dürüstlük kuralına aykırı hale gelmeli ve borçlu borcunu henüz ifa etmemiş ya da haklarını saklı tutarak ifa etmiş olmalıdır.",
+      "İfa tümüyle imkânsız hâle gelmeli; borçlu bu imkânsızlıkta kusursuz olmalı ve sözleşme ayrıca yazılı şekilde kurulmuş bulunmalıdır. Ayrıca borçlunun bu durumu derhâl alacaklıya bildirmiş olması, uyarlama talebini makul süre içinde mahkemeye iletmiş bulunması ve ifayı bu süre boyunca askıya almış olması aranır.",
+      "Alacaklı, borçlunun güçlüğünü bilerek sözleşmeyi sona erdirmek istemiş olmalıdır.",
+      "Sözleşmenin kurulmasından önce var olan bir durum, sonradan borçlunun lehine değişmiş olmalıdır."
      ],
-     "dogru": 3,
-     "aciklama": "Yetkisiz temsilde icazet verilmezse işlem temsil olunan açısından hüküm doğurmaz; menfi/müsbet zarar talebi üçüncü kişiye (Kemal'e) ilişkin olup Mehmet'in Ahmet'ten müsbet menfaat istemesi söz konusu olmadığından anahtar yanlış, en doğru şık D'dir. Doğru cevap “Mehmet'in onaylamaması hâlinde sözleşme baştan itibaren kesin hükümsüz olduğundan Ahmet'e…” seçeneğidir.",
+     "dogru": 1,
+     "aciklama": "Aşırı ifa güçlüğünde (işlem temelinin çökmesi) hâkimin sözleşmeyi uyarlaması için şu koşullar birlikte aranır: sözleşmenin kurulmasından sonra, taraflarca öngörülmeyen ve öngörülmesi de beklenemeyen olağanüstü bir durum doğmalıdır. Bu durum edimler arasındaki dengeyi bozmalı ve ifanın istenmesini dürüstlük kuralına aykırı hâle getirmelidir. Ayrıca borçlu borcunu henüz ifa etmemiş ya da haklarını saklı tutarak ifa etmiş olmalıdır. \"Ülke genelinde hukuki bir mücbir sebep durumu ilan edilmiş bulunmalıdır.\" seçeneği yanlıştır, çünkü resmî bir ilan şartı yoktur. \"İfa tümüyle imkânsız hâle gelmeli\" ile başlayan seçenek de yanlıştır, çünkü imkânsızlık ayrı bir kurumdur; burada ifa mümkündür ama aşırı güçleşmiştir. Doğru cevap \"Sözleşmenin kurulmasından sonra öngörülemeyen olağanüstü bir durum gerçekleşmeli\" seçeneğidir.",
      "zorluk": "zor"
     },
     {

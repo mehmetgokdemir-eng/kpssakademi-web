@@ -61,19 +61,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "101750",
+     "id": "100454",
      "dersId": "matematik",
      "konuId": "kesir_ondalik",
-     "soru": "p/q ve r/s iki tam indirgenmiş pozitif kesir olup p/q < r/s < 1 koşulunu sağlamaktadır. Bu iki kesirin mediantı (Farey komşusu ortalaması) (p+r)/(q+s) olup her iki kesirden de büyük ve 1'den küçük olduğu biliniyor. p/q = 3/8 ve r/s = 5/13 ise (p+r)/(q+s) kesrinin tam indirgenmiş biçimindeki pay ve paydanın toplamı kaçtır?",
+     "soru": "x pozitif reel sayı olmak üzere x + 1/x = 3 verilmiştir. Buna göre x³ + 1/x³ değeri kaçtır?",
      "secenekler": [
-      "31",
-      "19",
-      "23",
-      "29",
-      "27"
+      "30",
+      "24",
+      "18",
+      "27",
+      "21"
      ],
-     "dogru": 3,
-     "aciklama": "Mediant (3+5)/(8+13)=8/21 sadeleşmez, pay ve payda toplamı 8+21=29'dur. Doğru cevap 29 şeklindedir.",
+     "dogru": 2,
+     "aciklama": "Küp açılımından (x + 1/x)³ = x³ + 1/x³ + 3·(x + 1/x) yazılır. Değerler yerine konur: 3³ = x³ + 1/x³ + 3·3, yani 27 = x³ + 1/x³ + 9. Buradan x³ + 1/x³ = 27 - 9 = 18 bulunur. Sık yapılan hata, 3·(x + 1/x) terimini unutmaktır. \"27\" seçeneği bu terimi çıkarmadan bulunan değerdir ve yanlıştır. \"24\" seçeneği de çıkarılan terim 3 ile hesaplanırsa (27 - 3) elde edilen yanlış bir değerdir. Doğru cevap \"18\" seçeneğidir.",
      "zorluk": "zor"
     },
     {

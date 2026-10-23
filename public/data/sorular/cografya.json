@@ -368,22 +368,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "32030",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Aşağıda farklı tarihlerde farklı enlemlerdeki gündüz süreleriyle ilgili bazı çıkarımlar yapılmıştır. Bunlardan hangisi Dünya'nın şekli ve hareketleri açısından kesinlikle doğrudur?",
-  "secenekler": [
-   "Ekvator üzerindeki bir noktada yıl boyunca gündüz süresi hiç değişmez ve her gün tam 12 saattir.",
-   "Kuzey Yarım Küre'de herhangi bir noktada yıllık toplam gündüz süresi ile yıllık toplam gece süresi birbirine eşittir.",
-   "21 Haziran'da 45°K enleminde gündüz süresi, 21 Haziran'da 23,5°K enlemindeki gündüz süresinden uzundur.",
-   "21 Haziran'da 66,5°K enleminde gündüz süresi, aynı tarihteki 23,5°K enlemindeki gündüz süresinden kısadır.",
-   "22 Aralık'ta Güney Kutbu'nda gündüz süresi 0 saattir çünkü Güneş kutbun üzerine hiç çıkmaz."
-  ],
-  "dogru": 2,
-  "aciklama": "21 Haziran'da Güneş ışınları Yengeç Dönencesi'ne dik düşer. Kuzey Yarım Küre'de kutba yaklaştıkça gündüz uzar. Bu tarihte 45°K'de gündüz yaklaşık 15,5 saattir. 23,5°K'de ise yaklaşık 13,5 saattir. Dolayısıyla 45°K'deki gündüz daha uzundur. \"Ekvator üzerindeki bir noktada yıl boyunca gündüz süresi hiç değişmez ve her gün tam 12 saattir.\" ifadesi kesin değildir. Atmosferik kırılma ve Güneş diski nedeniyle gündüz 12 saati birkaç dakika aşar. \"21 Haziran'da 66,5°K enleminde gündüz süresi, aynı tarihteki 23,5°K enlemindeki gündüz süresinden kısadır.\" ifadesi yanlıştır, çünkü 66,5°K'de o gün 24 saat gündüz yaşanır. 22 Aralık'ta Güney Kutbu'nda ise gündüz 24 saattir. Doğru cevap \"21 Haziran'da 45°K enleminde gündüz süresi, 21 Haziran'da 23,5°K enlemindeki gündüz süresinden uzundur.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
   "id": "32031",
   "dersId": "cografya",
   "konuId": "harita_koordinat",
@@ -1312,22 +1296,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "32093",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Dünya'nın yıllık hareketi sırasında Güneş'e en uzak olduğu nokta olan 'afel' konumunda aşağıdaki durumlardan hangisi gerçekleşir?",
-  "secenekler": [
-   "Dünya yörüngede en yavaş hızla hareket eder.",
-   "Kuzey Yarımküre'de kış mevsimi yaşanır.",
-   "Ekvator üzerinde gündüz ve gece süreleri eşit değildir.",
-   "Dünya'nın yüzeyine düşen güneş ışınlarının miktarı en fazladır.",
-   "Güney Yarımküre'de gece süresi gündüzden uzundur."
-  ],
-  "dogru": 0,
-  "aciklama": "Kepler'in ikinci yasasına göre Dünya ile Güneş'i birleştiren doğru eşit sürelerde eşit alanlar tarar. Bu nedenle Dünya, Güneş'e en uzak olduğu afelde (yaklaşık 4 Temmuz) yörüngede en yavaş hızla hareket eder. Bu sonuç doğrudan afel konumunun kendisinden kaynaklanır. \"Kuzey Yarımküre'de kış mevsimi yaşanır.\" ifadesi yanlıştır, çünkü Temmuz başında Kuzey Yarım Küre'de yaz yaşanır. Güney Yarım Küre'de gecelerin uzun olması o tarihte gözlense de bu durum afelden değil, eksen eğikliğinden kaynaklanır. Dünya'ya ulaşan güneş enerjisi de afelde en fazla değil, en azdır. Doğru cevap \"Dünya yörüngede en yavaş hızla hareket eder.\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
   "id": "32094",
   "dersId": "cografya",
   "konuId": "dunya_sekli_hareketleri",
@@ -1517,22 +1485,6 @@
   ],
   "dogru": 0,
   "aciklama": "Ekvator yarıçapının kutup yarıçapından yaklaşık 21 km büyük olması, Dünya'nın kutuplardan basık ve ekvatordan şişkin olduğunu gösterir. Bu şekil, Dünya'nın kendi ekseni etrafında dönmesiyle oluşan merkezkaç etkisinden kaynaklanır. Merkezkaç etkisi, dönüş hızının en yüksek olduğu ekvatorda en fazladır. Bu nedenle kütle ekvator çevresinde şişmiştir. \"Dünya'nın güneş etrafında dolandığını\" seçeneği yanlıştır, çünkü yıllık hareket mevsimler ve yıl kavramıyla ilgilidir, şekli belirlemez. \"Dünya'nın eksen eğikliğini\" seçeneği de yanlıştır, çünkü eksen eğikliği ışınların geliş açısını etkiler, yarıçap farkıyla ilgisi yoktur. Doğru cevap \"Dünya'nın kendi ekseni etrafında döndüğünü\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
-  "id": "32108",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Dünya'nın yıllık hareketi sırasında günler ile geceler arasındaki süre farkı en az olan tarih aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "21 Aralık",
-   "23 Eylül",
-   "21 Haziran",
-   "21 Mart ve 23 Eylül aynı anda",
-   "21 Mart"
-  ],
-  "dogru": 3,
-  "aciklama": "Gece-gündüz farkı hem 21 Mart hem 23 Eylül'de sıfırdır; bu nedenle ikisini birlikte veren “21 Mart ve 23 Eylül aynı anda” şıkkı doğrudur. Doğru cevap 21 Mart ve 23 Eylül aynı anda şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -2221,22 +2173,6 @@
   ],
   "dogru": 3,
   "aciklama": "Büyük daire, bir kürenin merkezinden geçen düzlemin küre yüzeyiyle kesişmesinden oluşur. X noktasından geçen herhangi bir büyük daire, küre merkezini içerdiğinden X'in tam karşısındaki noktadan (antipodal nokta) da geçmek zorundadır. Özellikle: X = (φ, λ) ise antipodu = (-φ, λ±180°)'dir ve X'ten geçen her büyük daire bu antipodal noktadan da geçer. Bu, geometrik bir zorunluluktur. Doğru cevap: «X noktasının antipodal noktasından (yani Dünya'nın tam karşı tarafındaki noktadan)».",
-  "zorluk": "zor"
- },
- {
-  "id": "32166",
-  "dersId": "cografya",
-  "konuId": "dunya_sekli_hareketleri",
-  "soru": "Dünya'nın günlük hareketi sırasında farklı meridyenler üzerindeki yerel saat farklılıklarının temel nedeni, Dünya'nın eksen eğikliğinin 23°27' olmasıdır diyen bir öğrenci ile bu durumun yalnızca Dünya'nın kendi etrafındaki dönüşünden kaynaklandığını söyleyen bir öğrenci tartışmaktadır. Bu tartışmada hangisi doğrudur ve yerel saat farklılıklarına ek olarak hangi olay yalnızca eksen eğikliğiyle açıklanabilir?",
-  "secenekler": [
-   "İkinci öğrenci doğrudur; eksen eğikliği kutup gecelerinin süresini belirler.",
-   "İkinci öğrenci doğrudur; eksen eğikliği gün uzunluklarının yıl içinde değişmesini sağlar.",
-   "İkinci öğrenci doğrudur; eksen eğikliği Güneş'in farklı yüksekliklerde doğmasına neden olur.",
-   "İkinci öğrenci doğrudur; eksen eğikliği yalnızca mevsimlerin oluşmasını sağlar.",
-   "Her iki öğrenci de kısmen doğrudur; yerel saat farkı hem dönüşten hem eğiklikten etkilenir."
-  ],
-  "dogru": 1,
-  "aciklama": "Yerel saat farkı yalnızca eksen dönüşünden kaynaklanır; eksen eğikliğinin ayırt edici sonucu gün uzunluklarının yıl içinde değişmesidir, D'deki 'yalnızca mevsimler' ifadesi eksiktir. Doğru cevap “İkinci öğrenci doğrudur; eksen eğikliği gün uzunluklarının yıl içinde değişmesini sağlar.” seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -5840,38 +5776,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "32413",
-  "dersId": "cografya",
-  "konuId": "i_klim_bilgisi",
-  "soru": "Türkiye'de yıllık yağış miktarı ile yağış rejimi bakımından birbirinden en fazla farklılaşan iki bölgeyi ve bu farklılaşmanın temel nedenini doğru açıklayan seçenek hangisidir?",
-  "secenekler": [
-   "Doğu Karadeniz – Güneydoğu Anadolu; Karadeniz'in her mevsim nemli hava alması ile Güneydoğu'nun Akdeniz yağış rejimine göre yazın kurak, kışın az yağışlı olması ve iki bölge arasında 2.000 mm'yi aşan yağış farkının bulunması",
-   "Ege – Güneydoğu Anadolu; Ege'nin batı rüzgârlarına açık olması, Güneydoğu'nun ise dağlarla çevrilmesi",
-   "Ege – İç Anadolu; Ege Bölgesi'nin belirgin yaz kuraklığı, İç Anadolu'nun ise ilkbahar maksimumlu yağış rejimiyle birbirinden farklılaşması",
-   "Akdeniz – Doğu Anadolu; Akdeniz'de kış yağışlarının çok bol olması, Doğu Anadolu'da ise tümüyle yağışsız geçen bir kış mevsiminin yaşanması ve iki bölge arasında belirgin bir rejim farkı bulunması ve yağış miktarlarının birbirinden çok uzaklaşması",
-   "Marmara – İç Anadolu; Marmara'nın deniz etkisine açık, İç Anadolu'nun karasal karakterde olması"
-  ],
-  "dogru": 0,
-  "aciklama": "Türkiye'de en fazla yağış Doğu Karadeniz kıyılarına düşer. Rize çevresinde yıllık yağış 2.000 mm'nin üzerindedir. Güneydoğu Anadolu'nun güney kesimleri ise yıllık birkaç yüz mm ile en kurak alanlar arasındadır. Bu nedenle yağış miktarı farkı en büyük bu iki bölge arasındadır. Rejim bakımından da ayrışırlar. Doğu Karadeniz nemli hava kütlelerini her mevsim alır ve kurak mevsimi yoktur. Güneydoğu'da ise Akdeniz rejimine benzer biçimde yazlar çok kuraktır ve yağışın çoğu kış ve ilkbaharda düşer. \"Ege – İç Anadolu\" seçeneğinde rejim farkı vardır, ancak yağış miktarı farkı çok daha küçüktür. \"Akdeniz – Doğu Anadolu\" seçeneği Doğu Anadolu'da tümüyle yağışsız bir kış olduğunu söyler ve bu gerçeğe aykırıdır. Doğru cevap \"Doğu Karadeniz – Güneydoğu Anadolu\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "32414",
-  "dersId": "cografya",
-  "konuId": "i_klim_bilgisi",
-  "soru": "Orta kuşak siklonlarında (extratropical cyclones) hava kütlelerinin hareketi incelendiğinde, soğuk cephenin sıcak cepheyi yakalayarak oklüzyon (kapanma) oluşturması sürecinde aşağıdakilerden hangisi gerçekleşmez?",
-  "secenekler": [
-   "Yoğun yağış ve fırtınalı koşullar oklüzyon cephesi boyunca görülmeye başlar. Bu süreç hızla gelişir.",
-   "Yüksek irtifada jet akımı sistemi güneye iter.",
-   "Yüzeydeki alçak basınç merkezi giderek zayıflamaya başlar.",
-   "İki hava kütlesi arasındaki sıcaklık ve nem farkı artarak sistemi güçlendirir.",
-   "Sıcak sektör giderek daralır."
-  ],
-  "dogru": 3,
-  "aciklama": "Oklüzyon, soğuk cephenin sıcak cepheyi yakalaması ve sıcak hava kütlesinin yerden yukarıya kaldırılmasıdır. Bu sırada sıcak sektör giderek daralır. Siklonu besleyen sıcak-soğuk hava karşıtlığı yüzeyde ortadan kalkar. Enerji kaynağı tükenen sistemde alçak basınç merkezi dolmaya başlar ve siklon zayıflar. Dolayısıyla iki hava kütlesi arasındaki sıcaklık ve nem farkının artıp sistemi güçlendirmesi bu süreçte gerçekleşmez, tam tersine fark azalır ve sistem sönümlenir. \"Sıcak sektör giderek daralır.\" seçeneği oklüzyonun doğrudan tanımına uyar. \"Yüzeydeki alçak basınç merkezi giderek zayıflamaya başlar.\" seçeneği de siklonun yaşam döngüsündeki sönümlenme evresini doğru anlatır. Doğru cevap \"İki hava kütlesi arasındaki sıcaklık ve nem farkı artarak sistemi güçlendirir.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
   "id": "32415",
   "dersId": "cografya",
   "konuId": "i_klim_bilgisi",
@@ -6768,22 +6672,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "32475",
-  "dersId": "cografya",
-  "konuId": "turkiye_i_klimi",
-  "soru": "Türkiye'de 'Ege Bölgesi'nin Akdeniz iklimine benzer özellikler taşımasına karşın tam anlamıyla Akdeniz iklimi sergilememesinin en önemli nedeni aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "Ege kıyılarına dik uzanan vadiler sayesinde deniz etkisinin iç kesimlere nüfuz etmesi ve yaz kuruluğunun Akdeniz'e göre daha az belirgin olması",
-   "Ege Bölgesi'nde yağışların yıl içinde daha düzenli dağılması ve enlemin farklı olması",
-   "Ege Bölgesi'nin İç Anadolu'ya yakın olması",
-   "Ege Bölgesi'nde kışların Akdeniz Bölgesi'ne göre çok daha sert geçmesi",
-   "Ege Denizi'nin Akdeniz'e göre daha soğuk olması"
-  ],
-  "dogru": 0,
-  "aciklama": "Ege'de dağ ve vadilerin kıyıya dik uzanması deniz etkisinin iç kesimlere sokulmasına ve yaz kuraklığının Akdeniz'e göre daha az belirgin olmasına yol açar; “Ege Bölgesi'nde yağışların yıl içinde daha düzenli dağılması ve enlemin farklı olması” şıkkındaki 'yağışların yıl içinde düzenli dağılması' Ege için doğru bir saptama değildir. Doğru cevap “Ege kıyılarına dik uzanan vadiler sayesinde deniz etkisinin iç kesimlere nüfuz etmesi ve…” seçeneğidir.",
-  "zorluk": "orta"
- },
- {
   "id": "32476",
   "dersId": "cografya",
   "konuId": "turkiye_i_klimi",
@@ -7069,22 +6957,6 @@
   ],
   "dogru": 0,
   "aciklama": "Akdeniz ikliminde yazların kurak geçmesinin temel nedeni, subtropikal yüksek basınç kuşağının (Azor Yüksek Basıncı'nın) yaz aylarında kuzeye kayarak Akdeniz havzası üzerinde egemen olmasıdır. Bu yüksek basınç sistemi alçalan hava hareketlerine yol açarak yağış oluşumunu engeller. Diğer seçeneklerdeki mekanizmalar bu iklim tipinin kurak yazlarını açıklamak için yeterli veya doğru değildir.",
-  "zorluk": "zor"
- },
- {
-  "id": "32496",
-  "dersId": "cografya",
-  "konuId": "turkiye_i_klimi",
-  "soru": "Türkiye'de aynı enleme sahip olmalarına karşın Karadeniz kıyıları ile İç Anadolu'nun yıllık yağış miktarları arasında büyük farklar gözlemlenmektedir. Bu farklılığın oluşmasında etkili olan faktörleri önem sırasına göre doğru biçimde sıralayan seçenek hangisidir?",
-  "secenekler": [
-   "Denize uzaklık – Hâkim rüzgârlar – Yükselti – Bakı",
-   "Denize uzaklık – Bakı – Yükselti – Bitki örtüsü",
-   "Hâkim rüzgârlar – Yükselti – Bakı – Denize uzaklık",
-   "Bakı – Denize uzaklık – Hâkim rüzgârlar – Yükselti",
-   "Yükselti – Bakı – Denize uzaklık – Hâkim rüzgârlar"
-  ],
-  "dogru": 0,
-  "aciklama": "Karadeniz kıyısı ile İç Anadolu arasındaki yağış farkında birincil etken denize yakınlık/uzaklık ve nemli hava kütlelerini taşıyan hâkim rüzgârlardır; denize uzaklığı en sona koyan C sıralaması savunulamaz. Doğru cevap Denize uzaklık – Hâkim rüzgârlar – Yükselti – Bakı şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -10285,22 +10157,6 @@
   ],
   "dogru": 0,
   "aciklama": "Köy nüfusları önce ilçe merkezi gibi yakın küçük kentlere, ardından büyük kent merkezlerine ya da metropollere aşamalı biçimde göç eder; buna hiyerarşik göç denir. Bu süreçte hem kırsal alanlardaki itici faktörler (tarımda makineleşme, yetersiz hizmet, düşük gelir) hem de kentsel çekici faktörler (iş imkânı, eğitim, sağlık) bir arada etkili olmaktadır. Yalnızca tek bir nedene odaklanan diğer seçenekler bu karmaşık süreci tam açıklayamaz.",
-  "zorluk": "orta"
- },
- {
-  "id": "32716",
-  "dersId": "cografya",
-  "konuId": "nufus_yerlesme",
-  "soru": "Türkiye'de iç göçlerin yönü incelendiğinde, 1950'lerden itibaren en belirgin hareket Doğu ve Güneydoğu Anadolu'dan Batı Anadolu ve büyük şehirlere doğru yaşanmıştır. Bu göç hareketinin temel ekonomik nedenlerinden biri olarak aşağıdakilerden hangisi gösterilemez?",
-  "secenekler": [
-   "Doğu illerinde geçim kaynaklarının sınırlı kalması",
-   "Batı illerinde tarım dışı istihdam olanaklarının fazla olması",
-   "Sanayinin batı illerinde yoğunlaşması",
-   "Doğu illerinde eğitim ve sağlık altyapısının yetersizliği",
-   "Batı illerinde kişi başına düşen tarım arazisinin daha geniş olması"
-  ],
-  "dogru": 4,
-  "aciklama": "Doğudan batıya göçün ekonomik itici gücü, doğuda geçim kaynaklarının sınırlı kalmasıdır. Çekici güçleri ise batıda sanayinin yoğunlaşması ve tarım dışı istihdam olanaklarının fazlalığıdır. Göç edenlerin büyük bölümü batıda tarımla uğraşmayı değil, sanayi ve hizmet sektörlerinde çalışmayı hedeflemiştir. Bu nedenle batıdaki tarım arazisi genişliği bu göçün temel ekonomik nedeni olarak gösterilemez. \"Doğu illerinde eğitim ve sağlık altyapısının yetersizliği\" daha çok sosyal nitelikli bir etkendir, ancak bölgesel gelişmişlik farkının parçası olarak göçü gerçekten beslemiştir. \"Sanayinin batı illerinde yoğunlaşması\" ise göçün en temel çekici ekonomik nedenlerindendir. Doğru cevap \"Batı illerinde kişi başına düşen tarım arazisinin daha geniş olması\" seçeneğidir.",
   "zorluk": "orta"
  },
  {

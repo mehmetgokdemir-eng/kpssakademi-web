@@ -317,19 +317,19 @@
      "zorluk": "orta"
     },
     {
-     "id": "52299",
+     "id": "52311",
      "dersId": "isletme",
      "konuId": "pazarlama",
-     "soru": "Porter'ın Beş Güç Modeli çerçevesinde değerlendirildiğinde, aşağıdaki hangi durum 'alıcıların pazarlık gücünü AZALTAN' bir faktördür?",
+     "soru": "Ürün yaşam eğrisi (PLC) analizinde bir ürünün 'olgunluk aşamasında' olduğu tespit edilmiştir. Satışlar durağanlaşmış, kâr marjları baskı altındadır ve pazar soyutlanma (market saturation) yüksektir. İşletmenin benimsemesi gereken stratejik pazarlama kararlarına ilişkin aşağıdaki değerlendirmelerden hangisi en kapsamlı ve doğrudur?",
      "secenekler": [
-      "Ürünün standartlaşmış ve farklılaşmamış olması",
-      "Alıcının satın aldığı ürün hakkında tam bilgiye sahip olması",
-      "Alıcıların satın aldıkları ürünün kendi toplam maliyetleri içindeki payının yüksek olması ve alıcının bu maliyete duyarlı olması",
-      "Alıcının geriye dönük dikey entegrasyon tehdidinin düşük ve geçiş maliyetlerinin yüksek olması",
-      "Sektördeki tedarikçi sayısının az, alıcı sayısının ise fazla olması"
+      "Olgunluk aşamasında reklam harcamaları sıfırlanmalı, yalnızca ağızdan ağıza iletişime güvenilmelidir.",
+      "Ürün hemen geri çekilmeli ve kaynak yeni ürün geliştirmeye aktarılmalıdır.",
+      "Pazar yoğunlaşması arttığından dikey entegrasyon yoluyla tedarik zincirinin kontrolü ele geçirilmeli ve bu sayede kalıcı bir maliyet avantajı sağlanmalıdır; ürün ve pazar modifikasyonu bu aşamada işlevsizdir. Ürün modifikasyonu, pazar modifikasyonu ve pazarlama karması ayarlamaları olgunluk aşamasında etkisiz kaldığından bu araçlara başvurulmamalıdır.",
+      "Fiyat indirimi yapılarak pazar payı korunmalıdır; başka önlem gerekmez.",
+      "Pazar modifikasyonu (yeni kullanıcılar, yeni kullanım alanları), ürün modifikasyonu (kalite, özellik, stil iyileştirmeleri) ve pazarlama karması modifikasyonu (fiyat, dağıtım, tutundurma ayarlamaları) birlikte değerlendirilerek ürünün yaşam süresi uzatılabilir ya da yönetimli çekilme planlanabilir."
      ],
-     "dogru": 3,
-     "aciklama": "Porter modelinde alıcıların pazarlık gücü, alıcıların seçenek bulabildiği ve geçiş yapabildiği ölçüde artar. Alıcının geriye doğru dikey entegrasyon tehdidi düşükse alıcı ürünü kendisi üretemez; geçiş maliyetleri yüksekse de tedarikçi değiştirmek zorlaşır. İkisi birlikte alıcının pazarlık gücünü azaltır. \"Ürünün standartlaşmış ve farklılaşmamış olması\" seçeneği yanlıştır, çünkü alıcı kolayca başka satıcıya geçebilir ve pazarlık gücü artar. \"Alıcının satın aldığı ürün hakkında tam bilgiye sahip olması\" seçeneği de yanlıştır, çünkü tam bilgi alıcıyı fiyat ve alternatifler konusunda güçlendirir. Doğru cevap \"Alıcının geriye dönük dikey entegrasyon tehdidinin düşük ve geçiş maliyetlerinin yüksek olması\" seçeneğidir.",
+     "dogru": 4,
+     "aciklama": "Olgunluk aşamasında satışlar durağanlaşır, rekabet ve doygunluk kâr marjını baskılar. Bu aşamada kullanılan klasik yaklaşım üç modifikasyondur. Pazar modifikasyonu yeni kullanıcı ve yeni kullanım alanı arar. Ürün modifikasyonu kalite, özellik ve stil iyileştirmeleri yapar. Pazarlama karması modifikasyonu fiyat, dağıtım ve tutundurmayı yeniden ayarlar. Bu araçlar birlikte değerlendirilerek ürünün ömrü uzatılabilir veya yönetimli bir çekilme planlanabilir. \"Fiyat indirimi yapılarak pazar payı korunmalıdır; başka önlem gerekmez.\" seçeneği yanlıştır, çünkü tek araca dayanır ve zaten baskı altındaki marjı daha da düşürür. \"Ürün hemen geri çekilmeli ve kaynak yeni ürün geliştirmeye aktarılmalıdır.\" seçeneği de yanlıştır, çünkü olgunluk aşaması hâlâ nakit üretir. Doğru cevap \"Pazar modifikasyonu (yeni kullanıcılar, yeni kullanım alanları), ürün modifikasyonu\" ifadesiyle başlayan seçenektir.",
      "zorluk": "zor"
     },
     {

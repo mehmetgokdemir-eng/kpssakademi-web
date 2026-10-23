@@ -7744,22 +7744,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "100643",
-  "dersId": "matematik",
-  "konuId": "yuzde",
-  "soru": "Bir fabrikada üretilen ürünlerin %5'i hatalı çıkmaktadır. Hatalı ürünlerin %20'si onarılarak satışa sunulabilmektedir. Buna göre fabrikadan satışa çıkan ürünlerin yüzde kaçı hatalıdır?",
-  "secenekler": [
-   "%5",
-   "%4",
-   "%1",
-   "%2",
-   "%3"
-  ],
-  "dogru": 2,
-  "aciklama": "Satışa çıkanlar %95+%1=%96, bunun %1'i (1/96) hatalı kökenli olduğundan C uygundur. Doğru cevap %1 şeklindedir.",
-  "zorluk": "orta"
- },
- {
   "id": "100644",
   "dersId": "matematik",
   "konuId": "yuzde",
@@ -8205,22 +8189,6 @@
   ],
   "dogru": 0,
   "aciklama": "K=0,8E iken geçenler 1,2E, toplam 1,8E; oran %66,7 ≈ %67, yani A. Doğru cevap %67 şeklindedir.",
-  "zorluk": "zor"
- },
- {
-  "id": "100687",
-  "dersId": "matematik",
-  "konuId": "yuzde",
-  "soru": "Ahmet parasının bir kısmını %20 kâr, kalanını %15 zarar ile satar. Toplam ne %5 kâr ne de %5 zarar etmemişse, kâr ile satılan kısmın zararlı satılan kısma oranı kaçtır?",
-  "secenekler": [
-   "4/3",
-   "2/3",
-   "1/1",
-   "3/2",
-   "3/4"
-  ],
-  "dogru": 4,
-  "aciklama": "Ne kâr ne zarar (başabaş) koşulu 0,20x=0,15y verir, yani x/y=3/4 olup “3/4” şıkkıdır. Doğru cevap 3/4 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -9072,22 +9040,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "100748",
-  "dersId": "matematik",
-  "konuId": "k_r_zarar",
-  "soru": "Bir toptancı, perakendeciye malı %20 kâr ile satmaktadır. Perakendeci de bu malı %25 kâr ile satmaktadır. Toptancının alış fiyatı ile perakendecinin satış fiyatı arasındaki oran nedir?",
-  "secenekler": [
-   "2/3",
-   "4/6",
-   "3/4",
-   "1/2",
-   "2/5"
-  ],
-  "dogru": 0,
-  "aciklama": "100×1,20×1,25=150 olduğundan oran 100/150=2/3, yani “2/3” şıkkıdır. Doğru cevap 2/3 şeklindedir.",
-  "zorluk": "orta"
- },
- {
   "id": "100749",
   "dersId": "matematik",
   "konuId": "k_r_zarar",
@@ -9488,22 +9440,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "100794",
-  "dersId": "matematik",
-  "konuId": "k_r_zarar",
-  "soru": "Bir satıcı, maliyet fiyatı 240 TL olan bir ürünü, etiket fiyatı üzerinden müzakere ederek satmaktadır. Müşteri A, etiket fiyatından %10 indirim istemiş ve satıcı bu teklifi reddederek %8 kâr etmiştir. Müşteri B, etiket fiyatından %20 indirim istemiş ve satıcı bu teklifi kabul etmiştir. Buna göre satıcının müşteri B'ye yaptığı satışta kâr veya zarar oranı kaçtır?",
-  "secenekler": [
-   "%1 zarar",
-   "%1 kâr",
-   "%3 zarar",
-   "%4 zarar",
-   "%2 zarar"
-  ],
-  "dogru": 3,
-  "aciklama": "Önce etiket fiyatını bulalım. Müşteri A'ya %10 indirimle satışta %8 kâr edildiğine göre satış fiyatı 240 × 1,08 = 259,2 TL'dir. Bu fiyat etiketin %90'ına eşit olduğundan etiket fiyatı 259,2 / 0,9 = 288 TL'dir. Müşteri B için %20 indirimli fiyat 288 × 0,8 = 230,4 TL'dir. Maliyet 240 TL olduğundan zarar 9,6 TL'dir. Zarar oranı 9,6 / 240 = %4'tür. \"%1 zarar\" seçeneği yanlıştır, çünkü bu oran etiket fiyatı hesaplanmadan tahmin edilmiştir. \"%2 zarar\" seçeneği de yanlıştır. Doğru cevap \"%4 zarar\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
   "id": "100796",
   "dersId": "matematik",
   "konuId": "k_r_zarar",
@@ -9517,22 +9453,6 @@
   ],
   "dogru": 2,
   "aciklama": "Müşteri 500 g eksik alır; manav 9,5 kg (38 TL maliyet) karşılığı 56 TL alır, kâr 18/38≈%47. Doğru cevap 500 g eksik, yaklaşık %47 kâr şeklindedir.",
-  "zorluk": "zor"
- },
- {
-  "id": "100798",
-  "dersId": "matematik",
-  "konuId": "k_r_zarar",
-  "soru": "Bir tüccar malını %30 kâr hedefiyle etiketlemiştir. Satış yapabilmek için etiketteki fiyat üzerinden %15 indirim yapmak zorunda kalmıştır. Ayrıca malın taşıma maliyeti, alış fiyatının %5'i kadardır ve bu maliyet toplam maliyete dahildir. Tüccarın fiili kâr veya zarar oranı (toplam maliyet üzerinden) nedir?",
-  "secenekler": [
-   "%4,5 kâr",
-   "%5 zarar",
-   "%5,25 kâr",
-   "%4,75 kâr",
-   "%5,5 kâr"
-  ],
-  "dogru": 2,
-  "aciklama": "Alış fiyatını 100 alalım. Etiket fiyatı %30 kârla 130 olur. %15 indirimle satış fiyatı 130 × 0,85 = 110,5'tir. Taşıma maliyeti 5 olduğundan toplam maliyet 105'tir. Kâr 110,5 − 105 = 5,5'tir. Kâr oranı 5,5 / 105 ≈ %5,24 çıkar. Bu değer seçenekler arasında en çok \"%5,25 kâr\" seçeneğine yakındır. \"%5,5 kâr\" seçeneği yanlıştır, çünkü 5,5 değeri toplam maliyete değil alış fiyatına oranlanmıştır. \"%5 zarar\" seçeneği de yanlıştır, çünkü satış fiyatı toplam maliyetin üzerindedir. Doğru cevap \"%5,25 kâr\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -16800,22 +16720,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "101425",
-  "dersId": "matematik",
-  "konuId": "kumeler",
-  "soru": "Bir araştırmada 200 kişiye A, B, C ürünlerinden hangilerini kullandıkları sorulmuş. Hiçbirini kullanmayan 30 kişidir. Yalnız A: 40, Yalnız B: 35, Yalnız C: 25, A ve B (C hariç): 15, A ve C (B hariç): 10, B ve C (A hariç): 12 kişidir. Üçünü de kullanan kişi sayısı x olduğuna göre, yalnız A'yı kullananların tüm kullanıcılara oranı x cinsinden nasıl ifade edilir?",
-  "secenekler": [
-   "40/(137+x)",
-   "40/(170+x)",
-   "40/(170−x)",
-   "40/170",
-   "2/(8+x)"
-  ],
-  "dogru": 0,
-  "aciklama": "Kullanıcı sayısı 40+35+25+15+10+12+x = 137+x olduğundan oran 40/(137+x)'tir. Doğru cevap 40/(137+x) şeklindedir.",
-  "zorluk": "zor"
- },
- {
   "id": "101426",
   "dersId": "matematik",
   "konuId": "kumeler",
@@ -18816,22 +18720,6 @@
   "zorluk": "kolay"
  },
  {
-  "id": "101577",
-  "dersId": "matematik",
-  "konuId": "veri_yorumlama",
-  "soru": "Bir grafik incelendiğinde bir şehrin 2019, 2020, 2021 yıllarındaki yıllık yağış miktarlarının sırasıyla 620 mm, 540 mm ve 680 mm olduğu görülmektedir. Bu üç yılın yıllık ortalama yağış miktarı kaç mm'dir?",
-  "secenekler": [
-   "610",
-   "625",
-   "613",
-   "600",
-   "620"
-  ],
-  "dogru": 2,
-  "aciklama": "(620+540+680)/3=1840/3≈613,3 olup yuvarlanınca 613. Doğru cevap 613 şeklindedir.",
-  "zorluk": "kolay"
- },
- {
   "id": "101578",
   "dersId": "matematik",
   "konuId": "veri_yorumlama",
@@ -19504,22 +19392,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "101636",
-  "dersId": "matematik",
-  "konuId": "veri_yorumlama",
-  "soru": "Aşağıda bir bölgenin 2018-2022 yılları arası yağış miktarları (mm) ve buğday verimi (ton/hektar) verilmektedir:\n2018: Yağış 480, Verim 3,2\n2019: Yağış 520, Verim 3,6\n2020: Yağış 390, Verim 2,8\n2021: Yağış 610, Verim 4,1\n2022: Yağış 550, Verim 3,9\n\nHer 100 mm yağış artışı için ortalama verim değişimi (ton/hektar) yaklaşık olarak kaçtır? (En küçük kareler yöntemi yerine basit ortalama değişim kullanınız.)",
-  "secenekler": [
-   "0,74",
-   "0,52",
-   "0,63",
-   "0,68",
-   "0,58"
-  ],
-  "dogru": 2,
-  "aciklama": "Yağış ve verim artışlarını ardışık yıllar üzerinden hesaplayalım: 2018→2019: Δyağış=+40, Δverim=+0,4 → 100mm başına 1,00. 2019→2020: Δyağış=−130, Δverim=−0,8 → 100mm başına 0,615. 2020→2021: Δyağış=+220, Δverim=+1,3 → 100mm başına 0,591. 2021→2022: Δyağış=−60, Δverim=−0,2 → 100mm başına 0,333. Ortalama = (1,00+0,615+0,591+0,333)/4 = 2,539/4 ≈ 0,635. Doğru cevap 0,63 şeklindedir.",
-  "zorluk": "zor"
- },
- {
   "id": "101637",
   "dersId": "matematik",
   "konuId": "veri_yorumlama",
@@ -19565,22 +19437,6 @@
   ],
   "dogru": 1,
   "aciklama": "Genel ortalama 136.050/1800≈75,58; B ve D ortalaması 59.000/750≈78,67; fark ≈3,08 yani “3,1” şıkkı. Doğru cevap 3,1 şeklindedir.",
-  "zorluk": "zor"
- },
- {
-  "id": "101646",
-  "dersId": "matematik",
-  "konuId": "veri_yorumlama",
-  "soru": "Bir bölgede 2018-2022 yılları arasında turizm gelirleri (milyon $) şu şekilde değişmiştir:\n2018: 520\n2019: 580 (%x₁ artış)\n2020: 406 (%y₁ azalış)\n2021: 487,2 (%x₂ artış)\n2022: 560,28 (%x₃ artış)\nBu verilere göre, x₁ + y₁ + x₂ + x₃ toplamı kaçtır? (Oranlar tam sayıya yuvarlanmadan hesaplanacak)",
-  "secenekler": [
-   "88",
-   "82",
-   "100",
-   "94",
-   "76"
-  ],
-  "dogru": 4,
-  "aciklama": "x₁≈11,54 + y₁=30 + x₂=20 + x₃=15 ≈ 76,5 olup şıklar içinde yalnızca E (76) ile örtüşür. Doğru cevap 76 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -20464,22 +20320,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "101750",
-  "dersId": "matematik",
-  "konuId": "kesir_ondalik",
-  "soru": "p/q ve r/s iki tam indirgenmiş pozitif kesir olup p/q < r/s < 1 koşulunu sağlamaktadır. Bu iki kesirin mediantı (Farey komşusu ortalaması) (p+r)/(q+s) olup her iki kesirden de büyük ve 1'den küçük olduğu biliniyor. p/q = 3/8 ve r/s = 5/13 ise (p+r)/(q+s) kesrinin tam indirgenmiş biçimindeki pay ve paydanın toplamı kaçtır?",
-  "secenekler": [
-   "31",
-   "19",
-   "23",
-   "29",
-   "27"
-  ],
-  "dogru": 3,
-  "aciklama": "Mediant (3+5)/(8+13)=8/21 sadeleşmez, pay ve payda toplamı 8+21=29'dur. Doğru cevap 29 şeklindedir.",
-  "zorluk": "zor"
- },
- {
   "id": "101751",
   "dersId": "matematik",
   "konuId": "kesir_ondalik",
@@ -21104,22 +20944,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "101803",
-  "dersId": "matematik",
-  "konuId": "yuzde",
-  "soru": "Bir tüccar, maliyeti 800 TL olan ürüne %35 kâr ekleyerek fiyat belirledi. Müşteri bu fiyat üzerinden pazarlık yaparak %a indirim aldı ve tüccar %8 kâr elde etti. Daha sonra ikinci bir müşteri, birinci müşterinin ödediği fiyat üzerinden %b indirim alarak ürünü aldı ve tüccar bu satışta %7,5 zarar etti. a + b kaçtır?",
-  "secenekler": [
-   "38",
-   "36",
-   "34",
-   "42",
-   "40"
-  ],
-  "dogru": 2,
-  "aciklama": "Fiyat 1080, ilk satış 864 (a=%20), ikinci satış 740 (b≈%14,35); a+b≈34,35 ile en yakın/amaçlanan şık 34'tür. Doğru cevap 34 şeklindedir.",
-  "zorluk": "zor"
- },
- {
   "id": "101804",
   "dersId": "matematik",
   "konuId": "yuzde",
@@ -21440,22 +21264,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "101829",
-  "dersId": "matematik",
-  "konuId": "k_r_zarar",
-  "soru": "Bir şirket, ürettiği ürünleri 800 TL birim maliyetle üretiyor. Hedef kâr marjı maliyetin %37,5'i olarak belirlenmiş, ancak pazarlama giderleri için her ürüne 50 TL ek maliyet eklenmiştir. Ürün etiket fiyatı üzerinden %10 indirimle satıldığında, gerçek kâr yüzdesi toplam maliyet üzerinden yaklaşık kaçtır?",
-  "secenekler": [
-   "%27,5",
-   "%22,5",
-   "%23",
-   "%20",
-   "%25"
-  ],
-  "dogru": 2,
-  "aciklama": "Toplam maliyet 850, etiket 850·1,375=1168,75, %10 indirimle 1051,875; kâr 201,875/850≈%23,75 → yaklaşık %23. Doğru cevap %23 şeklindedir.",
-  "zorluk": "orta"
- },
- {
   "id": "101830",
   "dersId": "matematik",
   "konuId": "k_r_zarar",
@@ -21709,22 +21517,6 @@
   ],
   "dogru": 2,
   "aciklama": "Ev-okul mesafesi = 5 × (24/60) = 2 km. Yolun 1/3'ü = 2/3 km, bu kısmı 5 km/s ile gider: (2/3)/5 = 2/15 saat = 8 dakika. Geri kalan 4/3 km'yi koşarak gider. Kalan süre = 16 - 8 = 8 dakika = 8/60 saat. Koşma hızı = (4/3) / (8/60) = (4/3) × (60/8) = 240/24 = 10 km/s.",
-  "zorluk": "orta"
- },
- {
-  "id": "101852",
-  "dersId": "matematik",
-  "konuId": "hiz_yol",
-  "soru": "İki şehir arasındaki mesafe 360 km'dir. A şehrinden B şehrine doğru 80 km/s hızla giden otobüs, aynı anda B şehrinden A şehrine doğru 100 km/s hızla giden tren ile yola çıkmaktadır. Otobüs ve tren karşılaştıktan 1 saat sonra tren B şehrine ulaşmaktadır. Buna göre otobüs ve tren kaçıncı dakikada karşılaşır?",
-  "secenekler": [
-   "108",
-   "132",
-   "100",
-   "80",
-   "120"
-  ],
-  "dogru": 4,
-  "aciklama": "360/(80+100)=2 saat yani 120. dakikada karşılaşırlar; anahtar “108” seçeneği yanlıştır. Doğru cevap 120 şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -25104,22 +24896,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "102178",
-  "dersId": "matematik",
-  "konuId": "bolunebilme",
-  "soru": "n pozitif tam sayı olmak üzere, 7^n + 7^(n+1) + 7^(n+2) ifadesi hangi sayıya her zaman tam bölünür?",
-  "secenekler": [
-   "7",
-   "400",
-   "57",
-   "57 ve 7",
-   "19"
-  ],
-  "dogru": 3,
-  "aciklama": "İfade 7^n(1+7+49)=57·7^n olduğundan hem 57'ye hem 7'ye bölünür; en kapsamlı doğru seçenek D'dir. Doğru cevap 57 ve 7 şeklindedir.",
-  "zorluk": "orta"
- },
- {
   "id": "102179",
   "dersId": "matematik",
   "konuId": "bolunebilme",
@@ -25325,22 +25101,6 @@
   ],
   "dogru": 3,
   "aciklama": "Hem 4 hem 6'ya bölünen iki basamaklı sayılar 12'nin katlarıdır: 12,24,36,48,60,72,84,96 yani 8 tane. Doğru cevap 8 şeklindedir.",
-  "zorluk": "orta"
- },
- {
-  "id": "102198",
-  "dersId": "matematik",
-  "konuId": "bolunebilme",
-  "soru": "k bir tam sayı olmak üzere 6k + 1, 6k + 3 ve 6k + 5 sayılarının toplamı kaçın katıdır?",
-  "secenekler": [
-   "6",
-   "18",
-   "3",
-   "12",
-   "9"
-  ],
-  "dogru": 4,
-  "aciklama": "Üç sayıyı toplarız: (6k + 1) + (6k + 3) + (6k + 5) = 18k + 9. Bu ifadeyi 9 parantezine alırsak 9(2k + 1) elde edilir. Dolayısıyla toplam k hangi tam sayı olursa olsun 9'un katıdır. 2k + 1 her zaman tek olduğundan toplam 18'in katı olmaz. Örneğin k = 0 için toplam 9'dur ve 18'e bölünmez. \"18\" seçeneği yanlıştır; çünkü toplam tek sayıdır. \"6\" ve \"12\" seçenekleri de yanlıştır; çünkü toplam tek sayı olduğundan çift sayıların katı olamaz. 3 de toplamı böler, ancak seçenekler arasında en kapsamlı olan 9'dur. Doğru cevap \"9\" seçeneğidir.",
   "zorluk": "orta"
  },
  {
@@ -27840,22 +27600,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "102429",
-  "dersId": "matematik",
-  "konuId": "kesir_ondalik",
-  "soru": "Üç arkadaş bir işi sırasıyla 1/3, 1/4 ve 1/6 oranlarında tamamlamıştır. Kalan iş oranı aşağıdakilerden hangisidir?",
-  "secenekler": [
-   "3/12",
-   "1/6",
-   "1/3",
-   "1/4",
-   "1/12"
-  ],
-  "dogru": 3,
-  "aciklama": "1/3+1/4+1/6=3/4 olduğundan kalan 1/4'tür. Doğru cevap 1/4 şeklindedir.",
-  "zorluk": "orta"
- },
- {
   "id": "102430",
   "dersId": "matematik",
   "konuId": "kesir_ondalik",
@@ -28125,22 +27869,6 @@
   ],
   "dogru": 1,
   "aciklama": "x=n+f için toplam 2n+1=5 olup n=2, f∈[1/3,2/3) çıkar; aralık uzunluğu 1/3'tür. Doğru cevap 1/3 şeklindedir.",
-  "zorluk": "zor"
- },
- {
-  "id": "102474",
-  "dersId": "matematik",
-  "konuId": "kesir_ondalik",
-  "soru": "p/q kesri (GCD(p,q)=1, p,q pozitif tam sayı) ondalık açılımında tam olarak 6 basamaklı periyoda sahiptir ve p/q = 0,142857142857... değildir. Bu kesri payda q değeri 7'nin kuvveti olmayan, en küçük paydaya sahip kesir olarak belirlendiğinde p+q kaçtır?",
-  "secenekler": [
-   "84",
-   "14",
-   "78",
-   "20",
-   "76"
-  ],
-  "dogru": 1,
-  "aciklama": "10'un mertebesi 6 olan en küçük payda (7 hariç) 13'tür ve 1/13 = 0,076923... olduğundan p+q = 1+13 = 14. Doğru cevap 14 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -29421,22 +29149,6 @@
   ],
   "dogru": 0,
   "aciklama": "7k/(3k+20)=7/5 → k=10, başlangıç toplamı 10k=100 kg. Doğru cevap 100 şeklindedir.",
-  "zorluk": "zor"
- },
- {
-  "id": "102575",
-  "dersId": "matematik",
-  "konuId": "oran_oranti",
-  "soru": "Üç işçi A, B, C bir işi sırasıyla 10, 15 ve 20 günde bitirebilmektedir. A ve B, C ile ücret orantılı paylaşım yapmak koşuluyla 600 TL karşılığında bu işi tamamlamaktadır. Buna göre B'nin payı kaç TL'dir?",
-  "secenekler": [
-   "180",
-   "240",
-   "200",
-   "160",
-   "150"
-  ],
-  "dogru": 1,
-  "aciklama": "İşi A ve B bitirdiğine göre paylar 1/10:1/15 = 3:2 olur ve B'nin payı 600·2/5 = 240 TL'dir (anahtardaki 200 TL hiçbir okumayla doğrulanmıyor). Doğru cevap 240 şeklindedir.",
   "zorluk": "zor"
  },
  {
@@ -32608,22 +32320,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "102826",
-  "dersId": "matematik",
-  "konuId": "k_r_zarar",
-  "soru": "Ahmet, bir ürünü B kişisine %15 kârla, B kişisi de C kişisine %10 kârla, C kişisi ise D kişisine %20 zararla satmıştır. D kişisinin ödediği fiyat 1012,80 TL olduğuna göre, Ahmet bu ürünü kaç TL'ye almıştır?",
-  "secenekler": [
-   "1000 TL",
-   "900 TL",
-   "850 TL",
-   "800 TL",
-   "960 TL"
-  ],
-  "dogru": 0,
-  "aciklama": "x·1,15·1,10·0,80 = 1,012x = 1012,80 → x = 1000 TL, yani “1000 TL” seçeneği doğru. Doğru cevap 1000 TL şeklindedir.",
-  "zorluk": "zor"
- },
- {
   "id": "102829",
   "dersId": "matematik",
   "konuId": "k_r_zarar",
@@ -33645,22 +33341,6 @@
   ],
   "dogru": 1,
   "aciklama": "Akıntıya karşı hız: 12 - 4 = 8 km/s. Akıntı yönünde hız: 12 + 4 = 16 km/s. Akıntıya karşı gidiş (40 km): 40/8 = 5 saat. Akıntı yönünde dönüş (40 km): 40/16 = 2,5 saat. Toplam: 5 + 2,5 = 7,5 saat. Doğru cevap 7,5 şeklindedir.",
-  "zorluk": "orta"
- },
- {
-  "id": "102909",
-  "dersId": "matematik",
-  "konuId": "hiz_yol",
-  "soru": "İki şehir arasındaki mesafe 300 km'dir. Birinci araç sabah 08:00'de 75 km/s hızla yola çıkıyor. İkinci araç aynı noktadan 10:00'da 100 km/s hızla aynı yönde hareket ediyor. İkinci araç birinci aracı kaçta yakalar?",
-  "secenekler": [
-   "16:00",
-   "17:00",
-   "18:00",
-   "15:00",
-   "14:00"
-  ],
-  "dogru": 0,
-  "aciklama": "Birinci aracın 150 km öndeliği 25 km/s fark hızıyla 6 saatte kapanır, yani 16:00 (300 km verisi sorunun kurgusunda gereksiz/çelişkili bir ayrıntıdır). Doğru cevap 16:00 şeklindedir.",
   "zorluk": "orta"
  },
  {
@@ -40544,22 +40224,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "103535",
-  "dersId": "matematik",
-  "konuId": "olasilik",
-  "soru": "Dürüst olmayan bir bozuk paranın tura gelme olasılığı 2/3'tür. Bu para 4 kez atıldığında tam olarak 2 tura gelme olasılığı kaçtır?",
-  "secenekler": [
-   "8/27",
-   "8/81",
-   "16/81",
-   "24/81",
-   "32/81"
-  ],
-  "dogru": 3,
-  "aciklama": "Her atış bağımsızdır ve tura olasılığı 2/3, yazı olasılığı 1/3'tür. 4 atışta tam 2 tura gelmesi binom dağılımıyla hesaplanır: C(4,2) · (2/3)² · (1/3)² = 6 · 4/9 · 1/9 = 24/81. Burada 6, 2 turanın 4 atış içinde kaç farklı konumda olabileceğini gösterir. \"16/81\" seçeneği, C(4,2) çarpanı unutulduğunda elde edilen (2/3)²·(1/3)²·4 benzeri hatalı değerdir; doğru sonuç kombinasyon çarpanını içerir. \"8/81\" seçeneği ise 4/9 · 2/9 gibi eksik bir çarpımdan çıkar. Doğru cevap \"24/81\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
   "id": "103536",
   "dersId": "matematik",
   "konuId": "olasilik",
@@ -41840,54 +41504,6 @@
   "zorluk": "zor"
  },
  {
-  "id": "103639",
-  "dersId": "matematik",
-  "konuId": "veri_yorumlama",
-  "soru": "Bir sınıftaki 40 öğrencinin matematik ve fen bilimleri notlarına ilişkin şu bilgiler elde edilmiştir: Matematik ortalaması 65, fen bilimleri ortalaması 70'tir. Her iki dersten de 80 ve üzeri alan öğrenci sayısı 10, sadece matematikten 80 ve üzeri alan öğrenci sayısı 8, sadece fen bilimlerinden 80 ve üzeri alan öğrenci sayısı 12'dir. Her iki dersten de 80 altında alan öğrencilerin matematik ortalaması 55, fen bilimleri ortalaması 62'dir. Sadece matematikten 80 ve üzeri alan 8 öğrencinin fen bilimleri ortalaması 68, sadece fen bilimlerinden 80 ve üzeri alan 12 öğrencinin matematik ortalaması 60'tır. Her iki dersten de 80 ve üzeri alan 10 öğrencinin matematik ortalaması 87, fen bilimleri ortalaması 90'dır. Buna göre, tüm sınıfın matematik notu toplamı kaçtır?",
-  "secenekler": [
-   "2560",
-   "2640",
-   "2580",
-   "2600",
-   "2620"
-  ],
-  "dogru": 3,
-  "aciklama": "Bir sınıfın not toplamı, ortalama ile öğrenci sayısının çarpımına eşittir. Matematik ortalaması 65 ve sınıf mevcudu 40 olduğundan toplam 40 × 65 = 2.600 bulunur. Alt grup verileri bu hesap için gerekmez. Sadece matematikten 80 ve üzeri alan 8 öğrencinin matematik ortalaması verilmediği için alt gruplardan toplama gitmek de mümkün değildir. \"2640\" seçeneği 66 ortalamasına, \"2560\" seçeneği ise 64 ortalamasına karşılık gelir. Doğru cevap \"2600\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "103640",
-  "dersId": "matematik",
-  "konuId": "veri_yorumlama",
-  "soru": "Bir mağazanın aylık satış verileri incelendiğinde, Ocak ayında 500 ürün sattığı ve her ay bir önceki aya göre satışlarının değiştiği görülmüştür. Şubat'ta %20 artış, Mart'ta %10 düşüş, Nisan'da %25 artış, Mayıs'ta %20 düşüş yaşanmıştır. Haziran ayında mağaza, Ocak-Mayıs döneminin aylık ortalama satışını hedef olarak belirlemiş ve bu hedefe tam olarak ulaşmıştır. Temmuz ayında ise Haziran ayına göre %15 artış gerçekleşmiştir. Ocak-Temmuz toplamı kaç üründür?",
-  "secenekler": [
-   "3.976",
-   "4.082",
-   "3.818",
-   "4.014",
-   "3.942"
-  ],
-  "dogru": 1,
-  "aciklama": "Ocak 500. Şubat 500 × 1,20 = 600. Mart 600 × 0,90 = 540. Nisan 540 × 1,25 = 675. Mayıs 675 × 0,80 = 540. Ocak-Mayıs toplamı = 2.855, aylık ortalama = 571. Haziran hedefi tam tutturulduğundan 571. Temmuz = 571 × 1,15 = 656,65 ≈ 656. Ocak-Temmuz toplamı = 2.855 + 571 + 656 = 4.082 üründür. Doğru cevap 4.082 şeklindedir.",
-  "zorluk": "zor"
- },
- {
-  "id": "103641",
-  "dersId": "matematik",
-  "konuId": "veri_yorumlama",
-  "soru": "Aşağıdaki pasta grafiğine göre 600 öğrencinin bölüm tercihleri verilmiştir: Mühendislik %30, Tıp %20, Hukuk %15, İktisat %25, Eğitim %10. Bir sonraki yıl Mühendislik %10 artış, Tıp %15 düşüş, Hukuk %20 artış, İktisat değişmeden kalır, Eğitim %5 artış yaşanmıştır. Bu değişimler yeni öğrenci kabulü yoluyla gerçekleşmiştir (kimse ayrılmamıştır). Yeni toplam öğrenci sayısı içinde Tıp bölümünün oranı yaklaşık kaçtır?",
-  "secenekler": [
-   "%18,0",
-   "%17,2",
-   "%16,4",
-   "%15,8",
-   "%19,1"
-  ],
-  "dogru": 2,
-  "aciklama": "Başlangıç öğrenci sayıları: Mühendislik=180, Tıp=120, Hukuk=90, İktisat=150, Eğitim=60. Değişimler: Müh: 180×1,10=198 (+18), Tıp: 120×0,85=102 (-18), Hukuk: 90×1,20=108 (+18), İktisat: 150 (değişmez), Eğitim: 60×1,05=63 (+3). Yeni toplam: 198+102+108+150+63=621. Tıp oranı: 102/621 ≈ 0,1642 ≈ %16,4. Doğru cevap %16,4 şeklindedir.",
-  "zorluk": "zor"
- },
- {
   "id": "103643",
   "dersId": "matematik",
   "konuId": "veri_yorumlama",
@@ -41917,22 +41533,6 @@
   ],
   "dogru": 0,
   "aciklama": "2 yıl sonunda toplam 132.460 TL olup (1,3246)^0,5≈1,1509 yani yaklaşık %15'tir. Doğru cevap %15 şeklindedir.",
-  "zorluk": "zor"
- },
- {
-  "id": "103645",
-  "dersId": "matematik",
-  "konuId": "veri_yorumlama",
-  "soru": "Bir okuldaki öğrencilerin spor dalı tercihleri aşağıdaki çift girişli tabloda verilmiştir (her öğrenci en fazla 2 spor dalı seçmiştir):\n\n           | Futbol | Basketbol | Voleybol | Yüzme\nErkek (160)|   90   |     70    |    40    |   50\nKız  (140) |   30   |     60    |    80    |   55\n\nBu veriler değerlendirildiğinde, iki spor dalı seçen öğrenci sayısının tam olarak belirlenebilmesi için hangi ek bilgiye ihtiyaç vardır?",
-  "secenekler": [
-   "Her spor dalını tek başına seçen öğrenci sayısı",
-   "Sadece futbol ve basketbol seçen öğrenci sayısı",
-   "İki spor dalı seçen öğrenci sayısı zaten verilemez, tablodaki veriler çelişkilidir.",
-   "Hiçbir ek bilgiye gerek yoktur, doğrudan hesaplanabilir.",
-   "Hiç spor seçmeyen öğrenci sayısı"
-  ],
-  "dogru": 4,
-  "aciklama": "Erkeklerin toplam tercihi 90 + 70 + 40 + 50 = 250, kızlarınki 30 + 60 + 80 + 55 = 225 olur. Genel toplam 475 tercih eder. Öğrenci sayısı 160 + 140 = 300'dür. İki dal seçenler x, tek dal seçenler y, hiç seçmeyenler z olsun. Bu durumda x + y + z = 300 ve 2x + y = 475 olur. Taraf tarafa çıkarınca x = 175 + z bulunur. Yani x ancak z biliniyorsa kesinleşir. \"Hiçbir ek bilgiye gerek yoktur, doğrudan hesaplanabilir.\" seçeneği yanlıştır, çünkü z bilinmeden x belirlenemez. \"Sadece futbol ve basketbol seçen öğrenci sayısı\" seçeneği de yetersizdir, çünkü yalnızca tek bir ikiliyi verir. Doğru cevap \"Hiç spor seçmeyen öğrenci sayısı\" seçeneğidir.",
   "zorluk": "zor"
  },
  {
@@ -42222,22 +41822,6 @@
   "dogru": 3,
   "aciklama": "18 ile genişletilince 3x+6=2x+26, yani k=20 bulunur. Doğru cevap 20 şeklindedir.",
   "zorluk": "orta"
- },
- {
-  "id": "101956",
-  "dersId": "matematik",
-  "konuId": "denklem",
-  "soru": "a, b, c sıfırdan farklı gerçek sayılar olmak üzere a/b + b/c + c/a = 1 ve a/c + c/b + b/a = -1 eşitlikleri verilmiştir. (a/b)³ + (b/c)³ + (c/a)³ ifadesinin değeri kaçtır?",
-  "secenekler": [
-   "7",
-   "1",
-   "6",
-   "-4",
-   "-6"
-  ],
-  "dogru": 0,
-  "aciklama": "x=a/b, y=b/c, z=c/a için e1=1, e2=-1, e3=1 olup x³+y³+z³ = e1³-3e1e2+3e3 = 1+3+3 = 7 çıkar. Doğru cevap 7 şeklindedir.",
-  "zorluk": "zor"
  },
  {
   "id": "101957",

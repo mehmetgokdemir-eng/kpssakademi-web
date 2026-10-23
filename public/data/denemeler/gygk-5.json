@@ -472,7 +472,7 @@
       "Flaubert ve Nabokov, tarihsel süreçteki en üretken yazarlar arasında yer alır.",
       "Edebi ustalık, doğuştan gelen yetenekten değil birikimli emekten kaynaklanır."
      ],
-     "dogru": 1,
+     "dogru": 4,
      "aciklama": "Parçada doğrudan kanıt sunulan iddia “Büyük romancıların ilk eserleri genellikle defalarca yeniden yazılmıştır.” seçeneğidir: 'Büyük romancıların ilk eserleri genellikle defalarca yeniden yazılmıştır' yargısı, biyografilerin incelenmesine dayandırılmış ve hemen ardından Nabokov'un binlerce sayfalık notu ile Flaubert'in tek bir cümle üzerinde günlerce çalışması somut örnek olarak verilmiştir. “Yazarlık, okuma birikimi ve gözlem disiplini gerektiren bir süreçtir.” seçeneği parçanın giriş yargısıdır, örnekle desteklenmemiştir. “İyi bir yazar olmak için bol miktarda okumak zorunludur.” seçeneği 'hepsi yoğun okuyuculardır' gözleminden çıkarılan bir zorunluluk iddiasıdır ve kanıtlanmamıştır. “Edebi ustalık, doğuştan gelen yetenekten değil birikimli emekten kaynaklanır.” seçeneği parçanın genel sonucudur. “Flaubert ve Nabokov, tarihsel süreçteki en üretken yazarlar arasında yer alır.” seçeneğindeki üretkenlik sıralaması ise parçada hiç yer almaz.",
      "zorluk": "orta"
     },
@@ -739,19 +739,19 @@
      "zorluk": "orta"
     },
     {
-     "id": "101750",
+     "id": "100447",
      "dersId": "matematik",
      "konuId": "kesir_ondalik",
-     "soru": "p/q ve r/s iki tam indirgenmiş pozitif kesir olup p/q < r/s < 1 koşulunu sağlamaktadır. Bu iki kesirin mediantı (Farey komşusu ortalaması) (p+r)/(q+s) olup her iki kesirden de büyük ve 1'den küçük olduğu biliniyor. p/q = 3/8 ve r/s = 5/13 ise (p+r)/(q+s) kesrinin tam indirgenmiş biçimindeki pay ve paydanın toplamı kaçtır?",
+     "soru": "n pozitif tam sayı olmak üzere 1 + 1/2 + 1/3 + ... + 1/n > 3 eşitsizliğini sağlayan en küçük n değeri kaçtır?",
      "secenekler": [
-      "31",
-      "19",
-      "23",
-      "29",
-      "27"
+      "11",
+      "12",
+      "13",
+      "14",
+      "10"
      ],
-     "dogru": 3,
-     "aciklama": "Mediant (3+5)/(8+13)=8/21 sadeleşmez, pay ve payda toplamı 8+21=29'dur. Doğru cevap 29 şeklindedir.",
+     "dogru": 0,
+     "aciklama": "Harmonik seri değerleri: H₁=1, H₂=1,5, H₃≈1,833, H₄≈2,083, H₅≈2,283, H₆≈2,45, H₇≈2,593, H₈≈2,718, H₉≈2,829, H₁₀≈2,929, H₁₁≈3,020. H₁₁ > 3 olduğundan en küçük n = 11.",
      "zorluk": "zor"
     },
     {
@@ -1140,7 +1140,7 @@
       "Yeni cemiyetin İttihat ve Terakki Cemiyeti'nin devamı olarak algılanacağı endişesi",
       "İstanbul hükümetinin kongreyi yasadışı ilan etmesinin olası sonuçlarından duyulan korku"
      ],
-     "dogru": 1,
+     "dogru": 3,
      "aciklama": "Sivas Kongresi'nde amaç, farklı bölgelerdeki Müdafaa-i Hukuk cemiyetlerini tek çatı altında toplayıp ulusal bir bütünlük sağlamaktı. Birleşmeye itiraz eden delegeler, yerel cemiyetlerin kendi bölgesel bağımsız yapılarını ve karar yetkilerini kaybedeceğinden endişe ediyordu. Bu kaygı, birleşmeye yönelik muhalefetin en temel gerekçesi olarak kabul edilir. \"Mustafa Kemal'in tek elde toplamak istediği gücün ileride istibdada dönüşeceği şüphesi\" seçeneği yanlıştır, çünkü bu kişisel liderlik kaygısı birleşme tartışmasının asıl gerekçesi değildir. \"Yeni cemiyetin İttihat ve Terakki Cemiyeti'nin devamı olarak algılanacağı endişesi\" seçeneği de ikincil bir kaygıdır. Doğru cevap \"Bölgesel cemiyetlerin merkezi otoriteye bağlanması hâlinde özerkliklerini yitirecekleri kaygısı\" seçeneğidir.",
      "zorluk": "zor"
     },

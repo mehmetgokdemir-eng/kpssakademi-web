@@ -477,19 +477,19 @@
      "zorluk": "orta"
     },
     {
-     "id": "44446",
+     "id": "44447",
      "dersId": "hukuk",
      "konuId": "medeni",
-     "soru": "Türk Borçlar Kanunu'nda düzenlenen genel işlem koşullarına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+     "soru": "Türk Medeni Kanunu'na göre 'aile konutu'na ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
      "secenekler": [
-      "Genel işlem koşullarında yer alan ve karşı tarafı ağır biçimde zarara uğratacak hükümler, karşı tarafça okunup imzalanmış olsa dahi bağlayıcı olmayabilir.",
-      "Genel işlem koşulları içeren sözleşmelerde belirsizlik varsa bu belirsizlik koşulu kullanan aleyhine yorumlanır.",
-      "Karşı tarafın menfaatine aykırı genel işlem koşulları kesin olarak hükümsüzdür.",
-      "Genel işlem koşulları yalnızca tüketici sözleşmelerinde uygulanır; tacirler arasındaki sözleşmelerde geçerli değildir.",
-      "Genel işlem koşulları, bir tarafın sözleşme kurulmadan önce hazırlayıp karşı tarafa sunduğu sözleşme hükümleridir."
+      "Aile konutu şerhi kendiliğinden tescil edilir; eşlerin ayrıca başvurması gerekmez.",
+      "Eşlerden biri, diğerinin açık rızası olmaksızın aile konutunu devredemez veya üzerinde hak kuramaz; bu sınırlama tapu siciline şerh verilebilir.",
+      "Aile konutu, eşlerin fiilen birlikte yaşadıkları konut olup yalnızca mülkiyete konu olan taşınmazlarda söz konusu olabilir ve kira ilişkilerini kapsamaz.",
+      "Aile konutunun kiraya verilmesi diğer eşin onayına gerek olmaksızın yapılabilir.",
+      "Aile konutu şerhi kaldırıldıktan sonra yapılan devirlerde iyiniyetli üçüncü kişiler korunmaz."
      ],
-     "dogru": 3,
-     "aciklama": "Genel işlem koşulları TBK m. 20-25'te düzenlenmiştir. Bir sözleşme yapacak olan tarafın, düzenlenecek çok sayıdaki benzer sözleşme için önceden hazırlayıp karşı tarafa sunduğu sözleşme hükümleridir. Düzenleme yalnızca tüketici sözleşmeleriyle sınırlı değildir; tacirler dahil her tür sözleşmede uygulanır. Belirsizlik halinde hüküm, koşulu hazırlayan aleyhine yorumlanır (m. 23). Karşı tarafı ağır zarara uğratan haksız hükümler ise yazılı olsa ve imzalanmış olsa da geçersiz sayılabilir (m. 25). \"Genel işlem koşulları içeren sözleşmelerde belirsizlik varsa bu belirsizlik koşulu kullanan aleyhine yorumlanır.\" ifadesi bu nedenle doğrudur. \"Karşı tarafın menfaatine aykırı genel işlem koşulları kesin olarak hükümsüzdür.\" ifadesi de kanuna tam uymaz; ancak soruda açıkça yanlış olan, kapsamı daraltan ifadedir. Doğru cevap \"Genel işlem koşulları yalnızca tüketici sözleşmelerinde uygulanır; tacirler arasındaki sözleşmelerde geçerli değildir.\" seçeneğidir.",
+     "dogru": 1,
+     "aciklama": "TMK m. 194'e göre eşlerden biri, diğerinin açık rızası olmadıkça aile konutunun kullanımını sınırlayacak hukuki işlem yapamaz, aile konutunun devri ve üzerinde sınırlı ayni hak kurulması gibi işlemler de rıza gerektirir. Rıza verilmezse hâkime başvurulabilir. Bu sınırlama, eşin talebiyle tapu siciline şerh edilebilir. Şerh kendiliğinden konmaz; bu yüzden \"Aile konutu şerhi kendiliğinden tescil edilir; eşlerin ayrıca başvurması gerekmez.\" ifadesi yanlıştır. Aile konutu kiralık da olabilir, kira sözleşmesinin feshi gibi işlemlerde de diğer eşin rızası aranır; bu nedenle \"Aile konutu, eşlerin fiilen birlikte yaşadıkları konut olup yalnızca mülkiyete konu olan taşınmazlarda söz konusu olabilir ve kira ilişkilerini kapsamaz.\" ifadesi de yanlıştır. Doğru cevap \"Eşlerden biri, diğerinin açık rızası olmaksızın aile konutunu devredemez veya üzerinde hak kuramaz; bu sınırlama tapu siciline şerh verilebilir.\" seçeneğidir.",
      "zorluk": "orta"
     },
     {

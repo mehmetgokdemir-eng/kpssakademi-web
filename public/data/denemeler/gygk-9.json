@@ -93,19 +93,19 @@
      "zorluk": "zor"
     },
     {
-     "id": "39302",
+     "id": "38831",
      "dersId": "turkce",
      "konuId": "cumle_ogeleri",
-     "soru": "Aşağıdaki cümlelerin hangisinde özne ile yüklem arasında sayı uyumu bulunmamakta; ancak bu durum bir dil yanlışı değil, Türkçenin belirli bir kullanım kuralının sonucudur?",
+     "soru": "\"Sabahın erken saatlerinde kalkıp çalışmak için kendini zorlayan adam, yıllarca süren bu alışkanlığının bir gün fark edileceğini umarak bürosuna kapanırdı.\" cümlesinde kaç tane yüklem vardır?",
      "secenekler": [
-      "Öğrenciler, sınava girdi.",
-      "Çocuklar koştu, büyükler oturdu.",
-      "Kuşlar göç etti.",
-      "Kalabalık, meydana aktı.",
-      "İnsanlar gittikçe birbirinden uzaklaşıyor."
+      "1",
+      "4",
+      "5",
+      "3",
+      "2"
      ],
-     "dogru": 2,
-     "aciklama": "Türkçede insan dışı (hayvan/cansız) çoğul özneler tekil yüklem alır kuralı gereği uyumsuzluk yanlış sayılmaz; bu C'deki 'Kuşlar göç etti' örneğidir. Doğru cevap Kuşlar göç etti şeklindedir.",
+     "dogru": 0,
+     "aciklama": "Cümlede yüklem, temel cümlenin bildirimi taşıyan unsurdur. 'Kalkıp', 'zorlayan', 'fark edileceğini' birer sıfat-fiil veya zarf-fiil olduğundan yardımcı yüklem değil, yan cümle kurucu öge görevindedir. Temel yüklem yalnızca 'kapanırdı'dır. Dolayısıyla cümlede tek yüklem vardır.",
      "zorluk": "zor"
     },
     {
@@ -285,19 +285,19 @@
      "zorluk": "zor"
     },
     {
-     "id": "40469",
+     "id": "40464",
      "dersId": "turkce",
      "konuId": "anlatim_bozukluklari",
-     "soru": "Aşağıdaki cümlelerin hangisinde birden fazla yüklemin ortak bir öğeyle kullanılması sırasında yapılan eksiltme yanlışlığı (yüklem ortaklığı bozukluğu) söz konusudur?",
+     "soru": "Aşağıdaki cümlelerin hangisinde 'pekiştirme yoluyla anlam yinelemesi (gereksiz sözcük kullanımı)' yoktur?",
      "secenekler": [
-      "Müdür hem personeli ödüllendirdi hem de onlarla gurur duydu.",
-      "Çocuklar hem yoruldu hem de acıktı.",
-      "Ali hem derslerinde çalışkandır hem de her işinde başarılıdır.",
-      "Kitabı aldım, okudum ve beğendim.",
-      "Bu şehir hem çok güzeldir hem de yaşamak için oldukça pahalıdır."
+      "Aralarındaki ortak birliktelik uzun yıllar sürdü.",
+      "Kalabalık bir topluluk meydanda bir araya geldi.",
+      "Bu konuda kesin ve nihai bir karara ulaşıldı.",
+      "Toplantı gündeminde yer alan en temel ve özsel konu bu idi.",
+      "Olayın tüm ayrıntılarını tek tek birer birer anlattı."
      ],
-     "dogru": 0,
-     "aciklama": "Ortak nesneyle kullanılan yüklemler aynı çekimi (aynı nesne ekini) istemelidir. \"Ödüllendirmek\" yükleme -i hâli ister (personeli ödüllendirdi), \"gurur duymak\" ise -le (ile) ister (onlarla gurur duydu). Cümlede bu iki farklı gereksinim ortak bir nesneye bağlanmış, bu yüzden yüklem ortaklığı bozukluğu oluşmuştur. \"Kitabı aldım, okudum ve beğendim.\" cümlesinde üç yüklemin de nesnesi aynı çekimdedir (-i hâli), sorun yoktur. \"Çocuklar hem yoruldu hem de acıktı.\" cümlesinde de yüklemler nesne istemez. Doğru cevap \"Müdür hem personeli ödüllendirdi hem de onlarla gurur duydu.\" seçeneğidir.",
+     "dogru": 1,
+     "aciklama": "Anlam yinelemesi, anlamca birbirini karşılayan sözcüklerin art arda kullanılmasıyla oluşur. \"Ortak birliktelik\" sözcüklerinde \"birlikte\" ile \"ortak\" aynı anlamı tekrar eder. \"Kesin ve nihai\" sözcükleri eş anlamlıdır. \"Temel ve özsel\" sözcükleri de aynı anlamı karşılar. \"Tek tek birer birer\" ifadesinde ise aynı pekiştirme iki kez yapılmıştır. \"Kalabalık bir topluluk meydanda bir araya geldi.\" cümlesinde ise sözcükler birbirinin anlamını gereksiz yere tekrar etmez, anlatım yerindedir. Doğru cevap \"Kalabalık bir topluluk meydanda bir araya geldi.\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -851,19 +851,19 @@
      "zorluk": "zor"
     },
     {
-     "id": "103645",
+     "id": "101632",
      "dersId": "matematik",
      "konuId": "veri_yorumlama",
-     "soru": "Bir okuldaki öğrencilerin spor dalı tercihleri aşağıdaki çift girişli tabloda verilmiştir (her öğrenci en fazla 2 spor dalı seçmiştir):\n\n           | Futbol | Basketbol | Voleybol | Yüzme\nErkek (160)|   90   |     70    |    40    |   50\nKız  (140) |   30   |     60    |    80    |   55\n\nBu veriler değerlendirildiğinde, iki spor dalı seçen öğrenci sayısının tam olarak belirlenebilmesi için hangi ek bilgiye ihtiyaç vardır?",
+     "soru": "Bir okulda yapılan sınavda öğrencilerin not dağılımı şöyledir:\n0-49: 12 öğrenci\n50-59: 18 öğrenci\n60-69: 25 öğrenci\n70-79: 30 öğrenci\n80-89: 20 öğrenci\n90-100: 15 öğrenci\n\nBu sınavda geçme notu 60'tır. Geçen öğrencilerin notlarının aritmetik ortalamasını bulmak için her aralığın orta değeri kullanıldığında, ortalama aşağıdakilerden hangisine en yakındır?",
      "secenekler": [
-      "Her spor dalını tek başına seçen öğrenci sayısı",
-      "Sadece futbol ve basketbol seçen öğrenci sayısı",
-      "İki spor dalı seçen öğrenci sayısı zaten verilemez, tablodaki veriler çelişkilidir.",
-      "Hiçbir ek bilgiye gerek yoktur, doğrudan hesaplanabilir.",
-      "Hiç spor seçmeyen öğrenci sayısı"
+      "75,6",
+      "73,5",
+      "76,4",
+      "77,2",
+      "74,8"
      ],
-     "dogru": 4,
-     "aciklama": "Erkeklerin toplam tercihi 90 + 70 + 40 + 50 = 250, kızlarınki 30 + 60 + 80 + 55 = 225 olur. Genel toplam 475 tercih eder. Öğrenci sayısı 160 + 140 = 300'dür. İki dal seçenler x, tek dal seçenler y, hiç seçmeyenler z olsun. Bu durumda x + y + z = 300 ve 2x + y = 475 olur. Taraf tarafa çıkarınca x = 175 + z bulunur. Yani x ancak z biliniyorsa kesinleşir. \"Hiçbir ek bilgiye gerek yoktur, doğrudan hesaplanabilir.\" seçeneği yanlıştır, çünkü z bilinmeden x belirlenemez. \"Sadece futbol ve basketbol seçen öğrenci sayısı\" seçeneği de yetersizdir, çünkü yalnızca tek bir ikiliyi verir. Doğru cevap \"Hiç spor seçmeyen öğrenci sayısı\" seçeneğidir.",
+     "dogru": 3,
+     "aciklama": "(25·64,5+30·74,5+20·84,5+15·95)/90=6962,5/90≈77,36 olup en yakın değer 77,2. Doğru cevap 77,2 şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -1717,19 +1717,19 @@
    "ad": "Vatandaşlık",
    "sorular": [
     {
-     "id": "34313",
+     "id": "34310",
      "dersId": "vatandaslik",
      "konuId": "yasama_tbmm",
-     "soru": "Anayasa'nın 149. maddesi çerçevesinde Anayasa Mahkemesi'nin iptal kararlarının etkisi bakımından hangisi doğrudur?",
+     "soru": "Türkiye'de bir Cumhurbaşkanlığı kararnamesiyle kanunla düzenlenen bir alanın aksine hüküm getirildiğinde ortaya çıkan çatışma nasıl çözülür?",
      "secenekler": [
-      "İptal kararları geriye yürür; iptal edilen norma dayanan tüm bireysel işlemler kendiliğinden hükümsüz hale gelir.",
-      "Anayasa Mahkemesi iptal kararlarının yürürlük tarihini hiçbir biçimde belirleyemez; bu tarih otomatik olarak kararın açıklandığı gün olarak kabul edilir. Bu kural mutlaktır.",
-      "İptal kararı Resmî Gazete'de yayımlanmadan önce Cumhurbaşkanı tarafından onaylanmak zorundadır.",
-      "İptal kararları yalnızca gelecekteki işlemlere uygulanır ve kesinlikle geriye yürütülemez; Mahkeme'nin bu konuda takdir yetkisi yoktur.",
-      "İptal kararları kural olarak geriye yürümez ve Resmî Gazete'de yayımlandığı tarihten itibaren hüküm doğurur; Mahkeme gerekli gördüğünde yürürlüğü erteleyebilir."
+      "Cumhurbaşkanlığı kararnamesi her koşulda üstündür; kanun hükmü uygulanamaz hale gelir.",
+      "Kanun hükmü esas alınır; çünkü Anayasa, Cumhurbaşkanlığı kararnamelerinin kanunla çelişemeyeceğini öngörmüştür.",
+      "Kararname sonraki tarihli olduğundan kanunun önüne geçer; 'sonraki norm öncekini ilga eder' ilkesi uygulanır.",
+      "Anayasa Mahkemesi iki düzenlemeyi karşılaştırarak hangisinin daha güçlü hukuki temele sahip olduğuna karar verir.",
+      "Çatışma, Danıştay'ın bağlayıcı yorumuyla giderilir."
      ],
-     "dogru": 4,
-     "aciklama": "Anayasa Mahkemesi'nin iptal kararlarının etkisi Anayasa'nın 153. maddesinde düzenlenir. Bu maddeye göre iptal kararları geriye yürümez; karar Resmî Gazete'de yayımlandığı günden itibaren hüküm doğurur. Mahkeme, gerekli gördüğü hâllerde iptal hükmünün yürürlüğe gireceği tarihi ayrıca belirleyerek yürürlüğü erteleyebilir. Bu nedenle \"İptal kararları geriye yürür; iptal edilen norma dayanan tüm bireysel işlemler kendiliğinden hükümsüz hale gelir.\" ifadesi yanlıştır; kural geriye yürümemedir. \"Anayasa Mahkemesi iptal kararlarının yürürlük tarihini hiçbir biçimde belirleyemez; bu tarih otomatik olarak kararın açıklandığı gün olarak kabul edilir. Bu kural mutlaktır.\" ifadesi de yanlıştır; çünkü Mahkeme yürürlük tarihini belirleyebilir. Ayrıca iptal kararı için Cumhurbaşkanı onayı aranmaz. Doğru cevap \"İptal kararları kural olarak geriye yürümez ve Resmî Gazete'de yayımlandığı tarihten itibaren hüküm doğurur\" seçeneğidir.",
+     "dogru": 1,
+     "aciklama": "Anayasa m.104/17'ye göre Cumhurbaşkanlığı kararnameleri, Anayasa'da münhasıran kanunla düzenlenmesi öngörülen konularda çıkarılamaz; kanunda açıkça düzenlenen konularda da Cumhurbaşkanlığı kararnamesiyle farklı hüküm getirilmez. Çelişki hâlinde kanun uygulanır. Bu nedenle “Kanun hükmü esas alınır; çünkü Anayasa, Cumhurbaşkanlığı kararnamelerinin kanunla…” seçeneği doğrudur.",
      "zorluk": "zor"
     },
     {

@@ -765,19 +765,19 @@
      "zorluk": "orta"
     },
     {
-     "id": "201588",
+     "id": "201596",
      "dersId": "egitimbilimleri",
      "konuId": "degerlendirme_turleri",
-     "soru": "Bir eğitim programının etkinliğini değerlendirmek için ön test - son test kontrol gruplu desen kullanılmıştır. Deney grubunun son test puanı kontrol grubundan anlamlı biçimde yüksek çıkmıştır. Ancak araştırmacı bu sonucun iç geçerliğini tehdit eden bazı faktörleri fark etmiştir. Aşağıdaki tehditlerden hangisi bu desen için EN AZ geçerlidir?",
+     "soru": "Aşağıdaki tabloda dört farklı sınıfın aynı başarı testinden aldığı sonuçlar verilmiştir:\n\nSınıf A: Ortalama=70, SS=2\nSınıf B: Ortalama=70, SS=15\nSınıf C: Ortalama=50, SS=2\nSınıf D: Ortalama=50, SS=15\n\nBir yönetici bu sonuçları değerlendirerek 'norma dayalı değerlendirme açısından en elverişli dağılımı sunan sınıf hangisidir?' sorusunu sormaktadır. Aşağıdaki seçeneklerden hangisi bu soruya verilen yanıtı ve gerekçesini doğru biçimde açıklamaktadır?",
      "secenekler": [
-      "Araçsal sapma (instrumentation): Ön test ve son testte farklı güçlük düzeyinde araçların kullanılması",
-      "Denek yıpranması (experimental mortality): Deneyin ortasında bazı deneklerin gruptan ayrılması",
-      "Test etkisi (testing effect): Ön testin son testi etkilemesi",
-      "Seçim-olgunlaşma etkileşimi (selection-maturation interaction): Grupların başlangıçta farklı olgunlaşma hızlarına sahip olması",
-      "Olgunlaşma (maturation): Öğrencilerin zaman içinde doğal gelişimi sonucu puanların artması"
+      "Sınıf B; norma dayalı değerlendirme, bireyler arasında anlamlı ayrım yapmayı gerektirdiğinden yüksek standart sapma bu amaca en çok hizmet eder.",
+      "Sınıf C; düşük ortalama, öğrencilerin büyük çoğunluğunun kriterin altında kaldığını gösterir ve norma dayalı değerlendirme bu durumu tespit etmek için kullanılır.",
+      "Sınıf D; hem düşük ortalama hem de yüksek standart sapma, öğrenciler arasındaki farkın gerçek öğrenme güçlüklerinden kaynaklandığını ortaya koyar.",
+      "Sınıf A; ortalamanın yüksek olması, grubun genel başarısının iyi olduğunu gösterir ve norma dayalı değerlendirme bu tür gruplarda daha adil çalışır.",
+      "Sınıf A ve C; standart sapmanın düşük olduğu gruplarda ortalama etrafında yoğunlaşma vardır ve norma dayalı değerlendirme bu yapıda daha tutarlı sonuç verir."
      ],
-     "dogru": 4,
-     "aciklama": "Ön test - son test kontrol gruplu desende iki grup da aynı süreçten geçer. Bu nedenle zamanla ortaya çıkan olgunlaşma, her iki grubu benzer biçimde etkiler. Deney ve kontrol grubu arasındaki fark yorumlanırken bu etki büyük ölçüde dengelenir. Bu yüzden olgunlaşma, bu desen için en az tehdit oluşturan faktördür. Denek yıpranması gruplar arasında farklı düzeyde olabilir ve desen bunu kontrol etmez. Araçsal sapma ölçme araçları değiştiğinde sorun yaratır. \"Seçim-olgunlaşma etkileşimi\" ise grupların gelişim hızı farklıysa gruplar arası farkı bozar. Doğru cevap \"Olgunlaşma (maturation): Öğrencilerin zaman içinde doğal gelişimi sonucu puanların artması\" seçeneğidir.",
+     "dogru": 0,
+     "aciklama": "Norma dayalı değerlendirmenin amacı, bireyleri birbirinden ayırt edip göreli konumlarını belirlemektir. Bunun için puanların geniş yayılması, yani standart sapmanın büyük olması gerekir. Ortalama ise ayrım gücünü belirlemez; yalnızca dağılımın merkezini gösterir. Sınıf A, B, C ve D içinde standart sapması 15 olan Sınıf B ile Sınıf D en geniş yayılıma sahiptir. Sınıf B'nin ortalaması 70'tir ve tavan veya taban etkisi riski daha düşüktür. Bu nedenle Sınıf B, en elverişli dağılımdır. \"Sınıf A ve C...\" seçeneği yanlıştır; düşük standart sapma puanları birbirine yaklaştırır ve bireyler arasında ayrım yapmayı zorlaştırır. \"Sınıf A; ortalamanın yüksek olması...\" seçeneği de yanlıştır; çünkü yüksek ortalama norma dayalı değerlendirmenin ayrım gücünü artırmaz. Doğru cevap \"Sınıf B\" seçeneğidir.",
      "zorluk": "zor"
     },
     {

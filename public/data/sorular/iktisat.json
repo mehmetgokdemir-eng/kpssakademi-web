@@ -2864,22 +2864,6 @@
   "zorluk": "orta"
  },
  {
-  "id": "46199",
-  "dersId": "iktisat",
-  "konuId": "makro_i_ktisat",
-  "soru": "Aşağıdakilerden hangisi parasal aktarım mekanizmasının işleyişini zayıflatan bir unsur değildir?",
-  "secenekler": [
-   "Para talebinin faiz oranına karşı son derece esnek olması",
-   "Bankaların açık piyasa işlemleri sonucu elde ettikleri rezervleri atıl tutması",
-   "Yatırım talebinin faiz oranına duyarsız olması",
-   "Merkez bankasının döviz kurunu sabit tutma taahhüdü vermesi",
-   "Hanehalkının tüketim kararlarını faiz oranından bağımsız alması"
-  ],
-  "dogru": 3,
-  "aciklama": "Parasal aktarım mekanizması, politika faizindeki değişimin faiz, kredi ve harcama kanalları üzerinden talebe ulaşmasıdır. Para talebinin faize aşırı esnek olması (likidite tuzağı), bankaların rezervleri atıl tutması, yatırım talebinin faize duyarsızlığı ve tüketimin faizden bağımsız olması bu zincirin halkalarını koparır. Bu nedenle dört seçenek de mekanizmayı zayıflatır. Döviz kurunu sabit tutma taahhüdü ise zincirin içindeki bir tıkanıklık değil, para politikasının çapasını belirleyen bir rejim tercihidir. Bu yüzden zayıflatıcı unsur olarak sayılan dört seçenekten ayrılır. Doğru cevap \"Merkez bankasının döviz kurunu sabit tutma taahhüdü vermesi\" seçeneğidir.",
-  "zorluk": "orta"
- },
- {
   "id": "46200",
   "dersId": "iktisat",
   "konuId": "makro_i_ktisat",
@@ -6621,22 +6605,6 @@
   ],
   "dogru": 1,
   "aciklama": "Marshall-Lerner koşuluna göre, arz esneklikleri sonsuz (arz tam esnek) varsayımı altında, ihracat ve ithalat talep esnekliklerinin mutlak değerleri toplamı 1'den büyükse değer kaybı dış ticaret dengesini iyileştirir. Toplam 1'den büyükse ihracat gelirindeki artış ve ithalat harcamasındaki azalma, birim fiyat etkisini aşar. Her iki esnekliğin ayrı ayrı 1 olması gerekmez, önemli olan toplamdır. \"İthalat talep esnekliğinin mutlak değerinin 1'den büyük olması yeterlidir.\" seçeneği yanlıştır, çünkü ihracat esnekliği de hesaba katılmalıdır. \"Marshall-Lerner koşulunun sağlanması için ihracat talep esnekliğinin 1, ithalat talep esnekliğinin de 1 olması yeterli ve zorunludur.\" seçeneği de koşulu yanlış aktarır. J-eğrisi ise yalnızca kısa dönemdeki geçici kötüleşmeyi anlatır. Doğru cevap \"İhracat arz esnekliğinin sonsuz, ihracat ve ithalat talep esnekliklerinin mutlak değerleri toplamının 1'den büyük olması gereklidir.\" seçeneğidir.",
-  "zorluk": "zor"
- },
- {
-  "id": "46445",
-  "dersId": "iktisat",
-  "konuId": "uluslararasi_i_ktisat",
-  "soru": "Uluslararası ticaret teorisinde 'terms of trade' (ticaret hadleri) kavramı ile ilgili aşağıdaki ifadelerden hangisi analitik açıdan en doğru değerlendirmeyi içermektedir?",
-  "secenekler": [
-   "Prebisch-Singer hipotezine göre gelişmekte olan ülkelerin ihraç ettiği birincil malların ticaret hadleri uzun dönemde sanayileşmiş ülkeler aleyhine bozulmaktadır.",
-   "Prebisch-Singer hipotezi, gelişmiş ülkelerin birincil mal ihraç eden ülkelerden daha hızlı büyüdüğünü öngörür, ticaret hadleriyle değil büyüme hızıyla ilgilidir.",
-   "Ticaret hadlerinin bir ülke lehine iyileşmesi, o ülkenin mutlaka daha fazla ihracat yaptığı anlamına gelir.",
-   "Büyük ülkeler optimum tarife uygulayarak ticaret hadlerini kendi lehlerine çevirebilir; ancak bu politika misilleme yokluğunda bile küresel refahı artırır.",
-   "Ticaret hadlerindeki iyileşme, bir ülkenin ürettiği malların göreli fiyatının düşmesi anlamına gelir."
-  ],
-  "dogru": 0,
-  "aciklama": "Prebisch-Singer hipotezi, gelişmekte olan ülkelerin ihraç ettiği birincil malların fiyatlarının, sanayi mallarının fiyatlarına göre uzun dönemde düştüğünü, yani bu ülkelerin net ticaret hadlerinin bozulduğunu savunur. Gerekçe olarak birincil mallarda gelir esnekliğinin düşük olması ve sanayi mallarındaki fiyat artışlarının daha kalıcı olması gösterilir. \"Prebisch-Singer hipotezi, gelişmiş ülkelerin birincil mal ihraç eden ülkelerden daha hızlı büyüdüğünü öngörür, ticaret hadleriyle değil büyüme hızıyla ilgilidir.\" seçeneği yanlıştır, çünkü hipotezin konusu doğrudan ticaret hadleridir. \"Ticaret hadlerinin bir ülke lehine iyileşmesi, o ülkenin mutlaka daha fazla ihracat yaptığı anlamına gelir.\" seçeneği de yanlıştır, çünkü ticaret hadleri göreli fiyatları ölçer, ihracat hacmini değil. Doğru cevap \"Prebisch-Singer hipotezine göre gelişmekte olan ülkelerin ihraç ettiği birincil malların ticaret hadleri uzun dönemde sanayileşmiş ülkeler aleyhine bozulmaktadır\" seçeneğidir.",
   "zorluk": "zor"
  },
  {

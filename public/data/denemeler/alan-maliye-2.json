@@ -24,7 +24,7 @@
       "Stabilizasyon fonksiyonu tamamen kamu maliyesinden çıkarılır; para politikasının maliye politikasına tabi kılınması fiyat istikrarı hedefini birincil öncelik olmaktan çıkarır ve seigniorage bağımlılığı enflasyon vergisi yoluyla sabit gelirli kesimleri orantısız biçimde etkiler.",
       "Üç fonksiyon arasındaki sınır teorik olarak anlamsızdır; merkez bankası bağımsızlığı yalnızca kurumsal bir tercih meselesidir ve makroekonomik sonuçları bugüne kadar hiçbir çalışmayla kanıtlanmış değildir. Bu nedenle senyoraj gelirinin bölüşüm üzerindeki etkisi de yalnızca teorik bir tartışma konusu olarak kalmakta, uygulamada ölçülememektedir."
      ],
-     "dogru": 3,
+     "dogru": 0,
      "aciklama": "Musgrave'e göre kamu maliyesinin üç fonksiyonu kaynak tahsisi, bölüşüm ve stabilizasyondur. Merkez bankasının hazineye doğrudan para basma yoluyla finansman sağlaması, para politikasını maliye politikasına tabi kılar. Bu durumda fiyat istikrarı birincil hedef olmaktan çıkar. Hazine senyoraj gelirine bağımlı hale gelir ve bu bağımlılık enflasyon vergisi yoluyla ödenir. Enflasyon vergisi, nominal gelirleri fiyat artışına ayak uyduramayan sabit gelirli kesimleri orantısız biçimde etkiler. Böylece stabilizasyon amacı zayıflar ve bölüşüm olumsuz etkilenir. \"Stabilizasyon ile bölüşüm fonksiyonları arasındaki sınırı ortadan kaldırır\" seçeneği, sınırın ortadan kalktığını söylemesi ve para politikasının maliye politikasına tabi kılınmasındaki asıl mekanizmayı yakalamaması nedeniyle eksiktir. \"Kaynak tahsisi ile bölüşüm fonksiyonları arasındaki sınırı ortadan kaldırır\" seçeneği ise para basma yetkisiyle doğrudan ilgili olmayan bir fonksiyon çiftini öne çıkardığı için yanlıştır. Doğru cevap \"Stabilizasyon fonksiyonu tamamen kamu maliyesinden çıkarılır; para politikasının maliye politikasına tabi kılınması...\" seçeneğidir.",
      "zorluk": "zor"
     },
@@ -541,19 +541,19 @@
      "zorluk": "zor"
     },
     {
-     "id": "48511",
+     "id": "48534",
      "dersId": "maliye",
      "konuId": "turk_vergi_sistemi",
-     "soru": "Katma Değer Vergisi uygulamasında 'vergiyi doğuran olay' ve 'matrah' kavramlarına ilişkin aşağıdaki ifadelerden hangisi yanlıştır?",
+     "soru": "Vergi Usul Kanunu'nda düzenlenen 'vergi incelemesi' sürecinde mükellef hakları bağlamında aşağıdaki ifadelerden hangisi YANLIŞTIR?",
      "secenekler": [
-      "Komisyonculuk hizmetlerinde matrah, asıl işlem bedeli değil yalnızca komisyon tutarıdır.",
-      "KDV matrahına, vade farkı, fiyat farkı ve kur farkları dâhil edilmez; bu unsurlar ayrı bir işlem olarak değerlendirilir.",
-      "Kısım kısım mal teslimi veya hizmet ifasının söz konusu olduğu durumlarda, her kısma ait faturanın düzenlenmesiyle birlikte o kısım için vergiyi doğuran olay gerçekleşmiş sayılır.",
-      "İthalatta vergiyi doğuran olay, Gümrük Kanunu'na göre gümrük yükümlülüğünün doğduğu anda gerçekleşir.",
-      "Mal teslimlerinde vergiyi doğuran olay, malın teslimi veya teslim sayılan hâllerin gerçekleşmesiyle meydana gelir."
+      "Haklarında sahte belge düzenleme ya da kullanma tespiti yapılan mükellefler vergi incelemesinde bazı ek yükümlülüklere tabi tutulabilir.",
+      "Mükellef, inceleme başlamadan önce yazılı olarak bildirim yapılmasını talep edebilir.",
+      "Vergi inceleme raporu düzenlenmeden önce mükellefe 'izahat' imkânı tanıyan ön rapor bildirimi zorunludur ve mükellef bu aşamada itirazlarını yazılı olarak bildirebilir.",
+      "İnceleme, kural olarak mükellefin işyerinde yapılır; ancak işyerinin müsait olmaması hâlinde dairede de yürütülebilir.",
+      "Mükellef, inceleme sürecinde bağlı olduğu meslek odasından temsilci bulundurma hakkına sahiptir."
      ],
-     "dogru": 1,
-     "aciklama": "Soru yanlış ifadeyi sormaktadır. KDV Kanunu'na göre vade farkı, fiyat farkı, faiz ve kur farkı gibi unsurlar teslim veya hizmet bedeline bağlı olduğundan matraha dâhildir. Bu nedenle \"KDV matrahına, vade farkı, fiyat farkı ve kur farkları dâhil edilmez; bu unsurlar ayrı bir işlem olarak değerlendirilir.\" ifadesi yanlıştır. Diğer ifadeler doğrudur. Komisyonculukta matrah komisyon tutarıdır. Kısım kısım teslimde her kısım için ayrı vergiyi doğuran olay oluşur. İthalatta vergiyi doğuran olay gümrük yükümlülüğünün doğduğu andır. Doğru cevap \"KDV matrahına, vade farkı, fiyat farkı ve kur farkları dâhil edilmez; bu unsurlar ayrı bir işlem olarak değerlendirilir.\" seçeneğidir.",
+     "dogru": 2,
+     "aciklama": "VUK'ta rapor öncesi zorunlu 'ön rapor bildirimi' yoktur; mükellefin hakkı rapor değerlendirme komisyonunda talep üzerine dinlenmedir, bu nedenle yanlış ifade C'dir. Doğru cevap “Vergi inceleme raporu düzenlenmeden önce mükellefe 'izahat' imkânı tanıyan ön rapor…” seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -621,19 +621,19 @@
      "zorluk": "orta"
     },
     {
-     "id": "48528",
+     "id": "48522",
      "dersId": "maliye",
      "konuId": "turk_vergi_sistemi",
-     "soru": "Özel Tüketim Vergisi (ÖTV) Kanunu'nda 'ithalatta matrah' düzenlemesine göre, (IV) sayılı listedeki bir malın ithalinde ÖTV matrahını oluşturan unsurlar arasında aşağıdakilerden hangisi yer ALMAZ?",
+     "soru": "Türk vergi sisteminde 'çifte vergilendirmeyi önleme anlaşmaları' bakımından aşağıdaki ifadelerden hangisi doğrudur?",
      "secenekler": [
-      "İthalat sırasında alınan diğer vergi ve fonlar",
-      "İthal edilen mala ilişkin yurt içinde yapılan pazarlama ve dağıtım giderleri",
-      "Varsa KDV matrahına dâhil edilmeyen diğer gider kalemleri ve sonradan doğan farklar",
-      "Gümrük vergisi",
-      "Gümrük vergisi matrahı"
+      "OECD Model Vergi Anlaşması'na göre bir anlaşmada aksi belirtilmediği sürece temettü (kâr payı) geliri yalnızca kaynak devlet tarafından vergilendirilebilir; ikamet devletinin vergilendirme yetkisi bulunmamaktadır.",
+      "Anlaşmada yer alan 'daimi işyeri' kavramı, iç hukuktaki 'işyeri' kavramıyla her zaman örtüşür; çünkü anlaşmalar iç hukuku tamamlayıcı niteliktedir.",
+      "OECD modeline göre ticari kazançlar üzerinde yalnızca ikamet devletinin vergilendirme yetkisi bulunmakta olup daimi işyerinin varlığı bu kuralı değiştirmez.",
+      "Türkiye'nin taraf olduğu çifte vergilendirme anlaşmaları, Anayasa'nın 90. maddesi gereği iç hukuk kanun hükümlerinin önünde yer almaktadır.",
+      "Çifte vergilendirmeyi önleme anlaşmaları, iç hukuka göre vergi doğmayan durumlarda dahi vergilendirme yetkisi yaratabilir."
      ],
-     "dogru": 1,
-     "aciklama": "ÖTV Kanunu'nun ithalatta matrah düzenlemesine göre matrah, gümrük vergisi matrahına gümrük vergisinin ve ithalatta alınan diğer vergi, resim, harç ve fonların eklenmesiyle oluşur. Bunlara KDV matrahına dâhil edilmeyen diğer giderler ve sonradan doğan farklar da dâhildir. Bu unsurların hepsi ithalat anında ortaya çıkan kalemlerdir. İthal edilen malın Türkiye'de sonradan yapılan pazarlama ve dağıtım giderleri ise ithalat işleminin parçası değildir. Bu giderler ithalattaki ÖTV matrahına girmez. \"Gümrük vergisi\" ve \"Gümrük vergisi matrahı\" seçenekleri matrahın temel unsurlarıdır. \"İthalat sırasında alınan diğer vergi ve fonlar\" seçeneği de matrahta yer alır. Doğru cevap \"İthal edilen mala ilişkin yurt içinde yapılan pazarlama ve dağıtım giderleri\" seçeneğidir.",
+     "dogru": 3,
+     "aciklama": "Anayasa'nın 90. maddesine göre usulüne uygun yürürlüğe konmuş uluslararası anlaşmalar kanun hükmündedir. Temel hak ve özgürlüklere ilişkin anlaşmalarla kanunlar arasında uyuşmazlık çıkarsa anlaşma hükümleri esas alınır. Türk uygulaması ve doktrini, çifte vergilendirmeyi önleme anlaşmalarının iç hukuk hükümleri karşısında öncelikle uygulanması gerektiği yönündedir. \"OECD Model Vergi Anlaşması'na göre ... temettü (kâr payı) geliri yalnızca kaynak devlet tarafından vergilendirilebilir\" ifadesi yanlıştır. Modelde temettü üzerinde ikamet devleti de vergilendirme yetkisine sahiptir ve kaynak devletin payı sınırlandırılmıştır. \"OECD modeline göre ticari kazançlar üzerinde yalnızca ikamet devletinin vergilendirme yetkisi bulunmakta\" ifadesi de yanlıştır. Çünkü daimi işyeri varsa kaynak devlet, o işyerine isnat edilen kazancı vergilendirebilir. Doğru cevap \"Türkiye'nin taraf olduğu çifte vergilendirme anlaşmaları, Anayasa'nın 90. maddesi gereği\" seçeneğidir.",
      "zorluk": "zor"
     },
     {

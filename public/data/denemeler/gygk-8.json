@@ -488,7 +488,7 @@
       "Bir aydınlatma uzmanının evindeki lambaların büyük bölümünün yanmaması.",
       "Ülke dışında çok tanınan bir bilim insanının kendi şehrinde takdir görmemesi."
      ],
-     "dogru": 3,
+     "dogru": 4,
      "aciklama": "\"Mum dibine ışık vermez.\" atasözü, yakınındakilere yararı dokunmayan ya da en çok yakınlarına ihtiyaç duyulan yerde yardımı esirgeyen kişiler için kullanılır. Kendi çocuğuna vakit ayıramayan öğretmen, kendi sorunlarını çözemeyen yardımsever kişi ve kendi şehrinde takdir görmeyen bilim insanı bu duruma örnektir. Annenin kendi ihtiyaçlarını ihmal etmesi de bu çerçeveye girer. Aydınlatma uzmanının evindeki lambaların yanmaması ise sözcük anlamıyla ışık meselesidir. Burada bir kişinin yakınına yararı değil, kendi evindeki bir aksaklık söz konusudur. Bu yüzden atasözünü örneklendirmek için kullanılamaz. Doğru cevap \"Bir aydınlatma uzmanının evindeki lambaların büyük bölümünün yanmaması.\" seçeneğidir.",
      "zorluk": "orta"
     }
@@ -1017,19 +1017,19 @@
      "zorluk": "zor"
     },
     {
-     "id": "30528",
+     "id": "30143",
      "dersId": "tarih",
      "konuId": "turk_i_slam_devletleri",
-     "soru": "Aşağıda verilen Türk-İslam devletlerine ait bilgilerden hangisi doğrudur?",
+     "soru": "Aşağıda Türk-İslam devletleriyle ilgili verilen eşleştirmelerden hangisi yanlıştır?",
      "secenekler": [
-      "Gazneli Devleti, kuruluşundan itibaren tamamen bağımsız hareket etmiş, hiçbir zaman Sâmânilere bağlı kalmamıştır",
-      "Harzemşahlar, Moğol istilasına uzun süre direnerek devletlerini korumayı başarmıştır",
-      "Karahanlılar, İslamiyet'i Türk boyları arasında yayan ilk Türk-İslam devleti olmakla birlikte Arap alfabesini hiçbir zaman benimsememiştir",
-      "İlk Müslüman Türk devleti kabul edilen Karahanlılar, kurucusu Satuk Buğra Han önderliğinde İslamiyet'i benimsemiştir",
-      "Büyük Selçuklu Devleti, halife unvanını da benimseyerek dini ve siyasi otoriteyi tek elde toplamıştır"
+      "Karahanlılar – Kutadgu Bilig – Yusuf Has Hacib",
+      "Gazneliler – Şehname – Firdevsi",
+      "Büyük Selçuklular – Siyasetname – Nizamülmülk",
+      "Harzemşahlar – Divanü Lügati't-Türk – Kaşgarlı Mahmut",
+      "Karahanlılar – Atabetü'l-Hakayık – Edip Ahmet Yükneki"
      ],
      "dogru": 3,
-     "aciklama": "Karahanlılar, Satuk Buğra Han döneminde İslamiyet'i devlet dini olarak kabul eden ilk Türk devletidir. Satuk Buğra Han'ın Müslüman olması, İslamiyet'in Türkler arasında yayılması bakımından dönüm noktasıdır. Karahanlılar Arap alfabesini kullanmaya başlamış, Kutadgu Bilig gibi eserler Karahanlı sahasında yazılmıştır. \"Karahanlılar, İslamiyet'i Türk boyları arasında yayan ilk Türk-İslam devleti olmakla birlikte Arap alfabesini hiçbir zaman benimsememiştir\" yargısı bu yüzden yanlıştır. \"Gazneli Devleti, kuruluşundan itibaren tamamen bağımsız hareket etmiş, hiçbir zaman Sâmânilere bağlı kalmamıştır\" yargısı da yanlıştır; Gazneliler Sâmânilerin komutanları tarafından kurulmuştur. Ayrıca Harzemşahlar Moğol istilasına karşı devletlerini koruyamamıştır. Doğru cevap \"İlk Müslüman Türk devleti kabul edilen Karahanlılar, kurucusu Satuk Buğra Han önderliğinde İslamiyet'i benimsemiştir\" seçeneğidir.",
+     "aciklama": "Divanü Lügati't-Türk, Kaşgarlı Mahmut tarafından Karahanlılar döneminde (11. yüzyıl) yazılmıştır; Harzemşahlarla ilgisi yoktur. Harzemşahlar, 12-13. yüzyılda faaliyet gösteren ayrı bir devlettir. Diğer eşleştirmeler doğrudur: Kutadgu Bilig Yusuf Has Hacib'e, Şehname Firdevsi'ye, Siyasetname Nizamülmülk'e, Atabetü'l-Hakayık ise Edip Ahmet Yükneki'ye aittir.",
      "zorluk": "orta"
     },
     {
@@ -1808,8 +1808,8 @@
       "10 gün",
       "3 gün"
      ],
-     "dogru": 2,
-     "aciklama": "5393 sayılı Kanun md.23'e göre başkan kararı 7 gün içinde gerekçesiyle meclise iade edebilir, dolayısıyla doğru şık C'dir. Doğru cevap 7 gün şeklindedir.",
+     "dogru": 0,
+     "aciklama": "5393 sayılı Belediye Kanunu'nun 23. maddesine göre belediye başkanı, hukuka aykırı gördüğü meclis kararlarını gerekçesini belirterek 5 gün içinde yeniden görüşülmek üzere meclise iade edebilir. Meclis, iade edilen kararda üye tam sayısının salt çoğunluğuyla ısrar ederse karar kesinleşir. Belediye başkanı ısrar edilen bu karara karşı 10 gün içinde idari yargıya başvurabilir. Bu nedenle 10 gün süresi iade için değil, yargı yoluna başvuru için öngörülmüştür.",
      "zorluk": "kolay"
     },
     {

@@ -13,19 +13,19 @@
    "ad": "Türkçe",
    "sorular": [
     {
-     "id": "39417",
+     "id": "39448",
      "dersId": "turkce",
      "konuId": "sozcukte_anlam",
-     "soru": "Aşağıdaki cümlelerin hangisinde sözcükler arasında 'eş anlamlılık' ilişkisi değil, 'yakın anlamlılık' ilişkisi vardır?",
+     "soru": "Aşağıdaki cümlelerden hangisinde 'ad aktarması (mecazımürsel)' sanatı yapılmıştır?",
      "secenekler": [
-      "Hız – sürat",
-      "Korku – endişe",
-      "Gülmek – gülümsemek",
-      "Yardım – destek",
-      "Sevinç – neşe"
+      "Yıllar seni yavaş yavaş tüketiyor.",
+      "Kalbim sevinçten uçuyordu.",
+      "Bütün köy bu habere üzüldü.",
+      "Gözlerin iki yıldız gibi parlıyor.",
+      "Hayat ağır bir yük gibi omuzlarıma çöktü."
      ],
      "dogru": 2,
-     "aciklama": "Eş anlamlı sözcükler her bağlamda birbirinin yerine kullanılabilir; yakın anlamlı sözcükler ise anlamca birbirine yakındır, ancak derece ya da nitelik farkı taşır. \"Gülmek\" sesli ve belirgin bir davranıştır; \"gülümsemek\" ise sessiz, hafif ve yüz ifadesiyle sınırlı bir davranıştır. Bu fark nedeniyle iki sözcük birbirinin yerine her zaman kullanılamaz. \"Hız – sürat\" ise aynı kavramın iki adıdır, bu yüzden eş anlamlıdır. \"Yardım – destek\" çifti de çoğu bağlamda birbirinin yerine kullanılabildiği için eş anlama yakın sayılır. Doğru cevap \"Gülmek – gülümsemek\" seçeneğidir.",
+     "aciklama": "Ad aktarmasında bir sözcük, aralarında yakınlık, içerme veya ilgi bulunan başka bir sözcüğün yerine kullanılır. \"Bütün köy bu habere üzüldü.\" cümlesinde \"köy\" sözcüğü, orada yaşayan insanları karşılar; yer adı ile o yerde yaşayanlar arasındaki ilgiye dayanır. \"Yıllar seni yavaş yavaş tüketiyor.\" cümlesinde yıllara etkin bir varlık gibi eylem yüklenmiştir, bu kişileştirmedir. \"Gözlerin iki yıldız gibi parlıyor.\" cümlesinde ise \"gibi\" edatıyla yapılan açık bir benzetme vardır; bu da ad aktarması sayılmaz. Doğru cevap \"Bütün köy bu habere üzüldü.\" seçeneğidir.",
      "zorluk": "orta"
     },
     {
@@ -723,19 +723,19 @@
      "zorluk": "zor"
     },
     {
-     "id": "103645",
+     "id": "101631",
      "dersId": "matematik",
      "konuId": "veri_yorumlama",
-     "soru": "Bir okuldaki öğrencilerin spor dalı tercihleri aşağıdaki çift girişli tabloda verilmiştir (her öğrenci en fazla 2 spor dalı seçmiştir):\n\n           | Futbol | Basketbol | Voleybol | Yüzme\nErkek (160)|   90   |     70    |    40    |   50\nKız  (140) |   30   |     60    |    80    |   55\n\nBu veriler değerlendirildiğinde, iki spor dalı seçen öğrenci sayısının tam olarak belirlenebilmesi için hangi ek bilgiye ihtiyaç vardır?",
+     "soru": "Bir anket çalışmasında 500 kişiye hangi sosyal medya platformlarını kullandıkları sorulmuştur. Sonuçlar: Yalnızca A platformu: 120 kişi, Yalnızca B platformu: 80 kişi, Yalnızca C platformu: 60 kişi, A ve B (C hariç): 50 kişi, A ve C (B hariç): 40 kişi, B ve C (A hariç): 30 kişi, Üçü birden: 20 kişi, Hiçbiri: X kişi.\n\nEn az iki platformu kullananların, en az bir platformu kullananlar içindeki oranı kaçtır?",
      "secenekler": [
-      "Her spor dalını tek başına seçen öğrenci sayısı",
-      "Sadece futbol ve basketbol seçen öğrenci sayısı",
-      "İki spor dalı seçen öğrenci sayısı zaten verilemez, tablodaki veriler çelişkilidir.",
-      "Hiçbir ek bilgiye gerek yoktur, doğrudan hesaplanabilir.",
-      "Hiç spor seçmeyen öğrenci sayısı"
+      "3/8",
+      "7/20",
+      "1/4",
+      "2/5",
+      "7/24"
      ],
-     "dogru": 4,
-     "aciklama": "Erkeklerin toplam tercihi 90 + 70 + 40 + 50 = 250, kızlarınki 30 + 60 + 80 + 55 = 225 olur. Genel toplam 475 tercih eder. Öğrenci sayısı 160 + 140 = 300'dür. İki dal seçenler x, tek dal seçenler y, hiç seçmeyenler z olsun. Bu durumda x + y + z = 300 ve 2x + y = 475 olur. Taraf tarafa çıkarınca x = 175 + z bulunur. Yani x ancak z biliniyorsa kesinleşir. \"Hiçbir ek bilgiye gerek yoktur, doğrudan hesaplanabilir.\" seçeneği yanlıştır, çünkü z bilinmeden x belirlenemez. \"Sadece futbol ve basketbol seçen öğrenci sayısı\" seçeneği de yetersizdir, çünkü yalnızca tek bir ikiliyi verir. Doğru cevap \"Hiç spor seçmeyen öğrenci sayısı\" seçeneğidir.",
+     "dogru": 1,
+     "aciklama": "En az bir platform kullanan = 120+80+60+50+40+30+20 = 400 kişi → Hiçbirini kullanmayan = 500−400 = 100. En az iki platform kullanan = (A∩B hariç C) + (A∩C hariç B) + (B∩C hariç A) + üçü birden = 50+40+30+20 = 140. Oran = 140/400 = 7/20. Doğru cevap 7/20 şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -915,19 +915,19 @@
      "zorluk": "zor"
     },
     {
-     "id": "101829",
+     "id": "100741",
      "dersId": "matematik",
      "konuId": "k_r_zarar",
-     "soru": "Bir şirket, ürettiği ürünleri 800 TL birim maliyetle üretiyor. Hedef kâr marjı maliyetin %37,5'i olarak belirlenmiş, ancak pazarlama giderleri için her ürüne 50 TL ek maliyet eklenmiştir. Ürün etiket fiyatı üzerinden %10 indirimle satıldığında, gerçek kâr yüzdesi toplam maliyet üzerinden yaklaşık kaçtır?",
+     "soru": "Bir esnaf, bir ürünü etiket fiyatı üzerinden satmaktadır. Etiket fiyatı maliyetin %50 fazlasıdır. Esnaf, müşteriye önce %20 sonra %10 indirim yaparak sattığında maliyetine göre kâr ya da zarar yüzdesi nedir?",
      "secenekler": [
-      "%27,5",
-      "%22,5",
-      "%23",
-      "%20",
-      "%25"
+      "%4 kâr",
+      "%8 zarar",
+      "%8 kâr",
+      "%10 kâr",
+      "%6 kâr"
      ],
      "dogru": 2,
-     "aciklama": "Toplam maliyet 850, etiket 850·1,375=1168,75, %10 indirimle 1051,875; kâr 201,875/850≈%23,75 → yaklaşık %23. Doğru cevap %23 şeklindedir.",
+     "aciklama": "Maliyet: 100 TL (birim olarak alalım). Etiket fiyatı: 150 TL. %20 indirim: 150 × 0,80 = 120 TL. %10 indirim: 120 × 0,90 = 108 TL. Satış fiyatı 108 TL, maliyet 100 TL. Kâr: 8 TL → %8 kâr.",
      "zorluk": "orta"
     },
     {
@@ -1733,19 +1733,19 @@
      "zorluk": "orta"
     },
     {
-     "id": "34075",
+     "id": "34053",
      "dersId": "vatandaslik",
      "konuId": "anayasa_hukuku",
-     "soru": "Türkiye Cumhuriyeti Anayasası'nda düzenlenen 'Devletin temel amaç ve görevleri' maddesine göre aşağıdakilerden hangisi devletin temel görevleri arasında sayılmamıştır?",
+     "soru": "Aşağıdaki durumların hangisinde TBMM seçimlerinin yenilenmesine (erken seçime) gidilebilir?",
      "secenekler": [
-      "Kişinin temel hak ve hürriyetlerini sosyal hukuk devleti sınırları içinde sınırlama yetkisi",
-      "İnsan haklarına dayanan, Atatürk milliyetçiliğine bağlı devleti korumak",
-      "Türk milletinin bağımsızlığını ve bütünlüğünü korumak",
-      "Kişilerin ve toplumun refah, huzur ve mutluluğunu sağlamak",
-      "Cumhuriyeti ve demokrasiyi korumak"
+      "Cumhurbaşkanının tek başına karar almasıyla her zaman",
+      "TBMM üye tam sayısının salt çoğunluğunun (301) güvensizlik oyu vermesiyle",
+      "Yalnızca Anayasa Mahkemesi'nin seçimlerin iptali kararı vermesi üzerine",
+      "Cumhurbaşkanlığı seçiminin ikinci turunda kazanan adayın belirsiz kalması ve sonucun ilan edilememesi hâlinde hâlinde uygulanır",
+      "TBMM üye tam sayısının beşte üçünün kararıyla ya da Cumhurbaşkanının seçimlerin yenilenmesine karar vermesiyle"
      ],
-     "dogru": 0,
-     "aciklama": "Anayasa'nın 5. maddesi devletin temel amaç ve görevlerini sayar. Bunlar Türk milletinin bağımsızlığını ve bütünlüğünü, ülkenin bölünmezliğini, Cumhuriyeti ve demokrasiyi korumak, kişi ve toplumun refah, huzur ve mutluluğunu sağlamak, kişinin temel hak ve hürriyetlerini engelleyen engelleri kaldırmaya çalışmaktır. Hakları sınırlama yetkisi ise devletin görevi olarak sayılmaz, sınırlama ancak 13. madde çerçevesinde söz konusu olur. \"Türk milletinin bağımsızlığını ve bütünlüğünü korumak\" ile \"Cumhuriyeti ve demokrasiyi korumak\" seçenekleri 5. maddede açıkça yer alır. Doğru cevap \"Kişinin temel hak ve hürriyetlerini sosyal hukuk devleti sınırları içinde sınırlama yetkisi\" seçeneğidir.",
+     "dogru": 4,
+     "aciklama": "Anayasa'nın 116. maddesine göre TBMM, üye tam sayısının beşte üç çoğunluğuyla seçimlerin yenilenmesine karar verebilir. Bunun dışında Cumhurbaşkanı da Anayasa'da öngörülen hallerde seçimlerin yenilenmesine karar verme yetkisine sahiptir (örneğin Bakanlar Kurulu'nun kurulamaması ya da güven oyu alınamaması durumunda). Bu iki durum dışında erken seçime gidilmesi mümkün değildir. 'Salt çoğunlukla güvensizlik oyu' şeklinde bir mekanizma Türk Anayasası'nda 2017 sonrası dönemde mevcut değildir.",
      "zorluk": "orta"
     },
     {

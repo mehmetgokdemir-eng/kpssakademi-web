@@ -29,19 +29,19 @@
      "zorluk": "zor"
     },
     {
-     "id": "39983",
+     "id": "39980",
      "dersId": "turkce",
      "konuId": "noktalama",
-     "soru": "Aşağıdaki cümlelerin hangisinde yay ayraç (parantez) doğru kullanılmıştır?",
+     "soru": "Aşağıdaki seçeneklerin hangisinde tireden (—) yararlanılarak yapılan konuşma gösterimi doğrudur?",
      "secenekler": [
-      "Bu olay 1453 (İstanbul'un fethi) yılında gerçekleşti.",
-      "Hava (bugün) çok (güzel) ve (sıcak) olacak.",
-      "Ahmet (arkadaşım) dün geldi ve (bana) bir kitap verdi.",
-      "Türkçe Sözlük (TDK) bu kelimeyi 'uyum' olarak tanımlamaktadır.",
-      "Romanda ana tema (aşk) ve yan tema (özgürlük) işlenmiştir."
+      "Adam sordu: — Nereye gidiyorsun?",
+      "— Nereye gidiyorsun? — diye sordu adam.",
+      "Adam dedi ki, — Nereye gidiyorsun?",
+      "Adam —Nereye gidiyorsun? dedi.",
+      "—Nereye gidiyorsun? diye sordu adam."
      ],
-     "dogru": 3,
-     "aciklama": "Yay ayraç, cümlede anlamı açıklayan ya da tamamlayan bilgiyi ayırmak için kullanılır. Kısaltmalar da bu yolla verilebilir. \"Türkçe Sözlük (TDK) bu kelimeyi 'uyum' olarak tanımlamaktadır.\" cümlesinde \"TDK\" kısaltması, kurumun adını açıklayan bir bilgi olarak ayraç içinde verilmiştir. \"Hava (bugün) çok (güzel) ve (sıcak) olacak.\" seçeneğinde cümlenin asıl öğeleri gereksiz yere ayraca alınmıştır. \"Ahmet (arkadaşım) dün geldi ve (bana) bir kitap verdi.\" seçeneğinde de \"bana\" gibi cümlenin temel bir öğesi ayraçla ayrılmıştır. Bu kullanımlar yanlıştır. Doğru cevap \"Türkçe Sözlük (TDK) bu kelimeyi 'uyum' olarak tanımlamaktadır.\" seçeneğidir.",
+     "dogru": 4,
+     "aciklama": "Türk Dil Kurumu yazım kurallarına göre konuşma çizgisi, karşılıklı konuşmaları göstermek için satır başında kullanılır. Konuşma metni çizgiden sonra başlar, ardından \"diye sordu\" gibi bildirme ögesi gelir. Bu biçime uyan tek seçenek, satır başındaki çizgiyle açılan ve aktarılan sözün ardından bildirme kısmının geldiği seçenektir. \"Adam sordu: — Nereye gidiyorsun?\" seçeneğinde çizgi satır başında değil, cümlenin ortasındadır. Bu durumda iki noktadan sonra tırnak işareti kullanılmalıdır. \"— Nereye gidiyorsun? — diye sordu adam.\" seçeneğindeki ikinci çizgi, ara söz çizgisiyle karıştırılmıştır ve kurallı bir konuşma gösterimi değildir. Yayınevleri arasında biçim farkı bulunsa da sınavlar Türk Dil Kurumu kuralını esas alır. Doğru cevap \"—Nereye gidiyorsun? diye sordu adam.\" seçeneğidir.",
      "zorluk": "orta"
     },
     {
@@ -205,19 +205,19 @@
      "zorluk": "zor"
     },
     {
-     "id": "38500",
+     "id": "39923",
      "dersId": "turkce",
      "konuId": "yazim_kurallari",
-     "soru": "Aşağıdaki cümlelerin hangisinde alıntı cümle veya sözlerle ilgili tırnak işaretinin kullanımında yanlışlık yapılmıştır?",
+     "soru": "Aşağıdaki cümlelerin hangisinde büyük harf kullanımı yanlıştır?\n\nA) Türkiye Büyük Millet Meclisi bu kararı aldı.\nB) Her yıl 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kutlanır.\nC) İslam dini, dünyada yaygın dinler arasındadır.\nD) Müdür Bey toplantıya katılacak mı?\nE) Türk Dili ve Edebiyatı dersinde başarılı oldu.",
      "secenekler": [
-      "Atatürk, \"Muhtaç olduğun kudret, damarlarındaki asil kanda mevcuttur\" demiştir.",
-      "Raporda \"acil müdahale\" gerektiren bölgeler işaretlendi.",
-      "Öğretmen, \"Bugün sınav yok,\" dedi ve dışarı çıktı.",
-      "Yazar, \"Edebiyat bir ihtiyaçtır; onsuz yaşanmaz.\" görüşünü savundu.",
-      "\"Bu işi ben yapacağım\" diyerek söz verdi."
+      "İslam dini, dünyada yaygın dinler arasındadır.",
+      "Türkiye Büyük Millet Meclisi bu kararı aldı.",
+      "Her yıl 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kutlanır.",
+      "Müdür Bey toplantıya katılacak mı?",
+      "Türk Dili ve Edebiyatı dersinde başarılı oldu."
      ],
      "dogru": 3,
-     "aciklama": "Alıntı cümle ana cümlenin içinde devam ettiği için tırnak içinde nokta konulmamalı, virgülle bağlanmalıydı; “\"Bu işi ben yapacağım\" diyerek söz verdi.” seçeneğinde ise yanlışlık yok. Doğru cevap “Yazar, \"Edebiyat bir ihtiyaçtır; onsuz yaşanmaz.\" görüşünü savundu.” seçeneğidir.",
+     "aciklama": "Unvan sözcükleri, kişi adlarıyla birlikte kullanıldığında büyük harfle yazılır (Müdür Ahmet Bey). Ancak burada 'Müdür Bey' ibaresinde 'Bey' sözcüğü unvan değil hitap sözcüğüdür ve küçük harfle yazılmalıdır: 'Müdür bey'. Hitap sözcükleri büyük harfle yazılmaz.",
      "zorluk": "zor"
     },
     {
@@ -232,7 +232,7 @@
       "O da en az senin kadar çalışmış.",
       "Herkes bu işi onun yaptığını sanıyor."
      ],
-     "dogru": 3,
+     "dogru": 4,
      "aciklama": "Soruda yüzeyde olumlu görünen ama bağlamda olumsuz yargı bildiren cümle aranıyor. \"O da en az senin kadar çalışmış.\" cümlesi biçim olarak olumludur; ancak \"en az senin kadar\" kalıbı, karşıdakinin çalışmasının düşük olduğunu ima ederek bir eleştiri ya da küçümseme çağrıştırabilir. Bu da ancak bağlamla anlaşılır. \"Kimse onun kadar güzel konuşamaz.\" ve \"Bu şiiri ancak onun kadar derin biri anlayabilir.\" cümleleri ise açıkça över. \"Yıllarca emek vermiş, sonunda başaramamış.\" cümlesi zaten yüzeyde de olumsuzdur. Doğru cevap \"O da en az senin kadar çalışmış.\" seçeneğidir.",
      "zorluk": "zor"
     },

@@ -77,19 +77,19 @@
      "zorluk": "zor"
     },
     {
-     "id": "52298",
+     "id": "52301",
      "dersId": "isletme",
      "konuId": "pazarlama",
-     "soru": "Bir işletme, fiyat esnekliği -2,5 olan bir ürün için fiyatı %10 artırmayı planlamaktadır. Aynı dönemde rakip bir ürünün çapraz fiyat esnekliği +0,8 olduğu bilinmektedir. Rakip ürünün fiyatı %5 düşürülürse, işletmenin toplam geliri üzerindeki net etki hangisidir?",
+     "soru": "Bir tüketici, aynı kategoride üç farklı marka arasında seçim yaparken 'çerçeveleme etkisi (framing effect)' ile 'kayıptan kaçınma (loss aversion)' davranışlarını eş zamanlı sergilemektedir. Aşağıdaki senaryolardan hangisi bu iki psikolojik olgunun birlikte gözlemlenebildiği durumu en doğru biçimde örnekler?",
      "secenekler": [
-      "Kendi fiyat artışı talebi %25 düşüreceğinden ve çapraz etki de talebi %4 daha düşüreceğinden toplam gelir kesinlikle azalır.",
-      "Fiyat esnekliği 1'den büyük olduğundan fiyat artışı geliri düşürür; rakip fiyat düşüşü ise çapraz esneklik pozitif olduğundan işletmenin talebini daha da azaltır; her iki etki de geliri olumsuz etkiler.",
-      "Kendi fiyat artışından kaynaklanan talep azalması çapraz etkiyle dengeleneceğinden gelir değişmez.",
-      "Kendi fiyat artışı geliri artırır; çünkü esneklik katsayısının mutlak değeri hesaba katılmaz ve rakibin fiyat indiriminden doğan çapraz etki de ihmal edilebilir düzeyde kalır. Bu nedenle toplam gelirde net bir artış beklenir.",
-      "Rakip fiyat düşüşü, çapraz esneklik negatif olduğundan işletmenin talebini artırır ve bu artış gelir kaybını telafi eder."
+      "Tüketici iki ürün arasında kararsız kaldığında her koşulda daha pahalı olanı seçer; bu durum prestij etkisinin doğrudan bir göstergesidir ve fiyatın kalite sinyali olarak okunduğunu ortaya koyar. Bu eğilim bütün ürün kategorilerinde tutarlı biçimde gözlenir.",
+      "Tüketici en ucuz markayı seçer çünkü fiyat bilişsel çabayı azaltır.",
+      "Tüketici sadakat programı puanlarını biriktirip tek seferinde kullanır; bu yalnızca ertelenmiş tatmin davranışıdır.",
+      "'%30 yağ içerir' şeklinde etiketlenen ürün yerine '%70 yağsız' etiketli ürünü tercih eden tüketici, aynı zamanda mevcut markasını değiştirmenin 'kaybı' yeni markanın 'kazancından' daha ağır bastığı için marka değiştirmekten kaçınır.",
+      "Referans fiyatı yüksek olan ürün daha kaliteli algılanır; bu sadece fiyat-kalite çıkarsamasıdır."
      ],
-     "dogru": 1,
-     "aciklama": "Kendi fiyat esnekliği -2,5 olduğundan fiyatın %10 artması talebi yaklaşık %25 düşürür (-2,5 x 10). Esneklik mutlak değerce 1'den büyük olduğu için talep esnektir ve fiyat artışı toplam geliri düşürür. Çapraz esneklik +0,8 ise ürünlerin ikame olduğunu gösterir. Rakip fiyatı %5 düşerse işletmenin talebi 0,8 x (-5) = %4 azalır. Her iki etki de talebi aynı yönde azalttığı için gelir olumsuz etkilenir. \"Rakip fiyat düşüşü, çapraz esneklik negatif olduğundan işletmenin talebini artırır ve bu artış gelir kaybını telafi eder.\" seçeneği yanlıştır, çünkü çapraz esneklik pozitiftir. Doğru cevap \"Fiyat esnekliği 1'den büyük olduğundan fiyat artışı geliri düşürür; rakip fiyat düşüşü ise çapraz esneklik pozitif olduğundan işletmenin talebini daha da azaltır; her iki etki de geliri olumsuz etkiler.\" seçeneğidir.",
+     "dogru": 3,
+     "aciklama": "Çerçeveleme etkisi, aynı bilginin kazanç ya da kayıp olarak sunulmasına göre kararın değişmesidir. '%30 yağ içerir' ile '%70 yağsız' aynı bilgidir; olumlu çerçeve tercih edilir. Kayıptan kaçınma ise kayıpların aynı büyüklükteki kazançlardan daha ağır algılanmasıdır. Tüketici mevcut markadan vazgeçmenin kaybını yeni markanın kazancından ağır bulup markasını korur. Böylece senaryo iki olguyu birlikte gösterir. \"Tüketici en ucuz markayı seçer çünkü fiyat bilişsel çabayı azaltır.\" seçeneği yanlıştır, çünkü bu bir kısayol (sezgisel) davranıştır, çerçeveleme ve kayıptan kaçınma değildir. \"Referans fiyatı yüksek olan ürün daha kaliteli algılanır; bu sadece fiyat-kalite çıkarsamasıdır.\" seçeneği de yalnızca fiyat-kalite çıkarsamasını anlatır. Doğru cevap \"'%30 yağ içerir' şeklinde etiketlenen ürün yerine '%70 yağsız' etiketli ürünü tercih eden tüketici\" seçeneğidir.",
      "zorluk": "zor"
     },
     {
@@ -413,19 +413,19 @@
      "zorluk": "zor"
     },
     {
-     "id": "52112",
+     "id": "52099",
      "dersId": "isletme",
      "konuId": "yonetim_organizasyon",
-     "soru": "Bir şirkette üst yönetim, stratejik karar alma sürecinde 'sınırlı rasyonellik' (bounded rationality) ilkesine dayanarak 'tatmin edici çözüm' (satisficing) yaklaşımını benimsemektedir. Bu yaklaşımı en iyi eleştiren önermeler hangi seçenekte bir arada verilmiştir?\n\nI. Optimal çözümün her zaman ulaşılabilir ve hesap edilebilir olduğu varsayımı reddedilmektedir.\nII. Karar vericiler bilgi işleme kapasitelerinin sınırlılığını kabul etmektedir.\nIII. Tatmin edici çözüm, optimal çözümle her durumda örtüşür.\nIV. Bu yaklaşım, karar vericinin ilk yeterli alternatifi seçip araştırmayı durdurduğunu ima eder.",
+     "soru": "Bir holding bünyesindeki şirket, hem yüksek ürün çeşitliliğine hem de farklı coğrafi pazarlara hitap etmektedir. Şirket yönetimi yeni bir organizasyon yapısı tasarlamaktadır. Aşağıdaki yapılardan hangisi bu koşullar için en uygun olmakla birlikte aynı zamanda en yüksek koordinasyon maliyetine ve yönetsel karmaşıklığa yol açar?",
      "secenekler": [
-      "II, III ve IV",
-      "Yalnızca I ve II",
-      "I, II, III ve IV",
-      "I, II ve IV",
-      "Yalnızca II ve IV"
+      "Ürün bazlı bölümsel yapı",
+      "Fonksiyonel yapı",
+      "Şebeke (network) yapı",
+      "Matris yapı",
+      "Coğrafi bölümsel yapı"
      ],
      "dogru": 3,
-     "aciklama": "I. öncül sınırlı rasyonelliğin temel varsayımını doğru ifade eder, yalnızca III. yanlıştır; dolayısıyla doğru cevap I, II ve IV yani D'dir. Doğru cevap I, II ve IV şeklindedir.",
+     "aciklama": "Hem ürün çeşitliliği hem de coğrafi yayılım boyutlarının eş zamanlı yönetimi için matris yapı teorik olarak en uygun çözümdür; zira iki boyutu (ürün ve coğrafya) aynı anda örgütsel eksene taşır. Ancak matris yapının en bilinen dezavantajları ikili komuta zincirinden kaynaklanan yetki çatışması, yüksek koordinasyon maliyeti, yavaş karar alma ve yönetsel karmaşıklıktır. Fonksiyonel yapı bu koşullar için yetersizdir; ürün ve coğrafi bölümsel yapılar yalnızca tek boyutu ele alır; şebeke yapısı koordinasyonu dışsallaştırır ancak her ikisini birlikte optimize edemez.",
      "zorluk": "zor"
     },
     {

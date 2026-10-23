@@ -221,19 +221,19 @@
      "zorluk": "orta"
     },
     {
-     "id": "39550",
+     "id": "38151",
      "dersId": "turkce",
      "konuId": "cumlede_anlam",
-     "soru": "Aşağıdaki cümlelerin hangisinde 'koşul-sonuç' ilişkisi kurulmuştur?",
+     "soru": "'Onun bu konudaki görüşleri tartışmaya kapalı değil, tam tersine eleştiriye son derece açık.' cümlesinde anlatılmak istenen aşağıdakilerden hangisidir?",
      "secenekler": [
-      "Ya erken geleceksin ya da seni beklemeyeceğim.",
-      "Ne zaman uyku bastırsa kahve içer.",
-      "Güzel hava sayesinde piknik yapılabildik.",
-      "Hem yorgundu hem de aç kalmıştı.",
-      "Çalışmasına rağmen sınavı geçemedi."
+      "Görüşleri üzerinde henüz kesin bir karara varmamıştır.",
+      "Görüşlerinin eleştirilmesini hoşgörüyle karşılamaktadır.",
+      "Görüşlerinin doğruluğu kanıtlanmıştır.",
+      "Görüşlerini savunmak için tartışmaya hazırdır.",
+      "Görüşlerini başkalarına dayatmaktan kaçınmaktadır."
      ],
-     "dogru": 0,
-     "aciklama": "\"Ya ... ya da\" yapısı erken gelme koşuluna bağlı bir sonuç bildirir; B'deki \"ne zaman ...-sa\" öncelikle zaman/alışkanlık anlamı taşır. Doğru cevap Ya erken geleceksin ya da seni beklemeyeceğim şeklindedir.",
+     "dogru": 1,
+     "aciklama": "Cümlede kişinin görüşlerinin tartışmaya kapalı olmadığı, tersine eleştiriye son derece açık olduğu söyleniyor. Eleştiriye açık olmak, eleştirilmekten rahatsız olmamak ve onu hoş karşılamak demektir. Dolayısıyla cümlenin vurguladığı nokta, kişinin eleştiriye karşı hoşgörülü tutumudur. \"Görüşlerini savunmak için tartışmaya hazırdır.\" seçeneği en çok karışan seçenektir. Ancak cümle savunma hazırlığından değil, eleştiriyi kabul etme esnekliğinden söz eder. \"Görüşleri üzerinde henüz kesin bir karara varmamıştır.\" seçeneği de yanlıştır, çünkü eleştiriye açık olmak kararsız olmak anlamına gelmez. Doğru cevap \"Görüşlerinin eleştirilmesini hoşgörüyle karşılamaktadır.\" seçeneğidir.",
      "zorluk": "orta"
     },
     {
@@ -381,19 +381,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "38115",
+     "id": "39505",
      "dersId": "turkce",
      "konuId": "cumlede_anlam",
-     "soru": "Aşağıdaki cümlelerin hangisinde 'ama' bağlacı, beklenmedik bir durumu ifade etmektedir?",
+     "soru": "'Ne kadar erken kalksan da geç kalacaksın.' cümlesinde aşağıdakilerden hangisi anlatılmak istenmiştir?",
      "secenekler": [
-      "Akıllıdır ama tembel.",
-      "Eve gitti ama uyumadı.",
-      "Zengindir ama hiç mutlu değildir.",
-      "Söz verdi ama gelmedi.",
-      "Çok çalıştı ama sınavı geçemedi."
+      "Erken kalkmak hiçbir işe yaramamaktadır.",
+      "Geç kalmamak için erken kalkılmalıdır.",
+      "Erken kalkan işlerini zamanında bitirir.",
+      "Ne yapılırsa yapılsın sonuç değişmeyecektir.",
+      "Kalkış saati gecikmenin nedenidir."
      ],
-     "dogru": 4,
-     "aciklama": "Beklenmedik durum bildiren \"ama\", önceki yargıdan çıkarılabilecek sonucun gerçekleşmediğini gösterir. \"Çok çalıştı\" denince sınavı geçmesi beklenir; \"sınavı geçemedi\" bu beklentiyi bozar. \"Söz verdi ama gelmedi.\" cümlesi de benzer görünse de burada asıl vurgu sözünü tutmamadır; en belirgin beklenti çatışması çalışma-başarısızlık örneğindedir. \"Akıllıdır ama tembel.\" ise iki özelliği karşılaştırır, \"Eve gitti ama uyumadı.\" ise olağan bir durumu bildirir. Doğru cevap \"Çok çalıştı ama sınavı geçemedi.\" seçeneğidir.",
+     "dogru": 3,
+     "aciklama": "Cümlede 'ne kadar ... -sen de' kalıbı, yapılan eylemin sonucu etkilemediğini bildirir. Erken kalkma çabası ne olursa olsun gecikme durumu değişmez. Bu nedenle cümle, sonucun çabadan bağımsız olduğunu anlatır. \"Erken kalkmak hiçbir işe yaramamaktadır.\" seçeneği yalnızca erken kalkmayı kapsar ve cümlenin genel yargısını daraltır; üstelik cümle erken kalkmanın genel olarak yararsız olduğunu söylemez. \"Geç kalmamak için erken kalkılmalıdır.\" seçeneği ise cümlenin tersine bir öğüt verir, oysa cümlede öğüt yoktur, çabanın sonuç getirmeyeceği vurgulanır. Doğru cevap \"Ne yapılırsa yapılsın sonuç değişmeyecektir.\" seçeneğidir.",
      "zorluk": "kolay"
     },
     {
@@ -1225,19 +1225,19 @@
      "zorluk": "orta"
     },
     {
-     "id": "31396",
+     "id": "30633",
      "dersId": "tarih",
      "konuId": "i_dunya_savasi",
-     "soru": "Osmanlı Devleti'nin I. Dünya Savaşı'ndaki dört büyük cephesini (Çanakkale, Kafkas, Irak-Filistin, Suriye) değerlendiren bir tarihçi, hangi cephenin Osmanlı için hem askeri hem de siyasi açıdan en ağır ve kalıcı sonuçlar doğurduğunu savunuyorsa bu cephe hangisi olmalıdır?",
+     "soru": "I. Dünya Savaşı'nda kullanılan yeni savaş teknolojileri (zehirli gaz, tank, uçak, denizaltı) ile bu teknolojilere karşı geliştirilen savunma önlemleri arasındaki ilişki düşünüldüğünde, savaş tarihçilerinin 'savunmanın taarruz karşısındaki üstünlüğü' tezi ile aşağıdaki gelişmelerden hangisi doğrudan çelişmektedir?",
      "secenekler": [
-      "Suriye Cephesi – Şam'ın kaybı Osmanlı merkezi yönetiminin Arap coğrafyasındaki çöküşünü simgelediğinden ve Mondros'a giden süreçte belirleyici olduğundan",
-      "Hicaz-Yemen Cephesi – Şerif Hüseyin'in isyanının İslam dünyasını bölmesi ve İngilizlerin Arap coğrafyasında kalıcı nüfuz kurmasını sağlaması",
-      "Kafkas Cephesi – Enver Paşa'nın Sarıkamış hezimeti ordunun direncini kırmış, Doğu Anadolu'nun savunmasız kalması Ermeni tehcirine giden süreci başlatmıştır",
-      "Irak-Filistin Cephesi – Bağdat ve Kudüs'ün kaybı Osmanlı'nın halifelik otoritesini temelden sarstığından ve ekonomik kaynakları tükettiğinden",
-      "Çanakkale Cephesi – İtilaf kuvvetlerinin yenilgisi Osmanlı'nın prestijini tüm dünyada artırdığından ve savaş sonrası müzakerelerde pazarlık gücü sağladığından"
+      "Verdun Muharebesi'nde her iki tarafın da aylarca süren çatışmalara rağmen cephede kayda değer bir değişim sağlayamaması",
+      "Somme Muharebesi'nde İngiliz kuvvetlerinin ilk gün yaklaşık 57.000 kayıp vermesine rağmen hedeflenen cephe gediklerini açamaması",
+      "Passchendaele Muharebesi'nde İtilaf kuvvetlerinin çamur içinde yüz binlerce kayıp vererek yalnızca birkaç kilometre ilerleyebilmesi ve hattı hiçbir biçimde yaramaması",
+      "1918 Bahar Taarruzları'nda (Kaiserschlacht) Alman kuvvetlerinin sızma taktikleriyle savunma hatlarını birden fazla noktada yararak hızlı ilerleme kaydetmesi",
+      "Siper savaşının yıllarca statik bir cephe yapısı oluşturması ve büyük taarruzların sınırlı toprak kazanımıyla sonuçlanması"
      ],
-     "dogru": 2,
-     "aciklama": "Hem askeri (Sarıkamış'ta ordunun imhası) hem siyasi (Doğu Anadolu'nun işgali ve tehcir süreci) açıdan en ağır ve kalıcı sonuçlar Kafkas Cephesi'nde doğmuştur; Bağdat-Kudüs ya da Şam'ın kaybı bu derinlikte değildir. Doğru cevap “Kafkas Cephesi – Enver Paşa'nın Sarıkamış hezimeti ordunun direncini kırmış, Doğu…” seçeneğidir.",
+     "dogru": 3,
+     "aciklama": "\"Savunmanın taarruz karşısındaki üstünlüğü\" tezi, makineli tüfek, dikenli tel ve topçu ateşi sayesinde taarruzların büyük kayıplarla sınırlı sonuç verdiğini savunur. Verdun, Somme ve Passchendaele ile yıllarca süren statik siper cephesi bu tezi destekler. 1918 Bahar Taarruzları'nda Almanlar ise sızma (stormtrooper) taktikleri ve kısa yoğun topçu hazırlığıyla İngiliz ve Fransız hatlarını birçok noktada yarıp hızlı ilerledi. Bu durum, doğru taktik uygulanınca savunmanın aşılabildiğini gösterir ve tezle doğrudan çelişir. \"Verdun Muharebesi'nde her iki tarafın da aylarca süren çatışmalara rağmen cephede kayda değer bir değişim sağlayamaması\" ise tezi destekleyen bir örnektir. Doğru cevap \"1918 Bahar Taarruzları'nda (Kaiserschlacht) Alman kuvvetlerinin sızma taktikleriyle savunma hatlarını birden fazla noktada yararak hızlı ilerleme kaydetmesi\" seçeneğidir.",
      "zorluk": "zor"
     },
     {

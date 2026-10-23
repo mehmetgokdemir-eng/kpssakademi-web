@@ -77,19 +77,19 @@
      "zorluk": "zor"
     },
     {
-     "id": "40115",
+     "id": "38719",
      "dersId": "turkce",
      "konuId": "sozcuk_turleri",
-     "soru": "Aşağıdaki cümlelerin hangisinde iyelik eki almış bir sözcük, cümlede belirtisiz ad tamlamasının tamlananı değil, özne görevinde kullanılmıştır?",
+     "soru": "'Kitabı masanın üstüne bıraktı.' ve 'Masanın üstü tozlanmış.' cümlelerinde 'üst' sözcüğü hangi sözcük türlerini sırasıyla temsil etmektedir?",
      "secenekler": [
-      "Arabanın motoru birdenbire durdu.",
-      "Annesinin sözleri onu derinden sarstı.",
-      "Kitabın kapağı yıpranmış görünüyordu.",
-      "Ellerim titremeye başladı.",
-      "Çantanın fermuarı açık kalmış."
+      "İlgeç – Ad",
+      "Ad – Ad",
+      "İlgeç – Sıfat",
+      "Zarf – Ad",
+      "Zarf – İlgeç"
      ],
-     "dogru": 3,
-     "aciklama": "Belirtili ya da belirtisiz ad tamlamalarında tamlanan iyelik eki alır, fakat cümlede öznenin tamamı tamlamadır. \"Ellerim titremeye başladı.\" cümlesinde \"ellerim\" sözcüğü \"el + -ler + -im\" yapısındadır ve iyelik eki almıştır. Ancak önünde bir tamlayan bulunmaz; bu yüzden tamlama oluşturmaz, tek başına öznedir. \"Arabanın motoru\", \"Annesinin sözleri\", \"Kitabın kapağı\" ve \"Çantanın fermuarı\" ifadelerinde ise iyelikli sözcüğün önünde \"-ın/-in\" ekli bir tamlayan vardır. Bu yüzden bunlar tamlama içinde tamlanan olarak kullanılmıştır. Doğru cevap \"Ellerim titremeye başladı.\" seçeneğidir.",
+     "dogru": 1,
+     "aciklama": "'Masanın üstüne' ve 'masanın üstü' tamlamalarında 'üst' her ikisinde de yer bildiren addır, ilgeç değildir. Doğru cevap Ad – Ad şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -349,19 +349,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "38554",
+     "id": "38539",
      "dersId": "turkce",
      "konuId": "noktalama",
-     "soru": "Aşağıdaki cümlelerin hangisinde noktalı virgül (;) doğru kullanılmıştır?",
+     "soru": "Aşağıdaki cümlelerin hangisinde soru işareti (?) yanlış kullanılmıştır?",
      "secenekler": [
-      "Ali; Mehmet ve Ayşe birlikte geldi.",
-      "Gel; gidelim.",
-      "Kitap okudum; ve çok beğendim.",
-      "Seni seviyorum; çünkü iyisin.",
-      "Hava soğuktu; dışarı çıkmadım."
+      "Bugün hava nasıl?",
+      "Nereye gidiyorsun?",
+      "Eve gidip biraz uyudum mu acaba.",
+      "Acaba bu doğru mu?",
+      "Gelecek misin, gelmeyecek misin?"
      ],
-     "dogru": 4,
-     "aciklama": "Noktalı virgül, birbiriyle anlamca ilgili ve bağımsız yargıları ayırmak için kullanılır. \"Hava soğuktu; dışarı çıkmadım.\" cümlesinde iki ayrı yargı vardır ve aralarında neden-sonuç ilişkisi bulunur; noktalı virgül yerindedir. \"Ali; Mehmet ve Ayşe birlikte geldi.\" cümlesinde sıralanan özneler virgülle ayrılmalıdır. \"Kitap okudum; ve çok beğendim.\" cümlesinde ise bağlaçtan önce noktalı virgül konmaz. Doğru cevap \"Hava soğuktu; dışarı çıkmadım.\" seçeneğidir.",
+     "dogru": 2,
+     "aciklama": "\"Eve gidip biraz uyudum mu acaba.\" cümlesi \"mi\" soru ekiyle kurulmuş, kişinin kendine yönelttiği bir soru cümlesidir. Soru cümlelerinin sonuna soru işareti konur. Bu cümlede soru işaretinin yerine nokta kullanılmıştır. Soru kökündeki \"yanlış kullanılmıştır\" ifadesi, soru işaretiyle ilgili kural ihlalini kapsar; işaretin gereken yerde kullanılmaması da bu ihlale girer. Bu nedenle seçenekler arasında hatalı olan tek cümle budur. \"Gelecek misin, gelmeyecek misin?\" seçeneği karıştırılabilir; oysa birbirine bağlı seçenekli sorularda soru işareti yalnızca sonda kullanılır, bu cümle doğrudur. \"Acaba bu doğru mu?\" ve \"Bugün hava nasıl?\" seçeneklerinde de soru ifadesinin sonunda soru işareti yerindedir. Doğru cevap \"Eve gidip biraz uyudum mu acaba.\" seçeneğidir.",
      "zorluk": "kolay"
     },
     {
@@ -413,19 +413,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "38799",
+     "id": "38824",
      "dersId": "turkce",
      "konuId": "cumle_ogeleri",
-     "soru": "\"Küçük kız, annesinin fısıldadığı sırrı kimseyle paylaşmadı.\" cümlesinde dolaylı tümleç aşağıdakilerden hangisidir?",
+     "soru": "Aşağıdaki cümlelerin hangisinde özne gizlidir (örtük öznedir)?",
      "secenekler": [
-      "Kimseyle",
-      "Annesinin fısıldadığı",
-      "Paylaşmadı",
-      "Küçük kız",
-      "Annesinin fısıldadığı sırrı"
+      "Uzun yıllar burada yaşadım.",
+      "İnsanlar bazen acı gerçeklerden kaçar.",
+      "Sabah kalktığında her şey değişmişti.",
+      "Rüzgar ağaçların dallarını kırdı.",
+      "Kediler süt içmeyi çok sever."
      ],
      "dogru": 0,
-     "aciklama": "Yüklem \"paylaşmadı\"dır. Dolaylı tümleç, yüklemin yönelme, bulunma veya ayrılma hâlindeki ögesidir. \"Kiminle paylaşmadı?\" sorusunun cevabı \"kimseyle\"dir. Bu sözcük eylemin kiminle ilgili olduğunu gösterdiği için dolaylı tümleçtir. \"Annesinin fısıldadığı sırrı\" belirtili nesnedir, çünkü \"Neyi paylaşmadı?\" sorusunun cevabıdır. \"Annesinin fısıldadığı\" ise bu nesneyi niteleyen sıfat-fiil grubudur. \"Küçük kız\" ise eylemi yapan öznedir. Doğru cevap \"Kimseyle\" seçeneğidir.",
+     "aciklama": "Gizli (örtük) özne, cümlede yazılmayan ancak yüklemin kip-kişi ekinden anlaşılan öznedir. 'Uzun yıllar burada yaşadım.' cümlesinde yüklem 'yaşadım' (-dım = 1. tekil kişi) ekinden öznenin 'ben' olduğu anlaşılmaktadır; ancak 'ben' sözcüğü cümlede açıkça yer almamaktadır. Bu nedenle özne gizlidir. Diğer cümlelerde özneler açıkça belirtilmiştir: 'rüzgar, kediler, insanlar' gibi ya da yan cümle biçiminde özne görevi taşıyan gruplar mevcuttur.",
      "zorluk": "orta"
     },
     {
@@ -595,19 +595,19 @@
      "zorluk": "kolay"
     },
     {
-     "id": "103640",
+     "id": "101667",
      "dersId": "matematik",
      "konuId": "veri_yorumlama",
-     "soru": "Bir mağazanın aylık satış verileri incelendiğinde, Ocak ayında 500 ürün sattığı ve her ay bir önceki aya göre satışlarının değiştiği görülmüştür. Şubat'ta %20 artış, Mart'ta %10 düşüş, Nisan'da %25 artış, Mayıs'ta %20 düşüş yaşanmıştır. Haziran ayında mağaza, Ocak-Mayıs döneminin aylık ortalama satışını hedef olarak belirlemiş ve bu hedefe tam olarak ulaşmıştır. Temmuz ayında ise Haziran ayına göre %15 artış gerçekleşmiştir. Ocak-Temmuz toplamı kaç üründür?",
+     "soru": "Bir ülkenin dış ticaret dengesi 5 yıllık dönemde aşağıdaki gibi değişmiştir.\n\nYıl  | İhracat (milyar $) | İthalat (milyar $)\n2019 | 168                 | 195\n2020 | 142                 | 172\n2021 | 185                 | 208\n2022 | 214                 | 231\n2023 | 248                 | 262\n\nDış ticaret açığı (ithalat-ihracat) yıldan yıla en fazla azaldığı dönem ile en fazla arttığı dönem arasındaki fark, 2019 yılı dış ticaret açığının kaç katıdır?",
      "secenekler": [
-      "3.976",
-      "4.082",
-      "3.818",
-      "4.014",
-      "3.942"
+      "0,30",
+      "0,37",
+      "0,22",
+      "0,44",
+      "0,15"
      ],
      "dogru": 1,
-     "aciklama": "Ocak 500. Şubat 500 × 1,20 = 600. Mart 600 × 0,90 = 540. Nisan 540 × 1,25 = 675. Mayıs 675 × 0,80 = 540. Ocak-Mayıs toplamı = 2.855, aylık ortalama = 571. Haziran hedefi tam tutturulduğundan 571. Temmuz = 571 × 1,15 = 656,65 ≈ 656. Ocak-Temmuz toplamı = 2.855 + 571 + 656 = 4.082 üründür. Doğru cevap 4.082 şeklindedir.",
+     "aciklama": "Açıklar 27-30-23-17-14; en çok azalış -7, en çok artış +3, fark 10 ve 10/27≈0,37. Doğru cevap 0,37 şeklindedir.",
      "zorluk": "zor"
     },
     {
@@ -803,19 +803,19 @@
      "zorluk": "orta"
     },
     {
-     "id": "102429",
+     "id": "101737",
      "dersId": "matematik",
      "konuId": "kesir_ondalik",
-     "soru": "Üç arkadaş bir işi sırasıyla 1/3, 1/4 ve 1/6 oranlarında tamamlamıştır. Kalan iş oranı aşağıdakilerden hangisidir?",
+     "soru": "Bir market, aldığı ürünün fiyatını önce 1/4 oranında artırıyor, ardından bu yeni fiyatı 1/5 oranında indiriyor. Başlangıç fiyatına göre ürünün son fiyatı kaç kat olmuştur?",
      "secenekler": [
-      "3/12",
-      "1/6",
-      "1/3",
-      "1/4",
-      "1/12"
+      "21/20",
+      "5/4",
+      "4/5",
+      "1",
+      "19/20"
      ],
      "dogru": 3,
-     "aciklama": "1/3+1/4+1/6=3/4 olduğundan kalan 1/4'tür. Doğru cevap 1/4 şeklindedir.",
+     "aciklama": "Başlangıç fiyatı x olsun. Fiyat 1/4 oranında artınca yeni fiyat x·(1+1/4) = 5x/4 olur. Bu yeni fiyat 1/5 oranında indirilince fiyat 5x/4·(1−1/5) = 5x/4·4/5 = x olur. Son fiyat başlangıç fiyatına eşittir, yani ürün 1 kat olmuştur. Artış ve indirim oranları aynı fiyat üzerinden değil, ardışık fiyatlar üzerinden uygulandığı için oranlar çarpılır. \"21/20\" seçeneği, 1+1/4−1/5 şeklinde oranların toplanıp çıkarılmasıyla bulunan hatalı sonuçtur. \"5/4\" seçeneği ise indirimin hesaba katılmaması demektir. Doğru cevap \"1\" seçeneğidir.",
      "zorluk": "orta"
     },
     {
