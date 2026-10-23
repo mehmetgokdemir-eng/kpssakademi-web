@@ -24,7 +24,21 @@ for (const ad of fs.readdirSync(soruKlasor).filter((a) => a.endsWith(".json"))) 
 }
 console.log(`Soru bankası: ${Object.keys(banka).length} ders, ${toplam} soru\n`);
 
-// 2. index.json soru sayıları
+// 1b. Kart bankası
+const kartKlasor = path.join(kok, "kartlar");
+const kartlar = {};
+let kartToplam = 0;
+if (fs.existsSync(kartKlasor)) {
+  for (const ad of fs.readdirSync(kartKlasor).filter((a) => a.endsWith(".json"))) {
+    const ders = ad.replace(/\.json$/, "");
+    const liste = oku(path.join(kartKlasor, ad));
+    kartlar[ders] = liste;
+    kartToplam += liste.length;
+  }
+  console.log(`Kart bankası: ${Object.keys(kartlar).length} ders, ${kartToplam} kart\n`);
+}
+
+// 2. index.json soru ve kart sayıları
 const indexYolu = path.join(kok, "index.json");
 if (fs.existsSync(indexYolu)) {
   const veri = oku(indexYolu);
@@ -32,11 +46,18 @@ if (fs.existsSync(indexYolu)) {
   for (const ders of veri.dersler || []) {
     const yeni = (banka[ders.id] || []).length;
     if (ders.soruSayisi !== yeni) {
-      degisen.push(`  ${ders.id.padEnd(22)} ${ders.soruSayisi} -> ${yeni}`);
+      degisen.push(`  ${ders.id.padEnd(22)} soru ${ders.soruSayisi} -> ${yeni}`);
       ders.soruSayisi = yeni;
     }
+    if (ders.kartSayisi !== undefined && kartlar[ders.id]) {
+      const yeniKart = kartlar[ders.id].length;
+      if (ders.kartSayisi !== yeniKart) {
+        degisen.push(`  ${ders.id.padEnd(22)} kart ${ders.kartSayisi} -> ${yeniKart}`);
+        ders.kartSayisi = yeniKart;
+      }
+    }
   }
-  if (!degisen.length) console.log("index.json: soru sayıları zaten güncel\n");
+  if (!degisen.length) console.log("index.json: soru ve kart sayıları zaten güncel\n");
   else {
     console.log("index.json güncellenecek:");
     console.log(degisen.join("\n"));
