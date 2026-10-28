@@ -81,6 +81,16 @@ function GeriSayim() {
       to="/ayarlar"
       className="mb-4 block overflow-hidden rounded-2xl bg-gradient-to-br from-brand-600 to-brand-900 p-4 text-white shadow-lift"
     >
+      {/* ÖSYM takvimi olmayan türde uydurma bir tarih ve geri sayım göstermek
+          yanıltıcı olurdu; onun yerine durumu söyleyip tarihi kullanıcının
+          girmesine bırakıyoruz (kart Ayarlar'a gidiyor). */}
+      {kaynak === 'tahmin' ? (
+        <div>
+          <p className="text-[11px] font-semibold uppercase tracking-wide opacity-80">{sinavAdi} sınavı</p>
+          <p className="text-sm font-bold">ÖSYM bu sınavın tarihini henüz açıklamadı</p>
+          <p className="mt-0.5 text-[11px] opacity-75">Takvim açıklanınca güncellenir; istersen Ayarlar'dan kendi tarihini girebilirsin.</p>
+        </div>
+      ) : (
       <div className="flex items-center justify-between">
         <div>
           <p className="text-[11px] font-semibold uppercase tracking-wide opacity-80">
@@ -88,7 +98,6 @@ function GeriSayim() {
           </p>
           <p className="text-sm font-bold">
             {hedef.toLocaleDateString('tr-TR', { day: 'numeric', month: 'long', year: 'numeric' })}
-            {kaynak === 'tahmin' && <span className="ml-1.5 font-medium opacity-75">(tahmini)</span>}
           </p>
         </div>
         {bitti ? (
@@ -102,6 +111,7 @@ function GeriSayim() {
           </div>
         )}
       </div>
+      )}
     </Link>
   )
 }

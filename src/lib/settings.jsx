@@ -88,12 +88,14 @@ export const SINAV_TURLERI = {
   lisans: {
     ad: 'KPSS Lisans — Genel Yetenek / Genel Kültür',
     kisa: 'Lisans (GY-GK)',
-    tarihler: ['2026-09-06T10:15'],
+    /* 2027: ÖSYM 2027 sınav takvimi (Ekim 2026'da açıklandı) — 12 Eylül 2027 Pazar */
+    tarihler: ['2026-09-06T10:15', '2027-09-12T10:15'],
   },
   lisansAlan: {
     ad: 'KPSS Lisans — Alan Bilgisi (A Grubu)',
     kisa: 'Alan Bilgisi',
-    tarihler: ['2026-09-12T10:15'],
+    /* 2027: 18-19 Eylül 2027 (iki gün); geri sayım ilk güne */
+    tarihler: ['2026-09-12T10:15', '2027-09-18T10:15'],
   },
   egitimBilimleri: {
     ad: 'KPSS Lisans — Eğitim Bilimleri',
