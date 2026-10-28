@@ -10,7 +10,12 @@ import { IconClose } from './Icons.jsx'
  * bütün Play bağlantıları aynı bayrağa bağlı olduğu için hepsi birden kapanır.
  */
 
-const KAPATILDI = 'ka:android-yakinda-kapali'
+/* Kapatma anahtarı bilerek DEĞİŞTİRİLDİ. Kart aylarca "çok yakında" yazdığı
+   için çoğu kullanıcı onu kapatmıştı; eski anahtar kalsaydı uygulama yayına
+   girdiği hâlde o kullanıcılara bir daha hiç görünmeyecekti. Yeni anahtarla
+   kart bir kez daha, bu kez indirme düğmesiyle çıkar; tekrar kapatılırsa bir
+   daha gelmez. */
+const KAPATILDI = 'ka:android-yayinda-kapali'
 
 export const YAYINDA = true
 export const PLAY_ADRESI = 'https://play.google.com/store/apps/details?id=com.nihangokdemir.kpss'
