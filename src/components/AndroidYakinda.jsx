@@ -2,16 +2,17 @@ import { useState } from 'react'
 import { ls } from '../lib/utils.js'
 import { IconClose } from './Icons.jsx'
 
-/* Sağ yan şeritte duran "Android uygulaması çok yakında" kartı.
+/* Sağ yan şeritte duran Android uygulaması kartı.
  *
- * Uygulama Google Play'de yayına hazırlanıyor; henüz herkese açık değil.
- * Yayına girdiğinde tek yapılacak: YAYINDA'yı true çevirmek ve PLAY_ADRESI'ni
- * doğrulamak. Kart o anda "Google Play'den indir" düğmesine dönüşür.
+ * Uygulama 28 Ekim 2026'da Google Play'de yayına girdi; YAYINDA true olduğu
+ * sürece kart "Google Play'den indir" düğmesini gösterir. Listelemenin
+ * kaldırılması gerekirse tek yapılacak bunu false çevirmek — siteyi dolaşan
+ * bütün Play bağlantıları aynı bayrağa bağlı olduğu için hepsi birden kapanır.
  */
 
 const KAPATILDI = 'ka:android-yakinda-kapali'
 
-export const YAYINDA = false
+export const YAYINDA = true
 export const PLAY_ADRESI = 'https://play.google.com/store/apps/details?id=com.nihangokdemir.kpss'
 
 function IconAndroid({ size = 16 }) {
