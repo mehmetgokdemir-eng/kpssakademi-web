@@ -248,6 +248,12 @@ export default function Home() {
     <div>
       <Karsilama />
       <GeriSayim />
+      {/* Geniş ekranda sağ yan şeritte duruyor (Layout). 1400 pikselin altında
+          şerit gizlendiği için kart buraya, sayfanın ÜST kısmına alınıyor;
+          daha önce sayfanın en altındaydı ve çoğu kullanıcı hiç görmüyordu. */}
+      <div className="mt-4 min-[1400px]:hidden">
+        <AndroidYakinda />
+      </div>
       <KocKarti />
       <HizliErisim />
       <GunlukHedef />
@@ -255,12 +261,9 @@ export default function Home() {
       <DegerlendirmeIstegi />
       <KisayolSatiri />
       <DerslerGrid />
-      {/* Geniş ekranda yan şeritte duruyor; burada dar ekranlar için. */}
+      {/* Geniş ekranda sol yan şeritte duruyor; burada dar ekranlar için. */}
       <div className="mt-4 min-[1400px]:hidden">
         <KurulumBolumu />
-        <div className="mt-3">
-          <AndroidYakinda />
-        </div>
       </div>
       <Reklam yer="anaSayfa" />
       <p className="mt-6 text-center text-[11px] leading-relaxed text-ink-400">

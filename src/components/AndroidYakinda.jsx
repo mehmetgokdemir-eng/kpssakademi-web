@@ -1,21 +1,15 @@
-import { useState } from 'react'
-import { ls } from '../lib/utils.js'
-import { IconClose } from './Icons.jsx'
-
 /* Sağ yan şeritte duran Android uygulaması kartı.
  *
  * Uygulama 28 Ekim 2026'da Google Play'de yayına girdi; YAYINDA true olduğu
  * sürece kart "Google Play'den indir" düğmesini gösterir. Listelemenin
  * kaldırılması gerekirse tek yapılacak bunu false çevirmek — siteyi dolaşan
  * bütün Play bağlantıları aynı bayrağa bağlı olduğu için hepsi birden kapanır.
+ *
+ * Kart KAPATILAMAZ. Önceden kapatma düğmesi vardı; kart aylarca "çok yakında"
+ * yazdığı için çoğu kullanıcı onu kapatmıştı ve uygulama yayına girdiğinde o
+ * kullanıcılara bir daha hiç görünmüyordu. Kalıcı olması istendiği için
+ * kapatma düğmesi ve localStorage kaydı tamamen kaldırıldı.
  */
-
-/* Kapatma anahtarı bilerek DEĞİŞTİRİLDİ. Kart aylarca "çok yakında" yazdığı
-   için çoğu kullanıcı onu kapatmıştı; eski anahtar kalsaydı uygulama yayına
-   girdiği hâlde o kullanıcılara bir daha hiç görünmeyecekti. Yeni anahtarla
-   kart bir kez daha, bu kez indirme düğmesiyle çıkar; tekrar kapatılırsa bir
-   daha gelmez. */
-const KAPATILDI = 'ka:android-yayinda-kapali'
 
 export const YAYINDA = true
 export const PLAY_ADRESI = 'https://play.google.com/store/apps/details?id=com.nihangokdemir.kpss'
@@ -28,26 +22,10 @@ function IconAndroid({ size = 16 }) {
   )
 }
 
-export default function AndroidYakinda({ kompakt = false }) {
-  const [kapali, setKapali] = useState(() => ls.get(KAPATILDI, false))
-  if (kapali) return null
-
-  const kapat = () => {
-    setKapali(true)
-    ls.set(KAPATILDI, true)
-  }
-
+export default function AndroidYakinda() {
   return (
-    <div className="relative rounded-2xl border border-emerald-200/70 bg-emerald-50/70 p-3 dark:border-emerald-400/20 dark:bg-emerald-400/[0.07]">
-      <button
-        onClick={kapat}
-        className="absolute right-1.5 top-1.5 rounded p-1 text-ink-300 hover:text-ink-500"
-        aria-label="Kapat"
-      >
-        <IconClose size={13} />
-      </button>
-
-      <div className="mb-1.5 flex items-start gap-2 pr-4">
+    <div className="rounded-2xl border border-emerald-200/70 bg-emerald-50/70 p-3 dark:border-emerald-400/20 dark:bg-emerald-400/[0.07]">
+      <div className="mb-1.5 flex items-start gap-2">
         <span className="grid h-7 w-7 shrink-0 place-items-center rounded-lg bg-emerald-600 text-white">
           <IconAndroid size={16} />
         </span>
