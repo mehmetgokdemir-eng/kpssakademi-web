@@ -175,8 +175,7 @@ export default function SoruKarti({
               )}
               {settings.aciklamaGoster && aciklama && (
                 <p className="mt-2 text-[11px] opacity-70">
-                  Soru ve açıklama yapay zekâ ile hazırlanıp denetlendi; yine de hata olabilir. Yanlış gördüysen
-                  aşağıdan bildir.
+                  Soru ve açıklama denetimden geçti; yine de hata olabilir. Yanlış gördüysen aşağıdan bildir.
                 </p>
               )}
             </div>

@@ -22,6 +22,10 @@ const SITE = 'https://kpssakademi.tr'
 
 const konular = JSON.parse(await readFile(join(KOK, 'public/data/konular.json'), 'utf8'))
 const index = JSON.parse(await readFile(join(KOK, 'public/data/index.json'), 'utf8'))
+/* Sayfalardaki soru sayısı elle yazılmaz; bankadan okunur ki uygulama ile
+   SEO sayfaları farklı rakam göstermesin. */
+const TOPLAM_SORU = index.dersler.reduce((t, d) => t + (d.soruSayisi || 0), 0)
+const TOPLAM_SORU_TR = TOPLAM_SORU.toLocaleString('tr-TR')
 
 const esc = (s) =>
   String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;')
@@ -134,17 +138,16 @@ footer a{color:var(--soluk)}
 ${icerik}
 ${REKLAM_ALANI}
 <div class="kart" style="text-align:center">
-  <p style="margin:0 0 10px;font-weight:700">16.000+ soru, bilgi kartları, denemeler ve oyunlar — ücretsiz</p>
+  <p style="margin:0 0 10px;font-weight:700">${TOPLAM_SORU_TR} soru, bilgi kartları, denemeler ve oyunlar — ücretsiz</p>
   <a class="cta" href="/">Uygulamayı Aç</a>
   <a class="cta ikincil" href="/denemeler">Deneme Çöz</a>
 </div>
 ${guncelleme ? `<p class="tarih">Son güncelleme: ${guncelleme}</p>` : ''}
 </main>
 <footer><div class="kap">
-  <p style="margin:0 0 10px">Sorular, açıklamalar ve konu notları yapay zekâ ile hazırlanıp çok aşamalı bir
-  denetimden geçirilmiştir; buna rağmen hata bulunması mümkündür. İçerik yalnızca çalışma amaçlıdır ve olduğu
-  gibi sunulur. Esas kaynak <b>ÖSYM'nin resmî duyuruları</b> ve yürürlükteki mevzuattır;
-  <a href="/hakkinda">ayrıntı ve sorumluluğun sınırı</a>.</p>
+  <p style="margin:0 0 10px">İçerik yalnızca çalışma amaçlıdır; hata görürsen <a href="/iletisim">bize bildir</a>.
+  Esas kaynak <b>ÖSYM'nin resmî duyuruları</b> ve yürürlükteki mevzuattır.
+  <a href="/hakkinda">İçeriğin nasıl hazırlandığı ve sorumluluğun sınırı</a>.</p>
   <a href="/hakkinda">Hakkında</a> · <a href="/gizlilik">Gizlilik</a> · <a href="/iletisim">İletişim</a> ·
   <a href="${PLAY_ADRESI}" rel="noopener">Android uygulaması</a> ·
   © ${new Date().getFullYear()} KPSS Akademi
@@ -1218,7 +1221,7 @@ ${uyari}`,
 Puan türü <b>P93</b>'tür (Genel Yetenek %50, Genel Kültür %50).</p>
 <h2>Nasıl çalışmalı?</h2>
 <p>Soru dağılımı aynı olduğu için Lisans kaynaklarıyla çalışmak sorun değildir; hatta biraz daha
-zor sorularla çalışmak sınavda rahatlatır. KPSS Akademi'deki 16.000'den fazla soru, bilgi kartları
+zor sorularla çalışmak sınavda rahatlatır. KPSS Akademi'deki ${TOPLAM_SORU_TR} soru, bilgi kartları
 ve deneme sınavlarının tamamı Ön Lisans için de geçerlidir.</p>
 <div class="kart" style="text-align:center">
   <a class="cta" href="/denemeler">Deneme Çöz</a>
@@ -1298,14 +1301,14 @@ const toplamSoru = ist.soru ?? index.dersler.reduce((t, d) => t + (d.soruSayisi 
 const toplamKart = ist.kart ?? index.dersler.reduce((t, d) => t + (d.kartSayisi || 0), 0)
 const tr = (n) => Number(n).toLocaleString('tr-TR')
 
-/* Yapay zekâ + sorumluluk dipnotu. Hem ana sayfanın hem de ön-render edilen
-   uygulama rotalarının altına konur; Hakkında sayfasında uzun hâli var. */
+/* Sorumluluk dipnotu. Hem ana sayfanın hem de ön-render edilen uygulama
+   rotalarının altına konur; içeriğin nasıl hazırlandığının tam anlatımı
+   yalnızca Hakkında sayfasındadır. */
 const DIPNOT_METIN =
-  'Sorular, çözüm açıklamaları ve konu notları yapay zekâ ile hazırlanıp çok aşamalı bir denetimden ' +
-  'geçirilmiştir; buna rağmen hata bulunması mümkündür. İçerik yalnızca çalışma amaçlıdır ve olduğu gibi ' +
-  'sunulur. KPSS Akademi bağımsız bir çalışma aracıdır; ÖSYM ile resmî bir bağlantısı yoktur. Sınav ' +
+  'İçerik yalnızca çalışma amaçlıdır ve olduğu gibi sunulur; hata görürsen <a href="/iletisim">bize bildir</a>. ' +
+  'KPSS Akademi bağımsız bir çalışma aracıdır; ÖSYM ile resmî bir bağlantısı yoktur. Sınav ' +
   'tarihleri, kılavuzlar ve resmî sonuçlar için <b>osym.gov.tr</b> esas alınmalıdır. ' +
-  '<a href="/hakkinda">Ayrıntı ve sorumluluğun sınırı</a>.'
+  '<a href="/hakkinda">İçeriğin nasıl hazırlandığı ve sorumluluğun sınırı</a>.'
 
 const onIcerik = `<div id="on-icerik" style="max-width:820px;margin:0 auto;padding:24px 20px 48px;font:16px/1.65 Inter,system-ui,sans-serif">
 <h1 style="font-size:28px;letter-spacing:-.02em;margin:0 0 10px">KPSS Akademi — Ücretsiz KPSS Soru Bankası ve Çalışma Uygulaması</h1>
@@ -1360,7 +1363,7 @@ ${Object.entries(gruplar)
 <p><b>Ücretli bir sürümü var mı?</b> Yok. Tüm sorular, kartlar, denemeler ve oyunlar ücretsizdir. Site, reklam geliriyle ayakta kalır; oyunlarda reklam gösterilmez.</p>
 <p><b>İnternetsiz çalışır mı?</b> Evet. Tarayıcı menüsünden "Ana ekrana ekle" dediğinde site telefona uygulama gibi kurulur, kendi simgesiyle açılır ve daha önce açtığın içerikler internet olmadan da çalışır.</p>
 <p><b>Android uygulaması var mı?</b> Evet. Aynı içerik <a href="${PLAY_ADRESI}" rel="noopener">Google Play'de ücretsiz Android uygulaması</a> olarak da yayında. Siteyi "Ana ekrana ekle" ile kurmak da aynı işi görür; ikisi arasında içerik farkı yoktur.</p>
-<p><b>Sorular nereden geliyor?</b> Sorular, çözüm açıklamaları ve konu notları bu site için <b>yapay zekâ ile hazırlanır</b> ve ardından çok aşamalı bir denetimden geçirilir: her soru cevap anahtarı gizlenerek baştan yeniden çözülür, anahtarla çakışanlar daha güçlü bir modelle ikinci kez incelenir, çelişkili bulunanlar bankadan çıkarılır. Bu denetim hata oranını belirgin biçimde düşürür ama sıfıra indirmez; gözden kaçmış yanlış cevap ya da eksik açıklama bulunabilir. Hatalı bulduğun soruyu soru kartındaki "Soruyu bildir" bağlantısıyla iletebilirsin; bildirilenler elden geçirilip düzeltilir.</p>
+<p><b>Sorular nereden geliyor?</b> Sorular, çözüm açıklamaları ve konu notları bu site için özgün olarak hazırlanır ve çok aşamalı bir denetimden geçirilir: her soru cevap anahtarı gizlenerek baştan yeniden çözülür, anahtarla çakışanlar ikinci kez incelenir, çelişkili bulunanlar bankadan çıkarılır. Bu denetim hata oranını belirgin biçimde düşürür ama sıfıra indirmez; gözden kaçmış yanlış cevap ya da eksik açıklama bulunabilir. Hatalı bulduğun soruyu soru kartındaki "Soruyu bildir" bağlantısıyla iletebilirsin; bildirilenler elden geçirilip düzeltilir. Hazırlanma yönteminin tamamı <a href="/hakkinda">Hakkında</a> sayfasında anlatılıyor.</p>
 <p><b>Puan hesaplayıcı ne kadar doğru?</b> Net hesabı kesindir. Puan ise tahmindir: ÖSYM netleri o yılki ortalama ve standart sapmaya göre standart puana çevirdiği için aynı net, yıllara göre farklı puan verir. Buradaki değerler geçmiş yıl istatistiklerinden türetilmiş tahminlerdir.</p>
 
 <h2 style="font-size:20px;margin:30px 0 8px">Bölümler</h2>
@@ -1385,6 +1388,9 @@ if (location.pathname !== '/') { var _o = document.getElementById('on-icerik'); 
 
 const anaSayfa = join(DIST, 'index.html')
 let html = await readFile(anaSayfa, 'utf8')
+/* index.html'deki meta açıklamalarda soru sayısı elle yazılmaz; {{SORU_SAYISI}}
+   yer tutucusu bankadaki gerçek sayıyla değiştirilir. */
+html = html.replaceAll('{{SORU_SAYISI}}', TOPLAM_SORU_TR)
 /* SPA kabuğunun DOKUNULMAMIŞ hâli — uygulama rotalarının ön-render'ı bundan
    türetiliyor (ana sayfanın ön içeriği bulaşmasın diye önce kopyalanıyor). */
 const kabukHtml = html

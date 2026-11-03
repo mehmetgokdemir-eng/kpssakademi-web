@@ -12,6 +12,7 @@ import DegerlendirmeIstegi from '../components/DegerlendirmeIstegi.jsx'
 import KocKarti from '../components/KocKarti.jsx'
 import KurulumBolumu from '../components/KurulumBolumu.jsx'
 import AndroidYakinda, { YAYINDA, PLAY_ADRESI } from '../components/AndroidYakinda.jsx'
+import { tanitimiAc } from '../components/Onboarding.jsx'
 import {
   DersIkon,
   IconWrong,
@@ -277,12 +278,15 @@ export default function Home() {
       </div>
       <Reklam yer="anaSayfa" />
       <p className="mt-6 text-center text-[11px] leading-relaxed text-ink-400">
-        Sorular ve açıklamalar yapay zekâ ile hazırlanıp denetlendi; hata olabilir. Esas kaynak ÖSYM'dir.{' '}
+        İçerik çalışma amaçlıdır; hata görürsen bildir. Esas kaynak ÖSYM'dir.{' '}
         <Link to="/hakkinda" className="font-semibold underline hover:text-brand-600">
-          Ayrıntı
+          Nasıl hazırlandı?
         </Link>
       </p>
       <footer className="mt-4 flex flex-wrap items-center justify-center gap-x-4 gap-y-1 pb-2 text-[11px] text-ink-400">
+        <button type="button" onClick={tanitimiAc} className="hover:text-brand-600">
+          Nasıl çalışır?
+        </button>
         <Link to="/hakkinda" className="hover:text-brand-600">
           Hakkında
         </Link>

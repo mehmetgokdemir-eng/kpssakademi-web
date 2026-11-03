@@ -1,15 +1,20 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { ls, cx } from '../lib/utils.js'
 import { useSettings, SINAV_TURLERI } from '../lib/settings.jsx'
 import { IconBook, IconCards, IconGame, IconTarget, IconExam } from './Icons.jsx'
 
-/* İlk açılış tanıtımı — Android'deki OnboardingActivity'nin karşılığı.
+/* Tanıtım penceresi — Android'deki OnboardingActivity'nin karşılığı.
  *
  * Üç adım: ne var → hangi sınava hazırlanıyorsun → adın. Hepsi atlanabilir.
- * Bir kez gösterilir; kapatıldığında kalıcı olarak işaretlenir. */
+ * Kendiliğinden AÇILMAZ: siteye ilk giren kişinin (ve reklam ağı
+ * moderatörünün) karşısına tam ekran pencere çıkmasın diye yalnızca ana
+ * sayfadaki "Nasıl çalışır?" düğmesi tanitimiAc() ile açar. */
 
 const GORULDU = 'ka:onboarding-goruldu'
+const AC_OLAYI = 'ka:tanitim-ac'
+
+export const tanitimiAc = () => window.dispatchEvent(new Event(AC_OLAYI))
 
 const ADIMLAR = [
   {
@@ -29,9 +34,18 @@ const ADIMLAR = [
 export default function Onboarding() {
   const nav = useNavigate()
   const { settings, set } = useSettings()
-  const [gorunur, setGorunur] = useState(() => !ls.get(GORULDU, false))
+  const [gorunur, setGorunur] = useState(false)
   const [adim, setAdim] = useState(0)
   const [ad, setAd] = useState(settings.ad || '')
+
+  useEffect(() => {
+    const ac = () => {
+      setAdim(0)
+      setGorunur(true)
+    }
+    window.addEventListener(AC_OLAYI, ac)
+    return () => window.removeEventListener(AC_OLAYI, ac)
+  }, [])
 
   if (!gorunur) return null
 
