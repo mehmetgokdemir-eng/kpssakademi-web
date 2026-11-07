@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { istenmeliMi, ertele, kapat } from '../lib/degerlendirme.js'
-import { YAYINDA, PLAY_ADRESI } from './AndroidYakinda.jsx'
+import { YAYINDA, IOS_YAYINDA, magazaAdresi, magazaAdi } from './AndroidYakinda.jsx'
 import { IconTrophy, IconClose, IconNote } from './Icons.jsx'
 
 /**
@@ -39,15 +39,15 @@ export default function DegerlendirmeIstegi() {
             istediğin bir şey varsa yazman yeter.
           </p>
           <div className="mt-3 flex flex-wrap gap-2">
-            {YAYINDA && (
+            {(YAYINDA || IOS_YAYINDA) && (
               <a
-                href={PLAY_ADRESI}
+                href={magazaAdresi()}
                 target="_blank"
                 rel="noreferrer"
                 className="btn-primary !py-2 !text-xs"
                 onClick={() => gizle(true)}
               >
-                ★ Play Store'da puan ver
+                ★ {magazaAdi()}'da puan ver
               </a>
             )}
             <Link to="/iletisim" className="btn-outline !py-2 !text-xs" onClick={() => gizle(false)}>

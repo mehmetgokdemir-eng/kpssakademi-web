@@ -3,7 +3,7 @@ import { getIndex } from '../lib/data.js'
 import { sayi } from '../lib/utils.js'
 import { Baslik } from '../components/Layout.jsx'
 import { Istatistik } from '../components/UI.jsx'
-import { YAYINDA, PLAY_ADRESI } from '../components/AndroidYakinda.jsx'
+import { YAYINDA, IOS_YAYINDA, PLAY_ADRESI, APP_STORE_ADRESI } from '../components/AndroidYakinda.jsx'
 
 export default function Hakkinda() {
   const { veri } = useAsync(() => getIndex().catch(() => null), [])
@@ -54,10 +54,18 @@ export default function Hakkinda() {
           <h2 className="mb-1.5 text-base font-bold text-ink-900 dark:text-white">Telefonda kullanım</h2>
           {YAYINDA ? (
             <p>
-              Aynı içerik Android uygulaması olarak da yayında:{' '}
+              Aynı içerik mobil uygulama olarak da yayında:{' '}
               <a className="font-semibold text-brand-600" href={PLAY_ADRESI} target="_blank" rel="noreferrer">
                 Google Play
               </a>
+              {IOS_YAYINDA && (
+                <>
+                  {' · '}
+                  <a className="font-semibold text-brand-600" href={APP_STORE_ADRESI} target="_blank" rel="noreferrer">
+                    App Store
+                  </a>
+                </>
+              )}
             </p>
           ) : (
             <p>

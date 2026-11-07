@@ -30,10 +30,11 @@ const TOPLAM_SORU_TR = TOPLAM_SORU.toLocaleString('tr-TR')
 const esc = (s) =>
   String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;')
 
-/* Android uygulamasinin Play adresi. src/components/AndroidYakinda.jsx
-   icindeki PLAY_ADRESI ile AYNI olmali; bu betik React kodunu import
+/* Magaza adresleri. src/components/AndroidYakinda.jsx icindeki PLAY_ADRESI
+   ve APP_STORE_ADRESI ile AYNI olmali; bu betik React kodunu import
    edemedigi icin ayrica tanimlaniyor. */
 const PLAY_ADRESI = 'https://play.google.com/store/apps/details?id=com.nihangokdemir.kpss'
+const APP_STORE_ADRESI = 'https://apps.apple.com/tr/app/id6826406637'
 
 /* Soru metinlerinde altı çizili sözcükler « » arasında saklanır.
    Kaçışlardan SONRA bu işaretleri <u> etiketine çevirir. */
@@ -150,6 +151,7 @@ ${guncelleme ? `<p class="tarih">Son güncelleme: ${guncelleme}</p>` : ''}
   <a href="/hakkinda">İçeriğin nasıl hazırlandığı ve sorumluluğun sınırı</a>.</p>
   <a href="/hakkinda">Hakkında</a> · <a href="/gizlilik">Gizlilik</a> · <a href="/iletisim">İletişim</a> ·
   <a href="${PLAY_ADRESI}" rel="noopener">Android uygulaması</a> ·
+  <a href="${APP_STORE_ADRESI}" rel="noopener">iPhone uygulaması</a> ·
   © ${new Date().getFullYear()} KPSS Akademi
 </div></footer>
 </body>
@@ -1282,10 +1284,10 @@ const uygulamaLd = {
   name: 'KPSS Akademi',
   url: SITE + '/',
   applicationCategory: 'EducationalApplication',
-  operatingSystem: 'Web, Android',
+  operatingSystem: 'Web, Android, iOS',
   inLanguage: 'tr',
   installUrl: PLAY_ADRESI,
-  sameAs: [PLAY_ADRESI],
+  sameAs: [PLAY_ADRESI, APP_STORE_ADRESI],
   offers: { '@type': 'Offer', price: '0', priceCurrency: 'TRY' },
   description:
     'KPSS soru bankası, bilgi kartları, deneme sınavları, coğrafya harita oyunları ve puan hesaplayıcı. Tarayıcıda çalışır, çevrimdışı kullanılabilir.',
@@ -1362,7 +1364,7 @@ ${Object.entries(gruplar)
 <p><b>Üyelik gerekiyor mu?</b> Hayır. Hesap açmadan kullanılır; çözdüğün sorular, notların ve deneme sonuçların yalnızca kendi tarayıcında saklanır, sunucuya gönderilmez. Ayarlar bölümünden verilerini dışa aktarabilir ya da tamamen silebilirsin.</p>
 <p><b>Ücretli bir sürümü var mı?</b> Yok. Tüm sorular, kartlar, denemeler ve oyunlar ücretsizdir. Site, reklam geliriyle ayakta kalır; oyunlarda reklam gösterilmez.</p>
 <p><b>İnternetsiz çalışır mı?</b> Evet. Tarayıcı menüsünden "Ana ekrana ekle" dediğinde site telefona uygulama gibi kurulur, kendi simgesiyle açılır ve daha önce açtığın içerikler internet olmadan da çalışır.</p>
-<p><b>Android uygulaması var mı?</b> Evet. Aynı içerik <a href="${PLAY_ADRESI}" rel="noopener">Google Play'de ücretsiz Android uygulaması</a> olarak da yayında. Siteyi "Ana ekrana ekle" ile kurmak da aynı işi görür; ikisi arasında içerik farkı yoktur.</p>
+<p><b>Mobil uygulaması var mı?</b> Evet. Aynı içerik <a href="${PLAY_ADRESI}" rel="noopener">Google Play'de ücretsiz Android uygulaması</a> ve <a href="${APP_STORE_ADRESI}" rel="noopener">App Store'da ücretsiz iPhone uygulaması</a> olarak da yayında. Siteyi "Ana ekrana ekle" ile kurmak da aynı işi görür; üçü arasında içerik farkı yoktur.</p>
 <p><b>Sorular nereden geliyor?</b> Sorular, çözüm açıklamaları ve konu notları bu site için özgün olarak hazırlanır ve çok aşamalı bir denetimden geçirilir: her soru cevap anahtarı gizlenerek baştan yeniden çözülür, anahtarla çakışanlar ikinci kez incelenir, çelişkili bulunanlar bankadan çıkarılır. Bu denetim hata oranını belirgin biçimde düşürür ama sıfıra indirmez; gözden kaçmış yanlış cevap ya da eksik açıklama bulunabilir. Hatalı bulduğun soruyu soru kartındaki "Soruyu bildir" bağlantısıyla iletebilirsin; bildirilenler elden geçirilip düzeltilir. Hazırlanma yönteminin tamamı <a href="/hakkinda">Hakkında</a> sayfasında anlatılıyor.</p>
 <p><b>Puan hesaplayıcı ne kadar doğru?</b> Net hesabı kesindir. Puan ise tahmindir: ÖSYM netleri o yılki ortalama ve standart sapmaya göre standart puana çevirdiği için aynı net, yıllara göre farklı puan verir. Buradaki değerler geçmiş yıl istatistiklerinden türetilmiş tahminlerdir.</p>
 
@@ -1374,7 +1376,8 @@ ${Object.entries(gruplar)
 
 <p style="color:#667492;font-size:13px;margin-top:34px">
 <a href="/hakkinda">Hakkında</a> · <a href="/gizlilik">Gizlilik</a> · <a href="/iletisim">İletişim</a> ·
-<a href="${PLAY_ADRESI}" rel="noopener">Android uygulaması</a><br>
+<a href="${PLAY_ADRESI}" rel="noopener">Android uygulaması</a> ·
+<a href="${APP_STORE_ADRESI}" rel="noopener">iPhone uygulaması</a><br>
 ${DIPNOT_METIN}</p>
 </div>
 <script>
@@ -1512,7 +1515,7 @@ const UYGULAMA_ROTALARI = [
 <li>Günlük/haftalık hedef takibi, çalışma serisi ve istatistikler</li>
 </ul>
 <p>Üyelik gerekmez; ilerlemen yalnızca kendi cihazında saklanır ve istediğin an dışa aktarabilir ya da silebilirsin.</p>
-<p>Site telefonda da uygulama gibi kullanılabilir: tarayıcı menüsünden "Ana ekrana ekle" dediğinde kendi simgesiyle açılır, adres çubuğu olmadan tam ekran çalışır ve internet kesildiğinde de daha önce açtığın soru ve konular açılmaya devam eder. Mağazadan kurmayı tercih edersen aynı içerik <a href="${PLAY_ADRESI}" rel="noopener">Google Play'de Android uygulaması</a> olarak da ücretsiz yayında.</p>
+<p>Site telefonda da uygulama gibi kullanılabilir: tarayıcı menüsünden "Ana ekrana ekle" dediğinde kendi simgesiyle açılır, adres çubuğu olmadan tam ekran çalışır ve internet kesildiğinde de daha önce açtığın soru ve konular açılmaya devam eder. Mağazadan kurmayı tercih edersen aynı içerik <a href="${PLAY_ADRESI}" rel="noopener">Google Play'de Android uygulaması</a> ve <a href="${APP_STORE_ADRESI}" rel="noopener">App Store'da iPhone uygulaması</a> olarak da ücretsiz yayında.</p>
 <p>KPSS Akademi'nin içeriği tek tek elden geçirilerek hazırlanır. Sorular yalnızca cevap anahtarıyla değil, adım adım çözüm açıklamasıyla birlikte verilir; hatalı bulunan sorular kullanıcı bildirimleriyle düzeltilir. Bu yüzden iletişim sayfasındaki soru bildirimi bölümü, uygulamanın en çok işe yarayan parçalarından biridir.</p>
 <p>Puan hesaplamaları geçmiş yıl istatistiklerinden türetilmiş tahminlerdir; ÖSYM'nin resmî sonucu farklılık gösterebilir.</p>`,
   },

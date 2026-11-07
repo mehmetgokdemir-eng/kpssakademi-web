@@ -1,9 +1,9 @@
-/* Sağ yan şeritte duran Android uygulaması kartı.
+/* Sağ yan şeritte duran mobil uygulama kartı.
  *
- * Uygulama 28 Ekim 2026'da Google Play'de yayına girdi; YAYINDA true olduğu
- * sürece kart "Google Play'den indir" düğmesini gösterir. Listelemenin
- * kaldırılması gerekirse tek yapılacak bunu false çevirmek — siteyi dolaşan
- * bütün Play bağlantıları aynı bayrağa bağlı olduğu için hepsi birden kapanır.
+ * Android sürümü 28 Ekim 2026'da Google Play'de, iPhone sürümü Kasım 2026'da
+ * App Store'da yayına girdi. YAYINDA ve IOS_YAYINDA bayrakları siteyi dolaşan
+ * bütün mağaza bağlantılarını birden açıp kapatır; bir listeleme kaldırılırsa
+ * tek yapılacak ilgili bayrağı false çevirmek.
  *
  * Kart KAPATILAMAZ. Önceden kapatma düğmesi vardı; kart aylarca "çok yakında"
  * yazdığı için çoğu kullanıcı onu kapatmıştı ve uygulama yayına girdiğinde o
@@ -12,34 +12,83 @@
  */
 
 export const YAYINDA = true
+export const IOS_YAYINDA = true
 export const PLAY_ADRESI = 'https://play.google.com/store/apps/details?id=com.nihangokdemir.kpss'
+export const APP_STORE_ADRESI = 'https://apps.apple.com/tr/app/id6826406637'
 
-function IconAndroid({ size = 16 }) {
+/* Ziyaretçi iPhone ya da iPad'den giriyorsa doğru mağazayı seçer. Yalnızca
+   tek düğmeye yer olan yerlerde (değerlendirme daveti) kullanılıyor; yer
+   olan yerlerde iki mağaza da yan yana gösteriliyor. */
+export function iosCihaz() {
+  if (typeof navigator === 'undefined') return false
+  const ua = navigator.userAgent || ''
+  if (/iPhone|iPad|iPod/i.test(ua)) return true
+  // iPadOS kendini masaüstü Mac gibi tanıtır; dokunmatik nokta sayısı ayırt eder.
+  return /Macintosh/.test(ua) && navigator.maxTouchPoints > 1
+}
+export const magazaAdresi = () => (iosCihaz() ? APP_STORE_ADRESI : PLAY_ADRESI)
+export const magazaAdi = () => (iosCihaz() ? 'App Store' : 'Play Store')
+
+function IconTelefon({ size = 16 }) {
   return (
-    <svg width={size} height={size} viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-      <path d="M17.6 9.48a5.6 5.6 0 0 0-11.2 0v.02h11.2v-.02ZM8.9 7.2a.6.6 0 1 1 0-1.2.6.6 0 0 1 0 1.2Zm6.2 0a.6.6 0 1 1 0-1.2.6.6 0 0 1 0 1.2ZM6.7 6.3 5.6 4.6a.3.3 0 0 1 .5-.32l1.12 1.7a.3.3 0 0 1-.5.33Zm10.6 0a.3.3 0 0 1-.5-.33l1.12-1.7a.3.3 0 0 1 .5.32L17.3 6.3ZM4.9 10.6c-.72 0-1.3.58-1.3 1.3v4.9a1.3 1.3 0 0 0 2.6 0v-4.9c0-.72-.58-1.3-1.3-1.3Zm14.2 0c-.72 0-1.3.58-1.3 1.3v4.9a1.3 1.3 0 0 0 2.6 0v-4.9c0-.72-.58-1.3-1.3-1.3ZM6.4 10.6v7.7c0 .6.48 1.1 1.08 1.1h1.02v2.3a1.3 1.3 0 0 0 2.6 0v-2.3h1.8v2.3a1.3 1.3 0 0 0 2.6 0v-2.3h1.02c.6 0 1.08-.5 1.08-1.1v-7.7H6.4Z" />
+    <svg
+      width={size}
+      height={size}
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="2"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      aria-hidden="true"
+    >
+      <rect x="6" y="2" width="12" height="20" rx="2.5" />
+      <path d="M11 18.4h2" />
     </svg>
   )
 }
 
 export default function AndroidYakinda() {
+  const yayinda = YAYINDA || IOS_YAYINDA
+
   return (
     <div className="rounded-2xl border border-emerald-200/70 bg-emerald-50/70 p-3 dark:border-emerald-400/20 dark:bg-emerald-400/[0.07]">
       <div className="mb-1.5 flex items-start gap-2">
         <span className="grid h-7 w-7 shrink-0 place-items-center rounded-lg bg-emerald-600 text-white">
-          <IconAndroid size={16} />
+          <IconTelefon size={16} />
         </span>
-        <p className="flex-1 pt-0.5 text-[12px] font-bold leading-tight">Android uygulaması</p>
+        <p className="flex-1 pt-0.5 text-[12px] font-bold leading-tight">Mobil uygulama</p>
       </div>
 
-      {YAYINDA ? (
+      {yayinda ? (
         <>
           <p className="mb-2 text-[11px] leading-relaxed text-ink-500 dark:text-ink-400">
-            Google Play'de yayında. Aynı içerik, aynı ilerleme.
+            {YAYINDA && IOS_YAYINDA
+              ? "Google Play ve App Store'da yayında. Aynı içerik, aynı ilerleme."
+              : YAYINDA
+                ? "Google Play'de yayında. Aynı içerik, aynı ilerleme."
+                : "App Store'da yayında. Aynı içerik, aynı ilerleme."}
           </p>
-          <a href={PLAY_ADRESI} target="_blank" rel="noreferrer" className="btn-primary w-full !bg-emerald-600 !py-1.5 !text-[11px]">
-            Google Play'den indir
-          </a>
+          {YAYINDA && (
+            <a
+              href={PLAY_ADRESI}
+              target="_blank"
+              rel="noreferrer"
+              className="btn-primary w-full !bg-emerald-600 !py-1.5 !text-[11px]"
+            >
+              Google Play'den indir
+            </a>
+          )}
+          {IOS_YAYINDA && (
+            <a
+              href={APP_STORE_ADRESI}
+              target="_blank"
+              rel="noreferrer"
+              className="btn-primary mt-1.5 w-full !bg-emerald-600 !py-1.5 !text-[11px]"
+            >
+              App Store'dan indir
+            </a>
+          )}
         </>
       ) : (
         <>
@@ -47,7 +96,7 @@ export default function AndroidYakinda() {
             Çok yakında
           </span>
           <p className="text-[11px] leading-relaxed text-ink-500 dark:text-ink-400">
-            Google Play'de yayına hazırlanıyor. O zamana kadar siteyi telefonuna uygulama olarak
+            Mağazalarda yayına hazırlanıyor. O zamana kadar siteyi telefonuna uygulama olarak
             kurabilirsin — aynı şekilde çalışır, çevrimdışı da açılır.
           </p>
         </>

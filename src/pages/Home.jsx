@@ -11,7 +11,7 @@ import Reklam from '../components/Reklam.jsx'
 import DegerlendirmeIstegi from '../components/DegerlendirmeIstegi.jsx'
 import KocKarti from '../components/KocKarti.jsx'
 import KurulumBolumu from '../components/KurulumBolumu.jsx'
-import AndroidYakinda, { YAYINDA, PLAY_ADRESI } from '../components/AndroidYakinda.jsx'
+import AndroidYakinda, { YAYINDA, IOS_YAYINDA, PLAY_ADRESI, APP_STORE_ADRESI } from '../components/AndroidYakinda.jsx'
 import { tanitimiAc } from '../components/Onboarding.jsx'
 import {
   DersIkon,
@@ -299,6 +299,11 @@ export default function Home() {
         {YAYINDA && (
           <a href={PLAY_ADRESI} target="_blank" rel="noreferrer" className="hover:text-brand-600">
             Android uygulaması
+          </a>
+        )}
+        {IOS_YAYINDA && (
+          <a href={APP_STORE_ADRESI} target="_blank" rel="noreferrer" className="hover:text-brand-600">
+            iPhone uygulaması
           </a>
         )}
         <span>© {new Date().getFullYear()} KPSS Akademi</span>

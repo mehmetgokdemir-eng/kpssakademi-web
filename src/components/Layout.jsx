@@ -193,7 +193,7 @@ export default function Layout({ children }) {
             </div>
           </div>
         )}
-        {/* Sağdaki simetrik şerit — Android uygulaması duyurusu. */}
+        {/* Sağdaki simetrik şerit — mobil uygulama duyurusu. */}
         {!tamEkran && (
           <div className="pointer-events-none absolute inset-y-0 right-0 hidden w-48 px-2 min-[1400px]:block 2xl:w-60 2xl:px-4">
             <div className="pointer-events-auto sticky top-6">
